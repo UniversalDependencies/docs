@@ -11,9 +11,9 @@ This relation is universal.
 11 nodes (0%) are attached to their parents as `parataxis`.
 
 10 instances of `parataxis` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.54545454545455.
+Average distance between parent and child is 6.36363636363636.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (1; 9% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -71,51 +71,32 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 36 parataxis	color:blue
-1	İnsanları	insan	NOUN	Noun	Case=Acc|Number=Plur|Person=3	3	obj	_	_
-2	ikiye	iki	NUM	NNum	Case=Dat|Number=Sing|NumType=Card|Person=3	3	nummod	_	_
-3	ayırıyor	ayır	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	_
-4	annem	anne	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	nsubj	_	_
-5	(	(	PUNCT	Punc	_	15	punct	_	SpaceAfter=No
-6	sayacağı	say	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part	10	nsubj	_	_
-7	iki	iki	NUM	ANum	NumType=Card	8	nummod	_	_
-8	kalem	kalem	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obl	_	_
-9	de	de	CCONJ	Conj	_	8	advmod:emph	_	_
-10	olsa	ol	VERB	Verb	Aspect=Perf|Mood=Des|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	15	nmod	_	_
-11	mutlaka	mutlaka	ADV	Adverb	_	14	advmod	_	_
-12	parmaklarını	parmak	NOUN	Noun	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=2	14	obj	_	_
-13	avucuna	avuç	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	14	obl	_	_
-14	kapatarak	kapa	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Cau	15	nmod	_	_
-15	sayacak	say	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut	3	conj	_	SpaceAfter=No
-16	;	;	PUNCT	Punc	_	15	punct	_	_
-17	birincisi	birinci	NUM	NNum	Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Ord|Person=3|Person[psor]=3	18	amod	_	_
-18	yaşayan	yaşa	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	30	nmod	_	_
-19	lar	_	ADP	Zero	Case=Nom|Number=Plur|Person=3	18	case	_	_
-20	(	(	PUNCT	Punc	_	24	punct	_	SpaceAfter=No
-21	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	24	nsubj	_	_
-22	başkalarını	başka	ADJ	NAdj	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3	24	obj	_	_
-23	da	da	CCONJ	Conj	_	22	advmod:emph	_	_
-24	yaşatıyor	yaşa	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Cau	18	parataxis	_	SpaceAfter=No
-25	)	)	PUNCT	Punc	_	24	punct	_	SpaceAfter=No
-26	,	,	PUNCT	Punc	_	24	punct	_	_
-27	ikincisi	ikinci	NUM	NNum	Case=Nom|Number=Sing|Number[psor]=Sing|NumType=Ord|Person=3|Person[psor]=3	30	amod	_	_
-28	yaşayan	yaşa	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	30	obj	_	_
-29	ları	_	ADP	Zero	Case=Acc|Number=Plur|Person=3	28	case	_	_
-30	seyreden	seyret	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	3	nsubj	_	_
-31	ler	_	ADP	Zero	Case=Nom|Number=Plur|Person=3	30	case	_	_
-32	(	(	PUNCT	Punc	_	30	punct	_	SpaceAfter=No
-33	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	36	nsubj	_	_
-34	da	da	CCONJ	Conj	_	33	advmod:emph	_	_
-35	başkalarının	başka	ADJ	NAdj	Case=Gen|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	36	nmod:poss	_	_
-36	sırtına	sırt	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	31	parataxis	_	_
-37	yük	yük	NOUN	Noun	Case=Nom|Number=Sing|Person=3	36	compound	_	_
-38	oluyorlar	ol	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	36	compound	_	SpaceAfter=No
-39	)	)	PUNCT	Punc	_	30	punct	_	SpaceAfter=No
-40	.	.	PUNCT	Punc	_	30	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 parataxis	color:blue
+1	Yedi	yedi	NUM	ANum	NumType=Card	2	nummod	_	_
+2	saat	saat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
+3	lik	lik	ADP	Ness	Case=Nom|Number=Sing|Person=3	2	case	_	_
+4	yolculuk	yolculuk	NOUN	Noun	Case=Nom|Number=Sing|Person=3	17	obl	_	_
+5	boyunca	boyunca	ADP	PCNom	_	4	case	_	SpaceAfter=No
+6	-	-	PUNCT	Punc	_	20	punct	_	SpaceAfter=No
+7	ki	ki	CCONJ	Conj	_	10	nmod	_	_
+8	yetmiş	yetmiş	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	10	obj	_	_
+9	kilometre	kilometre	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	compound	_	_
+10	kat	kat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	parataxis	_	_
+11	edecektik	et	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut,Past	10	compound	_	SpaceAfter=No
+12	-	-	PUNCT	Punc	_	20	punct	_	SpaceAfter=No
+13	bir	bir	NUM	ANum	NumType=Card	15	nummod	_	_
+14	tek	tek	ADJ	Adj	_	13	compound	_	_
+15	eve	ev	NOUN	Noun	Case=Dat|Number=Sing|Person=3	16	obl	_	_
+16	rastlamanın	rastla	VERB	Verb	Aspect=Perf|Case=Gen|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	17	nsubj	_	_
+17	mümkün	mümkün	ADJ	Adj	_	20	amod	_	_
+18	olmadığı	ol	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	17	compound:lvc	_	_
+19	bir	bir	NUM	ANum	NumType=Card	20	det	_	_
+20	coğrafya	coğrafya	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	Punc	_	20	punct	_	_
 
 ~~~
 

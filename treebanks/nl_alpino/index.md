@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Dutch Alpino
 
-Language: [Dutch](../nl/overview/nl-hub.html) (code: `nl`)<br/>
+Language: [Dutch](/nl/index.html) (code: `nl`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-Alpino](https://github.com/UniversalDependencies/UD_Dutch-Alpino)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,7 +77,7 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 
 ## Relations
 
-[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat:name](nl_alpino-dep-flat-name.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
+[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -166,165 +167,151 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Com
-      <ul>
-        <li>NOUN: heer, plaats, tijd, minister, flo, stad, man, dag, week, politie</li>
-        <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, God</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Com
+    <ul>
+      <li>NOUN: heer, plaats, tijd, minister, flo, stad, man, dag, week, politie</li>
+      <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, God</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Com,Neut
-      <ul>
-        <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, aperitief</li>
-        <li>PROPN: Estonia, Financien, ARJOS, Beernink, Eeg, IOS, Munchen, SAR, VHO, Van</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Com,Neut
+    <ul>
+      <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, aperitief</li>
+      <li>PROPN: Estonia, Financien, ARJOS, Beernink, Eeg, IOS, Munchen, SAR, VHO, Van</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>NOUN: jaar, land, uur, aantal, deel, procent, huis, miljoen, werk, leven</li>
-        <li>PROPN: Nederland, Amsterdam, Groningen, Rotterdam, Europa, Engeland, Aduard, Frankrijk, Utrecht, Ajax</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>NOUN: jaar, land, uur, aantal, deel, procent, huis, miljoen, werk, leven</li>
+      <li>PROPN: Nederland, Amsterdam, Groningen, Rotterdam, Europa, Engeland, Aduard, Frankrijk, Utrecht, Ajax</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>AUX-Fin: zijn, hebben, worden, zullen, waren, werden, kunnen, zouden, moeten, hadden</li>
+      <li>NOUN: mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</li>
+      <li>PROPN: Italianen, Nederlanders, Egyptenaren, GGD-en, Surinamers, Chinezen, Europeanen, Friezen, Joden, Palestijnen</li>
+      <li>VERB-Fin: hebben, zijn, gaan, willen, komen, kwamen, hadden, krijgen, waren, konden</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>AUX-Fin: zijn, hebben, worden, zullen, waren, werden, kunnen, zouden, moeten, hadden</li>
-        <li>NOUN: mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</li>
-        <li>PROPN: Italianen, Nederlanders, Egyptenaren, GGD-en, Surinamers, Chinezen, Europeanen, Friezen, Joden, Palestijnen</li>
-        <li>VERB-Fin: hebben, zijn, gaan, willen, komen, kwamen, hadden, krijgen, waren, konden</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, heet</li>
+      <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
+      <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
+      <li>VERB-Fin: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, staat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, heet</li>
-        <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
-        <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
-        <li>VERB-Fin: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, staat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: zich, hem, me, ons, mij, elkaar, haar, hen, je, zichzelf</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: dien, dezen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: zich, hem, me, ons, mij, elkaar, haar, hen, je, zichzelf</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Gen
+    <ul>
+      <li>PRON: uwer, zijner</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>PRON: dien, dezen</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>PRON: beider, uwer, zijner</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: hij, ik, we, men, je, zij, wij, u, jij, ie</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: hij, ik, we, men, je, zij, wij, u, jij, ie</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: de, het, der, 's, 't, den, des, dé</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: de, het, der, 's, 't, den, des, dé</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: een, 'n, en</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: een, 'n, en</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: verder, beter, later, jongeren, langer, groter, grotere, hoger, vroeger, vroegere</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: verder, beter, later, jongeren, langer, groter, grotere, hoger, vroeger, vroegere</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, hoogst, jongste, voornaamste, oudste</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, hoogst, jongste, voornaamste, oudste</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -333,143 +320,126 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 
 
 
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: was, werd, zou, had, waren, werden, kon, zouden, moest, hadden</li>
+      <li>VERB-Fin: zei, kwam, had, was, vond, kreeg, vroeg, maakte, won, ging</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: was, werd, zou, had, waren, werden, kon, zouden, moest, hadden</li>
-        <li>VERB-Fin: zei, kwam, had, was, vond, kreeg, vroeg, maakte, won, ging</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, moet, heet, heb</li>
-        <li>VERB-Fin: heeft, komt, wil, is, gaat, noemt, ligt, hebben, zijn, staat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, moet, heet, heb</li>
+      <li>VERB-Fin: heeft, komt, wil, is, gaat, noemt, ligt, hebben, zijn, staat</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: dat, dit, die, deze, zo'n, degenen, datgene, degene, zulke, dien</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: dat, dit, die, deze, zo'n, degenen, datgene, degene, zulke, dien</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>PRON: meer, veel, minder, weinig, iets, vele, niets, wat, meest, alles</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: meer, veel, minder, weinig, iets, vele, niets, wat, meest, alles</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>PRON: wat, wie, welke, welk</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: wat, wie, welke, welk</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: hij, ik, het, zijn, zich, ze, we, je, men, hun</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: hij, ik, het, zijn, zich, ze, we, je, men, hun</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: elkaar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: elkaar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: die, dat, hetgeen, hetgene</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: die, dat, hetgeen, hetgene</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: zich, zichzelf</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: zich, zichzelf</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: hij, het, dat, zijn, wat, zich, ze, wie, men, hun</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: hij, het, dat, zijn, wat, zich, ze, wie, men, hun</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -477,25 +447,29 @@ The conversion script can be found here: https://github.com/gossebouma/lassy2ud
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: o.a., jl., o.m., a.s., etc., v.j., enz., b.v., e.d., j.l.</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: o.a., jl., o.m., a.s., etc., v.j., enz., b.v., e.d., j.l.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: fancy, a, the, and, front, to, National, be, fiction, flo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: fancy, a, the, and, front, to, National, be, fiction, flo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -598,7 +572,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

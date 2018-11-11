@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Επίσης	επίσης	ADV	ADV	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	δύο	δύο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	nummod	_	_
-4	σπίτια	σπίτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+4	σπίτια	σπίτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj:pass	_	_
 5	σ	σε	ADP	AsPpSp	_	7	case	_	_
 6	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
 7	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_

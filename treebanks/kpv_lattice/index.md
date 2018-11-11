@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Komi Zyrian Lattice
 
-Language: [Komi Zyrian](../kpv/overview/kpv-hub.html) (code: `kpv`)<br/>
+Language: [Komi Zyrian](/kpv/index.html) (code: `kpv`)<br/>
 Family: Uralic, Permic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -41,19 +42,35 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD Komi-Zyrian Lattice is a treebank of written standard Komi-Zyrian. The treebank contains continuous texts which are identifiable through the id's.
+UD Komi-Zyrian Lattice is a treebank of written standard Komi-Zyrian.
 
 
 
-The written language data is all from openly available sources. One of the larger segments come from Lev Uspenskiy's book *Нёль боевӧй случай* (URN http://urn.fi/URN:NBN:fi-fe2014102045428), which is released in Public Domain, and Ivan Belyx's short story which was added into [Komi Nebögain online library](http://komikyv.org) by the author in 2013.
+The treebank contains continuous texts in the written Komi-Zyrian language. All of the data comes from openly available sources. The largest segments are from Lev Uspenskiy's book *Нёль боевӧй случай* (URN http://urn.fi/URN:NBN:fi-fe2014102045428), which was digitalized in the National Library of Finland's [Fenno-Ugrica](https://fennougrica.kansalliskirjasto.fi/) project, and Ivan Belyx's short story which was added to [Komi Nebögain online library](http://komikyv.org) by the author himself in 2013. Some articles from the newspaper [Выль туйӧд's 1939 number 67](http://urn.fi/URN:NBN:fi-fe201802013020) have also been included as complete texts. Several texts are used for individual examples, and these are marked with the tag `-ind`, to distinguish them from the running text. The complete list of sources with additional information and further links is available in this README file below.
 
 ## Acknowledgments
 
-This work has been developed in the framework of the LAKME project funded by a grant from Paris Sciences et Lettres (IDEX PSL reference ANR-10-IDEX-0001-02). Thierry Poibeau is also partially supported by a RGNF-CNRS (grant between the LATTICE-CNRS Laboratory and the Russian State University for the Humanities in Moscow). The work was done in collaboration with Kone Foundation funded [IKDP-2](langdoc.github.io/IKDP-2) research project.
+This work has been developed within the framework of the LAKME project funded by a grant from Paris Sciences et Lettres (IDEX PSL reference ANR-10-IDEX-0001-02). Thierry Poibeau is also partially supported by a RGNF-CNRS (grant between the LATTICE-CNRS Laboratory and the Russian State University for the Humanities in Moscow). The work was done in collaboration with the Kone Foundation-funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](langdoc.github.io/IKDP-2).
 
-## References
+If you use this treebank in your work, please cite:
 
-* (citation)
+- Partanen, Niko; Blokland, Rogier; Lim, KyungTae; Poibeau, Thierry and Rießler, Michael 2018: [First Komi-Zyrian Universal Dependencies Treebanks](http://universaldependencies.org/udw18/PDFs/28_Paper.pdf). Proceedings of the Second Workshop on Universal Dependencies (UDW 2018) (pp. 126-132).
+
+## Sources used
+
+| Sentence id start | Publication name | Publishing year | Link to Fenno-Ugrica | Link to Komi Nebögain |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| belykh1997a | Иван Белых 1997: Шера зэр | 1997 | | http://komikyv.org/kpv/content/шера-зэр |
+| belykh2005a | Иван Белых 2005: Таысь унаыс оз и ков | 2005 | | http://komikyv.org/kpv/node/26865 |
+| falkner1927a | Фалькнер В.Н. 1927: Лоам ми ёнӧсь, дзоньвидзаӧсь да!: мӧд нига" | 1927 | http://urn.fi/URN:NBN:fi-fe2014102045431 | http://komikyv.org/kpv/contents/loam-mi-yonos-dzonvidzaos-da | |
+| goffensefer1927a | Гоффеншефер С. 1927: Чакотка | 1927 | http://urn.fi/URN:NBN:fi-fe201604159701 | http://komikyv.org/kpv/contents/chahotka |
+| koskabyr1925a | Кос Кабыр 1925: Мувыв тӧдмалӧм. Медводдза нига = Ывлавыв тӧдмалӧм. Арся уджъяс. | 1925 | http://urn.fi/URN:NBN:fi-fe2014070132058 | http://komikyv.org/kpv/contents/yvlavyv-todmalom-1 |
+| kpv_1-7_Vyl_tujod_1939_09_10_0001 | Выль туйӧд 9.10.1939, page 1 | 1939 | http://urn.fi/URN:NBN:fi-fe201802013020 | | |
+| kpv_1-7_Vyl_tujod_1939_09_10_0002 | Выль туйӧд 9.10.1939, page 2 | 1939 | http://urn.fi/URN:NBN:fi-fe201802013020 | | |
+| rossinskiy1925a | Российскӧй Д. 1925: Гут разӧдӧ висьӧмъяс | 1925 | http://urn.fi/URN:NBN:fi-fe2014070332096 | http://komikyv.org/kpv/content/гут-разӧдӧ-висьӧмъяс |
+| uspensky1940a | Успенский, Лев 1940: Нёль боевӧй случай | 1940 | http://urn.fi/URN:NBN:fi-fe2014102045428 | | |
+
+
 
 # Statistics of UD Komi Zyrian Lattice
 
@@ -63,21 +80,21 @@ This work has been developed in the framework of the LAKME project funded by a g
 
 ## Features
 
-[Case](kpv_lattice-feat-Case.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Tense](kpv_lattice-feat-Tense.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
+[Case](kpv_lattice-feat-Case.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [Mood](kpv_lattice-feat-Mood.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
 
 ## Relations
 
-[acl](kpv_lattice-dep-acl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
+[acl](kpv_lattice-dep-acl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [goeswith](kpv_lattice-dep-goeswith.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 155 sentences and 1389 tokens.</li>
+<li>This corpus contains 190 sentences and 2017 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 255 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 340 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -85,7 +102,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
-<li>This corpus contains 14 types of words that contain both letters and punctuation. Examples: Гым-биясыс, асыв-войвывсянь, асыв-войвывсяньыс, вын-эбӧстӧ, вын-эбӧсӧй, гымавны-чардавны, гымаліс-чардаліс, зэрны-гымавны, кӧм-паськӧмӧс, оз-ӧ, сикт-грездын, сідз-тадз, тӧв·нырыс, шур-шар</li>
+<li>This corpus contains 17 types of words that contain both letters and punctuation. Examples: Гым-биясыс, агитационно-массӧвӧй, асыв-войвывсянь, асыв-войвывсяньыс, вын-эбӧстӧ, вын-эбӧсӧй, гымавны-чардавны, гымаліс-чардаліс, зэрны-гымавны, кӧм-паськӧмӧс, оз-ӧ, п​а​р​т​и​й​н​о​-​к​о​м​с​о​м​о​л​ь​с​к​ӧ​й, с.в., сикт-грездын, сідз-тадз, тӧв·нырыс, шур-шар</li>
 </ul>
 
 <ul>
@@ -101,11 +118,11 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
-<li>This corpus contains 19 word types tagged as particles (PART): Кӧть, Ну, абу, абуӧсь, быттьӧ, вот, да, жӧ, и, медся, мися, не, ни, нӧ, пӧ, самӧй, со, эськӧ, ӧд</li>
+<li>This corpus contains 21 word types tagged as particles (PART): Кӧть, Но, Ну, абу, абуӧсь, быттьӧ, вот, да, жӧ, и, медся, мися, не, ни, нӧ, пӧ, самӧй, со, сӧмын, эськӧ, ӧд</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as pronouns (PRON): ас, коді, кутшӧм, ме, ми, мый, мыйкӧ, мыйлакӧ, мӧд, найӧ, некод, нем, нинӧм, став, сы, сійӧ, тайӧ, тэ, ті</li>
+<li>This corpus contains 26 lemmas tagged as pronouns (PRON): ас, быд, быдӧн, коді, кутшӧм, ме, ми, мый, мыйкӧ, мыйлакӧ, мӧд, найӧ, некод, некутшӧм, нем, нинӧм, ниӧти, став, сы, сэтшӧм, сійӧ, тайӧ, татшӧм, тэ, ті, ӧткымын</li>
 </ul>
 
 <ul>
@@ -113,7 +130,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: став</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: быд, став</li>
 </ul>
 
 <ul>
@@ -125,13 +142,13 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: горзігтырйи, дугдывтӧг, Гымалігад, Зэригас, Мунігмозыс, Тӧдлытӧг, видзӧдігмоз, виччысьтӧг, жалиттӧг, петігӧн</li>
+    <li>VERB: горзігтырйи, дугдывтӧг, Гымалігад, Зэригас, Мунігмозыс, Тӧдлытӧг, видзӧдігмоз, виччысьтӧг, воодушедитчӧмӧн, жалиттӧг</li>
   </ul>
   </li>
 </ul>
@@ -139,8 +156,16 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: эз, вӧлі, оз, он, эг, лоис, лолі, ог, оз-ӧ, эн</li>
-    <li>VERB: кутіс, лои, вешйис, воис, думайта, колӧ, кыліс, лӧнис, мӧдӧдчи, тыдовтчис</li>
+    <li>AUX: эз, оз, вӧлі, ог, он, эг, лоас, вӧлӧма, лоис, лолі</li>
+    <li>VERB: колӧ, кутіс, воис, лои, вешйис, думайта, идралӧма, ковмас, мунӧ, висьталӧны</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ger
+  <ul>
+    <li>VERB: Вундігӧн, тэчыгӧн</li>
   </ul>
   </li>
 </ul>
@@ -148,7 +173,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: восьлавны, мунны, воӧдчыны, вӧчны, дзебсьыны, кайны, Пукавны, бергӧдчыныс, быдмыны, вермыны</li>
+    <li>VERB: лоны, восьлавны, мунны, воӧдчыны, вӧчны, дзебсьыны, индыны, кайны, Пукавны, бергӧдчыныс</li>
   </ul>
   </li>
 </ul>
@@ -156,8 +181,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Part
   <ul>
-    <li>NOUN: грымгӧм, лыйлӧм</li>
-    <li>VERB: вооружитчӧм, горзӧмъяс, гӧгӧрвотӧмыс, жугласьӧм, командуйтысь, кулӧм, курччӧмӧн, кӧтасьӧм, ловтӧм, локтысь</li>
+    <li>VERB: идралӧм, идралӧмын, босьтӧм, вартӧм, виччысь, вооружитчӧм, воӧм, горзӧмъяс, грымгӧм, гӧгӧрвотӧмыс</li>
   </ul>
   </li>
 </ul>
@@ -174,11 +198,15 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: кодьӧсь, ловъяӧсь, отаджыкӧсь</li>
-      <li>AUX: эмӧсь</li>
-      <li>NOUN: казакъяс, белӧйяс, взрывъяслӧн, винтовкаяслӧн, краснӧйяслӧн, пуляясыс, торъясӧн, Гым-биясыс, армияясӧс, баляяс</li>
+      <li>ADJ: кодьӧсь, ловъяӧсь, обязанӧсь, долженӧсь, отаджыкӧсь</li>
+      <li>AUX: эмӧсь, эз</li>
+      <li>AUX-Fin: эз</li>
+      <li>NOUN: председательяс, казакъяс, культураяс, машинаяс, белӧйяс, колхозникъяс, колхозницаяс, колхозъясын, пуляясыс, торъясӧн</li>
       <li>PART: абуӧсь</li>
-      <li>PRON: кодъяс</li>
+      <li>PRON: миян, кодъяс, ми, миянлысь, найӧ, Налӧн, тіянӧс</li>
+      <li>VERB: новлӧдлӧны, тыдовтчисны, тӧдӧны, Водінныд, Вошим, Сюринныд, аддзисны, босьтісны, вермисны, веськалӧны</li>
+      <li>VERB-Fin: новлӧдлӧны, тыдовтчисны, тӧдӧны, Водінныд, Вошим, Сюринныд, аддзисны, босьтісны, вермисны, веськалӧны</li>
+      <li>VERB-Part: горзӧмъяс, лыйсьӧмъяс</li>
     </ul>
   </li>
 </ul>
@@ -186,17 +214,21 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ичӧтик, боевӧй, краснӧй, важ, векньыдик, гырысь, задньӧй, казацкӧй, кодь, пӧсь</li>
-      <li>ADP: йылысь, вылӧ, вылын, бӧрся, весьтын, водзын, вылас, кежысь, боксянь, бӧрын</li>
-      <li>ADV: кӧні, бокӧ, водзӧ, вылісянь, уна, унакодь, этша</li>
-      <li>AUX: вӧв</li>
+      <li>ADJ: ичӧтик, колхозъясса, ыджыд, боевӧй, великӧй, краснӧй, сиктса, большевистскӧй, важ, векньыдик</li>
+      <li>ADP: вылӧ, йылысь, вылын, дінӧ, бӧрся, весьтын, водзын, вылас, вылысь, кежысь</li>
+      <li>ADV: кӧні, бӧрӧ, водзӧ, бокӧ, вылісянь, уна, унакодь, шудаӧн, этша</li>
+      <li>AUX: вӧлі, вӧв, лоас, вӧлӧма, лолі</li>
+      <li>AUX-Fin: вӧлі, лоас, вӧлӧма, лолі</li>
       <li>DET: став, ставыс</li>
-      <li>NOUN: шоферыс, броневик, ва, командир, лун, туйыс, тӧв, шерыс, эрд, ёрт</li>
-      <li>NUM: кык, ӧти</li>
-      <li>PRON: тайӧ, коді, нинӧм, Некод, Став, кодлыськӧ, мӧд, нем, ставныс, ставсӧ</li>
-      <li>PROPN: Ворошилов, Климент, Ефремович, Мӧдлапӧлысь, Валентина, Волгалань, Ворошиловӧс, Ефремовичкӧд, Ивановна, Максимлы</li>
-      <li>VERB: кут, петкӧдлы, тыдав, тӧд, тӧр, Гымалігад, Зэригас, вермы, вӧв, дзебсясь</li>
-      <li>VERB-Conv: Гымалігад, Зэригас, петігӧн, петӧмӧн</li>
+      <li>NOUN: урожай, удж, лун, шоферыс, враг, му, нянь, шеп, ёрт, броневик</li>
+      <li>NUM: 12-20, 16, 18, 1940, 29, 3, 4, 5, 859, кык</li>
+      <li>PRON: сійӧ, тайӧ, сы, коді, сэтшӧм, став, тэ, ме, некутшӧм, сылӧн</li>
+      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Мӧдлапӧлысь, Сталин, Валентина, Волгалань, Ворошиловӧс, Ефремовичкӧд</li>
+      <li>VERB: идралӧм, вермы, идралӧмын, колӧ, кутіс, воис, лои, вешйис, думайта, идралӧма</li>
+      <li>VERB-Conv: Гымалігад, Зэригас, петігӧн</li>
+      <li>VERB-Fin: колӧ, кутіс, воис, лои, вешйис, думайта, идралӧма, ковмас, мунӧ, вӧлі</li>
+      <li>VERB-Ger: Вундігӧн, тэчыгӧн</li>
+      <li>VERB-Part: идралӧм, идралӧмын, босьтӧм, вартӧм, виччысь, вооружитчӧм, воӧм, грымгӧм, жугласьӧм, кольччӧмлӧн</li>
     </ul>
   </li>
 </ul>
@@ -208,8 +240,8 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: ходлысь</li>
-      <li>PRON: кодлыськӧ, миянлысь</li>
+      <li>NOUN: воинлысь, колхозниклысь, овмӧслысь, ходлысь</li>
+      <li>PRON: миянлысь, кодлыськӧ</li>
     </ul>
   </li>
 </ul>
@@ -217,9 +249,12 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Acc
     <ul>
-      <li>NOUN: Комиссарӧс, армияясӧс, боецъясӧс, бӧжсӧ, вевтсӧ, воськовъясӧс, врагъясӧс, вын-эбӧстӧ, вӧвъясӧс, керка</li>
-      <li>PRON: сійӧс, найӧясӧс, ставсӧ, тайӧс, тіянӧс</li>
-      <li>PROPN: Ворошиловӧс</li>
+      <li>ADJ: ыджыд, дженьыд, почетнӧй, решительнӧй, священнӧй, социалистическӧй, сӧстӧм, чорыдджыкӧс</li>
+      <li>NOUN: урожай, машинаяс, ним, олӧмӧс, удж, Армия, Комиссарӧс, армияясӧс, боецъясӧс, бӧжсӧ</li>
+      <li>NUM: 12-20, 3</li>
+      <li>PRON: сійӧс, менӧ, ачымӧс, кодӧс, найӧс, найӧясӧс, ставсӧ, тайӧс, тіянӧс</li>
+      <li>PROPN: Ворошиловӧс, Сталин</li>
+      <li>VERB-Part: идралӧм, нюжмасьӧм, октӧм, ордйысьӧм</li>
     </ul>
   </li>
 </ul>
@@ -235,9 +270,18 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
+  <li>Car
+    <ul>
+      <li>NOUN: вошӧмъястӧг, уджтӧг</li>
+      <li>VERB: вошӧмъястӧг</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Com
     <ul>
-      <li>NOUN: ныркӧд</li>
+      <li>NOUN: вошӧмъяскӧд, ныркӧд, председательяскӧд, фактъясыскӧд</li>
       <li>PROPN: Ефремовичкӧд</li>
     </ul>
   </li>
@@ -246,8 +290,8 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: белӧйяслы, велӧдысьлы, сиктсаяслы</li>
-      <li>PRON: меным, миянлы, сылы</li>
+      <li>NOUN: белӧйяслы, велӧдысьлы, самурайяслы, сиктсаяслы</li>
+      <li>PRON: быдӧнлы, меным, миянлы, сылы</li>
       <li>PROPN: Максимлы, Машалы</li>
     </ul>
   </li>
@@ -258,7 +302,28 @@ This work has been developed in the framework of the LAKME project funded by a g
     <ul>
       <li>ADP: боксянь</li>
       <li>ADV: ылысянь, вылісянь</li>
-      <li>NOUN: асыв-войвывсянь, асыв-войвывсяньыс, юсянь</li>
+      <li>NOUN: Колхозъяссянь, асыв-войвывсянь, асыв-войвывсяньыс, юсянь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ela
+    <ul>
+      <li>ADP: вылысь, йылысь</li>
+      <li>ADV: выльысь</li>
+      <li>NOUN: Зэрсьыс, бойысь, воротаысь, воротаяссьыс, вынсьыс, калиткаяссьыс, кежысь, орудиеысь, пельяссьыс, перепонкаясыс</li>
+      <li>PRON: Мыйысь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>NOUN: Ворошиловлӧн, взрывъяслӧн, винтовкаяслӧн, йӧзлӧн, краснӧйяслӧн, мортлӧн, томйӧзлӧн, шерыслӧн, ёртлӧн</li>
+      <li>PRON: сылӧн, Налӧн, аслас, миян</li>
+      <li>VERB-Part: кольччӧмлӧн</li>
     </ul>
   </li>
 </ul>
@@ -266,9 +331,9 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Ill
     <ul>
-      <li>ADP: вылӧ, вылас, дорӧ, дінӧ, ордӧ, уланыс, улӧ</li>
-      <li>ADV: ӧдйӧ, весьшӧрӧ, бокӧ, водзӧ, Кытчӧ, Ньӧжйӧник, кытчӧкӧ, матӧджык, ӧдйӧджык</li>
-      <li>NOUN: разведкаӧ, Керкаӧ, бойӧ, броневикӧ, висьтӧ, горшӧ, канаваӧ, книгаас, переулокъясас, переулокӧ</li>
+      <li>ADP: вылӧ, дінӧ, вылас, дорӧ, кежлӧ, ордӧ, уланыс, улӧ</li>
+      <li>ADV: ӧдйӧ, весьшӧрӧ, бокӧ, Кытчӧ, Ньӧжйӧник, бӧрӧ, водзӧ, кытчӧкӧ, матӧджык, ӧдйӧджык</li>
+      <li>NOUN: аскадӧ, воӧ, радӧ, разведкаӧ, тышӧ, Керкаӧ, амбаръясӧ, бойӧ, броневикӧ, висьтӧ</li>
       <li>VERB-Conv: Гымалігад, Зэригас</li>
     </ul>
   </li>
@@ -277,9 +342,11 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Ine
     <ul>
-      <li>ADP: вылын, весьтын, водзын, улын, бӧрын, вылас, дінас, йылын, помас, пытшкас</li>
-      <li>ADV: Медбӧрын, бӧрын, кӧні</li>
-      <li>NOUN: Гортад, Енэжын, асылын, вадорын, каръясын, лунъясын, олӧмас, пывсянъясын, сикт-грездын, странаын</li>
+      <li>ADP: вылын, весьтын, водзын, улын, бӧрын, вылас, вылысь, дінас, йылын, помас</li>
+      <li>ADV: Медбӧрын, кӧні, бӧрын</li>
+      <li>NOUN: колхозъясын, районын, Гортад, Енэжын, асылын, вадорын, воын, вылын, каръясын, лунъясын</li>
+      <li>PRON: сыын, ӧткымын</li>
+      <li>VERB-Part: идралӧмын</li>
     </ul>
   </li>
 </ul>
@@ -287,12 +354,14 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: йӧйӧн, коланаӧн</li>
-      <li>ADV: вочасӧн, орччӧн</li>
-      <li>NOUN: быдӧн, командирӧн, корӧсьӧн, торъясӧн, армияӧн, большевикӧн, делӧӧн, зэрӧн, луннас, могӧн</li>
+      <li>ADJ: йӧйӧн, ковтӧмӧн, коланаӧн, ӧткаӧн</li>
+      <li>ADP: чӧжӧн</li>
+      <li>ADV: вочасӧн, Аскинас, орччӧн, шудаӧн</li>
+      <li>NOUN: быдӧн, командирӧн, корӧсьӧн, нагрузкаӧн, торъясӧн, армияӧн, большевикӧн, воинӧн, делӧӧн, зэрӧн</li>
+      <li>PRON: некодӧн</li>
       <li>PROPN: Сталинградӧн</li>
-      <li>VERB-Conv: петігӧн, петӧмӧн</li>
-      <li>VERB-Part: курччӧмӧн</li>
+      <li>VERB-Conv: воодушедитчӧмӧн, курччӧмӧн, петігӧн, петӧмӧн, помасьӧмӧн</li>
+      <li>VERB-Ger: Вундігӧн, тэчыгӧн</li>
     </ul>
   </li>
 </ul>
@@ -300,14 +369,17 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ичӧтик, боевӧй, краснӧй, важ, векньыдик, гырысь, задньӧй, казацкӧй, кодь, пӧсь</li>
+      <li>ADJ: ичӧтик, колхозъясса, боевӧй, великӧй, краснӧй, сиктса, ыджыд, большевистскӧй, важ, векньыдик</li>
       <li>ADP: кодь</li>
       <li>ADV: уна, унакодь, этша</li>
       <li>DET: став, ставыс</li>
-      <li>NOUN: шоферыс, броневик, ва, казакъяс, командир, лун, туйыс, шерыс, эрд, ёрт</li>
-      <li>NUM: кык, ӧти</li>
-      <li>PRON: сійӧ, мый, тайӧ, ми, кодъяс, коді, мыйкӧ, найӧ, нинӧм, тэ</li>
-      <li>PROPN: Ворошилов, Климент, Ефремович, Валентина, Ивановна, Оборона, Царицын, Эжва</li>
+      <li>NOUN: урожай, лун, председательяс, шоферыс, враг, му, нянь, удж, шеп, ёрт</li>
+      <li>NUM: 16, 18, 1940, 29, 4, 5, 859, кык, ӧти</li>
+      <li>PRON: сійӧ, тайӧ, мый, сы, коді, сэтшӧм, кодъяс, миян, став, тэ</li>
+      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Валентина, Ивановна, Калинин, Оборона, Сталин, Хасан</li>
+      <li>VERB: идралӧм, босьтӧм, вартӧм, вооружитчӧм, воӧм, вундан, горзӧмъяс, грымгӧм, жугласьӧм, кольӧм</li>
+      <li>VERB-Conv: тэрмасьӧмӧн</li>
+      <li>VERB-Part: идралӧм, босьтӧм, вартӧм, вооружитчӧм, воӧм, горзӧмъяс, грымгӧм, жугласьӧм, кольӧм, кулӧм</li>
     </ul>
   </li>
 </ul>
@@ -324,7 +396,7 @@ This work has been developed in the framework of the LAKME project funded by a g
   <li>Ter
     <ul>
       <li>ADP: весьтӧдз</li>
-      <li>ADV: дзикӧдз</li>
+      <li>ADV: дзикӧдз, ӧнӧдз</li>
       <li>NOUN: гортӧдз, бергӧдчанінӧдзыс, ваӧдз, зэрӧдзыс</li>
     </ul>
   </li>
@@ -351,8 +423,16 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: лёкджык, отаджыкӧсь</li>
-      <li>ADV: Тэрыбджыка, водзджык, кокниджыка, надзӧнджык, матӧджык, ӧдйӧджык</li>
+      <li>ADJ: лёкджык, отаджыкӧсь, чорыдджыкӧс</li>
+      <li>ADV: Тэрыбджыка, водзджык, надзӧнджык, унджык, кокниджыка, матӧджык, ӧдйӧджык</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: колхозъясса, ыджыд, великӧй, сиктса, большевистскӧй, зерновӧй, ичӧтик, неыджыд, сельсӧветъясса, ставсоюзса</li>
     </ul>
   </li>
 </ul>
@@ -364,15 +444,15 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ: неыджыд, Неылысса</li>
+      <li>ADJ: неыджыд, Неылысса, некутшӧм</li>
       <li>ADV: недыр, некор, неуна</li>
-      <li>AUX-Fin: эз, оз, он, эг, ог, оз-ӧ, эн</li>
+      <li>AUX-Fin: эз, оз, ог, он, эг, оз-ӧ, эн</li>
       <li>NOUN: Неприятель</li>
-      <li>PART: не</li>
-      <li>PRON: нинӧм, Некод, нем</li>
+      <li>PART: ни, не</li>
+      <li>PRON: некутшӧм, нинӧм, Некод, некодӧн, нем</li>
       <li>VERB-Conv: дугдывтӧг, Тӧдлытӧг, виччысьтӧг, жалиттӧг, чинтытӧг</li>
       <li>VERB-Fin: ог</li>
-      <li>VERB-Part: гӧгӧрвотӧмыс, ловтӧм</li>
+      <li>VERB-Part: гӧгӧрвотӧмыс</li>
     </ul>
   </li>
 </ul>
@@ -387,10 +467,18 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: Кутчысь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: эз, вӧлі, оз, он, эг, лоис, лолі, ог, оз-ӧ, эн</li>
-      <li>VERB-Fin: кутіс, лои, вешйис, воис, думайта, колӧ, кыліс, лӧнис, мӧдӧдчи, тыдовтчис</li>
+      <li>AUX-Fin: эз, оз, вӧлі, ог, он, эг, лоас, вӧлӧма, лоис, лолі</li>
+      <li>VERB-Fin: колӧ, кутіс, воис, лои, вешйис, думайта, идралӧма, ковмас, мунӧ, висьталӧны</li>
     </ul>
   </li>
 </ul>
@@ -400,12 +488,20 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: лоас</li>
+      <li>VERB-Fin: ковмас, воспитайтасны, гымалас, зэрас, кутас, кӧтӧдас, лысьтас, лэбыштас, петас, пӧльыштлас</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: вӧлі, эз, лоис, лолі</li>
-      <li>NOUN-Part: грымгӧм, лыйлӧм</li>
-      <li>VERB-Fin: кутіс, лои, вешйис, воис, кыліс, лӧнис, мӧдӧдчи, тыдовтчис, тыдовтчисны, шуис</li>
-      <li>VERB-Part: вооружитчӧм, горзӧмъяс, гӧгӧрвотӧмыс, жугласьӧм, кулӧм, курччӧмӧн, кӧтасьӧм, ловтӧм, лыйсьӧмъяс, муркӧдчӧм</li>
+      <li>AUX-Fin: вӧлі, эз, вӧлӧма, лоис, лолі</li>
+      <li>VERB-Fin: кутіс, воис, лои, вешйис, идралӧма, вӧлі, кыліс, лӧнис, мӧдӧдчи, тыдовтчис</li>
+      <li>VERB-Part: идралӧм, идралӧмын, босьтӧм, вартӧм, вооружитчӧм, воӧм, горзӧмъяс, грымгӧм, гӧгӧрвотӧмыс, жугласьӧм</li>
     </ul>
   </li>
 </ul>
@@ -413,8 +509,8 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: оз, он, ог, оз-ӧ</li>
-      <li>VERB-Fin: думайта, колӧ, тӧдӧны, Воа, Тыдалӧ, висьталам, вӧчан, вӧчӧ, грӧзитӧ, дзирдалӧны</li>
+      <li>AUX-Fin: оз, ог, он, оз-ӧ</li>
+      <li>VERB-Fin: колӧ, думайта, мунӧ, висьталӧны, новлӧдлӧны, тӧдӧны, Воа, Овлывлӧ, Тыдалӧ, веськалӧны</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +522,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Act
     <ul>
-      <li>VERB-Part: командуйтысь, локтысь</li>
+      <li>VERB-Part: виччысь, командуйтысь, локтысь</li>
     </ul>
   </li>
 </ul>
@@ -438,7 +534,8 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Nfh
     <ul>
-      <li>VERB-Fin: Чеглалӧма, вайӧма, воӧмаӧсь, вӧлӧма, домавлӧмаӧсь, майшассьӧма, пӧрӧдӧма, тӧдлӧмаӧсь, чашнитӧма</li>
+      <li>AUX-Fin: вӧлӧма</li>
+      <li>VERB-Fin: идралӧма, Чеглалӧма, вайӧма, вартӧма, воӧмаӧсь, вунӧдӧма, домавлӧмаӧсь, майшассьӧма, пуктӧма, пӧртӧма</li>
     </ul>
   </li>
 </ul>
@@ -454,7 +551,23 @@ This work has been developed in the framework of the LAKME project funded by a g
   <li>Dem
     <ul>
       <li>PART: со</li>
-      <li>PRON: тайӧ, Мӧд, сы, тайӧс</li>
+      <li>PRON: тайӧ, сэтшӧм, татшӧм, Мӧд, сы, тайӧс</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: коді, кодъяс, кодӧс</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inter
+    <ul>
+      <li>PRON: мый, Мыйысь</li>
     </ul>
   </li>
 </ul>
@@ -462,7 +575,15 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: сійӧ, ми, сы, сылӧн, миян, найӧ, сійӧс, тэ, Налӧн, меным</li>
+      <li>PRON: сійӧ, сы, миян, тэ, ме, ми, миянлысь, сылӧн, сійӧс, менӧ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Qnt
+    <ul>
+      <li>PRON: быд</li>
     </ul>
   </li>
 </ul>
@@ -474,15 +595,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>Card
     <ul>
-      <li>NUM: ӧти, нёль, кык</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Card,Ord
-    <ul>
-      <li>NUM: ӧти</li>
+      <li>NUM: ӧти, нёль, 12-20, 16, 18, 1940, 29, 3, 4, 5</li>
     </ul>
   </li>
 </ul>
@@ -496,6 +609,17 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: ачым, ачыс</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -504,10 +628,10 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: эг, ог, эз</li>
-      <li>PRON: ми, миян, ачым, мелань, меным, миянлы, миянлысь</li>
-      <li>VERB: думайта, Воа, Вошим, висьталам, кая, лэччи, мӧдӧдчи, ог, чукӧрті, шуам</li>
-      <li>VERB-Fin: думайта, Воа, Вошим, висьталам, кая, лэччи, мӧдӧдчи, ог, чукӧрті, шуам</li>
+      <li>AUX-Fin: ог, эг, эз</li>
+      <li>PRON: миян, ме, ми, миянлысь, менӧ, ачым, ачымӧс, мелань, меным, миянлы</li>
+      <li>VERB: думайта, Воа, Вошим, Пыри, верми, висьталам, казьтышті, кайи, кая, кута</li>
+      <li>VERB-Fin: думайта, Воа, Вошим, Пыри, верми, висьталам, казьтышті, кайи, кая, кута</li>
     </ul>
   </li>
 </ul>
@@ -517,8 +641,8 @@ This work has been developed in the framework of the LAKME project funded by a g
     <ul>
       <li>AUX-Fin: он, эн</li>
       <li>PRON: тэ, тіянӧс</li>
-      <li>VERB: писькӧдчы, тырмы, Водінныд, Сюринныд, вӧчан, тормозитін</li>
-      <li>VERB-Fin: Водінныд, Сюринныд, вӧчан, тормозитін</li>
+      <li>VERB: писькӧдчы, Водінныд, Идралін, Кутчысь, Сюринныд, выиграйтін, вӧчан, повзин, проиграйтін, сёрмӧдчин</li>
+      <li>VERB-Fin: Водінныд, Идралін, Кутчысь, Сюринныд, выиграйтін, вӧчан, повзин, проиграйтін, сёрмӧдчин, тормозитін</li>
     </ul>
   </li>
 </ul>
@@ -526,13 +650,12 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li>3
     <ul>
-      <li>ADJ: аслас</li>
       <li>ADP: вӧснаыс</li>
-      <li>AUX: эз, вӧлі, оз, вӧвны, лоис, лолі, оз-ӧ</li>
-      <li>AUX-Fin: эз, вӧлі, оз, лоис, лолі, оз-ӧ</li>
-      <li>PRON: сійӧ, сы, сылӧн, найӧ, сійӧс, Налӧн, ачыс, найӧясӧс, сылы</li>
-      <li>VERB: кутіс, лои, вешйис, воис, колӧ, кыліс, лӧнис, тыдовтчис, тыдовтчисны, тӧдӧны</li>
-      <li>VERB-Fin: кутіс, лои, вешйис, воис, колӧ, кыліс, лӧнис, тыдовтчис, тыдовтчисны, тӧдӧны</li>
+      <li>AUX: эз, оз, вӧлі, вӧвны, лоас, вӧлӧма, лоис, лолі, оз-ӧ</li>
+      <li>AUX-Fin: эз, оз, вӧлі, лоас, вӧлӧма, лоис, лолі, оз-ӧ</li>
+      <li>PRON: сійӧ, сы, сылӧн, сійӧс, найӧ, Налӧн, аслас, ассьыныс, ачыс, найӧс</li>
+      <li>VERB: колӧ, кутіс, воис, лои, вешйис, идралӧма, ковмас, мунӧ, висьталӧны, вӧлі</li>
+      <li>VERB-Fin: колӧ, кутіс, воис, лои, вешйис, идралӧма, ковмас, мунӧ, висьталӧны, вӧлі</li>
     </ul>
   </li>
 </ul>
@@ -560,7 +683,7 @@ This work has been developed in the framework of the LAKME project funded by a g
       <li>ADP: вылас, дінас, йывсьыд, йывсьыс, помас, пырыс, пытшкас</li>
       <li>ADV: ичӧтдырйиыс</li>
       <li>DET: ставыс</li>
-      <li>NOUN: шоферыс, туйыс, шерыс, пуляясыс, сынӧдыс, тӧлыс, Гортад, Гым-биясыс, Зэрсьыс, Зэрыс</li>
+      <li>NOUN: шоферыс, туйыс, шерыс, олӧмӧс, пуляясыс, сынӧдыс, тӧлыс, Гортад, Гым-биясыс, Зэрсьыс</li>
       <li>PRON: ставсӧ, ставыс</li>
       <li>VERB-Conv: Гымалігад, Зэригас, Мунігмозыс</li>
       <li>VERB-Part: гӧгӧрвотӧмыс</li>
@@ -576,7 +699,7 @@ This work has been developed in the framework of the LAKME project funded by a g
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: кут, тӧд, тӧр, вермы, вӧв, дзебсясь, кажитчы, кокньӧд, позь, помась</li>
+          <li>VERB: вермы, кут, жалит, тӧд, тӧр, вӧв, дзебсясь, кажитчы, кокньӧд, коль</li>
         </ul>
       </li>
     </ul>
@@ -586,6 +709,17 @@ This work has been developed in the framework of the LAKME project funded by a g
 <ul>
   <li><a>Derivation</a>
     <ul>
+      <li>A
+        <ul>
+          <li>ADJ: Присада, гыма, пожӧма, ӧткаӧн</li>
+          <li>ADV: сэтшӧма, кокниджыка</li>
+        </ul>
+      </li>
+      <li>An
+        <ul>
+          <li>VERB: вундан, петкӧдлан</li>
+        </ul>
+      </li>
       <li>Ig
         <ul>
           <li>VERB-Conv: Гымалігад, Зэригас, петігӧн</li>
@@ -596,14 +730,34 @@ This work has been developed in the framework of the LAKME project funded by a g
           <li>VERB-Conv: Мунігмозыс, видзӧдігмоз</li>
         </ul>
       </li>
+      <li>Ik
+        <ul>
+          <li>ADJ: ичӧтик, векньыдик</li>
+        </ul>
+      </li>
+      <li>Ja
+        <ul>
+          <li>ADJ: Торъя</li>
+        </ul>
+      </li>
       <li>Omon
         <ul>
-          <li>VERB-Conv: петӧмӧн, тэрмасьӧмӧн</li>
+          <li>VERB-Conv: воодушедитчӧмӧн, курччӧмӧн, петӧмӧн, помасьӧмӧн, тэрмасьӧмӧн</li>
+        </ul>
+      </li>
+      <li>Sa
+        <ul>
+          <li>ADJ: колхозъясса, сиктса, сельсӧветъясса, Ставсоюзса, быдса, вывса, странаса</li>
         </ul>
       </li>
       <li>Tog
         <ul>
           <li>VERB-Conv: дугдывтӧг, Тӧдлытӧг, виччысьтӧг, жалиттӧг, чинтытӧг</li>
+        </ul>
+      </li>
+      <li>Tom
+        <ul>
+          <li>ADJ: шуштӧм</li>
         </ul>
       </li>
     </ul>
@@ -615,7 +769,7 @@ This work has been developed in the framework of the LAKME project funded by a g
     <ul>
       <li>Pres
         <ul>
-          <li>VERB-Part: командуйтысь, локтысь</li>
+          <li>VERB-Part: виччысь, командуйтысь, локтысь</li>
         </ul>
       </li>
     </ul>
@@ -628,7 +782,7 @@ This work has been developed in the framework of the LAKME project funded by a g
       <li>1
         <ul>
           <li>ADJ: Пятиизбеннӧй, опаснӧй, первомайскӧй, смелӧй</li>
-          <li>NOUN: Лолӧй, Мамӧй, Паськӧмӧй, воськовъясӧс, вын-эбӧсӧй, кӧлуйӧс</li>
+          <li>NOUN: олӧмӧс, Лолӧй, Мамӧй, Паськӧмӧй, воськовъясӧс, вын-эбӧсӧй, кӧлуйӧс</li>
         </ul>
       </li>
       <li>2
@@ -663,7 +817,7 @@ This work has been developed in the framework of the LAKME project funded by a g
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: оз, абу, вӧвны.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: оз, лоны, абу, вӧвны, должен, не.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -672,14 +826,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (8)</li>
-      <li>VERB--PRON-Nom (4)</li>
+      <li>VERB--NOUN-Nom (15)</li>
+      <li>VERB--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (53)</li>
+      <li>VERB-Fin--NOUN-Nom (65)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(пытш) (1)</li>
-      <li>VERB-Fin--PRON-Nom (22)</li>
+      <li>VERB-Fin--PRON-Nom (30)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -687,23 +842,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (1)</li>
+      <li>VERB--NOUN-Acc (5)</li>
       <li>VERB--PRON-Acc (1)</li>
+      <li>VERB-Conv--NOUN-Acc (2)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (16)</li>
+      <li>VERB-Fin--NOUN-Acc (19)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(пыр) (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (8)</li>
+      <li>VERB-Fin--NOUN-Nom (15)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(йылысь) (1)</li>
-      <li>VERB-Fin--PRON-ADP(йылысь) (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(йывсьыс) (1)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Fin--PRON-Nom-ADP(йылысь) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (9)</li>
+      <li>VERB-Inf--NOUN-Nom (5)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(йылысь) (1)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Part--NOUN-Acc (3)</li>
+      <li>VERB-Part--NOUN-Nom (9)</li>
     </ul>
   </li>
 </ul>
@@ -723,5 +881,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>flat:name</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

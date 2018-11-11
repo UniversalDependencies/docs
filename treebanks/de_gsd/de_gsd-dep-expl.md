@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `expl`: <tt><a href="de_gsd-dep-expl-p
 224 instances of `expl` (57%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.52525252525253.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (354; 89% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (28; 7% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (354; 89% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (28; 7% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	Fastfood	Fastfood	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 5	sein	sein	AUX	VAINF	VerbForm=Inf	6	aux	_	_
 6	muss	müssen	VERB	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	$,	_	10	punct	_	_
+7	,	,	PUNCT	$,	_	6	punct	_	_
 8	dann	dann	ADV	ADV	_	10	advmod	_	_
 9	bei	bei	ADP	APPR	_	10	case	_	_
 10	Jim	Jim	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	Ziel	Ziel	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 4	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
-5	,	,	PUNCT	$,	_	2	punct	_	_
+5	,	,	PUNCT	$,	_	15	punct	_	_
 6	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 7	traditionelle	traditionell	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
 8	georgische	georgisch	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-131862 tokens (12%) have a non-empty value of `Voice`.
-33905 types (29%) occur at least once with a non-empty value of `Voice`.
-7831 lemmas (18%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123717; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
+131856 tokens (12%) have a non-empty value of `Voice`.
+33903 types (29%) occur at least once with a non-empty value of `Voice`.
+7833 lemmas (18%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123711; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
 
 ### `VERB`
 
-123717 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+123711 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110838; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86244; 70%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83413; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (70265; 57%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110838; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86238; 70%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83407; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (70265; 57%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (84987; 69% of non-empty `Voice`): <em>может, есть, нет, могут, было, быть, сказал, говорит, стоит, сделать</em>
 * `Mid` (23520; 19% of non-empty `Voice`): <em>является, стало, стал, удалось, становится, стать, кажется, остается, приходится, находится</em>
-* `Pass` (15210; 12% of non-empty `Voice`): <em>считается, говорится, связано, используется, используются, связаны, сделано, принято, связанных, связана</em>
+* `Pass` (15204; 12% of non-empty `Voice`): <em>считается, говорится, связано, используется, используются, связаны, сделано, принято, связанных, связана</em>
 * `EMPTY` (1): <em>и.</em>
 
 <table>

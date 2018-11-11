@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 expl:impers	color:blue
-1	@GabrielleWhite_	@GabrielleWhite_	SYM	SYM	_	3	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	3	vocative:mention	_	_
 2	Cosa	cosa	PRON	PQ	PronType=Int	3	obj	_	_
 3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dopo	dopo	ADP	E	_	6	case	_	_

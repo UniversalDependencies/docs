@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Galician CTG
 
-Language: [Galician](../gl/overview/gl-hub.html) (code: `gl`)<br/>
+Language: [Galician](/gl/index.html) (code: `gl`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Xavier Gómez Guinovart.
 
 Repository: [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -45,12 +46,13 @@ Do not submit pull requests against the UD repository.
 
 The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG) created at the University of Vigo by the the TALG NLP research group.
 
+
+
 Original corpus sentences were selected and shuffled at random, and divided in 60-20-20 splits for the train, dev and test files, respectively.
 
 The bootstrap version of the CTG UD annotated corpus was obtained by using FreeLing 4.0 parser with the Treeler library, and by adapting the POS and dependency relations tags to CoNLL-U Format. Next versions of the corpus imply a review of the results of this initial version.
 
 The Galician UD treebank covers mainly technical texts of the fields of medicine, sociology, ecology, economy and law.
-
 
 ## Acknowledgments
 
@@ -141,39 +143,24 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>PART: non</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>PART: non</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
-
-
-
-
-
 
 
 
@@ -192,36 +179,30 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 
 
 
-
-
-
-
-
-
-
-
 <h3>Other Features</h3>
 
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: obstante, apreciable, efectivo, funcional, vascularizados</li>
-        <li>ADP: de, en</li>
-        <li>ADV: concretamente</li>
-        <li>DET: a</li>
-        <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</li>
-        <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
-        <li>PART: non</li>
-        <li>PRON: como</li>
-        <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
-        <li>SYM: +</li>
-        <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: obstante, apreciable, efectivo, funcional, vascularizados</li>
+          <li>ADP: de, en</li>
+          <li>ADV: concretamente</li>
+          <li>DET: a</li>
+          <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</li>
+          <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
+          <li>PART: non</li>
+          <li>PRON: como</li>
+          <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
+          <li>SYM: +</li>
+          <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

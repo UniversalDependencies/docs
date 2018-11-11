@@ -194,14 +194,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (62175; 97%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (11951; 99%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7213; 88%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2899; 68%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (62262; 97%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (10341; 100%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (7953; 99%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2574; 66%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2221; 86%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1830; 73%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1755; 69%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (683; 79%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (277; 55%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1781; 68%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1743; 73%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (965; 51%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (605; 77%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> NOUN</tt> (250; 53%).
 

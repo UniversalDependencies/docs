@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-26746 tokens (16%) have a non-empty value of `Tense`.
-9135 types (34%) occur at least once with a non-empty value of `Tense`.
-3483 lemmas (25%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21338; 13% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5140; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (263; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+26787 tokens (16%) have a non-empty value of `Tense`.
+9131 types (34%) occur at least once with a non-empty value of `Tense`.
+3482 lemmas (25%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21384; 13% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5140; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (263; 0% instances).
 
 ### `VERB`
 
-21338 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
+21384 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21338; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (18784; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17950; 84%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14464; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12755; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21384; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (18830; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17996; 84%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14464; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12801; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (100; 0% of non-empty `Tense`): <em>bude, nepůjde, nepůjdu, nebude, půjde, půjdeme, půjdu, budou, nebudu, pojedeme</em>
 * `Past` (14467; 68% of non-empty `Tense`): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
-* `Pres` (6771; 32% of non-empty `Tense`): <em>je, má, mám, může, nevím, musí, není, mají, musím, vím</em>
+* `Pres` (6817; 32% of non-empty `Tense`): <em>je, má, mám, může, nevím, jsi, musí, není, mají, musím</em>
 * `EMPTY` (3612): <em>dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</em>
 
 <table>
@@ -117,17 +117,6 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 * `EMPTY` (10636): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (180) occur only with one value of `Tense`.
-
-### `PRON`
-
-5 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Tense`.
-
-The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`PRON` tokens may have the following values of `Tense`:
-
-* `Pres` (5; 100% of non-empty `Tense`): <em>Tys</em>
-* `EMPTY` (14100): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
 
 ## Relations with Agreement in `Tense`
 

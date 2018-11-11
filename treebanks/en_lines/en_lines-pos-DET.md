@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-LinES: POS Tags: `DET`
 
 There are 21 `DET` lemmas (0%), 23 `DET` types (0%) and 7865 `DET` tokens (9%).
-Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 13 in number of types and 6 in number of tokens.
+Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 12 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>the, a, an, this, that, no, all, some, any, each</em>
 
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_lines-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.095238 (the average of all parts of speech is 1.244910).
+The form / lemma ratio of `DET` is 1.095238 (the average of all parts of speech is 1.244818).
 
 The 1st highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
 
@@ -78,9 +78,9 @@ Examples: <em>the</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="en_lines-dep-det.html">det</a></tt> (7772; 99% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (86; 1% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="en_lines-dep-det.html">det</a></tt> (7773; 99% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (85; 1% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (7374; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (157; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (147; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (68; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (64; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (7375; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (156; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (146; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (68; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (65; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 7814 (99%) `DET` nodes are leaves.
 

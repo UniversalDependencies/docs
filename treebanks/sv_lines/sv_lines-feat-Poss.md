@@ -47,5 +47,5 @@ The most frequent other feature values with which `VERB` and `Poss` co-occurred:
 `VERB` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>sitt</em>
-* `EMPTY` (10053): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10050): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
 

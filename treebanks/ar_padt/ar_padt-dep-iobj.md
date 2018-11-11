@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-350 nodes (0%) are attached to their parents as `iobj`.
+357 nodes (0%) are attached to their parents as `iobj`.
 
-346 instances of `iobj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64571428571429.
+353 instances of `iobj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.51260504201681.
 
-The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (203; 58% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (56; 16% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (46; 13% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (206; 58% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (56; 16% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (50; 14% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,34 @@ The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	من	مِن	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 9	نجاح	نَجَاح	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	7	obl:arg	7:obl:arg	Vform=نَجَاحِ|Gloss=success|Root=n_^g_.h|Translit=naǧāḥi|LTranslit=naǧāḥ
 10	قمة	قِمَّة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	9	nmod	9:nmod	Vform=قِمَّةِ|Gloss=summit|Root=q_m_m|Translit=qimmati|LTranslit=qimmat
-11	كراكاس	كراكاس	X	U---------	_	10	nmod	10:nmod	Vform=كراكاس|Translit=krAkAs
+11	كراكاس	كراكاس	X	U---------	_	10	nmod	10:nmod	Vform=كراكاس|Root=OOV|Translit=krAkAs
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	إن	إِنَّ	PART	F---------	_	3	advmod:emph	3:advmod:emph	Vform=إِنَّ|Gloss=indeed|Root='_n|Translit=ʾinna|LTranslit=ʾinna
+2	نا	هُوَ	PRON	SP---1MP4-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
+3	نرى	رَأَى	VERB	VIIA-1MP--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=نَرَى|Gloss=see,think,believe|Root=r_'_y|Translit=narā|LTranslit=raʾā
+4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	3:iobj	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
+5	مجلسا	مَجلِس	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	3	xcomp	3:xcomp	Vform=مَجلِسًا|Gloss=council,board,Majlis|Root=^g_l_s|Translit=maǧlisan|LTranslit=maǧlis
+6	ل	لِ	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=لِ|Gloss=for,to|Root=l|Translit=li|LTranslit=li
+7	الحرب	حَرب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod	Vform=اَلحَربِ|Gloss=war,warfare|Root=.h_r_b|Translit=al-ḥarbi|LTranslit=ḥarb
+8	و	وَ	CCONJ	C---------	_	13	cc	13:cc	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+9	ب	بِ	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
+10	شكل	شَكل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	7	obl	7:obl|13:obl	Vform=شَكلٍ|Gloss=manner,form,configuration,type|Root=^s_k_l|Translit=šaklin|LTranslit=šakl
+11	خاص	خَاصّ	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	10:amod	Vform=خَاصٍّ|Gloss=special,specific|Root=_h_.s_.s|Translit=ḫāṣṣin|LTranslit=ḫāṣṣ
+12	ضد	ضِدَّ	ADP	PI------4-	AdpType=Prep|Case=Acc	13	case	13:case	Vform=ضِدَّ|Gloss=against|Root=.d_d_d|Translit=ḍidda|LTranslit=ḍidda
+13	دول	دَولَة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	7	conj	5:nmod|7:conj	Vform=دُوَلِ|Gloss=state,country|Root=d_w_l|Translit=duwali|LTranslit=dawlat
+14	العالم	عَالَم	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	13	nmod	13:nmod	Vform=اَلعَالَمِ|Gloss=world|Root=`_l_m|Translit=al-ʿālami|LTranslit=ʿālam
+15	الثالث	ثَالِث	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	14:amod	SpaceAfter=No|Vform=اَلثَّالِثِ|Gloss=third|Root=_t_l__t|Translit=aṯ-ṯāliṯi|LTranslit=ṯāliṯ
+16	"	"	PUNCT	G---------	_	3	punct	3:punct	SpaceAfter=No|Vform="|Translit="
+17	.	.	PUNCT	G---------	_	3	punct	3:punct	Vform=.|Translit=.
 
 ~~~
 
@@ -51,45 +78,11 @@ The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	لقاء	لِقَاء	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	2	obl	2:obl	Vform=لِقَاءِ|Gloss=meeting,encounter,interview|Root=l_q_y|Translit=liqāʾi|LTranslit=liqāʾ
 7	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	Vform=هِ|Gloss=he,she,it|Translit=hi|LTranslit=huwa
 8	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	9	case	9:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
-9	جيم	جيم	X	U---------	_	6	obl:arg	6:obl:arg	Vform=جيم|Translit=jym
+9	جيم	جيم	X	U---------	_	6	obl:arg	6:obl:arg	Vform=جيم|Root=OOV|Translit=jym
 10	متوجها	مُتَوَجِّه	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	xcomp	2:xcomp	Vform=مُتَوَجِّهًا|Gloss=going_towards,turning_towards,facing|Root=w_^g_h|Translit=mutawaǧǧihan|LTranslit=mutawaǧǧih
 11	الى	إِلَى	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=إِلَى|Gloss=to,towards|Root='_l_y|Translit=ʾilā|LTranslit=ʾilā
 12	المغرب	مَغرِب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	obl	10:obl	SpaceAfter=No|Vform=اَلمَغرِبِ|Gloss=Morocco,Maghreb|Root=.g_r_b|Translit=al-maġribi|LTranslit=maġrib
 13	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 iobj	color:blue
-1	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-2	مضى	مَضَى	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Vform=مَضَى|Gloss=continue,proceed|Root=m_.d_y|Translit=maḍā|LTranslit=maḍā
-3	المصدر	مَصدَر	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلمَصدَرُ|Gloss=source|Root=.s_d_r|Translit=al-maṣdaru|LTranslit=maṣdar
-4	يقول	قَال	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	xcomp	2:xcomp	Vform=يَقُولُ|Gloss=say,tell|Root=q_w_l|Translit=yaqūlu|LTranslit=qāl
-5	أبلغ	أَبلَغ	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	4	ccomp	4:ccomp	Vform=أَبلَغَ|Gloss=report,inform,notify|Root=b_l_.g|Translit=ʾablaġa|LTranslit=ʾablaġ
-6	نا	هُوَ	PRON	SP---1MP4-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	iobj	5:iobj	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
-7	زملاء	زَمِيل	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	5	nsubj	5:nsubj	Vform=زُمَلَاءُ|Gloss=colleague,associate,companion|Root=z_m_l|Translit=zumalāʾu|LTranslit=zamīl
-8	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	7:nmod	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
-9	في	فِي	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-10	الخدمة	خِدمَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod	Vform=اَلخِدمَةِ|Gloss=service,assistance|Root=_h_d_m|Translit=al-ḫidmati|LTranslit=ḫidmat
-11	ان	أَنَّ	CCONJ	C---------	_	15	mark	15:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
-12	القوات	قُوَّة	NOUN	N------P4D	Case=Acc|Definite=Def|Number=Plur	15	nsubj	15:nsubj	Vform=اَلقُوَّاتِ|Gloss=power,strength,armed_forces|Root=q_w_y|Translit=al-qūwāti|LTranslit=qūwat
-13	الامريكية	أَمرِيكِيّ	ADJ	A-----FS4D	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	amod	12:amod	Vform=اَلأَمرِيكِيَّةَ|Gloss=American|Root='amrIk|Translit=al-ʾamrīkīyata|LTranslit=ʾamrīkīy
-14	س	سَ	PART	F---------	_	15	aux	15:aux	Vform=سَ|Gloss=will|Root=sa|Translit=sa|LTranslit=sa
-15	تعتقل	اِعتَقَل	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	Vform=تَعتَقِلُ|Gloss=arrest,detain|Root=`_q_l|Translit=taʿtaqilu|LTranslit=iʿtaqal
-16	نا	هُوَ	PRON	SP---1MP4-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	obj	15:obj	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
-17	ب	بِ	ADP	P---------	AdpType=Prep	19	case	19:case	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
-18	سبب	سَبَب	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	17	fixed	17:fixed	Vform=سَبَبِ|Gloss=reason,cause|Root=s_b_b|Translit=sababi|LTranslit=sabab
-19	إقدام	إِقدَام	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	15	obl:arg	15:obl:arg	Vform=إِقدَامِ|Gloss=courage,audacity|Root=q_d_m|Translit=ʾiqdāmi|LTranslit=ʾiqdām
-20	نا	هُوَ	PRON	SP---1MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	19	nmod	19:nmod	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
-21	على	عَلَى	ADP	P---------	AdpType=Prep	23	case	23:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
-22	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	23	det	23:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
-23	الخطوة	خَطوَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	19	nmod	19:nmod	SpaceAfter=No|Vform=اَلخَطوَةِ|Gloss=step,stride|Root=_h_.t_w|Translit=al-ḫaṭwati|LTranslit=ḫaṭwat
-24	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Indonesian GSD
 
-Language: [Indonesian](../id/overview/id-hub.html) (code: `id`)<br/>
+Language: [Indonesian](/id/index.html) (code: `id`)<br/>
 Family: Austronesian, Malayo-Sumbawan
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati.
 
 Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 3.0 US
 
@@ -130,77 +131,69 @@ http://septinalarasati.com/morphind/).
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>NOUN: seniwati</li>
-        <li>PROPN: Indrawati, Selawati</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>NOUN: seniwati</li>
+      <li>PROPN: Indrawati, Selawati</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: dermawan</li>
-        <li>NOUN: ilmuwan, bangsawan, fisikawan, karyawan, karyawannya, rohaniwan, wisatawan, bangsawannya</li>
-        <li>PROPN: Taiwan, Belawan, Wisatawan</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: dermawan</li>
+      <li>NOUN: ilmuwan, bangsawan, fisikawan, karyawan, karyawannya, rohaniwan, wisatawan, bangsawannya</li>
+      <li>PROPN: Taiwan, Belawan, Wisatawan</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
+      <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
+      <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
+      <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
+      <li>PROPN: Negara-negara</li>
+      <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
-        <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
-        <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
-        <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
-        <li>PROPN: Negara-negara</li>
-        <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
-        <li>ADP: dalam, tentang, atas, selain, asal, saat, bersama, bagi, mana, melawan</li>
-        <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, tiba, kurang</li>
-        <li>AUX: rata</li>
-        <li>CCONJ: lalu, akibat, mana, baik, melainkan, Stasiun, alias, bersama, saat, sebab</li>
-        <li>DET: salah, sebagian, kebanyakan, mayoritas, orang, seekor, sekelompok, banyak, berikut, buah</li>
-        <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, daerah</li>
-        <li>NUM: meter, XII, mm, persen, setengah, 1880an, 1980an, 1990an, REVOLUSI, buta</li>
-        <li>PART: tiada, Berdasar, bersorak, keluar, membelinya, silakan, tercetusnya, terkejutnya</li>
-        <li>PRON: ia, dia, kamu, aku, engkau, dirinya, Perang, beliau, saya, anda</li>
-        <li>PROPN: indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</li>
-        <li>PUNCT: banyak, habis</li>
-        <li>SCONJ: saat, lalu, sebab, akibat, mana, melainkan, sewaktu, akibatnya, Adapun, selain</li>
-        <li>SYM: cm</li>
-        <li>VERB: menjadi, memiliki, ada, terletak, digunakan, berada, menggunakan, dikenal, terjadi, disebut</li>
-        <li>X: anti</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
+      <li>ADP: dalam, tentang, atas, selain, asal, saat, bersama, bagi, mana, melawan</li>
+      <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, tiba, kurang</li>
+      <li>AUX: rata</li>
+      <li>CCONJ: lalu, akibat, mana, baik, melainkan, Stasiun, alias, bersama, saat, sebab</li>
+      <li>DET: salah, sebagian, kebanyakan, mayoritas, orang, seekor, sekelompok, banyak, berikut, buah</li>
+      <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, daerah</li>
+      <li>NUM: meter, XII, mm, persen, setengah, 1880an, 1980an, 1990an, REVOLUSI, buta</li>
+      <li>PART: tiada, Berdasar, bersorak, keluar, membelinya, silakan, tercetusnya, terkejutnya</li>
+      <li>PRON: ia, dia, kamu, aku, engkau, dirinya, Perang, beliau, saya, anda</li>
+      <li>PROPN: indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</li>
+      <li>PUNCT: banyak, habis</li>
+      <li>SCONJ: saat, lalu, sebab, akibat, mana, melainkan, sewaktu, akibatnya, Adapun, selain</li>
+      <li>SYM: cm</li>
+      <li>VERB: menjadi, memiliki, ada, terletak, digunakan, berada, menggunakan, dikenal, terjadi, disebut</li>
+      <li>X: anti</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -208,66 +201,61 @@ http://septinalarasati.com/morphind/).
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: lain, besar, baru, sama, kecil, utama, tinggi, baik, sendiri, dekat</li>
-        <li>ADP: dalam, atas, selain, sampai, luar, baik, sesuai, seluas, sejauh, pasca</li>
-        <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, rata, relatif, sendiri</li>
-        <li>AUX: rata</li>
-        <li>CCONJ: lalu, baik, Adapun, Layaknya, lain, sama, selain, sewaktu</li>
-        <li>DET: salah, sebagian, seekor, sekelompok, banyak, semacam, sendiri, aneka, baik, sama</li>
-        <li>NOUN: luas, pusat, salah, atas, panjang, luar, sebagian, jarak, seri, bekas</li>
-        <li>NUM: 1880an, 1980an, 1990an, buta, muda</li>
-        <li>PART: tiada</li>
-        <li>PRON: sendiri, adakah, dekat</li>
-        <li>PROPN: Nasional, Raya, baru, Agung, Pusat, Besar, Internasional, Suci, Perdana, United</li>
-        <li>PUNCT: banyak, habis</li>
-        <li>SCONJ: lalu, sewaktu, Adapun, selain, usai, Baru, jadi</li>
-        <li>VERB: ada, berhasil, gagal, selesai, menarik, kalah, lulus, kabur, terbuka, marah</li>
-        <li>X: anti</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: lain, besar, baru, sama, kecil, utama, tinggi, baik, sendiri, dekat</li>
+      <li>ADP: dalam, atas, selain, sampai, luar, baik, sesuai, seluas, sejauh, pasca</li>
+      <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, rata, relatif, sendiri</li>
+      <li>AUX: rata</li>
+      <li>CCONJ: lalu, baik, Adapun, Layaknya, lain, sama, selain, sewaktu</li>
+      <li>DET: salah, sebagian, seekor, sekelompok, banyak, semacam, sendiri, aneka, baik, sama</li>
+      <li>NOUN: luas, pusat, salah, atas, panjang, luar, sebagian, jarak, seri, bekas</li>
+      <li>NUM: 1880an, 1980an, 1990an, buta, muda</li>
+      <li>PART: tiada</li>
+      <li>PRON: sendiri, adakah, dekat</li>
+      <li>PROPN: Nasional, Raya, baru, Agung, Pusat, Besar, Internasional, Suci, Perdana, United</li>
+      <li>PUNCT: banyak, habis</li>
+      <li>SCONJ: lalu, sewaktu, Adapun, selain, usai, Baru, jadi</li>
+      <li>VERB: ada, berhasil, gagal, selesai, menarik, kalah, lulus, kabur, terbuka, marah</li>
+      <li>X: anti</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: terbesar, terakhir, tertinggi, terbaik, terdekat, tertua, terbanyak, terpenting, tersendiri, terakhirnya</li>
-        <li>ADP: teratas, terutama</li>
-        <li>ADV: terutama, ternyata, terlebih, terakhir</li>
-        <li>NOUN: Terputusnya, terbaru, terbarunya, terbiasa, terendahnya, termudanya</li>
-        <li>PROPN: Terbaik, Terakhir, Ternyata, Tertinggi</li>
-        <li>SCONJ: ternyata</li>
-        <li>VERB: terputus, terlepas, ternyata, Terlebih, terbebas, terdiam, terpecah, terpesona, terpusat, tersadar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: terbesar, terakhir, tertinggi, terbaik, terdekat, tertua, terbanyak, terpenting, tersendiri, terakhirnya</li>
+      <li>ADP: teratas, terutama</li>
+      <li>ADV: terutama, ternyata, terlebih, terakhir</li>
+      <li>NOUN: Terputusnya, terbaru, terbarunya, terbiasa, terendahnya, termudanya</li>
+      <li>PROPN: Terbaik, Terakhir, Ternyata, Tertinggi</li>
+      <li>SCONJ: ternyata</li>
+      <li>VERB: terputus, terlepas, ternyata, Terlebih, terbebas, terdiam, terpecah, terpesona, terpusat, tersadar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADJ: non</li>
-        <li>ADV: tidak, tak, bukan</li>
-        <li>NOUN: anti, non, ketidakcukupan, ketidakjelasan, ketidakpastian, nonbuku, nonkriminal</li>
-        <li>PART: tidak, tak, bukan, bukankah, belum, bukanlah, jangan, tanpa, tidakkah, kan</li>
-        <li>PROPN: Tak, t, tidak</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ: non</li>
+      <li>ADV: tidak, tak, bukan</li>
+      <li>NOUN: anti, non, ketidakcukupan, ketidakjelasan, ketidakpastian, nonbuku, nonkriminal</li>
+      <li>PART: tidak, tak, bukan, bukankah, belum, bukanlah, jangan, tanpa, tidakkah, kan</li>
+      <li>PROPN: Tak, t, tidak</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -276,286 +264,271 @@ http://septinalarasati.com/morphind/).
 
 
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
+<ul>
+  <li>Act
+    <ul>
+      <li>ADJ: berbeda, keluar, bersama, lanjut, beragam, bersamaan, pecah, cetak, erat, hias</li>
+      <li>ADP: tentang, bersama, bagi, melawan, berdasarkan, lewat, antar, menuju, mulai, menjadi</li>
+      <li>ADV: dapat, harus, sudah, kembali, mulai, turut, kira, ingin, bersama, perlu</li>
+      <li>CCONJ: melainkan, bersama</li>
+      <li>DET: berikut, beragam, Bagi</li>
+      <li>NOUN: tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</li>
+      <li>NUM: XII, inchi</li>
+      <li>PART: Berdasar, bersorak, keluar, membelinya, silakan</li>
+      <li>PRON: Aku, berdirinya</li>
+      <li>PROPN: Hukum, Tata, Kerja, Undang, Kali, Balai, Kutai, Sepak, Aku, Fei</li>
+      <li>SCONJ: melainkan, berikut</li>
+      <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
+    </ul>
+  </li>
+</ul>
 
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Act
-      <ul>
-        <li>ADJ: berbeda, keluar, bersama, lanjut, beragam, bersamaan, pecah, cetak, erat, hias</li>
-        <li>ADP: tentang, bersama, bagi, melawan, berdasarkan, lewat, antar, menuju, mulai, menjadi</li>
-        <li>ADV: dapat, harus, sudah, kembali, mulai, turut, kira, ingin, bersama, perlu</li>
-        <li>CCONJ: melainkan, bersama</li>
-        <li>DET: berikut, beragam, Bagi</li>
-        <li>NOUN: tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</li>
-        <li>NUM: XII, inchi</li>
-        <li>PART: Berdasar, bersorak, keluar, membelinya, silakan</li>
-        <li>PRON: Aku, berdirinya</li>
-        <li>PROPN: Hukum, Tata, Kerja, Undang, Kali, Balai, Kutai, Sepak, Aku, Fei</li>
-        <li>SCONJ: melainkan, berikut</li>
-        <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>ADJ: terkenal, terpisah, terbalik, tercinta, terkemuka, ternama, dibakar, didaerah, dijahit, dipecah</li>
-        <li>ADP: dibawah, diatas, dibidang, dibawahnya, didaerah, didalam, diluar, diposisi, ditahun, ditepi</li>
-        <li>ADV: terpaksa, diduga, Disaat, diolah, dipotong</li>
-        <li>NOUN: disini, Dirilis, didunia, ditempat, teriakan, Terhambatnya, diSurga, diangkat, diare, diatom</li>
-        <li>PART: tercetusnya, terkejutnya</li>
-        <li>PROPN: Diana, Dipertuan, Dian, Terpadu, dit, DIATASI, DiVA, Dibuat, Dibuka, Die</li>
-        <li>SCONJ: Disamping</li>
-        <li>VERB: terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, dirilis, ditemukan</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADJ: terkenal, terpisah, terbalik, tercinta, terkemuka, ternama, dibakar, didaerah, dijahit, dipecah</li>
+      <li>ADP: dibawah, diatas, dibidang, dibawahnya, didaerah, didalam, diluar, diposisi, ditahun, ditepi</li>
+      <li>ADV: terpaksa, diduga, Disaat, diolah, dipotong</li>
+      <li>NOUN: disini, Dirilis, didunia, ditempat, teriakan, Terhambatnya, diSurga, diangkat, diare, diatom</li>
+      <li>PART: tercetusnya, terkejutnya</li>
+      <li>PROPN: Diana, Dipertuan, Dian, Terpadu, dit, DIATASI, DiVA, Dibuat, Dibuka, Die</li>
+      <li>SCONJ: Disamping</li>
+      <li>VERB: terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, dirilis, ditemukan</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: begitu</li>
-        <li>CCONJ: begitu, itu</li>
-        <li>DET: ini, itu, tersebut, para, inilah, itulah, Begitu, beginilah, itupun</li>
-        <li>PRON: itu, itulah, Inilah, ini, Para, begitu, Inikah, inipun</li>
-        <li>SCONJ: begitu, itu</li>
-        <li>VERB: Tersebutlah</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: begitu</li>
+      <li>CCONJ: begitu, itu</li>
+      <li>DET: ini, itu, tersebut, para, inilah, itulah, Begitu, beginilah, itupun</li>
+      <li>PRON: itu, itulah, Inilah, ini, Para, begitu, Inikah, inipun</li>
+      <li>SCONJ: begitu, itu</li>
+      <li>VERB: Tersebutlah</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADP: Berbagai</li>
-        <li>ADV: banyak</li>
-        <li>DET: sebuah, seorang, berbagai, suatu, beberapa, tertentu, banyak, sejumlah, sepasang, Banyaknya</li>
-        <li>PRON: adanya, seorang, sejumlah, banyak, beberapa</li>
-        <li>VERB: adanya</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADP: Berbagai</li>
+      <li>ADV: banyak</li>
+      <li>DET: sebuah, seorang, berbagai, suatu, beberapa, tertentu, banyak, sejumlah, sepasang, Banyaknya</li>
+      <li>PRON: adanya, seorang, sejumlah, banyak, beberapa</li>
+      <li>VERB: adanya</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADP: dimana, bagaimana, mana, apakah</li>
-        <li>ADV: apakah, bagaimana, mengapa, dimana, kenapa, bagaimanakah, apa, Kemana, Berapa, Mengapakah</li>
-        <li>CCONJ: Bagaimana</li>
-        <li>DET: bagaimana, apakah, berapa, Bagaimanakah, apapun, kenapa, manakah</li>
-        <li>PRON: apa, siapa, apakah, siapakah, bagaimana, kapan, mana, mengapa, apapun, kapankah</li>
-        <li>SCONJ: dimana, apakah, mana, Bagaimana</li>
-        <li>VERB: apa</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADP: dimana, bagaimana, mana, apakah</li>
+      <li>ADV: apakah, bagaimana, mengapa, dimana, kenapa, bagaimanakah, apa, Kemana, Berapa, Mengapakah</li>
+      <li>CCONJ: Bagaimana</li>
+      <li>DET: bagaimana, apakah, berapa, Bagaimanakah, apapun, kenapa, manakah</li>
+      <li>PRON: apa, siapa, apakah, siapakah, bagaimana, kapan, mana, mengapa, apapun, kapankah</li>
+      <li>SCONJ: dimana, apakah, mana, Bagaimana</li>
+      <li>VERB: apa</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: ia, mereka, kita, dia, kamu, engkau, aku, kami, beliau, saya</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: ia, mereka, kita, dia, kamu, engkau, aku, kami, beliau, saya</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
-        <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
+      <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>ADV: semua, segalanya</li>
-        <li>DET: semua, setiap, seluruh, segala, tiap, keseluruhan, segenap, semuanya</li>
-        <li>PRON: keseluruhan, semua, semuanya, segala, segenap, keseluruhannya</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>ADV: semua, segalanya</li>
+      <li>DET: semua, setiap, seluruh, segala, tiap, keseluruhan, segenap, semuanya</li>
+      <li>PRON: keseluruhan, semua, semuanya, segala, segenap, keseluruhannya</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>ADV: banyak</li>
-        <li>DET: beberapa, banyak, sejumlah, berapa, sepasang, Banyaknya</li>
-        <li>NUM: dua, pertama, kedua, 1, satu, 2, 3, 5, tiga, 4</li>
-        <li>PRON: sejumlah, banyak, beberapa</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Card
+    <ul>
+      <li>ADV: banyak</li>
+      <li>DET: beberapa, banyak, sejumlah, berapa, sepasang, Banyaknya</li>
+      <li>NUM: dua, pertama, kedua, 1, satu, 2, 3, 5, tiga, 4</li>
+      <li>PRON: sejumlah, banyak, beberapa</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: kita, aku, kami, saya, kamilah</li>
+      <li>PROPN: Kutai, Kumari, Kusambut, Kustilah</li>
+      <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: kamu, engkau, anda, kalian, kau</li>
+      <li>VERB: kaukatakan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Form
+    <ul>
+      <li>PRON: beliau, saya, anda</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Infm
+    <ul>
+      <li>PRON: kamu, engkau, aku</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Person</a>
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: kita, aku, kami, saya, kamilah</li>
-        <li>PROPN: Kutai, Kumari, Kusambut, Kustilah</li>
-        <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: kamu, engkau, anda, kalian, kau</li>
-        <li>VERB: kaukatakan</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Polite</a>
-
-  <ul>
-    <li>Form
-      <ul>
-        <li>PRON: beliau, saya, anda</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Infm
-      <ul>
-        <li>PRON: kamu, engkau, aku</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-<li><a>Number[psor]</a>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
-        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, menurutmu, untukmu, untuknya</li>
-        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
-        <li>CCONJ: Layaknya</li>
-        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
-        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
-        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
-        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, saatnya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
-        <li>PROPN: Allahku, Ayahnya, Miku, Tuanku, Allahmu, Bintangmu, CPOKU, Cintaku, Dalihnya, Inggrisnya</li>
-        <li>SCONJ: akibatnya</li>
-        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
+      <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, menurutmu, untukmu, untuknya</li>
+      <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
+      <li>CCONJ: Layaknya</li>
+      <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
+      <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
+      <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
+      <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
+      <li>PRON: dirinya, semuanya, saatnya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
+      <li>PROPN: Allahku, Ayahnya, Miku, Tuanku, Allahmu, Bintangmu, CPOKU, Cintaku, Dalihnya, Inggrisnya</li>
+      <li>SCONJ: akibatnya</li>
+      <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Clusivity</a>
-  <ul>
-    <li>Ex
-      <ul>
-        <li>PRON: kami, kamilah</li>
-      </ul>
-    </li>
-    <li>In
-      <ul>
-        <li>PRON: kita</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Clusivity</a>
+    <ul>
+      <li>Ex
+        <ul>
+          <li>PRON: kami, kamilah</li>
+        </ul>
+      </li>
+      <li>In
+        <ul>
+          <li>PRON: kita</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person[psor]</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADP: kepadaku</li>
-        <li>NOUN: bagiku, hamba-Ku, namaku, wuku, diriku, dosaku, istriku, kangaku, kepada-Ku, kepadaku</li>
-        <li>PROPN: Allahku, Miku, Tuanku, CPOKU, Cintaku, PKU, Tuhanku</li>
-        <li>VERB: diriku, membohongiku, menantangku</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>ADJ: barumu</li>
-        <li>ADP: menurutmu, untukmu, kepadamu</li>
-        <li>ADV: Amu, mendorongmu</li>
-        <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
-        <li>PRON: akau, anak-anakmu</li>
-        <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
-        <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
-        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, untuknya, Sesampainya, bagi-Nya</li>
-        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
-        <li>CCONJ: Layaknya</li>
-        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
-        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
-        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
-        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, saatnya, berdirinya, isinya, keseluruhannya</li>
-        <li>PROPN: Ayahnya, Dalihnya, Inggrisnya, Istrinya, Jadinya, Kabarnya, Matinya, Oktobernya, Penyelenggaranya, Rasanya</li>
-        <li>SCONJ: akibatnya</li>
-        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>ADP: kepadaku</li>
+          <li>NOUN: bagiku, hamba-Ku, namaku, wuku, diriku, dosaku, istriku, kangaku, kepada-Ku, kepadaku</li>
+          <li>PROPN: Allahku, Miku, Tuanku, CPOKU, Cintaku, PKU, Tuhanku</li>
+          <li>VERB: diriku, membohongiku, menantangku</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>ADJ: barumu</li>
+          <li>ADP: menurutmu, untukmu, kepadamu</li>
+          <li>ADV: Amu, mendorongmu</li>
+          <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
+          <li>PRON: akau, anak-anakmu</li>
+          <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
+          <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
+          <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, untuknya, Sesampainya, bagi-Nya</li>
+          <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
+          <li>CCONJ: Layaknya</li>
+          <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
+          <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
+          <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
+          <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
+          <li>PRON: dirinya, semuanya, saatnya, berdirinya, isinya, keseluruhannya</li>
+          <li>PROPN: Ayahnya, Dalihnya, Inggrisnya, Istrinya, Jadinya, Kabarnya, Matinya, Oktobernya, Penyelenggaranya, Rasanya</li>
+          <li>SCONJ: akibatnya</li>
+          <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

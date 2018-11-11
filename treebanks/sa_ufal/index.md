@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Sanskrit UFAL
 
-Language: [Sanskrit](../sa/overview/sa-hub.html) (code: `sa`)<br/>
+Language: [Sanskrit](/sa/index.html) (code: `sa`)<br/>
 Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Puneet Dwivedi, Daniel Zeman, Erica Biagetti.
 
 Repository: [UD_Sanskrit-UFAL](https://github.com/UniversalDependencies/UD_Sanskrit-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

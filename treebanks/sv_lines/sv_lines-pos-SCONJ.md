@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.037037 (the average of all parts of speech is 1.414601).
+The form / lemma ratio of `SCONJ` is 1.037037 (the average of all parts of speech is 1.414305).
 
 The 1st highest number of forms (2) was observed with the lemma “sedan”: <em>sedan, sen</em>.
 
@@ -76,7 +76,7 @@ The 3rd highest number of forms (1) was observed with the lemma “att”: <em>a
 
 `SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1577; 92% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (130; 8% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1339; 78% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (94; 5% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (73; 4% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (70; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (52; 3% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1339; 78% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (95; 6% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (73; 4% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (70; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (52; 3% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 1613 (94%) `SCONJ` nodes are leaves.
 

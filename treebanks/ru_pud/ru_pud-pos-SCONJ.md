@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-PUD: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (6%), 12 `SCONJ` types (0%) and 176 `SCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
+There are 12 `SCONJ` lemmas (0%), 12 `SCONJ` types (0%) and 176 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>_</em>
+The 10 most frequent `SCONJ` lemmas: <em>как, что, чем, если, когда, то, чтобы, поскольку, будто, ведь</em>
 
 The 10 most frequent `SCONJ` types:  <em>как, что, чем, если, когда, то, чтобы, поскольку, Хотя, будто</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> 4580, <tt><a href="ru_pud-pos-PUNCT.html">PUNCT</a></tt> 3036, <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> 2337, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 2250, <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> 1929, <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> 1574, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 791, <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 751, <tt><a href="ru_pud-pos-CCONJ.html">CCONJ</a></tt> 661, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 499, <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> 402, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 183, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 176, <tt><a href="ru_pud-pos-X.html">X</a></tt> 167, <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> 95, <tt><a href="ru_pud-pos-SYM.html">SYM</a></tt> 20)
+The 10 most frequent ambiguous lemmas: <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 20), <em>что</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 82, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 29), <em>чем</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 2), <em>когда</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 30, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>то</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 51, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 3), <em>чтобы</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>поскольку</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ведь</em> (<tt><a href="ru_pud-pos-PART.html">PART</a></tt> 3, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>тем</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>хотя</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 65, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 15), <em>что</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 82, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 23), <em>чем</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 3), <em>когда</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>то</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1), <em>чтобы</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>поскольку</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Хотя</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ведь</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>тем</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>как</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 65, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 15), <em>что</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 82, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 54, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 23), <em>чем</em> (<tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 3), <em>когда</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>то</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 18, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 3), <em>чтобы</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 37, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>поскольку</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Хотя</em> (<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ведь</em> (<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>тем</em> (<tt><a href="ru_pud-pos-DET.html">DET</a></tt> 8, <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>как</em>
@@ -34,10 +34,10 @@ The 10 most frequent ambiguous types:  <em>как</em> (<tt><a href="ru_pud-pos-
   * <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 23: <em>Теперь , <b>когда</b> первая серия уже не самая старая , то можно сэкономить 100 евро .</em>
   * <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>« Был момент , — сказал господин Панвалкар , — <b>когда</b> он чувствовал , что они должны покинуть здание » .</em>
 * <em>то</em>
-  * <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 20: <em>Это не <b>то</b> , что нужно нашей стране , ребята .</em>
+  * <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 18: <em>Это не <b>то</b> , что нужно нашей стране , ребята .</em>
   * <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Если все сделать правильно , <b>то</b> это невозможно обнаружить , но это в теории .</em>
   * <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> 3: <em>Теперь , когда первая серия уже не самая старая , <b>то</b> можно сэкономить 100 евро .</em>
-  * <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1: <em>По сообщению полиции , она убила Андре Прайса III , прижав его лицо к надувному матрасу в гостиной перед попыткой сделать <b>то</b> же самое с ее дочерью Энджел .</em>
+  * <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 3: <em>Как одному из лучших парней Нигана ( Джеффри Дина Моргана ) , ему позволено <b>то</b> , что не позволено другим .</em>
 * <em>чтобы</em>
   * <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> 37: <em>Однако Пирр был вынужден покинуть Сицилию , <b>чтобы</b> заняться делами в южной Италии .</em>
   * <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Вместо того <b>чтобы</b> изучать научный метод абстрактно , студенты постигают его суть , применяя его на практике .</em>
@@ -52,14 +52,19 @@ The 10 most frequent ambiguous types:  <em>как</em> (<tt><a href="ru_pud-pos-
   * <tt><a href="ru_pud-pos-PART.html">PART</a></tt> 1: <em>Мне нравится играть с этими вещами , и я всегда ищу муз , которые соответствуют этому , <b>ведь</b> создавать коллекцию под их влиянием так интересно .</em>
   * <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Возможно , это не будет иметь значения , <b>ведь</b> я не буду долго о нем заботиться .</em>
 * <em>тем</em>
-  * <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 9: <em>Джордж был поражен <b>тем</b> , что он считал упадком их нравов .</em>
+  * <tt><a href="ru_pud-pos-DET.html">DET</a></tt> 8: <em>Джордж был поражен <b>тем</b> , что он считал упадком их нравов .</em>
+  * <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> 1: <em>Новости о мошенничестве компании были на слуху уже несколько лет , <b>тем</b> самым понизив стоимость « Фольксвагена » на десятки миллиардов евро и лишив главного исполнительного директора Мартина Винтеркорна его должности .</em>
   * <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Я смотрела на фотографии мотокросса , и чем больше я смотрела , <b>тем</b> чаще я встречала лицо этой женщины , а сами фото выглядели словно из 1970-х .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 12.000000 (the average of all parts of speech is 494.937500).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.483283).
 
-The 1st highest number of forms (12) was observed with the lemma “_”: <em>Хотя, будто, ведь, если, как, когда, поскольку, тем, то, чем, что, чтобы</em>.
+The 1st highest number of forms (1) was observed with the lemma “будто”: <em>будто</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “ведь”: <em>ведь</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “если”: <em>если</em>.
 
 `SCONJ` occurs with 4 features: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt> (5; 3% instances), <tt><a href="ru_pud-feat-Case.html">Case</a></tt> (5; 3% instances), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt> (5; 3% instances), <tt><a href="ru_pud-feat-Number.html">Number</a></tt> (1; 1% instances)
 
@@ -72,19 +77,19 @@ Examples: <em>как, что, если, чем, когда, то, чтобы, п
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="ru_pud-dep-mark.html">mark</a></tt> (161; 91% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (11; 6% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ru_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="ru_pud-dep-mark.html">mark</a></tt> (129; 73% instances), <tt><a href="ru_pud-dep-case.html">case</a></tt> (26; 15% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (15; 9% instances), <tt><a href="ru_pud-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="ru_pud-dep-cc.html">cc</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (82; 47% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (50; 28% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (17; 10% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (8; 5% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (84; 48% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (49; 28% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (15; 9% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (13; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (2; 1% instances)
 
-170 (97%) `SCONJ` nodes are leaves.
+172 (98%) `SCONJ` nodes are leaves.
 
-4 (2%) `SCONJ` nodes have one child.
+3 (2%) `SCONJ` nodes have one child.
 
-2 (1%) `SCONJ` nodes have two children.
+1 (1%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="ru_pud-dep-aux.html">aux</a></tt> (2; 25% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (2; 25% instances), <tt><a href="ru_pud-dep-punct.html">punct</a></tt> (2; 25% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (1; 13% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="ru_pud-dep-punct.html">punct</a></tt> (2; 40% instances), <tt><a href="ru_pud-dep-advcl.html">advcl</a></tt> (1; 20% instances), <tt><a href="ru_pud-dep-advmod.html">advmod</a></tt> (1; 20% instances), <tt><a href="ru_pud-dep-fixed.html">fixed</a></tt> (1; 20% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (3; 38% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (2; 25% instances), <tt><a href="ru_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 25% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (2; 40% instances), <tt><a href="ru_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 40% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 20% instances)
 

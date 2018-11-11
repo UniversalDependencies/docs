@@ -22,8 +22,8 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	сорок	сорок	NUM	Num	Case=Nom|NumType=Card	4	nummod	_	Lang=Rus
 4	первом	первый	ADJ	A	Case=Ins|Number=Sing	5	amod	_	Lang=Rus
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=Rus|SpaceAfter=No
@@ -43,11 +43,11 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 7 5 appos	color:blue
 1	Выль	выл	ADJ	A	Case=Nom|Number=Sing	2	nmod	_	_
 2	во	во	NOUN	N	Case=Nom|Number=Sing	7	obl	_	_
-3	бӧрас	бӧр	ADP	Po	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	case	_	SpaceAfter=No
+3	бӧрас	бӧрын	ADP	Po	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	case	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	значит	значит	PART	Pcle	_	7	appos	_	Lang=Rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	машкуритчӧны	машкуритчыны	VERB	V	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	машкуритчӧны	машкуритчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 5	-	-	PUNCT	CLB	_	4	punct	_	SpaceAfter=No
 6	то	то	PART	Pcle	_	4	goeswith	_	Lang=Rus
 7	у	у	ADP	Pr	_	8	case	_	Lang=Rus
-8	меня	я	PRON	Pron	Person=1|PronType=Prs	9	obl	_	Lang=Rus
+8	меня	я	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus
 9	большие	большой	ADJ	A	Case=Nom|Number=Plur	2	appos	_	Lang=Rus|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 

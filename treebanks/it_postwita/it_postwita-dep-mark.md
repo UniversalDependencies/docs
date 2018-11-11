@@ -22,7 +22,7 @@ The following 32 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 mark	color:blue
-1	@elena_casali	@elena_casali	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
 4	moroso	moroso	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -39,41 +39,44 @@ The following 32 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	@ballodasola	@ballodasola	SYM	SYM	_	2	vocative:mention	_	_
-2	pensi	pensare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	di	di	ADP	E	_	4	mark	_	_
-4	tagliar	tagliare	VERB	V	VerbForm=Inf	2	xcomp	_	_
-5	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	4	obj	_	_
-6	?	?	PUNCT	FS	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 mark	color:blue
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
+2	ciao	ciao	INTJ	I	_	5	discourse	_	_
+3	fiorello	fiorello	PROPN	SP	_	5	vocative	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	8	mark	_	_
+7	come	come	ADV	B	_	8	advmod	_	_
+8	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	governo	governo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	monti	monti	PROPN	SP	_	10	nmod	_	_
+12	ciao	ciao	INTJ	I	_	5	discourse	_	_
+13	risp	risp	X	X	_	5	dep	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 5 mark	color:blue
-1	Mmm	Mmm	INTJ	I	_	4	discourse	_	_
-2	...	...	PUNCT	FS	_	1	punct	_	_
-3	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
-4	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	che	che	SCONJ	CS	_	13	mark	_	_
-6	a	a	ADP	E	_	8	case	_	_
-7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	fine	fine	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
-9	#Grillo	#Grillo	SYM	SYM	_	13	nsubj	_	_
-10	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-11	proprio	proprio	ADV	B	_	13	advmod	_	_
-12	tutta	tutto	DET	DI	PronType=Ind	13	det	_	_
-13	fuffa	fuffa	NOUN	S	Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
-14	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 mark	color:blue
+1	@user	@user	SYM	SYM	_	2	vocative:mention	_	_
+2	buongiorno	buongiorno	INTJ	I	_	0	root	_	_
+3	fratellino	fratello	NOUN	S	Gender=Masc|Number=Sing	2	vocative	_	_
+4	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+5	anche	anche	ADV	B	_	8	advmod	_	_
+6	se	se	SCONJ	CS	_	8	mark	_	_
+7	in	in	ADP	E	_	8	case	_	_
+8	ritardassimo	ritardo	NOUN	S	Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	:*	:*	SYM	SYM	_	2	discourse:emo	_	_
 
 ~~~
 

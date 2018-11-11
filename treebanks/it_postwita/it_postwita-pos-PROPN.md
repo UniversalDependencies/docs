@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PoSTWITA: POS Tags: `PROPN`
 
-There are 2629 `PROPN` lemmas (16%), 2648 `PROPN` types (12%) and 10545 `PROPN` tokens (8%).
+There are 2629 `PROPN` lemmas (18%), 2648 `PROPN` types (14%) and 10545 `PROPN` tokens (8%).
 Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>monti, mario, italia, berlusconi, roma, pd, lega, pdl, twitter, napolitano</em>
@@ -19,8 +19,8 @@ The 10 most frequent ambiguous types:  <em>monti</em> (<tt><a href="it_postwita-
 
 
 * <em>monti</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 167: <em>@BFiorello ciao fiorello mi dici di come va il governo <b>monti</b> ciao risp</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 4: <em>@DeBortoliF scusi direttore , sa se l' account di Mario <b>monti</b> su twitter è ufficiale ?</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 167: <em>@user ciao fiorello mi dici di come va il governo <b>monti</b> ciao risp</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 4: <em>@user scusi direttore , sa se l' account di Mario <b>monti</b> su twitter è ufficiale ?</em>
 * <em>lega</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 17: <em>la <b>lega</b> non approva il governo #Monti . e sti cazzi !</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>Vaffanculo - Marco Masini - Music Video - VEVO http://t.co/LPMiNMotJW Dedico questa cansone a i amici miei di la squadra Milan B <b>lega</b> QRSL</em>
@@ -29,34 +29,34 @@ The 10 most frequent ambiguous types:  <em>monti</em> (<tt><a href="it_postwita-
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 4185: <em>Se #Grillo è l' alternativa mi tenevo #Bossi : fa anche ridere <b>di</b> più .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 8: <em>Il comitato <b>di</b> liberazione nazionale – 25 aprile 1945 http://t.co/kOglmPEg #milano #news</em>
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 2: <em>#Grillo dice peste e corna di tutti ma non si capisce che cosa vuole fare lui . Deve dire xche' <b>di</b> candida , per fare cosa e con chi .</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@SkyTg24 #Grillo da ci un giudizio netto su #Monti . E <b>di</b> ci c' è una forza politica con la quale faresti alleanze ? Di Pietro sì o no ?</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@user #Grillo da ci un giudizio netto su #Monti . E <b>di</b> ci c' è una forza politica con la quale faresti alleanze ? Di Pietro sì o no ?</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>#Grillo <b>di</b> non critichi #Napolitano : la critica a il Presidente di la Repubblica compete solo a i partiti in cui milita #Bersani</em>
 * <em>GOVERNO</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 50: <em>IL <b>GOVERNO</b> MONTI E LA LAICITA' DI LE ISTITUZIONI http://t.co/cpw71LyE</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 40: <em>i MINISTRI DI IL <b>GOVERNO</b> MONTI : SONO GIOVANI , MA SI FARANNO ?</em>
 * <em>porta</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 7: <em>se la Befana fa la cattiva Mario Monti le <b>porta</b> il carbone #supermario</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 7: <em>RT @user : Jesus che <b>porta</b> il nostro amore a Gaga . Grazie mille :)</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 6: <em>http://t.co/3jOyLfoiQp : Invece di la spina , ricaricheremo ( quasi ) tutto da la <b>porta</b> Usb #Sapevatelo #Tech #StartUp</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 4: <em>Mario Monti ospite a <b>porta</b> a <b>porta</b> ! Prrrrrr</em>
 * <em>il</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 3948: <em>Napolitano difende <b>il</b> governo Monti ? Ci mancherebbe , lo ha fatto lui !</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5: <em>a la Casa <b>il</b> Popolo ARCI via Pinetti per la sicurezza idrogeologica fereggiano</em>
 * <em>letta</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 2: <em>governo monti con gianni <b>letta</b> , pd perplesso . Ma che vogliono ? Non esagerate sennò ci mettiamo @matteorenzi</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 2: <em>governo monti con gianni <b>letta</b> , pd perplesso . Ma che vogliono ? Non esagerate sennò ci mettiamo @user</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>Alessio Vinci : presidente , oggi La Padania dice che anche il freddo è colpa di il governo Mario Monti : Per una volta non l' ho <b>letta</b></em>
 * <em>passera</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>@sarofiorello secondo me a berlusconi piace il governo monti perché c' è un ministro che si chiama <b>passera</b> ! ;)</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>@user secondo me a berlusconi piace il governo monti perché c' è un ministro che si chiama <b>passera</b> ! ;)</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 2: <em>Passera in il governo Monti ? E dov' è la novità ? In il governo nanico di <b>passera</b> ce n' era a quintali !</em>
 * <em>euro</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 28: <em>Nonno Mario Monti mi daresti 1000 <b>euro</b> grazie ?</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 18: <em>‎L' <b>euro</b> è un successo , soprattutto per la Grecia . [ Mario Monti , settembre 2011 ]</em>
 * <em>repubblica</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 5: <em>Monti ci sta portando a la terza <b>repubblica</b> senza i partiti #serviziopubblico #Grillo @matteorenzi</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 5: <em>Monti ci sta portando a la terza <b>repubblica</b> senza i partiti #serviziopubblico #Grillo @user</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>#piazzapulita che bello vedere <b>repubblica</b> e corriere che si scannano su chi difende troppo e chi il giusto il governo #monti #buuuu</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.007227 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `PROPN` is 1.007227 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (3) was observed with the lemma “michele”: <em>MIchele, Michel, Michele</em>.
 

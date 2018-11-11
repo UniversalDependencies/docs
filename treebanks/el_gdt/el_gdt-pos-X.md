@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Κάστρο</em> (<tt><a href="el_gd
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.774736).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.774549).
 
 The 1st highest number of forms (2) was observed with the lemma “Άμστερνταμ”: <em>Άμστερνταμ, Αμστερνταμ</em>.
 
@@ -71,7 +71,7 @@ Examples: <em>αλ, Κάστρο, σκορ, Αφγανιστάν, Ουάσιγκ
 
 ## Relations
 
-`X` nodes are attached to their parents using 12 different relations: <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (409; 42% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (225; 23% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (124; 13% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (83; 9% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (53; 5% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (36; 4% instances), <tt><a href="el_gdt-dep-obj.html">obj</a></tt> (35; 4% instances), <tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 14 different relations: <tt><a href="el_gdt-dep-flat.html">flat</a></tt> (409; 42% instances), <tt><a href="el_gdt-dep-nmod.html">nmod</a></tt> (225; 23% instances), <tt><a href="el_gdt-dep-nsubj.html">nsubj</a></tt> (110; 11% instances), <tt><a href="el_gdt-dep-obl.html">obl</a></tt> (77; 8% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (53; 5% instances), <tt><a href="el_gdt-dep-appos.html">appos</a></tt> (36; 4% instances), <tt><a href="el_gdt-dep-obj.html">obj</a></tt> (35; 4% instances), <tt><a href="el_gdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (14; 1% instances), <tt><a href="el_gdt-dep-obl-agent.html">obl:agent</a></tt> (6; 1% instances), <tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="el_gdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="el_gdt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
 Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (442; 45% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (246; 25% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (231; 24% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (20; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (5; 1% instances),  (3; 0% instances)
 

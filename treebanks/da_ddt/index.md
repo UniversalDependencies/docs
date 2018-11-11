@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Danish DDT
 
-Language: [Danish](../da/overview/da-hub.html) (code: `da`)<br/>
+Language: [Danish](/da/index.html) (code: `da`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Anders Johannsen, Héctor Martínez Alonso, Barbara Plank.
 
 Repository: [UD_Danish-DDT](https://github.com/UniversalDependencies/UD_Danish-DDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -197,178 +198,164 @@ Technical report, DSL
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: stor, ny, klar, lang, god, egen, sådan, al, halv, almindelig</li>
-        <li>DET: en, den, sin, denne, min, ingen, anden, nogen, én, din</li>
-        <li>NOUN: kr., gang, dag, tid, del, mand, måde, verden, dage, gange</li>
-        <li>PRON: han, jeg, vi, man, hun, den, du, ham, mig, os</li>
-        <li>VERB-Part: foretrukne, udskårne</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Com
+    <ul>
+      <li>ADJ: stor, ny, klar, lang, god, egen, sådan, al, halv, almindelig</li>
+      <li>DET: en, den, sin, denne, min, ingen, anden, nogen, én, din</li>
+      <li>NOUN: kr., gang, dag, tid, del, mand, måde, verden, dage, gange</li>
+      <li>PRON: han, jeg, vi, man, hun, den, du, ham, mig, os</li>
+      <li>VERB-Part: foretrukne, udskårne</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: alt, stort, godt, nyt, svært, muligt, eget, klart, halvt, vigtigt</li>
-        <li>DET: et, det, sit, noget, mit, dette, andet, intet, vort, ethvert</li>
-        <li>NOUN: år, folk, går, par, børn, mennesker, stedet, fald, arbejde, sted</li>
-        <li>PRON: det, noget, andet, dette, et, hvilket, hvert, intet, a., dét</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: alt, stort, godt, nyt, svært, muligt, eget, klart, halvt, vigtigt</li>
+      <li>DET: et, det, sit, noget, mit, dette, andet, intet, vort, ethvert</li>
+      <li>NOUN: år, folk, går, par, børn, mennesker, stedet, fald, arbejde, sted</li>
+      <li>PRON: det, noget, andet, dette, et, hvilket, hvert, intet, a., dét</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: alle, mange, flere, danske, store, nye, fleste, forskellige, få, gamle</li>
+      <li>DET: de, andre, nogle, sine, disse, vore, begge, mine, andres, dine</li>
+      <li>NOUN: år, kr., børn, folk, mennesker, dage, gange, kroner, problemer, pct.</li>
+      <li>PRON: vi, de, dem, os, andre, hinanden, nogle, I, begge, hvilke</li>
+      <li>VERB-Part: ansatte, gensplejsede, Forenede, gentagne, dræbte, interesserede, nævnte, orienterede, designede, feterede</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: alle, mange, flere, danske, store, nye, fleste, forskellige, få, gamle</li>
-        <li>DET: de, andre, nogle, sine, disse, vore, begge, mine, andres, dine</li>
-        <li>NOUN: år, kr., børn, folk, mennesker, dage, gange, kroner, problemer, pct.</li>
-        <li>PRON: vi, de, dem, os, andre, hinanden, nogle, I, begge, hvilke</li>
-        <li>VERB-Part: ansatte, gensplejsede, Forenede, gentagne, dræbte, interesserede, nævnte, orienterede, designede, feterede</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: hele, danske, alt, mere, dansk, ny, lille, stor, store, meget</li>
+      <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
+      <li>DET: en, den, et, det, sin, denne, min, sit, ingen, anden</li>
+      <li>NOUN: gang, dag, år, tid, del, går, mand, måde, par, verden</li>
+      <li>PRON: det, han, jeg, hun, den, du, hvad, ham, mig, noget</li>
+      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: hele, danske, alt, mere, dansk, ny, lille, stor, store, meget</li>
-        <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
-        <li>DET: en, den, et, det, sin, denne, min, sit, ingen, anden</li>
-        <li>NOUN: gang, dag, år, tid, del, går, mand, måde, par, verden</li>
-        <li>PRON: det, han, jeg, hun, den, du, hvad, ham, mig, noget</li>
-        <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: det, sig, den, ham, mig, dem, os, hende, dig, jer</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: Konservatives, Langes, bankansattes, besindiges, dødes, enkeltes, gamles, handicappedes, helliges, hvides</li>
+      <li>DET: andres, dennes, ds., ens</li>
+      <li>NOUN: års, Jordens, landets, aftes, regeringens, statens, Kræftens, politiets, ugens, verdens</li>
+      <li>PRON: hvis, hinandens</li>
+      <li>PROPN: Danmarks, Københavns, Brøndbys, USAs, Ungbos, DSBs, FNs, Ninn-Hansens, EFs, Elvis'</li>
+      <li>VERB-Part: tiltaltes</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: det, sig, den, ham, mig, dem, os, hende, dig, jer</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: Konservatives, Langes, bankansattes, besindiges, dødes, enkeltes, gamles, handicappedes, helliges, hvides</li>
-        <li>DET: andres, dennes, ds., ens</li>
-        <li>NOUN: års, Jordens, landets, aftes, regeringens, statens, Kræftens, politiets, ugens, verdens</li>
-        <li>PRON: hvis, hinandens</li>
-        <li>PROPN: Danmarks, Københavns, Brøndbys, USAs, Ungbos, DSBs, FNs, Ninn-Hansens, EFs, Elvis'</li>
-        <li>VERB-Part: tiltaltes</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: han, jeg, vi, de, man, hun, du, I</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: han, jeg, vi, de, man, hun, du, I</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: hele, danske, store, fleste, nye, bedste, største, gamle, økonomiske, seneste</li>
+      <li>NOUN: stedet, tiden, politiet, sagen, byen, landet, dagen, året, klokken, børnene</li>
+      <li>VERB-Part: samlede, fortsatte, lukkede, nævnte, udsendte, anklagede, erklærede, organiserede, restaurerede, undertegnede</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: hele, danske, store, fleste, nye, bedste, største, gamle, økonomiske, seneste</li>
-        <li>NOUN: stedet, tiden, politiet, sagen, byen, landet, dagen, året, klokken, børnene</li>
-        <li>VERB-Part: samlede, fortsatte, lukkede, nævnte, udsendte, anklagede, erklærede, organiserede, restaurerede, undertegnede</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: mere, dansk, stor, meget, ny, klar, lang, stort, god, godt</li>
-        <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
-        <li>NOUN: år, kr., gang, dag, tid, del, folk, går, mand, måde</li>
-        <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: mere, dansk, stor, meget, ny, klar, lang, stort, god, godt</li>
+      <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
+      <li>NOUN: år, kr., gang, dag, tid, del, folk, går, mand, måde</li>
+      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Abs
-      <ul>
-        <li>ADJ: allerinderst, allerstørste</li>
-        <li>ADV: allerhelst, allermindst, alleryderst</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Abs
+    <ul>
+      <li>ADJ: allerinderst, allerstørste</li>
+      <li>ADV: allerhelst, allermindst, alleryderst</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: flere, større, bedre, tidligere, mere, mindre, højere, ældre, længere, kortere</li>
-        <li>ADV: mere, længere, senere, tidligere, mindre, yderligere, bedre, hurtigere, nærmere, højere</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: flere, større, bedre, tidligere, mere, mindre, højere, ældre, længere, kortere</li>
+      <li>ADV: mere, længere, senere, tidligere, mindre, yderligere, bedre, hurtigere, nærmere, højere</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: samme, første, alle, sidste, mange, danske, store, hele, nye, fælles</li>
-        <li>ADV: meget, helt, godt, lidt, langt, faktisk, længe, ofte, hurtigt, umiddelbart</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: samme, første, alle, sidste, mange, danske, store, hele, nye, fælles</li>
+      <li>ADV: meget, helt, godt, lidt, langt, faktisk, længe, ofte, hurtigt, umiddelbart</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: fleste, bedste, største, seneste, ny, mindre, mindste, øverste, meste, nyeste</li>
-        <li>ADV: mest, mindst, senest, nærmest, bedst, længst, oftest, venligst, hurtigst, hårdest</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: fleste, bedste, største, seneste, ny, mindre, mindste, øverste, meste, nyeste</li>
+      <li>ADV: mest, mindst, senest, nærmest, bedst, længst, oftest, venligst, hurtigst, hårdest</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -376,327 +363,314 @@ Technical report, DSL
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: Bliv</li>
+      <li>VERB: lad, rør, se, skær, brug, hold, hæld, steg, prøv, Bland</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: Bliv</li>
-        <li>VERB: lad, rør, se, skær, brug, hold, hæld, steg, prøv, Bland</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
+      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
-        <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: var, blev, kunne, havde, skulle, ville, måtte, burde, ku', sku'</li>
+      <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
+      <li>VERB-Fin: var, fik, sagde, havde, gik, kom, begyndte, tog, gjorde, så</li>
+      <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: er, har, kan, skal, vil, bliver, må, bør, tør, ka'</li>
+      <li>AUX-Part: værende</li>
+      <li>VERB: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
+      <li>VERB-Fin: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
+      <li>VERB-Part: kommende, manglende, administrerende, følgende, overlevende, tilfredsstillende, overraskende, stigende, stående, fascinerende</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: var, blev, kunne, havde, skulle, ville, måtte, burde, ku', sku'</li>
-        <li>AUX-Part: været, blevet, kunnet, måttet, turdet, villet</li>
-        <li>VERB-Fin: var, fik, sagde, havde, gik, kom, begyndte, tog, gjorde, så</li>
-        <li>VERB-Part: fået, været, set, haft, gjort, gået, kommet, sagt, skrevet, taget</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: er, har, kan, skal, vil, bliver, må, bør, tør, ka'</li>
-        <li>AUX-Part: værende</li>
-        <li>VERB: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
-        <li>VERB-Fin: er, har, siger, får, kommer, går, ved, gør, mener, giver</li>
-        <li>VERB-Part: kommende, manglende, administrerende, følgende, overlevende, tilfredsstillende, overraskende, stigende, stående, fascinerende</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Act
+    <ul>
+      <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
+      <li>AUX-Inf: være, blive, have, kunne, skulle, turde, ville, ku', måtte</li>
+      <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
+      <li>VERB-Inf: få, gå, se, have, komme, være, gøre, tage, finde, sige</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX-Fin: er, har, kan, var, skal, vil, blev, kunne, havde, bliver</li>
-        <li>AUX-Inf: være, blive, have, kunne, skulle, turde, ville, ku', måtte</li>
-        <li>VERB-Fin: er, har, siger, var, får, fik, sagde, kommer, går, havde</li>
-        <li>VERB-Inf: få, gå, se, have, komme, være, gøre, tage, finde, sige</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Fin: ventes, udsendes, sælges, kaldes, fås, menes, skabes, vises, betragtes, gives</li>
-        <li>VERB-Inf: bruges, tages, nævnes, gøres, ses, sættes, fjernes, løses, behandles, betragtes</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: ventes, udsendes, sælges, kaldes, fås, menes, skabes, vises, betragtes, gives</li>
+      <li>VERB-Inf: bruges, tages, nævnes, gøres, ses, sættes, fjernes, løses, behandles, betragtes</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: den, de, det, denne, disse, dette, begge, dén, dennes, selv</li>
-        <li>PRON: selv, de, dette, den, begge, det, denne, disse</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: den, de, det, denne, disse, dette, begge, dén, dennes, selv</li>
+      <li>PRON: selv, de, dette, den, begge, det, denne, disse</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: en, et, andre, nogle, ingen, anden, noget, nogen, én, hvert</li>
-        <li>PRON: man, noget, en, andre, hver, andet, ingen, et, anden, nogle</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: en, et, andre, nogle, ingen, anden, noget, nogen, én, hvert</li>
+      <li>PRON: man, noget, en, andre, hver, andet, ingen, et, anden, nogle</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int,Rel
-      <ul>
-        <li>PRON: hvad, hvilket, hvem, hvilke, hvilken, hvis, HVA', Hva</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>PRON: hvad, hvilket, hvem, hvilke, hvilken, hvis, HVA', Hva</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: sin, deres, hans, min, sit, hendes, sine, vores, mit, din</li>
-        <li>PRON: det, han, jeg, vi, de, sig, hun, den, du, ham</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: sin, deres, hans, min, sit, hendes, sine, vores, mit, din</li>
+      <li>PRON: det, han, jeg, vi, de, sig, hun, den, du, ham</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: hinanden, hinandens</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: hinanden, hinandens</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: to, tre, fire, 20, fem, seks, 10, otte, 100, 1</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: to, tre, fire, 20, fem, seks, 10, otte, 100, 1</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: 1., anden, 2., tredje, 3., andet, 12., 17., fjerde, 10.</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: 1., anden, 2., tredje, 3., andet, 12., 17., fjerde, 10.</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: sin, deres, hans, min, sit, hendes, sine, vores, mit, din</li>
+      <li>PRON: deres, hans, min, sin, sine, hendes, mit, sit, vore</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: sin, deres, hans, min, sit, hendes, sine, vores, mit, din</li>
-        <li>PRON: deres, hans, min, sin, sine, hendes, mit, sit, vore</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: sin, sit, sine</li>
+      <li>PRON: sig, sin, sine, sit</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>DET: min, vores, mit, vore, mine, vor, vort</li>
+      <li>PRON: jeg, vi, mig, os, min, mit, vore</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: sin, sit, sine</li>
-        <li>PRON: sig, sin, sine, sit</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>DET: din, Deres, dit, jeres, dine</li>
+      <li>PRON: du, dig, De, I, Dem, jer, Deres</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>DET: sin, deres, hans, sit, hendes, sine, dets, dens</li>
+      <li>PRON: det, han, de, sig, hun, den, ham, dem, hende, dét</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li><a>Polite</a></li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>DET: min, vores, mit, vore, mine, vor, vort</li>
-        <li>PRON: jeg, vi, mig, os, min, mit, vore</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>DET: din, Deres, dit, jeres, dine</li>
-        <li>PRON: du, dig, De, I, Dem, jer, Deres</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>DET: sin, deres, hans, sit, hendes, sine, dets, dens</li>
-        <li>PRON: det, han, de, sig, hun, den, ham, dem, hende, dét</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Polite</a>
-
-  <ul>
-    <li>Form
-      <ul>
-        <li>DET: Deres</li>
-        <li>PRON: De, Dem, Deres</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Form
+    <ul>
+      <li>DET: Deres</li>
+      <li>PRON: De, Dem, Deres</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: deres, vores, vore, vor, vort, jeres</li>
+      <li>PRON: deres, vore</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: deres, vores, vore, vor, vort, jeres</li>
-        <li>PRON: deres, vore</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: sin, hans, min, sit, hendes, sine, mit, din, mine, dets</li>
-        <li>PRON: hans, min, sin, sine, hendes, mit, sit</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: sin, hans, min, sit, hendes, sine, mit, din, mine, dets</li>
+      <li>PRON: hans, min, sin, sine, hendes, mit, sit</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: fru, km/t., vind., B, cand.-jur., kl, o/m., 4-cyl., E, G</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: fru, km/t., vind., B, cand.-jur., kl, o/m., 4-cyl., E, G</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: i, til, på, af, med, for, om, fra, ved, efter</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: i, til, på, af, med, for, om, fra, ved, efter</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: of, are, the, we, a, and, children, dead, in, junkmail</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: of, are, the, we, a, and, children, dead, in, junkmail</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PartType</a>
-  <ul>
-    <li>Inf
-      <ul>
-        <li>ADP: som</li>
-        <li>ADV: der</li>
-        <li>PART: at</li>
-        <li>PRON: der, som</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Inf
+        <ul>
+          <li>ADP: som</li>
+          <li>ADV: der</li>
+          <li>PART: at</li>
+          <li>PRON: der, som</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>DET: somme</li>
-      </ul>
-    </li>
-    <li>Form
-      <ul>
-        <li>DET: vore, vor, vort</li>
-        <li>PRON: vore</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Arch
+        <ul>
+          <li>DET: somme</li>
+        </ul>
+      </li>
+      <li>Form
+        <ul>
+          <li>DET: vore, vor, vort</li>
+          <li>PRON: vore</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

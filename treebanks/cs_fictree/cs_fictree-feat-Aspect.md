@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (49; 94% of non-empty `Aspect`): <em>chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</em>
 * `Perf` (3; 6% of non-empty `Aspect`): <em>připomenuv, vrhnuv, vzdychnuv</em>
-* `EMPTY` (24898): <em>je, řekl, má, měl, mám, bylo, měla, řekla, mohl, chtěl</em>
+* `EMPTY` (24944): <em>je, řekl, má, měl, mám, bylo, měla, řekla, mohl, chtěl</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (45) occur only with one value of `Aspect`.
 

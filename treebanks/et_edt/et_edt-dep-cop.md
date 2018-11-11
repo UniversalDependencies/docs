@@ -8,53 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8836 nodes (2%) are attached to their parents as `cop`.
+10334 nodes (2%) are attached to their parents as `cop`.
 
-6544 instances of `cop` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28757356269805.
+7692 instances of `cop` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.31227017611767.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (3675; 42% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (3319; 38% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (790; 9% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (689; 8% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (197; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (116; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 cop	color:blue
-1	Nende	see	DET	P	Case=Gen|Number=Plur|PronType=Dem	2	det	_	_
-2	puude	puu	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
-3	eluiga	elu_iga	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
-4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-5	tavaliselt	tavaliselt	ADV	D	_	7	advmod	_	_
-6	200-300	200-300	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
-7	aastat	aasta	NOUN	S	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 cop	color:blue
-1	“	“	PUNCT	Z	_	6	punct	_	_
-2	Kari	kari	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
-3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
-4	ka	ka	ADV	D	_	6	advmod	_	_
-5	vägade	vägade	NOUN	S	Case=Gen|Number=Sing	6	obl	_	_
-6	hea	hea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	Z	_	11	punct	_	_
-8	see	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	11	det	_	_
-9	tumepunane	tume_punane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
-10	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
-11	kari	kari	NOUN	S	Case=Nom|Number=Sing	2	appos	_	SpaceAfter=No
-12	.	.	PUNCT	Z	_	6	punct	_	_
-13	”	”	PUNCT	Z	_	6	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (4362; 42% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (3865; 37% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (899; 9% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (761; 7% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (251; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (115; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (52; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,12 +22,55 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop	color:blue
-1	“	“	PUNCT	Z	_	2	punct	_	_
-2	Minul	mina	PRON	P	Case=Ade|Number=Sing|Person=1|PronType=Prs	0	root	_	_
-3	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-4	häda	häda	NOUN	S	Case=Par|Number=Sing	2	nsubj:cop	_	_
-5	midägit	midägi	NOUN	S	Case=Par|Number=Sing	4	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	Z	_	2	punct	_	_
+1	Huvitav	huvitav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+2	küsimus	küsimus	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	millest	mis	PRON	P	Case=Ela|Number=Sing|PronType=Int,Rel	8	obl	_	_
+6	need	see	DET	P	Case=Nom|Number=Plur|PronType=Dem	7	det	_	_
+7	kirjad	kiri	NOUN	S	Case=Nom|Number=Plur	8	nsubj	_	_
+8	jutustavad	jutustama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	_	SpaceAfter=No
+9	?	?	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 cop	color:blue
+1	Nagu	nagu	SCONJ	J	_	2	mark	_	_
+2	Fellini	Fellini	PROPN	S	Case=Nom|Number=Sing	9	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	Z	_	9	punct	_	_
+4	olete	olema	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+5	te	sina	PRON	P	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj:cop	_	_
+6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
+7	filmides	film	NOUN	S	Case=Ine|Number=Plur	9	obl	_	_
+8	tohutult	tohutult	ADV	D	_	9	advmod	_	_
+9	erootiline	erootiline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cop	color:blue
+1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	kaldun	kalduma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	arvama	arvama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	Z	_	9	punct	_	_
+5	et	et	SCONJ	J	_	9	mark	_	_
+6	Vermeeri	Vermeer	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	saatus	saatus	NOUN	S	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+8	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	teistsugune	teist_sugune	PRON	P	Case=Nom|Number=Sing|PronType=Dem	3	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

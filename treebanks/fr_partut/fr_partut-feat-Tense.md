@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
 2736 tokens (10%) have a non-empty value of `Tense`.
 1025 types (25%) occur at least once with a non-empty value of `Tense`.
-525 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+523 lemmas (17%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1732; 6% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1004; 4% instances).
 
 ### `VERB`

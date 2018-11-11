@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (1776; 70% of non-empty `Case`): <em>se, o, me, a, nos, lo, os, la, as, los</em>
 * `Dat` (228; 9% of non-empty `Case`): <em>lhe, me, nos, lhes, se, Ihe, vos</em>
 * `Nom` (533; 21% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4701): <em>que, o, isso, quem, tudo, isto, nada, os, qual, todos</em>
+* `EMPTY` (4699): <em>que, o, isso, quem, tudo, isto, nada, os, qual, todos</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `SCONJ` tokens may have the following values of `Case`:
 
 * `Acc` (2; 100% of non-empty `Case`): <em>se</em>
-* `EMPTY` (2212): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
+* `EMPTY` (2213): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
 
 ## Relations with Agreement in `Case`
 

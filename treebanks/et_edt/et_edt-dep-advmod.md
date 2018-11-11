@@ -7,47 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: <tt><a href="et_edt-dep-advmod-quant.html">advmod:quant</a></tt>.
 
-27957 nodes (8%) are attached to their parents as `advmod`.
+33072 nodes (8%) are attached to their parents as `advmod`.
 
-21001 instances of `advmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9782523160568.
+24990 instances of `advmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97178882438316.
 
-The following 28 pairs of parts of speech are connected with `advmod`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (14286; 51% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (5054; 18% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4453; 16% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1976; 7% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (761; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (585; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (494; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (215; 1% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (95; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Mees	mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
-2	asuski	asuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	burgerit	burger	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
-4	lähemalt	lähemalt	ADV	D	_	5	advmod	_	_
-5	uurimata	uurima	VERB	V	Case=Abe|VerbForm=Sup|Voice=Act	6	advcl	_	_
-6	sööma	sööma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	xcomp	_	SpaceAfter=No
-7	.	.	PUNCT	Z	_	2	punct	_	_
-
-~~~
+The following 26 pairs of parts of speech are connected with `advmod`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (16596; 50% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (6066; 18% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (5332; 16% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2309; 7% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (866; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (696; 2% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (627; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (260; 1% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (104; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (82; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (68; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 advmod	color:blue
-1	Nende	see	DET	P	Case=Gen|Number=Plur|PronType=Dem	2	det	_	_
-2	puude	puu	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
-3	eluiga	elu_iga	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
-4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-5	tavaliselt	tavaliselt	ADV	D	_	7	advmod	_	_
-6	200-300	200-300	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
-7	aastat	aasta	NOUN	S	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advmod	color:blue
+1	Mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+3	Vermeeri	Vermeer	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	looming	looming	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+5	alati	alati	ADV	D	_	6	advmod	_	_
+6	fastsineerinud	fastsineerima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	_	_
 
 ~~~
 
@@ -58,14 +39,34 @@ The following 28 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod	color:blue
-1	58aastane	58_aastane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
-2	statistikaprofessor	statistika_professor	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-3	vedas	vedama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	paberitükile	paberi_tükk	NOUN	S	Case=All|Number=Sing	3	obl	_	_
-5	üha	üha	ADV	D	_	6	advmod	_	_
-6	uusi	uus	ADJ	A	Case=Par|Degree=Pos|Number=Plur	7	amod	_	_
-7	nooli	nool	NOUN	S	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	3	punct	_	_
+1	Kahjuks	kahjuks	ADV	D	_	2	advmod	_	_
+2	teatakse	teadma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	ajaloos	aja_lugu	NOUN	S	Case=Ine|Number=Sing	2	obl	_	_
+4	oopereid	ooper	NOUN	S	Case=Par|Number=Plur	2	obj	_	_
+5	peamiselt	peamiselt	ADV	D	_	6	advmod	_	_
+6	heliloojate	heli_looja	NOUN	S	Case=Gen|Number=Plur	2	obl	_	_
+7	järgi	järgi	ADP	K	AdpType=Post	6	case	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advmod	color:blue
+1	Nagu	nagu	SCONJ	J	_	2	mark	_	_
+2	Fellini	Fellini	PROPN	S	Case=Nom|Number=Sing	9	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	Z	_	9	punct	_	_
+4	olete	olema	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+5	te	sina	PRON	P	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj:cop	_	_
+6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
+7	filmides	film	NOUN	S	Case=Ine|Number=Plur	9	obl	_	_
+8	tohutult	tohutult	ADV	D	_	9	advmod	_	_
+9	erootiline	erootiline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	_	_
 
 ~~~
 

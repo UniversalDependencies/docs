@@ -9,17 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-195 tokens (0%) have a non-empty value of `Foreign`.
+218 tokens (0%) have a non-empty value of `Foreign`.
 1 types (0) occur at least once with a non-empty value of `Foreign`.
 1 lemmas (0) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ja_bccwj-pos-X.html">X</a></tt> (195; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ja_bccwj-pos-X.html">X</a></tt> (218; 0% instances).
 
 ### `X`
 
-195 <tt><a href="ja_bccwj-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Foreign`.
+218 <tt><a href="ja_bccwj-pos-X.html">X</a></tt> tokens (38% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (195; 100% of non-empty `Foreign`): _
-* `EMPTY` (19585): _
+* `Yes` (218; 100% of non-empty `Foreign`): _
+* `EMPTY` (360): _
+
+## Relations with Agreement in `Foreign`
+
+The 10 most frequent relations where parent and child node agree in `Foreign`:
+<tt>X --[<tt><a href="ja_bccwj-dep-dep.html">dep</a></tt>]--> X</tt> (15; 100%).
 

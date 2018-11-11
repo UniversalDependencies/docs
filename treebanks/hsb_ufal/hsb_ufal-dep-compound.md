@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-52 nodes (0%) are attached to their parents as `compound`.
+53 nodes (0%) are attached to their parents as `compound`.
 
-27 instances of `compound` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01923076923077.
+28 instances of `compound` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.0188679245283.
 
-The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (29; 56% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (7; 13% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (33; 62% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (8; 15% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,32 +56,20 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 13 compound	color:blue
-1	Něhdźe	něhdźe	ADV	_	PronType=Ind	5	advmod:emph	_	_
-2	2	2	NUM	_	NumType=Card	5	nummod:gov	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-4	100	100	NUM	_	NumType=Card	2	compound	_	_
-5	kupow	kupa	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nsubj	_	_
-6	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-7	z	z	ADP	_	_	8	case	_	_
-8	tych	tón	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	5	nmod	_	_
-9	wobsydlene	wobsydleny	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	cyłkownje	cyłkownje	ADV	_	Degree=Pos	12	advmod	_	_
-12	wobydla	wobydlić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
-13	14	14	NUM	_	NumType=Card	16	compound	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	9	9	NUM	_	NumType=Card	13	compound	_	_
-16	Mio	milion	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card	18	nummod:gov	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	16	punct	_	_
-18	čłowjekow	čłowjek	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	_
-19	na	na	ADP	_	_	20	case	_	_
-20	tych	tón	DET	_	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem	12	obl	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 compound	color:blue
+1	Wikipedija	Wikipedija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	natwarjena	natwarjeny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	na	na	ADP	_	_	5	case	_	_
+5	zasadach	zasada	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	3	nmod	_	_
+6	GNU	GNU	PROPN	_	Abbr=Yes	8	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	Licency	licenca	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

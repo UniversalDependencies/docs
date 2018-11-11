@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-88606 tokens (8%) have a non-empty value of `Mood`.
+88616 tokens (8%) have a non-empty value of `Mood`.
 17852 types (15%) occur at least once with a non-empty value of `Mood`.
 6104 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7373; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1529; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7373; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1539; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
 
 ### `VERB`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (1010; 1% of non-empty `Mood`): <em>см., давайте, представьте, давай, дай, извините, иди, смотри, Вспомните, Помогите</em>
 * `Ind` (77283; 99% of non-empty `Mood`): <em>может, есть, нет, могут, было, является, стал, сказал, говорит, стало</em>
-* `EMPTY` (45425): <em>быть, сделать, сказать, делать, получить, говорить, работать, стать, говоря, иметь</em>
+* `EMPTY` (45419): <em>быть, сделать, сказать, делать, получить, говорить, работать, стать, говоря, иметь</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -70,12 +70,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `PART`
 
-1529 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Mood`.
+1539 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Mood`.
 
 `PART` tokens may have the following values of `Mood`:
 
-* `Cnd` (1529; 100% of non-empty `Mood`): <em>бы, б</em>
-* `EMPTY` (33856): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
+* `Cnd` (1539; 100% of non-empty `Mood`): <em>бы, б</em>
+* `EMPTY` (33836): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
 
 ### `SCONJ`
 

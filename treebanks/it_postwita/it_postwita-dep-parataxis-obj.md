@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:obj`: <t
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 parataxis:obj	color:blue
-1	@Fradale91	@Fradale91	SYM	SYM	_	4	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
 2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
 3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No

@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 780 tokens (7%) have a non-empty value of `PronType`.
 167 types (4%) occur at least once with a non-empty value of `PronType`.
 62 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (333; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (306; 3% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (141; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (333; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (322; 3% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (124; 1% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -35,41 +35,53 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-306 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
+322 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (270; 88%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (229; 75%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (229; 75%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (216; 71%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (201; 66%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (163; 53%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (286; 89%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (245; 76%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (245; 76%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (232; 72%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (217; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (163; 51%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (70; 23% of non-empty `PronType`): <em>tute, tutón, tuta, tutu, tutych, tutej, tutym, tutoho, tych, tajke</em>
-* `Ind` (22; 7% of non-empty `PronType`): <em>někotrych, někotre, někotři, wšelake, kóždychžkuli, mnoho, někajke, někajkeho, někajkej</em>
-* `Neg` (8; 3% of non-empty `PronType`): <em>žane, žadyn, žana, žanu</em>
-* `Prs` (105; 34% of non-empty `PronType`): <em>n, jeho, jich, swoje, swoju, jeje, swojich, swój, Naš, swojej</em>
-* `Rel` (73; 24% of non-empty `PronType`): <em>kotrež, kotryž, kotraž, kotrychž, kotrejž, kotrymž, kotřiž, kajke, kotrehož, kotrejež</em>
-* `Tot` (28; 9% of non-empty `PronType`): <em>wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, woběmaj, wšeho, wšemu</em>
+* `Dem` (70; 22% of non-empty `PronType`): <em>tute, tutón, tuta, tutu, tutych, tutej, tutym, tutoho, tych, tajke</em>
+* `Ind` (39; 12% of non-empty `PronType`): <em>wjele, někotrych, někotre, někotři, mnoho, wšelake, kóždychžkuli, mjenje, najwjace, někajke</em>
+* `Neg` (8; 2% of non-empty `PronType`): <em>žane, žadyn, žana, žanu</em>
+* `Prs` (105; 33% of non-empty `PronType`): <em>n, jeho, jich, swoje, swoju, jeje, swojich, swój, Naš, swojej</em>
+* `Rel` (73; 23% of non-empty `PronType`): <em>kotrež, kotryž, kotraž, kotrychž, kotrejž, kotrymž, kotřiž, kajke, kotrehož, kotrejež</em>
+* `Tot` (27; 8% of non-empty `PronType`): <em>wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, kóždym, wšeho, wšemu, wšitke</em>
 * `EMPTY` (5): <em>kotry, n, swojimi, tudyšej, tutej</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (24) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (27) occur only with one value of `PronType`.
 
 ### `ADV`
 
-141 <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
+124 <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (106; 75%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (105; 85%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (75; 53% of non-empty `PronType`): <em>tak, tu, potom, tam, nětko, potajkim, tohodla, Pódla, Tuchwilu, to</em>
-* `Ind` (58; 41% of non-empty `PronType`): <em>něhdźe, wjele, druhdy, wjace, mjenje, něhdy, tróšku, najwjace, mjeńše, mnoho</em>
+* `Dem` (75; 60% of non-empty `PronType`): <em>tak, tu, potom, tam, nětko, potajkim, tohodla, Pódla, Tuchwilu, to</em>
+* `Ind` (41; 33% of non-empty `PronType`): <em>něhdźe, druhdy, wjace, něhdy, wjele, mjenje, tróšku, mjeńše, najwjace</em>
 * `Int,Rel` (5; 4% of non-empty `PronType`): <em>kak</em>
 * `Neg` (1; 1% of non-empty `PronType`): <em>nihdźe</em>
-* `Rel` (2; 1% of non-empty `PronType`): <em>hdźež, čehoždla</em>
-* `EMPTY` (398): <em>tež, hišće, zwjetša, hižo, najprjedy, zaso, němsce, přeco, často, bóle</em>
+* `Rel` (2; 2% of non-empty `PronType`): <em>hdźež, čehoždla</em>
+* `EMPTY` (411): <em>tež, hišće, zwjetša, hač, hižo, najprjedy, zaso, němsce, přeco, zdźěla</em>
 
-`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (30) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (29) occur only with one value of `PronType`.
+
+### `NUM`
+
+1 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `PronType`:
+
+* `Tot` (1; 100% of non-empty `PronType`): <em>woběmaj</em>
+* `EMPTY` (381): <em>2, 1, 6, 4, 3, jedyn, 5, 7, I, 000</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (1; 100%),
+<tt>DET --[<tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1; 100%).
 

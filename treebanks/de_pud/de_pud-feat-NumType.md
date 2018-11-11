@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 353 tokens (2%) have a non-empty value of `NumType`.
 210 types (3%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (17%) occur at least once with a non-empty value of `NumType`.
+207 lemmas (4%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (352; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NUM`
@@ -21,6 +21,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-NUM.html
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (352; 100% of non-empty `NumType`): <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
+
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (206) occur only with one value of `NumType`.
 
 ### `ADJ`
 

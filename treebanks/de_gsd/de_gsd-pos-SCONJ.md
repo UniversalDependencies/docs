@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-GSD: POS Tags: `SCONJ`
 
 There are 56 `SCONJ` lemmas (0%), 57 `SCONJ` types (0%) and 1802 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>dass, da, wenn, als, daß, nachdem, weil, wie, während, ob</em>
 
@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>dass</em> (<tt><a href="de_gsd-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.017857 (the average of all parts of speech is 1.185602).
+The form / lemma ratio of `SCONJ` is 1.017857 (the average of all parts of speech is 1.185142).
 
 The 1st highest number of forms (2) was observed with the lemma “d”: <em>das, den</em>.
 
@@ -88,19 +88,19 @@ Examples: <em>dass, da, wenn, als, daß, nachdem, weil, während, wie, ob</em>
 
 `SCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (1772; 98% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (9; 0% instances), <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1525; 85% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (159; 9% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (86; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1525; 85% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (159; 9% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (87; 5% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-1710 (95%) `SCONJ` nodes are leaves.
+1705 (95%) `SCONJ` nodes are leaves.
 
-85 (5%) `SCONJ` nodes have one child.
+88 (5%) `SCONJ` nodes have one child.
 
 5 (0%) `SCONJ` nodes have two children.
 
-2 (0%) `SCONJ` nodes have three or more children.
+4 (0%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 3.
+The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (74; 73% instances), <tt><a href="de_gsd-dep-punct.html">punct</a></tt> (10; 10% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (5; 5% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (74; 66% instances), <tt><a href="de_gsd-dep-punct.html">punct</a></tt> (21; 19% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (5; 4% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="de_gsd-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (70; 69% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (10; 10% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (70; 63% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (21; 19% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 1% instances)
 

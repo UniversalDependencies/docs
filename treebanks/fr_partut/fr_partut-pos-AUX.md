@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `AUX`
 
-There are 11 `AUX` lemmas (0%), 84 `AUX` types (2%) and 1099 `AUX` tokens (4%).
-Out of 17 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 8 `AUX` lemmas (0%), 84 `AUX` types (2%) and 1099 `AUX` tokens (4%).
+Out of 17 observed tags, the rank of `AUX` is: 12 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>être, avoir, pouvoir, devoir, vouloir, aller, suivre, étayer, etre, est</em>
+The 10 most frequent `AUX` lemmas: <em>être, avoir, pouvoir, devoir, vouloir, aller, savoir, étayer</em>
 
 The 10 most frequent `AUX` types:  <em>est, a, sont, être, été, ont, peut, voudrais, doit, devrait</em>
 
-The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 581, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 33, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>avoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 240, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 113), <em>pouvoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 110, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>devoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 93, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>vouloir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 43, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 4), <em>aller</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 15, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 7), <em>suivre</em> (<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 10, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 7), <em>étayer</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 5, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>est</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 1), <em>savoir</em> (<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 27, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 596, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 33, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>avoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 240, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 113), <em>pouvoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 110, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>devoir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 93, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>vouloir</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 43, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 4), <em>aller</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 15, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 7), <em>savoir</em> (<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 27, <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 1), <em>étayer</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 1, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 225, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 22, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>a</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 114, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_partut-pos-X.html">X</a></tt> 2, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>sont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 90, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>être</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 73, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 2), <em>été</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 70, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2), <em>ont</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 61, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 16), <em>peut</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 42, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>étaient</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1), <em>était</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 13, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 1)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 7.636364 (the average of all parts of speech is 1.360544).
+The form / lemma ratio of `AUX` is 10.500000 (the average of all parts of speech is 1.361807).
 
 The 1st highest number of forms (20) was observed with the lemma “avoir”: <em>a, ai, aient, ait, aurai, aurais, aurait, aurions, aurons, auront, avaient, avais, avait, avez, avions, avoir, avons, ayant, ayons, ont</em>.
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-6763 tokens (8%) have a non-empty value of `Person`.
-229 types (2%) occur at least once with a non-empty value of `Person`.
-193 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4436; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1448; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (879; 1% instances).
+6764 tokens (8%) have a non-empty value of `Person`.
+230 types (2%) occur at least once with a non-empty value of `Person`.
+194 lemmas (3%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4436; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1448; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (880; 1% instances).
 
 ### `PRON`
 
@@ -47,15 +47,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-879 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Person`.
+880 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (879; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (879; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (879; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (657; 75%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (880; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (880; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (880; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (658; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (224; 25% of non-empty `Person`): <em>was, am</em>
-* `3` (655; 75% of non-empty `Person`): <em>is, 's, has, says, does, goes, makes, knows, means, contains</em>
-* `EMPTY` (8985): <em>said, do, know, had, have, see, made, going, make, get</em>
+* `3` (656; 75% of non-empty `Person`): <em>is, 's, has, says, does, goes, makes, knows, means, contains</em>
+* `EMPTY` (8983): <em>said, do, know, had, have, see, made, going, make, get</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 99% lemmas (184) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 99% lemmas (185) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

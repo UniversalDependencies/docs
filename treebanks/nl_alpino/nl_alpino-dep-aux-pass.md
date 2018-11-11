@@ -22,14 +22,14 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 aux:pass	color:blue
-1	Waarmee	waarmee	ADV	BW	_	10	amod	10:amod	_
+1	Waarmee	waarmee	ADV	BW	_	10	advmod	10:advmod	_
 2	het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
 3	pad	pad	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
 4	voor	voor	ADP	VZ|init	_	7	case	7:case	_
 5	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
 6	rappe	rap	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	amod	7:amod	_
-7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl	_
-8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	_
+7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl:voor	_
+8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 10	geëffend	effenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	LET	_	10	punct	10:punct	_
@@ -48,9 +48,9 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	zes	zes	NUM	TW|hoofd|prenom|stan	_	4	nummod	4:nummod	_
 4	maanden	maanden	NOUN	N|soort|mv|basis	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
 5	met	met	ADP	VZ|init	_	6	case	6:case	_
-6	aftrek	aftrek	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod	_
+6	aftrek	aftrek	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:met	_
 7	tegen	tegen	ADP	VZ|init	_	8	case	8:case	_
-8	K.	K.	SYM	SPEC|symb	_	9	obl	9:obl	_
+8	K.	K.	SYM	SPEC|symb	_	9	obl	9:obl:tegen	_
 9	geeist	eisen	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	LET	_	9	punct	9:punct	_
 
@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	vertrok	vertrekken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	nadat	nadat	SCONJ	VG|onder	_	5	mark	5:mark	_
 4	mij	mij	PRON	VNW|pr|pron|obl|vol|1|ev	Case=Acc|Person=1|PronType=Prs	5	iobj	5:iobj	_
-5	duidelijk	duidelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	2	advcl	2:advcl	_
+5	duidelijk	duidelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	2	advcl	2:advcl:nadat	_
 6	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
 7	geworden	worden	AUX	WW|vd|vrij|zonder	VerbForm=Part	5	cop	5:cop	_
 8	dat	dat	SCONJ	VG|onder	_	10	mark	10:mark	_

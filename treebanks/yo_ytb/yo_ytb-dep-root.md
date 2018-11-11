@@ -11,7 +11,7 @@ This relation is universal.
 100 nodes (4%) are attached to their parents as `root`.
 
 100 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.79.
+Average distance between parent and child is 4.74.
 
 The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (89; 89% instances), -<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), -<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), -<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 1% instances), -<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), -<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
@@ -61,12 +61,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
 1	ayé	ayé	NOUN	_	_	5	nsubj	_	Gloss=earth
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
 3	wà	wà	AUX	_	_	5	cop	_	Gloss=was
 4	ní	ní	ADP	_	_	5	case	_	Gloss=in
 5	rúdurùdu	rúdurùdu	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=confusion
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-7	ó	ó	PRON	_	_	9	nsubj	_	Gloss=he
+7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he
 8	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and
 9	ṣófo	ṣófo	ADJ	_	_	0	root	_	SpaceAfter=No|Gloss=empty
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
@@ -81,13 +81,11 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 19	ọlọ́run	ọlọ́run	NOUN	_	_	22	nsubj	_	Gloss=god
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and
 21	ń	ń	VERB	_	_	22	cop	_	Gloss=that
-22	rá	rá	NOUN	_	_	9	csubj	_	Gloss=sweeping
-23	bà	bà	VERB	_	_	24	goeswith	_	SpaceAfter=No|Gloss=father
-24	bà	bà	VERB	_	_	22	obj	_	Gloss=father
-25	lójú	lójú	ADP	_	_	26	case	_	Gloss=sight
-26	omi	omi	NOUN	_	_	22	obl	_	Gloss=water
-27	gbogbo	gbogbo	DET	_	_	26	det	_	SpaceAfter=No|Gloss=all
-28	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+22	rábàbà	rábàbà	NOUN	_	_	9	csubj	_	Gloss=sweeping
+23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight
+24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water
+25	gbogbo	gbogbo	DET	_	_	24	det	_	SpaceAfter=No|Gloss=all
+26	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 ~~~
 

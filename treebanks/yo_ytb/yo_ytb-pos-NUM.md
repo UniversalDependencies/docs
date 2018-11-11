@@ -7,11 +7,11 @@ udver: '2'
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `NUM`
 
 There are 6 `NUM` lemmas (1%), 6 `NUM` types (1%) and 11 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan</em>
+The 10 most frequent `NUM` lemmas: <em>kan, Mẹ́ẹ̀dógún, kárùn-ún, méjì, mẹ́rin, Ọ̀kan</em>
 
-The 10 most frequent `NUM` types:  <em>kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan</em>
+The 10 most frequent `NUM` types:  <em>kan, Mẹ́ẹ̀dógún, kárùn-ún, méjì, mẹ́rin, Ọ̀kan</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -27,7 +27,7 @@ The 1st highest number of forms (1) was observed with the lemma “Mẹ́ẹ̀d�
 
 The 2nd highest number of forms (1) was observed with the lemma “kan”: <em>kan</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “kárùn”: <em>kárùn</em>.
+The 3rd highest number of forms (1) was observed with the lemma “kárùn-ún”: <em>kárùn-ún</em>.
 
 `NUM` occurs with 1 features: <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (11; 100% instances)
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “kárùn”: <
 
 `NUM` occurs with 1 feature combinations.
 The most frequent feature combination is `NumType=Card` (11 tokens).
-Examples: <em>kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan</em>
+Examples: <em>kan, Mẹ́ẹ̀dógún, kárùn-ún, méjì, mẹ́rin, Ọ̀kan</em>
 
 
 ## Relations
@@ -44,15 +44,15 @@ Examples: <em>kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan</em>
 
 Parents of `NUM` nodes belong to 3 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 9% instances)
 
-9 (82%) `NUM` nodes are leaves.
+10 (91%) `NUM` nodes are leaves.
 
-1 (9%) `NUM` nodes have one child.
+0 (0%) `NUM` nodes have one child.
 
 1 (9%) `NUM` nodes have two children.
 
 The highest child degree of a `NUM` node is 2.
 
-Children of `NUM` nodes are attached using 3 different relations: <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 33% instances), <tt><a href="yo_ytb-dep-goeswith.html">goeswith</a></tt> (1; 33% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (1; 33% instances)
+Children of `NUM` nodes are attached using 2 different relations: <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 50% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (1; 50% instances)
 
-Children of `NUM` nodes belong to 2 different parts of speech: <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 33% instances)
+Children of `NUM` nodes belong to 2 different parts of speech: <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
 

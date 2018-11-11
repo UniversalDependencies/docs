@@ -28,10 +28,10 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	parlementaire	parlementaire	ADJ	_	Number=Sing	2	amod	_	_
 4	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	constituée	constituer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2	2	NUM	_	NumType=Card	8	nummod	_	_
-8	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
-9	1953	1953	NUM	_	NumType=Card	8	nummod	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	2	2	NUM	_	NumType=Card	5	obl:mod	_	_
+8	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+9	1953	1953	NUM	_	NumType=Card	8	nmod	_	_
 10	;	;	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	annulée	annuler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	en	en	ADP	_	_	5	case	_	_
 5	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
-6	2000	2000	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+6	2000	2000	NUM	_	NumType=Card	5	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

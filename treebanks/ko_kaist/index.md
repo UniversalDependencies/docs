@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Korean Kaist
 
-Language: [Korean](../ko/overview/ko-hub.html) (code: `ko`)<br/>
+Language: [Korean](/ko/index.html) (code: `ko`)<br/>
 Family: Korean
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,11 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-Kaist](https://github.com/UniversalDependencies/UD_Korean-Kaist)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_kaist22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: news, literature, academic
+Genre: news, fiction, academic
 
 Questions, comments?
 General annotation questions (either Korean-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -139,16 +140,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
-
-
-
 
 
 
@@ -162,20 +154,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 
 
-
-
-
-
-
 <h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-
-
-
-
-
-
 
 
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Amharic ATT
 
-Language: [Amharic](../am/overview/am-hub.html) (code: `am`)<br/>
+Language: [Amharic](/am/index.html) (code: `am`)<br/>
 Family: Afro-Asiatic, Semitic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Binyam Ephrem, Gashaw Arutie, Tsegay Woldemariam, Juan Ignacio Navarro Horñiacek.
 
 Repository: [UD_Amharic-ATT](https://github.com/UniversalDependencies/UD_Amharic-ATT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -57,6 +58,8 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 ## References
 
 * Binyam Ephrem Seyoum ,Yusuke Miyao and Baye Yimam Mekonnen.2018.Universal Dependencies for Amharic. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), pp. 2216–2222, Miyazaki, Japan: European Language Resources Association (ELRA)
+
+
 
 # Statistics of UD Amharic ATT
 

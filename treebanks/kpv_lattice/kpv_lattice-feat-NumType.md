@@ -8,29 +8,23 @@ udver: '2'
 
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
-Some words have combined values of the feature; 1 combinations have been observed: `Card|Ord`.
 
-8 tokens (1%) have a non-empty value of `NumType`.
-4 types (1%) occur at least once with a non-empty value of `NumType`.
-4 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+17 tokens (1%) have a non-empty value of `NumType`.
+13 types (1%) occur at least once with a non-empty value of `NumType`.
+13 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-7 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+16 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 71%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 69%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (6; 86% of non-empty `NumType`): <em>ӧти, нёль, кык</em>
-* `Card,Ord` (1; 14% of non-empty `NumType`): <em>ӧти</em>
+* `Card` (16; 100% of non-empty `NumType`): <em>ӧти, нёль, 12-20, 16, 18, 1940, 29, 3, 4, 5</em>
 
-<table>
-  <tr><th>Paradigm <i>ӧти</i></th><th><tt>Card</tt></th><th><tt>Card,Ord</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>ӧти</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ӧти</em></td></tr>
-</table>
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (12) occur only with one value of `NumType`.
 
 ### `PRON`
 
@@ -41,5 +35,10 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>мӧд</em>
-* `EMPTY` (73): <em>сійӧ, тайӧ, мый, сы, ми, сылӧн, кодъяс, коді, миян, найӧ</em>
+* `EMPTY` (133): <em>сійӧ, тайӧ, сы, мый, коді, миян, сэтшӧм, кодъяс, став, тэ</em>
+
+## Relations with Agreement in `NumType`
+
+The 10 most frequent relations where parent and child node agree in `NumType`:
+<tt>NUM --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Indonesian PUD
 
-Language: [Indonesian](../id/overview/id-hub.html) (code: `id`)<br/>
+Language: [Indonesian](/id/index.html) (code: `id`)<br/>
 Family: Austronesian, Malayo-Sumbawan
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Ruli Manurung, Muh Shohibussirri, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 3.0
 

@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-5980 tokens (7%) have a non-empty value of `Degree`.
+5981 tokens (7%) have a non-empty value of `Degree`.
 2343 types (18%) occur at least once with a non-empty value of `Degree`.
 1706 lemmas (19%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5172; 6% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (787; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (5172; 6% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (788; 1% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
 5172 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5137; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3377; 65%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3360; 65%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3112; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5138; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3378; 65%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3359; 65%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3113; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -43,14 +43,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-787 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Degree`.
+788 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (131; 17% of non-empty `Degree`): <em>senare, mer, tidigare, vidare, längre, mindre, mera, bättre, närmare, ytterligare</em>
-* `Pos` (567; 72% of non-empty `Degree`): <em>mycket, helt, länge, lite, väl, längre, faktiskt, långt, snabbt, snart</em>
+* `Pos` (568; 72% of non-empty `Degree`): <em>mycket, helt, länge, lite, väl, längre, faktiskt, långt, snabbt, snart</em>
 * `Sup` (89; 11% of non-empty `Degree`): <em>helst, mest, minst, sist, ytterst, längst, oftast, senast, knappast, bäst</em>
-* `EMPTY` (5270): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
+* `EMPTY` (5269): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>Visual</em>
-* `EMPTY` (2701): <em>Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Weasley, Ron, Dobby</em>
+* `EMPTY` (2697): <em>Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Weasley, Ron, Dobby</em>
 
 ## Relations with Agreement in `Degree`
 

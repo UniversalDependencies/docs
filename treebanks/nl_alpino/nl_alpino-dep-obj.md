@@ -41,7 +41,7 @@ The following 27 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Moeder	moeder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
 2	Mien	Mien	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 3	spoorde	sporen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	haar	haar	PRON	VNW|pers|pron|obl|vol|3|getal|fem	Case=Acc|Person=3|PronType=Prs	3	obj	3:obj|9:nsubj	_
+4	haar	haar	PRON	VNW|pers|pron|obl|vol|3|getal|fem	Case=Acc|Person=3|PronType=Prs	3	obj	3:obj|9:nsubj:xsubj	_
 5	aan	aan	ADP	VZ|fin	_	3	compound:prt	3:compound:prt	_
 6	toch	toch	ADV	BW	_	9	advmod	9:advmod	_
 7	op	op	ADP	VZ|fin	_	9	compound:prt	9:compound:prt	_

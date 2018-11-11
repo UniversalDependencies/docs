@@ -20,8 +20,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-A
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (263; 4% of non-empty `Degree`): <em>later, verder, beter, hogere, vroegere, jongeren, latere, oudere, verdere, groter</em>
-* `Pos` (6125; 92% of non-empty `Degree`): <em>Vlaamse, belgische, andere, grote, nieuwe, externe, eigen, federale, politieke, verschillende</em>
+* `Cmp` (264; 4% of non-empty `Degree`): <em>later, verder, beter, hogere, vroegere, jongeren, latere, oudere, verdere, groter</em>
+* `Pos` (6124; 92% of non-empty `Degree`): <em>Vlaamse, belgische, andere, grote, nieuwe, externe, eigen, federale, politieke, verschillende</em>
 * `Sup` (252; 4% of non-empty `Degree`): <em>grootste, laatste, belangrijkste, hoogste, oudste, beste, bekendste, best, kleinste, mooiste</em>
 * `EMPTY` (467): <em>eerste, tweede, eerst, derde, 20e, 19e, twintigste, vierde, 20ste, negentiende</em>
 
@@ -30,16 +30,16 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-A
   <tr><td><tt></tt></td><td><em>grote, groot, groten</em></td><td><em>groter, grotere</em></td><td><em>grootste</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1281) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1280) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> ADJ</tt> (172; 99%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> ADJ</tt> (171; 99%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (114; 91%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (35; 85%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt>]--> ADJ</tt> (31; 97%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-flat-name.html">flat:name</a></tt>]--> ADJ</tt> (12; 100%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt>]--> ADJ</tt> (12; 100%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt>]--> ADJ</tt> (7; 78%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (3; 100%),

@@ -22,7 +22,7 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obj	color:blue
-1	@fmonopoli	@fmonopoli	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -43,7 +43,7 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 obj	color:blue
-1	@njallsfirstlove	@njallsfirstlove	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	_
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No

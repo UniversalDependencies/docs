@@ -8,32 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-109 nodes (1%) are attached to their parents as `ccomp`.
+184 nodes (1%) are attached to their parents as `ccomp`.
 
-106 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.54128440366972.
+181 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.15760869565217.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (76; 70% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (12; 11% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 ccomp	color:blue
-1	Զգաց	զգալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	որ	որ	SCONJ	_	_	4	mark	_	_
-4	ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	1	ccomp	_	_
-5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
-6	չլինել	լինել	VERB	_	Polarity=Neg|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
-7	այս	այս	DET	_	Distance=Prox|PronType=Dem	8	det	_	_
-8	բոլորի	բոլորը	PRON	_	Case=Gen|Definite=Ind|PronType=Tot	6	obl	_	_
-9	մեջ	մեջ	ADP	_	AdpType=Post|Case=Nom	8	case	_	SpaceAfter=No
-10	։	։	PUNCT	_	_	1	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (138; 75% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (19; 10% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (14; 8% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -42,52 +22,56 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 ccomp	color:blue
-1	—	—	PUNCT	_	_	15	punct	_	_
-2	Բայց	բայց	CCONJ	_	_	15	cc	_	_
-3	երբ	երբ	SCONJ	_	_	4	mark	_	_
-4	տեսավ	տեսնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	որ	որ	SCONJ	_	_	8	mark	_	_
-7	ծնվողը	ծնվող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	_
-8	մենակ	մենակ	ADJ	_	_	4	ccomp	_	_
-9	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
-10	՝	՝	PUNCT	_	_	12	punct	_	_
-11	պտուղը	պտուղ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	12	nsubj	_	_
-12	զույգ	զույգ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	8	conj	_	_
-13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	հասկացավ	հասկանալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	20	punct	_	_
-17	որ	որ	SCONJ	_	_	20	mark	_	_
-18	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	19	det:poss	_	_
-19	ուժերից	ուժ	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	20	obl	_	_
-20	վեր	վեր	ADV	_	Degree=Pos	15	ccomp	_	_
-21	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	cop	_	SpaceAfter=No
-22	։	։	PUNCT	_	_	15	punct	_	_
+1	Երկու	երկու	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	_
+2	դեպքում	դեպք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	4	obl	_	_
+3	էլ	էլ	ADV	_	_	2	advmod:emph	_	_
+4	տեսանք	տեսնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	mark	_	_
+6	թե	թե	SCONJ	_	_	8	mark	_	_
+7	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	8	obj	_	_
+8	եղավ	լինել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+9	հետո	հետո	ADV	_	_	8	advmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 1 ccomp	color:blue
-1	Առիթ	առիթ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	13	ccomp	_	_
-2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	թե	թե	CCONJ	_	_	5	cc	_	_
-5	պատճառ	պատճառ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	1	conj	_	_
-6	այդ	այդ	DET	_	Distance=Med|PronType=Dem	7	det	_	_
-7	ցույցը	ցույց	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	1	nsubj	_	SpaceAfter=No
-8	՝	՝	PUNCT	_	_	9	punct	_	_
-9	վստահ	վստահ	ADJ	_	Degree=Pos	0	root	_	_
-10	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	որ	որ	SCONJ	_	_	13	mark	_	_
-13	գիտեմ	գիտենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	9	xcomp	_	SpaceAfter=No
-14	:	:	PUNCT	_	_	9	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 ccomp	color:blue
+1	–	–	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Կարծում	կարծել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+3	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	SpaceAfter=No
+4	՝	՝	PUNCT	_	_	5	punct	_	_
+5	սերնդափոխություն	սերնդափոխություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	ccomp	_	_
+6	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	5	cop	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 9 ccomp	color:blue
+1	Միաժամանակ	միաժամանակ	ADV	_	_	2	advmod	_	_
+2	համարում	համարել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+3	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	որ	որ	SCONJ	_	_	9	mark	_	_
+6	այսօրվա	այսօր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	_
+7	հայ	հայ	ADJ	_	Degree=Pos	8	amod	_	_
+8	դիվանագիտությունը	դիվանագիտություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	9	nsubj	_	_
+9	պատրաստ	պատրաստ	ADJ	_	Degree=Pos	2	ccomp	_	_
+10	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	_
+11	նույնիսկ	նույնիսկ	PART	_	_	12	advmod:emph	_	_
+12	դրան	դա	PRON	_	Animacy=Nhum|Case=Dat|Distance=Dist|Number=Sing|PronType=Dem	9	obl	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

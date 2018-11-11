@@ -22,38 +22,44 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 det	color:blue
-1	Да	да	AUX	Tx	_	3	aux	_	_
-2	бях	съм	AUX	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
-3	по-млад	млад	ADJ	Amsi	Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	5	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	щях	ща	VERB	Vpitf-m1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-6	да	да	AUX	Tx	_	7	aux	_	_
-7	отида	отида-(си)	VERB	Vppif-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	_
-8	в	в	ADP	R	_	9	case	_	_
-9	гората	гора	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	7	iobj	_	_
-10	да	да	AUX	Tx	_	12	aux	_	_
-11	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	_	_
-12	уловя	уловя-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
-13	едно	един	DET	Pfe-os-ni	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	14	det	_	_
-14	славейче	славейче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
-15	.	.	PUNCT	punct	_	5	punct	_	_
+1	Да	да	AUX	Tx	_	3	aux	3:aux	_
+2	бях	съм	AUX	Vxitf-t1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+3	по-млад	млад	ADJ	Amsi	Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	5	advcl	5:advcl	SpaceAfter=No
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	щях	ща	VERB	Vpitf-m1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	да	да	AUX	Tx	_	7	aux	7:aux	_
+7	отида	отида-(си)	VERB	Vppif-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	5:xcomp	_
+8	в	в	ADP	R	_	9	case	9:case	_
+9	гората	гора	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	7	iobj	7:iobj	_
+10	да	да	AUX	Tx	_	12	aux	12:aux	_
+11	ти	аз	PRON	Ppetds2	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	12:iobj	_
+12	уловя	уловя-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	_
+13	едно	един	DET	Pfe-os-ni	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	14	det	14:det	_
+14	славейче	славейче	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	12	obj	12:obj	SpaceAfter=No
+15	.	.	PUNCT	punct	_	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 det	color:blue
-1	Присъстващите	присъствам	ADJ	Vpiicar-p-d	Aspect=Imp|Definite=Def|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	nsubj	_	_
-2	на	на	ADP	R	_	3	case	_	_
-3	събранието	събрание	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	1	obl	_	_
-4	сложиха	сложа-(се)	VERB	Vpptf-o3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	подписите	подпис	NOUN	Ncmpd	Definite=Def|Gender=Masc|Number=Plur	4	obj	_	_
-6	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	SpaceAfter=No
-7	.	.	PUNCT	punct	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 det	color:blue
+1	Той	аз	PRON	Ppe-os3m	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|10:nsubj	_
+2	подаде	подам-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	на	на	ADP	R	_	4	case	4:case	_
+4	слугата	слуга	NOUN	Ncmsd	Definite=Def|Gender=Masc|Number=Sing	2	iobj	2:iobj	_
+5	си	свой	PRON	Psxto	Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	4:det	_
+6	повода	повод	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	2	obj	2:obj	_
+7	на	на	ADP	R	_	8	case	8:case	_
+8	коня	кон	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	6	nmod	6:nmod:на	_
+9	и	и	CCONJ	Cp	_	10	cc	10:cc	_
+10	влезе	вляза	VERB	Vppif-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
+11	в	в	ADP	R	_	12	case	12:case	_
+12	двора	двор	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	10	iobj	10:iobj	SpaceAfter=No
+13	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 ~~~
 
@@ -64,16 +70,16 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 det	color:blue
-1	При	при	ADP	R	_	2	case	_	_
-2	стареца	старец	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	iobj	_	_
-3	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	останала	остана	VERB	Vppicao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	Христина	христина	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	punct	_	9	punct	_	_
-7	хубавата	хубав	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-8	му	мой	PRON	Psot--3--m	Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-9	внучка	внучка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	4	punct	_	_
+1	При	при	ADP	R	_	2	case	2:case	_
+2	стареца	старец	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	4	iobj	4:iobj	_
+3	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+4	останала	остана	VERB	Vppicao-sfi	Aspect=Perf|Definite=Ind|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	Христина	христина	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No
+6	,	,	PUNCT	punct	_	9	punct	9:punct	_
+7	хубавата	хубав	ADJ	Afsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	_
+8	му	мой	PRON	Psot--3--m	Person=3|Poss=Yes|PronType=Prs	7	det	7:det	_
+9	внучка	внучка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
+10	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 ~~~
 

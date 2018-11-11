@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `NUM`
 
 There are 14 `NUM` lemmas (1%), 14 `NUM` types (1%) and 76 `NUM` tokens (1%).
-Out of 17 observed tags, the rank of `NUM` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `NUM` is: 13 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>one, two, hundred, zero, million, twenty-seventh, eight, fifty, five, four</em>
 

@@ -20,15 +20,15 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="it_postwita-pos
 
 * <em>of</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 3: <em>ma davvero darren ha dedicato a mia ' any <b>of</b> those things ? dite mi di no ........................................................</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 2: <em>Mi è piaciuto un video di @YouTube : http://t.co/UHry3BQXzb Draw My Life - Kratos , God <b>of</b> War</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 2: <em>Mi è piaciuto un video di @user : http://t.co/UHry3BQXzb Draw My Life - Kratos , God <b>of</b> War</em>
 * <em>Prince</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 22: <em>TT Twitter Italia 21:30 : 1 . #primoLibro 2 . #Grillo 3 . Franca Rame 4 . <b>Prince</b> Of Persia 5 . Partito di la Nazione 6 . #cinemaInChiesa</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 7: <em>TT ITALIA 04:28 1 . #cinemaInChiesa 2 . #serviziopubblico 3 . #Grillo 4 . Trota 5 . Levon Helm 6 . Damon and Elena 7 . <b>Prince</b> Of Persia 8 . Lega</em>
 * <em>i</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1151: <em>@x_InLoveWithIan ma me dici che hai fatto ?? xk hai messo <b>i</b> puntini ?</em>
-  * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 6: <em>@Simi_IsOnMars vabbe <b>i</b> .. un giorno riusciremo anche noi a veder li</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>Siamo già a le minacce – Attacco a #Grillo | Italia <b>i</b> Dolori : http://t.co/lrlH9EAU via @italiadeidolori</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 2: <em>@ilaria_perini lillii <b>i</b> need cure speciali di la giuly ! è stata una pasqua difficile .</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1151: <em>@user ma me dici che hai fatto ?? xk hai messo <b>i</b> puntini ?</em>
+  * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 6: <em>@user vabbe <b>i</b> .. un giorno riusciremo anche noi a veder li</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>Siamo già a le minacce – Attacco a #Grillo | Italia <b>i</b> Dolori : http://t.co/lrlH9EAU via @user</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 2: <em>@user lillii <b>i</b> need cure speciali di la giuly ! è stata una pasqua difficile .</em>
 * <em>live</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 13: <em>mario monti massone ( <b>live</b> at http://t.co/crv09oJ8 )</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>Va bene , va bene , guardate Sanremo ... Tanto fra qualche giorno esce il primo video estratto da il <b>live</b> di i Just for Fun :D — su di giri</em>
@@ -38,30 +38,30 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="it_postwita-pos
 * <em>a</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 2759: <em>buongiorno <b>a</b> tutti #oncaci</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 17: <em>Vabbè ragazzi ma siamo su scherzi <b>a</b> parte ?</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 9: <em>I liked <b>a</b> @YouTube video http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 9: <em>I liked <b>a</b> @user video http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 5: <em>#Grillo che scappa inseguito da Bertazzoni mi <b>a</b> fatto cadere le palle per terra . #ServizioPubblico</em>
   * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 2: <em>Oi twitter , <b>a</b> quanto tempo xD</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>Perche' non molla <b>a</b> poltrona anche Penati ?</em>
 * <em>in</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1137: <em>RT @RealEmisKilla : Va boh me ne vó <b>in</b> palestra , a più tardi !</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1137: <em>RT @user : Va boh me ne vó <b>in</b> palestra , a più tardi !</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 6: <em>Mi riguardo l' year <b>in</b> the making e mi metto a piangere . Va tutto bene Camilla , tutto bene çç</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>#BoldiCapra ha fatto più ridere con questo insulto , che con <b>in</b> suoi film ... Uomini inutili a la società !</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@LCuccarini buona pasqua domani sera guardero anche io alice <b>in</b> wonderland sono i miei film preferiti</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@user buona pasqua domani sera guardero anche io alice <b>in</b> wonderland sono i miei film preferiti</em>
 * <em>the</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 5: <em>Mario Monti , <b>the</b> Tinkerman .. rimette a posto le cose ! Ranieri ha i giorni contati</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>e siamo gia' a una decina di miliardi di euro di danno da il governo Monti ... forse piu' che <b>the</b> con la Merkel bisogna impressionare mercati .</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@Shyerrie dopo aver elencato tutti i pregi di <b>the</b> flash per due giorni ahahahahah</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@user dopo aver elencato tutti i pregi di <b>the</b> flash per due giorni ahahahahah</em>
 * <em>me</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 154: <em>RT @RealEmisKilla : Va boh <b>me</b> ne vó in palestra , a più tardi !</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 5: <em>@AdamoCesana lassa Peddere Rocco che <b>me</b> rovina tutti i Tweet @RoccoTodero</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>RT @ehispongebob : Tra poco finirà il ' take <b>me</b> home tour ' , ed anche un altra parte di loro se ne andrà . Rimarranno solo i ricordi .</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 154: <em>RT @user : Va boh <b>me</b> ne vó in palestra , a più tardi !</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 5: <em>@user1 lassa Peddere Rocco che <b>me</b> rovina tutti i Tweet @user2</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>RT @user : Tra poco finirà il ' take <b>me</b> home tour ' , ed anche un altra parte di loro se ne andrà . Rimarranno solo i ricordi .</em>
 * <em>video</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 56: <em>A Crema #Grillo critica tutti , ecco il <b>video</b> , http://t.co/tJJIB0FY</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 4: <em>I liked a @YouTube <b>video</b> http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 4: <em>I liked a @user <b>video</b> http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.005202 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `X` is 1.005202 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (3) was observed with the lemma “i”: <em>i, mausolei, moltissimi</em>.
 

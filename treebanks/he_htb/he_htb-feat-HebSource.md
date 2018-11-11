@@ -11,8 +11,8 @@ It occurs with 2 different values: `ConvUncertainHead`, `ConvUncertainLabel`.
 
 2270 tokens (1%) have a non-empty value of `HebSource`.
 1246 types (7%) occur at least once with a non-empty value of `HebSource`.
-1109 lemmas (11%) occur at least once with a non-empty value of `HebSource`.
-The feature is used with 16 part-of-speech tags: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (618; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (314; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (297; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (270; 0% instances), <tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (243; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (146; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (96; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (85; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (65; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (35; 0% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+1110 lemmas (11%) occur at least once with a non-empty value of `HebSource`.
+The feature is used with 15 part-of-speech tags: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (618; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (305; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (297; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (270; 0% instances), <tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (243; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (146; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (96; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (85; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (67; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (35; 0% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -35,13 +35,13 @@ The most frequent other feature values with which `NOUN` and `HebSource` co-occu
 
 ### `VERB`
 
-314 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `HebSource`.
+305 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `HebSource`.
 
-The most frequent other feature values with which `VERB` and `HebSource` co-occurred: <tt><a href="he_htb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (301; 96%), <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (301; 96%), <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (213; 68%), <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (201; 64%).
+The most frequent other feature values with which `VERB` and `HebSource` co-occurred: <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (208; 68%), <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (201; 66%).
 
 `VERB` tokens may have the following values of `HebSource`:
 
-* `ConvUncertainHead` (309; 98% of non-empty `HebSource`): אין, יכלו, יש, תוכיח, היו, יודע, לבצע, לחיות, לנהל, לקבל
+* `ConvUncertainHead` (300; 98% of non-empty `HebSource`): אין, יכלו, יש, תוכיח, יודע, לבצע, לחיות, לנהל, לקבל, אוכלים
 * `ConvUncertainLabel` (5; 2% of non-empty `HebSource`): חולים, כועס, נראה, רכוב
 
 <table>
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `HebSource` co-occu
   <tr><td><tt></tt></td><td>נראה</td><td>נראה</td></tr>
 </table>
 
-`HebSource` seems to be **lexical feature** of `VERB`. 100% lemmas (209) occur only with one value of `HebSource`.
+`HebSource` seems to be **lexical feature** of `VERB`. 100% lemmas (207) occur only with one value of `HebSource`.
 
 ### `ADV`
 
@@ -142,12 +142,14 @@ The most frequent other feature values with which `NUM` and `HebSource` co-occur
 
 ### `ADP`
 
-65 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `HebSource`.
+67 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `HebSource`.
+
+The most frequent other feature values with which `ADP` and `HebSource` co-occurred: <tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (65; 97%).
 
 `ADP` tokens may have the following values of `HebSource`:
 
-* `ConvUncertainHead` (15; 23% of non-empty `HebSource`): ל, מ, אימת, ב, עוד, עד
-* `ConvUncertainLabel` (50; 77% of non-empty `HebSource`): מ, מן
+* `ConvUncertainHead` (17; 25% of non-empty `HebSource`): ל, מ, אימת, ב, עוד, את, עד
+* `ConvUncertainLabel` (50; 75% of non-empty `HebSource`): מ, מן
 
 <table>
   <tr><th>Paradigm <i>מ</i></th><th><tt>ConvUncertainHead</tt></th><th><tt>ConvUncertainLabel</tt></th></tr>
@@ -180,15 +182,15 @@ The most frequent other feature values with which `PRON` and `HebSource` co-occu
 
 ### `AUX`
 
-23 <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `HebSource`.
+32 <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `HebSource`.
 
-The most frequent other feature values with which `AUX` and `HebSource` co-occurred: <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt> (23; 100%), <tt><a href="he_htb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (21; 91%), <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (19; 83%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 52%).
+The most frequent other feature values with which `AUX` and `HebSource` co-occurred: <tt><a href="he_htb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25; 78%), <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (24; 75%), <tt><a href="he_htb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (23; 72%), <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt> (23; 72%).
 
 `AUX` tokens may have the following values of `HebSource`:
 
-* `ConvUncertainHead` (23; 100% of non-empty `HebSource`): אפשר, יכול, נוכל, אין, אסור, חשוב, יוכל, ייתכן, יש, מאפשרים
+* `ConvUncertainHead` (32; 100% of non-empty `HebSource`): אפשר, היו, יכול, להיות, נוכל, אין, אינם, אסור, היא, הן
 
-`HebSource` seems to be **lexical feature** of `AUX`. 100% lemmas (15) occur only with one value of `HebSource`.
+`HebSource` seems to be **lexical feature** of `AUX`. 100% lemmas (18) occur only with one value of `HebSource`.
 
 ### `DET`
 
@@ -211,16 +213,6 @@ The most frequent other feature values with which `X` and `HebSource` co-occurre
 
 * `ConvUncertainHead` (7; 100% of non-empty `HebSource`): ביילין, ה, הרים, ו, י"ש, מילואה, צעדים
 
-### `PART`
-
-2 <tt><a href="he_htb-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `HebSource`.
-
-The most frequent other feature values with which `PART` and `HebSource` co-occurred: <tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 100%).
-
-`PART` tokens may have the following values of `HebSource`:
-
-* `ConvUncertainHead` (2; 100% of non-empty `HebSource`): את
-
 ### `INTJ`
 
 1 <tt><a href="he_htb-pos-INTJ.html">INTJ</a></tt> tokens (33% of all `INTJ` tokens) have a non-empty value of `HebSource`.
@@ -232,10 +224,11 @@ The most frequent other feature values with which `PART` and `HebSource` co-occu
 ## Relations with Agreement in `HebSource`
 
 The 10 most frequent relations where parent and child node agree in `HebSource`:
-<tt>SCONJ --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> ADV</tt> (3; 60%),
+<tt>SCONJ --[<tt><a href="he_htb-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3; 60%),
 <tt>DET --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> ADP</tt> (2; 67%),
 <tt>DET --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> SCONJ</tt> (2; 67%),
 <tt>CCONJ --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> INTJ</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="he_htb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>X --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>X --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>X --[<tt><a href="he_htb-dep-dep.html">dep</a></tt>]--> PUNCT</tt> (1; 100%).

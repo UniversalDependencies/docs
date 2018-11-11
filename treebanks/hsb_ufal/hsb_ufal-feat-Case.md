@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-5102 tokens (46%) have a non-empty value of `Case`.
+5103 tokens (46%) have a non-empty value of `Case`.
 3273 types (76%) occur at least once with a non-empty value of `Case`.
 2082 lemmas (68%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2527; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1406; 13% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (529; 5% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (335; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (276; 2% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (29; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2524; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1406; 13% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (529; 5% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (335; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (275; 2% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
-2527 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+2524 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1683; 67%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1388; 55%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1684; 67%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1388; 55%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (495; 20% of non-empty `Case`): <em>př, rěč, nastawki, wobrazy, přikład, čas, dataje, lisćinu, móc, mócnarstwo</em>
 * `Dat` (64; 3% of non-empty `Case`): <em>akademiji, dispoziciji, rostlinam, wotrjadam, Wopytowarjam, delće, dnjej, drohoćinkam, ekliptice, embryofytam</em>
-* `Gen` (618; 24% of non-empty `Case`): <em>rěčow, lěta, kilometrow, wody, kraja, lěttysaca, lět, časa, biblioteki, instituta</em>
+* `Gen` (615; 24% of non-empty `Case`): <em>rěčow, lěta, kilometrow, wody, kraja, lěttysaca, lět, časa, biblioteki, instituta</em>
 * `Ins` (164; 6% of non-empty `Case`): <em>l, pomocu, ablawtom, družinami, hamorom, krajemi, kralom, ličakami, mjenom, rostlinami</em>
 * `Loc` (330; 13% of non-empty `Case`): <em>lěće, času, rěči, běhu, dobje, formje, lětstotku, stronje, wodźe, zemi</em>
 * `Nom` (856; 34% of non-empty `Case`): <em>město, woda, stolica, rostliny, institut, pismo, rěč, stat, dołhosć, dźeń</em>
-* `EMPTY` (21): <em>km, m, CEST, centrum, dźěła, jan, přir, raz, t, thumb</em>
+* `EMPTY` (19): <em>km, m, CEST, centrum, jan, přir, raz, t, thumb, čas</em>
 
 <table>
   <tr><th>Paradigm <i>rěč</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -111,9 +111,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-276 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
+275 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (240; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (231; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (231; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (202; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (186; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 60%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (239; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (201; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (185; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 60%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -121,9 +121,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Dat` (4; 1% of non-empty `Case`): <em>kotrymž, swojemu, wšemu, wšitkim</em>
 * `Gen` (25; 9% of non-empty `Case`): <em>tutych, tutoho, kotrychž, tych, kotrehož, kotrejež, kóždychžkuli, někajkeho, někotrych, swojeho</em>
 * `Ins` (42; 15% of non-empty `Case`): <em>n, swojimi, kotrymiž, swojej, tym</em>
-* `Loc` (40; 14% of non-empty `Case`): <em>někotrych, tutej, tutym, kotrejž, kotrychž, swojich, twojim, wšěch, kotrymž, kóždym</em>
+* `Loc` (39; 14% of non-empty `Case`): <em>někotrych, tutej, tutym, kotrejž, kotrychž, swojich, twojim, wšěch, kotrymž, kóždym</em>
 * `Nom` (116; 42% of non-empty `Case`): <em>kotrež, kotraž, kotryž, tute, tutón, tuta, někotre, wšě, někotři, Naš</em>
-* `EMPTY` (35): <em>jeho, jich, jeje, mnoho, n, tójšto</em>
+* `EMPTY` (52): <em>jeho, jich, wjele, jeje, mnoho, mjenje, n, najwjace, tróšku, tójšto</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -142,17 +142,17 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `NUM`
 
-29 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Case`.
+34 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (9% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (33; 97%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (7; 24% of non-empty `Case`): <em>dwaj, jednu, jedyn</em>
-* `Gen` (4; 14% of non-empty `Case`): <em>štyrjoch, dweju, jedneho</em>
+* `Acc` (7; 21% of non-empty `Case`): <em>dwaj, jednu, jedyn</em>
+* `Gen` (8; 24% of non-empty `Case`): <em>Mio, štyrjoch, dweju, jedneho, miliardow</em>
 * `Ins` (1; 3% of non-empty `Case`): <em>dwěmaj</em>
-* `Loc` (4; 14% of non-empty `Case`): <em>dwěmaj, jednym</em>
-* `Nom` (13; 45% of non-empty `Case`): <em>jedyn, dwaj, jedna, dwě, jedny</em>
+* `Loc` (5; 15% of non-empty `Case`): <em>dwěmaj, jednym, woběmaj</em>
+* `Nom` (13; 38% of non-empty `Case`): <em>jedyn, dwaj, jedna, dwě, jedny</em>
 * `EMPTY` (348): <em>2, 1, 6, 4, 3, 5, 7, I, 000, 10</em>
 
 <table>
@@ -166,7 +166,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1077; 99%),
+<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1080; 99%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (224; 94%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-det.html">det</a></tt>]--> DET</tt> (177; 82%),
 <tt>PROPN --[<tt><a href="hsb_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (85; 97%),

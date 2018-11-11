@@ -12,18 +12,18 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 995 tokens (9%) have a non-empty value of `Tense`.
 500 types (12%) occur at least once with a non-empty value of `Tense`.
 317 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (687; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (275; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (33; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (686; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (276; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (33; 0% instances).
 
 ### `VERB`
 
-687 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Tense`.
+686 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (631; 92%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (630; 92%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (596; 87%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (432; 63%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (630; 92%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (629; 92%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (595; 87%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (431; 63%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (4; 1% of non-empty `Tense`): <em>budźe, budu</em>
-* `Past` (243; 35% of non-empty `Tense`): <em>běchu, móžachu, wužiwachu, bě, mjenowachu, měješe, naby, pisachu, skónči, wjedźechu</em>
+* `Past` (242; 35% of non-empty `Tense`): <em>běchu, móžachu, wužiwachu, bě, mjenowachu, měješe, naby, pisachu, skónči, wjedźechu</em>
 * `Pres` (440; 64% of non-empty `Tense`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, dyrbi, wužiwa</em>
 * `EMPTY` (135): <em>hlej, nastać, měć, pisać, přełožować, wobkedźbować, čitać, Pomhaj, dać, definować</em>
 
@@ -38,15 +38,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-275 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+276 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (273; 99%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (273; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (271; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (232; 84%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (176; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (274; 99%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (274; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (272; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (232; 84%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 64%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (2; 1% of non-empty `Tense`): <em>budu, budźe</em>
-* `Past` (79; 29% of non-empty `Tense`): <em>bu, bě, buchu, běchu, buštej, běštej, był, była, njebuchu</em>
-* `Pres` (194; 71% of non-empty `Tense`): <em>je, su, njeje, njejsu, stej, sy, njesu, staj</em>
+* `Past` (80; 29% of non-empty `Tense`): <em>bu, bě, buchu, běchu, buštej, běštej, był, była, njebuchu</em>
+* `Pres` (194; 70% of non-empty `Tense`): <em>je, su, njeje, njejsu, stej, sy, njesu, staj</em>
 * `EMPTY` (14): <em>by, bychu, być, buchu, posłužić</em>
 
 <table>
@@ -85,5 +85,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="hsb_ufal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (21; 55%),
 <tt>ADJ --[<tt><a href="hsb_ufal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>VERB --[<tt><a href="hsb_ufal-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hsb_ufal-dep-aux-pass.html">aux:pass</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hsb_ufal-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%).
 

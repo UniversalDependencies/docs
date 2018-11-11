@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>., ,, ", -, ?, (, ), :, !, ...</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ", -, ?, (, ), :, !, ...</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4)
 
 The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> 1), <em>:</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 219, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -28,13 +28,13 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="bg_btb-pos-PUNCT
   * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 219: <em>Юношата погледна зелените иронични очи на Дявола <b>:</b></em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15: <em>САЩ в състав Селеш и Гамбил отвяха Словакия с 3 <b>:</b> 0 .</em>
 * <em>/</em>
-  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>Денем му сянка пази орлица <b>/</b> и вълк му кротко раната ближе .</em>
+  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>И ще напишат критика за мене <b>/</b> под формата на полицейски акт .</em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2: <em>Вятърът достигна 150 км <b>/</b> ч , летище Хийтроу остана изолирано от Лондон</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>" Критикувах се <b>/</b> Четох си конско . "</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.727904).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.728014).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 

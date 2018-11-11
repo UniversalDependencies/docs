@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2508 nodes (3%) are attached to their parents as `cc`.
+2511 nodes (3%) are attached to their parents as `cc`.
 
-2495 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.6866028708134.
+2499 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.68697729988053.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1248; 50% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (744; 30% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (236; 9% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (104; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (68; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (45; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (27; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1250; 50% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (744; 30% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (237; 9% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (104; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (68; 3% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (45; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (27; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,9 +38,9 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 5 cc	color:blue
 1	Color	color	NOUN	SG-NOM	Number=Sing	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	Comma	_	1	punct	_	_
+2	,	,	PUNCT	Comma	_	3	punct	_	_
 3	transparency	transparency	NOUN	SG-NOM	Number=Sing	1	conj	_	SpaceAfter=No
-4	,	,	PUNCT	Comma	_	1	punct	_	_
+4	,	,	PUNCT	Comma	_	7	punct	_	_
 5	and	and	CCONJ	_	_	7	cc	_	_
 6	special	special	ADJ	POS	Degree=Pos	7	amod	_	_
 7	effects	effect	NOUN	PL-NOM	Number=Plur	1	conj	_	SpaceAfter=No

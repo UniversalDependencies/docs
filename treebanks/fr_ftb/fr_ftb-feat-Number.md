@@ -147,14 +147,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (69237; 96%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (69235; 96%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22797; 98%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19296; 58%),
-<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11190; 89%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11192; 89%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (8306; 97%),
-<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8098; 94%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8097; 94%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-aux.html">aux</a></tt>]--> AUX</tt> (5070; 75%),
-<tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4407; 67%),
-<tt>NOUN --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4348; 75%),
-<tt>PROPN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (4227; 80%).
+<tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (4406; 67%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4358; 75%),
+<tt>PROPN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (4228; 80%).
 

@@ -22,7 +22,7 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
-1	@elena_casali	@elena_casali	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
 4	moroso	moroso	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -45,7 +45,7 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 6 ccomp	color:blue
 1	RT	retweet	NOUN	S	_	2	dep	_	_
-2	@misSchianto	@misSchianto	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	Spero	sperare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `iobj`.
+31 nodes (0%) are attached to their parents as `iobj`.
 
-20 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.3.
+31 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25806451612903.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (18; 90% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 10% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (29; 94% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,17 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	0	root	_	_
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	_
 2	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
-3	ⲟⲩⲛⲧⲁ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl	_	_
-4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	iobj	_	_
-5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ⲉⲟⲟⲩ	ⲉⲟⲟⲩ	NOUN	N	_	3	nsubj	_	_
-7	ⲙⲛ	ⲙⲛ	ADP	PREP	_	9	cc	_	_
-8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	ⲧⲁⲉⲓⲟ	ⲧⲁⲉⲓⲟ	NOUN	N	_	6	conj	_	_
-10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	advmod	_	_
-11	ϩⲓⲧⲛ	ϩⲓⲧⲛ	ADP	PREP	_	12	case	_	_
-12	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	6	nmod	_	_
-13	.	.	PUNCT	PUNCT	_	1	punct	_	_
+3	ⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	3	nsubj	_	_
+6	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	3	advmod	_	_
+7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
+8	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Inf	3	xcomp	_	_
+9	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	11	aux	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
 
 ~~~
 

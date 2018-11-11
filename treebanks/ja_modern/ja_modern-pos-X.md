@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-Modern: POS Tags: `X`
 
-There are 2 `X` lemmas (0%), 2 `X` types (0%) and 16 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 1 `X` lemmas (0%), 1 `X` types (0%) and 1 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
-The 10 most frequent `X` lemmas: [JSP], NULL
+The 10 most frequent `X` lemmas: NULL
 
-The 10 most frequent `X` types:  [JSP], 及
+The 10 most frequent `X` types:  及
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -24,28 +24,26 @@ The 10 most frequent ambiguous types:  及 (<tt><a href="ja_modern-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.140162).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.139839).
 
 The 1st highest number of forms (1) was observed with the lemma “NULL”: 及.
-
-The 2nd highest number of forms (1) was observed with the lemma “[JSP]”: [JSP].
 
 `X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 1 different relations: <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (16; 100% instances)
+`X` nodes are attached to their parents using 1 different relations: <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (1; 100% instances)
 
-Parents of `X` nodes belong to 3 different parts of speech: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (7; 44% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (2; 13% instances)
+Parents of `X` nodes belong to 1 different parts of speech: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 
-15 (94%) `X` nodes are leaves.
+0 (0%) `X` nodes are leaves.
 
 0 (0%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 
-1 (6%) `X` nodes have three or more children.
+1 (100%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 3.
 

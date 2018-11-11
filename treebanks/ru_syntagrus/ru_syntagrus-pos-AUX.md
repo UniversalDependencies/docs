@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>было</em> (<tt><a href="ru_syntag
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.000000 (the average of all parts of speech is 2.594630).
+The form / lemma ratio of `AUX` is 19.000000 (the average of all parts of speech is 2.589298).
 
 The 1st highest number of forms (19) was observed with the lemma “быть”: <em>будем, будет, будете, будешь, буду, будут, будучи, будь, будьте, бывшем, бывшие, бывший, был, была, были, было, быть, есть, суть</em>.
 
@@ -71,19 +71,19 @@ Examples: <em>было</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="ru_syntagrus-dep-cop.html">cop</a></tt> (4529; 56% instances), <tt><a href="ru_syntagrus-dep-aux-pass.html">aux:pass</a></tt> (2691; 33% instances), <tt><a href="ru_syntagrus-dep-aux.html">aux</a></tt> (923; 11% instances), <tt><a href="ru_syntagrus-dep-orphan.html">orphan</a></tt> (2; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (3636; 45% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2200; 27% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1526; 19% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (499; 6% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (124; 2% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (75; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (3636; 45% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2199; 27% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1524; 19% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (499; 6% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (124; 2% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (79; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-8072 (99%) `AUX` nodes are leaves.
+8100 (99%) `AUX` nodes are leaves.
 
-70 (1%) `AUX` nodes have one child.
+43 (1%) `AUX` nodes have one child.
 
-2 (0%) `AUX` nodes have two children.
+1 (0%) `AUX` nodes have two children.
 
 1 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (76; 99% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 2 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (47; 98% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 2 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (76; 99% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 2 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (47; 98% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 2% instances)
 

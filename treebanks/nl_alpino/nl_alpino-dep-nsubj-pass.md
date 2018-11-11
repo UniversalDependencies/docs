@@ -22,14 +22,14 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 3 nsubj:pass	color:blue
-1	Waarmee	waarmee	ADV	BW	_	10	amod	10:amod	_
+1	Waarmee	waarmee	ADV	BW	_	10	advmod	10:advmod	_
 2	het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
 3	pad	pad	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
 4	voor	voor	ADP	VZ|init	_	7	case	7:case	_
 5	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
 6	rappe	rap	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	amod	7:amod	_
-7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl	_
-8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	_
+7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl:voor	_
+8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 10	geëffend	effenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	LET	_	10	punct	10:punct	_
@@ -47,7 +47,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 2	zou	zullen	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
 3	'	'	PUNCT	LET	_	5	punct	5:punct	SpaceAfter=No
 4	per	per	ADP	VZ|init	_	5	case	5:case	_
-5	ongeluk	ongeluk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	obl	7:obl	SpaceAfter=No
+5	ongeluk	ongeluk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	obl	7:obl:per	SpaceAfter=No
 6	'	'	PUNCT	LET	_	5	punct	5:punct	_
 7	ontvoerd	ontvoeren	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 8	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	7	aux:pass	7:aux:pass	_
@@ -66,12 +66,12 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 4 nsubj:pass	color:blue
 1	Zonder	zonder	ADP	VZ|init	_	2	case	2:case	_
-2	pardon	pardon	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	obl	8:obl	_
+2	pardon	pardon	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	obl	8:obl:zonder	_
 3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	8	aux:pass	8:aux:pass	_
 4	DHS	DHS	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	8	nsubj:pass	8:nsubj:pass	_
 5	uit	uit	ADP	VZ|init	_	7	case	7:case	_
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
-7	bekerstrijd	bekerstrijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	obl	8:obl	_
+7	bekerstrijd	bekerstrijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	obl	8:obl:uit	_
 8	geworpen	werpen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	LET	_	8	punct	8:punct	_
 

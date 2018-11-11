@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-34733 tokens (55%) have a non-empty value of `Gender`.
+34731 tokens (55%) have a non-empty value of `Gender`.
 7642 types (67%) occur at least once with a non-empty value of `Gender`.
 4106 lemmas (65%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11514; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2902; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (514; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11514; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2900; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (514; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -85,15 +85,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-2902 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
+2900 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2524; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2266; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1717; 59%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2522; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2264; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1716; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1000; 34% of non-empty `Gender`): <em>που, αυτή, της, οποία, αυτές, οποίες, αυτής, τους, την, άλλες</em>
-* `Masc` (1042; 36% of non-empty `Gender`): <em>μας, τους, που, του, σας, μου, οποίος, αυτό, εμείς, αυτόν</em>
-* `Neut` (860; 30% of non-empty `Gender`): <em>που, αυτό, οποίο, αυτά, το, του, κάτι, αυτού, οποία, άλλα</em>
+* `Masc` (1041; 36% of non-empty `Gender`): <em>μας, τους, που, του, σας, μου, οποίος, αυτό, εμείς, αυτόν</em>
+* `Neut` (859; 30% of non-empty `Gender`): <em>που, αυτό, οποίο, αυτά, το, του, κάτι, αυτού, οποία, άλλα</em>
 
 <table>
   <tr><th>Paradigm <i>μου</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (58; 47% of non-empty `Gender`): <em>χτισμένη, περιορισμένη, συμπεριλαμβανομένης, αποτυχημένη, αυξημένη, ολοκληρωμένη, συμπεριλαμβανομένων, συντονισμένη, αιτιολογημένη, απασχολημένες</em>
 * `Masc` (28; 23% of non-empty `Gender`): <em>εκλεγμένος, ευνοημένων, ικανοποιημένοι, συμπεριλαμβανομένου, υποχρεωμένοι, ακροβολισμένοι, αυτοαπασχολούμενους, αυτοαπασχολούμενων, διατεθειμένοι, εκλεγμένων</em>
 * `Neut` (37; 30% of non-empty `Gender`): <em>χτισμένο, δομημένο, κτισμένο, απηρχαιωμένο, αποκεντρωμένα, αποκεντρωμένο, αποτυπωμένο, αποτυχημένο, ασβεστωμένα, γκρεμισμένα</em>
-* `EMPTY` (6257): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
+* `EMPTY` (6210): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
 
 <table>
   <tr><th>Paradigm <i>χτίζω</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

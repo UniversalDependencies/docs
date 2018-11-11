@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 2 3 iobj	color:blue
 1	Dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	2	nsubj	2:nsubj	_
 2	gaf	geven	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	me	me	PRON	VNW|pr|pron|obl|red|1|ev	Case=Acc|Person=1|PronType=Prs	2	iobj	2:iobj|10:nsubj	_
+3	me	me	PRON	VNW|pr|pron|obl|red|1|ev	Case=Acc|Person=1|PronType=Prs	2	iobj	2:iobj|10:nsubj:xsubj	_
 4	de	de	DET	LID|bep|stan|rest	Definite=Def	2	compound:prt	2:compound:prt	_
 5	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	fixed	4:fixed	_
 6	om	om	ADP	VZ|init	_	10	mark	10:mark	_
@@ -34,7 +34,7 @@ The following 14 pairs of parts of speech are connected with `iobj`: <tt><a href
 10	denken	denken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	xcomp	2:xcomp	_
 11	over	over	ADP	VZ|init	_	13	case	13:case	_
 12	mijn	mijn	PRON	VNW|bez|det|stan|vol|1|ev|prenom|zonder|agr	Person=1|PronType=Prs	13	nmod:poss	13:nmod:poss	_
-13	instelling	instelling	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obl	10:obl	SpaceAfter=No
+13	instelling	instelling	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obl	10:obl:over	SpaceAfter=No
 14	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -67,8 +67,8 @@ The following 14 pairs of parts of speech are connected with `iobj`: <tt><a href
 2	had	hebben	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux	10:aux	_
 3	iedereen	iedereen	PRON	VNW|onbep|pron|stan|vol|3p|ev	Person=3|PronType=Ind	10	nsubj	10:nsubj	_
 4	Van	Van	PROPN	SPEC|deeleigen	_	10	iobj	10:iobj	_
-5	der	der	PROPN	SPEC|deeleigen	_	4	flat:name	4:flat:name	_
-6	Schans	Schans	PROPN	SPEC|deeleigen	_	4	flat:name	4:flat:name	_
+5	der	der	PROPN	SPEC|deeleigen	_	4	flat	4:flat	_
+6	Schans	Schans	PROPN	SPEC|deeleigen	_	4	flat	4:flat	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
 8	titel	titel	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obj	10:obj	_
 9	zo	zo	ADV	BW	_	10	advmod	10:advmod	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-120 tokens (0%) have a non-empty value of `Abbr`.
-55 types (0%) occur at least once with a non-empty value of `Abbr`.
-37 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 11 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+123 tokens (0%) have a non-empty value of `Abbr`.
+57 types (0%) occur at least once with a non-empty value of `Abbr`.
+38 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 11 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -56,14 +56,14 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 ### `NOUN`
 
-7 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+10 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 90%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (7; 100% of non-empty `Abbr`): <em>b, c, r., syd, yrs</em>
-* `EMPTY` (43096): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `Yes` (10; 100% of non-empty `Abbr`): <em>luv, b, c, r., syd, yrs</em>
+* `EMPTY` (43093): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ### `CCONJ`
 

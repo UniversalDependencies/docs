@@ -11,7 +11,7 @@ udver: '2'
 
 # UD French ParTUT
 
-Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
+Language: [French](/fr/index.html) (code: `fr`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -138,11 +139,11 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): aller, avoir, devoir, est, etre, pouvoir, savoir, suivre, vouloir, étayer, être</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): aller, avoir, devoir, pouvoir, savoir, vouloir, étayer, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: aller, avoir, pouvoir, savoir, suivre, vouloir, étayer, être</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: aller, avoir, pouvoir, savoir, vouloir, étayer, être</li>
 </ul>
 
 <ul>
@@ -553,7 +554,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: être, suivre, étayer, etre, est.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: être.</li>
 </ul>
 
 <ul>

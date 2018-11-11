@@ -91,13 +91,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6349; 74%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6348; 74%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-expl.html">expl</a></tt>]--> PRON</tt> (1923; 51%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (992; 51%),
-<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (765; 61%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (771; 62%),
 <tt>AUX --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (754; 90%),
 <tt>PRON --[<tt><a href="fr_ftb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (382; 73%),
-<tt>PRON --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (309; 81%),
+<tt>PRON --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (310; 81%),
 <tt>PRON --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (209; 98%),
 <tt>PRON --[<tt><a href="fr_ftb-dep-cop.html">cop</a></tt>]--> VERB</tt> (194; 80%),
 <tt>PRON --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (94; 88%).

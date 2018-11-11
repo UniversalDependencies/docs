@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="hsb_ufal-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.419749).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.418754).
 
 The 1st highest number of forms (1) was observed with the lemma “100px”: <em>100px</em>.
 
@@ -86,7 +86,7 @@ Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="hsb_ufa
 
 The highest child degree of a `X` node is 15.
 
-Children of `X` nodes are attached using 14 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (122; 42% instances), <tt><a href="hsb_ufal-dep-flat.html">flat</a></tt> (46; 16% instances), <tt><a href="hsb_ufal-dep-conj.html">conj</a></tt> (42; 14% instances), <tt><a href="hsb_ufal-dep-appos.html">appos</a></tt> (23; 8% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (14; 5% instances), <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (13; 4% instances), <tt><a href="hsb_ufal-dep-case.html">case</a></tt> (8; 3% instances), <tt><a href="hsb_ufal-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="hsb_ufal-dep-advmod-emph.html">advmod:emph</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-dep-dep.html">dep</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 14 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (122; 42% instances), <tt><a href="hsb_ufal-dep-flat.html">flat</a></tt> (46; 16% instances), <tt><a href="hsb_ufal-dep-conj.html">conj</a></tt> (42; 14% instances), <tt><a href="hsb_ufal-dep-appos.html">appos</a></tt> (23; 8% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (13; 4% instances), <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (13; 4% instances), <tt><a href="hsb_ufal-dep-case.html">case</a></tt> (8; 3% instances), <tt><a href="hsb_ufal-dep-amod.html">amod</a></tt> (5; 2% instances), <tt><a href="hsb_ufal-dep-advmod-emph.html">advmod:emph</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-nummod.html">nummod</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-list.html">list</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-dep.html">dep</a></tt> (1; 0% instances)
 
 Children of `X` nodes belong to 11 different parts of speech: <tt><a href="hsb_ufal-pos-PUNCT.html">PUNCT</a></tt> (122; 42% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt> (94; 32% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (16; 6% instances), <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> (13; 4% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (13; 4% instances), <tt><a href="hsb_ufal-pos-ADP.html">ADP</a></tt> (11; 4% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

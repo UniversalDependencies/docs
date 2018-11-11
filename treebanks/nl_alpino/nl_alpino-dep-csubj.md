@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 csubj	color:blue
-1	Hoe	hoe	ADV	BW	_	2	amod	2:amod	_
+1	Hoe	hoe	ADV	BW	_	2	advmod	2:advmod	_
 2	bestaat	bestaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	expl	2:expl	SpaceAfter=No
 4	,	,	PUNCT	LET	_	8	punct	8:punct	_
@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	dat	dat	SCONJ	VG|onder	_	11	mark	11:mark	_
 6	directielid	directielid	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	11:nsubj	_
 7	P.	P.	PROPN	SPEC|deeleigen	_	6	appos	6:appos	_
-8	Stuyts	Stuyts	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	_
+8	Stuyts	Stuyts	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	ziek	ziek	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	advmod	11:advmod	_
 10	thuis	thuis	ADV	BW	_	11	advmod	11:advmod	_
 11	zit	zitten	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	4	csubj	4:csubj	SpaceAfter=No

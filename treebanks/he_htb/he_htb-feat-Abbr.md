@@ -51,10 +51,12 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 7 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
+The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%).
+
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): ע"י, עפ"י
-* `EMPTY` (22607): ב, ל, _של_, מ, על, כ, עם, בין, של_, עד
+* `EMPTY` (26766): ב, ל, _של_, של, את, מ, על, כ, עם, ל_
 
 ### `NUM`
 
@@ -87,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): רצ"ב
-* `EMPTY` (6107): לא, גם, רק, יותר, מה, עוד, כך, ביותר, אתמול, כבר
+* `EMPTY` (6336): לא, גם, רק, יותר, מה, עוד, כך, ביותר, אתמול, כבר
 
 ### `CCONJ`
 
@@ -96,5 +98,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): ע"ף
-* `EMPTY` (5412): ו, או, אבל, אך, אלא, אף, אולם, אפילו, לכן, אילו
+* `EMPTY` (5183): ו, או, אבל, אך, אלא, אף, אולם, אילו, עקב, מאשר
 

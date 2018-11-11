@@ -8,131 +8,100 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `orphan`.
+13 nodes (0%) are attached to their parents as `orphan`.
 
-3 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.33333333333333.
+13 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.15384615384615.
 
-The following 3 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 33% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 20 orphan	color:blue
-1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
-2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
-3	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-4	ⲉⲡ	ⲉⲡ	VERB	V	VerbForm=Fin	0	root	_	_
-5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nsubj	_	_
-6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
-7	ⲥⲁϣⲉ	ⲥⲓϣⲉ	VERB	VSTAT	VerbForm=Fin	5	acl	_	_
-8	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
-9	ⲟⲛ	ⲟⲛ	ADV	ADV	_	4	advmod	_	_
-10	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	12	mark	_	_
-11	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	ϩⲟⲗϭ	ϩⲗⲟϭ	VERB	VSTAT	VerbForm=Fin	4	ccomp	_	_
-13	·	·	PUNCT	PUNCT	_	15	punct	_	_
-14	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	_
-15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	conj	_	_
-16	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
-17	ϩⲟⲗϭ	ϩⲗⲟϭ	VERB	VSTAT	VerbForm=Fin	15	acl	_	_
-18	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	20	mark	_	_
-19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
-20	ⲥⲁϣⲉ	ⲥⲓϣⲉ	VERB	VSTAT	VerbForm=Fin	15	orphan	_	_
-21	·	·	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 orphan	color:blue
+1	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	2	cc	_	_
+2	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	19	aux	_	_
+3	ⲣⲉϥϩⲱϥⲧ	ⲣⲉϥϩⲱϥⲧ	NOUN	N	_	19	nsubj	_	Morphs=ⲣⲉϥ-ϩⲱϥⲧ
+4	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	5	cc	_	_
+5	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	2	conj	_	_
+6	ⲙⲁⲓⲧⲟⲉ	ⲙⲁⲓⲧⲟⲉ	NOUN	N	_	5	orphan	_	Morphs=ⲙⲁⲓ-ⲧⲟⲉ|Orig=ⲙⲁⲓⲧⲟ
+7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+8	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	6	nmod	_	_
+9	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	10	cc	_	_
+10	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	2	conj	_	_
+11	ⲣⲉϥϯϩⲉ	ⲣⲉϥϯϩⲉ	NOUN	N	_	10	orphan	_	Morphs=ⲣⲉϥ-ϯϩⲉ
+12	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	13	cc	_	_
+13	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	2	conj	_	_
+14	ⲣⲉϥⲥⲁϩⲟⲩ	ⲣⲉϥⲥⲁϩⲟⲩ	NOUN	N	_	13	orphan	_	Morphs=ⲣⲉϥ-ⲥⲁϩⲟⲩ
+15	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	16	cc	_	_
+16	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	2	conj	_	_
+17	ⲣⲉϥⲧⲱⲣⲡ	ⲣⲉϥⲧⲱⲣⲡ	NOUN	N	_	16	orphan	_	Morphs=ⲣⲉϥ-ⲧⲱⲣⲡ
+18	ⲛⲁ	ⲛⲁ	AUX	FUT	_	19	aux	_	_
+19	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ
+20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
+21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	19	obj	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ
+23	ⲙ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	22	nmod	_	_
+26	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 34 orphan	color:blue
-1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
-2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
-4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
-5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
-6	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	8	aux	_	_
-7	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
-8	ϣⲁⲧⲟⲩ	ϣⲁⲧⲟⲩ	VERB	V	VerbForm=Fin	3	acl	_	_
-9	ϩⲟⲓⲛⲉ	ϩⲟⲓⲛⲉ	NOUN	N	_	8	obj	_	_
-10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
-11	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-12	ϩⲛⲟ	ϩⲛⲁⲩ	NOUN	N	_	8	obl	_	_
-13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
-14	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	N	_	12	nmod	_	_
-15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
-16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	ⲏⲓ	ⲏⲓ	NOUN	N	_	8	obl	_	_
-18	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	20	mark	_	_
-19	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
-20	ⲟϣ	ⲱϣ	VERB	VSTAT	VerbForm=Fin	8	advcl	_	_
-21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
-22	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	20	obl	_	_
-23	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
-24	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	8	conj	_	_
-25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
-26	ϫⲟⲩⲧⲏ	ϫⲟⲩⲧⲏ	NUM	NUM	NumType=Card	24	orphan	_	_
-27	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
-28	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	26	nmod	_	_
-29	,	,	PUNCT	PUNCT	_	31	punct	_	_
-30	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
-31	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	8	conj	_	_
-32	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
-33	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
-34	ⲣⲧⲁⲃ	ⲣⲧⲁⲃ	NOUN	N	_	31	orphan	_	_
-35	·	·	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 orphan	color:blue
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
+5	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	7	nummod	_	Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+6	ⲛ	ⲛ	ADP	PREP	_	7	det	_	Orig=ⲛ̄
+7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	obl	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
+9	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	3	xcomp	_	_
+10	·	·	PUNCT	PUNCT	_	14	punct	_	_
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	14	nummod	_	Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄
+14	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	conj	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲛ̄
+16	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	14	orphan	_	_
+17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 26 orphan	color:blue
-1	ⲛ	ⲛ	ADP	PREP	_	3	case	_	_
-2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
-4	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
-5	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
-6	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	8	aux	_	_
-7	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
-8	ϣⲁⲧⲟⲩ	ϣⲁⲧⲟⲩ	VERB	V	VerbForm=Fin	3	acl	_	_
-9	ϩⲟⲓⲛⲉ	ϩⲟⲓⲛⲉ	NOUN	N	_	8	obj	_	_
-10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	_
-11	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-12	ϩⲛⲟ	ϩⲛⲁⲩ	NOUN	N	_	8	obl	_	_
-13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
-14	ⲥⲟⲩⲟ	ⲥⲟⲩⲟ	NOUN	N	_	12	nmod	_	_
-15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
-16	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	ⲏⲓ	ⲏⲓ	NOUN	N	_	8	obl	_	_
-18	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	20	mark	_	_
-19	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
-20	ⲟϣ	ⲱϣ	VERB	VSTAT	VerbForm=Fin	8	advcl	_	_
-21	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
-22	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	20	obl	_	_
-23	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
-24	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	8	conj	_	_
-25	ⲛ	ⲛ	ADP	PREP	_	26	case	_	_
-26	ϫⲟⲩⲧⲏ	ϫⲟⲩⲧⲏ	NUM	NUM	NumType=Card	24	orphan	_	_
-27	ⲙ	ⲛ	ADP	PREP	_	28	case	_	_
-28	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	26	nmod	_	_
-29	,	,	PUNCT	PUNCT	_	31	punct	_	_
-30	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
-31	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	8	conj	_	_
-32	ⲛ	ⲛ	ADP	PREP	_	34	case	_	_
-33	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
-34	ⲣⲧⲁⲃ	ⲣⲧⲁⲃ	NOUN	N	_	31	orphan	_	_
-35	·	·	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 16 orphan	color:blue
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+3	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	0	root	_	_
+4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+5	ϫⲓ	ϫⲓ	VERB	V	VerbForm=Fin	3	acl	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
+7	ϭⲟⲛⲥ	ϭⲟⲛⲥ	NOUN	N	_	5	obj	_	_
+8	.	.	PUNCT	PUNCT	_	5	punct	_	_
+9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
+10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+11	ϥⲱϭⲉ	ϥⲱϭⲉ	VERB	V	VerbForm=Fin	5	conj	_	_
+12	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	13	cc	_	_
+13	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	conj	_	_
+14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+15	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	16	det	_	_
+16	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	13	orphan	_	_
+17	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

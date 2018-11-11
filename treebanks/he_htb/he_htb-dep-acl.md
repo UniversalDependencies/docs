@@ -7,14 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-HTB: Relations: `acl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `acl`: <tt><a href="he_htb-dep-acl-inf.html">acl:inf</a></tt>, <tt><a href="he_htb-dep-acl-relcl.html">acl:relcl</a></tt>.
+There are 1 language-specific subtypes of `acl`: <tt><a href="he_htb-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-315 nodes (0%) are attached to their parents as `acl`.
+614 nodes (0%) are attached to their parents as `acl`.
 
-315 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.43809523809524.
+614 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.1628664495114.
 
-The following 23 pairs of parts of speech are connected with `acl`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (144; 46% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (100; 32% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `acl`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (390; 64% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (144; 23% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (18; 3% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 acl	color:blue
+1	עכשיו	עכשיו	ADV	ADV	_	2	advmod	_	_
+2	עת	עת	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
+3	להרוג	הרג	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	2	acl	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -33,34 +47,9 @@ The following 23 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	גדול	גדול	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
 9	יותר	יותר	ADV	ADV	_	8	advmod	_	_
 10	בעל	בעל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	6	acl	_	_
-11	אותה	אותו	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
+11	אותה	אותו	PRON	PRON	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	_
 12	תכונה	תכונה	NOUN	NOUN	Gender=Fem|Number=Sing	10	compound:smixut	_	SpaceAfter=No
 13	?	?	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 acl	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
-2	מקרה	מקרה	NOUN	NOUN	Gender=Masc|Number=Sing	10	nsubj	_	_
-3	ה	ה	DET	DET	PronType=Art	4	det:def	_	_
-4	אחר	אחר	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
-5	את_	_	PART	PART	Case=Acc	6	case:acc	_	_
-6	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-7	הזכיר	הזכיר	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl	_	_
-8	ח"כ	ח"ך	NOUN	NOUN	Abbr=Yes|Gender=Masc|Number=Sing	7	nsubj	_	_
-9	גולדמן	גולדמן	PROPN	PROPN	_	8	appos	_	_
-10	היה	_	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	0	root	_	_
-11	ב	ב	ADP	ADP	_	12	case	_	_
-12	שבת	שבת	PROPN	PROPN	_	10	obl	_	_
-13	ב	ב	ADP	ADP	_	14	case	_	_
-14	טייבה	טייבה	PROPN	PROPN	_	10	obl	_	_
-15	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 

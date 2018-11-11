@@ -66,7 +66,7 @@ The following 37 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	2010	2010	NUM	C=-------------	NumForm=Digit|NumType=Card	4	nummod	_	_
 6	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	cop	_	_
 7	Sahel	Sahel	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	8	nsubj	_	_
-8	postižen	postižený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	postižen	postižený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=postihnout
 9	hladomorem	hladomor	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 

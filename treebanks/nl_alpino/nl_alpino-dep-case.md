@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21627 nodes (10%) are attached to their parents as `case`.
+21626 nodes (10%) are attached to their parents as `case`.
 
-21145 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01877283025847.
+21105 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.02427633404236.
 
-The following 29 pairs of parts of speech are connected with `case`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (14609; 68% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (3961; 18% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (765; 4% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (531; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (504; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (468; 2% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (360; 2% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (100; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (68; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (56; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (47; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `case`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (14607; 68% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (3961; 18% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (765; 4% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (540; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (504; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (466; 2% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (354; 2% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (100; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (68; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (56; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (47; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3 1 case	color:blue
 1	Met	met	ADP	VZ|init	_	3	case	3:case	_
 2	de	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
-3	finish	finish	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obl	6:obl	_
+3	finish	finish	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obl	6:obl:met	_
 4	in	in	ADP	VZ|init	_	5	case	5:case	_
 5	zicht	zicht	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	amod	3:amod	_
 6	sloegen	slaan	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -42,14 +42,14 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 case	color:blue
-1	Waarmee	waarmee	ADV	BW	_	10	amod	10:amod	_
+1	Waarmee	waarmee	ADV	BW	_	10	advmod	10:advmod	_
 2	het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
 3	pad	pad	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
 4	voor	voor	ADP	VZ|init	_	7	case	7:case	_
 5	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
 6	rappe	rap	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	amod	7:amod	_
-7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl	_
-8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	_
+7	Van	Van	PROPN	SPEC|deeleigen	_	10	obl	10:obl:voor	_
+8	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 10	geëffend	effenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	LET	_	10	punct	10:punct	_
@@ -68,11 +68,11 @@ The following 29 pairs of parts of speech are connected with `case`: <tt><a href
 3	Egypte	Egypte	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
 4	zelfs	zelfs	ADV	BW	_	2	advmod	2:advmod	_
 5	met	met	ADP	VZ|init	_	6	case	6:case	_
-6	7	7	NUM	TW|hoofd|vrij	_	2	obl	2:obl	_
+6	7	7	NUM	TW|hoofd|vrij	_	2	obl	2:obl:met	_
 7	-	-	SYM	LET	_	6	fixed	6:fixed	_
 8	1	1	NUM	TW|hoofd|vrij	_	6	fixed	6:fixed	_
 9	van	van	ADP	VZ|init	_	10	case	10:case	_
-10	Argentinië	Argentinië	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obl	2:obl	SpaceAfter=No
+10	Argentinië	Argentinië	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obl	2:obl:van	SpaceAfter=No
 11	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~

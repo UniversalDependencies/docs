@@ -30,7 +30,7 @@ The following 20 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	helft	helft	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	nsubj	11:nsubj	_
 7	van	van	ADP	VZ|init	_	9	case	9:case	_
 8	het	het	DET	LID|bep|stan|evon	Definite=Def	9	det	9:det	_
-9	schema	schema	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nmod	6:nmod	_
+9	schema	schema	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nmod	6:nmod:van	_
 10	open	open	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	xcomp	11:xcomp	_
 11	ligt	liggen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	SpaceAfter=No
 12	.	.	PUNCT	LET	_	3	punct	3:punct	_

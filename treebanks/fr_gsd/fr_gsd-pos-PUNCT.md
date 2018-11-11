@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-GSD: POS Tags: `PUNCT`
 
-There are 36 `PUNCT` lemmas (0%), 36 `PUNCT` types (0%) and 44396 `PUNCT` tokens (11%).
+There are 36 `PUNCT` lemmas (0%), 36 `PUNCT` types (0%) and 44145 `PUNCT` tokens (11%).
 Out of 17 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., (, ), «, ", », :, !, ?</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., (, ), «, ", », :, !, ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 954, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 4), <em>/</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 126, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 31, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2), <em>+</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 18, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), <em>x</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 2), <em>*</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 2), <em>></em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 952, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 4), <em>/</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 125, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 31, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2), <em>+</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 18, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), <em>x</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 2), <em>*</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 2), <em>></em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 954, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 4), <em>/</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 126, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 31, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2), <em>+</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 18, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), <em>x</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 2), <em>*</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 2), <em>></em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 952, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 4), <em>/</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 125, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1), <em>'</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 31, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2), <em>+</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 18, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), <em>x</em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 2), <em>*</em> (<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 2), <em>></em> (<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>"</em>
-  * <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 954: <em>Chauchard , tu es une bête ! <b>"</b></em>
+  * <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 952: <em>Chauchard , tu es une bête ! <b>"</b></em>
   * <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 4: <em>Coral Gables est située à 25 ° 43'42 <b>"</b> Nord et 80 ° 16'16 <b>"</b> Ouest à le sud-ouest de Miami .</em>
 * <em>/</em>
-  * <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 126: <em>Magasin de chaussures pour enfants <b>/</b> adolescents très convivial .</em>
+  * <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 125: <em>Magasin de chaussures pour enfants <b>/</b> adolescents très convivial .</em>
   * <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> 1: <em>En effet , en fréquences basses , les sources de parasites sont généralement des sources de champ électrique ( l' onde électromagnétique ne présentant un rapport E <b>/</b> H constant qu' à une distance de la source égale environ à un quart de la longueur d' onde ) .</em>
 * <em>'</em>
   * <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> 31: <em>Son nom complet est Banksia integrifolia <b>'</b> Roller Coaster .</em>
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>"</em> (<tt><a href="fr_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.306210).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.305352).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -56,13 +56,13 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 4 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (44356; 100% instances), <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt> (38; 0% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 4 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (44104; 100% instances), <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt> (39; 0% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (21286; 48% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (13380; 30% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4936; 11% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2208; 5% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1116; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (485; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (321; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (287; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (164; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (45; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (39; 0% instances), <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (7; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (21079; 48% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (13255; 30% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4855; 11% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (2217; 5% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1226; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (485; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (326; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (314; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (163; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (65; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (46; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (39; 0% instances), <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (6; 0% instances)
 
-44373 (100%) `PUNCT` nodes are leaves.
+44130 (100%) `PUNCT` nodes are leaves.
 
-10 (0%) `PUNCT` nodes have one child.
+2 (0%) `PUNCT` nodes have one child.
 
 12 (0%) `PUNCT` nodes have two children.
 
@@ -70,7 +70,7 @@ Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="fr
 
 The highest child degree of a `PUNCT` node is 4.
 
-Children of `PUNCT` nodes are attached using 6 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (27; 71% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (3; 8% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (3; 8% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (3; 8% instances), <tt><a href="fr_gsd-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="fr_gsd-dep-nummod.html">nummod</a></tt> (1; 3% instances)
+Children of `PUNCT` nodes are attached using 3 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (27; 90% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (1; 3% instances)
 
-Children of `PUNCT` nodes belong to 5 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (27; 71% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (2; 5% instances)
+Children of `PUNCT` nodes belong to 4 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (27; 90% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

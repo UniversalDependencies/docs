@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
 12817 tokens (10%) have a non-empty value of `Tense`.
-3442 types (17%) occur at least once with a non-empty value of `Tense`.
-1159 lemmas (7%) occur at least once with a non-empty value of `Tense`.
+3442 types (20%) occur at least once with a non-empty value of `Tense`.
+1159 lemmas (8%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8573; 7% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4244; 3% instances).
 
 ### `VERB`

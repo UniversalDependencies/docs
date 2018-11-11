@@ -23,7 +23,7 @@ The following 19 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
 1	RT	retweet	NOUN	S	_	5	dep	_	_
-2	@tnkzay	@tnkzay	SYM	SYM	_	5	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	5	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	'	'	PUNCT	FB	_	5	punct	_	_
 5	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_

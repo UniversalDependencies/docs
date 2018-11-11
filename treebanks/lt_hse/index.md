@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Lithuanian HSE
 
-Language: [Lithuanian](../lt/overview/lt-hub.html) (code: `lt`)<br/>
+Language: [Lithuanian](/lt/index.html) (code: `lt`)<br/>
 Family: Indo-European, Baltic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitry Sichinava.
 
 Repository: [UD_Lithuanian-HSE](https://github.com/UniversalDependencies/UD_Lithuanian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

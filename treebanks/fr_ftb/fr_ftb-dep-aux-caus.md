@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_ftb-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="fr_ftb-dep-aux-pass.html">aux:pass</a></tt>.
 
-258 nodes (0%) are attached to their parents as `aux:caus`.
+259 nodes (0%) are attached to their parents as `aux:caus`.
 
-258 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16279069767442.
+259 instances of `aux:caus` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16988416988417.
 
-The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (258; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (259; 100% instances).
 
 
 ~~~ conllu

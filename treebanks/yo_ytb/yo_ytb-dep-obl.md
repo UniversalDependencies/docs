@@ -11,9 +11,9 @@ This relation is universal.
 42 nodes (2%) are attached to their parents as `obl`.
 
 40 instances of `obl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.19047619047619.
+Average distance between parent and child is 4.04761904761905.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (27; 64% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (8; 19% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (25; 60% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (7; 17% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -44,74 +44,61 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 15	fgColor:white
 # visual-style 15 18 obl	color:blue
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but
-2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=as
+2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=if
 3	ẹnìkan	ẹnìkan	ADJ	_	_	5	nsubj	_	Gloss=man
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if
 5	rìn	rìn	VERB	_	_	0	root	_	Gloss=walk
 6	ní	ní	ADP	_	_	7	case	_	Gloss=in
-7	òru	òru	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=night
+7	òru	òru	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=midnight
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 9	yóò	yóò	ADV	_	_	10	aux	_	Gloss=shall
 10	kọsẹ̀	kọsẹ̀	VERB	_	_	7	xcomp	_	SpaceAfter=No|Gloss=stumble
 11	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 12	nítorí	nítorí	SCONJ	_	_	15	mark	_	Gloss=for
-13	tí	tí	PRON	_	_	15	mark	_	Gloss=that
+13	tí	tí	PRON	_	PronType=Rel	15	mark	_	Gloss=that
 14	kò	kò	PART	_	_	15	discourse	_	Gloss=not
-15	sí	sí	VERB	_	_	10	xcomp	_	Gloss=to
+15	sí	sí	VERB	_	_	10	xcomp	_	Gloss=is
 16	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	15	obj	_	Gloss=light
 17	nínú	nínú	ADP	_	_	18	case	_	Gloss=in
-18	rẹ̀	rẹ̀	PRON	_	_	15	obl	_	SpaceAfter=No|Gloss=his
+18	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obl	_	SpaceAfter=No|Gloss=him
 19	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Gloss=.
-20	”	”	PUNCT	_	_	5	punct	_	Gloss=.
+20	”	”	PUNCT	_	_	5	punct	_	Gloss=”
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 36 obl	color:blue
-1	Nǹkan	Nǹkan	NOUN	_	_	5	nsubj	_	Gloss=things
-2	wọ̀nyí	wọ̀nyí	DET	_	_	1	det	_	Gloss=these
-3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
-4	ó	ó	PRON	_	_	5	expl	_	Gloss=he
-5	sọ	sọ	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=spake
-6	:	:	PUNCT	_	_	12	punct	_	Gloss=:
-7	lẹ́yìn	lẹ́yìn	ADP	_	_	8	case	_	Gloss=after
-8	èyí	èyí	PRON	_	_	12	nsubj	_	Gloss=this
-9	nì	nì	VERB	_	_	12	aux	_	Gloss=the
-10	ó	ó	PRON	_	_	12	expl	_	Gloss=he
-11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=and
-12	wí	wí	VERB	_	_	5	xcomp	_	Gloss=said
-13	fún	fún	ADP	_	_	14	case	_	Gloss=unto
-14	wọn	wọn	PRON	_	_	12	obj	_	Gloss=them
-15	pé	pé	SCONJ	_	_	21	mark	_	SpaceAfter=No|Gloss=saying
-16	,	,	PUNCT	_	_	21	punct	_	Gloss=,
-17	“	“	PUNCT	_	_	21	punct	_	SpaceAfter=No|Gloss=“
-18	Lásárù	Lásárù	PROPN	_	_	21	nsubj	_	Gloss=lazarus
-19	ọ̀rẹ́	ọ̀rẹ́	NOUN	_	_	21	nsubj	_	Gloss=friend
-20	wa	wa	PRON	_	_	19	nmod	_	Gloss=our
-21	sùn	sùn	VERB	_	_	12	xcomp	_	SpaceAfter=No|Gloss=slept
-22	;	;	PUNCT	_	_	26	punct	_	Gloss=;
-23	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	26	cc	_	Gloss=but
-24	èmi	èmi	PRON	_	_	26	nsubj	_	Gloss=i
-25	ń	ń	VERB	_	_	26	aux	_	Gloss=that
-26	lọ	lọ	VERB	_	_	21	xcomp	_	Gloss=go
-27	kí	kí	SCONJ	_	_	32	mark	_	Gloss=let
-28	èmi	èmi	PRON	_	_	32	nsubj	_	Gloss=i
-29	kí	kí	SCONJ	_	_	32	mark	_	Gloss=let
-30	ó	ó	PRON	_	_	32	expl	_	Gloss=he
-31	lè	lè	AUX	_	_	32	aux	_	Gloss=may
-32	jí	jí	VERB	_	_	26	xcomp	_	Gloss=raised
-33	i	i	PRON	_	_	32	obj	_	Gloss=him
-34	dìde	dìde	VERB	_	_	32	compound	_	Gloss=arose
-35	nínú	nínú	ADP	_	_	36	case	_	Gloss=in
-36	orun	orun	VERB	_	_	32	obl	_	Gloss=sleep
-37	rẹ̀	rẹ̀	PRON	_	_	36	nmod	_	SpaceAfter=No|Gloss=his
-38	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Gloss=.
-39	”	”	PUNCT	_	_	5	punct	_	Gloss=.
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 24 obl	color:blue
+1	ayé	ayé	NOUN	_	_	5	nsubj	_	Gloss=earth
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
+3	wà	wà	AUX	_	_	5	cop	_	Gloss=was
+4	ní	ní	ADP	_	_	5	case	_	Gloss=in
+5	rúdurùdu	rúdurùdu	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=confusion
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he
+8	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and
+9	ṣófo	ṣófo	ADJ	_	_	0	root	_	SpaceAfter=No|Gloss=empty
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+11	òkùnkùn	òkùnkùn	NOUN	_	_	16	nsubj	_	Gloss=darkness
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and
+13	wà	wà	AUX	_	_	16	cop	_	Gloss=was
+14	lójú	lójú	ADP	_	_	16	case	_	Gloss=sight
+15	ibú	ibú	ADJ	_	_	16	amod	_	Gloss=deep
+16	omi	omi	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=water
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+18	ẹ̀mí	ẹ̀mí	NOUN	_	_	19	compound	_	Gloss=spirit
+19	ọlọ́run	ọlọ́run	NOUN	_	_	22	nsubj	_	Gloss=god
+20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and
+21	ń	ń	VERB	_	_	22	cop	_	Gloss=that
+22	rábàbà	rábàbà	NOUN	_	_	9	csubj	_	Gloss=sweeping
+23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight
+24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water
+25	gbogbo	gbogbo	DET	_	_	24	det	_	SpaceAfter=No|Gloss=all
+26	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 ~~~
 

@@ -13,7 +13,7 @@ This relation is universal.
 223 instances of `orphan` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 24.3677130044843.
 
-The following 29 pairs of parts of speech are connected with `orphan`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (88; 39% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (29; 13% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (23; 10% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (16; 7% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (16; 7% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (12; 5% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `orphan`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (93; 42% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (27; 12% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (23; 10% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (15; 7% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (12; 5% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 6	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	7	case	7:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
 7	الطيران	طَيَرَان	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	obl:arg	2:obl:arg	Vform=اَلطَّيَرَانِ|Gloss=airline,aviation|Root=.t_y_r|Translit=aṭ-ṭayarāni|LTranslit=ṭayarān
 8	الكوري	كُورِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	7:amod	SpaceAfter=No|Vform=اَلكُورِيِّ|Gloss=Korean|Root=kUr|Translit=al-kūrīyi|LTranslit=kūrīy
-9	،	،	PUNCT	G---------	_	8	punct	8:punct	Vform=،|Translit=،
+9	،	،	PUNCT	G---------	_	8	punct	8:punct	Vform=،|Translit=,
 10	و	وَ	CCONJ	C---------	_	11	cc	11:cc	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
 11	شباب	شَبّ	NOUN	N------P1R	Case=Nom|Definite=Cons|Number=Plur	2	conj	1:parataxis|2:conj	Vform=شَبَابُ|Gloss=young_man,youth|Root=^s_b_b|Translit=šabābu|LTranslit=šabb
 12	مصر	مِصر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	11	nmod	11:nmod	Vform=مِصرَ|Gloss=Egypt|Root=m_.s_r|Translit=miṣra|LTranslit=miṣr
@@ -42,26 +42,37 @@ The following 29 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 orphan	color:blue
-1	-	-	PUNCT	G---------	_	2	punct	2:punct	Vform=-|Translit=-
-2	نمو	نُمُوّ	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	0	root	0:root	Vform=نُمُوِّ|Gloss=development,growth,progress|Root=n_m_y|Translit=numūwi|LTranslit=numūw
-3	الاقتصاد	اِقتِصَاد	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	nmod	2:nmod	Vform=اَلِاقتِصَادِ|Gloss=economy,saving|Root=q_.s_d|Translit=al-i-ʼqtiṣādi|LTranslit=iqtiṣād
-4	واعطاء	واعطاء	X	U---------	_	5	cc	5:cc	Vform=واعطاء|Translit=wAETA'
-5	واعطاء	واعطاء	X	U---------	_	2	conj	0:root|2:conj	Vform=واعطاء|Translit=wAETA'
-6	القطاع	قِطَاع	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod	Vform=اَلقِطَاعِ|Gloss=sector,section,Strip_(_Gaza_)|Root=q_.t_`|Translit=al-qiṭāʿi|LTranslit=qiṭāʿ
-7	الخاص	خَاصّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	6:amod	Vform=اَلخَاصِّ|Gloss=special,specific|Root=_h_.s_.s|Translit=al-ḫāṣṣi|LTranslit=ḫāṣṣ
-8	دور	دَور	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	5	obj	5:obj	Vform=دَورَ|Gloss=role,part|Root=d_w_r|Translit=dawra|LTranslit=dawr
-9	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
-10	وتحفيزه	وتحفيزه	X	U---------	_	5	orphan	5:orphan	Vform=وتحفيزه|Translit=wtHfyzh
-11	على	عَلَى	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
-12	المبادرة	مُبَادَرَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	10	nmod	10:nmod	Vform=اَلمُبَادَرَةِ|Gloss=initiative,proposal|Root=b_d_r|Translit=al-mubādarati|LTranslit=mubādarat
-13	من	مِن	ADP	P---------	AdpType=Prep	14	case	14:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-14	جديد	جَدِيد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	10:amod	SpaceAfter=No|Vform=جَدِيدٍ|Gloss=new,modern|Root=^g_d_d|Translit=ǧadīdin|LTranslit=ǧadīd
-15	.	.	PUNCT	G---------	_	2	punct	2:punct	Vform=.|Translit=.
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 25 orphan	color:blue
+1	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+2	تقام	أَقَام	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	1	parataxis	1:parataxis	Vform=تُقَامُ|Gloss=install,establish,erect,take_place|Root=q_w_m|Translit=tuqāmu|LTranslit=ʾaqām
+3	غدا	غَد	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	2	obl	2:obl	Vform=غَدًا|Gloss=tomorrow|Root=.g_d_w|Translit=ġadan|LTranslit=ġad
+4	مباراتان	مُبَارَاة	NOUN	N------D1I	Case=Nom|Definite=Ind|Number=Dual	2	nsubj:pass	2:nsubj:pass	Vform=مُبَارَاتَانِ|Gloss=match,game,competition|Root=b_r_y|Translit=mubārātāni|LTranslit=mubārāt
+5	هامشيتان	هَامِشِيّ	ADJ	A-----FD1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Dual	4	amod	4:amod	Vform=هَامِشِيَّتَانِ|Gloss=peripheral,marginal,sidelined|Root=h_m_^s|Translit=hāmišīyatāni|LTranslit=hāmišīy
+6	في	فِي	ADP	P---------	AdpType=Prep	7	case	7:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
+7	الفردي	فَردِيّ	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	amod	4:amod	Vform=اَلفَردِيِّ|Gloss=individual,single|Root=f_r_d|Translit=al-fardīyi|LTranslit=fardīy
+8	لن	لَن	PART	F---------	_	9	advmod	9:advmod	Vform=لَن|Gloss=not|Root=lan|Translit=lan|LTranslit=lan
+9	تؤثر	أَثَّر	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	acl	4:acl	Vform=تُؤَثِّرَ|Gloss=affect,influence|Root='__t_r|Translit=tuʾaṯṯira|LTranslit=ʾaṯṯar
+10	نتيجة	نَتِيجَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	9	nsubj	9:nsubj	Vform=نَتِيجَةُ|Gloss=result,consequence|Root=n_t_^g|Translit=natīǧatu|LTranslit=natīǧat
+11	هما	هُوَ	PRON	SP---3FD2-	Case=Gen|Gender=Fem|Number=Dual|Person=3|PronType=Prs	10	nmod	10:nmod	Vform=هُمَا|Gloss=he,she,it|Translit=humā|LTranslit=huwa
+12	على	عَلَى	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
+13	تأهل	تَأَهُّل	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	9	obl:arg	9:obl:arg	Vform=تَأَهُّلِ|Gloss=qualification,suitability,competency|Root='_h_l|Translit=taʾahhuli|LTranslit=taʾahhul
+14	استراليا	أُستُرَالِيَا	X	X---------	Foreign=Yes	13	nmod	13:nmod	SpaceAfter=No|Vform=أُستُرَالِيَا|Gloss=Australia|Root='usturAl|Translit=ʾusturāliyā|LTranslit=ʾusturāliyā
+15	،	،	PUNCT	G---------	_	14	punct	14:punct	Vform=،|Translit=,
+16	ف	فَ	CCONJ	C---------	_	2	cc	2:cc	Vform=فَ|Gloss=and,so|Root=fa|Translit=fa|LTranslit=fa
+17	يلعب	لَعِب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Vform=يَلعَبُ|Gloss=play|Root=l_`_b|Translit=yalʿabu|LTranslit=laʿib
+18	هويت	هويت	X	U---------	_	17	nsubj	17:nsubj	Vform=هويت|Root=OOV|Translit=hwyt
+19	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	20	case	20:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
+20	كويرتن	كُوِيرتِن	X	X---------	Foreign=Yes	17	advmod	17:advmod	SpaceAfter=No|Vform=كُوِيرتِن|Gloss=Kuerten|Root=kuwIrtin|Translit=kuwīrtin|LTranslit=kuwīrtin
+21	،	،	PUNCT	G---------	_	20	punct	20:punct	Vform=،|Translit=,
+22	و	وَ	CCONJ	C---------	_	23	cc	23:cc	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+23	رافتر	رَافتِر	X	X---------	Foreign=Yes	17	conj	2:parataxis|17:conj	Vform=رَافتِر|Gloss=Rafter|Root=rAftir|Translit=rāftir|LTranslit=rāftir
+24	مع	مَعَ	ADP	PI------4-	AdpType=Prep|Case=Acc	25	case	25:case	Vform=مَعَ|Gloss=with|Root=ma`|Translit=maʿa|LTranslit=maʿa
+25	ميليغيني	مِيلِيغِينِي	X	X---------	Foreign=Yes	23	orphan	23:orphan	SpaceAfter=No|Vform=مِيلِيغِينِي|Gloss=Meligeni|Root=mIlI.gInI|Translit=mīlīġīnī|LTranslit=mīlīġīnī
+26	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 

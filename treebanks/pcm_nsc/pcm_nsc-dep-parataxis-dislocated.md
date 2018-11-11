@@ -97,7 +97,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:dislocate
 22	Nigeria	Nigeria	PROPN	_	_	24	dislocated	_	_
 23	money	money	NOUN	_	_	24	nsubj	_	_
 24	dey	dey	VERB	_	_	17	acl	_	_
-25	]	]	NOUN	_	_	24	punct	_	_
+25	]	]	PUNCT	_	_	24	punct	_	_
 26	//	//	PUNCT	_	_	12	punct	_	_
 
 ~~~

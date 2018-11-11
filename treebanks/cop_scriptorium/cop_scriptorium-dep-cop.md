@@ -8,88 +8,81 @@ udver: '2'
 
 This relation is universal.
 
-110 nodes (1%) are attached to their parents as `cop`.
+190 nodes (1%) are attached to their parents as `cop`.
 
-110 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18181818181818.
+188 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03684210526316.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (39; 35% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (28; 25% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (22; 20% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (12; 11% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cop	color:blue
-1	ϩⲱⲥⲧⲉ	ϩⲱⲥⲧⲉ	CCONJ	CONJ	_	8	advmod	_	_
-2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	8	nsubj	_	_
-4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
-5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	3	nmod	_	_
-7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	0	root	_	_
-9	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	8	cop	_	_
-10	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
-11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	13	det	_	_
-13	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	_	8	nmod	_	_
-14	.	.	PUNCT	PUNCT	_	8	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (79; 42% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (41; 22% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (37; 19% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (23; 12% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 14 cop	color:blue
-1	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	dislocated	_	_
-2	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
-3	ⲛⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-4	ⲛⲁ	ⲡⲁ	DET	PPOS	_	0	root	_	_
-5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	4	nmod	_	_
-7	.	.	PUNCT	PUNCT	_	4	punct	_	_
-8	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	11	nsubj	_	_
-10	ⲇⲉ	ⲇⲉ	PART	PTC	_	11	advmod	_	_
-11	ⲡⲁ	ⲡⲁ	DET	PPOS	_	4	parataxis	_	_
-12	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	nmod	_	_
-14	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	11	cop	_	_
-15	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 14 15 cop	color:blue
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
+5	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̄
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
+8	ϫⲁϫⲉ	ϫⲁϫⲉ	NOUN	N	_	3	obl	_	Orig=ϫⲁϫⲉ`
+9	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	11	case	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	8	nmod	_	_
+12	ⲉ	ⲉ	SCONJ	CCIRC	_	14	mark	_	_
+13	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+14	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	3	advcl	_	Orig=ⲥⲟⲛ`
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	14	cop	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 cop	color:blue
-1	ⲟⲩ	ⲟⲩ	PRON	PINT	PronType=Int	0	root	_	_
-2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	1	advmod	_	_
-3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	1	cop	_	_
-4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	6	det	_	_
-6	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	1	nsubj	_	_
-7	ⲙ	ⲛ	ADP	PREP	_	8	case	_	_
-8	ⲡⲁⲥⲭⲁ	ⲡⲁⲥⲭⲁ	NOUN	N	_	6	nmod	_	_
-9	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
-10	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	1	parataxis	_	_
-11	ⲙⲙⲟ	ⲛ	ADP	PREP	_	12	case	_	_
-12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	_
-13	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
-14	ⲉ	ⲉ	ADP	PREP	_	15	mark	_	_
-15	ⲥⲣϥⲉ	ⲥⲣϥⲉ	VERB	V	VerbForm=Inf	10	xcomp	_	_
-16	ⲉ	ⲉ	ADP	PREP	_	17	mark	_	_
-17	ⲁⲁ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Inf	15	xcomp	_	_
-18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
-19	·	·	PUNCT	PUNCT	_	1	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 cop	color:blue
+1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
+2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+3	ϣⲡϩⲓⲥⲉ	ϣⲡϩⲓⲥⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ϣⲡ-ϩⲓⲥⲉ|Orig=ϣ︤ⲡ︥ϩⲓⲥⲉ
+4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ︤ⲛ︥
+5	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	3	obl	_	_
+6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+7	ⲙⲏⲣ	ⲙⲟⲩⲣ	VERB	VSTAT	VerbForm=Fin	5	acl	_	Orig=ⲙⲏⲣ⳿
+8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	acl	_	_
+10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
+11	ⲙⲟⲕϩ	ⲙⲟⲩⲕϩ	VERB	VSTAT	VerbForm=Fin	9	acl	_	Orig=ⲙⲟⲕ︤ϩ︥
+12	ⲛⲉ	ⲡⲉ	PRON	COP	Number=Plur	9	cop	_	_
+13	·	·	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 cop	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	4	aux	_	Orig=ⲛ̄
+3	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+4	ⲥⲱⲱϥ	ⲥⲱⲱϥ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲙ̄
+6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
+7	ⲣⲡⲉ	ⲣⲡⲉ	NOUN	N	_	4	obj	_	Orig=ⲣ̄ⲡⲉ
+8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	acl	_	Orig=ⲛ̄ⲧⲱⲧ︤ⲛ︥
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	9	cop	_	_
+11	ⲙⲙⲓⲛⲙⲙⲱ	ⲙⲙⲓⲛⲙⲙⲟ	ADV	IMOD	Definite=Def|PronType=Prs|Reflex=Yes	9	advmod	_	Orig=ⲙ̄ⲙⲓⲛⲙ̄ⲙⲱ
+12	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	Orig=ⲧ︤ⲛ︥
+13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (63; 94% of non-empty `Degree`): <em>περισσότερο, αργότερα, νωρίτερα, καλύτερα, λιγότερο, ειδικότερα, παλαιότερα, Παλιότερα, αυστηρότερα, βορειότερα</em>
 * `Sup` (4; 6% of non-empty `Degree`): <em>πιθανότατα, ελάχιστα, πρώτιστα</em>
-* `EMPTY` (2666): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
+* `EMPTY` (2668): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
 
 <table>
   <tr><th>Paradigm <i>λίγο</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -60,5 +60,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%).
+<tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
+<tt>ADJ --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%).
 

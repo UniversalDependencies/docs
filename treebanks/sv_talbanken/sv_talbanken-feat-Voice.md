@@ -52,10 +52,10 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_talbanken-dep-aux.html">aux</a></tt>]--> AUX</tt> (1821; 77%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (809; 72%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (691; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (690; 81%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (304; 77%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (273; 81%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (170; 77%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (171; 77%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (96; 92%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (27; 82%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (18; 75%),

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Slovak SNK
 
-Language: [Slovak](../sk/overview/sk-hub.html) (code: `sk`)<br/>
+Language: [Slovak](/sk/index.html) (code: `sk`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -199,784 +200,757 @@ vol. 68, no. 2, pp. 385-395
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: druhej, veľkej, prvá, slovenskej, verejných, štátnej, Makovej, európskej, prvej, veľkú</li>
-        <li>ADJ-Part: ozbrojených, sledovaných, pripravená, nasledujúcej, poranenú, presvedčená, určená, uvedenej, vynikajúcu, Lietajúca</li>
-        <li>AUX-Part: bola, boli, nebola, neboli, bývali, bývala</li>
-        <li>DET: jeho, ktorá, jej, ktoré, tejto, svojej, tá, táto, ich, tej</li>
-        <li>NOUN: vláda, chvíľu, mama, tvár, oblasti, vlády, chvíli, ruku, časť, izby</li>
-        <li>NUM: dve, jednej, jedna, jednou, jednu, tri, dvoch, obe, troch, obidvoch</li>
-        <li>PRON: ju, jej, nej, ona, ňou, ich, ňu, nich, im, ne</li>
-        <li>PROPN: Maja, Lori, Jazmína, Blythe, Amy, Marga, Irma, Maju, Makulienka, Delina</li>
-        <li>VERB-Fin: žiada</li>
-        <li>VERB-Part: povedala, mala, bola, odvetila, zvolala, spýtala, chcela, začala, nemala, pozrela</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: druhej, veľkej, prvá, slovenskej, verejných, štátnej, Makovej, európskej, prvej, veľkú</li>
+      <li>ADJ-Part: ozbrojených, sledovaných, pripravená, nasledujúcej, poranenú, presvedčená, určená, uvedenej, vynikajúcu, Lietajúca</li>
+      <li>AUX-Part: bola, boli, nebola, neboli, bývali, bývala</li>
+      <li>DET: jeho, ktorá, jej, ktoré, tejto, svojej, tá, táto, ich, tej</li>
+      <li>NOUN: vláda, chvíľu, mama, tvár, oblasti, vlády, chvíli, ruku, časť, izby</li>
+      <li>NUM: dve, jednej, jedna, jednou, jednu, tri, dvoch, obe, troch, obidvoch</li>
+      <li>PRON: ju, jej, nej, ona, ňou, ich, ňu, nich, im, ne</li>
+      <li>PROPN: Maja, Lori, Jazmína, Blythe, Amy, Marga, Irma, Maju, Makulienka, Delina</li>
+      <li>VERB-Fin: žiada</li>
+      <li>VERB-Part: povedala, mala, bola, odvetila, zvolala, spýtala, chcela, začala, nemala, pozrela</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</li>
-        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravený, zatajeným, zhrozený, nasledujúcich, obkľúčený, očakávaný, spojených</li>
-        <li>ADV: raz, ráz, razy</li>
-        <li>AUX-Part: bol, boli, nebol, neboli, býval, bývali, stal</li>
-        <li>DET: ktorý, jeho, ten, jej, môj, tento, každý, ktoré, všetci, ktorí</li>
-        <li>NOUN: roku, deň, rokov, ľudí, život, života, rokoch, čas, človek, pocit</li>
-        <li>NUM: jeden, dva, jedného, obaja, tri, dvoch, jedným, štyri, dvaja, jednom</li>
-        <li>PRON: ho, mu, ich, im, kto, nich, ním, nikto, on, naňho</li>
-        <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
-        <li>VERB: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
-        <li>VERB-Part: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
-        <li>X: VB</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</li>
+      <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravený, zatajeným, zhrozený, nasledujúcich, obkľúčený, očakávaný, spojených</li>
+      <li>ADV: raz, ráz, razy</li>
+      <li>AUX-Part: bol, boli, nebol, neboli, býval, bývali, stal</li>
+      <li>DET: ktorý, jeho, ten, jej, môj, tento, každý, ktoré, všetci, ktorí</li>
+      <li>NOUN: roku, deň, rokov, ľudí, život, života, rokoch, čas, človek, pocit</li>
+      <li>NUM: jeden, dva, jedného, obaja, tri, dvoch, jedným, štyri, dvaja, jednom</li>
+      <li>PRON: ho, mu, ich, im, kto, nich, ním, nikto, on, naňho</li>
+      <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
+      <li>VERB: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
+      <li>VERB-Part: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
+      <li>X: VB</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: veľké, celé, ľudské, možné, ďalšie, známe, jasné, nové, prvé, malé</li>
-        <li>ADJ-Part: chránených, otvorené, rozdelené, nasledujúcich, nazývané, neočakávané, ohrozené, orientované, pozorované, sledovanom</li>
-        <li>AUX-Part: bolo, nebolo, boli</li>
-        <li>DET: to, jeho, toho, všetko, ktoré, tom, tomu, toto, jej, svoje</li>
-        <li>NOUN: oči, storočia, meno, deti, miesto, obdobie, mesta, slová, svetlo, slovo</li>
-        <li>NUM: veľa, jedno, mnoho, päť, zopár, trochu, viac, desať, dvadsať, viacero</li>
-        <li>PRON: čo, niečo, nič, ho, ich, čosi, ňom, nich, čím, všetko</li>
-        <li>PROPN: Uhorska, Slovensku, Nemecka, Nemecku, Nemecko, Slovenska, Slovensko, Slnka, Slnko, Talianska</li>
-        <li>VERB-Part: bolo, stalo, malo, podarilo, došlo, nestalo, zdalo, trvalo, išlo, napadlo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: veľké, celé, ľudské, možné, ďalšie, známe, jasné, nové, prvé, malé</li>
+      <li>ADJ-Part: chránených, otvorené, rozdelené, nasledujúcich, nazývané, neočakávané, ohrozené, orientované, pozorované, sledovanom</li>
+      <li>AUX-Part: bolo, nebolo, boli</li>
+      <li>DET: to, jeho, toho, všetko, ktoré, tom, tomu, toto, jej, svoje</li>
+      <li>NOUN: oči, storočia, meno, deti, miesto, obdobie, mesta, slová, svetlo, slovo</li>
+      <li>NUM: veľa, jedno, mnoho, päť, zopár, trochu, viac, desať, dvadsať, viacero</li>
+      <li>PRON: čo, niečo, nič, ho, ich, čosi, ňom, nich, čím, všetko</li>
+      <li>PROPN: Uhorska, Slovensku, Nemecka, Nemecku, Nemecko, Slovenska, Slovensko, Slnka, Slnko, Talianska</li>
+      <li>VERB-Part: bolo, stalo, malo, podarilo, došlo, nestalo, zdalo, trvalo, išlo, napadlo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Animacy</a></li>
+</ul>
 
-<li><a>Animacy</a>
+<ul>
+  <li>Anim
+    <ul>
+      <li>ADJ: prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</li>
+      <li>ADJ-Part: zmätený, Zhlúpnutý, zhrozený, pripravený, spomínaní, zvyknutí, Zamilovaný, inaugurovaný, nezaradených, oblečený</li>
+      <li>AUX-Part: bol, boli, nebol, býval, neboli, stal</li>
+      <li>DET: ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</li>
+      <li>NOUN: ľudí, človek, otec, ľudia, muž, kráľ, sultán, otca, človeka, cisár</li>
+      <li>NUM: obaja, jeden, dvaja, dvoch, mnohí, obidvoch, jedným, troch, jedného, jednému</li>
+      <li>PRON: ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</li>
+      <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
+      <li>VERB-Part: mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</li>
+      <li>X: VB</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Anim
-      <ul>
-        <li>ADJ: prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</li>
-        <li>ADJ-Part: zmätený, Zhlúpnutý, zhrozený, pripravený, spomínaní, zvyknutí, Zamilovaný, inaugurovaný, nezaradených, oblečený</li>
-        <li>AUX-Part: bol, boli, nebol, býval, neboli, stal</li>
-        <li>DET: ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</li>
-        <li>NOUN: ľudí, človek, otec, ľudia, muž, kráľ, sultán, otca, človeka, cisár</li>
-        <li>NUM: obaja, jeden, dvaja, dvoch, mnohí, obidvoch, jedným, troch, jedného, jednému</li>
-        <li>PRON: ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</li>
-        <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
-        <li>VERB-Part: mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</li>
-        <li>X: VB</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Inan
+    <ul>
+      <li>ADJ: celý, druhý, prvý, veľký, nový, ďalší, nového, veľkého, posledný, tretí</li>
+      <li>ADJ-Part: nasledujúci, zatajeným, nasledujúcich, očakávaný, spojených, založený, adresovaný, nakrútené, nájdené, obkľúčený</li>
+      <li>ADV: raz, ráz, razy</li>
+      <li>AUX-Part: bol, boli, neboli, nebol, bývali</li>
+      <li>DET: ktorý, jeho, ten, jej, ktoré, tento, môj, tohto, tom, ich</li>
+      <li>NOUN: roku, deň, rokov, život, života, rokoch, čas, pocit, pohľad, sveta</li>
+      <li>NUM: dva, jeden, tri, jedného, štyri, jednom, jedným, miliónov, dvoch, oboch</li>
+      <li>PRON: ho, ich, nich, naň, ňom, neho, ním, doň, nemu, nimi</li>
+      <li>PROPN: Iraku, Mesiac, Novgorode, Ríma, Egypt, Mesiaca, Mesiaci, Paríža, Python, Sírius</li>
+      <li>VERB: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
+      <li>VERB-Part: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Inan
-      <ul>
-        <li>ADJ: celý, druhý, prvý, veľký, nový, ďalší, nového, veľkého, posledný, tretí</li>
-        <li>ADJ-Part: nasledujúci, zatajeným, nasledujúcich, očakávaný, spojených, založený, adresovaný, nakrútené, nájdené, obkľúčený</li>
-        <li>ADV: raz, ráz, razy</li>
-        <li>AUX-Part: bol, boli, neboli, nebol, bývali</li>
-        <li>DET: ktorý, jeho, ten, jej, ktoré, tento, môj, tohto, tom, ich</li>
-        <li>NOUN: roku, deň, rokov, život, života, rokoch, čas, pocit, pohľad, sveta</li>
-        <li>NUM: dva, jeden, tri, jedného, štyri, jednom, jedným, miliónov, dvoch, oboch</li>
-        <li>PRON: ho, ich, nich, naň, ňom, neho, ním, doň, nemu, nimi</li>
-        <li>PROPN: Iraku, Mesiac, Novgorode, Ríma, Egypt, Mesiaca, Mesiaci, Paríža, Python, Sírius</li>
-        <li>VERB: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
-        <li>VERB-Part: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: ďalšie, verejných, nové, rôznych, nových, veľké, ďalších, hlavných, jednotlivých, legislatívne</li>
+      <li>ADJ-Part: nasledujúcich, ozbrojených, sledovaných, nájdené, uvedených, chránených, odložené, spojených, spomínaní, týkajúcich</li>
+      <li>ADV: ráz, razy</li>
+      <li>AUX-Fin: sme, sú, ste, budú, budeme, budete, buďte, Buďme, Nebudete, majú</li>
+      <li>AUX-Part: boli, neboli, bývali</li>
+      <li>DET: ktoré, jeho, všetky, všetci, všetkých, tieto, ktorí, svojich, ich, tie</li>
+      <li>NOUN: oči, rokov, ľudí, rokoch, deti, dvere, ľudia, slová, nohy, podmienky</li>
+      <li>NUM: dva, tri, dve, dvoch, obaja, štyri, troch, obidvoch, oboch, dvaja</li>
+      <li>PRON: ich, nás, nich, im, nám, vás, nimi, my, vám, vy</li>
+      <li>PROPN: Peržanov, Vianoce, Benátok, Samojedov, Slovania, Slovákov, Arabi, Arabmi, Estóncov, Grékov</li>
+      <li>VERB-Fin: majú, sú, máme, môžu, máte, môžeme, počkajte, vyparia, chcete, musíme</li>
+      <li>VERB-Part: mali, mohli, boli, prišli, začali, sedeli, dali, dostali, išli, chceli</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</li>
+      <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravená, pripravený, zatajeným, zhrozený, nasledujúcej, nazývaného, obkľúčený</li>
+      <li>ADV: raz</li>
+      <li>AUX-Fin: som, je, bude, si, nebude, budem, budeš, nebudem, má, Nebuď</li>
+      <li>AUX-Part: bol, bola, bolo, nebola, nebolo, nebol, býval, bývala, stal</li>
+      <li>DET: to, jeho, ktorý, jej, ten, ktorá, tom, toho, ich, všetko</li>
+      <li>NOUN: roku, vláda, chvíľu, deň, mama, tvár, život, života, storočia, chvíli</li>
+      <li>NUM: jeden, jedného, jednej, veľa, jedna, jedno, mnoho, jednou, jednu, jedným</li>
+      <li>PRON: mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</li>
+      <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, musí, musím, chcem, neviem, znamená</li>
+      <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
+      <li>X: VB</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: ďalšie, verejných, nové, rôznych, nových, veľké, ďalších, hlavných, jednotlivých, legislatívne</li>
-        <li>ADJ-Part: nasledujúcich, ozbrojených, sledovaných, nájdené, uvedených, chránených, odložené, spojených, spomínaní, týkajúcich</li>
-        <li>ADV: ráz, razy</li>
-        <li>AUX-Fin: sme, sú, ste, budú, budeme, budete, buďte, Buďme, Nebudete, majú</li>
-        <li>AUX-Part: boli, neboli, bývali</li>
-        <li>DET: ktoré, jeho, všetky, všetci, všetkých, tieto, ktorí, svojich, ich, tie</li>
-        <li>NOUN: oči, rokov, ľudí, rokoch, deti, dvere, ľudia, slová, nohy, podmienky</li>
-        <li>NUM: dva, tri, dve, dvoch, obaja, štyri, troch, obidvoch, oboch, dvaja</li>
-        <li>PRON: ich, nás, nich, im, nám, vás, nimi, my, vám, vy</li>
-        <li>PROPN: Peržanov, Vianoce, Benátok, Samojedov, Slovania, Slovákov, Arabi, Arabmi, Estóncov, Grékov</li>
-        <li>VERB-Fin: majú, sú, máme, môžu, máte, môžeme, počkajte, vyparia, chcete, musíme</li>
-        <li>VERB-Part: mali, mohli, boli, prišli, začali, sedeli, dali, dostali, išli, chceli</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</li>
-        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravená, pripravený, zatajeným, zhrozený, nasledujúcej, nazývaného, obkľúčený</li>
-        <li>ADV: raz</li>
-        <li>AUX-Fin: som, je, bude, si, nebude, budem, budeš, nebudem, má, Nebuď</li>
-        <li>AUX-Part: bol, bola, bolo, nebola, nebolo, nebol, býval, bývala, stal</li>
-        <li>DET: to, jeho, ktorý, jej, ten, ktorá, tom, toho, ich, všetko</li>
-        <li>NOUN: roku, vláda, chvíľu, deň, mama, tvár, život, života, storočia, chvíli</li>
-        <li>NUM: jeden, jedného, jednej, veľa, jedna, jedno, mnoho, jednou, jednu, jedným</li>
-        <li>PRON: mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</li>
-        <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</li>
-        <li>VERB-Fin: je, má, ide, môže, mám, musí, musím, chcem, neviem, znamená</li>
-        <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
-        <li>X: VB</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: druhý, celý, ďalšie, prvý, celé, nové, veľkú, veľké, veľký, novú</li>
+      <li>ADJ-Part: nasledujúci, odložené, poranenú, vynikajúcu, nakrútené, nezaradených, obľúbené, orientované, pozorovanú, požehnané</li>
+      <li>ADP: na, o, za, pre, v, cez, medzi, po, pod, nad</li>
+      <li>ADV: raz, razy</li>
+      <li>DET: to, svoje, jeho, ten, jej, ktoré, ktorú, svoju, tú, všetky</li>
+      <li>NOUN: chvíľu, deň, oči, ruku, hlavu, tvár, život, pohľad, zem, čas</li>
+      <li>NUM: dva, tri, dve, jeden, jednu, veľa, jedno, štyri, mnoho, zopár</li>
+      <li>PRON: ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, nás</li>
+      <li>PROPN: Chrisa, Maju, Winstona, Aladina, Mauglího, Vilka, Briena, Lori, Margu, Jazmínu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADJ: vlastným, mladým, Doležalovej, Hádovej, Zlej, cirkevnej, ostatným, starej, sultánovej, ďalším</li>
+      <li>ADJ-Part: chýbajúcej, ležiacim, milovanému, nadržanému, nakloneným, namaľovaným, obohatenému, odmietanému, organizovanému, osvetlenému</li>
+      <li>ADP: k, ku, proti, napriek, kvôli, vďaka, voči, oproti, naproti, ústreti</li>
+      <li>DET: tomu, jeho, ktorému, svojmu, svojej, svojim, ich, tomuto, týmto, všetkým</li>
+      <li>NOUN: mame, dverám, oknu, otcovi, koncu, stolu, kráľovi, moci, vojne, ľuďom</li>
+      <li>NUM: trom, jednému, obom, mnohým, obidvom, piatim, siedmim</li>
+      <li>PRON: mi, mu, jej, im, ti, mne, nám, vám, nemu, sebe</li>
+      <li>PROPN: Maji, Winstonovi, Chrisovi, Júlii, Bohu, Irme, Lori, Vilkovi, Balúovi, Ferdovi</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: verejných, veľkého, slovenskej, nového, cirkevného, európskej, veľkej, zahraničnej, celého, slovenského</li>
+      <li>ADJ-Part: ozbrojených, chránených, nazývaného, spojených, týkajúcich, vybraných, zameraných, spomenutých, uvedenej, uvedených</li>
+      <li>ADP: do, z, od, zo, podľa, okolo, bez, počas, u, okrem</li>
+      <li>ADV: ráz</li>
+      <li>DET: jeho, toho, tohto, ich, svojho, jej, ktorého, svojej, svojich, všetkých</li>
+      <li>NOUN: roku, rokov, života, storočia, vlády, izby, sveta, dňa, mesta, politiky</li>
+      <li>NUM: jedného, dvoch, jednej, miliónov, troch, obidvoch, oboch, viacerých, štyroch, desať</li>
+      <li>PRON: nich, seba, nej, neho, mňa, nás, ma, jej, doň, ich</li>
+      <li>PROPN: Uhorska, Ríma, Jána, Pavla, Zeme, Nemecka, Mesiaca, Paríža, Slovenska, Busha</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: druhý, celý, ďalšie, prvý, celé, nové, veľkú, veľké, veľký, novú</li>
-        <li>ADJ-Part: nasledujúci, odložené, poranenú, vynikajúcu, nakrútené, nezaradených, obľúbené, orientované, pozorovanú, požehnané</li>
-        <li>ADP: na, o, za, pre, v, cez, medzi, po, pod, nad</li>
-        <li>ADV: raz, razy</li>
-        <li>DET: to, svoje, jeho, ten, jej, ktoré, ktorú, svoju, tú, všetky</li>
-        <li>NOUN: chvíľu, deň, oči, ruku, hlavu, tvár, život, pohľad, zem, čas</li>
-        <li>NUM: dva, tri, dve, jeden, jednu, veľa, jedno, štyri, mnoho, zopár</li>
-        <li>PRON: ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, nás</li>
-        <li>PROPN: Chrisa, Maju, Winstona, Aladina, Mauglího, Vilka, Briena, Lori, Margu, Jazmínu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ins
+    <ul>
+      <li>ADJ: prvým, ďalším, veľkým, jediným, veľkými, ďalšou, hlavnou, najväčším, druhým, dôležitou</li>
+      <li>ADJ-Part: zatajeným, otvorenými, predstieraným, prepracovaným, rotujúcim, rozžiareným, skríženými, uznávaným, vzdialenejšími, zmiešaným</li>
+      <li>ADP: s, pred, so, za, medzi, pod, nad, spolu, nado, predo</li>
+      <li>DET: jeho, tým, svojím, jej, svojou, ktorými, ktorou, ktorým, mojím, akousi</li>
+      <li>NOUN: hlavou, cieľom, očami, plecami, súčasťou, úsmevom, chrbtom, rokmi, tvárou, vlasmi</li>
+      <li>NUM: jednou, jedným, štyrmi, dvoma, mnohými, troma, oboma, desiatimi, deviatimi, dvomi</li>
+      <li>PRON: ním, mnou, ňou, nimi, sebou, tebou, nami, čím, niečím, vami</li>
+      <li>PROPN: Chrisom, Vilkom, Allenom, Euroáziou, Európou, Ginsbergom, Mesiacom, Rickom, Rudkom, Aladinom</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADJ: vlastným, mladým, Doležalovej, Hádovej, Zlej, cirkevnej, ostatným, starej, sultánovej, ďalším</li>
-        <li>ADJ-Part: chýbajúcej, ležiacim, milovanému, nadržanému, nakloneným, namaľovaným, obohatenému, odmietanému, organizovanému, osvetlenému</li>
-        <li>ADP: k, ku, proti, napriek, kvôli, vďaka, voči, oproti, naproti, ústreti</li>
-        <li>DET: tomu, jeho, ktorému, svojmu, svojej, svojim, ich, tomuto, týmto, všetkým</li>
-        <li>NOUN: mame, dverám, oknu, otcovi, koncu, stolu, kráľovi, moci, vojne, ľuďom</li>
-        <li>NUM: trom, jednému, obom, mnohým, obidvom, piatim, siedmim</li>
-        <li>PRON: mi, mu, jej, im, ti, mne, nám, vám, nemu, sebe</li>
-        <li>PROPN: Maji, Winstonovi, Chrisovi, Júlii, Bohu, Irme, Lori, Vilkovi, Balúovi, Ferdovi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Loc
+    <ul>
+      <li>ADJ: druhej, prvom, poslednom, druhom, poslednej, celom, nasledujúcich, sledovaných, starej, veľkej</li>
+      <li>ADJ-Part: nasledujúcich, sledovaných, nasledujúcej, nasledujúcom, otrhaných, sledovanom, spomínanom, uvedených, vzdialenom, bežiacom</li>
+      <li>ADP: v, na, po, o, pri, vo, popri, AN</li>
+      <li>DET: tom, jeho, tejto, tomto, svojom, tej, jej, ktorom, svojej, ktorých</li>
+      <li>NOUN: roku, rokoch, chvíli, čase, oblasti, noci, prípade, ceste, škole, izbe</li>
+      <li>NUM: jednej, jednom, dvoch, oboch, mnohých, obidvoch, pol, troch, štyroch, desiatich</li>
+      <li>PRON: nej, ňom, sebe, mne, nich, čom, tebe, vás, kom, ničom</li>
+      <li>PROPN: Iraku, Novgorode, Slovensku, Európe, Mesiaci, Nemecku, Zemi, Jene, Prahe, Rusi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: verejných, veľkého, slovenskej, nového, cirkevného, európskej, veľkej, zahraničnej, celého, slovenského</li>
-        <li>ADJ-Part: ozbrojených, chránených, nazývaného, spojených, týkajúcich, vybraných, zameraných, spomenutých, uvedenej, uvedených</li>
-        <li>ADP: do, z, od, zo, podľa, okolo, bez, počas, u, okrem</li>
-        <li>ADV: ráz</li>
-        <li>DET: jeho, toho, tohto, ich, svojho, jej, ktorého, svojej, svojich, všetkých</li>
-        <li>NOUN: roku, rokov, života, storočia, vlády, izby, sveta, dňa, mesta, politiky</li>
-        <li>NUM: jedného, dvoch, jednej, miliónov, troch, obidvoch, oboch, viacerých, štyroch, desať</li>
-        <li>PRON: nich, seba, nej, neho, mňa, nás, ma, jej, doň, ich</li>
-        <li>PROPN: Uhorska, Ríma, Jána, Pavla, Zeme, Nemecka, Mesiaca, Paríža, Slovenska, Busha</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</li>
+      <li>ADJ-Part: zmätený, Zhlúpnutý, nájdené, pripravená, pripravený, zhrozený, obkľúčený, otvorené, pozorované, presvedčená</li>
+      <li>ADV: raz</li>
+      <li>DET: to, jeho, ktoré, ktorý, ktorá, jej, ten, všetci, tá, táto</li>
+      <li>NOUN: vláda, mama, človek, otec, ľudia, muž, tvár, kráľ, sultán, deti</li>
+      <li>NUM: jeden, jedna, obaja, tri, veľa, dvaja, dve, štyri, dva, jedno</li>
+      <li>PRON: ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</li>
+      <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Jazmína, Vilko, Herkules, Abu, Bush</li>
+      <li>X: VB</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ins
-      <ul>
-        <li>ADJ: prvým, ďalším, veľkým, jediným, veľkými, ďalšou, hlavnou, najväčším, druhým, dôležitou</li>
-        <li>ADJ-Part: zatajeným, otvorenými, predstieraným, prepracovaným, rotujúcim, rozžiareným, skríženými, uznávaným, vzdialenejšími, zmiešaným</li>
-        <li>ADP: s, pred, so, za, medzi, pod, nad, spolu, nado, predo</li>
-        <li>DET: jeho, tým, svojím, jej, svojou, ktorými, ktorou, ktorým, mojím, akousi</li>
-        <li>NOUN: hlavou, cieľom, očami, plecami, súčasťou, úsmevom, chrbtom, rokmi, tvárou, vlasmi</li>
-        <li>NUM: jednou, jedným, štyrmi, dvoma, mnohými, troma, oboma, desiatimi, deviatimi, dvomi</li>
-        <li>PRON: ním, mnou, ňou, nimi, sebou, tebou, nami, čím, niečím, vami</li>
-        <li>PROPN: Chrisom, Vilkom, Allenom, Euroáziou, Európou, Ginsbergom, Mesiacom, Rickom, Rudkom, Aladinom</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Loc
-      <ul>
-        <li>ADJ: druhej, prvom, poslednom, druhom, poslednej, celom, nasledujúcich, sledovaných, starej, veľkej</li>
-        <li>ADJ-Part: nasledujúcich, sledovaných, nasledujúcej, nasledujúcom, otrhaných, sledovanom, spomínanom, uvedených, vzdialenom, bežiacom</li>
-        <li>ADP: v, na, po, o, pri, vo, popri, AN</li>
-        <li>DET: tom, jeho, tejto, tomto, svojom, tej, jej, ktorom, svojej, ktorých</li>
-        <li>NOUN: roku, rokoch, chvíli, čase, oblasti, noci, prípade, ceste, škole, izbe</li>
-        <li>NUM: jednej, jednom, dvoch, oboch, mnohých, obidvoch, pol, troch, štyroch, desiatich</li>
-        <li>PRON: nej, ňom, sebe, mne, nich, čom, tebe, vás, kom, ničom</li>
-        <li>PROPN: Iraku, Novgorode, Slovensku, Európe, Mesiaci, Nemecku, Zemi, Jene, Prahe, Rusi</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</li>
-        <li>ADJ-Part: zmätený, Zhlúpnutý, nájdené, pripravená, pripravený, zhrozený, obkľúčený, otvorené, pozorované, presvedčená</li>
-        <li>ADV: raz</li>
-        <li>DET: to, jeho, ktoré, ktorý, ktorá, jej, ten, všetci, tá, táto</li>
-        <li>NOUN: vláda, mama, človek, otec, ľudia, muž, tvár, kráľ, sultán, deti</li>
-        <li>NUM: jeden, jedna, obaja, tri, veľa, dvaja, dve, štyri, dva, jedno</li>
-        <li>PRON: ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</li>
-        <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Jazmína, Vilko, Herkules, Abu, Bush</li>
-        <li>X: VB</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Voc
-      <ul>
-        <li>NOUN: mami, slečna, chlapče, ocko, Soľ, drahý, džin, pane, priatelia, priateľko</li>
-        <li>PROPN: Winston, Baghíra, Džafar, Pane, Abubu, Ali, Bože, Jago, Ježiši, Kerchak</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Voc
+    <ul>
+      <li>NOUN: mami, slečna, chlapče, ocko, Soľ, drahý, džin, pane, priatelia, priateľko</li>
+      <li>PROPN: Winston, Baghíra, Džafar, Pane, Abubu, Ali, Bože, Jago, Ježiši, Kerchak</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: lepšie, radšej, starší, vyšších, väčšie, lepšiu, mladší, staršia, väčší, Dôležitejším</li>
-        <li>ADJ-Part: vzdialenejšími, prekvapujúcejšia, umiernenejšiu</li>
-        <li>ADV: viac, bližšie, dlhšie, menej, vyššie, silnejšie, neskôr, nižšie, ľahšie, dávnejšie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: lepšie, radšej, starší, vyšších, väčšie, lepšiu, mladší, staršia, väčší, Dôležitejším</li>
+      <li>ADJ-Part: vzdialenejšími, prekvapujúcejšia, umiernenejšiu</li>
+      <li>ADV: viac, bližšie, dlhšie, menej, vyššie, silnejšie, neskôr, nižšie, ľahšie, dávnejšie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</li>
-        <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
-        <li>ADV: veľmi, potom, opäť, teraz, už, stále, dnes, neskôr, dobre, napokon</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</li>
+      <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
+      <li>ADV: veľmi, potom, opäť, teraz, už, stále, dnes, neskôr, dobre, napokon</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: najväčším, najlepšie, najradšej, najväčšie, najvýznamnejších, najdôležitejšie, najlepšia, najlepší, najmenšie, najväčšou</li>
-        <li>ADJ-Part: najobľúbenejšími, najuznávanejší</li>
-        <li>ADV: najlepšie, najviac, najčastejšie, najrýchlejšie, najskôr, Najdivokejšie, najsilnejšie, Najhoršie, Najvýraznejšie, najdlhšie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: najväčším, najlepšie, najradšej, najväčšie, najvýznamnejších, najdôležitejšie, najlepšia, najlepší, najmenšie, najväčšou</li>
+      <li>ADJ-Part: najobľúbenejšími, najuznávanejší</li>
+      <li>ADV: najlepšie, najviac, najčastejšie, najrýchlejšie, najskôr, Najdivokejšie, najsilnejšie, Najhoršie, Najvýraznejšie, najdlhšie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, Nestoja, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným</li>
+      <li>AUX-Fin: je, nebude, sú, nebudem, som, Nebudete, Nebuď, nebudeme, nebudeš, nebudú</li>
+      <li>AUX-Part: nebola, nebolo, nebol, neboli</li>
+      <li>VERB-Conv: Nehovoriac</li>
+      <li>VERB-Fin: neviem, nemám, nemá, nemôžem, je, nemôže, nemôžeš, nevie, nezáleží, niet</li>
+      <li>VERB-Inf: nebyť, neprovokovať, Nevidieť, nemyslieť, neplytvať, nepotrebovať, neprekročiť, nespomenúť, neupútať, nevytrúsiť</li>
+      <li>VERB-Part: nemal, nemala, nemohla, nevidel, nevedel, nechcela, nepovedal, nestalo, nemohol, nevidela</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, Nestoja, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným</li>
-        <li>AUX-Fin: je, nebude, sú, nebudem, som, Nebudete, Nebuď, nebudeme, nebudeš, nebudú</li>
-        <li>AUX-Part: nebola, nebolo, nebol, neboli</li>
-        <li>VERB-Conv: Nehovoriac</li>
-        <li>VERB-Fin: neviem, nemám, nemá, nemôžem, je, nemôže, nemôžeš, nevie, nezáleží, niet</li>
-        <li>VERB-Inf: nebyť, neprovokovať, Nevidieť, nemyslieť, neplytvať, nepotrebovať, neprekročiť, nespomenúť, neupútať, nevytrúsiť</li>
-        <li>VERB-Part: nemal, nemala, nemohla, nevidel, nevedel, nechcela, nepovedal, nestalo, nemohol, nevidela</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
-        <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, budeme, budem</li>
-        <li>AUX-Inf: byť</li>
-        <li>AUX-Part: bol, bola, bolo, boli, býval, bývali, bývala, stal</li>
-        <li>VERB: mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</li>
-        <li>VERB-Conv: cítiac, Hľadajúc, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc, odhliadnuc</li>
-        <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
-        <li>VERB-Inf: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
-        <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
+      <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, budeme, budem</li>
+      <li>AUX-Inf: byť</li>
+      <li>AUX-Part: bol, bola, bolo, boli, býval, bývali, bývala, stal</li>
+      <li>VERB: mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</li>
+      <li>VERB-Conv: cítiac, Hľadajúc, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc, odhliadnuc</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>VERB-Inf: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
+      <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
-        <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
-        <li>AUX-Inf: byť</li>
-        <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
-        <li>VERB: mal, je, má, mala, bol, bolo, ide, bola, môže, mali</li>
-        <li>VERB-Conv: cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</li>
-        <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
-        <li>VERB-Inf: mať, ísť, podporovať, robiť, pokračovať, hľadať, stáť, veriť, byť, spať</li>
-        <li>VERB-Part: mal, mala, bol, bolo, bola, mali, chcel, vedel, chcela, mohol</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
+      <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
+      <li>AUX-Inf: byť</li>
+      <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
+      <li>VERB: mal, je, má, mala, bol, bolo, ide, bola, môže, mali</li>
+      <li>VERB-Conv: cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>VERB-Inf: mať, ísť, podporovať, robiť, pokračovať, hľadať, stáť, veriť, byť, spať</li>
+      <li>VERB-Part: mal, mala, bol, bolo, bola, mali, chcel, vedel, chcela, mohol</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp,Perf
-      <ul>
-        <li>VERB-Fin: dá, daj, Počuješ, nedá, poznám, reaguje, realizuje, venuje, dám, nedajú</li>
-        <li>VERB-Inf: venovať, dať, počuť, identifikovať, korunovať, reagovať, odpovedať, publikovať, realizovať, definovať</li>
-        <li>VERB-Part: dal, počul, dali, venoval, dala, stačilo, neodpovedal, odpovedala, poznal, poznala</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp,Perf
+    <ul>
+      <li>VERB-Fin: dá, daj, Počuješ, nedá, poznám, reaguje, realizuje, venuje, dám, nedajú</li>
+      <li>VERB-Inf: venovať, dať, počuť, identifikovať, korunovať, reagovať, odpovedať, publikovať, realizovať, definovať</li>
+      <li>VERB-Part: dal, počul, dali, venoval, dala, stačilo, neodpovedal, odpovedala, poznal, poznala</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>AUX-Part: stal</li>
-        <li>VERB-Conv: odhliadnuc, povediac, vyhovejúc, využijúc</li>
-        <li>VERB-Fin: pripraví, vytvorí, pozri, zabezpečí, počkajte, prijme, príde, vyparia, podporí, počkaj</li>
-        <li>VERB-Inf: povedať, stať, odísť, ostať, prísť, vysvetliť, vytvoriť, pomôcť, urobiť, zastaviť</li>
-        <li>VERB-Part: povedal, povedala, odvetil, spýtal, odvetila, zvolala, začal, prišiel, stal, spýtala</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>AUX-Part: stal</li>
+      <li>VERB-Conv: odhliadnuc, povediac, vyhovejúc, využijúc</li>
+      <li>VERB-Fin: pripraví, vytvorí, pozri, zabezpečí, počkajte, prijme, príde, vyparia, podporí, počkaj</li>
+      <li>VERB-Inf: povedať, stať, odísť, ostať, prísť, vysvetliť, vytvoriť, pomôcť, urobiť, zastaviť</li>
+      <li>VERB-Part: povedal, povedala, odvetil, spýtal, odvetila, zvolala, začal, prišiel, stal, spýtala</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: by</li>
+      <li>PART: akoby, Niežeby</li>
+      <li>SCONJ: aby, keby, akoby</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX: by</li>
-        <li>PART: akoby, Niežeby</li>
-        <li>SCONJ: aby, keby, akoby</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: buďte, Buďme, Nebuď</li>
+      <li>VERB-Fin: pozri, poď, počkajte, počkaj, Prestaň, daj, nerob, pustite, čujte, Dotkni</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: buďte, Buďme, Nebuď</li>
-        <li>VERB-Fin: pozri, poď, počkajte, počkaj, Prestaň, daj, nerob, pustite, čujte, Dotkni</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
-        <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: bude, budú, nebude, budeme, budem, budeš, nebudem, budete, Nebudete, nebudeme</li>
+      <li>VERB-Fin: bude, pôjdeme, nebudú, pôjdem, pôjde, Poletím, Poletíš, budem, budeš, budú</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
+      <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
+      <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: bude, budú, nebude, budeme, budem, budeš, nebudem, budete, Nebudete, nebudeme</li>
-        <li>VERB-Fin: bude, pôjdeme, nebudú, pôjdem, pôjde, Poletím, Poletíš, budem, budeš, budú</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: som, je, sme, sú, si, ste, má, býva, majú, nebýva</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
-        <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
-        <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: som, je, sme, sú, si, ste, má, býva, majú, nebýva</li>
-        <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Act
+    <ul>
+      <li>ADJ-Part: nasledujúcich, nasledujúci, nasledujúcej, týkajúcich, Lietajúca, krútiace, nasledujúcom, predchádzajúce, predsedajúci, provokujúce</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Act
-      <ul>
-        <li>ADJ-Part: nasledujúcich, nasledujúci, nasledujúcej, týkajúcich, Lietajúca, krútiace, nasledujúcom, predchádzajúce, predsedajúci, provokujúce</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>ADJ-Part: ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADJ-Part: ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: tu, tam, tak, vtedy, takto, preto, zatiaľ, sem, dovtedy, odvtedy</li>
-        <li>DET: to, ten, tom, toho, tomu, tejto, toto, tento, tohto, tieto</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: tu, tam, tak, vtedy, takto, preto, zatiaľ, sem, dovtedy, odvtedy</li>
+      <li>DET: to, ten, tom, toho, tomu, tejto, toto, tento, tohto, tieto</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Emp
-      <ul>
-        <li>DET: sám, sama, samé, sami, samo, samom, samej, samého, samých, samým</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: sám, sama, samé, sami, samo, samom, samej, samého, samých, samým</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADV: niekedy, niekde, kedysi, inak, niekoľkokrát, akosi, kdesi, inde, inokedy, nejako</li>
-        <li>DET: niekoľko, iné, nejaký, niektoré, akýsi, iných, nejaké, niekoľkých, niektorých, iný</li>
-        <li>PRON: niečo, niekto, čosi, ktosi, niečím, všeličo, čokoľvek, niekoho, niečoho, ktokoľvek</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: niekedy, niekde, kedysi, inak, niekoľkokrát, akosi, kdesi, inde, inokedy, nejako</li>
+      <li>DET: niekoľko, iné, nejaký, niektoré, akýsi, iných, nejaké, niekoľkých, niektorých, iný</li>
+      <li>PRON: niečo, niekto, čosi, ktosi, niečím, všeličo, čokoľvek, niekoho, niečoho, ktokoľvek</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int,Rel
-      <ul>
-        <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, Kamže, kadiaľ, kdeby</li>
-        <li>DET: ktoré, ktorý, ktorá, ktorí, ktorú, ktorého, ktorej, ktorých, ktorom, aké</li>
-        <li>PRON: čo, kto, čím, čom, koho, Čože, čomu, komu, ktože, čoho</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, Kamže, kadiaľ, kdeby</li>
+      <li>DET: ktoré, ktorý, ktorá, ktorí, ktorú, ktorého, ktorej, ktorých, ktorom, aké</li>
+      <li>PRON: čo, kto, čím, čom, koho, Čože, čomu, komu, ktože, čoho</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: nikdy, nijako, nikam, nikde</li>
-        <li>DET: nijaké, žiadne, nijaký, nijaká, nijakú, žiaden, žiadna, nijakej, nijakého, žiadneho</li>
-        <li>PRON: nič, nikto, nik, nikoho, nikomu, ničoho, ničom, ničomu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: nikdy, nijako, nikam, nikde</li>
+      <li>DET: nijaké, žiadne, nijaký, nijaká, nijakú, žiaden, žiadna, nijakej, nijakého, žiadneho</li>
+      <li>PRON: nič, nikto, nik, nikoho, nikomu, ničoho, ničom, ničomu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</li>
-        <li>PRON: sa, si, mi, ho, ma, mu, ju, ja, jej, ich</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</li>
+      <li>PRON: sa, si, mi, ho, ma, mu, ju, ja, jej, ich</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>ADV: vždy, všade, Všelijako</li>
-        <li>DET: všetko, všetky, každý, všetci, všetkých, každom, každú, každé, všetkým, každého</li>
-        <li>PRON: všetko, všetci, všetky, všetkých, všetku, všetkému</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>ADV: vždy, všade, Všelijako</li>
+      <li>DET: všetko, všetky, každý, všetci, všetkých, každom, každú, každé, všetkým, každého</li>
+      <li>PRON: všetko, všetci, všetky, všetkých, všetku, všetkému</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>DET: niekoľko, niekoľkých, toľko, koľko, niekoľkými, niekolko</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>DET: niekoľko, niekoľkých, toľko, koľko, niekoľkými, niekolko</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>ADJ: jediný, mnohých, jediného, jediným, jediné, mnohí, jediná, ostatní, dvojitý, dvojnásobné</li>
+      <li>ADV: raz, prvýkrát, niekoľkokrát, neraz, dvakrát, Tisíckrát, dvojako, mnohokrát, ráz, stokrát</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>ADJ: jediný, mnohých, jediného, jediným, jediné, mnohí, jediná, ostatní, dvojitý, dvojnásobné</li>
-        <li>ADV: raz, prvýkrát, niekoľkokrát, neraz, dvakrát, Tisíckrát, dvojako, mnohokrát, ráz, stokrát</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: prvý, druhý, druhej, prvé, prvá, prvom, prvým, prvej, druhá, tretí</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: prvý, druhý, druhej, prvé, prvá, prvom, prvým, prvej, druhá, tretí</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: svoje, svojej, svojho, svojich, svoju, svojom, svoj, svojím, svojou, svojim</li>
+      <li>PRON: sa, si, seba, sebe, sebou, a, se, za</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
+      <li>DET: môj, moja, moje, môjho, mojich, naše, náš, našej, mojej, moju</li>
+      <li>PRON: mi, ma, ja, mňa, nás, mne, mnou, nám, my, nami</li>
+      <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: svoje, svojej, svojho, svojich, svoju, svojom, svoj, svojím, svojou, svojim</li>
-        <li>PRON: sa, si, seba, sebe, sebou, a, se, za</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</li>
+      <li>DET: tvoj, vaše, tvoje, tvoja, tvojho, vaša, tvojím, vašej, vašu, Tvojej</li>
+      <li>PRON: ťa, ty, ti, vás, vám, teba, vy, tebou, tebe, vami</li>
+      <li>VERB-Fin: máš, chceš, si, pozri, máte, poď, musíš, nemôžeš, počkajte, chcete</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
-        <li>DET: môj, moja, moje, môjho, mojich, naše, náš, našej, mojej, moju</li>
-        <li>PRON: mi, ma, ja, mňa, nás, mne, mnou, nám, my, nami</li>
-        <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</li>
-        <li>DET: tvoj, vaše, tvoje, tvoja, tvojho, vaša, tvojím, vašej, vašu, Tvojej</li>
-        <li>PRON: ťa, ty, ti, vás, vám, teba, vy, tebou, tebe, vami</li>
-        <li>VERB-Fin: máš, chceš, si, pozri, máte, poď, musíš, nemôžeš, počkajte, chcete</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
-        <li>DET: jeho, jej, ich</li>
-        <li>PRON: ho, mu, ju, jej, ich, nich, im, nej, ním, ona</li>
-        <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
+      <li>DET: jeho, jej, ich</li>
+      <li>PRON: ho, mu, ju, jej, ich, nich, im, nej, ním, ona</li>
+      <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
 
-<li><a>Gender[psor]</a>
+<ul>
+  <li>Fem
+    <ul>
+      <li>DET: jej</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>DET: jej</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc,Neut
+    <ul>
+      <li>DET: jeho, ich, jej</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc,Neut
-      <ul>
-        <li>DET: jeho, ich, jej</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: ich, naše, našej, náš, nášho, našu, vaše, našich, našom, naša</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number[psor]</a>
-
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: ich, naše, našej, náš, nášho, našu, vaše, našich, našom, naša</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: jeho, jej, môj, moja, moje, môjho, mojich, mojej, moju, tvoj</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: jeho, jej, môj, moja, moje, môjho, mojich, mojej, moju, tvoj</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: j, tzv, sv, SR, USA, EÚ, P, c, r, A</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: j, tzv, sv, SR, USA, EÚ, P, c, r, A</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: na, v, do, s, z, o, po, za, k, od</li>
-      </ul>
-    </li>
-    <li>Preppron
-      <ul>
-        <li>PRON: naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho</li>
-      </ul>
-    </li>
-    <li>Voc
-      <ul>
-        <li>ADP: vo, so, zo, ku, nado, odo, predo, bezo, podo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: na, v, do, s, z, o, po, za, k, od</li>
+        </ul>
+      </li>
+      <li>Preppron
+        <ul>
+          <li>PRON: naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho</li>
+        </ul>
+      </li>
+      <li>Voc
+        <ul>
+          <li>ADP: vo, so, zo, ku, nado, odo, predo, bezo, podo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: the, of, REUTERS, Energy, Evangelium, Film, Grazie, Harken, International, Lara</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, of, REUTERS, Energy, Evangelium, Film, Grazie, Harken, International, Lara</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: O, po, česko, San, rostovsko, v, KLIP, El, a, al</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Hyph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: O, po, česko, San, rostovsko, v, KLIP, El, a, al</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: II, 1, 11, 2, I, 2004, 4, 20, 10, III</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: II, 1, 11, 2, I, 2004, 4, 20, 10, III</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Typo</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: administratívnych, aténského, bielorusk0ho, dnešních, hororej, huslové, iní, mikrovlné, napísane, naznámejší</li>
-        <li>ADJ-Part: napísane, pomenována, vládnúcej, vylučené, zachytený</li>
-        <li>ADP: s, zo, AN, Po, ma, o, pomocu</li>
-        <li>ADV: definitivne, jednostranné, natešne, neustála, niekdy, sebe, uz, vslatne</li>
-        <li>AUX-Fin: niesme</li>
-        <li>CCONJ: sice</li>
-        <li>DET: svojim, ktorý, Ake, akí, do, ktorí, niekolko, svojím, tuto</li>
-        <li>NOUN: básni, kliniec, koalícia, Odhlásenia, Princezny, Východiska, girladnami, grímasu, hierarcha, hlainy</li>
-        <li>NUM: dva</li>
-        <li>PART: Ano</li>
-        <li>PRON: a, je, za</li>
-        <li>PROPN: Winton, Rama</li>
-        <li>VERB-Fin: Nepridátete, nezáhráte, obsakujú, pocitujú, považujú, presvedčia, prihovárá, tiahnú, trvrdia, zavrem</li>
-        <li>VERB-Inf: presadzovť, čítal</li>
-        <li>VERB-Part: Nevydeli, hlásli, nchýbal, odšuchatala, okazoval, oposkladali, pophyboval, poprisili, posilili, prejavil</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: administratívnych, aténského, bielorusk0ho, dnešních, hororej, huslové, iní, mikrovlné, napísane, naznámejší</li>
+          <li>ADJ-Part: napísane, pomenována, vládnúcej, vylučené, zachytený</li>
+          <li>ADP: s, zo, AN, Po, ma, o, pomocu</li>
+          <li>ADV: definitivne, jednostranné, natešne, neustála, niekdy, sebe, uz, vslatne</li>
+          <li>AUX-Fin: niesme</li>
+          <li>CCONJ: sice</li>
+          <li>DET: svojim, ktorý, Ake, akí, do, ktorí, niekolko, svojím, tuto</li>
+          <li>NOUN: básni, kliniec, koalícia, Odhlásenia, Princezny, Východiska, girladnami, grímasu, hierarcha, hlainy</li>
+          <li>NUM: dva</li>
+          <li>PART: Ano</li>
+          <li>PRON: a, je, za</li>
+          <li>PROPN: Winton, Rama</li>
+          <li>VERB-Fin: Nepridátete, nezáhráte, obsakujú, pocitujú, považujú, presvedčia, prihovárá, tiahnú, trvrdia, zavrem</li>
+          <li>VERB-Inf: presadzovť, čítal</li>
+          <li>VERB-Part: Nevydeli, hlásli, nchýbal, odšuchatala, okazoval, oposkladali, pophyboval, poprisili, posilili, prejavil</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

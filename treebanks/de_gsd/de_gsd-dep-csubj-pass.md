@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	nicht	nicht	PART	PTKNEG	Polarity=Neg	3	advmod	_	_
 3	gepasst	passen	VERB	VVPP	VerbForm=Part	10	csubj:pass	_	_
 4	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
-5	,	,	PUNCT	$,	_	10	punct	_	_
+5	,	,	PUNCT	$,	_	3	punct	_	_
 6	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	aux:pass	_	_
 7	sehr	sehr	ADV	ADV	_	8	advmod	_	_
 8	schnell	schnell	ADV	ADJD	_	10	advmod	_	_
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	So	so	ADV	ADV	_	3	advmod	_	_
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
 3	erzählt	erzählen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	$,	_	3	punct	_	_
+4	,	,	PUNCT	$,	_	8	punct	_	_
 5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	Juden	Jude	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
 7	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -72,11 +72,11 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	aux:pass	_	_
 3	angenommen	annehmen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	$,	_	3	punct	_	_
+4	,	,	PUNCT	$,	_	10	punct	_	_
 5	dass	dass	SCONJ	KOUS	_	10	mark	_	_
 6	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	Olešnice	Olešnice	PROPN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
-8	-	-	PUNCT	$(	_	7	punct	_	_
+8	-	-	PUNCT	$(	_	9	punct	_	_
 9	Tal	Tal	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	7	flat	_	_
 10	Ausgangspunkt	Ausgangspunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	csubj:pass	_	_
 11	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_

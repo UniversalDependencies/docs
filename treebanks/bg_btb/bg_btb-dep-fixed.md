@@ -22,18 +22,18 @@ The following 27 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	Успокоява	успокоявам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	6	punct	_	_
-4	за	за	ADP	R	_	6	mark	_	_
-5	да	да	AUX	Tx	_	4	fixed	_	_
-6	може	мога	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
-7	Манол	манол	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	_	_
-8	да	да	AUX	Tx	_	10	aux	_	_
-9	си	си	PRON	Ppxts	Case=Dat|Poss=Yes|PronType=Prs|Reflex=Yes	10	expl	_	_
-10	разиграва	разигравам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
-11	коня	кон	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	1	punct	_	_
+1	Успокоява	успокоявам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	SpaceAfter=No
+3	,	,	PUNCT	punct	_	6	punct	6:punct	_
+4	за	за	ADP	R	_	6	mark	6:mark	_
+5	да	да	AUX	Tx	_	4	fixed	4:fixed	_
+6	може	мога	VERB	Vpiif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	1:advcl:за	_
+7	Манол	манол	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	10	nsubj	6:nsubj|10:nsubj	_
+8	да	да	AUX	Tx	_	10	aux	10:aux	_
+9	си	си	PRON	Ppxts	Case=Dat|Poss=Yes|PronType=Prs|Reflex=Yes	10	expl	10:expl	_
+10	разиграва	разигравам-(се)	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	6:ccomp	_
+11	коня	кон	NOUN	Ncmsh	Definite=Def|Gender=Masc|Number=Sing	10	obj	10:obj	SpaceAfter=No
+12	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
 ~~~
 
@@ -44,14 +44,14 @@ The following 27 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 fixed	color:blue
-1	-	-	PUNCT	punct	_	8	punct	_	_
-2	Може	може	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
-3	би	съм	VERB	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	_	_
-4	в	в	ADP	R	_	8	case	_	_
-5	рамките	рамка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	fixed	_	_
-6	на	на	ADP	R	_	4	fixed	_	_
-7	1000	1000	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	8	nummod	_	_
-8	лв.	лев	NOUN	Ncmt	Gender=Masc|Number=Count	0	root	_	_
+1	-	-	PUNCT	punct	_	8	punct	8:punct	_
+2	Може	може	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	8:acl	_
+3	би	съм	VERB	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	2:fixed	_
+4	в	в	ADP	R	_	8	case	8:case	_
+5	рамките	рамка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	fixed	4:fixed	_
+6	на	на	ADP	R	_	4	fixed	4:fixed	_
+7	1000	1000	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	8	nummod	8:nummod	_
+8	лв.	лев	NOUN	Ncmt	Gender=Masc|Number=Count	0	root	0:root	_
 
 ~~~
 
@@ -62,14 +62,14 @@ The following 27 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	-	-	PUNCT	punct	_	8	punct	_	_
-2	Може	може	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
-3	би	съм	VERB	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	_	_
-4	в	в	ADP	R	_	8	case	_	_
-5	рамките	рамка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	fixed	_	_
-6	на	на	ADP	R	_	4	fixed	_	_
-7	1000	1000	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	8	nummod	_	_
-8	лв.	лев	NOUN	Ncmt	Gender=Masc|Number=Count	0	root	_	_
+1	-	-	PUNCT	punct	_	8	punct	8:punct	_
+2	Може	може	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	8:acl	_
+3	би	съм	VERB	Vxitu-o3s	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	fixed	2:fixed	_
+4	в	в	ADP	R	_	8	case	8:case	_
+5	рамките	рамка	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	4	fixed	4:fixed	_
+6	на	на	ADP	R	_	4	fixed	4:fixed	_
+7	1000	1000	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	8	nummod	8:nummod	_
+8	лв.	лев	NOUN	Ncmt	Gender=Masc|Number=Count	0	root	0:root	_
 
 ~~~
 

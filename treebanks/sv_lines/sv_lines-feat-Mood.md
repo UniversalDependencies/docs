@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Ind` (6390; 98% of non-empty `Mood`): <em>var, har, sa, hade, gick, såg, kom, sade, är, vet</em>
 * `Opt` (1; 0% of non-empty `Mood`): <em>LEVE</em>
 * `Sub` (11; 0% of non-empty `Mood`): <em>vore, vare, förbanne, ginge, vete</em>
-* `EMPTY` (3511): <em>göra, ta, se, gå, använda, få, komma, bli, säga, ha</em>
+* `EMPTY` (3508): <em>göra, ta, se, gå, använda, få, komma, bli, säga, ha</em>
 
 <table>
   <tr><th>Paradigm <i>gå</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -71,9 +71,9 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1031; 83%),
-<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (476; 51%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (114; 56%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1033; 83%),
+<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (474; 51%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (117; 57%),
 <tt>VERB --[<tt><a href="sv_lines-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (81; 74%),
 <tt>VERB --[<tt><a href="sv_lines-dep-cop.html">cop</a></tt>]--> AUX</tt> (37; 70%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (15; 63%),

@@ -26,13 +26,13 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
-5	he	he	VERB	_	_	0	root	_	Gloss=null
+5	he	he	VERB	_	_	0	root	_	Gloss=pick
 6	òkúta	òkúta	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=stone
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 8	láti	láti	ADP	_	_	9	case	_	Gloss=to
-9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=spake
+9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=throw
 10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=upon
-11	ú	ú	PRON	_	_	9	obj	_	SpaceAfter=No|Gloss=him
+11	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No|Gloss=him
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 ~~~
@@ -47,27 +47,26 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	15	mark	_	Gloss=saying
+4	pé	pé	SCONJ	_	_	15	mark	_	Gloss=that
 5	“	“	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=“
-6	jẹ́	jẹ́	AUX	_	_	15	aux	_	Gloss=be
-7	kí	kí	AUX	_	_	15	aux	_	Gloss=let
+6	jẹ́	jẹ́	AUX	_	_	15	aux	_	Gloss=let
+7	kí	kí	AUX	_	_	15	aux	_	Gloss=X
 8	òfuurufú	òfuurufú	NOUN	_	_	15	nsubj	_	Gloss=firmament
 9	kí	kí	AUX	_	_	15	aux	_	Gloss=let
-10	ó	ó	PRON	_	_	15	expl	_	Gloss=he
-11	wà	wà	VERB	_	_	15	cop	_	Gloss=was
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=it
+11	wà	wà	AUX	_	_	15	cop	_	Gloss=was
 12	ní	ní	ADP	_	_	15	case	_	Gloss=in
 13	àárin	àárin	ADP	_	_	15	case	_	Gloss=midst
 14	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the
 15	omi	omi	NOUN	_	_	3	ccomp	_	Gloss=water
 16	láti	láti	ADP	_	_	17	mark	_	Gloss=to
-17	pààlà	pààlà	VERB	_	_	15	advcl	_	Gloss=divide
+17	pààlà	pààlà	VERB	_	_	15	advcl	_	Gloss=demacate
 18	sí	sí	ADP	_	_	22	case	_	Gloss=to
 19	àárin	àárin	ADP	_	_	22	case	_	Gloss=midst
-20	à	à	SCONJ	_	_	21	goeswith	_	SpaceAfter=No|Gloss=the
-21	wọn	wọn	PRON	_	_	22	det	_	Gloss=them
-22	omi	omi	NOUN	_	_	17	obl	_	SpaceAfter=No|Gloss=water
-23	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=.
-24	”	”	PUNCT	_	_	15	punct	_	Gloss=.
+20	àwọn	àwọn	PRON	_	PronType=Ind	21	det	_	Gloss=them
+21	omi	omi	NOUN	_	_	17	obl	_	SpaceAfter=No|Gloss=water
+22	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=.
+23	”	”	PUNCT	_	_	15	punct	_	Gloss=”
 
 ~~~
 
@@ -81,21 +80,21 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	4	amod	_	Gloss=many
 2	nínú	nínú	ADP	_	_	4	case	_	Gloss=in
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
-4	Júù	Júù	PROPN	_	_	6	nsubj	_	Gloss=jews
-5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and
+4	Júù	júù	PROPN	_	_	6	nsubj	_	Gloss=jews
+5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then
 6	wá	wá	VERB	_	_	0	root	_	Gloss=come
 7	sọ́dọ̀	sọ́dọ̀	ADP	_	_	8	case	_	Gloss=unto
-8	Màta	Màta	PROPN	_	_	6	obj	_	Gloss=martha
+8	Mátà	mátà	PROPN	_	_	6	obj	_	Gloss=martha
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and
-10	Màríà	Màríà	PROPN	_	_	8	conj	_	Gloss=mary
+10	Màríà	màríà	PROPN	_	_	8	conj	_	Gloss=mary
 11	láti	láti	ADP	_	_	12	mark	_	Gloss=to
 12	tù	tù	VERB	_	_	10	advcl	_	Gloss=comfort
-13	wọ́n	wọ́n	PRON	_	_	12	obj	_	Gloss=they
+13	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	12	obj	_	Gloss=them
 14	nínú	nínú	ADP	_	_	13	case	_	Gloss=in
 15	nítorí	nítorí	SCONJ	_	_	17	mark	_	Gloss=for
-16	ti	ti	ADP	_	_	17	case	_	Gloss=have
+16	ti	ti	ADP	_	_	17	case	_	Gloss=of
 17	arákùnrin	arákùnrin	NOUN	_	_	12	obl	_	Gloss=brother
-18	wọn	wọn	PRON	_	_	17	nmod	_	SpaceAfter=No|Gloss=them
+18	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	nmod	_	SpaceAfter=No|Gloss=them
 19	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 ~~~

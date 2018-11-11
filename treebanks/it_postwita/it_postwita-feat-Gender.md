@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 36361 tokens (29%) have a non-empty value of `Gender`.
-7003 types (35%) occur at least once with a non-empty value of `Gender`.
-4481 lemmas (28%) occur at least once with a non-empty value of `Gender`.
+7003 types (40%) occur at least once with a non-empty value of `Gender`.
+4481 lemmas (33%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (16888; 14% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (12306; 10% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (3543; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1934; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (1602; 1% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (86; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (372; 19% of non-empty `Gender`): <em>la, le, lei, quella, questa, tutte, quelle, una, tua, sua</em>
 * `Masc` (1562; 81% of non-empty `Gender`): <em>lo, tutti, tutto, quello, l', li, gli, questo, uno, nessuno</em>
-* `EMPTY` (4545): <em>che, si, mi, ci, ti, io, chi, c', me, ne</em>
+* `EMPTY` (4536): <em>che, si, mi, ci, ti, io, chi, c', me, ne</em>
 
 <table>
   <tr><th>Paradigm <i>tutto</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>%</em> (<tt><a href="sv_lines-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414601).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414305).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -37,21 +37,21 @@ The 3rd highest number of forms (1) was observed with the lemma “from”: <em>
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 7 different relations: <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (2; 22% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (2; 22% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (1; 11% instances)
+`SYM` nodes are attached to their parents using 9 different relations: <tt><a href="sv_lines-dep-acl.html">acl</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (1; 11% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (1; 11% instances)
 
-Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (3; 33% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 22% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 11% instances),  (1; 11% instances)
+Parents of `SYM` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 22% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 22% instances),  (1; 11% instances)
 
-3 (33%) `SYM` nodes are leaves.
+2 (22%) `SYM` nodes are leaves.
 
-1 (11%) `SYM` nodes have one child.
+3 (33%) `SYM` nodes have one child.
 
 2 (22%) `SYM` nodes have two children.
 
-3 (33%) `SYM` nodes have three or more children.
+2 (22%) `SYM` nodes have three or more children.
 
-The highest child degree of a `SYM` node is 4.
+The highest child degree of a `SYM` node is 3.
 
-Children of `SYM` nodes are attached using 9 different relations: <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (5; 33% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (2; 13% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (2; 13% instances), <tt><a href="sv_lines-dep-acl.html">acl</a></tt> (1; 7% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 7% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1; 7% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 7% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (1; 7% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (1; 7% instances)
+Children of `SYM` nodes are attached using 9 different relations: <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (2; 15% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (2; 15% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (2; 15% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (2; 15% instances), <tt><a href="sv_lines-dep-acl.html">acl</a></tt> (1; 8% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 8% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1; 8% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 8% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (1; 8% instances)
 
-Children of `SYM` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (7; 47% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (3; 20% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (2; 13% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 7% instances)
+Children of `SYM` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 15% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (2; 15% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 15% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 8% instances)
 

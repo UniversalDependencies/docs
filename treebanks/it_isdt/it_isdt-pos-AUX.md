@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-ISDT: POS Tags: `AUX`
 
-There are 10 `AUX` lemmas (0%), 193 `AUX` types (1%) and 11704 `AUX` tokens (4%).
+There are 10 `AUX` lemmas (0%), 193 `AUX` types (1%) and 11701 `AUX` tokens (4%).
 Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>essere, avere, potere, dovere, venire, volere, stare, andare, fare, sapere</em>
 
 The 10 most frequent `AUX` types:  <em>è, sono, ha, può, hanno, essere, era, stato, possono, deve</em>
 
-The 10 most frequent ambiguous lemmas: <em>essere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 7103, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 654, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>avere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 2222, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 856), <em>potere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1123, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 64, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 8), <em>dovere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 542, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 48, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 20), <em>venire</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 381, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 85), <em>volere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 176, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 69, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 1), <em>stare</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 112, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 70), <em>andare</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 199, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 32), <em>fare</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 853, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 9, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 1), <em>sapere</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 136, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>essere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 7103, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 654, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>avere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 2219, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 859), <em>potere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1123, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 64, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 8), <em>dovere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 542, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 48, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 20), <em>venire</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 381, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 85), <em>volere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 176, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 69, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 1), <em>stare</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 112, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 70), <em>andare</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 199, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 32), <em>fare</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 852, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 9, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 1), <em>sapere</em> (<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 136, <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 3224, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 277), <em>sono</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1096, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 131), <em>ha</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1085, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 345), <em>può</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 482, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 3), <em>hanno</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 475, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 163), <em>essere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 482, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 14), <em>era</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 333, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 45, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 7), <em>stato</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 309, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 99, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 28), <em>deve</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 198, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 3), <em>sia</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 15)
+The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 3224, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 277), <em>sono</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1096, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 131), <em>ha</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1084, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 346), <em>può</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 482, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 3), <em>hanno</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 475, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 163), <em>essere</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 482, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 14), <em>era</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 333, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 45, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 7), <em>stato</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 309, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 99, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 28), <em>deve</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 198, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 3), <em>sia</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 15)
 
 
 * <em>è</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX
   * <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1096: <em>Le chiavi di i suoi film <b>sono</b> fin troppo leggibili e giuste " .</em>
   * <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 131: <em>Tutti gli esseri umani sanno di poter essere più di ciò che <b>sono</b> .</em>
 * <em>ha</em>
-  * <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1085: <em>" La Pivetti <b>ha</b> fatto benissimo a decidere di testa sua .</em>
-  * <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 345: <em>" Lei <b>ha</b> la tipica camminata da spia " .</em>
+  * <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 1084: <em>" La Pivetti <b>ha</b> fatto benissimo a decidere di testa sua .</em>
+  * <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 346: <em>" Lei <b>ha</b> la tipica camminata da spia " .</em>
 * <em>può</em>
   * <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 482: <em>Quale animale <b>può</b> percorrere le distanze maggiori senza acqua ?</em>
   * <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 3: <em>E allora a Gaza si fa ciò che si <b>può</b> .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.480641).
+The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.480598).
 
 The 1st highest number of forms (41) was observed with the lemma “essere”: <em>E`, E’, Fui, e', era, erano, eravamo, eravate, ero, essendo, esser, essere, fosse, fossero, fossi, fossimo, fu, furono, sarai, saranno, sarebbe, sarebbero, sarei, saremmo, saremo, sarà, sarò, sei, sia, siamo, siano, siete, sii, son, sono, stata, state, stati, stato, É, è</em>.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (31) was observed with the lemma “avere”: <e
 
 The 3rd highest number of forms (30) was observed with the lemma “potere”: <em>possa, possano, possiamo, posso, possono, potendo, poter, poterono, potesse, potessero, potessimo, potete, poteva, potevamo, potevano, potrai, potranno, potrebbe, potrebbero, potrei, potremmo, potremo, potresti, potrà, potuta, potuti, potuto, potè, puoi, può</em>.
 
-`AUX` occurs with 6 features: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt> (11704; 100% instances), <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (11026; 94% instances), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt> (11026; 94% instances), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt> (10274; 88% instances), <tt><a href="it_isdt-feat-Person.html">Person</a></tt> (10274; 88% instances), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (752; 6% instances)
+`AUX` occurs with 6 features: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt> (11701; 100% instances), <tt><a href="it_isdt-feat-Number.html">Number</a></tt> (11023; 94% instances), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt> (11023; 94% instances), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt> (10271; 88% instances), <tt><a href="it_isdt-feat-Person.html">Person</a></tt> (10271; 88% instances), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt> (752; 6% instances)
 
 `AUX` occurs with 19 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 43 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5465 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (5464 tokens).
 Examples: <em>è, ha, può, deve, viene, sta, vuole, e', va, vuol</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="it_isdt-dep-aux.html">aux</a></tt> (6037; 52% instances), <tt><a href="it_isdt-dep-cop.html">cop</a></tt> (3428; 29% instances), <tt><a href="it_isdt-dep-aux-pass.html">aux:pass</a></tt> (2232; 19% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="it_isdt-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="it_isdt-dep-aux.html">aux</a></tt> (6036; 52% instances), <tt><a href="it_isdt-dep-cop.html">cop</a></tt> (3427; 29% instances), <tt><a href="it_isdt-dep-aux-pass.html">aux:pass</a></tt> (2233; 19% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="it_isdt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8026; 69% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1491; 13% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1305; 11% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (724; 6% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (37; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (3; 0% instances),  (1; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (8026; 69% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1489; 13% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1305; 11% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (724; 6% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (84; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (37; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-11634 (99%) `AUX` nodes are leaves.
+11641 (99%) `AUX` nodes are leaves.
 
-60 (1%) `AUX` nodes have one child.
+52 (0%) `AUX` nodes have one child.
 
 6 (0%) `AUX` nodes have two children.
 
-4 (0%) `AUX` nodes have three or more children.
+2 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 12 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (44; 52% instances), <tt><a href="it_isdt-dep-advmod.html">advmod</a></tt> (7; 8% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (7; 8% instances), <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (5; 6% instances), <tt><a href="it_isdt-dep-nsubj.html">nsubj</a></tt> (5; 6% instances), <tt><a href="it_isdt-dep-expl.html">expl</a></tt> (4; 5% instances), <tt><a href="it_isdt-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="it_isdt-dep-expl-impers.html">expl:impers</a></tt> (2; 2% instances), <tt><a href="it_isdt-dep-iobj.html">iobj</a></tt> (2; 2% instances), <tt><a href="it_isdt-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 2% instances), <tt><a href="it_isdt-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="it_isdt-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 9 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (42; 60% instances), <tt><a href="it_isdt-dep-advmod.html">advmod</a></tt> (7; 10% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (7; 10% instances), <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (4; 6% instances), <tt><a href="it_isdt-dep-expl.html">expl</a></tt> (4; 6% instances), <tt><a href="it_isdt-dep-expl-impers.html">expl:impers</a></tt> (2; 3% instances), <tt><a href="it_isdt-dep-iobj.html">iobj</a></tt> (2; 3% instances), <tt><a href="it_isdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="it_isdt-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (44; 52% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (11; 13% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (8; 10% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (5; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 5% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 7 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (42; 60% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (9; 13% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (8; 11% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 6% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (4; 6% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
 

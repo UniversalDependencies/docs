@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 1061 tokens (9%) have a non-empty value of `Person`.
 456 types (11%) occur at least once with a non-empty value of `Person`.
 282 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (642; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (284; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (77; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (58; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (641; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (285; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (77; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (58; 1% instances).
 
 ### `VERB`
 
-642 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Person`.
+641 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (641; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (629; 98%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (432; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (414; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (640; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (628; 98%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (432; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (413; 64%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (10; 2% of non-empty `Person`): <em>prošu, móžemy, trjebamy, Njewěm, wothladamy, činju</em>
 * `2` (36; 6% of non-empty `Person`): <em>móžeš, hlej, namakaš, Pomhaj, móžeće, chceće, dodaš, dyrbiš, namakaće, njenamakaš</em>
-* `3` (596; 93% of non-empty `Person`): <em>ma, leži, móže, wobsahuje, su, rěči, běchu, dyrbi, maja, wužiwa</em>
+* `3` (595; 93% of non-empty `Person`): <em>ma, leži, móže, wobsahuje, su, rěči, běchu, dyrbi, maja, wužiwa</em>
 * `EMPTY` (180): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
@@ -43,14 +43,14 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-284 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Person`.
+285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (284; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (274; 96%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (182; 64%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (285; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (275; 96%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 64%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `2` (2; 1% of non-empty `Person`): <em>sy</em>
-* `3` (282; 99% of non-empty `Person`): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
+* `3` (283; 99% of non-empty `Person`): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
 * `EMPTY` (5): <em>być, był, była, posłužić</em>
 
 <table>
@@ -75,7 +75,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-77 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (25% of all `DET` tokens) have a non-empty value of `Person`.
+77 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (24% of all `DET` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (77; 100%), <tt><a href="hsb_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (77; 100%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (71; 92%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (56; 73%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 57%), <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (41; 53%).
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (41; 53% of non-empty `Person`): <em>n, Naš, naša, našej, našim</em>
 * `2` (3; 4% of non-empty `Person`): <em>twojim, Wašu</em>
 * `3` (33; 43% of non-empty `Person`): <em>jeho, jich, jeje, jeju</em>
-* `EMPTY` (234): <em>kotrež, tute, kotryž, kotraž, tutón, swoje, tuta, wšě, někotrych, swoju</em>
+* `EMPTY` (250): <em>kotrež, tute, kotryž, wjele, kotraž, tutón, swoje, tuta, wšě, někotrych</em>
 
 ### `PRON`
 

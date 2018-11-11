@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>не</em> (<tt><a href="bg_btb-pos-PA
   * <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 56: <em>До края на седмицата ще се разбере , <b>дали</b> Ибраимов ще дойде при нас .</em>
   * <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> 2: <em>Това , което ние сме <b>дали</b> като преференции , е най-доброто .</em>
 * <em>си</em>
-  * <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 934: <em>Двете сестри започнаха да <b>си</b> шепнат още по-ниско .</em>
+  * <tt><a href="bg_btb-pos-PRON.html">PRON</a></tt> 934: <em>Той подаде на слугата <b>си</b> повода на коня и влезе в двора .</em>
   * <tt><a href="bg_btb-pos-AUX.html">AUX</a></tt> 68: <em>- Ти <b>си</b> весела изглежда .</em>
   * <tt><a href="bg_btb-pos-PART.html">PART</a></tt> 42: <em>Съвсем загуби власт над себе <b>си</b> .</em>
   * <tt><a href="bg_btb-pos-VERB.html">VERB</a></tt> 1: <em>Щастлив съм , че <b>си</b> моя .</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>не</em> (<tt><a href="bg_btb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.727904).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.728014).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>А</em>.
 

@@ -9,33 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-svc.html">advcl:svc</a></tt>.
 
-66 nodes (0%) are attached to their parents as `advcl:sp`.
+46 nodes (0%) are attached to their parents as `advcl:sp`.
 
-33 instances of `advcl:sp` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+31 instances of `advcl:sp` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.45652173913043.
 
-The following 7 pairs of parts of speech are connected with `advcl:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (34; 52% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (25; 38% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 advcl:sp	color:blue
-1	Вияснити	вияснити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	Id=18in
-2	населенню	населення	NOUN	Ncnsdn	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	iobj	_	Id=18io
-3	усе	усе	PRON	Pg--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	_	Id=18ip
-4	так	так	ADV	Pd------r	PronType=Dem	1	advmod	_	Id=18iq|SpaceAfter=No
-5	,	,	PUNCT	U	_	10	punct	_	Id=18ir
-6	щоб	щоб	SCONJ	Css	_	10	mark	_	Id=18is
-7	воно	воно	PRON	Pp-3n-snn	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Id=18it
-8	само	сам	DET	Px--n-sna	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Reflex=Yes	10	advcl:sp	_	Id=18iu
-9	охоче	охоче	ADV	R	_	10	advmod	_	Id=18iv
-10	жертувало	жертувати	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	advcl	_	Id=18iw|SpaceAfter=No
-11	.	.	PUNCT	U	_	1	punct	_	Id=18ix
-
-~~~
+The following 5 pairs of parts of speech are connected with `advcl:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (32; 70% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -44,34 +23,52 @@ The following 7 pairs of parts of speech are connected with `advcl:sp`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 advcl:sp	color:blue
-1	«	«	PUNCT	U	PunctType=Quot	2	punct	_	Id=14bj|SpaceAfter=No
-2	Пробудився	пробудитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=14bk
-3	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Id=14bl
-4	голодний	голодний	ADJ	Afpmsnf	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	advcl:sp	_	Id=14bm|SpaceAfter=No
-5	,	,	PUNCT	U	_	8	punct	_	Id=14bn
-6	як	як	SCONJ	Css	_	8	mark	_	Id=14bo
-7	крадений	крадений	ADJ	Ap-msnf-pp	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	amod	_	Id=14bp
-8	кінь	кінь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	advcl	_	Id=14bq|SpaceAfter=No
-9	»	»	PUNCT	U	PunctType=Quot	2	punct	_	Id=14br|SpaceAfter=No
-10	.	.	PUNCT	U	_	2	punct	_	Id=14bs
+1	«	«	PUNCT	U	PunctType=Quot	2	punct	2:punct	Id=14bj|LTranslit=«|SpaceAfter=No|Translit=«
+2	Пробудився	пробудитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=14bk|LTranslit=probudytyśа|Translit=Probudyvśа
+3	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:sp	Id=14bl|LTranslit=ja|Translit=ja
+4	голодний	голодний	ADJ	Afpmsnf	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	advcl:sp	2:advcl:sp	Id=14bm|LTranslit=holodnyj|SpaceAfter=No|Translit=holodnyj
+5	,	,	PUNCT	U	_	8	punct	8:punct	Id=14bn|LTranslit=,|Translit=,
+6	як	як	SCONJ	Css	_	8	mark	8:mark	Id=14bo|LTranslit=jak|Translit=jak
+7	крадений	крадений	ADJ	Ap-msnf-pp	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	amod	8:amod	Id=14bp|LTranslit=kradenyj|Translit=kradenyj
+8	кінь	кінь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	advcl	4:advcl	Id=14bq|LTranslit=kiń|SpaceAfter=No|Translit=kiń
+9	»	»	PUNCT	U	PunctType=Quot	2	punct	2:punct	Id=14br|LTranslit=»|SpaceAfter=No|Translit=»
+10	.	.	PUNCT	U	_	2	punct	2:punct	Id=14bs|LTranslit=.|Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 advcl:sp	color:blue
-1	В	в	ADP	Spsg	Case=Gen	2	case	_	Id=1z3d
-2	мене	я	PRON	Pp-1-ysgn	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	3	obl	_	Id=1z3e
-3	питання	питання	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	Id=1z3f|Promoted=Yes
-4	кому	хто	PRON	Pq--mysdn	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Int	7	obj	_	Id=1z3g
-5	ви	ви	PRON	Pp-2-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	Id=1z3h
-6	такі	такий	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	7	advcl:sp	_	Id=1z3i
-7	потрібні	потрібний	ADJ	Afp-pns	Case=Nom|Degree=Pos|Number=Plur	3	parataxis	_	Id=1z3j|SpaceAfter=No
-8	?	?	PUNCT	U	_	3	punct	_	Id=1z3k
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 advcl:sp	color:blue
+1	Тобто	тобто	PART	Q	_	4	discourse	4:discourse	Id=31wa|LTranslit=tobto|Translit=Tobto
+2	попередні	попередній	ADJ	Ao--pasn	Animacy=Inan|Case=Acc|Number=Plur	3	amod	3:amod	Id=31wb|LTranslit=poperednij|Translit=poperedni
+3	квартири	квартира	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj|7:nsubj:sp	Id=31wc|LTranslit=kvartyra|Translit=kvartyry
+4	знімали	знімати	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=31wd|LTranslit=znimaty|Translit=znimaly
+5	в	в	ADP	Spsl	Case=Loc	7	case	7:case	Id=31we|LTranslit=v|Translit=v
+6	хорошому	хороший	ADJ	Afpmslf	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	Id=31wf|LTranslit=chorošyj|Translit=chorošomu
+7	стані	стан	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	advcl:sp	4:advcl:sp	Id=31wg|LTranslit=stan|SpaceAfter=No|Translit=stani
+8	.	.	PUNCT	U	_	4	punct	4:punct	Id=31wh|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 advcl:sp	color:blue
+1	Тижнями	тиждень	NOUN	Ncmpin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl	2:obl	Id=0xdi|LTranslit=tyždeń|Translit=Tyžńаmy
+2	жили	жити	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=0xdj|LTranslit=žyty|Translit=žyly
+3	у	у	ADP	Spsl	Case=Loc	4	case	4:case	Id=0xdk|LTranslit=u|Translit=u
+4	залізі	залізо	NOUN	Ncnsln	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	2:obl	Id=0xdl|LTranslit=zalizo|Translit=zalizi
+5	самі	сам	DET	Px----pna	Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes	2	advcl:sp	2:advcl:sp	Id=0xdm|LTranslit=sam|Translit=sami
+6	серед	серед	ADP	Spsg	Case=Gen	7	case	7:case	Id=0xdn|LTranslit=sered|Translit=sered
+7	лісу	ліс	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	2:obl	Id=0xdo|LTranslit=lis|SpaceAfter=No|Translit=lisu
+8	.	.	PUNCT	U	_	2	punct	2:punct	Id=0xdp|LTranslit=.|Translit=.
 
 ~~~
 

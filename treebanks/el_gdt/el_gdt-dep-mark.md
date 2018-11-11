@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1159 nodes (2%) are attached to their parents as `mark`.
+1161 nodes (2%) are attached to their parents as `mark`.
 
-1154 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.58757549611734.
+1157 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.77433247200689.
 
-The following 15 pairs of parts of speech are connected with `mark`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (898; 77% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (102; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (82; 7% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (35; 3% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (19; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `mark`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (880; 76% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (103; 9% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (82; 7% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 6	,	,	PUNCT	PUNCT	_	10	punct	_	_
 7	ενώ	ενώ	SCONJ	SCONJ	_	10	mark	_	_
 8	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	εισβολείς	εισβολέας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+9	εισβολείς	εισβολέας	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
 10	διώχθηκαν	διώκω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -46,7 +46,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Όχι	όχι	ADV	ADV	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	6	punct	_	_
 3	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
 5	αυτή	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
 6	συγκροτήθηκε	συγκροτώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	_
 7	για	για	ADP	ADP	_	9	mark	_	_

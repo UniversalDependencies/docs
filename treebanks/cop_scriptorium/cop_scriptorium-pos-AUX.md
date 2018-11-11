@@ -6,92 +6,92 @@ udver: '2'
 
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `AUX`
 
-There are 20 `AUX` lemmas (2%), 24 `AUX` types (2%) and 764 `AUX` tokens (6%).
-Out of 14 observed tags, the rank of `AUX` is: 10 in number of lemmas, 9 in number of types and 6 in number of tokens.
+There are 19 `AUX` lemmas (1%), 22 `AUX` types (1%) and 1198 `AUX` tokens (5%).
+Out of 15 observed tags, the rank of `AUX` is: 11 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ⲧⲣⲉ, ϣⲁⲣⲉ, ⲛⲛⲉ, ⲙⲁⲣⲉ, ⲙⲡⲁⲧⲉ
+The 10 most frequent `AUX` lemmas: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲛⲛⲉ, ⲙⲁⲣⲉ, ⲙⲉⲣⲉ, ⲛⲉ
 
-The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ⲧⲣⲉ, ⲙⲡ, ϣⲁ, ⲙⲡⲉ, ⲛⲛⲉ, ⲛⲧⲉ
+The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ϣⲁ, ⲙⲡ, ⲙⲡⲉ, ⲛⲛⲉ, ⲙⲉ, ⲙⲁⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 392, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 131, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 110, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 1, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛⲧⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 83, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 20, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 3), ⲧⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 26, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 18, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲙⲉ (<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 6, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3), ϣⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 22, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲉⲣϣⲁⲛ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 196, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 84, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲙⲁ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 39, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1), ⲛ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 875, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 26, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 2, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 644, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲛⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 215, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 172, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 2, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲛⲧⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 126, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 29, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲛⲛⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 19, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1), ⲛⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 10, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲙⲉ (<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 12, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3), ⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 318, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 134, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 2, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ϣⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 35, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲁ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 64, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲛ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1542, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 57, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 7, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 4, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 397, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 117, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 105, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 15, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 503, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 199, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 75, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 46, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 27, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲛⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 43, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 35, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 18), ⲧⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 26, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 18, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ϣⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 21, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 13, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲡⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 20, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲛⲧⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 20, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 9), ϣⲁⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲉ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 649, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 2, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛⲁ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 190, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 167, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 29, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ⲛ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 938, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 328, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 118, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 97, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 58, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 3, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1), ⲛⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 81, <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 59, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 29, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ϣⲁ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 37, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 21, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲙⲡⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 25, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1), ⲙⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 12, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4), ⲛⲧⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 28, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 9, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1), ϣⲁⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1), ⲛⲉⲣⲉ (<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 5, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1)
 
 
 * ⲁ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 397: <b>ⲁ</b> ⲧⲉⲧⲛ ⲧⲁⲕⲟ ϥ .
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 649: ⲉ ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ ⲉ <b>ⲁ</b> ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 2: ⲁⲩⲱ ⲁ ϥ ϩⲟⲙⲟⲗⲟⲅⲉⲓ ⲛⲁ ⲥ ϫⲉ ⲡ ⲉⲧⲉⲣ <b>ⲁ</b> ⲁⲓⲧⲉⲓ ⲙⲙⲟ ⲓ ⲙⲙⲟ ϥ ϯ ⲛⲁ ⲧⲁⲁ ϥ ⲛ ⲉ ϣⲁ ⲧ ⲡⲁϣⲉ ⲛ ⲧⲁ ⲙⲛⲧⲣⲣⲟ .
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲏ ⲙⲛ ϭⲉ ϣⲟⲟⲡ ⲛⲁ ⲕ ⲛⲥⲁ ⲛ ⲉⲛⲧ <b>ⲁ</b> ⲓ ϥⲓⲧ ⲟⲩ ,
 * ⲛⲁ
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 117: ⲁⲩⲱ ⲛⲉ ϥ ⲉⲡⲓⲧⲓⲙⲁ <b>ⲛⲁ</b> ⲩ ⲉⲙⲁⲧⲉ ϫⲉ ⲛⲛⲉ ⲩ ⲟⲩⲟⲛϩ ϥ ⲉⲃⲟⲗ .
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 105: ⲡ ⲉⲧⲉⲣⲉ ⲡⲉϥ ϩⲱⲃ <b>ⲛⲁ</b> ϭⲱ ⲡⲁⲓ ⲉⲛⲧ ⲁ ϥ ⲕⲟⲧ ϥ ϥ <b>ⲛⲁ</b> ϫⲓ ⲛ ⲟⲩ ⲃⲉⲕⲉ .
-  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 15: ⲛⲧⲱⲧⲛ ⲇⲉ ⲛⲧⲉⲧⲛ <b>ⲛⲁ</b> ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ . ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ ⲇⲉ ⲡⲁ ⲡ ⲛⲟⲩⲧⲉ ⲡⲉ .
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 190: ⲁⲗⲗⲁ ⲉϥⲉ ϣⲱⲡⲉ <b>ⲛⲁ</b> ⲛ ⲛ ⲟⲩ ϫⲁϫⲉ ⲉⲧⲃⲉ ⲡ ⲛⲟⲩⲧⲉ ⲉ ⲡⲉⲛ ⲥⲟⲛ ⲡⲉ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 167: ⲛ ⲧ ϩⲉ ⲉⲧⲉ ⲩ ⲟⲛϩ ⲉ ⲡ ⲟⲩⲟⲧⲟⲩⲉⲧ ⲛ ⲧ ⲥⲱϣⲉ ϫⲉ ⲙⲡ ⲟⲩ ϭⲛ ⲡ ⲉⲧ ⲟⲩ <b>ⲛⲁ</b> ⲟⲩⲟⲙ ϥ ·
+  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 29: ⲕⲁⲧⲁ ⲧ ϩⲉ ⲉⲧ ⲥⲏϩ ϫⲉ ⲡ ϩⲏⲃⲥ ⲛ <b>ⲛⲁ</b> ⲟⲩⲉⲣⲏⲧⲉ : ⲉ ⲡⲉⲕ ϣⲁϫⲉ
   * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4: ⲉ ⲧⲉⲧⲛ <b>ⲛⲁ</b> ⲉϩⲟⲩⲛ ⲉ ⲛⲉⲩ ⲧⲟⲡⲟⲥ ,
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ϣⲛ ϩⲧⲏ ⲕ ϭⲉ ϩⲁ ⲡⲉⲕ ⲗⲁⲟⲥ ⲡ ϩⲁⲣϣϩⲏⲧ ⲉⲧⲉ ⲛⲁϣⲉ ⲡⲉϥ <b>ⲛⲁ</b> ·
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲉⲧⲃⲉ ⲡⲁⲓ ⲁ ⲓ ⲧⲛⲛⲉⲩ ⲧⲓⲙⲟⲑⲉⲟⲥ ⲛⲏ ⲧⲛ ⲉⲧⲉ ⲡⲁⲓ ⲡⲉ ⲡⲁ ϣⲏⲣⲉ ⲙ ⲙⲉⲣⲓⲧ ⲁⲩⲱ ⲙ ⲡⲓⲥⲧⲟⲥ ϩⲙ ⲡ ϫⲟⲉⲓⲥ ⲡⲁⲓ ⲉⲧ <b>ⲛⲁ</b> ⲧⲣⲉ ⲧⲛ ⲣ ⲡ ⲙⲉⲉⲩⲉ ⲛ ⲛⲁ ϩⲓⲟⲟⲩⲉ ⲉⲧ ϩⲙ ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ ⲛ ⲧ ϩⲉ ⲉ ϯ ϯⲥⲃⲱ ⲙⲙⲟ ⲥ ϩⲛ ⲛ ⲉⲕⲕⲗⲏⲥⲓⲁ ⲧⲏⲣ ⲟⲩ ϩⲙ ⲙⲁ ⲛⲓⲙ .
 * ⲛ
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 503: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ <b>ⲛ</b> ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 199: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ <b>ⲛ</b> ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 75: <b>ⲛ</b> ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 46: ⲁ ϥ ⲟⲩⲱϣⲃ ⲛⲁ ϥ ϫⲉ ⲉⲃⲟⲗ ϫⲉ ⲙⲡⲁⲧ ⲕ ⲉⲓⲱⲣϩ ⲙ ⲡ ⲙⲧⲟⲛ ⲉⲧ <b>ⲛ</b> ϩⲉⲗⲡⲓⲍⲉ ⲉⲣⲟ ϥ ·
-  * <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 27: <b>ⲛ</b> ⲧⲉⲧⲛ ϩⲁⲣⲉϩ ⲅⲁⲣ ⲁⲛ .
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 938: ⲉ ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ <b>ⲛ</b> ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 328: ⲁⲩⲱ <b>ⲛ</b> ⲁⲧϩⲏⲧ ⲉⲧ ⲣϩⲟⲩⲟ ⲉⲙⲁⲧⲉ ϩⲛ ϩⲉⲛ ⲙⲛⲧⲥⲟϭ · ⲉ ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ⲛⲩⲕⲧⲉⲣⲓⲥ ·
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 118: <b>ⲛ</b> ϥ ϯ ⲛⲁ ⲩ ⲛ ⲧ ⲉⲝⲟⲩⲥⲓⲁ ⲉ ⲛⲉϫ ⲇⲁⲓⲙⲱⲛⲓⲟⲛ ⲉⲃⲟⲗ
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 97: ⲁⲗⲗⲁ ⲉϥⲉ ϣⲱⲡⲉ ⲛⲁ <b>ⲛ</b> ⲛ ⲟⲩ ϫⲁϫⲉ ⲉⲧⲃⲉ ⲡ ⲛⲟⲩⲧⲉ ⲉ ⲡⲉⲛ ⲥⲟⲛ ⲡⲉ
+  * <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 58: <b>ⲛ</b> ⲧⲉⲧⲛ ϩⲁⲣⲉϩ ⲅⲁⲣ ⲁⲛ .
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 3: ϩⲱⲥⲧⲉ · ϣⲉ ϫⲟⲩⲱⲧ ⲛ ⲕⲉⲛⲧⲏⲛⲁⲣⲓⲟⲛ ⲛ ⲛⲟⲩⲃ ⲛ ⲥⲉ ⲧⲁⲁ ⲩ <b>ⲛ</b> ⲭⲁⲣⲓⲥⲙⲁ ⲙ ⲡ ⲁⲡⲟⲗⲗⲱⲛ ·
+  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 3: ⲉⲣϣⲁⲛ ⲡ ⲕⲁⲣⲡⲟⲥ ⲇⲉ ⲡⲱϩ ⲛ ⲧⲉ ⲩⲛⲟⲩ ϣⲁ ϥ <b>ⲛ</b> ⲡ ⲟϩⲥ ϫⲉ ⲁ ⲡ ⲧⲏ ⲙ ⲡ ⲱϩⲥ ϣⲱⲡⲉ
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲁⲩⲱ ⲁ ⲧⲉⲧⲛ ϩⲉ ⲙ ⲙⲉⲉⲣⲉ ⲛ ⲧ ϩⲉ ⲛ <b>ⲛ</b> ⲉⲧ ϩⲛ ⲧ ⲡⲁϣⲉ ⲛ ⲧⲉ ⲩϣⲏ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲡⲉ ⲡⲛⲉⲩⲙⲁⲧⲓⲕⲟⲥ ⲇⲉ ϣⲁ ϥ ⲁⲛⲁⲕⲣⲓⲛⲉ ⲙⲉⲛ <b>ⲛ</b> ⲟⲩⲟⲛ ⲛⲓⲙ . ⲛⲧⲟϥ ⲇⲉ ⲙⲉⲣⲉ ⲗⲁⲁⲩ ⲁⲛⲁⲕⲣⲓⲛⲉ ⲙⲙⲟ ϥ .
-  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1: ⲉⲣϣⲁⲛ ⲡ ⲕⲁⲣⲡⲟⲥ ⲇⲉ ⲡⲱϩ ⲛ ⲧⲉ ⲩⲛⲟⲩ ϣⲁ ϥ <b>ⲛ</b> ⲡ ⲟϩⲥ ϫⲉ ⲁ ⲡ ⲧⲏ ⲙ ⲡ ⲱϩⲥ ϣⲱⲡⲉ
 * ⲛⲉ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 43: ⲁⲩⲱ ⲁ ϥ ⲃⲱⲕ ⲟⲛ ⲉϩⲟⲩⲛ ⲉ ⲧ ⲥⲩⲛⲁⲅⲱⲅⲏ <b>ⲛⲉ</b> ⲩⲛ ⲟⲩ ⲣⲱⲙⲉ ⲇⲉ ⲙⲙⲁⲩ ⲉⲣⲉ ⲧⲉϥ ϭⲓϫ ⲙⲟⲟⲩⲧ
-  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 35: ⲁⲗⲗⲁ ⲉ ⲕ ϯ ⲟⲩⲃⲉ ⲓⲏⲥⲟⲩⲥ ⲉⲧ ⲟⲩⲏϩ ϩⲛ <b>ⲛⲉ</b> ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ .
-  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 18: ⲁ ϥ ⲟⲩⲱϣⲃ ⲇⲉ ⲉ ϥ ϫⲱ ⲙⲙⲟ ⲥ ⲛⲁ ⲩ ϫⲉ ⲛⲓⲙ ⲧⲉ ⲧⲁ ⲙⲁⲁⲩ ⲁⲩⲱ ⲛⲓⲙ <b>ⲛⲉ</b> ⲛⲁ ⲥⲛⲏⲩ
-* ⲧⲣⲉ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 26: ⲉ <b>ⲧⲣⲉ</b> ⲧ ⲙⲛⲧⲣⲱⲙⲉ ⲧⲏⲣ ⲥ ⲛⲁⲩ ⲉ ⲛⲁⲓ ϩⲓ ⲟⲩ ⲥⲟⲡ
-  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 18: ⲏ ⲉ ⲓ ⲛⲁ ⲕⲱⲧ ⲛ ϩⲉⲛ ⲥⲟⲃⲧ ⲉ ⲛ ⲙⲁ ⲛ ϩⲱⲧⲡ ⲉ ⲧⲙ <b>ⲧⲣⲉ</b> ⲕ ϣⲗⲏⲗ ⲉ ⲛⲥⲁ ⲙ ⲡ ⲉⲙⲛⲧ ,
-  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲉⲛⲉ ⲙⲡ ⲕ ⲥⲱⲧⲉ ⲙ ⲡⲉⲕ ⲗⲁⲟⲥ ⲡ ⲓⲥⲣⲁⲏⲗ ⲙ ⲡⲓ ⲟⲩⲟⲉⲓϣ ⲉⲃⲟⲗ ϩⲛ ⲛ ϭⲓϫ ⲙ ⲡⲓ ⲁⲛⲟⲙⲟⲥ ⲛⲁⲃⲟⲩⲭⲟⲇⲟⲛⲟⲥⲟⲣ , ⲙⲛ ⲛⲓ ⲕⲟⲟⲩⲉ ⲧⲏⲣ ⲟⲩ ⲉⲧ ⲉⲓⲛⲉ ⲙⲙⲟ ϥ ⲛⲧ ⲁ ⲩ ⲑⲙⲕⲟ ⲟⲩ ϩⲙ ⲡ <b>ⲧⲣⲉ</b> ⲕ ⲧⲁⲁ ⲩ ⲉϩⲣⲁⲓ ⲉ ⲧⲟⲟⲧ ⲟⲩ ϫⲉ ⲁ ⲕ ⲛⲟⲩϭⲥ ⲉⲣⲟ ⲟⲩ ,
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 81: ⲁⲩⲱ ⲁ ϥ ⲃⲱⲕ ⲟⲛ ⲉϩⲟⲩⲛ ⲉ ⲧ ⲥⲩⲛⲁⲅⲱⲅⲏ <b>ⲛⲉ</b> ⲩⲛ ⲟⲩ ⲣⲱⲙⲉ ⲇⲉ ⲙⲙⲁⲩ ⲉⲣⲉ ⲧⲉϥ ϭⲓϫ ⲙⲟⲟⲩⲧ
+  * <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 59: ⲉⲓⲧⲉ ⲉⲃⲟⲗ ϩⲛ <b>ⲛⲉ</b> ϩⲛⲁⲁⲩ ⲛ ⲧ ⲇⲓⲁⲕⲟⲛⲓⲁ ⲙ ⲡ ⲛⲟⲩⲧⲉ ·
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 29: ⲁ ϥ ⲟⲩⲱϣⲃ ⲇⲉ ⲉ ϥ ϫⲱ ⲙⲙⲟ ⲥ ⲛⲁ ⲩ ϫⲉ ⲛⲓⲙ ⲧⲉ ⲧⲁ ⲙⲁⲁⲩ ⲁⲩⲱ ⲛⲓⲙ <b>ⲛⲉ</b> ⲛⲁ ⲥⲛⲏⲩ
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ⲁ ⲩ ϫⲛⲉ ⲧ ⲙⲁⲕⲁⲣⲓⲁ ⲥⲩⲛⲕⲗⲏⲧⲓⲕⲏ · ϫⲉ <b>ⲛⲉ</b> ⲟⲩ ⲁⲅⲁⲑⲟⲛ ⲉ ϥ ϫⲏⲕ ⲉⲃⲟⲗ ⲧⲉ ⲧ ⲙⲛⲧⲁⲧϩⲛⲁⲁⲩ ·
 * ϣⲁ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 21: ϩⲁⲙⲟⲓ ⲟⲛ ⲛⲉ <b>ϣⲁ</b> ⲧⲉⲧⲛ ϭⲱ ⲛ ⲧⲉⲓ ϩⲉ ⲡⲉ ,
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 13: ⲁ ϥ ⲃⲱⲕ ⲛ ⲟⲩⲟⲉⲓϣ ⲛϭⲓ ⲡⲉ ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ ϣⲓⲏⲧ <b>ϣⲁ</b> ⲡ ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛ ⲣⲁⲕⲟⲧⲉ .
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 37: ⲉⲣϣⲁⲛ ⲡ ⲕⲁⲣⲡⲟⲥ ⲇⲉ ⲡⲱϩ ⲛ ⲧⲉ ⲩⲛⲟⲩ <b>ϣⲁ</b> ϥ ⲛ ⲡ ⲟϩⲥ ϫⲉ ⲁ ⲡ ⲧⲏ ⲙ ⲡ ⲱϩⲥ ϣⲱⲡⲉ
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 21: ⲟⲩ ⲁⲧⲟⲩⲱ ⲅⲁⲣ ⲛⲁ ⲕ ⲡⲉ ⲡ ⲙⲧⲟⲛ ⲛ <b>ϣⲁ</b> ⲉⲛⲉϩ .
+  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 2: ⲧⲉⲧⲛ ⲛⲁⲩ ⲛⲧⲱⲧⲛ ⲉ ⲛⲉⲓ ⲛⲟϭ ⲛ <b>ϣⲁ</b> ⲉⲧ ⲡⲟⲣϣ ⲉⲃⲟⲗ ⲙ ⲡ ⲟⲟⲩ ·
   * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1: ⲁⲩⲱ ⲛⲧⲉⲣⲉ ⲡ ⲣⲏ <b>ϣⲁ</b> ⲁ ⲩ ϩⲱϭⲃ ⲁⲩⲱ ⲉⲧⲃⲉ ϫⲉ ⲙⲡ ⲟⲩ ϫⲉⲛⲟⲩⲛⲉ ⲉⲃⲟⲗ ⲁ ⲩ ϣⲟⲟⲩⲉ
 * ⲙⲡⲉ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 20: ⲁⲩⲱ ⲧ ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ <b>ⲙⲡⲉ</b> ⲕ ϩⲉ ⲉⲣⲟ ⲥ · ⲻ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 25: ⲁⲩⲱ ⲧ ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ <b>ⲙⲡⲉ</b> ⲕ ϩⲉ ⲉⲣⲟ ⲥ · ⲻ
   * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1: ⲏ ⲉⲛⲉ <b>ⲙⲡⲉ</b> ⲕⲱ ⲛⲥⲱ ⲛ ⲧⲉ ⲥⲃⲱ ⲙⲛ ⲧ ⲙⲛⲧⲣⲙⲛϩⲏⲧ . ⲁⲩⲱ ⲛ ⲧⲉ ⲙⲉⲣⲉ ⲡ ⲡⲉⲧϩⲟⲟⲩ , ⲉϩⲟⲩⲉ ⲡ ⲡⲉⲧⲛⲁⲛⲟⲩϥ . ⲛⲉⲣ ⲁ ⲙⲉⲗⲉⲧⲁ ⲡⲉ ⲛ ϩⲉⲛ ϣⲁϫⲉ ⲉ ⲩ ⲃⲟⲟⲛⲉ . ⲛ ⲧⲉ ϫⲟⲟ ⲥ ϩⲛ ⲧⲟⲩ ⲧⲁⲡⲣⲟ ⲉⲧ ⲙⲉϩ ⲛ ⲥⲁϩⲟⲩ ϩⲓ ⲥⲓϣⲉ , ϫⲉ ϯ ⲛⲁ ⲃⲱⲕ ⲉ ⲕⲉ ϩⲉⲛⲉⲉⲧⲏ .
-* ⲛⲧⲉ
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 20: ⲙⲡⲉ ϥ ⲟⲩⲱϣ ⲉ ⲱⲛϩ ϩⲛ ⲟⲩ ⲙⲛⲧⲁⲡⲟⲧⲁⲕⲧⲓⲕⲟⲥ ⲉⲧ ϫⲏⲕ ⲉⲃⲟⲗ · ⲻ <b>ⲛⲧⲉ</b> ⲡⲉ ⲑⲃⲃⲓⲟ ⲛ ϩⲏⲧ · ⲻ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 9: ⲁⲩⲱ ⲟⲛ <b>ⲛⲧⲉ</b> ⲡ ϫⲟⲉⲓⲥ ⲧⲱⲧ ⲛ ϩⲏⲧ ⲉϫⲱ ⲛ :
-* ϣⲁⲣⲉ
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3: ⲧⲁⲓ ⲧⲉ ⲧ ϩⲉ ⲉ <b>ϣⲁⲣⲉ</b> ϩⲁϩ ⲛϩⲏⲧ ⲟⲩ ⲧϩⲛⲉⲣⲱⲙⲉ ϩⲁ ⲡⲉⲩ ⲃⲉⲕⲉ ⲛ ⲥⲉ ϫⲟⲟⲩ ⲥⲉ ⲛⲏ ⲧⲛ ⲉ ⲣⲟⲉⲓⲥ ⲉⲣⲱ ⲧⲛ .
-  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1: ⲁⲩⲱ ⲛ ϥ ⲛⲕⲟⲧⲕ ⲛ ϥ ⲧⲱⲟⲩⲛ ⲛ ⲧⲉ ⲩϣⲏ ⲙⲛ ⲡⲉ ϩⲟⲟⲩ <b>ϣⲁⲣⲉ</b> ⲡⲉ ϭⲣⲟϭ ϯⲟⲩⲱ ⲛ ϥ ⲣⲛⲟϭ ⲉ ⲛ ϥ ⲥⲟⲟⲩⲛ ⲁⲛ ⲛⲧⲟϥ ⲛ ⲧ ϩⲉ
 * ⲙⲉ
-  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 4: ⲉϣϫⲉ ⲟⲩⲛ ⲟⲩⲁ ⲇⲉ ⲛⲁ ⲕⲱⲧ ⲉϫⲛ ⲧⲉⲓ ⲥⲛⲧⲉ ⲟⲩ ⲛⲟⲩⲃ ⲟⲩ ϩⲁⲧ ϩⲉⲛ ⲉⲛⲉ ⲙ <b>ⲙⲉ</b> ϩⲉⲛ ϣⲉ ⲟⲩ ⲭⲟⲣⲧⲟⲥ ⲟⲩ ⲣⲟⲟⲩⲉ .
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 3: ⲁϫⲛ ⲡⲁⲣⲁⲃⲟⲗⲏ ⲇⲉ <b>ⲙⲉ</b> ϥ ϣⲁϫⲉ ⲛⲙⲙⲁ ⲩ ⲛⲥⲁ ⲩ ⲥⲁ ⲇⲉ ϣⲁ ϥ ⲃⲟⲗ ⲟⲩ ⲧⲏⲣ ⲟⲩ ⲉ ⲛⲉϥ ⲙⲁⲑⲏⲧⲏⲥ .
-  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 2: ⲡ ⲥⲟⲫⲟⲥ ⲇⲉ ⲛⲧⲟϥ ⲉⲧ <b>ⲙⲉ</b> ⲛ ⲧⲉ ⲥⲃⲱ . ϥ ⲛⲁ ϣⲱⲡ ⲉⲣⲟ ϥ ⲛ ⲧ ⲉⲛⲧⲟⲗⲏ ·
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 12: ⲟⲩⲇⲉ ⲧⲟⲃⲧⲃ ⲟⲩⲇⲉ <b>ⲙⲉ</b> ϥ ϣⲟⲩϣⲟⲩ ⲙⲙⲟ ϥ ϩⲛ ⲟⲩ ϩⲃⲥⲱ ⲛ ϩⲟⲉⲓⲧⲉ ⲉⲛⲉϩ ·
+  * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 9: ⲉⲓⲉ ⲛⲉⲧⲛ ϩⲃⲏⲩⲉ ⲧⲏⲣ ⲟⲩ ⲁⲩⲱ ⲛⲉⲧⲛ ϣⲟϫⲛⲉ ⲧⲏⲣ ⲟⲩ ϩⲉⲛ <b>ⲙⲉ</b> ⲛⲉ ·
+  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 4: ⲛⲁⲓ ⲉ ϩⲉⲛ ϩⲓⲥⲱⲛ ϩⲱ ⲟⲩ ⲛⲉ ⲛ ⲣⲣⲟ · ⲁⲩⲱ ⲉⲣⲉ ⲡ ⲣⲣⲟ <b>ⲙⲉ</b> ⲙⲙⲟ ⲟⲩ ⲉⲙⲁⲧⲉ ·
+* ⲛⲧⲉ
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 28: ⲙⲡⲉ ϥ ⲟⲩⲱϣ ⲉ ⲱⲛϩ ϩⲛ ⲟⲩ ⲙⲛⲧⲁⲡⲟⲧⲁⲕⲧⲓⲕⲟⲥ ⲉⲧ ϫⲏⲕ ⲉⲃⲟⲗ · ⲻ <b>ⲛⲧⲉ</b> ⲡⲉ ⲑⲃⲃⲓⲟ ⲛ ϩⲏⲧ · ⲻ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 9: ⲁⲩⲱ ⲟⲛ <b>ⲛⲧⲉ</b> ⲡ ϫⲟⲉⲓⲥ ⲧⲱⲧ ⲛ ϩⲏⲧ ⲉϫⲱ ⲛ :
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 1: ϩⲛ ⲟⲩ ⲉⲓⲣⲏⲛⲏ <b>ⲛⲧⲉ</b> ⲡ ⲛⲟⲩⲧⲉ · ⲉⲣⲉ ⲛⲉϥ ⲥⲙⲟⲩ ⲉⲧ ⲟⲩⲁⲁⲃ ⲛⲁ ⲉⲓ ⲉϩⲣⲁⲓ ⲉϩⲣⲁⲓ ⲉϫⲱ ⲛ ⲛ ⲧⲛ ⲟⲩϫⲁⲓ ⲧⲏⲣ ⲛ ϩⲓ ⲟⲩ ⲥⲟⲡ ϩⲁⲙⲏⲛ : — —
+* ϣⲁⲣⲉ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7: ⲛⲉ <b>ϣⲁⲣⲉ</b> ⲡ ϫⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲟⲩⲱⲛϩ ⲉⲣⲟ ϥ ⲛ ϩⲟ ϩⲓ ϩⲟ · ⲉ ϥ ⲙⲉ ⲙⲙⲟ ϥ ⲉⲧⲃⲉ ⲡⲉϥ ⲧⲃⲃⲟ ·
+  * <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> 1: ⲁⲩⲱ ⲛ ϥ ⲛⲕⲟⲧⲕ ⲛ ϥ ⲧⲱⲟⲩⲛ ⲛ ⲧⲉ ⲩϣⲏ ⲙⲛ ⲡⲉ ϩⲟⲟⲩ <b>ϣⲁⲣⲉ</b> ⲡⲉ ϭⲣⲟϭ ϯⲟⲩⲱ ⲛ ϥ ⲣⲛⲟϭ ⲉ ⲛ ϥ ⲥⲟⲟⲩⲛ ⲁⲛ ⲛⲧⲟϥ ⲛ ⲧ ϩⲉ
+* ⲛⲉⲣⲉ
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 5: ⲙⲡ ⲟⲩ ⲛⲟⲉⲓ ⲅⲁⲣ ϩⲓ ⲛ ⲟⲉⲓⲕ . ⲁⲗⲗⲁ <b>ⲛⲉⲣⲉ</b> ⲡⲉⲩ ϩⲏⲧ ⲧⲏⲙ
+  * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 1: <b>ⲛⲉⲣⲉ</b> ⲏⲡ ⲡⲉ ⲉ ⲧⲁⲙⲟ ⲛ ⲉ ⲡⲟⲩ ⲙⲕⲁϩ ·
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.200000 (the average of all parts of speech is 1.154081).
+The form / lemma ratio of `AUX` is 1.157895 (the average of all parts of speech is 1.139335).
 
 The 1st highest number of forms (2) was observed with the lemma “ϣⲁⲣⲉ”: ϣⲁ, ϣⲁⲣⲉ.
 
 The 2nd highest number of forms (2) was observed with the lemma “ⲙⲁⲣⲉ”: ⲙⲁⲣ, ⲙⲁⲣⲉ.
 
-The 3rd highest number of forms (2) was observed with the lemma “ⲙⲡⲁⲧⲉ”: ⲙⲡⲁⲧ, ⲙⲡⲁⲧⲉ.
+The 3rd highest number of forms (2) was observed with the lemma “ⲙⲉⲣⲉ”: ⲙⲁ, ⲙⲉ.
 
 `AUX` does not occur with any features.
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="cop_scriptorium-dep-aux.html">aux</a></tt> (692; 91% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (46; 6% instances), <tt><a href="cop_scriptorium-dep-xcomp.html">xcomp</a></tt> (15; 2% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-obl.html">obl</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="cop_scriptorium-dep-aux.html">aux</a></tt> (1101; 92% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (93; 8% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (736; 96% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1171; 98% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-738 (97%) `AUX` nodes are leaves.
+1197 (100%) `AUX` nodes are leaves.
 
-0 (0%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
-14 (2%) `AUX` nodes have two children.
+The highest child degree of a `AUX` node is 1.
 
-12 (2%) `AUX` nodes have three or more children.
+Children of `AUX` nodes are attached using 1 different relations: <tt><a href="cop_scriptorium-dep-reparandum.html">reparandum</a></tt> (1; 100% instances)
 
-The highest child degree of a `AUX` node is 7.
-
-Children of `AUX` nodes are attached using 11 different relations: <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (28; 39% instances), <tt><a href="cop_scriptorium-dep-xcomp.html">xcomp</a></tt> (26; 37% instances), <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (3; 4% instances), <tt><a href="cop_scriptorium-dep-det.html">det</a></tt> (3; 4% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-dep-aux.html">aux</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-dep-punct.html">punct</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt> (1; 1% instances)
-
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (28; 39% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (24; 34% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (7; 10% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 100% instances)
 

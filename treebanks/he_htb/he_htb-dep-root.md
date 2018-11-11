@@ -11,9 +11,9 @@ This relation is universal.
 6216 nodes (4%) are attached to their parents as `root`.
 
 6216 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.98439510939511.
+Average distance between parent and child is 7.06209781209781.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (4736; 76% instances), -<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (608; 10% instances), -<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (360; 6% instances), -<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (263; 4% instances), -<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (108; 2% instances), -<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (66; 1% instances), -<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (34; 1% instances), -<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), -<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (9; 0% instances), -<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="he_htb-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="he_htb-pos-DET.html">DET</a></tt> (4; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (4978; 80% instances), -<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (608; 10% instances), -<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (263; 4% instances), -<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (118; 2% instances), -<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (108; 2% instances), -<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (66; 1% instances), -<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (34; 1% instances), -<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), -<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (9; 0% instances), -<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="he_htb-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="he_htb-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 13	מנזר	מנזר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	11	nmod	_	_
 14	סן	סן	PROPN	PROPN	_	13	compound:smixut	_	_
 15	סימון	סימון	PROPN	PROPN	_	14	flat:name	_	_
-16	איננה	אינו	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop	17	advmod	_	_
+16	איננה	אינו	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop	17	advmod	_	_
 17	מיתוס	מיתוס	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
@@ -77,20 +77,22 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	שם	שם	ADV	ADV	_	3	advmod	_	_
-2	היה	היה	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	3	aux	_	_
-3	אמור	אמור	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	0	root	_	_
-4	להיפגש	נפגש	VERB	VERB	HebBinyan=NIFAL|VerbForm=Inf|Voice=Mid	3	xcomp	_	_
-5	עם	עם	ADP	ADP	_	6	case	_	_
-6	איש_	איש	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
-7	_של_	של	ADP	ADP	_	8	case:gen	_	_
-8	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
-9	,	,	PUNCT	PUNCT	_	6	punct	_	_
-10	ש	ש	SCONJ	SCONJ	_	11	mark	_	_
-11	עשתה	עשה	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl:relcl	_	_
-12	ב	ב	ADP	ADP	_	13	case	_	_
-13	בוסטון	בוסטון	PROPN	PROPN	_	11	obl	_	_
-14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+2	סגנון	סגנון	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ענייני	ענייני	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
+4	מאוד	מאוד	ADV	ADV	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	3	punct	_	_
+6	ב	ב	ADP	ADP	_	9	advmod	_	_
+7	דרך	דרך	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	fixed	_	_
+8	כלל	כלל	NOUN	NOUN	Gender=Masc|Number=Sing	6	fixed	_	_
+9	יש	יש	VERB	VERB	HebExistential=True	3	parataxis	_	_
+10	ב_	ב	ADP	ADP	_	11	case	_	_
+11	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+12	נגיעה	נגיעה	NOUN	NOUN	Gender=Fem|Number=Sing	9	nsubj	_	_
+13	ל	ל	ADP	ADP	_	14	case	_	_
+14	ענייני	עניין	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	12	nmod	_	_
+15	חוק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	14	compound:smixut	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

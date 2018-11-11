@@ -65,10 +65,10 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 26	fgColor:white
 # visual-style 26 24 aux:pass	color:blue
 1	När	när	SCONJ	_	_	17	mark	_	_
-2	Microsoft	Microsoft	PROPN	SG-NOM	Case=Nom|Number=Sing	4	compound	_	_
-3	SQL	SQL	PROPN	SG-NOM	Case=Nom|Number=Sing	4	compound	_	_
-4	Server	server	NOUN	SG-IND-NOM	Case=Nom|Number=Sing	7	nmod	_	_
-5	2000	2000	NUM	ID	_	4	nummod	_	_
+2	Microsoft	Microsoft	PROPN	SG-NOM	Case=Nom|Number=Sing	7	compound	_	_
+3	SQL	SQL	PROPN	SG-NOM	Case=Nom|Number=Sing	7	compound	_	_
+4	Server	server	NOUN	SG-IND-NOM	Case=Nom|Number=Sing	3	flat	_	_
+5	2000	2000	NUM	ID	_	3	nummod	_	_
 6	Desktop	desktop	NOUN	SG-IND-NOM	Case=Nom|Number=Sing	7	compound	_	_
 7	Engine	engine	NOUN	SG-IND-NOM	Case=Nom|Number=Sing	17	nsubj	_	_
 8	(	(	PUNCT	LeftParenthesis	_	9	punct	_	SpaceAfter=No

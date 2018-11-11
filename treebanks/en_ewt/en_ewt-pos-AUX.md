@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_ewt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.357143 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `AUX` is 5.357143 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (24) was observed with the lemma “be”: <em>'m, 're, 's, `s, ai, am, ar, are, art, b, be, been, being, is, m, r, re, s, was, wase, were, ´m, ’m, ’s</em>.
 

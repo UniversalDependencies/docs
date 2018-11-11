@@ -11,9 +11,9 @@ This relation is universal.
 1377 nodes (1%) are attached to their parents as `iobj`.
 
 713 instances of `iobj` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78649237472767.
+Average distance between parent and child is 1.78213507625272.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (960; 70% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (303; 22% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (56; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (41; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (960; 70% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (310; 23% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (49; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (41; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	a	a	CCONJ	J^-------------	_	5	cc	5:cc	_
 5	šeptá	šeptat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
 6	něco	něco	PRON	PZ--4----------	Case=Acc|PronType=Ind	5	obj	5:obj	_
-7	Magdičce	Magdička	PROPN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	5	iobj	5:iobj	SpaceAfter=No
+7	Magdičce	Magdička	PROPN	NNFS3-----A----	Case=Dat|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	5	iobj	5:iobj	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

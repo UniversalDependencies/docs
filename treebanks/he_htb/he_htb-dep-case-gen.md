@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `case`: <tt><a href="he_htb
 4842 instances of `case:gen` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.17405650649618.
 
-The following 12 pairs of parts of speech are connected with `case:gen`: <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2726; 56% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (1543; 32% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (474; 10% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (29; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (24; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case:gen`: <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2755; 57% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1543; 32% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (474; 10% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `case:gen`: <tt><a 
 # visual-style 6 5 case:gen	color:blue
 1	התבוננתי	התבונן	VERB	VERB	Gender=Fem,Masc|HebBinyan=HITPAEL|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	ב	ב	ADP	ADP	_	3	case	_	_
-3	בן	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	iobj	_	_
+3	בן	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 4	שיח_	שיח	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	3	compound:smixut	_	_
 5	_של_	של	ADP	ADP	_	6	case:gen	_	_
 6	_אני	הוא	PRON	PRON	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
@@ -47,10 +47,10 @@ The following 12 pairs of parts of speech are connected with `case:gen`: <tt><a 
 2	אין	_	ADV	ADV	Polarity=Neg	3	advmod	_	_
 3	אוהבים	אהב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
 4	ביותר	ביותר	ADV	ADV	_	3	advmod	_	_
-5	את	את	PART	PART	Case=Acc	7	case:acc	_	_
+5	את	את	ADP	ADP	Case=Acc	7	case:acc	_	_
 6	ה	ה	DET	DET	PronType=Art	7	det:def	_	_
 7	רעיון	רעיון	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
-8	של	של	PART	PART	Case=Gen	9	case:gen	_	_
+8	של	של	ADP	ADP	Case=Gen	9	case:gen	_	_
 9	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	7	nmod:poss	_	_
 10	ב	ב	ADP	ADP	_	12	case	_	_
 11	ה_	ה	DET	DET	PronType=Art	12	det:def	_	_
@@ -73,12 +73,12 @@ The following 12 pairs of parts of speech are connected with `case:gen`: <tt><a 
 3	מחצית	מחצית	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
 5	צפונית	צפוני	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	_
-6	של	של	PART	PART	Case=Gen	8	case:gen	_	_
+6	של	של	ADP	ADP	Case=Gen	8	case:gen	_	_
 7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
 8	מחוז	מחוז	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
 9	ה	ה	DET	DET	PronType=Art	10	det:def	_	_
 10	גרמני	גרמני	ADJ	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
-11	של	של	PART	PART	Case=Gen	14	case:gen	_	_
+11	של	של	ADP	ADP	Case=Gen	14	case:gen	_	_
 12	מזרח	מזרח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 13	-	-	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
 14	רוסיה	רוסיה	PROPN	PROPN	_	8	nmod	_	SpaceAfter=No

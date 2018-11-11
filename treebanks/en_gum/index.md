@@ -11,7 +11,7 @@ udver: '2'
 
 # UD English GUM
 
-Language: [English](../en/overview/en-hub.html) (code: `en`)<br/>
+Language: [English](/en/index.html) (code: `en`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -65,6 +66,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 
 * Zeldes, Amir (2017) "The GUM Corpus: Creating Multilayer Resources in the Classroom". Language Resources and Evaluation 51(3), 581–612.
 
+
+
 # Statistics of UD English GUM
 
 ## POS Tags
@@ -77,17 +80,17 @@ As a scholarly citation for the corpus in articles, please use this paper:
 
 ## Relations
 
-[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:npmod](en_gum-dep-nmod-npmod.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:tmod](en_gum-dep-nmod-tmod.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:npmod](en_gum-dep-obl-npmod.html) – [obl:tmod](en_gum-dep-obl-tmod.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
+[acl](en_gum-dep-acl.html) – [acl:relcl](en_gum-dep-acl-relcl.html) – [advcl](en_gum-dep-advcl.html) – [advmod](en_gum-dep-advmod.html) – [amod](en_gum-dep-amod.html) – [appos](en_gum-dep-appos.html) – [aux](en_gum-dep-aux.html) – [aux:pass](en_gum-dep-aux-pass.html) – [case](en_gum-dep-case.html) – [cc](en_gum-dep-cc.html) – [cc:preconj](en_gum-dep-cc-preconj.html) – [ccomp](en_gum-dep-ccomp.html) – [compound](en_gum-dep-compound.html) – [compound:prt](en_gum-dep-compound-prt.html) – [conj](en_gum-dep-conj.html) – [cop](en_gum-dep-cop.html) – [csubj](en_gum-dep-csubj.html) – [csubj:pass](en_gum-dep-csubj-pass.html) – [dep](en_gum-dep-dep.html) – [det](en_gum-dep-det.html) – [det:predet](en_gum-dep-det-predet.html) – [discourse](en_gum-dep-discourse.html) – [dislocated](en_gum-dep-dislocated.html) – [expl](en_gum-dep-expl.html) – [fixed](en_gum-dep-fixed.html) – [flat](en_gum-dep-flat.html) – [goeswith](en_gum-dep-goeswith.html) – [iobj](en_gum-dep-iobj.html) – [mark](en_gum-dep-mark.html) – [nmod](en_gum-dep-nmod.html) – [nmod:npmod](en_gum-dep-nmod-npmod.html) – [nmod:poss](en_gum-dep-nmod-poss.html) – [nmod:tmod](en_gum-dep-nmod-tmod.html) – [nsubj](en_gum-dep-nsubj.html) – [nsubj:pass](en_gum-dep-nsubj-pass.html) – [nummod](en_gum-dep-nummod.html) – [obj](en_gum-dep-obj.html) – [obl](en_gum-dep-obl.html) – [obl:npmod](en_gum-dep-obl-npmod.html) – [obl:tmod](en_gum-dep-obl-tmod.html) – [orphan](en_gum-dep-orphan.html) – [parataxis](en_gum-dep-parataxis.html) – [punct](en_gum-dep-punct.html) – [reparandum](en_gum-dep-reparandum.html) – [root](en_gum-dep-root.html) – [vocative](en_gum-dep-vocative.html) – [xcomp](en_gum-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4390 sentences and 80041 tokens.</li>
+<li>This corpus contains 4399 sentences and 80176 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10524 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 10536 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,7 +98,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 </ul>
 
 <ul>
-<li>This corpus contains 537 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., L'Enfant, ’re, e.g., 'd, ’ve, pro-Beijing, ’ll, 'm, al., i.e., Naqsh-e, how-to, pan-democracy, ’d, St., etc., eye-tracking, north-south, t-shirt, Vava'u, adult-like, anti-establishment, c., e-mail, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, Mr., U.S, co-founder, east-west, eco-tourism, follow-up, s/he, to-do, well-known, ’m, Cheuk-yan, Chi-wai</li>
+<li>This corpus contains 539 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., L'Enfant, ’re, e.g., 'd, ’ve, pro-Beijing, ’ll, 'm, al., i.e., Naqsh-e, how-to, pan-democracy, ’d, St., etc., eye-tracking, north-south, t-shirt, Vava'u, adult-like, anti-establishment, c., e-mail, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, Mr., U.S, co-founder, east-west, eco-tourism, follow-up, s/he, to-do, well-known, ’m, Cheuk-yan, Chi-wai</li>
 </ul>
 
 <ul>
@@ -141,7 +144,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Fin
   <ul>
     <li>AUX: is, can, was, will, are, would, should, may, were, do</li>
-    <li>VERB: have, said, are, is, has, want, think, had, was, says</li>
+    <li>VERB: have, are, said, is, has, want, think, had, was, says</li>
   </ul>
   </li>
 </ul>
@@ -178,384 +181,349 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>PRON: her, she, herself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>PRON: her, she, herself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>PRON: he, his, him, himself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: he, his, him, himself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>PRON: it, its, itself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: it, its, itself</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: these, those</li>
+      <li>NOUN: people, years, things, days, minutes, ants, hours, children, mice, friends</li>
+      <li>PRON: they, we, their, them, our, us, those, themselves, these</li>
+      <li>PROPN: States, skittles, Chathams, Mets, Paralympics, Thais, Americans, Games, Netherlands, Thrones</li>
+      <li>SCONJ: points</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: these, those</li>
-        <li>NOUN: people, years, things, days, ants, minutes, hours, children, mice, friends</li>
-        <li>PRON: they, we, their, them, our, us, those, themselves, these</li>
-        <li>PROPN: States, skittles, Chathams, Mets, Paralympics, Thais, Americans, Games, Netherlands, Thrones</li>
-        <li>SCONJ: points</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>AUX: is, was, has, 's, ’s, does, am, s, Be, isn</li>
+      <li>AUX-Fin: is, was, has, 's, ’s, does, am, s, isn</li>
+      <li>DET: this, that, The, Une</li>
+      <li>NOUN: city, time, way, world, day, language, year, image, something, history</li>
+      <li>PRON: it, i, he, her, she, his, this, my, its, that</li>
+      <li>PROPN: New, United, Scientology, University, Warhol, York, lee, Party, fort, Wikinews</li>
+      <li>SCONJ: suffix</li>
+      <li>SYM: %</li>
+      <li>VERB-Fin: is, has, was, says, 's, comes, ’s, makes, means, takes</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>AUX: is, was, has, 's, ’s, does, am, s, Be, isn</li>
-        <li>AUX-Fin: is, was, has, 's, ’s, does, am, s, isn</li>
-        <li>DET: this, that, The, Une</li>
-        <li>NOUN: city, time, way, world, day, language, year, image, something, history</li>
-        <li>PRON: it, i, he, her, she, his, this, my, its, that</li>
-        <li>PROPN: New, United, Scientology, University, Warhol, York, lee, Party, fort, Wikinews</li>
-        <li>SCONJ: suffix</li>
-        <li>SYM: %</li>
-        <li>VERB-Fin: is, has, was, says, 's, comes, ’s, makes, means, takes</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: it, them, me, her, you, him, us, yourself, themselves, himself</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: it, them, me, her, you, him, us, yourself, themselves, himself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>DET: you</li>
-        <li>PRON: you, it, i, they, we, he, she</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>DET: you</li>
+      <li>PRON: you, it, i, they, we, he, she</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: the</li>
+      <li>PRON: the</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: the</li>
-        <li>PRON: the</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: a, an</li>
-        <li>PRON: a</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: a, an</li>
+      <li>PRON: a</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: more, better, larger, greater, easier, further, smaller, less, later, higher</li>
-        <li>ADV: less, earlier, later, longer, further, better, sooner, worse</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: more, better, larger, greater, easier, further, smaller, less, later, higher</li>
+      <li>ADV: less, earlier, later, longer, further, better, sooner, worse</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: many, other, new, good, important, own, first, last, different, large</li>
-        <li>ADV: well, far, long, soon, little, badly, early, fast, late, close</li>
-        <li>AUX: able</li>
-        <li>DET: other</li>
-        <li>SCONJ: such</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: many, other, new, good, important, own, first, last, different, large</li>
+      <li>ADV: well, far, long, soon, little, badly, early, fast, late, close</li>
+      <li>AUX: able</li>
+      <li>DET: other</li>
+      <li>SCONJ: such</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: most, best, least, largest, highest, latest, greatest, biggest, hardest, hottest</li>
-        <li>ADV: best, fastest, highest, least</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: most, best, least, largest, highest, latest, greatest, biggest, hardest, hottest</li>
+      <li>ADV: best, fastest, highest, least</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: never, no</li>
-        <li>DET: no</li>
-        <li>PART: not, n't, n’t, ’t</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: never, no</li>
+      <li>DET: no</li>
+      <li>PART: not, n't, n’t, ’t</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, did</li>
+      <li>VERB-Fin: have, are, said, is, has, want, think, had, was, says</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, did</li>
-        <li>VERB-Fin: have, said, are, is, has, want, think, had, was, says</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: was, were, had, did, ’d, 'd, became, got, where</li>
+      <li>AUX-Part: been</li>
+      <li>SCONJ-Part: based, compared, given, got</li>
+      <li>VERB-Fin: said, had, was, came, took, wanted, became, made, started, used</li>
+      <li>VERB-Part: called, used, known, made, found, given, done, based, elected, seen</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: was, were, had, did, ’d, 'd, became, got, where</li>
-        <li>AUX-Part: been</li>
-        <li>SCONJ-Part: based, compared, given, got</li>
-        <li>VERB-Fin: said, had, was, came, took, wanted, became, made, started, used</li>
-        <li>VERB-Part: called, used, known, made, found, given, done, based, elected, seen</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: is, are, do, has, 's, have, 're, ’s, does, 've</li>
-        <li>VERB-Fin: have, are, is, has, want, think, says, 's, know, comes</li>
-        <li>VERB-Part: going, doing, looking, trying, getting, taking, making, working, moving, talking</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: is, are, do, has, 's, have, 're, ’s, does, 've</li>
+      <li>VERB-Fin: have, are, is, has, want, think, says, 's, know, comes</li>
+      <li>VERB-Part: going, doing, looking, trying, getting, taking, making, working, moving, talking</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: the, a, an</li>
-        <li>PRON: a, the</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: the, a, an</li>
+      <li>PRON: a, the</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: then, there, here</li>
-        <li>DET: this, these, that, those</li>
-        <li>PRON: this, that, those, these</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: then, there, here</li>
+      <li>DET: this, these, that, those</li>
+      <li>PRON: this, that, those, these</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>DET: what, which, whatever</li>
-        <li>PRON: what, which, who, whatever, whose, whoever, whom</li>
-        <li>SCONJ: when, how, why, where, wherever, Whenever, While</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: what, which, whatever</li>
+      <li>PRON: what, which, who, whatever, whose, whoever, whom</li>
+      <li>SCONJ: when, how, why, where, wherever, Whenever, While</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: you</li>
-        <li>PRON: you, it, i, your, they, we, he, her, she, his</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: you</li>
+      <li>PRON: you, it, i, your, they, we, he, her, she, his</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>DET: that</li>
-        <li>PRON: that, which, who, what, whom</li>
-        <li>SCONJ: where, when, why</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: that</li>
+      <li>PRON: that, which, who, what, whom</li>
+      <li>SCONJ: where, when, why</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>DET: 6</li>
+      <li>NUM: one, two, 1, 2, 3, 15, 4, four, 10, 5</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>DET: 6</li>
-        <li>NUM: one, two, 1, 2, 3, 15, 4, four, 10, 5</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>ADV: once, twice</li>
+      <li>SCONJ: once</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>ADV: once, twice</li>
-        <li>SCONJ: once</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: first, second, third, 19th, fourth, 20th, 10th, 30th, 135th, 164th</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: first, second, third, 19th, fourth, 20th, 10th, 30th, 135th, 164th</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: your, his, their, my, her, its, our, whose, yours</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: your, his, their, my, her, its, our, whose, yours</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: yourself, themselves, himself, itself, myself, herself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: am, was</li>
+      <li>PRON: i, we, my, me, our, us, myself</li>
+      <li>VERB-Fin: was</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: yourself, themselves, himself, itself, myself, herself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>DET: you</li>
+      <li>PRON: you, your, yourself, yours</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: am, was</li>
-        <li>PRON: i, we, my, me, our, us, myself</li>
-        <li>VERB-Fin: was</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>DET: you</li>
-        <li>PRON: you, your, yourself, yours</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: is, was, has, 's, ’s, does, s, isn</li>
-        <li>PRON: it, they, he, her, she, his, their, them, its, him</li>
-        <li>VERB-Fin: is, has, says, 's, was, comes, ’s, makes, means, takes</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: is, was, has, 's, ’s, does, s, isn</li>
+      <li>PRON: it, they, he, her, she, his, their, them, its, him</li>
+      <li>VERB-Fin: is, has, says, 's, was, comes, ’s, makes, means, takes</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -582,8 +550,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (873)</li>
-      <li>VERB-Fin--PRON (267)</li>
+      <li>VERB-Fin--NOUN (876)</li>
+      <li>VERB-Fin--PRON (269)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Nom (1095)</li>
       <li>VERB-Ger--NOUN (24)</li>
@@ -606,17 +574,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1004)</li>
+      <li>VERB-Fin--NOUN (1007)</li>
       <li>VERB-Fin--PRON (55)</li>
-      <li>VERB-Fin--PRON-Acc (131)</li>
+      <li>VERB-Fin--PRON-Acc (130)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Ger--NOUN (430)</li>
       <li>VERB-Ger--PRON (10)</li>
       <li>VERB-Ger--PRON-Acc (35)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (1259)</li>
+      <li>VERB-Inf--NOUN (1262)</li>
       <li>VERB-Inf--PRON (62)</li>
-      <li>VERB-Inf--PRON-Acc (177)</li>
+      <li>VERB-Inf--PRON-Acc (178)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN (181)</li>
       <li>VERB-Part--PRON (18)</li>
@@ -629,7 +597,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (11)</li>
+      <li>VERB-Fin--NOUN (9)</li>
       <li>VERB-Fin--PRON-Acc (19)</li>
       <li>VERB-Ger--NOUN (6)</li>
       <li>VERB-Ger--PRON-Acc (5)</li>
@@ -653,5 +621,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

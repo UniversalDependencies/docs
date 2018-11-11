@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	van	van	ADP	VZ|init	_	5	case	5:case	_
 3	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
 4	drie	drie	NUM	TW|hoofd|prenom|stan	_	5	nummod	5:nummod	_
-5	hindernissen	hindernis	NOUN	N|soort|mv|basis	Number=Plur	1	nmod	1:nmod	_
+5	hindernissen	hindernis	NOUN	N|soort|mv|basis	Number=Plur	1	nmod	1:nmod:van	_
 6	verloren	verliezen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	hun	hun	PRON	VNW|bez|det|stan|vol|3|mv|prenom|zonder|agr	Person=3|PronType=Prs	8	nmod:poss	8:nmod:poss	_
 8	balken	balk	NOUN	N|soort|mv|basis	Number=Plur	6	obj	6:obj	SpaceAfter=No
@@ -48,9 +48,9 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	deze	deze	DET	VNW|aanw|det|stan|prenom|met-e|rest	_	6	det	6:det	_
 6	zomer	zomer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl	_
 7	per	per	ADP	VZ|init	_	8	case	8:case	_
-8	auto	auto	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl	_
+8	auto	auto	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:per	_
 9	naar	naar	ADP	VZ|init	_	10	case	10:case	_
-10	Japan	Japan	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl	SpaceAfter=No
+10	Japan	Japan	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:naar	SpaceAfter=No
 11	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	anderen	ander	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	4	nsubj	4:nsubj	_
 4	stegen	stijgen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	boven	boven	ADP	VZ|init	_	6	case	6:case	_
-6	zichzelf	zichzelf	PRON	VNW|refl|pron|obl|nadr|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obl	4:obl	_
+6	zichzelf	zichzelf	PRON	VNW|refl|pron|obl|nadr|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obl	4:obl:boven	_
 7	uit	uit	ADP	VZ|fin	_	4	compound:prt	4:compound:prt	SpaceAfter=No
 8	.	.	PUNCT	LET	_	4	punct	4:punct	_
 

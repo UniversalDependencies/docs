@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `vocative:mention`:
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 vocative:mention	color:blue
-1	@njallsfirstlove	@njallsfirstlove	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	_
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `vocative:mention`:
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 vocative:mention	color:blue
-1	@LUltimaParola	@LUltimaParola	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	5	nsubj	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `vocative:mention`:
 # visual-style 4	fgColor:white
 # visual-style 4 2 vocative:mention	color:blue
 1	RT	retweet	NOUN	S	_	4	dep	_	_
-2	@MarroneEmma	@MarroneEmma	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	Buongiorno	buongiorno	INTJ	I	_	0	root	_	_
 5	#abbestia	#abbestia	SYM	SYM	_	4	vocative	_	_

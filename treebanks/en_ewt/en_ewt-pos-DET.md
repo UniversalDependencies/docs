@@ -73,7 +73,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_ewt-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.739130 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `DET` is 1.739130 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (7) was observed with the lemma “the”: <em>da, he, te, teh, the, then, ther</em>.
 

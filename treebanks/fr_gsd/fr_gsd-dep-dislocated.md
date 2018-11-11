@@ -25,8 +25,8 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 1	Tout	tout	DET	_	Gender=Masc|Number=Sing	2	det	_	_
 2	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	13	dislocated	_	_
 3	que	que	PRON	_	PronType=Rel	7	obj	_	_
-4	l'	l'	PART	_	_	5	expl	_	SpaceAfter=No
-5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	nsubj	_	MWEPOS=PRON|SpaceAfter=No
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	4	fixed	_	_
 6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 7	chercher	chercher	VERB	_	VerbForm=Inf	6	xcomp	_	_
 8	en	en	ADP	_	_	9	case	_	_
@@ -82,7 +82,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 8	d'	de	ADP	_	_	10	case	_	SpaceAfter=No
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	variable	variable	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
-11	liée	lier	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	amod	_	_
+11	liée	lier	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 12	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 

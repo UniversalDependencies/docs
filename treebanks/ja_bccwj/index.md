@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Japanese BCCWJ
 
-Language: [Japanese](../ja/overview/ja-hub.html) (code: `ja`)<br/>
+Language: [Japanese](/ja/index.html) (code: `ja`)<br/>
 Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJ](https://github.com/UniversalDependencies/UD_Japanese-BCCWJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwj22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0 International. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -68,13 +69,6 @@ The corpus is obtained by running the following command:
 ```
 
 where `BCCWJ_CORE_FILE` denotes the file of BCCWJ core file (core_SUW.txt)
-These output is texts removed some words from original text, so you want to get original full text:
-
-```
-./merge/merge.sh -f -c BCCWJ_CORE_FILE
-```
-
-add `-f` flag. In order to run this command, you need Python.
 
 or
 
@@ -144,11 +138,11 @@ and is a project of the Center for Corpus Development, NINJAL.
 
 
 <ul>
-<li>This corpus contains 57256 sentences and 1265590 tokens.</li>
+<li>This corpus contains 57109 sentences and 1273287 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1265590 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 1266616 tokens (99%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -278,18 +272,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-ADP(_) (10474)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (163)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (9)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (4)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (4)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
-      <li>VERB--PRON-ADP(_) (323)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (48)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN (10)</li>
+      <li>VERB--NOUN-ADP(_) (24436)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (3931)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (81)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (15)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (10)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (3)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
+      <li>VERB--PRON-ADP(_) (1033)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (203)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (8)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
     </ul>
   </li>
 </ul>
@@ -297,15 +292,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-ADP(_) (17715)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (279)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (15)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (5)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (3)</li>
-      <li>VERB--PRON-ADP(_) (385)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (29)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--NOUN-ADP(_) (25625)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (440)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (25)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (9)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
+      <li>VERB--PRON-ADP(_) (476)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (34)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (2)</li>
     </ul>
   </li>
@@ -314,13 +309,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (848)</li>
-      <li>VERB--NOUN-ADP(_) (13290)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (954)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (16)</li>
-      <li>VERB--PRON (83)</li>
-      <li>VERB--PRON-ADP(_) (1429)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (157)</li>
+      <li>VERB--NOUN (861)</li>
+      <li>VERB--NOUN-ADP(_) (10502)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (472)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (13)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--PRON (84)</li>
+      <li>VERB--PRON-ADP(_) (988)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (102)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (1)</li>
     </ul>
   </li>

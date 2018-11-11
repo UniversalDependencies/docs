@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-Talbanken: POS Tags: `ADP`
 
-There are 86 `ADP` lemmas (1%), 86 `ADP` types (1%) and 11245 `ADP` tokens (12%).
+There are 86 `ADP` lemmas (1%), 86 `ADP` types (1%) and 11246 `ADP` tokens (12%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>i, av, på, för, till, med, om, från, vid, under</em>
@@ -62,28 +62,28 @@ The 10 most frequent ambiguous types:  <em>för</em> (<tt><a href="sv_talbanken-
 
 The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.422480).
 
-The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 1st highest number of forms (1) was observed with the lemma “I”: <em>I</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “alltefter”: <em>alltefter</em>.
+The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “angående”: <em>angående</em>.
+The 3rd highest number of forms (1) was observed with the lemma “alltefter”: <em>alltefter</em>.
 
 `ADP` occurs with 2 features: <tt><a href="sv_talbanken-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
 `ADP` occurs with 2 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`
 
 `ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (11241 tokens).
+The most frequent feature combination is `_` (11242 tokens).
 Examples: <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 15 different relations: <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (9570; 85% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (688; 6% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (375; 3% instances), <tt><a href="sv_talbanken-dep-compound-prt.html">compound:prt</a></tt> (279; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (259; 2% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (28; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="sv_talbanken-dep-root.html">root</a></tt> (6; 0% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 15 different relations: <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (9571; 85% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (688; 6% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (375; 3% instances), <tt><a href="sv_talbanken-dep-compound-prt.html">compound:prt</a></tt> (279; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (259; 2% instances), <tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt> (28; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="sv_talbanken-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="sv_talbanken-dep-root.html">root</a></tt> (6; 0% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (8513; 76% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1167; 10% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (443; 4% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (410; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (264; 2% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (209; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (166; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (12; 0% instances),  (6; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (8514; 76% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1167; 10% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (443; 4% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (410; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (264; 2% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (209; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (166; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (12; 0% instances),  (6; 0% instances)
 
-10425 (93%) `ADP` nodes are leaves.
+10426 (93%) `ADP` nodes are leaves.
 
 487 (4%) `ADP` nodes have one child.
 

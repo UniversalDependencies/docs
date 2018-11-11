@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Acc`, `Nom`.
 
-5289 tokens (6%) have a non-empty value of `Case`.
-567 types (6%) occur at least once with a non-empty value of `Case`.
-480 lemmas (7%) occur at least once with a non-empty value of `Case`.
-The feature is used with 15 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (3777; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (437; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (300; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (242; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (179; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (138; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (125; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances).
+5282 tokens (6%) have a non-empty value of `Case`.
+564 types (6%) occur at least once with a non-empty value of `Case`.
+478 lemmas (7%) occur at least once with a non-empty value of `Case`.
+The feature is used with 15 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (3777; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (436; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (297; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (241; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (179; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (140; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (123; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -34,39 +34,39 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NOUN`
 
-437 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Case`.
+436 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (437; 100%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (436; 100%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Nom` (437; 100% of non-empty `Case`): <em>garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</em>
-* `EMPTY` (14518): <em>data, field, man, time, people, page, way, file, Mr, eyes</em>
+* `Nom` (436; 100% of non-empty `Case`): <em>garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</em>
+* `EMPTY` (14520): <em>data, field, man, time, people, page, way, file, Mr, eyes</em>
 
-`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (147) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (146) occur only with one value of `Case`.
 
 ### `VERB`
 
-300 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
+297 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (300; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (300; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (300; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (300; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (297; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (297; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (297; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (297; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Nom` (300; 100% of non-empty `Case`): <em>filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</em>
-* `EMPTY` (9564): <em>was, said, do, know, had, have, see, is, made, going</em>
+* `Nom` (297; 100% of non-empty `Case`): <em>filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</em>
+* `EMPTY` (9566): <em>was, said, do, know, had, have, see, is, made, going</em>
 
-`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (137) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (136) occur only with one value of `Case`.
 
 ### `ADJ`
 
-242 <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Case`.
+241 <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="en_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (242; 100%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="en_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (241; 100%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Nom` (242; 100% of non-empty `Case`): <em>following, moving, loud, pale, existing, trading, calculated, Arabic, defined, dining</em>
+* `Nom` (241; 100% of non-empty `Case`): <em>following, loud, moving, pale, existing, trading, calculated, Arabic, defined, dining</em>
 * `EMPTY` (5072): <em>other, white, old, good, new, same, great, long, more, first</em>
 
 `Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (116) occur only with one value of `Case`.
@@ -82,27 +82,27 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-138 <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Case`.
+140 <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (138; 100%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (140; 100%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Nom` (138; 100% of non-empty `Case`): <em>Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</em>
-* `EMPTY` (2663): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
+* `Nom` (140; 100% of non-empty `Case`): <em>Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</em>
+* `EMPTY` (2662): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
 
-`Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (34) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (35) occur only with one value of `Case`.
 
 ### `ADV`
 
-125 <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Case`.
+123 <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Case`.
 
 `ADV` tokens may have the following values of `Case`:
 
-* `Nom` (125; 100% of non-empty `Case`): <em>n't, for, last, nearest, and, besides, left, p.m, within, a.m.</em>
-* `EMPTY` (4443): <em>out, up, so, then, back, now, very, just, too, again</em>
+* `Nom` (123; 100% of non-empty `Case`): <em>n't, for, last, nearest, and, besides, left, p.m, within, a.m.</em>
+* `EMPTY` (4442): <em>out, up, so, then, back, now, very, just, too, again</em>
 
-`Case` seems to be **lexical feature** of `ADV`. 100% lemmas (24) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADV`. 100% lemmas (23) occur only with one value of `Case`.
 
 ### `ADP`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `ADP` tokens may have the following values of `Case`:
 
 * `Nom` (39; 100% of non-empty `Case`): <em>ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</em>
-* `EMPTY` (8216): <em>of, in, to, for, with, on, at, from, by, as</em>
+* `EMPTY` (8215): <em>of, in, to, for, with, on, at, from, by, as</em>
 
 `Case` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Case`.
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 `CCONJ` tokens may have the following values of `Case`:
 
 * `Nom` (15; 100% of non-empty `Case`): <em>as, only, so, rather</em>
-* `EMPTY` (2521): <em>and, but, or, both, nor, either, neither, for, &amp;</em>
+* `EMPTY` (2524): <em>and, but, or, both, nor, neither, either, for, &amp;</em>
 
 ### `DET`
 
@@ -157,15 +157,6 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Nom` (6; 100% of non-empty `Case`): <em>n, U</em>
 * `EMPTY` (574): <em>one, two, three, 2002, six, five, 2000, 1, 2, ten</em>
 
-### `X`
-
-4 <tt><a href="en_lines-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Case`.
-
-`X` tokens may have the following values of `Case`:
-
-* `Nom` (4; 100% of non-empty `Case`): <em>DB, OLE</em>
-* `EMPTY` (39): <em>XSLT, SA, XSL, W3C, .xsl, XSD, .adp, .lpk, .mdb, .odc</em>
-
 ### `INTJ`
 
 2 <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Case`.
@@ -174,6 +165,15 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 * `Nom` (2; 100% of non-empty `Case`): <em>Ave, Er</em>
 * `EMPTY` (157): <em>yes, well, oh, no, please, ah, eh, Adieu, Yeah, good-by</em>
+
+### `X`
+
+2 <tt><a href="en_lines-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Case`.
+
+`X` tokens may have the following values of `Case`:
+
+* `Nom` (2; 100% of non-empty `Case`): <em>DB</em>
+* `EMPTY` (39): <em>XSLT, SA, XSL, W3C, .xsl, XSD, .adp, .lpk, .mdb, .odc</em>
 
 ### `PART`
 
@@ -187,7 +187,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>X --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> X</tt> (2; 100%),
+<tt>PROPN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>PRON --[<tt><a href="en_lines-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="en_lines-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="en_lines-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).

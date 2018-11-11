@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_bosque-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.042553 (the average of all parts of speech is 1.418361).
+The form / lemma ratio of `AUX` is 6.042553 (the average of all parts of speech is 1.418721).
 
 The 1st highest number of forms (33) was observed with the lemma “ser”: <em>Sê, eis, era, eram, foi, fomos, for, fora, foram, forem, fosse, fossem, fui, fôr, seja, sejam, sendo, ser, serei, serem, seremos, seria, seriam, sermos, será, serão, sido, somos, sou, são, sô, çe, é</em>.
 
@@ -83,9 +83,9 @@ Examples: <em>é, está, vai, pode, tem, deve, continua, parece, acaba, começa<
 
 Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (3493; 55% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1221; 19% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1159; 18% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (191; 3% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (89; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (61; 1% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (28; 0% instances),  (9; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (2; 0% instances)
 
-6294 (99%) `AUX` nodes are leaves.
+6293 (99%) `AUX` nodes are leaves.
 
-8 (0%) `AUX` nodes have one child.
+9 (0%) `AUX` nodes have one child.
 
 9 (0%) `AUX` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="pt_b
 
 The highest child degree of a `AUX` node is 7.
 
-Children of `AUX` nodes are attached using 15 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (29; 32% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (14; 15% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (14; 15% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (10; 11% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="pt_bosque-dep-aux.html">aux</a></tt> (3; 3% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-dep.html">dep</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 15 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (29; 32% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (15; 16% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (14; 15% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (10; 11% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="pt_bosque-dep-aux.html">aux</a></tt> (3; 3% instances), <tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt> (3; 3% instances), <tt><a href="pt_bosque-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="pt_bosque-dep-dep.html">dep</a></tt> (1; 1% instances)
 
-Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (29; 32% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (21; 23% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 15% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (8; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (29; 32% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (21; 23% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 15% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (8; 9% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

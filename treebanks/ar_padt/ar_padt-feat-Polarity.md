@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (19; 100% of non-empty `Polarity`): بد، أمل، اهمية، ايادي، بديل، تعازى، جدوى، حلاوة، خلاف، خيارات
-* `EMPTY` (92032): مصر، اليوم، رئيس، دولار، الحكومة، العراق، وزير، كل، الرئيس، غير
+* `EMPTY` (93686): مصر، اليوم، رئيس، دولار، الحكومة، العراق، وزير، كل، الرئيس، غير
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (15) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): أفريقي، أوسطي، افريقي، عام، كبيرة
-* `EMPTY` (29216): المصرية، المتحدة، المصري، الماضي، العربية، أي، الحالي، جديدة، الدولية، الفلسطينية
+* `EMPTY` (29346): المصرية، المتحدة، المصري، الماضي، العربية، أي، الحالي، جديدة، الدولية، الفلسطينية
 
 ### `NUM`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `NUM` and `Polarity` co-occurr
 `NUM` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): مليون
-* `EMPTY` (7755): مليون، 15، 3، 6، 2، 8، 7، مليار، ألف، 4
+* `EMPTY` (7757): مليون، 15، 3، 6، 2، 8، 7، مليار، ألف، 4
 

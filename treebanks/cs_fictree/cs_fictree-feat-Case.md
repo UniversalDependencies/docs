@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
 76230 tokens (46%) have a non-empty value of `Case`.
-17410 types (64%) occur at least once with a non-empty value of `Case`.
-8697 lemmas (63%) occur at least once with a non-empty value of `Case`.
+17405 types (64%) occur at least once with a non-empty value of `Case`.
+8696 lemmas (63%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14073; 8% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (12313; 7% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10334; 6% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8417; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
 
 ### `NOUN`
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 14073 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12068; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10947; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10464; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8080; 57%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7962; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7881; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12068; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10947; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10464; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8116; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7962; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7881; 56%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -49,13 +49,12 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (560; 4% of non-empty `Case`): <em>mě, nich, sebe, ní, něj, nás, ho, jich, něho, jí</em>
 * `Ins` (522; 4% of non-empty `Case`): <em>ním, sebou, mnou, ní, nimi, čím, námi, tebou, vámi, něčím</em>
 * `Loc` (277; 2% of non-empty `Case`): <em>něm, sobě, mně, nich, ní, čem, níž, němž, nichž, něčem</em>
-* `Nom` (1774; 13% of non-empty `Case`): <em>já, co, kdo, on, nikdo, někdo, ty, nic, ona, vy</em>
+* `Nom` (1774; 13% of non-empty `Case`): <em>já, co, kdo, on, nikdo, ty, někdo, nic, ona, vy</em>
 * `Voc` (11; 0% of non-empty `Case`): <em>vy, ty</em>
 * `EMPTY` (32): <em>co</em>
 
 <table>
   <tr><th>Paradigm <i>ty</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Tys</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ty</em></td><td><em>tebe</em></td><td><em>tobě</em></td><td><em>tebe</em></td><td><em>ty</em></td><td><em>tobě</em></td><td><em>tebou</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>tě</em></td><td><em>ti</em></td><td><em>tě</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>vy</em></td><td><em>vás</em></td><td><em>vám</em></td><td><em>vás</em></td><td><em>vy</em></td><td><em>vás</em></td><td><em>vámi</em></td></tr>
@@ -172,7 +171,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 2255 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2255; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2143; 95%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 62%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1278; 57%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2255; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2143; 95%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 62%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1278; 57%), <tt><a href="cs_fictree-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (1248; 55%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -217,14 +216,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (9111; 99%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7635; 99%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4081; 100%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (9134; 99%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7639; 99%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4082; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (1811; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1309; 95%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1317; 95%),
 <tt>DET --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (581; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (580; 92%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (498; 97%),
-<tt>PROPN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (443; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (312; 94%).
+<tt>PROPN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (420; 100%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (313; 94%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (1%) are attached to their parents as `appos`.
+155 nodes (1%) are attached to their parents as `appos`.
 
-88 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.55681818181818.
+155 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.19354838709677.
 
-The following 16 pairs of parts of speech are connected with `appos`: <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (25; 28% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (17; 19% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (13; 15% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (8; 9% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6; 7% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `appos`: <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (42; 27% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (40; 26% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (29; 19% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (12; 8% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (8; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 appos	color:blue
-1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	_
+1	ⲙⲛ	ⲙⲛ	ADP	PREP	_	2	case	_	Orig=ⲛⲙ
 2	ⲓⲟⲩⲇⲁⲥ	ⲓⲟⲩⲇⲁⲥ	PROPN	NPROP	_	0	root	_	_
 3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	ⲓⲥⲕⲁⲣⲓⲱⲧⲏⲥ	ⲓⲥⲕⲁⲣⲓⲱⲧⲏⲥ	NOUN	N	_	2	appos	_	_
@@ -44,14 +44,14 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 11	fgColor:white
 # visual-style 11 12 appos	color:blue
 1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
-2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲓ̈
 3	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ⲉⲣⲟ	ⲉ_ⲛⲧⲟ	PRON	PREP_PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
-5	ⲛⲧⲟ	ⲛⲧⲟ	PRON	PPERI	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	vocative	_	_
+4	ⲉⲣⲟ	ⲉ_ⲛⲧⲟ	PRON	PREP_PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	obl	_	Orig=ⲉⲣⲟ̂
+5	ⲛⲧⲟ	ⲛⲧⲟ	PRON	PPERI	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	vocative	_	Orig=ⲛ̄ⲧⲟ
 6	ⲁⲫⲑⲟⲛⲓⲁ	ⲁⲫⲑⲟⲛⲓⲁ	PROPN	NPROP	_	5	appos	_	_
 7	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	5	appos	_	_
-9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
+9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲙ̄
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ⲕⲟⲙⲉⲥ	ⲕⲟⲙⲉⲥ	NOUN	N	_	8	nmod	_	_
 12	ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ	ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ	PROPN	NPROP	_	11	appos	_	_
@@ -61,38 +61,29 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 18 appos	color:blue
-1	ⲉϣⲱⲡⲉ	ⲉϣⲱⲡⲉ	CCONJ	CONJ	_	6	mark	_	_
-2	ⲇⲉ	ⲇⲉ	PART	PTC	_	6	advmod	_	_
-3	ⲟⲛ	ⲟⲛ	ADV	ADV	_	6	advmod	_	_
-4	·	·	PUNCT	PUNCT	_	3	punct	_	_
-5	ⲉ	ⲉⲣⲉ	PART	CFOC	_	6	mark	_	_
-6	ⲟⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	24	advcl	_	_
-7	ⲉ	ⲛⲧⲟ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
-8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
-9	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	6	nsubj	_	_
-10	ⲉ	ⲉ	ADP	PREP	_	11	mark	_	_
-11	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
-13	.	.	PUNCT	PUNCT	_	6	punct	_	_
-14	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	16	advmod	_	_
-15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	_
-16	ϩⲗⲗⲟⲓ	ϩⲗⲗⲟ	NOUN	N	_	24	dislocated	_	_
-17	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
-18	ⲉⲓⲟⲧⲉ	ⲉⲓⲱⲧ	NOUN	N	_	16	appos	_	_
-19	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	21	cc	_	_
-20	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
-21	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	18	conj	_	_
-22	ⲁ	ⲁ	AUX	APST	_	24	aux	_	_
-23	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
-24	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
-25	ϣⲁⲣⲱ	ϣⲁ	ADP	PREP	_	26	case	_	_
-26	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	24	obl	_	_
-27	·	·	PUNCT	PUNCT	_	24	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 appos	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Orig=Ⲧⲁⲓ̈
+3	ⲧⲉ	ⲡⲉ	PRON	COP	Gender=Fem|Number=Sing	2	cop	_	_
+4	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Orig=ⲑ
+5	ϩⲉ	ϩⲉ	NOUN	N	_	2	nsubj	_	Orig=ⲉ
+6	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	Orig=ⲛ̄ⲧ
+7	ⲁ	ⲁ	AUX	APST	_	12	aux	_	_
+8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	12	nsubj	_	_
+10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	appos	_	Orig=ⲛⲟⲩⲧⲉ`
+12	ϯ	ϯ	VERB	V	VerbForm=Fin	5	acl	_	_
+13	ⲛⲁ	ⲛⲁ	ADP	PREP	_	14	case	_	_
+14	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	obl	_	_
+15	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	17	case	_	_
+16	ⲡⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
+17	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	12	obl	_	_
+18	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

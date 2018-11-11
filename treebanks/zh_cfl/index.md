@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Chinese CFL
 
-Language: [Chinese](../zh/overview/zh-hub.html) (code: `zh`)<br/>
+Language: [Chinese](/zh/index.html) (code: `zh`)<br/>
 Family: Sino-Tibetan
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: John Lee, Herman Leung, Keying Li.
 
 Repository: [UD_Chinese-CFL](https://github.com/UniversalDependencies/UD_Chinese-CFL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_cfl)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_cfl22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

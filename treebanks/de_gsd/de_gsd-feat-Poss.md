@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1797; 100% of non-empty `Poss`): <em>seine, seiner, sein, ihre, seinen, seinem, ihrer, ihren, ihr, seines</em>
-* `EMPTY` (34615): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (35063): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (583; 100% of non-empty `Poss`): <em>meine, seine, unsere, ihre, mein, ihren, meiner, seiner, sein, meinem</em>
-* `EMPTY` (14112): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (14511): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `PROPN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Poss` co-occurred
 `PROPN` tokens may have the following values of `Poss`:
 
 * `Yes` (13; 100% of non-empty `Poss`): <em>mein, Unser, dein, Meine, SC, SYNODUS, Seine, unserer</em>
-* `EMPTY` (31503): <em>von, Deutschland, de, of, der, US, Berlin, the, SPD, St.</em>
+* `EMPTY` (31171): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): <em>Ihres, deinen</em>
-* `EMPTY` (20943): <em>ersten, später, erste, anderen, weitere, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20571): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 ### `NOUN`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): <em>Meinen, seiner</em>
-* `EMPTY` (52291): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52220): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 ### `VERB`
 

@@ -23,7 +23,7 @@ The following 68 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 discourse	color:blue
-1	@njallsfirstlove	@njallsfirstlove	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	_
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
@@ -58,13 +58,23 @@ The following 68 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 discourse	color:blue
-1	@NiallOfficial	@NiallOfficial	SYM	SYM	_	3	vocative:mention	_	_
-2	ma	ma	CCONJ	CC	_	3	discourse	_	_
-3	strozza	strozzato	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 discourse	color:blue
+1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
+2	ma	ma	CCONJ	CC	_	4	discourse	_	_
+3	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+4	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	che	che	PRON	PQ	PronType=Int	7	obj	_	_
+6	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+8	??	??	PUNCT	FS	_	7	punct	_	_
+9	xk	perché	ADV	B	_	11	advmod	_	_
+10	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	messo	mettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	puntini	punto	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+14	?	?	PUNCT	FS	_	13	punct	_	_
 
 ~~~
 

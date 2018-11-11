@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>al</em> (<tt><a href="en_ewt-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000193 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `PROPN` is 1.000193 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (2) was observed with the lemma “Thanksgiving”: <em>Thanksgiv8ing, Thanksgiving</em>.
 

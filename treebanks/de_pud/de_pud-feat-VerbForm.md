@@ -11,7 +11,7 @@ It occurs with 2 different values: `Inf`, `Part`.
 
 62 tokens (0%) have a non-empty value of `VerbForm`.
 59 types (1%) occur at least once with a non-empty value of `VerbForm`.
-1 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
+57 lemmas (1%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (58; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
@@ -25,6 +25,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (40; 69% of non-empty `VerbForm`): <em>abzuschreiben, aufrechtzuerhalten, begrenzen, behandeln, bekommen, beschäftigen, besuchen, bewegen, durchzuführen, einzunehmen</em>
 * `Part` (18; 31% of non-empty `VerbForm`): <em>abgesehen, basierend, gefolgt, gesagt, Breaking, Geformt, abgehärtet, angeklagt, begründet, geeignet</em>
 * `EMPTY` (1855): <em>sagte, ist, an, hat, haben, gibt, sagt, war, auf, begann</em>
+
+<table>
+  <tr><th>Paradigm <i>zurückkehren</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>zurückzukehren</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>zurückgekehrt</em></td></tr>
+</table>
+
+`VerbForm` seems to be **lexical feature** of `VERB`. 98% lemmas (53) occur only with one value of `VerbForm`.
 
 ### `AUX`
 

@@ -8,41 +8,37 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-conj.html">conj</a></tt>.
 
-4 nodes (0%) are attached to their parents as `conj:svc`.
+6 nodes (0%) are attached to their parents as `conj:svc`.
 
-4 instances of `conj:svc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+6 instances of `conj:svc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5.
 
-The following 1 pairs of parts of speech are connected with `conj:svc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (4; 100% instances).
+The following 1 pairs of parts of speech are connected with `conj:svc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (6; 100% instances).
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 18 conj:svc	color:blue
-1	Є	бути	VERB	Vapip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Id=3604
-2	лемківська	лемківський	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	Id=3605
-3	приказка	приказка	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Id=3606|SpaceAfter=No
-4	,	,	PUNCT	U	_	5	punct	_	Id=3607
-5	щось	щось	PRON	Pi--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	3	appos	_	Id=3608
-6	на	на	ADP	Spsa	Case=Acc	7	case	_	Id=3609
-7	зразок	зразок	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Id=360a
-8	—	—	PUNCT	U	PunctType=Dash	17	punct	_	Id=360b
-9	Якщо	якщо	SCONJ	Css	_	12	mark	_	Id=360c
-10	тобі	ти	PRON	Pp-2-ysdn	Animacy=Anim|Case=Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	_	Id=360d
-11	двоє	двоє	NUM	Mlc-n	Case=Nom|NumType=Card	12	nsubj	_	Id=360e|Promoted=Yes
-12	скажуть	сказати	VERB	Vmeif3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	17	advcl	_	Id=360f|SpaceAfter=No
-13	,	,	PUNCT	U	_	15	punct	_	Id=360g
-14	що	що	SCONJ	Css	_	15	mark	_	Id=360h
-15	п'яний	п’яний	ADJ	Afpmsnf	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	ccomp	_	Id=360i|SpaceAfter=No
-16	,	,	PUNCT	U	_	12	punct	_	Id=360j
-17	піди	піти	VERB	Vmem-2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	nmod	_	Graft=Yes|Id=360k
-18	ляж	лягти	VERB	Vmem-2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	17	conj:svc	_	Id=360l
-19	і	і	CCONJ	Ccs	_	20	cc	_	Id=360m
-20	проспися	проспатися	VERB	Vmem-2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	17	conj	_	Id=360n|SpaceAfter=No
-21	.	.	PUNCT	U	_	1	punct	_	Id=360o
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj:svc	color:blue
+1	Та	той	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Id=0abx|LTranslit=toj|Translit=Ta
+2	візьме	взяти	VERB	Vmeif3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	Id=0aby|LTranslit=vźаty|Translit=viźme
+3	та	та	CCONJ	Ccs	_	5	cc	5:cc	Id=0abz|LTranslit=ta|Translit=ta
+4	й	й	PART	Q	_	5	discourse	5:discourse	Id=0ac0|LTranslit=j|Translit=j
+5	оддасть	оддати	VERB	Vmeif3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj:svc	0:root|2:conj:svc	Id=0ac1|LTranslit=oddaty|Translit=oddasť
+6	їй	вона	PRON	Pp-3f-sdn	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	iobj	5:iobj	Id=0ac2|LTranslit=vona|Translit=jij
+7	починки	починок	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	Id=0ac3|LTranslit=počynok|SpaceAfter=No|Translit=počynky
+8	,	,	PUNCT	U	_	12	punct	12:punct	Id=0ac4|LTranslit=,|Translit=,
+9	а	а	CCONJ	Ccs	_	12	cc	12:cc	Id=0ac5|LTranslit=a|Translit=a
+10	вона	вона	PRON	Pp-3f-snn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	Id=0ac6|LTranslit=vona|Translit=vona
+11	мерщій	мерщій	ADV	Rc	Degree=Cmp	12	advmod	12:advmod	Id=0ac7|LTranslit=merščij|Translit=merščij
+12	вскочить	вскочити	VERB	Vmeif3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	conj	0:root|2:conj	Id=0ac8|LTranslit=vskočyty|Translit=vskočyť
+13	у	у	ADP	Spsa	Case=Acc	14	case	14:case	Id=0ac9|LTranslit=u|Translit=u
+14	хату	хата	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	12:obl	Id=0aca|LTranslit=chata|Translit=chatu
+15	до	до	ADP	Spsg	Case=Gen	16	case	16:case	Id=0acb|LTranslit=do|Translit=do
+16	матері	мати	NOUN	Ncfsgy	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	12	obl	12:obl	Id=0acc|LTranslit=maty|SpaceAfter=No|Translit=materi
+17	:	:	PUNCT	U	_	12	punct	12:punct	Id=0acd|LTranslit=:|Translit=:
 
 ~~~
 

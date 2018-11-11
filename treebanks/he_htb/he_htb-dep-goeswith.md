@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	ח	ח	NOUN	NOUN	_	5	nsubj	_	SpaceAfter=No
 2	"	"	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
 3	כ	כ	NOUN	NOUN	_	1	goeswith	_	_
-4	ויינשטיין	ויינשטיין	PROPN	PROPN	_	1	appos	_	_
+4	ויינשטיין	ויינשטיין	PROPN	PROPN	_	1	flat:name	_	_
 5	אמר	אמר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 6	ב	ב	ADP	ADP	_	7	case	_	_
 7	תגובה	תגובה	NOUN	NOUN	Gender=Fem|Number=Sing	5	obl	_	_

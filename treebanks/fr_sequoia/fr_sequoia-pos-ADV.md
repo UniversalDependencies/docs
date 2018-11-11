@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `ADV`
 
-There are 266 `ADV` lemmas (4%), 268 `ADV` types (3%) and 2586 `ADV` tokens (4%).
+There are 268 `ADV` lemmas (4%), 270 `ADV` types (3%) and 2589 `ADV` tokens (4%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ne, pas, plus, moins, très, également, aussi, bien, non, alors</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.007519 (the average of all parts of speech is 1.399096).
+The form / lemma ratio of `ADV` is 1.007463 (the average of all parts of speech is 1.401447).
 
 The 1st highest number of forms (2) was observed with the lemma “ne”: <em>n', ne</em>.
 
@@ -68,17 +68,17 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</
 `ADV` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Int`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1877 tokens).
+The most frequent feature combination is `_` (1880 tokens).
 Examples: <em>plus, moins, très, également, aussi, bien, non, alors, lors, pas</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 13 different relations: <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2194; 85% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (198; 8% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (62; 2% instances), <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (30; 1% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (28; 1% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (23; 1% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (17; 1% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-expl.html">expl</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 13 different relations: <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2197; 85% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (198; 8% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (62; 2% instances), <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (30; 1% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (28; 1% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (23; 1% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (17; 1% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-expl.html">expl</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1459; 56% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (366; 14% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (320; 12% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (158; 6% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (131; 5% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (50; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (16; 1% instances),  (5; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1459; 56% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (370; 14% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (320; 12% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (158; 6% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (131; 5% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (50; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (15; 1% instances),  (5; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-2173 (84%) `ADV` nodes are leaves.
+2176 (84%) `ADV` nodes are leaves.
 
 370 (14%) `ADV` nodes have one child.
 

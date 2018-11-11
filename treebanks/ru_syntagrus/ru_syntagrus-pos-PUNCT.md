@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, :, ), (, ?, !, …</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", -, :, ), (, ?, !, …</em>
 
-The 10 most frequent ambiguous lemmas: <em>?</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 3054, <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 1), <em>x</em> (<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 2), <em>*</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> 1), <em>+</em> (<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 6, <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>?</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 3054, <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 1), <em>x</em> (<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 2), <em>*</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> 1), <em>+</em> (<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 6, <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 3054, <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 1), <em>*</em> (<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> 1), <em>+</em> (<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> 6, <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="ru_syntagrus-pos
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.594630).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.589298).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (202062; 100% instances), <tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (91477; 45% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (60915; 30% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (17126; 8% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (10728; 5% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (7482; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3868; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2781; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (2211; 1% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (1979; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1336; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (650; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (563; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (392; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (322; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (121; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (76; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (103725; 51% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (51035; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (18198; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (12174; 6% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (7591; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3260; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2447; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1187; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (765; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (536; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (270; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (254; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (245; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (183; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (110; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances)
 
 202045 (100%) `PUNCT` nodes are leaves.
 

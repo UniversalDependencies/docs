@@ -130,7 +130,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3461; 76%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3462; 76%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1576; 54%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1388; 67%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (552; 60%),

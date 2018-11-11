@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-15822 tokens (7%) have a non-empty value of `Mood`.
-4084 types (16%) occur at least once with a non-empty value of `Mood`.
+15823 tokens (7%) have a non-empty value of `Mood`.
+4085 types (16%) occur at least once with a non-empty value of `Mood`.
 1310 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10528; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5292; 2% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10529; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5292; 2% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-10528 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
+10529 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10528; 100%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10527; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (9814; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8078; 77%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5391; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10529; 100%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10528; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (9815; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8079; 77%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5392; 51%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (144; 1% of non-empty `Mood`): <em>gostaria, ficaria, daria, teria, faria, seria, diria, gostariam, tentaria, teriam</em>
 * `Imp` (5; 0% of non-empty `Mood`): <em>move, Olha, chega, vide</em>
-* `Ind` (9676; 92% of non-empty `Mood`): <em>há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</em>
+* `Ind` (9677; 92% of non-empty `Mood`): <em>há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</em>
 * `Sub` (703; 7% of non-empty `Mood`): <em>seja, tenha, quiser, leia, recorde, haja, houver, pense, veja, for</em>
 * `EMPTY` (8810): <em>fazer, ter, ver, dar, dizer, feito, falar, feita, saber, manter</em>
 
@@ -112,7 +112,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (742; 72%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (84; 69%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (85; 69%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-30303 tokens (38%) have a non-empty value of `Definite`.
+30304 tokens (38%) have a non-empty value of `Definite`.
 8639 types (67%) occur at least once with a non-empty value of `Definite`.
 6003 lemmas (66%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13683; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (8004; 10% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (4561; 6% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4054; 5% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13683; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (8004; 10% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (4562; 6% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4054; 5% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -56,15 +56,15 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 ### `ADJ`
 
-4561 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Definite`.
+4562 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4488; 98%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4322; 95%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3112; 68%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2757; 60%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4489; 98%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4323; 95%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3113; 68%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2757; 60%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (1089; 24% of non-empty `Definite`): <em>hela, andra, ena, europeiska, gamla, lilla, själva, unge, egna, sista</em>
-* `Ind` (3472; 76% of non-empty `Definite`): <em>själv, andra, samma, annat, flera, många, stor, olika, annan, liten</em>
-* `EMPTY` (980): <em>första, enda, mer, egen, inre, yttre, följande, bra, själva, vita</em>
+* `Ind` (3473; 76% of non-empty `Definite`): <em>själv, andra, samma, annat, flera, många, stor, olika, annan, liten</em>
+* `EMPTY` (979): <em>första, enda, mer, egen, inre, yttre, följande, bra, själva, vita</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -99,19 +99,19 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `VERB` tokens may have the following values of `Definite`:
 
 * `Def` (1; 100% of non-empty `Definite`): <em>sitt</em>
-* `EMPTY` (10053): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10050): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3323; 85%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2750; 70%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1188; 61%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (889; 88%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2749; 70%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1194; 61%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (891; 89%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (159; 91%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (159; 73%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (132; 58%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (46; 65%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (35; 83%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-obl.html">obl</a></tt>]--> NOUN</tt> (23; 77%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (130; 58%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (49; 65%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (36; 84%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-obl.html">obl</a></tt>]--> NOUN</tt> (25; 69%).
 

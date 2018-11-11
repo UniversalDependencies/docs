@@ -11,9 +11,9 @@ This relation is universal.
 87913 nodes (6%) are attached to their parents as `root`.
 
 87913 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.53655318326072.
+Average distance between parent and child is 5.53271984803158.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (59199; 67% instances), -<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (11488; 13% instances), -<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (8971; 10% instances), -<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (5339; 6% instances), -<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (1216; 1% instances), -<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (885; 1% instances), -<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (366; 0% instances), -<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (196; 0% instances), -<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (132; 0% instances), -<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), -<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), -<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (18; 0% instances), -<tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (17; 0% instances), -<tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (17; 0% instances), -<tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (59199; 67% instances), -<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (11633; 13% instances), -<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (8968; 10% instances), -<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (5197; 6% instances), -<tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (1216; 1% instances), -<tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (885; 1% instances), -<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (366; 0% instances), -<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (196; 0% instances), -<tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (132; 0% instances), -<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), -<tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), -<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (18; 0% instances), -<tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (17; 0% instances), -<tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (17; 0% instances), -<tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	platný	platný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	amod	4:amod	_
 4	dotaz	dotaz	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	7:obj	_
 5	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-6	připraven	připravený	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	připraven	připravený	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=připravit
 7	zodpovědět	zodpovědět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	_
 8	spolupracovník	spolupracovník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj	_
 9	Profitu	profit	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod	SpaceAfter=No

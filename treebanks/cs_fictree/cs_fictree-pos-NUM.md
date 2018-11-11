@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>pár</em> (<tt><a href="cs_fictree-po
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.463158 (the average of all parts of speech is 1.973661).
+The form / lemma ratio of `NUM` is 1.463158 (the average of all parts of speech is 1.973228).
 
 The 1st highest number of forms (10) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
@@ -69,7 +69,7 @@ Examples: <em>pár, deset, třicet, pět, šest, dvacet, devět, čtyřicet, dva
 
 `NUM` nodes are attached to their parents using 17 different relations: <tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt> (662; 50% instances), <tt><a href="cs_fictree-dep-nummod-gov.html">nummod:gov</a></tt> (295; 22% instances), <tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt> (93; 7% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (51; 4% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (51; 4% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (50; 4% instances), <tt><a href="cs_fictree-dep-compound.html">compound</a></tt> (30; 2% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (29; 2% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (17; 1% instances), <tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt> (14; 1% instances), <tt><a href="cs_fictree-dep-appos.html">appos</a></tt> (6; 0% instances), <tt><a href="cs_fictree-dep-obl-arg.html">obl:arg</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="cs_fictree-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs_fictree-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (934; 71% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (217; 17% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (51; 4% instances),  (50; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (935; 71% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (217; 17% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (51; 4% instances),  (50; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 963 (73%) `NUM` nodes are leaves.
 

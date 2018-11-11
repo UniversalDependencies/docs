@@ -77,7 +77,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 2 5 acl:cleft	color:blue
 1	na	na	PART	_	_	2	cop	_	_
 2	God	God	PROPN	_	_	0	root	_	_
-3	>+	>+	VERB	_	_	5	punct	_	_
+3	>+	>+	PUNCT	_	_	5	punct	_	_
 4	go	go	AUX	_	_	5	aux	_	_
 5	save	save	VERB	_	_	2	acl:cleft	_	_
 6	person	person	NOUN	_	_	5	obj	_	_

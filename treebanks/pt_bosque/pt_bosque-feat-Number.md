@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Unsp` are language-specific.
 It occurs with 3 different values: `Plur`, `Sing`, `Unsp`.
 
-132174 tokens (58%) have a non-empty value of `Number`.
-25449 types (99%) occur at least once with a non-empty value of `Number`.
-17698 lemmas (98%) occur at least once with a non-empty value of `Number`.
-The feature is used with 17 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (40908; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (33705; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (18912; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14306; 6% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11154; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6906; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5422; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (414; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (150; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (139; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (74; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (43; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+132178 tokens (58%) have a non-empty value of `Number`.
+25447 types (99%) occur at least once with a non-empty value of `Number`.
+17694 lemmas (98%) occur at least once with a non-empty value of `Number`.
+The feature is used with 17 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (40908; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (33712; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (18911; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14307; 6% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11153; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (6904; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5422; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (414; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (150; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (139; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (74; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (43; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 40908 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (22466; 55%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (22432; 55%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -34,14 +34,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-33705 <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
+33712 <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (29843; 89%), <tt><a href="pt_bosque-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (26493; 79%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18862; 56%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (29848; 89%), <tt><a href="pt_bosque-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (26498; 79%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18864; 56%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (7117; 21% of non-empty `Number`): <em>os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</em>
-* `Sing` (26581; 79% of non-empty `Number`): <em>o, a, um, uma, sua, seu, este, esta, esse, qualquer</em>
+* `Plur` (7122; 21% of non-empty `Number`): <em>os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</em>
+* `Sing` (26583; 79% of non-empty `Number`): <em>o, a, um, uma, sua, seu, este, esta, esse, qualquer</em>
 * `Unsp` (7; 0% of non-empty `Number`): <em>mais, Que, o(s)</em>
 * `EMPTY` (1220): <em>a, as, um, uma, o, estas, muitas, pouco, seu, tais</em>
 
@@ -61,13 +61,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-18912 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+18911 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (413; 2% of non-empty `Number`): <em>EUA, Estados, Assuntos, Nações, Antas, Açores, Comandos, Encontros, Forças, Misericórdias</em>
-* `Sing` (18499; 98% of non-empty `Number`): <em>Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</em>
-* `EMPTY` (100): <em>em, que, cada, D., S., Art., Energia, Fazenda, World, logo</em>
+* `Sing` (18498; 98% of non-empty `Number`): <em>Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</em>
+* `EMPTY` (99): <em>em, cada, que, D., S., Art., Energia, Fazenda, World, logo</em>
 
 <table>
   <tr><th>Paradigm <i>Estados</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -79,14 +79,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-14306 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
+14307 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10807; 76%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10525; 74%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10082; 70%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9674; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10808; 76%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10526; 74%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10083; 70%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9675; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (3740; 26% of non-empty `Number`): <em>têm, existem, fizeram, dizem, feitas, querem, dão, fazem, temos, chegaram</em>
-* `Sing` (10566; 74% of non-empty `Number`): <em>há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</em>
+* `Sing` (10567; 74% of non-empty `Number`): <em>há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</em>
 * `EMPTY` (5032): <em>fazer, ter, ver, dar, dizer, falar, manter, saber, ir, passar</em>
 
 <table>
@@ -118,14 +118,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-11154 <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+11153 <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6048; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (3113; 28% of non-empty `Number`): <em>grandes, últimos, novos, novas, primeiros, principais, melhores, internacionais, maiores, públicos</em>
-* `Sing` (8041; 72% of non-empty `Number`): <em>primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, último, nacional</em>
+* `Sing` (8040; 72% of non-empty `Number`): <em>primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, último, nacional</em>
 * `EMPTY` (127): <em>Estrangeiros, eleitoral, Nacional, civil, geral, regional, verde, municipal, nova, públicas</em>
 
 <table>
@@ -137,14 +137,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-6906 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
+6904 <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4682; 68%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4642; 67%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4484; 65%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_bosque-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4680; 68%), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4640; 67%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4482; 65%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1789; 26% of non-empty `Number`): <em>que, se, eles, os, nos, todos, outros, as, elas, nós</em>
-* `Sing` (5086; 74% of non-empty `Number`): <em>que, se, o, ele, isso, lhe, quem, tudo, eu, ela</em>
+* `Sing` (5084; 74% of non-empty `Number`): <em>que, se, o, ele, isso, lhe, quem, tudo, eu, ela</em>
 * `Unsp` (31; 0% of non-empty `Number`): <em>mais, quem, que, menos, aquilo, mundo</em>
 * `EMPTY` (332): <em>se, nada, que, onde, si, Alguns, mesmo, outros</em>
 
@@ -297,7 +297,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `SCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (6; 100% of non-empty `Number`): <em>que, como, se</em>
-* `EMPTY` (2208): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
+* `EMPTY` (2209): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
 
 ### `INTJ`
 
@@ -326,17 +326,17 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PUNCT` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>?</em>
-* `EMPTY` (30026): <em>,, ., «, », ), (, --, :, ?, ;</em>
+* `EMPTY` (30025): <em>,, ., «, », ), (, --, :, ?, ;</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (27016; 95%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (27013; 95%),
 <tt>NOUN --[<tt><a href="pt_bosque-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8360; 99%),
-<tt>NOUN --[<tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6495; 56%),
+<tt>NOUN --[<tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6494; 56%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5419; 96%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-det.html">det</a></tt>]--> DET</tt> (5033; 92%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3534; 81%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3535; 81%),
 <tt>NOUN --[<tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2295; 74%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2036; 77%),
 <tt>PROPN --[<tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1818; 97%),

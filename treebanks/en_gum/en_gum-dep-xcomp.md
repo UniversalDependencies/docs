@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	an	an	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
 7	understanding	understanding	NOUN	NN	Number=Sing	4	obl	_	_
 8	to	to	PART	TO	_	9	mark	_	_
-9	make	make	VERB	VB	VerbForm=Inf	2	advcl	_	_
+9	make	make	VERB	VB	VerbForm=Inf	4	advcl	_	_
 10	peace	peace	NOUN	NN	Number=Sing	9	obj	_	_
 11	possible	possible	ADJ	JJ	Degree=Pos	9	xcomp	_	SpaceAfter=No
 12	?	?	PUNCT	.	_	4	punct	_	_

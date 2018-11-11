@@ -29,5 +29,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-D
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>DET --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> DET</tt> (31; 100%),
 <tt>DET --[<tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt>]--> DET</tt> (22; 96%),
-<tt>DET --[<tt><a href="nl_lassysmall-dep-flat-name.html">flat:name</a></tt>]--> DET</tt> (3; 75%).
+<tt>DET --[<tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt>]--> DET</tt> (3; 75%).
 

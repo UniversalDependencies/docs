@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>a, in, of</em>
-* `EMPTY` (11242): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11243): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ### `ADV`
 

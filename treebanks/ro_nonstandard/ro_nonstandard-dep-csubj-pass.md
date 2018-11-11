@@ -8,64 +8,65 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-csubj.html">csubj</a></tt>.
 
-26 nodes (0%) are attached to their parents as `csubj:pass`.
+38 nodes (0%) are attached to their parents as `csubj:pass`.
 
-17 instances of `csubj:pass` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.53846153846154.
+25 instances of `csubj:pass` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.39473684210526.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (24; 92% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2; 8% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (35; 92% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (3; 8% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 csubj:pass	color:blue
-1	Ce-	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	obj	_	SpaceAfter=No
-2	am	avea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	3	aux	_	_
-3	iubit	iubi	VERB	Vmp	VerbForm=Part	7	csubj:pass	_	_
-4	nu	nu	ADV	Qz	Polarity=Neg	7	advmod	_	_
-5	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pass	_	_
-6	mai	mai	ADV	Rg	_	7	advmod	_	_
-7	vede	vedea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	11	punct	_	_
-9	C-	că	SCONJ	Csssp	Polarity=Pos	11	mark	_	SpaceAfter=No
-10	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
-11	pus	pune	VERB	Vmp	VerbForm=Part	7	advcl	_	_
-12	fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	_
-13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	_
-14	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	Rhyme=ID18|Type=Paired
-15	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
-16	biserică	biserică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
-17	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
-18	mormânt	mormânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
-19	.	.	PUNCT	PERIOD	_	7	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 csubj:pass	color:blue
+1	Zis	zice	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=PAVEL_ROM.9.12
+2	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	aux:pass	_	ref=PAVEL_ROM.9.12
+3	ei	el	PRON	Pp3fsd--------s	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	ref=PAVEL_ROM.9.12|SpaceAfter=No
+4	,	,	PUNCT	COMMA	_	9	punct	_	ref=PAVEL_ROM.9.12
+5	că	că	SCONJ	Csssp	Polarity=Pos	9	mark	_	ref=PAVEL_ROM.9.12
+6	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=PAVEL_ROM.9.12
+7	mai	mai	ADV	Rg	_	8	advmod	_	ref=PAVEL_ROM.9.12
+8	mare	mare	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	ref=PAVEL_ROM.9.12
+9	sluji	sluji	VERB	Vmn	VerbForm=Inf	1	csubj:pass	_	ref=PAVEL_ROM.9.12|SpaceAfter=No
+10	-va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	ref=PAVEL_ROM.9.12
+11	celui	cel	DET	Tdmso	Case=Dat,Gen|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=PAVEL_ROM.9.12
+12	mai	mai	ADV	Rg	_	13	advmod	_	ref=PAVEL_ROM.9.12
+13	mic	mic	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	iobj	_	ref=PAVEL_ROM.9.12|SpaceAfter=No
+14	.	.	PUNCT	PERIOD	_	1	punct	_	ref=PAVEL_ROM.9.12
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 13 csubj:pass	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=IOAN8.17
-2	și	și	ADV	Rg	_	4	advmod	_	ref=IOAN8.17
-3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=IOAN8.17
-4	leagea	lege	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	ref=IOAN8.17
-5	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	4	det	_	ref=IOAN8.17
-6	scrisu	scrie	VERB	Vmp	VerbForm=Part	0	root	_	ref=IOAN8.17|SpaceAfter=No
-7	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux:pass	_	ref=IOAN8.17
-8	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	ref=IOAN8.17
-9	a	al	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=IOAN8.17
-10	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	ref=IOAN8.17
-11	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	12	nmod	_	ref=IOAN8.17
-12	mărturiia	mărturie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nsubj	_	ref=IOAN8.17
-13	adevărată	adevărat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	csubj:pass	_	ref=IOAN8.17
-14	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	ref=IOAN8.17|SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	6	punct	_	ref=IOAN8.17
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 csubj:pass	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	14	cc	_	ref=PAVEL_2.CORINT_3.11
+2	de	de	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=PAVEL_2.CORINT_3.11
+3	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	ref=PAVEL_2.CORINT_3.11
+4	fost	fi	AUX	Vap	VerbForm=Part	5	aux:pass	_	ref=PAVEL_2.CORINT_3.11
+5	slăvit	slăvi	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	14	advcl	_	ref=PAVEL_2.CORINT_3.11
+6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	nsubj	_	ref=PAVEL_2.CORINT_3.11
+7	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	ref=PAVEL_2.CORINT_3.11
+8	pieitoriu	pieritor	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	csubj:pass	_	ref=PAVEL_2.CORINT_3.11|SpaceAfter=No
+9	,	,	PUNCT	COMMA	_	5	punct	_	ref=PAVEL_2.CORINT_3.11
+10	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	mark	_	ref=PAVEL_2.CORINT_3.11
+11	multu	mult	ADV	Rg	_	14	advmod	_	ref=PAVEL_2.CORINT_3.11|SpaceAfter=No
+12	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux:pass	_	ref=PAVEL_2.CORINT_3.11
+13	mai	mai	ADV	Rg	_	14	advmod	_	ref=PAVEL_2.CORINT_3.11
+14	slăvit	slăvi	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=PAVEL_2.CORINT_3.11
+15	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	16	nsubj	_	ref=PAVEL_2.CORINT_3.11
+16	rămîne	rămâne	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	csubj:pass	_	ref=PAVEL_2.CORINT_3.11
+17	(	(	PUNCT	LPAR	_	19	punct	_	ref=PAVEL_2.CORINT_3.11|SpaceAfter=No
+18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	ref=PAVEL_2.CORINT_3.11
+19	veaci	veac	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	16	nmod:tmod	_	ref=PAVEL_2.CORINT_3.11|SpaceAfter=No
+20	)	)	PUNCT	RPAR	_	19	punct	_	ref=PAVEL_2.CORINT_3.11|SpaceAfter=No
+21	.	.	PUNCT	PERIOD	_	14	punct	_	ref=PAVEL_2.CORINT_3.11
 
 ~~~
 

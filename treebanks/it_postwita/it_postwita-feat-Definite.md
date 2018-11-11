@@ -45,5 +45,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1; 50% of non-empty `Definite`): <em>le</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>una</em>
-* `EMPTY` (6477): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
+* `EMPTY` (6468): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
 

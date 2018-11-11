@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	majorité	majorité	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	Conseil	conseil	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	Conseil	conseil	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	sécurité	sécurité	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 12	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No

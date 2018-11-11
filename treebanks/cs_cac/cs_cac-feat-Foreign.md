@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>are, formo, movere, savoir, singen, singt, vivre</em>
-* `EMPTY` (40583): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (40584): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 ### `DET`
 

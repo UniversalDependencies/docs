@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Russian GSD
 
-Language: [Russian](../ru/overview/ru-hub.html) (code: `ru`)<br/>
+Language: [Russian](/ru/index.html) (code: `ru`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 

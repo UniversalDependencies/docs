@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `dep`.
+14 nodes (0%) are attached to their parents as `dep`.
 
-4 instances of `dep` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.14285714285714.
+8 instances of `dep` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.35714285714286.
 
-The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (5; 71% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (2; 29% instances).
+The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (5; 36% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 21% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -23,41 +23,52 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 1 dep	color:blue
 1	ⲉⲩⲉ	unknown	X	UNKNOWN	_	4	dep	_	_
-2	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
+2	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	Orig=ⲉ̇
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
-5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	Orig=ⲙ̇ⲙⲟ
 6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+7	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=·
 8	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	11	mark	_	_
 9	ⲉ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
-10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Orig=ⲓ̇
 11	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	VerbForm=Fin	4	ccomp	_	_
-12	ⲉ	ⲉ	ADP	PREP	_	13	mark	_	_
+12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	Orig=ⲉ̇
 13	ⲧⲟⲩϫⲉ	ⲧⲟⲩϫⲟ	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
 15	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	_	13	obj	_	_
-16	.	.	PUNCT	PUNCT	_	4	punct	_	_
+16	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=ⲻ
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 dep	color:blue
-1	.....	.....	X	UNKNOWN	_	2	dep	_	_
-2	ⲙⲏⲏϣⲉ	ⲙⲏⲏϣⲉ	NOUN	N	_	0	root	_	_
-3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	_
-4	ⲧⲁⲅⲙⲁ	ⲧⲁⲅⲙⲁ	NOUN	N	_	2	nmod	_	_
-5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
-6	ⲁⲅⲅⲉⲗⲟⲥ	ⲁⲅⲅⲉⲗⲟⲥ	NOUN	N	_	4	nmod	_	_
-7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
-8	ⲙⲛ	ⲙⲛ	VERB	EXIST	_	2	advcl	_	_
-9	ⲏⲡ	ⲱⲡ	NOUN	N	_	8	nsubj	_	_
-10	.....	.....	X	UNKNOWN	_	2	dep	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 dep	color:blue
+1	ⲧⲟⲩ	ⲧⲟⲩ	X	FM	_	0	root	_	_
+2	ⲁⲩⲧⲟⲩ	ⲁⲩⲧⲟⲩ	X	FM	_	1	dep	_	Orig=ⲁⲩⲧⲟⲩ`
+3	:	:	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 dep	color:blue
+1	ⲉⲃ[........]	UNKNOWN	X	UNKNOWN	_	2	dep	_	_
+2	ⲟⲩⲇ[.......]	UNKNOWN	X	UNKNOWN	_	0	root	_	_
+3	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+4	·	·	PUNCT	PUNCT	_	8	punct	_	_
+5	ⲉ[.....]	UNKNOWN	X	UNKNOWN	_	8	dep	_	Orig=ⲉ̣[.....]
+6	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	8	case	_	Orig=ⲛ̄ⲥⲁ
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
+8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	_
 
 ~~~
 

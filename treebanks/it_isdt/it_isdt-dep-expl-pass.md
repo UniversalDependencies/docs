@@ -23,17 +23,17 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 expl:pass	color:blue
-1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	lana	lana	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	fibra	fibra	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-6	che	che	PRON	PR	PronType=Rel	8	nsubj:pass	_	_
-7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	_	_
-8	tinge	tingere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-9	molto	molto	ADV	B	_	10	advmod	_	_
-10	facilmente	facilmente	ADV	B	_	8	advmod	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	5	punct	_	_
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
+2	lana	lana	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
+5	fibra	fibra	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root|8:nsubj:pass	_
+6	che	che	PRON	PR	PronType=Rel	8	nsubj:pass	5:ref	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:pass	8:expl:pass	_
+8	tinge	tingere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
+9	molto	molto	ADV	B	_	10	advmod	10:advmod	_
+10	facilmente	facilmente	ADV	B	_	8	advmod	8:advmod	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	5:punct	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="nl_alpino-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1119 nodes (1%) are attached to their parents as `acl`.
+1118 nodes (1%) are attached to their parents as `acl`.
 
-671 instances of `acl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.19213583556747.
+670 instances of `acl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.19141323792487.
 
-The following 28 pairs of parts of speech are connected with `acl`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (911; 81% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (50; 4% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (27; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `acl`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (911; 81% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (50; 4% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (26; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	had	hebben	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	tijdens	tijdens	ADP	VZ|init	_	5	case	5:case	_
 4	het	het	DET	LID|bep|stan|evon	Definite=Def	5	det	5:det	_
-5	sprinten	sprinten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	2	obl	2:obl	_
+5	sprinten	sprinten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	2	obl	2:obl:tijdens	_
 6	zelfs	zelfs	ADV	BW	_	2	advmod	2:advmod	_
 7	nog	nog	ADV	BW	_	8	advmod	8:advmod	_
 8	even	even	ADV	BW	_	2	advmod	2:advmod	_
@@ -35,7 +35,7 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 10	om	om	ADP	VZ|init	_	13	mark	13:mark	_
 11	om	om	ADP	VZ|fin	_	13	compound:prt	13:compound:prt	_
 12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
-13	kijken	kijken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	9	acl	9:acl	SpaceAfter=No
+13	kijken	kijken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	9	acl	9:acl:om	SpaceAfter=No
 14	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -52,9 +52,9 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	van	van	ADP	VZ|fin	_	8	case	8:case	SpaceAfter=No
 4	,	,	PUNCT	LET	_	3	punct	3:punct	_
 5	zoals	zoals	SCONJ	VG|onder	_	6	mark	6:mark	_
-6	verwacht	verwachten	VERB	WW|vd|vrij|zonder	VerbForm=Part	8	acl	8:acl	SpaceAfter=No
+6	verwacht	verwachten	VERB	WW|vd|vrij|zonder	VerbForm=Part	8	acl	8:acl:zoals	SpaceAfter=No
 7	,	,	PUNCT	LET	_	6	punct	6:punct	_
-8	Piet	Piet	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod	_
+8	Piet	Piet	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod:van	_
 
 ~~~
 
@@ -67,10 +67,10 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3 6 acl	color:blue
 1	Op	op	ADP	VZ|init	_	3	case	3:case	_
 2	haar	haar	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-3	vraag	vraag	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obl	10:obl	_
+3	vraag	vraag	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obl	10:obl:op	_
 4	of	of	SCONJ	VG|onder	_	6	mark	6:mark	_
 5	dit	dit	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	6	nsubj	6:nsubj	_
-6	voldoende	voldoende	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	3	acl	3:acl	_
+6	voldoende	voldoende	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	3	acl	3:acl:of	_
 7	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 8	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
 9	bevestigend	bevestigen	VERB	WW|od|vrij|zonder	VerbForm=Part	10	advmod	10:advmod	_

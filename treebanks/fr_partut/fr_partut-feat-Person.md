@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 2918 tokens (10%) have a non-empty value of `Person`.
 605 types (15%) occur at least once with a non-empty value of `Person`.
-332 lemmas (11%) occur at least once with a non-empty value of `Person`.
+330 lemmas (11%) occur at least once with a non-empty value of `Person`.
 The feature is used with 5 part-of-speech tags: <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1091; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (929; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (894; 3% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PRON`

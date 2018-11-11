@@ -52,7 +52,7 @@ The following 11 pairs of parts of speech are connected with `expl`: <tt><a href
 7	dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	10	obj	10:obj	_
 8	wel	wel	ADV	BW	_	10	advmod	10:advmod	_
 9	te	te	ADP	VZ|init	_	10	mark	10:mark	_
-10	doen	doen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	advcl	6:advcl	SpaceAfter=No
+10	doen	doen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	advcl	6:advcl:bij	SpaceAfter=No
 11	.	.	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
 12	''	''	PUNCT	LET	_	6	punct	6:punct	_
 

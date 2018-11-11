@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Naija NSC
 
-Language: [Naija](../pcm/overview/pcm-hub.html) (code: `pcm`)<br/>
+Language: [Naija](/pcm/index.html) (code: `pcm`)<br/>
 Family: Creole
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Marine Courtin, Kim Gerdes, Sylvain Kahane, Sandra Bellato, Manying Zhang.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -109,23 +110,23 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus contains 19 word types tagged as particles (PART): //+, >+, be, dem, dey, hard, ma, na, naim, no, not, now, n~, o, oya, sef, sey, sha, to</li>
+<li>This corpus contains 16 word types tagged as particles (PART): be, dem, dey, ma, na, naim, no, not, now, n~, o, oya, sef, sey, sha, to</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as pronouns (PRON): I, a, am, anyone, broda, dat, de, deir, dem, dis, dose, e, each, everything, her, if, im, imself, it, ma, me, naim, one, our, own, she, some, something, una, unasef, us, we, wetin, wey, which, who, you, your, yourself</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): I, am, anyone, dat, de, deir, dem, dis, dose, e, each, everything, her, if, im, imself, it, ma, me, naim, one, our, own, she, some, something, una, unasef, us, we, wetin, which, who, you, your, yourself</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as determiners (DET): a, all, anoder, any, dat, dem, dese, di, dis, dose, every, one, some, which</li>
+<li>This corpus contains 13 lemmas tagged as determiners (DET): a, all, anoder, any, dat, dese, di, dis, dose, every, one, some, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: a, dat, dem, dis, dose, one, some, which</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: dat, dis, dose, one, some, which</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): come, de, dey, don, fit, for, go, make, neva, will, {</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): come, de, dey, don, fit, for, go, make, neva, will</li>
 </ul>
 
 <ul>
@@ -145,16 +146,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
-
-
-
 
 
 
@@ -168,20 +160,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 
 
-
-
-
-
-
 <h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-
-
-
-
-
-
 
 
 
@@ -224,7 +203,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (427)</li>
+      <li>VERB--NOUN (428)</li>
       <li>VERB--NOUN-ADP(dem) (1)</li>
       <li>VERB--PRON (241)</li>
     </ul>
@@ -234,8 +213,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB--PRON (28)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (29)</li>
     </ul>
   </li>
 </ul>

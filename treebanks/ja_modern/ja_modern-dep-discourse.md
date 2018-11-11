@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	曰く	曰く	NOUN	名詞-普通名詞-副詞可能	_	0	root	_	BunsetuPosition=B|BunsetuPositionType=ROOT|SpaceAfter=No
-2	否	否	INTJ	感動詞-一般	_	1	discourse	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
+1	曰く	曰く	NOUN	名詞-普通名詞-副詞可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
+2	否	否	INTJ	感動詞-一般	_	1	discourse	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=感動詞-一般|SpaceAfter=No
 
 ~~~
 

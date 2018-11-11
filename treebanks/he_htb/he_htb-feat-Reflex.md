@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="he_htb-pos-PRON.htm
 
 163 <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (163; 100%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (144; 88%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 78%), <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (104; 64%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (144; 88%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 78%), <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (121; 74%), <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (104; 64%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

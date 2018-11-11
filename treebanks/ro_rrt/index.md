@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Romanian RRT
 
-Language: [Romanian](../ro/overview/ro-hub.html) (code: `ro`)<br/>
+Language: [Romanian](/ro/index.html) (code: `ro`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
@@ -19,11 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Verginica Barbu Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion, Radu Simionescu, Martin Popel.
 
 Repository: [UD_Romanian-RRT](https://github.com/UniversalDependencies/UD_Romanian-RRT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: wiki, legal, news, fiction, medical, nonfiction, science
+Genre: wiki, legal, news, fiction, medical, nonfiction, academic
 
 Questions, comments?
 General annotation questions (either Romanian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -165,678 +166,655 @@ This work was supported by a grant of the Romanian National Authority for Scient
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: mare, europene, necesare, europeană, prezenta, mică, naționale, română, chimice, prezentei</li>
-        <li>DET: o, a, ale, unei, toate, această, aceste, cele, alte, multe</li>
-        <li>NOUN: conformitate, membre, statele, Comisia, parte, față, partea, fața, comisiei, urmă</li>
-        <li>NUM: două, prima, doua, primele, milioane, ambele, mii, treia, ultimele, miliarde</li>
-        <li>PRON: o, le, ea, ceea, aceasta, acestea, una, -o, ele, toate</li>
-        <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
-        <li>VERB-Part: prevăzute, prevăzută, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: mare, europene, necesare, europeană, prezenta, mică, naționale, română, chimice, prezentei</li>
+      <li>DET: o, a, ale, unei, toate, această, aceste, cele, alte, multe</li>
+      <li>NOUN: conformitate, membre, statele, Comisia, parte, față, partea, fața, comisiei, urmă</li>
+      <li>NUM: două, prima, doua, primele, milioane, ambele, mii, treia, ultimele, miliarde</li>
+      <li>PRON: o, le, ea, ceea, aceasta, acestea, una, -o, ele, toate</li>
+      <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
+      <li>VERB-Part: prevăzute, prevăzută, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: prezentul, mare, nou, european, prezentului, general, mic, național, românesc, singur</li>
-        <li>AUX-Part: fost</li>
-        <li>DET: un, al, unui, acest, cel, său, ai, același, cei, acestui</li>
-        <li>NOUN: ani, timp, cazul, loc, timpul, mod, acord, b, lucru, cadrul</li>
-        <li>NUM: primul, doi, doilea, ultimii, ultimul, unu, primului, amândoi, prim-, treilea</li>
-        <li>PRON: el, -l, îl, unul, ei, -i, l-, cel, acesta, cei</li>
-        <li>PROPN: Carpaților, Iașilor, Jiului, Banatul, Iașii, Israelul, Israelului, Aradului, Banatului, Bucureștiului</li>
-        <li>VERB-Part: avut, fost, făcut, spus, putut, rupt, murit, dat, devenit, luat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: prezentul, mare, nou, european, prezentului, general, mic, național, românesc, singur</li>
+      <li>AUX-Part: fost</li>
+      <li>DET: un, al, unui, acest, cel, său, ai, același, cei, acestui</li>
+      <li>NOUN: ani, timp, cazul, loc, timpul, mod, acord, b, lucru, cadrul</li>
+      <li>NUM: primul, doi, doilea, ultimii, ultimul, unu, primului, amândoi, prim-, treilea</li>
+      <li>PRON: el, -l, îl, unul, ei, -i, l-, cel, acesta, cei</li>
+      <li>PROPN: Carpaților, Iașilor, Jiului, Banatul, Iașii, Israelul, Israelului, Aradului, Banatului, Bucureștiului</li>
+      <li>VERB-Part: avut, fost, făcut, spus, putut, rupt, murit, dat, devenit, luat</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: necesare, mari, mici, chimice, diferite, disponibile, specifice, suplimentare, contractante, noi</li>
+      <li>AUX: au, sunt, vor, erau, ați, vom, veți, sunteți, -au, suntem</li>
+      <li>AUX-Fin: sunt, erau, sunteți, suntem, fuseseră, fim, fură, -s, aveau, fiți</li>
+      <li>DET: ale, toate, unor, aceste, cele, alte, multe, ai, câteva, anumite</li>
+      <li>NOUN: ani, membre, statele, pacienții, date, informații, zile, ore, condițiile, măsurile</li>
+      <li>NUM: 1, 2, 3, două, 4, trei, 5, 6, doi, 7</li>
+      <li>PRON: le, ne, vă, acestea, ei, -i, ele, toate, cele, noi</li>
+      <li>PROPN: Carpaților, Iașilor, Iașii, Carpații, Subcarpații</li>
+      <li>VERB-Fin: pot, au, sunt, luați, fac, aveți, aveau, iau, utilizați, erau</li>
+      <li>VERB-Part: prevăzute, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate, enumerate</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: necesare, mari, mici, chimice, diferite, disponibile, specifice, suplimentare, contractante, noi</li>
-        <li>AUX: au, sunt, vor, erau, ați, vom, veți, sunteți, -au, suntem</li>
-        <li>AUX-Fin: sunt, erau, sunteți, suntem, fuseseră, fim, fură, -s, aveau, fiți</li>
-        <li>DET: ale, toate, unor, aceste, cele, alte, multe, ai, câteva, anumite</li>
-        <li>NOUN: ani, membre, statele, pacienții, date, informații, zile, ore, condițiile, măsurile</li>
-        <li>NUM: 1, 2, 3, două, 4, trei, 5, 6, doi, 7</li>
-        <li>PRON: le, ne, vă, acestea, ei, -i, ele, toate, cele, noi</li>
-        <li>PROPN: Carpaților, Iașilor, Iașii, Carpații, Subcarpații</li>
-        <li>VERB-Fin: pot, au, sunt, luați, fac, aveți, aveau, iau, utilizați, erau</li>
-        <li>VERB-Part: prevăzute, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate, enumerate</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: mare, prezentul, nou, europene, europeană, prezenta, european, prezentului, mică, general</li>
+      <li>AUX: a, este, fost, era, va, e, ai, fusese, -a, aș</li>
+      <li>AUX-Fin: este, era, e, fusese, -i, sunt, ești, fii, fu, erai</li>
+      <li>AUX-Part: fost</li>
+      <li>DET: o, un, a, al, unei, lui, unui, acest, cel, această</li>
+      <li>NOUN: timp, cazul, conformitate, loc, timpul, mod, acord, Comisia, parte, lucru</li>
+      <li>NUM: primul, prima, I, ii, doilea, doua, iii, treia, iv, ultimul</li>
+      <li>PRON: el, o, -l, îl, ea, îi, i, ceea, mă, aceasta</li>
+      <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
+      <li>VERB-Fin: poate, are, avea, este, era, putea, există, face, aplică, privește</li>
+      <li>VERB-Part: avut, fost, făcut, spus, putut, rupt, murit, dat, devenit, luat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: mare, prezentul, nou, europene, europeană, prezenta, european, prezentului, mică, general</li>
-        <li>AUX: a, este, fost, era, va, e, ai, fusese, -a, aș</li>
-        <li>AUX-Fin: este, era, e, fusese, -i, sunt, ești, fii, fu, erai</li>
-        <li>AUX-Part: fost</li>
-        <li>DET: o, un, a, al, unei, lui, unui, acest, cel, această</li>
-        <li>NOUN: timp, cazul, conformitate, loc, timpul, mod, acord, Comisia, parte, lucru</li>
-        <li>NUM: primul, prima, I, ii, doilea, doua, iii, treia, iv, ultimul</li>
-        <li>PRON: el, o, -l, îl, ea, îi, i, ceea, mă, aceasta</li>
-        <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
-        <li>VERB-Fin: poate, are, avea, este, era, putea, există, face, aplică, privește</li>
-        <li>VERB-Part: avut, fost, făcut, spus, putut, rupt, murit, dat, devenit, luat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
+      <li>PRON: se, s-, o, -l, îl, le, -se, mă, ne, te</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Acc,Nom
+    <ul>
+      <li>ADJ: mare, prezentul, europeană, prezenta, mică, română, maximă, necesară, românească, bună</li>
+      <li>DET: o, un, acest, cel, orice, toate, această, aceste, cele, alte</li>
+      <li>NOUN: cazul, conformitate, timpul, statele, Comisia, parte, față, cadrul, partea, fața</li>
+      <li>NUM: primul, prima, primele, milioane, ambele, ultimii, ultimul, unu, ultimele, miliarde</li>
+      <li>PRON: care, ce, el, ea, ceea, aceasta, acestea, unul, una, ei</li>
+      <li>PROPN: Banatul, Iașii, Israelul, Carpații, Contemporanul, Dunărea, Ierusalimul, Irakul, Brașovul, Brâncovanul</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
-        <li>PRON: se, s-, o, -l, îl, le, -se, mă, ne, te</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADP: conform, datorită, potrivit, aidoma</li>
+      <li>PRON: își, -și, și-, îi, i, -i, i-, le, -mi, -ți</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc,Nom
-      <ul>
-        <li>ADJ: mare, prezentul, europeană, prezenta, mică, română, maximă, necesară, românească, bună</li>
-        <li>DET: o, un, acest, cel, orice, toate, această, aceste, cele, alte</li>
-        <li>NOUN: cazul, conformitate, timpul, statele, Comisia, parte, față, cadrul, partea, fața</li>
-        <li>NUM: primul, prima, primele, milioane, ambele, ultimii, ultimul, unu, ultimele, miliarde</li>
-        <li>PRON: care, ce, el, ea, ceea, aceasta, acestea, unul, una, ei</li>
-        <li>PROPN: Banatul, Iașii, Israelul, Carpații, Contemporanul, Dunărea, Ierusalimul, Irakul, Brașovul, Brâncovanul</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dat,Gen
+    <ul>
+      <li>ADJ: europene, prezentului, prezentei, naționale, române, publice, românești, umane, comunitare, politice</li>
+      <li>DET: unei, lui, unui, unor, acestor, acestei, acestui, tuturor, celor, altor</li>
+      <li>NOUN: comisiei, consiliului, Uniunii, comunității, tratamentului, partidului, statului, țării, produselor, statelor</li>
+      <li>NUM: primului, primei, primelor, ambelor, ultimelor, ultimei, ultimilor, primilor, prime, sute</li>
+      <li>PRON: acestuia, acestora, celor, acesteia, lui, cărora, căruia, căreia, celui, tuturor</li>
+      <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADP: conform, datorită, potrivit, aidoma</li>
-        <li>PRON: își, -și, și-, îi, i, -i, i-, le, -mi, -ți</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADP: asupra, împotriva, deasupra, înaintea, dinaintea, contra, împrejurul, înlăuntrul, -mpotriva, jurul</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat,Gen
-      <ul>
-        <li>ADJ: europene, prezentului, prezentei, naționale, române, publice, românești, umane, comunitare, politice</li>
-        <li>DET: unei, lui, unui, unor, acestor, acestei, acestui, tuturor, celor, altor</li>
-        <li>NOUN: comisiei, consiliului, Uniunii, comunității, tratamentului, partidului, statului, țării, produselor, statelor</li>
-        <li>NUM: primului, primei, primelor, ambelor, ultimelor, ultimei, ultimilor, primilor, prime, sute</li>
-        <li>PRON: acestuia, acestora, celor, acesteia, lui, cărora, căruia, căreia, celui, tuturor</li>
-        <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: eu, tu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADP: asupra, împotriva, deasupra, înaintea, dinaintea, contra, împrejurul, înlăuntrul, -mpotriva, jurul</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: eu, tu</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Voc
-      <ul>
-        <li>NOUN: domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Voc
+    <ul>
+      <li>NOUN: domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: prezentul, prezenta, prezentului, prezentei, întreaga, următoarele, noul, noua, fosta, principalele</li>
+      <li>DET: lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</li>
+      <li>NOUN: cazul, timpul, statele, Comisia, cadrul, partea, fața, comisiei, anul, articolul</li>
+      <li>NUM: primul, prima, primele, ultimii, ultimul, primului, ultimele, ultima, primii, întâia</li>
+      <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: prezentul, prezenta, prezentului, prezentei, întreaga, următoarele, noul, noua, fosta, principalele</li>
-        <li>DET: lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</li>
-        <li>NOUN: cazul, timpul, statele, Comisia, cadrul, partea, fața, comisiei, anul, articolul</li>
-        <li>NUM: primul, prima, primele, ultimii, ultimul, primului, ultimele, ultima, primii, întâia</li>
-        <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</li>
-        <li>NOUN: ani, timp, conformitate, loc, membre, mod, acord, parte, b, lucru</li>
-        <li>NUM: milioane, mii, miliarde, sute, prim-, primă, zeci, sută, milion, întâi</li>
-        <li>PROPN: Americi, Britanii, Eladă, Făt-frumos, Iugoslavie, Mediterane, Napoleon</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</li>
+      <li>NOUN: ani, timp, conformitate, loc, membre, mod, acord, parte, b, lucru</li>
+      <li>NUM: milioane, mii, miliarde, sute, prim-, primă, zeci, sută, milion, întâi</li>
+      <li>PROPN: Americi, Britanii, Eladă, Făt-frumos, Iugoslavie, Mediterane, Napoleon</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: superior, superioară, superioare, superiorilor</li>
-        <li>ADV: superior</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: superior, superioară, superioare, superiorilor</li>
+      <li>ADV: superior</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: asemenea, mare, europene, prezentul, nou, necesare, europeană, standard, mari, prezenta</li>
-        <li>ADV: astfel, numai, mult, înainte, chiar, puțin, așa, atunci, încă, aproape</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: asemenea, mare, europene, prezentul, nou, necesare, europeană, standard, mari, prezenta</li>
+      <li>ADV: astfel, numai, mult, înainte, chiar, puțin, așa, atunci, încă, aproape</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: extremă, perfectă, extreme</li>
-        <li>ADV: extrem, perfect, nespus, excesiv, extraordinar, excelent</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: extremă, perfectă, extreme</li>
+      <li>ADV: extrem, perfect, nespus, excesiv, extraordinar, excelent</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: ne, non, non-</li>
+      <li>PART: nu, n-</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: ne, non, non-</li>
-        <li>PART: nu, n-</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>CCONJ: și, sau, dar, însă, ci, și-, ori, fie, deci, căci</li>
+      <li>SCONJ: că, dacă, până, încât, deoarece, deși, fiindcă, fără, întrucât, de</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>CCONJ: și, sau, dar, însă, ci, și-, ori, fie, deci, căci</li>
-        <li>SCONJ: că, dacă, până, încât, deoarece, deși, fiindcă, fără, întrucât, de</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Variant</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Variant</a>
-
-  <ul>
-    <li>Short
-      <ul>
-        <li>ADJ: -ntregi, -ndelungate</li>
-        <li>ADP: într-, dintr-, de-, printr-, -n, pe-, d-, n, p-, -mpotriva</li>
-        <li>ADV: așa-, -nainte, ne-, -aici, -așa, -ncoace, -ntotdeauna, cân'</li>
-        <li>AUX: -a, -i, -au, -ai, -ar, -aș, E-, -am, -ați, -oi</li>
-        <li>AUX-Fin: -i, E-, -s</li>
-        <li>CCONJ: da', Ș-</li>
-        <li>DET: -lea, -ul, -a, -ului, -uri, -urilor, -ilor, -urile</li>
-        <li>NOUN: rându, -mai, -nceput, -nlăuntrul, -ntinderea, -ntuneric, dracu, sufletu, timpu'</li>
-        <li>PART: n-, s-, -a</li>
-        <li>PRON: s-, -și, -l, și-, -i, -se, -o, l-, i-, m-</li>
-        <li>SCONJ: c-, de-, dac-</li>
-        <li>VERB-Fin: -i, e-, -ndreaptă, -nserase, -mbarcă, -mbin, -mprăștiau, -mpușc, -nceapă, -ncep</li>
-        <li>VERB-Ger: făcându, dându, asigurându, tăindu, lovindu, mișcându, rupându, transformându, întărindu, aflându</li>
-        <li>VERB-Inf: -ngheța</li>
-        <li>VERB-Part: -nnoptat, -ntors</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Short
+    <ul>
+      <li>ADJ: -ntregi, -ndelungate</li>
+      <li>ADP: într-, dintr-, de-, printr-, -n, pe-, d-, n, p-, -mpotriva</li>
+      <li>ADV: așa-, -nainte, ne-, -aici, -așa, -ncoace, -ntotdeauna, cân'</li>
+      <li>AUX: -a, -i, -au, -ai, -ar, -aș, E-, -am, -ați, -oi</li>
+      <li>AUX-Fin: -i, E-, -s</li>
+      <li>CCONJ: da', Ș-</li>
+      <li>DET: -lea, -ul, -a, -ului, -uri, -urilor, -ilor, -urile</li>
+      <li>NOUN: rându, -mai, -nceput, -nlăuntrul, -ntinderea, -ntuneric, dracu, sufletu, timpu'</li>
+      <li>PART: n-, s-, -a</li>
+      <li>PRON: s-, -și, -l, și-, -i, -se, -o, l-, i-, m-</li>
+      <li>SCONJ: c-, de-, dac-</li>
+      <li>VERB-Fin: -i, e-, -ndreaptă, -nserase, -mbarcă, -mbin, -mprăștiau, -mpușc, -nceapă, -ncep</li>
+      <li>VERB-Ger: făcându, dându, asigurându, tăindu, lovindu, mișcându, rupându, transformându, întărindu, aflându</li>
+      <li>VERB-Inf: -ngheța</li>
+      <li>VERB-Part: -nnoptat, -ntors</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: fi, fii</li>
+      <li>VERB-Fin: poți, lasă, luați, lăsați, Uite, adresați, puteți, ai, citește, spuneți</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: fi, fii</li>
-        <li>VERB-Fin: poți, lasă, luați, lăsați, Uite, adresați, puteți, ai, citește, spuneți</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: este, sunt, era, e, erau, fusese, -i, sunteți, eram, ești</li>
+      <li>VERB-Fin: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: este, sunt, era, e, erau, fusese, -i, sunteți, eram, ești</li>
-        <li>VERB-Fin: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: fie, fii, fiu, fim, fiți</li>
+      <li>PART: să, s-</li>
+      <li>VERB-Fin: facă, aibă, ia, dea, poată, aplice, fie, vadă, spună, stabilească</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: fie, fii, fiu, fim, fiți</li>
-        <li>PART: să, s-</li>
-        <li>VERB-Fin: facă, aibă, ia, dea, poată, aplice, fie, vadă, spună, stabilească</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>PART: o</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: era, erau, eram, erai, avea, aveau</li>
+      <li>VERB-Fin: avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>PART: o</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: fu, fură</li>
+      <li>VERB-Fin: există, aplică, află, intră, determină, asigură, continuă, modifică, respectă, zise</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: era, erau, eram, erai, avea, aveau</li>
-        <li>VERB-Fin: avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pqp
+    <ul>
+      <li>AUX-Fin: fusese, fuseseră</li>
+      <li>VERB-Fin: începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: fu, fură</li>
-        <li>VERB-Fin: există, aplică, află, intră, determină, asigură, continuă, modifică, respectă, zise</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>AUX-Fin: fusese, fuseseră</li>
-        <li>VERB-Fin: începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: este, sunt, fie, e, -i, sunteți, ești, fii, suntem, fiu</li>
-        <li>AUX-Inf: fi</li>
-        <li>VERB-Fin: poate, trebuie, pot, are, este, au, face, reprezintă, sunt, prezintă</li>
-        <li>VERB-Inf: putea, trebui, avea, face, fi, aduce, lua, asigura, permite, vedea</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: este, sunt, fie, e, -i, sunteți, ești, fii, suntem, fiu</li>
+      <li>AUX-Inf: fi</li>
+      <li>VERB-Fin: poate, trebuie, pot, are, este, au, face, reprezintă, sunt, prezintă</li>
+      <li>VERB-Inf: putea, trebui, avea, face, fi, aduce, lua, asigura, permite, vedea</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: acest, cel, această, aceste, cele, cea, același, acestor, cei, aceeași</li>
-        <li>PRON: ceea, aceasta, acestea, cel, acesta, cele, cei, cea, acestuia, aceea</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: acest, cel, această, aceste, cele, cea, același, acestor, cei, aceeași</li>
+      <li>PRON: ceea, aceasta, acestea, cel, acesta, cele, cei, cea, acestuia, aceea</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Emp
-      <ul>
-        <li>DET: însuși, însăși, înșiși, însumi, însele, înseși</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: însuși, însăși, înșiși, însumi, însele, înseși</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: o, un, unei, unui, orice, toate, unor, alte, fiecare, multe</li>
-        <li>PRON: unul, una, toate, ceva, fiecare, totul, tot, multe, toți, altul</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: o, un, unei, unui, orice, toate, unor, alte, fiecare, multe</li>
+      <li>PRON: unul, una, toate, ceva, fiecare, totul, tot, multe, toți, altul</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int,Rel
-      <ul>
-        <li>ADV: când, cum, unde, cât, precum, oare, ce, cân'</li>
-        <li>DET: ce, căror, câte, cărei, cărui, care, câți, cât, câtă</li>
-        <li>PRON: care, ce, cine, cărora, căruia, căreia, ce-, cari, câte, cui</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>ADV: când, cum, unde, cât, precum, oare, ce, cân'</li>
+      <li>DET: ce, căror, câte, cărei, cărui, care, câți, cât, câtă</li>
+      <li>PRON: care, ce, cine, cărora, căruia, căreia, ce-, cari, câte, cui</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: nici, niciodată, nicăieri, nicicând</li>
-        <li>DET: niciun, nicio, niciunui</li>
-        <li>PRON: nimic, nimeni, nimica, Niciunul, niciuna, nime, nimenea</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: nici, niciodată, nicăieri, nicicând</li>
+      <li>DET: niciun, nicio, niciunui</li>
+      <li>PRON: nimic, nimeni, nimica, Niciunul, niciuna, nime, nimenea</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: a, al, ale, lui, lor, ei, său, ai, sale, sa</li>
-        <li>PRON: se, s-, el, le, o, își, -și, -l, și-, îi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: a, al, ale, lui, lor, ei, său, ai, sale, sa</li>
+      <li>PRON: se, s-, el, le, o, își, -și, -l, și-, îi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>NUM: ambele, amândoi, amândouă, ambelor, ambii, tustrei</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>NUM: ambele, amândoi, amândouă, ambelor, ambii, tustrei</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: 1, 2, 3, două, 4, trei, 5, 6, doi, 7</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 1, 2, 3, două, 4, trei, 5, 6, doi, 7</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>NUM: primul, prima, I, ii, doilea, doua, primele, iii, treia, ultimii</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>NUM: primul, prima, I, ii, doilea, doua, primele, iii, treia, ultimii</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: a, al, ale, lui, lor, ei, său, ai, sale, sa</li>
+      <li>PRON: lui, lor, sa, sale, noastră, nostru, mea, săi, său, ta</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: a, al, ale, lui, lor, ei, său, ai, sale, sa</li>
-        <li>PRON: lui, lor, sa, sale, noastră, nostru, mea, săi, său, ta</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: se, s-, își, -și, și-, -se, sine, și, se-</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: am, aș, vom, sunt, eram, voi, suntem, fiu, -aș, fim</li>
+      <li>AUX-Fin: sunt, eram, suntem, fiu, fim</li>
+      <li>DET: mea, meu, noastre, nostru, noastră, mele, mei, noștri, însumi, -mea</li>
+      <li>PRON: ne, mă, eu, noi, m-, -mi, mi-, mine, ne-, îmi</li>
+      <li>VERB-Fin: știu, putem, avem, cred, rog, așteptam, rugăm, spun, vedem, văd</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: se, s-, își, -și, și-, -se, sine, și, se-</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX: ai, ați, veți, sunteți, ești, fii, erai, vei, -ai, oi</li>
+      <li>AUX-Fin: sunteți, ești, fii, erai, fi, fiți</li>
+      <li>DET: ta, tău, tale, dumitale, voastră, vostru, voștri, tăi, voastre</li>
+      <li>PRON: dumneavoastră, vă, te, -ți, v-, tu, ți-, îți, -vă, te-</li>
+      <li>VERB-Fin: luați, vezi, aveți, poți, utilizați, puteai, spuneți, puteți, ai, știți</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: am, aș, vom, sunt, eram, voi, suntem, fiu, -aș, fim</li>
-        <li>AUX-Fin: sunt, eram, suntem, fiu, fim</li>
-        <li>DET: mea, meu, noastre, nostru, noastră, mele, mei, noștri, însumi, -mea</li>
-        <li>PRON: ne, mă, eu, noi, m-, -mi, mi-, mine, ne-, îmi</li>
-        <li>VERB-Fin: știu, putem, avem, cred, rog, așteptam, rugăm, spun, vedem, văd</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX: ai, ați, veți, sunteți, ești, fii, erai, vei, -ai, oi</li>
-        <li>AUX-Fin: sunteți, ești, fii, erai, fi, fiți</li>
-        <li>DET: ta, tău, tale, dumitale, voastră, vostru, voștri, tăi, voastre</li>
-        <li>PRON: dumneavoastră, vă, te, -ți, v-, tu, ți-, îți, -vă, te-</li>
-        <li>VERB-Fin: luați, vezi, aveți, poți, utilizați, puteai, spuneți, puteți, ai, știți</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX: a, este, au, ar, sunt, era, va, fie, e, vor</li>
-        <li>AUX-Fin: este, sunt, era, fie, e, erau, fusese, -i, fu, fuseseră</li>
-        <li>DET: lui, acest, lor, orice, toate, această, aceste, alte, fiecare, ei</li>
-        <li>PRON: se, care, ce, s-, el, le, o, își, -și, -l</li>
-        <li>VERB-Fin: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX: a, este, au, ar, sunt, era, va, fie, e, vor</li>
+      <li>AUX-Fin: este, sunt, era, fie, e, erau, fusese, -i, fu, fuseseră</li>
+      <li>DET: lui, acest, lor, orice, toate, această, aceste, alte, fiecare, ei</li>
+      <li>PRON: se, care, ce, s-, el, le, o, își, -și, -l</li>
+      <li>VERB-Fin: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: lor, noastre, nostru, noastră, noștri, voastră, vostru, voștri, voastre</li>
+      <li>PRON: lor, noastră, nostru, noștri, voastră</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number[psor]</a>
-
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: lor, noastre, nostru, noastră, noștri, voastră, vostru, voștri, voastre</li>
-        <li>PRON: lor, noastră, nostru, noștri, voastră</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: lui, ei, său, sale, sa, mea, meu, mele, săi, ta</li>
-        <li>PRON: lui, sa, sale, mea, săi, său, ta, ei, mei, mele</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: lui, ei, său, sale, sa, mea, meu, mele, săi, ta</li>
+      <li>PRON: lui, sa, sale, mea, săi, său, ta, ei, mei, mele</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: am, a.m.</li>
-        <li>ADV: etc., cca, pm, A.c., p.m., v</li>
-        <li>NOUN: art., a., nr., CE, b., mg, lit., alin., ml, CEE</li>
-        <li>PRON: ș.a., dvs., Î.P.S.</li>
-        <li>X: mp, 5a, K., Rev, p.a.</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: am, a.m.</li>
+          <li>ADV: etc., cca, pm, A.c., p.m., v</li>
+          <li>NOUN: art., a., nr., CE, b., mg, lit., alin., ml, CEE</li>
+          <li>PRON: ș.a., dvs., Î.P.S.</li>
+          <li>X: mp, 5a, K., Rev, p.a.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
-        <li>PUNCT: ;</li>
-        <li>SYM: /, *</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
+          <li>PUNCT: ;</li>
+          <li>SYM: /, *</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: Dance, Felin, Industrial, admirari, poetica</li>
-        <li>ADP: de</li>
-        <li>DET: al</li>
-        <li>NOUN: of, Flag, goldies, mail, B, Corner, Design, Deum, End, Forum</li>
-        <li>NUM: II</li>
-        <li>PROPN: Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</li>
-        <li>VERB-Inf: Face</li>
-        <li>X: A­, Book, LEARNING, Mode, Records, Road, Sybir, alia, au, bout</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Dance, Felin, Industrial, admirari, poetica</li>
+          <li>ADP: de</li>
+          <li>DET: al</li>
+          <li>NOUN: of, Flag, goldies, mail, B, Corner, Design, Deum, End, Forum</li>
+          <li>NUM: II</li>
+          <li>PROPN: Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</li>
+          <li>VERB-Inf: Face</li>
+          <li>X: A­, Book, LEARNING, Mode, Records, Road, Sybir, alia, au, bout</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: 1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</li>
-      </ul>
-    </li>
-    <li>Roman
-      <ul>
-        <li>NUM: I, ii, iii, iv, V, XX, XIX, VI, VII, XIII</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: I, ii, iii, iv, V, XX, XIX, VI, VII, XIII</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PartType</a>
-  <ul>
-    <li>Inf
-      <ul>
-        <li>PART: a, a-, -a</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Inf
+        <ul>
+          <li>PART: a, a-, -a</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Position</a>
-  <ul>
-    <li>Postnom
-      <ul>
-        <li>DET: asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea</li>
-      </ul>
-    </li>
-    <li>Prenom
-      <ul>
-        <li>DET: acest, orice, această, aceste, alte, fiecare, același, acestor, unele, altă</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Position</a>
+    <ul>
+      <li>Postnom
+        <ul>
+          <li>DET: asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea</li>
+        </ul>
+      </li>
+      <li>Prenom
+        <ul>
+          <li>DET: acest, orice, această, aceste, alte, fiecare, același, acestor, unele, altă</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Strength</a>
-  <ul>
-    <li>Strong
-      <ul>
-        <li>PRON: el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine</li>
-      </ul>
-    </li>
-    <li>Weak
-      <ul>
-        <li>PRON: se, s-, le, o, își, -și, -l, și-, îi, îl</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Strength</a>
+    <ul>
+      <li>Strong
+        <ul>
+          <li>PRON: el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine</li>
+        </ul>
+      </li>
+      <li>Weak
+        <ul>
+          <li>PRON: se, s-, le, o, își, -și, -l, și-, îi, îl</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

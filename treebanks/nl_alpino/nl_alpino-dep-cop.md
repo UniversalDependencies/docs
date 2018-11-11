@@ -10,10 +10,10 @@ This relation is universal.
 
 3612 nodes (2%) are attached to their parents as `cop`.
 
-1929 instances of `cop` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.36904761904762.
+1930 instances of `cop` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.36794019933555.
 
-The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1289; 36% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1157; 32% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (415; 11% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (333; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (222; 6% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (67; 2% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (37; 1% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1290; 36% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1156; 32% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (415; 11% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (333; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (222; 6% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (67; 2% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (37; 1% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	meer	veel	PRON	VNW|onbep|grad|stan|vrij|zonder|comp	PronType=Ind	4	amod	4:amod	_
 3	dan	dan	SCONJ	VG|onder	_	2	fixed	2:fixed	_
 4	twee	twee	NUM	TW|hoofd|prenom|stan	_	5	det	5:det	_
-5	grastoernooien	grastoernooi	NOUN	N|soort|mv|basis	Number=Plur	11	obl	11:obl	_
+5	grastoernooien	grastoernooi	NOUN	N|soort|mv|basis	Number=Plur	11	obl	11:obl:van	_
 6	op	op	ADP	VZ|init	_	7	case	7:case	_
-7	rij	rij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nmod	5:nmod	_
+7	rij	rij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nmod	5:nmod:op	_
 8	wordt	worden	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
 9	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
 10	te	te	ADV	BW	_	11	advmod	11:advmod	_

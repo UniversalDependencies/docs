@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 compound:prt	color:blue
-1	Ich	_	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
-2	tue	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	mich	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Rcp	2	obj	_	_
-4	auch	_	ADV	RB	Degree=Pos	2	advmod	_	_
-5	schwer	_	VERB	DC	_	2	compound:prt	_	_
-6	mit	_	ADP	IN	_	7	case	_	_
-7	Passwörtern	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	2	obl	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	2	punct	_	_
+1	Ich	ich	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	tue	tun	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+3	mich	ich	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Rcp	2	obj	_	_
+4	auch	auch	ADV	RB	Degree=Pos	2	advmod	_	_
+5	schwer	schwer	VERB	DC	_	2	compound:prt	_	_
+6	mit	mit	ADP	IN	_	7	case	_	_
+7	Passwörtern	Passwort	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

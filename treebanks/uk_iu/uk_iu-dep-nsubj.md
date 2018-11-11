@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-IU: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="uk_iu-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-6148 nodes (6%) are attached to their parents as `nsubj`.
+7377 nodes (6%) are attached to their parents as `nsubj`.
 
-4766 instances of `nsubj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.81408588158751.
+5738 instances of `nsubj` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.81116985224346.
 
-The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2853; 46% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1493; 24% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (399; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (311; 5% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (270; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (233; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (182; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (68; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (49; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (33; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (28; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 44 pairs of parts of speech are connected with `nsubj`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (3291; 45% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1755; 24% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (477; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (438; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (388; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (273; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (215; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (117; 2% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (56; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (54; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (40; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,16 +22,16 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 nsubj	color:blue
-1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Id=02tp|SpaceAfter=No
-2	,	,	PUNCT	U	_	3	punct	_	Id=02tq
-3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	_	Id=02tr
-4	що	що	SCONJ	Css	_	5	mark	_	Id=02ts
-5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl	_	Id=02tt|SpaceAfter=No
-6	,	,	PUNCT	U	_	5	punct	_	Id=02tu
-7	посміхнувся	посміхнутися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=02tv
-8	й	й	CCONJ	Ccs	_	9	cc	_	Id=02tw
-9	спитав	спитати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	conj	_	Id=02tx|SpaceAfter=No
-10	:	:	PUNCT	U	_	7	punct	_	Id=02ty
+1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj|9:nsubj	Id=02tp|LTranslit=diduś|SpaceAfter=No|Translit=Diduś
+2	,	,	PUNCT	U	_	3	punct	3:punct	Id=02tq|LTranslit=,|Translit=,
+3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj:rel|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
+4	що	що	SCONJ	Css	_	5	mark	5:mark	Id=02ts|LTranslit=ščo|Translit=ščo
+5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Id=02tt|LTranslit=atestuvaty|SpaceAfter=No|Translit=atestuvav
+6	,	,	PUNCT	U	_	5	punct	5:punct	Id=02tu|LTranslit=,|Translit=,
+7	посміхнувся	посміхнутися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=02tv|LTranslit=posmichnutyśа|Translit=posmichnuvśа
+8	й	й	CCONJ	Ccs	_	9	cc	9:cc	Id=02tw|LTranslit=j|Translit=j
+9	спитав	спитати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	conj	0:root|7:conj	Id=02tx|LTranslit=spytaty|SpaceAfter=No|Translit=spytav
+10	:	:	PUNCT	U	_	7	punct	7:punct	Id=02ty|LTranslit=:|Translit=:
 
 ~~~
 
@@ -43,14 +42,14 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj	color:blue
-1	—	—	PUNCT	U	PunctType=Dash	5	punct	_	Id=02u0
-2	Ви	ви	PRON	Pp-2-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Id=02u1
-3	перед	перед	ADP	Spsi	Case=Ins	4	case	_	Id=02u2
-4	цим	це	PRON	Pd--nnsin	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	Id=02u3
-5	сиділи	сидіти	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	Id=02u4
-6	в	в	ADP	Spsl	Case=Loc	7	case	_	Id=02u5
-7	тюрмі	тюрма	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	Id=02u6|SpaceAfter=No
-8	?	?	PUNCT	U	_	5	punct	_	Id=02u7
+1	—	—	PUNCT	U	PunctType=Dash	5	punct	5:punct	Id=02u0|LTranslit=—|Translit=—
+2	Ви	ви	PRON	Pp-2-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	5:nsubj	Id=02u1|LTranslit=vy|Translit=Vy
+3	перед	перед	ADP	Spsi	Case=Ins	4	case	4:case	Id=02u2|LTranslit=pered|Translit=pered
+4	цим	це	PRON	Pd--nnsin	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	5:obl	Id=02u3|LTranslit=ce|Translit=cym
+5	сиділи	сидіти	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=02u4|LTranslit=sydity|Translit=sydily
+6	в	в	ADP	Spsl	Case=Loc	7	case	7:case	Id=02u5|LTranslit=v|Translit=v
+7	тюрмі	тюрма	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl	Id=02u6|LTranslit=ťurma|SpaceAfter=No|Translit=ťurmi
+8	?	?	PUNCT	U	_	5	punct	5:punct	Id=02u7|LTranslit=?|Translit=?
 
 ~~~
 
@@ -58,19 +57,16 @@ The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nsubj	color:blue
-1	На	на	ADP	Spsa	Case=Acc	2	case	_	Id=1lo3
-2	що	що	PRON	Pr--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obl	_	Id=1lo4
-3	Трамп	Трамп	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	Id=1lo5
-4	відповів	відповісти	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=1lo6|SpaceAfter=No
-5	:	:	PUNCT	U	_	7	punct	_	Id=1lo7
-6	"	"	PUNCT	U	PunctType=Quot	7	punct	_	Id=1lo8|SpaceAfter=No
-7	Є	бути	VERB	Vapip3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	Id=1lo9
-8	багато	багато	DET	Mlc-n	Case=Nom|NumType=Card|PronType=Ind	9	det:numgov	_	Id=1loa
-9	вбивць	вбивця	NOUN	Ncmpgy	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nsubj	_	Id=1lob|SpaceAfter=No
-10	.	.	PUNCT	U	_	4	punct	_	Id=1loc
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 nsubj	color:blue
+1	Всі	весь	DET	Pg----pna	Case=Nom|Number=Plur|PronType=Tot	3	det	3:det	Id=11uu|LTranslit=veś|Translit=Vsi
+2	інші	інший	DET	Pi----pna	Case=Nom|Number=Plur|PronType=Ind	3	det	3:det	Id=11uv|LTranslit=inšyj|Translit=inši
+3	звірі	звір	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	6:nsubj	Id=11uw|LTranslit=zvir|Translit=zviri
+4	теж	теж	ADV	R	_	6	advmod	6:advmod	Id=11ux|LTranslit=tež|Translit=tež
+5	були	бути	AUX	Vapis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	cop	6:cop	Id=11uy|LTranslit=buty|Translit=buly
+6	випадковими	випадковий	ADJ	Ao--pif	Case=Ins|Number=Plur	0	root	0:root	Id=11uz|LTranslit=vypadkovyj|SpaceAfter=No|Translit=vypadkovymy
+7	.	.	PUNCT	U	_	6	punct	6:punct	Id=11v0|LTranslit=.|Translit=.
 
 ~~~
 

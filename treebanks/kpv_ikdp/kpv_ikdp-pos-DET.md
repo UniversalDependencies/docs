@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `DET`
 
-There are 10 `DET` lemmas (2%), 10 `DET` types (2%) and 10 `DET` tokens (1%).
+There are 8 `DET` lemmas (2%), 8 `DET` types (2%) and 8 `DET` tokens (1%).
 Out of 15 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>быд, весь, какой, мӧд, сизим, став, сэтшӧм, такой, татшӧм, четвёртэй</em>
+The 10 most frequent `DET` lemmas: <em>быд, весь, какой, мӧд, сизим, став, такой, четвёртэй</em>
 
-The 10 most frequent `DET` types:  <em>Став, быд, всю, какой, мӧд, сизимед, сэтшем, такое, татшӧм, четвёртэй</em>
+The 10 most frequent `DET` types:  <em>Став, быд, всю, какой, мӧд, сизимед, такое, четвёртэй</em>
 
-The 10 most frequent ambiguous lemmas: <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>сизим</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 4, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1), <em>став</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>сизим</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 6, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1), <em>став</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>быд</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.113379).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.144444).
 
 The 1st highest number of forms (1) was observed with the lemma “быд”: <em>быд</em>.
 
@@ -36,26 +36,26 @@ The 2nd highest number of forms (1) was observed with the lemma “весь”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “какой”: <em>какой</em>.
 
-`DET` occurs with 3 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (3; 30% instances)
+`DET` occurs with 3 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (6; 75% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (6; 75% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (3; 38% instances)
 
 `DET` occurs with 5 feature-value pairs: `Case=Acc`, `Case=Nom`, `Case=Prl`, `NumType=Ord`, `Number=Sing`
 
 `DET` occurs with 5 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (4 tokens).
-Examples: <em>Став, сэтшем, такое, татшӧм</em>
+The most frequent feature combination is `_` (2 tokens).
+Examples: <em>быд, какой</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: <tt><a href="kpv_ikdp-dep-det.html">det</a></tt> (5; 50% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (2; 20% instances), <tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt> (2; 20% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 10% instances)
+`DET` nodes are attached to their parents using 4 different relations: <tt><a href="kpv_ikdp-dep-det.html">det</a></tt> (4; 50% instances), <tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt> (2; 25% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 13% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (9; 90% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 10% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (7; 88% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 13% instances)
 
-6 (60%) `DET` nodes are leaves.
+4 (50%) `DET` nodes are leaves.
 
-3 (30%) `DET` nodes have one child.
+3 (38%) `DET` nodes have one child.
 
-1 (10%) `DET` nodes have two children.
+1 (13%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 

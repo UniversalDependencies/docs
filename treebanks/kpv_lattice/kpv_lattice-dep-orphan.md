@@ -25,8 +25,8 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Ну	ну	PART	Pcle	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
-4	ми	ми	PRON	Pron	Case=Nom|Person=1|PronType=Prs	0	root	_	_
-5	тіянӧс	ті	PRON	Pron	Case=Acc|Person=2|PronType=Prs	4	orphan	_	SpaceAfter=No|Note=Check
+4	ми	ми	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+5	тіянӧс	ті	PRON	Pron	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	orphan	_	SpaceAfter=No|Note=Check
 6	!	!	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

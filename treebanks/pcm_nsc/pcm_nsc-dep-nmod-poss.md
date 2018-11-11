@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	na	na	PART	_	_	3	cop	_	_
 2	only	only	ADJ	_	_	3	amod	_	_
 3	God	God	PROPN	_	_	0	root	_	_
-4	>+	>+	VERB	_	_	6	punct	_	_
+4	>+	>+	PUNCT	_	_	6	punct	_	_
 5	we	we	PRON	_	_	6	nsubj	_	_
 6	put	put	VERB	_	_	3	acl:cleft	_	_
 7	our	our	PRON	_	_	8	nmod:poss	_	_

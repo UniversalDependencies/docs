@@ -99,7 +99,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	controller	controller	NOUN	SG-NOM	Number=Sing	3	nmod	_	_
 8	proper	proper	ADJ	POS	Degree=Pos	9	amod	_	_
 9	arrangements	arrangement	NOUN	PL-NOM	Number=Plur	13	nsubj:pass	_	_
-10	will	will	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+10	will	will	AUX	PRES-AUX	VerbForm=Fin	13	aux:pass	_	_
 11	now	now	ADV	_	_	13	advmod	_	_
 12	be	be	AUX	INF	VerbForm=Inf	13	aux:pass	_	_
 13	legislated	legislate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_

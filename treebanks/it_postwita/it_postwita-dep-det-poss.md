@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `det:poss`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det:poss	color:blue
-1	@elena_casali	@elena_casali	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
 4	moroso	moroso	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -40,21 +40,25 @@ The following 10 pairs of parts of speech are connected with `det:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det:poss	color:blue
-1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	bellezza	bellezza	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-3	di	di	ADP	E	_	6	case	_	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	mie	mio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	_
-6	Steve	Steve	PROPN	SP	_	2	nmod	_	_
-7	Madden	Madden	PROPN	SP	_	6	flat:name	_	_
-8	Fringly	Fringly	PROPN	SP	_	6	flat:name	_	_
-9	💗	💗	SYM	SYM	_	2	discourse:emo	_	_
-10	http://t.co/YZPob9SUws	http://t.co/YZPob9SUws	SYM	X	_	2	dep	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 det:poss	color:blue
+1	@user	@user	SYM	SYM	_	2	vocative:mention	_	_
+2	Mal	male	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	testa	testa	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
+5	e	e	CCONJ	CC	_	6	cc	_	_
+6	nausea	nausea	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
+7	ma	ma	CCONJ	CC	_	10	cc	_	_
+8	quando	quando	SCONJ	CS	_	10	mark	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
+10	ascolto	ascoltare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
+12	svanisce	svanire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	Angelo	Angelo	PROPN	SP	_	2	vocative	_	_
+14	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
 
 ~~~
 

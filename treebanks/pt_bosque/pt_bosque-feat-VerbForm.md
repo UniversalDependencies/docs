@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-25775 tokens (11%) have a non-empty value of `VerbForm`.
-7637 types (30%) occur at least once with a non-empty value of `VerbForm`.
+25773 tokens (11%) have a non-empty value of `VerbForm`.
+7636 types (30%) occur at least once with a non-empty value of `VerbForm`.
 1965 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (19319; 8% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (6323; 3% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (92; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (19320; 8% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (6323; 3% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (90; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-19319 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+19320 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15826; 82%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10558; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10082; 52%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9676; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15827; 82%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10559; 55%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (10083; 52%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9677; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (10529; 55% of non-empty `VerbForm`): <em>há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</em>
+* `Fin` (10530; 55% of non-empty `VerbForm`): <em>há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</em>
 * `Ger` (755; 4% of non-empty `VerbForm`): <em>tendo, dando, incluindo, fazendo, ganhando, dizendo, passando, mostrando, considerando, esperando</em>
 * `Inf` (4220; 22% of non-empty `VerbForm`): <em>fazer, ter, ver, dar, dizer, falar, manter, saber, ir, passar</em>
 * `Part` (3815; 20% of non-empty `VerbForm`): <em>feito, feita, feitas, dito, tido, eleito, passado, visto, aberto, considerado</em>
@@ -125,18 +125,18 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `NOUN`
 
-92 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+90 <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (64; 70%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt> (48; 52%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (63; 70%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt> (48; 53%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 1% of non-empty `VerbForm`): <em>garante</em>
 * `Inf` (8; 9% of non-empty `VerbForm`): <em>bafejar, decorrer, entardecer, entender, quebrar, Olhar, distender, fumar</em>
-* `Part` (83; 90% of non-empty `VerbForm`): <em>feridos, arguido, chibatadas, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido</em>
-* `EMPTY` (41814): <em>anos, presidente, milhões, ano, dia, país, pessoas, estado, parte, tempo</em>
+* `Part` (81; 90% of non-empty `VerbForm`): <em>feridos, arguido, chibatadas, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido</em>
+* `EMPTY` (41816): <em>anos, presidente, milhões, ano, dia, país, pessoas, estado, parte, tempo</em>
 
-`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (73) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (71) occur only with one value of `VerbForm`.
 
 ### `ADJ`
 
@@ -147,20 +147,20 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (33; 100% of non-empty `VerbForm`): <em>eleito, Animado, achado, acirrada, animada, apropriados, atacados, coloridas, cotados, definidas</em>
-* `EMPTY` (11248): <em>primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, grandes, nacional</em>
+* `EMPTY` (11247): <em>primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, grandes, nacional</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (32) occur only with one value of `VerbForm`.
 
 ### `PROPN`
 
-6 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
+5 <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 100%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%).
+The most frequent other feature values with which `PROPN` and `VerbForm` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 100%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%).
 
 `PROPN` tokens may have the following values of `VerbForm`:
 
-* `Part` (6; 100% of non-empty `VerbForm`): <em>visto, dado</em>
-* `EMPTY` (19006): <em>Paulo, São, Portugal, Brasil, José, Porto, Nacional, Governo, Lisboa, João</em>
+* `Part` (5; 100% of non-empty `VerbForm`): <em>visto, Dado</em>
+* `EMPTY` (19005): <em>Paulo, São, Portugal, Brasil, José, Porto, Nacional, Governo, Lisboa, João</em>
 
 ### `INTJ`
 
@@ -180,14 +180,14 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 100% of non-empty `VerbForm`): <em>se</em>
-* `EMPTY` (7237): <em>que, se, o, ele, isso, quem, lhe, tudo, eles, eu</em>
+* `EMPTY` (7235): <em>que, se, o, ele, isso, quem, lhe, tudo, eles, eu</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1078; 78%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (670; 56%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (105; 76%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (106; 76%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),

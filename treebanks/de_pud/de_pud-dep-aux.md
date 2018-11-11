@@ -23,14 +23,14 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 aux	color:blue
-1	Bisher	_	ADV	RB	Degree=Pos	7	advmod	_	_
-2	hatten	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	_
-3	nur	_	ADV	RB	Degree=Pos	4	advmod	_	_
-4	Blogger	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
-5	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Person=3	6	det	_	_
-6	Jets	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	_
-7	gesehen	_	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	7	punct	_	_
+1	Bisher	bisher	ADV	RB	Degree=Pos	7	advmod	_	_
+2	hatten	haben	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	_
+3	nur	nur	ADV	RB	Degree=Pos	4	advmod	_	_
+4	Blogger	Blogger	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
+5	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Person=3	6	det	_	_
+6	Jets	Jets	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	_
+7	gesehen	sehen	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -41,17 +41,17 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 3 aux	color:blue
-1	Diese	_	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
-2	Abteilung	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
-3	muss	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-4	sich	_	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rcp	9	obj	_	_
-5	nun	_	ADV	RB	Degree=Pos	9	advmod	_	_
-6	auf	_	ADP	IN	_	8	case	_	_
-7	neue	_	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Person=3	8	amod	_	InflectionType=Strong
-8	Herausforderungen	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	9	obl	_	_
-9	gefasst	_	ADJ	JJ	Degree=Pos	0	root	_	_
-10	machen	_	AUX	VB	_	9	cop	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	9	punct	_	_
+1	Diese	dies	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
+2	Abteilung	Abteilung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+3	muss	müssen	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+4	sich	er|es|sie	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rcp	9	obj	_	_
+5	nun	nun	ADV	RB	Degree=Pos	9	advmod	_	_
+6	auf	auf	ADP	IN	_	8	case	_	_
+7	neue	neu	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Person=3	8	amod	_	InflectionType=Strong
+8	Herausforderungen	Herausforderung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	9	obl	_	_
+9	gefasst	fassen	ADJ	JJ	Degree=Pos	0	root	_	_
+10	machen	machen	AUX	VB	_	9	cop	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 
@@ -62,20 +62,20 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux	color:blue
-1	Diese	_	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
-2	Affäre	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj:pass	_	_
-3	kann	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-4	als	_	CCONJ	CC	_	5	cc	_	_
-5	Startpunkt	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-6	für	_	ADP	IN	_	8	case	_	_
-7	seine	_	PRON	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	8	nmod:poss	_	_
-8	Karriere	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
-9	als	_	CCONJ	CC	_	11	cc	_	_
-10	radikaler	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	InflectionType=Strong
-11	Revolutionär	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	conj	_	_
-12	vestanden	_	AUX	VBN	Tense=Past	5	cop	_	_
-13	werden	_	AUX	VB	_	5	aux:pass	_	SpaceAfter=No
-14	.	_	PUNCT	.	_	5	punct	_	_
+1	Diese	dies	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
+2	Affäre	Affäre	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj:pass	_	_
+3	kann	können	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+4	als	als	CCONJ	CC	_	5	cc	_	_
+5	Startpunkt	Startpunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+6	für	für	ADP	IN	_	8	case	_	_
+7	seine	sein	PRON	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	8	nmod:poss	_	_
+8	Karriere	Karriere	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
+9	als	als	CCONJ	CC	_	11	cc	_	_
+10	radikaler	radikal	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	InflectionType=Strong
+11	Revolutionär	Revolutionär	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	conj	_	_
+12	vestanden	vestehen	AUX	VBN	Tense=Past	5	cop	_	_
+13	werden	werden	AUX	VB	_	5	aux:pass	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

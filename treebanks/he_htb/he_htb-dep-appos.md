@@ -8,36 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1693 nodes (1%) are attached to their parents as `appos`.
+1252 nodes (1%) are attached to their parents as `appos`.
 
-1688 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.13408151210868.
+1247 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.01517571884984.
 
-The following 41 pairs of parts of speech are connected with `appos`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (787; 46% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (441; 26% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (162; 10% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (69; 4% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (41; 2% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (34; 2% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (26; 2% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 appos	color:blue
-1	בני	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
-2	ה	ה	DET	DET	PronType=Art	3	det:def	_	_
-3	זוג	זוג	NOUN	NOUN	Gender=Masc|Number=Sing	1	compound:smixut	_	_
-4	גרוסבורד	גרוסבורד	PROPN	PROPN	_	1	appos	_	_
-5	תוכננו	תוכנן	VERB	VERB	Gender=Fem,Masc|HebBinyan=PUAL|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-6	לשוב	שב	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	5	xcomp	_	_
-7	היום	היום	ADV	ADV	_	6	advmod:phrase	_	_
-8	אחרי	אחרי	ADP	ADP	_	11	case	_	SpaceAfter=No
-9	-	-	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
-10	ה	ה	DET	DET	PronType=Art	11	det:def	_	_
-11	צהריים	צהריים	NOUN	NOUN	Gender=Masc|Number=Plur	7	advmod	_	_
-12	ל	ל	ADP	ADP	_	13	case	_	_
-13	ישראל	ישראל	PROPN	PROPN	_	6	obl	_	_
-14	.	.	PUNCT	PUNCT	_	5	punct	_	_
-
-~~~
+The following 41 pairs of parts of speech are connected with `appos`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (439; 35% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (351; 28% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (162; 13% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (68; 5% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (41; 3% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (34; 3% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (26; 2% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (19; 2% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,6 +38,29 @@ The following 41 pairs of parts of speech are connected with `appos`: <tt><a hre
 14	ה_	ה	DET	DET	PronType=Art	15	det:def	_	_
 15	מנזר	מנזר	NOUN	NOUN	Gender=Masc|Number=Sing	12	nmod	_	_
 16	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 11 appos	color:blue
+1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+2	בנייה	בנייה	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	לא	לא	ADV	ADV	Polarity=Neg	4	advmod	_	_
+4	הושלמה	הושלם	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+5	ב	ב	ADP	ADP	_	7	case	_	_
+6	ה_	ה	DET	DET	PronType=Art	7	det:def	_	_
+7	מועד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
+8	ש	ש	SCONJ	SCONJ	_	9	mark	_	_
+9	נקבע	נקבע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Mid	7	acl:relcl	_	_
+10	,	,	PUNCT	PUNCT	_	7	punct	_	_
+11	ספטמבר	ספטמבר	PROPN	PROPN	_	7	appos	_	_
+12	84	84	NUM	NUM	_	11	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

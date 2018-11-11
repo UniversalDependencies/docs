@@ -11,19 +11,20 @@ udver: '2'
 
 # UD Old French SRCMF
 
-Language: [Old French](../fro/overview/fro-hub.html) (code: `fro`)<br/>
+Language: [Old French](/fro/index.html) (code: `fro`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
-The following people have contributed to making this treebank part of UD: Sophie Prévost, Aurélie Collomb, Kim Gerdes, Isabelle Tellier, Marine Courtin, Alexei Lavrentiev, Céline. Guillot-Barbance.
+The following people have contributed to making this treebank part of UD: Sophie Prévost, Aurélie Collomb, Kim Gerdes, Isabelle Tellier, Marine Courtin, Alexei Lavrentiev, Céline Guillot-Barbance.
 
 Repository: [UD_Old_French-SRCMF](https://github.com/UniversalDependencies/UD_Old_French-SRCMF)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_srcmf)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_srcmf22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 3.0
 
-Genre: literary,, religious,, historical,, juridic,, didactic
+Genre: nonfiction, legal, poetry
 
 Questions, comments?
 General annotation questions (either Old French-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -204,62 +205,51 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
+<ul>
+  <li>Def
+    <ul>
+      <li>ADP: au, des, del, el, as, al, dou, du, ou, es</li>
+      <li>DET: la, li, le, l', les, lo, lu, lé, lis, las</li>
+    </ul>
+  </li>
+</ul>
 
-
-
-
-<li><a>Definite</a>
-
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADP: au, des, del, el, as, al, dou, du, ou, es</li>
-        <li>DET: la, li, le, l', les, lo, lu, lé, lis, las</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: un, une, .i., uns, un', unes, I, u·, úne, U</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: un, une, .i., uns, un', unes, I, u·, úne, U</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: enne, en, ene</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: enne, en, ene</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: ne, n', mie, pas, non, point, nen, nun, nes, nient</li>
-        <li>PRON: nel, nes, nu, nen, nem, net, nul</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: ne, n', mie, pas, non, point, nen, nun, nes, nient</li>
+      <li>PRON: nel, nes, nu, nen, nem, net, nul</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -267,160 +257,143 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 
 
 
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
+<ul>
+  <li>Past
+    <ul>
+      <li>VERB-Part: fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>VERB-Part: fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>VERB-Part: querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>VERB-Part: querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>ADP: au, des, del, el, as, al, dou, du, ou, es</li>
-        <li>DET: la, li, le, l', les, un, une, .i., uns, un'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>ADP: au, des, del, el, as, al, dou, du, ou, es</li>
+      <li>DET: la, li, le, l', les, un, une, .i., uns, un'</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADP: an</li>
-        <li>ADV: en, i, an, í, em, u, o, ent, n, ·n</li>
-        <li>DET: ceste, cest, cele, cel, ces, cil, cez, cist, ce, icest</li>
-        <li>PRON: ce, cil, ço, çó, celui, cele, cels, c', ces, ceo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADP: an</li>
+      <li>ADV: en, i, an, í, em, u, o, ent, n, ·n</li>
+      <li>DET: ceste, cest, cele, cel, ces, cil, cez, cist, ce, icest</li>
+      <li>PRON: ce, cil, ço, çó, celui, cele, cels, c', ces, ceo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: autre, meïsmes, tel, altre, nule, meïsme, autres, tex, altres, tiex</li>
-        <li>DET: tel, toz, nule, tuit, tote, nul, autre, tot, tuz, toutes</li>
-        <li>PRON: autre, tuit, rien, nus, uns, l'en, en, un, autres, hom</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: autre, meïsmes, tel, altre, nule, meïsme, autres, tex, altres, tiex</li>
+      <li>DET: tel, toz, nule, tuit, tote, nul, autre, tot, tuz, toutes</li>
+      <li>PRON: autre, tuit, rien, nus, uns, l'en, en, un, autres, hom</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>DET: quel, qel, quele, quels, Qanz, itels</li>
-        <li>PRON: que, qui, coi, ou, qu', quoi, quei, ki, liquels, q'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: quel, qel, quele, quels, Qanz, itels</li>
+      <li>PRON: que, qui, coi, ou, qu', quoi, quei, ki, liquels, q'</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: il, vos, li, le, l', je, s', se, ele, me</li>
-        <li>SCONJ: S'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: il, vos, li, le, l', je, s', se, ele, me</li>
+      <li>SCONJ: S'</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs,Rel
-      <ul>
-        <li>PRON: qui, que, ki, qu', ou, cui, quoi, dunt, u, don</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs,Rel
+    <ul>
+      <li>PRON: qui, que, ki, qu', ou, cui, quoi, dunt, u, don</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>DET: quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>ADJ: .ii., .iii., dui, troi, deus, premer, .vii., dous, premereins, .iiii.</li>
+      <li>DET: dous, cent, .ii., milie, trois, .xii., deus, mil, set, .iiii.</li>
+      <li>PRON: milie, trois, dui, .ii., andui, deus, un, troi, uns, dous</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>ADJ: .ii., .iii., dui, troi, deus, premer, .vii., dous, premereins, .iiii.</li>
-        <li>DET: dous, cent, .ii., milie, trois, .xii., deus, mil, set, .iiii.</li>
-        <li>PRON: milie, trois, dui, .ii., andui, deus, un, troi, uns, dous</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>DET: tierz, premiere, tierce</li>
+      <li>PRON: tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>DET: tierz, premiere, tierce</li>
-        <li>PRON: tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Poss</a>
-
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: mien, vostre, suen, sue, men, nostre, soe, meie, moie, miens</li>
-        <li>DET: sa, son, ses, sun, vostre, lor, ma, nostre, mon, mes</li>
-        <li>PRON: suen, mien, noz, suens, vostre, soe, lor, lur, nostre, moie</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-
-
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: mien, vostre, suen, sue, men, nostre, soe, meie, moie, miens</li>
+      <li>DET: sa, son, ses, sun, vostre, lor, ma, nostre, mon, mes</li>
+      <li>PRON: suen, mien, noz, suens, vostre, soe, lor, lur, nostre, moie</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -430,37 +403,39 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 <h3>Other Features</h3>
 
 
-<li><a>Morph</a>
-  <ul>
-    <li>VFin
-      <ul>
-        <li>ADJ: asuage</li>
-        <li>ADP: a, ad</li>
-        <li>ADV: oi</li>
-        <li>CCONJ: Et</li>
-        <li>INTJ: Os</li>
-        <li>NOUN: acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</li>
-        <li>PROPN: cuntredie</li>
-        <li>VERB: a</li>
-      </ul>
-    </li>
-    <li>VInf
-      <ul>
-        <li>ADJ: droiturier, ácustumiers</li>
-        <li>NOUN: deçoivre, Fuïr, clergier, curre, enconbrier, espleiter, parler, pleisir</li>
-      </ul>
-    </li>
-    <li>VPar
-      <ul>
-        <li>ADJ: dolenz, dolent, avenanz, vaillant, vaillanz, confés, dolanz, flurie, joiant, avenant</li>
-        <li>ADP: voiant, oiant</li>
-        <li>ADV: errant</li>
-        <li>NOUN: semblant, senblant, mort, sanblant, descovert, dit, fait, remanant, ajustee, anchanté</li>
-        <li>PROPN: Flurit, Perdut, Sevree</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Morph</a>
+    <ul>
+      <li>VFin
+        <ul>
+          <li>ADJ: asuage</li>
+          <li>ADP: a, ad</li>
+          <li>ADV: oi</li>
+          <li>CCONJ: Et</li>
+          <li>INTJ: Os</li>
+          <li>NOUN: acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</li>
+          <li>PROPN: cuntredie</li>
+          <li>VERB: a</li>
+        </ul>
+      </li>
+      <li>VInf
+        <ul>
+          <li>ADJ: droiturier, ácustumiers</li>
+          <li>NOUN: deçoivre, Fuïr, clergier, curre, enconbrier, espleiter, parler, pleisir</li>
+        </ul>
+      </li>
+      <li>VPar
+        <ul>
+          <li>ADJ: dolenz, dolent, avenanz, vaillant, vaillanz, confés, dolanz, flurie, joiant, avenant</li>
+          <li>ADP: voiant, oiant</li>
+          <li>ADV: errant</li>
+          <li>NOUN: semblant, senblant, mort, sanblant, descovert, dit, fait, remanant, ajustee, anchanté</li>
+          <li>PROPN: Flurit, Perdut, Sevree</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

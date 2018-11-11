@@ -13,7 +13,7 @@ This relation is universal.
 29 instances of `amod` (91%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.1875.
 
-The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (27; 84% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (27; 84% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2 1 amod	color:blue
 1	Второй	второй	ADJ	A	Case=Nom|Number=Sing	2	amod	_	Lang=Rus
 2	группа	группа	NOUN	N	Case=Nom|Number=Sing	4	obj	_	Lang=Rus
-3	инвалидность	инвалидность	NOUN	N	Number=Sing	2	nmod	_	Lang=Rus
-4	имейта	имейта	VERB	V	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
+3	инвалидность	инвалидность	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	Lang=Rus
+4	имейта	имейта	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Lang=Mixed|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -38,10 +38,10 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
 1	И	и	CCONJ	CC	_	3	cc	_	Lang=Mixed
-2	менум	ме	PRON	Pron	Case=Dat|Person=1|PronType=Prs	3	iobj	_	_
-3	предложитісны	предложитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=mixed
+2	менум	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	предложитісны	предложитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
 4	должность	должность	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Rus
-5	директора	директор	NOUN	N	Number=Sing	4	nmod	_	Lang=Rus
+5	директора	директор	NOUN	N	Case=Gen|Number=Sing	4	nmod	_	Lang=Rus
 6	межпоселенческого	межпоселенческий	ADJ	A	Number=Sing	7	amod	_	Lang=Rus
 7	клубного	клубный	ADJ	A	Number=Sing	8	amod	_	Lang=Rus
 8	объединения	объединения	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	Lang=Rus|SpaceAfter=No
@@ -51,27 +51,33 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 amod	color:blue
-1	Воліс	волыны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	же	жӧ	PART	Pcle	_	1	discourse	_	Lang=Mixed
-3	тундраас	тундра	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl	_	Lang=Mixed|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	но	но	CCONJ	CC	_	9	cc	_	Lang=Mixed
-6	из	оз	VERB	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	8	reparandum	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	абу	абу	PART	Pcle	Polarity=Neg	9	aux	_	_
-9	понравитчема	понравитчыны	VERB	V	_	1	conj	_	Lang=Mixed|SpaceAfter=No|Note=Check
-10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	_
-12	вермы	вермыны	VERB	V	Connegative=Yes	1	conj	_	_
-13	сыа	сійӧ	PRON	Pron	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	_
-14	сэтшем	сэтшӧм	DET	Det	Case=Nom|Number=Sing	15	amod	_	_
-15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
-16	.	.	PUNCT	CLB	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 amod	color:blue
+1	Он	оз	VERB	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	reparandum	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	живносьсэ	живнось	NOUN	N	Case=Acc	5	obj	_	Lang=Mixed
+5	сдайт	сдайтны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	5	punct	_	_
+7	но	но	CCONJ	CC	_	11	cc	_	Lang=Mixed
+8	какой	какой	DET	Det	_	11	amod	_	Lang=Rus|SpaceAfter=No
+9	-	-	PUNCT	CLB	_	8	goeswith	_	SpaceAfter=No
+10	то	то	ADV	Adv	_	8	goeswith	_	Lang=Rus
+11	процент	процент	NOUN	N	Case=Nom|Number=Sing	5	acl	_	Lang=Rus
+12	там	там	ADV	Adv	_	11	advmod	_	Lang=Rus|SpaceAfter=No
+13	,	,	PUNCT	CLB	_	12	punct	_	_
+14	сколько	сколько	ADV	Adv	_	16	advmod	_	Lang=Rus
+15	налог	налог	NOUN	N	Case=Nom|Number=Sing	16	obj	_	Lang=Rus
+16	сетасныс	сетны	VERB	V	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	11	conj	_	_
+17	мыйттэм	мыйтӧм	PRON	Pron	_	16	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	CLB	_	17	punct	_	_
+19	сіе	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+20	и	и	PART	Pcle	_	21	discourse	_	Lang=Mixed
+21	сдайтан	сдайтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Lang=Mixed|SpaceAfter=No
+22	.	.	PUNCT	CLB	_	21	punct	_	_
 
 ~~~
 

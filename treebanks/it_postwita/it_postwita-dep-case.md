@@ -59,19 +59,22 @@ The following 48 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 case	color:blue
-1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	Monti	Monti	PROPN	SP	_	2	nmod	_	_
-4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	giurato	giurare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	http://t.co/6lgrATuT	http://t.co/6lgrATuT	SYM	X	_	5	dep	_	_
-7	via	via	ADP	E	_	8	case	_	_
-8	@msn_italia	@msn_italia	SYM	SYM	_	5	vocative:mention	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 case	color:blue
+1	RT	retweet	NOUN	S	_	10	dep	_	_
+2	@user1	@user1	SYM	SYM	_	10	vocative:mention	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	#ConfessioniUltime	#ConfessioniUltime	SYM	SYM	_	10	nsubj	_	_
+5	di	di	ADP	E	_	6	case	_	_
+6	@user2	@user2	SYM	SYM	_	4	nmod	_	_
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	gran	grande	ADJ	A	Number=Sing	10	amod	_	_
+10	libro	libro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
 
 ~~~
 

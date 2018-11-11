@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-33566 tokens (7%) have a non-empty value of `Mood`.
+33567 tokens (7%) have a non-empty value of `Mood`.
 5466 types (9%) occur at least once with a non-empty value of `Mood`.
 2540 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22405; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11161; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22406; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11161; 2% instances).
 
 ### `VERB`
 
-22405 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
+22406 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22405; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22405; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21953; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21835; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20321; 91%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18472; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13598; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22406; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22406; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21954; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21836; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20322; 91%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18472; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13599; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (452; 2% of non-empty `Mood`): <em>viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</em>
-* `Ind` (21953; 98% of non-empty `Mood`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `Ind` (21954; 98% of non-empty `Mood`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 * `EMPTY` (18185): <em>mít, měl, měla, bylo, mohli, došlo, mohl, měli, byl, být</em>
 
 <table>

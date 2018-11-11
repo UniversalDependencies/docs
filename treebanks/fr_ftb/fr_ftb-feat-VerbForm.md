@@ -50,14 +50,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1804; 77%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1808; 77%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1011; 53%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-aux-caus.html">aux:caus</a></tt>]--> VERB</tt> (143; 55%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (79; 51%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (38; 51%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-obl.html">obl</a></tt>]--> VERB</tt> (16; 57%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (13; 54%),
 <tt>AUX --[<tt><a href="fr_ftb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (8; 62%),
-<tt>VERB --[<tt><a href="fr_ftb-dep-cc.html">cc</a></tt>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<tt><a href="fr_ftb-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7; 100%),
+<tt>VERB --[<tt><a href="fr_ftb-dep-cc.html">cc</a></tt>]--> VERB</tt> (3; 100%).
 

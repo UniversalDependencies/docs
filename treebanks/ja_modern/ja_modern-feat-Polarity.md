@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ja_modern-pos-AUX.h
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (334; 100% of non-empty `Polarity`): ず, ざる, ざれ, ざら, ざり
-* `EMPTY` (1034): に, なり, ん, べし, なる, べから, たる, なら, べき, なし
+* `EMPTY` (1036): に, なり, ん, べし, なる, べから, たる, なら, べき, なし
 
 ### `NOUN`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ja_modern-pos-AUX.h
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): 不
-* `EMPTY` (4265): 者, ヿ, 國, 政治, 法, 事, 人, 曰く, 所, 時
+* `EMPTY` (4308): 者, ヿ, 國, 政治, 法, 事, 人, 曰く, 所, 時
 

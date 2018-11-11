@@ -23,15 +23,15 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 obl	color:blue
-1	Das	_	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	2	det	_	_
-2	Projekt	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj:pass	_	_
-3	wird	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
-4	über	_	ADP	IN	_	5	case	_	_
-5	Sponsoren	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	obl	_	_
-6	und	_	CCONJ	CC	_	7	cc	_	_
-7	Werbung	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	conj	_	_
-8	finanziert	_	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	8	punct	_	_
+1	Das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	2	det	_	_
+2	Projekt	Projekt	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj:pass	_	_
+3	wird	werden	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
+4	über	über	ADP	IN	_	5	case	_	_
+5	Sponsoren	Sponsor	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	obl	_	_
+6	und	und	CCONJ	CC	_	7	cc	_	_
+7	Werbung	Werbung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	conj	_	_
+8	finanziert	finanzieren	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 
@@ -42,14 +42,14 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 obl	color:blue
-1	Er	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-2	arbeitete	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	ein	_	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	4	det	_	_
-4	Jahrzent	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obl:tmod	_	_
-5	für	_	ADP	IN	_	7	case	_	_
-6	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	7	det	_	_
-7	BBC	_	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obl	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	2	punct	_	_
+1	Er	er	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	arbeitete	arbeiten	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	ein	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	4	det	_	_
+4	Jahrzent	Jahrzent	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obl:tmod	_	_
+5	für	für	ADP	IN	_	7	case	_	_
+6	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	7	det	_	_
+7	BBC	BBC	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -60,15 +60,15 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 obl	color:blue
-1	Bei	_	ADP	IN	_	3	case	_	_
-2	richtiger	_	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Person=3	3	amod	_	InflectionType=Strong
-3	Umsetzung	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	8	obl	_	_
-4	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
-5	es	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	_
-6	theoretisch	_	ADV	RB	Degree=Pos	8	advmod	_	_
-7	nicht	_	ADV	RB	Degree=Pos|Polarity=Neg	8	advmod	_	_
-8	nachweisbar	_	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	8	punct	_	_
+1	Bei	bei	ADP	IN	_	3	case	_	_
+2	richtiger	richtig	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Person=3	3	amod	_	InflectionType=Strong
+3	Umsetzung	Umsetzung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	8	obl	_	_
+4	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
+5	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	_	_
+6	theoretisch	theoretisch	ADV	RB	Degree=Pos	8	advmod	_	_
+7	nicht	nicht	ADV	RB	Degree=Pos|Polarity=Neg	8	advmod	_	_
+8	nachweisbar	nachweisbar	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hsb_ufal-dep-det.html">det</a></tt>.
 
-17 nodes (0%) are attached to their parents as `det:numgov`.
+19 nodes (0%) are attached to their parents as `det:numgov`.
 
-17 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.47058823529412.
+19 instances of `det:numgov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57894736842105.
 
-The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (17; 100% instances).
+The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (19; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det:numgov	color:blue
-1	Wjele	wjele	ADV	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
+1	Wjele	wjele	DET	_	Degree=Pos|NumType=Card|PronType=Ind	3	det:numgov	_	_
 2	starobabylonskich	starobabylonski	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	3	amod	_	_
 3	sydlišćow	sydlišće	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	5	nsubj	_	_
 4	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	cop	_	_

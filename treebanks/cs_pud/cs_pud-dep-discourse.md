@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 11	jak	jak	ADV	Db-------------	PronType=Int,Rel	13	advmod	_	LId=jak-3
 12	jsme	být	AUX	VB-P---1P-AA---	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
-13	zabezpečeni	zabezpečený	ADJ	VsMP---XX-AP---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	9	acl	_	_
+13	zabezpečeni	zabezpečený	ADJ	VsMP---XX-AP---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	9	acl	_	LDeriv=zabezpečit
 14	a	a	CCONJ	J^-------------	_	18	cc	_	LId=a-1
 15	kolika	kolik	DET	C?--7----------	Case=Ins|NumType=Card|PronType=Int,Rel	16	det:nummod	_	_
 16	pravidly	pravidlo	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	18	obj	_	_

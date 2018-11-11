@@ -8,27 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (3%) are attached to their parents as `conj`.
+80 nodes (4%) are attached to their parents as `conj`.
 
-45 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.6.
+80 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.6625.
 
-The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (23; 51% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (12; 27% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `conj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (42; 53% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (22; 28% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 conj	color:blue
-1	Коркӧ	коркӧ	ADV	Adv	_	4	advmod	_	_
-2	век	век	ADV	Adv	_	4	advmod	_	_
-3	нин	нин	ADV	Adv	_	2	advmod	_	_
-4	гымалас	гымавны	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	_
-5	и	и	CCONJ	CC	_	6	cc	_	_
-6	зэрас	зэрны	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 4 8 conj	color:blue
+1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	advcl	_	_
+2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl	_	_
+3	–	–	PUNCT	PUNCT	_	4	punct	_	_
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	8	advcl	_	_
+7	–	–	PUNCT	PUNCT	_	8	punct	_	_
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -42,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 1	Тӧлыс	тӧв	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 2	да	да	CCONJ	CC	_	3	cc	_	_
 3	шерыс	шер	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	conj	_	_
-4	пӧрӧдісны	пӧрӧдны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	пӧрӧдісны	пӧрӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	кок	кок	NOUN	N	Case=Nom|Number=Sing	4	obl	_	_
 6	йывсьыд	йылысь	ADP	Po	Number=Sing|Number[psor]=Sing|Person[psor]=2	5	case	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -51,24 +53,20 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 conj	color:blue
-1	Сэні	сэні	ADV	Adv	_	9	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	переулок	переулок	NOUN	N	Case=Nom|Number=Sing	1	conj	_	_
-4	помас	помын	ADP	Po	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	case	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	пу	пу	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	_
-7	заборъяс	забор	NOUN	N	Case=Nom|Number=Plur	1	conj	_	_
-8	дінӧ	дінӧ	ADP	Po	Case=Ill|Number=Sing	7	case	_	_
-9	домавлӧмаӧсь	домавлыны	VERB	V	Evident=Nfh|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	седлӧа	седлӧ	ADJ	A	Case=Nom|Number=Sing	11	amod	_	_
-11	казацкӧй	казацкӧй	ADJ	A	Case=Nom|Number=Sing	12	amod	_	_
-12	вӧвъясӧс	вӧв	NOUN	N	Case=Acc|Number=Plur	9	obj	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 conj	color:blue
+1	Туйыс	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+2	вӧлі	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	сьӧкыд	сьӧкыд	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	белӧйяс	белӧй	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	_
+6	потшисны	потшны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+7	быд	быд	DET	Det	_	8	det	_	_
+8	боксянь	бокын	ADP	Po	Case=Egr|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

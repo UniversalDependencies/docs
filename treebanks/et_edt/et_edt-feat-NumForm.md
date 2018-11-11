@@ -9,67 +9,72 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Letter`, `Roman`.
 
-9361 tokens (3%) have a non-empty value of `NumForm`.
-1975 types (3%) occur at least once with a non-empty value of `NumForm`.
-1556 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7264; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2047; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+11576 tokens (3%) have a non-empty value of `NumForm`.
+2139 types (3%) occur at least once with a non-empty value of `NumForm`.
+1706 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 8 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9033; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2421; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (90; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-7264 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `NumForm`.
+9033 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (7259; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5504; 76%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9024; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6775; 75%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4543; 50%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (4512; 62% of non-empty `NumForm`): <em>1, 000, 2, 3, 10, 4, 2000, 15, 6, 5</em>
-* `Letter` (2751; 38% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, ühe, miljonit, viis, kolme, neli, paar</em>
+* `Digit` (5745; 64% of non-empty `NumForm`): <em>1, 2, 000, 10, 3, 4, 5, 20, 15, 6</em>
+* `Letter` (3287; 36% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, miljonit, ühe, viis, miljoni, neli, kolme</em>
 * `Roman` (1; 0% of non-empty `NumForm`): <em>I</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1253) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1359) occur only with one value of `NumForm`.
 
 ### `ADJ`
 
-2047 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+2421 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2047; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2047; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2047; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2047; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1512; 74%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2421; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2421; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2421; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2421; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1821; 75%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
-* `Digit` (1227; 60% of non-empty `NumForm`): <em>1., 2000., 2., 1999., 1997., 3., 1996., 1998., 1995., 2001.</em>
-* `Letter` (742; 36% of non-empty `NumForm`): <em>esimene, esimest, esimese, teine, teise, esimesed, esimeses, esimesel, kolmas, teist</em>
-* `Roman` (78; 4% of non-empty `NumForm`): <em>II, I, XI, III, XX, IV, MDCXXXII, V, VI, XIX</em>
+* `Digit` (1458; 60% of non-empty `NumForm`): <em>1., 2000., 2., 1997., 1999., 3., 1996., 1998., 1992., 1995.</em>
+* `Letter` (871; 36% of non-empty `NumForm`): <em>esimene, esimest, esimese, teine, teise, esimesel, esimesed, esimeses, teisel, kolmas</em>
+* `Roman` (92; 4% of non-empty `NumForm`): <em>II, I, III, XI, XX, VI, IV, MDCXXXII, V, XIX</em>
 
-`NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (314) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (357) occur only with one value of `NumForm`.
 
 ### `SYM`
 
-31 <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> tokens (20% of all `SYM` tokens) have a non-empty value of `NumForm`.
+90 <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> tokens (13% of all `SYM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (31; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20; 65%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20; 65%).
+The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (90; 100%), <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (90; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 71%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (46; 51%).
 
 `SYM` tokens may have the following values of `NumForm`:
 
-* `Digit` (31; 100% of non-empty `NumForm`): <em>%</em>
+* `Digit` (90; 100% of non-empty `NumForm`): <em>%, %-lt, %-le, %-ni</em>
 
 ### `PROPN`
 
-15 <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `NumForm`.
+26 <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `PROPN` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 87%).
+The most frequent other feature values with which `PROPN` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 88%).
 
 `PROPN` tokens may have the following values of `NumForm`:
 
-* `Letter` (11; 73% of non-empty `NumForm`): <em>Teist, Teise, Kolmanda, Neljandal</em>
-* `Roman` (4; 27% of non-empty `NumForm`): <em>ADV, CX, XM</em>
+* `Digit` (1; 4% of non-empty `NumForm`): <em>8</em>
+* `Letter` (19; 73% of non-empty `NumForm`): <em>Teist, Teise, Kolmanda, Esimene, Esimese, Kolme, Neljanda, Neljandal, Teisel</em>
+* `Roman` (6; 23% of non-empty `NumForm`): <em>ADV, M, CX, XM</em>
+
+`NumForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (11) occur only with one value of `NumForm`.
 
 ### `NOUN`
 
-2 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+3 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumForm`.
+
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
-* `Letter` (2; 100% of non-empty `NumForm`): <em>Esimese, paarid</em>
+* `Letter` (3; 100% of non-empty `NumForm`): <em>Esimese, paarid, poolt</em>
 
 ### `DET`
 
@@ -91,17 +96,27 @@ The most frequent other feature values with which `PRON` and `NumForm` co-occurr
 
 * `Letter` (1; 100% of non-empty `NumForm`): <em>kolmandal</em>
 
+### `X`
+
+1 <tt><a href="et_edt-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `NumForm`.
+
+The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="et_edt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `NumForm`:
+
+* `Roman` (1; 100% of non-empty `NumForm`): <em>C</em>
+
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (299; 96%),
-<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (298; 67%),
-<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (85; 77%),
-<tt>NUM --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NUM</tt> (60; 94%),
-<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (52; 83%),
-<tt>NUM --[<tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (12; 60%),
-<tt>NUM --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (10; 77%),
-<tt>SYM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (9; 90%),
-<tt>NUM --[<tt><a href="et_edt-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (329; 61%),
+<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (310; 97%),
+<tt>NUM --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NUM</tt> (90; 80%),
+<tt>NUM --[<tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (63; 80%),
+<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (54; 81%),
+<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (49; 91%),
+<tt>SYM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (35; 90%),
+<tt>NUM --[<tt><a href="et_edt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (7; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (6; 67%),
+<tt>NUM --[<tt><a href="et_edt-dep-obl.html">obl</a></tt>]--> NUM</tt> (4; 80%).
 

@@ -43,7 +43,7 @@ The following 24 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 4 obl	color:blue
 1	Bylo	být	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	aux:pass	_	_
-2	provedeno	provedený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+2	provedeno	provedený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=provést
 3	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=od-1
 4	dubna	duben	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
 5	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=do-1

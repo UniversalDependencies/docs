@@ -31,7 +31,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	посмотрев	смотреть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	4:advcl	_
 9	фильм	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	8:punct	_
+10	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

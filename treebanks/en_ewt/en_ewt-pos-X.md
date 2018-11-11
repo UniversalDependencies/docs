@@ -71,7 +71,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="en_ewt-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.004580 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `X` is 1.004580 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (2) was observed with the lemma “enron”: <em>ENRON, Enron</em>.
 

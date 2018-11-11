@@ -63,7 +63,7 @@ The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	mit	mit	ADP	APPR	_	4	case	_	_
 3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Unterschied	Unterschied	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	$,	_	4	punct	_	_
+5	,	,	PUNCT	$,	_	10	punct	_	_
 6	dass	dass	SCONJ	KOUS	_	10	mark	_	_
 7	die	der	PRON	PDS	Case=Nom|Number=Plur|PronType=Dem	10	nsubj	_	_
 8	kaum	kaum	ADV	ADV	_	10	advmod	_	_

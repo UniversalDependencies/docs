@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-63 nodes (0%) are attached to their parents as `vocative`.
+70 nodes (0%) are attached to their parents as `vocative`.
 
-35 instances of `vocative` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.82539682539683.
+38 instances of `vocative` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.75714285714286.
 
-The following 10 pairs of parts of speech are connected with `vocative`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (21; 33% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (19; 30% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `vocative`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (25; 36% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (19; 27% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 9	-	-	PUNCT	zd	_	10	punct	10:punct	LvtbNodeId=a-d60-p108s10w9
 10	stum	stumt	VERB	vmnmpt12san	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-d60-p108s10w10|SpaceAfter=No
 11	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-d60-p108s10w11
-12	vecā	veca	ADJ	affsnyp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	vocative	10:vocative|14:vocative	LvtbNodeId=a-d60-p108s10w12|SpaceAfter=No
+12	vecā	vecs	ADJ	affsnyp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	vocative	10:vocative|14:vocative	LvtbNodeId=a-d60-p108s10w12|SpaceAfter=No
 13	,	,	PUNCT	zc	_	14	punct	14:punct	LvtbNodeId=a-d60-p108s10w13
 14	stum	stumt	VERB	vmnmpt12san	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	5:conj|10:conj	LvtbNodeId=a-d60-p108s10w14|SpaceAfter=No
 15	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-d60-p108s10w15

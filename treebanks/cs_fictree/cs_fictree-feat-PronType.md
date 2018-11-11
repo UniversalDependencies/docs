@@ -11,15 +11,15 @@ It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Re
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Ind`, `Int|Rel`.
 
 25179 tokens (15%) have a non-empty value of `PronType`.
-658 types (2%) occur at least once with a non-empty value of `PronType`.
-138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+653 types (2%) occur at least once with a non-empty value of `PronType`.
+137 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14105; 8% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8417; 5% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (2657; 2% instances).
 
 ### `PRON`
 
 14105 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10979; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10496; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8112; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7994; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7913; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7469; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10979; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10496; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8148; 58%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7994; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7913; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7469; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Rel` (165; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
 * `Tot` (62; 0% of non-empty `PronType`): <em>všecko, samé, veškeré, samá, veškerá, samého, samých, samým, veškeru, veškerý</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (33) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (32) occur only with one value of `PronType`.
 
 ### `DET`
 

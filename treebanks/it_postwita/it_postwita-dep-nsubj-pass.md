@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 10 nsubj:pass	color:blue
 1	RT	retweet	NOUN	S	_	7	dep	_	_
-2	@dolceebastarda	@dolceebastarda	SYM	SYM	_	7	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	7	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	A	a	ADP	E	_	6	case	_	_
 5	certi	certo	DET	DI	PronType=Ind	6	det	_	_
@@ -65,7 +65,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 4	24-12-2011	24-12-2011	NUM	N	NumType=Card	3	nummod	_	_
 5	http://t.co/KhgxSasp	http://t.co/KhgxSasp	SYM	X	_	3	dep	_	_
 6	via	via	ADP	E	_	7	case	_	_
-7	@youtube	@youtube	SYM	SYM	_	3	vocative:mention	_	_
+7	@user	@user	SYM	SYM	_	3	vocative:mention	_	_
 
 ~~~
 

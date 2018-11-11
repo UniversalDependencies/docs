@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Armenian ArmTDP
 
-Language: [Armenian](../hy/overview/hy-hub.html) (code: `hy`)<br/>
+Language: [Armenian](/hy/index.html) (code: `hy`)<br/>
 Family: Indo-European, Armenian
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Armenian-ArmTDP](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -43,19 +44,13 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-Universal Dependencies corpus for Eastern Armenian, developed for UD version 2.2 originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+The ArmTDP Eastern Armenian UD treebank is based on the ՀայՇտեմ-ArmTDP-East dataset (2.0), created by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 
 
-
-UD_Armenian is based on the ՀայՇտեմ-ArmTDP-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2018).
+UD_Armenian is based on the ՀայՇտեմ-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2018). The treebank consists 1030 sentences (~2.3k tokens).
 
 The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
-
-## References
-
-* Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan. “ArmTDP: Eastern Armenian Treebank and Dependency Parser.” XI International Conference on Armenian Linguistics, Abstracts. Yerevan, 2017
-
 
 ## Acknowledgments
 
@@ -63,6 +58,9 @@ This work became possible in part by a research grant from the Armenian National
 
 The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan.
 
+## References
+
+* Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan. “ArmTDP: Eastern Armenian Treebank and Dependency Parser.” XI International Conference on Armenian Linguistics, Abstracts. Yerevan, 2017
 
 
 # Statistics of UD Armenian ArmTDP
@@ -77,17 +75,17 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 
 ## Relations
 
-[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [goeswith](hy_armtdp-dep-goeswith.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
+[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [aux:caus](hy_armtdp-dep-aux-caus.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [expl](hy_armtdp-dep-expl.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [goeswith](hy_armtdp-dep-goeswith.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 564 sentences, 12093 tokens and 12153 syntactic words.</li>
+<li>This corpus contains 1030 sentences, 22666 tokens and 22788 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2199 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 4199 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,12 +93,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 </ul>
 
 <ul>
-<li>This corpus contains 57 types of words that contain both letters and punctuation. Examples: ՀԷԿ-երի, 21-ի, 6-ին, 7-ի, 1-ից, 11-րդ, 20-րդ, 22-ի, 22-ին, 24-ին, ԱՄՆ-ի, ԵԼՔ-ին, ՀՀԿ-ում, սմ-ով, 100-րդ, 113-րդ, 1148-ը, 1261-ը, 13-ն, 15-ին, 1915-ի, 1971-ին, 1984-ին, 20-ին, 2006-ի, 2015-ի, 2016-ի, 2016-ին, 23-ի, 25-ին, 3-5-ը, 30-ի, 31-ի, 7-ից, 79-ով, 88-ի, 99-ով, dni24.com, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​=​k​u​W​Y​0​1​y​9​s​X​s​v​l​=​h​y, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​D​Q​o​1​i​o​x​m​t​8​I, ԱՄՆ-ն, ԲՀԿ-ից, Դ-30, Դ-44, ԵԼՔ-ը, ԵԼՔ-ի, ԵԼՔ-ում, ՀԱԿ-ի, ՀԱԿ-ն, ՀԷԿ-երը</li>
+<li>This corpus contains 82 types of words that contain both letters and punctuation. Examples: ՀԷԿ-երի, 5-րդ, ԱՄՆ-ի, 21-ի, 6-ին, 7-ի, ԵԼՔ-ին, ՀՀԿ-ի, 1-ից, 11-րդ, 20-ին, 20-րդ, 2008-ին, 2016-ի, 2018-ի, 21-ին, 22-ի, 22-ին, 24-ին, ԵԼՔ-ը, ՀՀԿ-ում, սմ-ով, 10-ին, 100-րդ, 113-րդ, 1148-ը, 1261-ը, 13-ն, 14-ին, 15-ին, 15-րդ, 1915-ի, 1971-ին, 1984-ին, 1998-ի, 1998-ին, 19:00-ին, 2006-ի, 2008-ի, 2010-ին, 2015-ի, 2016-ին, 23-ի, 25-ին, 29-ին, 3-5-ը, 30-ի, 31-ի, 48-ամյա, 65-ամյակին</li>
 </ul>
 
 <ul>
-<li>This corpus contains 60 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 42 types of multi-word tokens. Examples: ի՞նչ, ո՛չ, ո՞ւմ, և՛, կա՛մ, ո՞վ, Աբկա՜յ, Աստվա՜ծ, Աստվա՞ծ, Դո՞ւ, Ե՞րբ, Է՜, Ինչի՞ն, Հը՞, Ո՞րն, Սե՛մ, Քանի՜, ա՛յլ, բա՛ց, բնո՞ւյթն, գնա՜ց, գնա՞լ, դատավո՞ր, էդպիսի՞, թե՞, թռա՜վ, ինչո՞ւ, ինչպե՞ս, կա՞, համարո՞ւմ, ճչա՜ց, մե՞ծ, մե՞նք, մի՛, ո՞նց, որտե՞ղ, չէ՞, չկա՞, պահանջատե՞ր, տա՛ր, տեսնո՞ւմ, տղա՛.</li>
+<li>This corpus contains 122 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 64 types of multi-word tokens. Examples: ի՞նչ, և՛, թե՛, ինչո՞ւ, ո՛չ, ինչպե՞ս, ո՞վ, ո՞ւմ, ե՞րբ, համարո՞ւմ, Ո՞րն, արդյո՞ք, թե՞, ի՛նչ, ինչի՞ն, կա՛մ, մի՞թե, որքանո՞վ, չէ՞, Աբկա՜յ, Աստվա՜ծ, Աստվա՞ծ, Դո՞ւ, Է՜, Ինչո՞վ, Լե՞ցն, Կկարողանա՞, Հը՞, Սե՛մ, Քանի՜, ա՛յլ, այո՛, աշակերտեցե՛ք, առավելությո՞ւն, բա՛ց, բնո՞ւյթն, գնա՜ց, գնա՞լ, գնացե՛ք, դատավո՞ր, եկե՞լ, է՛լ, էդպիսի՞, թռա՜վ, ինչպե՛ս, լծկանների՜, կա՞, հնարավո՞ր, ճչա՜ց, մե՞ծ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -112,27 +110,27 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 </ul>
 
 <ul>
-<li>This corpus contains 25 word types tagged as particles (PART): Ինչևէ, Հիրավի, ահա, այնուամենայնիվ, այնուհանդերձ, արդյոք, գոնե, գուցե, գուցեև, դեռ, երևի, էլ, ընդամենը, թեկուզ, թերևս, իհարկե, հա, մանավանդ, միայն, նույնիսկ, ոչ, որ, պետք, պիտի, ևեթ</li>
+<li>This corpus contains 37 word types tagged as particles (PART): Բարեբախտաբար, Ինչևէ, Հիրավի, Մի, Միայն, Նամանավանդ, Ցավոք, ահա, այնուամենայնիվ, այնուհանդերձ, ավելին, արդյոք, բնականաբար, գոնե, գուցե, գուցեև, դեռ, երևի, էլ, ընդամենը, ընդհակառակը, թեկուզ, թերևս, թող, իհարկե, ինչ, իրոք, հա, մանավանդ, միթե, նույնիսկ, ոչ, որ, չպիտի, պետք, պիտի, ևեթ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): Դուք, ամեն, ամենայն, այդ, այդմ, այդպես, այդպիսի, այլն, այն, այնպիսի, այնտեղ, այնքան, այս, այստեղ, այսքան, բոլոր, բոլորը, դա, դու, ես, երբ, ինչ, ինչու, ինչպիսի, ինչքան, ինքը, իրար, մեկ, մենք, միմյանց, մյուս, մյուսը, նա, ոմն, ոչինչ, ով, որ, որոշ, որտեղ, որքան, ուրիշ, ոք, սա, քանիսը, քո</li>
+<li>This corpus contains 45 lemmas tagged as pronouns (PRON): ամենայն, ամենը, ամենքը, այդ, այդմ, այդպես, այդպիսի, այդքան, այլ, այլն, այն, այնպիսի, այնտեղ, այս, այստեղ, այսքան, բոլորը, դա, դու, դուք, ես, ինչ, ինչպիսի, ինչքան, ինքը, իրար, իրարու, մեկը, մենք, միմյանց, մյուս, նա, նույն, ոմն, ոչինչ, ով, որ, որոշ, որտեղ, որքան, ուրիշ, ոք, սա, քանիսը, քո</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as determiners (DET): ամբողջ, ամեն, այդ, այդպես, այդպիսի, այլ, այն, այնպիսի, այնքան, այս, բոլոր, դա, դու, դուք, ես, ինչ, ինքը, մեկ, մենք, մի, մյուս, յուրաքանչյուր, նա, նույն, ողջ, ով, որ, որոշ, որևէ, ուրիշ, քանի</li>
+<li>This corpus contains 35 lemmas tagged as determiners (DET): ամբողջ, ամեն, ամենայն, այդ, այդպիսի, այլ, այլևայլ, այն, այնպիսի, այնքան, այս, այսպիսի, բոլոր, դա, դու, դուք, ես, ինչ, ինքը, իրար, մեկ, մենք, մի, մյուս, յուրաքանչյուր, նա, նորին, նույն, ողջ, ով, որ, որոշ, որևէ, ուրիշ, քանի</li>
 </ul>
 
 <ul>
-<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: ամեն, այդ, այդպես, այդպիսի, այն, այնպիսի, այնքան, այս, բոլոր, դա, դու, ես, ինչ, ինքը, մեկ, մենք, մյուս, նա, ով, որ, որոշ, ուրիշ</li>
+<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, այդ, այդպիսի, այլ, այն, այնպիսի, այս, դա, դու, դուք, ես, ինչ, ինքը, իրար, մենք, մյուս, նա, նույն, ով, որ, որոշ, ուրիշ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): եմ, լինել</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): եմ, լինել, տալ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: լինել</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: լինել, տալ</li>
 </ul>
 
 <ul>
@@ -142,7 +140,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: պատմելիս</li>
+    <li>VERB: ընթանալիս, պատմելիս</li>
   </ul>
   </li>
 </ul>
@@ -150,8 +148,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: է, էր, են, էին, չի, չէր, էինք, չէ, ենք, չեն</li>
-    <li>VERB: չկա, կա, ասաց, ասես, կան, տարավ, գնաց, զգաց, կար, կդառնա</li>
+    <li>AUX: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
+    <li>VERB: ասաց, կա, չկա, ունի, տեսանք, ասես, կար, կարծես, ունեցավ, թվաց</li>
   </ul>
   </li>
 </ul>
@@ -159,7 +157,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Gdv
   <ul>
-    <li>VERB: առնելով, լինելու, համագործակցելով, նայելու, վկայակոչելով, անելով, ասելով, դիմելով, ելնելով, իմանալով</li>
+    <li>VERB: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
   </ul>
   </li>
 </ul>
@@ -167,8 +165,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: լինել</li>
-    <li>VERB: ասել, գնալ, հասնել, մեռնել, սկսել, տալ, անել, աշխատել, գալ, դնել</li>
+    <li>VERB: անել, հասնել, լինել, տալ, ասել, գնալ, իրականացնել, ազատվել, սկսել, բերել</li>
   </ul>
   </li>
 </ul>
@@ -176,8 +173,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Part
   <ul>
+    <li>ADJ: զբաղված</li>
     <li>AUX: եղել, լինելու</li>
-    <li>VERB: դարձել, հայտարարել, ունեցող, տալիս, եղել, ասում, կազմել, նայում, անում, եկել</li>
+    <li>VERB: տեսնում, նայում, դարձել, եղել, ուզում, տալիս, անում, գնում, կարծում, համարում</li>
   </ul>
   </li>
 </ul>
@@ -186,1054 +184,1068 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 
 
 
+<ul>
+  <li><a>Animacy</a></li>
+</ul>
 
-<li><a>Animacy</a>
+<ul>
+  <li>Hum
+    <ul>
+      <li>NOUN: կնոջ, Հայոց, կինը, մայր, Տ, աստված, ժողովուրդը, կանայք, աստծո, ժողովրդի</li>
+      <li>PROPN: Սիմեոնը, Կարեն, Սարգսյանի, Կարապետյանը, Սերժ, Հարութը, Վիգեն, Սարգսյանը, Մարտինը, Մարտինին</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Hum
-      <ul>
-        <li>NOUN: աստված, կնոջ, կանայք, գրող, կինը, մարդիկ, նախագահ, վարչապետ, Սատանան, իրանցիները</li>
-        <li>PROPN: Կարեն, Կարապետյանը, Հարութը, Սարգսյանի, Սերժ, Եսային, Խեչոն, Սարգսյանը, Վիգեն, Զաբել</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nhum
+    <ul>
+      <li>NOUN: անգամ, տարի, բան, օրը, ընթացքում, ժամանակ, դեպքում, թվականի, թ, հունվարին</li>
+      <li>PRON: դրան</li>
+      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Հայաստան, Էջմիածնի, Իրանը, Հայաստանը, ԱՄՆ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Inan
-      <ul>
-        <li>NOUN: թվականի, դեպքում, ժամանակ, օրը, հունվարին, բան, անգամ, ընթացքում, թ, մարտի</li>
-        <li>PROPN: Իրանի, Հայաստանի, ՀՀ, Ադրբեջանի, Հայաստանում, Իրանը, Հայաստան, Հայաստանը, Սևանի, ԱՄՆ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-  <ul>
-    <li>Nhum
-      <ul>
-        <li>NOUN: ձին, ճայերը, կենդանիների, ձիու, Կենտավր, առյուծի, աքլոր, բլոճը, գիշատիչը, կապիկներից</li>
-        <li>PROPN: Տիոնգի</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Assoc
+    <ul>
+      <li>PRON: ոմանք, Մերոնցից, մերոնք</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Coll
+    <ul>
+      <li>NOUN: զբոսաշրջության, ներկայիս, ներկայում, ներկայումս, բասկետբոլի, համերաշխության, վակուում, բնապահպանության, դողը, էներգետիկայի</li>
+      <li>PROPN: Արաքսի, Դանուբի, Եվրասիա</li>
+      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>AUX-Fin: են, էին, էինք, ենք, չեն, եք, չէինք, չէին, եղանք, չենք</li>
+      <li>DET: մեր, նրանց, իրենց, որոնց, նրանցից, որոնցից, դրանցից, Ձեզնից, դրանց, ձեր</li>
+      <li>NOUN: Հայոց, աչքերը, ՀԷԿ-երի, կանայք, օրերին, հարաբերությունները, մարդիկ, մարդկանց, տարիների, ուժերի</li>
+      <li>PRON: մենք, նրանք, նրանց, մեզ, որոնք, իրար, ովքեր, մեր, իրենց, որոնց</li>
+      <li>PROPN: Բալկաններում, Կարապետյանների</li>
+      <li>VERB-Fin: տեսանք, կան, չգիտեինք, գիտեինք, իջան, նշենք, մտածեցինք, մտանք, գիտենք, ունեն</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Assoc
-      <ul>
-        <li>NOUN: Գյուղացիք, տղերքը</li>
-        <li>PRON: Մերոնցից, ինչպիսիք, մերոնք</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>AUX-Fin: է, էր, չի, չէր, եմ, չէ, ես, կլինի, չեմ, ա</li>
+      <li>DET: իր, նրա, իմ, որի, դրա, քո, որից, ում, դրանից, դրանում</li>
+      <li>NOUN: անգամ, տարի, բան, օրը, ընթացքում, ժամանակ, դեպքում, կնոջ, թվականի, կինը</li>
+      <li>PRON: նա, ինչ, այն, դա, որը, նրան, ես, ով, այդ, ինքը</li>
+      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Սիմեոնը, Ադրբեջանի, Կարեն, Հայաստան, Սարգսյանի, Կարապետյանը</li>
+      <li>VERB-Fin: ասաց, կա, չկա, ունի, ասես, կար, կարծես, ունեցավ, թվաց, սկսեց</li>
+      <li>VERB-Gdv: տալուց</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Coll
-      <ul>
-        <li>NOUN: ներկայիս, ներկայում, բնապահպանության, էներգետիկայի, կոռուպցիայի, մարգինալությունը, նախօրեին, ռադիկալացում, վակուում, վակուումը</li>
-        <li>PROPN: ՀԱԿ-ն, Ֆրանսիա</li>
-        <li>VERB-Gdv: առնելով, լինելու, համագործակցելով, նայելու, վկայակոչելով, անելով, ասելով, դիմելով, ելնելով, իմանալով</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>AUX-Fin: են, էին, էինք, ենք, չեն, չէին, եղանք, եք, չենք, լինեին</li>
-        <li>DET: մեր, իրենց, նրանց, որոնցից, դրանցից, նրանցից, որոնց, դրանց, ձեր, ուրիշների</li>
-        <li>NOUN: ՀԷԿ-երի, կանայք, աչքերը, քայլեր, հարաբերությունները, մարդիկ, տարիների, իրանցիները, մարդկանց, ներդրումների</li>
-        <li>PRON: մենք, նրանք, որոնք, ովքեր, մեզ, նրանց, մեր, որոնց, դրանցից, դրանք</li>
-        <li>PROPN: Կարապետյանների</li>
-        <li>VERB-Fin: կան, չգիտեինք, նշենք, ունենք, կանցնեն, կկարողանանք, հիշեք, չգիտեին, տարան, տեսանք</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Abl
+    <ul>
+      <li>ADP: ետևից, առջևից, միջից, վրայից</li>
+      <li>DET: նրանցից, որոնցից, դրանցից, որից, Ձեզնից, դրանից</li>
+      <li>NOUN: կողմից, քարից, երկրներից, կյանքից, կողքից, հետևից, քաղաքից, օրից, 1-ից, առաջնությունից</li>
+      <li>PRON: դրանից, դրանցից, իրարից, իրենից, նրանից, նրանցից, որից, որտեղից, Այստեղից, Մերոնցից</li>
+      <li>PROPN: Հայաստանից, Ադրբեջանից, Ալաշկերտից, ԲՀԿ-ից, Երևանից, Մոսկվայից, Պետրոսից, Պուտինից, Սսից</li>
+      <li>VERB-Gdv: գալով, Պարելուց, զանգահարելուց, զուլալվելուց, ընտրվելուց, լինելուց, լուծելուց, կիսվելուց, հանդիպելուց, մասնակցելուց</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>AUX-Fin: է, էր, չի, չէր, չէ, ես, եմ, ա, կլինի, չեմ</li>
-        <li>DET: իր, նրա, որի, քո, դրա, իմ, որից, ում, դրանից, դրանում</li>
-        <li>NOUN: թվականի, դեպքում, ժամանակ, օրը, հունվարին, բան, անգամ, ընթացքում, թ, մարտի</li>
-        <li>PRON: նա, ինչ, այն, դա, որը, ինքը, նրան, ով, ում, իրեն</li>
-        <li>PROPN: Իրանի, Հայաստանի, Կարեն, ՀՀ, Կարապետյանը, Հարութը, Ադրբեջանի, Հայաստանում, Սարգսյանի, Սերժ</li>
-        <li>VERB-Fin: չկա, կա, ասաց, ասես, տարավ, գնաց, զգաց, կար, կդառնա, հարցրեց</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADP: միջի</li>
+      <li>NOUN: կնոջ, թվականի, հունվարին, պահին, երկրի, թվականին, կյանքի, մարտի, ի, դոլարի</li>
+      <li>PRON: նրան, նրանց, մեզ, իրեն, ում, իրար, ինձ, իրենց, որի, որին</li>
+      <li>PROPN: Հայաստանի, Իրանի, Ադրբեջանի, Սարգսյանի, Էջմիածնի, Մարտինին, Երևանի, Մարտինի, Քրիստոսի, Կարապետյանի</li>
+      <li>VERB-Gdv: անելու, նայելու, տեսնելու, լինելու, մասնակցելու, տալու, բարձրացնելու, գալու, զբաղվելու, կալանավորելու</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADP: վրայի</li>
+      <li>DET: իր, մեր, նրա, նրանց, իրենց, իմ, որի, դրա, որոնց, քո</li>
+      <li>NOUN: Հայոց, վերջո</li>
+      <li>PRON: նրա, իր, մեր, դրա, Այսքանի, Ձեր, ամենի, բոլորի, մեկի, սրա</li>
+      <li>VERB-Gdv: մաքրելու</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Ins
+    <ul>
+      <li>ADP: միջով, վրայով, տակով, առջևով, մոտով</li>
+      <li>NOUN: ուղղությամբ, իմաստով, պատճառով, խոսքով, ոտքով, առումով, կապակցությամբ, կարծիքով, հաշվով, միջոցով</li>
+      <li>PRON: որքանով, ինչքանով, իրենցով, որով</li>
+      <li>VERB-Gdv: լինելով, առնելով, դիմելով, ելնելով, համագործակցելով, չիմանալով, վկայակոչելով, Անդրադառնալով, ազատվելով, անելով</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Abl
-      <ul>
-        <li>DET: որոնցից, դրանցից, նրանցից, որից, դրանից</li>
-        <li>NOUN: հետևից, երկրներից, 1-ից, բանից, գմբեթից, զինատեսակներից, ընտրություններից, ծխից, կյանքից, հայտատուներից</li>
-        <li>PRON: դրանից, դրանցից, որտեղից, Մերոնցից, ամենից, իրենից, նրանից, նրանցից, որից, քոնից</li>
-        <li>PROPN: Ադրբեջանից, ԲՀԿ-ից, Երևանից, Հայաստանից, Մոսկվայից, Պետրոսից, Պուտինից</li>
-        <li>VERB-Gdv: Պարելուց, գալով, զանգահարելուց, զուլալվելուց, լինելուց, լուծելուց, նայելուց, շտապելուց</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Loc
+    <ul>
+      <li>DET: դրանում</li>
+      <li>NOUN: ընթացքում, դեպքում, դաշտում, կյանքում, գծում, հարցում, տարածաշրջանում, գործնականում, երկրում, աշխարհում</li>
+      <li>PRON: որում</li>
+      <li>PROPN: Հայաստանում, Էջմիածնում, Մոսկվայում, Ադրբեջանում, Խորվաթիայում, Կոստանդնուպոլսում, Կրեմլում, ՀՀԿ-ում, Փարիզում, Ֆրանսիայում</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADP: դիմացի, միջի</li>
-        <li>NOUN: թվականի, հունվարին, մարտի, դոլարի, փետրվարի, ՀԷԿ-երի, ծրագրի, կնոջ, շարժման, գրականության</li>
-        <li>PRON: նրան, ում, իրեն, մեզ, նրանց, իրար, ինչի, որոնց, Ձեզ, իրենց</li>
-        <li>PROPN: Իրանի, Հայաստանի, Ադրբեջանի, Սարգսյանի, Կարապետյանի, Սևանի, Երևանի, Ղարաբաղի, Փարիզի, Արցախի</li>
-        <li>VERB-Gdv: լինելու, նայելու, կալանավորելու, մտածելու, տալու, տրամադրելու, ազատազրկելու, ազատելու, ամրացնելուն, անելու</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>DET: իր, մեր, նրա, իրենց, նրանց, որի, քո, դրա, իմ, որոնց</li>
-        <li>PRON: մեր, դրա, իր, նրա, Այսքանի, բոլորի, մեկի, սրա</li>
-        <li>VERB-Gdv: մաքրելու</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ins
-      <ul>
-        <li>ADP: վրայով, միջով, մոտով, տակով</li>
-        <li>NOUN: ուղղությամբ, պատճառով, դրությամբ, իմաստով, կապակցությամբ, կարծիքով, հաշվով, անունով, առևտրով, ընթացակարգով</li>
-        <li>PRON: ինչքանով, իրենցով, որով</li>
-        <li>VERB-Gdv: առնելով, համագործակցելով, վկայակոչելով, անելով, ասելով, դիմելով, ելնելով, իմանալով, մեկնաբանելով, պահանջելով</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Loc
-      <ul>
-        <li>DET: դրանում</li>
-        <li>NOUN: դեպքում, ընթացքում, դաշտում, գծում, գործնականում, երկրում, հարցում, հրապարակում, թվում, ծովափում</li>
-        <li>PRON: որում</li>
-        <li>PROPN: Հայաստանում, Մոսկվայում, Կրեմլում, ՀՀԿ-ում, Փարիզում, Ֆրանսիայում, Ադրբեջանում, Արցախում, Բրիտանիայում, Թեհրանում</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADP: մեջ, վրա, առաջ, տակ, մոտ, դիմաց, առջև</li>
-        <li>DET: ինչ</li>
-        <li>NOUN: ժամանակ, օրը, բան, անգամ, թ, տարի, աստված, շարժում, կանայք, աչքերը</li>
-        <li>PRON: նա, մենք, ինչ, դա, նրանք, երբ, որը, ինքը, որոնք, ով</li>
-        <li>PROPN: Կարեն, ՀՀ, Կարապետյանը, Հարութը, Սերժ, Իրանը, Եսային, Խեչոն, Հայաստան, Հայաստանը</li>
-        <li>VERB-Gdv: ամրացնելն, անելը, բացելու, բղավելը, գրավելն, դարձնելը, խմելը, ծխելն, հաղթահարելը, հայտնվելն</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADP: մեջ, վրա, առաջ, տակ, մոտ, առջև, դիմաց, առաջներս</li>
+      <li>NOUN: անգամ, տարի, բան, օրը, ժամանակ, կինը, թ, մայր, օր, Տ</li>
+      <li>PRON: մենք, նա, նրանք, ինչ, դա, որը, ես, ով, որոնք, ինքը</li>
+      <li>PROPN: ՀՀ, Սիմեոնը, Կարեն, Հայաստան, Կարապետյանը, Սերժ, Հարութը, Վիգեն, Սարգսյանը, Իրանը</li>
+      <li>VERB-Gdv: ամրացնելն, անելը, բղավելը, գրավելն, դարձնելը, թոթափելն, խմելը, ծխելն, հաղթահարելը, հայտնվելն</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>NOUN: օրը, կինը, հունվարին, պահին, թվականին, աչքերը, ը, տունը, ժողովուրդը, ճանապարհը</li>
+      <li>PRON: որը, նրան, ինչը, որն, որին, այնպիսին, ինչին, այդպիսին, մյուսին, ուրիշը</li>
+      <li>PROPN: Սիմեոնը, Կարապետյանը, Հարութը, Սարգսյանը, Իրանը, Հայաստանը, Մարտինը, Մարտինին, Եսային, Խեչոն</li>
+      <li>VERB-Gdv: ամրացնելն, ամրացնելուն, անելը, բղավելը, գրավելն, դարձնելը, ընդգրկվելուն, թոթափելն, լինելուն, խմելը</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>NOUN: օրը, հունվարին, աչքերը, գիշերը, կառավարությունը, թվականին, խնդիրը, կինը, հարաբերությունները, հեռախոսը</li>
-        <li>PRON: որը, ինքն, մեկը, որն, ամենը, այդպիսին, այնպիսին, Ինչին, Մեկն, բոլորը</li>
-        <li>PROPN: Կարապետյանը, Հարութը, Իրանը, Եսային, Խեչոն, Հայաստանը, Սարգսյանը, Սաթոն, Մուրակամին, Սևանինը</li>
-        <li>VERB-Gdv: ամրացնելն, ամրացնելուն, անելը, բղավելը, գրավելն, դարձնելը, լինելուն, խմելը, ծխելն, ծննդաբերելուն</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADP: վրայով, դիմացի, միջով, մոտով</li>
-        <li>DET: որից, մեկի, ուրիշների</li>
-        <li>NOUN: թվականի, դեպքում, ժամանակ, բան, անգամ, ընթացքում, թ, մարտի, դոլարի, տարի</li>
-        <li>PRON: ինչի, ոք, Այսքանի, Մերոնցից, ամենայնի, ամենի, ամենից, բոլորի, ինչքանով, իրենից</li>
-        <li>PROPN: Իրանի, Հայաստանի, Կարեն, ՀՀ, Ադրբեջանի, Հայաստանում, Սարգսյանի, Սերժ, Հայաստան, Վիգեն</li>
-        <li>VERB-Gdv: առնելով, լինելու, համագործակցելով, նայելու, վկայակոչելով, անելով, ասելով, դիմելով, ելնելով, իմանալով</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADP: միջից</li>
+      <li>DET: որից</li>
+      <li>NOUN: անգամ, տարի, բան, ընթացքում, ժամանակ, դեպքում, կնոջ, Հայոց, թվականի, թ</li>
+      <li>PRON: ինչ, որում, որի, ինչի, նրանից, որից, որքանով, ուրիշների, Այսքանի, ամենայնի</li>
+      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Կարեն, Հայաստան, Սարգսյանի, Սերժ, Վիգեն</li>
+      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADV: ավելի</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADV: ավելի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: նոր, քաղաքական, մեծ, կարող, ազգային, փոքր, կարևոր, հնարավոր, տարբեր, վերջին</li>
-        <li>ADV: շատ, վեր, լավ, կամաց, քիչ, հաճախ, մոտ, նոր, անկեղծ, արագ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: նոր, քաղաքական, մեծ, կարող, հայ, ազգային, սուրբ, առաջին, հնարավոր, կարևոր</li>
+      <li>ADJ-Part: զբաղված</li>
+      <li>ADV: շատ, քիչ, արագ, կամաց, հաճախ, փոքր, մոտ, շուտ, անլուրջ, համառորեն</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: ամենալավ, բարձրագույն, լավագույն, Ամենաթեժ, Ամենատարեց, ամենահարմար, ամենաշատ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: լավագույն, ամենաերկար, Ծայրագույն, ամենալավ, բարձրագույն, Ամենաթեժ, Ամենատարեց, ամենադժվար, ամենախոշոր, ամենակրքոտ</li>
+      <li>ADV: բարձրագույն</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX-Fin: չի, չէր, չեն, չէ, չեմ, չէինք, չէին, չենք, չէի, չլինի</li>
+      <li>PART: Մի, չպիտի</li>
+      <li>VERB-Fin: չկա, չգիտեինք, չկար, չուներ, չունի, չգիտես, չգիտեր, չեղավ, չգիտեին, չգիտենք</li>
+      <li>VERB-Gdv: չիմանալով, չհավատալով, չտեսնելու, Չունենալով, չանցնելով, չընկնելով, չթողնելով, չհանդուրժելու, չհասկանալով, չմասնակցելը</li>
+      <li>VERB-Inf: չգնալ, չընկալել, չընտրել, չլինել, չմնալ, չմշակել, չտալ, չտեսնել</li>
+      <li>VERB-Part: չնայած, չունեցող, չնախատեսված, Չհաշված, չավարտվող, չլավացած, չծագած, չծնված, չմատակարարող, չվայելող</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>AUX-Fin: չի, չէր, չէ, չեն, չէին, չեմ, չենք, չլինի, Չէի, չէինք</li>
-        <li>VERB-Fin: չկա, չգիտեինք, չուներ, չկար, չունի, չգիտեին, չգիտես, չգիտեր, չեղավ, չունեցավ</li>
-        <li>VERB-Gdv: չհասկանալով</li>
-        <li>VERB-Inf: չգնալ, չընկալել, չընտրել, չլինել, չմշակել, չտալ</li>
-        <li>VERB-Part: չնայած, չունեցող, Չհաշված, չավարտվող, չծնված, չնախատեսված, չվայելող</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pos
-      <ul>
-        <li>AUX-Fin: է, էր, են, էին, էինք, ենք, ես, եմ, ա, կլինի</li>
-        <li>AUX-Inf: լինել</li>
-        <li>PART: պետք, պիտի</li>
-        <li>VERB-Conv: պատմելիս</li>
-        <li>VERB-Fin: կա, ասաց, ասես, կան, տարավ, գնաց, զգաց, կար, կդառնա, հարցրեց</li>
-        <li>VERB-Gdv: առնելով, լինելու, համագործակցելով, նայելու, վկայակոչելով, անելով, ասելով, դիմելով, ելնելով, իմանալով</li>
-        <li>VERB-Inf: ասել, գնալ, հասնել, մեռնել, սկսել, տալ, անել, աշխատել, գալ, դնել</li>
-        <li>VERB-Part: ունեցող, ուղղված, կապված, ընկած, գտնվող, ծնվ, կատարած, նախորդող, նստած, ունեցած</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pos
+    <ul>
+      <li>AUX-Fin: է, էր, են, էին, էինք, եմ, ենք, եք, ես, կլինի</li>
+      <li>PART: պետք, պիտի</li>
+      <li>VERB-Fin: ասաց, կա, ունի, տեսանք, ասես, կար, կարծես, ունեցավ, թվաց, կան</li>
+      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+      <li>VERB-Inf: անել, հասնել, լինել, տալ, ասել, գնալ, իրականացնել, ազատվել, սկսել, բերել</li>
+      <li>VERB-Part: ունեցող, ընկած, կախված, ուղղված, ունեցած, կանգնած, նստած, կապված, անցած, գտնվող</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Dur
-      <ul>
-        <li>AUX-Fin: լինեին</li>
-        <li>AUX-Inf: լինել</li>
-        <li>VERB-Inf: լինել</li>
-        <li>VERB-Part: ունեցող, գտնվող, նախորդող, գործող, իշխող, հայաթափվող, հանող, չունեցող, սպասող, վերականգնվող</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dur
+    <ul>
+      <li>AUX-Fin: լինեին</li>
+      <li>VERB-Inf: լինել</li>
+      <li>VERB-Part: ունեցող, գտնվող, գործող, կառուցվող, հասնող, նախորդող, չունեցող, ընկնող, թվացող, իշխող</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: է, էր, են, էին, չի, չէր, էինք, չէ, ենք, չեն</li>
-        <li>VERB-Fin: չկա, կա, կան, կար, ունի, չգիտեինք, չուներ, ունենք, չկար, չունի</li>
-        <li>VERB-Part: դարձել, տալիս, ասում, նայում, անում, ուզում, գնում, պատրաստվում, տեսնում, գալիս</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
+      <li>VERB-Fin: կա, չկա, ունի, կար, կան, չգիտեինք, չկար, ուներ, չուներ, չունի</li>
+      <li>VERB-Part: տեսնում, նայում, դարձել, ուզում, տալիս, անում, գնում, կարծում, համարում, ասում</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp,Iter
-      <ul>
-        <li>VERB-Part: ճթճթում, տրաքտրաքում</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp,Iter
+    <ul>
+      <li>VERB-Part: ձգձգվում, ճթճթում, տրաքտրաքում</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Iter
-      <ul>
-        <li>VERB-Gdv: քաշքշելու</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Iter
+    <ul>
+      <li>VERB-Gdv: քաշքշելու</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Iter,Perf
-      <ul>
-        <li>VERB-Part: նստոտած, խնդմնդացել, փորփրել</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Iter,Perf
+    <ul>
+      <li>VERB-Fin: խոցոտեցին</li>
+      <li>VERB-Part: նստոտած, խնդմնդացել, փորփրել</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>AUX-Fin: եղանք</li>
-        <li>AUX-Part: եղել</li>
-        <li>VERB-Fin: ասաց, տարավ, գնաց, զգաց, հարցրեց, ունեցավ, տվեց, բացեց, եղավ, ծնվեց</li>
-        <li>VERB-Part: հայտարարել, եղել, կազմել, եկել, ուղղված, կախված, կապված, արել, գնացել, ընկած</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>AUX-Fin: եղանք, եղան, տվեց</li>
+      <li>AUX-Part: եղել</li>
+      <li>VERB-Fin: ասաց, տեսանք, ունեցավ, թվաց, սկսեց, տվեց, գնաց, եկավ, եղավ, իջան</li>
+      <li>VERB-Part: եղել, հայտարարել, եկել, ընկած, կախված, սկսել, ուղղված, ունեցած, անցել, կազմել</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prog
-      <ul>
-        <li>VERB-Conv: պատմելիս</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prog
+    <ul>
+      <li>VERB-Conv: ընթանալիս, պատմելիս</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prosp
-      <ul>
-        <li>AUX-Fin: կլինի, չլինի, լիներ, լինի, կլիներ</li>
-        <li>AUX-Part: լինելու</li>
-        <li>VERB-Fin: ասես, կդառնա, նշենք, ԱՍԵ, անցնի, լիներ, կանցնեն, կլինի, կկարողանանք, հիշեք</li>
-        <li>VERB-Part: ապահովելու, ավելացնելու, գալու, դիպչելու, ժառանգելու, իջնելու, լինելու, ծանրանալու, կապվելու, համատեղվելու</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prosp
+    <ul>
+      <li>AUX-Fin: կլինի, լինի, լիներ, չլինի, լինեինք, լինեն, կլիներ</li>
+      <li>AUX-Part: լինելու</li>
+      <li>VERB-Fin: ասես, կարծես, լինի, կդառնա, գիտեինք, լիներ, նշենք, կանցկացվի, ունենա, ԱՍԵ</li>
+      <li>VERB-Part: լինելու, անցկացնելու, անցնելիք, ապահովելու, ավելացնելու, գալու, գլխավորելու, դիպչելու, ընդունելու, ժառանգելու</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: կլինի, կլիներ</li>
+      <li>VERB-Fin: կդառնա, կանցկացվի, անցնի, կազդի, կանցնեն, կասեր, կբերի, կգար, կլինեն, կլինի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: կլինի, կլիներ</li>
-        <li>VERB-Fin: կդառնա, անցնի, կանցնեն, կլինի, կկարողանանք, Կքշի, զոռի, խնայի, կազդի, կանեն</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: հիշեք, տարեք, Ասա, Լսիր, աշակերտեցեք, առեք, արեք, բաց, բացեք, գնացեք</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: հիշեք, Ասա, Լսիր, առեք, բաց, բացեք, թափի, կերեք, նայի, տար</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
+      <li>VERB-Fin: ասաց, կա, չկա, ունի, տեսանք, կար, ունեցավ, թվաց, կան, սկսեց</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: է, էր, են, էին, չի, չէր, էինք, չէ, ենք, չեն</li>
-        <li>VERB-Fin: չկա, կա, ասաց, կան, տարավ, գնաց, զգաց, կար, հարցրեց, ունեցավ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nec
+    <ul>
+      <li>PART: պետք, պիտի, չպիտի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Nec
-      <ul>
-        <li>PART: պետք, պիտի</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: լինի, լիներ, չլինի, լինեին, լինեինք, լինեն</li>
+      <li>VERB-Fin: ասես, կարծես, լինի, գիտեինք, լիներ, նշենք, ԱՍԵ, ասենք, գնա, գնան</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: չլինի, լինեին, լիներ, լինի</li>
-        <li>VERB-Fin: ասես, նշենք, ԱՍԵ, լիներ, քոռանաս, ԽԱՐԴԱԽԵ, Հիշեցնենք, անեն, անենք, աշխատենք</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: էր, էին, էինք, չէր, չէինք, չէին, էի, չէի, լիներ, էիր</li>
+      <li>VERB-Fin: կար, չգիտեինք, չկար, գիտեինք, լիներ, ուներ, չուներ, չգիտեր, գիտեի, գիտեր</li>
+      <li>VERB-Part: գիտակցում, հայտնում, հասցնում, հրահանգվում</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: եղանք, եղան, տվեց</li>
+      <li>VERB-Fin: ասաց, տեսանք, ունեցավ, թվաց, սկսեց, տվեց, գնաց, եկավ, եղավ, իջան</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: էին, չէր, էինք, չէին, Չէի, էի, լինեին, լիներ, կլիներ, չէինք</li>
-        <li>VERB-Fin: կար, չգիտեինք, չուներ, չկար, լիներ, ուներ, չգիտեին, չգիտեր, գիտեի, գիտեին</li>
-        <li>VERB-Part: գիտակցում, հայտնում, հասցնում, հրահանգվում, վերջացնում, տեղափոխվում, օգտվում</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: է, են, չի, եմ, ենք, չեն, չէ, եք, ես, կլինի</li>
+      <li>VERB-Fin: կա, չկա, ունի, ասես, կարծես, կան, լինի, կդառնա, նշենք, կանցկացվի</li>
+      <li>VERB-Part: դիպչելու</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: էր, եղանք</li>
-        <li>VERB-Fin: ասաց, տարավ, գնաց, զգաց, հարցրեց, ունեցավ, տվեց, բացեց, եղավ, ծնվեց</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: է, են, չի, չէ, ենք, չեն, ես, եմ, ա, կլինի</li>
-        <li>VERB-Fin: չկա, կա, ասես, կան, կդառնա, ունի, նշենք, ունենք, չունի, գիտեմ</li>
-        <li>VERB-Part: դիպչելու</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Act
+    <ul>
+      <li>VERB-Conv: պատմելիս</li>
+      <li>VERB-Fin: ասաց, ունի, տեսանք, ասես, կարծես, ունեցավ, չգիտեինք, տվեց, գիտեինք, նշենք</li>
+      <li>VERB-Gdv: անելու, առնելով, տեսնելու, չիմանալով, վկայակոչելով, տալու, անելով, ասելով, բարձրացնելու, դիտարկելով</li>
+      <li>VERB-Inf: անել, տալ, ասել, իրականացնել, սկսել, բերել, դնել, ենթադրել, ուսումնասիրել, պատկերացնել</li>
+      <li>VERB-Part: տեսնում, ուզում, տալիս, անում, կարծում, համարում, հայտարարել, ունեցող, ասում, ունենում</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Cau
+    <ul>
+      <li>VERB-Fin: Հիշեցնենք, խմեցրեց, կերցրեց, հասկացներ, հասկացրեց, հիշեցնի, հիշեցրին</li>
+      <li>VERB-Part: հնչեցրած, սովորեցրել</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Voice</a>
+<ul>
+  <li>Mid
+    <ul>
+      <li>VERB-Conv: ընթանալիս</li>
+      <li>VERB-Fin: կա, չկա, կար, թվաց, կան, լինի, կդառնա, չկար, գնաց, եկավ</li>
+      <li>VERB-Gdv: լինելով, նայելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով, մասնակցելու, Անդրադառնալով, գալու</li>
+      <li>VERB-Inf: հասնել, լինել, գնալ, ազատվել, գալ, դառնալ, մեռնել, մոտենալ, աշխատել, ինքնամաքրվել</li>
+      <li>VERB-Part: նայում, դարձել, եղել, գնում, գալիս, եկել, ընկած, սպասում, կախված, թվում</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Act
-      <ul>
-        <li>VERB-Conv: պատմելիս</li>
-        <li>VERB-Fin: ասաց, ասես, տարավ, զգաց, հարցրեց, ունեցավ, ունի, չգիտեինք, չուներ, տվեց</li>
-        <li>VERB-Gdv: առնելով, վկայակոչելով, անելով, ասելով, իմանալով, կալանավորելու, մեկնաբանելով, մտածելու, պահանջելով, տալով</li>
-        <li>VERB-Inf: ասել, սկսել, տալ, անել, դնել, ենթադրել, իրականացնել, հասկանալ, հիշել, մշակել</li>
-        <li>VERB-Part: հայտարարել, ունեցող, տալիս, ասում, կազմել, անում, ուզում, տեսնում, արել, կարծում</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: կանցկացվի, մատուցվեց, վերահաստատվեց, Կիրականացվի, Կներկայացվեն, անվանակոչվեց, առաջադրվի, արձակվեց, լիցքաթափվեց, կատարվեց</li>
+      <li>VERB-Gdv: ազատվելով, ընդգրկվելուն, ընտրվելուց, լուսավորվելով, ներգրավվելով, չնորոգվելով</li>
+      <li>VERB-Inf: ազատվել, ընտրվել, լցվել</li>
+      <li>VERB-Part: ուղղված, ստիպված, ստացվել, արտահանվել, կայացվել, կառուցվող, համարվում, ձգձգվում, ներմուծվել, նշված</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cau
-      <ul>
-        <li>VERB-Fin: Հիշեցնենք, խմեցրեց, կերցրեց, հասկացրեց, հիշեցնի</li>
-        <li>VERB-Part: բարդացնում, կսկծացնող, սովորեցրել</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Mid
-      <ul>
-        <li>VERB-Fin: չկա, կա, կան, գնաց, կար, կդառնա, եղավ, ծնվեց, չկար, անցնի</li>
-        <li>VERB-Gdv: լինելու, համագործակցելով, նայելու, դիմելով, ելնելով, Դատելով, Պարելուց, անցնելով, աջակցելու, արժենալով</li>
-        <li>VERB-Inf: գնալ, հասնել, մեռնել, աշխատել, գալ, լինել, ապրել, դառնալ, դատել, զբոսնել</li>
-        <li>VERB-Part: դարձել, եղել, նայում, եկել, գնում, կախված, կապված, պատրաստվում, գալիս, գնացել</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Fin: անվանակոչվեց, արձակվեց, լիցքաթափվեց, կիրականացվեն, հասցվի, հյուրընկալվեցին, որոշվեց, ուղղվեն, չընդունվեց, չսիրվեց</li>
-        <li>VERB-Gdv: լուսավորվելով, ներգրավվելով</li>
-        <li>VERB-Inf: ազատվել, ընտրվել, լցվել, հարաբերվել</li>
-        <li>VERB-Part: ուղղված, ստացվել, արտահանվել, կայացվել, ներմուծվել, պարզվել, ապահովվել, բացվել, բերվել, համարվում</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>VERB-Fin: գրկախառնվեցին</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Rcp
+    <ul>
+      <li>VERB-Fin: գրկախառնվեցին</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: մի</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: մի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: այստեղ, այսպես, այնքան, այդքան, նույնպես, այնպես, այդպես, էնքան, էնպես</li>
-        <li>DET: այդ, այս, այն, մյուս, նույն, այդպիսի, այնպիսի, դրա, էն, էդ</li>
-        <li>PRON: այն, դա, սա, դրանից, այդ, այդմ, այդպես, դրա, Այս, Այստեղ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: այնքան, այդպես, այստեղ, այդքան, այնտեղ, նույնպես, այսպես, այնպես, էնքան, նույնքան</li>
+      <li>DET: այդ, այս, այն, մյուս, նույն, դրա, այդպիսի, այնպիսի, էն, էդ</li>
+      <li>PRON: այն, դա, այդ, սա, այս, դրանից, այդմ, այդպես, դրա, դրանք</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Emp
-      <ul>
-        <li>DET: իր, իրենց</li>
-        <li>PRON: ինքը, իրեն, ինքն, իր, իրենց, իրենք, ինքներս, իրենից, իրենցով</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: իր, իրենց</li>
+      <li>PRON: ինքը, իրեն, իր, ինքն, իրենց, իրենք, իրենից, ինքներս, իրենցով</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Exc
-      <ul>
-        <li>DET: ինչ, Քանի, էդպիսի</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Exc
+    <ul>
+      <li>ADV: ինչպես</li>
+      <li>DET: ինչ, Քանի, այնպիսի, էդպիսի</li>
+      <li>PRON: ինչ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: այլ, որևէ, ուրիշ, որոշ, Մեկ, մեկի, ուրիշների</li>
-        <li>PRON: մեկը, ոք, այլն, ոմանք, Մեկն, մեկի, մեկին, մեկս, որոշները, ուրիշը</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: այլ, որևէ, որոշ, ուրիշ, այլևայլ, մեկ, մեկի</li>
+      <li>PRON: մեկը, այլն, ոք, մեկին, մեկն, ոմանք, ուրիշը, ուրիշների, այլոք, մեկի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: ինչպես, ինչքան, ինչու, ոնց</li>
-        <li>DET: քանի, ինչ, որ, ում</li>
-        <li>PRON: ինչ, ով, ում, ինչու, երբ, ինչի, որն, որտեղ, Ինչին, Որքան</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: ինչպես, երբ, ինչու, քանի, ինչքան, որտեղ, Որքան, ոնց</li>
+      <li>DET: ինչ, քանի, որ, ում</li>
+      <li>PRON: ինչ, ով, ում, ինչի, ինչին, որն, որքան, որքանով, ինչը, ինչքանով</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>PRON: ոչինչ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: ոչինչ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: մեր, նրա, նրանց, քո, իմ, նրանցից, ձեր, քու</li>
-        <li>PRON: նա, մենք, նրանք, նրան, մեզ, նրանց, ես, մեր, դու, Ձեզ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: մեր, նրա, նրանց, իմ, քո, նրանցից, Ձեզնից, ձեր, քու</li>
+      <li>PRON: մենք, նա, նրանք, նրան, նրանց, մեզ, ես, նրա, ինձ, մեր</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: իրար, իրարու, միմյանց</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>DET: իրար</li>
+      <li>PRON: իրար, իրարից, իրարու, միմյանց</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: ինչպես, ուր</li>
-        <li>DET: որի, որոնցից, որից, որոնց, ինչի</li>
-        <li>PRON: որը, երբ, որոնք, ովքեր, որտեղ, որում, ով, որոնց, ինչքան, որին</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: երբ, որտեղ, ինչպես, ուր, որքան, ինչքան</li>
+      <li>DET: որի, որոնց, որոնցից, որից, ինչի</li>
+      <li>PRON: որը, որոնք, ով, ովքեր, որում, ինչը, որի, որին, որոնց, որն</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>ADV: բոլորովին</li>
-        <li>DET: բոլոր, ամեն, ամբողջ, ողջ, յուրաքանչյուր</li>
-        <li>PRON: ամենը, ամենայնի, ամենի, ամենից, բոլորը, բոլորի, բոլորին, բոլորն</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>ADV: բոլորովին, մեկ</li>
+      <li>DET: ամեն, բոլոր, ամբողջ, ողջ, Ամենայն, յուրաքանչյուր</li>
+      <li>PRON: ամենը, բոլորը, բոլորս, ամենքիս, բոլորին, Բոլորդ, ամենայնի, ամենի, ամենից, ամենքս</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>ADJ: մեկ, յոթերորդ</li>
+      <li>ADV: մեկ</li>
+      <li>NUM: երկու, հազար, մեկ, մլն, 2017, 2016, երեք, մի, 2, հարյուր</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>ADJ: մեկ, յոթերորդ</li>
-        <li>NUM: մլն, 2017, 2016, հազար, մեկ, երկու, մի, 2, մլրդ, 06</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Frac
+    <ul>
+      <li>ADJ: ⅛</li>
+      <li>NUM: 3.2, կես, 0.2, 13,99, 14,07, 176.7, 2,3, 2,7, 201.5, 210.4</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dist
-      <ul>
-        <li>ADV: մեկ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: առաջին, երկրորդ, 5-րդ, Բ, 100-րդ, 11-րդ, 20-րդ, XX, երրորդ, 113-րդ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Frac
-      <ul>
-        <li>NUM: 3.2, կես, 0.2, 13,99, 14,07, 176.7, 2,3, 2,7, 201.5, 210.4</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Range
+    <ul>
+      <li>NUM: 12-13, 17-23, 1878-1943, 1990-1999, 2008-2012, 65-68, 7-10, մեկ-երկու</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: առաջին, երկրորդ, 100-րդ, 11-րդ, 20-րդ, XX, 113-րդ, քսաներորդ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-    <li>Range
-      <ul>
-        <li>NUM: 12-13, 17-23, 1878-1943, 2008-2012, մեկ-երկու</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: հայոց, Հաչա, Մկաց, Կասպից, Սևանա, Հայաստանյայց, Սասնա, եպիսկոպոսաց</li>
+      <li>DET: իր, մեր, նրա, նրանց, իրենց, իմ, որի, դրա, որոնց, քո</li>
+      <li>NOUN: Փոքրինը, բոլորինն, իրերինը</li>
+      <li>PRON: քոնից</li>
+      <li>PROPN: Սևանինը</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: իր, իրենց</li>
+      <li>PRON: իրեն, իր, իրենց, իրենից, իրենցով</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: Հաչա, Մկաց, հայոց, Սևանա, Կասպից</li>
-        <li>DET: իր, մեր, նրա, իրենց, նրանց, որի, քո, դրա, իմ, որոնց</li>
-        <li>NOUN: Փոքրինը, իրերինը</li>
-        <li>PRON: իր, իրենց, նրա, մերոնք, քոնից</li>
-        <li>PROPN: Սևանինը</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: էինք, եմ, չեմ, չէինք, էի, եղանք, չենք, չէի, լինեինք</li>
+      <li>DET: մեր, իմ</li>
+      <li>PRON: մենք, մեզ, ես, ինձ, մեր, մեզնից</li>
+      <li>VERB-Fin: տեսանք, չգիտեինք, գիտեինք, նշենք, մտածեցինք, մտանք, գիտենք, ունենք, ասենք, գիտեի</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: եք, ես, էիր</li>
+      <li>DET: քո, Ձեզնից, ձեր, քու</li>
+      <li>PRON: դու, ձեզ, Դուք, Ձեր, քեզ, քոնից</li>
+      <li>VERB-Fin: ասես, կարծես, չգիտես, գիտեք, հիշեք, տարեք, քոռանաս, Ասա, Լսիր, Կասեք</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: իր, իրենց</li>
-        <li>PRON: իր, իրեն, իրենց, իրենից</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: է, էր, են, էին, չի, չէր, ենք, չեն, չէ, կլինի</li>
+      <li>DET: իր, նրա, նրանց, իրենց, նրանցից</li>
+      <li>PRON: նա, նրանք, նրան, նրանց, ինքը, իրեն, նրա, իր, ինքն, իրենց</li>
+      <li>VERB-Fin: ասաց, կա, չկա, ունի, կար, ունեցավ, թվաց, կան, սկսեց, լինի</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polite</a></li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>Form
+    <ul>
+      <li>PRON: Ձեզ, Դուք, Ձեր</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: էինք, եմ, եղանք, չեմ, չենք, Չէի, էի, չէինք</li>
-        <li>DET: մեր, իմ</li>
-        <li>PRON: մենք, մեզ, ես, մեր, Մերոնցից, ինձ, մերոնք</li>
-        <li>VERB-Fin: չգիտեինք, նշենք, ունենք, գիտեմ, կկարողանանք, տեսանք, Հիշեցնենք, ամրապնդեցինք, անենք, աշխատենք</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: ես, եք</li>
-        <li>DET: քո, ձեր, քու</li>
-        <li>PRON: դու, Ձեզ, քոնից</li>
-        <li>VERB-Fin: ասես, հիշեք, չգիտես, քոռանաս, Ասա, Գիտեք, Լսիր, առեք, բաց, բացեք</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: է, էր, են, էին, չի, չէր, չէ, ենք, չեն, ա</li>
-        <li>DET: իր, նրա, իրենց, նրանց, նրանցից</li>
-        <li>PRON: նա, նրանք, ինքը, նրան, իրեն, նրանց, ինքն, իր, իրենց, իրենք</li>
-        <li>VERB-Fin: չկա, կա, ասաց, կան, տարավ, գնաց, զգաց, կար, կդառնա, հարցրեց</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Polite</a>
-
-  <ul>
-    <li>Form
-      <ul>
-        <li>PRON: Ձեզ</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Infm
-      <ul>
-        <li>DET: քո, ձեր, քու</li>
-        <li>PRON: դու</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Infm
+    <ul>
+      <li>DET: քո, Ձեզնից, ձեր, քու</li>
+      <li>PRON: դու, ձեզ</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADP: առաջներս</li>
+      <li>NOUN: ոտքներիս, ականջներիս, աշակերտներս, մտքներով, ողնաշարներիս, ուսանողներիս, քթներիս</li>
+      <li>PRON: ինքներս</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>NOUN: ուսանողներս, աշակերտներս, մասնակիցներս, ուսանողներիս, վկաներս</li>
-        <li>PRON: ինքներս</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>NOUN: ներկայիս, պապս, վերջերս, Բուռդիկս, Հայրս, Սնդուկիդ, Փոքրինը, Օրերս, գլուխս, իրերինը</li>
-        <li>PRON: մեկս, քոնից</li>
-        <li>PROPN: Սևանինը</li>
-        <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADP: վրան</li>
+      <li>NOUN: ներկայիս, ներկայումս, պապս, օրերս, վերջերս, Բուռդիկս, Զավակներս, Հայրդ, Հայրս, Սնդուկիդ</li>
+      <li>PRON: քոնից</li>
+      <li>PROPN: Սևանինը</li>
+      <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>NOUN: թ, ՀԷԿ-երի, խմ, մլրդ, սմ-ով, Գավկոմի, ՀԷԿ-երը, Պետդեպարտամենտի, թթ, ք/կմ</li>
-        <li>NUM: մլն, մլրդ</li>
-        <li>PROPN: ՀՀ, ԱՄՆ, ՀՀԿ, ՊԲ, ԱՄՆ-ի, Արմենպրես, ԵԱՀԿ, ՀՀԿ-ում, ՌԴ, ԱՀ</li>
-        <li>VERB-Part: ծնվ</li>
-        <li>X: AGBU, FLEX, IVLP</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Ս</li>
+          <li>DET: Ն</li>
+          <li>NOUN: թ, Տ, ՀԷԿ-երի, խմ, Օ, թթ, մլրդ, պրն, սմ-ով, Գավկոմի</li>
+          <li>NUM: մլն, մլրդ</li>
+          <li>PROPN: ՀՀ, ԱՄՆ, Արմենպրես, ՀՀԿ, ԱՄՆ-ի, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, ՀՀԿ-ում</li>
+          <li>VERB-Part: ծնվ</li>
+          <li>X: AGBU, CBC, FLEX, IVLP, UCLA</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Comadp
-      <ul>
-        <li>ADP: նկատի, դեմս, վերջո</li>
-      </ul>
-    </li>
-    <li>Post
-      <ul>
-        <li>ADP: համար, հետ, մասին, մեջ, վրա, հետո, դեմ, միջև, առաջ, հանդեպ</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: ըստ, որպես, մինչև, ի, առանց, դեպի, բացի, ընդ, Նախքան, առ</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Comadp
+        <ul>
+          <li>ADP: դեմս, հիման</li>
+        </ul>
+      </li>
+      <li>Post
+        <ul>
+          <li>ADP: համար, հետ, մասին, մեջ, հետո, վրա, դեմ, առաջ, տակ, պես</li>
+        </ul>
+      </li>
+      <li>Prep
+        <ul>
+          <li>ADP: որպես, մինչև, ըստ, ի, դեպի, բացի, առանց, մինչ, ընդ, առ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>ConjType</a>
-  <ul>
-    <li>Comp
-      <ul>
-        <li>CCONJ: նաև, կամ, այլ, ինչպես, այլև, այնպես, ապա, եթե, միայն</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>ConjType</a>
+    <ul>
+      <li>Comp
+        <ul>
+          <li>CCONJ: նաև, կամ, այլ, եթե, ապա, ինչպես, այլև, այնպես</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Connegative</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>VERB-Fin: անցնի, զոռի, խնայի, հասցվի, միանա, նստի, ողջունի, ունենա, փոխարինվի, օգնի</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Connegative</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>VERB-Fin: անցնի, մնա, առաջադրվի, դիմանա, զարմանա, զոռի, թեթևանա, իմանա, խնայի, հասցվի</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Distance</a>
-  <ul>
-    <li>Dist
-      <ul>
-        <li>ADV: այնքան, այնպես, էնքան, էնպես</li>
-        <li>DET: այն, մյուս, նույն, այնպիսի, էն, այնքան</li>
-        <li>PRON: այն, այնպիսին, այնտեղ, Այնքան, մյուսին, մյուսները</li>
-      </ul>
-    </li>
-    <li>Med
-      <ul>
-        <li>ADV: այդպես</li>
-        <li>DET: այդ, այդպիսի, դրա, էդ, դրանցից, այդպես, դրանից, դրանում, դրանց, էդպիսի</li>
-        <li>PRON: դա, դրանից, այդ, այդմ, այդպես, դրա, այդպիսին, դրանցից, դրանք</li>
-      </ul>
-    </li>
-    <li>Prox
-      <ul>
-        <li>DET: այս, էս</li>
-        <li>PRON: սա, Այս, Այստեղ, Այսքանի, Սրանք, սրա</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Distance</a>
+    <ul>
+      <li>Dist
+        <ul>
+          <li>ADV: այնքան, այնտեղ, այնպես, էնքան, էնպես</li>
+          <li>DET: այն, մյուս, նույն, այնպիսի, էն, Ն, Նորին, այնքան</li>
+          <li>PRON: այն, այնպիսին, մյուսին, այնտեղից, դրան, մյուսը, մյուսները, նույնը</li>
+        </ul>
+      </li>
+      <li>Med
+        <ul>
+          <li>ADV: այդպես, այդքան</li>
+          <li>DET: այդ, դրա, այդպիսի, էդ, դրանցից, դրանից, դրանում, դրանց, էդպիսի</li>
+          <li>PRON: դա, այդ, դրանից, այդմ, այդպես, դրա, դրանք, դրանցից, այդպիսին, Այդքանն</li>
+        </ul>
+      </li>
+      <li>Prox
+        <ul>
+          <li>ADV: այստեղ, այսպես, այս</li>
+          <li>DET: այս, էս, այսպիսի</li>
+          <li>PRON: սա, այս, Այստեղից, Այսքանի, Սրանք, սրա, սրանից</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Echo</a>
-  <ul>
-    <li>Ech
-      <ul>
-        <li>NOUN: փուլուսը</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Echo</a>
+    <ul>
+      <li>Ech
+        <ul>
+          <li>ADJ: լեփ</li>
+          <li>NOUN: փուլուսը</li>
+          <li>X: տարեց</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: Reuters, Community, Connections, Diken, Informig, International, Transparency, վա, AGBU, FLEX</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Յելլ, Daily, Nas, Reuters, ZipLine, Allianplace, Area, Arik, Beatman, Big</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: արցախա, իրանա, ռազմա, պատմա, տնտեսա</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Hyph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, քրիստոնեա</li>
+          <li>ADV: այս</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NameType</a>
-  <ul>
-    <li>Com
-      <ul>
-        <li>PROPN: ՀՀԿ, ՊԲ, Արմենպրես, ԵԱՀԿ, ՀՀԿ-ում, ԱՊՀ, Արցախպրեսսը, ԲՀԿ-ից, ԵԱՏՄ, Եվրամիության</li>
-      </ul>
-    </li>
-    <li>Geo
-      <ul>
-        <li>PROPN: Իրանի, Հայաստանի, ՀՀ, Ադրբեջանի, Հայաստանում, Իրանը, Հայաստան, Հայաստանը, Սևանի, ԱՄՆ</li>
-      </ul>
-    </li>
-    <li>Giv
-      <ul>
-        <li>PROPN: Կարեն, Հարութը, Սերժ, Եսային, Խեչոն, Վիգեն, Զաբել, Սաթոն, Արթուր, Արմեն</li>
-      </ul>
-    </li>
-    <li>Oth
-      <ul>
-        <li>PROPN: Կրեմլում, Կրեմլի, Տլիմսեն</li>
-      </ul>
-    </li>
-    <li>Pro
-      <ul>
-        <li>PROPN: 24, Դ-30, Դ-44, Զապո, Զապորոժեց, Կալաշնիկով</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>PROPN: Ադոնիսի, Ամադեուս, Մլկե</li>
-      </ul>
-    </li>
-    <li>Sur
-      <ul>
-        <li>PROPN: Կարապետյանը, Սարգսյանի, Սարգսյանը, Կարապետյանի, Մուրակամին, Եսայանի, Խաչատրյանը, Սարգսյանն, Ֆորմանի, Աբեն</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NameType</a>
+    <ul>
+      <li>Com
+        <ul>
+          <li>PROPN: Արմենպրես, ՀՀԿ, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, ՀՀԿ-ում, ԱՊՀ, Արցախպրեսսը, ԲՀԿ-ից</li>
+        </ul>
+      </li>
+      <li>Geo
+        <ul>
+          <li>ADJ: Հաչա, Մկաց, Սևանա, Սասնա</li>
+          <li>NOUN: Ամերիկայի</li>
+          <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Հայաստան, Էջմիածնի, Իրանը, Հայաստանը, ԱՄՆ</li>
+        </ul>
+      </li>
+      <li>Giv
+        <ul>
+          <li>PROPN: Սիմեոնը, Կարեն, Սերժ, Հարութը, Վիգեն, Մարտինը, Մարտինին, Եսային, Խեչոն, Մարտինի</li>
+        </ul>
+      </li>
+      <li>Oth
+        <ul>
+          <li>PROPN: Կրեմլում, Սոֆիայի, Կրեմլի, Տլիմսեն</li>
+        </ul>
+      </li>
+      <li>Pro
+        <ul>
+          <li>PROPN: 24, Դ-30, Դ-44, Զապո, Զապորոժեց, Կալաշնիկով, Շիլկայի</li>
+        </ul>
+      </li>
+      <li>Prs
+        <ul>
+          <li>PROPN: Քրիստոսի, Քրիստոս, Նարեկացի, Չիրո, Ադոնիսի, Ամադեուս, Դոմեստիանոս, Լուսավորիչ, Կոմիտաս, Կոստաս</li>
+        </ul>
+      </li>
+      <li>Sur
+        <ul>
+          <li>PROPN: Սարգսյանի, Կարապետյանը, Սարգսյանը, Կարապետյանի, Չալդրանյանը, Մուրակամին, Սահակյանը, Սարգսյանն, Բլաժևիչը, Եսայանի</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>ADJ: 11-րդ, 20-րդ, 113-րդ</li>
-        <li>NOUN: 21-ի, 6-ին, 7-ի, 1-ից, 22-ի, 22-ին, 24-ին, 1148-ը, 1261-ը, 13-ն</li>
-        <li>NUM: 2017, 2016, 2, 06, 1941, 2018, 24, 50, 07, 1</li>
-        <li>PROPN: 24</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>ADJ: առաջին, երկրորդ, մեկ, յոթերորդ, քսաներորդ</li>
-        <li>ADV: մեկ</li>
-        <li>NOUN: մեկը, երեսունի, երեք, յոթին, ութին, ութսունութի, տասնյոթից, քսաներեք, քսանին</li>
-        <li>NUM: մլն, հազար, մեկ, երկու, մի, մլրդ, երեք, կես, հարյուր, միլիոն</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Armenian
+        <ul>
+          <li>ADJ: Բ</li>
+        </ul>
+      </li>
+      <li>Digit
+        <ul>
+          <li>ADJ: 5-րդ, 11-րդ, 20-րդ, 48-ամյա, 113-րդ, 15-րդ, ⅛</li>
+          <li>NOUN: 21-ի, 6-ին, 7-ի, 1-ից, 20-ին, 2008-ին, 2016-ի, 2018-ի, 21-ին, 22-ի</li>
+          <li>NUM: 2017, 2016, 2, 2018, 30, 06, 1941, 2013, 2015, 24</li>
+          <li>PROPN: 24</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>ADJ: առաջին, երկրորդ, հինգհազարանոց, երրորդ, Չորրորդ, մեկ, յոթերորդ, վեցերորդ, քսաներորդ</li>
+          <li>ADV: մեկ</li>
+          <li>NOUN: առաջինը, մեկը, մեկի, երկուսը, երկուսով, մեկն, երեսունի, երեք, մլն-ից, յոթին</li>
+          <li>NUM: երկու, հազար, մեկ, մլն, երեք, մի, հարյուր, մլրդ, տասը, միլիոն</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person[psor]</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>NOUN: ներկայիս, ուսանողներս, պապս, վերջերս, Բուռդիկս, Հայրս, Օրերս, աշակերտներս, գլուխս, հորեղբայրս</li>
-        <li>PRON: ինքներս, մեկս</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>NOUN: Սնդուկիդ, ձեռդ, ուզածդ, քեֆդ</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>ADP: առաջներս</li>
+          <li>NOUN: ոտքներիս, ուսանողներս, պապս, Բուռդիկս, Զավակներս, Հայրս, ականջներիս, աշակերտներս, բառիս, գլուխս</li>
+          <li>PRON: բոլորս, ամենքիս, ամենքս, բոլորիս, ինքներս, մեկս</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>NOUN: Հայրդ, Սնդուկիդ, ձեռդ, մայրդ, ուզածդ, քեֆդ</li>
+          <li>PRON: Բոլորդ</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>ADP: վրան</li>
+          <li>NOUN: կրակն, մտքներով</li>
+          <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>ADP: ընդ, նկատի, դեմս, դեպ, վերջո</li>
-        <li>ADV: տեղի, վերուստ</li>
-        <li>NOUN: հիման, հանկարծակիի, ռազմի</li>
-        <li>PRON: ամենայնի</li>
-      </ul>
-    </li>
-    <li>Coll
-      <ul>
-        <li>ADJ: մեկ</li>
-        <li>ADV: էնքան, էնպես, ոնց</li>
-        <li>AUX-Fin: ա</li>
-        <li>DET: էն, էդ, էս, էդպիսի, քու</li>
-        <li>NOUN: ԳԵՇ, Էրեխու, հերն, ձենն, ձեռդ, ձեռի, ձնով, ճամփին, մուննաթ, սապոգների</li>
-        <li>PROPN: 24, Զապո</li>
-        <li>VERB-Fin: բերիր, զոռի, էղավ, թափի, թռավ, նայի</li>
-        <li>VERB-Part: սառած</li>
-      </ul>
-    </li>
-    <li>Rare
-      <ul>
-        <li>PRON: այդմ</li>
-      </ul>
-    </li>
-    <li>Slng
-      <ul>
-        <li>NOUN: պանյատները</li>
-      </ul>
-    </li>
-    <li>Vrnc
-      <ul>
-        <li>ADV: քռքաշ</li>
-        <li>NOUN: Աղբրի, բուռդիկը, Բազարի, Բուռդիկս, բուռդիկ, եթիմ, թրիքը, հեսիրն, հնդուշկի, հոլուղ</li>
-        <li>PRON: իրարու</li>
-        <li>PROPN: Էրիվան, Էրիվանի</li>
-        <li>VERB-Fin: ԱՍԵ, ԽԱՐԴԱԽԵ, ղժաց</li>
-        <li>VERB-Gdv: լղզելով, քխկալով</li>
-        <li>VERB-Part: ղժում, փխլվում</li>
-      </ul>
-    </li>
-    <li>Vulg
-      <ul>
-        <li>NOUN: պլորներին</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Arch
+        <ul>
+          <li>ADJ: Հայաստանյայց, եպիսկոպոսաց</li>
+          <li>ADP: ընդ, դեմս, դեպ, հիման</li>
+          <li>ADV: տեղի, քանիցս, վերուստ</li>
+          <li>DET: Ամենայն, Ն, Նորին</li>
+          <li>NOUN: Հայոց, աստծո, կայսեր, հիման, ռազմի, վերջո, զօր, ծնե, հանկարծակիի, պարեգոտն</li>
+          <li>PRON: ամենայնի, այլոք</li>
+          <li>X: նկատի</li>
+        </ul>
+      </li>
+      <li>Coll
+        <ul>
+          <li>ADV: էնքան, էնպես, ոնց</li>
+          <li>AUX-Fin: ա</li>
+          <li>DET: էն, էդ, էս, էդպիսի, քու</li>
+          <li>NOUN: Գյուղացիք, Էրեխու, հերն, ձենն, ձեռդ, ձեռի, ձնով, ճամփին, մուննաթ, չալմայով</li>
+          <li>NUM: տաս</li>
+          <li>PROPN: 24, Զապո</li>
+          <li>VERB-Fin: բերիր, դրին, զոռի, էղավ, թափի, նայի</li>
+          <li>VERB-Part: սառած, սլքտող</li>
+        </ul>
+      </li>
+      <li>Expr
+        <ul>
+          <li>NOUN: աղջնակ</li>
+        </ul>
+      </li>
+      <li>Rare
+        <ul>
+          <li>ADJ: կարավանային</li>
+          <li>NOUN: շուրջը, ծունր, կուլ, շուրջն</li>
+          <li>PRON: այդմ</li>
+          <li>PROPN: Սսից</li>
+          <li>X: տարեց</li>
+        </ul>
+      </li>
+      <li>Slng
+        <ul>
+          <li>NOUN: պանյատները, տուֆտային</li>
+        </ul>
+      </li>
+      <li>Vrnc
+        <ul>
+          <li>ADV: քռքաշ</li>
+          <li>NOUN: Աղբրի, բուռդիկը, Բազարի, Բուռդիկս, ԳԵՇ, բուռդիկ, եթիմ, թրիքը, հեսիրն, հնդուշկի</li>
+          <li>PRON: իրարու</li>
+          <li>PROPN: Էրիվան, Էրիվանի</li>
+          <li>VERB-Fin: ԱՍԵ, ԽԱՐԴԱԽԵ, ղժաց</li>
+          <li>VERB-Gdv: լղզելով, քխկալով</li>
+          <li>VERB-Part: ղժում, փխլվում</li>
+        </ul>
+      </li>
+      <li>Vulg
+        <ul>
+          <li>NOUN: պլորներին</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Subcat</a>
-  <ul>
-    <li>Intr
-      <ul>
-        <li>VERB-Conv: պատմելիս</li>
-        <li>VERB-Fin: չկա, կա, կան, գնաց, կար, կդառնա, եղավ, ծնվեց, չկար, անցնի</li>
-        <li>VERB-Gdv: լինելու, համագործակցելով, նայելու, դիմելով, ելնելով, Դատելով, Պարելուց, անցնելով, աջակցելու, արժենալով</li>
-        <li>VERB-Inf: գնալ, հասնել, մեռնել, աշխատել, գալ, ապրել, դառնալ, դատել, զբոսնել, զրնգալ</li>
-        <li>VERB-Part: դարձել, եղել, նայում, եկել, ուղղված, գնում, կախված, կապված, պատրաստվում, գալիս</li>
-      </ul>
-    </li>
-    <li>Tran
-      <ul>
-        <li>VERB-Fin: ասաց, ասես, տարավ, զգաց, հարցրեց, ունեցավ, ունի, չգիտեինք, չուներ, տվեց</li>
-        <li>VERB-Gdv: առնելով, վկայակոչելով, անելով, ասելով, իմանալով, կալանավորելու, մեկնաբանելով, մտածելու, պահանջելով, տալով</li>
-        <li>VERB-Inf: ասել, սկսել, տալ, անել, դնել, ենթադրել, իրականացնել, հասկանալ, հիշել, մշակել</li>
-        <li>VERB-Part: հայտարարել, ունեցող, տալիս, ասում, կազմել, անում, ուզում, տեսնում, արել, կարծում</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Subcat</a>
+    <ul>
+      <li>Intr
+        <ul>
+          <li>VERB-Conv: ընթանալիս</li>
+          <li>VERB-Fin: կա, չկա, կար, թվաց, կան, լինի, կդառնա, չկար, գնաց, եկավ</li>
+          <li>VERB-Gdv: լինելով, նայելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով, մասնակցելու, Անդրադառնալով, ազատվելով</li>
+          <li>VERB-Inf: հասնել, լինել, գնալ, ազատվել, գալ, դառնալ, մեռնել, մոտենալ, աշխատել, ինքնամաքրվել</li>
+          <li>VERB-Part: նայում, դարձել, եղել, գնում, գալիս, եկել, ընկած, կախված, սպասում, ուղղված</li>
+        </ul>
+      </li>
+      <li>Tran
+        <ul>
+          <li>VERB-Conv: պատմելիս</li>
+          <li>VERB-Fin: ասաց, ունի, տեսանք, ասես, կարծես, ունեցավ, չգիտեինք, տվեց, գիտեինք, նշենք</li>
+          <li>VERB-Gdv: անելու, առնելով, տեսնելու, չիմանալով, վկայակոչելով, տալու, անելով, ասելով, բարձրացնելու, դիտարկելով</li>
+          <li>VERB-Inf: անել, տալ, ասել, իրականացնել, սկսել, բերել, դնել, ենթադրել, ուսումնասիրել, պատկերացնել</li>
+          <li>VERB-Part: տեսնում, ուզում, տալիս, անում, կարծում, համարում, հայտարարել, ունեցող, ասում, ունենում</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Typo</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: շրջական, իրատեսաան, պրոֆեսինալ</li>
-        <li>ADV: հնարովորինս</li>
-        <li>NOUN: Գործակալութոյւնը, արատադրանքի, գանահատման, ծավալերն, մագնիտաֆոնով, նորարության, վերալակում</li>
-        <li>NUM: 3.2, 0.2, 176.7, 201.5, 210.4, 218.6, 327.5, 329.9, 338.39, 370.7</li>
-        <li>PROPN: Շվերյցարիան</li>
-        <li>PUNCT: –</li>
-        <li>VERB-Part: հաջոդրում</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: շրջական, իրատեսաան, նորարական, պրոֆեսինալ</li>
+          <li>ADV: հնարովորինս</li>
+          <li>NOUN: Գործակալութոյւնը, աողջապահությունում, առաջնությա, արատադրանքի, գանահատման, դասկարգման, էյշելոնն, ծավալերն, կուտակումերն, մագնիտաֆոնով</li>
+          <li>NUM: 3.2, 0.2, 176.7, 201.5, 210.4, 218.6, 327.5, 329.9, 338.39, 370.7</li>
+          <li>PRON: որոն</li>
+          <li>PROPN: Շվերյցարիան</li>
+          <li>VERB-Part: զարամանում, հաջոդրում, հրապարկել</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -1244,7 +1256,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինել, պետք, պիտի, Եսայի.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինել, պետք, պիտի.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1253,15 +1265,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Nom (137)</li>
-      <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Nom (57)</li>
-      <li>VERB-Gdv--NOUN-Nom (2)</li>
+      <li>VERB-Fin--NOUN-Nom (260)</li>
+      <li>VERB-Fin--PRON (7)</li>
+      <li>VERB-Fin--PRON-Nom (119)</li>
+      <li>VERB-Gdv--NOUN-Nom (3)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Nom (207)</li>
-      <li>VERB-Part--PRON (9)</li>
-      <li>VERB-Part--PRON-Nom (72)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Part--NOUN-Nom (347)</li>
+      <li>VERB-Part--PRON (13)</li>
+      <li>VERB-Part--PRON-Nom (157)</li>
     </ul>
   </li>
 </ul>
@@ -1269,28 +1282,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (24)</li>
-      <li>VERB-Fin--NOUN-Nom (101)</li>
-      <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Dat (8)</li>
-      <li>VERB-Fin--PRON-Nom (9)</li>
-      <li>VERB-Gdv--NOUN-Dat (15)</li>
-      <li>VERB-Gdv--NOUN-Nom (82)</li>
-      <li>VERB-Gdv--PRON (1)</li>
-      <li>VERB-Gdv--PRON-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Dat (36)</li>
+      <li>VERB-Fin--NOUN-Nom (179)</li>
+      <li>VERB-Fin--PRON (12)</li>
+      <li>VERB-Fin--PRON-Dat (23)</li>
+      <li>VERB-Fin--PRON-Nom (13)</li>
+      <li>VERB-Gdv--NOUN-Dat (26)</li>
+      <li>VERB-Gdv--NOUN-Nom (117)</li>
+      <li>VERB-Gdv--PRON (4)</li>
+      <li>VERB-Gdv--PRON-Dat (5)</li>
       <li>VERB-Gdv--PRON-Gen (1)</li>
-      <li>VERB-Gdv--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Dat (9)</li>
-      <li>VERB-Inf--NOUN-Nom (47)</li>
-      <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Inf--PRON-Dat (3)</li>
+      <li>VERB-Gdv--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Dat (24)</li>
+      <li>VERB-Inf--NOUN-Nom (93)</li>
+      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--PRON-Dat (6)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Dat (50)</li>
-      <li>VERB-Part--NOUN-Nom (175)</li>
-      <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Dat (19)</li>
-      <li>VERB-Part--PRON-Nom (17)</li>
+      <li>VERB-Part--NOUN-Dat (78)</li>
+      <li>VERB-Part--NOUN-Nom (287)</li>
+      <li>VERB-Part--PRON (6)</li>
+      <li>VERB-Part--PRON-Dat (54)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Nom (26)</li>
     </ul>
   </li>
 </ul>
@@ -1298,13 +1312,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (8)</li>
-      <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Gdv--NOUN-Dat (4)</li>
+      <li>VERB-Fin--NOUN-Dat (9)</li>
+      <li>VERB-Fin--PRON-Dat (4)</li>
+      <li>VERB-Gdv--NOUN-Dat (6)</li>
       <li>VERB-Gdv--PRON-Dat (1)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
-      <li>VERB-Part--NOUN-Dat (12)</li>
-      <li>VERB-Part--PRON-Dat (3)</li>
+      <li>VERB-Inf--PRON-Dat (1)</li>
+      <li>VERB-Part--NOUN-Dat (13)</li>
+      <li>VERB-Part--PRON-Dat (8)</li>
     </ul>
   </li>
 </ul>
@@ -1314,12 +1329,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: գտնել իրեն, գցել իրեն</li>
+  <li>This corpus contains 10 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: բերել իրեն, գտնել իրեն, գցել իրեն, զգալ իրեն, հաջողվել իրեն, հասնել իրեն, հուզել իրենց, ճանաչել իրեն, ուզել իրենց, սպանել իրեն</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>case:loc</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>iobj:agent</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:caus</a>, <a>case:loc</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>iobj:agent</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
 </ul>

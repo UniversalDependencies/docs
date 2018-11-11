@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2095 nodes (1%) are attached to their parents as `det`.
+2112 nodes (1%) are attached to their parents as `det`.
 
-1580 instances of `det` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5527446300716.
+1583 instances of `det` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55776515151515.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1987; 95% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (38; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1998; 95% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (42; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (38; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,14 +49,14 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 3	في	فِي	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 4	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	6:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
 5	"	"	PUNCT	G---------	_	6	punct	6:punct	SpaceAfter=No|Vform="|Translit="
-6	اللحظة	اللحظة	X	U---------	_	2	advmod	2:advmod	SpaceAfter=No|Vform=اللحظة|Translit=AllHZp
+6	اللحظة	اللحظة	X	U---------	_	2	advmod	2:advmod	SpaceAfter=No|Vform=اللحظة|Root=OOV|Translit=AllHZp
 7	"	"	PUNCT	G---------	_	6	punct	6:punct	Vform="|Translit="
 8	مشروع	مَشرُوع	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	2:nsubj	Vform=مَشرُوعٌ|Gloss=project,enterprise|Root=^s_r_`|Translit=mašrūʿun|LTranslit=mašrūʿ
-9	تغييري	تغييري	X	U---------	_	8	nmod	8:nmod	Vform=تغييري|Translit=tgyyry
+9	تغييري	تغييري	X	U---------	_	8	nmod	8:nmod	Vform=تغييري|Root=OOV|Translit=tgyyry
 10	آخر	آخَر	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	amod	8:amod	Vform=آخَرُ|Gloss=other,another|Root='__h_r|Translit=ʾāḫaru|LTranslit=ʾāḫar
 11	في	فِي	ADP	P---------	AdpType=Prep	12	case	12:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 12	المنطقة	مِنطَقَة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	2	obl	2:obl	SpaceAfter=No|Vform=اَلمِنطَقَةِ|Gloss=area,zone,territory|Root=n_.t_q|Translit=al-minṭaqati|LTranslit=minṭaqat
-13	؟	؟	PUNCT	G---------	_	2	punct	2:punct	Vform=؟|Translit=؟
+13	؟	؟	PUNCT	G---------	_	2	punct	2:punct	Vform=؟|Translit=?
 
 ~~~
 
@@ -79,11 +79,11 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 10	الأزهر	أَزهَر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	9:nmod	Vform=اَلأَزهَرِ|Gloss=Azhar|Root=z_h_r|Translit=al-ʾazhari|LTranslit=ʾazhar
 11	السابق	سَابِق	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	amod	9:amod	Vform=اَلسَّابِقُ|Gloss=former,previous,preceding,early|Root=s_b_q|Translit=as-sābiqu|LTranslit=sābiq
 12	الدكتور	دُكتُور	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	17	nmod	17:nmod	Vform=اَلدُّكتُورُ|Gloss=doctor|Root=d_k_t_r|Translit=ad-duktūru|LTranslit=duktūr
-13	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Translit=jAd
-14	الحق	الحق	X	U---------	_	17	nmod	17:nmod	Vform=الحق|Translit=AlHq
-15	علي	علي	X	U---------	_	17	nmod	17:nmod	Vform=علي|Translit=Ely
-16	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Translit=jAd
-17	الحق	الحق	X	U---------	_	9	nmod	9:nmod	SpaceAfter=No|Vform=الحق|Translit=AlHq
+13	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Root=OOV|Translit=jAd
+14	الحق	الحق	X	U---------	_	17	nmod	17:nmod	Vform=الحق|Root=OOV|Translit=AlHq
+15	علي	علي	X	U---------	_	17	nmod	17:nmod	Vform=علي|Root=OOV|Translit=Ely
+16	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Root=OOV|Translit=jAd
+17	الحق	الحق	X	U---------	_	9	nmod	9:nmod	SpaceAfter=No|Vform=الحق|Root=OOV|Translit=AlHq
 18	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~

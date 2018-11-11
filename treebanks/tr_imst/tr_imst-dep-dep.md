@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 2 4 dep	color:blue
 1	'	'	PUNCT	Punc	_	3	punct	_	_
 2	Cumhuriyet'ten	Cumhuriyet	PROPN	Prop	Case=Abl|Number=Sing|Person=3	3	obl	_	_
-3	sapmayız	sap	VERB	Verb	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Aor	0	root	_	_
+3	sapmayız	sap	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres	0	root	_	_
 4	Verheugen	Verheugen	PROPN	Prop	Case=Nom|Number=Sing|Person=3	2	dep	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	4	punct	_	_
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.062500 (the average of all parts of speech is 1.113379).
+The form / lemma ratio of `PROPN` is 1.062500 (the average of all parts of speech is 1.144444).
 
 The 1st highest number of forms (2) was observed with the lemma “Ляпин”: <em>Ляпинын, Ляпиныс</em>.
 
@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “Азия”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “Генриетта”: <em>Генриетта</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (17; 85% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (16; 80% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 5% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 5% instances)
+`PROPN` occurs with 4 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (19; 95% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (17; 85% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 5% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 5% instances)
 
-`PROPN` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
+`PROPN` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`
 
-`PROPN` occurs with 8 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (8 tokens).
-Examples: <em>Генриетта, Дань, Елена, Зӧт, Микул, Октябрь, Салехард, Саранпауль</em>
+`PROPN` occurs with 9 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (9 tokens).
+Examples: <em>Генриетта, Дань, Елена, Зӧт, Из, Микул, Октябрь, Салехард, Саранпауль</em>
 
 
 ## Relations

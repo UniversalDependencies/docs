@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 
 * `Ind` (74; 95% of non-empty `Mood`): <em>weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</em>
 * `Sub` (4; 5% of non-empty `Mood`): <em>duale, grobe, ruhige, spezielle</em>
-* `EMPTY` (20867): <em>ersten, später, erste, anderen, weitere, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20495): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 `Mood` seems to be **lexical feature** of `ADJ`. 100% lemmas (71) occur only with one value of `Mood`.
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 
 * `Ind` (49; 92% of non-empty `Mood`): <em>mag, Jahrhundert, War, Bin, 3/8-Takte, Balken, Erbvogt, Familien, Flotte, Gemüt</em>
 * `Sub` (4; 8% of non-empty `Mood`): <em>Komme, biene, ha, service</em>
-* `EMPTY` (52240): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52169): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>kommen</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (5; 10% of non-empty `Mood`): <em>EVTA, Kambodschas, Verzeih, aG, flieg</em>
 * `Ind` (42; 81% of non-empty `Mood`): <em>ist, sind, 1st, Gibt, Glaube, Leuchten, Sankt, Verden, ausnutzen, bru</em>
 * `Sub` (5; 10% of non-empty `Mood`): <em>Kemble, Roden, belle, fläke, régime</em>
-* `EMPTY` (31464): <em>von, Deutschland, de, of, der, US, Berlin, the, SPD, St.</em>
+* `EMPTY` (31132): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
 
 `Mood` seems to be **lexical feature** of `PROPN`. 100% lemmas (44) occur only with one value of `Mood`.
 
@@ -176,7 +176,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `PRON` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>meinen</em>
-* `EMPTY` (14694): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (15093): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `PUNCT`
 

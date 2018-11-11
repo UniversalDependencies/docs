@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 40952 tokens (8%) have a non-empty value of `Person`.
-5610 types (9%) occur at least once with a non-empty value of `Person`.
-2551 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22405; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11161; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (3931; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (3455; 1% instances).
+5609 types (9%) occur at least once with a non-empty value of `Person`.
+2550 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22406; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11161; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (3931; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (3454; 1% instances).
 
 ### `VERB`
 
-22405 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
+22406 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22405; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22405; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21953; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21835; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20321; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13598; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22406; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22406; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21954; 98%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21954; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21836; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20322; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13599; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (3282; 15% of non-empty `Person`): <em>můžeme, máme, musíme, chceme, mám, nemůžeme, známe, myslím, nazýváme, vidíme</em>
-* `2` (651; 3% of non-empty `Person`): <em>viz, můžete, máte, víte, najdete, překonej, nechte, nemáte, znáte, chcete</em>
+* `2` (652; 3% of non-empty `Person`): <em>viz, můžete, máte, víte, najdete, překonej, nechte, nemáte, znáte, chcete</em>
 * `3` (18472; 82% of non-empty `Person`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, patří</em>
 * `EMPTY` (18185): <em>mít, měl, měla, bylo, mohli, došlo, mohl, měli, byl, být</em>
 
@@ -84,16 +84,16 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 ### `PRON`
 
-3455 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Person`.
+3454 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3455; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3454; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2965; 86%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2617; 76%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2183; 63%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1864; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3454; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3454; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2965; 86%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2616; 76%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2182; 63%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1864; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (995; 29% of non-empty `Person`): <em>nás, nám, mi, já, my, mě, mne, mně, námi, mnou</em>
-* `2` (192; 6% of non-empty `Person`): <em>vám, vás, vy, ti, tě, ty, vámi, tebe, tebou, sis</em>
+* `2` (191; 6% of non-empty `Person`): <em>vám, vás, vy, ti, tě, ty, vámi, tebe, tebou</em>
 * `3` (2268; 66% of non-empty `Person`): <em>je, nich, ji, jim, mu, ho, ní, jej, ně, něm</em>
-* `EMPTY` (12577): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
+* `EMPTY` (12578): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
 
 ## Relations with Agreement in `Person`
 

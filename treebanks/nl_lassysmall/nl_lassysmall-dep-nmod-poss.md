@@ -28,11 +28,11 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	het	het	DET	LID|bep|stan|evon	Definite=Def	6	det	6:det	_
 5	«	«	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
 6	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	2	appos	2:appos	_
-7	Belang	Belang	PROPN	SPEC|deeleigen	_	6	flat:name	6:flat:name	SpaceAfter=No
+7	Belang	Belang	PROPN	SPEC|deeleigen	_	6	flat	6:flat	SpaceAfter=No
 8	»	»	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
 9	,	,	PUNCT	LET	_	2	punct	2:punct	_
 10	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
-11	hier	hier	ADV	VNW|aanw|adv-pron|obl|vol|3o|getal	_	13	nmod	13:nmod	_
+11	hier	hier	ADV	VNW|aanw|adv-pron|obl|vol|3o|getal	_	13	nmod	13:nmod:van	_
 12	de	de	DET	LID|bep|stan|rest	Definite=Def	13	det	13:det	_
 13	opvolger	opvolger	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
 14	van	van	ADP	VZ|fin	_	11	case	11:case	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 6	om	om	ADP	VZ|init	_	9	case	9:case	_
 7	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 8	lekkere	lekker	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	9	amod	9:amod	_
-9	eten	eten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	4	obl	4:obl	SpaceAfter=No
+9	eten	eten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	4	obl	4:obl:om	SpaceAfter=No
 10	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~

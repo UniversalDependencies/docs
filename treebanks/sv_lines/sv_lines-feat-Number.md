@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-30149 tokens (38%) have a non-empty value of `Number`.
+30150 tokens (38%) have a non-empty value of `Number`.
 8815 types (68%) occur at least once with a non-empty value of `Number`.
 6216 lemmas (69%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13724; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7091; 9% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (4621; 6% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4221; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (477; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (15; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13724; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7091; 9% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (4622; 6% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4221; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (477; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (15; 0% instances).
 
 ### `NOUN`
 
@@ -59,15 +59,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-4621 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (83% of all `ADJ` tokens) have a non-empty value of `Number`.
+4622 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (83% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4611; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4576; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3379; 73%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2777; 60%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4612; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4577; 99%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3380; 73%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2777; 60%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (1468; 32% of non-empty `Number`): <em>andra, flera, många, vita, nya, olika, egna, stora, långa, små</em>
-* `Sing` (3153; 68% of non-empty `Number`): <em>själv, hela, annat, andra, stor, annan, liten, ena, egen, vit</em>
-* `EMPTY` (920): <em>samma, första, enda, mer, inre, yttre, följande, sista, bra, bättre</em>
+* `Sing` (3154; 68% of non-empty `Number`): <em>själv, hela, annat, andra, stor, annan, liten, ena, egen, vit</em>
+* `EMPTY` (919): <em>samma, första, enda, mer, inre, yttre, följande, sista, bra, bättre</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 `PROPN` tokens may have the following values of `Number`:
 
 * `Sing` (477; 100% of non-empty `Number`): <em>Harry, Dobby, Quinn, Bray, Auster, Don, Stillman, Clough, Gyllenroy, Lockman</em>
-* `EMPTY` (2225): <em>Harry, Quinn, Stillman, Access, Bray, Auster, Microsoft, Ron, Weasley, Mweta</em>
+* `EMPTY` (2221): <em>Harry, Quinn, Stillman, Access, Bray, Auster, Microsoft, Ron, Weasley, Mweta</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (203) occur only with one value of `Number`.
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (5; 33% of non-empty `Number`): <em>tvungna, fullproppade</em>
 * `Sing` (10; 67% of non-empty `Number`): <em>tvungen, lastad, omhändertagen, sitt, spräckt</em>
-* `EMPTY` (10039): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10036): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
 
 <table>
   <tr><th>Paradigm <i>tvinga</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -136,12 +136,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3833; 97%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2999; 76%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1249; 64%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (768; 76%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1240; 63%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (772; 77%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (567; 65%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (243; 64%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (180; 72%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (161; 78%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (155; 91%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (140; 81%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (139; 64%).
 

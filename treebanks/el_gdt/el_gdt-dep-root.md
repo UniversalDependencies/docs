@@ -11,9 +11,9 @@ This relation is universal.
 2521 nodes (4%) are attached to their parents as `root`.
 
 2521 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.34827449424831.
+Average distance between parent and child is 6.45656485521618.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2065; 82% instances), -<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (255; 10% instances), -<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (128; 5% instances), -<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (32; 1% instances), -<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (15; 1% instances), -<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (8; 0% instances), -<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2045; 81% instances), -<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (268; 11% instances), -<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (131; 5% instances), -<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (32; 1% instances), -<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (10; 0% instances), -<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="el_gdt-pos-X.html">X</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2220 nodes (1%) are attached to their parents as `cop`.
+2181 nodes (1%) are attached to their parents as `cop`.
 
-2220 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5009009009009.
+2181 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.46033929390188.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1561; 70% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (277; 12% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (122; 5% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (103; 5% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (91; 4% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (45; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (21; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1623; 74% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (271; 12% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (117; 5% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (93; 4% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (45; 2% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (10; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	姉	姉	NOUN	_	_	3	obl	_	SpaceAfter=No
-2	と	と	ADP	_	_	1	case	_	SpaceAfter=No
-3	同じ	同じ	ADJ	_	_	4	acl	_	SpaceAfter=No
-4	先生	先生	NOUN	_	_	10	advcl	_	SpaceAfter=No
-5	だっ	だ	AUX	_	_	4	cop	_	SpaceAfter=No
-6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
-7	ので	ので	SCONJ	_	_	4	mark	_	SpaceAfter=No
-8	、	、	PUNCT	_	_	4	punct	_	SpaceAfter=No
-9	話	話	NOUN	_	_	10	obl	_	SpaceAfter=No
-10	やすかっ	やすい	ADJ	_	_	0	root	_	SpaceAfter=No
-11	た	た	AUX	_	_	10	aux	_	SpaceAfter=No
-12	です	だ	AUX	_	_	10	cop	_	SpaceAfter=No
-13	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
+1	姉	姉	NOUN	NN	_	3	obl	_	SpaceAfter=No
+2	と	と	ADP	PS	_	1	case	_	SpaceAfter=No
+3	同じ	同じ	ADJ	JN	_	4	acl	_	SpaceAfter=No
+4	先生	先生	NOUN	NN	_	10	advcl	_	SpaceAfter=No
+5	だっ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
+6	た	た	AUX	AV	_	4	aux	_	SpaceAfter=No
+7	ので	ので	SCONJ	PC	_	4	mark	_	SpaceAfter=No
+8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
+9	話	話	NOUN	NN	_	10	obl	_	SpaceAfter=No
+10	やすかっ	やすい	ADJ	JJ	_	0	root	_	SpaceAfter=No
+11	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
+12	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
+13	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -45,31 +45,31 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 24 cop	color:blue
-1	人	人	NOUN	_	_	7	obj	_	SpaceAfter=No
-2	を	を	ADP	_	_	1	case	_	SpaceAfter=No
-3	人	人	NOUN	_	_	5	obl	_	SpaceAfter=No
-4	と	と	ADP	_	_	3	case	_	SpaceAfter=No
-5	し	する	VERB	_	_	7	acl	_	SpaceAfter=No
-6	て	て	SCONJ	_	_	5	mark	_	SpaceAfter=No
-7	思わ	思う	VERB	_	_	16	acl	_	SpaceAfter=No
-8	ない	ない	AUX	_	_	7	aux	_	SpaceAfter=No
-9	ような	ようだ	AUX	_	_	7	aux	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	7	punct	_	SpaceAfter=No
-11	尋常	尋常	ADJ	_	_	16	acl	_	SpaceAfter=No
-12	で	だ	AUX	_	_	11	aux	_	SpaceAfter=No
-13	は	は	ADP	_	_	11	case	_	SpaceAfter=No
-14	ない	ない	AUX	_	_	11	aux	_	SpaceAfter=No
-15	この	この	DET	_	_	16	det	_	SpaceAfter=No
-16	現実	現実	NOUN	_	_	21	obj	_	SpaceAfter=No
-17	を	を	ADP	_	_	16	case	_	SpaceAfter=No
-18	みなさん	みなさん	PRON	_	_	21	iobj	_	SpaceAfter=No
-19	に	に	ADP	_	_	18	case	_	SpaceAfter=No
-20	お	お	NOUN	_	_	21	amod	_	SpaceAfter=No
-21	伝えし	伝える	VERB	_	_	0	root	_	SpaceAfter=No
-22	たい	たい	AUX	_	_	21	aux	_	SpaceAfter=No
-23	の	の	PART	_	_	21	mark	_	SpaceAfter=No
-24	です	だ	AUX	_	_	21	cop	_	SpaceAfter=No
-25	。	。	PUNCT	_	_	21	punct	_	SpaceAfter=No
+1	人	人	NOUN	NN	_	7	obj	_	SpaceAfter=No
+2	を	を	ADP	PS	_	1	case	_	SpaceAfter=No
+3	人	人	NOUN	NN	_	5	obl	_	SpaceAfter=No
+4	と	と	ADP	PQ	_	3	case	_	SpaceAfter=No
+5	し	する	VERB	VV	_	7	advcl	_	SpaceAfter=No
+6	て	て	SCONJ	PC	_	5	mark	_	SpaceAfter=No
+7	思わ	思う	VERB	VV	_	16	acl	_	SpaceAfter=No
+8	ない	ない	AUX	AV	_	7	aux	_	SpaceAfter=No
+9	ような	ようだ	AUX	AV	_	7	aux	_	SpaceAfter=No
+10	,	,	PUNCT	SYM	_	7	punct	_	SpaceAfter=No
+11	尋常	尋常	ADJ	JN	_	16	acl	_	SpaceAfter=No
+12	で	だ	AUX	XV	_	11	aux	_	SpaceAfter=No
+13	は	は	ADP	PK	_	11	case	_	SpaceAfter=No
+14	ない	ない	AUX	AV	_	11	aux	_	SpaceAfter=No
+15	この	この	DET	JR	_	16	det	_	SpaceAfter=No
+16	現実	現実	NOUN	NN	_	21	obj	_	SpaceAfter=No
+17	を	を	ADP	PS	_	16	case	_	SpaceAfter=No
+18	みなさん	みなさん	PRON	NP	_	21	iobj	_	SpaceAfter=No
+19	に	に	ADP	PS	_	18	case	_	SpaceAfter=No
+20	お	お	NOUN	XP	_	21	compound	_	SpaceAfter=No
+21	伝えし	伝える	VERB	VV	_	0	root	_	SpaceAfter=No
+22	たい	たい	AUX	AV	_	21	aux	_	SpaceAfter=No
+23	の	の	SCONJ	PNB	_	21	mark	_	SpaceAfter=No
+24	です	だ	AUX	AV	_	21	cop	_	SpaceAfter=No
+25	。	。	PUNCT	SYM	_	21	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -80,19 +80,19 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 cop	color:blue
-1	姉	姉	NOUN	_	_	3	obl	_	SpaceAfter=No
-2	と	と	ADP	_	_	1	case	_	SpaceAfter=No
-3	同じ	同じ	ADJ	_	_	4	acl	_	SpaceAfter=No
-4	先生	先生	NOUN	_	_	10	advcl	_	SpaceAfter=No
-5	だっ	だ	AUX	_	_	4	cop	_	SpaceAfter=No
-6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
-7	ので	ので	SCONJ	_	_	4	mark	_	SpaceAfter=No
-8	、	、	PUNCT	_	_	4	punct	_	SpaceAfter=No
-9	話	話	NOUN	_	_	10	obl	_	SpaceAfter=No
-10	やすかっ	やすい	ADJ	_	_	0	root	_	SpaceAfter=No
-11	た	た	AUX	_	_	10	aux	_	SpaceAfter=No
-12	です	だ	AUX	_	_	10	cop	_	SpaceAfter=No
-13	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
+1	姉	姉	NOUN	NN	_	3	obl	_	SpaceAfter=No
+2	と	と	ADP	PS	_	1	case	_	SpaceAfter=No
+3	同じ	同じ	ADJ	JN	_	4	acl	_	SpaceAfter=No
+4	先生	先生	NOUN	NN	_	10	advcl	_	SpaceAfter=No
+5	だっ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
+6	た	た	AUX	AV	_	4	aux	_	SpaceAfter=No
+7	ので	ので	SCONJ	PC	_	4	mark	_	SpaceAfter=No
+8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
+9	話	話	NOUN	NN	_	10	obl	_	SpaceAfter=No
+10	やすかっ	やすい	ADJ	JJ	_	0	root	_	SpaceAfter=No
+11	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
+12	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
+13	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>την</em> (<tt><a href="el_gdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.000000 (the average of all parts of speech is 1.774736).
+The form / lemma ratio of `DET` is 6.000000 (the average of all parts of speech is 1.774549).
 
 The 1st highest number of forms (15) was observed with the lemma “ο”: <em>O, η, ο, οι, τα, τη, την, της, τις, το, τον, του, τους, τω, των</em>.
 

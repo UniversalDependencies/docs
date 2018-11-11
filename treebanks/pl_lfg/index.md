@@ -69,7 +69,7 @@ The original LFG corpus has been developed under the supervision of Agnieszka Pa
 
 If you use this treebank, you are encouraged to cite this book:
 
-Agnieszka Patejuk and Adam Przepiórkowski. “From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish.” Institute of Computer Science, Polish Academy of Sciences, Warsaw, 2018. Downoadable from http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf.
+Agnieszka Patejuk and Adam Przepiórkowski. “From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish.” Institute of Computer Science, Polish Academy of Sciences, Warsaw, 2018. Downloadable from http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf.
 
 @Book{pat:prz:18:book,
 author = {Agnieszka Patejuk and Adam Przepiórkowski},

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 51199 tokens (41%) have a non-empty value of `Number`.
-9800 types (50%) occur at least once with a non-empty value of `Number`.
-5152 lemmas (33%) occur at least once with a non-empty value of `Number`.
+9800 types (56%) occur at least once with a non-empty value of `Number`.
+5152 lemmas (38%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (15725; 13% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (13424; 11% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (8573; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (4877; 4% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (4354; 3% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4244; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `NOUN`
@@ -115,7 +115,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1428; 33% of non-empty `Number`): <em>ci, tutti, c', noi, vi, li, ce, voi, loro, altri</em>
 * `Sing` (2926; 67% of non-empty `Number`): <em>mi, lo, ti, io, tutto, me, la, quello, te, tu</em>
-* `EMPTY` (2125): <em>che, si, chi, ne, cosa, le, se, cui, niente, nulla</em>
+* `EMPTY` (2116): <em>che, si, chi, ne, cosa, le, se, cui, niente, nulla</em>
 
 <table>
   <tr><th>Paradigm <i>tutto</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

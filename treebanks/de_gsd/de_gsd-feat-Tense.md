@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (42; 54% of non-empty `Tense`): <em>bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, bewährte, diskutierte, engagierte</em>
 * `Pres` (36; 46% of non-empty `Tense`): <em>weiß, automatisiert, beanspruchten, beinhaltet, beplankt, beteiligt, betreuten, bewirtschaftet, duale, entworfenen</em>
-* `EMPTY` (20867): <em>ersten, später, erste, anderen, weitere, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20495): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 <table>
   <tr><th>Paradigm <i>wissen</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (19; 36% of non-empty `Tense`): <em>War, 3/8-Takte, Flotte, Kam, ambiente, beginn, diente, erschienen, folgten, fusionierte</em>
 * `Pres` (34; 64% of non-empty `Tense`): <em>mag, Jahrhundert, Bin, Balken, Erbvogt, Familien, Gemüt, Komme, Liegt, Lohnt</em>
-* `EMPTY` (52240): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52169): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>gut</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 
 * `Past` (11; 23% of non-empty `Tense`): <em>Leuchten, corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring</em>
 * `Pres` (36; 77% of non-empty `Tense`): <em>ist, sind, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen</em>
-* `EMPTY` (31469): <em>von, Deutschland, de, of, der, US, Berlin, the, SPD, St.</em>
+* `EMPTY` (31137): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -192,7 +192,7 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 `PRON` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>meinen</em>
-* `EMPTY` (14694): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (15093): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `PUNCT`
 

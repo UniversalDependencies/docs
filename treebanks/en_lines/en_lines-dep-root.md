@@ -11,9 +11,9 @@ This relation is universal.
 4564 nodes (6%) are attached to their parents as `root`.
 
 4564 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33742331288344.
+Average distance between parent and child is 5.33829973707274.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (3559; 78% instances), -<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (509; 11% instances), -<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (289; 6% instances), -<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (62; 1% instances), -<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (49; 1% instances), -<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (33; 1% instances), -<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (31; 1% instances), -<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), -<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), -<tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (3554; 78% instances), -<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (513; 11% instances), -<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (290; 6% instances), -<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (62; 1% instances), -<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (49; 1% instances), -<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (33; 1% instances), -<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (31; 1% instances), -<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), -<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), -<tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
 1	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
-2	SQL	sql	PROPN	SG-NOM	Number=Sing	3	compound	_	_
-3	Server	server	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+2	SQL	sql	PROPN	SG-NOM	Number=Sing	4	compound	_	_
+3	Server	server	NOUN	SG-NOM	Number=Sing	2	flat	_	_
 4	database	database	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
 5	must	must	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux	_	_
@@ -46,7 +46,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
 1	The	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_
-2	current	current	ADJ	POS	Degree=Pos	3	amod	_	_
+2	current	current	ADJ	POS	Degree=Pos	5	amod	_	_
 3	Windows	window	PROPN	SG-NOM	Case=Nom	5	compound	_	_
 4	NT	nt	PROPN	SG-NOM	Case=Nom	3	flat	_	_
 5	user	user	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_

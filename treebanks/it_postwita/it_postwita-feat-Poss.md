@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (39; 100% of non-empty `Poss`): <em>tua, mio, sua, suoi, mia, miei, mie, suo, LORO, nostri</em>
-* `EMPTY` (6440): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
+* `EMPTY` (6431): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
 
 ## Relations with Agreement in `Poss`
 

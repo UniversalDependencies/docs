@@ -22,10 +22,10 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
-3	одиннадцатого	одиннадцатого	ADJ	A	_	4	amod	_	Lang=Rus
-4	мая	мая	NOUN	N	Number=Sing	2	obl	_	Lang=Rus
+1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
+3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
+4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=Rus
 5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=Rus|Note=Check
 6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=Rus
 7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=Rus
@@ -49,17 +49,17 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-7	вӧліс	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
+7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	6	punct	_	_
-9	сыа	сыа	PRON	Pron	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	_
+9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
 11	уна	уна	ADV	Adv	Case=Nom|Number=Sing	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
-15	босьтіс	босьтны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
+15	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	15	punct	_	_
-17	примитіс	примитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	Lang=Mixed|SpaceAfter=No
+17	примитіс	примитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	Lang=Mixed|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -71,10 +71,10 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
-3	одиннадцатого	одиннадцатого	ADJ	A	_	4	amod	_	Lang=Rus
-4	мая	мая	NOUN	N	Number=Sing	2	obl	_	Lang=Rus
+1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
+3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
+4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=Rus
 5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=Rus|Note=Check
 6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=Rus
 7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=Rus

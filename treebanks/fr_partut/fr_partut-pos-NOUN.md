@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>compte</em> (<tt><a href="fr_partut-p
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.143708 (the average of all parts of speech is 1.360544).
+The form / lemma ratio of `NOUN` is 1.143708 (the average of all parts of speech is 1.361807).
 
 The 1st highest number of forms (4) was observed with the lemma “monsieur”: <em>M., messieurs, mm., monsieur</em>.
 

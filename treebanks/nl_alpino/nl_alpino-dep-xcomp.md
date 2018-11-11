@@ -25,7 +25,7 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Moeder	moeder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
 2	Mien	Mien	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 3	spoorde	sporen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	haar	haar	PRON	VNW|pers|pron|obl|vol|3|getal|fem	Case=Acc|Person=3|PronType=Prs	3	obj	3:obj|9:nsubj	_
+4	haar	haar	PRON	VNW|pers|pron|obl|vol|3|getal|fem	Case=Acc|Person=3|PronType=Prs	3	obj	3:obj|9:nsubj:xsubj	_
 5	aan	aan	ADP	VZ|fin	_	3	compound:prt	3:compound:prt	_
 6	toch	toch	ADV	BW	_	9	advmod	9:advmod	_
 7	op	op	ADP	VZ|fin	_	9	compound:prt	9:compound:prt	_
@@ -48,7 +48,7 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	,	,	PUNCT	LET	_	5	punct	5:punct	_
 5	vond	vinden	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	_
 6	Van	Van	PROPN	SPEC|deeleigen	_	5	nsubj	5:nsubj	_
-7	Moorsel	Moorsel	PROPN	SPEC|deeleigen	_	6	flat:name	6:flat:name	SpaceAfter=No
+7	Moorsel	Moorsel	PROPN	SPEC|deeleigen	_	6	flat	6:flat	SpaceAfter=No
 8	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	in	in	ADP	VZ|init	_	6	case	6:case	_
 6	vuur	vuur	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	xcomp	2:xcomp	_
 7	en	en	CCONJ	VG|neven	_	8	cc	8:cc	_
-8	vlam	vlam	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	conj	6:conj	SpaceAfter=No
+8	vlam	vlam	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	conj	6:conj:en	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~

@@ -8,34 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (0%) are attached to their parents as `vocative`.
+29 nodes (0%) are attached to their parents as `vocative`.
 
-13 instances of `vocative` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.86363636363636.
+17 instances of `vocative` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.37931034482759.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (15; 68% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (19; 66% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 9 vocative	color:blue
-1	ϣⲛ	ϣⲛ	VERB	V	VerbForm=Fin	0	root	_	_
-2	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	1	obj	_	_
-3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	2	det	_	_
-4	ϭⲉ	ϭⲉ	PART	PTC	_	1	advmod	_	_
-5	ϩⲁ	ϩⲁ	ADP	PREP	_	7	case	_	_
-6	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	det	_	_
-7	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	_	1	obl	_	_
-8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	ϩⲁⲣϣϩⲏⲧ	ϩⲁⲣϣϩⲏⲧ	NOUN	N	_	1	vocative	_	_
-10	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ⲛⲁϣⲉ	ⲛⲁϣⲉ	VERB	VBD	VerbForm=Fin	9	acl	_	_
-12	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
-13	ⲛⲁ	ⲛⲁ	NOUN	N	_	11	nsubj	_	_
-14	·	·	PUNCT	PUNCT	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 vocative	color:blue
+1	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	2	mark	_	_
+2	ⲁⲙⲏⲓ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
+3	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Orig=ⲧⲛ̄
+4	ⲁⲣⲓⲑⲩⲥⲓⲁⲍⲉ	ⲣⲑⲩⲥⲓⲁⲍⲉ	VERB	VIMP	VerbForm=Fin	2	conj	_	Morphs=ⲁⲣⲓ-ⲑⲩⲥⲓⲁⲍⲉ
+5	ⲱ	ⲱ	PART	PTC	_	7	discourse	_	Orig=ⲱ̄
+6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Orig=ⲛ̄
+7	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	vocative	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
+9	ϩⲣⲱⲙⲁⲓⲟⲥ	ϩⲣⲱⲙⲁⲓⲟⲥ	NOUN	N	_	7	nmod	_	Orig=ϩⲣⲟⲙⲁⲓⲟⲥ
+10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
@@ -47,9 +43,9 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
 1	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	0	root	_	_
-2	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	1	vocative	_	_
-3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	_
-4	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+2	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	1	vocative	_	Orig=ⲛ̇ⲧⲱⲧⲛ̇
+3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ̇
+4	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Orig=ⲡⲉⲓ̇
 5	ⲙⲁ	ⲙⲁ	NOUN	N	_	1	obl	_	_
 6	·	·	PUNCT	PUNCT	_	1	punct	_	_
 

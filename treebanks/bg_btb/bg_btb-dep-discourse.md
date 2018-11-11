@@ -22,16 +22,16 @@ The following 33 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 discourse	color:blue
-1	Ами	ами	PART	Te	_	4	discourse	_	_
-2	наистина	наистина	ADV	Dm	Degree=Pos	4	advmod	_	_
-3	ли	ли	PART	Ti	_	2	discourse	_	_
-4	има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	хора	хора	NOUN	Nc-li	Definite=Ind|Number=Ptan	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	punct	_	8	punct	_	_
-7	които	който	PRON	Pre-op	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
-8	ядат	ям-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
-9	жаби	жаба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
-10	?	?	PUNCT	punct	_	4	punct	_	_
+1	Ами	ами	PART	Te	_	4	discourse	4:discourse	_
+2	наистина	наистина	ADV	Dm	Degree=Pos	4	advmod	4:advmod	_
+3	ли	ли	PART	Ti	_	2	discourse	2:discourse	_
+4	има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	хора	хора	NOUN	Nc-li	Definite=Ind|Number=Ptan	4	obj	4:obj|8:nsubj	SpaceAfter=No
+6	,	,	PUNCT	punct	_	8	punct	8:punct	_
+7	които	който	PRON	Pre-op	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	5:ref	_
+8	ядат	ям-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	_
+9	жаби	жаба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	8	obj	8:obj	SpaceAfter=No
+10	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 ~~~
 
@@ -42,11 +42,11 @@ The following 33 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-2	ли	ли	PART	Ti	_	1	discourse	_	_
-3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
-4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
-5	?	?	PUNCT	punct	_	1	punct	_	_
+1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	_
+2	ли	ли	PART	Ti	_	1	discourse	1:discourse	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	SpaceAfter=No
+5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 ~~~
 
@@ -57,16 +57,16 @@ The following 33 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 discourse	color:blue
-1	Ами	ами	PART	Te	_	4	discourse	_	_
-2	наистина	наистина	ADV	Dm	Degree=Pos	4	advmod	_	_
-3	ли	ли	PART	Ti	_	2	discourse	_	_
-4	има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	хора	хора	NOUN	Nc-li	Definite=Ind|Number=Ptan	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	punct	_	8	punct	_	_
-7	които	който	PRON	Pre-op	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
-8	ядат	ям-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
-9	жаби	жаба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
-10	?	?	PUNCT	punct	_	4	punct	_	_
+1	Ами	ами	PART	Te	_	4	discourse	4:discourse	_
+2	наистина	наистина	ADV	Dm	Degree=Pos	4	advmod	4:advmod	_
+3	ли	ли	PART	Ti	_	2	discourse	2:discourse	_
+4	има	имам	VERB	Vnitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	хора	хора	NOUN	Nc-li	Definite=Ind|Number=Ptan	4	obj	4:obj|8:nsubj	SpaceAfter=No
+6	,	,	PUNCT	punct	_	8	punct	8:punct	_
+7	които	който	PRON	Pre-op	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	5:ref	_
+8	ядат	ям-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	_
+9	жаби	жаба	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	8	obj	8:obj	SpaceAfter=No
+10	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
 ~~~
 

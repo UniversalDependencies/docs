@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 12	fgColor:white
 # visual-style 12 14 obl:agent	color:blue
 1	RT	retweet	NOUN	S	_	4	dep	_	_
-2	@Massarenti24	@Massarenti24	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
+2	@user1	@user1	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	#Onfray	#Onfray	SYM	SYM	_	0	root	_	_
 5	e	e	CCONJ	CC	_	6	cc	_	_
@@ -81,9 +81,9 @@ The following 10 pairs of parts of speech are connected with `obl:agent`: <tt><a
 12	appresa	apprendere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 13	da	da	ADP	E	_	14	case	_	_
 14	#Nietzsche	#Nietzsche	SYM	SYM	_	12	obl:agent	_	_
-15	@ponteallegrazie	@ponteallegrazie	SYM	SYM	_	4	vocative:mention	_	_
+15	@user2	@user2	SYM	SYM	_	4	vocative:mention	_	_
 16	copertina	copertina	NOUN	S	Gender=Fem|Number=Sing	4	parataxis	_	_
-17	@24Domenica	@24Domenica	SYM	SYM	_	16	nmod	_	_
+17	@user3	@user3	SYM	SYM	_	16	nmod	_	_
 
 ~~~
 

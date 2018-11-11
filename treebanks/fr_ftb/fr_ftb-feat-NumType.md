@@ -64,7 +64,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2779; 100%),
-<tt>NUM --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NUM</tt> (150; 100%),
+<tt>NUM --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NUM</tt> (172; 100%),
 <tt>NUM --[<tt><a href="fr_ftb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (71; 99%),
 <tt>PRON --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (54; 93%),
 <tt>NUM --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (41; 100%),

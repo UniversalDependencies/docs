@@ -8,12 +8,42 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `reparandum`.
+13 nodes (0%) are attached to their parents as `reparandum`.
 
-9 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+13 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07692307692308.
 
-The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 11% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 11% instances).
+The following 10 pairs of parts of speech are connected with `reparandum`: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (3; 23% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 15% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 8% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 reparandum	color:blue
+1	Quand	quand	SCONJ	_	_	3	mark	_	_
+2	Daniel	Daniel	PROPN	_	_	3	nsubj	_	_
+3	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+4	et	et	CCONJ	_	_	5	cc	_	_
+5	confirme	confirmer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	SG-1	SG-1	NUM	_	_	8	nsubj	_	_
+8	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+9	dans	dans	ADP	_	_	13	case	_	_
+10	de	de	ADP	_	_	12	reparandum	_	_
+11	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	reparandum	_	_
+12	ces	ce	DET	_	Gender=Masc|Number=Plur|PronType=Dem	13	det	_	_
+13	vaisseaux	vaisseau	NOUN	_	Gender=Masc|Number=Plur	8	obl:arg	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	Hammond	Hammond	PROPN	_	_	17	nsubj:caus	_	_
+16	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:caus	_	_
+17	lancer	lancer	VERB	_	VerbForm=Inf	0	root	_	_
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	navette	navette	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -29,10 +59,10 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 5	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 6	à	à	ADP	_	_	8	case	_	_
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	spectateur	spectateur	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	spectateur	spectateur	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
 9	à	à	ADP	_	_	11	case	_	_
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	cours	cours	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	cours	cours	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
 12	de	de	ADP	_	_	14	case	_	_
 13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Druivencross	Druivencross	PROPN	_	_	11	nmod	_	_
@@ -66,8 +96,8 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	part	partir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	pour	pour	ADP	_	_	4	reparandum	_	_
 4	à	à	ADP	_	_	5	case	_	_
-5	Londres	Londres	PROPN	_	_	2	obl	_	_
-6	où	où	PRON	_	PronType=Rel	8	obl	_	_
+5	Londres	Londres	PROPN	_	_	2	obl:arg	_	_
+6	où	où	ADV	_	PronType=Rel	8	advmod	_	_
 7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	fonde	fonder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	en	en	ADP	_	_	10	case	_	_
@@ -84,36 +114,6 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	présidence	présidence	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 reparandum	color:blue
-1	L'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	assemblée	assemblée	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	convoquée	convoquer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	et	et	CCONJ	_	_	6	reparandum	_	_
-6	par	par	ADP	_	_	8	case	_	_
-7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	roi	roi	NOUN	_	Gender=Masc|Number=Sing	4	obl:agent	_	_
-9	de	de	ADP	_	_	11	case	_	_
-10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	Francs	Francs	PROPN	_	_	8	nmod	_	_
-12	Clovis	Clovis	PROPN	_	_	8	appos	_	_
-13	Ier	Ier	NUM	_	_	12	nummod	_	_
-14	et	et	CCONJ	_	_	15	cc	_	_
-15	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-16	lieu	lieu	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
-17	en	en	ADP	_	_	19	case	_	_
-18	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det	_	_
-19	présence	présence	NOUN	_	Gender=Fem|Number=Sing	15	obl:arg	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

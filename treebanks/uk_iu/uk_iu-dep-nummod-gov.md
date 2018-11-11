@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-nummod.html">nummod</a></tt>.
 
-291 nodes (0%) are attached to their parents as `nummod:gov`.
+413 nodes (0%) are attached to their parents as `nummod:gov`.
 
-278 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51546391752577.
+397 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57384987893462.
 
-The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (288; 99% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (403; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,35 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod:gov	color:blue
-1	З	з	ADP	Spsg	Case=Gen	3	case	_	Id=12b4
-2	того	той	DET	Pd--m-sga	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Id=12b5
-3	часу	час	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	Id=12b6
-4	минуло	минути	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=12b7
-5	дев’ять	дев’ять	NUM	Mlc-n	Case=Nom|NumType=Card	6	nummod:gov	_	Id=12b8
-6	років	рік	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	_	Id=12b9|SpaceAfter=No
-7	.	.	PUNCT	U	_	4	punct	_	Id=12ba
+1	З	з	ADP	Spsg	Case=Gen	3	case	3:case	Id=12b4|LTranslit=z|Translit=Z
+2	того	той	DET	Pd--m-sga	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	3:det	Id=12b5|LTranslit=toj|Translit=toho
+3	часу	час	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	4:obl	Id=12b6|LTranslit=čas|Translit=času
+4	минуло	минути	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=12b7|LTranslit=mynuty|Translit=mynulo
+5	дев’ять	дев’ять	NUM	Mlc-n	Case=Nom|NumType=Card	6	nummod:gov	6:nummod:gov	Id=12b8|LTranslit=devjať|Translit=devjať
+6	років	рік	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	Id=12b9|LTranslit=rik|SpaceAfter=No|Translit=rokiv
+7	.	.	PUNCT	U	_	4	punct	4:punct	Id=12ba|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 nummod:gov	color:blue
+1	Навіть	навіть	PART	Q	_	6	discourse	6:discourse	Id=3bi3|LTranslit=naviť|Translit=Naviť
+2	якщо	якщо	SCONJ	Css	_	6	mark	6:mark	Id=3bi4|LTranslit=jakščo|Translit=jakščo
+3	ця	цей	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	4:det	Id=3bi5|LTranslit=cej|Translit=ćа
+4	шуба	шуба	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	Id=3bi6|LTranslit=šuba|Translit=šuba
+5	колись	колись	ADV	Pi------r	PronType=Ind	6	advmod	6:advmod	Id=3bi7|LTranslit=kolyś|Translit=kolyś
+6	зводила	зводити	VERB	Vmpis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=3bi8|LTranslit=zvodyty|Translit=zvodyla
+7	з	з	ADP	Spsg	Case=Gen	8	case	8:case	Id=3bi9|LTranslit=z|Translit=z
+8	розуму	розум	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	Id=3bia|LTranslit=rozum|Translit=rozumu
+9	пів	пів	NUM	Mlc-a	Case=Acc|NumType=Card|Orth=Alt|Uninflect=Yes	11	nummod:gov	11:nummod:gov	Id=3bib|LTranslit=piv|SpaceAfter=No|Translit=piv
+10	-	-	PUNCT	U	PunctType=Hyph	9	punct	9:punct	Id=3bic|LTranslit=-|SpaceAfter=No|Translit=-
+11	Хрещатика	Хрещатик	PROPN	Npmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obj	6:obj	Id=3bid|LTranslit=Chreščatyk|SpaceAfter=No|Translit=Chreščatyka
+12	...	...	PUNCT	U	_	6	punct	6:punct	Id=3bie|LTranslit=...|Translit=...
 
 ~~~
 
@@ -39,42 +61,15 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod:gov	color:blue
-1	Четверо	четверо	NUM	Mlc-a	Case=Acc|NumType=Card	2	nummod:gov	_	Id=1z2i
-2	малознайомих	малознайомий	ADJ	Ao--pgf	Case=Gen|Number=Plur	3	obj	_	Id=1z2j|Promoted=Yes
-3	видалив	видалити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=1z2k|SpaceAfter=No
-4	,	,	PUNCT	U	_	5	punct	_	Id=1z2l
-5	лишив	лишити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	Id=1z2m
-6	тільки	тільки	PART	Q	_	8	discourse	_	Id=1z2n
-7	знайомих	знайомий	ADJ	Ao--pafy	Animacy=Anim|Case=Acc|Number=Plur	8	amod	_	Id=1z2o
-8	улибанів	улибан	NOUN	Ncmpay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Id=1z2p|SpaceAfter=No
-9	:)))	:)))	SYM	X	_	3	discourse	_	Id=1z2q
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod:gov	color:blue
-1	Поруч	поруч	ADV	R	_	5	advmod	_	Id=0ywu
-2	з	з	ADP	Spsi	Case=Ins	4	case	_	Id=0ywv
-3	нашою	наш	DET	Ppp1f-sia	Case=Ins|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	Id=0yww
-4	школою	школа	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	obl	_	Id=0ywx
-5	було	бути	VERB	Vapis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=0ywy
-6	ще	ще	ADV	R	_	8	advmod	_	Id=0ywz
-7	п’ять	п’ять	NUM	Mlc-n	Case=Nom|NumType=Card	8	nummod:gov	_	Id=0yx0
-8	інших	інший	DET	Pi----pga	Case=Gen|Number=Plur|PronType=Ind	5	nsubj	_	Id=0yx1|Promoted=Yes|SpaceAfter=No
-9	,	,	PUNCT	U	_	11	punct	_	Id=0yx2
-10	найпростішою	найпростіший	ADJ	Afsfsif	Case=Ins|Degree=Sup|Gender=Fem|Number=Sing	11	amod	_	Id=0yx3
-11	ознакою	ознака	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	parataxis	_	Id=0yx4
-12	протистояння	протистояння	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	Id=0yx5
-13	були	бути	AUX	Vapis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	11	cop	_	Id=0yx6
-14	українські	український	NOUN	Ao-mpns	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	Id=0yx7|Promoted=Yes
-15	проти	проти	ADP	Spsg	Case=Gen	16	case	_	Id=0yx8
-16	російських	російський	NOUN	Ao-mpgf	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	obl	_	Id=0yx9|Promoted=Yes|SpaceAfter=No
-17	.	.	PUNCT	U	_	5	punct	_	Id=0yxa
+1	Четверо	четверо	NUM	Mlc-a	Case=Acc|NumType=Card	2	nummod:gov	2:nummod:gov	Id=1z2i|LTranslit=četvero|Translit=Četvero
+2	малознайомих	малознайомий	ADJ	Ao--pgf	Case=Gen|Number=Plur	3	obj	3:obj	Id=1z2j|LTranslit=maloznajomyj|Promoted=Yes|Translit=maloznajomych
+3	видалив	видалити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=1z2k|LTranslit=vydalyty|SpaceAfter=No|Translit=vydalyv
+4	,	,	PUNCT	U	_	5	punct	5:punct	Id=1z2l|LTranslit=,|Translit=,
+5	лишив	лишити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	0:root|3:conj	Id=1z2m|LTranslit=lyšyty|Translit=lyšyv
+6	тільки	тільки	PART	Q	_	8	discourse	8:discourse	Id=1z2n|LTranslit=tiľky|Translit=tiľky
+7	знайомих	знайомий	ADJ	Ao--pafy	Animacy=Anim|Case=Acc|Number=Plur	8	amod	8:amod	Id=1z2o|LTranslit=znajomyj|Translit=znajomych
+8	улибанів	улибан	NOUN	Ncmpay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	5:obj	Id=1z2p|LTranslit=ulyban|SpaceAfter=No|Translit=ulybaniv
+9	:)))	:)))	SYM	X	_	3	discourse	3:discourse	Id=1z2q|LTranslit=:)))|Translit=:)))
 
 ~~~
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Afrikaans AfriBooms
 
-Language: [Afrikaans](../af/overview/af-hub.html) (code: `af`)<br/>
+Language: [Afrikaans](/af/index.html) (code: `af`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,11 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
 Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: government, text
+Genre: legal, nonfiction
 
 Questions, comments?
 General annotation questions (either Afrikaans-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -160,133 +161,120 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: mense, leerders, dienste, opsigte, Suid-Afrikaners, pogings, lande, sake, uitdagings, dokumente</li>
+      <li>PRON: ons, hulle, hul, onsself, julle, hulself</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>NOUN: jaar, regering, aansoek, inligting, land, departement, staat, toegang, webwerf, persoon</li>
+      <li>PRON: dit, jy, jou, ek, sy, hy, my, haar, u, self</li>
+      <li>PROPN: Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: jou, my, haar, hom</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Acc,Nom
+    <ul>
+      <li>PRON: ons, hulle, julle</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
+      <li>PRON: dit, jy, ek, hy, sy, u</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>NOUN: mense, leerders, dienste, opsigte, Suid-Afrikaners, pogings, lande, sake, uitdagings, dokumente</li>
-        <li>PRON: ons, hulle, hul, onsself, julle, hulself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: die, de, dien</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>NOUN: jaar, regering, aansoek, inligting, land, departement, staat, toegang, webwerf, persoon</li>
-        <li>PRON: dit, jy, jou, ek, sy, hy, my, haar, u, self</li>
-        <li>PROPN: Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: jou, my, haar, hom</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Acc,Nom
-      <ul>
-        <li>PRON: ons, hulle, julle</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
-        <li>PRON: dit, jy, ek, hy, sy, u</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-<li><a>Definite</a>
-
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: die, de, dien</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: 'n</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: 'n</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: beter, hoër, groter, ouer, sterker, hoÃ«r, laer, minder, jonger, langer</li>
-        <li>ADV: verder, beter, later, langer, vinniger, harder, minder, vroeër, sterker, armer</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: beter, hoër, groter, ouer, sterker, hoÃ«r, laer, minder, jonger, langer</li>
+      <li>ADV: verder, beter, later, langer, vinniger, harder, minder, vroeër, sterker, armer</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dim
-      <ul>
-        <li>NOUN: koekies, knoppie, venstertjie, Korting-blokkie, Soekvenstertjie, deeltjie, koekie, treetjies, tydjie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dim
+    <ul>
+      <li>NOUN: koekies, knoppie, venstertjie, Korting-blokkie, Soekvenstertjie, deeltjie, koekie, treetjies, tydjie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
-        <li>ADV: nie, ook, in, saam, nog, uit, aan, egter, reeds, slegs</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
+      <li>ADV: nie, ook, in, saam, nog, uit, aan, egter, reeds, slegs</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: naaste, beste, grootste, belangrikste, hoogste, enigste, ergste, meeste, doeltreffendste, jongste</li>
-        <li>ADV: mees, ergste, minste, meeste, sterkste, swaarste</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: naaste, beste, grootste, belangrikste, hoogste, enigste, ergste, meeste, doeltreffendste, jongste</li>
+      <li>ADV: mees, ergste, minste, meeste, sterkste, swaarste</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -295,164 +283,146 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 
 
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: is, was, moes, sou, kon, geword, geraak, geblyk, gelyk, gewees</li>
+      <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: is, was, moes, sou, kon, geword, geraak, geblyk, gelyk, gewees</li>
-        <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin,Inf: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
-        <li>VERB-Fin,Inf: doen, maak, gebruik, het, verbeter, verseker, stel, betaal, verskaf, werk</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin,Inf: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
+      <li>VERB-Fin,Inf: doen, maak, gebruik, het, verbeter, verseker, stel, betaal, verskaf, werk</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: die, 'n, de, dien</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: die, 'n, de, dien</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: alle, meer, al, baie, paar, sommige, laaste, soveel, talle, min</li>
-        <li>PRON: enige, daar, almal, elke, diegene, alles, ander, iemand, elk, enigiemand</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: alle, meer, al, baie, paar, sommige, laaste, soveel, talle, min</li>
+      <li>PRON: enige, daar, almal, elke, diegene, alles, ander, iemand, elk, enigiemand</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>PRON: hoe, wat, Wie, Watter, Hoekom, Waar, Waarom, Wanneer, waaroor</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: hoe, wat, Wie, Watter, Hoekom, Waar, Waarom, Wanneer, waaroor</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: ons, dit, jy, hulle, jou, ek, sy, hul, hy, my</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: ons, dit, jy, hulle, jou, ek, sy, hul, hy, my</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: mekaar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: mekaar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: wat, wanneer, waar, daarvan, watter, hoe, waarop, daartoe, wie, waarin</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: wat, wanneer, waar, daarvan, watter, hoe, waarop, daartoe, wie, waarin</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: ons, jou, hul, sy, hulle, my, haar, julle, u</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: ons, jou, hul, sy, hulle, my, haar, julle, u</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: onsself, self, ons, hulle, hom, haarself, homself, hulself, jouself, myself</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: onsself, self, ons, hulle, hom, haarself, homself, hulself, jouself, myself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: ons, ek, my, onsself, myself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: jy, jou, u, julle, jouself</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: ons, ek, my, onsself, myself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: jy, jou, u, julle, jouself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: dit, hulle, sy, hul, hy, haar, self, hom, haarself, homself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: dit, hulle, sy, hul, hy, haar, self, hom, haarself, homself</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -460,100 +430,110 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <h3>Other Features</h3>
 
 
-<li><a>AdjType</a>
-  <ul>
-    <li>Attr
-      <ul>
-        <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
-      </ul>
-    </li>
-    <li>Pred
-      <ul>
-        <li>ADJ: nodig, moontlik, aanspreeklik, belangrik, Buitengewoon, trots, verantwoordelik, beskikbaar, seker, gereed</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdjType</a>
+    <ul>
+      <li>Attr
+        <ul>
+          <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
+        </ul>
+      </li>
+      <li>Pred
+        <ul>
+          <li>ADJ: nodig, moontlik, aanspreeklik, belangrik, Buitengewoon, trots, verantwoordelik, beskikbaar, seker, gereed</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: van, om, in, vir, op, met, aan, deur, tot, by</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: van, om, in, vir, op, met, aan, deur, tot, by</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PartType</a>
-  <ul>
-    <li>Gen
-      <ul>
-        <li>PART: se, s'n</li>
-      </ul>
-    </li>
-    <li>Inf
-      <ul>
-        <li>PART: te, Die</li>
-      </ul>
-    </li>
-    <li>Neg
-      <ul>
-        <li>PART: nie</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Gen
+        <ul>
+          <li>PART: se, s'n</li>
+        </ul>
+      </li>
+      <li>Inf
+        <ul>
+          <li>PART: te, Die</li>
+        </ul>
+      </li>
+      <li>Neg
+        <ul>
+          <li>PART: nie</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Subcat</a>
-  <ul>
-    <li>Intr
-      <ul>
-        <li>VERB-Fin,Inf: werk, voortgaan, gaan, het, maak, tree, verskyn, reageer, staan, val</li>
-        <li>VERB-Part: gelei, toegeneem, afgeneem, gekom, plaasgevind, gehelp, getree, saamgewerk, afgelaai, gebring</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>VERB-Fin,Inf: voldoen, verwys, kondig, beveel</li>
-      </ul>
-    </li>
-    <li>Tran
-      <ul>
-        <li>VERB-Fin,Inf: doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</li>
-        <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, gegee</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Subcat</a>
+    <ul>
+      <li>Intr
+        <ul>
+          <li>VERB-Fin,Inf: werk, voortgaan, gaan, het, maak, tree, verskyn, reageer, staan, val</li>
+          <li>VERB-Part: gelei, toegeneem, afgeneem, gekom, plaasgevind, gehelp, getree, saamgewerk, afgelaai, gebring</li>
+        </ul>
+      </li>
+      <li>Prep
+        <ul>
+          <li>VERB-Fin,Inf: voldoen, verwys, kondig, beveel</li>
+        </ul>
+      </li>
+      <li>Tran
+        <ul>
+          <li>VERB-Fin,Inf: doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</li>
+          <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, gegee</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>VerbType</a>
-  <ul>
-    <li>Aux
-      <ul>
-        <li>AUX-Fin,Inf: het, laat, help, kom, probeer, sal, bly, begin, leer</li>
-      </ul>
-    </li>
-    <li>Cop
-      <ul>
-        <li>AUX-Fin: was, geword, geraak, geblyk, gelyk, gewees</li>
-        <li>AUX-Fin,Inf: is, wees, word, bly, raak, voel, bedra, beloop, blyk, ly</li>
-      </ul>
-    </li>
-    <li>Mod
-      <ul>
-        <li>AUX-Fin: moes, sou, kon, wou</li>
-        <li>AUX-Fin,Inf: sal, moet, kan, wil, mag, behoort, gaan, hoef, durf, moenie</li>
-      </ul>
-    </li>
-    <li>Pas
-      <ul>
-        <li>AUX-Fin: is, wees</li>
-        <li>AUX-Fin,Inf: word, wees</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>VerbType</a>
+    <ul>
+      <li>Aux
+        <ul>
+          <li>AUX-Fin,Inf: het, laat, help, kom, probeer, sal, bly, begin, leer</li>
+        </ul>
+      </li>
+      <li>Cop
+        <ul>
+          <li>AUX-Fin: was, geword, geraak, geblyk, gelyk, gewees</li>
+          <li>AUX-Fin,Inf: is, wees, word, bly, raak, voel, bedra, beloop, blyk, ly</li>
+        </ul>
+      </li>
+      <li>Mod
+        <ul>
+          <li>AUX-Fin: moes, sou, kon, wou</li>
+          <li>AUX-Fin,Inf: sal, moet, kan, wil, mag, behoort, gaan, hoef, durf, moenie</li>
+        </ul>
+      </li>
+      <li>Pas
+        <ul>
+          <li>AUX-Fin: is, wees</li>
+          <li>AUX-Fin,Inf: word, wees</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

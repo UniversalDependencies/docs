@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-63 nodes (0%) are attached to their parents as `expl:poss`.
+99 nodes (0%) are attached to their parents as `expl:poss`.
 
-49 instances of `expl:poss` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41269841269841.
+73 instances of `expl:poss` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3030303030303.
 
-The following 3 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (60; 95% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (93; 94% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,30 +39,24 @@ The following 3 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 15 expl:poss	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MARC3.21
-2	auzind	auzi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	5	advcl	_	ref=MARC3.21
-3	frățiile	frăție	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	2	nsubj	_	ref=MARC3.21
-4	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=MARC3.21
-5	veniră	veni	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MARC3.21
-6	să	să	PART	Qs	PartType=Sub	7	mark	_	ref=MARC3.21
-7	prinză	prinde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	ref=MARC3.21
-8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MARC3.21
-9	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	nmod:pmod	_	ref=MARC3.21|SpaceAfter=No
-10	,	,	PUNCT	COMMA	_	12	punct	_	ref=MARC3.21
-11	că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	ref=MARC3.21
-12	zicea	zice	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	ref=MARC3.21
-13	că	că	SCONJ	Csssp	Polarity=Pos	18	mark	_	ref=MARC3.21
-14	nu	nu	ADV	Qz	Polarity=Neg	18	advmod	_	ref=MARC3.21|SpaceAfter=No
-15	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	18	expl:poss	_	ref=MARC3.21
-16	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	ref=MARC3.21
-17	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	compound	_	ref=MARC3.21
-18	minte	minte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	ccomp	_	ref=MARC3.21|SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MARC3.21
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 expl:poss	color:blue
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=PAVEL_1.CORINT_12.27
+2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	ref=PAVEL_1.CORINT_12.27
+3	sînteți	fi	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	ref=PAVEL_1.CORINT_12.27
+4	trupul	trup	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	ref=PAVEL_1.CORINT_12.27
+5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=PAVEL_1.CORINT_12.27
+6	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	9	punct	_	ref=PAVEL_1.CORINT_12.27
+8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=PAVEL_1.CORINT_12.27
+9	mădulare	mădular	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	4	conj	_	ref=PAVEL_1.CORINT_12.27
+10	den	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	11	case	_	ref=PAVEL_1.CORINT_12.27
+11	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+12	-I	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	expl:poss	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=PAVEL_1.CORINT_12.27
 
 ~~~
 

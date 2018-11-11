@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Dutch-LassySmall: POS Tags: `AUX`
 
-There are 12 `AUX` lemmas (0%), 51 `AUX` types (0%) and 2795 `AUX` tokens (3%).
+There are 12 `AUX` lemmas (0%), 51 `AUX` types (0%) and 2794 `AUX` tokens (3%).
 Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>zijn, worden, hebben, kunnen, zullen, moeten, blijven, mogen, heten, blijken</em>
 
 The 10 most frequent `AUX` types:  <em>is, werd, was, wordt, zijn, worden, werden, waren, zou, kan</em>
 
-The 10 most frequent ambiguous lemmas: <em>zijn</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 1325, <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> 445, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 180), <em>worden</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 945, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 9), <em>hebben</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 173, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 138), <em>kunnen</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 118, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 13), <em>moeten</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 82, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 1), <em>blijven</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 47, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 25), <em>blijken</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 9), <em>lijken</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 8, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>zijn</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 1324, <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> 445, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 181), <em>worden</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 945, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 9), <em>hebben</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 173, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 138), <em>kunnen</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 118, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 13), <em>moeten</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 82, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 1), <em>blijven</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 47, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 25), <em>blijken</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 9), <em>lijken</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 8, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 687, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 59), <em>werd</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 461, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 2), <em>was</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 332, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 38), <em>wordt</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 221, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 3), <em>zijn</em> (<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> 399, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 219, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 57), <em>worden</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 148, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 3), <em>waren</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 71, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 11), <em>kan</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 49, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 8), <em>had</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 46, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 36), <em>heeft</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 73, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 41)
+The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 686, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 60), <em>werd</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 461, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 2), <em>was</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 332, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 38), <em>wordt</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 221, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 3), <em>zijn</em> (<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> 399, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 219, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 57), <em>worden</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 148, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 3), <em>waren</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 71, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 11), <em>kan</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 49, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 8), <em>had</em> (<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 46, <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 36), <em>heeft</em> (<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 73, <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 41)
 
 
 * <em>is</em>
-  * <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 687: <em>Het Vlaams Gewest <b>is</b> een deel van België , met als hoofdstad Brussel .</em>
-  * <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 59: <em>Het dagelijks bestuur <b>is</b> in handen van de bestendige deputatie .</em>
+  * <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 686: <em>Het Vlaams Gewest <b>is</b> een deel van België , met als hoofdstad Brussel .</em>
+  * <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 60: <em>Het dagelijks bestuur <b>is</b> in handen van de bestendige deputatie .</em>
 * <em>werd</em>
   * <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> 461: <em>Het werk van Ensor <b>werd</b> meermaals afgewezen , ook door « L'Essor » .</em>
   * <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> 2: <em>In 2005 <b>werd</b> Vandersteen genomineerd als één van de 111 kanshebbers op de titel De Grootste Belg in de Vlaamse versie .</em>
@@ -60,22 +60,22 @@ The 2nd highest number of forms (6) was observed with the lemma “zijn”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “blijven”: <em>bleef, bleven, blijft, blijven, gebleven</em>.
 
-`AUX` occurs with 3 features: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt> (2795; 100% instances), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt> (2629; 94% instances), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt> (2629; 94% instances)
+`AUX` occurs with 3 features: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt> (2794; 100% instances), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt> (2628; 94% instances), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt> (2628; 94% instances)
 
 `AUX` occurs with 7 feature-value pairs: `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 6 feature combinations.
-The most frequent feature combination is `Number=Sing|Tense=Pres|VerbForm=Fin` (1089 tokens).
+The most frequent feature combination is `Number=Sing|Tense=Pres|VerbForm=Fin` (1088 tokens).
 Examples: <em>is, wordt, kan, heeft, zal, moet, heet, mag, blijft, heb</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt> (1236; 44% instances), <tt><a href="nl_lassysmall-dep-aux-pass.html">aux:pass</a></tt> (958; 34% instances), <tt><a href="nl_lassysmall-dep-aux.html">aux</a></tt> (601; 22% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt> (1235; 44% instances), <tt><a href="nl_lassysmall-dep-aux-pass.html">aux:pass</a></tt> (958; 34% instances), <tt><a href="nl_lassysmall-dep-aux.html">aux</a></tt> (601; 22% instances)
 
-Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1576; 56% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (654; 23% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (361; 13% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (97; 3% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (53; 2% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1576; 56% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (653; 23% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (361; 13% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (97; 3% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (53; 2% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (2; 0% instances)
 
-2773 (99%) `AUX` nodes are leaves.
+2772 (99%) `AUX` nodes are leaves.
 
 20 (1%) `AUX` nodes have one child.
 

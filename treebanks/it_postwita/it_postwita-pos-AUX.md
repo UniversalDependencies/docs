@@ -20,43 +20,43 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_postwita-pos
 
 * <em>è</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 1143: <em>Se #Grillo <b>è</b> l' alternativa mi tenevo #Bossi : fa anche ridere di più .</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 182: <em>@njallsfirstlove si cazzo c' <b>è</b> la devo fare c' <b>è</b> la posso fare !</em>
-  * <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 1: <em>@LoScimmietto @Agenzia_Ansa tu sei appassionato di calcio visto che scrivi di quello <b>è</b> nn ti critico anche se per me è una cagata . Rispe</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 182: <em>@user si cazzo c' <b>è</b> la devo fare c' <b>è</b> la posso fare !</em>
+  * <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 1: <em>@user1 @user2 tu sei appassionato di calcio visto che scrivi di quello <b>è</b> nn ti critico anche se per me è una cagata . Rispe</em>
   * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 1: <em>L' attacco di tutti i partiti a #Grillo è veramente stupendo #portaaporta .. Paura <b>è</b> ???</em>
 * <em>sono</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 327: <em>Mi <b>sono</b> ricordata anche di Twitter :) mio dioo , è cambiato tutto qui !</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 39: <em>@elibuoss ahahahah si , di minor importanza ma ci <b>sono</b></em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 327: <em>@user ahahaha mi ombottivo per bene xD ma poi <b>sono</b> stata male ... LOOOL</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 39: <em>@user ahahahah si , di minor importanza ma ci <b>sono</b></em>
 * <em>ha</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 367: <em>Napolitano difende il governo Monti ? Ci mancherebbe , lo <b>ha</b> fatto lui !</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 149: <em>Il mi sento fortunato di il google play c' <b>ha</b> una fantasia di merda :-)</em>
 * <em>ho</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 141: <em>@_neverafailure già l' hai scritto e <b>ho</b> continuato io , dopo lo copio (:</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 56: <em>@SexIsSexy1 https://t.co/y9CSgW1QDs <b>ho</b> vogliia di combinar ti così tesoro</em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 141: <em>@user oggi non <b>ho</b> pranzato , quindi sicuramente ero a fare altro ( ? )</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 56: <em>@user https://t.co/y9CSgW1QDs <b>ho</b> vogliia di combinar ti così tesoro</em>
 * <em>e'</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 85: <em>Il nostro no ad un governo Monti <b>e'</b> forte e chiaro ...</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 19: <em>La profezia di i #maya non <b>e'</b> che era Mario Monti ?!</em>
 * <em>essere</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 102: <em>Governo Monti . Dobbiamo <b>essere</b> contenti . http://t.co/pvHm744O</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>Sono un <b>essere</b> umano è normale</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@govi47 @SPACEdotcom .... Viviana il prossimo tre novembre un' eclisse ibrida visibili in il sud Italia ??? Può <b>essere</b> !... ne sai qualche cosa</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@user1 @user2 .... Viviana il prossimo tre novembre un' eclisse ibrida visibili in il sud Italia ??? Può <b>essere</b> !... ne sai qualche cosa</em>
 * <em>siamo</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 78: <em>A la faccia di il " niente sesso <b>siamo</b> inglesi " ... http://t.co/hkYzOkBR</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 5: <em>#WeAreHereForDecarli noi ci <b>siamo</b> sempre . Grazie per tutti i sorrisi , ti amiamo castorino di il nostro cuore . x23</em>
 * <em>sei</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 89: <em>@louisnvgdr * lo guarda sbalordito * ma <b>sei</b> coglione ?</em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 89: <em>@user * lo guarda sbalordito * ma <b>sei</b> coglione ?</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 4: <em>La versione non mi è andata bene , lo avrò il <b>sei</b> ? ..</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 1: <em>@luca_conti Certo che <b>sei</b> i giornali continuano a fare i titoli su le calzate invece che su le proposte di #Grillo siamo messi bene ...</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 1: <em>@user Certo che <b>sei</b> i giornali continuano a fare i titoli su le calzate invece che su le proposte di #Grillo siamo messi bene ...</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>E dove minchia <b>sei</b> ?</em>
 * <em>può</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 82: <em>Pure Passera si <b>può</b> definire un membro di il governo ? #monti</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 5: <em>Liberalizzare pure il #carcere ? Secondo il governo #Monti si <b>può</b> http://t.co/P3rB1Lx5</em>
 * <em>hanno</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 75: <em>@gasparripdl @gerrygreco ti <b>hanno</b> visto infatti !</em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 75: <em>@user1 @user2 ti <b>hanno</b> visto infatti !</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 36: <em>Ora tutti <b>hanno</b> un #Grillo per la testa !!</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 20.555556 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `AUX` is 20.555556 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (49) was observed with the lemma “essere”: <em>6, SIAM, Sará, Sii, e, e', era, erano, eravamo, eri, ero, essendo, esser, essere, fosse, fossero, fossi, fu, sara, sara', sarai, saranno, sarebbe, sarebbero, sarei, saremo, saresti, sarà, sarò, sei, si, sia, siamo, siano, siate, siete, sn, so, so', son, sono, stata, state, stati, stato, stesse, ziete, è, é</em>.
 

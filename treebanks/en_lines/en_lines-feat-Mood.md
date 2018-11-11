@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-7303 tokens (9%) have a non-empty value of `Mood`.
-1003 types (11%) occur at least once with a non-empty value of `Mood`.
-699 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (4532; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2771; 3% instances).
+7304 tokens (9%) have a non-empty value of `Mood`.
+1004 types (11%) occur at least once with a non-empty value of `Mood`.
+700 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (4533; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2771; 3% instances).
 
 ### `VERB`
 
-4532 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
+4533 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4532; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4532; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2930; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4533; 100%), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4533; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2930; 65%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (117; 3% of non-empty `Mood`): <em>let, see, Note, click, do, Come, look, Imagine, have, make</em>
-* `Ind` (4411; 97% of non-empty `Mood`): <em>was, said, had, is, do, came, seemed, looked, went, got</em>
+* `Ind` (4412; 97% of non-empty `Mood`): <em>was, said, had, is, do, came, seemed, looked, went, got</em>
 * `Sub` (4; 0% of non-empty `Mood`): <em>were, get, post</em>
-* `EMPTY` (5332): <em>know, going, see, do, make, get, have, go, come, say</em>
+* `EMPTY` (5330): <em>know, going, see, do, make, get, have, go, come, say</em>
 
 <table>
   <tr><th>Paradigm <i>get</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td></td><td><em>Get</em></td><td><em>get</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (647) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 93% lemmas (648) occur only with one value of `Mood`.
 
 ### `AUX`
 
@@ -63,6 +63,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (576; 65%),
+<tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (578; 65%),
 <tt>VERB --[<tt><a href="en_lines-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (1; 100%).
 

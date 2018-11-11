@@ -11,7 +11,7 @@ udver: '2'
 
 # UD French Sequoia
 
-Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
+Language: [French](/fr/index.html) (code: `fr`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
@@ -19,11 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: LGPL-LR
 
-Genre: wiki, medical, new, nonfiction
+Genre: wiki, medical, news, nonfiction
 
 Questions, comments?
 General annotation questions (either French-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -87,17 +88,17 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 
 ## Relations
 
-[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [det](fr_sequoia-dep-det.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl](fr_sequoia-dep-expl.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nmod:range](fr_sequoia-dep-nmod-range.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
+[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [det](fr_sequoia-dep-det.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl](fr_sequoia-dep-expl.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3099 sentences, 68646 tokens and 70602 syntactic words.</li>
+<li>This corpus contains 3099 sentences, 68637 tokens and 70593 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10809 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 10801 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -105,7 +106,7 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 </ul>
 
 <ul>
-<li>This corpus contains 303 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, -il, aujourd'hui, Hauts-de-Seine, peut-être, IIb/IIIa, après-midi, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, -t, Jean-Paul, Thomson-CSF, celle-ci, non-lieu, rétro-commissions, États-Unis, Île-de-France, contre-indiqué, p​o​s​t​-​c​o​m​m​e​r​c​i​a​l​i​s​a​t​i​o​n, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, celui-ci, etc., -ils, -je, -moi, -on, Arc-et-Senans</li>
+<li>This corpus contains 304 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, -il, aujourd'hui, Hauts-de-Seine, peut-être, IIb/IIIa, après-midi, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, -t, Jean-Paul, Thomson-CSF, celle-ci, non-lieu, rétro-commissions, États-Unis, Île-de-France, contre-indiqué, p​o​s​t​-​c​o​m​m​e​r​c​i​a​l​i​s​a​t​i​o​n, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, calcium-élément, celui-ci, etc., -ils, -je, -moi, -on</li>
 </ul>
 
 <ul>
@@ -123,7 +124,7 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 </ul>
 
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): -t, l'</li>
+<li>This corpus contains 1 word types tagged as particles (PART): -t</li>
 </ul>
 
 <ul>
@@ -180,386 +181,344 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
-        <li>ADP: à</li>
-        <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
-        <li>NOUN: affaire, bivalirudine, perfusion, administration, solution, dose, étude, fois, maladie, guerre</li>
-        <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, chacune, celles, celle</li>
-        <li>PROPN: commission, France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche</li>
-        <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
+      <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
+      <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, guerre</li>
+      <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, chacune, celles, celle</li>
+      <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</li>
+      <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: français, tous, ancien, osseux, premier, nombreux, dernier, compris, faux, général</li>
-        <li>ADP: à, de</li>
-        <li>AUX-Part: fait</li>
-        <li>DET: le, un, ce, les, cet, aucun, tout, du, certains, quel</li>
-        <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
-        <li>NUM: 17, neuf</li>
-        <li>PRON: il, ils, un, le, -il, lui, eux, ceux, chacun, lequel</li>
-        <li>PROPN: paris, Jacques, Chirac, Taïwan, conseil, Michel, Hauts-de-Seine, Parlement, Didier, Alain</li>
-        <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: français, tous, ancien, osseux, premier, nombreux, dernier, compris, faux, général</li>
+      <li>AUX-Part: fait</li>
+      <li>DET: le, un, ce, les, cet, aucun, tout, du, certains, quel</li>
+      <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
+      <li>NUM: 17, neuf</li>
+      <li>PRON: il, ils, un, le, -il, lui, eux, ceux, chacun, lequel</li>
+      <li>PROPN: paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</li>
+      <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</li>
+      <li>AUX-Fin: ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</li>
+      <li>DET: les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</li>
+      <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
+      <li>NUM: 17</li>
+      <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
+      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Frégates, Pays-Bas</li>
+      <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
+      <li>VERB-Part: traités, atteints, présentés, rapportées, traitées, versées, rapportés, liés, menées, observés</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</li>
-        <li>ADP: à</li>
-        <li>AUX-Fin: ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</li>
-        <li>DET: les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</li>
-        <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
-        <li>NUM: 17</li>
-        <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
-        <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Brasseries, Communautés, Nations, Offices, Sources</li>
-        <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
-        <li>VERB-Part: traités, atteints, présentés, rapportées, traitées, versées, rapportés, liés, menées, observés</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: autre, politique, même, clinique, ancien, européenne, jeune, première, rénale, premier</li>
-        <li>ADP: de</li>
-        <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
-        <li>AUX-Part: fait</li>
-        <li>DET: le, la, l', une, un, cette, ce, son, votre, sa</li>
-        <li>NOUN: affaire, bivalirudine, perfusion, traitement, président, M., administration, solution, rapport, dose</li>
-        <li>NUM: neuf</li>
-        <li>PART: l'</li>
-        <li>PRON: il, je, elle, c', j', cela, on, un, le, l'</li>
-        <li>PROPN: Paris, Union, commission, Jacques, France, Chirac, Taïwan, Francis, conseil, Michel</li>
-        <li>VERB-Fin: doit, a, peut, est, faut, voudrais, pense, agit, concerne, contient</li>
-        <li>VERB-Part: eu, utilisé, administré, reçu, fait, observée, présenté, recommandé, recommandée, administrée</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: autre, politique, même, clinique, ancien, européenne, jeune, première, rénale, premier</li>
+      <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
+      <li>AUX-Part: fait</li>
+      <li>DET: le, la, l', une, un, cette, ce, son, votre, sa</li>
+      <li>NOUN: affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</li>
+      <li>NUM: neuf</li>
+      <li>PRON: il, je, elle, c', j', cela, on, un, le, l'</li>
+      <li>PROPN: Paris, Union, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier</li>
+      <li>VERB-Fin: doit, a, peut, est, faut, voudrais, pense, agit, concerne, contient</li>
+      <li>VERB-Part: eu, utilisé, administré, reçu, fait, observée, présenté, recommandé, recommandée, administrée</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: le, les, la, l', lesdites</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Definite</a>
-
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: le, les, la, l', lesdites</li>
-        <li>PART: l'</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: une, un, des, de, d', quelques, tout, toute, quelque, tous</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: une, un, des, de, d', quelques, tout, toute, quelque, tous</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: pas, n', ne, plus, jamais, guère</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: pas, n', ne, plus, jamais, guère</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: aurait, auraient, serait, seraient, serais</li>
+      <li>VERB-Fin: voudrais, pourrait, devrait, devrions, pourraient, devraient, devrais, souhaiterais, deviendrait, retrouverait</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: aurait, auraient, serait, seraient, serais</li>
-        <li>VERB-Fin: voudrais, pourrait, devrait, devrions, pourraient, devraient, devrais, souhaiterais, deviendrait, retrouverait</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: veuillez, demandez, permettez, prévenez, suivez, Assurez, Contactez, Faites, Gardez, Revenons</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: veuillez, demandez, permettez, prévenez, suivez, Assurez, Contactez, Faites, Gardez, Revenons</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, ai</li>
+      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, pense, devons</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, ai</li>
-        <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, pense, devons</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: soit, soient, ait, aient, ayez, fasse, sois, soyons</li>
+      <li>VERB-Fin: puisse, puissent, prenne, comportent, fasse, produise, revienne, réserve, soit, aboutisse</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: soit, soient, ait, aient, ayez, fasse, sois, soyons</li>
-        <li>VERB-Fin: puisse, puissent, prenne, comportent, fasse, produise, revienne, réserve, soit, aboutisse</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: sera, seront, aura, auront, aurons, fera</li>
+      <li>VERB-Fin: devra, pourra, aura, pourront, aurons, auront, durera, déterminera, informera, aurai</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: était, avait, étaient, avaient, étais, Etaient, avais, avions</li>
+      <li>VERB-Fin: devait, avait, pouvait, avaient, agissait, faisaient, faisait, travaillait, fallait, souhaitait</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: sera, seront, aura, auront, aurons, fera</li>
-        <li>VERB-Fin: devra, pourra, aura, pourront, aurons, auront, durera, déterminera, informera, aurai</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: fut, furent, eut</li>
+      <li>AUX-Part: été, fait</li>
+      <li>VERB-Fin: agit, eut, avéra, mit, revint, aboutisse, aboutit, accrochèrent, adonnèrent, adoucit</li>
+      <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, pu, fait</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: était, avait, étaient, avaient, étais, Etaient, avais, avions</li>
-        <li>VERB-Fin: devait, avait, pouvait, avaient, agissait, faisaient, faisait, travaillait, fallait, souhaitait</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: est, a, ont, sont, ai, soit, avez, avons, aurait, soient</li>
+      <li>AUX-Part: ayant, étant, faisant</li>
+      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, voudrais, pense, devons</li>
+      <li>VERB-Part: concernant, suivant, présentant, ayant, souffrant, subissant, correspondant, recevant, résultant, portant</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: fut, furent, eut</li>
-        <li>AUX-Part: été, fait</li>
-        <li>VERB-Fin: agit, eut, avéra, mit, revint, aboutisse, aboutit, accrochèrent, adonnèrent, adoucit</li>
-        <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, pu, fait</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: est, a, ont, sont, ai, soit, avez, avons, aurait, soient</li>
-        <li>AUX-Part: ayant, étant, faisant</li>
-        <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, voudrais, pense, devons</li>
-        <li>VERB-Part: concernant, suivant, présentant, ayant, souffrant, subissant, correspondant, recevant, résultant, portant</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Part: utilisé, administré, mis, observée, recommandé, traités, condamné, arrêté, observé, présentés</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Part: utilisé, administré, mis, observée, recommandé, traités, condamné, arrêté, observé, présentés</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: le, les, la, l', une, un, des, de, d', quelques</li>
-        <li>PART: l'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: le, les, la, l', une, un, des, de, d', quelques</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: cette, ce, ces, cet</li>
-        <li>PRON: cela, ceci, ceux, celle-ci, celles, celle, celui, celui-ci, ça, celles-ci</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: cette, ce, ces, cet</li>
+      <li>PRON: cela, ceci, ceux, celle-ci, celles, celle, celui, celui-ci, ça, celles-ci</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: comment, pourquoi, où, combien</li>
-        <li>DET: quel, quelles, quelle, quels</li>
-        <li>PRON: Qu', Que, qui, quoi, QU'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: comment, pourquoi, où, combien</li>
+      <li>DET: quel, quelles, quelle, quels</li>
+      <li>PRON: Qu', Que, qui, quoi, QU'</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: lui, eux, moi, elle, vous, elles, nous, Toi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: lui, eux, moi, elle, vous, elles, nous, Toi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NOUN: millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</li>
+      <li>NUM: deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</li>
+      <li>PRON: 1, deux, 100, 1/10, 1/100, 10, 6, 96, six, trois</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NOUN: millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</li>
-        <li>NUM: deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</li>
-        <li>PRON: 1, deux, 100, 1/10, 1/100, 10, 6, 96, six, trois</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: première, premier, dernier, 3e, deuxième, 1er, premiers, troisième, quatrième, 21e</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: première, premier, dernier, 3e, deuxième, 1er, premiers, troisième, quatrième, 21e</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: son, ses, votre, sa, leur, leurs, notre, nos, mon, mes</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: son, ses, votre, sa, leur, leurs, notre, nos, mon, mes</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: se, s', me, nous, vous, m', -vous</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</li>
+      <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
+      <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: se, s', me, nous, vous, m', -vous</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: avez, êtes, avais, ayez, étais</li>
+      <li>PRON: vous, -vous, Toi</li>
+      <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</li>
-        <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
-        <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: avez, êtes, avais, ayez, étais</li>
-        <li>PRON: vous, -vous, Toi</li>
-        <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>ADP: à, de</li>
-        <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
-        <li>PRON: il, se, y, s', en, elle, ils, c', on, le</li>
-        <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
+      <li>PRON: il, se, y, s', en, elle, ils, c', on, le</li>
+      <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -586,9 +545,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (757)</li>
-      <li>VERB-Fin--PRON (1026)</li>
-      <li>VERB-Part--NOUN (292)</li>
+      <li>VERB-Fin--NOUN (791)</li>
+      <li>VERB-Fin--PRON (1014)</li>
+      <li>VERB-Part--NOUN (306)</li>
       <li>VERB-Part--PRON (223)</li>
     </ul>
   </li>
@@ -597,12 +556,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (654)</li>
+      <li>VERB-Fin--NOUN (658)</li>
       <li>VERB-Fin--PRON (146)</li>
-      <li>VERB-Inf--NOUN (686)</li>
+      <li>VERB-Inf--NOUN (692)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
       <li>VERB-Inf--PRON (76)</li>
-      <li>VERB-Part--NOUN (496)</li>
+      <li>VERB-Part--NOUN (497)</li>
       <li>VERB-Part--PRON (61)</li>
     </ul>
   </li>
@@ -611,7 +570,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (103)</li>
+      <li>VERB-Fin--PRON (105)</li>
       <li>VERB-Inf--PRON (33)</li>
       <li>VERB-Part--PRON (71)</li>
     </ul>
@@ -632,7 +591,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:range</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>flat</a>, <a>obl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

@@ -11,23 +11,23 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt>, <tt><a href="hsb_ufal-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-4929 tokens (44%) have a non-empty value of `Gender`.
+4930 tokens (44%) have a non-empty value of `Gender`.
 3298 types (76%) occur at least once with a non-empty value of `Gender`.
 2112 lemmas (69%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2530; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1384; 12% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (539; 5% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (271; 2% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (123; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (48; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (31; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2527; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1384; 12% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (539; 5% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (270; 2% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (123; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (48; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (36; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-2530 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+2527 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1687; 67%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1386; 55%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1688; 67%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1386; 55%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (935; 37% of non-empty `Gender`): <em>l, rěč, woda, rěčow, stolica, rostliny, wody, rěče, knihi, biblioteki</em>
-* `Masc` (1146; 45% of non-empty `Gender`): <em>př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</em>
-* `Neut` (449; 18% of non-empty `Gender`): <em>město, lěta, lěće, mócnarstwo, pismo, słowo, lět, města, hospodarstwo, knjejstwa</em>
-* `EMPTY` (18): <em>km, m, CEST, droždźemi, duri, dźěła, hodź, jan, thumb, zdźěla</em>
+* `Fem` (934; 37% of non-empty `Gender`): <em>l, rěč, woda, rěčow, stolica, rostliny, wody, rěče, knihi, biblioteki</em>
+* `Masc` (1143; 45% of non-empty `Gender`): <em>př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</em>
+* `Neut` (450; 18% of non-empty `Gender`): <em>město, lěta, lěće, mócnarstwo, pismo, słowo, lět, města, hospodarstwo, knjejstwa</em>
+* `EMPTY` (16): <em>km, m, CEST, droždźemi, duri, hodź, jan, thumb</em>
 
 <table>
   <tr><th>Paradigm <i>dataja</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>datow</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1013) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1012) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -91,16 +91,16 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `DET`
 
-271 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Gender`.
+270 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (236; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (227; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (227; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (198; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (181; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 61%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (235; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (226; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (226; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (197; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (180; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 61%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (127; 47% of non-empty `Gender`): <em>n, kotraž, kotrež, tuta, swoju, tute, tutej, tutu, kotrejž, někotrych</em>
-* `Masc` (104; 38% of non-empty `Gender`): <em>kotrež, kotryž, tutón, n, někotři, swoje, tute, tutym, kotrychž, někotre</em>
+* `Fem` (126; 47% of non-empty `Gender`): <em>n, kotraž, kotrež, tuta, swoju, tute, tutej, tutu, kotrejž, někotrych</em>
+* `Masc` (104; 39% of non-empty `Gender`): <em>kotrež, kotryž, tutón, n, někotři, swoje, tute, tutym, kotrychž, někotre</em>
 * `Neut` (40; 15% of non-empty `Gender`): <em>kotrež, tute, kóžde, žane, swoje, tajke, twojim, Wobě, kajke, kotrejž</em>
-* `EMPTY` (40): <em>jeho, jich, jeje, n, Někotre, Tutón, Wšě, mnoho, tójšto, wšěch</em>
+* `EMPTY` (57): <em>jeho, jich, wjele, jeje, mnoho, n, Někotre, Tutón, Wšě, mjenje</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (12; 25% of non-empty `Gender`): <em>dodźeržała, eksistowali, kontrolowali, móhła, předstaja, přeměniła, přełožili, přistupiła, rostła, stabilizowała</em>
 * `Masc` (30; 63% of non-empty `Gender`): <em>přewzali, wužiwali, započał, ilustrował, mał, mjenował, měł, nastał, poradźił, poznamjenili</em>
 * `Neut` (6; 13% of non-empty `Gender`): <em>móhli, poradźiło, předstajili, stali, stało, wočakowało</em>
-* `EMPTY` (774): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (773): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 <table>
   <tr><th>Paradigm <i>předstajić</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -173,15 +173,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `NUM`
 
-31 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Gender`.
+36 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (9% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (31; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (35; 97%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (10; 32% of non-empty `Gender`): <em>jedna, jednu, štyri, dwaj, dwě, dwěmaj, štyrjoch</em>
-* `Masc` (17; 55% of non-empty `Gender`): <em>jedyn, dwaj, dweju, jedneho, jedny, traje, štyrjoch</em>
-* `Neut` (4; 13% of non-empty `Gender`): <em>dwěmaj, jednym</em>
+* `Fem` (12; 33% of non-empty `Gender`): <em>jedna, jednu, štyri, dwaj, dwě, dwěmaj, miliardow, woběmaj, štyrjoch</em>
+* `Masc` (20; 56% of non-empty `Gender`): <em>jedyn, dwaj, Mio, dweju, jedneho, jedny, traje, štyrjoch</em>
+* `Neut` (4; 11% of non-empty `Gender`): <em>dwěmaj, jednym</em>
 * `EMPTY` (346): <em>2, 1, 6, 4, 3, 5, 7, I, 000, 10</em>
 
 <table>
@@ -205,7 +205,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (1; 50% of non-empty `Gender`): <em>była</em>
 * `Masc` (1; 50% of non-empty `Gender`): <em>był</em>
-* `EMPTY` (287): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
+* `EMPTY` (288): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -221,12 +221,12 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>wuchodne</em>
-* `EMPTY` (538): <em>tež, tak, hišće, zwjetša, wjele, něhdźe, wjace, hižo, tu, najprjedy</em>
+* `EMPTY` (534): <em>tež, tak, hišće, zwjetša, hač, něhdźe, hižo, tu, wjace, najprjedy</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1049; 96%),
+<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1052; 96%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-det.html">det</a></tt>]--> DET</tt> (170; 79%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (161; 68%),
 <tt>ADJ --[<tt><a href="hsb_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (75; 89%),

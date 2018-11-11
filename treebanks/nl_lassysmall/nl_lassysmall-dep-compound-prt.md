@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	van	van	ADP	VZ|init	_	10	case	10:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
 9	bestendige	bestendig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
-10	deputatie	deputatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl	SpaceAfter=No
+10	deputatie	deputatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:van	SpaceAfter=No
 11	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	later	laat	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	3	advmod	3:advmod	_
 5	in	in	ADP	VZ|init	_	7	case	7:case	_
 6	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	7	nmod:poss	7:nmod:poss	_
-7	werk	werk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl	_
+7	werk	werk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:in	_
 8	heel	heel	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	9	advmod	9:advmod	_
 9	veel	veel	PRON	VNW|onbep|grad|stan|vrij|zonder|basis	PronType=Ind	3	advmod	3:advmod	_
 10	terug	terug	ADV	BW	_	3	compound:prt	3:compound:prt	SpaceAfter=No
@@ -70,8 +70,8 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	kennis	kennis	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	compound:prt	2:compound:prt	_
 5	met	met	ADP	VZ|init	_	7	case	7:case	_
 6	o.a.	o.a.	X	SPEC|afk	Abbr=Yes	7	nmod	7:nmod	_
-7	Fernand	Fernand	PROPN	SPEC|deeleigen	_	2	obl	2:obl	_
-8	Khnopff	Khnopff	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	SpaceAfter=No
+7	Fernand	Fernand	PROPN	SPEC|deeleigen	_	2	obl	2:obl:met	_
+8	Khnopff	Khnopff	PROPN	SPEC|deeleigen	_	7	flat	7:flat	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~

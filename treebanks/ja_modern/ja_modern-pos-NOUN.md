@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-Modern: POS Tags: `NOUN`
 
-There are 1603 `NOUN` lemmas (62%), 1603 `NOUN` types (54%) and 4268 `NOUN` tokens (30%).
+There are 1603 `NOUN` lemmas (62%), 1603 `NOUN` types (54%) and 4311 `NOUN` tokens (30%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: 者, ヿ, 國, 政治, 法, 事, 人, 曰く, 所, 時
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  者 (<tt><a href="ja_modern-pos-NOUN.html
   * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 65: 夫れ 我が <b>國</b> の 文字 先王 始め 之 を 漢土 に 取 て 之 を 用ふ
   * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 9: 此 小 識量 歐洲 に 在り 數 <b>國</b> の 活語 を 兼ね 又 拉丁 希臘 希伯利 聖斯基利 の 死語 に 及 者 に 異 なり
 * 法
-  * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 50: 今 其 所謂 我 の 文章 なる 者 言ふ 所 書する 所 其 <b>法</b> を 異 に し て 言ふ べき は 書す べから ず
+  * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 50: 然る に 今 其 所謂 我 の 文章 なる 者 言ふ 所 書する 所 其 <b>法</b> を 異 に し て 言ふ べき は 書す べから ず
   * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 6: 曰く 姑く 保護 <b>法</b> を 用 て 漸次 に 我 業力 を 興す に 如か ず
   * <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> 1: （ 瑞士 國 の 起り は 中古 史 の 中 に 在れ ども 徳 <b>法</b> 英 等 の 國 に 比すれ ば 大に 後る 、
 * 人
@@ -33,13 +33,13 @@ The 10 most frequent ambiguous types:  者 (<tt><a href="ja_modern-pos-NOUN.html
   * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 19: 然る 時 は 三 萬 <b>人</b> と 見 て 九 萬 圓 の 積 ある べし
 * 所
   * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 43: 僕 が 見る <b>所</b> 擧世 の 通患 に て 是 歸する <b>所</b> 賢智 の 寡く 愚 不肖 の 衆く し て 其 勢 衆寡 敵せ ざる なり
-  * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 2: 近日 既に 洋紙 製造 <b>所</b> を 建る の 設 あり
+  * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 2: 然る に 近日 既に 洋紙 製造 <b>所</b> を 建る の 設 あり
 * 民
   * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 33: 我 の <b>民</b> 自ら 機軸 を 出す 能は ず と 雖ども 善 を 見 て 遷り 長 を 取 て 用ふ
-  * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 3: 我 帝國 日本 の 歐米 諸國 と 條約 を 締立 する や 外國 <b>民</b> の 我 國内 に 於 て 法 を 犯す に 於 て 我 國 の 法律 以 て 之 を 罰す べから ず
+  * <tt><a href="ja_modern-pos-PART.html">PART</a></tt> 3: 然る に 我 帝國 日本 の 歐米 諸國 と 條約 を 締立 する や 外國 <b>民</b> の 我 國内 に 於 て 法 を 犯す に 於 て 我 國 の 法律 以 て 之 を 罰す べから ず
 * 説
   * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 23: それ 漢字 を 減定 する の <b>説</b> 僻見 亦 至れ り と 謂ふ べし
-  * <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> 3: 論者 徒 に 民選 議院 の 起す べき を <b>説</b> て 一言 政體 に 及ば ず
+  * <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> 3: 而る に 論者 徒 に 民選 議院 の 起す べき を <b>説</b> て 一言 政體 に 及ば ず
 * 可
   * <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> 11: 彼の 長 を 採り 彼の 文字 を 用ふる 固より <b>可</b> なり
   * <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> 2: 此れ 實 に 恐 <b>可</b> の 大 なる 者 也
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  者 (<tt><a href="ja_modern-pos-NOUN.html
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.000000 (the average of all parts of speech is 1.140162).
+The form / lemma ratio of `NOUN` is 1.000000 (the average of all parts of speech is 1.139839).
 
 The 1st highest number of forms (1) was observed with the lemma “〓々”: 〓々.
 
@@ -65,27 +65,27 @@ The 3rd highest number of forms (1) was observed with the lemma “かづき”:
 `NOUN` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `NOUN` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (4265 tokens).
+The most frequent feature combination is `_` (4308 tokens).
 Examples: 者, ヿ, 國, 政治, 法, 事, 人, 曰く, 所, 時
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 10 different relations: <tt><a href="ja_modern-dep-nmod.html">nmod</a></tt> (1634; 38% instances), <tt><a href="ja_modern-dep-compound.html">compound</a></tt> (900; 21% instances), <tt><a href="ja_modern-dep-obj.html">obj</a></tt> (669; 16% instances), <tt><a href="ja_modern-dep-iobj.html">iobj</a></tt> (510; 12% instances), <tt><a href="ja_modern-dep-obl.html">obl</a></tt> (359; 8% instances), <tt><a href="ja_modern-dep-root.html">root</a></tt> (189; 4% instances), <tt><a href="ja_modern-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ja_modern-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_modern-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (1; 0% instances)
+`NOUN` nodes are attached to their parents using 10 different relations: <tt><a href="ja_modern-dep-nmod.html">nmod</a></tt> (1814; 42% instances), <tt><a href="ja_modern-dep-compound.html">compound</a></tt> (697; 16% instances), <tt><a href="ja_modern-dep-obj.html">obj</a></tt> (674; 16% instances), <tt><a href="ja_modern-dep-iobj.html">iobj</a></tt> (451; 10% instances), <tt><a href="ja_modern-dep-obl.html">obl</a></tt> (269; 6% instances), <tt><a href="ja_modern-dep-root.html">root</a></tt> (213; 5% instances), <tt><a href="ja_modern-dep-nsubj.html">nsubj</a></tt> (172; 4% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (17; 0% instances), <tt><a href="ja_modern-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ja_modern-dep-aux.html">aux</a></tt> (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 12 different parts of speech: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (2308; 54% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (1359; 32% instances),  (189; 4% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt> (151; 4% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (97; 2% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (91; 2% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (28; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (21; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `NOUN` nodes belong to 12 different parts of speech: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (1961; 45% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (1699; 39% instances),  (213; 5% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt> (151; 4% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (98; 2% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (95; 2% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (21; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (1; 0% instances)
 
-1262 (30%) `NOUN` nodes are leaves.
+1061 (25%) `NOUN` nodes are leaves.
 
-1372 (32%) `NOUN` nodes have one child.
+1385 (32%) `NOUN` nodes have one child.
 
-1158 (27%) `NOUN` nodes have two children.
+1170 (27%) `NOUN` nodes have two children.
 
-476 (11%) `NOUN` nodes have three or more children.
+695 (16%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 13.
 
-Children of `NOUN` nodes are attached using 19 different relations: <tt><a href="ja_modern-dep-case.html">case</a></tt> (2175; 40% instances), <tt><a href="ja_modern-dep-nmod.html">nmod</a></tt> (1332; 24% instances), <tt><a href="ja_modern-dep-compound.html">compound</a></tt> (486; 9% instances), <tt><a href="ja_modern-dep-aux.html">aux</a></tt> (383; 7% instances), <tt><a href="ja_modern-dep-acl.html">acl</a></tt> (382; 7% instances), <tt><a href="ja_modern-dep-amod.html">amod</a></tt> (136; 2% instances), <tt><a href="ja_modern-dep-nummod.html">nummod</a></tt> (127; 2% instances), <tt><a href="ja_modern-dep-punct.html">punct</a></tt> (95; 2% instances), <tt><a href="ja_modern-dep-obl.html">obl</a></tt> (76; 1% instances), <tt><a href="ja_modern-dep-cc.html">cc</a></tt> (72; 1% instances), <tt><a href="ja_modern-dep-iobj.html">iobj</a></tt> (66; 1% instances), <tt><a href="ja_modern-dep-advmod.html">advmod</a></tt> (51; 1% instances), <tt><a href="ja_modern-dep-mark.html">mark</a></tt> (35; 1% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (16; 0% instances), <tt><a href="ja_modern-dep-det.html">det</a></tt> (14; 0% instances), <tt><a href="ja_modern-dep-nsubj.html">nsubj</a></tt> (8; 0% instances), <tt><a href="ja_modern-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ja_modern-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_modern-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+Children of `NOUN` nodes are attached using 19 different relations: <tt><a href="ja_modern-dep-case.html">case</a></tt> (2263; 35% instances), <tt><a href="ja_modern-dep-nmod.html">nmod</a></tt> (1486; 23% instances), <tt><a href="ja_modern-dep-aux.html">aux</a></tt> (710; 11% instances), <tt><a href="ja_modern-dep-compound.html">compound</a></tt> (504; 8% instances), <tt><a href="ja_modern-dep-acl.html">acl</a></tt> (421; 7% instances), <tt><a href="ja_modern-dep-amod.html">amod</a></tt> (146; 2% instances), <tt><a href="ja_modern-dep-obj.html">obj</a></tt> (131; 2% instances), <tt><a href="ja_modern-dep-nummod.html">nummod</a></tt> (127; 2% instances), <tt><a href="ja_modern-dep-cc.html">cc</a></tt> (103; 2% instances), <tt><a href="ja_modern-dep-punct.html">punct</a></tt> (103; 2% instances), <tt><a href="ja_modern-dep-nsubj.html">nsubj</a></tt> (92; 1% instances), <tt><a href="ja_modern-dep-advmod.html">advmod</a></tt> (88; 1% instances), <tt><a href="ja_modern-dep-obl.html">obl</a></tt> (85; 1% instances), <tt><a href="ja_modern-dep-mark.html">mark</a></tt> (68; 1% instances), <tt><a href="ja_modern-dep-iobj.html">iobj</a></tt> (51; 1% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (50; 1% instances), <tt><a href="ja_modern-dep-det.html">det</a></tt> (14; 0% instances), <tt><a href="ja_modern-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ja_modern-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: <tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (2175; 40% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (1359; 25% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (527; 10% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (366; 7% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (350; 6% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (149; 3% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (136; 2% instances), <tt><a href="ja_modern-pos-PUNCT.html">PUNCT</a></tt> (95; 2% instances), <tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (72; 1% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt> (62; 1% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (57; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="ja_modern-pos-SCONJ.html">SCONJ</a></tt> (35; 1% instances), <tt><a href="ja_modern-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="ja_modern-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: <tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (2263; 35% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (1699; 26% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (787; 12% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (449; 7% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (403; 6% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (158; 2% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (144; 2% instances), <tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (111; 2% instances), <tt><a href="ja_modern-pos-PUNCT.html">PUNCT</a></tt> (110; 2% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (95; 1% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt> (79; 1% instances), <tt><a href="ja_modern-pos-SCONJ.html">SCONJ</a></tt> (68; 1% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (62; 1% instances), <tt><a href="ja_modern-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_modern-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (1; 0% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5299 nodes (2%) are attached to their parents as `acl`.
+5336 nodes (2%) are attached to their parents as `acl`.
 
-5284 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.41875825627477.
+5321 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.40967016491754.
 
-The following 25 pairs of parts of speech are connected with `acl`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4018; 76% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (651; 12% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (278; 5% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (99; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (91; 2% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (46; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (28; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `acl`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4074; 76% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (676; 13% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (232; 4% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (99; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (91; 2% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (47; 1% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (28; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,24 +60,25 @@ The following 25 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 acl	color:blue
-1	أخطأ	أَخطَأ	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	0:root	Vform=أَخطَأَ|Gloss=be_wrong,do_incorrectly|Root=_h_.t_'|Translit=ʾaḫṭaʾa|LTranslit=ʾaḫṭaʾ
-2	الذين	الذين	X	U---------	_	1	nsubj	1:nsubj	Vform=الذين|Translit=Al*yn
-3	اعتقدوا	اِعتَقَد	VERB	VP-A-3MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	2	acl	2:acl	Vform=اِعتَقَدُوا|Gloss=believe|Root=`_q_d|Translit=iʿtaqadū|LTranslit=iʿtaqad
-4	أن	أَنَّ	CCONJ	C---------	_	8	mark	8:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
-5	هجمات	هَجمَة	NOUN	N------P4R	Case=Acc|Definite=Cons|Number=Plur	8	nsubj	8:nsubj	Vform=هَجَمَاتِ|Gloss=attack,assault,strike|Root=h_^g_m|Translit=haǧamāti|LTranslit=haǧmat
-6	11	11	NUM	Q---------	NumForm=Digit	5	nummod	5:nummod	Vform=١١|Translit=11
-7	سبتمبر	سِبتَمبِر	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	6	nmod	6:nmod	Vform=سِبتَمبِرَ|Gloss=September|Root=sibtambir|Translit=sibtambira|LTranslit=sibtambir
-8	طلقة	طَلَقَة	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	3	obj	3:obj	Vform=طَلَقَةٌ|Gloss=shot|Root=.t_l_q|Translit=ṭalaqatun|LTranslit=ṭalaqat
-9	مدوية	مُدَوِّي	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	8	amod	8:amod	Vform=مُدَوِّيَةٌ|Gloss=ringing,resounding|Root=d_w_y|Translit=mudawwiyatun|LTranslit=mudawwī
-10	في	فِي	ADP	P---------	AdpType=Prep	11	case	11:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-11	حرب	حَرب	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	9	obl	9:obl	Vform=حَربٍ|Gloss=war,warfare|Root=.h_r_b|Translit=ḥarbin|LTranslit=ḥarb
-12	بعيدة	بَعِيد	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	amod	11:amod	SpaceAfter=No|Vform=بَعِيدَةٍ|Gloss=remote,distant,far|Root=b_`_d|Translit=baʿīdatin|LTranslit=baʿīd
-13	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 acl	color:blue
+1	"	"	PUNCT	G---------	_	3	punct	3:punct	SpaceAfter=No|Vform="|Translit="
+2	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+3	نور	نُور	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	2:nsubj	Vform=نُورٌ|Gloss=light|Root=n_w_r|Translit=nūrun|LTranslit=nūr
+4	المحامي	المحامي	X	U---------	_	3	nmod	3:nmod	SpaceAfter=No|Vform=المحامي|Root=OOV|Translit=AlmHAmy
+5	"	"	PUNCT	G---------	_	3	punct	3:punct	Vform="|Translit="
+6	الفصيح	الفصيح	X	U---------	_	4	nmod	4:nmod	Vform=الفصيح|Root=OOV|Translit=AlfSyH
+7	الذي	الذي	X	U---------	_	4	cc	4:cc	Vform=الذي|Root=OOV|Translit=Al*y
+8	لا	لَا	PART	F---------	_	9	advmod	9:advmod	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
+9	يهز	هَزّ	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	acl	4:acl	Vform=يَهُزُّ|Gloss=shake,jolt,rock|Root=h_z_z|Translit=yahuzzu|LTranslit=hazz
+10	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
+11	هوس	هوس	X	U---------	_	9	nsubj	9:nsubj	Vform=هوس|Root=OOV|Translit=hws
+12	او	أَو	CCONJ	C---------	_	13	cc	13:cc	Vform=أَو|Gloss=or|Root='aw|Translit=ʾaw|LTranslit=ʾaw
+13	فحيح	فحيح	X	U---------	_	11	conj	9:nsubj|11:conj	SpaceAfter=No|Vform=فحيح|Root=OOV|Translit=fHyH
+14	.	.	PUNCT	G---------	_	2	punct	2:punct	Vform=.|Translit=.
 
 ~~~
 

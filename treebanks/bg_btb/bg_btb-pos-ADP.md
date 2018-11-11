@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bulgarian-BTB: POS Tags: `ADP`
 
-There are 66 `ADP` lemmas (0%), 68 `ADP` types (0%) and 22097 `ADP` tokens (14%).
+There are 65 `ADP` lemmas (0%), 68 `ADP` types (0%) and 22097 `ADP` tokens (14%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>на, в, за, от, с, по, до, след, като, през</em>
 
 The 10 most frequent `ADP` types:  <em>на, в, за, от, с, по, до, след, като, през</em>
 
-The 10 most frequent ambiguous lemmas: <em>в</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 3332, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>с</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1464, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 1), <em>като</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 328, <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 192), <em>преди</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 165, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 3), <em>под</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 84, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 5), <em>у</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 81, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 3), <em>зад</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1), <em>край</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 101, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 39), <em>против</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>в</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 3334, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2), <em>с</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1464, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 1), <em>като</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 328, <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 192), <em>преди</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 165, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 3), <em>под</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 84, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 5), <em>у</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 81, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 3), <em>зад</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1), <em>край</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 101, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 39), <em>против</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1), <em>благодарение</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 315, <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 162), <em>преди</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 125, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1), <em>под</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 77, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1), <em>край</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 35, <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 11), <em>:</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 219, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15), <em>против</em> (<tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15, <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1), <em>/</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1), <em>-</em> (<tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 955, <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bg_btb-pos-NUM.html">NUM</a></tt> 1), <em>благодарение</em> (<tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1), <em>независимо</em> (<tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 7, <tt><a href="bg_btb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-po
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 125: <em>Книгата беше прочетена , <b>преди</b> да бъде купена .</em>
   * <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1: <em>Част от фойерверките са купени от сергиите , където часове <b>преди</b> полунощ ( по време на официалната забрана ) те се продаваха свободно .</em>
 * <em>под</em>
-  * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 77: <em>Водачът бил смазан <b>под</b> ламарините .</em>
+  * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 77: <em>Пръчката още по-силно се огъна и рибата тръгна в могъща дъга <b>под</b> водата .</em>
   * <tt><a href="bg_btb-pos-NOUN.html">NOUN</a></tt> 1: <em>Ако тръгнеш сред мрака , ще си като слепец в стая без <b>под</b> , без таван , без стени , дори без ехото на стъпките , които ти указват пътя .</em>
 * <em>край</em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 35: <em>Тя приклекна <b>край</b> една великолепна черна ваза с червени фигури .</em>
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-po
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 15: <em>Няма да застанем до СДС <b>против</b> БСП</em>
   * <tt><a href="bg_btb-pos-ADV.html">ADV</a></tt> 1: <em>Как , сега <b>против</b> ли ще гласуват ?</em>
 * <em>/</em>
-  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>Денем му сянка пази орлица <b>/</b> и вълк му кротко раната ближе .</em>
+  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>И ще напишат критика за мене <b>/</b> под формата на полицейски акт .</em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2: <em>Вятърът достигна 150 км <b>/</b> ч , летище Хийтроу остана изолирано от Лондон</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>" Критикувах се <b>/</b> Четох си конско . "</em>
 * <em>-</em>
@@ -56,13 +56,13 @@ The 10 most frequent ambiguous types:  <em>като</em> (<tt><a href="bg_btb-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.030303 (the average of all parts of speech is 1.727904).
+The form / lemma ratio of `ADP` is 1.046154 (the average of all parts of speech is 1.728014).
 
-The 1st highest number of forms (2) was observed with the lemma “на”: <em>:, на</em>.
+The 1st highest number of forms (2) was observed with the lemma “в”: <em>/, в</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “срещу”: <em>-, срещу</em>.
+The 2nd highest number of forms (2) was observed with the lemma “на”: <em>:, на</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “/”: <em>/</em>.
+The 3rd highest number of forms (2) was observed with the lemma “срещу”: <em>-, срещу</em>.
 
 `ADP` occurs with 3 features: <tt><a href="bg_btb-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="bg_btb-feat-Number.html">Number</a></tt> (1; 0% instances)
 

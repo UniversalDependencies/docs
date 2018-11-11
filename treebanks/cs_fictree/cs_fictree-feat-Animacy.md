@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 33244 tokens (20%) have a non-empty value of `Animacy`.
-11553 types (43%) occur at least once with a non-empty value of `Animacy`.
-6380 lemmas (47%) occur at least once with a non-empty value of `Animacy`.
+11550 types (43%) occur at least once with a non-empty value of `Animacy`.
+6379 lemmas (47%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (11898; 7% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (8583; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (4616; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3126; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2688; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1391; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (475; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (467; 0% instances).
 
 ### `NOUN`
@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (7753; 90% of non-empty `Animacy`): <em>řekl, měl, chtěl, mohl, viděl, byl, vzal, zeptal, měli, přišel</em>
 * `Inan` (830; 10% of non-empty `Animacy`): <em>byl, stál, nebyl, mohl, měl, ozval, začal, zdál, byly, ujel</em>
-* `EMPTY` (16367): <em>je, má, mám, bylo, měla, řekla, byla, může, nevím, chtěla</em>
+* `EMPTY` (16413): <em>je, má, mám, bylo, měla, řekla, byla, může, nevím, chtěla</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 1391 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (62% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 94%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (854; 61%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 94%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (854; 61%), <tt><a href="cs_fictree-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (711; 51%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -220,14 +220,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3191; 99%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3194; 99%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1822; 73%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (1786; 66%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1771; 73%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (1695; 99%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (481; 79%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (1696; 99%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (430; 78%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (299; 84%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (293; 66%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (220; 94%),
-<tt>PROPN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (165; 91%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (152; 97%).
+<tt>ADJ --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (154; 97%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-flat.html">flat</a></tt>]--> PROPN</tt> (149; 100%).
 

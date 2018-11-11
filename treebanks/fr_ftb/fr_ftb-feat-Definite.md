@@ -53,5 +53,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> DET</tt> (5; 83%).
+<tt>DET --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> DET</tt> (6; 86%).
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `INTJ`
 
-There are 18 `INTJ` lemmas (0%), 18 `INTJ` types (0%) and 74 `INTJ` tokens (0%).
+There are 18 `INTJ` lemmas (0%), 18 `INTJ` types (0%) and 75 `INTJ` tokens (0%).
 Out of 17 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 17 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>yes, well, no, yeah, hey, oh, yep, OK, ding, okay</em>
+The 10 most frequent `INTJ` lemmas: <em>yes, well, no, yeah, hey, oh, okay, yep, OK, ding</em>
 
-The 10 most frequent `INTJ` types:  <em>yes, well, no, yeah, Hey, oh, yep, OK, Okay, ding</em>
+The 10 most frequent `INTJ` types:  <em>yes, well, no, yeah, Hey, oh, okay, yep, OK, ding</em>
 
-The 10 most frequent ambiguous lemmas: <em>well</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 72, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 6), <em>no</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 62, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 8, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>yeah</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>OK</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 1), <em>ding</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1), <em>okay</em> (<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2), <em>please</em> (<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 4, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>like</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 93, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 35, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>man</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1), <em>now</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>well</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 72, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 6), <em>no</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 62, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 8, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>yeah</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>okay</em> (<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 3), <em>OK</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 1), <em>ding</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1), <em>please</em> (<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 4, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>like</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 93, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 35, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>man</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1), <em>now</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 52, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 61, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 3), <em>no</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 56, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>yeah</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>OK</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 1), <em>please</em> (<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 2, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>Now</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>like</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 88, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 29, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>man</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 61, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 3), <em>no</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 56, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>yeah</em> (<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>okay</em> (<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>OK</em> (<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 1), <em>please</em> (<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 2, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>Now</em> (<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>like</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 88, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 29, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1), <em>man</em> (<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>well</em>
@@ -29,6 +29,9 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gum-pos-AD
 * <em>yeah</em>
   * <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2: <em>Right now , <b>yeah</b> , he 's helping us right now .</em>
   * <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1: <em>But if somebody wakes up one morning and suddenly no longer is funny , then <b>yeah</b> , head first , out the door as quickly as possible , and as sadistically as possible .</em>
+* <em>okay</em>
+  * <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> 6: <em>“ It ’s <b>okay</b> , Mom , ” I say .</em>
+  * <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 1: <em>The doctor swabs her upper arm with antiseptic and says , “ I ’m going to give you something to numb it , <b>okay</b> ? ”</em>
 * <em>OK</em>
   * <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3: <em>From the South - US-75 from Okmulgee , <b>OK</b> , aka the " Okmulgee Beeline . "</em>
   * <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 2: <em><b>OK</b> , I digress .</em>
@@ -51,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gum-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.227660).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.227664).
 
 The 1st highest number of forms (1) was observed with the lemma “Hey”: <em>Hey</em>.
 
@@ -64,21 +67,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Hmmm”: <em>
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (51; 69% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (12; 16% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+`INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (52; 69% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (12; 16% instances), <tt><a href="en_gum-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (2; 3% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (42; 57% instances),  (12; 16% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 3% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (43; 57% instances),  (12; 16% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 3% instances)
 
 14 (19%) `INTJ` nodes are leaves.
 
-37 (50%) `INTJ` nodes have one child.
+38 (51%) `INTJ` nodes have one child.
 
 7 (9%) `INTJ` nodes have two children.
 
-16 (22%) `INTJ` nodes have three or more children.
+16 (21%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (85; 86% instances), <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (5; 5% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (86; 86% instances), <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (5; 5% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (85; 86% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (86; 86% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

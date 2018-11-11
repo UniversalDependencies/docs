@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Thai PUD
 
-Language: [Thai](../th/overview/th-hub.html) (code: `th`)<br/>
+Language: [Thai](/th/index.html) (code: `th`)<br/>
 Family: Tai-Kadai
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Rattima Nitisaroj, Yanin Sawanakunanon, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Thai-PUD](https://github.com/UniversalDependencies/UD_Thai-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 3.0
 
@@ -161,148 +162,120 @@ employ ten-fold cross-validation.
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>PART: ไม่, ความไม่, มิ, อย่างไม่, การไม่</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>PART: ไม่, ความไม่, มิ, อย่างไม่, การไม่</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>PART: ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>PART: ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prog
-      <ul>
-        <li>PART: อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prog
+    <ul>
+      <li>PART: อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
-
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB: ห้าม</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB: ห้าม</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: ถูก, ได้รับ, ต้อง, การถูก</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB: ถูก, ได้รับ, ต้อง, การถูก</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: ทำไม, อย่างไร</li>
-        <li>DET: อะไร</li>
-        <li>PART: หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม</li>
-        <li>PRON: ใคร, อะไร, ไหน</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: ทำไม, อย่างไร</li>
+      <li>DET: อะไร</li>
+      <li>PART: หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม</li>
+      <li>PRON: ใคร, อะไร, ไหน</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: เรา, ฉัน, ผม, ข้าพเจ้า, มี</li>
+    </ul>
+  </li>
+</ul>
 
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: คุณ, 'Ya, You, นาย, ยู</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: เรา, ฉัน, ผม, ข้าพเจ้า, มี</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: คุณ, 'Ya, You, นาย, ยู</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์</li>
+    </ul>
+  </li>
+</ul>
 
 
 

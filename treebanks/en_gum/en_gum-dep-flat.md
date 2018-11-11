@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-580 nodes (1%) are attached to their parents as `flat`.
+583 nodes (1%) are attached to their parents as `flat`.
 
-580 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29310344827586.
+583 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29331046312178.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (485; 84% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (95; 16% instances).
+The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (490; 84% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (93; 16% instances).
 
 
 ~~~ conllu

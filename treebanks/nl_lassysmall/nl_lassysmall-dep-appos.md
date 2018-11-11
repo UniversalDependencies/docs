@@ -36,16 +36,16 @@ The following 36 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 6 appos	color:blue
 1	Bart	Bart	PROPN	SPEC|deeleigen	_	0	root	0:root	_
-2	De	De	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-3	Wever	Wever	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	SpaceAfter=No
+2	De	De	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+3	Wever	Wever	PROPN	SPEC|deeleigen	_	1	flat	1:flat	SpaceAfter=No
 4	:	:	PUNCT	LET	_	6	punct	6:punct	_
 5	algemeen	algemeen	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	6	amod	6:amod	_
 6	voorzitter	voorzitter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 7	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
 8	sinds	sinds	ADP	VZ|init	_	9	case	9:case	_
-9	23	23	NUM	TW|hoofd|vrij	_	6	nmod	6:nmod	_
-10	oktober	oktober	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	flat:name	9:flat:name	_
-11	2004	2004	NUM	TW|hoofd|vrij	_	9	flat:name	9:flat:name	SpaceAfter=No
+9	23	23	NUM	TW|hoofd|vrij	_	6	nmod	6:nmod:sinds	_
+10	oktober	oktober	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	flat	9:flat	_
+11	2004	2004	NUM	TW|hoofd|vrij	_	9	flat	9:flat	SpaceAfter=No
 12	)	)	PUNCT	LET	_	9	punct	9:punct	_
 
 ~~~

@@ -44,11 +44,11 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	vento	vento	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 6	por	por	ADP	_	_	8	case	_	_
 7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	questões	questão	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	20	punct	_	_
+8	questões	questão	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
+9	-	-	PUNCT	_	_	20	punct	_	_
 10	nada	nada	ADV	_	Polarity=Neg	11	advmod	_	_
-11	pequenas	pequeno	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	20	punct	_	_
+11	pequenas	pequeno	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
+12	-	-	PUNCT	_	_	20	punct	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	tratamentos	tratamento	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_

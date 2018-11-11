@@ -22,16 +22,16 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 vocative	color:blue
-1	Das	_	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
-2	brauchen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-3	wir	_	PRON	PRP	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
-4	in	_	ADP	IN	_	6	case	_	_
-5	unserem	_	PRON	DTP$	Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Prs	6	nmod:poss	_	_
-6	Land	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	2	obl	_	_
-7	nicht	_	ADV	RB	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
-8	,	_	PUNCT	,	_	9	punct	_	_
-9	Leute	_	NOUN	NN	Case=Nom|Number=Plur|Person=3	2	vocative	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	2	punct	_	_
+1	Das	der	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
+2	brauchen	brauchen	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+3	wir	wir	PRON	PRP	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+4	in	in	ADP	IN	_	6	case	_	_
+5	unserem	unser	PRON	DTP$	Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Prs	6	nmod:poss	_	_
+6	Land	Land	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	2	obl	_	_
+7	nicht	nicht	ADV	RB	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	9	punct	_	_
+9	Leute	Leute	NOUN	NN	Case=Nom|Number=Plur|Person=3	2	vocative	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

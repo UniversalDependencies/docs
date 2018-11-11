@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	испытания	испытание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	5:obj	_
 7	на	на	ADP	_	_	8	case	8:case	_
 8	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	5:obl	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	4:punct	_
+9	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -50,13 +50,13 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	8:nsubj:pass	_
 8	задержан	задержать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	ccomp	4:ccomp	_
 9	и	и	CCONJ	_	_	15	cc	15:cc	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	9:punct	_
+10	,	,	PUNCT	_	_	15	punct	15:punct	_
 11	когда	когда	ADV	_	Degree=Pos	13	advmod	13:advmod	_
 12	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	_
 13	отпущен	отпустить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	csubj:pass	15:csubj:pass	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	15:punct	_
 15	неизвестно	неизвестный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	8:conj	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	15:punct	_
+16	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 10 csubj:pass	color:blue
 1	-	-	PUNCT	_	_	7	punct	7:punct	_
-2	Ведь	ведь	PART	_	_	7	discourse	7:discourse	_
+2	Ведь	ведь	PART	_	_	7	advmod	7:advmod	_
 3	этим	этот	DET	_	Case=Dat|Number=Plur	6	det	6:det	_
 4	двум	два	NUM	_	Case=Dat	6	nummod	6:nummod	_
 5	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	6	amod	6:amod	_
@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	obl	15:obl	_
 17	без	без	ADP	_	_	16	fixed	16:fixed	_
 18	друга	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	fixed	16:fixed	SpaceAfter=No
-19	.	.	PUNCT	_	_	15	punct	15:punct	_
+19	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 

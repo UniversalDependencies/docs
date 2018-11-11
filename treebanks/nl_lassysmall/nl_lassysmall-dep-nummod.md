@@ -38,10 +38,10 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 1	fgColor:white
 # visual-style 1 7 nummod	color:blue
 1	Jan	Jan	PROPN	SPEC|deeleigen	_	0	root	0:root	_
-2	Baptist	Baptist	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-3	Napolitaan	Napolitaan	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-4	van	van	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-5	Os	Os	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
+2	Baptist	Baptist	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+3	Napolitaan	Napolitaan	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+4	van	van	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+5	Os	Os	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
 6	(	(	PUNCT	LET	_	7	punct	7:punct	SpaceAfter=No
 7	1891-1893	1891-1893	NUM	TW|hoofd|vrij	_	1	nummod	1:nummod	SpaceAfter=No
 8	)	)	PUNCT	LET	_	7	punct	7:punct	SpaceAfter=No
@@ -65,7 +65,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	van	van	ADP	VZ|init	_	10	case	10:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
 9	Belgische	Belgisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
-10	oppervlakte	oppervlakte	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nmod	6:nmod	_
+10	oppervlakte	oppervlakte	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nmod	6:nmod:van	_
 
 ~~~
 

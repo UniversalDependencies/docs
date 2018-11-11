@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (4%) are attached to their parents as `nmod`.
+103 nodes (4%) are attached to their parents as `nmod`.
 
-59 instances of `nmod` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23762376237624.
+61 instances of `nmod` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23300970873786.
 
-The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (45; 45% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (37; 37% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (45; 44% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (37; 36% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,13 +43,13 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod	color:blue
-1	Ó	Ó	PRON	_	_	3	nsubj	_	Gloss=he
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=it
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
 3	jẹ́	jẹ́	AUX	_	_	0	root	_	Gloss=be
 4	àjọ̀dún	àjọ̀dún	NOUN	_	_	5	nmod	_	Gloss=feast
 5	ìyàsímímọ́	ìyàsímímọ́	NOUN	_	_	3	obj	_	Gloss=dedication
 6	ní	ní	ADP	_	_	7	nmod	_	Gloss=in
-7	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
+7	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 9	ìgbà	ìgbà	NOUN	_	_	10	nmod	_	Gloss=time
 10	òtútù	òtútù	NOUN	_	_	3	iobj	_	Gloss=winter
@@ -60,39 +60,33 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 nmod	color:blue
-1	Nígbà	Nígbà	ADV	_	_	6	advmod	_	Gloss=when
-2	náà	náà	ADV	_	_	6	advmod	_	Gloss=the
-3	ni	ni	AUX	_	_	6	aux	_	Gloss=is
-4	Jésù	Jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus
-5	tún	tún	ADV	_	_	6	advmod	_	Gloss=again
-6	kérora	kérora	VERB	_	_	0	root	_	Gloss=groan
-7	nínú	nínú	ADP	_	_	8	case	_	Gloss=in
-8	ara	ara	PRON	_	_	6	obj	_	Gloss=himself
-9	rẹ̀	rẹ̀	PRON	_	_	8	nmod	_	SpaceAfter=No|Gloss=his
-10	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-11	ó	ó	PRON	_	_	12	nsubj	_	Gloss=he
-12	wá	wá	VERB	_	_	8	conj	_	Gloss=come
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nmod	color:blue
+1	kí	kí	AUX	_	_	4	aux	_	Gloss=let
+2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=
+4	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=be
+5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	4	obj	_	Gloss=light
+6	ní	ní	ADP	_	_	7	case	_	Gloss=in
+7	ojú	ojú	NOUN	_	_	8	nmod	_	Gloss=eyes
+8	ọ̀run	ọ̀run	NOUN	_	_	4	iobj	_	SpaceAfter=No|Gloss=heaven
+9	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+10	láti	láti	ADP	_	_	12	case	_	Gloss=to
+11	tan	tan	VERB	_	_	4	csubj	_	Gloss=shine
+12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
 13	sí	sí	ADP	_	_	14	case	_	Gloss=to
-14	ibojì	ibojì	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=sepulchre
-15	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-16	ó	ó	PRON	_	_	18	nsubj	_	Gloss=he
-17	sì	sì	CCONJ	_	_	18	cc	_	Gloss=and
-18	jẹ́	jẹ́	AUX	_	_	19	cop	_	Gloss=be
-19	ihò	ihò	NOUN	_	_	14	conj	_	SpaceAfter=No|Gloss=cave
-20	,	,	PUNCT	_	_	23	punct	_	Gloss=,
-21	a	a	VERB	_	_	23	nsubj	_	Gloss=be
-22	sì	sì	CCONJ	_	_	23	cc	_	Gloss=and
-23	gbé	gbé	VERB	_	_	19	conj	_	Gloss=dwell
-24	òkúta	òkúta	NOUN	_	_	23	obj	_	Gloss=stone
-25	lé	lé	VERB	_	_	23	xcomp	_	Gloss=delivered
-26	ẹnu	ẹnu	NOUN	_	_	25	obj	_	Gloss=mouth
-27	rẹ̀	rẹ̀	PRON	_	_	26	nmod	_	SpaceAfter=No|Gloss=his
-28	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=upon
+15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	SpaceAfter=No|Gloss=land
+16	.	.	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=.
+17	”	”	PUNCT	_	_	20	punct	_	Gloss=”
+18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he
+19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and
+20	rí	rí	VERB	_	_	11	xcomp	_	Gloss=saw
+21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=so
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
 

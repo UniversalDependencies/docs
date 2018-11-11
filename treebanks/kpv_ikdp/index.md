@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Komi Zyrian IKDP
 
-Language: [Komi Zyrian](../kpv/overview/kpv-hub.html) (code: `kpv`)<br/>
+Language: [Komi Zyrian](/kpv/index.html) (code: `kpv`)<br/>
 Family: Uralic, Permic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -41,19 +42,31 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The currenet texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken.
+This treebank consists of dialectal transcriptions of spoken Komi-Zyrian. The current texts are short recorded segments from different areas where the Iźva dialect of Komi language is spoken.
 
 
 
-The materials have been collected within Iźva Komi Documentation Project, funded by Kone Foundation in 2014-2016, and archived in [The Language Archive](https://tla.mpi.nl/). The work with treebanks connects to follow-up project that focuses into Komi syntax, [IKDP-2](https://langdoc.github.io/IKDP-2/). The transcriptions have been done by native speakers, and the orthographic transcription system, although matching when applicable Komi orthography, is primarily phonemic. The data in this treebank represents only the northern Iźva dialect of Komi, but also materials from other dialects will be included. The `sent_id` values match with those in archived IKDP corpus, and `+` character is used to mark sentence id's that span across multiple annotations. All sentences included have been recorded after 2014 and represent contemporary spoken language.
+The materials have been collected within the Iźva Komi Documentation Project, funded by Kone Foundation in 2014-2016, and archived in [The Language Archive](https://archive.mpi.nl/islandora/object/lat%253A1839_00_0000_0000_0021_64F1_D). The transcriptions have been done by native speakers, and the orthographic transcription system, although matching the Komi orthography where applicable, is primarily phonemic. The data in this treebank represents only the northern Iźva dialect of Komi, but materials from other dialects will also be included in the future. The `sent_id` values match those in archived the IKDP corpus, and the `+` character is used to mark sentence IDs that span across multiple annotations.
+
+The corpus contains portions of recordings made between 1959 and 2016. The parts that have been published earlier by Erik Vászolyi in the Specimina Sibirica series are reproduced here with written permission.
+
+The IKDP corpus uses the treebank as one of its annotation schemes. During the end of 2018, the entire audio-visual language documentation corpus will be transferred from TLA into a new repository. In this process, the actual linking of the treebank to the multimedia files will be revisited and clear conventions for doing this will be developed and documented. This work will be completed by release 2.4.
 
 ## Acknowledgments
 
-Thanks for LATTICE-CNRS laboratory and Kone Foundation for supporting the work.
+The work was done as collaboration within the [Kone Foundation](https://koneensaatio.fi/)-funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](langdoc.github.io/IKDP-2) and the LAKME project funded by a grant from Paris Sciences et Lettres (IDEX PSL reference ANR-10-IDEX-0001-02).
 
-## References
+If you use this treebank in your work, please cite:
 
-Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levchenko; Niko Partanen and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
+- Partanen, Niko; Blokland, Rogier; Lim, KyungTae; Poibeau, Thierry and Rießler, Michael 2018: [First Komi-Zyrian Universal Dependencies Treebanks](http://universaldependencies.org/udw18/PDFs/28_Paper.pdf). Proceedings of the Second Workshop on Universal Dependencies (UDW 2018) (pp. 126-132).
+
+## Sources used
+
+- Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Levchenko, Dmitriy; Partanen, Niko and Rießler, Michael. 2016: Iźva Komi Documentation Project corpus. Funded by Kone Foundation. URL: https://hdl.handle.net/1839/00-0000-0000-001B-99BC-F@view
+
+- Vászolyi Erik 1999: *Syrjaenica: narratives, folklore and folk poetry from eight dialects of the Komi language. Vol. 1, Upper Izhma, Lower Ob, Kanin Peninsula, Upper Jusva, Middle Inva, Udora*. Savariae.
+
+
 
 # Statistics of UD Komi Zyrian IKDP
 
@@ -63,21 +76,21 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 
 ## Features
 
-[Case](kpv_ikdp-feat-Case.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Tense](kpv_ikdp-feat-Tense.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html)
+[Case](kpv_ikdp-feat-Case.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html)
 
 ## Relations
 
-[acl](kpv_ikdp-dep-acl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [dep](kpv_ikdp-dep-dep.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [iobj](kpv_ikdp-dep-iobj.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
+[acl](kpv_ikdp-dep-acl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [dep](kpv_ikdp-dep-dep.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [goeswith](kpv_ikdp-dep-goeswith.html) – [iobj](kpv_ikdp-dep-iobj.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 75 sentences and 988 tokens.</li>
+<li>This corpus contains 87 sentences and 1058 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 235 tokens (24%) that are not followed by a space.</li>
+<li>This corpus contains 253 tokens (24%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -101,15 +114,15 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 </ul>
 
 <ul>
-<li>This corpus contains 19 word types tagged as particles (PART): Ну, Так, абу, вед, веське, вот, выйым, да, же, значит, и, ли, не, но, тай, то, тоже, чё, эське</li>
+<li>This corpus contains 20 word types tagged as particles (PART): А, Ну, Так, абу, вед, веське, вот, выйым, да, же, значит, и, ли, не, но, тай, то, тоже, чё, эське</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22 lemmas tagged as pronouns (PRON): ас, аслум, быд, кодке, кодкӧ, ме, меам, ми, мы, мыйке, мыйкӧ, мыйтӧм, мӧд, некод, никучем, став, сыа, сійӧ, что, этайӧ, этія, я</li>
+<li>This corpus contains 23 lemmas tagged as pronouns (PRON): Всё, ас, быд, кодке, кодкӧ, ме, ми, мы, мыйке, мыйкӧ, мыйтӧм, мӧд, некод, никучем, став, сыа, сэтшӧм, сійӧ, татшӧм, что, этайӧ, этія, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as determiners (DET): быд, весь, какой, мӧд, сизим, став, сэтшӧм, такой, татшӧм, четвёртэй</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): быд, весь, какой, мӧд, сизим, став, такой, четвёртэй</li>
 </ul>
 
 <ul>
@@ -175,9 +188,11 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
     <ul>
       <li>ADJ: ыдзыдэсь, большие</li>
       <li>AUX: были</li>
-      <li>NOUN: девушек, километров, кокъясэ, месяцев, ребята, спектаклей, Гожемъясын, Керкаяс, бабаясыс, баняяс</li>
+      <li>NOUN: кокъясэ, ребята, Гожемъясын, Керкаяс, бабаясыс, баняяс, вокъяскед, вӧӧяссэ, гаражъяс, глаза</li>
       <li>NUM: квайтэнэсь</li>
-      <li>VERB: знали</li>
+      <li>PRON: миян, Ми, меам, менам, миянумес</li>
+      <li>VERB: знали, колэныс, ваедісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам, вӧрземаась, вӧрзисныс</li>
+      <li>VERB-Fin: колэныс, ваедісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам, вӧрземаась, вӧрзисныс, вӧрзялісныс</li>
     </ul>
   </li>
 </ul>
@@ -185,16 +200,18 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ас, второй, клубного, межпоселенческого, школьного, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей</li>
+      <li>ADJ: ас, второй, клубного, межпоселенческого, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий</li>
       <li>ADP: вылын, бӧрын, вылэ, доре, сае, сайын, бӧрас, вылас, дорас</li>
       <li>ADV: бӧр, водз, уна</li>
-      <li>AUX: было</li>
-      <li>DET: Став, всю, мӧд, сизимед, сэтшем, такое, татшӧм, четвёртэй</li>
-      <li>NOUN: во, ае, год, чом, инвалидность, коми, маме, тундраа, тундраын, баб</li>
+      <li>AUX: вӧлі, вӧліс, было, лоас, лоо</li>
+      <li>AUX-Fin: вӧлі, вӧліс, лоас, лоо</li>
+      <li>DET: Став, всю, мӧд, сизимед, такое, четвёртэй</li>
+      <li>NOUN: во, ае, год, чой, чом, вок, класс, коми, маме, тундраа</li>
       <li>NUM: сизим, кык, дас, куим, нёль, кӧкъямыс, три, тысяча, четыреста, шейсят</li>
-      <li>PRON: быд, никодэс, ставыс, эта</li>
-      <li>PROPN: Азии, Тайланда, Тимкалэн, Генриетта, Дань, Елена, Зӧт, Красный, Ляпинын, Ляпиныс</li>
-      <li>VERB: делал</li>
+      <li>PRON: ме, сыа, сы, Всё, менам, меня, ми, нас, сіес, Сылэн</li>
+      <li>PROPN: Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Из, Красный, Ляпинын, Ляпиныс</li>
+      <li>VERB: ветлі, мӧдэма, примитіс, рӧдитчи, рӧдитчылі, босьтіс, вермы, висьталэма, делал, кочегариті</li>
+      <li>VERB-Fin: ветлі, мӧдэма, примитіс, рӧдитчи, рӧдитчылі, босьтіс, висьталэма, кочегариті, приведитчис, рӧбиті</li>
     </ul>
   </li>
 </ul>
@@ -207,7 +224,8 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>Acc
     <ul>
       <li>DET: всю</li>
-      <li>NOUN: живносьсэ, Керкаяс, баб, баняяс, берегсэ, вӧлэсьсэ, вӧӧяссэ, гаражъяс, деревню, комплект</li>
+      <li>NOUN: живносьсэ, Керкаяс, баб, баняяс, берегсэ, вӧлэсьсэ, вӧӧяссэ, гаражъяс, глаза, деревню</li>
+      <li>NUM: сизим</li>
       <li>PRON: сіес, менэ, миянумес, никодэс, сіе</li>
       <li>PROPN: Красный</li>
     </ul>
@@ -241,10 +259,21 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 </ul>
 
 <ul>
+  <li>Ela
+    <ul>
+      <li>NOUN: дӧраысь</li>
+      <li>PRON: Сыысь</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Gen
     <ul>
-      <li>ADJ: девятого</li>
-      <li>NOUN: юля</li>
+      <li>ADJ: девятого, одиннадцатого, школьного</li>
+      <li>NOUN: возраста, девушек, директора, инвалидность, километров, мая, месеча, месяцев, оформления, раза</li>
+      <li>PRON: миян, менам, меня, нас, Сылэн, меам</li>
+      <li>PROPN: Азии, Тайланда</li>
     </ul>
   </li>
 </ul>
@@ -253,7 +282,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>Ill
     <ul>
       <li>ADP: доре, вылэ, сае, вылас, дорас</li>
-      <li>NOUN: тундраа, ОПХ-а, кокъясэ, местэас, Армияа, ае, местаясэ, местэам, муас, оленеводствоо</li>
+      <li>NOUN: тундраа, ОПХ-а, кокъясэ, местэас, Армияа, ае, дедьсаде, местаясэ, местэам, муас</li>
       <li>PROPN: Нярьян-Маре</li>
     </ul>
   </li>
@@ -264,8 +293,8 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
     <ul>
       <li>ADJ: Омскейын</li>
       <li>ADP: вылын, бӧрын, сайын, бӧрас</li>
-      <li>ADV: Медбӧрын</li>
-      <li>NOUN: тундраын, годын, Гожемъясын, гортын, кӧрдорын, округын, слесарьын, столярын, стрӧительствоын, флотын</li>
+      <li>ADV: Медбӧрын, бӧрын</li>
+      <li>NOUN: тундраын, годын, Гожемъясын, гортын, колаын, колхозын, кӧрдорын, округын, семяын, слесарьын</li>
       <li>PROPN: Ляпинын</li>
     </ul>
   </li>
@@ -283,14 +312,22 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 </ul>
 
 <ul>
+  <li>Loc
+    <ul>
+      <li>NOUN: шоке</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Nom
     <ul>
       <li>ADJ: ас, второй, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий, Ханты-Мансийскей, Юго-Восточной</li>
       <li>ADV: бӧр, водз, уна</li>
-      <li>DET: Став, мӧд, сэтшем, такое, татшӧм, четвёртэй</li>
-      <li>NOUN: во, ае, год, чом, коми, бабушка, бригада, вок, вӧйна, класс</li>
+      <li>DET: Став, мӧд, такое, четвёртэй</li>
+      <li>NOUN: во, ае, год, чой, чом, вок, коми, маме, бабушка, бригада</li>
       <li>NUM: сизим, кык, дас, куим, нёль, кӧкъямыс, сорок, три, тридцеть, тысяча</li>
-      <li>PRON: сыа, ме, ми, ачыс, кодке, мыйке, быд, ставыс</li>
+      <li>PRON: ме, сыа, ми, кодке, мыйке, сы, Миян, ачыс, асланум, ачум</li>
       <li>PROPN: Из, Генриетта, Дань, Елена, Зӧт, Ляпиныс, Микул, Октябрь, Салехард, Саранпауль</li>
     </ul>
   </li>
@@ -326,8 +363,9 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Neg
     <ul>
+      <li>ADV: невозможнэ, ничего</li>
       <li>AUX-Fin: ог, из, оз, он</li>
-      <li>PART: абу</li>
+      <li>PART: абу, не</li>
       <li>PRON: никучем, никодэс</li>
       <li>VERB-Fin: Он, из, оз</li>
     </ul>
@@ -344,9 +382,18 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 </ul>
 
 <ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: Считай</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>AUX-Fin: вӧлі, ог, вӧліс, из, лоас, оз, лоо, он</li>
+      <li>VERB: ветлі, мӧдэма, примитіс, рӧдитчи, рӧдитчылі, босьтіс, висьталэма, колэныс, кочегариті, приведитчис</li>
       <li>VERB-Fin: ветлі, мӧдэма, примитіс, рӧдитчи, рӧдитчылі, босьтіс, висьталэма, колэныс, кочегариті, приведитчис</li>
     </ul>
   </li>
@@ -354,6 +401,14 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 
 <ul>
   <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: лоас</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>
@@ -370,7 +425,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>Pres
     <ul>
       <li>AUX-Fin: ог, оз, лоо, он</li>
-      <li>VERB-Fin: колэныс, Он, ветлала, видзены, висены, вӧрзям, имейта, кажитче, машкуритчӧны, муна</li>
+      <li>VERB-Fin: колэныс, Он, велӧдча, велӧдчӧны, ветлала, ветлӧны, видзены, висены, вӧдитам, вӧрзям</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +453,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: мӧд, сы, эта</li>
+      <li>PRON: мӧд, сы, сэтшем, татшӧм, эта</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +461,8 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: сыа, ме, миян, менам, ми, сы, меня, нас, сіес, Сылэн</li>
+      <li>ADJ: ас</li>
+      <li>PRON: ме, сыа, миян, ми, менам, сы, меня, нас, сіес, Сылэн</li>
     </ul>
   </li>
 </ul>
@@ -418,7 +474,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Card
     <ul>
-      <li>NUM: десятой, сизим, сорок, Девять, дас, двадцать, девятьсот, куим, кык, мӧдэд</li>
+      <li>NUM: сизим, куим, десятой, кык, дас, сорок, Девять, двадцать, девятьсот, десяти</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +482,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <ul>
   <li>Card,Ord
     <ul>
-      <li>NUM: десяти, мӧд, кык, кӧкъямыс</li>
+      <li>NUM: кӧкъямыс</li>
     </ul>
   </li>
 </ul>
@@ -435,11 +491,23 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>Ord
     <ul>
       <li>DET: мӧд, сизимед, четвёртэй</li>
+      <li>NUM: мӧд, мӧдэд</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: ачыс, ачум</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -449,8 +517,8 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>1
     <ul>
       <li>AUX-Fin: ог</li>
-      <li>PRON: ме, миян, менам, ми, меня, нас, аслум, меам, мен, менум</li>
-      <li>VERB-Fin: ветлі, рӧдитчи, рӧдитчылі, кочегариті, рӧбиті, велэдчи, ветлала, вӧрзям, имейта, кари</li>
+      <li>PRON: ме, миян, ми, менам, меня, нас, асланум, аслум, меам, мен</li>
+      <li>VERB-Fin: ветлі, рӧдитчи, рӧдитчылі, кочегариті, рӧбиті, эштӧді, велэдчи, велӧдча, велӧді, ветлала</li>
     </ul>
   </li>
 </ul>
@@ -459,8 +527,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
   <li>2
     <ul>
       <li>AUX-Fin: он</li>
-      <li>VERB: Считай, Он, сдайтан</li>
-      <li>VERB-Fin: Он, сдайтан</li>
+      <li>VERB-Fin: Он, Считай, сдайтан</li>
     </ul>
   </li>
 </ul>
@@ -552,7 +619,7 @@ Blokland, Rogier; Chuprov, Vassily; Fedina, Maria; Fedina, Marina; Dmitriy Levch
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: вӧвны, быть, лоны, абу, выйым, вымым.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: вӧвны, быть, лоны, выйым, абу, вымым.</li>
 </ul>
 
 <ul>
@@ -566,14 +633,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB--PRON-Nom (3)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (12)</li>
-      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--NOUN-Nom (16)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (12)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (16)</li>
     </ul>
   </li>
 </ul>
@@ -584,7 +649,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (2)</li>
       <li>VERB--NOUN-Dat-ADP(по) (1)</li>
       <li>VERB--PRON-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc (8)</li>
+      <li>VERB-Fin--NOUN-Acc (12)</li>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
@@ -609,5 +674,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>flat:name</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a></li>
 </ul>

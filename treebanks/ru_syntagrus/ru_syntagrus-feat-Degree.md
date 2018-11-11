@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-165247 tokens (15%) have a non-empty value of `Degree`.
-32899 types (29%) occur at least once with a non-empty value of `Degree`.
-10764 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (108670; 10% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (55928; 5% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (642; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+164251 tokens (15%) have a non-empty value of `Degree`.
+32490 types (28%) occur at least once with a non-empty value of `Degree`.
+10628 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (107675; 10% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (55927; 5% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (642; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-108670 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+107675 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72293; 67%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71351; 66%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1186; 1% of non-empty `Degree`): <em>лучше, выше, больше, ниже, хуже, легче, проще, меньше, ближе, труднее</em>
-* `Pos` (106979; 98% of non-empty `Degree`): <em>других, нужно, другой, другие, должны, сам, должен, первый, самом, новые</em>
+* `Pos` (105984; 98% of non-empty `Degree`): <em>других, нужно, другой, другие, должны, сам, должен, первый, самом, новые</em>
 * `Sup` (505; 0% of non-empty `Degree`): <em>важнейших, крупнейших, важнейшим, крупнейшие, новейшие, ближайших, важнейший, крупнейшей, важнейшая, важнейшие</em>
-* `EMPTY` (132): <em>первую, л., Бланка, Afghan, Islamic, daily, Второе, Гранд, МТ, Фри-Пресс</em>
+* `EMPTY` (125): <em>первую, л., daily, Второе, Гранд, МТ, грата, з., с., у.</em>
 
 <table>
   <tr><th>Paradigm <i>новый</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -61,16 +61,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_syntagrus-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ново</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (8598) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (8461) occur only with one value of `Degree`.
 
 ### `ADV`
 
-55928 <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+55927 <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (3496; 6% of non-empty `Degree`): <em>более, больше, менее, раньше, чаще, дальше, лучше, позже, быстрее, выше</em>
-* `Pos` (52432; 94% of non-empty `Degree`): <em>так, уже, еще, можно, как, очень, однако, где, сейчас, например</em>
+* `Pos` (52431; 94% of non-empty `Degree`): <em>так, уже, еще, можно, как, очень, однако, где, сейчас, например</em>
 * `EMPTY` (186): <em>несмотря, невзирая</em>
 
 <table>
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (6; 100% of non-empty `Degree`): <em>Жуковские, Жуковская, Смольном, Стрийковский, Юрьев</em>
-* `EMPTY` (39824): <em>России, США, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей</em>
+* `EMPTY` (41587): <em>России, США, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей</em>
 
 ### `NOUN`
 
@@ -111,18 +111,18 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>э</em>
-* `EMPTY` (271835): <em>время, года, лет, году, раз, человек, жизни, люди, людей, власти</em>
+* `EMPTY` (271121): <em>время, года, лет, году, раз, человек, жизни, люди, людей, власти</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> ADV</tt> (4436; 84%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4186; 99%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> ADV</tt> (4435; 84%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4125; 99%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (2471; 81%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1425; 85%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1109; 100%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1104; 100%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADV</tt> (777; 99%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-compound.html">compound</a></tt>]--> ADJ</tt> (565; 100%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-compound.html">compound</a></tt>]--> ADJ</tt> (550; 100%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (546; 91%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (238; 94%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (187; 99%).

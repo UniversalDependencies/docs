@@ -8,12 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `ccomp`.
+56 nodes (0%) are attached to their parents as `ccomp`.
 
-35 instances of `ccomp` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.27777777777778.
+55 instances of `ccomp` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.26785714285714.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (12; 33% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (11; 31% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (6; 17% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (4; 11% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (19; 34% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (12; 21% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (11; 20% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (6; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 ccomp	color:blue
+1	Biraz	biraz	ADV	Adverb	_	2	advmod	_	_
+2	gülüşerek	gülüş	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	4	nmod	_	_
+3	olanları	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	4	ccomp	_	_
+4	anlattık	anlat	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -49,29 +64,6 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	,	,	PUNCT	Punc	_	6	punct	_	_
 6	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 ccomp	color:blue
-1	Yarın	yarın	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
-2	o	o	DET	Det	_	3	det	_	_
-3	araba	araba	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	ccomp	_	_
-5	im	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	cop	_	_
-6	!	!	PUNCT	Punc	_	8	punct	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	8	punct	_	_
-8	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	8	punct	_	_
-10	biri	bir	NUM	NNum	Case=Acc|Number=Sing|NumType=Card|Person=3	8	nsubj	_	_
-11	Memo'ya	Memo	PROPN	Prop	Case=Dat|Number=Sing|Person=3	12	obl	_	_
-12	bakarak	bak	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	8	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	Punc	_	12	punct	_	_
 
 ~~~
 

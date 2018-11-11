@@ -22,7 +22,7 @@ The following 44 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 appos	color:blue
-1	@bartezzaghi	@bartezzaghi	SYM	SYM	_	2	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	2	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	0	root	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	super	super	X	SW	_	2	appos	_	_

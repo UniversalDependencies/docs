@@ -79,7 +79,7 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 11	najevo	najevo	ADV	Db-------------	_	10	compound	_	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 13	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	aux:pass	_	_
-14	povýšen	povýšený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+14	povýšen	povýšený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=povýšit
 15	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	16	case	_	LId=na-1
 16	předsedu	předseda	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	14	punct	_	_

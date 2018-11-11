@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (3745; 64% of non-empty `Tense`): <em>var, sa, hade, gick, såg, kom, sade, fick, tog, stod</em>
 * `Pres` (2124; 36% of non-empty `Tense`): <em>har, är, vet, finns, kommer, säger, ser, tror, visas, gör</em>
-* `EMPTY` (4185): <em>ta, göra, se, gå, använda, få, komma, bli, ha, säga</em>
+* `EMPTY` (4182): <em>ta, göra, se, gå, använda, få, komma, bli, ha, säga</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (959; 80%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (960; 81%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (11; 55%),
 <tt>VERB --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (5; 63%),
 <tt>VERB --[<tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (5; 63%),

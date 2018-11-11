@@ -12,7 +12,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 739 tokens (7%) have a non-empty value of `Degree`.
 590 types (14%) occur at least once with a non-empty value of `Degree`.
 426 lemmas (14%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (512; 5% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (227; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (512; 5% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (211; 2% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (16; 0% instances).
 
 ### `ADJ`
 
@@ -48,16 +48,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-227 <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> tokens (42% of all `ADV` tokens) have a non-empty value of `Degree`.
+211 <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> tokens (39% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hsb_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (192; 85%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hsb_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (192; 91%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (32; 14% of non-empty `Degree`): <em>wjace, bóle, dale, pozdźišo, mjenje, lěpje, rědšo, zašo, mjeńše</em>
-* `Pos` (183; 81% of non-empty `Degree`): <em>wjele, němsce, často, cirka, jara, geografisce, hłownje, awtomatisce, cyle, dołho</em>
-* `Sup` (12; 5% of non-empty `Degree`): <em>najprjedy, najbliže, najbóle, najskerje, najwjace</em>
-* `EMPTY` (312): <em>tež, tak, hišće, zwjetša, něhdźe, hižo, tu, potom, tam, zaso</em>
+* `Cmp` (30; 14% of non-empty `Degree`): <em>bóle, wjace, dale, pozdźišo, mjenje, lěpje, rědšo, zašo, mjeńše</em>
+* `Pos` (170; 81% of non-empty `Degree`): <em>němsce, často, cirka, jara, geografisce, hłownje, awtomatisce, cyle, dołho, grjeksce</em>
+* `Sup` (11; 5% of non-empty `Degree`): <em>najprjedy, najbliže, najbóle, najskerje, najwjace</em>
+* `EMPTY` (324): <em>tež, tak, hišće, zwjetša, hač, něhdźe, hižo, tu, potom, tam</em>
 
 <table>
   <tr><th>Paradigm <i>wjele</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -65,6 +65,24 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (104) occur only with one value of `Degree`.
+
+### `DET`
+
+16 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="hsb_ufal-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (16; 100%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Cmp` (2; 13% of non-empty `Degree`): <em>mjenje, wjace</em>
+* `Pos` (13; 81% of non-empty `Degree`): <em>wjele, mnoho</em>
+* `Sup` (1; 6% of non-empty `Degree`): <em>najwjace</em>
+* `EMPTY` (311): <em>n, kotrež, tute, jeho, jich, kotryž, kotraž, tutón, swoje, tuta</em>
+
+<table>
+  <tr><th>Paradigm <i>wjele</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>wjele</em></td><td><em>wjace</em></td><td><em>najwjace</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Degree`
 

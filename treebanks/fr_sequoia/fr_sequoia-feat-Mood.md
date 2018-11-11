@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-3901 tokens (6%) have a non-empty value of `Mood`.
+3899 tokens (6%) have a non-empty value of `Mood`.
 972 types (10%) occur at least once with a non-empty value of `Mood`.
 501 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2134; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1767; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2132; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1767; 3% instances).
 
 ### `VERB`
 
-2134 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
+2132 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2134; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2134; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2134; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1724; 81%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1663; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1488; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2132; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2132; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2132; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1722; 81%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1661; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1486; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (96; 4% of non-empty `Mood`): <em>voudrais, pourrait, devrait, devrions, pourraient, devraient, devrais, souhaiterais, deviendrait, retrouverait</em>
+* `Cnd` (96; 5% of non-empty `Mood`): <em>voudrais, pourrait, devrait, devrions, pourraient, devraient, devrais, souhaiterais, deviendrait, retrouverait</em>
 * `Imp` (31; 1% of non-empty `Mood`): <em>veuillez, demandez, permettez, prévenez, suivez, Assurez, Contactez, Faites, Gardez, Revenons</em>
-* `Ind` (1948; 91% of non-empty `Mood`): <em>doit, a, peut, est, doivent, faut, peuvent, agit, pense, devons</em>
+* `Ind` (1946; 91% of non-empty `Mood`): <em>doit, a, peut, est, doivent, faut, peuvent, agit, pense, devons</em>
 * `Sub` (59; 3% of non-empty `Mood`): <em>puisse, puissent, prenne, comportent, fasse, produise, revienne, réserve, soit, aboutisse</em>
-* `EMPTY` (3772): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
+* `EMPTY` (3770): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Digit`, `Word`.
 
-7756 tokens (3%) have a non-empty value of `NumForm`.
+7758 tokens (3%) have a non-empty value of `NumForm`.
 1083 types (4%) occur at least once with a non-empty value of `NumForm`.
 993 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (7756; 3% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (7758; 3% instances).
 
 ### `NUM`
 
-7756 <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+7758 <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6314; 81%), <tt><a href="ar_padt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5551; 72%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5550; 72%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6316; 81%), <tt><a href="ar_padt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5551; 72%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5550; 72%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (5521; 71% of non-empty `NumForm`): 15، 3، 6، 2، 8، 7، 4، 11، 10، 12
-* `Word` (2235; 29% of non-empty `NumForm`): مليون، مليار، ألف، ثلاثة، ملايين، المئة، بليون، الف، المائة، عشرة
+* `Word` (2237; 29% of non-empty `NumForm`): مليون، مليار، ألف، ثلاثة، ملايين، المئة، بليون، الف، المائة، عشرة
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (993) occur only with one value of `NumForm`.
 

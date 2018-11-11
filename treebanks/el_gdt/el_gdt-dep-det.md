@@ -10,8 +10,8 @@ This relation is universal.
 
 12129 nodes (19%) are attached to their parents as `det`.
 
-11941 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31090774177591.
+11942 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31115508285926.
 
 The following 14 pairs of parts of speech are connected with `det`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (9004; 74% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1273; 10% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (591; 5% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (417; 3% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (370; 3% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (234; 2% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (163; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-SYM.html">SYM</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 

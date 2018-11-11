@@ -25,9 +25,9 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
 2	in	in	ADP	VZ|init	_	4	case	4:case	_
 3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
-4	Kamer	kamer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	nmod	1:nmod	_
+4	Kamer	kamer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	nmod	1:nmod:in	_
 5	van	van	ADP	VZ|init	_	6	case	6:case	_
-6	Volksvertegenwoordigers	volksvertegenwoordiger	NOUN	N|soort|mv|basis	Number=Plur	4	nmod	4:nmod	_
+6	Volksvertegenwoordigers	volksvertegenwoordiger	NOUN	N|soort|mv|basis	Number=Plur	4	nmod	4:nmod:van	_
 
 ~~~
 
@@ -41,8 +41,8 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
 2	in	in	ADP	VZ|init	_	4	case	4:case	_
 3	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
-4	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	nmod	1:nmod	_
-5	Parlement	Parlement	PROPN	SPEC|deeleigen	_	4	flat:name	4:flat:name	_
+4	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	nmod	1:nmod:in	_
+5	Parlement	Parlement	PROPN	SPEC|deeleigen	_	4	flat	4:flat	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 8 det	color:blue
 1	De	de	DET	LID|bep|stan|rest	Definite=Def	4	nsubj:pass	4:nsubj:pass	_
-2	Schelde	Schelde	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	flat:name	1:flat:name	_
+2	Schelde	Schelde	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	flat	1:flat	_
 3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 4	beschouwd	beschouwen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 5	als	als	ADP	VZ|init	_	6	mark	6:mark	_
@@ -62,7 +62,7 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 7	tussen	tussen	ADP	VZ|init	_	10	case	10:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
 9	beide	beide	DET	VNW|onbep|grad|stan|prenom|met-e|mv|basis	_	10	det	10:det	_
-10	rijken	rijk	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	6	nmod	6:nmod	SpaceAfter=No
+10	rijken	rijk	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	6	nmod	6:nmod:tussen	SpaceAfter=No
 11	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~

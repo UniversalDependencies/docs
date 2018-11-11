@@ -26,7 +26,7 @@ The following 34 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
 4	decor	decor	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
-5	waarin	waarin	ADV	BW	_	7	amod	4:ref	_
+5	waarin	waarin	ADV	BW	_	7	advmod	4:ref	_
 6	dramatiek	dramatiek	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 7	gedijt	gedijen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	SpaceAfter=No
 8	.	.	PUNCT	LET	_	4	punct	4:punct	_
@@ -40,12 +40,12 @@ The following 34 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 9 acl:relcl	color:blue
-1	Noorwegen	Noorwegen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	9:nsubj|11:nsubj	SpaceAfter=No
+1	Noorwegen	Noorwegen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	9:nsubj:relsubj|11:nsubj	SpaceAfter=No
 2	,	,	PUNCT	LET	_	9	punct	9:punct	_
 3	dat	dat	PRON	VNW|betr|pron|stan|vol|3|ev	Person=3|PronType=Rel	9	nsubj	1:ref	_
 4	IJsland	IJsland	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	obj	9:obj	_
 5	met	met	ADP	VZ|init	_	6	case	6:case	_
-6	24	24	NUM	TW|hoofd|vrij	_	9	obl	9:obl	_
+6	24	24	NUM	TW|hoofd|vrij	_	9	obl	9:obl:met	_
 7	-	-	SYM	LET	_	6	fixed	6:fixed	_
 8	6	6	NUM	TW|hoofd|vrij	_	6	fixed	6:fixed	_
 9	versloeg	verslaan	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 34 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	2	advmod	2:advmod	_
 2	is	zijn	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	nog	nog	ADV	BW	_	4	amod	4:amod	_
-4	iets	iets	PRON	VNW|onbep|pron|stan|vol|3o|ev	Person=3|PronType=Ind	2	nsubj	2:nsubj|10:obj	SpaceAfter=No
+4	iets	iets	PRON	VNW|onbep|pron|stan|vol|3o|ev	Person=3|PronType=Ind	2	nsubj	2:nsubj|10:obj:relobj	SpaceAfter=No
 5	,	,	PUNCT	LET	_	10	punct	10:punct	_
 6	dat	dat	PRON	VNW|betr|pron|stan|vol|3|ev	Person=3|PronType=Rel	10	obj	4:ref	_
 7	ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	10	nsubj	10:nsubj	_

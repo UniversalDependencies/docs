@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3182 nodes (1%) are attached to their parents as `ccomp`.
+3212 nodes (1%) are attached to their parents as `ccomp`.
 
-3175 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.53048397234444.
+3205 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.5233499377335.
 
-The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2559; 80% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (231; 7% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (130; 4% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (65; 2% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (65; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (59; 2% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-SYM.html">SYM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2590; 81% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (233; 7% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (137; 4% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (65; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (60; 2% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (54; 2% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-SYM.html">SYM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,34 +30,31 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	المدفعية	مِدفَعِيَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod	Vform=اَلمِدفَعِيَّةِ|Gloss=artillery|Root=d_f_`|Translit=al-midfaʿīyati|LTranslit=midfaʿīyat
 7	قصفت	قَصَف	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	ccomp	2:ccomp	Vform=قَصَفَت|Gloss=bomb,shell|Root=q_.s_f|Translit=qaṣafat|LTranslit=qaṣaf
 8	على	عَلَى	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
-9	الفور	الفور	X	U---------	_	7	advmod	7:advmod	SpaceAfter=No|Vform=الفور|Translit=Alfwr
+9	الفور	الفور	X	U---------	_	7	advmod	7:advmod	SpaceAfter=No|Vform=الفور|Root=OOV|Translit=Alfwr
 10	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 13 ccomp	color:blue
-1	مشيراً	مُشِير	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=مُشِيرًا|Gloss=indicative,indicating|Root=^s_w_r|Translit=mušīran|LTranslit=mušīr
-2	إلى	إِلَى	ADP	P---------	AdpType=Prep	13	mark	13:mark	Vform=إِلَى|Gloss=to,towards|Root='_l_y|Translit=ʾilā|LTranslit=ʾilā
-3	أن	أَنَّ	CCONJ	C---------	_	13	mark	13:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
-4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	fixed	3:fixed	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
-5	في	فِي	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-6	حالة	حَالَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	13	obl	13:obl	Vform=حَالَةِ|Gloss=condition,case,situation|Root=.h_w_l|Translit=ḥālati|LTranslit=ḥālat
-7	عدم	عَدَم	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	nmod	6:nmod	Vform=عَدَمِ|Gloss=absence_of,lack_of,non_-|Root=`_d_m|Translit=ʿadami|LTranslit=ʿadam
-8	التعديل	تَعدِيل	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	7	nmod	7:nmod	Vform=اَلتَّعدِيلِ|Gloss=adjustment,change,modification,amendment|Root=`_d_l|Translit=at-taʿdīli|LTranslit=taʿdīl
-9	ف	فَ	CCONJ	C---------	_	10	cc	10:cc	Vform=فَ|Gloss=and,so|Root=fa|Translit=fa|LTranslit=fa
-10	إن	إِنَّ	PART	F---------	_	13	advmod:emph	13:advmod:emph	Vform=إِنَّ|Gloss=indeed|Root='_n|Translit=ʾinna|LTranslit=ʾinna
-11	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	Vform=هَا|Gloss=he,she,it|Translit=hā|LTranslit=huwa
-12	لن	لَن	PART	F---------	_	13	advmod	13:advmod	Vform=لَن|Gloss=not|Root=lan|Translit=lan|LTranslit=lan
-13	تصوت	صَوَّت	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	Vform=تُصَوِّتَ|Gloss=vote|Root=.s_w_t|Translit=tuṣawwita|LTranslit=ṣawwat
-14	علي	عَلَى	ADP	P---------	AdpType=Prep	15	case	15:case	Vform=عَلَي|Gloss=on,above|Root=`_l_w|Translit=ʿalay|LTranslit=ʿalā
-15	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl:arg	13:obl:arg	Vform=هِ|Gloss=he,she,it|Translit=hi|LTranslit=huwa
-16	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
+# visual-style 1 6 ccomp	color:blue
+1	مشدداً	مُشَدِّد	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=مُشَدِّدًا|Gloss=strengthening,intensifying|Root=^s_d_d|Translit=mušaddidan|LTranslit=mušaddid
+2	على	عَلَى	ADP	P---------	AdpType=Prep	6	mark	6:mark	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
+3	أن	أَنَّ	CCONJ	C---------	_	6	mark	6:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
+4	"	"	PUNCT	G---------	_	6	punct	6:punct	SpaceAfter=No|Vform="|Translit="
+5	العبادات	العبادات	X	U---------	_	6	nsubj	6:nsubj	Vform=العبادات|Root=OOV|Translit=AlEbAdAt
+6	تجمع	جَمَع	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	Vform=تَجمَعُ|Gloss=gather,assemble|Root=^g_m_`|Translit=taǧmaʿu|LTranslit=ǧamaʿ
+7	نا	هُوَ	PRON	SP---1MP4-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	obj	6:obj	Vform=نَا|Gloss=he,she,it|Translit=nā|LTranslit=huwa
+8	جميعاً	جَمِيع	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	7	nmod	7:nmod	Vform=جَمِيعًا|Gloss=everyone,all|Root=^g_m_`|Translit=ǧamīʿan|LTranslit=ǧamīʿ
+9	على	عَلَى	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
+10	طاعة	طَاعَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	obl	6:obl	Vform=طَاعَةِ|Gloss=obedience,compliance|Root=.t_w_`|Translit=ṭāʿati|LTranslit=ṭāʿat
+11	الله	الله	X	U---------	_	10	nmod	10:nmod	SpaceAfter=No|Vform=الله|Root=OOV|Translit=Allh
+12	"	"	PUNCT	G---------	_	6	punct	6:punct	SpaceAfter=No|Vform="|Translit="
+13	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 
@@ -71,13 +68,13 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
 2	قال	قَال	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Vform=قَالَ|Gloss=say,tell|Root=q_w_l|Translit=qāla|LTranslit=qāl
 3	"	"	PUNCT	G---------	_	5	punct	5:punct	Vform="|Translit="
-4	لقد	لقد	X	U---------	_	5	aux	5:aux	Vform=لقد|Translit=lqd
-5	تلقيت	تلقيت	X	U---------	_	2	obj	2:obj	Vform=تلقيت|Translit=tlqyt
+4	لقد	لقد	X	U---------	_	5	aux	5:aux	Vform=لقد|Root=OOV|Translit=lqd
+5	تلقيت	تلقيت	X	U---------	_	2	obj	2:obj	Vform=تلقيت|Root=OOV|Translit=tlqyt
 6	تقريرا	تَقرِير	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	5	obj	5:obj	Vform=تَقرِيرًا|Gloss=decision,determination|Root=q_r_r|Translit=taqrīran|LTranslit=taqrīr
 7	ب	بِ	ADP	P---------	AdpType=Prep	12	mark	12:mark	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
 8	أن	أَنَّ	CCONJ	C---------	_	12	mark	12:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
-9	محاكمته	محاكمته	X	U---------	_	12	nsubj	12:nsubj	Vform=محاكمته|Translit=mHAkmth
-10	محاكمته	محاكمته	X	U---------	_	9	obj	9:obj	Vform=محاكمته|Translit=mHAkmth
+9	محاكمة	مُحَاكَمَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	12	nsubj	12:nsubj	Vform=مُحَاكَمَةُ|Gloss=judicial_proceeding,legal_prosecution|Root=.h_k_m|Translit=muḥākamatu|LTranslit=muḥākamat
+10	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
 11	س	سَ	PART	F---------	_	12	aux	12:aux	Vform=سَ|Gloss=will|Root=sa|Translit=sa|LTranslit=sa
 12	تبدأ	بَدَأ	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	ccomp	6:ccomp	Vform=تَبدَأُ|Gloss=start,begin|Root=b_d_'|Translit=tabdaʾu|LTranslit=badaʾ
 13	فى	فِي	ADP	P---------	AdpType=Prep	14	case	14:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī

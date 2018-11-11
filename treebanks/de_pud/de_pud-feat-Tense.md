@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 2328 tokens (11%) have a non-empty value of `Tense`.
 966 types (15%) occur at least once with a non-empty value of `Tense`.
-1 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+620 lemmas (12%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1437; 7% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (891; 4% instances).
 
 ### `VERB`
@@ -26,6 +26,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Pres` (474; 33% of non-empty `Tense`): <em>ist, hat, gibt, sagt, haben, sind, liegt, steht, hilft, beträgt</em>
 * `EMPTY` (476): <em>an, auf, aus, ein, zurück, haben, ab, machen, geben, hin</em>
 
+<table>
+  <tr><th>Paradigm <i>haben</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>gehabt</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>hat</em></td><td><em>hatte</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>haben</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>haben</em></td><td><em>hatten</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>habe</em></td><td></td></tr>
+</table>
+
 ### `AUX`
 
 891 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
@@ -37,6 +46,18 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Past` (486; 55% of non-empty `Tense`): <em>wurde, war, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</em>
 * `Pres` (405; 45% of non-empty `Tense`): <em>ist, wird, sind, hat, kann, werden, haben, können, muss, sei</em>
 * `EMPTY` (59): <em>werden, sein, haben, bleiben., können, lassen, Zeit, aufzutreten, bleiben, finden</em>
+
+<table>
+  <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>gewesen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>bin</em></td><td><em>war</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ist</em></td><td><em>war, wawr</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sind</em></td><td><em>waren</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sind</em></td><td><em>waren</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sei</em></td><td><em>wäre</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>seien</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>seien</em></td><td><em>wären</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Tense`
 

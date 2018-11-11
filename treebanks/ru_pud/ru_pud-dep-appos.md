@@ -8,89 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-169 nodes (1%) are attached to their parents as `appos`.
+135 nodes (1%) are attached to their parents as `appos`.
 
-169 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.47337278106509.
+134 instances of `appos` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.6.
 
-The following 19 pairs of parts of speech are connected with `appos`: <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (52; 31% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (34; 20% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (30; 18% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (28; 17% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 appos	color:blue
-1	Игра	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
-2	состоится	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
-3	в	_	ADP	IN	_	4	case	_	_
-4	субботу	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obl	_	SpaceAfter=No
-5	,	_	PUNCT	,	_	7	punct	_	_
-6	10	_	ADJ	JJ	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|Variant=Long	7	amod	_	_
-7	июня	_	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3	4	appos	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	2	punct	_	_
-
-~~~
+The following 18 pairs of parts of speech are connected with `appos`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (43; 32% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (30; 22% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (23; 17% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-X.html">X</a></tt> (8; 6% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (7; 5% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 appos	color:blue
-1	Райт	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-2	родился	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
-3	в	_	ADP	IN	_	4	case	_	_
-4	городе	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
-5	Пул	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	flat	_	SpaceAfter=No
-6	,	_	PUNCT	,	_	8	punct	_	_
-7	в	_	ADP	IN	_	8	case	_	_
-8	Дорсете	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing|Person=3	4	appos	_	SpaceAfter=No
-9	,	_	PUNCT	,	_	11	punct	_	_
-10	но	_	CCONJ	CC	_	11	cc	_	_
-11	рос	_	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	2	conj	_	_
-12	в	_	ADP	IN	_	13	case	_	_
-13	основном	_	NOUN	NN	Animacy=Inan|Gender=Neut|Number=Sing|Person=3	11	obl	_	_
-14	в	_	ADP	IN	_	15	case	_	_
-15	Уэллсе	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing|Person=3	11	obl	_	SpaceAfter=No
-16	,	_	PUNCT	,	_	18	punct	_	_
-17	в	_	ADP	IN	_	18	case	_	_
-18	Сомерсете	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing|Person=3	15	appos	_	SpaceAfter=No
-19	.	_	PUNCT	.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 appos	color:blue
+1	После	после	ADP	IN	_	3	case	_	_
+2	новых	новый	ADJ	JJ	Animacy=Inan|Case=Gen|Number=Plur|Variant=Long	3	amod	_	_
+3	серий	серия	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+4	смотрите	смотреть	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2	0	root	_	_
+5	афтер-шоу	афтер-шоу	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	«	«	PUNCT	``	_	8	punct	_	SpaceAfter=No
+7	Говорящие	говорящий	ADJ	JJ	Animacy=Anim|Case=Nom|Number=Plur|Variant=Long	8	amod	_	Proper=True
+8	мертвецы	мертвец	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	appos	_	SpaceAfter=No
+9	»	»	PUNCT	''	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 appos	color:blue
+1	Среди	среди	ADP	IN	_	2	case	_	_
+2	них	они	PRON	PRP	Case=Gen|Number=Plur|Person=3	3	nmod	_	_
+3	район	район	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	бывшего	бывший	ADJ	JJ	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Variant=Long	5	amod	_	_
+5	монастыря	монастырь	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	с	с	ADP	IN	_	7	case	_	_
+7	церковью	церковь	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Святых	святой	ADJ	JJ	Animacy=Anim|Case=Gen|Number=Plur|Variant=Long	9	amod	_	_
+9	Апостолов	апостол	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	Петра	Петр	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	appos	_	_
+11	и	и	CCONJ	CC	_	12	cc	_	_
+12	Павла	Павел	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	В	_	ADP	IN	_	3	case	_	_
-2	XX	_	ADJ	JJ	Animacy=Inan|Gender=Masc|Number=Sing|Variant=Long	3	amod	_	_
-3	веке	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing|Person=3	15	obl	_	SpaceAfter=No
-4	,	_	PUNCT	,	_	6	punct	_	_
-5	в	_	ADP	IN	_	6	case	_	_
-6	период	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3	3	appos	_	_
-7	с	_	ADP	IN	_	8	case	_	_
-8	1904	_	NUM	JJ	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Variant=Long	6	nummod	_	_
-9	по	_	ADP	IN	_	11	case	_	_
-10	1914	_	NUM	JJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Variant=Long	11	nummod	_	_
-11	год	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	SpaceAfter=No
-12	,	_	PUNCT	,	_	6	punct	_	_
-13	Антонио	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
-14	Гауди	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	13	flat	_	_
-15	начал	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
-16	реформу	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Person=3	15	obj	_	SpaceAfter=No
-17	,	_	PUNCT	,	_	19	punct	_	_
-18	которая	_	DET	WDT	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
-19	длилась	_	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past	16	acl:relcl	_	_
-20	десять	_	NUM	CD	Case=Acc	21	nummod	_	_
-21	лет	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Person=3	19	obl:tmod	_	SpaceAfter=No
-22	.	_	PUNCT	.	_	15	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Екатерина	Екатерина	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	3	punct	_	_
+3	царица	царица	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	России	Россия	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	3	punct	_	_
+6	тоже	тоже	ADV	CC	_	9	advmod	_	_
+7	была	быть	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past	9	aux:pass	_	_
+8	весьма	весьма	ADV	RB	_	9	advmod	_	_
+9	удовлетворена	удовлетворить	VERB	VBN	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|Voice=Pass	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

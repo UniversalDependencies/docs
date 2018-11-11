@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>f</em>
-* `EMPTY` (11244): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11245): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ## Relations with Agreement in `Abbr`
 

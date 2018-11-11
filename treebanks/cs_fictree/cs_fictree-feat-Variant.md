@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
 8918 tokens (5%) have a non-empty value of `Variant`.
-337 types (1%) occur at least once with a non-empty value of `Variant`.
+335 types (1%) occur at least once with a non-empty value of `Variant`.
 262 lemmas (2%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (8362; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (556; 0% instances).
 
@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON
 
 8362 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8362; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7410; 89%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7372; 88%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5822; 70%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5789; 69%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5789; 69%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5587; 67%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8362; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7410; 89%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7372; 88%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5822; 70%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5822; 70%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5789; 69%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5587; 67%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (8362; 100% of non-empty `Variant`): <em>se, si, mi, mě, ho, mu, ti, tě, ses, sis</em>
+* `Short` (8362; 100% of non-empty `Variant`): <em>se, si, mi, mě, ho, mu, ti, tě</em>
 
 ### `ADJ`
 

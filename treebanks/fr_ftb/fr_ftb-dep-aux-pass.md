@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_ftb-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="fr_ftb-dep-aux-caus.html">aux:caus</a></tt>.
 
-3333 nodes (1%) are attached to their parents as `aux:pass`.
+3332 nodes (1%) are attached to their parents as `aux:pass`.
 
 3329 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34143414341434.
+Average distance between parent and child is 1.3406362545018.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (3325; 100% instances), <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (3324; 100% instances), <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

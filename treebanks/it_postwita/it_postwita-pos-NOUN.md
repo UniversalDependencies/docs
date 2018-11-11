@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-PoSTWITA: POS Tags: `NOUN`
 
-There are 3440 `NOUN` lemmas (21%), 4335 `NOUN` types (20%) and 17836 `NOUN` tokens (14%).
-Out of 16 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 1 in number of tokens.
+There are 3440 `NOUN` lemmas (23%), 4335 `NOUN` types (23%) and 17836 `NOUN` tokens (14%).
+Out of 16 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>governo, retweet, politica, manovra, cosa, anno, vita, partito, giorno, crisi</em>
 
@@ -19,14 +19,14 @@ The 10 most frequent ambiguous types:  <em>rt</em> (<tt><a href="it_postwita-pos
 
 
 * <em>rt</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>RT @larryscache : <b>rt</b> per un indiretto , sono leggermente annoiata .</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@zainismyikigai mi dispiace , vedrai che un giorno ce la farai anche tu 💋 Puoi <b>rt</b> il tweet di gli indiretti ?</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>RT @user : <b>rt</b> per un indiretto , sono leggermente annoiata .</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@user mi dispiace , vedrai che un giorno ce la farai anche tu 💋 Puoi <b>rt</b> il tweet di gli indiretti ?</em>
 * <em>politica</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 146: <em>#Maroni La <b>politica</b> di il governo Monti è sbagliata</em>
   * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 32: <em>governo monti , un paese di disillusi senza immaginazione <b>politica</b></em>
 * <em>vita</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 112: <em>I tagli di il Governo Monti partono da i senatori a <b>vita</b> . #Scalfaro</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@ChiaZe93 io non sono d' accordo che abbiano nominato grand Budapest hotel e il libro della <b>vita</b></em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@user io non sono d' accordo che abbiano nominato grand Budapest hotel e il libro della <b>vita</b></em>
 * <em>crisi</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 78: <em>Governo Monti : <b>crisi</b> interna e fiducia estera http://t.co/QKRi2w2Y</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>Maurizio Landini parla a La <b>crisi</b> . In mezz' ora di ieri sera di il programma di il governo Monti .... http://t.co/NyQ6wCXU</em>
@@ -35,23 +35,23 @@ The 10 most frequent ambiguous types:  <em>rt</em> (<tt><a href="it_postwita-pos
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 2: <em>Cioè io <b>lavoro</b> oggi e domani ..... tragedy !!!</em>
 * <em>cosa</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 83: <em>Qualsiasi <b>cosa</b> fai meglio non dir la a tutti . Cit</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 76: <em>@drewsschanel <b>cosa</b> devo dir ti ?</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 76: <em>@user non sembra una streghetta , non so neanche io <b>cosa</b> sia . Xó piace .</em>
 * <em>video</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 56: <em>A Crema #Grillo critica tutti , ecco il <b>video</b> , http://t.co/tJJIB0FY</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 4: <em>I liked a @YouTube <b>video</b> http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 4: <em>I liked a @user <b>video</b> http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
 * <em>italiani</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 57: <em>più che bipolaristi , gli <b>italiani</b> sono bipolari</em>
-  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 13: <em>@ViolaSmile_ aw , oggi invece hanno fatto 2 articoli <b>italiani</b> su hunger games >.<</em>
+  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 13: <em>@user aw , oggi invece hanno fatto 2 articoli <b>italiani</b> su hunger games >.<</em>
 * <em>posto</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 57: <em>1927 : 1° <b>posto</b> , 9 vittorie su 9 e 27 punti . TUTTO TORNA .</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 2: <em>Mario Monti è senatore a vita : più <b>posto</b> fisso di così si muore ( letteralmente ) - M. Travaglio #serviziopubblico</em>
 * <em>politici</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 55: <em>Niente <b>politici</b> in il governo Monti . Per me va benissimo ...</em>
-  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 8: <em>@MarcoTravaglio cita le reazioni di twitter di i vari leader <b>politici</b> a il governo Monti #serviziopubblico</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 55: <em>RT @user : Persino a Paperopoli i <b>politici</b> erano onesti , cazzo .</em>
+  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 8: <em>@user cita le reazioni di twitter di i vari leader <b>politici</b> a il governo Monti #serviziopubblico</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.260174 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `NOUN` is 1.260174 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (9) was observed with the lemma “professore”: <em>Prof., prof, profe, professor, professore, professoressino, professori, professoroni, proof</em>.
 

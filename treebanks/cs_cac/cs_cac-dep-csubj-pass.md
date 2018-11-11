@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `csubj:pass`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 4 csubj:pass	color:blue
 1	Bartošovi	Bartoš	PROPN	NNMS3-----A---1	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	2	obj	2:obj	_
-2	přikázáno	přikázaný	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
+2	přikázáno	přikázaný	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=přikázat
 3	urychleně	urychleně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	LDeriv=urychlit
 4	vyklidit	vyklidit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	csubj:pass	2:csubj:pass	_
 5	místnost	místnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	4:obj	SpaceAfter=No

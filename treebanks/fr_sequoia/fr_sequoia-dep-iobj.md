@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="fr_sequoia-dep-iobj-agent.html">iobj:agent</a></tt>.
 
-215 nodes (0%) are attached to their parents as `iobj`.
+217 nodes (0%) are attached to their parents as `iobj`.
 
-186 instances of `iobj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.0093023255814.
+188 instances of `iobj` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.00460829493088.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (207; 96% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (209; 96% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances).
 
 
 ~~~ conllu

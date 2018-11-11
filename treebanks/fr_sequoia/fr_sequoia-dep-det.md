@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10236 nodes (14%) are attached to their parents as `det`.
+10236 nodes (15%) are attached to their parents as `det`.
 
 10236 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10140679953107.
+Average distance between parent and child is 1.09232121922626.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (9354; 91% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (708; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (58; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (37; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (9457; 92% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (512; 5% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (92; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (60; 1% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (37; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 11	30	30	NUM	_	NumType=Card	10	nummod	_	_
 12	à	à	ADP	_	_	14	case	_	_
 13	18	18	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
-14	h	h	NOUN	_	_	10	nmod:range	_	SpaceAfter=No
+14	h	h	NOUN	_	_	10	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -61,19 +61,22 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	Nous	il	PRON	_	Number=Plur|Person=1	2	nsubj	_	_
-2	devrions	devoir	VERB	_	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	prendre	prendre	VERB	_	VerbForm=Inf	2	xcomp	_	_
-4	cela	cela	PRON	_	Number=Sing|PronType=Dem	3	obj	_	_
-5	à	à	ADP	_	_	7	case	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	14	14	NUM	_	NumType=Card	8	obl:mod	_	_
+3	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+4	2006	2006	NUM	_	NumType=Card	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	sérieux	sérieux	ADJ	_	Gender=Masc	3	obl:arg	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+7	tribunal	tribunal	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	rend	rendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	10	det	_	_
+10	décision	décision	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

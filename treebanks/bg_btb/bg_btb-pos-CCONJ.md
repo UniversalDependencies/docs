@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCON
 
 
 * <em>и</em>
-  * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3679: <em>Настъпи гробно мълчание надлъж <b>и</b> нашир из селото .</em>
+  * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 3679: <em>Той подаде на слугата си повода на коня <b>и</b> влезе в двора .</em>
   * <tt><a href="bg_btb-pos-PROPN.html">PROPN</a></tt> 2: <em>Пейчев има две фирми за търговия с електроуреди " ДИКЕ-Пейчев <b>и</b> С-ие " и " ДИКЕ " ЕООД .</em>
 * <em>а</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 188: <em>Морето не се вижда , <b>а</b> се вижда сиянието му .</em>
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCON
   * <tt><a href="bg_btb-pos-SCONJ.html">SCONJ</a></tt> 1030: <em>Но ти , малкият , не мисли , <b>че</b> се е свършило .</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Отиде право при него , <b>че</b> се на юнак похвали .</em>
 * <em>/</em>
-  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>Денем му сянка пази орлица <b>/</b> и вълк му кротко раната ближе .</em>
+  * <tt><a href="bg_btb-pos-PUNCT.html">PUNCT</a></tt> 9: <em>И ще напишат критика за мене <b>/</b> под формата на полицейски акт .</em>
   * <tt><a href="bg_btb-pos-ADP.html">ADP</a></tt> 2: <em>Вятърът достигна 150 км <b>/</b> ч , летище Хийтроу остана изолирано от Лондон</em>
   * <tt><a href="bg_btb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>" Критикувах се <b>/</b> Четох си конско . "</em>
 * <em>то</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="bg_btb-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.160000 (the average of all parts of speech is 1.727904).
+The form / lemma ratio of `CCONJ` is 1.160000 (the average of all parts of speech is 1.728014).
 
 The 1st highest number of forms (4) was observed with the lemma “и”: <em>&, +, -, и</em>.
 

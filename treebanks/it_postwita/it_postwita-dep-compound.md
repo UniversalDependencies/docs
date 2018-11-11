@@ -90,7 +90,7 @@ The following 21 pairs of parts of speech are connected with `compound`: <tt><a 
 12	#Mediaset	#Mediaset	SYM	SYM	_	10	conj	_	_
 13	http://t.co/gcXxcsLM	http://t.co/gcXxcsLM	SYM	X	_	7	dep	_	_
 14	via	via	ADP	E	_	15	case	_	_
-15	@linkiesta	@linkiesta	SYM	SYM	_	7	vocative:mention	_	_
+15	@user	@user	SYM	SYM	_	7	vocative:mention	_	_
 
 ~~~
 

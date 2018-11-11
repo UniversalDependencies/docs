@@ -35,28 +35,31 @@ The following 17 pairs of parts of speech are connected with `flat:foreign`: <tt
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 flat:foreign	color:blue
-1	mario	mario	PROPN	SP	_	3	nsubj	_	_
-2	#monti	#monti	SYM	SYM	_	1	flat:name	_	_
-3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	7	7	NUM	N	NumType=Card	5	nummod	_	_
-5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	_
-6	in	in	ADP	E	_	7	case	_	_
-7	meno	meno	ADV	B	_	5	advmod	_	_
-8	di	di	ADP	E	_	9	case	_	_
-9	#silvio	#silvio	SYM	SYM	_	5	nmod	_	_
-10	#berlusconi	#berlusconi	SYM	SYM	_	9	flat:foreign	_	SpaceAfter=No
-11	,	,	PUNCT	FF	_	14	punct	_	_
-12	ma	ma	CCONJ	CC	_	14	cc	_	_
-13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
-14	porta	portare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-15	peggio	peggio	ADV	B	_	14	advmod	_	SpaceAfter=No
-16	!	!	PUNCT	FS	_	3	punct	_	_
-17	lol	lol	INTJ	I	_	3	discourse	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:foreign	color:blue
+1	@user1	@user1	SYM	SYM	_	10	punct	_	_
+2	@user2	@user2	SYM	SYM	_	1	flat:foreign	_	_
+3	-	-	PUNCT	FB	_	10	punct	_	_
+4	amica	amico	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+7	non	non	ADV	BN	PronType=Neg	10	advmod	_	_
+8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	expl	_	_
+9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	expl	_	_
+10	cagherò	cagare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	di	di	ADP	E	_	12	case	_	_
+12	pezza	pezza	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	_
+14	TANTO	tanto	DET	DI	PronType=Ind	18	det	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	18	punct	_	_
+16	MA	ma	CCONJ	CC	_	18	cc	_	_
+17	TANTO	tanto	DET	DI	PronType=Ind	18	det	_	_
+18	AMORE	amore	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+19	!	!	PUNCT	FS	_	10	punct	_	_
+20	<3	<3	SYM	SYM	_	10	punct	_	_
 
 ~~~
 

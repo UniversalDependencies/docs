@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt>.
 
-29 nodes (0%) are attached to their parents as `ccomp:cleft`.
+30 nodes (0%) are attached to their parents as `ccomp:cleft`.
 
-29 instances of `ccomp:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.27586206896552.
+30 instances of `ccomp:cleft` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.23333333333333.
 
-The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (16; 55% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 17% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 14% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (17; 57% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (5; 17% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 13% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><
 # visual-style 3	fgColor:white
 # visual-style 3 6 ccomp:cleft	color:blue
 1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	PART	_	_	3	punct	_	_
+2	na	na	PART	_	_	3	cop	_	_
 3	why	why	ADV	_	_	0	root	_	_
 4	you	you	PRON	_	_	6	nsubj	_	_
 5	dey	dey	AUX	_	_	6	aux	_	_

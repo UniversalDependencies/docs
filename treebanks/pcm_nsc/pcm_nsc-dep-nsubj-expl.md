@@ -14,7 +14,7 @@ There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="pcm_n
 30 instances of `nsubj:expl` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.36666666666667.
 
-The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (22; 73% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (4; 13% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 7% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (22; 73% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (5; 17% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

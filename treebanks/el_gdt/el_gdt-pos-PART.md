@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>όχι</em> (<tt><a href="el_gdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.774736).
+The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 1.774549).
 
 The 1st highest number of forms (2) was observed with the lemma “δεν”: <em>δε, δεν</em>.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (2) was observed with the lemma “να”: <em>
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="el_gdt-dep-aux.html">aux</a></tt> (1954; 82% instances), <tt><a href="el_gdt-dep-advmod.html">advmod</a></tt> (410; 17% instances), <tt><a href="el_gdt-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="el_gdt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="el_gdt-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="el_gdt-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2220; 94% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (79; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (52; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (2203; 93% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (83; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (59; 2% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 2368 (100%) `PART` nodes are leaves.
 

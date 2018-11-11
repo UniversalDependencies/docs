@@ -9,18 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-10 tokens (0%) have a non-empty value of `Hyph`.
-5 types (0%) occur at least once with a non-empty value of `Hyph`.
-5 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
+13 tokens (0%) have a non-empty value of `Hyph`.
+8 types (0%) occur at least once with a non-empty value of `Hyph`.
+8 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-10 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Hyph`.
+12 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11; 92%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (10; 100% of non-empty `Hyph`): <em>արցախա, իրանա, ռազմա, պատմա, տնտեսա</em>
+* `Yes` (12; 100% of non-empty `Hyph`): <em>արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, քրիստոնեա</em>
+
+### `ADV`
+
+1 <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Hyph`.
+
+The most frequent other feature values with which `ADV` and `Hyph` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Hyph`:
+
+* `Yes` (1; 100% of non-empty `Hyph`): <em>այս</em>
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 85766 tokens (34%) have a non-empty value of `Number`.
 14560 types (75%) occur at least once with a non-empty value of `Number`.
-11952 lemmas (74%) occur at least once with a non-empty value of `Number`.
+11951 lemmas (74%) occur at least once with a non-empty value of `Number`.
 The feature is used with 12 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (43098; 17% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (16896; 7% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (16733; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5225; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2343; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1414; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (47; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`

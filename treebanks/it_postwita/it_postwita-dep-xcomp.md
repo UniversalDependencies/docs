@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	@guidomeda	@guidomeda	SYM	SYM	_	6	vocative:mention	_	SpaceAfter=No
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	SpaceAfter=No
 2	:	:	PUNCT	FC	_	1	punct	_	_
 3	Mario	mario	PROPN	SP	_	6	nsubj	_	_
 4	Monti	Monti	PROPN	SP	_	3	flat:name	_	_
@@ -36,21 +36,24 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 xcomp	color:blue
-1	@louisnvgdr	@louisnvgdr	SYM	SYM	_	9	vocative:mention	_	_
-2	*	*	SYM	SYM	_	4	dep	_	_
-3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
-5	sbalordito	sbalordito	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	_
-6	*	*	SYM	SYM	_	4	dep	_	_
-7	ma	ma	CCONJ	CC	_	9	discourse	_	_
-8	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	coglione	coglione	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-10	?	?	PUNCT	FS	_	9	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 xcomp	color:blue
+1	RT	retweet	NOUN	S	_	4	dep	_	_
+2	@user1	@user1	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	@user2	@user2	SYM	SYM	_	0	root	_	_
+5	number	number	X	SW	_	4	flat:foreign	_	_
+6	one	one	X	SW	_	4	flat:foreign	_	_
+7	da	da	ADP	E	_	8	case	_	_
+8	Rocco	rocco	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
+10	Puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	morire	morire	VERB	V	VerbForm=Inf	4	parataxis	_	_
+12	felice	felice	ADJ	A	Number=Sing	11	xcomp	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 
@@ -61,7 +64,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 xcomp	color:blue
-1	@albertinodj	@albertinodj	SYM	SYM	_	7	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	7	vocative:mention	_	_
 2	a	a	ADP	E	_	3	case	_	_
 3	Roma	roma	PROPN	SP	_	7	obl	_	_
 4	invece	invece	ADV	B	_	7	advmod	_	_

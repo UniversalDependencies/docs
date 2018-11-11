@@ -28,12 +28,12 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 4	zich	zich	PRON	VNW|refl|pron|obl|red|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	_
 5	op	op	ADP	VZ|init	_	7	case	7:case	_
 6	het	het	DET	LID|bep|stan|evon	Definite=Def	7	det	7:det	_
-7	NK	NK	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl	_
+7	NK	NK	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:op	_
 8	al	al	ADV	BW	_	3	advmod	3:advmod	_
 9	direct	direct	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	12	amod	12:amod	_
 10	na	na	ADP	VZ|init	_	12	case	12:case	_
 11	de	de	DET	LID|bep|stan|rest	Definite=Def	12	det	12:det	_
-12	start	start	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl	SpaceAfter=No
+12	start	start	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl:na	SpaceAfter=No
 13	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 4	bewust	bewust	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
 5	van	van	ADP	VZ|init	_	7	case	7:case	_
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
-7	consequenties	consequentie	NOUN	N|soort|mv|basis	Number=Plur	4	obl	4:obl	_
+7	consequenties	consequentie	NOUN	N|soort|mv|basis	Number=Plur	4	obl	4:obl:van	_
 
 ~~~
 

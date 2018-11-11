@@ -24,7 +24,7 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 4 6 nmod:poss	color:blue
 1	התבוננתי	התבונן	VERB	VERB	Gender=Fem,Masc|HebBinyan=HITPAEL|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	ב	ב	ADP	ADP	_	3	case	_	_
-3	בן	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	iobj	_	_
+3	בן	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 4	שיח_	שיח	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	3	compound:smixut	_	_
 5	_של_	של	ADP	ADP	_	6	case:gen	_	_
 6	_אני	הוא	PRON	PRON	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
@@ -46,10 +46,10 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 2	אין	_	ADV	ADV	Polarity=Neg	3	advmod	_	_
 3	אוהבים	אהב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
 4	ביותר	ביותר	ADV	ADV	_	3	advmod	_	_
-5	את	את	PART	PART	Case=Acc	7	case:acc	_	_
+5	את	את	ADP	ADP	Case=Acc	7	case:acc	_	_
 6	ה	ה	DET	DET	PronType=Art	7	det:def	_	_
 7	רעיון	רעיון	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
-8	של	של	PART	PART	Case=Gen	9	case:gen	_	_
+8	של	של	ADP	ADP	Case=Gen	9	case:gen	_	_
 9	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	7	nmod:poss	_	_
 10	ב	ב	ADP	ADP	_	12	case	_	_
 11	ה_	ה	DET	DET	PronType=Art	12	det:def	_	_
@@ -73,10 +73,10 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	שם_	שם	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	_
 5	_של_	של	ADP	ADP	_	6	case:gen	_	_
 6	_היא	הוא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
-7	של	של	PART	PART	Case=Gen	8	case:gen	_	_
+7	של	של	ADP	ADP	Case=Gen	8	case:gen	_	_
 8	קניגסברג	קניגסברג	PROPN	PROPN	_	4	nmod:poss	_	_
 9	ל	ל	ADP	ADP	_	10	case	_	_
-10	קלינינגרד	קלינינגרד	PROPN	PROPN	_	3	iobj	_	_
+10	קלינינגרד	קלינינגרד	PROPN	PROPN	_	3	obl	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

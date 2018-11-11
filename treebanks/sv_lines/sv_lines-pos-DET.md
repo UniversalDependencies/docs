@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_lines-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.414601).
+The form / lemma ratio of `DET` is 1.583333 (the average of all parts of speech is 1.414305).
 
 The 1st highest number of forms (5) was observed with the lemma “någon”: <em>någon, något, några, nån, nåt</em>.
 
@@ -79,17 +79,17 @@ Examples: <em>en</em>
 
 Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (3941; 92% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (220; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (32; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-4146 (97%) `DET` nodes are leaves.
+4147 (97%) `DET` nodes are leaves.
 
 129 (3%) `DET` nodes have one child.
 
-4 (0%) `DET` nodes have two children.
+3 (0%) `DET` nodes have two children.
 
 1 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 7 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (78; 56% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (29; 21% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (23; 16% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (3; 2% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 7 different relations: <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (78; 57% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (28; 20% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (23; 17% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (99; 71% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (21; 15% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 1% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (99; 72% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (21; 15% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 1% instances)
 

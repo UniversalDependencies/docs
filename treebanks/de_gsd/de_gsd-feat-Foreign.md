@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1183; 100% of non-empty `Foreign`): <em>the, of, la, de, You, for, a, do, is, it</em>
-* `EMPTY` (30333): <em>von, Deutschland, de, der, US, Berlin, of, SPD, St., für</em>
+* `EMPTY` (30001): <em>von, Deutschland, de, US, Berlin, of, SPD, St., für, Oktober</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (811) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (74; 100% of non-empty `Foreign`): <em>Bass, Top, facto, &amp;, Arrondissement, Armée, Atun, Chief, City, Dirigent</em>
-* `EMPTY` (52219): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52148): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (62) occur only with one value of `Foreign`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (23; 100% of non-empty `Foreign`): <em>Top, Local, Safe, ca, correct, crazy, englisch, good, green, happy</em>
-* `EMPTY` (20922): <em>ersten, später, erste, anderen, weitere, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (20550): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (19) occur only with one value of `Foreign`.
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>The, alla, dessa</em>
-* `EMPTY` (36409): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (36857): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `PART`
 
@@ -152,7 +152,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>PROPN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (173; 59%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-case.html">case</a></tt>]--> PROPN</tt> (97; 68%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-case.html">case</a></tt>]--> PROPN</tt> (97; 69%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (77; 62%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-cc.html">cc</a></tt>]--> CCONJ</tt> (29; 62%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (25; 83%),

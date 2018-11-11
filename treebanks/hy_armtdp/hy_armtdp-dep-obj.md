@@ -8,30 +8,53 @@ udver: '2'
 
 This relation is universal.
 
-603 nodes (5%) are attached to their parents as `obj`.
+1082 nodes (5%) are attached to their parents as `obj`.
 
-378 instances of `obj` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.56716417910448.
+626 instances of `obj` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.53327171903882.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (504; 84% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (70; 12% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (841; 78% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (159; 15% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (33; 3% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 obj	color:blue
-1	Նախագծողի	նախագծող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	6	iobj	_	_
-2	խելքին	խելք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	6	compound:lvc	_	_
-3	ինչ	ինչ	PRON	_	Case=Nom|Number=Sing|PronType=Int	6	obj	_	_
-4	՞	՞	PUNCT	_	_	3	punct	_	_
-5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	փչել	փչել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
-7	այստեղ	այստեղ	ADV	_	PronType=Dem	9	advmod	_	_
-8	վանդակապատ	վանդակապատ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	9	obj	_	_
-9	դնել	դնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	xcomp	_	SpaceAfter=No
-10	...	...	PUNCT	_	_	6	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 obj	color:blue
+1	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	Փառք	փառք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	discourse	_	_
+3	Աստծո	աստված	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing|Style=Arch	2	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	միջինը	միջին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	obj	_	_
+6	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	լսել	լսել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	9	punct	_	_
+9	սարսափելի	սարսափելի	ADJ	_	Degree=Pos	7	parataxis	_	_
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	երբ	երբ	SCONJ	_	_	13	mark	_	_
+13	անտարբեր	անտարբեր	ADJ	_	Degree=Pos	9	csubj	_	_
+14	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obj	color:blue
+1	Ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+2	կամ	կամ	CCONJ	_	ConjType=Comp	3	cc	_	_
+3	բարձրացրել	բարձրանալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+4	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	կամ	կամ	CCONJ	_	ConjType=Comp	7	cc	_	_
+7	տապալել	տապալել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	3	conj	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -39,40 +62,13 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 obj	color:blue
-1	Նախագծողի	նախագծող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	6	iobj	_	_
-2	խելքին	խելք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	6	compound:lvc	_	_
-3	ինչ	ինչ	PRON	_	Case=Nom|Number=Sing|PronType=Int	6	obj	_	_
-4	՞	՞	PUNCT	_	_	3	punct	_	_
-5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	փչել	փչել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
-7	այստեղ	այստեղ	ADV	_	PronType=Dem	9	advmod	_	_
-8	վանդակապատ	վանդակապատ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	9	obj	_	_
-9	դնել	դնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	xcomp	_	SpaceAfter=No
-10	...	...	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 obj	color:blue
-1	Բայց	բայց	CCONJ	_	_	4	advmod:emph	_	_
-2	գրականության	գրականություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	_
-3	Նոբելյան	նոբելյան	ADJ	_	_	4	amod	_	_
-4	մրցանակն	մրցանակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
-5	էս	այս	DET	_	Distance=Prox|PronType=Dem|Style=Coll	6	det	_	_
-6	տարի	տարի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	7	obl	_	_
-7	ալեկոծեց	ալեկոծել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	ֆեյսբուքը	Ֆեյսբուք	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Com|Number=Sing	7	obj	_	SpaceAfter=No
-10	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
-11	։	։	PUNCT	_	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obj	color:blue
+1	Հիմա	հիմա	ADV	_	_	2	advmod	_	_
+2	դառնանք	դառնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	Մուրակամիին	Մուրակամի	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	2	obj	_	SpaceAfter=No
+4	։	։	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

@@ -27,9 +27,9 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	voltrok	voltrekken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	zich	zich	PRON	VNW|refl|pron|obl|red|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	_
 5	op	op	ADP	VZ|init	_	6	case	6:case	_
-6	1	1	NUM	TW|hoofd|vrij	_	3	obl	3:obl	_
-7	januari	januari	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	flat:name	6:flat:name	_
-8	1995	1995	NUM	TW|hoofd|vrij	_	6	flat:name	6:flat:name	SpaceAfter=No
+6	1	1	NUM	TW|hoofd|vrij	_	3	obl	3:obl:op	_
+7	januari	januari	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	flat	6:flat	_
+8	1995	1995	NUM	TW|hoofd|vrij	_	6	flat	6:flat	SpaceAfter=No
 9	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
 ~~~

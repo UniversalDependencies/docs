@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (8833; 89% of non-empty `Voice`): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
 * `Pass` (1062; 11% of non-empty `Voice`): <em>visas, kändes, används, tvungen, hördes, flyttas, taget, tycktes, skapats, talas</em>
-* `EMPTY` (159): <em>finns, fanns, finnas, beroende, närvarande, taget, förfogande, följande, gillande, gående</em>
+* `EMPTY` (156): <em>finns, fanns, finnas, närvarande, taget, förfogande, följande, gillande, gående, Beroende</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -66,13 +66,13 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (1701; 89%),
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1410; 90%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1408; 89%),
 <tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (883; 80%),
-<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (533; 79%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (461; 84%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (197; 95%),
+<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (530; 79%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (461; 83%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (199; 94%),
 <tt>VERB --[<tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (63; 90%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (23; 85%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (11; 92%),
-<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (10; 91%).
+<tt>VERB --[<tt><a href="sv_lines-dep-obj.html">obj</a></tt>]--> VERB</tt> (15; 54%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (11; 92%).
 

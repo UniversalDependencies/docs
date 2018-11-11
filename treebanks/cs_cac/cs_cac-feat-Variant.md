@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
 14259 tokens (3%) have a non-empty value of `Variant`.
-2017 types (3%) occur at least once with a non-empty value of `Variant`.
+2016 types (3%) occur at least once with a non-empty value of `Variant`.
 1099 lemmas (4%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (9195; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (5064; 1% instances).
 
@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-PRON.htm
 
 9195 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (9195; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9195; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8883; 97%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (8706; 95%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8705; 95%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8705; 95%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7929; 86%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (9195; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9195; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8883; 97%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8706; 95%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (8706; 95%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8705; 95%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7929; 86%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (9195; 100% of non-empty `Variant`): <em>se, si, mu, ho, mi, mě, ti, tě, mně, sis</em>
+* `Short` (9195; 100% of non-empty `Variant`): <em>se, si, mu, ho, mi, mě, ti, tě, mně</em>
 
 ### `ADJ`
 

@@ -22,19 +22,19 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 13 punct	color:blue
-1	Was	_	PRON	WP	Case=Acc|Person=3	3	obj	_	_
-2	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-3	sagt	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	und	_	CCONJ	CC	_	7	cc	_	_
-5	was	_	PRON	WP	Case=Acc|Person=3	7	obj	_	_
-6	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
-7	tut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
-8	-	_	PUNCT	-	_	12	punct	_	_
-9	eigentlich	_	ADV	RB	Degree=Pos	12	advmod	_	_
-10	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-11	es	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
-12	unglaublich	_	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	3	punct	_	_
+1	Was	was	PRON	WP	Case=Acc|Person=3	3	obj	_	_
+2	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+3	sagt	sagen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	und	und	CCONJ	CC	_	7	cc	_	_
+5	was	was	PRON	WP	Case=Acc|Person=3	7	obj	_	_
+6	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+7	tut	tun	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+8	-	-	PUNCT	-	_	12	punct	_	_
+9	eigentlich	eigentlich	ADV	RB	Degree=Pos	12	advmod	_	_
+10	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+11	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
+12	unglaublich	unglaublich	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
@@ -45,15 +45,15 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 punct	color:blue
-1	5.000	_	NUM	CD	NumType=Card	2	nummod	_	_
-2	$	_	SYM	SYM	_	0	root	_	_
-3	pro	_	ADP	IN	_	4	case	_	_
-4	Person	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	nmod	_	SpaceAfter=No
-5	,	_	PUNCT	,	_	8	punct	_	_
-6	das	_	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	8	det	_	_
-7	erlaubte	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Person=3	8	amod	_	InflectionType=Weak
-8	Maximum	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	appos	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	2	punct	_	_
+1	5.000	5.000	NUM	CD	NumType=Card	2	nummod	_	_
+2	$	$	SYM	SYM	_	0	root	_	_
+3	pro	pro	ADP	IN	_	4	case	_	_
+4	Person	Person	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	8	det	_	_
+7	erlaubte	erlaubt	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Person=3	8	amod	_	InflectionType=Weak
+8	Maximum	Maximum	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -64,19 +64,19 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 punct	color:blue
-1	Was	_	PRON	WP	Case=Acc|Person=3	3	obj	_	_
-2	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-3	sagt	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	und	_	CCONJ	CC	_	7	cc	_	_
-5	was	_	PRON	WP	Case=Acc|Person=3	7	obj	_	_
-6	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
-7	tut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
-8	-	_	PUNCT	-	_	12	punct	_	_
-9	eigentlich	_	ADV	RB	Degree=Pos	12	advmod	_	_
-10	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-11	es	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
-12	unglaublich	_	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	3	punct	_	_
+1	Was	was	PRON	WP	Case=Acc|Person=3	3	obj	_	_
+2	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+3	sagt	sagen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	und	und	CCONJ	CC	_	7	cc	_	_
+5	was	was	PRON	WP	Case=Acc|Person=3	7	obj	_	_
+6	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+7	tut	tun	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+8	-	-	PUNCT	-	_	12	punct	_	_
+9	eigentlich	eigentlich	ADV	RB	Degree=Pos	12	advmod	_	_
+10	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+11	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
+12	unglaublich	unglaublich	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

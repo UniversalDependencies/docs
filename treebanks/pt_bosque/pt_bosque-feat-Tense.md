@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-15110 tokens (7%) have a non-empty value of `Tense`.
-3865 types (15%) occur at least once with a non-empty value of `Tense`.
+15111 tokens (7%) have a non-empty value of `Tense`.
+3866 types (15%) occur at least once with a non-empty value of `Tense`.
 1282 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10105; 4% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5003; 2% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10106; 4% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5003; 2% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-10105 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Tense`.
+10106 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10105; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10105; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (9415; 93%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9401; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7955; 79%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10106; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10106; 100%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (9416; 93%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9402; 93%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7956; 79%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (847; 8% of non-empty `Tense`): <em>tinha, havia, fazia, dizia, era, encontrava, estavam, parecia, tinham, conseguia</em>
 * `Past` (3323; 33% of non-empty `Tense`): <em>disse, fez, afirmou, foi, teve, deu, ficou, chegou, conseguiu, aconteceu</em>
 * `Pqp` (53; 1% of non-empty `Tense`): <em>fizera, tornara, desaparecera, dissera, levara, Nascera, Quisera, Saíra, abrangera, aconteceram</em>
-* `Pres` (5392; 53% of non-empty `Tense`): <em>há, tem, diz, é, têm, faz, afirma, dá, quer, trata</em>
+* `Pres` (5393; 53% of non-empty `Tense`): <em>há, tem, diz, é, têm, faz, afirma, dá, quer, trata</em>
 * `EMPTY` (9233): <em>fazer, ter, ver, dar, dizer, feito, falar, feita, saber, manter</em>
 
 <table>
@@ -94,6 +94,6 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (602; 61%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (68; 57%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (69; 57%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%).
 

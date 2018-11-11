@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 cop	color:blue
-1	@acmilan	@acmilan	SYM	SYM	_	4	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
 2	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	anche	anche	ADV	B	_	4	advmod	_	_
 4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -56,7 +56,7 @@ The following 19 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cop	color:blue
-1	@Cimettolafaccia	@Cimettolafaccia	SYM	SYM	_	7	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	7	vocative:mention	_	_
 2	..	..	PUNCT	FS	_	1	punct	_	_
 3	insomma	insomma	ADV	B	_	7	advmod	_	_
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Portuguese GSD
 
-Language: [Portuguese](../pt/overview/pt-hub.html) (code: `pt`)<br/>
+Language: [Portuguese](/pt/index.html) (code: `pt`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Alexandre Rademaker, Fabricio Chalub, Carlos Ramisch.
 
 Repository: [UD_Portuguese-GSD](https://github.com/UniversalDependencies/UD_Portuguese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_gsd22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 3.0 US
 

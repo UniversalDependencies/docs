@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Czech CLTT
 
-Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
+Language: [Czech](/cs/index.html) (code: `cs`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

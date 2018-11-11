@@ -8,32 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-775 nodes (0%) are attached to their parents as `discourse`.
+834 nodes (0%) are attached to their parents as `discourse`.
 
-395 instances of `discourse` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.78064516129032.
+418 instances of `discourse` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.82254196642686.
 
-The following 24 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (177; 23% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (145; 19% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (89; 11% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (76; 10% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (62; 8% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (50; 6% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (29; 4% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (23; 3% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (21; 3% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (19; 2% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (17; 2% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (10; 1% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (8; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+The following 22 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (183; 22% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (181; 22% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (110; 13% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (101; 12% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (62; 7% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (32; 4% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (29; 3% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (27; 3% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (26; 3% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (22; 3% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (14; 2% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (7; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 discourse	color:blue
-1	_	_	X	_	_	3	dep	_	BunsetuPosition=B|BunsetuPositionType=NO_HEAD|SpaceAfter=No
-2	_	_	PUNCT	_	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=NO_HEAD|SpaceAfter=No
-3	_	_	INTJ	_	_	6	discourse	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-4	_	_	PUNCT	_	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-5	_	_	ADV	_	_	6	advmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	_	_	VERB	_	_	0	root	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-7	_	_	SCONJ	_	_	6	mark	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-8	_	_	AUX	_	_	6	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-9	_	_	AUX	_	_	6	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-10	_	_	CCONJ	_	_	6	cc	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-11	_	_	PUNCT	_	_	6	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-12	_	_	PUNCT	_	_	6	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 discourse	color:blue
+1	_	_	PUNCT	_	_	2	punct	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+2	_	_	INTJ	_	_	5	discourse	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=32|SpaceAfter=No
+3	_	_	PUNCT	_	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+4	_	_	ADV	_	_	5	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=17|SpaceAfter=No
+5	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
+6	_	_	SCONJ	_	_	5	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+7	_	_	AUX	_	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=10|SpaceAfter=No
+8	_	_	AUX	_	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+9	_	_	CCONJ	_	_	5	cc	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=18|SpaceAfter=No
+10	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+11	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
 
 ~~~
 
@@ -44,47 +43,33 @@ The following 24 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 discourse	color:blue
-1	_	_	PRON	_	_	7	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	_	_	ADP	_	_	1	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-3	_	_	ADP	_	_	1	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-4	_	_	PUNCT	_	_	1	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-5	_	_	NOUN	_	_	7	iobj	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	_	_	ADP	_	_	5	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-7	_	_	VERB	_	_	0	root	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-8	_	_	AUX	_	_	7	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-9	_	_	PUNCT	_	_	7	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-10	_	_	SYM	_	_	7	discourse	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+1	_	_	PRON	_	_	7	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=23|SpaceAfter=No
+2	_	_	ADP	_	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+3	_	_	ADP	_	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
+4	_	_	PUNCT	_	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+5	_	_	NOUN	_	_	7	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+6	_	_	ADP	_	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+7	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
+8	_	_	AUX	_	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+9	_	_	PUNCT	_	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+10	_	_	SYM	_	_	7	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=39|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 discourse	color:blue
-1	_	_	X	_	_	3	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
-2	_	_	PUNCT	_	_	3	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-3	_	_	INTJ	_	_	4	discourse	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-4	_	_	NOUN	_	_	19	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-5	_	_	PUNCT	_	_	4	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-6	_	_	NOUN	_	_	8	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-7	_	_	ADP	_	_	6	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-8	_	_	NOUN	_	_	16	obl	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-9	_	_	ADP	_	_	8	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-10	_	_	PROPN	_	_	11	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-11	_	_	PROPN	_	_	14	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-12	_	_	ADP	_	_	11	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-13	_	_	VERB	_	_	11	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-14	_	_	NOUN	_	_	16	nsubj	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-15	_	_	ADP	_	_	14	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-16	_	_	VERB	_	_	19	acl	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-17	_	_	SCONJ	_	_	16	mark	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-18	_	_	AUX	_	_	16	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-19	_	_	NOUN	_	_	0	root	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-20	_	_	AUX	_	_	19	cop	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-21	_	_	PUNCT	_	_	19	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 discourse	color:blue
+1	_	_	NOUN	_	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+2	_	_	NOUN	_	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+3	_	_	ADP	_	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+4	_	_	PUNCT	_	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+5	_	_	SYM	_	_	2	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=39|SpaceAfter=No
+6	_	_	SYM	_	_	2	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=39|SpaceAfter=No
+7	_	_	SYM	_	_	2	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=39|SpaceAfter=No
 
 ~~~
 

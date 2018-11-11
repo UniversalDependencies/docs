@@ -11,15 +11,16 @@ udver: '2'
 
 # UD French Spoken
 
-Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
+Language: [French](/fr/index.html) (code: `fr`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
-The following people have contributed to making this treebank part of UD: Kim Gerdes.
+The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Chunxiao Yan, Aline Etienne, Marine Courtin.
 
 Repository: [UD_French-Spoken](https://github.com/UniversalDependencies/UD_French-Spoken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_spoken)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_spoken22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,16 +30,27 @@ Questions, comments?
 General annotation questions (either French-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_French-Spoken/issues).
 If you want to collaborate, please contact [kim&nbsp;(æt)&nbsp;gerdes&nbsp;•&nbsp;fr].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| XPOS | not available |
+| Features | not available |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
+
+A Universal Dependencies corpus for spoken French.
+
+
+
+The corpus was converted automatically from the [Rhapsodie treebank](http://www.projet-rhapsodie.fr/) with manual corrections.
+
+Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be added to future versions of this treebank as they are encoded in the Rhapsodie treebank.
+
+
 
 ## Acknowledgments
 
@@ -124,16 +136,7 @@ If you want to collaborate, please contact [kim&nbsp;(æt)&nbsp;gerdes&nbsp;•&
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
-
-
-
 
 
 
@@ -147,20 +150,7 @@ If you want to collaborate, please contact [kim&nbsp;(æt)&nbsp;gerdes&nbsp;•&
 
 
 
-
-
-
-
-
 <h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-
-
-
-
-
-
 
 
 

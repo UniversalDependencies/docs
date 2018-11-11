@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-14612 tokens (1%) have a non-empty value of `Variant`.
-3732 types (3%) occur at least once with a non-empty value of `Variant`.
-1911 lemmas (4%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (9164; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (5448; 0% instances).
+14611 tokens (1%) have a non-empty value of `Variant`.
+3731 types (3%) occur at least once with a non-empty value of `Variant`.
+1912 lemmas (4%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (9163; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (5448; 0% instances).
 
 ### `ADJ`
 
-9164 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Variant`.
+9163 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9164; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9162; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7279; 79%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9163; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9161; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7278; 79%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (9164; 100% of non-empty `Variant`): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, трудно</em>
+* `Short` (9163; 100% of non-empty `Variant`): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, трудно</em>
 
 `Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (942) occur only with one value of `Variant`.
 
@@ -36,13 +36,13 @@ The most frequent other feature values with which `VERB` and `Variant` co-occurr
 
 * `Short` (5448; 100% of non-empty `Variant`): <em>связано, связаны, сделано, принято, связана, связан, сказано, написано, создана, создан</em>
 
-`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (969) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (970) occur only with one value of `Variant`.
 
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (438; 86%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (67; 56%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (67; 57%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (56; 74%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (32; 71%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),

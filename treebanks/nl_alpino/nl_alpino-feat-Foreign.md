@@ -33,6 +33,6 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt>]--> X</tt> (185; 100%),
 <tt>X --[<tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> X</tt> (3; 100%),
-<tt>X --[<tt><a href="nl_alpino-dep-flat-name.html">flat:name</a></tt>]--> X</tt> (3; 100%),
+<tt>X --[<tt><a href="nl_alpino-dep-flat.html">flat</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="nl_alpino-dep-case.html">case</a></tt>]--> X</tt> (1; 100%).
 

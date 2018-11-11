@@ -27,7 +27,7 @@ The following 36 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	bin	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	öfter	öfter	ADV	ADV	_	3	advmod	_	_
 5	hier	hier	ADV	ADV	_	3	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	$,	_	3	punct	_	_
+6	,	,	PUNCT	$,	_	13	punct	_	_
 7	da	da	SCONJ	KOUS	_	13	mark	_	_
 8	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 9	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
@@ -51,7 +51,7 @@ The following 36 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	um	um	ADP	APPR	_	4	case	_	_
 4	Beratung	Beratung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 5	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	$,	_	10	punct	_	_
+6	,	,	PUNCT	$,	_	5	punct	_	_
 7	dann	dann	ADV	ADV	_	10	advmod	_	_
 8	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	der	der	PRON	PDS	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
@@ -68,7 +68,7 @@ The following 36 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2 8 advcl	color:blue
 1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Schreine	Schrein	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
-3	,	,	PUNCT	$,	_	2	punct	_	_
+3	,	,	PUNCT	$,	_	8	punct	_	_
 4	die	der	PRON	PRELS	Case=Acc|Number=Plur|PronType=Rel	8	nsubj:pass	_	_
 5	Vishnu	Vishnu	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	8	iobj	_	_
 6	und	und	CCONJ	KON	_	7	cc	_	_

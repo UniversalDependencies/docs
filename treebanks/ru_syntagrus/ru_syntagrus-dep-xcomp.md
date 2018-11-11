@@ -42,16 +42,16 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 1 xcomp	color:blue
 1	Стартовать	стартовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	_
-2	ПКА	пка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+2	ПКА	ПКА	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
 3	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	0:root	_
 4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 5	на	на	ADP	_	_	7	case	7:case	_
 6	королевской	королевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	_
 7	ракете-носителе	ракета-носитель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	3:obl	_
-8	Р	река	PROPN	_	Foreign=Yes	7	nmod	7:nmod	SpaceAfter=No
+8	Р	РЕКА	PROPN	_	Foreign=Yes	7	nmod	7:nmod	SpaceAfter=No
 9	-	-	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
 10	7	7	NUM	_	_	8	nummod	8:nummod	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	10:punct	_
+11	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

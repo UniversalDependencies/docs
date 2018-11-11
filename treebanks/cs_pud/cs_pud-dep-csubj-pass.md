@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	5	fixed	_	_
 7	císařské	císařský	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	_	_
 8	rodiny	rodina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	obl	_	_
-9	považováno	považovaný	ADJ	VsNS---XX-AP---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	považováno	považovaný	ADJ	VsNS---XX-AP---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=považovat
 10	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
 11	krajně	krajně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	12	advmod	_	LDeriv=krajní
 12	nevhodné	vhodný	ADJ	AANS4----1N----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	9	iobj	_	SpaceAfter=No

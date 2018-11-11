@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Catalan AnCora
 
-Language: [Catalan](../ca/overview/ca-hub.html) (code: `ca`)<br/>
+Language: [Catalan](/ca/index.html) (code: `ca`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: GNU GPL 3.0
 
@@ -161,583 +162,557 @@ Catalan data from the AnCora corpus.
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</li>
-        <li>ADJ-Part: passada, oberta, privada, prevista, relacionades, dedicada, presentada, situada, integrada, feta</li>
-        <li>ADP: da</li>
-        <li>AUX-Part: aprovada, controlades, declarades, endeutada, investigada, investigades, presentades, remodelada, sostreta</li>
-        <li>DET: la, les, una, seva, aquesta, seves, aquestes, totes, altra, tota</li>
-        <li>NOUN: persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</li>
-        <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, cinquena, dues-centes</li>
-        <li>PRON: la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</li>
-        <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</li>
+      <li>ADJ-Part: passada, oberta, privada, prevista, relacionades, dedicada, presentada, situada, integrada, feta</li>
+      <li>ADP: da</li>
+      <li>AUX-Part: aprovada, controlades, declarades, endeutada, investigada, investigades, presentades, remodelada, sostreta</li>
+      <li>DET: la, les, una, seva, aquesta, seves, aquestes, totes, altra, tota</li>
+      <li>NOUN: persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</li>
+      <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, cinquena, dues-centes</li>
+      <li>PRON: la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</li>
+      <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</li>
-        <li>ADJ-Part: passat, previst, obert, relacionats, format, situat, afectats, conegut, privat, seguit</li>
-        <li>ADP: del, al, dels, als, pel, pels, do</li>
-        <li>ADV: més, fins, enfront, entorn, enllà, quant, prop, enmig</li>
-        <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
-        <li>DET: el, els, un, aquest, seu, seus, aquests, tots, tot, mateix</li>
-        <li>NOUN: anys, milions, any, president, temps, grup, projecte, cas, partit, director</li>
-        <li>NUM: dos, un, mig, ambdós, tercer, quart, cinc-cents, 2, centenars, desè</li>
-        <li>PRON: un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</li>
-        <li>PROPN: Justícia</li>
-        <li>SYM: 1%</li>
-        <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</li>
+      <li>ADJ-Part: passat, previst, obert, relacionats, format, situat, afectats, conegut, privat, seguit</li>
+      <li>ADP: del, al, dels, als, pel, pels, do</li>
+      <li>ADV: més, fins, enfront, entorn, enllà, quant, prop, enmig</li>
+      <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
+      <li>DET: el, els, un, aquest, seu, seus, aquests, tots, tot, mateix</li>
+      <li>NOUN: anys, milions, any, president, temps, grup, projecte, cas, partit, director</li>
+      <li>NUM: dos, un, mig, ambdós, tercer, quart, cinc-cents, 2, centenars, desè</li>
+      <li>PRON: un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</li>
+      <li>PROPN: Justícia</li>
+      <li>SYM: 1%</li>
+      <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: grans, principals, importants, municipals, noves, nous, socials, locals, últims, culturals</li>
+      <li>ADJ-Part: relacionats, afectats, relacionades, facilitades, afectades, presentades, realitzades, disposats, previstes, determinades</li>
+      <li>ADP: dels, als, pels</li>
+      <li>ADV: més, enfront, fins, quant</li>
+      <li>AUX-Fin: van, han, són, estan, hem, poden, havien, seran, podran, eren</li>
+      <li>AUX-Part: adjudicats, confiscats, aplicats, assassinats, construïts, controlades, declarades, informats, investigades, presentades</li>
+      <li>DET: les, els, seus, altres, aquests, seves, tots, aquestes, uns, diferents</li>
+      <li>NOUN: anys, milions, persones, obres, mesos, joves, dies, empreses, agents, activitats</li>
+      <li>NUM: dos, tres, dues, quatre, cinc, sis, set, vuit, deu, nou</li>
+      <li>PRON: els, quals, ens, altres, uns, les, ells, los, alguns, nosaltres</li>
+      <li>VERB-Fin: tenen, fan, tenim, faran, volen, formen, van, consideren, destaquen, tenien</li>
+      <li>VERB-Part: detinguts, jutjats, traslladats, atesos, condemnats, desallotjats, elegits, fetes, identificades, rescatats</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: grans, principals, importants, municipals, noves, nous, socials, locals, últims, culturals</li>
-        <li>ADJ-Part: relacionats, afectats, relacionades, facilitades, afectades, presentades, realitzades, disposats, previstes, determinades</li>
-        <li>ADP: dels, als, pels</li>
-        <li>ADV: més, enfront, fins, quant</li>
-        <li>AUX-Fin: van, han, són, estan, hem, poden, havien, seran, podran, eren</li>
-        <li>AUX-Part: adjudicats, confiscats, aplicats, assassinats, construïts, controlades, declarades, informats, investigades, presentades</li>
-        <li>DET: les, els, seus, altres, aquests, seves, tots, aquestes, uns, diferents</li>
-        <li>NOUN: anys, milions, persones, obres, mesos, joves, dies, empreses, agents, activitats</li>
-        <li>NUM: dos, tres, dues, quatre, cinc, sis, set, vuit, deu, nou</li>
-        <li>PRON: els, quals, ens, altres, uns, les, ells, los, alguns, nosaltres</li>
-        <li>VERB-Fin: tenen, fan, tenim, faran, volen, formen, van, consideren, destaquen, tenien</li>
-        <li>VERB-Part: detinguts, jutjats, traslladats, atesos, condemnats, desallotjats, elegits, fetes, identificades, rescatats</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: gran, general, passat, primer, nou, primera, actual, nova, important, social</li>
+      <li>ADJ-Part: passat, previst, passada, obert, format, oberta, privada, situat, conegut, prevista</li>
+      <li>ADP: del, al, pel, do, da</li>
+      <li>ADV: fins, més, entorn, enfront, enllà, prop, quant, enmig</li>
+      <li>AUX-Fin: va, ha, és, està, havia, pot, serà, era, fa, sigui</li>
+      <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
+      <li>DET: la, el, l', un, una, aquest, seva, aquesta, seu, tot</li>
+      <li>NOUN: any, president, part, terme, grup, projecte, cap, lloc, cas, portaveu</li>
+      <li>NUM: un, una, mig, mitja, doble, tercer, quart, triple, desena, cinquena</li>
+      <li>PRON: un, li, tot, això, qual, la, el, l', ell, una</li>
+      <li>PROPN: Justícia</li>
+      <li>VERB-Fin: té, ha, fa, considera, cal, farà, vol, tracta, demana, tenia</li>
+      <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: gran, general, passat, primer, nou, primera, actual, nova, important, social</li>
-        <li>ADJ-Part: passat, previst, passada, obert, format, oberta, privada, situat, conegut, prevista</li>
-        <li>ADP: del, al, pel, do, da</li>
-        <li>ADV: fins, més, entorn, enfront, enllà, prop, quant, enmig</li>
-        <li>AUX-Fin: va, ha, és, està, havia, pot, serà, era, fa, sigui</li>
-        <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
-        <li>DET: la, el, l', un, una, aquest, seva, aquesta, seu, tot</li>
-        <li>NOUN: any, president, part, terme, grup, projecte, cap, lloc, cas, portaveu</li>
-        <li>NUM: un, una, mig, mitja, doble, tercer, quart, triple, desena, cinquena</li>
-        <li>PRON: un, li, tot, això, qual, la, el, l', ell, una</li>
-        <li>PROPN: Justícia</li>
-        <li>VERB-Fin: té, ha, fa, considera, cal, farà, vol, tracta, demana, tenia</li>
-        <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: la, el, l', lo, les, els, 'l, li, 'ls, -la</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: li, lo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: la, el, l', lo, les, els, 'l, li, 'ls, -la</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: jo, mi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>PRON: li, lo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>PrepCase</a></li>
+</ul>
 
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: jo, mi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pre
+    <ul>
+      <li>PRON: mi, si</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>PrepCase</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: la, el, l', les, els</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pre
-      <ul>
-        <li>PRON: mi, si</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Definite</a>
-
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: la, el, l', les, els</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: en, l', al, col·laboració, la, sa, ses, suficient</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: en, l', al, col·laboració, la, sa, ses, suficient</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: no, pas, ni, només</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: no, pas, ni, només</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: hauria, podria, seria, podrien, haurien, estaria, serien, hauríem, estarien, tornaria</li>
+      <li>VERB-Fin: caldria, faria, agradaria, permetria, quedaria, farien, hauria, suposaria, tindria, aconseguiria</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: hauria, podria, seria, podrien, haurien, estaria, serien, hauríem, estarien, tornaria</li>
-        <li>VERB-Fin: caldria, faria, agradaria, permetria, quedaria, farien, hauria, suposaria, tindria, aconseguiria</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: sigui, deixi, estigui, siguin, acabin, gosa, seguim</li>
+      <li>VERB-Fin: seguim, superi, aclareixi, estrena, gestioni, miri, quedin, Aprovin, Escolta, Fabriquem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: sigui, deixi, estigui, siguin, acabin, gosa, seguim</li>
-        <li>VERB-Fin: seguim, superi, aclareixi, estrena, gestioni, miri, quedin, Aprovin, Escolta, Fabriquem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
+      <li>VERB-Fin: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
-        <li>VERB-Fin: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: sigui, hagi, pugui, puguin, hagin, siguin, hagués, fos, estigui, pogués</li>
+      <li>VERB-Fin: hagi, tingui, tinguin, faci, facin, doni, vulguin, acabi, arribi, permeti</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: sigui, hagi, pugui, puguin, hagin, siguin, hagués, fos, estigui, pogués</li>
-        <li>VERB-Fin: hagi, tingui, tinguin, faci, facin, doni, vulguin, acabi, arribi, permeti</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: serà, podrà, seran, haurà, podran, hauran, estarà, estaran, tornarà, continuarà</li>
+      <li>VERB-Fin: farà, tindrà, haurà, celebrarà, presentarà, faran, permetrà, començarà, comptarà, oferirà</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: havia, era, havien, estava, eren, podia, hagués, fos, estaven, podien</li>
+      <li>VERB-Fin: tenia, havia, feia, tenien, deia, volia, estava, feien, sabia, demanava</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: serà, podrà, seran, haurà, podran, hauran, estarà, estaran, tornarà, continuarà</li>
-        <li>VERB-Fin: farà, tindrà, haurà, celebrarà, presentarà, faran, permetrà, començarà, comptarà, oferirà</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: fou, foren</li>
+      <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
+      <li>VERB-Fin: viu, creà, considerà, estudià, formà, inicià, Anà, Col·laborà, Deixà, Participà</li>
+      <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: havia, era, havien, estava, eren, podia, hagués, fos, estaven, podien</li>
-        <li>VERB-Fin: tenia, havia, feia, tenien, deia, volia, estava, feien, sabia, demanava</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: fou, foren</li>
-        <li>AUX-Part: estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</li>
-        <li>VERB-Fin: viu, creà, considerà, estudià, formà, inicià, Anà, Col·laborà, Deixà, Participà</li>
-        <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: va, ha, és, van, han, són, està, pot, fa, estan</li>
-        <li>VERB-Fin: té, ha, tenen, fa, considera, cal, vol, tracta, demana, diu</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: va, ha, és, van, han, són, està, pot, fa, estan</li>
+      <li>VERB-Fin: té, ha, tenen, fa, considera, cal, vol, tracta, demana, diu</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: la, el, l', les, els, un, meva, una, los, las</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: la, el, l', les, els, un, meva, una, los, las</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</li>
-        <li>PRON: això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</li>
+      <li>PRON: això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</li>
-        <li>PRON: un, una, altres, uns, alguns, res, tots, altra, altre, ningú</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</li>
+      <li>PRON: un, una, altres, uns, alguns, res, tots, altra, altre, ningú</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>DET: quina, quin, quines, quins, quants</li>
-        <li>PRON: com, què, qui, on, quan, quina, quin, quines, quins, quant</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: quina, quin, quines, quins, quants</li>
+      <li>PRON: com, què, qui, on, quan, quina, quin, quines, quins, quant</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</li>
-        <li>PRON: hi, li, ho, els, la, el, l', ens, ell, n'</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</li>
+      <li>PRON: hi, li, ho, els, la, el, l', ens, ell, n'</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>DET: qual, Que</li>
-        <li>PRON: que, on, què, qui, qual, quals, quan, com</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: qual, Que</li>
+      <li>PRON: que, on, què, qui, qual, quals, quan, com</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>DET: tot</li>
-        <li>PRON: tot</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: tot</li>
+      <li>PRON: tot</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: dos, tres, cent, dues, quatre, un, cinc, nou, sis, una</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: dos, tres, cent, dues, quatre, un, cinc, nou, sis, una</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Frac
+    <ul>
+      <li>NUM: cada, 1,1, 10, 15, 161, 17,8/100.000, 26,5/100.000, 3,9, 37,45, 57,9/100.000</li>
+      <li>SYM: %, 50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Frac
-      <ul>
-        <li>NUM: cada, 1,1, 10, 15, 161, 17,8/100.000, 26,5/100.000, 3,9, 37,45, 57,9/100.000</li>
-        <li>SYM: %, 50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: primer, primera, últims, segona, últim, segon, primers, última, tercer, darrers</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: primer, primera, últims, segona, últim, segon, primers, última, tercer, darrers</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Poss</a>
-
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</li>
-        <li>PRON: seu, seus, seva, seves, meva, nostre, nostres</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</li>
+      <li>PRON: seu, seus, seva, seves, meva, nostre, nostres</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: hem, he, estem, vaig, podem, som, sóc, vam, estic, puc</li>
+      <li>DET: nostra, nostre, nostres, meu, meus, meva</li>
+      <li>PRON: ens, nosaltres, em, jo, m', nos, me, mi, 'ns, m</li>
+      <li>VERB-Fin: tenim, crec, volem, sé, tinc, vull, estem, dic, penso, sabem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: hem, he, estem, vaig, podem, som, sóc, vam, estic, puc</li>
-        <li>DET: nostra, nostre, nostres, meu, meus, meva</li>
-        <li>PRON: ens, nosaltres, em, jo, m', nos, me, mi, 'ns, m</li>
-        <li>VERB-Fin: tenim, crec, volem, sé, tinc, vull, estem, dic, penso, sabem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: has, pots, esteu, heu, acabes, ets, feu, gosa, haureu, podeu</li>
+      <li>DET: teu, teus, teva</li>
+      <li>PRON: vostè, et, t', vostès, us, tu, vosaltres, te, vostre</li>
+      <li>VERB-Fin: fas, estrena, voleu, Escolta, Obres, acuses, afirma, aturis, busqueu, cantes</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: has, pots, esteu, heu, acabes, ets, feu, gosa, haureu, podeu</li>
-        <li>DET: teu, teus, teva</li>
-        <li>PRON: vostè, et, t', vostès, us, tu, vosaltres, te, vostre</li>
-        <li>VERB-Fin: fas, estrena, voleu, Escolta, Obres, acuses, afirma, aturis, busqueu, cantes</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
+      <li>DET: seva, seu, seus, seves, su, les</li>
+      <li>PRON: es, s', hi, se, li, ho, els, la, el, l'</li>
+      <li>VERB-Fin: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
-        <li>DET: seva, seu, seus, seves, su, les</li>
-        <li>PRON: es, s', hi, se, li, ho, els, la, el, l'</li>
-        <li>VERB-Fin: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Polite</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Polite</a>
-
-  <ul>
-    <li>Form
-      <ul>
-        <li>PRON: vostè, vostès</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Form
+    <ul>
+      <li>PRON: vostè, vostès</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: nostra, nostre, nostres</li>
+      <li>PRON: nostre, nostres</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: nostra, nostre, nostres</li>
-        <li>PRON: nostre, nostres</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: meu, meus, teu, meva, teus, teva</li>
-        <li>PRON: meva</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: meu, meus, teu, meva, teus, teva</li>
+      <li>PRON: meva</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADJ: igual</li>
-        <li>ADP: de, a, d', en, per, amb, entre, sobre, segons, des</li>
-        <li>ADV: més, juntament, fins, quant, entorn, enllà, enmig, prop, enfront, menys</li>
-      </ul>
-    </li>
-    <li>Preppron
-      <ul>
-        <li>ADP: del, al, dels, als, pel, pels, do, da</li>
-        <li>ADV: més, fins, enfront, entorn, enllà, quant, prop, enmig</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADJ: igual</li>
+          <li>ADP: de, a, d', en, per, amb, entre, sobre, segons, des</li>
+          <li>ADV: més, juntament, fins, quant, entorn, enllà, enmig, prop, enfront, menys</li>
+        </ul>
+      </li>
+      <li>Preppron
+        <ul>
+          <li>ADP: del, al, dels, als, pel, pels, do, da</li>
+          <li>ADV: més, fins, enfront, entorn, enllà, quant, prop, enmig</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>AdvType</a>
-  <ul>
-    <li>Tim
-      <ul>
-        <li>ADV: més</li>
-        <li>NOUN: 1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</li>
-        <li>SYM: 22,7%</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdvType</a>
+    <ul>
+      <li>Tim
+        <ul>
+          <li>ADV: més</li>
+          <li>NOUN: 1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</li>
+          <li>SYM: 22,7%</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NOUN: pessetes, euros, dòlars, PTA, pesseta, euro, dòlar, corones, marcs, pta.</li>
-        <li>NUM: 10, 15, 20, 30, 5, 4, 12, 2, 25, 14</li>
-        <li>SYM: %, 50%, 10%, 30%, 40%, 5%, 25%, 1%, 20%, 2%</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NOUN: pessetes, euros, dòlars, PTA, pesseta, euro, dòlar, corones, marcs, pta.</li>
+          <li>NUM: 10, 15, 20, 30, 5, 4, 12, 2, 25, 14</li>
+          <li>SYM: %, 50%, 10%, 30%, 40%, 5%, 25%, 1%, 20%, 2%</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PunctSide</a>
-  <ul>
-    <li>Fin
-      <ul>
-        <li>PUNCT: ), ?, !, ], (</li>
-      </ul>
-    </li>
-    <li>Ini
-      <ul>
-        <li>PUNCT: (, ¿, ¡, [, ), ]</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PunctSide</a>
+    <ul>
+      <li>Fin
+        <ul>
+          <li>PUNCT: ), ?, !, ], (</li>
+        </ul>
+      </li>
+      <li>Ini
+        <ul>
+          <li>PUNCT: (, ¿, ¡, [, ), ]</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PunctType</a>
-  <ul>
-    <li>Brck
-      <ul>
-        <li>PUNCT: (, )</li>
-      </ul>
-    </li>
-    <li>Colo
-      <ul>
-        <li>PUNCT: :, /</li>
-      </ul>
-    </li>
-    <li>Comm
-      <ul>
-        <li>PUNCT: ,, ..., etc, etcètera, [, ], etc., .</li>
-      </ul>
-    </li>
-    <li>Dash
-      <ul>
-        <li>PUNCT: -, _</li>
-      </ul>
-    </li>
-    <li>Excl
-      <ul>
-        <li>PUNCT: !, ¡</li>
-      </ul>
-    </li>
-    <li>Peri
-      <ul>
-        <li>PUNCT: ., -</li>
-      </ul>
-    </li>
-    <li>Qest
-      <ul>
-        <li>PUNCT: ?, ¿</li>
-      </ul>
-    </li>
-    <li>Quot
-      <ul>
-        <li>PUNCT: "</li>
-      </ul>
-    </li>
-    <li>Semi
-      <ul>
-        <li>PUNCT: ;</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PunctType</a>
+    <ul>
+      <li>Brck
+        <ul>
+          <li>PUNCT: (, )</li>
+        </ul>
+      </li>
+      <li>Colo
+        <ul>
+          <li>PUNCT: :, /</li>
+        </ul>
+      </li>
+      <li>Comm
+        <ul>
+          <li>PUNCT: ,, ..., etc, etcètera, [, ], etc., .</li>
+        </ul>
+      </li>
+      <li>Dash
+        <ul>
+          <li>PUNCT: -, _</li>
+        </ul>
+      </li>
+      <li>Excl
+        <ul>
+          <li>PUNCT: !, ¡</li>
+        </ul>
+      </li>
+      <li>Peri
+        <ul>
+          <li>PUNCT: ., -</li>
+        </ul>
+      </li>
+      <li>Qest
+        <ul>
+          <li>PUNCT: ?, ¿</li>
+        </ul>
+      </li>
+      <li>Quot
+        <ul>
+          <li>PUNCT: "</li>
+        </ul>
+      </li>
+      <li>Semi
+        <ul>
+          <li>PUNCT: ;</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

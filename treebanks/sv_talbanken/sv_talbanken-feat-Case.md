@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-36629 tokens (38%) have a non-empty value of `Case`.
+36628 tokens (38%) have a non-empty value of `Case`.
 12626 types (84%) occur at least once with a non-empty value of `Case`.
 8623 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22429; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8468; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2613; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1733; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1337; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22429; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8468; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2613; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1733; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1336; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
 
 ### `NOUN`
 
@@ -96,12 +96,12 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `PROPN`
 
-1337 <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
+1336 <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (153; 11% of non-empty `Case`): <em>Sveriges, EEC:s, Guds, Stockholms, FN:s, Kristi, KF:s, Parsons, Europas, Jesu</em>
-* `Nom` (1184; 89% of non-empty `Case`): <em>Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</em>
+* `Nom` (1183; 89% of non-empty `Case`): <em>Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</em>
 * `EMPTY` (24): <em>A, AF, B, Belgien, CH, D, DK, Danmark, F, FL</em>
 
 <table>
@@ -127,11 +127,11 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5651; 97%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5652; 97%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2788; 95%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1917; 92%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (941; 81%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (500; 97%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> NOUN</tt> (501; 97%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (485; 100%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (381; 100%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (259; 90%),

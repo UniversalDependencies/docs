@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_bosque-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.418361).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.418721).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -88,7 +88,7 @@ Examples: <em>e, mas, ou, nem, quer, /, mais, &, Como, afinal</em>
 
 `CCONJ` nodes are attached to their parents using 12 different relations: <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (5139; 98% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (73; 1% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="pt_bosque-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pt_bosque-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1891; 36% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1876; 36% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (741; 14% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (421; 8% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (83; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (60; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (16; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1891; 36% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1876; 36% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (741; 14% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (421; 8% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (82; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (60; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (16; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 5150 (98%) `CCONJ` nodes are leaves.
 

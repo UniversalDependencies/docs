@@ -22,14 +22,14 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 advmod	color:blue
-1	Bisher	_	ADV	RB	Degree=Pos	7	advmod	_	_
-2	hatten	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	_
-3	nur	_	ADV	RB	Degree=Pos	4	advmod	_	_
-4	Blogger	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
-5	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Person=3	6	det	_	_
-6	Jets	_	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	_
-7	gesehen	_	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	7	punct	_	_
+1	Bisher	bisher	ADV	RB	Degree=Pos	7	advmod	_	_
+2	hatten	haben	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	_
+3	nur	nur	ADV	RB	Degree=Pos	4	advmod	_	_
+4	Blogger	Blogger	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
+5	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Person=3	6	det	_	_
+6	Jets	Jets	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	7	obj	_	_
+7	gesehen	sehen	VERB	VBN	Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -40,19 +40,19 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 advmod	color:blue
-1	Was	_	PRON	WP	Case=Acc|Person=3	3	obj	_	_
-2	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
-3	sagt	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	und	_	CCONJ	CC	_	7	cc	_	_
-5	was	_	PRON	WP	Case=Acc|Person=3	7	obj	_	_
-6	sie	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
-7	tut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
-8	-	_	PUNCT	-	_	12	punct	_	_
-9	eigentlich	_	ADV	RB	Degree=Pos	12	advmod	_	_
-10	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-11	es	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
-12	unglaublich	_	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	3	punct	_	_
+1	Was	was	PRON	WP	Case=Acc|Person=3	3	obj	_	_
+2	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	_	_
+3	sagt	sagen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	und	und	CCONJ	CC	_	7	cc	_	_
+5	was	was	PRON	WP	Case=Acc|Person=3	7	obj	_	_
+6	sie	sie	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+7	tut	tun	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+8	-	-	PUNCT	-	_	12	punct	_	_
+9	eigentlich	eigentlich	ADV	RB	Degree=Pos	12	advmod	_	_
+10	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+11	es	es	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
+12	unglaublich	unglaublich	ADJ	JJ	Degree=Pos	3	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
@@ -63,13 +63,13 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 advmod	color:blue
-1	Manchmal	_	ADV	RB	Degree=Pos	6	advmod	_	_
-2	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-3	das	_	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	_
-4	wie	_	CCONJ	CC	_	6	cc	_	_
-5	eine	_	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	6	det	_	_
-6	Superkraft	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No
-7	.	_	PUNCT	.	_	6	punct	_	_
+1	Manchmal	manchmal	ADV	RB	Degree=Pos	6	advmod	_	_
+2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+3	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	_
+4	wie	wie	CCONJ	CC	_	6	cc	_	_
+5	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	6	det	_	_
+6	Superkraft	Superkraft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

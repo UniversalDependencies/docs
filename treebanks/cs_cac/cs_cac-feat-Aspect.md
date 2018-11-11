@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (17153; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
 * `Perf` (7803; 31% of non-empty `Aspect`): <em>zajistit, podařilo, vytvořit, vyjádřit, vysvětlit, získat, stanoví, viz, splnit, odstranit</em>
-* `EMPTY` (15634): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (15635): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3008) occur only with one value of `Aspect`.
 

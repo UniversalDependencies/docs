@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `INTJ`
 
 There are 30 `INTJ` lemmas (3%), 30 `INTJ` types (3%) and 207 `INTJ` tokens (2%).
-Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ah, eh, no, ehn, okay, ehen, wa, a'ah, "uh", em</em>
 

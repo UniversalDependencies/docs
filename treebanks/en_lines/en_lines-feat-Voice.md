@@ -23,7 +23,12 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1064; 100% of non-empty `Voice`): <em>made, used, displayed, based, done, taken, created, given, hidden, put</em>
-* `EMPTY` (8800): <em>was, said, do, know, had, have, see, is, going, make</em>
+* `EMPTY` (8799): <em>was, said, do, know, had, have, see, is, going, make</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (482) occur only with one value of `Voice`.
+
+## Relations with Agreement in `Voice`
+
+The 10 most frequent relations where parent and child node agree in `Voice`:
+<tt>VERB --[<tt><a href="en_lines-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%).
 

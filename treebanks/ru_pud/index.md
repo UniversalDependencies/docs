@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Russian PUD
 
-Language: [Russian](../ru/overview/ru-hub.html) (code: `ru`)<br/>
+Language: [Russian](/ru/index.html) (code: `ru`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Tatiana Lando, Olga Loginova, Martin Popel, Daniel Zeman, Kira Droganova.
 
 Repository: [UD_Russian-PUD](https://github.com/UniversalDependencies/UD_Russian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 3.0
 
@@ -33,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually, natively in UD style |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -81,25 +82,25 @@ employ ten-fold cross-validation.
 
 ## POS Tags
 
-[ADJ](ru_pud-pos-ADJ.html) – [ADP](ru_pud-pos-ADP.html) – [ADV](ru_pud-pos-ADV.html) – [AUX](ru_pud-pos-AUX.html) – [CCONJ](ru_pud-pos-CCONJ.html) – [DET](ru_pud-pos-DET.html) – [NOUN](ru_pud-pos-NOUN.html) – [NUM](ru_pud-pos-NUM.html) – [PART](ru_pud-pos-PART.html) – [PRON](ru_pud-pos-PRON.html) – [PROPN](ru_pud-pos-PROPN.html) – [PUNCT](ru_pud-pos-PUNCT.html) – [SCONJ](ru_pud-pos-SCONJ.html) – [SYM](ru_pud-pos-SYM.html) – [VERB](ru_pud-pos-VERB.html) – [X](ru_pud-pos-X.html)
+[ADJ](ru_pud-pos-ADJ.html) – [ADP](ru_pud-pos-ADP.html) – [ADV](ru_pud-pos-ADV.html) – [AUX](ru_pud-pos-AUX.html) – [CCONJ](ru_pud-pos-CCONJ.html) – [DET](ru_pud-pos-DET.html) – [INTJ](ru_pud-pos-INTJ.html) – [NOUN](ru_pud-pos-NOUN.html) – [NUM](ru_pud-pos-NUM.html) – [PART](ru_pud-pos-PART.html) – [PRON](ru_pud-pos-PRON.html) – [PROPN](ru_pud-pos-PROPN.html) – [PUNCT](ru_pud-pos-PUNCT.html) – [SCONJ](ru_pud-pos-SCONJ.html) – [SYM](ru_pud-pos-SYM.html) – [VERB](ru_pud-pos-VERB.html) – [X](ru_pud-pos-X.html)
 
 ## Features
 
-[Animacy](ru_pud-feat-Animacy.html) – [Aspect](ru_pud-feat-Aspect.html) – [Case](ru_pud-feat-Case.html) – [Foreign](ru_pud-feat-Foreign.html) – [Gender](ru_pud-feat-Gender.html) – [Gender[psor]](ru_pud-feat-Gender-psor.html) – [Mood](ru_pud-feat-Mood.html) – [Number](ru_pud-feat-Number.html) – [Number[psor]](ru_pud-feat-Number-psor.html) – [Person](ru_pud-feat-Person.html) – [Polarity](ru_pud-feat-Polarity.html) – [PronType](ru_pud-feat-PronType.html) – [Reflex](ru_pud-feat-Reflex.html) – [Tense](ru_pud-feat-Tense.html) – [Variant](ru_pud-feat-Variant.html) – [VerbForm](ru_pud-feat-VerbForm.html) – [Voice](ru_pud-feat-Voice.html)
+[Animacy](ru_pud-feat-Animacy.html) – [Aspect](ru_pud-feat-Aspect.html) – [Case](ru_pud-feat-Case.html) – [Degree](ru_pud-feat-Degree.html) – [Foreign](ru_pud-feat-Foreign.html) – [Gender](ru_pud-feat-Gender.html) – [Gender[psor]](ru_pud-feat-Gender-psor.html) – [Mood](ru_pud-feat-Mood.html) – [Number](ru_pud-feat-Number.html) – [Number[psor]](ru_pud-feat-Number-psor.html) – [Person](ru_pud-feat-Person.html) – [Polarity](ru_pud-feat-Polarity.html) – [PronType](ru_pud-feat-PronType.html) – [Reflex](ru_pud-feat-Reflex.html) – [Tense](ru_pud-feat-Tense.html) – [Variant](ru_pud-feat-Variant.html) – [VerbForm](ru_pud-feat-VerbForm.html) – [Voice](ru_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](ru_pud-dep-acl.html) – [acl:relcl](ru_pud-dep-acl-relcl.html) – [advcl](ru_pud-dep-advcl.html) – [advmod](ru_pud-dep-advmod.html) – [amod](ru_pud-dep-amod.html) – [appos](ru_pud-dep-appos.html) – [aux](ru_pud-dep-aux.html) – [aux:pass](ru_pud-dep-aux-pass.html) – [case](ru_pud-dep-case.html) – [cc](ru_pud-dep-cc.html) – [cc:preconj](ru_pud-dep-cc-preconj.html) – [ccomp](ru_pud-dep-ccomp.html) – [compound](ru_pud-dep-compound.html) – [conj](ru_pud-dep-conj.html) – [cop](ru_pud-dep-cop.html) – [csubj](ru_pud-dep-csubj.html) – [csubj:pass](ru_pud-dep-csubj-pass.html) – [det](ru_pud-dep-det.html) – [discourse](ru_pud-dep-discourse.html) – [expl](ru_pud-dep-expl.html) – [fixed](ru_pud-dep-fixed.html) – [flat](ru_pud-dep-flat.html) – [goeswith](ru_pud-dep-goeswith.html) – [iobj](ru_pud-dep-iobj.html) – [mark](ru_pud-dep-mark.html) – [nmod](ru_pud-dep-nmod.html) – [nmod:gmod](ru_pud-dep-nmod-gmod.html) – [nmod:poss](ru_pud-dep-nmod-poss.html) – [nsubj](ru_pud-dep-nsubj.html) – [nsubj:pass](ru_pud-dep-nsubj-pass.html) – [nummod](ru_pud-dep-nummod.html) – [obj](ru_pud-dep-obj.html) – [obl](ru_pud-dep-obl.html) – [obl:tmod](ru_pud-dep-obl-tmod.html) – [orphan](ru_pud-dep-orphan.html) – [parataxis](ru_pud-dep-parataxis.html) – [punct](ru_pud-dep-punct.html) – [root](ru_pud-dep-root.html) – [vocative](ru_pud-dep-vocative.html) – [xcomp](ru_pud-dep-xcomp.html)
+[acl](ru_pud-dep-acl.html) – [acl:relcl](ru_pud-dep-acl-relcl.html) – [advcl](ru_pud-dep-advcl.html) – [advmod](ru_pud-dep-advmod.html) – [amod](ru_pud-dep-amod.html) – [appos](ru_pud-dep-appos.html) – [aux](ru_pud-dep-aux.html) – [aux:pass](ru_pud-dep-aux-pass.html) – [case](ru_pud-dep-case.html) – [cc](ru_pud-dep-cc.html) – [ccomp](ru_pud-dep-ccomp.html) – [compound](ru_pud-dep-compound.html) – [conj](ru_pud-dep-conj.html) – [cop](ru_pud-dep-cop.html) – [csubj](ru_pud-dep-csubj.html) – [det](ru_pud-dep-det.html) – [discourse](ru_pud-dep-discourse.html) – [expl](ru_pud-dep-expl.html) – [fixed](ru_pud-dep-fixed.html) – [flat](ru_pud-dep-flat.html) – [flat:foreign](ru_pud-dep-flat-foreign.html) – [flat:name](ru_pud-dep-flat-name.html) – [goeswith](ru_pud-dep-goeswith.html) – [iobj](ru_pud-dep-iobj.html) – [mark](ru_pud-dep-mark.html) – [nmod](ru_pud-dep-nmod.html) – [nsubj](ru_pud-dep-nsubj.html) – [nsubj:pass](ru_pud-dep-nsubj-pass.html) – [nummod](ru_pud-dep-nummod.html) – [nummod:gov](ru_pud-dep-nummod-gov.html) – [obj](ru_pud-dep-obj.html) – [obl](ru_pud-dep-obl.html) – [orphan](ru_pud-dep-orphan.html) – [parataxis](ru_pud-dep-parataxis.html) – [punct](ru_pud-dep-punct.html) – [root](ru_pud-dep-root.html) – [vocative](ru_pud-dep-vocative.html) – [xcomp](ru_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 19449 tokens and 19451 syntactic words.</li>
+<li>This corpus contains 1000 sentences and 19362 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2994 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 2942 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -107,12 +108,10 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: н., из-за, э., г., гг., что-то, 1960-х, 1970-х, е., по-другому, т., 1980-х, 1990-х, Wi-Fi, Жолио-Кюри, Юго-Восточной, г-жа, г-жи, какое-либо, кто-то, премьер-министр, сколько-нибудь, 10-недельный, 1350-е, 16-го, 1950-е, 1960-е, 2000-х, 28-летняя, 3-го, 31-го, 4-м, 45-го, 53-летнюю, 66-процентное, 8-м, 96-м, Didn't, E., Zettel’s, А​з​и​а​т​с​к​о​-​Т​и​х​о​о​к​е​а​н​с​к​о​м, Беверли-Хиллз, Богдо-гэгэн, Богдо-гэгэна, Богдо-гэгэне, Буэнос-Айреса, Вест-Индию, Во-первых, Восточно-Африканский, Г-н</li>
+<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: н., из-за, э., г., гг., что-то, 1960-х, 1970-х, е., по-другому, т., 1980-х, 1990-х, Wi-Fi, Жолио-Кюри, Юго-Восточной, г-жа, г-жи, какое-либо, кто-то, премьер-министр, сколько-нибудь, 10-недельный, 1350-е, 16-го, 1950-е, 1960-е, 2000-х, 28-летняя, 3-го, 31-го, 4-м, 45-го, 53-летнюю, 66-процентное, 8-м, 96-м, B-29, Didn't, E., Zettel’s, А​з​и​а​т​с​к​о​-​Т​и​х​о​о​к​е​а​н​с​к​о​м, Беверли-Хиллз, Богдо-гэгэн, Богдо-гэгэна, Богдо-гэгэне, Буэнос-Айреса, Вест-Индию, Во-первых, Восточно-Африканский</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 2 types of multi-word tokens. Examples: «, “».</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -120,32 +119,31 @@ employ ten-fold cross-validation.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: INTJ</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
-<li>This corpus contains 12 word types tagged as particles (PART): Даже, Только, бы, ведь, же, и, именно, ли, лишь, не, ни, это</li>
+<li>This corpus contains 15 word types tagged as particles (PART): Даже, Только, бы, ведь, вот, всего, же, и, именно, конечно, ли, лишь, не, ни, это</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 25 lemmas tagged as pronouns (PRON): все, вы, его, ее, который, кто, кто-то, мы, он, она, они, оно, прочим, себя, т., такой, то, того, ты, чем, что, что-то, это, этот, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): a, больше, весь, все, всего, всякий, его, ее, их, каждый, каков, какой, какой-либо, который, любой, мало, много, мой, н., наш, некоторый, немного, никакой, он, они, свой, сей, сих, таким, такой, тем, то, того, том, тот, чей, это, этот</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: все, его, ее, который, он, они, такой, то, того, это, этот</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): быть, начать, являться</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: быть, начать, являться</li>
 </ul>
 
 <ul>
@@ -155,8 +153,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: быть</li>
-    <li>VERB: отправлять, вернуться, держать, доставлять, достичь, задать, изготавливать, найти, находить, определить</li>
+    <li>VERB: отправлять, быть, вернуться, держать, доставлять, достичь, задать, изготавливать, найти, находить</li>
   </ul>
   </li>
 </ul>
@@ -165,8 +162,8 @@ employ ten-fold cross-validation.
   <li>Part
   <ul>
     <li>ADJ: распространенных</li>
-    <li>AUX: будучи, ставшего</li>
-    <li>VERB: включая, используя, начиная, играя, потраченное, выращенных, изменив, оставшихся, построив, сделанных</li>
+    <li>VERB: включая, будучи, используя, начиная, играя, потраченное, Соединенные, Соединенных, выращенных, изменив</li>
+    <li>X: Associated, Breaking</li>
   </ul>
   </li>
 </ul>
@@ -184,12 +181,14 @@ employ ten-fold cross-validation.
       <li>ADJ: первой, Северной, крайней, другой, южной, большая, новой, южная, американской, большой</li>
       <li>AUX: была, начала</li>
       <li>DET: своей, которая, н., этой, свою, эта, которой, эту, всей, которую</li>
-      <li>NOUN: компании, часть, войны, жизни, истории, страны, мере, части, э, э.</li>
-      <li>NUM: две, одной, одну, 5000, 3000, двумя, обе, одна, 6000, one</li>
-      <li>PRON: она, ее, ей, нее, ней, My, ею, которая, неё</li>
-      <li>PROPN: Великобритании, Америки, Италии, войны, Австралии, Европы, Клинтон, империи, Америке, Англии</li>
+      <li>NOUN: войны, компании, часть, страны, жизни, истории, мере, части, э., партии</li>
+      <li>NUM: две, одной, одну, 5000, двумя, обе, одна, 3, 3000, 5</li>
+      <li>PRON: она, ее, ей, нее, ней, ею, которая, неё</li>
+      <li>PROPN: Великобритании, Америки, Италии, Австралии, Европы, Клинтон, Америке, Англии, Германии, Македонии</li>
       <li>VERB: была, сказала, привела, стала, могла, началась, показала, сыграла, вернулась, включала</li>
-      <li>VERB-Part: Associated, Сведенная, Сформированная, включавшую, воображаемая, выражаемую, вырезанная, доминирующей, закаленная, извивающейся</li>
+      <li>VERB-Part: Сведенная, Сформированная, включавшую, воображаемая, выражаемую, вырезанная, доминирующей, закаленная, извивающейся, имеющую</li>
+      <li>X: BBC, CNN, A, Agora, Amnesty, Apple, Associated, Asty, Athina, Australia</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -197,17 +196,17 @@ employ ten-fold cross-validation.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: I, III, каждый, новый, первого, последний, самым, таким, 8, большой</li>
+      <li>ADJ: I, III, новый, первого, последний, самым, 8, большой, британский, бывший</li>
       <li>ADV: больше</li>
-      <li>AUX: был, ставшего, стал</li>
-      <li>AUX-Part: ставшего</li>
-      <li>DET: который, этот, этого, тот, том, этом, своего, котором, всему, мой</li>
-      <li>NOUN: году, года, лет, людей, города, результате, человек, века, год, люди</li>
+      <li>AUX: был</li>
+      <li>DET: который, этот, этого, тот, том, этом, своего, котором, свой, всему</li>
+      <li>NOUN: году, года, лет, людей, города, результате, века, человек, год, люди</li>
       <li>NUM: один, двух, два, одного, 2014, 2015, 1, 1492, 2012, 2013</li>
       <li>PRON: он, его, кто, ему, него, им, кого, нем, ним, кто-то</li>
-      <li>PROPN: США, октября, Китай, июле, Ахеменидов, Даневирке, Китая, Трампа, август, апреле</li>
+      <li>PROPN: США, Китай, Ахеменидов, Даневирке, Китая, Трампа, де, Гонконг, Джон, Джордж</li>
       <li>VERB: был, сказал, заявил, стал, принял, начал, мог, получил, жил, оставался</li>
       <li>VERB-Part: Вышедший, Обладающий, Спешивший, аннексированном, бегущим, верующим, выжившим, вызывающий, живущим, зарегистрированный</li>
+      <li>X: Facebook, Film, RECO, Spotify, Twitter, Uber, Wi-Fi, Academy, Adidas, Assistant</li>
     </ul>
   </li>
 </ul>
@@ -216,16 +215,17 @@ employ ten-fold cross-validation.
   <li>Neut
     <ul>
       <li>ADJ: самое, самым, должно, самом, 1, большое, возможно, настоящее, 21, Карибское</li>
-      <li>AUX: было, стало</li>
-      <li>DET: это, того, то, тем, том, этого, которое, все, этом, всего</li>
-      <li>NOUN: время, течение, качестве, влияние, основном, внимание, место, начале, имя, правительство</li>
+      <li>AUX: было</li>
+      <li>DET: это, того, то, том, которое, тем, этого, все, всего, этом</li>
+      <li>NOUN: время, течение, качестве, влияние, море, основном, внимание, место, начале, имя</li>
       <li>NUM: 30, 31, 1, 10, 19, 20, 21, 25, 27, 4</li>
       <li>PART: это</li>
-      <li>PRON: что, что-то, того, чего, то, чем, всего, его, оно, т.</li>
-      <li>PROPN: море, моря, Онтарио, воскресенье, здравоохранения, соглашения, DPA, GEMA, Heart, Hispania</li>
+      <li>PRON: это, что, то, что-то, того, чего, его, т., чем, все</li>
+      <li>PROPN: Онтарио, Средиземноморью, Амурру, Загорья, Закавказье, Килиманджаро, Конго, Корё, Ляо, МГБ</li>
       <li>SCONJ: чем, что, тем</li>
-      <li>VERB: было, стало, позволило, привело, удалось, началось, получило, потраченное, произошло, имело</li>
-      <li>VERB-Part: потраченное, Ухудшающееся, включающее, возглавляемое, вызывающего, заключенному, изменяющего, найденное, находящееся, обеспечивающим</li>
+      <li>VERB: было, стало, позволило, привело, удалось, началось, получило, потраченное, произошло, Соединенные</li>
+      <li>VERB-Part: потраченное, Соединенные, Соединенных, Соединенным, Ухудшающееся, включающее, возглавляемое, вызывающего, заключенного, изменяющего</li>
+      <li>X: DPA, GEMA, Heart, Hispania, IRENA, Zay</li>
     </ul>
   </li>
 </ul>
@@ -237,16 +237,16 @@ employ ten-fold cross-validation.
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: многие, должны, I, некоторые, III, другие, другими, других, первой, IV</li>
+      <li>ADJ: многие, должны, I, III, другие, другими, других, первой, IV, Камберлендский</li>
       <li>ADV: больше</li>
-      <li>AUX-Part: ставшего</li>
-      <li>DET: которые, который, тех, тот, все, всех, которая, которому, много, теми</li>
-      <li>NOUN: людей, человек, люди, детей, жителей, императора, президента, режиссера, агентов, жена</li>
-      <li>NUM: один, одного, Четверо, двое, двух, оба, одна, одним, два, двоих</li>
-      <li>PRON: кто, кто-то, кого, кого-то</li>
+      <li>DET: которые, который, некоторые, тех, тот, которая, которому, теми, Никаким, Этот</li>
+      <li>NOUN: людей, человек, люди, детей, жителей, императора, представителей, президента, режиссера, агентов</li>
+      <li>NUM: один, одного, Четверо, двое, двух, нескольких, оба, одна, одним, два</li>
+      <li>PRON: кто, кто-то, все, всех, кого, кого-то</li>
       <li>PROPN: Клинтон, Ахеменидов, Трамп, Трампа, де, Блант, Валентино, Джон, Джордж, Жасмин</li>
       <li>VERB: Живущие, Лишившиеся, Обладающий, Спешивший, боящихся, ведомые, верующим, воюющих, выжившим, вынужден</li>
       <li>VERB-Part: Живущие, Лишившиеся, Обладающий, Спешивший, боящихся, ведомые, верующим, воюющих, выжившим, высланные</li>
+      <li>X: Brands, Father, Keira, Kiera, LaBrocca, Laurent, Monster, SPIEGEL, Saint, Stage</li>
     </ul>
   </li>
 </ul>
@@ -254,18 +254,20 @@ employ ten-fold cross-validation.
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: такие, другие, новые, последние, таких, Северной, большой, другой, крайней, новых</li>
+      <li>ADJ: другие, новые, последние, Северной, большой, другой, крайней, новых, первой, самым</li>
       <li>ADJ-Part: распространенных</li>
       <li>ADV: больше, много, мало, немного</li>
-      <li>DET: это, того, которые, который, то, этот, этого, том, которая, несколько</li>
-      <li>NOUN: году, года, время, лет, города, результате, компании, течение, часть, войны</li>
-      <li>NUM: две, три, двух, одной, 1, 2014, 2015, 3, два, четыре</li>
-      <li>PART: это</li>
-      <li>PRON: что, что-то, того, чего, то, чем, всего, т., это, которая</li>
-      <li>PROPN: США, октября, море, Великобритании, Америки, Италии, Китай, войны, Австралии, Европы</li>
+      <li>DET: это, того, которые, который, этот, то, том, этого, которая, этой</li>
+      <li>NOUN: году, года, время, лет, войны, города, компании, результате, течение, века</li>
+      <li>NUM: несколько, две, три, двух, одной, 3, 1, 2014, 2015, два</li>
+      <li>PART: всего, это</li>
+      <li>PRON: это, что, то, что-то, того, чего, т., чем, все, всего</li>
+      <li>PROPN: США, Великобритании, Америки, Италии, Китай, Австралии, Европы, Онтарио, Америке, Англии</li>
       <li>SCONJ: чем, что, тем</li>
       <li>VERB: использованы, потраченное, расположены, включены, выращенных, закрыт, написано, объявлен, оставшихся, позволено</li>
-      <li>VERB-Part: потраченное, выращенных, оставшихся, сделанных, сформированным, Associated, Вышедший, Загрязняющие, Сведенная, Сформированная</li>
+      <li>VERB-Part: потраченное, выращенных, оставшихся, сделанных, сформированным, Вышедший, Загрязняющие, Сведенная, Сформированная, Ухудшающееся</li>
+      <li>X: BBC, CNN, Facebook, Film, RECO, Spotify, The, Twitter, Uber, Wi-Fi</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -277,17 +279,19 @@ employ ten-fold cross-validation.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: другие, многие, такие, других, новые, некоторые, новых, последние, таких, должны</li>
+      <li>ADJ: другие, многие, других, новые, новых, последние, должны, такие, последних, гражданских</li>
       <li>ADJ-Part: распространенных</li>
       <li>ADV: больше, много, мало, немного</li>
-      <li>AUX: были, стали, бывают, являются</li>
-      <li>DET: которые, несколько, свои, всех, которых, много, эти, все, своих, этих</li>
+      <li>AUX: были, будут, являются</li>
+      <li>DET: которые, свои, которых, некоторые, эти, всех, своих, этих, все, такие</li>
       <li>NOUN: лет, людей, люди, долларов, фунтов, детей, жителей, месяцев, человек, войска</li>
-      <li>NUM: 5000, 3000, 6000, нескольких, несколько</li>
+      <li>NUM: несколько, нескольких, 5000, много, 3, 3000, 5, 6000, больше, нескольким</li>
+      <li>PART: всего</li>
       <li>PRON: они, мы, них, вы, их, нас, ними, нам, вас, им</li>
-      <li>PROPN: США, Ахеменидов, Альпы, Штаты, B, BA, Brands, Forums, Humblebums, Investors</li>
-      <li>VERB: были, могут, будут, получили, можем, являются, включают, есть, имели, имеют</li>
+      <li>PROPN: США, Ахеменидов, Альпы, B-29, Альпах, Анд, Андам, Анды, Афинах, Афины</li>
+      <li>VERB: были, могут, получили, стали, можем, являются, включают, есть, имели, имеют</li>
       <li>VERB-Part: выращенных, оставшихся, сделанных, Живущие, Загрязняющие, Лишившиеся, Финансируемые, боящихся, вдохновленные, ведомые</li>
+      <li>X: American, BA, Brands, Forums, Humblebums, Investors, Motors, News, Records</li>
     </ul>
   </li>
 </ul>
@@ -297,17 +301,18 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: первой, самым, Северной, большой, другой, крайней, южной, I, III, большая</li>
       <li>ADV: больше</li>
-      <li>AUX: был, была, было, является, стало, будет, есть, начала, появляется, ставшего</li>
-      <li>AUX-Part: ставшего</li>
-      <li>DET: это, который, того, этот, то, этого, своей, том, которая, н.</li>
-      <li>NOUN: году, года, время, результате, течение, компании, часть, войны, города, качестве</li>
+      <li>AUX: был, было, будет, была, является, буду, начала</li>
+      <li>DET: это, который, того, этот, своей, то, которая, н., том, этого</li>
+      <li>NOUN: году, года, время, войны, результате, компании, течение, часть, века, города</li>
       <li>NUM: один, одной, одного, 1, 2014, 2015, одним, 1492, 2012, 2013</li>
       <li>PART: это</li>
-      <li>PRON: он, она, я, его, ее, мне, ему, него, ей, меня</li>
-      <li>PROPN: октября, море, Великобритании, Америки, Италии, Китай, Клинтон, войны, Австралии, Европы</li>
+      <li>PRON: он, она, это, я, его, ее, мне, ему, него, ей</li>
+      <li>PROPN: Великобритании, Америки, Италии, Китай, Клинтон, Австралии, Европы, Онтарио, Америке, Англии</li>
       <li>SCONJ: тем</li>
-      <li>VERB: был, было, может, будет, является, была, сказал, говорит, заявил, находится</li>
-      <li>VERB-Part: потраченное, Associated, Вышедший, Обладающий, Сведенная, Спешивший, Сформированная, Ухудшающееся, аннексированном, бегущим</li>
+      <li>VERB: был, может, было, является, сказал, была, говорит, стало, заявил, находится</li>
+      <li>VERB-Part: потраченное, Соединенные, Соединенных, Вышедший, Обладающий, Сведенная, Соединенным, Спешивший, Сформированная, Ухудшающееся</li>
+      <li>X: BBC, CNN, Facebook, Film, RECO, Spotify, The, Twitter, Uber, Wi-Fi</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -320,15 +325,15 @@ employ ten-fold cross-validation.
   <li>Acc
     <ul>
       <li>ADJ: последние, большую, значительную, настоящее, новые, собственные, среднюю, III, Национальное, Северное</li>
-      <li>AUX-Part: ставшего</li>
-      <li>DET: это, то, свои, его, свою, этот, которые, эту, все, которую</li>
+      <li>DET: то, свои, это, его, свою, этот, которые, эту, которую, который</li>
       <li>NOUN: время, течение, день, место, период, влияние, внимание, раз, людей, решение</li>
       <li>NUM: 1,5, две, десять, шесть, два, три, 1,335, 10, восемь, одну</li>
-      <li>PRON: его, себя, ее, их, что, что-то, меня, нас, My, вас</li>
-      <li>PROPN: воскресенье, вторник, Антарктиду, Германию, Герцля, Европу, Киплинга, Моравию, Ричарда, август</li>
+      <li>PRON: его, себя, ее, это, их, что, что-то, меня, нас, то</li>
+      <li>PROPN: Антарктиду, Германию, Герцля, Европу, Киплинга, Моравию, Ричарда, Абакумова, Австралию, Австрию</li>
       <li>SCONJ: что</li>
       <li>VERB: потраченное, вдохновленные, включавшую, выражаемую, имеющих, имеющую, используемые, любящую, называемую, найденное</li>
       <li>VERB-Part: потраченное, вдохновленные, включавшую, выражаемую, имеющих, имеющую, используемые, называемую, найденное, населяющих</li>
+      <li>X: My, EMicro, ExxonMobil, Ford, GIF, GM, Head, Heart, Me, Plaza</li>
     </ul>
   </li>
 </ul>
@@ -337,12 +342,13 @@ employ ten-fold cross-validation.
   <li>Dat
     <ul>
       <li>ADJ: крайней, политическим, новому, самой, электронной, 24, 352, III, Голландским, Католическому</li>
-      <li>DET: всему, этому, его, этой, их, которому, своей, своим, El, всей</li>
-      <li>NOUN: мере, году, данным, правительству, миру, поводу, причине, росту, сравнению, стране</li>
-      <li>NUM: 45, одному, 1340, 1563, 2007, 2009, 2050, двум</li>
-      <li>PRON: мне, ему, ей, нам, им, себе, Вам, нему</li>
-      <li>PROPN: CNN, Мартину, недвижимости, BBC, Brands, Mundo, Slate, Style, Yum, Альваресу</li>
-      <li>VERB-Part: возобновляемым, заключенному, извивающейся, имеющимся, называемым, открытому, развивающемуся, следящим, собравшейся, сформированным</li>
+      <li>DET: всему, его, этой, этому, их, которому, своей, своим, Никаким, всей</li>
+      <li>NOUN: мере, году, данным, правительству, миру, недвижимости, поводу, причине, росту, сравнению</li>
+      <li>NUM: 45, одному, 1340, 1563, 2007, 2009, 2050, двум, нескольким</li>
+      <li>PRON: мне, ему, ей, нам, им, себе, Вам, нему, этому</li>
+      <li>PROPN: Мартину, Средиземноморью, Альваресу, Америке, Андам, Библии, Боемер, Брекзиту, Британии, Галактике</li>
+      <li>VERB-Part: Соединенным, возобновляемым, заключенного, извивающейся, имеющимся, называемым, открытому, развивающемуся, следящим, собравшейся</li>
+      <li>X: CNN, BBC, Brands, El, Mundo, Slate, Style, Yum</li>
     </ul>
   </li>
 </ul>
@@ -350,16 +356,18 @@ employ ten-fold cross-validation.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: новых, других, таких, первой, другой, гражданских, нового, первого, последних, самых</li>
+      <li>ADJ: новых, других, первой, другой, гражданских, нового, первого, последних, самых, 1</li>
       <li>ADJ-Part: распространенных</li>
       <li>ADV: больше, много, мало, немного</li>
-      <li>DET: того, этого, н., его, ее, несколько, много, их, этих, больше</li>
-      <li>NOUN: года, лет, войны, города, людей, компании, века, долларов, жизни, э</li>
-      <li>NUM: десяти, двух, 20, одного, шести, 10, 2012, 2015, 30, одной</li>
-      <li>PRON: них, него, того, чего, нас, всего, кого, меня, нее, вас</li>
-      <li>PROPN: США, октября, Америки, войны, Европы, Австралии, Англии, Ахеменидов, Великобритании, Китая</li>
-      <li>VERB: выращенных, оставшихся, сделанных, боящихся, включавших, возникающих, воюющих, вступивших, вызывающего, выкуренных</li>
-      <li>VERB-Part: выращенных, оставшихся, сделанных, боящихся, включавших, возникающих, воюющих, вступивших, вызывающего, выкуренных</li>
+      <li>DET: того, н., этого, его, ее, их, этих, всего, всех, которых</li>
+      <li>NOUN: года, лет, войны, века, города, людей, компании, долларов, жизни, октября</li>
+      <li>NUM: несколько, десяти, двух, 20, одного, шести, 10, 2012, 2015, 3</li>
+      <li>PART: всего</li>
+      <li>PRON: них, него, того, чего, нас, всего, кого, меня, нее, этого</li>
+      <li>PROPN: США, Америки, Европы, Австралии, Англии, Ахеменидов, Великобритании, Китая, Македонии, Онтарио</li>
+      <li>VERB: Соединенных, выращенных, оставшихся, сделанных, боящихся, включавших, возникающих, воюющих, вступивших, вызывающего</li>
+      <li>VERB-Part: Соединенных, выращенных, оставшихся, сделанных, боящихся, включавших, возникающих, воюющих, вступивших, вызывающего</li>
+      <li>X: Avro, Bass, CNN, CTV, Energy, Forums, GEMA, Hack, Investors, Laurent</li>
     </ul>
   </li>
 </ul>
@@ -367,15 +375,16 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: самым, главным, другими, таким, большим, главной, живыми, последним, американской, большой</li>
-      <li>DET: тем, его, своей, ее, которыми, своими, этим, их, которым, своим</li>
-      <li>NOUN: образом, помощью, президентом, целью, источником, компанией, людьми, местом, названием, народом</li>
-      <li>NUM: одним, двумя, одной, 34, пятью, 1991, 1997, 2004, 2006, тремя</li>
-      <li>PRON: собой, ними, им, ним, ею, ими, ней, прочим, чем</li>
-      <li>PROPN: CBC, Siri, YouTube, Автостопом, Азией, Албанией, Аткинсоном, Ауном, Аустерлицем, Брантом</li>
+      <li>ADJ: самым, главным, другими, большим, главной, живыми, последним, американской, большой, важным</li>
+      <li>DET: тем, его, своей, которыми, своими, ее, их, которым, своим, таким</li>
+      <li>NOUN: образом, помощью, президентом, судом, целью, источником, компанией, контролем, людьми, местом</li>
+      <li>NUM: одним, двумя, одной, 34, пятью, 1991, 1997, 2004, 2006, несколькими</li>
+      <li>PRON: собой, ними, им, ним, тем, этим, ею, ими, ней, прочим</li>
+      <li>PROPN: Азией, Албанией, Аткинсоном, Ауном, Аустерлицем, Брантом, Брестедом, Британией, Валентино, Ваттом</li>
       <li>SCONJ: чем, тем</li>
       <li>VERB: бегущим, верующим, вовлеченным, выжившим, доминирующей, живущим, занимающимися, обеспечивающим, оказавшей, оставшейся</li>
       <li>VERB-Part: бегущим, верующим, выжившим, доминирующей, живущим, занимающимися, обеспечивающим, оказавшей, оставшейся, подтверждающим</li>
+      <li>X: CBC, Siri, YouTube</li>
     </ul>
   </li>
 </ul>
@@ -383,8 +392,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Loc
     <ul>
-      <li>NOUN: году, г., борту, аэропорту, берегу, бою, виду, воспрепятствовании, г, слуху</li>
-      <li>PROPN: Крыму</li>
+      <li>ADJ: 1980-х, 1990-х, 96-м, А​з​и​а​т​с​к​о​-​Т​и​х​о​о​к​е​а​н​с​к​о​м, Юго-Восточной, н​а​у​ч​н​о​-​ф​а​н​т​а​с​т​и​ч​е​с​к​о​м, северо-западной, южно-саамском</li>
+      <li>NOUN: году, г., борту, аэропорту, берегу, бизнес-школе, бою, виду, воспрепятствовании, г</li>
+      <li>PROPN: Австралии, Беверли-Хиллз, Крыму, Лос-Анжелесе, Монте-Карло, Пунта-Раса, Пунта-дель-Эсте, Пуэрто-Рико, Сесто-Сан-Джованни, Уолл-стрит</li>
     </ul>
   </li>
 </ul>
@@ -392,15 +402,17 @@ employ ten-fold cross-validation.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: такие, многие, другие, некоторые, должны, новые, большая, южная, должно, каждый</li>
-      <li>DET: это, которые, который, его, которая, этот, все, их, которое, эта</li>
+      <li>ADJ: многие, другие, должны, новые, такие, большая, южная, должно, последняя, северная</li>
+      <li>DET: это, которые, который, его, которая, этот, все, их, некоторые, которое</li>
       <li>NOUN: люди, часть, правительство, время, армия, год, государство, полиция, рост, фильм</li>
-      <li>NUM: один, три, две, девять, 100, 15,5, 16, 200, 29, 31</li>
+      <li>NUM: один, три, две, девять, 100, 15,5, 16, 200, 31, 328</li>
       <li>PART: это</li>
-      <li>PRON: он, они, она, я, мы, что, кто, вы, oни, То</li>
-      <li>PROPN: Китай, Трамп, де, Uber, Африка, Блант, Джон, Джордж, Испания, Кеша</li>
-      <li>VERB: использованы, объявлен, расположены, включены, закрыт, написано, освобожден, позволено, построены, предъявлено</li>
-      <li>VERB-Part: Associated, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий, Сведенная, Спешивший, Сформированная, Ухудшающееся</li>
+      <li>PRON: он, они, она, я, это, мы, что, кто, вы, т.</li>
+      <li>PROPN: Китай, Трамп, де, Африка, Блант, Джон, Джордж, Испания, Кеша, Клинтон</li>
+      <li>VERB: использованы, объявлен, расположены, Соединенные, включены, закрыт, написано, освобожден, позволено, построены</li>
+      <li>VERB-Part: Соединенные, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий, Сведенная, Спешивший, Сформированная, Ухудшающееся</li>
+      <li>X: Film, RECO, Spotify, The, Uber, A, Academy, Adidas, Agora, American</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -410,6 +422,18 @@ employ ten-fold cross-validation.
 <h3>Degree and Polarity</h3>
 
 
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADV: лучше</li>
+      <li>NUM: больше</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -430,14 +454,17 @@ employ ten-fold cross-validation.
 <ul>
   <li>Long
     <ul>
-      <li>ADJ: другие, многие, такие, первой, других, новые, самым, некоторые, новых, последние</li>
+      <li>ADJ: другие, многие, первой, других, новые, самым, новых, последние, Северной, большой</li>
       <li>ADJ-Part: распространенных</li>
-      <li>AUX-Part: ставшего</li>
-      <li>DET: Некоторые, такие</li>
-      <li>NUM: 2014, 2015, 1492, 2012, 2013, 2017, 1992, 1997, 2004, 2010</li>
+      <li>DET: некоторые, такие, таких, каждого, каждой, каждый, такой, каждая, каждое, некоторой</li>
+      <li>NOUN: Мексиканского, бытовой</li>
+      <li>NUM: 2014, 2015, 1492, 2012, 2013, 2017, нескольких, 1992, 1997, 2004</li>
       <li>PRON: прочим</li>
-      <li>VERB: потраченное, выращенных, оставшихся, сделанных, сформированным, Associated, Вышедший, Живущие, Загрязняющие, Лишившиеся</li>
-      <li>VERB-Part: потраченное, выращенных, оставшихся, сделанных, сформированным, Associated, Вышедший, Живущие, Загрязняющие, Лишившиеся</li>
+      <li>PROPN: Британской, Дальнем</li>
+      <li>VERB: потраченное, выращенных, оставшихся, сделанных, сформированным, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий</li>
+      <li>VERB-Part: потраченное, выращенных, оставшихся, сделанных, сформированным, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий</li>
+      <li>X: American, Associated, International, New, Shaky, South, Wild</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -461,13 +488,12 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: был, быть, была, были, было, является, будучи, будет, бывают, есть</li>
-      <li>AUX-Inf: быть</li>
-      <li>AUX-Part: будучи</li>
-      <li>PROPN: Любить</li>
-      <li>VERB: был, было, были, может, будет, является, была, быть, говорит, нет</li>
-      <li>VERB-Inf: отправлять, держать, доставлять, изготавливать, находить, покупать, прогнозировать, убивать</li>
-      <li>VERB-Part: включая, используя, начиная, играя, Breaking, Будучи, Выражаясь, Живущие, Загрязняющие, Обладающий</li>
+      <li>AUX: был, были, было, будет, была, является, быть, будут, буду, являются</li>
+      <li>VERB: был, может, было, является, быть, была, были, говорит, есть, нет</li>
+      <li>VERB-Inf: отправлять, быть, держать, доставлять, изготавливать, находить, покупать, прогнозировать, убивать</li>
+      <li>VERB-Part: включая, будучи, используя, начиная, играя, Выражаясь, Живущие, Загрязняющие, Обладающий, Переписываясь</li>
+      <li>X: Go, Breaking, Buck, Didn't, Don, Knew, Knuck, Like, Love, Metti</li>
+      <li>X-Part: Breaking</li>
     </ul>
   </li>
 </ul>
@@ -475,11 +501,11 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: стало, стали, начала, ставшего, стал</li>
-      <li>AUX-Part: ставшего</li>
-      <li>VERB: сказал, сделать, привести, получить, вернуться, заявил, стал, стать, найти, сказала</li>
+      <li>AUX: начала</li>
+      <li>VERB: сказал, сделать, привести, получить, стало, вернуться, заявил, стал, стать, найти</li>
       <li>VERB-Inf: вернуться, достичь, задать, найти, определить, организовать, позволить, покинуть, получить, прервать</li>
-      <li>VERB-Part: потраченное, выращенных, изменив, оставшихся, построив, сделанных, сформированным, Associated, Вышедший, Достигнув</li>
+      <li>VERB-Part: потраченное, Соединенные, Соединенных, выращенных, изменив, оставшихся, построив, сделанных, сформированным, Вышедший</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -491,7 +517,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: Давайте, Don, Metti, будь, смотрите</li>
+      <li>VERB: Давайте, будь, смотрите</li>
+      <li>X: Don, Metti</li>
     </ul>
   </li>
 </ul>
@@ -499,8 +526,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: был, была, были, было, является, стало, стали, будет, бывают, есть</li>
-      <li>VERB: был, было, были, может, будет, является, была, сказал, говорит, есть</li>
+      <li>AUX: был, были, было, будет, была, является, будут, буду, начала, являются</li>
+      <li>VERB: был, может, было, является, сказал, была, были, говорит, есть, стало</li>
+      <li>X: Buck, Didn't, Knew, Knuck, Like, Love, Thought</li>
     </ul>
   </li>
 </ul>
@@ -512,8 +540,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: будет</li>
-      <li>VERB: будет, будут, придется, станет, буду, повлияет, получит, Knuck, Введут, Разрешу</li>
+      <li>AUX: будет, будут, буду</li>
+      <li>VERB: будет, будут, придется, станет, повлияет, получит, Введут, Разрешу, войдет, выдадут</li>
+      <li>X: Knuck</li>
     </ul>
   </li>
 </ul>
@@ -521,10 +550,11 @@ employ ten-fold cross-validation.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: был, была, были, было, стало, стали, начала, ставшего, стал</li>
-      <li>AUX-Part: ставшего</li>
-      <li>VERB: был, было, были, была, сказал, заявил, стал, сказала, стало, получили</li>
-      <li>VERB-Part: потраченное, выращенных, оставшихся, сделанных, сформированным, Associated, Вышедший, Лишившиеся, Сведенная, Спешивший</li>
+      <li>AUX: был, были, было, была, начала</li>
+      <li>VERB: был, было, сказал, была, были, стало, заявил, стал, сказала, получили</li>
+      <li>VERB-Part: потраченное, Соединенные, Соединенных, выращенных, оставшихся, сделанных, сформированным, Вышедший, Лишившиеся, Сведенная</li>
+      <li>X: Associated, Didn't, Knew, Like, Thought</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -532,9 +562,10 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: является, бывают, есть, появляется, являются</li>
+      <li>AUX: является, являются</li>
       <li>VERB: может, является, говорит, есть, могут, находится, имеет, работает, составляет, делает</li>
       <li>VERB-Part: Живущие, Загрязняющие, Обладающий, Ухудшающееся, Финансируемые, бегущим, боящихся, ведомые, верующим, включающее</li>
+      <li>X: Buck, Love</li>
     </ul>
   </li>
 </ul>
@@ -546,7 +577,6 @@ employ ten-fold cross-validation.
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Part: ставшего</li>
       <li>VERB: оставшихся, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий, Спешивший, Ухудшающееся, бегущим, боящихся</li>
       <li>VERB-Part: оставшихся, Вышедший, Живущие, Загрязняющие, Лишившиеся, Обладающий, Спешивший, Ухудшающееся, бегущим, боящихся</li>
     </ul>
@@ -556,8 +586,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: использованы, объявлен, потраченное, расположены, включены, выращенных, закрыт, написано, освобожден, позволено</li>
-      <li>VERB-Part: потраченное, выращенных, сделанных, сформированным, Associated, Сведенная, Сформированная, Финансируемые, аннексированном, вдохновленные</li>
+      <li>VERB: использованы, объявлен, потраченное, расположены, Соединенные, Соединенных, включены, выращенных, закрыт, написано</li>
+      <li>VERB-Part: потраченное, Соединенные, Соединенных, выращенных, сделанных, сформированным, Сведенная, Соединенным, Сформированная, Финансируемые</li>
+      <li>X-Part: Associated</li>
     </ul>
   </li>
 </ul>
@@ -574,7 +605,7 @@ employ ten-fold cross-validation.
   <li>Prs
     <ul>
       <li>DET: его, их, ее, н., наше, нашей, мой, её, моей, мое</li>
-      <li>PRON: My, Her</li>
+      <li>X: My, Her</li>
     </ul>
   </li>
 </ul>
@@ -588,8 +619,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: своей, свои, свою, своих, своего, своем, своим, свое, своими, свой</li>
-      <li>PRON: себя, собой, себе, свои, свой</li>
+      <li>DET: своей, свои, свою, своих, своего, своем, своим, свой, свое, своими</li>
+      <li>PRON: себя, собой, себе</li>
     </ul>
   </li>
 </ul>
@@ -601,9 +632,11 @@ employ ten-fold cross-validation.
 <ul>
   <li>1
     <ul>
+      <li>AUX: буду</li>
       <li>DET: н., наше, нашей, мой, моей, мои, моих, наша, наши, наших</li>
-      <li>PRON: я, мы, мне, нас, меня, нам, My, Me</li>
-      <li>VERB: можем, думаю, буду, видим, думаем, могу, Knuck, Love, Разрешу, Ухожу</li>
+      <li>PRON: я, мы, мне, нас, меня, нам</li>
+      <li>VERB: можем, думаю, видим, думаем, могу, Разрешу, Ухожу, возвращаюсь, встречаемся, говорим</li>
+      <li>X: My, Knuck, Love, Me</li>
     </ul>
   </li>
 </ul>
@@ -611,8 +644,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>2
     <ul>
-      <li>PRON: вы, вас, Вам, ты, Ya, You</li>
-      <li>VERB: Давайте, Buck, Don, Metti, будь, делаешь, ждешь, заплатишь, знаете, найдете</li>
+      <li>PRON: вы, вас, Вам, ты</li>
+      <li>VERB: Давайте, будь, делаешь, ждешь, заплатишь, знаете, найдете, ругаетесь, сидишь, скажешь</li>
+      <li>X: You, Buck, Don, Metti, Ya</li>
     </ul>
   </li>
 </ul>
@@ -620,13 +654,11 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>AUX: является, будет, бывают, есть, появляется, являются</li>
+      <li>AUX: будет, является, будут, являются</li>
       <li>DET: его, их, ее, её</li>
-      <li>NOUN: году, года, время, лет, людей, города, результате, компании, течение, часть</li>
-      <li>NUM: 5000, 3000, 6000</li>
       <li>PRON: он, они, она, его, них, ее, ему, него, им, их</li>
-      <li>PROPN: США, октября, море, Великобритании, Америки, Италии, Китай, Клинтон, войны, Австралии</li>
-      <li>VERB: может, будет, является, говорит, есть, могут, находится, будут, имеет, работает</li>
+      <li>VERB: может, является, говорит, есть, могут, находится, имеет, будет, работает, составляет</li>
+      <li>X: Her</li>
     </ul>
   </li>
 </ul>
@@ -640,7 +672,7 @@ employ ten-fold cross-validation.
   <li>Fem
     <ul>
       <li>DET: ее, её</li>
-      <li>PRON: Her</li>
+      <li>X: Her</li>
     </ul>
   </li>
 </ul>
@@ -669,7 +701,7 @@ employ ten-fold cross-validation.
   <li>Sing
     <ul>
       <li>DET: его, ее, мой, её, моей, мое, моего, мои, моих</li>
-      <li>PRON: My, Her</li>
+      <li>X: My, Her</li>
     </ul>
   </li>
 </ul>
@@ -682,7 +714,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>Yes
         <ul>
-          <li>PROPN: Victorias, de, las</li>
+          <li>X: Victorias, de, las</li>
         </ul>
       </li>
     </ul>
@@ -694,12 +726,12 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: быть, это, стать, AUX, этот, являться.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: быть, бы, ли.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быть.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -708,11 +740,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Gen (16)</li>
-      <li>VERB--NOUN-Gen-ADP(_) (1)</li>
-      <li>VERB--NOUN-Nom (552)</li>
-      <li>VERB--PRON-Nom (248)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-Acc (1)</li>
+      <li>VERB--NOUN-Gen (29)</li>
+      <li>VERB--NOUN-Gen-ADP(из) (1)</li>
+      <li>VERB--NOUN-Nom (562)</li>
+      <li>VERB--NOUN-Nom-ADP(в) (1)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB--PRON-Gen (2)</li>
+      <li>VERB--PRON-Nom (260)</li>
     </ul>
   </li>
 </ul>
@@ -720,15 +756,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (432)</li>
-      <li>VERB--NOUN-Gen (52)</li>
-      <li>VERB--PRON-Acc (57)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Acc (440)</li>
+      <li>VERB--NOUN-Gen (51)</li>
+      <li>VERB--NOUN-Ins (5)</li>
+      <li>VERB--PRON-Acc (62)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB-Inf--NOUN-Acc (17)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
-      <li>VERB-Part--NOUN-Acc (53)</li>
-      <li>VERB-Part--NOUN-Gen (9)</li>
+      <li>VERB-Part--NOUN-Acc (55)</li>
+      <li>VERB-Part--NOUN-Gen (8)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
     </ul>
   </li>
@@ -739,13 +778,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Dat (40)</li>
       <li>VERB--NOUN-Gen (6)</li>
-      <li>VERB--NOUN-Ins (112)</li>
-      <li>VERB--PRON-Dat (32)</li>
+      <li>VERB--NOUN-Ins (76)</li>
+      <li>VERB--NOUN-Ins-ADP(более) (1)</li>
+      <li>VERB--PRON-Dat (34)</li>
       <li>VERB--PRON-Ins (5)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Ins (22)</li>
+      <li>VERB-Part--NOUN-Dat (2)</li>
+      <li>VERB-Part--NOUN-Ins (21)</li>
       <li>VERB-Part--PRON-Ins (2)</li>
     </ul>
   </li>
@@ -756,12 +796,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ себя, _ собой, _ себе</li>
+  <li>This corpus contains 12 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: показать себя, представлять собой, чувствовать себя, защитить себя, называть себя, подключить себе, попробовать себя, посвятить себя, пробить себе, провозглашать себя, проявить себя, являть собой</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>csubj:pass</a>, <a>nmod:gmod</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

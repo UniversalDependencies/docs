@@ -9,59 +9,32 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-156 nodes (1%) are attached to their parents as `nmod`.
+266 nodes (1%) are attached to their parents as `nmod`.
 
-156 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83333333333333.
+261 instances of `nmod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.06390977443609.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (59; 38% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (52; 33% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (36; 23% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (6; 4% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (92; 35% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (84; 32% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (70; 26% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (11; 4% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 nmod	color:blue
-1	Ելք	ելք	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	_
-2	չկար	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	12	punct	_	_
-4	դարբինը	դարբին	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	12	nsubj	_	_
-5	նույնիսկ	նույնիսկ	PART	_	_	6	advmod	_	_
-6	մի	մի	NUM	_	NumForm=Word|NumType=Card	7	nummod	_	_
-7	պարկ	պարկ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	_
-8	ալյուր	ալյուր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Coll	12	obj	_	_
-9	էլ	էլ	PART	_	_	8	advmod:emph	_	_
-10	ավել	ավել	ADJ	_	_	8	acl	_	_
-11	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	12	aux	_	_
-12	խոստացել	խոստանալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	2	parataxis	_	SpaceAfter=No
-13	։	։	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nmod	color:blue
-1	ՀՀ	ՀՀ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	2	nmod	_	_
-2	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	_
-3	կարծիքով	կարծիք	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing	7	parataxis	_	SpaceAfter=No
-4	՝	՝	PUNCT	_	_	7	punct	_	_
-5	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-6	մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
-7	կկարողանանք	կարողանալ	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-8	այս	այս	DET	_	Distance=Prox|PronType=Dem	9	det	_	_
-9	տարի	տարի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	7	obl	_	_
-10	հասնել	հասնել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	7	xcomp	_	_
-11	3.2	3,2	NUM	_	NumForm=Digit|NumType=Frac|Typo=Yes	12	nummod	_	_
-12	տոկոս	տոկոս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	14	nmod	_	_
-13	տնտեսական	տնտեսական	ADJ	_	_	14	amod	_	_
-14	աճի	աճ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	10	obj	_	SpaceAfter=No
-15	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-16	:	:	PUNCT	_	_	7	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 nmod	color:blue
+1	Շատ	շատ	ADV	_	Degree=Pos	2	advmod	_	_
+2	կարևոր	կարևոր	ADJ	_	Degree=Pos	4	amod	_	_
+3	մի	մի	DET	_	PronType=Art	4	det	_	_
+4	գործ	գործ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No
+5	՝	՝	PUNCT	_	_	10	punct	_	_
+6	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	Վարդապետի	վարդապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	_
+8	լռությունը	լռություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	nmod	_	SpaceAfter=No
+9	»	»	PUNCT	_	_	8	punct	_	_
+10	ֆիլմից	ֆիլմ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	4	obl	_	_
+11	հետո	հետո	ADP	_	AdpType=Post	10	case	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -80,6 +53,26 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 6	Լևոն	Լևոն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	nsubj	_	_
 7	Մարգարյանը	Մարգարյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	6	flat	_	SpaceAfter=No
 8	։	։	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nmod	color:blue
+1	Առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	2	amod	_	_
+2	անգամ	անգամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	obl	_	_
+3	նրան	նա	PRON	_	Case=Dat|Definite=Def|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	նկատել	նկատել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+5	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	2010-ին	2010	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing|NumForm=Digit	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	Քեթրին	Քեթրին	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	9	nmod	_	_
+9	գետում	գետ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	4	obl	_	SpaceAfter=No
+10	։	։	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Slovenian SSJ
 
-Language: [Slovenian](../sl/overview/sl-hub.html) (code: `sl`)<br/>
+Language: [Slovenian](/sl/index.html) (code: `sl`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -206,724 +207,690 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: druge, drugi, nove, novo, prva, sama, velika, veliko, druga, drugo</li>
-        <li>ADJ-Part: določene, namenjena, povezane, prepričana, pripravljena, ustanovljena, znana, določeno, imenovana, končani</li>
-        <li>AUX-Part: bila, bile, bili</li>
-        <li>DET: svojo, te, svoje, ta, to, vse, svoji, tej, vseh, njegove</li>
-        <li>NOUN: strani, države, pomoč, oči, možnosti, poti, pot, stvari, skupine, vode</li>
-        <li>NUM: ena, eno, tri, dve, štiri, eni, dveh, ene, dvema, treh</li>
-        <li>PRON: jo, jih, ji, njej, njo, ona, je, nje, jim, nanjo</li>
-        <li>PROPN: Slovenije, Sloveniji, Slovenija, EU, Ljubljani, ZDA, Evropi, Slovenijo, LJUBLJANA, Ljubljana</li>
-        <li>VERB-Part: bila, imela, morala, začela, prišla, rekla, pokazala, vedela, dobila, sprejela</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: druge, drugi, nove, novo, prva, sama, velika, veliko, druga, drugo</li>
+      <li>ADJ-Part: določene, namenjena, povezane, prepričana, pripravljena, ustanovljena, znana, določeno, imenovana, končani</li>
+      <li>AUX-Part: bila, bile, bili</li>
+      <li>DET: svojo, te, svoje, ta, to, vse, svoji, tej, vseh, njegove</li>
+      <li>NOUN: strani, države, pomoč, oči, možnosti, poti, pot, stvari, skupine, vode</li>
+      <li>NUM: ena, eno, tri, dve, štiri, eni, dveh, ene, dvema, treh</li>
+      <li>PRON: jo, jih, ji, njej, njo, ona, je, nje, jim, nanjo</li>
+      <li>PROPN: Slovenije, Sloveniji, Slovenija, EU, Ljubljani, ZDA, Evropi, Slovenijo, LJUBLJANA, Ljubljana</li>
+      <li>VERB-Part: bila, imela, morala, začela, prišla, rekla, pokazala, vedela, dobila, sprejela</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: sam, prvi, drugi, slovenski, drugih, pravi, sami, novi, velik, državni</li>
-        <li>ADJ-Part: prepričan, znani, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet, minuli, povezani</li>
-        <li>AUX-Part: bil, bili, bila</li>
-        <li>DET: ta, tem, vsi, vsak, svoj, katerem, vse, njegov, tega, ves</li>
-        <li>NOUN: dan, čas, ljudi, del, tolarjev, dni, način, času, časa, otrok</li>
-        <li>NUM: dva, eden, en, dveh, enega, enem, tri, trije, štirih, štiri</li>
-        <li>PRON: ga, jih, mu, kdo, jim, njim, njih, njem, nihče, njimi</li>
-        <li>PROPN: Mariboru, Slovenci, Maribor, Jože, Drnovšek, Gregor, Janez, Milan, New, Slovencev</li>
-        <li>VERB-Part: imel, moral, povedal, imeli, bil, morali, dejal, začeli, postal, rekel</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: sam, prvi, drugi, slovenski, drugih, pravi, sami, novi, velik, državni</li>
+      <li>ADJ-Part: prepričan, znani, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet, minuli, povezani</li>
+      <li>AUX-Part: bil, bili, bila</li>
+      <li>DET: ta, tem, vsi, vsak, svoj, katerem, vse, njegov, tega, ves</li>
+      <li>NOUN: dan, čas, ljudi, del, tolarjev, dni, način, času, časa, otrok</li>
+      <li>NUM: dva, eden, en, dveh, enega, enem, tri, trije, štirih, štiri</li>
+      <li>PRON: ga, jih, mu, kdo, jim, njim, njih, njem, nihče, njimi</li>
+      <li>PROPN: Mariboru, Slovenci, Maribor, Jože, Drnovšek, Gregor, Janez, Milan, New, Slovencev</li>
+      <li>VERB-Part: imel, moral, povedal, imeli, bil, morali, dejal, začeli, postal, rekel</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: mogoče, pomembno, jasno, potrebno, težko, novo, drugim, novega, prihodnje, drugo</li>
-        <li>ADJ-Part: znano, povezano, določeno, minulega, odprto, opravljeno, prepovedano, preteklih, skrita, skrito</li>
-        <li>AUX-Part: bilo, bila</li>
-        <li>DET: to, tem, tega, vse, svoje, temu, njegovo, tisto, katerem, vsega</li>
-        <li>NOUN: leta, let, leto, letih, življenje, dela, delo, mesto, mestu, vprašanje</li>
-        <li>NUM: eno, štirih, dve, treh, tri, štiri, dveh, tremi, dvema, dvoje</li>
-        <li>PRON: kaj, kar, nekaj, nič, ga, jih, čemer, česar, česa, čimer</li>
-        <li>PROPN: Celje, Kosova, Kosovu, Koroškem, Slovenskem, Dolenjskem, Gorenjskem, Hrvaškem, Celju, Japonskem</li>
-        <li>VERB-Part: bilo, zgodilo, uspelo, prišlo, zdelo, šlo, začelo, ostalo, pomenilo, dalo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: mogoče, pomembno, jasno, potrebno, težko, novo, drugim, novega, prihodnje, drugo</li>
+      <li>ADJ-Part: znano, povezano, določeno, minulega, odprto, opravljeno, prepovedano, preteklih, skrita, skrito</li>
+      <li>AUX-Part: bilo, bila</li>
+      <li>DET: to, tem, tega, vse, svoje, temu, njegovo, tisto, katerem, vsega</li>
+      <li>NOUN: leta, let, leto, letih, življenje, dela, delo, mesto, mestu, vprašanje</li>
+      <li>NUM: eno, štirih, dve, treh, tri, štiri, dveh, tremi, dvema, dvoje</li>
+      <li>PRON: kaj, kar, nekaj, nič, ga, jih, čemer, česar, česa, čimer</li>
+      <li>PROPN: Celje, Kosova, Kosovu, Koroškem, Slovenskem, Dolenjskem, Gorenjskem, Hrvaškem, Celju, Japonskem</li>
+      <li>VERB-Part: bilo, zgodilo, uspelo, prišlo, zdelo, šlo, začelo, ostalo, pomenilo, dalo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Animacy</a></li>
+</ul>
 
-<li><a>Animacy</a>
+<ul>
+  <li>Anim
+    <ul>
+      <li>NOUN: otroka, predsednika, človeka, duha, moža, prijatelja, boga, bolnika, nasprotnika, sina</li>
+      <li>PROPN: Andreja, Billyja, Henrika, Boja, Damijana, Filipa, Francija, Hočevarja, Janeza, Johna</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Anim
-      <ul>
-        <li>NOUN: otroka, predsednika, človeka, duha, moža, prijatelja, boga, bolnika, nasprotnika, sina</li>
-        <li>PROPN: Andreja, Billyja, Henrika, Boja, Damijana, Filipa, Francija, Hočevarja, Janeza, Johna</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Inan
+    <ul>
+      <li>NOUN: dan, čas, način, primer, denar, del, sistem, svet, teden, konec</li>
+      <li>PROPN: Dunaj, Irak, Nato, Windows, Bruselj, JBX, Jeruzalem, Virtual, ATI, Afganistan</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Inan
-      <ul>
-        <li>NOUN: dan, čas, način, primer, denar, del, sistem, svet, teden, konec</li>
-        <li>PROPN: Dunaj, Irak, Nato, Windows, Bruselj, JBX, Jeruzalem, Virtual, ATI, Afganistan</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Dual
+    <ul>
+      <li>ADJ: desnima, drugačna, najboljša, nemških, obsojena, predstavljena, slovenska, soodvisni, srečna, trebušni</li>
+      <li>ADJ-Part: obsojena, predstavljena, Preostalih, identificirana, izoblikovana, ljubečih, mišljena, nagrajena, nameščeni, obrnjeni</li>
+      <li>AUX-Fin: sta, sva, bosta, nista, nisva, bova</li>
+      <li>AUX-Part: bila, bili</li>
+      <li>DET: oba, obeh, obe, obema, svoja, njuni, ta, KATERIH, Moja, Njegova</li>
+      <li>NOUN: letoma, leti, strani, meseca, otroka, primerih, starša, letih, partnerja, policista</li>
+      <li>NUM: dva, dveh, dve, dvema</li>
+      <li>PRON: ju, nama, jima, njima, naju, njiju, midva, vaju, zanju, onadva</li>
+      <li>PROPN: Belokranjca, Egipčana, Francoza, Litijana</li>
+      <li>VERB-Fin: imata, sta, omogočata, prideta, hočeta, imava, menita, morata, obtožujeta, postaneta</li>
+      <li>VERB-Part: imela, morala, bila, odšla, hotela, srečala, začela, nastopila, pogovarjala, povedala</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: druge, drugih, različnih, nove, zadnjih, novih, slovenskih, sami, drugi, drugimi</li>
+      <li>ADJ-Part: določene, zaposlenih, prepričani, pripravljeni, zaposleni, določenih, povezani, znani, navdušeni, povezane</li>
+      <li>AUX-Fin: so, bodo, smo, niso, bomo, boste, ste, nismo, niste, bodite</li>
+      <li>AUX-Part: bili, bile, bila</li>
+      <li>DET: vse, vseh, vsi, te, teh, katerih, svoje, svojih, nekatere, ti</li>
+      <li>NOUN: let, letih, ljudi, tolarjev, dni, milijonov, oči, odstotkov, podatkov, leti</li>
+      <li>NUM: tri, tisoč, štiri, štirih, pet, sto, deset, treh, šest, sedem</li>
+      <li>PRON: jih, nas, nam, vam, jim, vas, njih, njimi, vi, nami</li>
+      <li>PROPN: ZDA, Slovenci, Slovencev, Francozi, Nemcev, Nemci, Slovence, Američani, Atenah, Brežice</li>
+      <li>VERB-Fin: so, imajo, moramo, morajo, imamo, moremo, smemo, imate, nimajo, želijo</li>
+      <li>VERB-Part: imeli, morali, začeli, dobili, odločili, predstavili, bili, pripravili, prišli, postali</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dual
-      <ul>
-        <li>ADJ: desnima, drugačna, najboljša, nemških, obsojena, predstavljena, slovenska, soodvisni, srečna, trebušni</li>
-        <li>ADJ-Part: obsojena, predstavljena, Preostalih, identificirana, izoblikovana, ljubečih, mišljena, nagrajena, nameščeni, obrnjeni</li>
-        <li>AUX-Fin: sta, sva, bosta, nista, nisva, bova</li>
-        <li>AUX-Part: bila, bili</li>
-        <li>DET: oba, obeh, obe, obema, svoja, njuni, ta, KATERIH, Moja, Njegova</li>
-        <li>NOUN: letoma, leti, strani, meseca, otroka, primerih, starša, letih, partnerja, policista</li>
-        <li>NUM: dva, dveh, dve, dvema</li>
-        <li>PRON: ju, nama, jima, njima, naju, njiju, midva, vaju, zanju, onadva</li>
-        <li>PROPN: Belokranjca, Egipčana, Francoza, Litijana</li>
-        <li>VERB-Fin: imata, sta, omogočata, prideta, hočeta, imava, menita, morata, obtožujeta, postaneta</li>
-        <li>VERB-Part: imela, morala, bila, odšla, hotela, srečala, začela, nastopila, pogovarjala, povedala</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: mogoče, prvi, sam, drugi, novo, veliko, drugo, novega, pomembno, drugega</li>
+      <li>ADJ-Part: prepričan, znano, pripravljen, sprejet, določeno, povezano, minuli, izbrani, namenjena, prepričana</li>
+      <li>AUX-Fin: je, bo, ni, sem, nisem, bom, si, nisi, Bodi, as</li>
+      <li>AUX-Part: bil, bila, bilo</li>
+      <li>DET: to, tem, ta, tega, vse, svojo, svoje, katerem, vsak, svoj</li>
+      <li>NOUN: leta, dan, leto, čas, življenje, strani, del, delu, način, dela</li>
+      <li>NUM: eno, eden, ena, en, enega, enem, eni, ene, enim, dvoje</li>
+      <li>PRON: ga, jo, mu, kaj, mi, kar, ji, me, kdo, nekaj</li>
+      <li>PROPN: Slovenije, Sloveniji, Slovenija, EU, Ljubljani, Evropi, Mariboru, Slovenijo, LJUBLJANA, Ljubljana</li>
+      <li>VERB-Fin: je, ima, ni, gre, bo, mora, pomeni, zdi, pravi, more</li>
+      <li>VERB-Part: bilo, bila, imel, moral, povedal, bil, dejal, zgodilo, imela, morala</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: druge, drugih, različnih, nove, zadnjih, novih, slovenskih, sami, drugi, drugimi</li>
-        <li>ADJ-Part: določene, zaposlenih, prepričani, pripravljeni, zaposleni, določenih, povezani, znani, navdušeni, povezane</li>
-        <li>AUX-Fin: so, bodo, smo, niso, bomo, boste, ste, nismo, niste, bodite</li>
-        <li>AUX-Part: bili, bile, bila</li>
-        <li>DET: vse, vseh, vsi, te, teh, katerih, svoje, svojih, nekatere, ti</li>
-        <li>NOUN: let, letih, ljudi, tolarjev, dni, milijonov, oči, odstotkov, podatkov, leti</li>
-        <li>NUM: tri, tisoč, štiri, štirih, pet, sto, deset, treh, šest, sedem</li>
-        <li>PRON: jih, nas, nam, vam, jim, vas, njih, njimi, vi, nami</li>
-        <li>PROPN: ZDA, Slovenci, Slovencev, Francozi, Nemcev, Nemci, Slovence, Američani, Atenah, Brežice</li>
-        <li>VERB-Fin: so, imajo, moramo, morajo, imamo, moremo, smemo, imate, nimajo, želijo</li>
-        <li>VERB-Part: imeli, morali, začeli, dobili, odločili, predstavili, bili, pripravili, prišli, postali</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: mogoče, prvi, sam, drugi, novo, veliko, drugo, novega, pomembno, drugega</li>
-        <li>ADJ-Part: prepričan, znano, pripravljen, sprejet, določeno, povezano, minuli, izbrani, namenjena, prepričana</li>
-        <li>AUX-Fin: je, bo, ni, sem, nisem, bom, si, nisi, Bodi, as</li>
-        <li>AUX-Part: bil, bila, bilo</li>
-        <li>DET: to, tem, ta, tega, vse, svojo, svoje, katerem, vsak, svoj</li>
-        <li>NOUN: leta, dan, leto, čas, življenje, strani, del, delu, način, dela</li>
-        <li>NUM: eno, eden, ena, en, enega, enem, eni, ene, enim, dvoje</li>
-        <li>PRON: ga, jo, mu, kaj, mi, kar, ji, me, kdo, nekaj</li>
-        <li>PROPN: Slovenije, Sloveniji, Slovenija, EU, Ljubljani, Evropi, Mariboru, Slovenijo, LJUBLJANA, Ljubljana</li>
-        <li>VERB-Fin: je, ima, ni, gre, bo, mora, pomeni, zdi, pravi, more</li>
-        <li>VERB-Part: bilo, bila, imel, moral, povedal, bil, dejal, zgodilo, imela, morala</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: druge, novo, nove, veliko, drugo, prihodnje, prvo, dobro, prvi, različne</li>
+      <li>ADJ-Part: določene, minuli, določeno, odrasle, ostale, pripravljene, dodano, imenovano, izbrana, izbrani</li>
+      <li>ADP: za, na, v, skozi, čez, po, med, pod, zoper, ob</li>
+      <li>DET: to, vse, svoje, svojo, svoj, ta, te, vsak, ves, njegovo</li>
+      <li>NOUN: leto, dan, življenje, čas, delo, način, pomoč, mesto, primer, vlogo</li>
+      <li>NUM: eno, tri, štiri, tisoč, dve, dva, deset, sto, en, pet</li>
+      <li>PRON: ga, jih, jo, kaj, me, kar, nas, nekaj, vas, ju</li>
+      <li>PROPN: Slovenijo, EU, Ljubljano, Dunaj, Francijo, Irak, Koroško, Slovence, Andreja, Billyja</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADJ: drugim, državnemu, novim, drugemu, ponižnemu, velikemu, velikim, zbranim, današnjemu, delovni</li>
+      <li>ADJ-Part: zbranim, Zmletemu, določenemu, grozeči, imenovanemu, izbrani, izbranim, izzvanim, markirani, nagrbljenemu</li>
+      <li>ADP: k, proti, kljub, h, navkljub, blizu, nasproti</li>
+      <li>DET: temu, vsem, vsemu, svojim, tej, svoji, tistim, nekaterim, svojemu, tistemu</li>
+      <li>NOUN: ljudem, členu, človeku, bolnikom, delu, hiši, koncu, moškim, otroku, vladi</li>
+      <li>NUM: eni, trem, enemu, štirim, Petim, petdesetim</li>
+      <li>PRON: si, mu, mi, ji, nam, vam, jim, njemu, ti, meni</li>
+      <li>PROPN: Srbom, Bosku, Diegu, Janezu, Jatu, Ljubljani, Sloveniji, Vatanenu, Adriaticu, Alici</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: novega, drugih, novih, drugega, slovenskih, različnih, slovenske, evropske, prvega, nove</li>
+      <li>ADJ-Part: zaposlenih, določenih, znanih, določenega, imenovanih, imenovanega, minulega, odraslih, omenjenega, omenjenih</li>
+      <li>ADP: iz, od, do, zaradi, brez, z, poleg, s, glede, konec</li>
+      <li>DET: tega, te, vseh, teh, svoje, svojega, svojih, vsega, njegove, katerih</li>
+      <li>NOUN: leta, let, tolarjev, dela, časa, ljudi, milijonov, sveta, dni, življenja</li>
+      <li>NUM: dveh, ene, enega, treh, štirih, petih, desetih, osmih, sedmih, tridesetih</li>
+      <li>PRON: jih, ga, nas, njega, sebe, je, njih, nje, česar, me</li>
+      <li>PROPN: Slovenije, EU, Ljubljane, Evrope, Slovencev, Kosova, Hrvaške, Amerike, Dolenjske, Jugoslavije</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: druge, novo, nove, veliko, drugo, prihodnje, prvo, dobro, prvi, različne</li>
-        <li>ADJ-Part: določene, minuli, določeno, odrasle, ostale, pripravljene, dodano, imenovano, izbrana, izbrani</li>
-        <li>ADP: za, na, v, skozi, čez, po, med, pod, zoper, ob</li>
-        <li>DET: to, vse, svoje, svojo, svoj, ta, te, vsak, ves, njegovo</li>
-        <li>NOUN: leto, dan, življenje, čas, delo, način, pomoč, mesto, primer, vlogo</li>
-        <li>NUM: eno, tri, štiri, tisoč, dve, dva, deset, sto, en, pet</li>
-        <li>PRON: ga, jih, jo, kaj, me, kar, nas, nekaj, vas, ju</li>
-        <li>PROPN: Slovenijo, EU, Ljubljano, Dunaj, Francijo, Irak, Koroško, Slovence, Andreja, Billyja</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ins
+    <ul>
+      <li>ADJ: drugim, drugimi, različnimi, kratkim, veliko, drugo, novimi, novo, prvim, posebnimi</li>
+      <li>ADJ-Part: znanimi, imenovanimi, sproščenim, Združenimi, bolečo, cvetočo, delujočimi, določenim, doživeto, etabliranim</li>
+      <li>ADP: z, s, med, pred, pod, za, nad</li>
+      <li>DET: tem, svojo, katerimi, svojim, katero, katerim, svojimi, njenim, vsemi, njegovimi</li>
+      <li>NOUN: leti, pomočjo, letom, delom, časom, imenom, ljudmi, vodstvom, vojno, glasom</li>
+      <li>NUM: dvema, tremi, petimi, desetimi, enim, eno, šestimi, sedmimi, sto, štirimi</li>
+      <li>PRON: njim, njimi, seboj, njo, nami, sabo, njima, čimer, mano, menoj</li>
+      <li>PROPN: Davidom, Marjanom, Slovenijo, Freddijem, Hrvaško, Hughesom, Jugoslavijo, Miranom, Morosino, Sampsonom</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADJ: drugim, državnemu, novim, drugemu, ponižnemu, velikemu, velikim, zbranim, današnjemu, delovni</li>
-        <li>ADJ-Part: zbranim, Zmletemu, določenemu, grozeči, imenovanemu, izbrani, izbranim, izzvanim, markirani, nagrbljenemu</li>
-        <li>ADP: k, proti, kljub, h, navkljub, blizu, nasproti</li>
-        <li>DET: temu, vsem, vsemu, svojim, tej, svoji, tistim, nekaterim, svojemu, tistemu</li>
-        <li>NOUN: ljudem, členu, človeku, bolnikom, delu, hiši, koncu, moškim, otroku, vladi</li>
-        <li>NUM: eni, trem, enemu, štirim, Petim, petdesetim</li>
-        <li>PRON: si, mu, mi, ji, nam, vam, jim, njemu, ti, meni</li>
-        <li>PROPN: Srbom, Bosku, Diegu, Janezu, Jatu, Ljubljani, Sloveniji, Vatanenu, Adriaticu, Alici</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Loc
+    <ul>
+      <li>ADJ: drugi, zadnjih, drugih, drugem, prvem, prvi, različnih, veliki, glavnem, zadnjem</li>
+      <li>ADJ-Part: končani, imenovanem, omenjenem, opravljenem, preteklih, določeni, določenih, končanem, odprtem, SPEČEM</li>
+      <li>ADP: v, na, po, o, pri, ob</li>
+      <li>DET: tem, katerem, svoji, katerih, tej, vseh, kateri, svojem, njegovem, teh</li>
+      <li>NOUN: letih, času, delu, strani, svetu, mestu, koncu, primeru, letu, področju</li>
+      <li>NUM: dveh, enem, štirih, treh, eni, petih, šestih, osmih, desetih, tridesetih</li>
+      <li>PRON: njem, njej, njih, nas, sebi, čemer, meni, čem, ničemer, vas</li>
+      <li>PROPN: Sloveniji, Ljubljani, Mariboru, Evropi, ZDA, Ameriki, Jugoslaviji, Britaniji, EU, Franciji</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: novega, drugih, novih, drugega, slovenskih, različnih, slovenske, evropske, prvega, nove</li>
-        <li>ADJ-Part: zaposlenih, določenih, znanih, določenega, imenovanih, imenovanega, minulega, odraslih, omenjenega, omenjenih</li>
-        <li>ADP: iz, od, do, zaradi, brez, z, poleg, s, glede, konec</li>
-        <li>DET: tega, te, vseh, teh, svoje, svojega, svojih, vsega, njegove, katerih</li>
-        <li>NOUN: leta, let, tolarjev, dela, časa, ljudi, milijonov, sveta, dni, življenja</li>
-        <li>NUM: dveh, ene, enega, treh, štirih, petih, desetih, osmih, sedmih, tridesetih</li>
-        <li>PRON: jih, ga, nas, njega, sebe, je, njih, nje, česar, me</li>
-        <li>PROPN: Slovenije, EU, Ljubljane, Evrope, Slovencev, Kosova, Hrvaške, Amerike, Dolenjske, Jugoslavije</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ins
-      <ul>
-        <li>ADJ: drugim, drugimi, različnimi, kratkim, veliko, drugo, novimi, novo, prvim, posebnimi</li>
-        <li>ADJ-Part: znanimi, imenovanimi, sproščenim, Združenimi, bolečo, cvetočo, delujočimi, določenim, doživeto, etabliranim</li>
-        <li>ADP: z, s, med, pred, pod, za, nad</li>
-        <li>DET: tem, svojo, katerimi, svojim, katero, katerim, svojimi, njenim, vsemi, njegovimi</li>
-        <li>NOUN: leti, pomočjo, letom, delom, časom, imenom, ljudmi, vodstvom, vojno, glasom</li>
-        <li>NUM: dvema, tremi, petimi, desetimi, enim, eno, šestimi, sedmimi, sto, štirimi</li>
-        <li>PRON: njim, njimi, seboj, njo, nami, sabo, njima, čimer, mano, menoj</li>
-        <li>PROPN: Davidom, Marjanom, Slovenijo, Freddijem, Hrvaško, Hughesom, Jugoslavijo, Miranom, Morosino, Sampsonom</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Loc
-      <ul>
-        <li>ADJ: drugi, zadnjih, drugih, drugem, prvem, prvi, različnih, veliki, glavnem, zadnjem</li>
-        <li>ADJ-Part: končani, imenovanem, omenjenem, opravljenem, preteklih, določeni, določenih, končanem, odprtem, SPEČEM</li>
-        <li>ADP: v, na, po, o, pri, ob</li>
-        <li>DET: tem, katerem, svoji, katerih, tej, vseh, kateri, svojem, njegovem, teh</li>
-        <li>NOUN: letih, času, delu, strani, svetu, mestu, koncu, primeru, letu, področju</li>
-        <li>NUM: dveh, enem, štirih, treh, eni, petih, šestih, osmih, desetih, tridesetih</li>
-        <li>PRON: njem, njej, njih, nas, sebi, čemer, meni, čem, ničemer, vas</li>
-        <li>PROPN: Sloveniji, Ljubljani, Mariboru, Evropi, ZDA, Ameriki, Jugoslaviji, Britaniji, EU, Franciji</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: mogoče, sam, prvi, velika, drugi, prva, sama, slovenska, jasno, pomembno</li>
-        <li>ADJ-Part: prepričan, znani, pripravljeni, prepričani, zaposleni, znano, pripravljen, sprejet, povezani, povezano</li>
-        <li>DET: to, ta, vsi, vse, vsak, njegova, te, tisti, ti, njegov</li>
-        <li>NOUN: predsednik, človek, del, zakon, ljudje, otrok, vprašanje, vlada, država, čas</li>
-        <li>NUM: eden, ena, dva, trije, pet, en, tri, šest, tisoč, sto</li>
-        <li>PRON: kar, kdo, kaj, jaz, nič, nihče, nekaj, nekdo, ona, vi</li>
-        <li>PROPN: Slovenija, LJUBLJANA, Ljubljana, Slovenci, Maribor, Jasna, Jože, Drnovšek, Gregor, Janez</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: mogoče, sam, prvi, velika, drugi, prva, sama, slovenska, jasno, pomembno</li>
+      <li>ADJ-Part: prepričan, znani, pripravljeni, prepričani, zaposleni, znano, pripravljen, sprejet, povezani, povezano</li>
+      <li>DET: to, ta, vsi, vse, vsak, njegova, te, tisti, ti, njegov</li>
+      <li>NOUN: predsednik, človek, del, zakon, ljudje, otrok, vprašanje, vlada, država, čas</li>
+      <li>NUM: eden, ena, dva, trije, pet, en, tri, šest, tisoč, sto</li>
+      <li>PRON: kar, kdo, kaj, jaz, nič, nihče, nekaj, nekdo, ona, vi</li>
+      <li>PROPN: Slovenija, LJUBLJANA, Ljubljana, Slovenci, Maribor, Jasna, Jože, Drnovšek, Gregor, Janez</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: pravi, državni, novi, slovenski, drugi, veliki, glavni, največji, edini, zadnji</li>
+      <li>ADJ-Part: minuli, izbrani, znani, omenjeni, spoštovani, imenovani, izpodbijani, navedeni, odprti, plačani</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: pravi, državni, novi, slovenski, drugi, veliki, glavni, največji, edini, zadnji</li>
-        <li>ADJ-Part: minuli, izbrani, znani, omenjeni, spoštovani, imenovani, izpodbijani, navedeni, odprti, plačani</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: sam, velik, nov, drug, pomemben, prepričan, dober, podoben, pripravljen, sprejet</li>
-        <li>ADJ-Part: prepričan, pripravljen, sprejet, zasnovan, presenečen, sestavljen, zaposlen, namenjen, oblečen, opremljen</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: sam, velik, nov, drug, pomemben, prepričan, dober, podoben, pripravljen, sprejet</li>
+      <li>ADJ-Part: prepričan, pripravljen, sprejet, zasnovan, presenečen, sestavljen, zaposlen, namenjen, oblečen, opremljen</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: boljše, večji, večje, večja, boljši, močnejši, večjih, boljša, daljši, starejši</li>
-        <li>ADV: bolj, prej, večkrat, bolje, pozneje, raje, kasneje, dlje, hitreje, laže</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: boljše, večji, večje, večja, boljši, močnejši, večjih, boljša, daljši, starejši</li>
+      <li>ADV: bolj, prej, večkrat, bolje, pozneje, raje, kasneje, dlje, hitreje, laže</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: mogoče, sam, novo, nove, različnih, veliko, slovenski, velika, veliki, novega</li>
-        <li>ADJ-Part: znani, prepričan, znano, določene, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet</li>
-        <li>ADV: lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: mogoče, sam, novo, nove, različnih, veliko, slovenski, velika, veliki, novega</li>
+      <li>ADJ-Part: znani, prepričan, znano, določene, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet</li>
+      <li>ADV: lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: največji, najboljši, največja, največjih, najboljša, najboljših, najpomembnejši, največje, najprimernejše, največjo</li>
-        <li>ADV: najbolj, najprej, najmanj, najbolje, najpogosteje, največkrat, najverjetneje, Najhuje, najdlje, najkasneje</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: največji, najboljši, največja, največjih, najboljša, najboljših, najpomembnejši, največje, najprimernejše, največjo</li>
+      <li>ADV: najbolj, najprej, najmanj, najbolje, najpogosteje, največkrat, najverjetneje, Najhuje, najdlje, najkasneje</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX-Fin: ni, niso, nisem, nismo, niste, nista, nisva, nisi</li>
+      <li>PART: ne</li>
+      <li>VERB-Fin: ni, nima, nimajo, nimam, noče, nimamo, nimate, nisem, nismo, niso</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>AUX-Fin: ni, niso, nisem, nismo, niste, nista, nisva, nisi</li>
-        <li>PART: ne</li>
-        <li>VERB-Fin: ni, nima, nimajo, nimam, noče, nimamo, nimate, nisem, nismo, niso</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>AUX-Fin: je, so, bo, sem, bodo, sta, smo, bomo, boste, ste</li>
+      <li>VERB-Fin: je, ima, so, bo, imajo, imamo, imate, imam, hoče, sem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>AUX-Fin: je, so, bo, sem, bodo, sta, smo, bomo, boste, ste</li>
-        <li>VERB-Fin: je, ima, so, bo, imajo, imamo, imate, imam, hoče, sem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Variant</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Bound
+    <ul>
+      <li>PRON: zanj, zame, zase, nanjo, zanjo, vanjo, nanj, vanj, zanje, name</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Variant</a>
-
-  <ul>
-    <li>Bound
-      <ul>
-        <li>PRON: zanj, zame, zase, nanjo, zanjo, vanjo, nanj, vanj, zanje, name</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Short
-      <ul>
-        <li>PRON: se, ga, jih, si, jo, mu, mi, ji, me, jim</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Short
+    <ul>
+      <li>PRON: se, ga, jih, si, jo, mu, mi, ji, me, jim</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: ima, imajo, mora, zdi, moramo, morajo, more, velja, želi, deluje</li>
-        <li>VERB-Inf: imeti, vedeti, govoriti, delati, zdraviti, živeti, igrati, paziti, pričakovati, sodelovati</li>
-        <li>VERB-Part: imel, moral, imela, imeli, morali, morala, hotel, mogel, zdelo, vedela</li>
-        <li>VERB-Sup: delat, spat, gledat, iskat, krpat, mižat, prest, prosit, smučat, snemat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: ima, imajo, mora, zdi, moramo, morajo, more, velja, želi, deluje</li>
+      <li>VERB-Inf: imeti, vedeti, govoriti, delati, zdraviti, živeti, igrati, paziti, pričakovati, sodelovati</li>
+      <li>VERB-Part: imel, moral, imela, imeli, morali, morala, hotel, mogel, zdelo, vedela</li>
+      <li>VERB-Sup: delat, spat, gledat, iskat, krpat, mižat, prest, prosit, smučat, snemat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>VERB-Fin: pride, postane, začne, dobijo, nastane, da, zgodi, ostane, pove, dobi</li>
-        <li>VERB-Inf: reči, narediti, dobiti, najti, povedati, spremeniti, sprejeti, plačati, izogniti, ohraniti</li>
-        <li>VERB-Part: povedal, dejal, zgodilo, začeli, začela, postal, rekel, uspelo, dobil, prišel</li>
-        <li>VERB-Sup: odpotovat, osvobodit, pogledat, zajebat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>VERB-Fin: pride, postane, začne, dobijo, nastane, da, zgodi, ostane, pove, dobi</li>
+      <li>VERB-Inf: reči, narediti, dobiti, najti, povedati, spremeniti, sprejeti, plačati, izogniti, ohraniti</li>
+      <li>VERB-Part: povedal, dejal, zgodilo, začeli, začela, postal, rekel, uspelo, dobil, prišel</li>
+      <li>VERB-Sup: odpotovat, osvobodit, pogledat, zajebat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: bi, b</li>
+      <li>VERB-Fin: bi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: bi, b</li>
-        <li>VERB-Fin: bi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: bodite, Bodi</li>
+      <li>VERB-Fin: dodajte, Ugotovimo, dajte, pazite, denimo, poglejmo, pojdite, poskusite, povej, pozabite</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: bodite, Bodi</li>
-        <li>VERB-Fin: dodajte, Ugotovimo, dajte, pazite, denimo, poglejmo, pojdite, poskusite, povej, pozabite</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: je, so, bo, ni, sem, bodo, sta, smo, niso, bomo</li>
+      <li>VERB-Fin: je, ima, ni, gre, so, bo, imajo, mora, pomeni, zdi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: je, so, bo, ni, sem, bodo, sta, smo, niso, bomo</li>
-        <li>VERB-Fin: je, ima, ni, gre, so, bo, imajo, mora, pomeni, zdi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: bo, bodo, bomo, boste, bom, bosta, bova, bojo, boš</li>
+      <li>VERB-Fin: bo, bodo, boste, bom</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: bo, bodo, bomo, boste, bom, bosta, bova, bojo, boš</li>
-        <li>VERB-Fin: bo, bodo, boste, bom</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: je, so, ni, sem, sta, smo, niso, ste, nisem, sva</li>
-        <li>VERB-Fin: je, ima, ni, gre, so, imajo, mora, pomeni, zdi, moramo</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: je, so, ni, sem, sta, smo, niso, ste, nisem, sva</li>
+      <li>VERB-Fin: je, ima, ni, gre, so, imajo, mora, pomeni, zdi, moramo</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: to, tem, ta, tega, te, toliko, teh, temu, tej, tisti</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: to, tem, ta, tega, te, toliko, teh, temu, tej, tisti</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: nekaj, več, veliko, manj, dovolj, malo, pol, preveč, največ, nekatere</li>
-        <li>PRON: nekaj, nekdo, marsikaj, nekoga, marsikoga, nečesa, Marsikdo, malokdo, marsičem, neki</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: nekaj, več, veliko, manj, dovolj, malo, pol, preveč, največ, nekatere</li>
+      <li>PRON: nekaj, nekdo, marsikaj, nekoga, marsikoga, nečesa, Marsikdo, malokdo, marsičem, neki</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>DET: katerem, katerih, kateri, katero, katere, koliko, katerega, kakšno, katerimi, katerim</li>
-        <li>PRON: kaj, kdo, česa, komu, čem, koga, kom, kej, kva</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: katerem, katerih, kateri, katero, katere, koliko, katerega, kakšno, katerimi, katerim</li>
+      <li>PRON: kaj, kdo, česa, komu, čem, koga, kom, kej, kva</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>DET: nobenega, nobene, noben, nobenih, nobena, nikakršne, nobenim, Nikakršnih, Nobeno, nikakršen</li>
-        <li>PRON: nič, nihče, nikogar, ničesar, nikomur, ničemer, nobeden, ničemur, nč</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: nobenega, nobene, noben, nobenih, nobena, nikakršne, nobenim, Nikakršnih, Nobeno, nikakršen</li>
+      <li>PRON: nič, nihče, nikogar, ničesar, nikomur, ničemer, nobeden, ničemur, nč</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</li>
-        <li>PRON: se, ga, jih, si, jo, mu, mi, ji, nas, nam</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</li>
+      <li>PRON: se, ga, jih, si, jo, mu, mi, ji, nas, nam</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>DET: kakršen, kakršnokoli, kakršna, kakršnih, kakršno, kakršni, kakršenkoli, kakršne, kakršnega, kakršnegakoli</li>
-        <li>PRON: kar, čemer, česar, čimer, kdor, karkoli, kogar, komerkoli, čemerkoli</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: kakršen, kakršnokoli, kakršna, kakršnih, kakršno, kakršni, kakršenkoli, kakršne, kakršnega, kakršnegakoli</li>
+      <li>PRON: kar, čemer, česar, čimer, kdor, karkoli, kogar, komerkoli, čemerkoli</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>DET: vse, vseh, vsi, vsak, vsem, ves, vsako, oba, obeh, vsega</li>
-        <li>PRON: vsakdo, vsakogar, vsakomur</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: vse, vseh, vsi, vsak, vsem, ves, vsako, oba, obeh, vsega</li>
+      <li>PRON: vsakdo, vsakogar, vsakomur</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: eno, tri, dva, dveh, eden, ena, tisoč, štiri, dve, štirih</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: eno, tri, dva, dveh, eden, ena, tisoč, štiri, dve, štirih</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>ADJ: dvojnega, dvojnim, dvojno, trojnim</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>ADJ: dvojnega, dvojnim, dvojno, trojnim</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: prvi, prva, prvo, prve, prvem, prvih, prvega, tretji, tretje, prvim</li>
+      <li>NUM: 1., 20., 18., 9., 14., 17., 19., 6., 3., 10.</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: prvi, prva, prvo, prve, prvem, prvih, prvega, tretji, tretje, prvim</li>
-        <li>NUM: 1., 20., 18., 9., 14., 17., 19., 6., 3., 10.</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sets
+    <ul>
+      <li>NUM: dvoje, tisočerih, troje</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sets
-      <ul>
-        <li>NUM: dvoje, tisočerih, troje</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: človekovih, človekove, Vallaressovi, vodikov, človekova, Cankarjevem, Darwinove, Gregorčičevi, Kristusovega, Levovo</li>
+      <li>DET: svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: človekovih, človekove, Vallaressovi, vodikov, človekova, Cankarjevem, Darwinove, Gregorčičevi, Kristusovega, Levovo</li>
-        <li>DET: svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: svoje, svojo, svoj, svojega, svoji, svojih, svojim, svojem, svoja, svojimi</li>
+      <li>PRON: se, si, sebi, seboj, sebe, zase, sabo, nase, vase</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: sem, smo, bomo, nisem, bom, sva, nismo, nisva, bova</li>
+      <li>DET: naše, naših, naš, naša, moj, moje, naši, našo, moja, moji</li>
+      <li>PRON: mi, nas, nam, me, jaz, meni, zame, nama, nami, mene</li>
+      <li>VERB-Fin: moramo, mislim, imamo, moremo, smemo, vem, imam, moram, vemo, morem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: svoje, svojo, svoj, svojega, svoji, svojih, svojim, svojem, svoja, svojimi</li>
-        <li>PRON: se, si, sebi, seboj, sebe, zase, sabo, nase, vase</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: boste, ste, si, niste, bodite, nisi, sta, Bodi, as, bosta</li>
+      <li>DET: vaš, vaša, vaše, vašo, tvoje, vašega, vaši, tvoj, vaših, tvoja</li>
+      <li>PRON: vam, vas, ti, vi, te, tebe, tebi, vaju, vami, nate</li>
+      <li>VERB-Fin: imate, morate, želite, dodajte, veš, potrebujete, boste, moraš, si, ste</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: sem, smo, bomo, nisem, bom, sva, nismo, nisva, bova</li>
-        <li>DET: naše, naših, naš, naša, moj, moje, naši, našo, moja, moji</li>
-        <li>PRON: mi, nas, nam, me, jaz, meni, zame, nama, nami, mene</li>
-        <li>VERB-Fin: moramo, mislim, imamo, moremo, smemo, vem, imam, moram, vemo, morem</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: boste, ste, si, niste, bodite, nisi, sta, Bodi, as, bosta</li>
-        <li>DET: vaš, vaša, vaše, vašo, tvoje, vašega, vaši, tvoj, vaših, tvoja</li>
-        <li>PRON: vam, vas, ti, vi, te, tebe, tebi, vaju, vami, nate</li>
-        <li>VERB-Fin: imate, morate, želite, dodajte, veš, potrebujete, boste, moraš, si, ste</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: je, so, bo, ni, bodo, sta, niso, bosta, nista, bojo</li>
-        <li>DET: njegov, njegovo, njegove, njegova, njeno, njen, njihove, njegovem, njegovi, njene</li>
-        <li>PRON: ga, jih, jo, mu, ji, jim, njim, njih, njem, njimi</li>
-        <li>VERB-Fin: je, ima, ni, gre, so, bo, imajo, mora, pomeni, zdi</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: je, so, bo, ni, bodo, sta, niso, bosta, nista, bojo</li>
+      <li>DET: njegov, njegovo, njegove, njegova, njeno, njen, njihove, njegovem, njegovi, njene</li>
+      <li>PRON: ga, jih, jo, mu, ji, jim, njim, njih, njem, njimi</li>
+      <li>VERB-Fin: je, ima, ni, gre, so, bo, imajo, mora, pomeni, zdi</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
 
-<li><a>Gender[psor]</a>
+<ul>
+  <li>Fem
+    <ul>
+      <li>DET: njeno, njen, njene, njena, njeni, njenih, njenim, njenega, njenem, njenemu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>DET: njeno, njen, njene, njena, njeni, njenih, njenim, njenega, njenem, njenemu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>DET: njegov, njegovo, njegove, njegova, njegovem, njegovi, njegovih, njegovega, njegovim, njegovimi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>DET: njegov, njegovo, njegove, njegova, njegovem, njegovi, njegovih, njegovega, njegovim, njegovimi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neut
+    <ul>
+      <li>DET: njegov</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>DET: njegov</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Dual
+    <ul>
+      <li>DET: njun, njuna, njuno, njuni, najin, najinih, vajino, Najine, najina, najinega</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: naše, naših, njihove, naš, naša, njihovo, njihov, njihova, njihovih, naši</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dual
-      <ul>
-        <li>DET: njun, njuna, njuno, njuni, najin, najinih, vajino, Najine, najina, najinega</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: naše, naših, njihove, naš, naša, njihovo, njihov, njihova, njihovih, naši</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: njegov, njegovo, njegove, njegova, njeno, njen, njegovem, njegovi, njene, njegovih</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: njegov, njegovo, njegove, njegova, njeno, njen, njegovem, njegovi, njene, njegovih</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: dr., oz., t., d., sv., P., i., M., j., o.</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: dr., oz., t., d., sv., P., i., M., j., o.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: de, of, the, bin, El, Les, Party, TO, TRAVEL, WRITING</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: de, of, the, bin, El, Les, Party, TO, TRAVEL, WRITING</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: 10, 15, 2000, 50, 1., 3, 30, 20, 20., 6</li>
-      </ul>
-    </li>
-    <li>Roman
-      <ul>
-        <li>NUM: I., II, II., VI, I, III, IV., IX., V, V.</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: eno, tri, dva, dveh, eden, ena, tisoč, štiri, dve, štirih</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 10, 15, 2000, 50, 1., 3, 30, 20, 20., 6</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: I., II, II., VI, I, III, IV., IX., V, V.</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: eno, tri, dva, dveh, eden, ena, tisoč, štiri, dve, štirih</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

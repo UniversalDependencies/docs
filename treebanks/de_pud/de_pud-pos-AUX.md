@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (5%), 102 `AUX` types (2%) and 950 `AUX` tokens (4%).
-Out of 16 observed tags, the rank of `AUX` is: 5 in number of lemmas, 7 in number of types and 10 in number of tokens.
+There are 43 `AUX` lemmas (1%), 102 `AUX` types (2%) and 950 `AUX` tokens (4%).
+Out of 16 observed tags, the rank of `AUX` is: 8 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>_</em>
+The 10 most frequent `AUX` lemmas: <em>sein, werden, haben, können, müssen, sollen, wollen, bleiben, lassen, mögen</em>
 
 The 10 most frequent `AUX` types:  <em>ist, wurde, war, werden, wird, wurden, sind, hatte, waren, hat</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4261, <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 2767, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 2515, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1913, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 1715, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1387, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1219, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1185, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1139, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 950, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 743, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 352, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 144, <tt><a href="de_pud-pos-X.html">X</a></tt> 31, <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> 22)
+The 10 most frequent ambiguous lemmas: <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 320, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 51), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 312, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 5), <em>haben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 121, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 55), <em>können</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 71, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>wollen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>bleiben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 8, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>lassen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 6, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>ansehen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 4, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>nennen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 4, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>halten</em> (<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 119, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 19), <em>wurde</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 108, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>war</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 94, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 13), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 59, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>wird</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 50, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>sind</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 38, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 8), <em>hatte</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 10), <em>waren</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 4), <em>hat</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 34, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18), <em>haben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 17)
 
@@ -51,9 +51,13 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 102.000000 (the average of all parts of speech is 307.454545).
+The form / lemma ratio of `AUX` is 2.372093 (the average of all parts of speech is 1.193156).
 
-The 1st highest number of forms (102) was observed with the lemma “_”: <em>Don', Dürfen, Lass, Zeit, angesehen, ansah, aufzutreten, ausgemacht, bekannt, beschrieb, betrachtet, betrachtete, bezeichnet, bezeichneten, bin, bleiben, bleiben., blieb, blieben, didn', dient, dienten, durften, dürfte, erkläre, finden, fungiert, funktioniert, gehalten, genannt, geschrieben, gewesen, geworden, gilt, habe, haben, habt, hat, hat., hatte, hatten, heißt, hielt, hätte, hätten, interpretierte, ist, ist., kann, konnte, konnten, könne, können, könnte, könnten, lassen, ließ, lässt, machen, macht, mag, muss, musst, musste, mussten, möchte, möchten, müsse, müssen, müssten, müßten, nenne, sah, scheinen, sei, seien, sein, sind, soll, sollen, sollte, sollten, t, vestanden, war, waren, wawr, werde, werden, werden., wird, wollen, wollte, wollten, worden, wurde, wurden, wäre, wären, würde, würden, würden.</em>.
+The 1st highest number of forms (12) was observed with the lemma “sein”: <em>bin, gewesen, ist, sei, seien, sein, sind, war, waren, wawr, wäre, wären</em>.
+
+The 2nd highest number of forms (10) was observed with the lemma “werden”: <em>geworden, werde, werden, werden., wird, worden, wurde, wurden, würde, würden</em>.
+
+The 3rd highest number of forms (8) was observed with the lemma “haben”: <em>habe, haben, habt, hat, hatte, hatten, hätte, hätten</em>.
 
 `AUX` occurs with 7 features: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt> (891; 94% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (852; 90% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (852; 90% instances), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt> (851; 90% instances), <tt><a href="de_pud-feat-VerbForm.html">VerbForm</a></tt> (4; 0% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances)
 

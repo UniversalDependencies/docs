@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Marathi UFAL
 
-Language: [Marathi](../mr/overview/mr-hub.html) (code: `mr`)<br/>
+Language: [Marathi](/mr/index.html) (code: `mr`)<br/>
 Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Vinit Ravishankar.
 
 Repository: [UD_Marathi-UFAL](https://github.com/UniversalDependencies/UD_Marathi-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

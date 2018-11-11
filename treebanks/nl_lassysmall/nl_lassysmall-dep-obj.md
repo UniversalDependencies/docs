@@ -24,13 +24,13 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4 7 obj	color:blue
 1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	2:det	_
 2	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	4	nsubj	4:nsubj	_
-3	Gewest	Gewest	PROPN	SPEC|deeleigen	_	2	flat:name	2:flat:name	_
+3	Gewest	Gewest	PROPN	SPEC|deeleigen	_	2	flat	2:flat	_
 4	beheert	beheren	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	ook	ook	ADV	BW	_	4	advmod	4:advmod	_
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
 7	gewestwegen	gewestweg	NOUN	N|soort|mv|basis	Number=Plur	4	obj	4:obj	_
 8	in	in	ADP	VZ|init	_	9	case	9:case	_
-9	Vlaanderen	Vlaanderen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl	SpaceAfter=No
+9	Vlaanderen	Vlaanderen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:in	SpaceAfter=No
 10	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 5	om	om	ADP	VZ|init	_	8	mark	8:mark	_
 6	ons	ons	PRON	VNW|pr|pron|obl|vol|1|mv	Case=Acc|Person=1|PronType=Prs	8	obj	8:obj	_
 7	te	te	ADP	VZ|init	_	8	mark	8:mark	_
-8	misleiden	misleiden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	4	acl	4:acl	SpaceAfter=No
+8	misleiden	misleiden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	4	acl	4:acl:om	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 10	"	"	PUNCT	LET	_	2	punct	2:punct	_
 

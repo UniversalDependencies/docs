@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
-1	@njallsfirstlove	@njallsfirstlove	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	_
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	@LUltimaParola	@LUltimaParola	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	5	nsubj	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_

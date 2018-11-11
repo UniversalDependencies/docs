@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-19660 tokens (12%) have a non-empty value of `Person`.
-3274 types (12%) occur at least once with a non-empty value of `Person`.
-1533 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (7303; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5993; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4967; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+19669 tokens (12%) have a non-empty value of `Person`.
+3268 types (12%) occur at least once with a non-empty value of `Person`.
+1529 lemmas (11%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (7349; 4% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5957; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4967; 3% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1396; 1% instances).
 
 ### `VERB`
 
-7303 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person`.
+7349 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7303; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7303; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7303; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6822; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6822; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6722; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6184; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5733; 79%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7349; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7349; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7349; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6868; 93%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6868; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6768; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6230; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5779; 79%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1903; 26% of non-empty `Person`): <em>mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</em>
-* `2` (1254; 17% of non-empty `Person`): <em>víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</em>
-* `3` (4146; 57% of non-empty `Person`): <em>je, má, může, musí, není, mají, stojí, jde, jsou, bude</em>
+* `2` (1300; 18% of non-empty `Person`): <em>jsi, víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš</em>
+* `3` (4146; 56% of non-empty `Person`): <em>je, má, může, musí, není, mají, stojí, jde, jsou, bude</em>
 * `EMPTY` (17647): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
 
 <table>
@@ -39,16 +39,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-5993 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
+5957 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5990; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5960; 99%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4833; 81%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4154; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3420; 57%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3056; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5957; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4800; 81%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4121; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3417; 57%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3020; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (2362; 39% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
-* `2` (694; 12% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, ses, tebou, tobě</em>
+* `1` (2362; 40% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
+* `2` (658; 11% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</em>
 * `3` (2937; 49% of non-empty `Person`): <em>ho, mu, ji, je, jí, ní, on, něj, nich, jim</em>
-* `EMPTY` (8112): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
+* `EMPTY` (8148): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 ### `AUX`
 
@@ -96,15 +96,6 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</em>
 * `3` (708; 51% of non-empty `Person`): <em>jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</em>
 * `EMPTY` (7021): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
-
-### `CCONJ`
-
-1 <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Person`.
-
-`CCONJ` tokens may have the following values of `Person`:
-
-* `2` (1; 100% of non-empty `Person`): <em>Vždyťs</em>
-* `EMPTY` (7677): <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
 
 ## Relations with Agreement in `Person`
 

@@ -22,19 +22,19 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 12 acl:relcl	color:blue
-1	Lenny	_	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-2	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-3	ein	_	DET	DT	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3	5	det	_	_
-4	eingefleischter	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	5	amod	_	InflectionType=Mixed
-5	Junggeselle	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
-6	,	_	PUNCT	,	_	12	punct	_	_
-7	der	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
-8	wenig	_	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	9	det	_	_
-9	Glück	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	obj	_	_
-10	mit	_	ADP	IN	_	11	case	_	_
-11	Frauen	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	12	obl	_	_
-12	hat	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	5	punct	_	_
+1	Lenny	Lenny	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+3	ein	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Person=3	5	det	_	_
+4	eingefleischter	eingefleischt	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	5	amod	_	InflectionType=Mixed
+5	Junggeselle	Junggeselle	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	12	punct	_	_
+7	der	der	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+8	wenig	wenig	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	9	det	_	_
+9	Glück	Glück	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	obj	_	_
+10	mit	mit	ADP	IN	_	11	case	_	_
+11	Frauen	Frau	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	12	obl	_	_
+12	hat	haben	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -45,23 +45,23 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 14 acl:relcl	color:blue
-1	Die	_	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	3	det	_	_
-2	große	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Person=3	3	amod	_	InflectionType=Weak
-3	Höhe	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
-4	hilft	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-5	,	_	PUNCT	,	_	9	punct	_	_
-6	das	_	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	7	det	_	_
-7	Klima	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	_	_
-8	zu	_	PART	RP	_	9	mark	_	_
-9	kühlen	_	VERB	VB	_	4	xcomp	_	SpaceAfter=No
-10	,	_	PUNCT	,	_	14	punct	_	_
-11	das	_	PRON	REL	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	_	_
-12	anderenfalls	_	ADV	RB	Degree=Pos	14	advmod	_	_
-13	sehr	_	ADV	RB	Degree=Pos	14	advmod	_	_
-14	heiß	_	ADJ	JJ	Degree=Pos	7	acl:relcl	_	_
-15	sein	_	AUX	VB	_	14	cop	_	_
-16	würde	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past	14	aux	_	SpaceAfter=No
-17	.	_	PUNCT	.	_	4	punct	_	_
+1	Die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	3	det	_	_
+2	große	groß	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Person=3	3	amod	_	InflectionType=Weak
+3	Höhe	Höhe	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+4	hilft	helfen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	das	der	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	7	det	_	_
+7	Klima	Klima	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	_	_
+8	zu	zu	PART	RP	_	9	mark	_	_
+9	kühlen	kühlen	VERB	VB	_	4	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	das	der	PRON	REL	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	_	_
+12	anderenfalls	anderenfalls	ADV	RB	Degree=Pos	14	advmod	_	_
+13	sehr	sehr	ADV	RB	Degree=Pos	14	advmod	_	_
+14	heiß	heiß	ADJ	JJ	Degree=Pos	7	acl:relcl	_	_
+15	sein	sein	AUX	VB	_	14	cop	_	_
+16	würde	werden	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past	14	aux	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -72,26 +72,26 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 19 acl:relcl	color:blue
-1	Der	_	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	4	det	_	_
-2	wohl	_	PART	RP	_	3	advmod	_	_
-3	bekannteste	_	ADJ	JJ	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Person=3	4	amod	_	InflectionType=Weak
-4	Mensch	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
-5	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	6	det	_	_
-6	Kupferzeit	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	4	nmod	_	_
-7	ist	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-8	der	_	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	12	det	_	_
-9	als	_	SCONJ	CC	_	10	case	_	_
-10	Kältemumie	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	advcl	_	_
-11	erhaltene	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	12	amod	_	InflectionType=Weak
-12	Ötzi	_	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
-13	,	_	PUNCT	,	_	19	punct	_	_
-14	der	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nsubj	_	_
-15	um	_	ADP	IN	_	16	case	_	_
-16	3300	_	NUM	CD	NumType=Card	19	obl	_	_
-17	v.	_	ADP	IN	_	18	case	_	_
-18	Chr.	_	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
-19	lebte	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl:relcl	_	SpaceAfter=No
-20	.	_	PUNCT	.	_	12	punct	_	_
+1	Der	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	4	det	_	_
+2	wohl	wohl	PART	RP	_	3	advmod	_	_
+3	bekannteste	bekannt	ADJ	JJ	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing|Person=3	4	amod	_	InflectionType=Weak
+4	Mensch	Mensch	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+5	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	6	det	_	_
+6	Kupferzeit	Kupferzeit	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	4	nmod	_	_
+7	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+8	der	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	12	det	_	_
+9	als	als	SCONJ	CC	_	10	case	_	_
+10	Kältemumie	Kältemumie	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	advcl	_	_
+11	erhaltene	erhalten	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	12	amod	_	InflectionType=Weak
+12	Ötzi	Ötzi	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	,	_	19	punct	_	_
+14	der	der	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nsubj	_	_
+15	um	um	ADP	IN	_	16	case	_	_
+16	3300	3300	NUM	CD	NumType=Card	19	obl	_	_
+17	v.	von	ADP	IN	_	18	case	_	_
+18	Chr.	Chr.	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
+19	lebte	leben	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl:relcl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 

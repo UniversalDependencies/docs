@@ -12,73 +12,35 @@ It occurs with 2 different values: `Def`, `Ind`.
 37313 tokens (13%) have a non-empty value of `Definite`.
 188 types (0%) occur at least once with a non-empty value of `Definite`.
 93 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 14 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (33889; 12% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2634; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (322; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (267; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (76; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (47; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (34287; 12% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2948; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `DET`
 
-33889 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (93% of all `DET` tokens) have a non-empty value of `Definite`.
+34287 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (93% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (33835; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29666; 88%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (33908; 99%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29781; 87%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (28648; 85% of non-empty `Definite`): <em>der, die, dem, den, das, des</em>
-* `Ind` (5241; 15% of non-empty `Definite`): <em>eine, ein, einer, einem, einen, eines, Wenige, einige, Mehrere, all</em>
-* `EMPTY` (2523): <em>seine, seiner, die, sein, ihre, seinen, seinem, der, ihrer, den</em>
+* `Def` (28648; 84% of non-empty `Definite`): <em>der, die, dem, den, das, des</em>
+* `Ind` (5639; 16% of non-empty `Definite`): <em>eine, ein, einer, einem, einen, eines, viele, vielen, meisten, wenige</em>
+* `EMPTY` (2573): <em>seine, seiner, die, sein, ihre, seinen, seinem, der, ihrer, den</em>
 
-`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (21) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (44) occur only with one value of `Definite`.
 
 ### `PRON`
 
-2634 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Definite`.
+2948 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (20% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2634; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2634; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2187; 83%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1456; 55%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2948; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2948; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2251; 76%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1694; 57%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (148; 6% of non-empty `Definite`): <em>die, der, dem, das, den, 's</em>
-* `Ind` (2486; 94% of non-empty `Definite`): <em>man, alle, keine, beiden, allem, einige, alles, mehrere, anderem, kein</em>
-* `EMPTY` (12061): <em>er, sich, sie, es, die, ich, der, diese, das, dieser</em>
+* `Def` (393; 13% of non-empty `Definite`): <em>der, die, des, das, dem, den, 's, KPO, en</em>
+* `Ind` (2555; 87% of non-empty `Definite`): <em>man, alle, keine, beiden, allem, einige, alles, mehrere, anderem, viele</em>
+* `EMPTY` (12146): <em>er, sich, sie, es, die, ich, der, diese, das, wir</em>
 
-`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (43) occur only with one value of `Definite`.
-
-### `ADJ`
-
-322 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt> (244; 76%).
-
-`ADJ` tokens may have the following values of `Definite`:
-
-* `Ind` (322; 100% of non-empty `Definite`): <em>viele, vielen, meisten, wenige, wenigen, viel, weniger, anderem, beiden, genügend</em>
-* `EMPTY` (20623): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
-
-`Definite` seems to be **lexical feature** of `ADJ`. 100% lemmas (34) occur only with one value of `Definite`.
-
-### `PROPN`
-
-267 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (218; 82%).
-
-`PROPN` tokens may have the following values of `Definite`:
-
-* `Def` (245; 92% of non-empty `Definite`): <em>der, die, des, das, dem, den, 's, KPO, en</em>
-* `Ind` (22; 8% of non-empty `Definite`): <em>eine, etwas, Baer, Jones, Kehr, Loderer, Man, Mehr, Nichts, Propyläen</em>
-* `EMPTY` (31249): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
-
-`Definite` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Definite`.
-
-### `NUM`
-
-76 <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (76; 100%).
-
-`NUM` tokens may have the following values of `Definite`:
-
-* `Ind` (76; 100% of non-empty `Definite`): <em>ein, eine, einer, einem, einen, eines</em>
-* `EMPTY` (7374): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 1</em>
+`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (62) occur only with one value of `Definite`.
 
 ### `ADV`
 
@@ -90,19 +52,6 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 * `EMPTY` (14694): <em>auch, nur, noch, sehr, so, dort, wieder, hier, heute, jedoch</em>
 
 `Definite` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Definite`.
-
-### `NOUN`
-
-47 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33; 70%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 62%).
-
-`NOUN` tokens may have the following values of `Definite`:
-
-* `Ind` (47; 100% of non-empty `Definite`): <em>meisten, man, letztere, Letzteres, Letzterer, anderen, letzterem, viele, wenigen, Dr.</em>
-* `EMPTY` (52246): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
-
-`Definite` seems to be **lexical feature** of `NOUN`. 100% lemmas (16) occur only with one value of `Definite`.
 
 ### `PART`
 
@@ -181,10 +130,14 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>PRON --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 75%),
+<tt>PRON --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 83%),
+<tt>DET --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 75%),
+<tt>DET --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
+<tt>PRON --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> DET</tt> (2; 100%),
 <tt>ADV --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>ADV --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
 <tt>ADV --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="de_gsd-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (1; 100%),
-<tt>PRON --[<tt><a href="de_gsd-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="de_gsd-dep-advmod.html">advmod</a></tt>]--> DET</tt> (1; 100%).
 

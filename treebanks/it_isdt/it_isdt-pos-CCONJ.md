@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-ISDT: POS Tags: `CCONJ`
 
-There are 37 `CCONJ` lemmas (0%), 36 `CCONJ` types (0%) and 8136 `CCONJ` tokens (3%).
+There are 37 `CCONJ` lemmas (0%), 36 `CCONJ` types (0%) and 8137 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>e, o, ma, sia, cioè, né, oppure, ovvero, che, nonché</em>
 
 The 10 most frequent `CCONJ` types:  <em>e, o, ma, ed, sia, cioè, oppure, né, ovvero, che</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 5897, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1109, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>cioè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 58, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 41), <em>oppure</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 46, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 2), <em>ovvero</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>che</em> (<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> 2365, <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 1271, <tt><a href="it_isdt-pos-DET.html">DET</a></tt> 250, <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> 33, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 30), <em>mentre</em> (<tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 110, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 16), <em>nè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>quindi</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 80, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 11), <em>eppure</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 9)
+The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 5897, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1109, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>cioè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 58, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 41), <em>oppure</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 46, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 2), <em>ovvero</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>che</em> (<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> 2365, <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 1271, <tt><a href="it_isdt-pos-DET.html">DET</a></tt> 250, <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> 33, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 30), <em>mentre</em> (<tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 109, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 17), <em>nè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>quindi</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 80, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 11), <em>eppure</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 10, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 9)
 
-The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 5383, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1082, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>sia</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 15), <em>cioè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 58, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 40), <em>ovvero</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>che</em> (<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> 2343, <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 1263, <tt><a href="it_isdt-pos-DET.html">DET</a></tt> 94, <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> 33, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 30), <em>nè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>mentre</em> (<tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 97, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 16), <em>quindi</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 74, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 4), <em>però</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 80, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 5383, <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1082, <tt><a href="it_isdt-pos-X.html">X</a></tt> 1), <em>sia</em> (<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> 15), <em>cioè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 58, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 40), <em>ovvero</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>che</em> (<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> 2343, <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 1263, <tt><a href="it_isdt-pos-DET.html">DET</a></tt> 94, <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> 33, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 30), <em>nè</em> (<tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 27, <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1), <em>mentre</em> (<tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 17), <em>quindi</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 74, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 4), <em>però</em> (<tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 80, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 3)
 
 
 * <em>e</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_isdt-pos-CCON
   * <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 27: <em>Un artista versatile e irrealizzato fu Diefenbach , mai banale , <b>nè</b> oziosamente superfluo .</em>
   * <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 1: <em>E noi , che pure amiamo l' America , restiamo a contemplare il mistero di la violenza che ancora percorre questo Paese , senza che si trovino <b>nè</b> cause , nè rimedi .</em>
 * <em>mentre</em>
-  * <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 97: <em>Dovevi veder li , l' altro ieri , come scappavano <b>mentre</b> noi avanzavamo .</em>
-  * <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 16: <em>Il periodo di proroga proposto è di sei anni , <b>mentre</b> l' importo di riferimento finanziario resta invariato a 1 milione di EUR a l' anno .</em>
+  * <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> 96: <em>Dovevi veder li , l' altro ieri , come scappavano <b>mentre</b> noi avanzavamo .</em>
+  * <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 17: <em>Il periodo di proroga proposto è di sei anni , <b>mentre</b> l' importo di riferimento finanziario resta invariato a 1 milione di EUR a l' anno .</em>
 * <em>quindi</em>
   * <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> 74: <em>i quartieri , <b>quindi</b> , non sono deserti come in le zone più signorili .</em>
   * <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 4: <em>La parola consiste testualmente di i tre morfemi giapponesi yama ' montagna ' , no suffisso genitivo , te ' mano ' , <b>quindi</b> " mano di la montagna " .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_isdt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.972973 (the average of all parts of speech is 1.480641).
+The form / lemma ratio of `CCONJ` is 0.972973 (the average of all parts of speech is 1.480598).
 
 The 1st highest number of forms (3) was observed with the lemma “e”: <em>e, ed, et</em>.
 
@@ -69,19 +69,19 @@ The 3rd highest number of forms (2) was observed with the lemma “o”: <em>o, 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (8130; 100% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="it_isdt-dep-cc.html">cc</a></tt> (8130; 100% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (6; 0% instances), <tt><a href="it_isdt-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (3723; 46% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (2578; 32% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (903; 11% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (509; 6% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (186; 2% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (102; 1% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (3721; 46% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (2576; 32% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (907; 11% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (510; 6% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (186; 2% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (106; 1% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (102; 1% instances), <tt><a href="it_isdt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
 8130 (100%) `CCONJ` nodes are leaves.
 
 5 (0%) `CCONJ` nodes have one child.
 
-1 (0%) `CCONJ` nodes have two children.
+2 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (5; 71% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (2; 29% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="it_isdt-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="it_isdt-dep-fixed.html">fixed</a></tt> (4; 44% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (5; 71% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> (6; 67% instances), <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (1; 11% instances)
 

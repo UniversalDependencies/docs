@@ -25,10 +25,10 @@ The following 76 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	1957	1957	NUM	TW|hoofd|vrij	_	0	root	0:root	_
 2	-	-	PUNCT	LET	_	3	punct	3:punct	_
 3	Jos	Jos	PROPN	SPEC|deeleigen	_	1	parataxis	1:parataxis	_
-4	De	De	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
-5	Haes	Haes	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
+4	De	De	PROPN	SPEC|deeleigen	_	3	flat	3:flat	_
+5	Haes	Haes	PROPN	SPEC|deeleigen	_	3	flat	3:flat	_
 6	voor	voor	ADP	VZ|init	_	7	case	7:case	_
-7	Gedaanten	gedaante	NOUN	N|soort|mv|basis	Number=Plur	3	nmod	3:nmod	_
+7	Gedaanten	gedaante	NOUN	N|soort|mv|basis	Number=Plur	3	nmod	3:nmod:voor	_
 
 ~~~
 
@@ -60,8 +60,8 @@ The following 76 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Antwerpen	Antwerpen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
 2	:	:	PUNCT	LET	_	3	punct	3:punct	_
 3	Gerda	Gerda	PROPN	SPEC|deeleigen	_	1	parataxis	1:parataxis	_
-4	Van	Van	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
-5	Langendonck	Langendonck	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
+4	Van	Van	PROPN	SPEC|deeleigen	_	3	flat	3:flat	_
+5	Langendonck	Langendonck	PROPN	SPEC|deeleigen	_	3	flat	3:flat	_
 
 ~~~
 

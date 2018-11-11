@@ -72,10 +72,10 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 18	Κορέας	Κορέα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	22	punct	_	_
 20	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	nsubj	_	_
+21	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	nsubj:pass	_	_
 22	αναμένεται	αναμένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl:relcl	_	_
 23	να	να	PART	PART	_	24	aux	_	_
-24	εκτοξευτεί	εκτοξεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	22	csubj	_	_
+24	εκτοξευτεί	εκτοξεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	22	csubj:pass	_	_
 25	σ	σε	ADP	AsPpSp	_	27	case	_	_
 26	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	27	det	_	_
 27	μέσα	μέσο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	24	obl	_	_

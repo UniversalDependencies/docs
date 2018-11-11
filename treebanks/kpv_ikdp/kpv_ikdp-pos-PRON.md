@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `PRON`
 
-There are 22 `PRON` lemmas (5%), 30 `PRON` types (6%) and 70 `PRON` tokens (7%).
-Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 5 in number of types and 5 in number of tokens.
+There are 23 `PRON` lemmas (5%), 35 `PRON` types (7%) and 81 `PRON` tokens (8%).
+Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>ме, сійӧ, сыа, ми, я, ас, мыйке, что, аслум, быд</em>
+The 10 most frequent `PRON` lemmas: <em>ме, ми, сійӧ, сыа, ас, я, мыйке, что, Всё, быд</em>
 
-The 10 most frequent `PRON` types:  <em>сыа, ме, миян, сы, менам, ми, мыйке, ачыс, кодке, меня</em>
+The 10 most frequent `PRON` types:  <em>сыа, ме, миян, сы, ми, менам, мыйке, ачыс, кодке, меня</em>
 
-The 10 most frequent ambiguous lemmas: <em>ас</em> (<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2), <em>что</em> (<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> 1), <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>став</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ас</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> 4), <em>что</em> (<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> 1), <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>став</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> 1), <em>быд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 1, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 1)
 
@@ -32,40 +32,40 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.363636 (the average of all parts of speech is 1.113379).
+The form / lemma ratio of `PRON` is 1.521739 (the average of all parts of speech is 1.144444).
 
-The 1st highest number of forms (6) was observed with the lemma “сійӧ”: <em>Сылэн, Сыысь, сы, сыа, сіе, сіес</em>.
+The 1st highest number of forms (6) was observed with the lemma “ме”: <em>ме, меам, мен, менам, менум, менэ</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “ме”: <em>ме, мен, менам, менум, менэ</em>.
+The 2nd highest number of forms (6) was observed with the lemma “сійӧ”: <em>Сылэн, Сыысь, сы, сыа, сіе, сіес</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “ми”: <em>ми, миян, миянумес</em>.
+The 3rd highest number of forms (4) was observed with the lemma “ас”: <em>асланум, аслум, ачум, ачыс</em>.
 
-`PRON` occurs with 7 features: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (52; 74% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (52; 74% instances), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (39; 56% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
+`PRON` occurs with 8 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (69; 85% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (65; 80% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (62; 77% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (59; 73% instances), <tt><a href="kpv_ikdp-feat-Reflex.html">Reflex</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
 
-`PRON` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Prs`
+`PRON` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Person[psor]=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Prs`, `Reflex=Yes`
 
-`PRON` occurs with 17 feature combinations.
-The most frequent feature combination is `Person=1|PronType=Prs` (13 tokens).
-Examples: <em>миян, менам, меня, нас, меам</em>
+`PRON` occurs with 25 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (15 tokens).
+Examples: <em>сыа, сы</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (28; 40% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (10; 14% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (7; 10% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (6; 9% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-det.html">det</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (1; 1% instances)
+`PRON` nodes are attached to their parents using 17 different relations: <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (33; 41% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (13; 16% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (7; 9% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (6; 7% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="kpv_ikdp-dep-det.html">det</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (33; 47% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (24; 34% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (38; 47% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (29; 36% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-43 (61%) `PRON` nodes are leaves.
+53 (65%) `PRON` nodes are leaves.
 
-22 (31%) `PRON` nodes have one child.
+23 (28%) `PRON` nodes have one child.
 
 3 (4%) `PRON` nodes have two children.
 
-2 (3%) `PRON` nodes have three or more children.
+2 (2%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 10 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (18; 49% instances), <tt><a href="kpv_ikdp-dep-case.html">case</a></tt> (6; 16% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 3% instances)
+Children of `PRON` nodes are attached using 10 different relations: <tt><a href="kpv_ikdp-dep-punct.html">punct</a></tt> (19; 50% instances), <tt><a href="kpv_ikdp-dep-case.html">case</a></tt> (6; 16% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (1; 3% instances)
 
-Children of `PRON` nodes belong to 9 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (18; 49% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (5; 14% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `PRON` nodes belong to 9 different parts of speech: <tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> (19; 50% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (6; 16% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

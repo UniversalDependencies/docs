@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-2033 tokens (3%) have a non-empty value of `NumType`.
-444 types (5%) occur at least once with a non-empty value of `NumType`.
-419 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1645; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (207; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (118; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (63; 0% instances).
+2036 tokens (3%) have a non-empty value of `NumType`.
+445 types (5%) occur at least once with a non-empty value of `NumType`.
+420 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1648; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (207; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (118; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (63; 0% instances).
 
 ### `NUM`
 
-1645 <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1648 <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1645; 100% of non-empty `NumType`): <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
+* `Card` (1648; 100% of non-empty `NumType`): <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
 * `EMPTY` (1): <em>3000</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (348) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (349) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (118; 100% of non-empty `NumType`): <em>millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</em>
-* `EMPTY` (14893): <em>patients, affaire, %, bivalirudine, ans, perfusion, traitement, mg, président, cas</em>
+* `EMPTY` (15098): <em>patients, affaire, %, bivalirudine, commission, ans, perfusion, traitement, mg, président</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `NumType`.
 
@@ -60,21 +60,20 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (63; 100% of non-empty `NumType`): <em>1, deux, 100, 1/10, 1/100, 10, 6, 96, six, trois</em>
-* `EMPTY` (2830): <em>il, qui, nous, se, je, s', vous, elle, ce, que</em>
+* `EMPTY` (2828): <em>il, qui, nous, se, je, s', vous, elle, ce, que</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NUM</tt> (30; 100%),
-<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (19; 100%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NUM</tt> (33; 100%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (23; 100%),
 <tt>ADJ --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 57%),
-<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> PRON</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

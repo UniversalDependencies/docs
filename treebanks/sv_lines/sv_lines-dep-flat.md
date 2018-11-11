@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-383 nodes (0%) are attached to their parents as `flat`.
+379 nodes (0%) are attached to their parents as `flat`.
 
-383 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0757180156658.
+379 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07915567282322.
 
-The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (352; 92% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (351; 93% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,30 +55,19 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 9 flat	color:blue
-1	En	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	2	det	_	_
-2	sida	sida	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	11	nsubj:pass	_	_
-3	som	som	PRON	REL	PronType=Rel	5	nsubj:pass	_	_
-4	har	ha	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-5	skapats	skapa	VERB	SUP-PASS	VerbForm=Sup|Voice=Pass	2	amod	_	_
-6	med	med	ADP	_	_	7	case	_	_
-7	Microsoft	Microsoft	PROPN	SG-NOM	Case=Nom	5	obl	_	_
-8	Access	Access	PROPN	SG-NOM	Case=Nom	7	flat	_	_
-9	2000	2000	NUM	ID	_	7	flat	_	_
-10	måste	måste	AUX	AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
-11	konverteras	konvertera	VERB	INF-PASS	VerbForm=Inf|Voice=Pass	0	root	_	_
-12	innan	innan	SCONJ	_	_	15	mark	_	_
-13	den	den	PRON	PERS-P3SG	Definite=Def|Number=Plur|PronType=Prs	15	nsubj:pass	_	_
-14	kan	kunna	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	_
-15	användas	använda	VERB	INF-PASS	VerbForm=Inf|Voice=Pass	11	advcl	_	_
-16	i	i	ADP	_	_	17	case	_	_
-17	Access	Access	PROPN	SG-NOM	Case=Nom	15	obl	_	_
-18	2002	2002	NUM	ID	_	17	nummod	_	SpaceAfter=No
-19	.	.	PUNCT	Period	_	11	punct	_	_
+# visual-style 7 8 flat	color:blue
+1	Vad	vad	PRON	WH-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Prs	3	obj	_	_
+2	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	_	_
+3	innebär	innebära	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	att	att	PART	_	_	5	mark	_	_
+5	använda	använda	VERB	INF-ACT	VerbForm=Inf|Voice=Act	3	csubj	_	_
+6	kommandot	kommando	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	7	nmod	_	_
+7	Spara	spara	VERB	INF-ACT	VerbForm=Inf|Voice=Act	5	obj	_	_
+8	som	som	ADP	_	_	7	flat	_	_
 
 ~~~
 

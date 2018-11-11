@@ -22,12 +22,12 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	Щом	щом	SCONJ	Cs	_	3	mark	_	_
-2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
-3	наям	наям-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	ставам	ставам	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	punct	_	5	punct	_	_
+1	Щом	щом	SCONJ	Cs	_	3	mark	3:mark	_
+2	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	3:expl	_
+3	наям	наям-(се)	VERB	Vpptf-r1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	5:advcl:щом	SpaceAfter=No
+4	,	,	PUNCT	punct	_	3	punct	3:punct	_
+5	ставам	ставам	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	punct	_	5	punct	5:punct	_
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 punct	color:blue
-1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-2	ли	ли	PART	Ti	_	1	discourse	_	_
-3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
-4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
-5	?	?	PUNCT	punct	_	1	punct	_	_
+1	Страх	страх	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	_
+2	ли	ли	PART	Ti	_	1	discourse	1:discourse	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	_
+4	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	SpaceAfter=No
+5	?	?	PUNCT	punct	_	1	punct	1:punct	_
 
 ~~~
 
@@ -53,18 +53,18 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 punct	color:blue
-1	Отговор	отговор	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-2	на	на	ADP	R	_	3	case	_	_
-3	Габриел	габриел	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	_
-4	Марсел	марсел	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	7	punct	_	_
-6	"	"	PUNCT	punct	_	7	punct	_	SpaceAfter=No
-7	Комба	комба	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
-8	"	"	PUNCT	punct	_	7	punct	_	SpaceAfter=No
-9	,	,	PUNCT	punct	_	10	punct	_	_
-10	декември	декември	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	_
-11	1948	1948	ADJ	Mofsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
-12	г.	година	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
+1	Отговор	отговор	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	_
+2	на	на	ADP	R	_	3	case	3:case	_
+3	Габриел	габриел	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	1	nmod	1:nmod:на	_
+4	Марсел	марсел	PROPN	Npmsi	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
+5	,	,	PUNCT	punct	_	7	punct	7:punct	_
+6	"	"	PUNCT	punct	_	7	punct	7:punct	SpaceAfter=No
+7	Комба	комба	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
+8	"	"	PUNCT	punct	_	7	punct	7:punct	SpaceAfter=No
+9	,	,	PUNCT	punct	_	10	punct	10:punct	_
+10	декември	декември	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
+11	1948	1948	ADJ	Mofsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	12	amod	12:amod	_
+12	г.	година	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	10	nmod	10:nmod	_
 
 ~~~
 

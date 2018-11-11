@@ -8,77 +8,80 @@ udver: '2'
 
 This relation is universal.
 
-131 nodes (1%) are attached to their parents as `xcomp`.
+246 nodes (1%) are attached to their parents as `xcomp`.
 
-131 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.51145038167939.
+246 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.53658536585366.
 
-The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (76; 58% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (26; 20% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (11; 8% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (210; 85% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 xcomp	color:blue
+1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	_
+2	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
+3	ⲩⲛⲧ	ⲟⲩⲛⲧⲁ	VERB	EXIST	_	1	acl	_	_
+4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	3	nsubj	_	_
+6	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	3	advmod	_	_
+7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
+8	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Inf	3	xcomp	_	_
+9	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	11	aux	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 xcomp	color:blue
+1	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	3	aux	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
+5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	obj	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
+7	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	ⲉⲝⲟⲩⲥⲓⲁ	ⲉⲝⲟⲩⲥⲓⲁ	NOUN	N	_	3	obl	_	_
+9	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+10	ⲛⲉϫ	ⲛⲟⲩϫⲉ	VERB	V	VerbForm=Fin	8	xcomp	_	_
+11	ⲇⲁⲓⲙⲱⲛⲓⲟⲛ	ⲇⲁⲓⲙⲱⲛⲓⲟⲛ	NOUN	N	_	10	obj	_	_
+12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	10	advmod	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 xcomp	color:blue
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	5	cc	_	_
-2	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	5	aux	_	_
-3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-4	ⲧⲙ	ⲧⲙ	ADV	NEG	Polarity=Neg	5	advmod	_	_
-5	ⲕⲁ	ⲕⲱ	VERB	V	VerbForm=Fin	0	root	_	_
-6	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-7	ⲧⲟⲡⲟⲥ	ⲧⲟⲡⲟⲥ	NOUN	N	_	5	obj	_	_
-8	ⲉ	ⲉ	ADP	PREP	_	9	mark	_	_
-9	ϣⲱⲱⲧ	ϣⲱⲱⲧ	VERB	V	VerbForm=Inf	5	xcomp	_	_
-10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
-11	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	9	obj	_	_
-12	:	:	PUNCT	PUNCT	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 xcomp	color:blue
-1	ⲉ	ⲉ	ADP	PREP	_	2	mark	_	_
-2	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	0	root	_	_
-3	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	ⲙⲛⲧⲣⲱⲙⲉ	ⲙⲛⲧⲣⲱⲙⲉ	NOUN	N	_	7	nsubj	_	_
-5	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	4	advmod	_	_
-6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	det	_	_
-7	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	2	xcomp	_	_
-8	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
-9	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	7	obl	_	_
-10	ϩⲓ	ϩⲓ	ADP	PREP	_	12	case	_	_
-11	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-12	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	7	obl	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 xcomp	color:blue
+# visual-style 3 9 xcomp	color:blue
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
-2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲥⲉⲡⲥⲱⲡ	ⲥⲟⲡⲥⲡ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-5	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
-6	ⲉ	ⲉ	ADP	PREP	_	7	mark	_	_
-7	ⲧⲣⲉ	ⲧⲣⲉ	AUX	ACAUS	_	3	xcomp	_	_
-8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲡⲱⲱⲛⲉ	ⲡⲱⲱⲛⲉ	VERB	V	VerbForm=Fin	7	xcomp	_	_
-10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	_
-11	ϩⲛ	ϩⲛ	ADP	PREP	_	13	case	_	_
-12	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
-13	ⲧⲟϣ	ⲧⲱϣ	NOUN	N	_	9	obl	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
+5	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	7	nummod	_	Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+6	ⲛ	ⲛ	ADP	PREP	_	7	det	_	Orig=ⲛ̄
+7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	3	obl	_	_
+8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
+9	ϩⲟⲟⲩⲧ	ϩⲟⲟⲩⲧ	NOUN	N	_	3	xcomp	_	_
+10	·	·	PUNCT	PUNCT	_	14	punct	_	_
+11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	14	cc	_	_
+12	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	14	nummod	_	Morphs=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲛ̄
+14	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	conj	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲛ̄
+16	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	14	orphan	_	_
+17	·	·	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

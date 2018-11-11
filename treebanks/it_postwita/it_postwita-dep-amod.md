@@ -22,7 +22,7 @@ The following 36 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	@LUltimaParola	@LUltimaParola	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	5	nsubj	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
@@ -59,7 +59,7 @@ The following 36 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	@LCuccarini	@LCuccarini	SYM	SYM	_	0	root	_	_
+1	@user	@user	SYM	SYM	_	0	root	_	_
 2	Bello	bello	ADJ	A	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
 3	!	!	PUNCT	FS	_	1	punct	_	_
 4	Buona	buono	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	_

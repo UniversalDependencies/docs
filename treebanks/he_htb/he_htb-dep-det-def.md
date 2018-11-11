@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-HTB: Relations: `det:def`
 
 This relation is a language-specific subtype of <tt><a href="he_htb-dep-det.html">det</a></tt>.
-There are also 1 other language-specific subtypes of `det`: <tt><a href="he_htb-dep-det-quant.html">det:quant</a></tt>.
 
 16358 nodes (10%) are attached to their parents as `det:def`.
 
@@ -79,7 +78,7 @@ The following 10 pairs of parts of speech are connected with `det:def`: <tt><a h
 # visual-style 10 9 det:def	color:blue
 1	איובה	איובה	PROPN	PROPN	_	2	nsubj	_	_
 2	שילמה	שילם	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	את	את	PART	PART	Case=Acc	5	case:acc	_	_
+3	את	את	ADP	ADP	Case=Acc	5	case:acc	_	_
 4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
 5	מחיר	מחיר	NOUN	NOUN	Gender=Masc|Number=Sing	2	obj	_	_
 6	עד	עד	ADP	ADP	_	7	case	_	_

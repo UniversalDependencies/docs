@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3872 nodes (4%) are attached to their parents as `cc`.
+4554 nodes (4%) are attached to their parents as `cc`.
 
-3872 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.50180785123967.
+4554 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.54852876592007.
 
-The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1644; 42% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1416; 37% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (412; 11% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (142; 4% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (103; 3% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (44; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (36; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `cc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1960; 43% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1624; 36% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (486; 11% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (170; 4% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (117; 3% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (60; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (48; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Id=02tp|SpaceAfter=No
-2	,	,	PUNCT	U	_	3	punct	_	Id=02tq
-3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	_	Id=02tr
-4	що	що	SCONJ	Css	_	5	mark	_	Id=02ts
-5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl	_	Id=02tt|SpaceAfter=No
-6	,	,	PUNCT	U	_	5	punct	_	Id=02tu
-7	посміхнувся	посміхнутися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=02tv
-8	й	й	CCONJ	Ccs	_	9	cc	_	Id=02tw
-9	спитав	спитати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	conj	_	Id=02tx|SpaceAfter=No
-10	:	:	PUNCT	U	_	7	punct	_	Id=02ty
+1	Дідусь	дідусь	NOUN	Ncmsny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj|9:nsubj	Id=02tp|LTranslit=diduś|SpaceAfter=No|Translit=Diduś
+2	,	,	PUNCT	U	_	3	punct	3:punct	Id=02tq|LTranslit=,|Translit=,
+3	той	той	DET	Pd--m-sna	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	5:nsubj:rel|7:dislocated|9:dislocated	Id=02tr|LTranslit=toj|Translit=toj
+4	що	що	SCONJ	Css	_	5	mark	5:mark	Id=02ts|LTranslit=ščo|Translit=ščo
+5	атестував	атестувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Id=02tt|LTranslit=atestuvaty|SpaceAfter=No|Translit=atestuvav
+6	,	,	PUNCT	U	_	5	punct	5:punct	Id=02tu|LTranslit=,|Translit=,
+7	посміхнувся	посміхнутися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=02tv|LTranslit=posmichnutyśа|Translit=posmichnuvśа
+8	й	й	CCONJ	Ccs	_	9	cc	9:cc	Id=02tw|LTranslit=j|Translit=j
+9	спитав	спитати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	conj	0:root|7:conj	Id=02tx|LTranslit=spytaty|SpaceAfter=No|Translit=spytav
+10	:	:	PUNCT	U	_	7	punct	7:punct	Id=02ty|LTranslit=:|Translit=:
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cc	color:blue
-1	Два	два	NUM	Mlcmsa	Case=Acc|Gender=Masc|NumType=Card	2	nummod	_	Id=11wq
-2	роки	рік	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obl	_	Id=11wr
-3	він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Id=11ws
-4	їв	їсти	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	Id=11wt
-5	самі	сам	DET	Px---npaa	Animacy=Inan|Case=Acc|Number=Plur|PronType=Prs|Reflex=Yes	6	det	_	Id=11wu
-6	помаранчі	помаранча	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	Id=11wv
-7	і	і	CCONJ	Ccs	_	9	cc	_	Id=11ww
-8	трохи	трохи	ADV	R	_	9	advmod	_	Id=11wx
-9	риби	риба	NOUN	Ncfsgy	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	Id=11wy|SpaceAfter=No
-10	.	.	PUNCT	U	_	4	punct	_	Id=11wz
+1	Два	два	NUM	Mlcmsa	Case=Acc|Gender=Masc|NumType=Card	2	nummod	2:nummod	Id=11wq|LTranslit=dva|Translit=Dva
+2	роки	рік	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obl	4:obl	Id=11wr|LTranslit=rik|Translit=roky
+3	він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Id=11ws|LTranslit=vin|Translit=vin
+4	їв	їсти	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=11wt|LTranslit=jisty|Translit=jiv
+5	самі	сам	DET	Px---npaa	Animacy=Inan|Case=Acc|Number=Plur|PronType=Prs|Reflex=Yes	6	det	6:det	Id=11wu|LTranslit=sam|Translit=sami
+6	помаранчі	помаранча	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	Id=11wv|LTranslit=pomaranča|Translit=pomaranči
+7	і	і	CCONJ	Ccs	_	9	cc	9:cc	Id=11ww|LTranslit=i|Translit=i
+8	трохи	трохи	ADV	R	_	9	advmod	9:advmod	Id=11wx|LTranslit=trochy|Translit=trochy
+9	риби	риба	NOUN	Ncfsgy	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	conj	4:obj|6:conj	Id=11wy|LTranslit=ryba|SpaceAfter=No|Translit=ryby
+10	.	.	PUNCT	U	_	4	punct	4:punct	Id=11wz|LTranslit=.|Translit=.
 
 ~~~
 
@@ -62,18 +62,18 @@ The following 23 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Мудрість	мудрість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Id=13vk
-2	дідова	дідовий	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	Id=13vl
-3	проста	простий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	Id=13vm
-4	й	й	CCONJ	Ccs	_	5	cc	_	Id=13vn
-5	глибока	глибокий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	Id=13vo|SpaceAfter=No
-6	,	,	PUNCT	U	_	10	punct	_	Id=13vp
-7	але	але	CCONJ	Ccs	_	10	cc	_	Id=13vq
-8	трохи	трохи	ADV	R	_	10	advmod	_	Id=13vr
-9	«	«	PUNCT	U	PunctType=Quot	10	punct	_	Id=13vs|SpaceAfter=No
-10	нетутешня	нетутешній	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	Id=13vt|SpaceAfter=No
-11	»	»	PUNCT	U	PunctType=Quot	10	punct	_	Id=13vu|SpaceAfter=No
-12	.	.	PUNCT	U	_	3	punct	_	Id=13vv
+1	Мудрість	мудрість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	Id=13vk|LTranslit=mudrisť|Translit=Mudrisť
+2	дідова	дідовий	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	1	amod	1:amod	Id=13vl|LTranslit=didovyj|Translit=didova
+3	проста	простий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	0:root	Id=13vm|LTranslit=prostyj|Translit=prosta
+4	й	й	CCONJ	Ccs	_	5	cc	5:cc	Id=13vn|LTranslit=j|Translit=j
+5	глибока	глибокий	ADJ	Afpfsns	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	conj	0:root|3:conj	Id=13vo|LTranslit=hlybokyj|SpaceAfter=No|Translit=hlyboka
+6	,	,	PUNCT	U	_	10	punct	10:punct	Id=13vp|LTranslit=,|Translit=,
+7	але	але	CCONJ	Ccs	_	10	cc	10:cc	Id=13vq|LTranslit=ale|Translit=ale
+8	трохи	трохи	ADV	R	_	10	advmod	10:advmod	Id=13vr|LTranslit=trochy|Translit=trochy
+9	«	«	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=13vs|LTranslit=«|SpaceAfter=No|Translit=«
+10	нетутешня	нетутешній	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	3	conj	0:root|3:conj	Id=13vt|LTranslit=netutešnij|SpaceAfter=No|Translit=netutešńа
+11	»	»	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=13vu|LTranslit=»|SpaceAfter=No|Translit=»
+12	.	.	PUNCT	U	_	3	punct	3:punct	Id=13vv|LTranslit=.|Translit=.
 
 ~~~
 

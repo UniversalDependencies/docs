@@ -49,7 +49,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 4 csubj	color:blue
 1	RT	retweet	NOUN	S	_	8	dep	_	_
-2	@porcozayn	@porcozayn	SYM	SYM	_	8	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	8	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	avere	avere	VERB	V	VerbForm=Inf	8	csubj	_	_
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

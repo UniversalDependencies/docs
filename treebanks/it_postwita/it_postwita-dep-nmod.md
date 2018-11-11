@@ -47,7 +47,7 @@ The following 72 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 nmod	color:blue
-1	@LUltimaParola	@LUltimaParola	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	5	nsubj	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_

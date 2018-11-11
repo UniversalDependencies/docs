@@ -19,44 +19,44 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="it_postwita-pos-
 
 
 * <em>1</em>
-  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 66: <em>Giorgio Corona a il 28 minuto segna su calcio di rigore Messina <b>1</b> - 0 Poggibonsi</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 3: <em>@Libero_official oltre #Grillo , #Travaglio e #Bossi , in passato anche un illustrissimo #DeAndrè insultava i #nani in <b>1</b> notissima canzone !</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 2: <em>@_andrea75_ @Gosling76 visto che chi ha i soldi evade io con il gasolio diventerò <b>1</b> di i più grandi finanziatori di il governo monti #maledetti</em>
+  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 66: <em>il <b>1</b> maggio lo festeggio con #Grillo troppo contento stò .. tutto il resto e noiaaaa :)</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 3: <em>@user oltre #Grillo , #Travaglio e #Bossi , in passato anche un illustrissimo #DeAndrè insultava i #nani in <b>1</b> notissima canzone !</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 2: <em>@user1 @user2 visto che chi ha i soldi evade io con il gasolio diventerò <b>1</b> di i più grandi finanziatori di il governo monti #maledetti</em>
 * <em>5</em>
-  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 63: <em>bellina la nonna che mi da <b>5</b> euro :')</em>
+  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 63: <em>RT @user : Wow !!! AS Roma + <b>5</b> Napoli / Juventus FORZA ROMA !! #ASRoma</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 27: <em>Mario Monti in diretta a Matrix su canale <b>5</b></em>
 * <em>4</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 51: <em>A le <b>4</b> devo cominciare a studiare T__T E devo anche fare la spesa D:</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>Su Rete <b>4</b> c' è La Stangata . Quella vera , non quella di Mario Monti .</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>Waiting <b>4</b> #Grillo in piazzale di la pace diretta su La7 #m5sTour</em>
 * <em>6</em>
-  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 38: <em>@94iharry ti prego ti stresso da <b>6</b> giorni , aggiungi anche me per favore 1232321</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 1: <em>@delpieroale da milanista <b>6</b> un fenomeno sia come giocatore sia come uomo ogni volta ke scendi in campo è uno spettacolo per tutto il calcio</em>
+  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 38: <em>@user ti prego ti stresso da <b>6</b> giorni , aggiungi anche me per favore 1232321</em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 1: <em>@user da milanista <b>6</b> un fenomeno sia come giocatore sia come uomo ogni volta ke scendi in campo è uno spettacolo per tutto il calcio</em>
 * <em>8</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 32: <em>#Buongiorno sono quasi le <b>8</b> di il mattino ed e' ancora buio ! E piove .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>Mario Monti stasera a <b>8</b> e Mezzo . Che vergogna avere un Presidente di il Consiglio che si abbassa a comparire in postriboli televisivi .</em>
 * <em>uno</em>
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 49: <em>Anche a lo stadio si canta #Grillo <b>uno</b> di noi</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 41: <em>harry sei <b>uno</b> sfigato , mi dispiace . http://t.co/8mcSRalbW4</em>
-  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 6: <em>@itsandreyamst quanto odio da <b>uno</b> a dieci</em>
+  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 6: <em>@user quanto odio da <b>uno</b> a dieci</em>
 * <em>150</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 4: <em>Mario #Monti : il più grande capro espiatorio di gli ultimi <b>150</b> anni .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>Honda sh <b>150</b> new - 2012 3.250 € http://t.co/zzOAFSra #vendita #moto #roma</em>
 * <em>sei</em>
-  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 89: <em>@louisnvgdr * lo guarda sbalordito * ma <b>sei</b> coglione ?</em>
+  * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 89: <em>@user * lo guarda sbalordito * ma <b>sei</b> coglione ?</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 4: <em>La versione non mi è andata bene , lo avrò il <b>sei</b> ? ..</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 1: <em>@luca_conti Certo che <b>sei</b> i giornali continuano a fare i titoli su le calzate invece che su le proposte di #Grillo siamo messi bene ...</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 1: <em>@user Certo che <b>sei</b> i giornali continuano a fare i titoli su le calzate invece che su le proposte di #Grillo siamo messi bene ...</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>E dove minchia <b>sei</b> ?</em>
 * <em>24</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 4: <em>FATE PRESTO anche su il sito di il Sole <b>24</b> Ore [ #308 Mario Monti #spread ] http://t.co/DVcAAFX8</em>
   * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 2: <em>ARRIVI di OGGI <b>24</b> Aprile GIA' DISPONIBILI A LA VENDITA http://t.co/Fs8wxAsB</em>
 * <em>3a</em>
-  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 2: <em>Cris e Rocco - Scarica l' App e Vinci il Set di la <b>3a</b> Serie ! @BraccialettiRos http://t.co/CTAGCF37J2</em>
-  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 1: <em>Toni , Cris e il regista - Scarica l' App e Vinci il Set di la <b>3a</b> Serie ! @BraccialettiRos http://t.co/BLVpo0i2Yj</em>
+  * <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> 2: <em>Cris e Rocco - Scarica l' App e Vinci il Set di la <b>3a</b> Serie ! @user http://t.co/CTAGCF37J2</em>
+  * <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> 1: <em>Toni , Cris e il regista - Scarica l' App e Vinci il Set di la <b>3a</b> Serie ! @user http://t.co/BLVpo0i2Yj</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (1) was observed with the lemma “#11-11-11”: <em>#11-11-11</em>.
 

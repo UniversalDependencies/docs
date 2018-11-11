@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 12	fgColor:white
 # visual-style 12 11 det:predet	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	land	land	NOUN	NN	Number=Sing	13	dep	_	SpaceAfter=No
+2	land	land	NOUN	NN	Number=Sing	13	dislocated	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
 5	natural	natural	ADJ	JJ	Degree=Pos	6	amod	_	_

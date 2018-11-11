@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (2%) are attached to their parents as `cop`.
+41 nodes (2%) are attached to their parents as `cop`.
 
-41 instances of `cop` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53488372093023.
+39 instances of `cop` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48780487804878.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (22; 51% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (6; 14% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 12% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (24; 59% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 12% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 12% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -41,12 +41,12 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3 2 cop	color:blue
 1	Ọ̀kan	Ọ̀kan	NUM	_	NumType=Card	2	nsubj	_	Gloss=one
 2	ni	ni	AUX	_	_	3	cop	_	Gloss=is
-3	èmi	èmi	PRON	_	_	0	root	_	Gloss=i
+3	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=i
 4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and
 5	Baba	Baba	NOUN	_	_	3	conj	_	Gloss=father
-6	mi	mi	PRON	_	_	5	nmod	_	SpaceAfter=No|Gloss=my
+6	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No|Gloss=my
 7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=.
-8	”	”	PUNCT	_	_	3	punct	_	Gloss=.
+8	”	”	PUNCT	_	_	3	punct	_	Gloss=”
 
 ~~~
 
@@ -57,15 +57,15 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 cop	color:blue
-1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for
-2	náà	náà	ADV	_	_	8	advmod	_	Gloss=the
-3	ìyapa	ìyapa	NOUN	_	_	8	nsubj	_	Gloss=division
+1	Nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=for
+2	náà	náà	ADV	_	_	8	advmod	_	Gloss=that
+3	ìyapa	ìyapa	NOUN	_	_	8	nsubj	_	Gloss=separation
 4	tún	tún	ADV	_	_	8	advmod	_	Gloss=again
 5	wà	wà	AUX	_	_	8	cop	_	Gloss=was
 6	láàrin	láàrin	ADP	_	_	8	case	_	Gloss=among
 7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the
-8	Júù	Júù	PROPN	_	_	0	root	_	Gloss=jews
-9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=for
+8	Júù	júù	PROPN	_	_	0	root	_	Gloss=jews
+9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	8	obl	_	Gloss=word
 11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	SpaceAfter=No|Gloss=these
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.

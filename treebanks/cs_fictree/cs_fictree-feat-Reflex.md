@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 6854 tokens (4%) have a non-empty value of `Reflex`.
-30 types (0%) occur at least once with a non-empty value of `Reflex`.
+28 types (0%) occur at least once with a non-empty value of `Reflex`.
 3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6111; 4% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (743; 0% instances).
 
@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-PRON
 
 6111 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6111; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6111; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6078; 99%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6078; 99%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (5822; 95%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4524; 74%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6111; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6111; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6111; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6078; 99%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (5822; 95%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (4524; 74%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (6111; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, ses, sis</em>
+* `Yes` (6111; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou</em>
 * `EMPTY` (7994): <em>mi, co, mě, ho, já, mu, ji, nic, je, jí</em>
 
 ### `DET`

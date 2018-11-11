@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Chinese GSD
 
-Language: [Chinese](../zh/overview/zh-hub.html) (code: `zh`)<br/>
+Language: [Chinese](/zh/index.html) (code: `zh`)<br/>
 Family: Sino-Tibetan
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman.
 
 Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -127,40 +128,32 @@ Google.
 
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
+<ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: 人們</li>
+      <li>PART: 們</li>
+      <li>PRON: 他們, 它們, 我們, 牠們, 她們</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>NOUN: 人們</li>
-        <li>PART: 們</li>
-        <li>PRON: 他們, 它們, 我們, 牠們, 她們</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Case</a>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADP: 之外</li>
-        <li>PART: 的, 之, 地</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADP: 之外</li>
+      <li>PART: 的, 之, 地</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -168,145 +161,123 @@ Google.
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: 不, 未, 沒, 別, 無</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: 不, 未, 沒, 別, 無</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>PART: 了, 過</li>
-        <li>X: 了</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>PART: 了, 過</li>
+      <li>X: 了</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prog
-      <ul>
-        <li>PART: 著</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prog
+    <ul>
+      <li>PART: 著</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
-
-  <ul>
-    <li>Inter
-      <ul>
-        <li>X: 呢, 嗎, 啊</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Inter
+    <ul>
+      <li>X: 呢, 嗎, 啊</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-<li><a>Voice</a>
+<ul>
+  <li>Cau
+    <ul>
+      <li>ADP: 以</li>
+      <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cau
-      <ul>
-        <li>ADP: 以</li>
-        <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: 被, 為</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB: 被, 為</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: 我, 我們</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: 你, 妳, 您</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: 我, 我們</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: 你, 妳, 您</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: 他, 其, 她, 它, 他們, 它們, 牠們, 她們, 牠, 祂</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: 他, 其, 她, 它, 他們, 它們, 牠們, 她們, 牠, 祂</li>
+    </ul>
+  </li>
+</ul>
 
 
 

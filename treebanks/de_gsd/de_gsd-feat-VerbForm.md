@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Fin` (78; 12% of non-empty `VerbForm`): <em>weiß, bezeichneten, entwickelte, verwandte, ambitionierte, aufbewahrte, ausgelobten, ausgerichtete, automatisiert, beanspruchten</em>
 * `Inf` (30; 5% of non-empty `VerbForm`): <em>erhalten, auszutauschenden, befreiten, beginnenden, bewachsen, einzeln, externen, extremen, gesunden, kahlen</em>
 * `Part` (555; 84% of non-empty `VerbForm`): <em>verbreitet, beteiligt, aufgehoben, verheiratet, vertreten, verbunden, erhalten, geprägt, organisiert, vorgesehen</em>
-* `EMPTY` (20282): <em>ersten, später, erste, anderen, weitere, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (19910): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
 <table>
   <tr><th>Paradigm <i>erhalten</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (53; 74% of non-empty `VerbForm`): <em>mag, Jahrhundert, War, Bin, 3/8-Takte, Balken, Erbvogt, Familien, Flotte, Gemüt</em>
 * `Inf` (14; 19% of non-empty `VerbForm`): <em>lernen, 1980ern, Glauben, Wüstenvätern, arten, beilagen, liegenden, mücken, rauchen, reellen</em>
 * `Part` (5; 7% of non-empty `VerbForm`): <em>Jahrhundert, Bestärkt, erhöht</em>
-* `EMPTY` (52221): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52150): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>Jahrhundert</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -132,7 +132,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (52; 83% of non-empty `VerbForm`): <em>ist, sind, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Leuchten, Roden</em>
 * `Inf` (5; 8% of non-empty `VerbForm`): <em>Wetten, diedenkweisen, kontrollieren, wegzusperren, weingarten</em>
 * `Part` (6; 10% of non-empty `VerbForm`): <em>Aliskiren, Ethernet, Outcault, Target, vétkeimet, zertifiziert</em>
-* `EMPTY` (31453): <em>von, Deutschland, de, of, der, US, Berlin, the, SPD, St.</em>
+* `EMPTY` (31121): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
 
 `VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (55) occur only with one value of `VerbForm`.
 
@@ -208,7 +208,7 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 
 * `Fin` (1; 50% of non-empty `VerbForm`): <em>meinen</em>
 * `Inf` (1; 50% of non-empty `VerbForm`): <em>einen</em>
-* `EMPTY` (14693): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (15092): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `DET`
 
@@ -219,18 +219,18 @@ The most frequent other feature values with which `DET` and `VerbForm` co-occurr
 `DET` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>einen</em>
-* `EMPTY` (36411): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (36859): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `NUM`
 
 1 <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NUM` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `VerbForm` co-occurred: <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>1973-1980</em>
-* `EMPTY` (7449): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 1</em>
+* `EMPTY` (7373): <em>zwei, drei, vier, 2007, fünf, 2006, 2009, sechs, 2010, 1</em>
 
 ### `PUNCT`
 

@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `conj:appos`: <tt><a
 23	happen	happen	VERB	_	_	16	ccomp	_	_
 24	for	for	ADP	_	_	25	case	_	_
 25	road	road	NOUN	_	_	23	obl:arg	_	_
-26	]	]	NOUN	_	_	23	punct	_	_
+26	]	]	PUNCT	_	_	23	punct	_	_
 27	//	//	PUNCT	_	_	16	punct	_	_
 
 ~~~

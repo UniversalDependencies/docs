@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-PRON.ht
 
 ### `PRON`
 
-1706 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `PronType`.
+1706 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1548; 91%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1548; 91%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1301; 76%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (359; 21% of non-empty `PronType`): <em>bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</em>
 * `Ind` (158; 9% of non-empty `PronType`): <em>biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</em>
 * `Prs` (1189; 70% of non-empty `PronType`): <em>ben, bana, o, beni, benim, onu, onun, ona, sen, sana</em>
-* `EMPTY` (442): <em>ne, kendi, ?, kendini, neden, kim, kendisine, kendimi, kendine, nereden</em>
+* `EMPTY` (567): <em>ne, kendi, burada, orada, kim, kendini, oraya, buraya, kendisine, kendimi</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

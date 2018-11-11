@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-FicTree: POS Tags: `CCONJ`
 
-There are 35 `CCONJ` lemmas (0%), 36 `CCONJ` types (0%) and 7678 `CCONJ` tokens (5%).
-Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 9 in number of tokens.
+There are 35 `CCONJ` lemmas (0%), 35 `CCONJ` types (0%) and 7678 `CCONJ` tokens (5%).
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 15 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
 
@@ -54,20 +54,20 @@ The 10 most frequent ambiguous types:  <em>ale</em> (<tt><a href="cs_fictree-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.028571 (the average of all parts of speech is 1.973661).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.973228).
 
-The 1st highest number of forms (2) was observed with the lemma “vždyť”: <em>Vždyťs, vždyť</em>.
+The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ale”: <em>ale</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ale”: <em>ale</em>.
+The 3rd highest number of forms (1) was observed with the lemma “anebo”: <em>anebo</em>.
 
-`CCONJ` occurs with 2 features: <tt><a href="cs_fictree-feat-ConjType.html">ConjType</a></tt> (1; 0% instances), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt> (1; 0% instances)
+`CCONJ` occurs with 1 features: <tt><a href="cs_fictree-feat-ConjType.html">ConjType</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 2 feature-value pairs: `ConjType=Oper`, `Person=2`
+`CCONJ` occurs with 1 feature-value pairs: `ConjType=Oper`
 
-`CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (7676 tokens).
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (7677 tokens).
 Examples: <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
 
 
@@ -75,7 +75,7 @@ Examples: <em>a, ale, i, nebo, tak, však, jenže, ani, proto, neboť</em>
 
 `CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (7409; 96% instances), <tt><a href="cs_fictree-dep-advmod-emph.html">advmod:emph</a></tt> (149; 2% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (88; 1% instances), <tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt> (9; 0% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5239; 68% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1224; 16% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (611; 8% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (260; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (99; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (63; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (55; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (22; 0% instances),  (8; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (5240; 68% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1229; 16% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (610; 8% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (260; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (99; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (76; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (63; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (55; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (22; 0% instances),  (8; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
 
 7581 (99%) `CCONJ` nodes are leaves.
 
@@ -89,5 +89,5 @@ The highest child degree of a `CCONJ` node is 6.
 
 Children of `CCONJ` nodes are attached using 9 different relations: <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (77; 61% instances), <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (30; 24% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (5; 4% instances), <tt><a href="cs_fictree-dep-mark.html">mark</a></tt> (5; 4% instances), <tt><a href="cs_fictree-dep-aux.html">aux</a></tt> (4; 3% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (3; 2% instances), <tt><a href="cs_fictree-dep-advmod-emph.html">advmod:emph</a></tt> (1; 1% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (81; 64% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (31; 24% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (81; 64% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (31; 24% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 1% instances)
 

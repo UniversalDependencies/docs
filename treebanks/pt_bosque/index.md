@@ -11,15 +11,16 @@ udver: '2'
 
 # UD Portuguese Bosque
 
-Language: [Portuguese](../pt/overview/pt-hub.html) (code: `pt`)<br/>
+Language: [Portuguese](/pt/index.html) (code: `pt`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Eckhard Bick, Fabricio Chalub, Cláudia Freitas, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
+The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Eckhard Bick, Fabricio Chalub, Cláudia Freitas, Guilherme Paulino-Passos, Luisa Rocha, Isabela Soares-Bastos, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -106,6 +107,9 @@ The conversion was implemented by Eckhard Bick and revised by:
 - Alexandre Rademaker
 - Fabricio Chalub
 - Claudia Freitas
+- Guilherme Paulino-Passos
+- Luisa Rocha
+- Isabela Soares-Bastos
 - Livy Real
 - Valeria Paiva
 
@@ -136,11 +140,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 
 
 <ul>
-<li>This corpus contains 9366 sentences, 210962 tokens and 227791 syntactic words.</li>
+<li>This corpus contains 9365 sentences, 210960 tokens and 227794 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29567 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29566 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -152,7 +156,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 16829 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 16834 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 743 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
 </ul>
 
@@ -229,7 +233,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
     <li>ADJ: eleito, Animado, achado, acirrada, animada, apropriados, atacados, coloridas, cotados, definidas</li>
     <li>AUX: sido, vindo, estado, acabado, agredido, ido, permitido, Acabadinho, acabados, aceite</li>
     <li>NOUN: feridos, arguido, chibatadas, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido</li>
-    <li>PROPN: visto, dado</li>
+    <li>PROPN: visto, Dado</li>
     <li>VERB: feito, feita, feitas, dito, tido, eleito, passado, visto, aberto, considerado</li>
   </ul>
   </li>
@@ -238,575 +242,542 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: primeira, nova, maior, grande, última, mesma, segunda, boa, política, novas</li>
-        <li>ADJ-Part: acirrada, animada, coloridas, definidas, drogada, estimada, existente, mista, orquestrada, pesada</li>
-        <li>ADP: da</li>
-        <li>ADV: mais, bastante</li>
-        <li>AUX-Part: convertidas, discutidas, feridas, rejeitada</li>
-        <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
-        <li>INTJ: Obrigada, rua</li>
-        <li>NOUN: pessoas, parte, semana, empresa, empresas, forma, cidade, casa, vida, vez</li>
-        <li>NOUN-Part: chibatadas, verificada, advogada, apresentada, cochilada, compostas, destinadas, enterradas, largada, organizadas</li>
-        <li>NUM: meia</li>
-        <li>PRON: que, se, ela, a, as, elas, lhe, esta, eu, qual</li>
-        <li>PROPN: Lisboa, Folha, Alemanha, França, Comissão, Espanha, Europa, Câmara, Rússia, Associação</li>
-        <li>SCONJ: se</li>
-        <li>VERB: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
-        <li>VERB-Part: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
-        <li>X: made, Body, morcilla, natura</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: primeira, nova, maior, grande, última, mesma, segunda, boa, política, novas</li>
+      <li>ADJ-Part: acirrada, animada, coloridas, definidas, drogada, estimada, existente, mista, orquestrada, pesada</li>
+      <li>ADP: da</li>
+      <li>ADV: mais, bastante</li>
+      <li>AUX-Part: convertidas, discutidas, feridas, rejeitada</li>
+      <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
+      <li>INTJ: Obrigada, rua</li>
+      <li>NOUN: pessoas, parte, semana, empresa, empresas, forma, cidade, casa, vida, vezes</li>
+      <li>NOUN-Part: chibatadas, verificada, apresentada, cochilada, compostas, destinadas, enterradas, largada, organizadas, participada</li>
+      <li>NUM: meia</li>
+      <li>PRON: que, se, ela, a, as, elas, lhe, esta, eu, qual</li>
+      <li>PROPN: Lisboa, Folha, Alemanha, França, Comissão, Espanha, Europa, Câmara, Rússia, Associação</li>
+      <li>SCONJ: se</li>
+      <li>VERB: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
+      <li>VERB-Part: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
+      <li>X: made, Body, morcilla, natura</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: primeiro, novo, mesmo, último, passado, segundo, últimos, bom, maior, grande</li>
-        <li>ADJ-Part: eleito, Animado, achado, apropriados, atacados, cotados, detalhados, errado, ferido, fragilizado</li>
-        <li>ADP: por, como, a</li>
-        <li>ADV: não, menos, mais, bom, claro, forte, mal, muito, novo, quanto</li>
-        <li>AUX-Part: sido, Acabadinho, acabados, aceite, atualizados, deslocado, interpelado, perdoados, proibido</li>
-        <li>CCONJ: entanto, mesmo</li>
-        <li>DET: o, os, um, seu, este, seus, esse, todos, outros, outro</li>
-        <li>INTJ: Adeus</li>
-        <li>NOUN: anos, milhões, ano, presidente, dia, país, contos, tempo, grupo, governo</li>
-        <li>NOUN-Inf: Olhar</li>
-        <li>NOUN-Part: feridos, arguido, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido, previsto</li>
-        <li>NUM: cento, meia, dúzia, um, 185/60, XVII</li>
-        <li>PART: pós</li>
-        <li>PRON: que, se, o, ele, isso, tudo, eles, lhe, os, isto</li>
-        <li>PROPN: São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</li>
-        <li>PROPN-Part: visto, dado</li>
-        <li>SCONJ: que, como</li>
-        <li>SYM: %, US$, R$, CR$</li>
-        <li>VERB: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
-        <li>VERB-Fin: considerara</li>
-        <li>VERB-Part: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
-        <li>X: Dream, MacMillan, consejero, dolce, godfather, kebab, killer, line, primitive, prélude</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: primeiro, novo, mesmo, último, passado, segundo, últimos, bom, maior, grande</li>
+      <li>ADJ-Part: eleito, Animado, achado, apropriados, atacados, cotados, detalhados, errado, ferido, fragilizado</li>
+      <li>ADP: por, como, a</li>
+      <li>ADV: não, menos, mais, bom, claro, forte, mal, muito, novo, quanto</li>
+      <li>AUX-Part: sido, Acabadinho, acabados, aceite, atualizados, deslocado, interpelado, perdoados, proibido</li>
+      <li>CCONJ: entanto, mesmo</li>
+      <li>DET: o, os, um, seu, este, seus, esse, todos, outros, outro</li>
+      <li>INTJ: Adeus</li>
+      <li>NOUN: anos, milhões, ano, presidente, dia, país, contos, tempo, grupo, governo</li>
+      <li>NOUN-Inf: Olhar</li>
+      <li>NOUN-Part: feridos, arguido, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido, previsto</li>
+      <li>NUM: cento, meia, dúzia, um, 185/60, XVII</li>
+      <li>PART: pós</li>
+      <li>PRON: que, se, o, ele, isso, tudo, eles, lhe, os, isto</li>
+      <li>PROPN: São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</li>
+      <li>PROPN-Part: visto, Dado</li>
+      <li>SCONJ: que, como</li>
+      <li>SYM: %, US$, R$, CR$</li>
+      <li>VERB: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
+      <li>VERB-Fin: considerara</li>
+      <li>VERB-Part: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
+      <li>X: Dream, MacMillan, consejero, dolce, godfather, kebab, killer, line, primitive, prélude</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Unsp
-      <ul>
-        <li>ADJ: melhor, capaz, especial, favorável, inconvenientes, jovens, mole, 2., I, II</li>
-        <li>DET: mais, cada, qual, qualquer, Que, tal</li>
-        <li>NOUN: especialistas, representantes, jornalistas, jovens, habitantes, visitantes, Presidente, artistas, clientes, especial</li>
-        <li>PRON: se, quem, me, nos, eu, você, nós, que, lhe, mim</li>
-        <li>PRON-Ger: se</li>
-        <li>PROPN: Coimbra, Alvalade, Maastricht, Barcelos, Braga, Ermesinde, Aveiro, Drosnin, Frankfurt, Jacarta</li>
-        <li>SCONJ: se</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Unsp
+    <ul>
+      <li>ADJ: melhor, capaz, especial, favorável, inconvenientes, jovens, mole, 2., I, II</li>
+      <li>DET: mais, cada, qual, qualquer, Que, tal</li>
+      <li>NOUN: especialistas, representantes, jornalistas, jovens, habitantes, visitantes, Presidente, artistas, clientes, especial</li>
+      <li>PRON: se, quem, me, nos, eu, você, nós, que, lhe, mim</li>
+      <li>PRON-Ger: se</li>
+      <li>PROPN: Coimbra, Alvalade, Maastricht, Barcelos, Braga, Ermesinde, Aveiro, Drosnin, Frankfurt, Jacarta</li>
+      <li>SCONJ: se</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: grandes, últimos, novos, novas, primeiros, principais, melhores, internacionais, maiores, públicos</li>
+      <li>ADJ-Part: apropriados, atacados, coloridas, cotados, definidas, detalhados, pegos, pretendidas, privilegiados, restritas</li>
+      <li>ADV: menos, mais</li>
+      <li>AUX: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
+      <li>AUX-Fin: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
+      <li>AUX-Inf: serem, terem, estarem, estarmos, haverem, passarem, poderem, continuarem, irem, podermos</li>
+      <li>AUX-Part: acabados, atualizados, convertidas, discutidas, feridas, perdoados</li>
+      <li>DET: os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</li>
+      <li>NOUN: anos, milhões, pessoas, contos, dias, pontos, empresas, meses, países, vezes</li>
+      <li>NOUN-Part: feridos, chibatadas, colocados, culpados, envolvidos, recomendados, usados, visitados, afectados, blindados</li>
+      <li>PRON: que, se, eles, os, nos, todos, outros, as, elas, nós</li>
+      <li>PROPN: EUA, Estados, Assuntos, Nações, Antas, Açores, Comandos, Encontros, Forças, Misericórdias</li>
+      <li>SYM: %, US$, R$, CR$</li>
+      <li>VERB-Fin: têm, existem, fizeram, dizem, querem, dão, fazem, temos, chegaram, conseguiram</li>
+      <li>VERB-Inf: terem, ficarem, aceitarem, chegarem, exigirem, fazerem, fornecerem, funcionarem, manterem, mostrarem</li>
+      <li>VERB-Part: feitas, ligados, feitos, acusados, realizados, chamados, colocados, apresentadas, envolvidos, realizadas</li>
+      <li>X: made</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: grandes, últimos, novos, novas, primeiros, principais, melhores, internacionais, maiores, públicos</li>
-        <li>ADJ-Part: apropriados, atacados, coloridas, cotados, definidas, detalhados, pegos, pretendidas, privilegiados, restritas</li>
-        <li>ADV: menos, mais</li>
-        <li>AUX: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
-        <li>AUX-Fin: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
-        <li>AUX-Inf: serem, terem, estarem, estarmos, haverem, passarem, poderem, continuarem, irem, podermos</li>
-        <li>AUX-Part: acabados, atualizados, convertidas, discutidas, feridas, perdoados</li>
-        <li>DET: os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</li>
-        <li>NOUN: anos, milhões, pessoas, contos, dias, pontos, empresas, meses, países, vezes</li>
-        <li>NOUN-Part: feridos, chibatadas, colocados, culpados, envolvidos, recomendados, usados, visitados, afectados, blindados</li>
-        <li>PRON: que, se, eles, os, nos, todos, outros, as, elas, nós</li>
-        <li>PROPN: EUA, Estados, Assuntos, Nações, Antas, Açores, Comandos, Encontros, Forças, Misericórdias</li>
-        <li>SYM: %, US$, R$, CR$</li>
-        <li>VERB-Fin: têm, existem, fizeram, dizem, querem, dão, fazem, temos, chegaram, conseguiram</li>
-        <li>VERB-Inf: terem, ficarem, aceitarem, chegarem, exigirem, fazerem, fornecerem, funcionarem, manterem, mostrarem</li>
-        <li>VERB-Part: feitas, ligados, feitos, acusados, realizados, chamados, colocados, apresentadas, envolvidos, realizadas</li>
-        <li>X: made</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, último, nacional</li>
+      <li>ADJ-Part: eleito, Animado, achado, acirrada, animada, drogada, errado, estimada, existente, ferido</li>
+      <li>ADP: por, da, como, sobre, a</li>
+      <li>ADV: não, mais, bem, menos, bastante, bom, claro, forte, mal, muito</li>
+      <li>AUX-Fin: é, foi, está, vai, pode, era, tem, será, deve, estava</li>
+      <li>AUX-Inf: ser, ter, estar, ir, começar, haver, poder, vir</li>
+      <li>AUX-Part: sido, Acabadinho, aceite, deslocado, interpelado, proibido, rejeitada</li>
+      <li>CCONJ: e, entanto, mesmo</li>
+      <li>DET: o, a, um, uma, sua, seu, este, esta, esse, qualquer</li>
+      <li>INTJ: Adeus, Obrigada, rua, viu</li>
+      <li>INTJ-Fin: viu</li>
+      <li>NOUN: presidente, ano, dia, país, tempo, grupo, governo, estado, parte, acordo</li>
+      <li>NOUN-Fin: garante</li>
+      <li>NOUN-Inf: Olhar, distender, fumar</li>
+      <li>NOUN-Part: arguido, classificado, colocado, esperado, ocorrido, previsto, verificada, acumulado, amassado, apresentada</li>
+      <li>NUM: cento, meia, 3, dúzia, 14, 2, 4, 94, um, 185/60</li>
+      <li>PART: pós</li>
+      <li>PRON: que, se, o, ele, isso, lhe, quem, tudo, eu, ela</li>
+      <li>PRON-Ger: se</li>
+      <li>PROPN: Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</li>
+      <li>PROPN-Part: visto, Dado</li>
+      <li>PUNCT: ?</li>
+      <li>SCONJ: que, como, se</li>
+      <li>SYM: R$, US$</li>
+      <li>VERB: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
+      <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
+      <li>VERB-Inf: ter, dar, haver, retirar, saber, ver, aprovar, atingir, cair, chegar</li>
+      <li>VERB-Part: feita, feito, eleito, aberto, considerado, considerada, realizado, acusado, criada, divulgado</li>
+      <li>X: for, jet, ski, Burgos, Children, Dictionary, Sure, Team, non-mesuré, Body</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, último, nacional</li>
-        <li>ADJ-Part: eleito, Animado, achado, acirrada, animada, drogada, errado, estimada, existente, ferido</li>
-        <li>ADP: por, da, como, sobre, a</li>
-        <li>ADV: não, mais, bem, menos, bastante, bom, claro, forte, mal, muito</li>
-        <li>AUX-Fin: é, foi, está, vai, pode, era, tem, será, deve, estava</li>
-        <li>AUX-Inf: ser, ter, estar, ir, começar, haver, poder, vir</li>
-        <li>AUX-Part: sido, Acabadinho, aceite, deslocado, interpelado, proibido, rejeitada</li>
-        <li>CCONJ: e, entanto, mesmo</li>
-        <li>DET: o, a, um, uma, sua, seu, este, esta, esse, qualquer</li>
-        <li>INTJ: Adeus, Obrigada, rua, viu</li>
-        <li>INTJ-Fin: viu</li>
-        <li>NOUN: presidente, ano, dia, país, tempo, grupo, governo, estado, parte, acordo</li>
-        <li>NOUN-Fin: garante</li>
-        <li>NOUN-Inf: Olhar, distender, fumar</li>
-        <li>NOUN-Part: arguido, classificado, colocado, esperado, ocorrido, previsto, verificada, acumulado, advogada, agredido</li>
-        <li>NUM: cento, meia, 3, dúzia, 14, 2, 4, 94, um, 185/60</li>
-        <li>PART: pós</li>
-        <li>PRON: que, se, o, ele, isso, lhe, quem, tudo, eu, ela</li>
-        <li>PRON-Ger: se</li>
-        <li>PROPN: Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</li>
-        <li>PROPN-Part: visto, dado</li>
-        <li>PUNCT: ?</li>
-        <li>SCONJ: que, como, se</li>
-        <li>SYM: R$, US$</li>
-        <li>VERB: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
-        <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
-        <li>VERB-Inf: ter, dar, haver, retirar, saber, ver, aprovar, atingir, cair, chegar</li>
-        <li>VERB-Part: feita, feito, eleito, aberto, considerado, considerada, realizado, acusado, criada, divulgado</li>
-        <li>X: for, jet, ski, Burgos, Children, Dictionary, Sure, Team, non-mesuré, Body</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Unsp
+    <ul>
+      <li>DET: mais, Que, o(s)</li>
+      <li>NOUN: tratamento(s)</li>
+      <li>PRON: mais, quem, que, menos, aquilo, mundo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Unsp
-      <ul>
-        <li>DET: mais, Que, o(s)</li>
-        <li>NOUN: tratamento(s)</li>
-        <li>PRON: mais, quem, que, menos, aquilo, mundo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: se, o, me, a, nos, lo, os, la, as, los</li>
+      <li>PRON-Ger: se</li>
+      <li>SCONJ: se</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: lhe, me, nos, lhes, se, Ihe, vos</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: se, o, me, a, nos, lo, os, la, as, los</li>
-        <li>PRON-Ger: se</li>
-        <li>SCONJ: se</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Dat
-      <ul>
-        <li>PRON: lhe, me, nos, lhes, se, Ihe, vos</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADP: da</li>
+      <li>DET: o, a, os, as, esta, o(s), um</li>
+      <li>PRON: o, os, a, as, que</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADP: da</li>
-        <li>DET: o, a, os, as, esta, o(s), um</li>
-        <li>PRON: o, os, a, as, que</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: um, uma, outra, Nada, o, uns</li>
-        <li>NUM: um</li>
-        <li>PRON: um</li>
-        <li>PROPN: um</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: um, uma, outra, Nada, o, uns</li>
+      <li>NUM: um</li>
+      <li>PRON: um</li>
+      <li>PROPN: um</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: não, nada</li>
-        <li>INTJ: não</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: não, nada</li>
+      <li>INTJ: não</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: seria, poderia, teria, deveria, seriam, estaria, iria, teriam, acabaria, deveriam</li>
+      <li>VERB-Fin: gostaria, ficaria, daria, teria, faria, seria, diria, gostariam, tentaria, teriam</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: seria, poderia, teria, deveria, seriam, estaria, iria, teriam, acabaria, deveriam</li>
-        <li>VERB-Fin: gostaria, ficaria, daria, teria, faria, seria, diria, gostariam, tentaria, teriam</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: Sê</li>
+      <li>VERB-Fin: move, Olha, chega, vide</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: Sê</li>
-        <li>VERB-Fin: move, Olha, chega, vide</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
+      <li>INTJ-Fin: viu</li>
+      <li>NOUN-Fin: garante</li>
+      <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
-        <li>INTJ-Fin: viu</li>
-        <li>NOUN-Fin: garante</li>
-        <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: seja, for, tenha, fosse, possa, sejam, esteja, estejam, possam, estivesse</li>
+      <li>VERB-Fin: seja, tenha, quiser, leia, recorde, haja, houver, pense, veja, for</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: seja, for, tenha, fosse, possa, sejam, esteja, estejam, possam, estivesse</li>
-        <li>VERB-Fin: seja, tenha, quiser, leia, recorde, haja, houver, pense, veja, for</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: será, poderá, deverá, serão, terá, for, irá, estará, deverão, poderão</li>
+      <li>VERB-Fin: terá, terão, haverá, será, quiser, ficará, houver, fará, for, permitirá</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: era, estava, tinha, eram, estavam, fosse, havia, tinham, haviam, ia</li>
+      <li>VERB-Fin: tinha, havia, fazia, dizia, era, encontrava, estavam, parecia, tinham, conseguia</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: será, poderá, deverá, serão, terá, for, irá, estará, deverão, poderão</li>
-        <li>VERB-Fin: terá, terão, haverá, será, quiser, ficará, houver, fará, for, permitirá</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: foi, foram, esteve, acabou, fui, voltou, começou, chegou, passou, teve</li>
+      <li>AUX-Fin: foi, foram, esteve, acabou, fui, voltou, começou, chegou, passou, teve</li>
+      <li>INTJ-Fin: viu</li>
+      <li>VERB-Fin: disse, fez, afirmou, foi, teve, deu, ficou, chegou, conseguiu, aconteceu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: era, estava, tinha, eram, estavam, fosse, havia, tinham, haviam, ia</li>
-        <li>VERB-Fin: tinha, havia, fazia, dizia, era, encontrava, estavam, parecia, tinham, conseguia</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pqp
+    <ul>
+      <li>AUX-Fin: fora, acabara, foram, começara, tiveram</li>
+      <li>VERB-Fin: fizera, tornara, desaparecera, dissera, levara, Nascera, Quisera, Saíra, abrangera, aconteceram</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX: foi, foram, esteve, acabou, fui, voltou, começou, chegou, passou, teve</li>
-        <li>AUX-Fin: foi, foram, esteve, acabou, fui, voltou, começou, chegou, passou, teve</li>
-        <li>INTJ-Fin: viu</li>
-        <li>VERB-Fin: disse, fez, afirmou, foi, teve, deu, ficou, chegou, conseguiu, aconteceu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: é, está, são, vai, pode, estão, tem, deve, podem, seja</li>
+      <li>NOUN-Fin: garante</li>
+      <li>VERB-Fin: há, tem, diz, é, têm, faz, afirma, dá, quer, trata</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>AUX-Fin: fora, acabara, foram, começara, tiveram</li>
-        <li>VERB-Fin: fizera, tornara, desaparecera, dissera, levara, Nascera, Quisera, Saíra, abrangera, aconteceram</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: é, está, são, vai, pode, estão, tem, deve, podem, seja</li>
-        <li>NOUN-Fin: garante</li>
-        <li>VERB-Fin: há, tem, diz, é, têm, faz, afirma, dá, quer, trata</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>ADJ-Part: pegos</li>
-        <li>NOUN-Part: afectados, apresentada, compostas, denunciados, estimado, recomendados, requeridas</li>
-        <li>VERB-Fin: fez, Esperam, Sustêm, Trata, Vejam, avaliam, citem, confirmou, conhecem, descobriram</li>
-        <li>VERB-Inf: anunciar, aprovar, candidatar, contrair, divulgar, dizer, elaborar, entender, evitar, pagar</li>
-        <li>VERB-Part: feita, feito, feitas, considerado, considerada, aprovada, lançado, acompanhado, tomada, apresentada</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADJ-Part: pegos</li>
+      <li>NOUN-Part: afectados, apresentada, compostas, denunciados, estimado, recomendados, requeridas</li>
+      <li>VERB-Fin: fez, Esperam, Sustêm, Trata, Vejam, avaliam, citem, confirmou, conhecem, descobriram</li>
+      <li>VERB-Inf: anunciar, aprovar, candidatar, contrair, divulgar, dizer, elaborar, entender, evitar, pagar</li>
+      <li>VERB-Part: feita, feito, feitas, considerado, considerada, aprovada, lançado, acompanhado, tomada, apresentada</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: o, a, os, as, um, uma, uns, esta, umas, outra</li>
-        <li>NUM: um</li>
-        <li>PRON: o, os, a, as, que, um</li>
-        <li>PROPN: um</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: o, a, os, as, um, uma, uns, esta, umas, outra</li>
+      <li>NUM: um</li>
+      <li>PRON: o, os, a, as, que, um</li>
+      <li>PROPN: um</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: este, esta, esse, essa, estes, estas, esses, essas, aquele, o</li>
-        <li>NOUN: aquele</li>
-        <li>PRON: o, isso, isto, os, a, este, esta, as, mesmo, aquilo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: este, esta, esse, essa, estes, estas, esses, aquele, essas, o</li>
+      <li>NOUN: aquele</li>
+      <li>PRON: o, isso, isto, os, a, este, esta, as, mesmo, aquilo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Emp
-      <ul>
-        <li>ADJ: próprio, própria, próprias</li>
-        <li>DET: próprio, própria, próprios, próprias</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Emp
+    <ul>
+      <li>ADJ: próprio, própria, próprias</li>
+      <li>DET: próprio, própria, próprios, próprias</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: diferentes, outra</li>
-        <li>ADV: mais, bastante, menos, muito</li>
-        <li>DET: qualquer, outros, outro, mais, outras, alguns, algumas, outra, muitos, vários</li>
-        <li>NOUN: outros</li>
-        <li>PRON: tudo, nada, outros, ninguém, que, outro, algo, alguns, mais, alguém</li>
-        <li>PROPN: que</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: diferentes, outra</li>
+      <li>ADV: mais, bastante, menos, muito</li>
+      <li>DET: qualquer, outros, outro, mais, outras, alguns, algumas, outra, muitos, vários</li>
+      <li>NOUN: outros</li>
+      <li>PRON: tudo, nada, outros, ninguém, que, outro, algo, alguns, mais, alguém</li>
+      <li>PROPN: que</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: quanto</li>
-        <li>DET: que, quanto, quais, qual, Quantos, Quantas, quando</li>
-        <li>PRON: que, quem, qual, quais, quanto, quantos, quê</li>
-        <li>SCONJ: que</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: quanto</li>
+      <li>DET: que, quanto, quais, qual, Quantos, Quantas, quando</li>
+      <li>PRON: que, quem, qual, quais, quanto, quantos, quê</li>
+      <li>SCONJ: que</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>DET: nenhum, nenhuma</li>
-        <li>PRON: nada, nenhuma, nenhum</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: nenhum, nenhuma</li>
+      <li>PRON: nada, nenhuma, nenhum</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: sua, seu, seus, suas, meu, nossa, nosso, minha, nossos, nossas</li>
-        <li>PRON: se, ele, lhe, o, eles, eu, ela, me, nos, a</li>
-        <li>PRON-Ger: se</li>
-        <li>SCONJ: se</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: sua, seu, seus, suas, meu, nossa, nosso, minha, nossos, nossas</li>
+      <li>PRON: se, ele, lhe, o, eles, eu, ela, me, nos, a</li>
+      <li>PRON-Ger: se</li>
+      <li>SCONJ: se</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADP: segundo, enquanto, como, quando, apenas, conforme</li>
-        <li>DET: cujo, cuja, cujas, qual, cujos, quais, quanto, Quantos</li>
-        <li>PRON: que, quem, qual, quais, tudo, quanto, cuja, quantos, Nada, qu</li>
-        <li>SCONJ: que</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADP: segundo, enquanto, como, quando, apenas, conforme</li>
+      <li>DET: cujo, cuja, cujas, qual, cujos, quais, quanto, Quantos</li>
+      <li>PRON: que, quem, qual, quais, tudo, quanto, cuja, quantos, Nada, qu</li>
+      <li>SCONJ: que</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>DET: todos, cada, toda, todo, todas, ambos, ambas, tudo</li>
-        <li>PRON: todos, ambos, todas, todo, cada, Ambas, tudo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: todos, cada, toda, todo, todas, ambos, ambas, tudo</li>
+      <li>PRON: todos, ambos, todas, todo, cada, Ambas, tudo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>DET: um, uma</li>
+      <li>NOUN: um, 11, 1200, 156.942, 86.871, onze, quatro, três</li>
+      <li>NUM: um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</li>
+      <li>PROPN: 1.560, 1.565, Doze</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>DET: um, uma</li>
-        <li>NOUN: um, 11, 1200, 156.942, 86.871, onze, quatro, três</li>
-        <li>NUM: um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</li>
-        <li>PROPN: 1.560, 1.565, Doze</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Frac
+    <ul>
+      <li>NUM: meia</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Frac
-      <ul>
-        <li>NUM: meia</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>NUM: cento</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>NUM: cento</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</li>
+      <li>NUM: quinta, XVII</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</li>
-        <li>NUM: quinta, XVII</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Range
+    <ul>
+      <li>NUM: 07.00-09.00, 10.00-12.00</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Range
-      <ul>
-        <li>NUM: 07.00-09.00, 10.00-12.00</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sets
-      <ul>
-        <li>NUM: dúzia</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sets
+    <ul>
+      <li>NUM: dúzia</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
+      <li>AUX-Fin: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
+      <li>AUX-Inf: estarmos, podermos, sermos</li>
+      <li>PRON: eu, me, nos, nós, mim, nosco</li>
+      <li>VERB-Fin: sei, tenho, acho, temos, espero, penso, queremos, quero, acredito, creio</li>
+      <li>VERB-Inf: adaptarmos, apanhá, dependermos, entender, montarmos, ocuparmos, olharmos, ouvirmos, subir, termos</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: Sê, vais</li>
+      <li>PRON: te, ti, vos, vós</li>
+      <li>VERB-Fin: move, Compreendeste, Criaste, Olha, Rodeaste, Roubarás, Roubaste, Saiba, chamais, chega</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
-        <li>AUX-Fin: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
-        <li>AUX-Inf: estarmos, podermos, sermos</li>
-        <li>PRON: eu, me, nos, nós, mim, nosco</li>
-        <li>VERB-Fin: sei, tenho, acho, temos, espero, penso, queremos, quero, acredito, creio</li>
-        <li>VERB-Inf: adaptarmos, apanhá, dependermos, entender, montarmos, ocuparmos, olharmos, ouvirmos, subir, termos</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: Sê, vais</li>
-        <li>PRON: te, ti, vos, vós</li>
-        <li>VERB-Fin: move, Compreendeste, Criaste, Olha, Rodeaste, Roubarás, Roubaste, Saiba, chamais, chega</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
-        <li>AUX-Inf: serem, ser, ter, terem, estarem, estar, haverem, ir, passarem, poderem</li>
-        <li>INTJ-Fin: viu</li>
-        <li>NOUN-Fin: garante</li>
-        <li>NOUN-Inf: distender, fumar</li>
-        <li>PRON: se, ele, lhe, o, eles, ela, a, elas, você, lo</li>
-        <li>PRON-Ger: se</li>
-        <li>SCONJ: se</li>
-        <li>VERB-Fin: há, tem, disse, diz, é, fez, afirmou, foi, têm, faz</li>
-        <li>VERB-Inf: terem, ter, dar, ficarem, haver, retirar, saber, ver, aceitarem, aprovar</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
+      <li>AUX-Inf: serem, ser, ter, terem, estarem, estar, haverem, ir, passarem, poderem</li>
+      <li>INTJ-Fin: viu</li>
+      <li>NOUN-Fin: garante</li>
+      <li>NOUN-Inf: distender, fumar</li>
+      <li>PRON: se, ele, lhe, o, eles, ela, a, elas, você, lo</li>
+      <li>PRON-Ger: se</li>
+      <li>SCONJ: se</li>
+      <li>VERB-Fin: há, tem, disse, diz, é, fez, afirmou, foi, têm, faz</li>
+      <li>VERB-Inf: terem, ter, dar, ficarem, haver, retirar, saber, ver, aceitarem, aprovar</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -814,30 +785,34 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <h3>Other Features</h3>
 
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: de, com, por</li>
-      </ul>
-    </li>
-    <li>Preppron
-      <ul>
-        <li>ADP: da</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: de, com, por</li>
+        </ul>
+      </li>
+      <li>Preppron
+        <ul>
+          <li>ADP: da</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>NOUN: bodyboard</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: bodyboard</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -860,7 +835,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (3468)</li>
+      <li>VERB-Fin--NOUN (3469)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--PRON (1702)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
@@ -893,7 +868,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(de) (3)</li>
       <li>VERB-Fin--PRON (445)</li>
       <li>VERB-Fin--PRON-Acc (335)</li>
-      <li>VERB-Fin--PRON-Dat (2)</li>
+      <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Ger--NOUN (386)</li>
       <li>VERB-Ger--NOUN-ADP(com) (1)</li>
@@ -923,7 +898,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(em) (1)</li>
       <li>VERB-Fin--NOUN-ADP(para) (1)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Fin--PRON-Dat (158)</li>
+      <li>VERB-Fin--PRON-Dat (157)</li>
       <li>VERB-Ger--PRON-Dat (8)</li>
       <li>VERB-Inf--PRON-Dat (39)</li>
       <li>VERB-Part--PRON-Dat (14)</li>

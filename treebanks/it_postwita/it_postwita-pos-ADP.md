@@ -22,51 +22,51 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="it_postwita-pos
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 4185: <em>Se #Grillo è l' alternativa mi tenevo #Bossi : fa anche ridere <b>di</b> più .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 8: <em>Il comitato <b>di</b> liberazione nazionale – 25 aprile 1945 http://t.co/kOglmPEg #milano #news</em>
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 2: <em>#Grillo dice peste e corna di tutti ma non si capisce che cosa vuole fare lui . Deve dire xche' <b>di</b> candida , per fare cosa e con chi .</em>
-  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@SkyTg24 #Grillo da ci un giudizio netto su #Monti . E <b>di</b> ci c' è una forza politica con la quale faresti alleanze ? Di Pietro sì o no ?</em>
+  * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 1: <em>@user #Grillo da ci un giudizio netto su #Monti . E <b>di</b> ci c' è una forza politica con la quale faresti alleanze ? Di Pietro sì o no ?</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>#Grillo <b>di</b> non critichi #Napolitano : la critica a il Presidente di la Repubblica compete solo a i partiti in cui milita #Bersani</em>
 * <em>a</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 2759: <em>buongiorno <b>a</b> tutti #oncaci</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 17: <em>Vabbè ragazzi ma siamo su scherzi <b>a</b> parte ?</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 9: <em>I liked <b>a</b> @YouTube video http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 9: <em>I liked <b>a</b> @user video http://t.co/pGZjRbfi Cominciano i guai per il governo Monti</em>
   * <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> 5: <em>#Grillo che scappa inseguito da Bertazzoni mi <b>a</b> fatto cadere le palle per terra . #ServizioPubblico</em>
   * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 2: <em>Oi twitter , <b>a</b> quanto tempo xD</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>Perche' non molla <b>a</b> poltrona anche Penati ?</em>
 * <em>in</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1137: <em>RT @RealEmisKilla : Va boh me ne vó <b>in</b> palestra , a più tardi !</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1137: <em>RT @user : Va boh me ne vó <b>in</b> palestra , a più tardi !</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 6: <em>Mi riguardo l' year <b>in</b> the making e mi metto a piangere . Va tutto bene Camilla , tutto bene çç</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>#BoldiCapra ha fatto più ridere con questo insulto , che con <b>in</b> suoi film ... Uomini inutili a la società !</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@LCuccarini buona pasqua domani sera guardero anche io alice <b>in</b> wonderland sono i miei film preferiti</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>@user buona pasqua domani sera guardero anche io alice <b>in</b> wonderland sono i miei film preferiti</em>
 * <em>per</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 933: <em>@LaSuasse ma <b>per</b> lui è Pasqua tutto l' anno ahahah</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 933: <em>@user ma <b>per</b> lui è Pasqua tutto l' anno ahahah</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>#Grillo non è la #Lega di il 2012 . Parlate <b>per</b> che sentite a la tv magari bersani che dice " che non si permetta " . E senno che fa bersani ? vince ? xD</em>
 * <em>da</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 702: <em>RT @fedeejay : @matteo_curti number one <b>da</b> Rocco . Puoi morire felice .</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 702: <em>RT @user1 : @user2 number one <b>da</b> Rocco . Puoi morire felice .</em>
   * <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> 14: <em>Il governo monti <b>da</b> una grande spinta a la agende digitale per l' italia</em>
 * <em>su</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 599: <em>Video : Il mio commento <b>su</b> il governo Monti .... http://t.co/BbSvgXo5</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 5: <em>@galgoschelotto Ma gago un ruolo a la vice pepe no ???? i <b>su</b> prossimo anno a la juve</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 5: <em>@user Ma gago un ruolo a la vice pepe no ???? i <b>su</b> prossimo anno a la juve</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>Mario Monti , con el viento a <b>su</b> favor en Italia El Universal.mx http://t.co/myODb8Nr #Italia</em>
 * <em>via</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 225: <em>Mario Monti torna in treno a Roma http://t.co/7Tx9yxvX <b>via</b> @repubblicait</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 225: <em>Controindicazioni di il governo Monti ? .. http://t.co/1c27DCYg <b>via</b> @user</em>
   * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 20: <em>Spazziamo <b>via</b> tutto ! http://t.co/8bpLcDVL #Grillo #M5S</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 19: <em>a il <b>via</b> la fase due di il governo #Monti : la risata satanica .</em>
 * <em>come</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 157: <em>@Campanellino_A bene :D oggi ho mangiato <b>come</b> un mailino ahahahah xD</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 67: <em>@BFiorello ciao fiorello mi dici di <b>come</b> va il governo monti ciao risp</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 44: <em>Bravo Mario Monti ! Finalmente UNO che fa vedere <b>come</b> si deve governare !</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 157: <em>@user bene :D oggi ho mangiato <b>come</b> un mailino ahahahah xD</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 67: <em>@user ciao fiorello mi dici di <b>come</b> va il governo monti ciao risp</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 44: <em>@user ti manderò una foto , cosi sarà <b>come</b> essere anche tu con me :-*</em>
 * <em>contro</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 141: <em>L' interrogazione UE <b>contro</b> Mario Monti http://t.co/lvmpcEEB</em>
   * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 5: <em>I dem appoggeranno il nuovo governo #Monti , #Idv voterà <b>contro</b> . Addio Vasto http://t.co/AJkqiPra #Pd #Bersani #DiPietro</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 2: <em>#Grillo 5 Stelle : ecco tutti i pro e i <b>contro</b> - Crisis http://t.co/pRWPlIih via @blogosfere #m5s</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 2: <em>#Grillo 5 Stelle : ecco tutti i pro e i <b>contro</b> - Crisis http://t.co/pRWPlIih via @user #m5s</em>
 * <em>dopo</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 90: <em>giorno <b>dopo</b> giorno mi accorgo quanto Louis sia importante per me</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 27: <em>@cioonas ok grazie mille c: te la do <b>dopo</b> la foto ?</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 9: <em>@Shyerrie <b>dopo</b> aver elencato tutti i pregi di the flash per due giorni ahahahahah</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>@brcristian siamo a gli sgoccioli ..... però penso a il <b>dopo</b> , se piazzano un mario monti non credo che per lavoratori e pensionati cambierà tanto</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 90: <em>@user1 @user2 @user3 esatto <b>dopo</b> 20 anni qualcosa si impara per forza !!!</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 27: <em>@user ok grazie mille c: te la do <b>dopo</b> la foto ?</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 9: <em>@user <b>dopo</b> aver elencato tutti i pregi di the flash per due giorni ahahahahah</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>@user siamo a gli sgoccioli ..... però penso a il <b>dopo</b> , se piazzano un mario monti non credo che per lavoratori e pensionati cambierà tanto</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.109375 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `ADP` is 1.109375 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (4) was observed with the lemma “con”: <em>cn, con, kol, kon</em>.
 

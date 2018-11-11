@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 11121 tokens (9%) have a non-empty value of `Mood`.
-2736 types (14%) occur at least once with a non-empty value of `Mood`.
-982 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+2736 types (16%) occur at least once with a non-empty value of `Mood`.
+982 lemmas (7%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6963; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4158; 3% instances).
 
 ### `VERB`

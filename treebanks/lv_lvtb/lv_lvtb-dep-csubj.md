@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="lv_lvtb-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-163 nodes (0%) are attached to their parents as `csubj`.
+199 nodes (0%) are attached to their parents as `csubj`.
 
-158 instances of `csubj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.76073619631902.
+194 instances of `csubj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.91457286432161.
 
-The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (95; 58% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (20; 12% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `csubj`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (112; 56% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24; 12% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (17; 9% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,12 +63,12 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	Skaidrs	skaidrs	ADJ	afmsnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d60-p102s1w2|SpaceAfter=No
 3	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-d60-p102s1w3
 4	ka	ka	SCONJ	cs	_	5	mark	5:mark	LvtbNodeId=a-d60-p102s1w4
-5	nav	nebūt	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	2:csubj	LvtbNodeId=a-d60-p102s1w5
+5	nav	būt	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	2:csubj	LvtbNodeId=a-d60-p102s1w5
 6	priekš	priekš	ADP	spsg	_	7	case	7:case	LvtbNodeId=a-d60-p102s1w6
 7	tevis	tu	PRON	pp20sgn	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	iobj	5:iobj	LvtbNodeId=a-d60-p102s1w7|SpaceAfter=No
 8	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-d60-p102s1w8
 9	priekšnieks	priekšnieks	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	7	acl	7:acl:nom	LvtbNodeId=a-d60-p102s1w9
-10	atradies	atrasties	VERB	vmypdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part	9	acl	9:acl:nom	LvtbNodeId=a-d60-p102s1w10|SpaceAfter=No
+10	atradies	atrasties	VERB	vmypdmsnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Part	9	acl	9:acl:nom	LvtbNodeId=a-d60-p102s1w10|SpaceAfter=No
 11	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d60-p102s1w11
 
 ~~~

@@ -76,7 +76,7 @@ The following 35 pairs of parts of speech are connected with `conj`: <tt><a href
 6	Rýnem	Rýn	PROPN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	4	nmod	_	_
 7	a	a	CCONJ	J^-------------	_	8	cc	_	LId=a-1
 8	Brémy	Brémy	PROPN	NNFP1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Plur|Polarity=Pos	4	conj	_	_
-9	poctěn	poctěný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	poctěn	poctěný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=poctít
 10	cenami	cena	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	9	obl	_	_
 11	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
 12	literaturu	literatura	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	_	SpaceAfter=No

@@ -23,21 +23,21 @@ The 10 most frequent ambiguous types:  <em>il</em> (<tt><a href="it_postwita-pos
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5: <em>a la Casa <b>il</b> Popolo ARCI via Pinetti per la sicurezza idrogeologica fereggiano</em>
 * <em>la</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 2317: <em>a il via <b>la</b> fase due di il governo #Monti : <b>la</b> risata satanica .</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 142: <em>@njallsfirstlove si cazzo c' è <b>la</b> devo fare c' è <b>la</b> posso fare !</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 10: <em>@MarcoTravaglio attacca le cronache di <b>la</b> Stampa e Repubblica su Mario Monti #serviziopubblico</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 142: <em>@user si cazzo c' è <b>la</b> devo fare c' è <b>la</b> posso fare !</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 10: <em>@user attacca le cronache di <b>la</b> Stampa e Repubblica su Mario Monti #serviziopubblico</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1: <em>quando penso <b>la</b> la governo #Monti mi viene in mente #longanesi e il suo ci salveranno le vecchie zie rileggete lo se potete ...</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>@g79world abiamo cancellato contatti da pc . li ho su iphone . con sincro perdo tutto . devo importare da iphone su outlook ma non ghe <b>la</b> fò !</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>@user abiamo cancellato contatti da pc . li ho su iphone . con sincro perdo tutto . devo importare da iphone su outlook ma non ghe <b>la</b> fò !</em>
 * <em>i</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1151: <em>@x_InLoveWithIan ma me dici che hai fatto ?? xk hai messo <b>i</b> puntini ?</em>
-  * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 6: <em>@Simi_IsOnMars vabbe <b>i</b> .. un giorno riusciremo anche noi a veder li</em>
-  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>Siamo già a le minacce – Attacco a #Grillo | Italia <b>i</b> Dolori : http://t.co/lrlH9EAU via @italiadeidolori</em>
-  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 2: <em>@ilaria_perini lillii <b>i</b> need cure speciali di la giuly ! è stata una pasqua difficile .</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1151: <em>@user ma me dici che hai fatto ?? xk hai messo <b>i</b> puntini ?</em>
+  * <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> 6: <em>@user vabbe <b>i</b> .. un giorno riusciremo anche noi a veder li</em>
+  * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 3: <em>Siamo già a le minacce – Attacco a #Grillo | Italia <b>i</b> Dolori : http://t.co/lrlH9EAU via @user</em>
+  * <tt><a href="it_postwita-pos-X.html">X</a></tt> 2: <em>@user lillii <b>i</b> need cure speciali di la giuly ! è stata una pasqua difficile .</em>
 * <em>l'</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 936: <em>Se #Grillo è <b>l'</b> alternativa mi tenevo #Bossi : fa anche ridere di più .</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 71: <em>@_neverafailure già <b>l'</b> hai scritto e ho continuato io , dopo lo copio (:</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 71: <em>@user già <b>l'</b> hai scritto e ho continuato io , dopo lo copio (:</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 4: <em>Governo , #Monti ora teme intralci a il #Senato Italia <b>l'</b> Unità http://t.co/qJhsbSGP</em>
 * <em>le</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 788: <em>@LUltimaParola Mario Monti ennesimo regalo a <b>le</b> Banche</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 788: <em>@user Mario Monti ennesimo regalo a <b>le</b> Banche</em>
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 52: <em>Crozza <b>le</b> " canta " a il Governo Monti http://t.co/viIo9f5L</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>La Repubblica : Mario Monti senatore a vita Sì di il <b>le</b> in il giorno più duro http://t.co/GBFY4r30</em>
 * <em>una</em>
@@ -45,15 +45,15 @@ The 10 most frequent ambiguous types:  <em>il</em> (<tt><a href="it_postwita-pos
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 11: <em>e poi <b>una</b> non deve piangere . http://t.co/0PNJGDr6QY</em>
 * <em>gli</em>
   * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 298: <em>Mario #Monti : il più grande capro espiatorio di <b>gli</b> ultimi 150 anni .</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 60: <em>@sheerantlgdr * riprende a camminare sorridendo <b>gli</b> *</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 60: <em>@user * riprende a camminare sorridendo <b>gli</b> *</em>
 * <em>lo</em>
   * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 301: <em>Napolitano difende il governo Monti ? Ci mancherebbe , <b>lo</b> ha fatto lui !</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 144: <em>@golfbender siiiiii ma deve ancora uscire quando fa <b>lo</b> scherzo a liam</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 144: <em>@user siiiiii ma deve ancora uscire quando fa <b>lo</b> scherzo a liam</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 1: <em>Perchè in il mio libro 2001 Odissea <b>lo</b> spazio , ediz . Longanesi , lire 1000 , c' è una prefazione di Mario Monti ? #fantapolitica :P</em>
 * <em>che</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 762: <em>@elena_casali il tuo moroso sa <b>che</b> oggi si tornava a scuola ?!</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 662: <em>@x_InLoveWithIan ma me dici <b>che</b> hai fatto ?? xk hai messo i puntini ?</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 113: <em>@marieschips <b>che</b> maga , inchiniamo ci HHAHAHAH</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 762: <em>@user il tuo moroso sa <b>che</b> oggi si tornava a scuola ?!</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 662: <em>@user ma me dici <b>che</b> hai fatto ?? xk hai messo i puntini ?</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 113: <em>@user <b>che</b> maga , inchiniamo ci HHAHAHAH</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 18: <em>Altro <b>che</b> Governo Monti , è già tempo di campagna elettorale .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5: <em>dimenticavo ! Grande Mario Monti a <b>che</b> tempo <b>che</b> fa !</em>
   * <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 3: <em>ho più brufoli <b>che</b> faccia . ben mi sta , cazzo di Nutella porco dio .</em>
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>il</em> (<tt><a href="it_postwita-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.463415 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `DET` is 3.463415 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (15) was observed with the lemma “il”: <em>Lle, a, e, gli, i, il, in, io, kol, l', la, le, li, ll, lo</em>.
 

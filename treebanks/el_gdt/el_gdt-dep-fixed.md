@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-79 nodes (0%) are attached to their parents as `fixed`.
+91 nodes (0%) are attached to their parents as `fixed`.
 
-79 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05063291139241.
+91 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05494505494505.
 
-The following 13 pairs of parts of speech are connected with `fixed`: <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (21; 27% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (15; 19% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (14; 18% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (5; 6% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (21; 23% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (16; 18% instances), <tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (15; 16% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (14; 15% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -29,6 +29,34 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	προς	προς	ADP	ADP	_	4	fixed	_	_
 6	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	1	obl	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 fixed	color:blue
+1	Αυτό	αυτός	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_
+2	όμως	όμως	CCONJ	CCONJ	_	4	cc	_	_
+3	δεν	δεν	PART	PART	_	4	advmod	_	_
+4	μπορεί	μπορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	να	να	PART	PART	_	6	aux	_	_
+6	ισχύει	ισχύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
+7	για	για	ADP	ADP	_	9	case	_	_
+8	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	αεροπορία	αεροπορία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+10	δεδομένου	δεδομένο	ADV	ADV	_	15	mark	_	_
+11	ότι	ότι	SCONJ	SCONJ	_	10	fixed	_	_
+12	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	ΕΛΑΣ	ΕΛΑΣ	NOUN	NOUN	Abbr=Yes	15	nsubj	_	_
+14	δεν	δεν	PART	PART	_	15	advmod	_	_
+15	διέθετε	διαθέτω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+16	αντιαεροπορικό	αντιαεροπορικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	_
+17	οπλισμό	οπλισμός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+18	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -56,27 +84,6 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 15	Τσάμπιονς	Τσάμπιονς	X	X	Foreign=Yes	13	nmod	_	_
 16	Λιγκ	Λιγκ	X	X	Foreign=Yes	15	flat	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 fixed	color:blue
-1	Διαπιστώνεται	διαπιστώνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	επίσης	επίσης	ADV	ADV	_	1	advmod	_	_
-3	νέα	νέος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
-4	αύξηση	αύξηση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
-5	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	πληθωρισμού	πληθωρισμός	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
-7	όσον	όσο	ADV	ADV	_	10	case	_	_
-8	αφορά	αφορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	fixed	_	_
-9	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	τιμές	τιμή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

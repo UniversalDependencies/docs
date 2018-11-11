@@ -9,32 +9,33 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Tem`.
 
-7154 tokens (4%) have a non-empty value of `Case`.
-51 types (0%) occur at least once with a non-empty value of `Case`.
-30 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 5 part-of-speech tags: <tt><a href="he_htb-pos-PART.html">PART</a></tt> (4111; 3% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2688; 2% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (216; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (113; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (26; 0% instances).
+7108 tokens (4%) have a non-empty value of `Case`.
+47 types (0%) occur at least once with a non-empty value of `Case`.
+33 lemmas (0%) occur at least once with a non-empty value of `Case`.
+The feature is used with 4 part-of-speech tags: <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4364; 3% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2605; 2% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (113; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
-### `PART`
+### `ADP`
 
-4111 <tt><a href="he_htb-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `Case`.
+4364 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (16% of all `ADP` tokens) have a non-empty value of `Case`.
 
-`PART` tokens may have the following values of `Case`:
+`ADP` tokens may have the following values of `Case`:
 
-* `Acc` (1973; 48% of non-empty `Case`): את, את_, אותה, אותם, אתכם, אותו, אותן, אתו, אתם
-* `Gen` (2133; 52% of non-empty `Case`): של, שלהם, שלו, שלה, שלך, שלנו
-* `Tem` (5; 0% of non-empty `Case`): כש, מש
+* `Acc` (2010; 46% of non-empty `Case`): את, את_, אתכם, אתו, אתם
+* `Gen` (2348; 54% of non-empty `Case`): של, של_, שלהם, שלו, שלה, _של_, שלנו
+* `Tem` (6; 0% of non-empty `Case`): כש, מ, מש
+* `EMPTY` (22409): ב, ל, _של_, מ, על, כ, עם, ל_, ב_, בין
 
 ### `PRON`
 
-2688 <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> tokens (36% of all `PRON` tokens) have a non-empty value of `Case`.
+2605 <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> tokens (35% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2688; 100%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (2563; 95%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2025; 75%), <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1934; 72%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2605; 100%), <tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt> (2480; 95%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1959; 75%), <tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1890; 73%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (131; 5% of non-empty `Case`): אותו, אותה, _הוא, _הם, אותם, _היא, אותן, _הן, _אני, _אתה
-* `Gen` (2557; 95% of non-empty `Case`): _הוא, _היא, _הם, _הן, _אני, _אנחנו, _אתה, _אתם, _את
-* `EMPTY` (4693): _הוא, הוא, זה, _הם, _היא, זו, הם, כך, אלה, היא
+* `Acc` (48; 2% of non-empty `Case`): _הוא, _הם, _היא, _הן, _אני, _אתה, _אתם
+* `Gen` (2557; 98% of non-empty `Case`): _הוא, _היא, _הם, _הן, _אני, _אנחנו, _אתה, _אתם, _את
+* `EMPTY` (4776): _הוא, הוא, זה, _הם, _היא, זו, הם, כך, אלה, היא
 
 <table>
   <tr><th>Paradigm <i>הוא</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -48,16 +49,6 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>_היא</td><td>_היא</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>_הן</td><td>_הן</td></tr>
 </table>
-
-### `ADP`
-
-216 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Case`.
-
-`ADP` tokens may have the following values of `Case`:
-
-* `Gen` (215; 100% of non-empty `Case`): של_
-* `Tem` (1; 0% of non-empty `Case`): מ
-* `EMPTY` (22398): ב, ל, _של_, מ, על, כ, עם, בין, עד, כדי
 
 ### `SCONJ`
 
@@ -80,4 +71,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `EMPTY` (3283): אחד, שני, אחת, שתי, 1, 0, מיליון, אלף, 2, שלושה
 
 `Case` seems to be **lexical feature** of `NUM`. 100% lemmas (23) occur only with one value of `Case`.
+
+## Relations with Agreement in `Case`
+
+The 10 most frequent relations where parent and child node agree in `Case`:
+<tt>PRON --[<tt><a href="he_htb-dep-case.html">case</a></tt>]--> ADP</tt> (48; 96%).
 

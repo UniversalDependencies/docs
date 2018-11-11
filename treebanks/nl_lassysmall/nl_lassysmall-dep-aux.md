@@ -26,10 +26,10 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Multiculturaliteit	multiculturaliteit	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
 2	heeft	hebben	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 3	bij	bij	ADP	VZ|init	_	4	case	4:case	_
-4	ons	ons	PRON	VNW|pr|pron|obl|vol|1|mv	Case=Acc|Person=1|PronType=Prs	5	obl	5:obl	_
+4	ons	ons	PRON	VNW|pr|pron|obl|vol|1|mv	Case=Acc|Person=1|PronType=Prs	5	obl	5:obl:bij	_
 5	geleid	leiden	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 6	tot	tot	ADP	VZ|init	_	7	case	7:case	_
-7	multicriminaliteit	multicriminaliteit	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl	SpaceAfter=No
+7	multicriminaliteit	multicriminaliteit	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl:tot	SpaceAfter=No
 8	.	.	PUNCT	LET	_	5	punct	5:punct	_
 9	"	"	PUNCT	LET	_	5	punct	5:punct	_
 
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	resultaat	resultaat	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
 3	van	van	ADP	VZ|init	_	5	case	5:case	_
 4	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	opleiding	opleiding	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod	_
+5	opleiding	opleiding	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod:van	_
 6	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	9	aux	9:aux	_
 7	niet	niet	ADV	BW	_	9	advmod	9:advmod	_
 8	zo	zo	ADV	BW	_	9	advmod	9:advmod	_

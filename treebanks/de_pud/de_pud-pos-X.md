@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `X`
 
-There are 1 `X` lemmas (5%), 29 `X` types (0%) and 31 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 11 in number of types and 15 in number of tokens.
+There are 29 `X` lemmas (1%), 29 `X` types (0%) and 31 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 10 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>E, Multi, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Handel, Hey</em>
 
 The 10 most frequent `X` types:  <em>E, Multi, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Handels, Hey</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4261, <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 2767, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 2515, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1913, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 1715, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1387, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1219, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1185, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1139, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 950, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 743, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 352, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 144, <tt><a href="de_pud-pos-X.html">X</a></tt> 31, <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> 22)
+The 10 most frequent ambiguous lemmas: <em>E</em> (<tt><a href="de_pud-pos-X.html">X</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>Druck</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>Handel</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>Top</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>U</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>hin</em> (<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>pro</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 10, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>t</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>unter</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 37, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="de_pud-pos-X.html">X</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>Druck</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>Top</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>U</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>Unter</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>hin</em> (<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="de_pud-pos-X.html">X</a></tt> 1), <em>t</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="de_pud-pos-X.html">X</a></tt> 1)
 
@@ -45,9 +45,13 @@ The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="de_pud-pos-X.htm
 
 ## Morphology
 
-The form / lemma ratio of `X` is 29.000000 (the average of all parts of speech is 307.454545).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.193156).
 
-The 1st highest number of forms (29) was observed with the lemma “_”: <em>Bundes, Demografie, Druck, E, Einzel, Ex, Fjögur, Handels, Hey, Multi, Papworth, Pro, Píanó, Rós, Sand, Sigur, Simple, Spar, Standard, Streifen, Top, U, Unter, franco, hin, mojorum, post, re, t</em>.
+The 1st highest number of forms (1) was observed with the lemma “Bundes”: <em>Bundes</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “Demografie”: <em>Demografie</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “Druck”: <em>Druck</em>.
 
 `X` occurs with 1 features: <tt><a href="de_pud-feat-Foreign.html">Foreign</a></tt> (1; 3% instances)
 

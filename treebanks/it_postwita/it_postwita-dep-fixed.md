@@ -47,7 +47,7 @@ The following 28 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 fixed	color:blue
-1	@xtinasperfume	@xtinasperfume	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	aah	aah	INTJ	I	_	5	discourse	_	_
 3	ok	ok	INTJ	I	_	5	discourse	_	_
 4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_

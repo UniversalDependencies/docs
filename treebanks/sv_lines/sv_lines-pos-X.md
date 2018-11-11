@@ -11,7 +11,7 @@ Out of 17 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in numbe
 
 The 10 most frequent `X` lemmas: <em>W3C, TSQL, säga, EEG, MSDE, SAP, UDL, VBA, adp, cns</em>
 
-The 10 most frequent `X` types:  <em>W3C, SA, TSQL, .adp, .lpk, .mdb, .odc, CNS, EEG, MSDE</em>
+The 10 most frequent `X` types:  <em>W3C, SA, TSQL, .adp, .lpk, .mdb, .odc, .udl, CNS, EEG</em>
 
 The 10 most frequent ambiguous lemmas: <em>säga</em> (<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 315, <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="sv_lines-pos-X.html">X</a></tt> 2)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>SA</em> (<tt><a href="sv_lines-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.414601).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.414305).
 
 The 1st highest number of forms (1) was observed with the lemma “EEG”: <em>EEG</em>.
 
@@ -37,19 +37,19 @@ The 3rd highest number of forms (1) was observed with the lemma “SAP”: <em>S
 
 ## Relations
 
-`X` nodes are attached to their parents using 4 different relations: <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (13; 76% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (2; 12% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 6% instances)
+`X` nodes are attached to their parents using 4 different relations: <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (14; 82% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 6% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 6% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 6% instances)
 
-Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13; 76% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 12% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 6% instances)
+Parents of `X` nodes belong to 5 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (10; 59% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 18% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 12% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 6% instances)
 
 0 (0%) `X` nodes are leaves.
 
 3 (18%) `X` nodes have one child.
 
-12 (71%) `X` nodes have two children.
+13 (76%) `X` nodes have two children.
 
-2 (12%) `X` nodes have three or more children.
+1 (6%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 3.
+The highest child degree of a `X` node is 4.
 
 Children of `X` nodes are attached using 7 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (27; 82% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (1; 3% instances)
 

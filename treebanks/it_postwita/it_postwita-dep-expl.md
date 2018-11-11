@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 expl	color:blue
-1	@njallsfirstlove	@njallsfirstlove	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	si	sì	INTJ	I	_	8	discourse	_	_
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 6 expl	color:blue
 1	RT	retweet	NOUN	S	_	2	dep	_	_
-2	@RealEmisKilla	@RealEmisKilla	SYM	SYM	_	8	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	8	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	Va	Va	INTJ	I	_	8	discourse	_	_
 5	boh	boh	INTJ	I	_	4	discourse	_	_
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 12 expl	color:blue
-1	@pietroraffa	@pietroraffa	SYM	SYM	_	3	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	3	vocative:mention	_	_
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
 3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	cosa	cosa	PRON	PQ	PronType=Int	5	obj	_	_

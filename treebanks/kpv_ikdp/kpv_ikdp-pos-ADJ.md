@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `ADJ`
 
-There are 40 `ADJ` lemmas (9%), 42 `ADJ` types (9%) and 46 `ADJ` tokens (5%).
+There are 40 `ADJ` lemmas (9%), 42 `ADJ` types (8%) and 46 `ADJ` tokens (4%).
 Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ас, второй, лёк, ыджыд, Берёзовский, Вто-, Ленинградскей, Нарьян-Марскей, Омскейын, Ханты-Мансийскей</em>
 
 The 10 most frequent `ADJ` types:  <em>ас, второй, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий, Омскейын, Ханты-Мансийскей</em>
 
-The 10 most frequent ambiguous lemmas: <em>ас</em> (<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>ас</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> 4)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.050000 (the average of all parts of speech is 1.113379).
+The form / lemma ratio of `ADJ` is 1.050000 (the average of all parts of speech is 1.144444).
 
 The 1st highest number of forms (2) was observed with the lemma “лёк”: <em>лёк, лёк-а</em>.
 
@@ -29,13 +29,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ыджыд”
 
 The 3rd highest number of forms (1) was observed with the lemma “Берёзовский”: <em>Берёзовский</em>.
 
-`ADJ` occurs with 2 features: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (44; 96% instances), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (41; 89% instances)
+`ADJ` occurs with 3 features: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (45; 98% instances), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (43; 93% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (3; 7% instances)
 
-`ADJ` occurs with 6 feature-value pairs: `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 7 feature-value pairs: `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `PronType=Prs`
 
 `ADJ` occurs with 8 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (37 tokens).
-Examples: <em>ас, второй, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий, Ханты-Мансийскей, Юго-Восточной</em>
+The most frequent feature combination is `Case=Nom|Number=Sing` (34 tokens).
+Examples: <em>второй, Ас, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий, Ханты-Мансийскей, Юго-Восточной</em>
 
 
 ## Relations

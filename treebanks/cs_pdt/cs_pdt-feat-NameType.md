@@ -227,14 +227,14 @@ The most frequent other feature values with which `DET` and `NameType` co-occurr
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5650; 87%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5319; 88%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (591; 71%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (210; 88%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (135; 80%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (128; 80%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (81; 70%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (56; 71%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (12; 55%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (10; 67%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (10; 53%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 64%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-cc.html">cc</a></tt>]--> PROPN</tt> (5; 56%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (4; 100%).
 

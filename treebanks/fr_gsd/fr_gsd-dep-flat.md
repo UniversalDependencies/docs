@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	plaisait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 8	à	à	ADP	_	_	10	mark	_	_
 9	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
-10	appeler	appeler	VERB	_	VerbForm=Inf	7	acl	_	_
+10	appeler	appeler	VERB	_	VerbForm=Inf	7	xcomp	_	_
 11	avec	avec	ADP	_	_	14	case	_	_
 12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	doux	doux	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_

@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (2907; 29% of non-empty `VerbForm`): <em>göra, ta, se, gå, använda, få, komma, bli, säga, ha</em>
 * `Part` (232; 2% of non-empty `VerbForm`): <em>tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, överraskande</em>
 * `Sup` (872; 9% of non-empty `VerbForm`): <em>kommit, gjort, varit, blivit, fått, gått, sett, sagt, hört, tagit</em>
-* `EMPTY` (31): <em>beroende, närvarande, taget, förfogande, följande, gillande, gående, betydande, fantasieggande, flytande</em>
+* `EMPTY` (28): <em>närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande, flytande</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -77,14 +77,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1332; 84%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (127; 61%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1333; 85%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (130; 61%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (19; 70%),
 <tt>VERB --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (6; 75%),
 <tt>VERB --[<tt><a href="sv_lines-dep-compound-prt.html">compound:prt</a></tt>]--> VERB</tt> (6; 75%),
 <tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (5; 56%),
-<tt>AUX --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (1; 100%).
 

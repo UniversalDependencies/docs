@@ -8,66 +8,103 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `ccomp`.
+68 nodes (0%) are attached to their parents as `ccomp`.
 
-36 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.63888888888889.
+68 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.58823529411765.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (27; 75% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (9; 25% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (44; 65% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (13; 19% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (11; 16% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
-# visual-style 16 12 ccomp	color:blue
-1	ロッコ	ロッコ	PROPN	NNP	_	4	nmod	_	GDPRL=nsubj|GHEAD=7|GHEADH=8|GID=1|Match=Yes|SpaceAfter=No
-2	・	・	SYM	/	_	1	compound	_	GDPRL=punct|GHEAD=3|GHEADH=3,4|GID=2|GUPOS=PUNCT|Match=Yes|SpaceAfter=No
-3	カタラーノ	カタラーノ	PROPN	_	_	4	compound	_	GDPRL=flat:name|GFORM=カタラーノ氏|GHEAD=1|GHEADH=1|GID=3|GUPOS=PROPN|GXPOS=NNP|SpaceAfter=No
-4	氏	氏	NOUN	_	_	8	nsubj	_	GDPRL=flat:name|GFORM=カタラーノ氏|GHEAD=1|GHEADH=1|GID=3|GUPOS=PROPN|GXPOS=NNP|SpaceAfter=No
-5	は	は	ADP	DP	_	4	case	_	GDPRL=compound:prt|GHEAD=1|GHEADH=1|GID=4|GUPOS=PART|Match=Yes|SpaceAfter=No
-6	レトロ	レトロ	ADJ	JJN	_	12	acl	_	GDPRL=advmod|GHEAD=7|GHEADH=8|GID=5|Match=Yes|SpaceAfter=No
-7	に	だ	AUX	VXP	VerbForm=Ger	6	aux	_	GHEAD=5|GHEADH=6|GID=6|GUPOS=VERB|Match=Yes|SpaceAfter=No
-8	働き	働き	NOUN	VV	VerbForm=Ger	12	obl	_	GDPRL=ccomp|GHEAD=15|GHEADH=16|GID=7|GUPOS=VERB|Match=Yes|SpaceAfter=No
-9	、	、	PUNCT	,	_	8	punct	_	GHEAD=9|GHEADH=10|GID=8|Match=Yes|SpaceAfter=No
-10	暮らし	暮らし	NOUN	VV	VerbForm=Ger	12	obl	_	GDPRL=parataxis|GHEAD=7|GHEADH=8|GID=9|GUPOS=VERB|Match=Yes|SpaceAfter=No
-11	、	、	PUNCT	,	_	10	punct	_	GHEAD=11|GHEADH=12|GID=10|Match=Yes|SpaceAfter=No
-12	生き	生きる	VERB	VV	VerbForm=Ger	16	ccomp	_	GDPRL=parataxis|GHEAD=7|GHEADH=8|GID=11|Match=Yes|SpaceAfter=No
-13	て	て	SCONJ	CP	_	12	mark	_	GDPRL=compound:prt|GHEAD=11|GHEADH=12|GID=12|GUPOS=PART|Match=Yes|SpaceAfter=No
-14	いる	いる	AUX	VXH	VerbForm=Fin	12	aux	_	GDPRL=auxvv|GHEAD=11|GHEADH=12|GID=13|GUPOS=VERB|Match=Yes|SpaceAfter=No
-15	と	と	ADP	CM	Case=Comp	12	case	_	GDPRL=compound:prt|GHEAD=7|GHEADH=8|GID=14|GUPOS=PART|Match=Yes|SpaceAfter=No
-16	言っ	言う	VERB	VV	VerbForm=Ger	0	root	_	GHEAD=0|GID=15|Match=Yes|SpaceAfter=No
-17	て	て	SCONJ	CP	_	16	mark	_	GDPRL=compound:prt|GHEAD=15|GHEADH=16|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
-18	も	も	ADP	DP	_	16	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=16|GID=17|GUPOS=PART|Match=Yes|SpaceAfter=No
-19	よい	よい	AUX	JJN	_	16	fixed	_	GDPRL=auxvv|GHEAD=15|GHEADH=16|GID=18|GUPOS=ADJ|Match=Yes|SpaceAfter=No
-20	。	。	PUNCT	.	_	16	punct	_	Match=Yes|GID=19|GHEAD=15|GHEADH=16
+# visual-style 16 10 ccomp	color:blue
+1	証人	証人	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
+2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
+3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
+4	4月	4月	NOUN	NR	_	10	iobj	_	SpaceAfter=No
+5	に	に	ADP	PS	_	4	case	_	SpaceAfter=No
+6	被害者	被害者	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
+7	が	が	ADP	PS	_	6	case	_	SpaceAfter=No
+8	被疑者	被疑者	NOUN	NN	_	10	obj	_	SpaceAfter=No
+9	を	を	ADP	PS	_	8	case	_	SpaceAfter=No
+10	攻撃	攻撃	VERB	VV	_	16	ccomp	_	SpaceAfter=No
+11	し	する	AUX	XV	_	10	aux	_	SpaceAfter=No
+12	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
+13	、と	と	ADP	PQ	_	10	case	_	SpaceAfter=No
+14	警察	警察	NOUN	NN	_	16	iobj	_	SpaceAfter=No
+15	に	に	ADP	PS	_	14	case	_	SpaceAfter=No
+16	言っ	言う	VERB	VV	_	0	root	_	SpaceAfter=No
+17	た	た	AUX	AV	_	16	aux	_	SpaceAfter=No
+18	。	。	PUNCT	SYM	_	16	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 8 ccomp	color:blue
-1	「	「	PUNCT	``	_	8	punct	_	GHEAD=8|GHEADH=8|GID=1|Match=Yes|SpaceAfter=No
-2	私	私	PRON	PRP	Person=1	8	nsubj	_	GDPRL=dislocated|GHEAD=8|GHEADH=8|GID=2|Match=Yes|SpaceAfter=No
-3	は	は	ADP	DP	_	2	case	_	GDPRL=compound:prt|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|Match=Yes|SpaceAfter=No
-4	、	、	PUNCT	,	_	2	punct	_	GHEAD=2|GHEADH=2|GID=4|Match=Yes|SpaceAfter=No
-5	トロピカル	トロピカル	NOUN	JJN	_	6	compound	_	GDPRL=amod|GHEAD=6|GHEADH=6|GID=5|GUPOS=ADJ|Match=Yes|SpaceAfter=No
-6	カラー	カラー	NOUN	NN	_	8	nsubj	_	GHEAD=8|GHEADH=8|GID=6|Match=Yes|SpaceAfter=No
-7	が	が	ADP	CM	Case=Nom	6	case	_	GDPRL=compound:prt|GHEAD=6|GHEADH=6|GID=7|GUPOS=PART|Match=Yes|SpaceAfter=No
-8	大好き	大好き	ADJ	JJN	_	14	ccomp	_	GDPRL=ccomp|GHEAD=14|GHEADH=14|GID=8|Match=Yes|SpaceAfter=No
-9	」	」	PUNCT	''	_	8	punct	_	GDPRL=punct|GHEAD=8|GHEADH=8|GID=9|Match=Yes|SpaceAfter=No
-10	と	と	ADP	CM	Case=Comp	8	case	_	GDPRL=compound:prt|GHEAD=8|GHEADH=8|GID=10|GUPOS=PART|Match=Yes|SpaceAfter=No
-11	、	、	PUNCT	,	_	8	punct	_	GHEAD=8|GHEADH=8|GID=11|Match=Yes|SpaceAfter=No
-12	彼	彼	PRON	PRP	Person=3	14	nsubj	_	GHEAD=14|GHEADH=14|GID=12|Match=Yes|SpaceAfter=No
-13	は	は	ADP	DP	_	12	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=12|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
-14	言っ	言う	VERB	VV	VerbForm=Ger	0	root	_	GHEAD=0|GID=14|Match=Yes|SpaceAfter=No
-15	た	た	AUX	VXP	Tense=Past|VerbForm=Fin	14	aux	_	GHEAD=14|GHEADH=14|GID=15|GUPOS=VERB|Match=Yes|SpaceAfter=No
-16	。	。	PUNCT	.	_	14	punct	_	Match=Yes|GID=16|GHEAD=14|GHEADH=14
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 19 ccomp	color:blue
+1	プラトン	プラトン	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
+2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
+3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
+4	権力	権力	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
+5	は	は	ADP	PK	_	4	case	_	SpaceAfter=No
+6	教育	教育	NOUN	NN	_	8	obj	_	SpaceAfter=No
+7	を	を	ADP	PS	_	6	case	_	SpaceAfter=No
+8	受け	受ける	VERB	VV	_	10	acl	_	SpaceAfter=No
+9	た	た	AUX	AV	_	8	aux	_	SpaceAfter=No
+10	保護者	保護者	NOUN	NN	_	12	iobj	_	SpaceAfter=No
+11	に	に	ADP	PS	_	10	case	_	SpaceAfter=No
+12	注意	注意	VERB	VV	_	15	advcl	_	SpaceAfter=No
+13	し	する	AUX	XV	_	12	aux	_	SpaceAfter=No
+14	て	て	SCONJ	PC	_	12	mark	_	SpaceAfter=No
+15	委ねる	委ねる	VERB	VV	_	16	acl	_	SpaceAfter=No
+16	方	方	NOUN	NB	_	19	nsubj	_	SpaceAfter=No
+17	が	が	ADP	PS	_	16	case	_	SpaceAfter=No
+18	ずっと	ずっと	ADV	RB	_	19	advmod	_	SpaceAfter=No
+19	安全	安全	ADJ	JN	_	23	ccomp	_	SpaceAfter=No
+20	だろ	だ	AUX	XV	_	19	aux	_	SpaceAfter=No
+21	う	う	AUX	AV	_	19	aux	_	SpaceAfter=No
+22	、と	と	ADP	PQ	_	19	case	_	SpaceAfter=No
+23	考え	考える	VERB	VV	_	0	root	_	SpaceAfter=No
+24	た	た	AUX	AV	_	23	aux	_	SpaceAfter=No
+25	。	。	PUNCT	SYM	_	23	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 6 ccomp	color:blue
+1	これ	これ	PRON	NP	_	6	nsubj	_	SpaceAfter=No
+2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
+3	疼痛	疼痛	NOUN	NN	_	4	compound	_	SpaceAfter=No
+4	患者	患者	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+5	の	の	ADP	PN	_	4	case	_	SpaceAfter=No
+6	災害	災害	NOUN	NN	_	18	ccomp	_	SpaceAfter=No
+7	だ	だ	AUX	AV	_	6	cop	_	SpaceAfter=No
+8	、と	と	ADP	PQ	_	6	case	_	SpaceAfter=No
+9	マイリス	マイリス	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No
+10	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
+11	木曜日	木曜日	NOUN	NN	_	14	nmod	_	SpaceAfter=No
+12	の	の	ADP	PN	_	11	case	_	SpaceAfter=No
+13	CBC	CBC	PROPN	NNP	_	14	compound	_	SpaceAfter=No
+14	ニュース	ニュース	NOUN	NN	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	PN	_	14	case	_	SpaceAfter=No
+16	インタビュー	インタビュー	NOUN	NN	_	18	obl	_	SpaceAfter=No
+17	で	で	ADP	PS	_	16	case	_	SpaceAfter=No
+18	言っ	言う	VERB	VV	_	0	root	_	SpaceAfter=No
+19	た	た	AUX	AV	_	18	aux	_	SpaceAfter=No
+20	。	。	PUNCT	SYM	_	18	punct	_	SpaceAfter=No
 
 ~~~
 

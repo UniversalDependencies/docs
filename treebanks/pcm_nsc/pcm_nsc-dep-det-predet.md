@@ -51,7 +51,7 @@ The following 8 pairs of parts of speech are connected with `det:predet`: <tt><a
 4	fine	fine	ADJ	_	_	6	amod	_	_
 5	fine	fine	ADJ	_	_	4	compound:redup	_	_
 6	road	road	NOUN	_	_	14	dislocated	_	_
-7	dem	dem	DET	_	_	6	det	_	_
+7	dem	dem	PART	_	_	6	det	_	_
 8	of	of	ADP	_	_	9	case	_	_
 9	before	before	ADP	_	_	6	obl:mod	_	_
 10	before	before	ADP	_	_	9	compound:redup	_	_

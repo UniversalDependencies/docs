@@ -9,64 +9,55 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-122248 tokens (42%) have a non-empty value of `Gender`.
-8512 types (64%) occur at least once with a non-empty value of `Gender`.
-2928 lemmas (81%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (57078; 20% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (27764; 10% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (18690; 6% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (9685; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (3969; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (3657; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1337; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (55; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+147792 tokens (42%) have a non-empty value of `Gender`.
+10253 types (63%) occur at least once with a non-empty value of `Gender`.
+3464 lemmas (76%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 10 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (70688; 20% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (35446; 10% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (24822; 7% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (11593; 3% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (3740; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1459; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-57078 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+70688 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (55316; 97%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48169; 84%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (69247; 98%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58846; 83%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (33614; 59% of non-empty `Gender`): <em>forma, formam, formae, materia, potentia, anima, causa, substantia, res, rerum</em>
-* `Masc` (12068; 21% of non-empty `Gender`): <em>intellectus, actu, modo, actus, finem, finis, motus, intellectum, modum, homo</em>
-* `Neut` (11396; 20% of non-empty `Gender`): <em>esse, bonum, corpus, principium, corporis, malum, agens, accidens, corpore, ens</em>
-* `EMPTY` (287): <em>perfecte, numero, forte, perfectius, diversimode, partim, perfectissime, parum, ly, fas</em>
+* `Fem` (39910; 56% of non-empty `Gender`): <em>forma, formam, formae, materia, anima, potentia, causa, substantia, res, rerum</em>
+* `Masc` (16173; 23% of non-empty `Gender`): <em>intellectus, actu, finem, homo, modo, actus, finis, effectus, motus, modum</em>
+* `Neut` (14605; 21% of non-empty `Gender`): <em>esse, bonum, corpus, principium, corporis, malum, agens, accidens, corpore, ens</em>
+* `EMPTY` (848): <em>amplius, vero, similiter, secundo, primo, solum, tertio, praecipue, forte, minus</em>
 
 <table>
-  <tr><th>Paradigm <i>perfectus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfecto</em></td><td><em>perfecta</em></td><td><em>perfecto</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>perfectis</em></td><td><em>perfectis</em></td><td><em>perfectis</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectiori</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectissimo</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectum</em></td><td><em>perfectam, perfectissimam</em></td><td><em>perfectum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>perfectos</em></td><td></td><td><em>perfecta</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>perfectiorem</em></td><td><em>perfectius</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectissimum</em></td><td><em>perfectissimam</em></td><td><em>perfectissimum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>perfectissima</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>perfectae</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfecti</em></td><td><em>perfectae, perfectioris, perfectissimae</em></td><td><em>perfecti</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>perfectorum</em></td><td></td><td><em>perfectorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>perfectioris</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectus</em></td><td><em>perfecta, perfectior</em></td><td><em>perfectum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>perfecti</em></td><td><em>perfectae, perfectiores</em></td><td><em>perfecta, perfectiora</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectior</em></td><td><em>perfectior</em></td><td><em>perfectius</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>perfectiora</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>perfectissimus</em></td><td><em>perfectissima</em></td><td><em>perfectissimum</em></td></tr>
+  <tr><th>Paradigm <i>divinus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divino</em></td><td><em>divina</em></td><td><em>divino, divinis</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>divinis</em></td><td><em>divinis</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divinum</em></td><td><em>divinam</em></td><td><em>divinum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>divinos</em></td><td><em>divinas</em></td><td><em>divina</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divino</em></td><td><em>divinae</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divini</em></td><td><em>divinae</em></td><td><em>divini</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>divinorum</em></td><td></td><td><em>divinorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divinus</em></td><td><em>divina</em></td><td><em>divinum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>divina</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (1350) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 93% lemmas (1878) occur only with one value of `Gender`.
 
 ### `PRON`
 
-27764 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
+35446 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27408; 99%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21586; 78%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (35038; 99%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25962; 73%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (8160; 29% of non-empty `Gender`): <em>quae, se, quam, aliqua, qua, ipsa, aliquam, quaedam, haec, illa</em>
-* `Masc` (5426; 20% of non-empty `Gender`): <em>qui, eius, se, ipse, nobis, quo, aliquis, ipso, eo, ipsum</em>
-* `Neut` (14178; 51% of non-empty `Gender`): <em>quod, hoc, quae, aliquid, se, nihil, quo, illud, ea, aliud</em>
-* `EMPTY` (235): <em>hinc, aliter, alias, qualiter, quantumcumque, nihil, quot, tot, qualitercumque, illuc</em>
+* `Fem` (9937; 28% of non-empty `Gender`): <em>quae, se, quam, aliqua, qua, aliquam, ipsa, omnis, quaedam, omnes</em>
+* `Masc` (7900; 22% of non-empty `Gender`): <em>qui, eius, se, aliquis, nobis, ipse, quo, ei, ipso, eo</em>
+* `Neut` (17609; 50% of non-empty `Gender`): <em>quod, hoc, quae, aliquid, omnia, se, nihil, ea, quo, illud</em>
+* `EMPTY` (34): <em>omnis, quot, tot, quibus, se, eiusdem, his, nihil, omnem, omni</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quo</em></td><td><em>qua</em></td><td><em>quo</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quo</em></td><td><em>qua, quatenus</em></td><td><em>quo</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td><em>quibus</em></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quem</em></td><td><em>quam, quae</em></td><td><em>quod, quid</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quos</em></td><td><em>quas, quae</em></td><td><em>quae</em></td></tr>
@@ -81,123 +72,97 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-18690 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (83% of all `ADJ` tokens) have a non-empty value of `Gender`.
+24822 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16802; 90%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13821; 74%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21930; 88%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18365; 74%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (7755; 41% of non-empty `Gender`): <em>divina, divinae, prima, divinam, intellectualis, substantialis, humana, propria, intelligibiles, intellectuales</em>
-* `Masc` (3298; 18% of non-empty `Gender`): <em>possibilis, primo, ultimus, universi, divinus, possibili, ultimum, possibilem, christi, naturalis</em>
-* `Neut` (7637; 41% of non-empty `Gender`): <em>impossibile, primum, infinitum, possibile, intelligibilia, proprium, secundum, manifestum, multa, necessarium</em>
-* `EMPTY` (3794): <em>vero, solum, amplius, similiter, necesse, primo, naturaliter, simpliciter, prius, maxime</em>
+* `Fem` (10789; 43% of non-empty `Gender`): <em>divina, suam, sua, divinae, divinam, prima, suae, intellectualis, humana, substantialis</em>
+* `Masc` (4651; 19% of non-empty `Gender`): <em>possibilis, ultimum, primo, ultimus, universi, noster, suum, divinus, possibili, christi</em>
+* `Neut` (9382; 38% of non-empty `Gender`): <em>impossibile, primum, suum, possibile, infinitum, proprium, necessarium, manifestum, intelligibilia, multa</em>
+* `EMPTY` (214): <em>necesse, casualis, maiorem, nequam, primi, quotcumque, quotlibet</em>
 
 <table>
-  <tr><th>Paradigm <i>divinus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divino</em></td><td><em>divina</em></td><td><em>divino, divinis</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>divinis</em></td><td><em>divinis</em></td><td><em>divinis</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divinum</em></td><td><em>divinam</em></td><td><em>divinum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>divinas</em></td><td><em>divina</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divino</em></td><td><em>divinae</em></td><td><em>divino</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>divinis</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divini, divinus</em></td><td><em>divinae</em></td><td><em>divini</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>divinorum</em></td><td><em>divinarum</em></td><td><em>divinorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>divinus</em></td><td><em>divina</em></td><td><em>divinum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>divini</em></td><td><em>divinae</em></td><td><em>divina</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>divinius</em></td></tr>
+  <tr><th>Paradigm <i>suus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>suo</em></td><td><em>sua</em></td><td><em>suo</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>suis</em></td><td><em>suis</em></td><td><em>suis</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>suum</em></td><td><em>suam</em></td><td><em>suum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>suos</em></td><td><em>suas</em></td><td><em>sua</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>suo</em></td><td><em>suae</em></td><td><em>suo</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>suis</em></td><td><em>suis</em></td><td><em>suis</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sui</em></td><td><em>suae, sui</em></td><td><em>sui</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>suorum, sui</em></td><td><em>suarum</em></td><td><em>suorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>suus</em></td><td><em>sua</em></td><td><em>suum</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>sua</em></td></tr>
 </table>
 
 ### `VERB`
 
-9685 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Gender`.
+11593 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9685; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9685; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9638; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8873; 92%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7094; 73%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (6648; 69%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5653; 58%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5653; 58%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5345; 55%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11593; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11593; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11538; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10629; 92%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8313; 72%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (8031; 69%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6771; 58%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6771; 58%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6329; 55%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (3241; 33% of non-empty `Gender`): <em>separatae, separata, separatas, creata, praedicta, praedictae, separatis, creatis, existens, composita</em>
-* `Masc` (1882; 19% of non-empty `Gender`): <em>agens, intelligens, creatus, agentem, agentis, compositus, agente, habens, dicens, natus</em>
-* `Neut` (4562; 47% of non-empty `Gender`): <em>ostensum, dicendum, movens, dictum, probatum, dictis, praemissis, consequens, motum, intellecta</em>
-* `EMPTY` (32504): <em>est, potest, esse, oportet, habet, sunt, patet, dicitur, sit, dicit</em>
+* `Fem` (3690; 32% of non-empty `Gender`): <em>separatae, separata, separatas, creata, praedicta, separatis, praedictae, creatis, creatae, existens</em>
+* `Masc` (2607; 22% of non-empty `Gender`): <em>agens, intelligens, creatus, agentem, agentis, compositus, agente, dicens, habens, dicentium</em>
+* `Neut` (5296; 46% of non-empty `Gender`): <em>ostensum, dicendum, dictum, movens, probatum, dictis, praemissis, consequens, motum, intellecta</em>
+* `EMPTY` (40654): <em>est, potest, esse, oportet, habet, dicitur, sunt, patet, sit, dicit</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futuro</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>futuris</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>futuram</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futuris</em></td><td></td><td><em>futuris</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>futuram</em></td><td><em>futurum</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ens</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futuros</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futuros</em></td><td><em>futuras</em></td><td><em>futura</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>entia</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>esse</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futuri</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>entium</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>futurus</em></td><td></td><td><em>futurum</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ens</em></td><td><em>ens</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>entia</em></td></tr>
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>esse</em></td></tr>
 </table>
 
-### `DET`
-
-3969 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3968; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2497; 63%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2049; 52%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2049; 52%).
-
-`DET` tokens may have the following values of `Gender`:
-
-* `Fem` (1843; 46% of non-empty `Gender`): <em>suam, sua, omnis, omnes, suae, omnibus, omnium, omnem, omni, nostra</em>
-* `Masc` (591; 15% of non-empty `Gender`): <em>omnes, noster, suum, omnibus, omnis, suo, omnium, nostro, suos, sui</em>
-* `Neut` (1535; 39% of non-empty `Gender`): <em>omnia, omne, suum, omnium, omnibus, suo, sui, omni, omnis, sua</em>
-* `EMPTY` (10): <em>omnis, omnem, omni, omnibus, omnium</em>
-
-<table>
-  <tr><th>Paradigm <i>omnis</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omni</em></td><td><em>omni</em></td><td><em>omni</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnem</em></td><td><em>omnem</em></td><td><em>omne, omnia</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes</em></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omni</em></td><td><em>omni</em></td><td><em>omni</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omnis</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnium</em></td><td><em>omnium</em></td><td><em>omnium</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omne, omnis</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes</em></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
-</table>
-
 ### `PROPN`
 
-3657 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Gender`.
+3740 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3656; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3482; 95%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3739; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3728; 100%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (144; 4% of non-empty `Gender`): <em>scriptura, scripturae, ecclesiae, ecclesia, trinitatis, eucharistia, exodi, scripturis, trinitate, ecclesiam</em>
-* `Masc` (3500; 96% of non-empty `Gender`): <em>deus, deo, dei, deum, aristoteles, aristotelis, angeli, dionysius, psalmo, baptismi</em>
-* `Neut` (13; 0% of non-empty `Gender`): <em>soliloquiorum, baptisma, centilogio, baptismata, enchiridion, ethicorum, evangelii, evangelio, purgatorio</em>
-* `EMPTY` (43): <em>iob, seraphim, amos, avempace, cherubim, esau, ierusalem, avicebron, graece, iacob</em>
+* `Fem` (14; 0% of non-empty `Gender`): <em>exodi, genesis, ninive, babylonem, evam, maria, priscillae</em>
+* `Masc` (3708; 99% of non-empty `Gender`): <em>deus, deo, dei, deum, aristoteles, aristotelis, dionysius, augustinus, boetius, plato</em>
+* `Neut` (18; 0% of non-empty `Gender`): <em>evangelio, centilogio, soliloquiorum, evangelium, deo, enchiridion, evangelii, purgatorio</em>
+* `EMPTY` (45): <em>iob, ierusalem, esau, iacob, abraham, albumasar, avempace, rabbi, amos, avicebron</em>
 
 <table>
-  <tr><th>Paradigm <i>baptisma</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>baptismo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>baptismum</em></td><td><em>baptisma</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>baptismi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>baptismus</em></td><td><em>baptisma</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>baptismi</em></td><td><em>baptismata</em></td></tr>
+  <tr><th>Paradigm <i>deus</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>deo</em></td><td><em>deo</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>deum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>deo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>dei</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>deus</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (110) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (96) occur only with one value of `Gender`.
 
 ### `NUM`
 
-1337 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Gender`.
+1459 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (59% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1337; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1337; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1321; 99%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1086; 81%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1459; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1459; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1443; 99%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1188; 81%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (471; 35% of non-empty `Gender`): <em>una, unam, unius, duae, tres, duabus, trium, duas, tribus, uni</em>
-* `Masc` (258; 19% of non-empty `Gender`): <em>unus, uno, unum, unius, duo, duobus, tres, duos, uni, duorum</em>
-* `Neut` (608; 45% of non-empty `Gender`): <em>unum, duo, uno, unius, duobus, tria, duorum, quatuor, uni, tribus</em>
-* `EMPTY` (762): <em>iii, i, ii, 1, 2, vii, iv, viii, 3, vi</em>
+* `Fem` (493; 34% of non-empty `Gender`): <em>una, unam, unius, duae, tres, duabus, trium, duas, tribus, uni</em>
+* `Masc` (343; 24% of non-empty `Gender`): <em>unus, uno, unum, unius, duo, duobus, uni, duos, tres, duorum</em>
+* `Neut` (623; 43% of non-empty `Gender`): <em>unum, duo, uno, unius, duobus, tria, duorum, quatuor, uni, tribus</em>
+* `EMPTY` (1028): <em>i, iii, ii, 1, 2, vii, viii, iv, vi, 3</em>
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -210,61 +175,81 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>duo</em></td><td><em>duae</em></td><td></td></tr>
 </table>
 
-### `AUX`
+### `DET`
 
-55 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
+18 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (55; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (55; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (52; 95%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (37; 67%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (34; 62%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 55%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 61%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11; 61%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (11; 61%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 56%).
 
-`AUX` tokens may have the following values of `Gender`:
+`DET` tokens may have the following values of `Gender`:
 
-* `Fem` (23; 42% of non-empty `Gender`): <em>existentes, facta, creatae, creatas, dicta, factae, manente, consideranda, effecta, existens</em>
-* `Masc` (13; 24% of non-empty `Gender`): <em>facti, habens, inventus, appellati, existens, existente, existentes, factus, institutus, manens</em>
-* `Neut` (19; 35% of non-empty `Gender`): <em>facta, existentia, cognitum, compositum, coniuncti, effectum, existens, factum, intellecta, movens</em>
-* `EMPTY` (11668): <em>est, sit, esse, sunt, esset, dicitur, sint, erit, fit, fuit</em>
+* `Masc` (5; 28% of non-empty `Gender`): <em>ly</em>
+* `Neut` (13; 72% of non-empty `Gender`): <em>plerumque, ly, pleraque</em>
+* `EMPTY` (1): <em>ly</em>
 
 <table>
-  <tr><th>Paradigm <i>facio</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>factas</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>factus</em></td><td><em>facta</em></td><td><em>factum</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>facti</em></td><td><em>factae</em></td><td><em>facta</em></td></tr>
+  <tr><th>Paradigm <i>ly</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>ly</em></td><td><em>ly</em></td></tr>
 </table>
 
 ### `X`
 
-12 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Gender`.
+14 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (9; 75%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (10; 71%).
 
 `X` tokens may have the following values of `Gender`:
 
-* `Fem` (8; 67% of non-empty `Gender`): <em>quod, decupla</em>
-* `Masc` (1; 8% of non-empty `Gender`): <em>quam</em>
-* `Neut` (3; 25% of non-empty `Gender`): <em>decuplum, ephes.</em>
-* `EMPTY` (594): <em>metaph., cap., physic., gen., sap., metaphys., trin., dist., div., nom.</em>
+* `Fem` (8; 57% of non-empty `Gender`): <em>quod, decupla, matth.</em>
+* `Masc` (2; 14% of non-empty `Gender`): <em>periarchon, quam</em>
+* `Neut` (4; 29% of non-empty `Gender`): <em>decuplum, bona, ephes.</em>
+* `EMPTY` (778): <em>metaph., matth., rom., gen., cap., sap., physic., cor., ioan., metaphys.</em>
 
-### `ADP`
+<table>
+  <tr><th>Paradigm <i>vox_breviata</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>matth.</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt></tt></td><td></td><td><em>ephes.</em></td></tr>
+</table>
 
-1 <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
+### `AUX`
 
-The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="la_ittb-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (1; 100%).
+11 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-`ADP` tokens may have the following values of `Gender`:
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (11; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (9; 82%).
+
+`AUX` tokens may have the following values of `Gender`:
+
+* `Fem` (3; 27% of non-empty `Gender`): <em>factae, factas</em>
+* `Masc` (1; 9% of non-empty `Gender`): <em>institutus</em>
+* `Neut` (7; 64% of non-empty `Gender`): <em>facta, cognitum</em>
+* `EMPTY` (13133): <em>est, sit, esse, sunt, esset, sint, erit, fuit, essent, fuerit</em>
+
+<table>
+  <tr><th>Paradigm <i>facio</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>factas</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>factae</em></td><td><em>facta</em></td></tr>
+</table>
+
+### `CCONJ`
+
+1 <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Gender`.
+
+`CCONJ` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>obiectum</em>
-* `EMPTY` (26413): <em>in, ad, per, ex, secundum, de, a, ab, propter, supra</em>
+* `EMPTY` (18691): <em>et, autem, sed, vel, nec, neque, aut, sive, ac, quam</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9686; 95%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (6661; 81%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (3193; 51%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> DET</tt> (2882; 99%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1758; 57%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (924; 94%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (669; 96%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (661; 93%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (613; 92%),
-<tt>PRON --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (350; 95%).
+<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14303; 100%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> PRON</tt> (8463; 100%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (3665; 75%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2451; 56%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1213; 93%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (909; 96%),
+<tt>ADJ --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (748; 96%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (684; 91%),
+<tt>PRON --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> PRON</tt> (396; 100%),
+<tt>PRON --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (363; 100%).
 

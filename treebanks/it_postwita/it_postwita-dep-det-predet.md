@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 det:predet	color:blue
-1	@LaSuasse	@LaSuasse	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	per	per	ADP	E	_	4	case	_	_
 4	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
@@ -78,7 +78,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 det:predet	color:blue
-1	@AdamoCesana	@AdamoCesana	SYM	SYM	_	2	vocative:mention	_	_
+1	@user1	@user1	SYM	SYM	_	2	vocative:mention	_	_
 2	lassa	lassare	X	SW	_	0	root	_	_
 3	Peddere	perdere	X	SW	_	2	flat:foreign	_	_
 4	Rocco	rocco	PROPN	SP	_	2	flat	_	_
@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 8	tutti	tutto	DET	DI	PronType=Ind	10	det:predet	_	_
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	Tweet	Tweet	PROPN	SP	_	7	obj	_	_
-11	@RoccoTodero	@RoccoTodero	SYM	SYM	_	2	vocative:mention	_	_
+11	@user2	@user2	SYM	SYM	_	2	vocative:mention	_	_
 
 ~~~
 

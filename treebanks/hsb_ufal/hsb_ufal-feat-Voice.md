@@ -12,7 +12,7 @@ It occurs with 2 different values: `Act`, `Pass`.
 285 tokens (3%) have a non-empty value of `Voice`.
 221 types (5%) occur at least once with a non-empty value of `Voice`.
 174 lemmas (6%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (189; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (52; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (44; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (189; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (51; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (45; 0% instances).
 
 ### `ADJ`
 
@@ -30,28 +30,28 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 ### `VERB`
 
-52 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Voice`.
+51 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (52; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (50; 96%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50; 96%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (50; 96%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 58%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (51; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (50; 98%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (50; 96% of non-empty `Voice`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
-* `Pass` (2; 4% of non-empty `Voice`): <em>bu</em>
+* `Act` (50; 98% of non-empty `Voice`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
+* `Pass` (1; 2% of non-empty `Voice`): <em>bu</em>
 * `EMPTY` (770): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (42) occur only with one value of `Voice`.
 
 ### `AUX`
 
-44 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Voice`.
+45 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 98%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 95%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 95%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 95%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 66%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (44; 98%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (43; 96%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (43; 96%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (43; 96%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 67%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (2; 5% of non-empty `Voice`): <em>był, była</em>
-* `Pass` (42; 95% of non-empty `Voice`): <em>bu, buchu, buštej</em>
+* `Act` (2; 4% of non-empty `Voice`): <em>był, była</em>
+* `Pass` (43; 96% of non-empty `Voice`): <em>bu, buchu, buštej</em>
 * `EMPTY` (245): <em>je, su, bě, by, njeje, njejsu, běchu, stej, bu, bychu</em>
 
 <table>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7570 nodes (5%) are attached to their parents as `amod`.
+6989 nodes (4%) are attached to their parents as `amod`.
 
-7570 instances of `amod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80171730515192.
+6989 instances of `amod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.82916010874231.
 
-The following 23 pairs of parts of speech are connected with `amod`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (6363; 84% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (575; 8% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (219; 3% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (202; 3% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (63; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (55; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `amod`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (6363; 91% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (219; 3% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (202; 3% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (63; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (55; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,24 +44,6 @@ The following 23 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 amod	color:blue
-1	אבקשכם	_	VERB	VERB	_	0	root	_	_
-2	_אתם	הוא	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obj	_	_
-3	לשלוח	שלח	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	1	xcomp	_	_
-4	אלי	אל	ADP	ADP	_	5	case	_	_
-5	_אני	הוא	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-6	חומר	חומר	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
-7	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	amod	_	SpaceAfter=No
-8	.	.	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
@@ -80,6 +62,27 @@ The following 23 pairs of parts of speech are connected with `amod`: <tt><a href
 11	ליברליות	ליברלי	ADJ	ADJ	Gender=Fem|Number=Plur	10	amod	_	_
 12	עייפות	עייף	ADJ	ADJ	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 amod	color:blue
+1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+2	תקשורת	תקשורת	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	ה	ה	DET	DET	PronType=Art	4	det:def	_	_
+4	עויינת	עוין	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
+5	ממשיכה	המשיך	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
+6	לרצוח	רצח	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	את_	את	ADP	ADP	Case=Acc	8	case:acc	_	_
+8	_אתה	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+9	פעם	פעם	NOUN	NOUN	Gender=Fem|Number=Sing	5	dep	_	_
+10	שלישית	שלישית	NUM	NUM	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

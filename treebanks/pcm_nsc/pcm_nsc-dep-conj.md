@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `conj`: <tt><a href=
 9	bridge	bridge	NOUN	_	_	3	obl:arg	_	_
 10	and	and	CCONJ	_	_	11	cc	_	_
 11	road	road	NOUN	_	_	9	conj	_	_
-12	dem	dem	DET	_	_	11	det	_	_
+12	dem	dem	PART	_	_	11	det	_	_
 13	again	again	ADV	_	_	3	advmod	_	_
 14	//	//	PUNCT	_	_	3	punct	_	_
 

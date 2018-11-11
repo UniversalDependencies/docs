@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>have</em> (<tt><a href="en_ewt-pos-VE
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.872502 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `VERB` is 1.872502 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (14) was observed with the lemma “be”: <em>'m, 's, am, ar, are, be, been, being, is, m, s, was, were, ’s</em>.
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-24808 tokens (30%) have a non-empty value of `Number`.
-5295 types (57%) occur at least once with a non-empty value of `Number`.
-4203 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (14515; 18% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4919; 6% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2657; 3% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1448; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (880; 1% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (386; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (3; 0% instances).
+24810 tokens (30%) have a non-empty value of `Number`.
+5297 types (57%) occur at least once with a non-empty value of `Number`.
+4204 lemmas (59%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (14517; 18% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4919; 6% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2656; 3% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1448; 2% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (881; 1% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (386; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-14515 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+14517 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (3578; 25% of non-empty `Number`): <em>people, eyes, fields, men, years, things, items, women, groups, hands</em>
-* `Sing` (10937; 75% of non-empty `Number`): <em>data, field, man, time, page, way, file, Mr, view, group</em>
-* `EMPTY` (440): <em>garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</em>
+* `Plur` (3579; 25% of non-empty `Number`): <em>people, eyes, fields, men, years, things, items, women, groups, hands</em>
+* `Sing` (10938; 75% of non-empty `Number`): <em>data, field, man, time, page, way, file, Mr, view, group</em>
+* `EMPTY` (439): <em>garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</em>
 
 <table>
   <tr><th>Paradigm <i>field</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -50,13 +50,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-2657 <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Number`.
+2656 <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (102; 4% of non-empty `Number`): <em>Dursleys, Hogwarts, Weasleys, Mets, States, Bayleys, Cloughs, Pettigrews, Masons, Mishkenot</em>
-* `Sing` (2555; 96% of non-empty `Number`): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
-* `EMPTY` (144): <em>Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</em>
+* `Sing` (2554; 96% of non-empty `Number`): <em>Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</em>
+* `EMPTY` (146): <em>Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</em>
 
 <table>
   <tr><th>Paradigm <i>Stillman</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -78,16 +78,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `VERB`
 
-880 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Number`.
+881 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (880; 100%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (879; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (879; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (657; 75%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (881; 100%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (880; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (880; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (658; 75%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Sing` (880; 100% of non-empty `Number`): <em>was, is, 's, has, says, does, goes, makes, knows, means</em>
-* `EMPTY` (8984): <em>said, do, know, had, have, see, made, going, make, get</em>
+* `Sing` (881; 100% of non-empty `Number`): <em>was, is, 's, has, says, does, goes, makes, knows, means</em>
+* `EMPTY` (8982): <em>said, do, know, had, have, see, made, going, make, get</em>
 
-`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (185) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (186) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -108,24 +108,24 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `SYM`
 
-3 <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> tokens (60% of all `SYM` tokens) have a non-empty value of `Number`.
+3 <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> tokens (50% of all `SYM` tokens) have a non-empty value of `Number`.
 
 `SYM` tokens may have the following values of `Number`:
 
 * `Sing` (3; 100% of non-empty `Number`): <em>%</em>
-* `EMPTY` (2): <em>-%</em>
+* `EMPTY` (3): <em>-%, Like</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1357; 63%),
-<tt>NOUN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> NOUN</tt> (928; 66%),
-<tt>NOUN --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (708; 74%),
+<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1430; 63%),
+<tt>NOUN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> NOUN</tt> (945; 66%),
+<tt>NOUN --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (716; 75%),
 <tt>NOUN --[<tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (668; 56%),
 <tt>NOUN --[<tt><a href="en_lines-dep-cop.html">cop</a></tt>]--> AUX</tt> (315; 70%),
-<tt>PROPN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (309; 88%),
-<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (168; 64%),
+<tt>PROPN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (307; 87%),
 <tt>PROPN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> NOUN</tt> (160; 87%),
-<tt>PROPN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> NOUN</tt> (145; 80%),
-<tt>NOUN --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> PROPN</tt> (109; 80%).
+<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (157; 64%),
+<tt>NOUN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> PROPN</tt> (149; 63%),
+<tt>NOUN --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> PROPN</tt> (107; 80%).
 

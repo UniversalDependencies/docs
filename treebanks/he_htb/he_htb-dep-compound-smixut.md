@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-HTB: Relations: `compound:smixut`
 
 This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="he_htb-dep-compound-affix.html">compound:affix</a></tt>.
 
 8658 nodes (5%) are attached to their parents as `compound:smixut`.
 
@@ -74,7 +75,7 @@ The following 18 pairs of parts of speech are connected with `compound:smixut`: 
 # visual-style 8 10 compound:smixut	color:blue
 1	איובה	איובה	PROPN	PROPN	_	2	nsubj	_	_
 2	שילמה	שילם	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	את	את	PART	PART	Case=Acc	5	case:acc	_	_
+3	את	את	ADP	ADP	Case=Acc	5	case:acc	_	_
 4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
 5	מחיר	מחיר	NOUN	NOUN	Gender=Masc|Number=Sing	2	obj	_	_
 6	עד	עד	ADP	ADP	_	7	case	_	_

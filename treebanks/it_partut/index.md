@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Italian ParTUT
 
-Language: [Italian](../it/overview/it-hub.html) (code: `it`)<br/>
+Language: [Italian](/it/index.html) (code: `it`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-ParTUT](https://github.com/UniversalDependencies/UD_Italian-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_partut)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_partut22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 

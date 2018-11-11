@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `discourse`.
+43 nodes (0%) are attached to their parents as `discourse`.
 
-34 instances of `discourse` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+33 instances of `discourse` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.97674418604651.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (26; 59% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (10; 23% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (5; 11% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (26; 60% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (10; 23% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 9% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
 3	vigne	vigne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	bien	bien	ADV	_	_	5	advmod	_	_
-5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	SpaceAfter=No
+5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

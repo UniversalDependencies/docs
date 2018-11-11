@@ -59,7 +59,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (268; 59% of non-empty `PronType`): <em>then, there, here</em>
 * `Int` (183; 40% of non-empty `PronType`): <em>how, where, why, when, wherever</em>
 * `Rel` (2; 0% of non-empty `PronType`): <em>where</em>
-* `EMPTY` (4115): <em>out, up, so, back, now, very, just, too, again, also</em>
+* `EMPTY` (4112): <em>out, up, so, back, now, very, just, too, again, also</em>
 
 <table>
   <tr><th>Paradigm <i>where</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

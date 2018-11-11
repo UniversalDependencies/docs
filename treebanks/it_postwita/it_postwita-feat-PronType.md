@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-22377 tokens (18%) have a non-empty value of `PronType`.
-383 types (2%) occur at least once with a non-empty value of `PronType`.
-88 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (14442; 12% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (6478; 5% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (1455; 1% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
+22368 tokens (18%) have a non-empty value of `PronType`.
+381 types (2%) occur at least once with a non-empty value of `PronType`.
+87 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (14442; 12% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (6469; 5% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (1455; 1% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -39,9 +39,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-6478 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6469 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4544; 70%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3247; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4535; 70%), <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3247; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -49,8 +49,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (338; 5% of non-empty `PronType`): <em>quello, questo, quelli, ciò, quella, questa, questi, stesso, quelle, quel</em>
 * `Ind` (863; 13% of non-empty `PronType`): <em>tutti, tutto, niente, nulla, uno, qualcosa, nessuno, qualcuno, altro, altri</em>
 * `Int` (208; 3% of non-empty `PronType`): <em>cosa, chi, che, quanto, cos', quale, qnti, qual', quali, QUANDO</em>
-* `Prs` (4109; 63% of non-empty `PronType`): <em>si, mi, ci, lo, ti, io, c', me, la, ne</em>
-* `Rel` (958; 15% of non-empty `PronType`): <em>che, chi, cui, quanto, dove, ke, quale, chiunque, cha, k</em>
+* `Prs` (4109; 64% of non-empty `PronType`): <em>si, mi, ci, lo, ti, io, c', me, la, ne</em>
+* `Rel` (949; 15% of non-empty `PronType`): <em>che, chi, cui, quanto, ke, quale, chiunque, cha, k, quanta</em>
 * `EMPTY` (1): <em>MIEEI</em>
 
 <table>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (1455; 100% of non-empty `PronType`): <em>non, nn, no</em>
-* `EMPTY` (4943): <em>anche, più, bene, solo, ancora, oggi, ora, sempre, poi, così</em>
+* `EMPTY` (4952): <em>anche, più, bene, solo, ancora, oggi, ora, sempre, poi, così</em>
 
 ### `CCONJ`
 

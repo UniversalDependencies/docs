@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-133 tokens (0%) have a non-empty value of `Typo`.
+134 tokens (0%) have a non-empty value of `Typo`.
 96 types (0%) occur at least once with a non-empty value of `Typo`.
 72 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 12 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -86,13 +86,13 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 ### `ADV`
 
-8 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+9 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100% of non-empty `Typo`): <em>to, a, that, their</em>
+* `Yes` (9; 100% of non-empty `Typo`): <em>to, a, it, that, their</em>
 
 ### `PRON`
 

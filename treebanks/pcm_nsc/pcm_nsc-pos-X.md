@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `X`
 
 There are 17 `X` lemmas (2%), 17 `X` types (2%) and 38 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 12 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 11 in number of lemmas, 11 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>&, NE~, Obasan~, anytin~, br~, con~, do~, enfor~, enf~, oka~</em>
 

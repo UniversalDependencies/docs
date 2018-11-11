@@ -9,41 +9,33 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Short`, `Uncontr`.
 
-38 tokens (0%) have a non-empty value of `Variant`.
-13 types (0%) occur at least once with a non-empty value of `Variant`.
-12 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+54 tokens (0%) have a non-empty value of `Variant`.
+19 types (0%) occur at least once with a non-empty value of `Variant`.
+18 lemmas (0%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (31; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `DET`
 
-21 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
+31 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (21; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (19; 90%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12; 57%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 57%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (31; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (29; 94%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 52%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 52%).
 
 `DET` tokens may have the following values of `Variant`:
 
-* `Short` (21; 100% of non-empty `Variant`): <em>кожен, жоден, всяк</em>
+* `Short` (31; 100% of non-empty `Variant`): <em>кожен, жоден, всяк</em>
 
 ### `ADJ`
 
-12 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Variant`.
+22 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 83%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (8; 67%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 58%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 95%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 91%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 82%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 73%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 68%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (9; 75% of non-empty `Variant`): <em>повинен, здатен, годен, дубо, клено</em>
-* `Uncontr` (3; 25% of non-empty `Variant`): <em>Дорогая, Красную, бідная</em>
+* `Short` (18; 82% of non-empty `Variant`): <em>повинен, здатен, годен, згоден, винен, дністро, дубо, клено, ладен, потрібен</em>
+* `Uncontr` (4; 18% of non-empty `Variant`): <em>Дорогая, Красную, бідная, грішнії</em>
 
-### `PRON`
-
-4 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Variant`.
-
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (4; 100%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (4; 100%).
-
-`PRON` tokens may have the following values of `Variant`:
-
-* `Short` (4; 100% of non-empty `Variant`): <em>кожен</em>
+`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Variant`.
 
 ### `NOUN`
 

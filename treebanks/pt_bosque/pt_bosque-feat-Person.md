@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-18594 tokens (8%) have a non-empty value of `Person`.
-4324 types (17%) occur at least once with a non-empty value of `Person`.
+18595 tokens (8%) have a non-empty value of `Person`.
+4325 types (17%) occur at least once with a non-empty value of `Person`.
 1338 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10770; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5397; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2422; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (10771; 5% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5397; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2422; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-10770 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
+10771 <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10769; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10490; 97%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9669; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8207; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10770; 100%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10491; 97%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9670; 90%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8208; 76%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (672; 6% of non-empty `Person`): <em>sei, tenho, acho, temos, espero, penso, queremos, quero, acredito, creio</em>
 * `2` (16; 0% of non-empty `Person`): <em>move, Compreendeste, Criaste, Olha, Rodeaste, Roubarás, Roubaste, Saiba, chamais, chega</em>
-* `3` (10082; 94% of non-empty `Person`): <em>há, tem, disse, diz, é, fez, afirmou, foi, têm, faz</em>
+* `3` (10083; 94% of non-empty `Person`): <em>há, tem, disse, diz, é, fez, afirmou, foi, têm, faz</em>
 * `EMPTY` (8568): <em>fazer, ter, ver, dar, feito, dizer, falar, feita, manter, saber</em>
 
 <table>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (314; 13% of non-empty `Person`): <em>eu, me, nos, nós, mim, nosco</em>
 * `2` (9; 0% of non-empty `Person`): <em>te, ti, vos, vós</em>
 * `3` (2099; 87% of non-empty `Person`): <em>se, ele, lhe, o, eles, ela, a, elas, você, lo</em>
-* `EMPTY` (4816): <em>que, o, se, isso, quem, tudo, isto, nada, os, qual</em>
+* `EMPTY` (4814): <em>que, o, se, isso, quem, tudo, isto, nada, os, qual</em>
 
 <table>
   <tr><th>Paradigm <i>nós</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -142,14 +142,14 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `SCONJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>se</em>
-* `EMPTY` (2213): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
+* `EMPTY` (2214): <em>que, se, porque, embora, pois, como, caso, Senão, assim, e</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (722; 70%),
 <tt>VERB --[<tt><a href="pt_bosque-dep-expl.html">expl</a></tt>]--> PRON</tt> (706; 75%),
-<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (86; 70%),
+<tt>VERB --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (87; 71%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%),
 <tt>PRON --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 60%),
 <tt>AUX --[<tt><a href="pt_bosque-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),

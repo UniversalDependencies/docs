@@ -8,47 +8,42 @@ udver: '2'
 
 This relation is universal.
 
-6005 nodes (5%) are attached to their parents as `advmod`.
+7837 nodes (5%) are attached to their parents as `advmod`.
 
-5164 instances of `advmod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94304746044963.
+6776 instances of `advmod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98200842158989.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (4431; 74% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (527; 9% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (427; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (383; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (92; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (65; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (5815; 74% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (686; 9% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (537; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (500; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (123; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (75; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Tia	Tia	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj|5:nsubj	LvtbNodeId=a-d119-p268s3w1
-2	novērsās	novērsties	VERB	vmyisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d119-p268s3w2
-3	un	un	CCONJ	cc	_	5	cc	5:cc	LvtbNodeId=a-d119-p268s3w3
-4	ilgi	ilgi	ADV	rpt	Degree=Pos	5	advmod	5:advmod	LvtbNodeId=a-d119-p268s3w4
-5	lūkojās	lūkoties	VERB	vmyisi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-d119-p268s3w5
-6	pa	pa	ADP	spsa	_	7	case	7:case	LvtbNodeId=a-d119-p268s3w6
-7	logu	logs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	obl	5:obl:pa	LvtbNodeId=a-d119-p268s3w7
-8	uz	uz	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-d119-p268s3w8
-9	viņu	viņš	PRON	pp3mpgn	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	det	11:det	LvtbNodeId=a-d119-p268s3w9
-10	lielo	liela	ADJ	affsayp	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d119-p268s3w10
-11	pļavu	pļava	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:uz	LvtbNodeId=a-d119-p268s3w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d119-p268s3w12
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	Implantus	implants	NOUN	ncmpa1	Case=Acc|Gender=Masc|Number=Plur	3	obj	3:obj	LvtbNodeId=a-c58-p41s5w1
+2	šobrīd	šobrīd	ADV	r0t	_	3	advmod	3:advmod	LvtbNodeId=a-c58-p41s5w2
+3	liek	likt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c58-p41s5w3
+4	uz	uz	ADP	spsa	_	5	case	5:case	LvtbNodeId=a-c58-p41s5w4
+5	mūžu	mūžs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl:uz	LvtbNodeId=a-c58-p41s5w5
+6	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-c58-p41s5w6
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	Ārkārtīgi	ārkārtīgi	ADV	r0q	_	2	advmod	2:advmod	LvtbNodeId=a-d138-p159s4w1
-2	satraukta	satraukt	ADJ	affsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	acl	3:acl:nom	LvtbNodeId=a-d138-p159s4w2
-3	ieskrien	ieskriet	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d138-p159s4w3
-4	Ria	Ria	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-d138-p159s4w4|SpaceAfter=No
-5	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d138-p159s4w5
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 advmod	color:blue
+1	Tomēr	tomēr	PART	q	_	5	discourse	5:discourse	LvtbNodeId=a-d197-p53s1w1
+2	meitene	meitene	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	LvtbNodeId=a-d197-p53s1w2
+3	uzreiz	uzreiz	ADV	r0t	_	5	advmod	5:advmod	LvtbNodeId=a-d197-p53s1w3
+4	kļuva	kļūt	AUX	vtnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	5:cop	LvtbNodeId=a-d197-p53s1w4
+5	pielaidīgāka	pielaidīgs	ADJ	affsnnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d197-p53s1w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-d197-p53s1w6
 
 ~~~
 

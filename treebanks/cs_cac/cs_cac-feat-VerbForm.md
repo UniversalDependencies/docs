@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-61243 tokens (12%) have a non-empty value of `VerbForm`.
+61244 tokens (12%) have a non-empty value of `VerbForm`.
 14762 types (24%) occur at least once with a non-empty value of `VerbForm`.
 5305 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (40590; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14244; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6409; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (40591; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14244; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6409; 1% instances).
 
 ### `VERB`
 
-40590 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+40591 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37631; 93%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32524; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30027; 74%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21876; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37632; 93%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32525; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30028; 74%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21954; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21877; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (42; 0% of non-empty `VerbForm`): <em>počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</em>
-* `Fin` (22405; 55% of non-empty `VerbForm`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `Fin` (22406; 55% of non-empty `VerbForm`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 * `Inf` (7614; 19% of non-empty `VerbForm`): <em>mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</em>
 * `Part` (10529; 26% of non-empty `VerbForm`): <em>měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</em>
 

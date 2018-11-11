@@ -23,7 +23,7 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	@fmonopoli	@fmonopoli	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -44,7 +44,7 @@ The following 23 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	@LUltimaParola	@LUltimaParola	SYM	SYM	_	5	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
 2	Mario	mario	PROPN	SP	_	5	nsubj	_	_
 3	Monti	Monti	PROPN	SP	_	2	flat:name	_	_
 4	ennesimo	ennesimo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_

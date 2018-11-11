@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>z</em> (<tt><a href="hsb_ufal-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.206897 (the average of all parts of speech is 1.419749).
+The form / lemma ratio of `ADP` is 1.206897 (the average of all parts of speech is 1.418754).
 
 The 1st highest number of forms (2) was observed with the lemma “k”: <em>k, ke</em>.
 
@@ -80,7 +80,7 @@ Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="hsb_
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (40; 55% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (30; 41% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (3; 4% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (40; 55% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (31; 42% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (2; 3% instances)
 
 Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="hsb_ufal-pos-PUNCT.html">PUNCT</a></tt> (40; 55% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (30; 41% instances), <tt><a href="hsb_ufal-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD English LinES
 
-Language: [English](../en/overview/en-hub.html) (code: `en`)<br/>
+Language: [English](/en/index.html) (code: `en`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -37,9 +38,9 @@ Do not submit pull requests against the UD repository.
 |------------|--------|
 | Lemmas | annotated manually in non-UD style, automatically converted to UD |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
-| XPOS | (unrecognized value: "manual") |
+| XPOS | annotated manually |
 | Features | not available |
-| Relations | (unrecognized value: "converted from manual and corrected") |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
@@ -85,7 +86,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 
 <ul>
-<li>This corpus contains 4564 sentences and 82821 tokens.</li>
+<li>This corpus contains 4564 sentences and 82816 tokens.</li>
 </ul>
 
 <ul>
@@ -97,7 +98,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 444 types of words that contain both letters and punctuation. Examples: 's, n't, 've, 'll, 'm, 'd, 're, ANSI-92, Mr., ANSI-89, Mrs., 31-Dec-1999, 01-Jul-1999, o'clock, Gai-Hinnom, drop-down, middle-aged, well-formed, &amp;, Ben-Gurion, Hong-Kong, XML-based, by-and-by, cat-flap, custom-house, d', good-by, p.m, second-class, second-hand, .xsl, Dar-es-Salaam, Jo-Ann, No-6, Sha'ananim, St., Vice-President, a.m., anti-Semitic, case-sensitive, coup-d'etat, crew-cut, dark-green, eat-e, eight-inch, first-class, forty-eight, higher-level, house-elf, ice-creams</li>
+<li>This corpus contains 447 types of words that contain both letters and punctuation. Examples: 's, n't, 've, 'll, 'm, 'd, 're, ANSI-92, Mr., ANSI-89, Mrs., 31-Dec-1999, 01-Jul-1999, o'clock, Gai-Hinnom, drop-down, middle-aged, well-formed, &amp;, Ben-Gurion, Hong-Kong, XML-based, by-and-by, cat-flap, custom-house, d', good-by, p.m, second-class, second-hand, .xsl, Dar-es-Salaam, Jo-Ann, No-6, Sha'ananim, St., Vice-President, a.m., anti-Semitic, case-sensitive, coup-d'etat, crew-cut, dark-green, eat-e, eight-inch, first-class, forty-eight, higher-level, house-elf, ice-creams</li>
 </ul>
 
 <ul>
@@ -161,7 +162,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Part
   <ul>
     <li>AUX: been, being, having</li>
-    <li>VERB: going, using, done, come, trying, looking, made, moving, taken, used</li>
+    <li>VERB: going, using, done, come, moving, trying, looking, made, taken, used</li>
   </ul>
   </li>
 </ul>
@@ -169,168 +170,154 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>PRON: her, she, herself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>PRON: her, she, herself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>PRON: he, his, him, himself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: he, his, him, himself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>PRON: its, itself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: its, itself</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: these, those</li>
+      <li>NOUN: people, eyes, fields, men, years, things, items, women, groups, hands</li>
+      <li>PRON: they, we, them, us, our, themselves, these, those, ourselves, 's</li>
+      <li>PROPN: Dursleys, Hogwarts, Weasleys, Mets, States, Bayleys, Cloughs, Pettigrews, Masons, Mishkenot</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: these, those</li>
-        <li>NOUN: people, eyes, fields, men, years, things, items, women, groups, hands</li>
-        <li>PRON: they, we, them, us, our, themselves, these, those, ourselves, 's</li>
-        <li>PROPN: Dursleys, Hogwarts, Weasleys, Mets, States, Bayleys, Cloughs, Pettigrews, Masons, Mishkenot</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>AUX-Fin: was, is, 's, has, am, does</li>
+      <li>DET: this, that</li>
+      <li>NOUN: data, field, man, time, page, way, file, Mr, view, group</li>
+      <li>PRON: he, I, his, him, her, that, my, she, this, me</li>
+      <li>PROPN: Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</li>
+      <li>SYM: %</li>
+      <li>VERB: was, is, 's, has, says, does, goes, makes, knows, means</li>
+      <li>VERB-Fin: was, is, 's, has, says, does, goes, makes, knows, means</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>AUX-Fin: was, is, 's, has, am, does</li>
-        <li>DET: this, that</li>
-        <li>NOUN: data, field, man, time, page, way, file, Mr, view, group</li>
-        <li>PRON: he, I, his, him, her, that, my, she, this, me</li>
-        <li>PROPN: Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</li>
-        <li>SYM: %</li>
-        <li>VERB: was, is, 's, has, says, does, goes, makes, knows, means</li>
-        <li>VERB-Fin: was, is, 's, has, says, does, goes, makes, knows, means</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: him, her, them, me, himself, us, myself, themselves, itself, yourself</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: him, her, them, me, himself, us, myself, themselves, itself, yourself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: following, moving, loud, pale, existing, trading, calculated, Arabic, defined, dining</li>
-        <li>ADP: ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</li>
-        <li>ADV: n't, for, last, nearest, and, besides, left, p.m, within, a.m.</li>
-        <li>AUX: used, want</li>
-        <li>CCONJ: as, only, so, rather</li>
-        <li>DET: one, whose, La</li>
-        <li>INTJ: Ave, Er</li>
-        <li>NOUN: garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</li>
-        <li>NUM: n, U</li>
-        <li>PART: in</li>
-        <li>PRON: he, I, they, we, all, she, other, each, others, some</li>
-        <li>PROPN: Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</li>
-        <li>SCONJ: when, whenever, even, ever</li>
-        <li>VERB: filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</li>
-        <li>X: DB, OLE</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: following, loud, moving, pale, existing, trading, calculated, Arabic, defined, dining</li>
+      <li>ADP: ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</li>
+      <li>ADV: n't, for, last, nearest, and, besides, left, p.m, within, a.m.</li>
+      <li>AUX: used, want</li>
+      <li>CCONJ: as, only, so, rather</li>
+      <li>DET: one, whose, La</li>
+      <li>INTJ: Ave, Er</li>
+      <li>NOUN: garden, sir, smile, Jews, Mr., bush, faces, fellow, objects, Americans</li>
+      <li>NUM: n, U</li>
+      <li>PART: in</li>
+      <li>PRON: he, I, they, we, all, she, other, each, others, some</li>
+      <li>PROPN: Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</li>
+      <li>SCONJ: when, whenever, even, ever</li>
+      <li>VERB: filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</li>
+      <li>X: DB</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: the</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: the</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: a, an</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: a, an</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: more, better, most, worse, lower, older, easier, greater, higher, less</li>
-        <li>ADV: longer, farther, nearer, sooner, harder, higher</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: more, better, most, worse, lower, older, easier, greater, higher, less</li>
+      <li>ADV: longer, farther, nearer, sooner, harder, higher</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: other, white, old, good, new, same, great, long, many, little</li>
-        <li>ADV: well, far, long, soon, hard, close, badly, early, little, fast</li>
-        <li>VERB: Cursed</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: other, white, old, good, new, same, great, long, many, little</li>
+      <li>ADV: well, far, long, soon, hard, close, badly, early, little, fast</li>
+      <li>VERB: Cursed</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: best, greatest, biggest, worst, largest, least, nearest, commonest, oldest, outermost</li>
-        <li>ADV: least, best, closest</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: best, greatest, biggest, worst, largest, least, nearest, commonest, oldest, outermost</li>
+      <li>ADV: least, best, closest</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -338,233 +325,212 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: be, do</li>
+      <li>VERB-Fin: let, see, Note, click, do, Come, look, Imagine, have, make</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: be, do</li>
-        <li>VERB-Fin: let, see, Note, click, do, Come, look, Imagine, have, make</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: was, is, had, are, were, have, 's, has, did, 've</li>
+      <li>VERB-Fin: was, said, had, is, do, came, seemed, looked, went, got</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: was, is, had, are, were, have, 's, has, did, 've</li>
-        <li>VERB-Fin: was, said, had, is, do, came, seemed, looked, went, got</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: be, were</li>
+      <li>VERB-Fin: were, get, post</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: be, were</li>
-        <li>VERB-Fin: were, get, post</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: was, had, were, did, 'd, got</li>
+      <li>AUX-Part: been</li>
+      <li>VERB-Fin: was, said, had, came, seemed, looked, went, got, felt, saw</li>
+      <li>VERB-Part: done, come, made, taken, used, displayed, written, based, given, gone</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: is, are, have, 's, has, 've, do, 'm, 're, am</li>
+      <li>AUX-Part: being, having</li>
+      <li>VERB-Fin: is, do, know, are, have, 's, has, want, says, does</li>
+      <li>VERB-Part: going, using, moving, trying, looking, making, coming, talking, taking, waiting</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: was, had, were, did, 'd, got</li>
-        <li>AUX-Part: been</li>
-        <li>VERB-Fin: was, said, had, came, seemed, looked, went, got, felt, saw</li>
-        <li>VERB-Part: done, come, made, taken, used, displayed, written, based, given, gone</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: is, are, have, 's, has, 've, do, 'm, 're, am</li>
-        <li>AUX-Part: being, having</li>
-        <li>VERB-Fin: is, do, know, are, have, 's, has, want, says, does</li>
-        <li>VERB-Part: going, using, trying, looking, moving, making, coming, talking, taking, waiting</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Fin: thought</li>
-        <li>VERB-Part: made, used, displayed, based, done, taken, created, given, hidden, put</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: thought</li>
+      <li>VERB-Part: made, used, displayed, based, done, taken, created, given, hidden, put</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: the, a, an</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: the, a, an</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: then, there, here</li>
-        <li>DET: this, that, these, those</li>
-        <li>PRON: that, this, these, those</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: then, there, here</li>
+      <li>DET: this, that, these, those</li>
+      <li>PRON: that, this, these, those</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: how, where, why, when, wherever</li>
-        <li>DET: what, which, whatever</li>
-        <li>PRON: what, who, which, whom, whatever, whose</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: how, where, why, when, wherever</li>
+      <li>DET: what, which, whatever</li>
+      <li>PRON: what, who, which, whom, whatever, whose</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: he, I, his, they, him, we, her, my, she, them</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: he, I, his, they, him, we, her, my, she, them</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: where</li>
-        <li>PRON: that</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: where</li>
+      <li>PRON: that</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: one, two, three, 2002, six, five, 2000, 1, 2, ten</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: one, two, three, 2002, six, five, 2000, 1, 2, ten</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>ADV: once, twice</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>ADV: once, twice</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: first, second, third, fourth</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: first, second, third, fourth</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: his, my, your, its, our, whose</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: his, my, your, its, our, whose</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: himself, myself, themselves, itself, yourself, herself, ourselves</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: was, am</li>
+      <li>PRON: I, we, my, me, us, our, myself, ourselves, 's</li>
+      <li>VERB-Fin: was, am</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: himself, myself, themselves, itself, yourself, herself, ourselves</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: your, yourself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: was, am</li>
-        <li>PRON: I, we, my, me, us, our, myself, ourselves, 's</li>
-        <li>VERB-Fin: was, am</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: your, yourself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: is, 's, has, does</li>
-        <li>PRON: he, his, they, him, her, she, them, himself, its, themselves</li>
-        <li>VERB-Fin: is, 's, has, says, does, goes, makes, knows, means, contains</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: is, 's, has, does</li>
+      <li>PRON: he, his, they, him, her, she, them, himself, its, themselves</li>
+      <li>VERB-Fin: is, 's, has, says, does, goes, makes, knows, means, contains</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -581,8 +547,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: be, have, do, can, will, would, could, must, should, might, may, go, get, shall, ought, use, need, Been, keep, start, suppose, want.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be.</li>
+<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, could, must, should, might, may, go, shall, use, get, ought, need, Been, keep, start, suppose, want.</li>
+<li>This corpus uses 11 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have, will, can, get, could, must, should, may, ought, would.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -599,14 +565,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (38)</li>
       <li>VERB-Fin--PRON (730)</li>
       <li>VERB-Fin--PRON-Nom (1491)</li>
-      <li>VERB-Inf--NOUN (175)</li>
+      <li>VERB-Inf--NOUN (173)</li>
       <li>VERB-Inf--NOUN-Nom (5)</li>
-      <li>VERB-Inf--PRON (332)</li>
+      <li>VERB-Inf--PRON (331)</li>
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Inf--PRON-Nom (448)</li>
       <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
-      <li>VERB-Part--NOUN (192)</li>
+      <li>VERB-Part--NOUN (191)</li>
       <li>VERB-Part--NOUN-Nom (12)</li>
       <li>VERB-Part--PRON (125)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
@@ -618,15 +584,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (96)</li>
+      <li>VERB--NOUN (97)</li>
       <li>VERB--PRON (8)</li>
       <li>VERB--PRON-Acc (20)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN (1071)</li>
+      <li>VERB-Fin--NOUN (1078)</li>
       <li>VERB-Fin--NOUN-ADP(for) (2)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN-ADP(out) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(to) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(to) (4)</li>
       <li>VERB-Fin--NOUN-ADP(up) (1)</li>
       <li>VERB-Fin--NOUN-ADP(with) (1)</li>
       <li>VERB-Fin--NOUN-Nom (28)</li>
@@ -634,13 +600,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (172)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
       <li>VERB-Fin--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (774)</li>
+      <li>VERB-Inf--NOUN (778)</li>
       <li>VERB-Inf--NOUN-Nom (17)</li>
-      <li>VERB-Inf--PRON (188)</li>
+      <li>VERB-Inf--PRON (189)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
       <li>VERB-Inf--PRON-Acc (111)</li>
       <li>VERB-Inf--PRON-Nom (10)</li>
-      <li>VERB-Part--NOUN (580)</li>
+      <li>VERB-Part--NOUN (586)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (83)</li>
@@ -654,7 +620,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (9)</li>
+      <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (26)</li>
       <li>VERB-Inf--NOUN (3)</li>

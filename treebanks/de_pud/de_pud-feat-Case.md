@@ -11,7 +11,7 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 10646 tokens (50%) have a non-empty value of `Case`.
 4610 types (71%) occur at least once with a non-empty value of `Case`.
-2 lemmas (33%) occur at least once with a non-empty value of `Case`.
+3940 lemmas (74%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4237; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2840; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1217; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1181; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1167; 5% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -28,6 +28,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Nom` (1253; 30% of non-empty `Case`): <em>Film, Menschen, Präsident, Regierung, einer, König, Leute, Polizei, System, alles</em>
 * `EMPTY` (24): <em>Art, C, Capitol, Commons, Consumer, Council, Festspiele, Friendship, H, Head</em>
 
+<table>
+  <tr><th>Paradigm <i>Jahr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Jahre</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Jahr</em></td><td><em>Jahr</em></td><td><em>Jahr, Jahre</em></td><td><em>Jahres</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Jahre</em></td><td><em>Jahre</em></td><td><em>Jahren</em></td><td><em>Jahre</em></td></tr>
+</table>
+
 ### `DET`
 
 2840 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
@@ -41,6 +48,20 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Gen` (408; 14% of non-empty `Case`): <em>der, des, eines, einer, dieser, anderer, dessen, deren, dieses, zweier</em>
 * `Nom` (835; 29% of non-empty `Case`): <em>die, der, das, ein, eine, diese, viele, dies, einige, kein</em>
 * `EMPTY` (3): <em>the, una, welchen</em>
+
+<table>
+  <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der</em></td><td><em>den</em></td><td><em>dem</em></td><td><em>des, dessen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>den</em></td><td><em>der, deren</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>der</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>den</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>das</em></td><td><em>das</em></td><td><em>dem</em></td><td><em>des</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>die</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>den</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>dem</em></td><td><em>dessen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>den, Die, denen</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>der</em></td></tr>
+</table>
 
 ### `PROPN`
 
@@ -56,6 +77,12 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Nom` (584; 48% of non-empty `Case`): <em>China, Trump, Donald, Joseph, Kesha, Blunt, Clinton, Frankreich, John, Mishima</em>
 * `EMPTY` (2): <em>America, Carolina</em>
 
+<table>
+  <tr><th>Paradigm <i>USA</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>USA</em></td><td><em>USA</em></td><td><em>USA</em></td><td><em>USA</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>USA</em></td><td></td></tr>
+</table>
+
 ### `ADJ`
 
 1181 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Case`.
@@ -70,6 +97,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Nom` (357; 30% of non-empty `Case`): <em>britische, erste, neue, verschiedene, große, letzte, australischen, großer, kleine, mazedonische</em>
 * `EMPTY` (206): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
 
+<table>
+  <tr><th>Paradigm <i>neu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neue</em></td><td><em>neuen</em></td><td></td><td><em>neuen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue</em></td><td><em>neue, neuen</em></td><td></td><td><em>neuer</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>neue</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue, neuen</em></td><td><em>neue, neuen</em></td><td><em>neuen</em></td><td><em>neuer</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>neues</em></td><td><em>neuen</em></td><td><em>neuen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue</em></td><td><em>neue</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuesten</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuestes</em></td><td></td><td></td><td></td></tr>
+</table>
+
 ### `PRON`
 
 1167 <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
@@ -83,6 +122,17 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (41; 4% of non-empty `Case`): <em>seiner, ihrer, seines, ihres, deren, dessen, Meines</em>
 * `Nom` (700; 60% of non-empty `Case`): <em>er, es, die, sie, der, ich, wir, seine, das, ihr</em>
 * `EMPTY` (18): <em>man, My, you</em>
+
+<table>
+  <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der</em></td><td><em>den</em></td><td><em>dem</em></td><td><em>dessen</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>denen</em></td><td><em>deren</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>der</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>denen</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>das</em></td><td><em>das</em></td><td><em>dem</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>denen</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td></td><td></td></tr>
+</table>
 
 ### `ADP`
 

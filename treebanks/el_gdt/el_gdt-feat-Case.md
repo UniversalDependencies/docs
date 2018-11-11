@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 
-34733 tokens (55%) have a non-empty value of `Case`.
+34731 tokens (55%) have a non-empty value of `Case`.
 7642 types (67%) occur at least once with a non-empty value of `Case`.
 4106 lemmas (65%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11514; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2902; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (514; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11514; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2900; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (514; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -91,15 +91,15 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-2902 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+2900 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2524; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2266; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1717; 59%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2522; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2264; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1716; 59%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (984; 34% of non-empty `Case`): <em>που, αυτό, αυτή, οποία, το, οποίο, αυτά, αυτές, μας, οποίες</em>
+* `Acc` (985; 34% of non-empty `Case`): <em>που, αυτό, αυτή, οποία, το, οποίο, αυτά, αυτές, μας, οποίες</em>
 * `Gen` (896; 31% of non-empty `Case`): <em>τους, μας, του, της, μου, σας, αυτής, αυτού, αυτών, άλλων</em>
-* `Nom` (1022; 35% of non-empty `Case`): <em>που, αυτό, οποία, αυτή, οποίος, οποίο, αυτά, εμείς, αυτές, οποίες</em>
+* `Nom` (1019; 35% of non-empty `Case`): <em>που, αυτό, οποία, αυτή, οποίος, οποίο, αυτά, εμείς, αυτές, οποίες</em>
 
 <table>
   <tr><th>Paradigm <i>που</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -159,7 +159,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Acc` (47; 38% of non-empty `Case`): <em>αυξημένη, περιορισμένη, συντονισμένη, απασχολημένες, απηρχαιωμένο, αποκεντρωμένα, αποτυχημένη, αποτυχημένο, ασβεστωμένα, αυτοαπασχολούμενους</em>
 * `Gen` (17; 14% of non-empty `Case`): <em>συμπεριλαμβανομένης, συμπεριλαμβανομένων, ευνοημένων, συμπεριλαμβανομένου, αποδεδειγμένων, αυτοαπασχολούμενων, διευρυμένης, εκλεγμένων, κατεστραμμένης, νομιμοποιημένης</em>
 * `Nom` (59; 48% of non-empty `Case`): <em>χτισμένη, χτισμένο, εκλεγμένος, ικανοποιημένοι, κτισμένο, υποχρεωμένοι, αιτιολογημένη, ακροβολισμένοι, αποκεντρωμένο, αποτυπωμένο</em>
-* `EMPTY` (6257): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
+* `EMPTY` (6210): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
 
 <table>
   <tr><th>Paradigm <i>ολοκληρώνω</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -182,7 +182,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3798; 98%),
 <tt>PROPN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (1265; 99%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (862; 97%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> PRON</tt> (585; 99%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> PRON</tt> (586; 99%),
 <tt>PRON --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (367; 99%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (230; 98%),
 <tt>NOUN --[<tt><a href="el_gdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (227; 57%),

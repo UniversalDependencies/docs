@@ -33,20 +33,24 @@ The following 40 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 vocative	color:blue
-1	Vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	così	così	ADV	B	_	1	advmod	_	_
-3	super	super	ADJ	A	_	4	amod	_	_
-4	Mario	mario	PROPN	SP	_	1	vocative	_	_
-5	#Monti	#Monti	SYM	SYM	_	4	flat:name	_	SpaceAfter=No
-6	!	!	PUNCT	FS	_	1	punct	_	_
-7	Non	non	ADV	BN	PronType=Neg	8	advmod	_	_
-8	mollare	mollare	VERB	V	VerbForm=Inf	1	parataxis	_	SpaceAfter=No
-9	!	!	PUNCT	FS	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 vocative	color:blue
+1	@user	@user	SYM	SYM	_	5	vocative:mention	_	_
+2	ciao	ciao	INTJ	I	_	5	discourse	_	_
+3	fiorello	fiorello	PROPN	SP	_	5	vocative	_	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
+5	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	di	di	ADP	E	_	8	mark	_	_
+7	come	come	ADV	B	_	8	advmod	_	_
+8	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	governo	governo	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	monti	monti	PROPN	SP	_	10	nmod	_	_
+12	ciao	ciao	INTJ	I	_	5	discourse	_	_
+13	risp	risp	X	X	_	5	dep	_	_
 
 ~~~
 
@@ -57,7 +61,7 @@ The following 40 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 vocative	color:blue
-1	@Altea_S	@Altea_S	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	Ciaoo	Ciaoo	INTJ	I	_	6	discourse	_	_
 3	Altea	Altea	PROPN	SP	_	2	vocative	_	SpaceAfter=No
 4	!	!	PUNCT	FS	_	2	punct	_	_

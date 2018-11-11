@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-131851 tokens (12%) have a non-empty value of `VerbForm`.
-33904 types (29%) occur at least once with a non-empty value of `VerbForm`.
-7830 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123706; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
+131845 tokens (12%) have a non-empty value of `VerbForm`.
+33902 types (29%) occur at least once with a non-empty value of `VerbForm`.
+7832 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123700; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
 
 ### `VERB`
 
-123706 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+123700 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110827; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86233; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84976; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83402; 67%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (70265; 57%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110827; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86227; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84976; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83396; 67%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (70265; 57%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (4010; 3% of non-empty `VerbForm`): <em>говоря, начиная, учитывая, судя, исходя, имея, используя, глядя, выступая, зная</em>
 * `Fin` (78293; 63% of non-empty `VerbForm`): <em>может, есть, нет, могут, было, является, стал, сказал, говорит, стало</em>
 * `Inf` (23076; 19% of non-empty `VerbForm`): <em>быть, сделать, сказать, делать, получить, говорить, работать, стать, иметь, понять</em>
-* `Part` (18327; 15% of non-empty `VerbForm`): <em>связано, связаны, сделано, окружающей, принято, связанных, связана, связан, сказано, называемые</em>
+* `Part` (18321; 15% of non-empty `VerbForm`): <em>связано, связаны, сделано, окружающей, принято, связанных, связана, связан, сказано, называемые</em>
 * `EMPTY` (12): <em>не, и.</em>
 
 <table>

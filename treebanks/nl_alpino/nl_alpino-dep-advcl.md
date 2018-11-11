@@ -24,12 +24,12 @@ The following 49 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4 1 advcl	color:blue
 1	Gelanceerd	lanceren	VERB	WW|vd|vrij|zonder	VerbForm=Part	4	advcl	4:advcl	_
 2	door	door	ADP	VZ|init	_	3	case	3:case	_
-3	Spijkerman	Spijkerman	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obl	1:obl	_
+3	Spijkerman	Spijkerman	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obl	1:obl:door	_
 4	trapte	trappen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	ze	ze	PRON	VNW|pers|pron|stan|red|3|ev|fem	Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 6	naar	naar	ADP	VZ|init	_	8	case	8:case	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
-8	titel	titel	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl	SpaceAfter=No
+8	titel	titel	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:naar	SpaceAfter=No
 9	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 49 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	onlangs	onlangs	ADV	BW	_	2	advmod	2:advmod	_
 5	terug	terug	ADV	BW	_	2	compound:prt	2:compound:prt	_
 6	als	als	ADP	VZ|init	_	7	mark	7:mark	_
-7	geldschieter	geldschieter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	advcl	2:advcl	SpaceAfter=No
+7	geldschieter	geldschieter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	advcl	2:advcl:als	SpaceAfter=No
 8	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 49 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	je	je	PRON	VNW|pers|pron|nomin|red|2v|ev	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 3	zo	zo	ADV	BW	_	4	advmod	4:advmod	_
 4	dichtbij	dichtbij	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	5	advmod	5:advmod	_
-5	bent	zijn	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl	SpaceAfter=No
+5	bent	zijn	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:als	SpaceAfter=No
 6	,	,	PUNCT	LET	_	5	punct	5:punct	_
 7	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_

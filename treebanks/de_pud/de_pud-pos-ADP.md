@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `ADP`
 
-There are 6 `ADP` lemmas (27%), 63 `ADP` types (1%) and 2043 `ADP` tokens (10%).
-Out of 16 observed tags, the rank of `ADP` is: 1 in number of lemmas, 9 in number of types and 4 in number of tokens.
+There are 62 `ADP` lemmas (1%), 63 `ADP` types (1%) and 2043 `ADP` tokens (10%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>_, in, zu, an, von, bei</em>
+The 10 most frequent `ADP` lemmas: <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
 The 10 most frequent `ADP` types:  <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4261, <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 2767, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 2515, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1913, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 1715, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1387, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1219, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1185, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1139, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 950, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 743, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 352, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 144, <tt><a href="de_pud-pos-X.html">X</a></tt> 31, <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> 22)
+The 10 most frequent ambiguous lemmas: <em>von</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 296, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 160, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>mit</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 133, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 127, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>an</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 124, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1), <em>auf</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 120, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 12), <em>nach</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 64, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>bei</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 55, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>über</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 46, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5), <em>aus</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 44, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 144, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 143, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>mit</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 124, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>für</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 121, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 4), <em>an</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 111, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1), <em>auf</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 114, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 12), <em>nach</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 49, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>bei</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 49, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>über</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 41, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 5), <em>aus</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>vor</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 27, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 4)
 
@@ -55,13 +55,13 @@ The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 10.500000 (the average of all parts of speech is 307.454545).
+The form / lemma ratio of `ADP` is 1.016129 (the average of all parts of speech is 1.193156).
 
-The 1st highest number of forms (63) was observed with the lemma “_”: <em>Angesichts, Dank, Entgegen, Mithilfe, On, Over, Trotz, a, ab, an, anstatt, auf, aufgrund, aus, außer, außerhalb, bei, bezüglich, bis, de, duch, durch, entlang, für, gegen, gegenüber, hinsichtlich, hinter, in, infolge, inklsuive, innerhalb, jenseits, laut, mit, n, n., nach, nahe, neben, nördlich, of, ohne, per, pro, seit, statt, südlich, u.a., um, unter, v., von, vonseiten, vor, wegen, während, z, z., zu, zufolge, zwischen, über</em>.
+The 1st highest number of forms (2) was observed with the lemma “von”: <em>v., von</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Mithilfe”: <em>Mithilfe</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “bei”: <em>bei</em>.
+The 3rd highest number of forms (1) was observed with the lemma “On”: <em>On</em>.
 
 `ADP` occurs with 6 features: <tt><a href="de_pud-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt> (3; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (3; 0% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (3; 0% instances), <tt><a href="de_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 

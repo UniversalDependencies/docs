@@ -22,15 +22,15 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	5.000	_	NUM	CD	NumType=Card	2	nummod	_	_
-2	$	_	SYM	SYM	_	0	root	_	_
-3	pro	_	ADP	IN	_	4	case	_	_
-4	Person	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	nmod	_	SpaceAfter=No
-5	,	_	PUNCT	,	_	8	punct	_	_
-6	das	_	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	8	det	_	_
-7	erlaubte	_	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Person=3	8	amod	_	InflectionType=Weak
-8	Maximum	_	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	appos	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	2	punct	_	_
+1	5.000	5.000	NUM	CD	NumType=Card	2	nummod	_	_
+2	$	$	SYM	SYM	_	0	root	_	_
+3	pro	pro	ADP	IN	_	4	case	_	_
+4	Person	Person	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	8	det	_	_
+7	erlaubte	erlaubt	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Person=3	8	amod	_	InflectionType=Weak
+8	Maximum	Maximum	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	appos	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -41,14 +41,14 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 case	color:blue
-1	Er	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-2	arbeitete	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	ein	_	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	4	det	_	_
-4	Jahrzent	_	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obl:tmod	_	_
-5	für	_	ADP	IN	_	7	case	_	_
-6	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	7	det	_	_
-7	BBC	_	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obl	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	2	punct	_	_
+1	Er	er	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	arbeitete	arbeiten	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	ein	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	4	det	_	_
+4	Jahrzent	Jahrzent	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obl:tmod	_	_
+5	für	für	ADP	IN	_	7	case	_	_
+6	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	7	det	_	_
+7	BBC	BBC	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -59,19 +59,19 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 case	color:blue
-1	Und	_	CCONJ	CC	_	3	cc	_	_
-2	was	_	PRON	WP	Case=Nom|Person=3	3	nsubj	_	_
-3	ist	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	mit	_	ADP	IN	_	6	case	_	_
-5	den	_	DET	DT	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|Person=3	6	det	_	_
-6	Parteien	_	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	3	obl	_	_
-7	in	_	ADP	IN	_	8	case	_	_
-8	was	_	PRON	WP	Case=Dat|Person=3	3	obl	_	SpaceAfter=No
-9	,	_	PUNCT	,	_	12	punct	_	_
-10	in	_	ADP	IN	_	12	case	_	_
-11	historischen	_	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Person=3	12	amod	_	InflectionType=Strong
-12	Rechten	_	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	8	conj	_	SpaceAfter=No
-13	?	_	PUNCT	.	_	3	punct	_	_
+1	Und	und	CCONJ	CC	_	3	cc	_	_
+2	was	was	PRON	WP	Case=Nom|Person=3	3	nsubj	_	_
+3	ist	sein	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	mit	mit	ADP	IN	_	6	case	_	_
+5	den	der	DET	DT	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|Person=3	6	det	_	_
+6	Parteien	Partei	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	3	obl	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	was	was	PRON	WP	Case=Dat|Person=3	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	in	in	ADP	IN	_	12	case	_	_
+11	historischen	historisch	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Person=3	12	amod	_	InflectionType=Strong
+12	Rechten	Recht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur|Person=3	8	conj	_	SpaceAfter=No
+13	?	?	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

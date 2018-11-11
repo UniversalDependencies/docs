@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Ну	ну	PART	_	_	2	discourse	2:discourse	_
 2	так	так	ADV	_	Degree=Pos	9	advmod	9:advmod	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	2:punct	_
-4	Господи	господь	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	9	vocative	9:vocative	SpaceAfter=No
+4	Господи	Господь	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	9	vocative	9:vocative	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	с	с	ADP	_	_	7	case	7:case	_
 7	кем	кто	PRON	_	Case=Ins	9	obl	9:obl	_
@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Господи	господь	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	3	vocative	3:vocative	SpaceAfter=No
+1	Господи	Господь	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	3	vocative	3:vocative	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	1:punct	_
 3	недопустимо	недопустимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	_
 4	так	так	ADV	_	Degree=Pos	5	advmod	5:advmod	_

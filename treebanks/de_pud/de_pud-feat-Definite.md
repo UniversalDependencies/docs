@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 2840 tokens (13%) have a non-empty value of `Definite`.
 98 types (2%) occur at least once with a non-empty value of `Definite`.
-2 lemmas (33%) occur at least once with a non-empty value of `Definite`.
+41 lemmas (1%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2837; 13% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `DET`
@@ -25,6 +25,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 * `Def` (2243; 79% of non-empty `Definite`): <em>der, die, dem, den, das, des, diese, dieser, dies, dieses</em>
 * `Ind` (594; 21% of non-empty `Definite`): <em>eine, ein, einer, einem, einen, viele, eines, keine, einige, beiden</em>
 * `EMPTY` (6): <em>welche, welchen, welcher</em>
+
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (39) occur only with one value of `Definite`.
 
 ### `ADP`
 

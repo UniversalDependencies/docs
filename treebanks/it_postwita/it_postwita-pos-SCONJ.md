@@ -13,56 +13,56 @@ The 10 most frequent `SCONJ` lemmas: <em>che, se, perché, quando, come, mentre,
 
 The 10 most frequent `SCONJ` types:  <em>che, se, quando, perché, come, perchè, mentre, dopo, perche', ke</em>
 
-The 10 most frequent ambiguous lemmas: <em>che</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 803, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 704, <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 161, <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 18, <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="it_postwita-pos-X.html">X</a></tt> 1), <em>se</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 405, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 43, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1), <em>perché</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 155, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 83, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>quando</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 102, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 14, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 159, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 102, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 49), <em>dopo</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 135, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>appena</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 5), <em>comunque</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 55, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dove</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 43, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 9, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1), <em>pur</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>che</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 803, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 704, <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 161, <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 18, <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="it_postwita-pos-X.html">X</a></tt> 1), <em>se</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 405, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 43, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1), <em>perché</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 155, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 83, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>quando</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 102, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 14, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 1), <em>come</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 159, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 102, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 49), <em>dopo</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 135, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>appena</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 29, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 5), <em>comunque</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 55, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dove</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 52, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 1), <em>pur</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 762, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 662, <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 113, <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 18, <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="it_postwita-pos-X.html">X</a></tt> 1), <em>se</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 294, <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 43, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1), <em>quando</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 80, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 4), <em>perché</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 31, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>come</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 157, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 67, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 44), <em>perchè</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 22), <em>dopo</em> (<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 90, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 27, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1), <em>perche'</em> (<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1), <em>ke</em> (<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 8, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1), <em>appena</em> (<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 26, <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 
 * <em>che</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 762: <em>@elena_casali il tuo moroso sa <b>che</b> oggi si tornava a scuola ?!</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 662: <em>@x_InLoveWithIan ma me dici <b>che</b> hai fatto ?? xk hai messo i puntini ?</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 113: <em>@marieschips <b>che</b> maga , inchiniamo ci HHAHAHAH</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 762: <em>@user il tuo moroso sa <b>che</b> oggi si tornava a scuola ?!</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 662: <em>@user ma me dici <b>che</b> hai fatto ?? xk hai messo i puntini ?</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 113: <em>@user <b>che</b> maga , inchiniamo ci HHAHAHAH</em>
   * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 18: <em>Altro <b>che</b> Governo Monti , è già tempo di campagna elettorale .</em>
   * <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> 5: <em>dimenticavo ! Grande Mario Monti a <b>che</b> tempo <b>che</b> fa !</em>
   * <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> 3: <em>ho più brufoli <b>che</b> faccia . ben mi sta , cazzo di Nutella porco dio .</em>
   * <tt><a href="it_postwita-pos-X.html">X</a></tt> 1: <em>#Grillo non è la #Lega di il 2012 . Parlate per <b>che</b> sentite a la tv magari bersani che dice " che non si permetta " . E senno che fa bersani ? vince ? xD</em>
 * <em>se</em>
   * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 294: <em>Ma <b>se</b> Mario #Monti tramonta , Alba Parietti parietta ?</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 43: <em>@perriemcgdr * la stringe forte a <b>se</b> , cullando la *</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1: <em>@LoScimmietto @Agenzia_Ansa tu sei appassionato di calcio visto che scrivi di quello è nn ti critico anche <b>se</b> per me è una cagata . Rispe</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 43: <em>@user * la stringe forte a <b>se</b> , cullando la *</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1: <em>@user1 @user2 tu sei appassionato di calcio visto che scrivi di quello è nn ti critico anche <b>se</b> per me è una cagata . Rispe</em>
 * <em>quando</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 80: <em>@whorfole <b>quando</b> posso , grazie :3</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 4: <em>@SaraBelgio :( <b>quando</b> ci vediamo ? mi manchi anche tu Belgix ! :* :*</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 80: <em>@user <b>quando</b> posso , grazie :3</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 4: <em>@user :( <b>quando</b> ci vediamo ? mi manchi anche tu Belgix ! :* :*</em>
 * <em>perché</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 85: <em>@jniall68 Grazie a te <b>perché</b> pensi un po' a noi ! XX</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 85: <em>@user Grazie a te <b>perché</b> pensi un po' a noi ! XX</em>
   * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 31: <em>Poi ci si chiede <b>perché</b> il mondo va a puttane http://t.co/7ublMJbOZA #fb</em>
   * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>Mentana sintetizza il <b>perché</b> di il Governo Monti TG LA7 10/12/11 http://t.co/Cm9rkxqj</em>
 * <em>come</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 157: <em>@Campanellino_A bene :D oggi ho mangiato <b>come</b> un mailino ahahahah xD</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 67: <em>@BFiorello ciao fiorello mi dici di <b>come</b> va il governo monti ciao risp</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 44: <em>Bravo Mario Monti ! Finalmente UNO che fa vedere <b>come</b> si deve governare !</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 157: <em>@user bene :D oggi ho mangiato <b>come</b> un mailino ahahahah xD</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 67: <em>@user ciao fiorello mi dici di <b>come</b> va il governo monti ciao risp</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 44: <em>@user ti manderò una foto , cosi sarà <b>come</b> essere anche tu con me :-*</em>
 * <em>perchè</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 43: <em>@radiodeejay ... #seguodeejay <b>perchè</b> li tengono bene il tempo ... :)</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 43: <em>@user ... #seguodeejay <b>perchè</b> li tengono bene il tempo ... :)</em>
   * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 22: <em>Ma <b>perchè</b> scegliere Mario Monti quando ci sarebbe Chuck Norris ?</em>
 * <em>dopo</em>
-  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 90: <em>giorno <b>dopo</b> giorno mi accorgo quanto Louis sia importante per me</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 27: <em>@cioonas ok grazie mille c: te la do <b>dopo</b> la foto ?</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 9: <em>@Shyerrie <b>dopo</b> aver elencato tutti i pregi di the flash per due giorni ahahahahah</em>
-  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>@brcristian siamo a gli sgoccioli ..... però penso a il <b>dopo</b> , se piazzano un mario monti non credo che per lavoratori e pensionati cambierà tanto</em>
+  * <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> 90: <em>@user1 @user2 @user3 esatto <b>dopo</b> 20 anni qualcosa si impara per forza !!!</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 27: <em>@user ok grazie mille c: te la do <b>dopo</b> la foto ?</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 9: <em>@user <b>dopo</b> aver elencato tutti i pregi di the flash per due giorni ahahahahah</em>
+  * <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> 1: <em>@user siamo a gli sgoccioli ..... però penso a il <b>dopo</b> , se piazzano un mario monti non credo che per lavoratori e pensionati cambierà tanto</em>
 * <em>perche'</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 7: <em>@sonobatman Diffidente ? Cattivissimo ? E' cosi' <b>perche'</b> non ha ancora conosciuto me !</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 7: <em>@user Diffidente ? Cattivissimo ? E' cosi' <b>perche'</b> non ha ancora conosciuto me !</em>
   * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 1: <em>#la7 ma <b>perche'</b> Mario Monti non fa il premier ? Che persona competente e per bene !</em>
 * <em>ke</em>
-  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 8: <em>#Grillo @PiazzapulitaLA7 ma Grillo nn e'quello <b>ke</b> ha fatto a suo tempo il condono ???</em>
+  * <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> 8: <em>#Grillo @user ma Grillo nn e'quello <b>ke</b> ha fatto a suo tempo il condono ???</em>
   * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Dovremmo solo accettare <b>ke</b> qnd qualcuno nn si fa sentire , è xké nn vuole ... e dovremmo lasciar perdere ...</em>
-  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>@MartinTudor18 @erikasaavedra90 ma <b>ke</b> fine hai fatto :)</em>
+  * <tt><a href="it_postwita-pos-DET.html">DET</a></tt> 1: <em>@user1 @user2 ma <b>ke</b> fine hai fatto :)</em>
 * <em>appena</em>
-  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 26: <em>@prfzjm sono <b>appena</b> arrivata a casa :)</em>
-  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2: <em>@imamiixer <b>appena</b> me ne sono accorta l' ho cancellato subito ahahhah invece jasy non ci avevo fatto proprio caso ahhaha</em>
+  * <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> 26: <em>@user sono <b>appena</b> arrivata a casa :)</em>
+  * <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> 2: <em>@user <b>appena</b> me ne sono accorta l' ho cancellato subito ahahhah invece jasy non ci avevo fatto proprio caso ahhaha</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.281250 (the average of all parts of speech is 1.264804).
+The form / lemma ratio of `SCONJ` is 1.281250 (the average of all parts of speech is 1.302943).
 
 The 1st highest number of forms (8) was observed with the lemma “perché”: <em>perche, perche', perchè, perché, xche', xchè, xché, xké</em>.
 

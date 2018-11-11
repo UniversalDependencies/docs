@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3 1 aux:pass	color:blue
 1	Byla	být	AUX	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	_	_
 2	také	také	ADV	Db-------------	_	3	advmod	_	_
-3	obviněna	obviněný	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	obviněna	obviněný	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=obvinit
 4	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	LId=z-1
 5	pokusu	pokus	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	iobj	_	_
 6	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	7	case	_	LId=o-1
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux:pass	color:blue
 1	Bylo	být	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	aux:pass	_	_
-2	provedeno	provedený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+2	provedeno	provedený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=provést
 3	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=od-1
 4	dubna	duben	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
 5	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=do-1

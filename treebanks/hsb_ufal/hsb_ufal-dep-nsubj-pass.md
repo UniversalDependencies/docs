@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	W	w	ADP	_	_	2	case	_	_
 2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
 3	2006	2006	NUM	_	NumType=Card	2	nummod	_	_
-4	bu	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
+4	bu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
 5	wunamakował	wunamakować	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	nowy	nowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
 7	šleski	šleski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_

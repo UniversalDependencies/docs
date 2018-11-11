@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hsb_ufal-pos-DET.ht
 
 ### `DET`
 
-77 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (25% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+77 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (24% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (77; 100%), <tt><a href="hsb_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (77; 100%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (71; 92%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 57%), <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (41; 53%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=1</tt> (41; 53%).
 

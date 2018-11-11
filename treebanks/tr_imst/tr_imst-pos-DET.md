@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-IMST: POS Tags: `DET`
 
-There are 11 `DET` lemmas (0%), 11 `DET` types (0%) and 1003 `DET` tokens (2%).
-Out of 14 observed tags, the rank of `DET` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 12 `DET` lemmas (0%), 14 `DET` types (0%) and 1015 `DET` tokens (2%).
+Out of 14 observed tags, the rank of `DET` is: 13 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>bu, o, her, hiçbir, tüm, birkaç, şu, bazı, birçok, kimi</em>
 
 The 10 most frequent `DET` types:  <em>bu, o, her, hiçbir, tüm, birkaç, şu, bazı, birçok, kimi</em>
 
-The 10 most frequent ambiguous lemmas: <em>bu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 477, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 239), <em>o</em> (<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 451, <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 178, <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1), <em>şu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 31, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23), <em>bazı</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 28, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 7), <em>kimi</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 14, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 8), <em>çoğu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 477, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 239), <em>o</em> (<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 452, <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 178, <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1), <em>şu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 31, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23), <em>bazı</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 28, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 7), <em>kimi</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 14, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 8), <em>çoğu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>bu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 313, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 56), <em>o</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 125, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 81), <em>şu</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 24, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 3), <em>kimi</em> (<tt><a href="tr_imst-pos-DET.html">DET</a></tt> 12, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 6), <em>çoğu</em> (<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 2, <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 1)
 
@@ -37,24 +37,30 @@ The 10 most frequent ambiguous types:  <em>bu</em> (<tt><a href="tr_imst-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 2.820663).
+The form / lemma ratio of `DET` is 1.166667 (the average of all parts of speech is 2.819906).
 
-The 1st highest number of forms (1) was observed with the lemma “bazı”: <em>bazı</em>.
+The 1st highest number of forms (3) was observed with the lemma “hangi”: <em>Hangisinin, hangi, hangisini</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “birkaç”: <em>birkaç</em>.
+The 2nd highest number of forms (1) was observed with the lemma “bazı”: <em>bazı</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “birçok”: <em>birçok</em>.
+The 3rd highest number of forms (1) was observed with the lemma “birkaç”: <em>birkaç</em>.
 
-`DET` does not occur with any features.
+`DET` occurs with 5 features: <tt><a href="tr_imst-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="tr_imst-feat-Number.html">Number</a></tt> (3; 0% instances), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt> (3; 0% instances), <tt><a href="tr_imst-feat-Person.html">Person</a></tt> (3; 0% instances), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt> (3; 0% instances)
+
+`DET` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Gen`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`
+
+`DET` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1012 tokens).
+Examples: <em>bu, o, her, hiçbir, tüm, birkaç, şu, bazı, birçok, kimi</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="tr_imst-dep-det.html">det</a></tt> (877; 87% instances), <tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt> (35; 3% instances), <tt><a href="tr_imst-dep-obj.html">obj</a></tt> (31; 3% instances), <tt><a href="tr_imst-dep-obl.html">obl</a></tt> (24; 2% instances), <tt><a href="tr_imst-dep-root.html">root</a></tt> (10; 1% instances), <tt><a href="tr_imst-dep-conj.html">conj</a></tt> (9; 1% instances), <tt><a href="tr_imst-dep-advmod-emph.html">advmod:emph</a></tt> (8; 1% instances), <tt><a href="tr_imst-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt> (4; 0% instances), <tt><a href="tr_imst-dep-cc.html">cc</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="tr_imst-dep-det.html">det</a></tt> (886; 87% instances), <tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt> (35; 3% instances), <tt><a href="tr_imst-dep-obj.html">obj</a></tt> (34; 3% instances), <tt><a href="tr_imst-dep-obl.html">obl</a></tt> (24; 2% instances), <tt><a href="tr_imst-dep-root.html">root</a></tt> (10; 1% instances), <tt><a href="tr_imst-dep-conj.html">conj</a></tt> (9; 1% instances), <tt><a href="tr_imst-dep-advmod-emph.html">advmod:emph</a></tt> (8; 1% instances), <tt><a href="tr_imst-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt> (4; 0% instances), <tt><a href="tr_imst-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (724; 72% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (138; 14% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (96; 10% instances),  (10; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (733; 72% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (141; 14% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (97; 10% instances),  (10; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-802 (80%) `DET` nodes are leaves.
+814 (80%) `DET` nodes are leaves.
 
 162 (16%) `DET` nodes have one child.
 

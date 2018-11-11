@@ -13,7 +13,7 @@ This relation is universal.
 7664 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.66818893528184.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4117; 54% instances), -<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1888; 25% instances), -<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (825; 11% instances), -<tt><a href="ar_padt-pos-X.html">X</a></tt> (509; 7% instances), -<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (134; 2% instances), -<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (117; 2% instances), -<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (24; 0% instances), -<tt><a href="ar_padt-pos-PART.html">PART</a></tt> (20; 0% instances), -<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (9; 0% instances), -<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (6; 0% instances), -<tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (4148; 54% instances), -<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1891; 25% instances), -<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (828; 11% instances), -<tt><a href="ar_padt-pos-X.html">X</a></tt> (470; 6% instances), -<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (134; 2% instances), -<tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (117; 2% instances), -<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (26; 0% instances), -<tt><a href="ar_padt-pos-PART.html">PART</a></tt> (20; 0% instances), -<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (9; 0% instances), -<tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (6; 0% instances), -<tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	المدفعية	مِدفَعِيَّة	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod	Vform=اَلمِدفَعِيَّةِ|Gloss=artillery|Root=d_f_`|Translit=al-midfaʿīyati|LTranslit=midfaʿīyat
 7	قصفت	قَصَف	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	ccomp	2:ccomp	Vform=قَصَفَت|Gloss=bomb,shell|Root=q_.s_f|Translit=qaṣafat|LTranslit=qaṣaf
 8	على	عَلَى	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
-9	الفور	الفور	X	U---------	_	7	advmod	7:advmod	SpaceAfter=No|Vform=الفور|Translit=Alfwr
+9	الفور	الفور	X	U---------	_	7	advmod	7:advmod	SpaceAfter=No|Vform=الفور|Root=OOV|Translit=Alfwr
 10	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~

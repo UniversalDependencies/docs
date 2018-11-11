@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="hsb_ufal-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-195 nodes (2%) are attached to their parents as `nummod`.
+193 nodes (2%) are attached to their parents as `nummod`.
 
-128 instances of `nummod` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23589743589744.
+127 instances of `nummod` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.19689119170984.
 
-The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (135; 69% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (17; 9% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (15; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (11; 6% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (137; 71% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 9% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (15; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (11; 6% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (3; 2% instances).
 
 
 ~~~ conllu

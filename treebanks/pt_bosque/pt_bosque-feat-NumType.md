@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (796; 100% of non-empty `NumType`): <em>primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</em>
-* `EMPTY` (10485): <em>maior, novo, grande, nova, mesmo, melhor, grandes, nacional, passado, mesma</em>
+* `EMPTY` (10484): <em>maior, novo, grande, nova, mesmo, melhor, grandes, nacional, passado, mesma</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (82) occur only with one value of `NumType`.
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (4; 100% of non-empty `NumType`): <em>um, uma</em>
-* `EMPTY` (34921): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
+* `EMPTY` (34928): <em>o, a, os, as, um, uma, sua, seu, este, esta</em>
 
 ### `PROPN`
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (3; 100% of non-empty `NumType`): <em>1.560, 1.565, Doze</em>
-* `EMPTY` (19009): <em>Paulo, São, Portugal, Brasil, José, Porto, Nacional, Governo, Lisboa, João</em>
+* `EMPTY` (19007): <em>Paulo, São, Portugal, Brasil, José, Porto, Nacional, Governo, Lisboa, João</em>
 
 ## Relations with Agreement in `NumType`
 

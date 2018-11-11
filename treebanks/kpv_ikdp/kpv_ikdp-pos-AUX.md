@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>из</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.200000 (the average of all parts of speech is 1.113379).
+The form / lemma ratio of `AUX` is 2.200000 (the average of all parts of speech is 1.144444).
 
 The 1st highest number of forms (4) was observed with the lemma “оз”: <em>из, ог, оз, он</em>.
 
@@ -35,12 +35,12 @@ The 2nd highest number of forms (3) was observed with the lemma “лоны”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “быть”: <em>были, было</em>.
 
-`AUX` occurs with 6 features: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt> (18; 67% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (10; 37% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (3; 11% instances)
+`AUX` occurs with 6 features: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt> (23; 85% instances), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt> (20; 74% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (16; 59% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (10; 37% instances)
 
-`AUX` occurs with 10 feature-value pairs: `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
+`AUX` occurs with 11 feature-value pairs: `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
 `AUX` occurs with 10 feature combinations.
-The most frequent feature combination is `Mood=Ind|Person=3|Tense=Past|VerbForm=Fin` (10 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (10 tokens).
 Examples: <em>вӧлі, вӧліс</em>
 
 

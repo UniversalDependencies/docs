@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	andere	anders	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
 4	Politik	Politik	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 5	will	wollen	VERB	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	csubj	_	SpaceAfter=No
-6	,	,	PUNCT	$,	_	10	punct	_	_
+6	,	,	PUNCT	$,	_	5	punct	_	_
 7	muß	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 8	auch	auch	ADV	ADV	_	10	advmod	_	_
 9	anders	anders	ADV	ADV	_	10	advmod	_	_
@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1 8 csubj	color:blue
 1	Anmerkenswert	Anmerkenswert	ADJ	ADJD	_	0	root	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	,	,	PUNCT	$,	_	1	punct	_	_
+3	,	,	PUNCT	$,	_	8	punct	_	_
 4	dass	dass	SCONJ	KOUS	_	8	mark	_	_
 5	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Laden	Laden	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_

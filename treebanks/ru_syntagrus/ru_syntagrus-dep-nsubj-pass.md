@@ -27,7 +27,7 @@ The following 19 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux	_
 4	придуман	придумать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	в	в	ADP	_	_	6	case	6:case	_
-6	Греции	греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
+6	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 19 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	6	nsubj:pass	6:nsubj:pass	_
 6	сделаны	делать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	ccomp	2:ccomp	_
 7	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	obl	6:obl	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	_
+8	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 19 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:pass	color:blue
 1	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
-2	Атлантида	атлантида	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	4:nsubj	_
+2	Атлантида	Атлантида	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	4:nsubj	_
 3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux	_
 4	найдена	найти	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
 5	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	8:punct	_
 7	-	-	PUNCT	_	_	8	punct	8:punct	_
 8	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	parataxis	4:parataxis	_
-9	Александр	александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
-10	Воронин	воронин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	9:flat	SpaceAfter=No
-11	.	.	PUNCT	_	_	8	punct	8:punct	_
+9	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	_
+10	Воронин	Воронин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	9:flat	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
 

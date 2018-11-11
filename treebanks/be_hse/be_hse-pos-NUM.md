@@ -64,8 +64,8 @@ The 3rd highest number of forms (2) was observed with the lemma “абодва�
 `NUM` occurs with 13 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `NumType=Sets`, `Number=Sing`
 
 `NUM` occurs with 25 feature combinations.
-The most frequent feature combination is `Case=Nom|NumType=Card` (31 tokens).
-Examples: <em>2011, 10, 2012, 7, 9, шмат, 109, 12, 15, 19</em>
+The most frequent feature combination is `NumType=Card` (31 tokens).
+Examples: <em>1,5, 2,9, 10, 2,5, 2011, 500, два, двух, 29, адзін</em>
 
 
 ## Relations

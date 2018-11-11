@@ -7,39 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-HTB: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: <tt><a href="he_htb-dep-aux-q.html">aux:q</a></tt>.
 
-773 nodes (0%) are attached to their parents as `aux`.
+719 nodes (0%) are attached to their parents as `aux`.
 
-714 instances of `aux` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.90038809831824.
+717 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57997218358832.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (308; 40% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (190; 25% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (144; 19% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (104; 13% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 aux	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
-2	משבר	משבר	NOUN	NOUN	Gender=Masc|Number=Sing	10	nsubj	_	_
-3	ב	ב	ADP	ADP	_	5	case	_	_
-4	ה_	ה	DET	DET	PronType=Art	5	det:def	_	_
-5	מפרץ	מפרץ	NOUN	NOUN	Gender=Masc|Number=Sing	2	nmod	_	_
-6	ה	ה	DET	DET	PronType=Art	7	det:def	_	_
-7	פרסי	פרסי	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
-8	לא	לא	ADV	ADV	Polarity=Neg	10	advmod	_	_
-9	היה	היה	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	10	aux	_	_
-10	נושא	נושא	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
-11	בחירות	בחירות	NOUN	NOUN	Gender=Fem|Number=Plur	10	compound:smixut	_	_
-12	מרכזי	מרכזי	ADJ	ADJ	Gender=Masc|Number=Sing	10	amod	_	_
-13	ב	ב	ADP	ADP	_	14	case	_	_
-14	איובה	איובה	PROPN	PROPN	_	10	nmod	_	_
-15	.	.	PUNCT	PUNCT	_	10	punct	_	_
-
-~~~
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (619; 86% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (51; 7% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (40; 6% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,11 +22,41 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
-1	מסתבר	הסתבר	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Sing|Person=1,2,3|VerbForm=Part	0	root	_	_
-2	ש	ש	SCONJ	SCONJ	_	4	mark	_	_
-3	הייתי	היה	VERB	VERB	Gender=Fem,Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbType=Cop	4	aux	_	_
-4	תמים	תמים	ADJ	ADJ	Gender=Masc|Number=Sing	1	advcl	_	SpaceAfter=No
-5	.	.	PUNCT	PUNCT	_	1	punct	_	_
+1	שם	שם	ADV	ADV	_	3	advmod	_	_
+2	היה	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	3	cop	_	_
+3	אמור	אמור	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	4	aux	_	_
+4	להיפגש	נפגש	VERB	VERB	HebBinyan=NIFAL|VerbForm=Inf|Voice=Mid	0	root	_	_
+5	עם	עם	ADP	ADP	_	6	case	_	_
+6	איש_	איש	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
+7	_של_	של	ADP	ADP	_	8	case:gen	_	_
+8	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
+9	,	,	PUNCT	PUNCT	_	6	punct	_	_
+10	ש	ש	SCONJ	SCONJ	_	11	mark	_	_
+11	עשתה	עשה	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl:relcl	_	_
+12	ב	ב	ADP	ADP	_	13	case	_	_
+13	בוסטון	בוסטון	PROPN	PROPN	_	11	obl	_	_
+14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 aux	color:blue
+1	אתמול	אתמול	ADV	ADV	_	2	advmod	_	_
+2	ערך	ערך	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+3	לאזארק	לאזארק	PROPN	PROPN	_	2	nsubj	_	_
+4	אימון	אימון	NOUN	NOUN	Gender=Masc|Number=Sing	2	obj	_	_
+5	ו	ו	CCONJ	CCONJ	_	7	cc	_	_
+6	היום	היום	ADV	ADV	_	7	advmod	_	_
+7	אמור	אמור	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	8	aux	_	_
+8	להיות	היה	AUX	AUX	Polarity=Pos|VerbForm=Inf|VerbType=Cop	2	conj	_	_
+9	אימון	אימון	NOUN	NOUN	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	נוסף	נוסף	ADJ	ADJ	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
@@ -60,16 +64,15 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 aux	color:blue
-1	נראה	נראה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	0	root	_	_
-2	היה	היה	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	1	aux	_	_
-3	ש	ש	SCONJ	SCONJ	_	5	mark	_	_
-4	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-5	זיווג	זיווג	NOUN	NOUN	Gender=Masc|Number=Sing	1	ccomp	_	_
-6	טוב	טוב	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
-7	.	.	PUNCT	PUNCT	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 aux	color:blue
+1	ירושלים	ירושלים	PROPN	PROPN	_	4	nsubj	_	_
+2	הפכה	הפך	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Past	4	aux	_	_
+3	ל	ל	ADP	ADP	_	4	case	_	_
+4	קבוצה	קבוצה	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
+5	מפוררת	פורר	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	4	amod	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

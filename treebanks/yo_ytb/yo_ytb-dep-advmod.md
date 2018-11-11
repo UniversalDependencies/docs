@@ -10,10 +10,10 @@ This relation is universal.
 
 87 nodes (3%) are attached to their parents as `advmod`.
 
-52 instances of `advmod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.62068965517241.
+55 instances of `advmod` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.74712643678161.
 
-The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (65; 75% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (9; 10% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (6; 7% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (66; 76% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,13 +26,13 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
-5	he	he	VERB	_	_	0	root	_	Gloss=null
+5	he	he	VERB	_	_	0	root	_	Gloss=pick
 6	òkúta	òkúta	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=stone
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 8	láti	láti	ADP	_	_	9	case	_	Gloss=to
-9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=spake
+9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=throw
 10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=upon
-11	ú	ú	PRON	_	_	9	obj	_	SpaceAfter=No|Gloss=him
+11	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No|Gloss=him
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 ~~~
@@ -48,52 +48,60 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 2	ènìyàn	ènìyàn	NOUN	_	_	6	nsubj	_	Gloss=people
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many
 4	níbẹ̀	níbẹ̀	ADV	_	_	2	advmod	_	Gloss=there
-5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and
-6	gbàágbọ́	gbàágbọ́	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=him
+5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then
+6	gbàágbọ́	gbàágbọ́	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=believe-him
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 31 32 advmod	color:blue
-1	Olè	Olè	NOUN	_	_	4	nsubj	_	Gloss=thief
-2	kì	kì	PART	_	_	4	advmod	_	Gloss=not
-3	í	í	AUX	_	_	4	aux	_	Gloss=was
-4	wá	wá	VERB	_	_	0	root	_	Gloss=come
-5	bí	bí	SCONJ	_	_	7	mark	_	Gloss=as
-6	kò	kò	PART	_	_	7	discourse	_	Gloss=not
-7	ṣe	ṣe	VERB	_	_	4	ccomp	_	Gloss=do
-8	láti	láti	ADP	_	_	9	mark	_	Gloss=to
-9	jalè	jalè	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=steal
-10	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-11	láti	láti	ADP	_	_	12	mark	_	Gloss=to
-12	pa	pa	VERB	_	_	4	advcl	_	SpaceAfter=No|Gloss=keep
-13	,	,	PUNCT	_	_	16	punct	_	Gloss=,
-14	àti	àti	CCONJ	_	_	16	cc	_	Gloss=and
-15	láti	láti	ADP	_	_	16	mark	_	Gloss=to
-16	parun	parun	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=destroyed
-17	:	:	PUNCT	_	_	19	mark	_	Gloss=:
-18	èmi	èmi	PRON	_	_	19	nsubj	_	Gloss=i
-19	wá	wá	VERB	_	_	7	xcomp	_	Gloss=come
-20	kí	kí	SCONJ	_	_	22	mark	_	Gloss=let
-21	wọn	wọn	PRON	_	_	22	nsubj	_	Gloss=them
-22	lè	lè	VERB	_	_	4	ccomp	_	Gloss=may
-23	ní	ní	AUX	_	_	24	cop	_	Gloss=in
-24	ìyè	ìyè	NOUN	_	_	4	xcomp	_	SpaceAfter=No|Gloss=life
-25	,	,	PUNCT	_	_	29	punct	_	Gloss=,
-26	àní	àní	ADV	_	_	29	advmod	_	Gloss=even
-27	kí	kí	SCONJ	_	_	29	mark	_	Gloss=let
-28	wọn	wọn	PRON	_	_	29	nsubj	_	Gloss=them
-29	lè	lè	VERB	_	_	4	ccomp	_	Gloss=may
-30	ní	ní	AUX	_	_	31	cop	_	Gloss=in
-31	i	i	PRON	_	_	22	xcomp	_	Gloss=him
-32	lọ́pọ̀lọpọ̀	lọ́pọ̀lọpọ̀	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=abundantly
-33	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+# visual-style 39	bgColor:blue
+# visual-style 39	fgColor:white
+# visual-style 38	bgColor:blue
+# visual-style 38	fgColor:white
+# visual-style 38 39 advmod	color:blue
+1	Nítorí	nítorí	SCONJ	_	_	4	cc	_	Gloss=for
+2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that
+3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
+4	Júù	júù	PROPN	_	_	6	nsubj	_	Gloss=jews
+5	wá	wá	VERB	_	_	6	compound:svc	_	Gloss=come
+6	dúró	dúró	VERB	_	_	0	root	_	Gloss=stood
+7	yí	yí	VERB	_	_	6	compound:svc	_	Gloss=round
+8	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=him
+9	ká	ká	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=about
+10	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+11	wọ́n	wọ́n	NOUN	_	_	13	nsubj	_	Gloss=they
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=then
+13	wí	wí	VERB	_	_	6	conj	_	Gloss=said
+14	fún	fún	ADP	_	_	15	case	_	Gloss=unto
+15	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	13	obj	_	Gloss=him
+16	pé	pé	SCONJ	_	_	22	mark	_	SpaceAfter=No|Gloss=that
+17	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+18	“	“	PUNCT	_	_	22	punct	_	SpaceAfter=No|Gloss=“
+19	Ìwọ	Ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	22	nsubj	_	Gloss=thou
+20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	expl	_	Gloss=he
+21	ti	ti	AUX	_	_	22	aux	_	Gloss=have
+22	mú	mú	VERB	_	_	13	ccomp	_	Gloss=brought
+23	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	22	obj	_	Gloss=us
+24	ṣe	ṣe	VERB	_	_	22	ccomp	_	Gloss=do
+25	iyèméjì	iyèméjì	VERB	_	_	24	compound:svc	_	Gloss=doubt
+26	pẹ́	pẹ́	ADP	_	_	23	amod	_	Gloss=long
+27	tó	tó	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=how
+28	?	?	PUNCT	_	_	33	punct	_	Gloss=?
+29	Bí	Bí	SCONJ	_	_	33	cc	_	Gloss=if
+30	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	32	nsubj	_	Gloss=thou
+31	bá	bá	SCONJ	_	_	33	cc	_	Gloss=if
+32	ni	ni	AUX	_	_	33	cop	_	Gloss=is
+33	Kírísítì	kírísítì	PROPN	_	_	22	xcomp	_	Gloss=christ
+34	náà	náà	DET	_	_	33	det	_	SpaceAfter=No|Gloss=the
+35	,	,	PUNCT	_	_	33	punct	_	Gloss=,
+36	wí	wí	VERB	_	_	22	csubj	_	Gloss=said
+37	fún	fún	ADP	_	_	38	case	_	Gloss=unto
+38	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	36	obj	_	Gloss=us
+39	gbangba	gbangba	ADV	_	_	38	advmod	_	SpaceAfter=No|Gloss=plainly
+40	.	.	PUNCT	_	_	38	punct	_	SpaceAfter=No|Gloss=.
+41	”	”	PUNCT	_	_	22	punct	_	Gloss=”
 
 ~~~
 

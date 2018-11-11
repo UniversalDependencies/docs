@@ -14,21 +14,21 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 5903 tokens (53%) have a non-empty value of `Number`.
 3744 types (86%) occur at least once with a non-empty value of `Number`.
 2386 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2532; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1409; 13% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (693; 6% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (545; 5% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (286; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (276; 2% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (134; 1% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (2528; 23% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (1409; 13% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (692; 6% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (545; 5% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (287; 3% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (275; 2% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (134; 1% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (32; 0% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-2532 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+2528 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1390; 55%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1389; 55%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (27; 1% of non-empty `Number`): <em>měsacaj, rěkomaj, Kralej, atomaj, atomow, genusaj, izotopaj, kmjenaj, likwidaj, lětomaj</em>
-* `Plur` (813; 32% of non-empty `Number`): <em>rěčow, kilometrow, nastawki, rostliny, lět, knihi, města, rěče, statow, wobrazy</em>
+* `Plur` (809; 32% of non-empty `Number`): <em>rěčow, kilometrow, nastawki, rostliny, lět, knihi, města, rěče, statow, wobrazy</em>
 * `Ptan` (4; 0% of non-empty `Number`): <em>droždźemi, duri, hody, wiki</em>
 * `Sing` (1688; 67% of non-empty `Number`): <em>l, př, město, rěč, woda, lěta, stolica, lěće, mócnarstwo, pismo</em>
-* `EMPTY` (16): <em>km, m, CEST, centrum, jan, thumb, zdźěla, čas</em>
+* `EMPTY` (15): <em>km, m, CEST, centrum, jan, thumb, čas</em>
 
 <table>
   <tr><th>Paradigm <i>lěto</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -74,15 +74,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-693 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Number`.
+692 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (643; 93%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (630; 91%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (595; 86%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (433; 62%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (642; 93%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (629; 91%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (594; 86%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (433; 63%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (12; 2% of non-empty `Number`): <em>jewjetej, matej, móžetej, nabywaštej, nahrawałoj, přidźělitej, rozšěrištaj, spěchowaštej, słušatej, wotkryłoj</em>
 * `Plur` (237; 34% of non-empty `Number`): <em>su, běchu, maja, eksistuja, móžachu, móžeja, pokazuja, wužiwachu, wužiwaja, hodźa</em>
-* `Sing` (444; 64% of non-empty `Number`): <em>ma, móže, wobsahuje, móžeš, hlej, leži, rěči, dyrbi, wužiwa, hodźi</em>
+* `Sing` (443; 64% of non-empty `Number`): <em>ma, móže, wobsahuje, móžeš, hlej, leži, rěči, dyrbi, wužiwa, hodźi</em>
 * `EMPTY` (129): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
@@ -122,15 +122,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-286 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Number`.
+287 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (284; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (282; 99%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (274; 96%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (285; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (283; 99%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (275; 96%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 84%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (9; 3% of non-empty `Number`): <em>buštej, stej, běštej, staj</em>
-* `Plur` (93; 33% of non-empty `Number`): <em>su, buchu, njejsu, běchu, bychu, njebuchu, njesu</em>
-* `Sing` (184; 64% of non-empty `Number`): <em>je, bu, bě, by, njeje, sy, budu, budźe, był, była</em>
+* `Plur` (93; 32% of non-empty `Number`): <em>su, buchu, njejsu, běchu, bychu, njebuchu, njesu</em>
+* `Sing` (185; 64% of non-empty `Number`): <em>je, bu, bě, by, njeje, sy, budu, budźe, był, była</em>
 * `EMPTY` (3): <em>być, posłužić</em>
 
 <table>
@@ -150,16 +150,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-276 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Number`.
+275 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (240; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (231; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (231; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (202; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (186; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (239; 87%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (201; 73%), <tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (185; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Dual` (4; 1% of non-empty `Number`): <em>Wobě, jeju, kotrejž, woběmaj</em>
-* `Plur` (106; 38% of non-empty `Number`): <em>kotrež, tute, wšě, někotrych, swoje, kotrychž, někotre, tutych, wšěch, někotři</em>
+* `Dual` (3; 1% of non-empty `Number`): <em>Wobě, jeju, kotrejž</em>
+* `Plur` (106; 39% of non-empty `Number`): <em>kotrež, tute, wšě, někotrych, swoje, kotrychž, někotre, tutych, wšěch, někotři</em>
 * `Sing` (166; 60% of non-empty `Number`): <em>n, kotryž, kotraž, tutón, tuta, swoju, kotrež, tute, tutej, tutu</em>
-* `EMPTY` (35): <em>jeho, jich, jeje, mnoho, n, tójšto</em>
+* `EMPTY` (52): <em>jeho, jich, wjele, jeje, mnoho, mjenje, n, najwjace, tróšku, tójšto</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -216,14 +216,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `NUM`
 
-27 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Number`.
+32 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (27; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (31; 97%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Dual` (11; 41% of non-empty `Number`): <em>dwaj, dwěmaj, dweju, dwě</em>
-* `Sing` (16; 59% of non-empty `Number`): <em>jedyn, jedna, jednu, jednym, jedneho, jedny</em>
+* `Dual` (12; 38% of non-empty `Number`): <em>dwaj, dwěmaj, dweju, dwě, woběmaj</em>
+* `Plur` (4; 13% of non-empty `Number`): <em>Mio, miliardow</em>
+* `Sing` (16; 50% of non-empty `Number`): <em>jedyn, jedna, jednu, jednym, jedneho, jedny</em>
 * `EMPTY` (350): <em>2, 1, 6, 4, 3, 5, 7, I, 000, 10</em>
 
 ### `ADV`
@@ -235,12 +236,12 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>wuchodne</em>
-* `EMPTY` (538): <em>tež, tak, hišće, zwjetša, wjele, něhdźe, wjace, hižo, tu, najprjedy</em>
+* `EMPTY` (534): <em>tež, tak, hišće, zwjetša, hač, něhdźe, hižo, tu, wjace, najprjedy</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1080; 99%),
+<tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1083; 99%),
 <tt>VERB --[<tt><a href="hsb_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (348; 92%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (309; 58%),
 <tt>VERB --[<tt><a href="hsb_ufal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (235; 56%),

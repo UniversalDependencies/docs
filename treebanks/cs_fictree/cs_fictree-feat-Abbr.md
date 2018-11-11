@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PROP
 
 111 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 96%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (82; 74%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (70; 63%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (111; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 96%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (82; 74%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (75; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (70; 63%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -52,6 +52,5 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PROPN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (33; 70%),
-<tt>PROPN --[<tt><a href="cs_fictree-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (33; 100%).
 

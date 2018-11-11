@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10026 nodes (12%) are attached to their parents as `punct`.
+10023 nodes (12%) are attached to their parents as `punct`.
 
-8280 instances of `punct` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.47446638739278.
+8184 instances of `punct` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.44507632445376.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6169; 62% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (1617; 16% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (683; 7% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (403; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (332; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (214; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (193; 2% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (168; 2% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (97; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (52; 1% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (38; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6171; 62% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (1633; 16% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (679; 7% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (416; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (327; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (214; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (191; 2% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (152; 2% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (97; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (50; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (37; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 13 punct	color:blue
 1	The	the	DET	DEF	Definite=Def|PronType=Art	4	det	_	_
-2	SQL	sql	PROPN	SG-NOM	Number=Sing	3	compound	_	_
-3	Server	server	NOUN	SG-NOM	Number=Sing	4	compound	_	_
+2	SQL	sql	PROPN	SG-NOM	Number=Sing	4	compound	_	_
+3	Server	server	NOUN	SG-NOM	Number=Sing	2	flat	_	_
 4	database	database	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
 5	must	must	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux	_	_

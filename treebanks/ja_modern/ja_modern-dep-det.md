@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	彼の	彼の	DET	連体詞	_	2	det	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	長	長	NOUN	名詞-普通名詞-一般	_	4	obj	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-3	を	を	ADP	助詞-格助詞	_	2	case	_	BunsetuPosition=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-4	採り	採る	VERB	動詞-一般	_	8	advcl	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-5	彼の	彼の	DET	連体詞	_	6	det	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	文字	文字	NOUN	名詞-普通名詞-一般	_	8	obj	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-7	を	を	ADP	助詞-格助詞	_	6	case	_	BunsetuPosition=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-8	用ふる	用ふ	VERB	動詞-一般	_	10	acl	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-9	固より	固より	ADV	副詞	_	10	advmod	_	BunsetuPosition=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-10	可	可	NOUN	名詞-普通名詞-形状詞可能	_	0	root	_	BunsetuPosition=B|BunsetuPositionType=ROOT|SpaceAfter=No
-11	なり	なり	AUX	助動詞	_	10	aux	_	BunsetuPosition=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
+1	彼の	彼の	DET	連体詞	_	2	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
+2	長	長	NOUN	名詞-普通名詞-一般	_	4	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
+3	を	を	ADP	助詞-格助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
+4	採り	採る	VERB	動詞-一般	_	8	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
+5	彼の	彼の	DET	連体詞	_	6	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No
+6	文字	文字	NOUN	名詞-普通名詞-一般	_	8	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
+7	を	を	ADP	助詞-格助詞	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
+8	用ふる	用ふ	VERB	動詞-一般	_	10	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
+9	固より	固より	ADV	副詞	_	10	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
+10	可	可	NOUN	名詞-普通名詞-形状詞可能	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=形状詞-一般|SpaceAfter=No
+11	なり	なり	AUX	助動詞	_	10	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No
 
 ~~~
 

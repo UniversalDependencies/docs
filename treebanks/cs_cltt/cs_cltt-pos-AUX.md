@@ -55,7 +55,7 @@ Examples: <em>je, není</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (403; 71% instances), <tt><a href="cs_cltt-dep-aux-pass.html">aux:pass</a></tt> (129; 23% instances), <tt><a href="cs_cltt-dep-aux.html">aux</a></tt> (38; 7% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (403; 71% instances), <tt><a href="cs_cltt-dep-aux-pass.html">aux:pass</a></tt> (127; 22% instances), <tt><a href="cs_cltt-dep-aux.html">aux</a></tt> (40; 7% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (405; 71% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (133; 23% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (24; 4% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

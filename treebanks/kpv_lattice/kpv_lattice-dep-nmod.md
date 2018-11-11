@@ -8,28 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (5%) are attached to their parents as `nmod`.
+92 nodes (5%) are attached to their parents as `nmod`.
 
-61 instances of `nmod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23880597014925.
+83 instances of `nmod` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29347826086957.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (33; 49% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (40; 43% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (14; 15% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (12; 13% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod	color:blue
-1	Лун	лун	NOUN	N	Case=Nom|Number=Sing	2	compound	_	_
-2	шӧр	шӧр	NOUN	N	_	3	nmod	_	_
+# visual-style 2 1 nmod	color:blue
+1	Лун	лун	NOUN	N	Case=Nom|Number=Sing	2	nmod	_	_
+2	шӧр	шӧр	NOUN	N	Case=Nom|Number=Sing	3	nmod	_	_
 3	кадланьыс	кад	NOUN	N	Case=Apr|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 4	нин	нин	ADV	Adv	_	7	advmod	_	_
 5	кыськӧ	кысь	ADV	Adv	_	7	obl	_	_
 6	шур-шар	шур-шар	ADV	Adv	_	7	advmod	_	_
-7	воис	воны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	неыджыд	неыджыд	ADJ	A	Polarity=Neg	9	amod	_	_
+7	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	неыджыд	неыджыд	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Polarity=Neg	9	amod	_	_
 9	тӧвру	тӧвру	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	7	punct	_	_
 
@@ -37,34 +37,35 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod	color:blue
-1	Кыдзи	кыдзи	ADV	Adv	_	2	advmod	_	_
-2	нуӧдіс	нуӧдны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	бойӧ	бой	NOUN	N	Case=Ill|Number=Sing	2	obl	_	_
-4	миянлысь	ми	PRON	Pron	Case=Abl|Person=1|PronType=Prs	5	nmod	_	_
-5	армияясӧс	армия	NOUN	N	Case=Acc|Number=Plur	2	obj	_	_
-6	белӧйяслы	белӧй	NOUN	N	Case=Dat|Number=Plur	2	obl	_	_
-7	паныд	паныд	ADP	Po	_	6	case	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nmod	color:blue
+1	Пукавны	пукавны	VERB	V	VerbForm=Inf	4	csubj	_	_
+2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	nmod	_	_
+3	водзӧ	водз	ADV	Adv	Case=Ill|Number=Sing	1	advmod	_	_
+4	вӧлі	вӧвны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	Первойсӧ	первой	ADV	Det	_	4	advmod	_	_
-2	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Number=Sing	3	amod	_	_
-3	баляяс	баля	NOUN	N	Case=Nom|Number=Plur	4	nmod	_	_
-4	кодьӧсь	кодь	ADJ	A	Number=Plur	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nmod	color:blue
+1	Бур	бур	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod	_	_
+5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+6	районувса	районувса	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 16206 tokens (57%) have a non-empty value of `Number`.
 3316 types (80%) occur at least once with a non-empty value of `Number`.
-2363 lemmas (77%) occur at least once with a non-empty value of `Number`.
+2362 lemmas (77%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (5886; 21% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4768; 17% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1802; 6% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1677; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1069; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1004; 4% instances).
 
 ### `NOUN`

@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_gum-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (449; 100% of non-empty `Polarity`): <em>not, n't, n’t, ’t</em>
-* `EMPTY` (1453): <em>to, 's, ’s, n’t, not, ', ’, n`t, -</em>
+* `EMPTY` (1455): <em>to, 's, ’s, n’t, not, ', ’, n`t, -</em>
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (62; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (6805): <em>the, a, an, this, some, these, all, that, any, each</em>
+* `EMPTY` (6820): <em>the, a, an, this, some, these, all, that, any, each</em>
 
 ### `ADV`
 
@@ -41,5 +41,5 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (22; 100% of non-empty `Polarity`): <em>never, no</em>
-* `EMPTY` (2828): <em>also, so, then, very, just, as, more, even, well, only</em>
+* `EMPTY` (2830): <em>also, so, then, very, just, as, more, even, well, only</em>
 

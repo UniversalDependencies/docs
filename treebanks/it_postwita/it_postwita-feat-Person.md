@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 15002 tokens (12%) have a non-empty value of `Person`.
-2827 types (14%) occur at least once with a non-empty value of `Person`.
-1007 lemmas (6%) occur at least once with a non-empty value of `Person`.
+2827 types (16%) occur at least once with a non-empty value of `Person`.
+1007 lemmas (7%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6964; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4158; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3879; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -88,7 +88,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1705; 44% of non-empty `Person`): <em>mi, ci, io, c', me, noi, ce, m', ioooooo, c</em>
 * `2` (628; 16% of non-empty `Person`): <em>ti, te, tu, vi, voi, ve, v', TU', de, foi</em>
 * `3` (1546; 40% of non-empty `Person`): <em>si, lo, la, l', lui, li, gli, le, se, loro</em>
-* `EMPTY` (2600): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
+* `EMPTY` (2591): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

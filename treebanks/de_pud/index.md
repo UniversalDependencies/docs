@@ -11,7 +11,7 @@ udver: '2'
 
 # UD German PUD
 
-Language: [German](../de/overview/de-hub.html) (code: `de`)<br/>
+Language: [German](/de/index.html) (code: `de`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 3.0
 
@@ -33,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually, natively in UD style |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -129,23 +130,23 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): Her, Ihrer, Ihr|ihr, My, Nostrum, Sie|sie, Ya, dasselbe, der, du, er, er|es, er|es|sie, es, euer, ich, ihr, ihrem, man, me, mein, sein, sie, unser, was, wer, wir, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): _, der</li>
+<li>This corpus contains 37 lemmas tagged as determiners (DET): El, Le, Los, That, a, al, all, allder, alle, ander, beide, denselb, der, derselbe, dies, ein, einig, einige, irgendein, jed, jeglich, jen, kein, keinerlei, las, mehr, mehrere, meist, solch, the, una, viel, weit, welch, wenig, zwei, zweier</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: der</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 43 lemmas tagged as auxiliaries (AUX): Don', Zeit, ansehen, auftreten, ausmachen, bekannt, beschreiben, betrachten, bezeichnen, bezeichneten, bleiben, bleiben., didn', dienen, dürfen, erklären, finden, fungieren, funktionieren, gelten, haben, halten, hat., heißen, interpretieren, können, lass, lassen, machen, mögen, müssen, nennen, scheinen, schreiben, sehen, sein, sein., sollen, t, vestehen, werden, werden., wollen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 23 lemmas occurred sometimes as AUX and sometimes as VERB: ansehen, auftreten, ausmachen, beschreiben, betrachten, bleiben, erklären, finden, funktionieren, gelten, haben, halten, heißen, können, lassen, machen, nennen, scheinen, schreiben, sehen, sein, werden, wollen</li>
 </ul>
 
 <ul>
@@ -611,12 +612,12 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 24 lemmas as copulas (<a>cop</a>). Examples: sein, werden, bleiben, ansehen, halten, nennen, beschreiben, dienen, machen, Zeit, ausmachen, bekannt, bezeichneten, bleiben., erklären, finden, fungieren, gelten, heißen, interpretieren, scheinen, schreiben, sein., vestehen.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, werden, sein, müssen, sollen, wollen, mögen, lassen, dürfen, t, Don', didn', hat., lass, werden..</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -662,7 +663,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ sich</li>
+  <li>This corpus contains 1 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: erfreuen sich</li>
 </ul>
 
 

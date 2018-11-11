@@ -8,120 +8,106 @@ udver: '2'
 
 This relation is universal.
 
-14307 nodes (1%) are attached to their parents as `cc`.
+14436 nodes (1%) are attached to their parents as `cc`.
 
-11327 instances of `cc` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.87411756482841.
+11429 instances of `cc` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.91140205042948.
 
-The following 15 pairs of parts of speech are connected with `cc`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (7487; 52% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2545; 18% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2183; 15% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (1181; 8% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (499; 3% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (145; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (86; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (62; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (62; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 2 cc	color:blue
-1	_	_	X	_	_	2	dep	_	BunsetuPosition=B|BunsetuPositionType=CONT|SpaceAfter=No
-2	_	_	CCONJ	_	_	22	cc	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-3	_	_	PUNCT	_	_	2	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-4	_	_	NOUN	_	_	5	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-5	_	_	NOUN	_	_	8	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	_	_	ADP	_	_	5	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-7	_	_	NOUN	_	_	8	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-8	_	_	PART	_	_	22	obl	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-9	_	_	ADP	_	_	8	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-10	_	_	PUNCT	_	_	8	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-11	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-12	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-13	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-14	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-15	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-16	_	_	NUM	_	_	20	nummod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-17	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-18	_	_	NUM	_	_	20	nummod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-19	_	_	NOUN	_	_	20	compound	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-20	_	_	NOUN	_	_	22	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-21	_	_	ADP	_	_	20	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-22	_	_	VERB	_	_	0	root	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-23	_	_	SCONJ	_	_	22	mark	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-24	_	_	AUX	_	_	22	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-25	_	_	PUNCT	_	_	22	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 22 cc	color:blue
-1	_	_	NOUN	_	_	2	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-2	_	_	NOUN	_	_	4	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-3	_	_	PUNCT	_	_	2	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-4	_	_	NOUN	_	_	7	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-5	_	_	ADP	_	_	4	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-6	_	_	VERB	_	_	7	aux	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-7	_	_	AUX	_	_	25	advcl	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-8	_	_	SCONJ	_	_	7	mark	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-9	_	_	NOUN	_	_	10	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-10	_	_	PART	_	_	17	obl	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-11	_	_	ADP	_	_	10	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-12	_	_	VERB	_	_	10	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-13	_	_	AUX	_	_	10	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-14	_	_	NOUN	_	_	15	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-15	_	_	NOUN	_	_	17	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-16	_	_	ADP	_	_	15	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-17	_	_	NOUN	_	_	23	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-18	_	_	PUNCT	_	_	17	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-19	_	_	NOUN	_	_	21	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-20	_	_	ADP	_	_	19	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-21	_	_	NOUN	_	_	23	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-22	_	_	CCONJ	_	_	23	cc	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-23	_	_	NOUN	_	_	25	iobj	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-24	_	_	ADP	_	_	23	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-25	_	_	VERB	_	_	0	root	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-26	_	_	PUNCT	_	_	25	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-
-~~~
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (8940; 62% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (3072; 21% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (1190; 8% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (807; 6% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (146; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (86; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (65; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (63; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (26; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
 # visual-style 27	bgColor:blue
 # visual-style 27	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 27 cc	color:blue
-1	_	_	DET	_	_	2	det	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-2	_	_	AUX	_	_	26	dep	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-3	_	_	AUX	_	_	2	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-4	_	_	PUNCT	_	_	2	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-5	_	_	PROPN	_	_	7	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-6	_	_	ADP	_	_	5	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-7	_	_	PROPN	_	_	10	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-8	_	_	ADP	_	_	7	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-9	_	_	ADP	_	_	7	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-10	_	_	NOUN	_	_	26	obl	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-11	_	_	ADP	_	_	10	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-12	_	_	NOUN	_	_	13	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-13	_	_	NOUN	_	_	16	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-14	_	_	PUNCT	_	_	13	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-15	_	_	NOUN	_	_	16	compound	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-16	_	_	NOUN	_	_	21	nmod	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-17	_	_	ADP	_	_	16	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-18	_	_	PUNCT	_	_	16	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-19	_	_	NOUN	_	_	21	nmod	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-20	_	_	ADP	_	_	19	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-21	_	_	NOUN	_	_	26	obl	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=SEM_HEAD|SpaceAfter=No
-22	_	_	ADP	_	_	21	case	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-23	_	_	VERB	_	_	21	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-24	_	_	SCONJ	_	_	21	mark	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-25	_	_	VERB	_	_	26	aux	_	BunsetuPosition=B|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
-26	_	_	AUX	_	_	0	root	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=ROOT|SpaceAfter=No
-27	_	_	CCONJ	_	_	26	cc	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=FUNC|SpaceAfter=No
-28	_	_	AUX	_	_	26	aux	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=SYN_HEAD|SpaceAfter=No
-29	_	_	PUNCT	_	_	26	punct	_	BunsetuPosition=I|JPYomi=_|BunsetuPositionType=CONT|SpaceAfter=No
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 27 cc	color:blue
+1	_	_	DET	_	_	2	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=16|SpaceAfter=No
+2	_	_	AUX	_	_	25	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=15|SpaceAfter=No
+3	_	_	AUX	_	_	2	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+4	_	_	PUNCT	_	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+5	_	_	PROPN	_	_	7	compound	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=20|SpaceAfter=No
+6	_	_	ADP	_	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+7	_	_	PROPN	_	_	10	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=20|SpaceAfter=No
+8	_	_	ADP	_	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+9	_	_	ADP	_	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+10	_	_	NOUN	_	_	25	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+11	_	_	ADP	_	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
+12	_	_	NOUN	_	_	13	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+13	_	_	NOUN	_	_	16	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+14	_	_	PUNCT	_	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+15	_	_	NOUN	_	_	16	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+16	_	_	NOUN	_	_	21	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+17	_	_	ADP	_	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=8|SpaceAfter=No
+18	_	_	PUNCT	_	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+19	_	_	NOUN	_	_	21	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+20	_	_	ADP	_	_	19	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+21	_	_	NOUN	_	_	25	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+22	_	_	ADP	_	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+23	_	_	VERB	_	_	21	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+24	_	_	SCONJ	_	_	21	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+25	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
+26	_	_	AUX	_	_	25	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=2|SpaceAfter=No
+27	_	_	CCONJ	_	_	25	cc	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+28	_	_	AUX	_	_	25	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=10|SpaceAfter=No
+29	_	_	PUNCT	_	_	25	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 24 cc	color:blue
+1	_	_	CCONJ	_	_	27	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+2	_	_	PUNCT	_	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+3	_	_	NOUN	_	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+4	_	_	NOUN	_	_	6	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+5	_	_	PUNCT	_	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+6	_	_	NOUN	_	_	8	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+7	_	_	ADP	_	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+8	_	_	VERB	_	_	27	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
+9	_	_	AUX	_	_	8	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=2|SpaceAfter=No
+10	_	_	SCONJ	_	_	8	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=18|SpaceAfter=No
+11	_	_	NOUN	_	_	12	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+12	_	_	NOUN	_	_	19	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+13	_	_	ADP	_	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+14	_	_	VERB	_	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+15	_	_	AUX	_	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+16	_	_	NOUN	_	_	17	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+17	_	_	NOUN	_	_	19	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+18	_	_	ADP	_	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+19	_	_	NOUN	_	_	25	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+20	_	_	PUNCT	_	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+21	_	_	NOUN	_	_	23	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+22	_	_	ADP	_	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+23	_	_	NOUN	_	_	25	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+24	_	_	CCONJ	_	_	25	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+25	_	_	NOUN	_	_	27	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+26	_	_	ADP	_	_	25	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+27	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
+28	_	_	PUNCT	_	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 cc	color:blue
+1	_	_	CCONJ	_	_	8	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+2	_	_	PUNCT	_	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+3	_	_	NOUN	_	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+4	_	_	NOUN	_	_	8	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
+5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
+6	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
+7	_	_	ADV	_	_	8	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=17|SpaceAfter=No
+8	_	_	ADJ	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=14|SpaceAfter=No
+9	_	_	PUNCT	_	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
 
 ~~~
 

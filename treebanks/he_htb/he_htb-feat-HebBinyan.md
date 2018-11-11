@@ -16,9 +16,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="he_htb-pos-VERB.htm
 
 ### `VERB`
 
-12510 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `HebBinyan`.
+12510 <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> tokens (88% of all `VERB` tokens) have a non-empty value of `HebBinyan`.
 
-The most frequent other feature values with which `VERB` and `HebBinyan` co-occurred: <tt><a href="he_htb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (12510; 100%), <tt><a href="he_htb-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (12510; 100%), <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8867; 71%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6855; 55%), <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6511; 52%).
+The most frequent other feature values with which `VERB` and `HebBinyan` co-occurred: <tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8867; 71%), <tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6855; 55%), <tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6511; 52%).
 
 `VERB` tokens may have the following values of `HebBinyan`:
 
@@ -31,4 +31,9 @@ The most frequent other feature values with which `VERB` and `HebBinyan` co-occu
 * `PUAL` (508; 4% of non-empty `HebBinyan`): מדובר, מדורגת, סוכם, נוצח, פורסם, שוחררו, אושרו, ממונה, מתוכנן, מזוהה
 
 `HebBinyan` seems to be **lexical feature** of `VERB`. 100% lemmas (1760) occur only with one value of `HebBinyan`.
+
+## Relations with Agreement in `HebBinyan`
+
+The 10 most frequent relations where parent and child node agree in `HebBinyan`:
+<tt>VERB --[<tt><a href="he_htb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> VERB</tt> (1; 100%).
 

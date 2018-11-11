@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Japanese Modern
 
-Language: [Japanese](../ja/overview/ja-hub.html) (code: `ja`)<br/>
+Language: [Japanese](/ja/index.html) (code: `ja`)<br/>
 Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yuta Takahashi.
 
 Repository: [UD_Japanese-Modern](https://github.com/UniversalDependencies/UD_Japanese-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_modern)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_modern22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-ND 3.0
 
@@ -29,6 +30,9 @@ Questions, comments?
 General annotation questions (either Japanese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Japanese-Modern/issues).
 If you want to collaborate, please contact [masayu-a&nbsp;(æt)&nbsp;ninjal&nbsp;•&nbsp;ac&nbsp;•&nbsp;jp].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
@@ -110,11 +114,11 @@ through discussion and validation with
 
 
 <ul>
-<li>This corpus contains 822 sentences and 14227 tokens.</li>
+<li>This corpus contains 822 sentences and 14494 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14227 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 14477 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -122,7 +126,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 1 types of words that contain both letters and punctuation. Examples: [JSP]</li>
+<li>This corpus does not contain words that contain both letters and punctuation.</li>
 </ul>
 
 <ul>
@@ -171,32 +175,22 @@ through discussion and validation with
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>AUX: ず, ざる, ざれ, ざら, ざり</li>
-        <li>NOUN: 不</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX: ず, ざる, ざれ, ざら, ざり</li>
+      <li>NOUN: 不</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -207,20 +201,7 @@ through discussion and validation with
 
 
 
-
-
-
-
-
 <h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-
-
-
-
-
-
 
 
 
@@ -243,7 +224,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus uses 44 lemmas as auxiliaries (<a>aux</a>). Examples: なり, ず, べし, む, たり, 如し, 於く, しむ, り, き, 可し, る, 由る, 非ず, 不, 哉, らる, を, 依る, 因る, 據る, す, やすし, 樣, なし, ぬ, よる, 乎, 云ふ, 仕る, 以來, 仰ぐ, 對す, 廢す, 得, 憑る, 放つ, 方る, 易し, 望む, 然, 然らず, 若し, 行ふ.</li>
+<li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: なり, ず, す, べし, む, たり, 如し, 於く, しむ, り, き, 可し, る, 由る, 非ず, 不, 哉, らる, を, 依る, 因る, 據る, やすし, 樣, 然り, なし, ぬ, よる, 乎, 云ふ, 仕る, 以來, 仰ぐ, 對す, 廢す, 得, 憑る, 放つ, 方る, 易し, 望む, 然, 然らず, 若し, 行ふ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -252,8 +233,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB--NOUN-ADP(が) (1)</li>
+      <li>VERB--NOUN-ADP(と)-ADP(は) (1)</li>
+      <li>VERB--NOUN-ADP(なり)-ADP(は) (2)</li>
       <li>VERB--NOUN-ADP(に)-ADP(が) (2)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(は) (4)</li>
+      <li>VERB--NOUN-ADP(にて)-ADP(は) (2)</li>
+      <li>VERB--NOUN-ADP(の)-ADP(は) (2)</li>
+      <li>VERB--NOUN-ADP(は) (80)</li>
+      <li>VERB--NOUN-ADP(や)-ADP(は) (1)</li>
       <li>VERB--PRON-ADP(が) (2)</li>
+      <li>VERB--PRON-ADP(に)-ADP(は) (4)</li>
     </ul>
   </li>
 </ul>
@@ -261,13 +251,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-ADP(と)-ADP(を) (6)</li>
+      <li>VERB--NOUN-ADP(と)-ADP(を) (4)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (653)</li>
+      <li>VERB--NOUN-ADP(を) (562)</li>
       <li>VERB--NOUN-ADP(を)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--NOUN-ADP(宛)-ADP(を) (1)</li>
-      <li>VERB--PRON-ADP(を) (145)</li>
+      <li>VERB--PRON-ADP(を) (120)</li>
       <li>VERB--PRON-ADP(を)-ADP(か) (1)</li>
     </ul>
   </li>
@@ -276,27 +265,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (229)</li>
-      <li>VERB--NOUN-ADP(と) (2)</li>
-      <li>VERB--NOUN-ADP(なり)-ADP(は) (1)</li>
-      <li>VERB--NOUN-ADP(に) (179)</li>
-      <li>VERB--NOUN-ADP(にて) (1)</li>
+      <li>VERB--NOUN (222)</li>
+      <li>VERB--NOUN-ADP(と) (1)</li>
+      <li>VERB--NOUN-ADP(に) (160)</li>
       <li>VERB--NOUN-ADP(にて)-ADP(は) (1)</li>
       <li>VERB--NOUN-ADP(にて)-ADP(も) (1)</li>
       <li>VERB--NOUN-ADP(の) (1)</li>
-      <li>VERB--NOUN-ADP(は) (18)</li>
-      <li>VERB--NOUN-ADP(も) (6)</li>
+      <li>VERB--NOUN-ADP(も) (4)</li>
       <li>VERB--NOUN-ADP(や) (2)</li>
-      <li>VERB--NOUN-ADP(を) (5)</li>
-      <li>VERB--PRON (22)</li>
+      <li>VERB--NOUN-ADP(を) (4)</li>
+      <li>VERB--PRON (21)</li>
       <li>VERB--PRON-ADP(か) (2)</li>
       <li>VERB--PRON-ADP(が) (2)</li>
       <li>VERB--PRON-ADP(に) (21)</li>
       <li>VERB--PRON-ADP(に)-ADP(か) (1)</li>
-      <li>VERB--PRON-ADP(に)-ADP(は) (2)</li>
+      <li>VERB--PRON-ADP(に)-ADP(は) (1)</li>
       <li>VERB--PRON-ADP(は) (1)</li>
       <li>VERB--PRON-ADP(より) (1)</li>
-      <li>VERB--PRON-ADP(を) (13)</li>
+      <li>VERB--PRON-ADP(を) (12)</li>
       <li>VERB--PRON-ADP(を)-ADP(か) (1)</li>
     </ul>
   </li>

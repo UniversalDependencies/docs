@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Galician TreeGal
 
-Language: [Galician](../gl/overview/gl-hub.html) (code: `gl`)<br/>
+Language: [Galician](/gl/index.html) (code: `gl`)<br/>
 Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Marcos Garcia.
 
 Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: LGPLLR
 
@@ -175,509 +176,478 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: obstante, embargante, best, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes</li>
-        <li>NOUN: nacionalistas, socialistas, galeguista, guitarristas, prol, xornalistas, Babecas, Finalistas, alcalde, antípoda</li>
-        <li>NUM: 13.000, cen</li>
-        <li>PRON: se, nos, que, me, quen, lle, eu, nós, vostede, alguén</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Com
+    <ul>
+      <li>ADJ: obstante, embargante, best, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes</li>
+      <li>NOUN: nacionalistas, socialistas, galeguista, guitarristas, prol, xornalistas, Babecas, Finalistas, alcalde, antípoda</li>
+      <li>NUM: 13.000, cen</li>
+      <li>PRON: se, nos, que, me, quen, lle, eu, nós, vostede, alguén</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</li>
-        <li>DET: a, as, unha, súa, esta, la, nosa, súas, esa, outra</li>
-        <li>NOUN: cidade, música, parte, obra, vida, proposta, arte, empresa, obras, lingua</li>
-        <li>NUM: primeira, dúas, segunda, catro, tres, cinco, terceira, 12, 15.000, 17</li>
-        <li>PRON: que, a, lle, as, unha, elas, ela, esta, na, ningunha</li>
-        <li>PROPN: Mercedes, Núñez, Unión, UE, Zona, Bases, Xunta, Constitución, Galiza, Academia</li>
-        <li>VERB-Part: recibida, dirixida, destinadas, feita, feitas, prometidas, realizada, vencellada, Configurada, Nacida</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</li>
+      <li>DET: a, as, unha, súa, esta, la, nosa, súas, esa, outra</li>
+      <li>NOUN: cidade, música, parte, obra, vida, proposta, arte, empresa, obras, lingua</li>
+      <li>NUM: primeira, dúas, segunda, catro, tres, cinco, terceira, 12, 15.000, 17</li>
+      <li>PRON: que, a, lle, as, unha, elas, ela, esta, na, ningunha</li>
+      <li>PROPN: Mercedes, Núñez, Unión, UE, Zona, Bases, Xunta, Constitución, Galiza, Academia</li>
+      <li>VERB-Part: recibida, dirixida, destinadas, feita, feitas, prometidas, realizada, vencellada, Configurada, Nacida</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</li>
-        <li>AUX-Part: considerado</li>
-        <li>DET: o, os, un, lo, seu, este, seus, todo, todos, ese</li>
-        <li>NOUN: anos, traballo, goberno, mundo, tempo, dereito, proxecto, país, medios, grupo</li>
-        <li>NUM: dous, un, primeiro, catro, dez, 1990, 25, cinco, quince, tres</li>
-        <li>PRON: que, o, lle, lo, os, todo, un, algo, algúns, lles</li>
-        <li>PROPN: BNG, Estado, Manuel, Xosé, Miguel, Anxo, Carlos, Estatuto, González, Francisco</li>
-        <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, dirixido, empeñados</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</li>
+      <li>AUX-Part: considerado</li>
+      <li>DET: o, os, un, lo, seu, este, seus, todo, todos, ese</li>
+      <li>NOUN: anos, traballo, goberno, mundo, tempo, dereito, proxecto, país, medios, grupo</li>
+      <li>NUM: dous, un, primeiro, catro, dez, 1990, 25, cinco, quince, tres</li>
+      <li>PRON: que, o, lle, lo, os, todo, un, algo, algúns, lles</li>
+      <li>PROPN: BNG, Estado, Manuel, Xosé, Miguel, Anxo, Carlos, Estatuto, González, Francisco</li>
+      <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, dirixido, empeñados</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>PRON: iso, isto</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: iso, isto</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</li>
+      <li>AUX: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
+      <li>AUX-Fin: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
+      <li>AUX-Inf: seren, sermos</li>
+      <li>DET: os, as, seus, súas, todos, outros, los, outras, estes, uns</li>
+      <li>NOUN: anos, socialistas, medios, obras, nacionalistas, persoas, días, eleccións, veces, galegos</li>
+      <li>NUM: catro, dous, tres, dúas, dez, cinco, quince, oito, 300, 52</li>
+      <li>PRON: que, nos, os, lles, algúns, as, outros, elas, nós, eles</li>
+      <li>PROPN: Bases, Premios, Estados, Mateo, Mestre, 2004, Consellos, Irmandades, Letras, Oscars</li>
+      <li>VERB-Fin: teñen, fan, temos, existen, chegaron, dan, fagan, fixemos, integran, queremos</li>
+      <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, completarmos, decidiren, desviaren, formaren, forzaren, integrarmos</li>
+      <li>VERB-Part: atendidos, destinadas, empeñados, feitas, obrigados, prometidas, Decididos, afectados, apresentadas, asinados</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</li>
-        <li>AUX: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
-        <li>AUX-Fin: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
-        <li>AUX-Inf: seren, sermos</li>
-        <li>DET: os, as, seus, súas, todos, outros, los, outras, estes, uns</li>
-        <li>NOUN: anos, socialistas, medios, obras, nacionalistas, persoas, días, eleccións, veces, galegos</li>
-        <li>NUM: catro, dous, tres, dúas, dez, cinco, quince, oito, 300, 52</li>
-        <li>PRON: que, nos, os, lles, algúns, as, outros, elas, nós, eles</li>
-        <li>PROPN: Bases, Premios, Estados, Mateo, Mestre, 2004, Consellos, Irmandades, Letras, Oscars</li>
-        <li>VERB-Fin: teñen, fan, temos, existen, chegaron, dan, fagan, fixemos, integran, queremos</li>
-        <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, completarmos, decidiren, desviaren, formaren, forzaren, integrarmos</li>
-        <li>VERB-Part: atendidos, destinadas, empeñados, feitas, obrigados, prometidas, Decididos, afectados, apresentadas, asinados</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</li>
+      <li>AUX-Fin: é, foi, está, pode, era, sería, vai, será, ten, sexa</li>
+      <li>AUX-Part: considerado</li>
+      <li>DET: o, a, un, unha, súa, lo, seu, esta, este, la</li>
+      <li>NOUN: traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</li>
+      <li>NUM: primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</li>
+      <li>PRON: que, o, lle, a, me, iso, lo, todo, quen, un</li>
+      <li>PROPN: BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</li>
+      <li>VERB-Fin: hai, ten, fai, fixo, quere, considera, di, dá, semella, afirma</li>
+      <li>VERB-Part: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, chamado, dirixido</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</li>
-        <li>AUX-Fin: é, foi, está, pode, era, sería, vai, será, ten, sexa</li>
-        <li>AUX-Part: considerado</li>
-        <li>DET: o, a, un, unha, súa, lo, seu, esta, este, la</li>
-        <li>NOUN: traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</li>
-        <li>NUM: primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</li>
-        <li>PRON: que, o, lle, a, me, iso, lo, todo, quen, un</li>
-        <li>PROPN: BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</li>
-        <li>VERB-Fin: hai, ten, fai, fixo, quere, considera, di, dá, semella, afirma</li>
-        <li>VERB-Part: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, chamado, dirixido</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: o, nos, lo, a, as, os, me, no, los, na</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: lle, nos, lles, me, che</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: o, nos, lo, a, as, os, me, no, los, na</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Dat
-      <ul>
-        <li>PRON: lle, nos, lles, me, che</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: eu, el, vostede, nós, ti, eles</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: eu, el, vostede, nós, ti, eles</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: o, a, os, as, lo, la, los, las</li>
+      <li>PRON: a</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: o, a, os, as, lo, la, los, las</li>
-        <li>PRON: a</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: un, unha, uns, unhas</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: un, unha, uns, unhas</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: mellor, maior, maiores, peor, meirande, mellores, menor</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: mellor, maior, maiores, peor, meirande, mellores, menor</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: máximo, altísimo, importantísima, máxima</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: máximo, altísimo, importantísima, máxima</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADP: sen</li>
-        <li>ADV: non, nunca, tampouco, Nin, endexamais</li>
-        <li>CCONJ: nin</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADP: sen</li>
+      <li>ADV: non, nunca, tampouco, Nin, endexamais</li>
+      <li>CCONJ: nin</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd,Ind
+    <ul>
+      <li>AUX: sería, debería, podería, habería, poderían, tería, deberiamos, permanecería</li>
+      <li>AUX-Fin: sería, debería, podería, habería, poderían, tería, permanecería</li>
+      <li>VERB-Fin: gustaría, tería, Diría, Quedaría, correspondería, empobrecería, escluiría, faltaría, gostaría, instalaría</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd,Ind
-      <ul>
-        <li>AUX: sería, debería, podería, habería, poderían, tería, deberiamos, permanecería</li>
-        <li>AUX-Fin: sería, debería, podería, habería, poderían, tería, permanecería</li>
-        <li>VERB-Fin: gustaría, tería, Diría, Quedaría, correspondería, empobrecería, escluiría, faltaría, gostaría, instalaría</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: Explica, Imaxina</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: Explica, Imaxina</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: é, foi, está, son, pode, están, era, vai, será, poden</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: é, foi, está, son, pode, están, era, vai, será, poden</li>
-        <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: sexa, fose, sexan, estea, estivese, poidan, teña, estean, for, fosen</li>
+      <li>VERB-Fin: sexa, fagan, diga, cumpran, faga, fixese, haxa, inclúa, mostren, pese</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: sexa, fose, sexan, estea, estivese, poidan, teña, estean, for, fosen</li>
-        <li>VERB-Fin: sexa, fagan, diga, cumpran, faga, fixese, haxa, inclúa, mostren, pese</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: será, serán, haberá, poderá, poderán, Permanecerá, acabarán, for, irá, pasarán</li>
+      <li>VERB-Fin: terá, contará, corresponderá, decidirá, ocupará, recollerá, terán, Atribuirá, Lograrán, Pasarán</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: era, estaba, ía, eran, estaban, podía, Podiamos, debían, podia, tiña</li>
+      <li>VERB-Fin: había, tiña, sabía, facía, quería, daba, defendiamos, dicía, escribía, falaba</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: será, serán, haberá, poderá, poderán, Permanecerá, acabarán, for, irá, pasarán</li>
-        <li>VERB-Fin: terá, contará, corresponderá, decidirá, ocupará, recollerá, terán, Atribuirá, Lograrán, Pasarán</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: foi, foron, fose, estivese, estivo, puido, viñeron, estiveron, fosen, puidemos</li>
+      <li>VERB-Fin: fixo, deu, dixo, houbo, publicou, tivo, chegaron, conseguiu, fixemos, comezou</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: era, estaba, ía, eran, estaban, podía, Podiamos, debían, podia, tiña</li>
-        <li>VERB-Fin: había, tiña, sabía, facía, quería, daba, defendiamos, dicía, escribía, falaba</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pqp
+    <ul>
+      <li>AUX-Fin: fora, deberan, foran</li>
+      <li>VERB-Fin: quixera, cometeran, comunicara, escribiran, houbera, reflectira, rematara, valera, vira</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: foi, foron, fose, estivese, estivo, puido, viñeron, estiveron, fosen, puidemos</li>
-        <li>VERB-Fin: fixo, deu, dixo, houbo, publicou, tivo, chegaron, conseguiu, fixemos, comezou</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>AUX-Fin: fora, deberan, foran</li>
-        <li>VERB-Fin: quixera, cometeran, comunicara, escribiran, houbera, reflectira, rematara, valera, vira</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: é, está, son, pode, están, vai, poden, ten, sexa, hai</li>
-        <li>VERB-Fin: hai, ten, teñen, fai, quere, considera, di, dá, fan, semella</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: é, está, son, pode, están, vai, poden, ten, sexa, hai</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, quere, considera, di, dá, fan, semella</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: o, a, os, as, un, unha, lo, la, los, uns</li>
-        <li>PRON: o, a, os, as</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: o, a, os, as, un, unha, lo, la, los, uns</li>
+      <li>PRON: o, a, os, as</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: esta, este, ese, esa, estes, estas, aqueles, esas, eses, aquel</li>
-        <li>PRON: iso, isto, este, estes, esta, aqueles, Ese, aquel, aquela, esa</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: esta, este, ese, esa, estes, estas, aqueles, esas, eses, aquel</li>
+      <li>PRON: iso, isto, este, estes, esta, aqueles, Ese, aquel, aquela, esa</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</li>
-        <li>PRON: algo, todo, nada, un, algúns, unha, outros, outro, alguén, mesmo</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</li>
+      <li>PRON: algo, todo, nada, un, algúns, unha, outros, outro, alguén, mesmo</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: como, cómo, onde</li>
-        <li>DET: que</li>
-        <li>PRON: que, Cal, Quen, canto, Cales, Cantos</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: como, cómo, onde</li>
+      <li>DET: que</li>
+      <li>PRON: que, Cal, Quen, canto, Cales, Cantos</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</li>
-        <li>PRON: se, lle, nos, o, me, lo, lles, a, elas, nós</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</li>
+      <li>PRON: se, lle, nos, o, me, lo, lles, a, elas, nós</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: como, cando, onde</li>
-        <li>DET: cantas, cuxa, cuxas</li>
-        <li>PRON: que, quen, cales, cantos</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: como, cando, onde</li>
+      <li>DET: cantas, cuxa, cuxas</li>
+      <li>PRON: que, quen, cales, cantos</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>NUM: primeira, primeiro, segunda, II, IX, terceira, terceiro, V, primeiras, primeiros</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>NUM: primeira, primeiro, segunda, II, IX, terceira, terceiro, V, primeiras, primeiros</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Poss</a>
-
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</li>
-        <li>PRON: seu, nosa</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</li>
+      <li>PRON: seu, nosa</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: estamos, somos, estou, teño, vou, Podiamos, Sigo, deberiamos, imos, podemos</li>
+      <li>AUX-Fin: estamos, somos, estou, teño, vou, Podiamos, Sigo, imos, podemos, podía</li>
+      <li>AUX-Inf: sermos</li>
+      <li>DET: nosa, noso, meu, miña, nosos, meus, nosas</li>
+      <li>PRON: nos, me, nós, eu, min, nosa</li>
+      <li>VERB-Fin: temos, fixemos, queremos, digo, quixera, chegamos, creo, defendiamos, deixamos, entendemos</li>
+      <li>VERB-Inf: completarmos, integrarmos, irmos, termos</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: estamos, somos, estou, teño, vou, Podiamos, Sigo, deberiamos, imos, podemos</li>
-        <li>AUX-Fin: estamos, somos, estou, teño, vou, Podiamos, Sigo, imos, podemos, podía</li>
-        <li>AUX-Inf: sermos</li>
-        <li>DET: nosa, noso, meu, miña, nosos, meus, nosas</li>
-        <li>PRON: nos, me, nós, eu, min, nosa</li>
-        <li>VERB-Fin: temos, fixemos, queremos, digo, quixera, chegamos, creo, defendiamos, deixamos, entendemos</li>
-        <li>VERB-Inf: completarmos, integrarmos, irmos, termos</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>1,3
+    <ul>
+      <li>VERB-Fin: Diría</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1,3
-      <ul>
-        <li>VERB-Fin: Diría</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: Vas</li>
+      <li>PRON: te, che, ti</li>
+      <li>VERB-Fin: Explica, Imaxina, aceptas, alboreas, atoparás, buscas, chegas, escoites, escureces, miras</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: Vas</li>
-        <li>PRON: te, che, ti</li>
-        <li>VERB-Fin: Explica, Imaxina, aceptas, alboreas, atoparás, buscas, chegas, escoites, escureces, miras</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: é, foi, está, son, pode, están, era, sería, vai, será</li>
-        <li>AUX-Inf: seren</li>
-        <li>DET: súa, seu, seus, súas, os, sua</li>
-        <li>PRON: se, o, lle, a, lo, os, lles, as, elas, el</li>
-        <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
-        <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, decidiren, desviaren, formaren, forzaren, iren, mostraren</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: é, foi, está, son, pode, están, era, sería, vai, será</li>
+      <li>AUX-Inf: seren</li>
+      <li>DET: súa, seu, seus, súas, os, sua</li>
+      <li>PRON: se, o, lle, a, lo, os, lles, as, elas, el</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
+      <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, decidiren, desviaren, formaren, forzaren, iren, mostraren</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: nosa, súa, seu, noso, súas, seus, nosos, nosas</li>
+      <li>PRON: nosa</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number[psor]</a>
-
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: nosa, súa, seu, noso, súas, seus, nosos, nosas</li>
-        <li>PRON: nosa</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: súa, seu, seus, súas, meu, miña, meus, sua</li>
-        <li>PRON: seu</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: súa, seu, seus, súas, meu, miña, meus, sua</li>
+      <li>PRON: seu</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: de, en, a, por, con, para, sobre, entre, sen, desde</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: de, en, a, por, con, para, sobre, entre, sen, desde</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Clitic</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: se, lle, nos, o, me, lo, lles, a, as, os</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Clitic</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PRON: se, lle, nos, o, me, lo, lles, a, as, os</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

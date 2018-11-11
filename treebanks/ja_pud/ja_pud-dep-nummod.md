@@ -8,95 +8,102 @@ udver: '2'
 
 This relation is universal.
 
-353 nodes (1%) are attached to their parents as `nummod`.
+526 nodes (2%) are attached to their parents as `nummod`.
 
-353 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.30594900849858.
+526 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25095057034221.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (245; 69% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (62; 18% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (32; 9% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 nummod	color:blue
-1	彼女	彼女	PRON	PRP	Person=3	16	nsubj	_	GDPRL=nsubj:pass|GHEAD=16|GHEADH=16|GID=1|Match=Yes|SpaceAfter=No
-2	は	は	ADP	DP	_	1	case	_	GDPRL=compound:prt|GHEAD=1|GHEADH=1|GID=2|GUPOS=PART|Match=Yes|SpaceAfter=No
-3	2	2	NUM	CD	_	6	nummod	_	GDPRL=compound|GHEAD=6|GHEADH=6|GID=3|Match=Yes|SpaceAfter=No
-4	歳	歳	NOUN	SFN	_	3	mark	_	GDPRL=snum|GHEAD=3|GHEADH=3|GID=4|GUPOS=PART|Match=Yes|SpaceAfter=No
-5	の	の	ADP	CM	Case=Gen	3	case	_	GDPRL=compound:prt|GHEAD=3|GHEADH=3|GID=5|GUPOS=PART|Match=Yes|SpaceAfter=No
-6	娘	娘	NOUN	NN	_	8	obj	_	GHEAD=8|GHEADH=8|GID=6|Match=Yes|SpaceAfter=No
-7	を	を	ADP	CM	Case=Acc	6	case	_	GDPRL=compound:prt|GHEAD=6|GHEADH=6|GID=7|GUPOS=PART|Match=Yes|SpaceAfter=No
-8	殺そ	殺す	VERB	VV	Form=Irr	11	acl	_	GDPRL=acl:relcl|GHEAD=13|GHEADH=13|GID=8|Match=Yes|SpaceAfter=No
-9	う	う	AUX	VXP	VerbForm=Fin	8	aux	_	GHEAD=8|GHEADH=8|GID=9|GUPOS=VERB|Match=Yes|SpaceAfter=No
-10	と	と	SCONJ	CM	Case=Comp	8	mark	_	GDPRL=fixed|GHEAD=9|GHEADH=9|GID=10|GUPOS=PART|Match=Yes|SpaceAfter=No
-11	し	する	VERB	VV	VerbForm=Ger	16	acl	_	GDPRL=fixed|GHEAD=9|GHEADH=9|GID=11|Match=Yes|SpaceAfter=No
-12	た	た	AUX	VXP	Form=Adn|Tense=Past	11	aux	_	GHEAD=8|GHEADH=8|GID=12|GUPOS=VERB|Match=Yes|SpaceAfter=No
-13	こと	こと	NOUN	NNB	_	11	aux	_	GDPRL=advmod|GHEAD=16|GHEADH=16|GID=13|Match=Yes|SpaceAfter=No
-14	について	について	ADP	CM	Case=Advb	11	case	_	GDPRL=compound:prt|GHEAD=13|GHEADH=13|GID=14|GUPOS=PART|Match=Yes|SpaceAfter=No
-15	も	も	ADP	DP	_	11	case	_	GDPRL=compound:prt|GHEAD=13|GHEADH=13|GID=15|GUPOS=PART|Match=Yes|SpaceAfter=No
-16	起訴	起訴	VERB	NN	_	0	root	_	GHEAD=0|GID=16|GUPOS=NOUN|Match=Yes|SpaceAfter=No
-17	さ	する	AUX	VV	Form=Irr	16	aux	_	GDPRL=compound:v|GHEAD=16|GHEADH=16|GID=17|GUPOS=VERB|Match=Yes|SpaceAfter=No
-18	れ	れる	AUX	VXP	VerbForm=Ger|Voice=Pass	16	aux	_	GDPRL=aux:pass|GHEAD=16|GHEADH=16|GID=18|GUPOS=VERB|Match=Yes|SpaceAfter=No
-19	た	た	AUX	VXP	Tense=Past|VerbForm=Fin	16	aux	_	GHEAD=16|GHEADH=16|GID=19|GUPOS=VERB|Match=Yes|SpaceAfter=No
-20	。	。	PUNCT	.	_	16	punct	_	Match=Yes|GID=20|GHEAD=16|GHEADH=16
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 nummod	color:blue
-1	彼ら	彼ら	PRON	PRP	Number=Plur|Person=3	18	nsubj	_	GHEAD=9|GHEADH=9|GID=1|Match=Yes|SpaceAfter=No
-2	は	は	ADP	DP	_	1	case	_	GDPRL=compound:prt|GHEAD=1|GHEADH=1|GID=2|GUPOS=PART|Match=Yes|SpaceAfter=No
-3	、	、	PUNCT	,	_	1	punct	_	GHEAD=1|GHEADH=1|GID=3|Match=Yes|SpaceAfter=No
-4	全国	全国	NOUN	NN	_	7	compound	_	GHEAD=5|GHEADH=5|GID=4|Match=Yes|SpaceAfter=No
-5	平均	平均	NOUN	NN	_	7	compound	_	GHEAD=7|GHEADH=7|GID=5|Match=Yes|SpaceAfter=No
-6	グレード	グレード	NOUN	NN	_	7	compound	_	GHEAD=7|GHEADH=7|GID=6|Match=Yes|SpaceAfter=No
-7	4	4	NUM	CD	_	9	nummod	_	GDPRL=advmod|GHEAD=9|GHEADH=9|GID=7|Match=Yes|SpaceAfter=No
-8	に	に	ADP	CM	Case=Advb	7	case	_	GDPRL=compound:prt|GHEAD=7|GHEADH=7|GID=8|GUPOS=PART|Match=Yes|SpaceAfter=No
-9	位置	位置	VERB	NN	_	18	acl	_	GDPRL=root|GHEAD=0|GID=9|GUPOS=NOUN|Match=Yes|SpaceAfter=No
-10	し	する	AUX	VV	VerbForm=Ger	9	aux	_	GDPRL=compound:v|GHEAD=9|GHEADH=9|GID=10|GUPOS=VERB|Match=Yes|SpaceAfter=No
-11	、	、	PUNCT	,	_	9	punct	_	GHEAD=18|GHEADH=18|GID=11|Match=Yes|SpaceAfter=No
-12	全国	全国	NOUN	NN	_	15	compound	_	GHEAD=13|GHEADH=13|GID=12|Match=Yes|SpaceAfter=No
-13	平均	平均	NOUN	NN	_	15	compound	_	GHEAD=15|GHEADH=15|GID=13|Match=Yes|SpaceAfter=No
-14	グレード	グレード	NOUN	NN	_	15	compound	_	GHEAD=15|GHEADH=15|GID=14|Match=Yes|SpaceAfter=No
-15	8	8	NUM	CD	_	18	nummod	_	GDPRL=advmod|GHEAD=18|GHEADH=18|GID=15|Match=Yes|SpaceAfter=No
-16	より	より	ADP	CM	Case=Advb	15	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=15|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
-17	も	も	ADP	DP	_	15	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=15|GID=17|GUPOS=PART|Match=Yes|SpaceAfter=No
-18	優れ	優れる	VERB	VV	VerbForm=Ger	0	root	_	GDPRL=parataxis|GHEAD=9|GHEADH=9|GID=18|Match=Yes|SpaceAfter=No
-19	て	て	SCONJ	CP	_	18	mark	_	GDPRL=compound:prt|GHEAD=18|GHEADH=18|GID=19|GUPOS=PART|Match=Yes|SpaceAfter=No
-20	いる	いる	AUX	VXH	VerbForm=Fin	18	aux	_	GDPRL=auxvv|GHEAD=18|GHEADH=18|GID=20|GUPOS=VERB|Match=Yes|SpaceAfter=No
-21	。	。	PUNCT	.	_	18	punct	_	Match=Yes|GID=21|GHEAD=9|GHEADH=9
-
-~~~
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (522; 99% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nummod	color:blue
+1	最高	最高	PART	XPC	_	6	compound	_	SpaceAfter=No
+2	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+3	人	人	NOUN	XSC	_	6	compound	_	SpaceAfter=No
+4	あたり	あたり	NOUN	NN	_	6	compound	_	SpaceAfter=No
+5	5,000	5,000	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+6	ドル	ドル	NOUN	XSC	_	9	nsubj	_	SpaceAfter=No
+7	が	が	ADP	PS	_	6	case	_	SpaceAfter=No
+8	、	、	PUNCT	SYM	_	6	punct	_	SpaceAfter=No
+9	許可	許可	VERB	VV	_	0	root	_	SpaceAfter=No
+10	さ	する	AUX	XV	_	9	aux	_	SpaceAfter=No
+11	れ	れる	AUX	AV	_	9	aux	_	SpaceAfter=No
+12	て	て	SCONJ	PC	_	9	mark	_	SpaceAfter=No
+13	いる	いる	AUX	AV	_	9	aux	_	SpaceAfter=No
+14	。	。	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 nummod	color:blue
-1	最高	最高	PART	NN	_	5	amod	_	GDPRL=advmod|GHEAD=4|GHEADH=5|GID=1|GUPOS=NOUN|Match=Yes|SpaceAfter=No
-2	一	一	NUM	CD	_	5	nummod	_	GDPRL=advmod|GHEAD=4|GHEADH=5|GID=2|Match=Yes|SpaceAfter=No
-3	人	人	NOUN	_	_	5	compound	_	GDPRL=snum|GFORM=人あたり|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|GXPOS=SFN|SpaceAfter=No
-4	あたり	あたり	NOUN	_	_	5	compound	_	GDPRL=snum|GFORM=人あたり|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|GXPOS=SFN|SpaceAfter=No
-5	5,000	5,000	NUM	CD	_	9	nsubj	_	GDPRL=nsubj:pass|GHEAD=8|GHEADH=9|GID=4|Match=Yes|SpaceAfter=No
-6	ドル	ドル	NOUN	SFN	_	5	mark	_	GDPRL=snum|GHEAD=4|GHEADH=5|GID=5|GUPOS=PART|Match=Yes|SpaceAfter=No
-7	が	が	ADP	CM	Case=Nom	5	case	_	GDPRL=compound:prt|GHEAD=4|GHEADH=5|GID=6|GUPOS=PART|Match=Yes|SpaceAfter=No
-8	、	、	PUNCT	,	_	5	punct	_	GHEAD=4|GHEADH=5|GID=7|Match=Yes|SpaceAfter=No
-9	許可	許可	VERB	NN	_	0	root	_	GHEAD=0|GID=8|GUPOS=NOUN|Match=Yes|SpaceAfter=No
-10	さ	する	AUX	VV	Form=Irr	9	aux	_	GDPRL=compound:v|GHEAD=8|GHEADH=9|GID=9|GUPOS=VERB|Match=Yes|SpaceAfter=No
-11	れ	れる	AUX	VXP	VerbForm=Ger|Voice=Pass	9	aux	_	GDPRL=aux:pass|GHEAD=8|GHEADH=9|GID=10|GUPOS=VERB|Match=Yes|SpaceAfter=No
-12	て	て	SCONJ	CP	_	9	mark	_	GDPRL=compound:prt|GHEAD=8|GHEADH=9|GID=11|GUPOS=PART|Match=Yes|SpaceAfter=No
-13	いる	いる	AUX	VXH	VerbForm=Fin	9	aux	_	GDPRL=auxvv|GHEAD=8|GHEADH=9|GID=12|GUPOS=VERB|Match=Yes|SpaceAfter=No
-14	。	。	PUNCT	.	_	9	punct	_	Match=Yes|GID=13|GHEAD=8|GHEADH=9
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nummod	color:blue
+1	ゴールデンゲートパーク	ゴールデンゲートパーク	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	の	の	ADP	PN	_	1	case	_	SpaceAfter=No
+3	全長	全長	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+4	は	は	ADP	PK	_	3	case	_	SpaceAfter=No
+5	4	4	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
+6	km	km	PROPN	NNP	_	19	obj	_	SpaceAfter=No
+7	を	を	ADP	PS	_	6	case	_	SpaceAfter=No
+8	超	超	NOUN	XP	_	9	compound	_	SpaceAfter=No
+9	え	え	NOUN	NN	_	19	obl	_	SpaceAfter=No
+10	、	、	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
+11	植物園	植物園	NOUN	NN	_	19	obl	_	SpaceAfter=No
+12	、	、	PUNCT	SYM	_	11	punct	_	SpaceAfter=No
+13	プラネタリウム	プラネタリウム	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+14	、	、	PUNCT	SYM	_	13	punct	_	SpaceAfter=No
+15	日本庭園	日本庭園	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+16	、	、	PUNCT	SYM	_	15	punct	_	SpaceAfter=No
+17	水族館	水族館	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+18	が	が	ADP	PS	_	17	case	_	SpaceAfter=No
+19	ある	ある	VERB	VV	_	0	root	_	SpaceAfter=No
+20	。	。	PUNCT	SYM	_	19	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 18 nummod	color:blue
+1	一方	一方	CCONJ	CC	_	26	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
+3	スコットランド	スコットランド	PROPN	NNP	_	4	compound	_	SpaceAfter=No
+4	銀行	銀行	NOUN	NN	_	6	nmod	_	SpaceAfter=No
+5	の	の	ADP	PN	_	4	case	_	SpaceAfter=No
+6	顧客	顧客	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
+7	は	は	ADP	PK	_	6	case	_	SpaceAfter=No
+8	無料	無料	NOUN	NN	_	10	nmod	_	SpaceAfter=No
+9	の	の	ADP	PN	_	8	case	_	SpaceAfter=No
+10	ヴァンテージオプション	ヴァンテージオプション	PROPN	NNP	_	14	obj	_	SpaceAfter=No
+11	を	を	ADP	PS	_	10	case	_	SpaceAfter=No
+12	口座	口座	NOUN	NN	_	14	iobj	_	SpaceAfter=No
+13	に	に	ADP	PS	_	12	case	_	SpaceAfter=No
+14	追加	追加	VERB	VV	_	26	advcl	_	SpaceAfter=No
+15	する	する	AUX	XV	_	14	aux	_	SpaceAfter=No
+16	と	と	SCONJ	PC	_	14	mark	_	SpaceAfter=No
+17	、	、	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
+18	£3,000	£3,000	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
+19	-£5,000	-£5,000	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
+20	の	の	ADP	PN	_	19	case	_	SpaceAfter=No
+21	残高	残高	NOUN	NN	_	24	nmod	_	SpaceAfter=No
+22	の	の	ADP	PN	_	21	case	_	SpaceAfter=No
+23	3	3	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
+24	％	％	NOUN	XSC	_	26	obj	_	SpaceAfter=No
+25	を	を	ADP	PS	_	24	case	_	SpaceAfter=No
+26	獲得	獲得	VERB	VV	_	0	root	_	SpaceAfter=No
+27	する	する	AUX	XV	_	26	aux	_	SpaceAfter=No
+28	。	。	PUNCT	SYM	_	26	punct	_	SpaceAfter=No
 
 ~~~
 

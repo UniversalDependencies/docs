@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2977 nodes (3%) are attached to their parents as `det`.
+4136 nodes (3%) are attached to their parents as `det`.
 
-2934 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38461538461538.
+4084 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38442940038685.
 
-The following 14 pairs of parts of speech are connected with `det`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2480; 83% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (301; 10% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (83; 3% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `det`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3475; 84% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (415; 10% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (59; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 7	logu	logs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	5	obl	5:obl:pa	LvtbNodeId=a-d119-p268s3w7
 8	uz	uz	ADP	spsa	_	11	case	11:case	LvtbNodeId=a-d119-p268s3w8
 9	viņu	viņš	PRON	pp3mpgn	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	det	11:det	LvtbNodeId=a-d119-p268s3w9
-10	lielo	liela	ADJ	affsayp	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d119-p268s3w10
+10	lielo	liels	ADJ	affsayp	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	LvtbNodeId=a-d119-p268s3w10
 11	pļavu	pļava	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl:uz	LvtbNodeId=a-d119-p268s3w11|SpaceAfter=No
 12	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d119-p268s3w12
 

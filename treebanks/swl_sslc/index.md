@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Swedish Sign Language SSLC
 
-Language: [Swedish Sign Language](../swl/overview/swl-hub.html) (code: `swl`)<br/>
+Language: [Swedish Sign Language](/swl/index.html) (code: `swl`)<br/>
 Family: Sign Language
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Moa Gärdenfors, Carl Börstell, Robert Östling, Lars Wallin, Mats Wirén.
 
 Repository: [UD_Swedish_Sign_Language-SSLC](https://github.com/UniversalDependencies/UD_Swedish_Sign_Language-SSLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 

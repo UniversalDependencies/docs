@@ -11,7 +11,7 @@ udver: '2'
 
 # UD English PUD
 
-Language: [English](../en/overview/en-hub.html) (code: `en`)<br/>
+Language: [English](/en/index.html) (code: `en`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 3.0
 
@@ -208,378 +209,343 @@ features and lemmata were added by Sebastian Schuster.
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>PRON: her, she, herself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>PRON: her, she, herself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>PRON: he, his, him, himself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: he, his, him, himself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>PRON: it, its, itself</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: it, its, itself</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: these, those</li>
+      <li>NOUN: people, years, police, investors, months, companies, countries, euros, films, children</li>
+      <li>NUM: 2000s</li>
+      <li>PRON: their, they, we, them, our, us, those, themselves, these</li>
+      <li>PROPN: States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: these, those</li>
-        <li>NOUN: people, years, police, investors, months, companies, countries, euros, films, children</li>
-        <li>NUM: 2000s</li>
-        <li>PRON: their, they, we, them, our, us, those, themselves, these</li>
-        <li>PROPN: States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: Canadian, Historian, Spanish, male</li>
+      <li>ADV: course</li>
+      <li>AUX-Fin: was, is, has, 's, ’s, does, am, means</li>
+      <li>DET: this, that</li>
+      <li>NOUN: time, year, government, city, state, war, century, world, day, place</li>
+      <li>PRON: it, he, his, I, her, its, she, this, him, that</li>
+      <li>PROPN: China, Sea, October, Trump, North, America, April, Europe, France, War</li>
+      <li>SYM: %</li>
+      <li>VERB: has, is, was, says, 's, makes, helps, seems, working, appears</li>
+      <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: Canadian, Historian, Spanish, male</li>
-        <li>ADV: course</li>
-        <li>AUX-Fin: was, is, has, 's, ’s, does, am, means</li>
-        <li>DET: this, that</li>
-        <li>NOUN: time, year, government, city, state, war, century, world, day, place</li>
-        <li>PRON: it, he, his, I, her, its, she, this, him, that</li>
-        <li>PROPN: China, Sea, October, Trump, North, America, April, Europe, France, War</li>
-        <li>SYM: %</li>
-        <li>VERB: has, is, was, says, 's, makes, helps, seems, working, appears</li>
-        <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: it, him, them, her, us, me, himself, themselves, itself, You</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: it, him, them, her, us, me, himself, themselves, itself, You</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: it, he, they, I, she, we, you</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: it, he, they, I, she, we, you</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: the</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: the</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: a, an</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: a, an</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: more, greater, higher, better, earlier, fewer, lower, Elder, Stranger, bigger</li>
-        <li>ADV: longer, earlier, less, better, closer, further</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: more, greater, higher, better, earlier, fewer, lower, Elder, Stranger, bigger</li>
+      <li>ADV: longer, earlier, less, better, closer, further</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: new, many, other, such, last, great, high, first, own, several</li>
-        <li>ADV: well, far, late, soon, close, early, hard, long, Fast</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: new, many, other, such, last, great, high, first, own, several</li>
+      <li>ADV: well, far, late, soon, close, early, hard, long, Fast</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: best, most, biggest, latest, worst, tallest, largest, least, deepest, earliest</li>
-        <li>ADV: least, best</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: best, most, biggest, latest, worst, tallest, largest, least, deepest, earliest</li>
+      <li>ADV: least, best</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: not, no, n’t, never, n't</li>
-        <li>DET: no</li>
-        <li>PART: not, n't, n’t</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: not, no, n’t, never, n't</li>
+      <li>DET: no</li>
+      <li>PART: not, n't, n’t</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: was, is, are, were, has, had, have, 's, did, do</li>
+      <li>NOUN-Fin: hit</li>
+      <li>VERB-Fin: said, took, are, has, is, began, was, became, says, have</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: was, is, are, were, has, had, have, 's, did, do</li>
-        <li>NOUN-Fin: hit</li>
-        <li>VERB-Fin: said, took, are, has, is, began, was, became, says, have</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: was, were, had, did, got</li>
+      <li>AUX-Part: been, become, declared, frozen, named</li>
+      <li>NOUN-Fin: hit</li>
+      <li>VERB-Fin: said, took, began, was, became, had, told, worked, were, allowed</li>
+      <li>VERB-Part: used, known, given, made, built, left, released, seen, allowed, considered</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: was, were, had, did, got</li>
-        <li>AUX-Part: been, become, declared, frozen, named</li>
-        <li>NOUN-Fin: hit</li>
-        <li>VERB-Fin: said, took, began, was, became, had, told, worked, were, allowed</li>
-        <li>VERB-Part: used, known, given, made, built, left, released, seen, allowed, considered</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: is, are, has, have, 's, do, ’s, does, am, ’m</li>
-        <li>VERB-Fin: are, has, is, says, have, 's, include, makes, helps, say</li>
-        <li>VERB-Part: investigating, seeking, thinking, attending, boarding, bracing, calling, carrying, celebrating, coming</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: is, are, has, have, 's, do, ’s, does, am, ’m</li>
+      <li>VERB-Fin: are, has, is, says, have, 's, include, makes, helps, say</li>
+      <li>VERB-Part: investigating, seeking, thinking, attending, boarding, bracing, calling, carrying, celebrating, coming</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: the, a, an</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: the, a, an</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: then, there, here</li>
-        <li>DET: this, that, these, those</li>
-        <li>PRON: this, that, those, these</li>
-        <li>SCONJ: that</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: then, there, here</li>
+      <li>DET: this, that, these, those</li>
+      <li>PRON: this, that, those, these</li>
+      <li>SCONJ: that</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: when, how, why, where, whenever</li>
-        <li>DET: whatever, which</li>
-        <li>PRON: what, which, who, whose, where, whoever, whom</li>
-        <li>SCONJ: when</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: when, how, why, where, whenever</li>
+      <li>DET: whatever, which</li>
+      <li>PRON: what, which, who, whose, where, whoever, whom</li>
+      <li>SCONJ: when</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: it, he, his, their, they, I, her, its, she, we</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: it, he, his, their, they, I, her, its, she, we</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: where, when, why</li>
-        <li>DET: that, which</li>
-        <li>PRON: which, that, who</li>
-        <li>SCONJ: that</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: where, when, why</li>
+      <li>DET: that, which</li>
+      <li>PRON: which, that, who</li>
+      <li>SCONJ: that</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: one, two, three, million, 10, four, 1, six, 3, 2014</li>
+      <li>PROPN: I, I., V, VI, X</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: one, two, three, million, 10, four, 1, six, 3, 2014</li>
-        <li>PROPN: I, I., V, VI, X</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Mult
+    <ul>
+      <li>ADV: once, twice</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Mult
-      <ul>
-        <li>ADV: once, twice</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: his, their, its, her, our, my, whose, your</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: his, their, its, her, our, my, whose, your</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: himself, themselves, itself</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: am</li>
+      <li>PRON: I, we, our, my, us, me</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: himself, themselves, itself</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: you, your</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: am</li>
-        <li>PRON: I, we, our, my, us, me</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: you, your</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: was, is, has, 's, ’s, does, means</li>
-        <li>PRON: it, he, his, their, they, her, its, she, him, them</li>
-        <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: was, is, has, 's, ’s, does, means</li>
+      <li>PRON: it, he, his, their, they, her, its, she, him, them</li>
+      <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -587,15 +553,17 @@ features and lemmata were added by Sebastian Schuster.
 <h3>Other Features</h3>
 
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: de, Andes, Force, coup, tipo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: de, Andes, Force, coup, tipo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

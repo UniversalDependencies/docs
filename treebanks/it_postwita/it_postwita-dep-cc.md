@@ -22,7 +22,7 @@ The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 cc	color:blue
-1	@fmonopoli	@fmonopoli	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	non	non	ADV	BN	PronType=Neg	6	advmod	_	_
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -62,7 +62,7 @@ The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 cc	color:blue
-1	@LaSuasse	@LaSuasse	SYM	SYM	_	6	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	per	per	ADP	E	_	4	case	_	_
 4	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_

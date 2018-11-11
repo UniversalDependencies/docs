@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-Bosque: POS Tags: `PUNCT`
 
-There are 20 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 30027 `PUNCT` tokens (13%).
+There are 20 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 30026 `PUNCT` tokens (13%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., «, », ), (, --, :, ?, ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., «, », ), (, --, :, ?, ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 13472, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2), <em>«</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2378, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>»</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2368, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>--</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 658, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>?</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 222, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>!</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 110, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>...</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2), <em>_</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 35, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 7, <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 6, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 4, <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 2, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1), <em>/</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 33, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 11, <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 13472, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2), <em>«</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2378, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>»</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2368, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>--</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 657, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>?</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 222, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>!</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 110, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>...</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2), <em>_</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 35, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> 6, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 5, <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> 4, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> 2, <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> 1, <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> 1), <em>/</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 33, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 11, <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 13474, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2), <em>«</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2378, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>»</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2368, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>--</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 658, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>?</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 222, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>!</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 110, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 101, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>...</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2), <em>/</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 33, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 11, <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 13474, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 2), <em>«</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2378, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>»</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2368, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>--</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 657, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>?</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 222, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>!</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 110, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 101, <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> 1), <em>...</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 92, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1), <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2), <em>/</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 33, <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> 11, <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>,</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PU
   * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 2368: <em>Para mim roupa e moda são coisas diferentes <b>»</b> .</em>
   * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1: <em>Em São José de o Rio Preto , as duas bancas mais tradicionais de a cidade tiveram filas em a distribuição de o terceiro fascículo de o Atlas Folha / « The New York Times <b>»</b> .</em>
 * <em>--</em>
-  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 658: <em>Folha <b>--</b> o que a mulher precisa hoje , em termos de roupas ?</em>
+  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 657: <em>Folha <b>--</b> o que a mulher precisa hoje , em termos de roupas ?</em>
   * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1: <em>Com uma carteira de títulos obrigatória para o estudo de a obra nemesiana -- « Vitorino Nemésio . A Obra e o Homem » , ed. Arcádia , 1978 , « Temas Nemesianos » , ed. Angra , 1981 , e « Vitorino Nemésio <b>--</b> a a Luz de o Verbo » , ed. Vega , 1988 , além de ter prefaciado vários livros para a Imprensa Nacional-Casa de a Moeda , que está a publicar as Obras Completas -- , Martins Garcia encontrou s por a primeira vez com Vitorino Nemésio em um exame .</em>
 * <em>?</em>
   * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 222: <em>Folha -- o que a mulher precisa hoje , em termos de roupas <b>?</b></em>
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PU
   * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 92: <em>Eu precisava de uma ajuda de o senhor , deputado <b>...</b></em>
   * <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> 1: <em>Em Castelo de Vide , em o Centro Municipal de Cultura , está patente a exposição « Diversidades <b>...</b> com Mestre » , com obras de pintura de Martins Correia .</em>
 * <em>-</em>
-  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 57: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
+  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 59: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
   * <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2: <em>Já as maiores quedas , de os preços médios , ficaram com a cenoura ( <b>-</b> 13,82 ) , batata comum ( 5,14 % ) e pão francês ( <b>-</b> 1,25 % ) .</em>
 * <em>/</em>
   * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 33: <em>O crítico ( é <b>/</b> deve ser ) , um insolente de a razão ?</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="pt_bosque-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.418361).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.418721).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: <em>,, ., ;, [, ]</em>.
 
@@ -66,17 +66,17 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 `PUNCT` occurs with 1 feature-value pairs: `Number=Sing`
 
 `PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (30026 tokens).
+The most frequent feature combination is `_` (30025 tokens).
 Examples: <em>,, ., «, », ), (, --, :, ?, ;</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 3 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (30020; 100% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (5; 0% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (2; 0% instances)
+`PUNCT` nodes are attached to their parents using 3 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (30019; 100% instances), <tt><a href="pt_bosque-dep-flat-name.html">flat:name</a></tt> (5; 0% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (2; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14389; 48% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7746; 26% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3699; 12% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1778; 6% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (862; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (508; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (407; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (143; 0% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (130; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (109; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (94; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (60; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (14390; 48% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (7740; 26% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (3699; 12% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1779; 6% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (862; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (508; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (407; 1% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (143; 0% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (130; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (109; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (94; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (63; 0% instances), <tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (3; 0% instances)
 
-30025 (100%) `PUNCT` nodes are leaves.
+30024 (100%) `PUNCT` nodes are leaves.
 
 2 (0%) `PUNCT` nodes have one child.
 

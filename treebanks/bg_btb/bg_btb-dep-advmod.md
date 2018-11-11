@@ -22,13 +22,13 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	Съвсем	съвсем	ADV	Dq	Degree=Pos	2	advmod	_	_
-2	загуби	загубя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	власт	власт	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
-4	над	над	ADP	R	_	5	case	_	_
-5	себе	себе	PRON	Ppxla	Case=Acc|PronType=Prs|Reflex=Yes	3	nmod	_	_
-6	си	си	PART	T	_	5	fixed	_	SpaceAfter=No
-7	.	.	PUNCT	punct	_	2	punct	_	_
+1	Съвсем	съвсем	ADV	Dq	Degree=Pos	2	advmod	2:advmod	_
+2	загуби	загубя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	власт	власт	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	obj	2:obj	_
+4	над	над	ADP	R	_	5	case	5:case	_
+5	себе	себе	PRON	Ppxla	Case=Acc|PronType=Prs|Reflex=Yes	3	nmod	3:nmod:над	_
+6	си	си	PART	T	_	5	fixed	5:fixed	SpaceAfter=No
+7	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
 ~~~
 
@@ -39,19 +39,19 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 advmod	color:blue
-1	Но	но	CCONJ	Cc	_	7	cc	_	_
-2	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	4	punct	_	_
-4	малкият	малък	ADJ	Amsf	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	4	punct	_	_
-6	не	не	PART	Tn	Polarity=Neg	7	advmod	_	_
-7	мисли	мисля	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	punct	_	12	punct	_	_
-9	че	че	SCONJ	Cs	_	12	mark	_	_
-10	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	12	expl	_	_
-11	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
-12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	_	SpaceAfter=No
-13	.	.	PUNCT	punct	_	7	punct	_	_
+1	Но	но	CCONJ	Cc	_	7	cc	7:cc	_
+2	ти	аз	PRON	Ppe-os2	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	SpaceAfter=No
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	малкият	малък	ADJ	Amsf	Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	SpaceAfter=No
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	не	не	PART	Tn	Polarity=Neg	7	advmod	7:advmod	_
+7	мисли	мисля	VERB	Vpitz--2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	punct	_	12	punct	12:punct	_
+9	че	че	SCONJ	Cs	_	12	mark	12:mark	_
+10	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	12	expl	12:expl	_
+11	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
+12	свършило	свърша-(се)	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	ccomp	7:ccomp	SpaceAfter=No
+13	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
 ~~~
 
@@ -62,11 +62,11 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod	color:blue
-1	Огрените	огрея	ADJ	Vpptcv--p-d	Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Pass	2	amod	_	_
-2	скали	скала	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	_	_
-3	отсреща	отсреща	ADV	Dl	Degree=Pos	2	advmod	_	_
-4	немееха	немея	VERB	Vpiif-m3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	punct	_	4	punct	_	_
+1	Огрените	огрея	ADJ	Vpptcv--p-d	Aspect=Perf|Definite=Def|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Pass	2	amod	2:amod	_
+2	скали	скала	NOUN	Ncfpi	Definite=Ind|Gender=Fem|Number=Plur	4	nsubj	4:nsubj	_
+3	отсреща	отсреща	ADV	Dl	Degree=Pos	2	advmod	2:advmod	_
+4	немееха	немея	VERB	Vpiif-m3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
 ~~~
 

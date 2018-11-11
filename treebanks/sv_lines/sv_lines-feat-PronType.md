@@ -94,7 +94,7 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 `VERB` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>sitt</em>
-* `EMPTY` (10053): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10050): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
 
 ## Relations with Agreement in `PronType`
 

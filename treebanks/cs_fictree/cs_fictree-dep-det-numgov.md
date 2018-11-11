@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 9	sem	sem	ADV	Db-------------	_	8	advmod	8:advmod	_
 10	hodně	hodně	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	12	det:numgov	12:det:numgov	_
 11	vyhnaných	vyhnaný	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	12:amod	_
-12	Čechů	Čech	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	nsubj	8:nsubj	_
+12	Čechů	Čech	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur|Polarity=Pos	8	nsubj	8:nsubj	_
 13	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	14:case	_
 14	pohraničí	pohraničí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	12	nmod	12:nmod	_
 15	i	i	CCONJ	J^-------------	_	16	cc	16:cc	_

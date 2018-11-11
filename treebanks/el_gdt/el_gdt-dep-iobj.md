@@ -101,7 +101,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 21	τις	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Plur	22	det	_	_
 22	27_Δεκεμβρίου	27_Δεκεμβρίου	NOUN	NOUN	_	19	obl	_	_
 23	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
-24	αποφάσεις	απόφαση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	_
+24	αποφάσεις	απόφαση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	19	nsubj:pass	_	_
 25	σχετικά	σχετικά	ADV	ADV	_	24	advmod	_	_
 26	με	με	ADP	ADP	_	30	case	_	_
 27	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	30	det	_	_

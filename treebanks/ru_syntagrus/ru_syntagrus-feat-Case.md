@@ -9,28 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
-499295 tokens (45%) have a non-empty value of `Case`.
-92211 types (80%) occur at least once with a non-empty value of `Case`.
-34187 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (271732; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (97855; 9% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (48403; 4% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (37437; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (24734; 2% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (12879; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (6250; 1% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+497582 tokens (45%) have a non-empty value of `Case`.
+91441 types (79%) occur at least once with a non-empty value of `Case`.
+34685 lemmas (78%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (271022; 24% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (96870; 9% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (48402; 4% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (37426; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (24734; 2% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (12873; 1% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (6250; 1% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-271732 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+271022 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (236114; 87%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (190182; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (235494; 87%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (189516; 70%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (48612; 18% of non-empty `Case`): <em>время, раз, год, годы, деньги, день, работу, течение, место, счет</em>
-* `Dat` (14936; 5% of non-empty `Case`): <em>словам, мнению, данным, мере, сожалению, примеру, поводу, людям, времени, сути</em>
-* `Gen` (91919; 34% of non-empty `Case`): <em>года, лет, людей, страны, жизни, развития, человека, экономики, времени, власти</em>
-* `Ins` (21620; 8% of non-empty `Case`): <em>образом, помощью, людьми, временем, целью, человеком, вечером, ночью, словами, президентом</em>
-* `Loc` (29439; 11% of non-empty `Case`): <em>году, случае, результате, стране, числе, мире, деле, качестве, конце, условиях</em>
-* `Nom` (65095; 24% of non-empty `Case`): <em>люди, человек, дело, вопрос, ученые, система, часть, президент, речь, друг</em>
+* `Acc` (48571; 18% of non-empty `Case`): <em>время, раз, год, годы, деньги, день, работу, течение, место, счет</em>
+* `Dat` (14902; 5% of non-empty `Case`): <em>словам, мнению, данным, мере, сожалению, примеру, поводу, людям, времени, сути</em>
+* `Gen` (91713; 34% of non-empty `Case`): <em>года, лет, людей, страны, жизни, развития, человека, экономики, времени, власти</em>
+* `Ins` (21587; 8% of non-empty `Case`): <em>образом, помощью, людьми, временем, целью, человеком, вечером, ночью, словами, президентом</em>
+* `Loc` (29398; 11% of non-empty `Case`): <em>году, случае, результате, стране, числе, мире, деле, качестве, конце, условиях</em>
+* `Nom` (64740; 24% of non-empty `Case`): <em>люди, человек, дело, вопрос, ученые, система, часть, президент, речь, друг</em>
 * `Par` (104; 0% of non-empty `Case`): <em>разу, виду, народу, толку, чаю, ходу, голоду, сахару, дому, глазу</em>
 * `Voc` (7; 0% of non-empty `Case`): <em>боже, Серег, господи, дедуль</em>
-* `EMPTY` (104): <em>интернет, ButtKicker, robots.txt, RoboCup, А, вся, нейтроно, паро, MSc, h1</em>
+* `EMPTY` (100): <em>интернет, ButtKicker, robots.txt, RoboCup, А, вся, нейтроно, паро, MSc, h1</em>
 
 <table>
   <tr><th>Paradigm <i>вид</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th></tr>
@@ -40,19 +40,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-97855 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Case`.
+96870 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (97236; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (65130; 67%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (96251; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64189; 66%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (17065; 17% of non-empty `Case`): <em>последние, первую, новые, первый, настоящее, последнее, новую, другие, новый, большую</em>
-* `Dat` (4213; 4% of non-empty `Case`): <em>другим, крайней, самому, новому, российским, новым, большому, самим, российскому, разным</em>
-* `Gen` (30633; 31% of non-empty `Case`): <em>других, нового, новых, российской, самых, российских, другой, российского, самого, первого</em>
-* `Ins` (10495; 11% of non-empty `Case`): <em>самым, первым, другими, главным, большим, другим, главной, новым, большой, самой</em>
-* `Loc` (9767; 10% of non-empty `Case`): <em>самом, общем, других, основном, прошлом, первом, разных, данном, другом, втором</em>
-* `Nom` (25682; 26% of non-empty `Case`): <em>сам, другие, сами, первый, самое, самый, другой, новые, сама, самые</em>
-* `EMPTY` (10947): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, лучше</em>
+* `Acc` (16967; 18% of non-empty `Case`): <em>последние, первую, новые, первый, настоящее, последнее, новую, другие, новый, большую</em>
+* `Dat` (4171; 4% of non-empty `Case`): <em>другим, крайней, самому, новому, российским, новым, большому, самим, российскому, разным</em>
+* `Gen` (30229; 31% of non-empty `Case`): <em>других, нового, новых, российской, самых, российских, другой, российского, самого, первого</em>
+* `Ins` (10447; 11% of non-empty `Case`): <em>самым, первым, другими, главным, большим, другим, главной, новым, самой, большой</em>
+* `Loc` (9544; 10% of non-empty `Case`): <em>самом, общем, других, основном, прошлом, первом, разных, данном, другом, втором</em>
+* `Nom` (25512; 26% of non-empty `Case`): <em>сам, другие, сами, первый, самое, самый, другой, новые, сама, самые</em>
+* `EMPTY` (10930): <em>нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, лучше</em>
 
 <table>
   <tr><th>Paradigm <i>другой</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -68,9 +68,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-48403 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+48402 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (36768; 76%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (26658; 55%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26069; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (36768; 76%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (26658; 55%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26068; 54%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (7864; 16% of non-empty `Case`): <em>того, ничего, которых, нас, них, чего, его, которого, этого, их</em>
 * `Ins` (2648; 5% of non-empty `Case`): <em>тем, собой, чем, ним, которыми, ними, которым, им, этим, кем</em>
 * `Loc` (3204; 7% of non-empty `Case`): <em>том, этом, котором, чем, которой, которых, себе, нем, них, ней</em>
-* `Nom` (23081; 48% of non-empty `Case`): <em>он, это, что, я, которые, мы, они, кто, она, который</em>
+* `Nom` (23080; 48% of non-empty `Case`): <em>он, это, что, я, которые, мы, они, кто, она, который</em>
 * `EMPTY` (656): <em>это, Я, все, что, тем, этим, этого, этом, этому</em>
 
 <table>
@@ -89,9 +89,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-37437 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Case`.
+37426 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36244; 97%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24572; 66%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (19101; 51%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36233; 97%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24566; 66%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (19095; 51%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -100,13 +100,13 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (12521; 33% of non-empty `Case`): <em>России, США, СССР, Москвы, РФ, Путина, Земли, Европы, Института, РАН</em>
 * `Ins` (1844; 5% of non-empty `Case`): <em>Россией, Путиным, США, В., Москвой, Владимиром, А., Европой, Кремлем, Александром</em>
 * `Loc` (4187; 11% of non-empty `Case`): <em>России, Москве, США, Европе, Германии, Западе, СССР, Китае, Кавказе, Востоке</em>
-* `Nom` (14614; 39% of non-empty `Case`): <em>Россия, Путин, Владимир, Сергей, Александр, Галилей, В., А., Медведев, Илья</em>
+* `Nom` (14603; 39% of non-empty `Case`): <em>Россия, Путин, Владимир, Сергей, Александр, Галилей, В., А., Медведев, Илья</em>
 * `Voc` (9; 0% of non-empty `Case`): <em>Господи, Володь</em>
-* `EMPTY` (2393): <em>MBA, FIA, ButtKicker, бен, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs</em>
+* `EMPTY` (4167): <em>Южной, Западной, MBA, Северной, Северном, Северного, FIA, Фобос-Грунт, ButtKicker, бен</em>
 
 <table>
-  <tr><th>Paradigm <i>россия</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Россия, РОССИЯ</em></td><td><em>Россию</em></td><td><em>России</em></td><td><em>России, РОССИИ</em></td><td><em>России, РОССИИ</em></td><td><em>Россией</em></td></tr>
+  <tr><th>Paradigm <i>Россия</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Россия</em></td><td><em>Россию</em></td><td><em>России</em></td><td><em>России</em></td><td><em>России</em></td><td><em>Россией</em></td></tr>
 </table>
 
 ### `DET`
@@ -135,18 +135,18 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-12879 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
+12873 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12879; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12879; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12879; 100%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7610; 59%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7336; 57%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6814; 53%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12873; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12873; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12873; 100%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7604; 59%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7336; 57%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6808; 53%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (2153; 17% of non-empty `Case`): <em>называемые, полученные, называемый, называемую, окружающую, происходящее, сложившуюся, существующий, возникающие, идущие</em>
+* `Acc` (2150; 17% of non-empty `Case`): <em>называемые, полученные, называемый, называемую, окружающую, происходящее, сложившуюся, существующий, возникающие, идущие</em>
 * `Dat` (586; 5% of non-empty `Case`): <em>желающим, действующей, заданной, находящимся, проведенному, выбранному, горящей, живущим, заданному, имеющей</em>
 * `Gen` (3879; 30% of non-empty `Case`): <em>окружающей, связанных, погибших, называемых, опрошенных, работающих, вооруженных, имеющих, называемой, действующих</em>
 * `Ins` (1204; 9% of non-empty `Case`): <em>полученными, связанными, доминирующей, закрытой, закрытыми, называемым, окружающей, вооруженными, действующей, дрожащими</em>
 * `Loc` (848; 7% of non-empty `Case`): <em>оккупированных, развитых, связанных, посвященном, случившемся, определенном, опубликованном, подготовленном, посвященных, сложившихся</em>
-* `Nom` (4209; 33% of non-empty `Case`): <em>связанные, называемый, полученные, называемая, называемые, работающие, имеющие, имеющий, действующие, находящийся</em>
+* `Nom` (4206; 33% of non-empty `Case`): <em>связанные, называемый, полученные, называемая, называемые, работающие, имеющие, имеющий, действующие, находящийся</em>
 * `EMPTY` (110839): <em>может, есть, нет, могут, было, является, стал, быть, сказал, говорит</em>
 
 <table>
@@ -214,14 +214,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80965; 100%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20722; 87%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18365; 96%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7181; 90%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5326; 100%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3629; 98%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3467; 83%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80316; 100%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20712; 87%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18293; 96%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7171; 90%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5326; 99%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3568; 98%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3454; 78%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> VERB</tt> (3419; 100%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2078; 99%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1841; 99%).
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2078; 98%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1745; 70%).
 

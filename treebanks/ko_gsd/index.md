@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Korean GSD
 
-Language: [Korean](../ko/overview/ko-hub.html) (code: `ko`)<br/>
+Language: [Korean](/ko/index.html) (code: `ko`)<br/>
 Family: Korean
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Jinho Choi, Na-Rae Han, Jena Hwang, Jayeol Chun.
 
 Repository: [UD_Korean-GSD](https://github.com/UniversalDependencies/UD_Korean-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_gsd22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-NC-SA 3.0 US
 
@@ -143,16 +144,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
-
-
-
 
 
 
@@ -166,37 +158,23 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 
 
-
-
-
-
-
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>DET: 한</li>
-        <li>NUM: 한, 두, 첫, 세, 하나, 1, 다섯, 하나는, 하나의, 네</li>
-        <li>PUNCT: ', ), ", 15</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-
-
-
+<ul>
+  <li>Card
+    <ul>
+      <li>DET: 한</li>
+      <li>NUM: 한, 두, 첫, 세, 하나, 1, 다섯, 하나는, 하나의, 네</li>
+      <li>PUNCT: ', ), ", 15</li>
+    </ul>
+  </li>
+</ul>
 
 
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cs_pdt-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>.
 
-628 nodes (0%) are attached to their parents as `obl:agent`.
+631 nodes (0%) are attached to their parents as `obl:agent`.
 
-453 instances of `obl:agent` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.20541401273885.
+455 instances of `obl:agent` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18541996830428.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (522; 83% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (33; 5% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (31; 5% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (17; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (534; 85% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (31; 5% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (17; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (11; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3 4 obl:agent	color:blue
 1	Než	než	SCONJ	J,-------------	_	3	mark	3:mark	LId=než-2
 2	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	3:aux:pass	_
-3	zaváto	zavátý	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	6	obl	6:obl	_
+3	zaváto	zavátý	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	6	obl	6:obl	LDeriv=zavát
 4	sněhem	sníh	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	3:obl:agent	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
 6	vysušil	vysušit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
@@ -33,26 +33,6 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	silný	silný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	9:amod	_
 9	vítr	vítr	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 obl:agent	color:blue
-1	Warrenova	Warrenův	ADJ	AUFS1M---------	Case=Nom|Gender=Fem|Gender[psor]=Masc|NameType=Sur|Number=Sing|Poss=Yes	2	amod	2:amod	LDeriv=Warren
-2	šachta	šachta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj:pass	4:nsubj:pass	_
-3	byla	být	AUX	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	aux:pass	4:aux:pass	_
-4	objevena	objevený	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
-5	Charlesem	Charles	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	4	obl:agent	4:obl:agent	_
-6	Warrenem	Warren	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Geo,Sur|Number=Sing|Polarity=Pos	5	flat	5:flat	_
-7	r	rok	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	4	obl	4:obl	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	_
-9	1867	1867	NUM	C=-------------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 
@@ -76,6 +56,26 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 11	a	a	CCONJ	J^-------------	_	12	cc	12:cc	LId=a-1
 12	podobně	podobně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	conj	6:obl:agent|8:conj	SpaceAfter=No|LDeriv=podobný
 13	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obl:agent	color:blue
+1	Warrenova	Warrenův	ADJ	AUFS1M---------	Case=Nom|Gender=Fem|Gender[psor]=Masc|NameType=Sur|Number=Sing|Poss=Yes	2	amod	2:amod	LDeriv=Warren
+2	šachta	šachta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj:pass	4:nsubj:pass	_
+3	byla	být	AUX	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	aux:pass	4:aux:pass	_
+4	objevena	objevený	ADJ	VsQW---XX-AP---	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	LDeriv=objevit
+5	Charlesem	Charles	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	4	obl:agent	4:obl:agent	_
+6	Warrenem	Warren	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Geo,Sur|Number=Sing|Polarity=Pos	5	flat	5:flat	_
+7	r	rok	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	4	obl	4:obl	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	_
+9	1867	1867	NUM	C=-------------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 

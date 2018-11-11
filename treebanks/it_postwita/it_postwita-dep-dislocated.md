@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 dislocated	color:blue
-1	@cioonas	@cioonas	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	ok	ok	INTJ	I	_	8	discourse	_	_
 3	grazie	grazie	INTJ	I	_	8	discourse	_	_
 4	mille	mille	NUM	N	NumType=Card	3	nummod	_	_

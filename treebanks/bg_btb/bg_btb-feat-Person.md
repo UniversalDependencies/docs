@@ -134,5 +134,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="bg_btb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (96; 59%),
 <tt>VERB --[<tt><a href="bg_btb-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (33; 54%),
 <tt>VERB --[<tt><a href="bg_btb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (29; 100%),
-<tt>PRON --[<tt><a href="bg_btb-dep-acl.html">acl</a></tt>]--> VERB</tt> (5; 83%).
+<tt>PRON --[<tt><a href="bg_btb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 83%).
 

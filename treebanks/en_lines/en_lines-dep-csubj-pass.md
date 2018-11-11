@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	private	private	ADJ	POS	Degree=Pos	7	amod	_	_
 7	copying	copy	VERB	ING	Case=Nom	10	csubj:pass	_	_
 8	should	should	AUX	PAST-AUX	VerbForm=Fin	10	aux	_	_
-9	be	be	AUX	INF	VerbForm=Inf	10	aux	_	_
+9	be	be	AUX	INF	VerbForm=Inf	10	aux:pass	_	_
 10	regulated	regulate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	_
 11	in	in	ADP	_	_	14	case	_	_
 12	the	the	DET	DEF	Definite=Def|PronType=Art	14	det	_	_

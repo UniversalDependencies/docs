@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (0%) are attached to their parents as `iobj`.
+66 nodes (0%) are attached to their parents as `iobj`.
 
-34 instances of `iobj` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.7910447761194.
+34 instances of `iobj` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.81818181818182.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (25; 37% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (22; 33% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (18; 27% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (24; 36% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (22; 33% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (18; 27% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 6 iobj	color:blue
 1	Jaak	Jaak	PROPN	SPEC|deeleigen	_	4	nsubj	4:nsubj	_
-2	Van	Van	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-3	Assche	Assche	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
+2	Van	Van	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+3	Assche	Assche	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
 4	geeft	geven	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	dit	dit	DET	VNW|aanw|det|stan|prenom|zonder|evon	_	6	det	6:det	_
 6	personage	personage	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	iobj	4:iobj	_
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 6 iobj	color:blue
 1	Ook	ook	ADV	BW	_	3	amod	3:amod	_
 2	op	op	ADP	VZ|init	_	3	case	3:case	_
-3	privévlak	privévlak	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl	_
+3	privévlak	privévlak	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:op	_
 4	gaat	gaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 6	Kim	Kim	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	iobj	4:iobj	_

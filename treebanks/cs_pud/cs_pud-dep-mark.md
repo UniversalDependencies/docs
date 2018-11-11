@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	než	než	SCONJ	J,-------------	_	5	mark	_	LId=než-2
 4	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	_	_
-5	zformovány	zformovaný	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	advcl	_	_
+5	zformovány	zformovaný	ADJ	VsTP---XX-AP---	Animacy=Inan|Aspect=Perf|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	advcl	_	LDeriv=zformovat
 6	Andy	Andy	PROPN	NNFP1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Plur|Polarity=Pos	5	nsubj:pass	_	SpaceAfter=No|LId=Andy-2|LGloss=(pohoří_v_již._Am.)
 7	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 8	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	cop	_	_

@@ -9,24 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-603 tokens (0%) have a non-empty value of `Abbr`.
-101 types (1%) occur at least once with a non-empty value of `Abbr`.
-7 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-X.html">X</a></tt> (603; 0% instances).
+788 tokens (0%) have a non-empty value of `Abbr`.
+112 types (1%) occur at least once with a non-empty value of `Abbr`.
+12 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-X.html">X</a></tt> (788; 0% instances).
 
 ### `X`
 
-603 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (100% of all `X` tokens) have a non-empty value of `Abbr`.
+788 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (99% of all `X` tokens) have a non-empty value of `Abbr`.
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (603; 100% of non-empty `Abbr`): <em>metaph., cap., physic., gen., sap., metaphys., trin., dist., div., nom.</em>
-* `EMPTY` (3): <em>decuplum, decupla</em>
+* `Yes` (788; 100% of non-empty `Abbr`): <em>metaph., matth., rom., gen., cap., sap., physic., cor., ioan., metaphys.</em>
+* `EMPTY` (4): <em>decuplum, bona, decupla</em>
+
+`Abbr` seems to be **lexical feature** of `X`. 100% lemmas (12) occur only with one value of `Abbr`.
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>X --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> X</tt> (72; 100%),
-<tt>X --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> X</tt> (26; 100%),
+<tt>X --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> X</tt> (78; 100%),
+<tt>X --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> X</tt> (28; 100%),
 <tt>X --[<tt><a href="la_ittb-dep-advmod.html">advmod</a></tt>]--> X</tt> (2; 100%).
 

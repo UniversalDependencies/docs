@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-131851 tokens (12%) have a non-empty value of `Aspect`.
-33904 types (29%) occur at least once with a non-empty value of `Aspect`.
-7830 lemmas (18%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123706; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
+131845 tokens (12%) have a non-empty value of `Aspect`.
+33902 types (29%) occur at least once with a non-empty value of `Aspect`.
+7832 lemmas (18%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123700; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
 
 ### `VERB`
 
-123706 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+123700 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110827; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86233; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84976; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83402; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110827; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86227; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84976; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83396; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Imp` (70265; 57% of non-empty `Aspect`): <em>может, есть, нет, могут, было, является, быть, говорит, стоит, делать</em>
-* `Perf` (53441; 43% of non-empty `Aspect`): <em>стал, сказал, стало, стали, сделать, сказать, заявил, получить, удалось, стать</em>
+* `Perf` (53435; 43% of non-empty `Aspect`): <em>стал, сказал, стало, стали, сделать, сказать, заявил, получить, удалось, стать</em>
 * `EMPTY` (12): <em>не, и.</em>
 
 <table>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могли</em></td><td><em>смогли</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 94% lemmas (7378) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 94% lemmas (7380) occur only with one value of `Aspect`.
 
 ### `AUX`
 

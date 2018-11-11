@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
-5597 tokens (3%) have a non-empty value of `Case`.
-55 types (0%) occur at least once with a non-empty value of `Case`.
-34 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5597; 3% instances).
+5596 tokens (3%) have a non-empty value of `Case`.
+54 types (0%) occur at least once with a non-empty value of `Case`.
+33 lemmas (0%) occur at least once with a non-empty value of `Case`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5596; 3% instances).
 
 ### `PRON`
 
-5597 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
+5596 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5525; 99%), <tt><a href="nl_alpino-feat-Person.html">Person</a></tt><tt>=3</tt> (2817; 50%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (1405; 25% of non-empty `Case`): <em>zich, hem, me, ons, mij, elkaar, haar, hen, je, zichzelf</em>
 * `Dat` (4; 0% of non-empty `Case`): <em>dien, dezen</em>
-* `Gen` (3; 0% of non-empty `Case`): <em>beider, uwer, zijner</em>
+* `Gen` (2; 0% of non-empty `Case`): <em>uwer, zijner</em>
 * `Nom` (4185; 75% of non-empty `Case`): <em>hij, ik, we, men, je, zij, wij, u, jij, ie</em>
 * `EMPTY` (8044): <em>die, het, dat, zijn, wat, ze, wie, meer, hun, haar</em>
 

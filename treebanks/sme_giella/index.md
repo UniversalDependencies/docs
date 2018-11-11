@@ -11,7 +11,7 @@ udver: '2'
 
 # UD North Sami Giella
 
-Language: [North Sami](../sme/overview/sme-hub.html) (code: `sme`)<br/>
+Language: [North Sami](/sme/index.html) (code: `sme`)<br/>
 Family: Uralic, Sami
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Trond Trosterud, Lene Antonsen, Francis Tyers.
 
 Repository: [UD_North_Sami-Giella](https://github.com/UniversalDependencies/UD_North_Sami-Giella)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -193,521 +194,490 @@ year = 2017
 
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
+<ul>
+  <li>Dual
+    <ul>
+      <li>AUX-Fin: leaba, leahppi, leigga</li>
+      <li>PRON: soai, moai, doai, munno, dudno, sudno, sudnos, ieža, dudnos, munnos</li>
+      <li>VERB-Fin: leaba, leahppi, eaba, ean, boahtiba, fertebeahtti, letne, attiiga, leigga, lohkaba</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: buorit, čeahpit, duhtavaččat, stuorrát, buriid, viššalat, bivnnuhat, boarrásepmosat, buoremusaid, dehálaččat</li>
+      <li>AUX-Fin: leat, ledje, livčče, leimmet, lehpet, Leatgo, Ledjego, Lehket, leiddet</li>
+      <li>NOUN: olbmot, mánát, mánáid, oahppit, olbmuid, nieiddat, sápmelaččat, biktasiid, sámiid, sámit</li>
+      <li>NUM: Galliid, golmmain, guovttit, Galliin, Gallit, golmmaide, golmmaiguin, guvttiid, njealjit, ovttaid</li>
+      <li>PRON: mii, sii, min, sin, daid, geat, dii, dat, mat, mis</li>
+      <li>PROPN: Sámi_Jienat, Davviriikkaid</li>
+      <li>VERB-Fin: leat, ledje, eai, eat, galget, bohte, sáhttet, lehpet, ožžot, orro</li>
+      <li>VERB-Sup: amadet, amaset</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dual
-      <ul>
-        <li>AUX-Fin: leaba, leahppi, leigga</li>
-        <li>PRON: soai, moai, doai, munno, dudno, sudno, sudnos, ieža, dudnos, munnos</li>
-        <li>VERB-Fin: leaba, leahppi, eaba, ean, boahtiba, fertebeahtti, letne, attiiga, leigga, lohkaba</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: buorre, váttis, nuppi, vejolaš, veara, boaris, dehálaš, suohtas, buori, divrras</li>
+      <li>AUX-Fin: lea, lei, leat, livččii, leago, lean, leage, leai, leažžá, ledjen</li>
+      <li>NOUN: sámi, jagi, sámegiela, eadni, beaivvi, gánda, oahpaheaddji, olmmoš, stállu, olbmo</li>
+      <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
+      <li>PRON: son, mun, dan, dat, dán, mu, don, mii, maid, su</li>
+      <li>PROPN: Gállá, Liná, Norgga, Kárášjogas, Máret, Finnmárkku, Guovdageainnus, Máhtte, Sámi, Kárášjoga</li>
+      <li>VERB-Fin: lea, ii, lei, galgá, sáhttá, in, bođii, lean, boahtá, manai</li>
+      <li>VERB-Sup: amas, amat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: buorit, čeahpit, duhtavaččat, stuorrát, buriid, viššalat, bivnnuhat, boarrásepmosat, buoremusaid, dehálaččat</li>
-        <li>AUX-Fin: leat, ledje, livčče, leimmet, lehpet, Leatgo, Ledjego, Lehket, leiddet</li>
-        <li>NOUN: olbmot, mánát, mánáid, oahppit, olbmuid, nieiddat, sápmelaččat, biktasiid, sámiid, sámit</li>
-        <li>NUM: Galliid, golmmain, guovttit, Galliin, Gallit, golmmaide, golmmaiguin, guvttiid, njealjit, ovttaid</li>
-        <li>PRON: mii, sii, min, sin, daid, geat, dii, dat, mat, mis</li>
-        <li>PROPN: Sámi_Jienat, Davviriikkaid</li>
-        <li>VERB-Fin: leat, ledje, eai, eat, galget, bohte, sáhttet, lehpet, ožžot, orro</li>
-        <li>VERB-Sup: amadet, amaset</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: buorre, váttis, nuppi, vejolaš, veara, boaris, dehálaš, suohtas, buori, divrras</li>
-        <li>AUX-Fin: lea, lei, leat, livččii, leago, lean, leage, leai, leažžá, ledjen</li>
-        <li>NOUN: sámi, jagi, sámegiela, eadni, beaivvi, gánda, oahpaheaddji, olmmoš, stállu, olbmo</li>
-        <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
-        <li>PRON: son, mun, dan, dat, dán, mu, don, mii, maid, su</li>
-        <li>PROPN: Gállá, Liná, Norgga, Kárášjogas, Máret, Finnmárkku, Guovdageainnus, Máhtte, Sámi, Kárášjoga</li>
-        <li>VERB-Fin: lea, ii, lei, galgá, sáhttá, in, bođii, lean, boahtá, manai</li>
-        <li>VERB-Sup: amas, amat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Abe
+    <ul>
+      <li>VERB-Ger: beroškeahttá, eahpitkeahttá, logakeahttá, bážikeahttá, dieđikeahttá, mávssekeahtes</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: buori, buriid, ollu, Goalmmáda, baháid, buhtismeahttumiid, doloža, guoskevačča, sullasačča, suohttasiiddiska</li>
+      <li>NOUN: sámegiela, veahki, bierggu, biktasiid, mánáid, reivve, girjji, girjjiid, gáfe, barggu</li>
+      <li>NUM: guokte, moadde, golbma, máŋga, ovtta, vihtta, Galliid, guhtta, njeallje, 1300</li>
+      <li>PRON: dan, maid, su, iežas, daid, dán, iežaset, du, mu, maidege</li>
+      <li>PROPN: Sarvva, Liná, Divvuma, Máhte, Sámedikki, Antonsen, Beckham, Buolbmága, Busi, Efraima</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Com
+    <ul>
+      <li>ADJ: buriin</li>
+      <li>NOUN: biillain, mánáiguin, mánáin, vugiin, beatnagiiddisguin, beatnagiin, biillaiguin, bissuin, boazodoaluin, borramušain</li>
+      <li>NUM: ovttain, golmmain, guvttiin, viđain, galliin, golmmaiguin, čuđiin</li>
+      <li>PRON: dainna, daiguin, dáinna, iežainis, nuppiin, suinna, duinna, iežainan, iežaineaskka, maiguin</li>
+      <li>PROPN: Sámedikkiin, Birehiin, Hanseniin, Iŋggáin, Juffáin, Máhte-Iŋggáin, Márehiin, Nilut_Cupain, Rihtáin, Riibmagállásiin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Abe
-      <ul>
-        <li>VERB-Ger: beroškeahttá, eahpitkeahttá, logakeahttá, bážikeahttá, dieđikeahttá, mávssekeahtes</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ess
+    <ul>
+      <li>ADJ: duhtavažžan, nubbin, seavdnjadin, nuorran, ruoksadin, bassin, bivnnuhin, boarisin, buhtisin, buhtismeahttumin</li>
+      <li>AUX-Ger: leamen</li>
+      <li>NOUN: oahpaheaddjin, lassin, veahkkin, ovdamearkan, vuođđun, buohccedivššárin, nuorran, Eurohpameašttirin, bassin, buohccin</li>
+      <li>NUM: guoktin, oktan</li>
+      <li>PRON: danin, dákkárin, iehčaneame</li>
+      <li>PROPN: Gállábárdnin, Jesusin, Mihkkalažžan, Márehažžan, Smierrun</li>
+      <li>VERB-Ger: boahtimin, fárremin, leamen, čierastallame, bargame, bargamin, bassaladdame, bassame, boahtime, oađđimin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: buori, buriid, ollu, Goalmmáda, baháid, buhtismeahttumiid, doloža, guoskevačča, sullasačča, suohttasiiddiska</li>
-        <li>NOUN: sámegiela, veahki, bierggu, biktasiid, mánáid, reivve, girjji, girjjiid, gáfe, barggu</li>
-        <li>NUM: guokte, moadde, golbma, máŋga, ovtta, vihtta, Galliid, guhtta, njeallje, 1300</li>
-        <li>PRON: dan, maid, su, iežas, daid, dán, iežaset, du, mu, maidege</li>
-        <li>PROPN: Sarvva, Liná, Divvuma, Máhte, Sámedikki, Antonsen, Beckham, Buolbmága, Busi, Efraima</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: nuppi, jagáš, buoremusaid, buori, 7-jahkásačča, buriid, doloža, parlamentáralaččaid, ráhkkásis</li>
+      <li>NOUN: sámi, jagi, beaivvi, áigge, olbmo, sámegiela, máná, áiggi, skuvlla, sámiid</li>
+      <li>NUM: golmma, viđa, máŋgga, ovtta, 12, guovtti, 1.8.2001, moatti, 05.01.00, 12.03.2010</li>
+      <li>PRON: mu, dan, dán, min, su, iežas, sin, du, daid, iežaset</li>
+      <li>PROPN: Norgga, Sámi, Finnmárkku, Kárášjoga, Romssa, Sámedikki, Ipmila, Guovdageainnu, Deanu, Ruoŧa</li>
+      <li>VERB-Ger: vácci, čuoigga, gudnejahttin, ráhkistan, Mearkkašan, Suga, bora, fuopmášan, namahan, njága</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: buriin</li>
-        <li>NOUN: biillain, mánáiguin, mánáin, vugiin, beatnagiiddisguin, beatnagiin, biillaiguin, bissuin, boazodoaluin, borramušain</li>
-        <li>NUM: ovttain, golmmain, guvttiin, viđain, galliin, golmmaiguin, čuđiin</li>
-        <li>PRON: dainna, daiguin, dáinna, iežainis, nuppiin, suinna, duinna, iežainan, iežaineaskka, maiguin</li>
-        <li>PROPN: Sámedikkiin, Birehiin, Hanseniin, Iŋggáin, Juffáin, Máhte-Iŋggáin, Márehiin, Nilut_Cupain, Rihtáin, Riibmagállásiin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ill
+    <ul>
+      <li>ADJ: sullásaččaide</li>
+      <li>NOUN: mánáide, skuvlii, gávpogii, meahccái, sámegillii, internáhttii, mollii, bargui, heajaide, siidii</li>
+      <li>NUM: golmma, beannot, guovtti, čuohtái, moatti, máŋgga, njealji, ovtta, golmmaide</li>
+      <li>PRON: munnje, dasa, sutnje, dutnje, sidjiide, alccesis, dán, midjiide, dan, earáide</li>
+      <li>PROPN: Kárášjohkii, Sápmái, Ellii, Finnmárkkuopmodahkii, Gáivutnii, Hámmárfestii, Trosterudii, Aarbortii, Abbai, Arnii</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ess
-      <ul>
-        <li>ADJ: duhtavažžan, nubbin, seavdnjadin, nuorran, ruoksadin, bassin, bivnnuhin, boarisin, buhtisin, buhtismeahttumin</li>
-        <li>AUX-Ger: leamen</li>
-        <li>NOUN: oahpaheaddjin, lassin, veahkkin, ovdamearkan, vuođđun, buohccedivššárin, nuorran, Eurohpameašttirin, bassin, buohccin</li>
-        <li>NUM: guoktin, oktan</li>
-        <li>PRON: danin, dákkárin, iehčaneame</li>
-        <li>PROPN: Gállábárdnin, Jesusin, Mihkkalažžan, Márehažžan, Smierrun</li>
-        <li>VERB-Ger: boahtimin, fárremin, leamen, čierastallame, bargame, bargamin, bassaladdame, bassame, boahtime, oađđimin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Loc
+    <ul>
+      <li>ADJ: nuppi, Nuorabuin, Nuoramusain, doložis, ráhkkásisttán</li>
+      <li>NOUN: skuvllas, internáhtas, guovllus, viesus, oasis, oktavuođas, olbmuin, barggus, goađis, gávpogis</li>
+      <li>NUM: ovtta, guovtti, 1982:s, 1995:s, golmmain, máŋgga, 1834:s, 1877:s, 1898:s, 1899:s</li>
+      <li>PRON: mus, dus, das, mis, sis, sus, dán, dan, mas, dain</li>
+      <li>PROPN: Kárášjogas, Guovdageainnus, Finnmárkkus, Deanus, Gáivuonas, Norggas, Romssas, Máhtes, Olmmáivákkis, Oslos</li>
+      <li>VERB-Ger: goargŋumis, juhkamis, bargamis, borgguheames, botkemis, deaivvadeamis, gođđimis, guldaleames, jáhkkimis, vuostáváldimis</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: nuppi, jagáš, buoremusaid, buori, 7-jahkásačča, buriid, doloža, parlamentáralaččaid, ráhkkásis</li>
-        <li>NOUN: sámi, jagi, beaivvi, áigge, olbmo, sámegiela, máná, áiggi, skuvlla, sámiid</li>
-        <li>NUM: golmma, viđa, máŋgga, ovtta, 12, guovtti, 1.8.2001, moatti, 05.01.00, 12.03.2010</li>
-        <li>PRON: mu, dan, dán, min, su, iežas, sin, du, daid, iežaset</li>
-        <li>PROPN: Norgga, Sámi, Finnmárkku, Kárášjoga, Romssa, Sámedikki, Ipmila, Guovdageainnu, Deanu, Ruoŧa</li>
-        <li>VERB-Ger: vácci, čuoigga, gudnejahttin, ráhkistan, Mearkkašan, Suga, bora, fuopmášan, namahan, njága</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ill
-      <ul>
-        <li>ADJ: sullásaččaide</li>
-        <li>NOUN: mánáide, skuvlii, gávpogii, meahccái, sámegillii, internáhttii, mollii, bargui, heajaide, siidii</li>
-        <li>NUM: golmma, beannot, guovtti, čuohtái, moatti, máŋgga, njealji, ovtta, golmmaide</li>
-        <li>PRON: munnje, dasa, sutnje, dutnje, sidjiide, alccesis, dán, midjiide, dan, earáide</li>
-        <li>PROPN: Kárášjohkii, Sápmái, Ellii, Finnmárkkuopmodahkii, Gáivutnii, Hámmárfestii, Trosterudii, Aarbortii, Abbai, Arnii</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Loc
-      <ul>
-        <li>ADJ: nuppi, Nuorabuin, Nuoramusain, doložis, ráhkkásisttán</li>
-        <li>NOUN: skuvllas, internáhtas, guovllus, viesus, oasis, oktavuođas, olbmuin, barggus, goađis, gávpogis</li>
-        <li>NUM: ovtta, guovtti, 1982:s, 1995:s, golmmain, máŋgga, 1834:s, 1877:s, 1898:s, 1899:s</li>
-        <li>PRON: mus, dus, das, mis, sis, sus, dán, dan, mas, dain</li>
-        <li>PROPN: Kárášjogas, Guovdageainnus, Finnmárkkus, Deanus, Gáivuonas, Norggas, Romssas, Máhtes, Olmmáivákkis, Oslos</li>
-        <li>VERB-Ger: goargŋumis, juhkamis, bargamis, borgguheames, botkemis, deaivvadeamis, gođđimis, guldaleames, jáhkkimis, vuostáváldimis</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: buorre, váttis, vejolaš, veara, buorit, boaris, dehálaš, suohtas, divrras, duohta</li>
-        <li>NOUN: olbmot, mánát, eadni, gánda, olmmoš, stállu, oahppit, mánná, nieida, oahpaheaddji</li>
-        <li>NUM: okta, guokte, golbma, máŋga, njeallje, vihtta, moadde, 1971, 2005, 50</li>
-        <li>PRON: son, mun, mii, dat, sii, don, dát, soai, moai, geat</li>
-        <li>PROPN: Gállá, Máret, Máhtte, Liná, Ánde, Sámediggi, Ánne, Biret, Ipmil, Finnmárkkuopmodat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: buorre, váttis, vejolaš, veara, buorit, boaris, dehálaš, suohtas, divrras, duohta</li>
+      <li>NOUN: olbmot, mánát, eadni, gánda, olmmoš, stállu, oahppit, mánná, nieida, oahpaheaddji</li>
+      <li>NUM: okta, guokte, golbma, máŋga, njeallje, vihtta, moadde, 1971, 2005, 50</li>
+      <li>PRON: son, mun, mii, dat, sii, don, dát, soai, moai, geat</li>
+      <li>PROPN: Gállá, Máret, Máhtte, Liná, Ánde, Sámediggi, Ánne, Biret, Ipmil, Finnmárkkuopmodat</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: buoret, eanet, stuorát, guhkit, ovddit, vuolit, heajut, stuorit, dárkilet, geahppaset</li>
-        <li>ADV: eanet, eambbo, unnit, buorebut, geahppaseabbot, lagat, viidáseappot, viidáseppot, árabuš, árat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: buoret, eanet, stuorát, guhkit, ovddit, vuolit, heajut, stuorit, dárkilet, geahppaset</li>
+      <li>ADV: eanet, eambbo, unnit, buorebut, geahppaseabbot, lagat, viidáseappot, viidáseppot, árabuš, árat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: buoremus, boarráseamos, maŋimuš, maŋimus, nuoramus, eanemus, maŋemus, ođđaseamos, riggámus, Máttimus</li>
-        <li>ADV: buoremusat, millosepmosit, unnimustá</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: buoremus, boarráseamos, maŋimuš, maŋimus, nuoramus, eanemus, maŋemus, ođđaseamos, riggámus, Máttimus</li>
+      <li>ADV: buoremusat, millosepmosit, unnimustá</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>VERB-Fin: ii, eai, in, eat, it, ale, eaba, iige, eaige, ean</li>
-        <li>VERB-Sup: amadet, amas, amaset, amat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>VERB-Fin: ii, eai, in, eat, it, ale, eaba, iige, eaige, ean</li>
+      <li>VERB-Sup: amadet, amas, amaset, amat</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>AUX-Part: leamaš, leamašan</li>
-        <li>VERB-Part: oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>AUX-Part: leamaš, leamašan</li>
+      <li>VERB-Part: oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: livččii, livčče, livččet</li>
+      <li>VERB-Fin: livčče, galggaše, galggašii, livččii, sáhtášii, berrešii, boađášii, livččen, áiggošin, Dieđálin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: livččii, livčče, livččet</li>
-        <li>VERB-Fin: livčče, galggaše, galggašii, livččii, sáhtášii, berrešii, boađášii, livččen, áiggošin, Dieđálin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: Leage, Lehket</li>
+      <li>VERB-Fin: ale, boađe, mana, váldde, bija, allet, geahča, Gula, Oahpa, Addet</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: Leage, Lehket</li>
-        <li>VERB-Fin: ale, boađe, mana, váldde, bija, allet, geahča, Gula, Oahpa, Addet</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: lea, leat, lei, ledje, lean, leaba, leago, leahppi, leimmet, leage</li>
+      <li>VERB-Fin: lea, leat, ii, lei, ledje, eai, lean, galgá, sáhttá, in</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: lea, leat, lei, ledje, lean, leaba, leago, leahppi, leimmet, leage</li>
-        <li>VERB-Fin: lea, leat, ii, lei, ledje, eai, lean, galgá, sáhttá, in</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pot
+    <ul>
+      <li>AUX-Fin: leažžá</li>
+      <li>VERB-Fin: leažžá, leaččan, bođeža, bođežit, Bođežehpet, bođežeaba, dagažit, eležat, leažžat, ležže</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pot
-      <ul>
-        <li>AUX-Fin: leažžá</li>
-        <li>VERB-Fin: leažžá, leaččan, bođeža, bođežit, Bođežehpet, bođežeaba, dagažit, eležat, leažžat, ležže</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: lei, ledje, lean, leimmet, leai, ledjen, leigga, Ledjego, leiddet</li>
+      <li>VERB-Fin: lei, ledje, bođii, manai, šattai, lean, bohte, oidnen, galggai, oinnii</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: lea, leat, livččii, leaba, leago, lean, livčče, leahppi, leage, leažžá</li>
+      <li>VERB-Fin: lea, leat, galgá, sáhttá, lean, boahtá, lohká, dieđe, galget, áiggun</li>
+      <li>VERB-Part: orru, dábuhahtti, gođđi, johtti, Leahkki, buolli, ealli, fátmmasteaddji, juolludeaddji, vahágahtti</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: lei, ledje, lean, leimmet, leai, ledjen, leigga, Ledjego, leiddet</li>
-        <li>VERB-Fin: lei, ledje, bođii, manai, šattai, lean, bohte, oidnen, galggai, oinnii</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: lea, leat, livččii, leaba, leago, lean, livčče, leahppi, leage, leažžá</li>
-        <li>VERB-Fin: lea, leat, galgá, sáhttá, lean, boahtá, lohká, dieđe, galget, áiggun</li>
-        <li>VERB-Part: orru, dábuhahtti, gođđi, johtti, Leahkki, buolli, ealli, fátmmasteaddji, juolludeaddji, vahágahtti</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Fin: adnojuvvo, álggahuvvui, addojuvvo, dárbbašuvvojit, gáibiduvvo, mearriduvvo, biddjojuvvo, bálkestuvvo, daddjojuvvo, geavahuvvo</li>
-        <li>VERB-Inf: adnojuvvot, árvvoštallojuvvot, čuovvoluvvot, addojuvvot, bisuhuvvot, dahkkot, dohkkehuvvot, dubmejuvvot, gávnnahuvvot, hábmejuvvot</li>
-        <li>VERB-Part: filbmejuvvon, ráddjejuvvon, ráhkaduvvon, biddjon, bovdejuvvon, dahkkojuvvon, gildojuvvon, gorrojuvvon, hábmejuvvon, mearriduvvon</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: adnojuvvo, álggahuvvui, addojuvvo, dárbbašuvvojit, gáibiduvvo, mearriduvvo, biddjojuvvo, bálkestuvvo, daddjojuvvo, geavahuvvo</li>
+      <li>VERB-Inf: adnojuvvot, árvvoštallojuvvot, čuovvoluvvot, addojuvvot, bisuhuvvot, dahkkot, dohkkehuvvot, dubmejuvvot, gávnnahuvvot, hábmejuvvot</li>
+      <li>VERB-Part: filbmejuvvon, ráddjejuvvon, ráhkaduvvon, biddjon, bovdejuvvon, dahkkojuvvon, gildojuvvon, gorrojuvvon, hábmejuvvon, mearriduvvon</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Coll
-      <ul>
-        <li>NOUN: máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Coll
+    <ul>
+      <li>NOUN: máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: dat, dan, dán, dát, dakkár, daid, dasa, das, dákkár, dainna</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: dat, dan, dán, dát, dakkár, daid, dasa, das, dákkár, dainna</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>PRON: buot, juohke, eará, muhtun, unnán, muhtin, seamma, oktage, nubbi, makkárge</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: buot, juohke, eará, muhtun, unnán, muhtin, seamma, oktage, nubbi, makkárge</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>PRON: makkár, maid, Mii, gii, Gean, Goabbá, maidba</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: makkár, maid, Mii, gii, Gean, Goabbá, maidba</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: son, mun, mii, sii, mu, don, su, iežas, soai, min</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: son, mun, mii, sii, mu, don, su, iežas, soai, min</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: guhtet, goabbat, guimmiideaset, guimmiideasetguin, guoimmiska, nubbi, nuppiin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: guhtet, goabbat, guimmiideaset, guimmiideasetguin, guoimmiska, nubbi, nuppiin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: mii, maid, geat, mat, gii, mas, gean, guhte, man, geain</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: mii, maid, geat, mat, gii, mas, gean, guhte, man, geain</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: iežas, iežaset, ieš, ieža, iežan, iežat, alccesis, alddis, iežadet, iežamet</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: iežas, iežaset, ieš, ieža, iežan, iežat, alccesis, alddis, iežadet, iežamet</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: lean, leat, leimmet, ledjen</li>
+      <li>PRON: mun, mii, mu, min, moai, munnje, mus, mis, mon, midjiide</li>
+      <li>VERB-Fin: in, lean, eat, áiggun, leat, oidnen, ledjen, bidjat, ean, muittán</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: leat, leahppi, lehpet, Leage, Lehket, leiddet, livččet</li>
+      <li>PRON: don, dii, du, dus, doai, din, dutnje, dis, dudno, dudnos</li>
+      <li>VERB-Fin: it, ale, lehpet, leat, leahppi, boađe, galggat, váldde, fertet, boađát</li>
+      <li>VERB-Sup: amadet, amat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: lean, leat, leimmet, ledjen</li>
-        <li>PRON: mun, mii, mu, min, moai, munnje, mus, mis, mon, midjiide</li>
-        <li>VERB-Fin: in, lean, eat, áiggun, leat, oidnen, ledjen, bidjat, ean, muittán</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: leat, leahppi, lehpet, Leage, Lehket, leiddet, livččet</li>
-        <li>PRON: don, dii, du, dus, doai, din, dutnje, dis, dudno, dudnos</li>
-        <li>VERB-Fin: it, ale, lehpet, leat, leahppi, boađe, galggat, váldde, fertet, boađát</li>
-        <li>VERB-Sup: amadet, amat</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: lea, lei, leat, ledje, livččii, leaba, leago, livčče, leage, leai</li>
-        <li>PRON: son, sii, su, soai, sin, sis, sus, sutnje, sidjiide, sudno</li>
-        <li>VERB-Fin: lea, ii, leat, lei, ledje, eai, galgá, sáhttá, bođii, boahtá</li>
-        <li>VERB-Sup: amas, amaset</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: lea, lei, leat, ledje, livččii, leaba, leago, livčče, leage, leai</li>
+      <li>PRON: son, sii, su, soai, sin, sis, sus, sutnje, sidjiide, sudno</li>
+      <li>VERB-Fin: lea, ii, leat, lei, ledje, eai, galgá, sáhttá, bođii, boahtá</li>
+      <li>VERB-Sup: amas, amaset</li>
+    </ul>
+  </li>
+</ul>
 
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
+<ul>
+  <li>Dual
+    <ul>
+      <li>ADJ: suohttasiiddiska, suohttasiiddáme</li>
+      <li>NOUN: beatnagasaska, mánáidasame, Oappásteame, basttiideaskka, beatnageatte, beatnagiiddiska, botnjiideaskka, bártnisteatte, girjjiideatte, gusade</li>
+      <li>PRON: iežade, iežaska, alcceseame, iežaineaskka, alcceseaskka, alcceseatte, alddiska, alddáde, guoimmiska, iehčaneame</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: suohttasiiddámet</li>
+      <li>ADV: gaskaneaset</li>
+      <li>NOUN: mánáideaset, Oabbámet, beatnagasaset, biergasiiddiset, biillaideattetguin, dávviriiddádet, eatnigielaset, elliideaset, fulkkiideaset, gieđaideaset</li>
+      <li>PRON: iežaset, iežadet, iežamet, alcceseamet, alcceseaset, alcceseattet, alddiset, alddámet, guimmiideaset, guimmiideasetguin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dual
-      <ul>
-        <li>ADJ: suohttasiiddiska, suohttasiiddáme</li>
-        <li>NOUN: beatnagasaska, mánáidasame, Oappásteame, basttiideaskka, beatnageatte, beatnagiiddiska, botnjiideaskka, bártnisteatte, girjjiideatte, gusade</li>
-        <li>PRON: iežade, iežaska, alcceseame, iežaineaskka, alcceseaskka, alcceseatte, alddiska, alddáde, guoimmiska, iehčaneame</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: suohttasiiddámet</li>
-        <li>ADV: gaskaneaset</li>
-        <li>NOUN: mánáideaset, Oabbámet, beatnagasaset, biergasiiddiset, biillaideattetguin, dávviriiddádet, eatnigielaset, elliideaset, fulkkiideaset, gieđaideaset</li>
-        <li>PRON: iežaset, iežadet, iežamet, alcceseamet, alcceseaset, alcceseattet, alddiset, alddámet, guimmiideaset, guimmiideasetguin</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: ráhkkásis, ráhkkásisttán, suohttasiiddán</li>
-        <li>ADV: badjelasas</li>
-        <li>NOUN: vielljan, eatnis, áhčis, dahkamušaidis, namas, beatnagiiddisguin, beatnagiiddásis, beatnagis, bártniidis, bártnážan</li>
-        <li>PRON: iežas, iežan, iežat, alccesis, alddis, iežainis, alcces, alccesan, alccesat, iežainan</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: ráhkkásis, ráhkkásisttán, suohttasiiddán</li>
+      <li>ADV: badjelasas</li>
+      <li>NOUN: vielljan, eatnis, áhčis, dahkamušaidis, namas, beatnagiiddisguin, beatnagiiddásis, beatnagis, bártniidis, bártnážan</li>
+      <li>PRON: iežas, iežan, iežat, alccesis, alddis, iežainis, alcces, alccesan, alccesat, iežainan</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>Connegative</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>AUX-Fin: leat, lean, leatge</li>
-        <li>VERB-Fin: leat, dieđe, lean, sáhte, boađe, beasa, diehtán, daga, galgga, gillen</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Connegative</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>AUX-Fin: leat, lean, leatge</li>
+          <li>VERB-Fin: leat, dieđe, lean, sáhte, boađe, beasa, diehtán, daga, galgga, gillen</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person[psor]</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: ráhkkásisttán, suohttasiiddáme, suohttasiiddámet, suohttasiiddán</li>
-        <li>NOUN: vielljan, bártnážan, heaggan, mánáidasame, mánážan, vielljasan, áhkkán, Oabbámet, Oappásteame, beatnagan</li>
-        <li>PRON: iežan, iežamet, alcceseamet, alccesan, alcceseame, iežainan, alddámet, alddán, iehčaneame, iežaineame</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>NOUN: mánát, áhččát, beatnagat, beatnageatte, beatnagiiddát, biergasiiddát, biiggáinat, biillaideattetguin, bálvaleddjiidat, bártnisteatte</li>
-        <li>PRON: iežat, iežadet, iežade, alccesat, alcceseattet, alcceseatte, alddáde, iežaineatte</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: ráhkkásis, suohttasiiddiska</li>
-        <li>ADV: badjelasas, gaskaneaset</li>
-        <li>NOUN: eatnis, áhčis, dahkamušaidis, mánáideaset, namas, beatnagasaska, beatnagiiddisguin, beatnagiiddásis, beatnagis, bártniidis</li>
-        <li>PRON: iežas, iežaset, alccesis, alddis, iežainis, iežaska, alcces, alcceseaset, alddiset, iežaineaskka</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>ADJ: ráhkkásisttán, suohttasiiddáme, suohttasiiddámet, suohttasiiddán</li>
+          <li>NOUN: vielljan, bártnážan, heaggan, mánáidasame, mánážan, vielljasan, áhkkán, Oabbámet, Oappásteame, beatnagan</li>
+          <li>PRON: iežan, iežamet, alcceseamet, alccesan, alcceseame, iežainan, alddámet, alddán, iehčaneame, iežaineame</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>NOUN: mánát, áhččát, beatnagat, beatnageatte, beatnagiiddát, biergasiiddát, biiggáinat, biillaideattetguin, bálvaleddjiidat, bártnisteatte</li>
+          <li>PRON: iežat, iežadet, iežade, alccesat, alcceseattet, alcceseatte, alddáde, iežaineatte</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>ADJ: ráhkkásis, suohttasiiddiska</li>
+          <li>ADV: badjelasas, gaskaneaset</li>
+          <li>NOUN: eatnis, áhčis, dahkamušaidis, mánáideaset, namas, beatnagasaska, beatnagiiddisguin, beatnagiiddásis, beatnagis, bártniidis</li>
+          <li>PRON: iežas, iežaset, alccesis, alddis, iežainis, iežaska, alcces, alcceseaset, alddiset, iežaineaskka</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

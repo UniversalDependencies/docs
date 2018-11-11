@@ -30,7 +30,7 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	om	om	ADP	VZ|init	_	8	mark	8:mark	_
 6	ons	ons	PRON	VNW|pr|pron|obl|vol|1|mv	Case=Acc|Person=1|PronType=Prs	8	obj	8:obj	_
 7	te	te	ADP	VZ|init	_	8	mark	8:mark	_
-8	misleiden	misleiden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	4	acl	4:acl	SpaceAfter=No
+8	misleiden	misleiden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	4	acl	4:acl:om	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 10	"	"	PUNCT	LET	_	2	punct	2:punct	_
 
@@ -48,7 +48,7 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	gevolgd	volgen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	acl	2:acl	_
 4	door	door	ADP	VZ|init	_	6	case	6:case	_
 5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
-6	Ommegang	ommegang	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl	SpaceAfter=No
+6	Ommegang	ommegang	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl:door	SpaceAfter=No
 7	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -66,8 +66,8 @@ The following 30 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	ook	ook	ADV	BW	_	6	advmod	6:advmod	_
 5	wel	wel	ADV	BW	_	6	advmod	6:advmod	_
 6	Timely	Timely	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	acl	1:acl	_
-7	of	of	X	SPEC|vreemd	Foreign=Yes	6	flat:name	6:flat:name	_
-8	Atlas	Atlas	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	flat:name	6:flat:name	_
+7	of	of	X	SPEC|vreemd	Foreign=Yes	6	flat	6:flat	_
+8	Atlas	Atlas	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	flat	6:flat	_
 9	geheten	heten	AUX	WW|vd|vrij|zonder	VerbForm=Part	6	cop	6:cop	SpaceAfter=No
 10	)	)	PUNCT	LET	_	6	punct	6:punct	_
 

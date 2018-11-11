@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Cons` are language-specific.
 It occurs with 4 different values: `Com`, `Cons`, `Def`, `Ind`.
 
-123453 tokens (44%) have a non-empty value of `Definite`.
-14971 types (57%) occur at least once with a non-empty value of `Definite`.
-6324 lemmas (38%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (92032; 33% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29216; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2205; 1% instances).
+125257 tokens (44%) have a non-empty value of `Definite`.
+15283 types (61%) occur at least once with a non-empty value of `Definite`.
+6545 lemmas (43%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (93680; 33% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (29346; 10% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (2207; 1% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances).
 
 ### `NOUN`
 
-92032 <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
+93680 <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (70839; 77%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (66157; 72%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72077; 77%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (66786; 71%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Cons` (34532; 38% of non-empty `Definite`): رئيس، وزير، كل، غير، مجلس، عام، بعض، يوم، نفس، عدم
-* `Def` (39891; 43% of non-empty `Definite`): اليوم، الحكومة، العراق، الرئيس، الولايات، الدول، السوق، العام، المنطقة، الدكتور
-* `Ind` (17609; 19% of non-empty `Definite`): مصر، دولار، جنيه، مايو، إسرائيل، عدد، لبنان، بغداد، مصادر، سنوات
-* `EMPTY` (19): بد، أمل، اهمية، ايادي، بديل، تعازى، جدوى، حلاوة، خلاف، خيارات
+* `Cons` (35157; 38% of non-empty `Definite`): رئيس، وزير، كل، غير، مجلس، بعض، عام، يوم، نفس، عدم
+* `Def` (40199; 43% of non-empty `Definite`): اليوم، الحكومة، العراق، الرئيس، الولايات، الدول، السوق، العام، المنطقة، الدكتور
+* `Ind` (18324; 20% of non-empty `Definite`): مصر، دولار، جنيه، مايو، إسرائيل، عدد، لبنان، بغداد، مصادر، سنوات
+* `EMPTY` (25): بد، أعراض، أمل، إعلان، اهمية، ايادي، بديل، بن، تعازى، تفاؤل
 
 <table>
   <tr><th>Paradigm <i>يَوم</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
@@ -41,16 +41,16 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `ADJ`
 
-29216 <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
+29346 <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27490; 94%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (19099; 65%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15035; 51%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27609; 94%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (19119; 65%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15118; 52%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Com` (40; 0% of non-empty `Definite`): الثالث، الأولى، الذاتية، السابع، القصيرة، الحادية، الخامسة، المستندي، البعيدة، التاسع
-* `Cons` (1404; 5% of non-empty `Definite`): أي، اي، أول، اول، أكبر، مختلف، أبرز، أهم، كبار، أسعد
-* `Def` (18902; 65% of non-empty `Definite`): المصرية، المتحدة، المصري، الماضي، العربية، الحالي، الدولية، الفلسطينية، العام، المقبل
-* `Ind` (8870; 30% of non-empty `Definite`): جديدة، خاصة، أخرى، أكثر، اخرى، سورية، اكثر، جديد، كبيرة، حالياً
+* `Com` (41; 0% of non-empty `Definite`): الثالث، الأولى، الذاتية، السابع، القصيرة، الحادية، الخامسة، الطويلة، المستندي، البعيدة
+* `Cons` (1416; 5% of non-empty `Definite`): أي، اي، أول، اول، أكبر، مختلف، أبرز، أهم، كبار، أسعد
+* `Def` (18961; 65% of non-empty `Definite`): المصرية، المتحدة، المصري، الماضي، العربية، الحالي، الدولية، الفلسطينية، العام، المقبل
+* `Ind` (8928; 30% of non-empty `Definite`): جديدة، خاصة، أخرى، أكثر، اخرى، سورية، اكثر، جديد، كبيرة، حالياً
 * `EMPTY` (5): أفريقي، أوسطي، افريقي، عام، كبيرة
 
 <table>
@@ -69,16 +69,16 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `NUM`
 
-2205 <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Definite`.
+2207 <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="ar_padt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2205; 100%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1233; 56%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1154; 52%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="ar_padt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2207; 100%), <tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1234; 56%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1154; 52%).
 
 `NUM` tokens may have the following values of `Definite`:
 
 * `Com` (4; 0% of non-empty `Definite`): الاربع، الثلاثة، الخمس، الخمسة
 * `Cons` (1519; 69% of non-empty `Definite`): مليون، مليار، ألف، ثلاثة، ملايين، بليون، الف، آلاف، ثلاث، خمسة
 * `Def` (340; 15% of non-empty `Definite`): المئة، المائة، الثلاثة، الثلاث، العشرين، الأربعة، المليون، الثماني، الخمس، الستة
-* `Ind` (342; 16% of non-empty `Definite`): عشرين، اثنين، ثلاثة، مليوناً، واحد، مليون، ملياراً، مليونا، ألفاً، ملايين
+* `Ind` (344; 16% of non-empty `Definite`): عشرين، اثنين، ثلاثة، مليوناً، واحد، مليون، ملياراً، مليونا، ألفاً، ملايين
 * `EMPTY` (5551): 15، 3، 6، 2، 8، 7، 4، 11، 10، 12
 
 <table>
@@ -91,17 +91,29 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
   <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>ثلاث</td><td>الثلاث</td><td></td><td>ثلاث</td></tr>
 </table>
 
+### `PROPN`
+
+24 <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt> tokens (10% of all `PROPN` tokens) have a non-empty value of `Definite`.
+
+`PROPN` tokens may have the following values of `Definite`:
+
+* `Cons` (1; 4% of non-empty `Definite`): بدر
+* `Def` (23; 96% of non-empty `Definite`): النروج، الفليبين، الإكوادور، البدري، البنتاجون، التاميل، التشاد، الزرقاوي، الفاتيكان، الكوت
+* `EMPTY` (221): بن، عبدالله، عبدالعزيز، طه، بورسعيد، أبو، عبدالمنعم، يومبلغاز، أبوردينة، أم
+
+`Definite` seems to be **lexical feature** of `PROPN`. 100% lemmas (19) occur only with one value of `Definite`.
+
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19079; 84%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3731; 71%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (832; 98%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19192; 83%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4038; 70%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (882; 98%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (313; 79%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (234; 82%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (122; 66%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (90; 52%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (66; 75%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (236; 82%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (136; 67%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (98; 54%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (67; 72%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (56; 84%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> ADJ</tt> (23; 96%).
 

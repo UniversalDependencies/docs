@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
-53931 tokens (54%) have a non-empty value of `Number`.
-25940 types (93%) occur at least once with a non-empty value of `Number`.
-13975 lemmas (86%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (24635; 25% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (10037; 10% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (8084; 8% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (3744; 4% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3571; 4% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (3070; 3% instances), <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (726; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (50; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (14; 0% instances).
+61780 tokens (53%) have a non-empty value of `Number`.
+28374 types (93%) occur at least once with a non-empty value of `Number`.
+15085 lemmas (86%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (28018; 24% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (11333; 10% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (9498; 8% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4497; 4% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (4210; 4% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (3338; 3% instances), <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (816; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (14; 0% instances).
 
 ### `NOUN`
 
-24635 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+28018 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (21150; 86%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (23999; 86%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (6885; 28% of non-empty `Number`): <em>років, людей, люди, %, тварин, днів, грн, очі, сил, міністрів</em>
-* `Ptan` (392; 2% of non-empty `Number`): <em>даних, виборів, гроші, грошей, дані, коштів, двері, даними, дверей, пестощі</em>
-* `Sing` (17358; 70% of non-empty `Number`): <em>час, року, життя, часу, №, дня, р, мови, дзядзьо, році</em>
+* `Plur` (7753; 28% of non-empty `Number`): <em>років, %, людей, люди, грн, днів, очі, тварин, дітей, сил</em>
+* `Ptan` (457; 2% of non-empty `Number`): <em>даних, грошей, виборів, гроші, двері, дані, коштів, ЗМІ, даними, дверей</em>
+* `Sing` (19808; 71% of non-empty `Number`): <em>час, року, життя, №, часу, р, році, чоловік, дня, рік</em>
 * `EMPTY` (2): <em>с</em>
 
 <table>
@@ -38,18 +38,19 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-10037 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+11333 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8976; 89%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8937; 89%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8937; 89%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8937; 89%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7182; 72%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10177; 90%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10091; 89%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10091; 89%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10091; 89%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8085; 71%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (3111; 31% of non-empty `Number`): <em>різних, перших, українських, місцевих, нові, різні, нових, перші, повинні, українські</em>
-* `Sing` (6926; 69% of non-empty `Number`): <em>2017, української, державної, українського, 2016, національної, державного, нового, українська, український</em>
-* `EMPTY` (146): <em>прес, науково, військово, медико, прем'єр, яскраво, визвольно, греко, дослідно, жовто</em>
+* `Plur` (3492; 31% of non-empty `Number`): <em>різних, українських, перших, різні, місцевих, нових, нові, перші, великі, повинні</em>
+* `Sing` (7841; 69% of non-empty `Number`): <em>2017, української, українського, 2016, державної, національної, перший, державного, український, нового</em>
+* `EMPTY` (152): <em>прес, науково, південно, військово, медико, прем'єр, визвольно, греко, дослідно, жовто</em>
 
 <table>
   <tr><th>Paradigm <i>український</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>українських</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>українські</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>український</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>українську</em></td><td></td></tr>
@@ -57,6 +58,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>українським</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>українському</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>українській</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>Українському</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>українських</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>українського</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>української</em></td><td></td></tr>
@@ -76,15 +78,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-8084 <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+9498 <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8084; 100%), <tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7862; 97%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5397; 67%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5139; 64%), <tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4399; 54%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4398; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9498; 100%), <tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9225; 97%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6280; 66%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6066; 64%), <tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5012; 53%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5011; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2766; 34% of non-empty `Number`): <em>можуть, мають, були, мали, є, почали, могли, робили, живуть, маємо</em>
-* `Sing` (5318; 66% of non-empty `Number`): <em>може, має, було, є, мав, міг, була, був, здається, знав</em>
-* `EMPTY` (2411): <em>зробити, робити, знайти, працювати, сказати, говорити, стати, дати, писати, мати</em>
+* `Plur` (3087; 33% of non-empty `Number`): <em>можуть, мають, були, мали, є, почали, могли, пішли, робили, маємо</em>
+* `Sing` (6411; 67% of non-empty `Number`): <em>може, має, було, каже, є, немає, мав, міг, була, був</em>
+* `EMPTY` (2793): <em>робити, зробити, сказати, говорити, знайти, працювати, жити, писати, стати, дати</em>
 
 <table>
   <tr><th>Paradigm <i>бути</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -93,6 +95,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>було</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>будь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будеш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>є</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>буде</em></td><td><em>будуть</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>є, єсть</em></td><td><em>є, єсть</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>були</em></td></tr>
@@ -100,43 +103,33 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-3744 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Number`.
+4497 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2623; 70%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1932; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3205; 71%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2273; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1000; 27% of non-empty `Number`): <em>ми, вони, ви, їх, нас, них, вам, вас, нам, їм</em>
-* `Ptan` (44; 1% of non-empty `Number`): <em>всі, всіх, всім, усі, усіх, всіма, своїх, тих, ті, усім</em>
-* `Sing` (2700; 72% of non-empty `Number`): <em>він, це, я, його, вона, що, те, її, мене, того</em>
-* `EMPTY` (253): <em>себе, собі, ніхто, хтось, нічого, собою, нікого, нікому, когось, ніщо</em>
+* `Plur` (1136; 25% of non-empty `Number`): <em>ми, вони, їх, нас, ви, них, вам, нам, вас, їм</em>
+* `Sing` (3361; 75% of non-empty `Number`): <em>він, я, це, вона, його, що, мене, те, її, мені</em>
+* `EMPTY` (306): <em>собі, себе, ніхто, нічого, хтось, собою, нікого, нікому, когось, ніщо</em>
 
-<table>
-  <tr><th>Paradigm <i>той</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>тим</em></td></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>тих</em></td></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>той</em></td><td><em>ті</em></td></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Ті</em></td></tr>
-</table>
-
-`Number` seems to be **lexical feature** of `PRON`. 95% lemmas (36) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (25) occur only with one value of `Number`.
 
 ### `DET`
 
-3571 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
+4210 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3149; 88%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3062; 86%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2878; 81%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2574; 72%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3706; 88%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3592; 85%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3459; 82%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3110; 74%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1169; 33% of non-empty `Number`): <em>які, всі, інших, яких, ці, ті, свої, всіх, такі, його</em>
-* `Sing` (2402; 67% of non-empty `Number`): <em>його, який, яка, цей, цього, той, її, свою, один, свого</em>
-* `EMPTY` (163): <em>кілька, багато, декілька, багатьох, кількох, стільки, багатьма, декільком, кількома, багатьом</em>
+* `Plur` (1387; 33% of non-empty `Number`): <em>які, всі, інших, ці, яких, ті, всіх, такі, свої, інші</em>
+* `Sing` (2823; 67% of non-empty `Number`): <em>його, який, яка, той, цей, цього, її, свою, один, свого</em>
+* `EMPTY` (185): <em>кілька, багато, кількох, багатьох, декілька, стільки, багатьма, скільки, декільком, кількома</em>
 
 <table>
   <tr><th>Paradigm <i>який</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>якого</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>яких</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>яких</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>який</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>який</em></td><td></td></tr>
@@ -155,6 +148,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>якої</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>якої</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>якого</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>яких</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>яких</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>яким</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>якою</em></td><td></td></tr>
@@ -168,6 +162,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>яких</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>який</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>який</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>яка</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>яка</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>яка</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>яке</em></td><td></td></tr>
@@ -177,15 +172,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-3070 <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+3338 <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="uk_iu-feat-Uninflect.html">Uninflect</a></tt><tt>=EMPTY</tt> (2604; 85%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1808; 59%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1794; 58%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="uk_iu-feat-Uninflect.html">Uninflect</a></tt><tt>=EMPTY</tt> (2822; 85%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1978; 59%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1951; 58%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (22; 1% of non-empty `Number`): <em>К, ex.ua, АНів, Ан, Антоновичів, Вали, Городків, Джемалятдінових, Зерови, Зеровим</em>
-* `Ptan` (58; 2% of non-empty `Number`): <em>США, Карпати, Черкаси, Карпат, Бережани, Броварів, Бітлз, Держгеонадр, Дубосар, Жуляни</em>
-* `Sing` (2990; 97% of non-empty `Number`): <em>України, Україні, Україна, Києва, київ, Гнат, Міра, Вінстон, Марія, Києві</em>
+* `Plur` (23; 1% of non-empty `Number`): <em>К, Ґракхів, ex.ua, АНів, Ан, Антоновичів, Вали, Городків, Джемалятдінових, Зерови</em>
+* `Ptan` (66; 2% of non-empty `Number`): <em>США, Карпати, Черкаси, Карпат, Бережани, Броварів, Бітлз, Держгеонадр, Дубосар, Жуляни</em>
+* `Sing` (3249; 97% of non-empty `Number`): <em>україни, Україні, Україна, київ, Міра, Києва, Гнат, Росії, Вінстон, Марія</em>
 * `EMPTY` (40): <em>в, б, А, с, і, Є, Е, Ж, Лєс, МУ</em>
 
 <table>
@@ -196,19 +191,19 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Зеров</em></td><td><em>Зерови</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1403) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1502) occur only with one value of `Number`.
 
 ### `AUX`
 
-726 <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Number`.
+816 <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (726; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (726; 100%), <tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (723; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (493; 68%), <tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (493; 68%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (816; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (816; 100%), <tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (813; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (546; 67%), <tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (546; 67%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (153; 21% of non-empty `Number`): <em>були, є, будуть, будемо, будете, будьте</em>
-* `Sing` (573; 79% of non-empty `Number`): <em>було, був, була, є, буде, буду, буває, будеш, бувало</em>
-* `EMPTY` (155): <em>бути, б, би, бувши</em>
+* `Plur` (169; 21% of non-empty `Number`): <em>були, є, будуть, будемо, будете, будьте, бували, будем</em>
+* `Sing` (647; 79% of non-empty `Number`): <em>було, був, була, є, буде, буду, буває, будеш, бувало</em>
+* `EMPTY` (182): <em>бути, б, би, бувши</em>
 
 <table>
   <tr><th>Paradigm <i>бути</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -216,7 +211,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>була</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>було</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>будьте</em></td></tr>
-  <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>буду</em></td><td><em>будемо</em></td></tr>
+  <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>буду</em></td><td><em>будемо, будем</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>є</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будеш</em></td><td><em>будете</em></td></tr>
   <tr><td><tt><tt><a href="uk_iu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="uk_iu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>буде</em></td><td><em>будуть</em></td></tr>
@@ -226,16 +221,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `NUM`
 
-50 <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Number`.
+56 <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="uk_iu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (50; 100%), <tt><a href="uk_iu-feat-Uninflect.html">Uninflect</a></tt><tt>=Yes</tt> (40; 80%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="uk_iu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="uk_iu-feat-Uninflect.html">Uninflect</a></tt><tt>=Yes</tt> (45; 80%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (50; 100% of non-empty `Number`): <em>2, 1, обох, обома, 1,930, 13-ти, 19 700, 201, 30-ти, 302</em>
-* `EMPTY` (1210): <em>1, 5, 2, 3, три, 7, двох, два, 4, 10</em>
+* `Plur` (56; 100% of non-empty `Number`): <em>2, 1, обох, обома, 201, 3-х, 302, 32, 42, 45-ти</em>
+* `EMPTY` (1493): <em>1, 5, 2, 3, 7, 4, три, двох, 10, 6</em>
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (16) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (15) occur only with one value of `Number`.
 
 ### `X`
 
@@ -247,21 +242,21 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 * `Plur` (4; 29% of non-empty `Number`): <em>блядєй, воєнських, дождєй, частєй</em>
 * `Sing` (10; 71% of non-empty `Number`): <em>GMAT, Kapital’у, Снарская, город, крушеніє, место, системы, строгой, факінґ, ю</em>
-* `EMPTY` (471): <em>Office, the, Amazon, DITIB, Windows, cyanus, Centaurea, CNN, Comisión, Dynamics</em>
+* `EMPTY` (541): <em>Office, the, Windows, Amazon, DITIB, cyanus, Centaurea, GFP, n, CNN</em>
 
 `Number` seems to be **lexical feature** of `X`. 100% lemmas (14) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="uk_iu-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7981; 98%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4123; 61%),
-<tt>VERB --[<tt><a href="uk_iu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2698; 95%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-det.html">det</a></tt>]--> DET</tt> (2494; 98%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1668; 78%),
-<tt>VERB --[<tt><a href="uk_iu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1403; 94%),
-<tt>VERB --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> VERB</tt> (1119; 85%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-acl.html">acl</a></tt>]--> VERB</tt> (599; 67%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (546; 70%),
-<tt>ADJ --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> ADJ</tt> (505; 99%).
+<tt>NOUN --[<tt><a href="uk_iu-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8904; 98%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4625; 62%),
+<tt>VERB --[<tt><a href="uk_iu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3120; 95%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-det.html">det</a></tt>]--> DET</tt> (2825; 98%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1839; 77%),
+<tt>VERB --[<tt><a href="uk_iu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1669; 95%),
+<tt>VERB --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> VERB</tt> (1336; 85%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (592; 71%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (578; 80%),
+<tt>ADJ --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> ADJ</tt> (554; 98%).
 

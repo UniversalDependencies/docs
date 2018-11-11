@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Norwegian NynorskLIA
 
-Language: [Norwegian](../no/overview/no-hub.html) (code: `no`)<br/>
+Language: [Norwegian](/no/index.html) (code: `no`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Lilja Øvrelid.
 
 Repository: [UD_Norwegian-NynorskLIA](https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_nynorsklia)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_nynorsklia22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -37,7 +38,7 @@ Do not submit pull requests against the UD repository.
 |------------|--------|
 | Lemmas | annotated manually in non-UD style, automatically converted to UD |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
-| XPOS | (undocumented) |
+| XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
@@ -166,444 +167,407 @@ We thank the annotators of the original treebank and in particular Andre Kaasen.
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: lita</li>
-        <li>DET: den, ei, sånn, anna, denne, hi, kvar, noka, noko, slik</li>
-        <li>NOUN: mjølka, tid, mjølk, gata, nota, dieselolje, kasser, landnot, lina, greier</li>
-        <li>NUM: halvanna</li>
-        <li>PRON: ho, hans, henne, mi, di, vår</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: lita</li>
+      <li>DET: den, ei, sånn, anna, denne, hi, kvar, noka, noko, slik</li>
+      <li>NOUN: mjølka, tid, mjølk, gata, nota, dieselolje, kasser, landnot, lina, greier</li>
+      <li>NUM: halvanna</li>
+      <li>PRON: ho, hans, henne, mi, di, vår</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: liten, brosten, oppvaksen</li>
-        <li>ADV: kloss</li>
-        <li>DET: ein, den, annan, sånn, kvar, nokon, eigen, all, ingen, noko</li>
-        <li>NOUN: byen, båten, krigen, måten, båt, båtar, mann, del, sjøen, båtane</li>
-        <li>NUM: annankvar</li>
-        <li>PRON: han, nokon, min, din, hennar, ingen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: liten, brosten, oppvaksen</li>
+      <li>ADV: kloss</li>
+      <li>DET: ein, den, annan, sånn, kvar, nokon, eigen, all, ingen, noko</li>
+      <li>NOUN: byen, båten, krigen, måten, båt, båtar, mann, del, sjøen, båtane</li>
+      <li>NUM: annankvar</li>
+      <li>PRON: han, nokon, min, din, hennar, ingen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: mykje, bra, heilt, langt, veldig, godt, fint, billig, lite, stort</li>
-        <li>DET: noko, det, eit, anna, alt, kvart, eitt, eige, sånt</li>
-        <li>NOUN: år, folk, fiske, slags, land, øre, havet, uvêr, par, vêr</li>
-        <li>NUM: annakvart</li>
-        <li>PRON: det, noko, dette, mitt</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: mykje, bra, heilt, langt, veldig, godt, fint, billig, lite, stort</li>
+      <li>DET: noko, det, eit, anna, alt, kvart, eitt, eige, sånt</li>
+      <li>NOUN: år, folk, fiske, slags, land, øre, havet, uvêr, par, vêr</li>
+      <li>NUM: annakvart</li>
+      <li>PRON: det, noko, dette, mitt</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Animacy</a></li>
+</ul>
 
-<li><a>Animacy</a>
+<ul>
+  <li>Hum
+    <ul>
+      <li>PRON: eg, dei, du, vi, ein, de, meg, oss, kven, deg</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Hum
-      <ul>
-        <li>PRON: eg, dei, du, vi, ein, de, meg, oss, kven, deg</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: mange, forskjellige, komne, heile, mykje, skada, brotne, gamle, heldige, store</li>
+      <li>DET: dei, alle, andre, nokon, nokre, sånne, begge, desse, nittenfemogtjue, slike</li>
+      <li>NOUN: år, folk, båtar, båtane, øre, bilar, land, dagar, fiske, hektoliter</li>
+      <li>NUM: to, tre, hundre, seks, tusen, fem, fire, fjorten, sju, seksti</li>
+      <li>PRON: dei, vi, de, oss, ingen, desse, kvarandre, dykk, nokon, dykkar</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: mykje, bra, veldig, heilt, langt, godt, billig, fint, lite, stort</li>
+      <li>ADV: kloss</li>
+      <li>DET: ein, den, noko, ei, det, eit, sånn, anna, annan, kvar</li>
+      <li>NOUN: byen, mjølka, båten, krigen, tid, måten, båt, mann, del, sjøen</li>
+      <li>NUM: eine, halvanna, annakvart, annankvar</li>
+      <li>PRON: det, eg, du, han, den, ein, ho, noko, meg, dette</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: mange, forskjellige, komne, heile, mykje, skada, brotne, gamle, heldige, store</li>
-        <li>DET: dei, alle, andre, nokon, nokre, sånne, begge, desse, nittenfemogtjue, slike</li>
-        <li>NOUN: år, folk, båtar, båtane, øre, bilar, land, dagar, fiske, hektoliter</li>
-        <li>NUM: to, tre, hundre, seks, tusen, fem, fire, fjorten, sju, seksti</li>
-        <li>PRON: dei, vi, de, oss, ingen, desse, kvarandre, dykk, nokon, dykkar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: mykje, bra, veldig, heilt, langt, godt, billig, fint, lite, stort</li>
-        <li>ADV: kloss</li>
-        <li>DET: ein, den, noko, ei, det, eit, sånn, anna, annan, kvar</li>
-        <li>NOUN: byen, mjølka, båten, krigen, tid, måten, båt, mann, del, sjøen</li>
-        <li>NUM: eine, halvanna, annakvart, annankvar</li>
-        <li>PRON: det, eg, du, han, den, ein, ho, noko, meg, dette</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: seg, dei, han, den, noko, meg, oss, kven, deg, ho</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: seg, dei, han, den, noko, meg, oss, kven, deg, ho</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: eg, dei, du, vi, han, den, ein, de, ho, dette</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: eg, dei, du, vi, han, den, ein, de, ho, dette</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: første, siste, fleste, heile, største, yngste, gamle, mange, nærmaste, russiske</li>
+      <li>DET: same, andre</li>
+      <li>NOUN: byen, mjølka, båten, krigen, måten, sjøen, båtane, gata, nota, garden</li>
+      <li>NUM: eine, einaste</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: første, siste, fleste, heile, største, yngste, gamle, mange, nærmaste, russiske</li>
-        <li>DET: same, andre</li>
-        <li>NOUN: byen, mjølka, båten, krigen, måten, sjøen, båtane, gata, nota, garden</li>
-        <li>NUM: eine, einaste</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: mykje, bra, veldig, heilt, langt, godt, billig, fint, lite, mest</li>
-        <li>ADV: kloss</li>
-        <li>DET: anna, annan, eigen, eige</li>
-        <li>NOUN: år, tid, folk, båt, båtar, fiske, mann, del, dag, gong</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: mykje, bra, veldig, heilt, langt, godt, billig, fint, lite, mest</li>
+      <li>ADV: kloss</li>
+      <li>DET: anna, annan, eigen, eige</li>
+      <li>NOUN: år, tid, folk, båt, båtar, fiske, mann, del, dag, gong</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: mykje, bra, mange, veldig, heilt, langt, godt, lenge, billig, fint</li>
-        <li>ADV: lenge</li>
-        <li>DET: anna, annan, andre, eigen, eige</li>
-        <li>NOUN: hovedreint, kvitlehåvar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: mykje, bra, mange, veldig, heilt, langt, godt, lenge, billig, fint</li>
+      <li>ADV: lenge</li>
+      <li>DET: anna, annan, andre, eigen, eige</li>
+      <li>NOUN: hovedreint, kvitlehåvar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: oftast, mest, fleste, største, yngste, best, nærmaste, verste, billegaste, eldst</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: oftast, mest, fleste, største, yngste, best, nærmaste, verste, billegaste, eldst</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>DET: ingen</li>
-        <li>PART: ikkje</li>
-        <li>PRON: ingen, ingenting</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: ingen</li>
+      <li>PART: ikkje</li>
+      <li>PRON: ingen, ingenting</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: hjelp, prat, reis</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: hjelp, prat, reis</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: var, er, har, måtte, kunne, kan, skulle, skal, blei, hadde</li>
+      <li>NOUN-Fin: husa</li>
+      <li>VERB-Fin: var, hadde, kom, køyrde, gjekk, veit, er, dreiv, blei, fekk</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: var, er, har, måtte, kunne, kan, skulle, skal, blei, hadde</li>
-        <li>NOUN-Fin: husa</li>
-        <li>VERB-Fin: var, hadde, kom, køyrde, gjekk, veit, er, dreiv, blei, fekk</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: var, måtte, kunne, skulle, blei, hadde, ville, fekk, vart</li>
+      <li>NOUN-Fin: husa</li>
+      <li>VERB-Fin: var, hadde, kom, køyrde, gjekk, dreiv, blei, fekk, sa, kjøpte</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: er, har, kan, skal, må, vil</li>
+      <li>VERB-Fin: veit, er, har, hugsar, trur, seier, ser, kan, synest, gjer</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: var, måtte, kunne, skulle, blei, hadde, ville, fekk, vart</li>
-        <li>NOUN-Fin: husa</li>
-        <li>VERB-Fin: var, hadde, kom, køyrde, gjekk, dreiv, blei, fekk, sa, kjøpte</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: er, har, kan, skal, må, vil</li>
-        <li>VERB-Fin: veit, er, har, hugsar, trur, seier, ser, kan, synest, gjer</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Inf: kallast</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Inf: kallast</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: ein, ei, eit, eitt</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: ein, ei, eit, eitt</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Art,Prs
-      <ul>
-        <li>PRON: ein</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art,Prs
+    <ul>
+      <li>PRON: ein</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: den, dei, andre, det, same, sånn, anna, annan, sånne, desse</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: den, dei, andre, det, same, sånn, anna, annan, sånne, desse</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: noko, nokon, nokre, noka</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: noko, nokon, nokre, noka</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind,Prs
-      <ul>
-        <li>PRON: noko, nokon</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind,Prs
+    <ul>
+      <li>PRON: noko, nokon</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>DET: kva</li>
-        <li>PRON: kva, kven</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: kva</li>
+      <li>PRON: kva, kven</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>DET: ingen</li>
-        <li>PRON: ingenting</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: ingen</li>
+      <li>PRON: ingenting</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg,Prs
-      <ul>
-        <li>PRON: ingen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg,Prs
+    <ul>
+      <li>PRON: ingen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: eigen, eige</li>
-        <li>PRON: det, eg, dei, du, vi, han, den, de, ho, seg</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: eigen, eige</li>
+      <li>PRON: det, eg, dei, du, vi, han, den, de, ho, seg</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: kvarandre, einannan</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: kvarandre, einannan</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: som</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: som</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>DET: alle, kvar, alt, begge, kvart, all</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: alle, kvar, alt, begge, kvart, all</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: to, tre, hundre, seks, tusen, fem, eine, fire, fjorten, sju</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: to, tre, hundre, seks, tusen, fem, eine, fire, fjorten, sju</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: hans, min, mi, di, hennar, mitt, vår, din, dykkar, mine</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: hans, min, mi, di, hennar, mitt, vår, din, dykkar, mine</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: seg</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: eg, vi, meg, oss</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: seg</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: du, de, deg, dykk</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: eg, vi, meg, oss</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: du, de, deg, dykk</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: det, dei, han, den, ho, noko, nokon, dette, ingen, desse</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: det, dei, han, den, ho, noko, nokon, dette, ingen, desse</li>
+    </ul>
+  </li>
+</ul>
 
 
 

@@ -129,14 +129,14 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (721; 67%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (702; 67%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48; 52%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (23; 56%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (15; 52%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (15; 60%),
 <tt>X --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> X</tt> (9; 100%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (5; 83%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (3; 100%),
 <tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%).
+<tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>PART --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%).
 

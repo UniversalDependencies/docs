@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	machtig	machtig	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
 5	worden	worden	AUX	WW|inf|vrij|zonder	VerbForm=Inf	4	cop	4:cop	_
 6	in	in	ADP	VZ|init	_	7	case	7:case	_
-7	Europa	Europa	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl	SpaceAfter=No
+7	Europa	Europa	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:in	SpaceAfter=No
 8	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~

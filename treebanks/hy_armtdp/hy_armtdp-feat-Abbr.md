@@ -9,45 +9,69 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-106 tokens (1%) have a non-empty value of `Abbr`.
-39 types (1%) occur at least once with a non-empty value of `Abbr`.
-27 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 5 part-of-speech tags: <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (47; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (3; 0% instances).
+167 tokens (1%) have a non-empty value of `Abbr`.
+59 types (1%) occur at least once with a non-empty value of `Abbr`.
+42 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 7 part-of-speech tags: <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (74; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (56; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
-47 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (9% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+74 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (8% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (43; 91%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (38; 81%), <tt><a href="hy_armtdp-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (27; 57%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (73; 99%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (72; 97%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (66; 89%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (57; 77%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (47; 100% of non-empty `Abbr`): <em>ՀՀ, ԱՄՆ, ՀՀԿ, ՊԲ, ԱՄՆ-ի, Արմենպրես, ԵԱՀԿ, ՀՀԿ-ում, ՌԴ, ԱՀ</em>
-* `EMPTY` (485): <em>Իրանի, Հայաստանի, Կարեն, Կարապետյանը, Հարութը, Ադրբեջանի, Հայաստանում, Սարգսյանի, Սերժ, Իրանը</em>
+* `Yes` (74; 100% of non-empty `Abbr`): <em>ՀՀ, ԱՄՆ, Արմենպրես, ՀՀԿ, ԱՄՆ-ի, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, ՀՀԿ-ում</em>
+* `EMPTY` (904): <em>Հայաստանի, Իրանի, Հայաստանում, Սիմեոնը, Ադրբեջանի, Կարեն, Հայաստան, Սարգսյանի, Կարապետյանը, Սերժ</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (20) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
-35 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+56 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (35; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (32; 91%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (21; 60%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 60%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (53; 95%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (45; 80%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 73%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (40; 71%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (35; 100% of non-empty `Abbr`): <em>թ, ՀԷԿ-երի, խմ, մլրդ, սմ-ով, Գավկոմի, ՀԷԿ-երը, Պետդեպարտամենտի, թթ, ք/կմ</em>
-* `EMPTY` (3146): <em>թվականի, դեպքում, ժամանակ, օրը, հունվարին, բան, անգամ, ընթացքում, մարտի, դոլարի</em>
+* `Yes` (56; 100% of non-empty `Abbr`): <em>թ, Տ, ՀԷԿ-երի, խմ, Օ, թթ, մլրդ, պրն, սմ-ով, Գավկոմի</em>
+* `EMPTY` (5717): <em>անգամ, տարի, բան, օրը, ընթացքում, ժամանակ, դեպքում, կնոջ, Հայոց, թվականի</em>
+
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Abbr`.
 
 ### `NUM`
 
-18 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Abbr`.
+18 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Abbr`.
 
 The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (18; 100%), <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (18; 100%).
 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (18; 100% of non-empty `Abbr`): <em>մլն, մլրդ</em>
-* `EMPTY` (194): <em>2017, 2016, հազար, մեկ, երկու, մի, 2, 06, 1941, 2018</em>
+* `EMPTY` (269): <em>երկու, հազար, մեկ, 2017, 2016, երեք, մի, 2, հարյուր, 2018</em>
+
+### `ADJ`
+
+9 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%).
+
+`ADJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (9; 100% of non-empty `Abbr`): <em>Ս</em>
+* `EMPTY` (1897): <em>նոր, քաղաքական, մեծ, առաջին, կարող, հայ, ազգային, սուրբ, հնարավոր, պետք</em>
+
+### `X`
+
+5 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (5; 100%).
+
+`X` tokens may have the following values of `Abbr`:
+
+* `Yes` (5; 100% of non-empty `Abbr`): <em>AGBU, CBC, FLEX, IVLP, UCLA</em>
+* `EMPTY` (62): <em>թույլ, Յելլ, նկատի, Daily, Nas, Reuters, ZipLine, Allianplace, Area, Arik</em>
 
 ### `VERB`
 
@@ -58,21 +82,24 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>ծնվ</em>
-* `EMPTY` (1511): <em>չկա, դարձել, հայտարարել, ունեցող, տալիս, եղել, ասում, կազմել, նայում, անում</em>
+* `EMPTY` (2875): <em>տեսնում, ասաց, նայում, դարձել, եղել, ուզում, սկսել, կա, չկա, տալիս</em>
 
-### `X`
+### `DET`
 
-3 <tt><a href="hy_armtdp-pos-X.html">X</a></tt> tokens (23% of all `X` tokens) have a non-empty value of `Abbr`.
+2 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (3; 100%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Dist</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
 
-`X` tokens may have the following values of `Abbr`:
+`DET` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): <em>AGBU, FLEX, IVLP</em>
-* `EMPTY` (10): <em>Reuters, Community, Connections, Diken, Informig, International, Transparency, վա, տանուլ</em>
+* `Yes` (2; 100% of non-empty `Abbr`): <em>Ն</em>
+* `EMPTY` (931): <em>այդ, մի, իր, մեր, այս, այն, նրա, ինչ, այլ, նրանց</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>VERB --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3; 100%).
+<tt>VERB --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> NOUN</tt> (3; 100%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%).
 

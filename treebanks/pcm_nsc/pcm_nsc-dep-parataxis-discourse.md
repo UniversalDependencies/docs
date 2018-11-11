@@ -95,12 +95,12 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 11	o	o	PART	_	_	10	advmod:emph	_	_
 12	na	na	PART	_	_	13	cop	_	_
 13	me	me	PRON	_	_	7	parataxis:obj	_	_
-14	>+	>+	VERB	_	_	13	punct	_	_
+14	>+	>+	PUNCT	_	_	13	punct	_	_
 15	get	get	VERB	_	_	13	acl:cleft	_	_
 16	right	right	ADJ	_	_	15	obj	_	_
 17	of	of	ADP	_	_	18	case	_	_
 18	way	way	NOUN	_	_	16	nmod:npmod	_	_
-19	]	]	NOUN	_	_	13	punct	_	_
+19	]	]	PUNCT	_	_	13	punct	_	_
 20	|c	|c	PUNCT	_	_	24	punct	_	_
 21	#	#	PUNCT	_	_	24	punct	_	_
 22	you	you	PRON	_	_	24	nsubj	_	_
@@ -123,7 +123,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 39	#	#	PUNCT	_	_	7	punct	_	_
 40	na	na	PART	_	_	41	cop	_	_
 41	accident	accident	NOUN	_	_	0	root	_	_
-42	>+	>+	VERB	_	_	45	punct	_	_
+42	>+	>+	PUNCT	_	_	45	punct	_	_
 43	im	im	PRON	_	_	45	nsubj:expl	_	_
 44	dey	dey	AUX	_	_	45	amod	_	_
 45	result	result	NOUN	_	_	41	acl:cleft	_	_

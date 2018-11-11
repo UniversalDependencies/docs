@@ -22,18 +22,18 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 vocative	color:blue
-1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
-2	No	no	INTJ	I	Polarity=Neg	7	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	cattolici	cattolico	NOUN	S	Gender=Masc|Number=Plur	7	vocative	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	4	punct	_	_
-6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
-7	sposa	sposare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	cardinale	cardinale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
-10	Puljic	Puljic	PROPN	SP	_	9	nmod	_	SpaceAfter=No
-11	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	7	punct	_	_
+1	"	"	PUNCT	FB	_	7	punct	7:punct	SpaceAfter=No
+2	No	no	INTJ	I	Polarity=Neg	7	discourse	7:discourse	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	2:punct	_
+4	cattolici	cattolico	NOUN	S	Gender=Masc|Number=Plur	7	vocative	7:vocative	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	4:punct	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	obj	7:obj	_
+7	sposa	sposare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
+9	cardinale	cardinale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	7:nsubj	_
+10	Puljic	Puljic	PROPN	SP	_	9	nmod	9:nmod	SpaceAfter=No
+11	"	"	PUNCT	FB	_	7	punct	7:punct	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	7:punct	_
 
 ~~~
 
@@ -44,16 +44,16 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 vocative	color:blue
-1	Onorevole	onorevole	ADJ	A	Number=Sing	2	amod	_	_
-2	collega	collega	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	_	_
-5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	_
-6	cura	cura	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-7	verificare	verificare	VERB	V	VerbForm=Inf	6	csubj	_	_
-8	tale	tale	DET	DD	Number=Sing|PronType=Dem	9	det	_	_
-9	punto	punto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	6	punct	_	_
+1	Onorevole	onorevole	ADJ	A	Number=Sing	2	amod	2:amod	_
+2	collega	collega	NOUN	S	Number=Sing	6	vocative	6:vocative	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	2:punct	_
+4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	cop	6:cop	_
+5	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	6:det:poss	_
+6	cura	cura	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root	_
+7	verificare	verificare	VERB	V	VerbForm=Inf	6	csubj	6:csubj	_
+8	tale	tale	DET	DD	Number=Sing|PronType=Dem	9	det	9:det	_
+9	punto	punto	NOUN	S	Gender=Masc|Number=Sing	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	FS	_	6	punct	6:punct	_
 
 ~~~
 
@@ -64,14 +64,14 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 vocative	color:blue
-1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
-2	Chirac	Chirac	PROPN	SP	_	4	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	ricorda	ricordare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
-6	Hiroshima	Hiroshima	PROPN	SP	_	4	obj	_	SpaceAfter=No
-7	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	4	punct	_	_
+1	"	"	PUNCT	FB	_	4	punct	4:punct	SpaceAfter=No
+2	Chirac	Chirac	PROPN	SP	_	4	vocative	4:vocative	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	2:punct	_
+4	ricorda	ricordare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	4:expl	_
+6	Hiroshima	Hiroshima	PROPN	SP	_	4	obj	4:obj	SpaceAfter=No
+7	"	"	PUNCT	FB	_	4	punct	4:punct	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	4:punct	_
 
 ~~~
 

@@ -136,14 +136,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (65142; 90%),
-<tt>NOUN --[<tt><a href="fr_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22841; 98%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (65140; 90%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22840; 98%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (17148; 52%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (7737; 90%),
-<tt>PROPN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (3979; 79%),
+<tt>PROPN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (3980; 79%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (3905; 67%),
-<tt>NOUN --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3525; 60%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3532; 60%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (2885; 68%),
-<tt>NOUN --[<tt><a href="fr_ftb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2318; 95%),
-<tt>PROPN --[<tt><a href="fr_ftb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1372; 93%).
+<tt>NOUN --[<tt><a href="fr_ftb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2323; 95%),
+<tt>PROPN --[<tt><a href="fr_ftb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1370; 93%).
 

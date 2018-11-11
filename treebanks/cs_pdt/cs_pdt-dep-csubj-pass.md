@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 # visual-style 3 7 csubj:pass	color:blue
 1	Vlastně	vlastně	ADV	Db-------------	_	3	cc	3:cc	LId=vlastně-2|LGloss=(totiž)
 2	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	3:aux:pass	_
-3	řečeno	řečený	ADJ	VsNS---XX-AP---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+3	řečeno	řečený	ADJ	VsNS---XX-AP---	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No|LDeriv=říci
 4	-	-	PUNCT	Z:-------------	_	7	punct	7:punct|12:punct	_
 5	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	7	obj	7:obj	_
 6	vám	ty	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	iobj	7:iobj	_

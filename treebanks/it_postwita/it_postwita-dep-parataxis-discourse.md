@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:discourse
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 parataxis:discourse	color:blue
-1	@jhutchlosgdr	@jhutchlosgdr	SYM	SYM	_	7	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	7	vocative:mention	_	_
 2	SENTI	sentire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	MONDANI	mondano	NOUN	S	Gender=Masc|Number=Plur	7	dislocated	_	_
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:discourse
 2	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ingiusto	ingiusto	ADJ	A	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	criticare	criticare	VERB	V	VerbForm=Inf	2	csubj	_	_
-5	@matteograndi	@matteograndi	SYM	SYM	_	4	obj	_	_
+5	@user	@user	SYM	SYM	_	4	obj	_	_
 6	per	per	ADP	E	_	9	case	_	_
 7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 8	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det:poss	_	_

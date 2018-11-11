@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `NOUN`
 
-There are 6342 `NOUN` lemmas (33%), 7874 `NOUN` types (34%) and 43103 `NOUN` tokens (17%).
+There are 6341 `NOUN` lemmas (33%), 7874 `NOUN` types (34%) and 43103 `NOUN` tokens (17%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>time, year, service, place, day, people, thanks, food, way, number</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>place</em> (<tt><a href="en_ewt-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.241564 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `NOUN` is 1.241760 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (3) was observed with the lemma “apartment”: <em>apartment, apartments, appartment</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (3) was observed with the lemma “benefit”: <
 
 The 3rd highest number of forms (3) was observed with the lemma “cage”: <em>cage, cages, cge</em>.
 
-`NOUN` occurs with 4 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (43098; 100% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (13; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (7; 0% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`NOUN` occurs with 4 features: <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (43098; 100% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (13; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (10; 0% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
 `NOUN` occurs with 5 feature-value pairs: `Abbr=Yes`, `Degree=Pos`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
 `NOUN` occurs with 7 feature combinations.
-The most frequent feature combination is `Number=Sing` (32808 tokens).
+The most frequent feature combination is `Number=Sing` (32805 tokens).
 Examples: <em>time, service, place, thanks, food, way, year, day, number, pm</em>
 
 

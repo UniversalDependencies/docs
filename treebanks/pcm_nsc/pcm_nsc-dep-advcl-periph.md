@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `advcl:periph`: <tt>
 9	to	to	ADP	_	_	11	case	_	_
 10	your	your	PRON	_	_	11	nmod:poss	_	_
 11	motor	motor	NOUN	_	_	7	obl:arg	_	_
-12	]	]	NOUN	_	_	7	punct	_	_
+12	]	]	PUNCT	_	_	7	punct	_	_
 13	<	<	PUNCT	_	_	7	punct	_	_
 14	na	na	PART	_	_	15	cop	_	_
 15	problem	problem	NOUN	_	_	0	root	_	_

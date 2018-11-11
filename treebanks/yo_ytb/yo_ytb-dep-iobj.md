@@ -22,20 +22,20 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 iobj	color:blue
-1	Bí	Bí	SCONJ	_	_	5	mark	_	Gloss=as
-2	èmi	èmi	PRON	_	_	5	nsubj	_	Gloss=i
+1	Bí	Bí	SCONJ	_	_	5	mark	_	Gloss=if
+2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i
 3	kò	kò	PART	_	_	5	discourse	_	Gloss=not
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if
 5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
 6	iṣẹ́	iṣẹ́	NOUN	_	_	5	obj	_	Gloss=work
 7	Baba	Baba	NOUN	_	_	5	iobj	_	Gloss=father
-8	mi	mi	PRON	_	_	7	nmod	_	SpaceAfter=No|Gloss=my
+8	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nmod	_	SpaceAfter=No|Gloss=my
 9	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 10	ẹ	ẹ	VERB	_	_	13	nsubj	_	Gloss=ye
 11	má	má	AUX	_	_	13	aux	_	Gloss=not
 12	ṣe	ṣe	AUX	_	_	13	aux	_	Gloss=do
-13	gbà	gbà	VERB	_	_	5	xcomp	_	Gloss=deliver
-14	mí	mí	PRON	_	_	13	obj	_	Gloss=me
+13	gbà	gbà	VERB	_	_	5	xcomp	_	Gloss=agree
+14	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	Gloss=me
 15	gbọ́	gbọ́	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=heard
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -48,13 +48,13 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 iobj	color:blue
-1	Ó	Ó	PRON	_	_	3	nsubj	_	Gloss=he
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=it
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
 3	jẹ́	jẹ́	AUX	_	_	0	root	_	Gloss=be
 4	àjọ̀dún	àjọ̀dún	NOUN	_	_	5	nmod	_	Gloss=feast
 5	ìyàsímímọ́	ìyàsímímọ́	NOUN	_	_	3	obj	_	Gloss=dedication
 6	ní	ní	ADP	_	_	7	nmod	_	Gloss=in
-7	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
+7	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 9	ìgbà	ìgbà	NOUN	_	_	10	nmod	_	Gloss=time
 10	òtútù	òtútù	NOUN	_	_	3	iobj	_	Gloss=winter
@@ -70,13 +70,13 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 iobj	color:blue
-1	Ó	Ó	PRON	_	_	3	nsubj	_	Gloss=he
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=it
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
 3	jẹ́	jẹ́	AUX	_	_	0	root	_	Gloss=be
 4	àjọ̀dún	àjọ̀dún	NOUN	_	_	5	nmod	_	Gloss=feast
 5	ìyàsímímọ́	ìyàsímímọ́	NOUN	_	_	3	obj	_	Gloss=dedication
 6	ní	ní	ADP	_	_	7	nmod	_	Gloss=in
-7	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
+7	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	3	iobj	_	SpaceAfter=No|Gloss=jerusalem
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 9	ìgbà	ìgbà	NOUN	_	_	10	nmod	_	Gloss=time
 10	òtútù	òtútù	NOUN	_	_	3	iobj	_	Gloss=winter

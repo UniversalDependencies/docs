@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PA
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (266; 100% of non-empty `Polarity`): <em>не, ни, нет, нет-нет</em>
-* `EMPTY` (35119): <em>не, и, же, только, бы, даже, вот, ли, лишь, именно</em>
+* `EMPTY` (35109): <em>не, и, же, только, бы, даже, вот, ли, лишь, именно</em>
 
 ### `ADV`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (186; 100% of non-empty `Polarity`): <em>несмотря, невзирая</em>
-* `EMPTY` (55928): <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
+* `EMPTY` (55927): <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
 
 ## Relations with Agreement in `Polarity`
 

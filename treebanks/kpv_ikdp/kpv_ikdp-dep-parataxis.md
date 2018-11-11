@@ -8,31 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `parataxis`.
+8 nodes (1%) are attached to their parents as `parataxis`.
 
-3 instances of `parataxis` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.25.
+7 instances of `parataxis` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.75.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (6; 75% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 parataxis	color:blue
-1	Ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	тӧд	тӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	мен	ме	PRON	Pron	Case=Dat|Person=1|PronType=Prs	5	nsubj	_	_
-5	кажитче	кажитчыны	VERB	V	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	без	без	ADP	Pr	_	8	case	_	Lang=Rus
-8	репетитора	репетитор	NOUN	N	Number=Sing	10	obl	_	Lang=Rus
-9	сыа	сыа	PRON	Pron	Case=Nom|Person=3|PronType=Prs	10	nsubj	_	_
-10	невозможнэ	невозможнэ	ADV	Adv	_	5	acl	_	Lang=Rus|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2 4 parataxis	color:blue
+1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
+2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	2	punct	_	_
+4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+5	баб	баб	NOUN	N	Case=Acc|Number=Sing	4	nsubj	_	Lang=Mixed
+6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 
@@ -49,17 +45,17 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-7	вӧліс	вӧвны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
+7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	6	punct	_	_
-9	сыа	сыа	PRON	Pron	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	_
+9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
 11	уна	уна	ADV	Adv	Case=Nom|Number=Sing	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
-15	босьтіс	босьтны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
+15	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	15	punct	_	_
-17	примитіс	примитны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	Lang=Mixed|SpaceAfter=No
+17	примитіс	примитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	Lang=Mixed|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -80,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	оленевод	оленевод	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed
 8	да	да	PART	Pcle	_	7	discourse	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	Lang=Mixed
+10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	Lang=Mixed
 11	кольччыны	кольччыны	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 

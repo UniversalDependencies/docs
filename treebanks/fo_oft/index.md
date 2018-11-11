@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Faroese OFT
 
-Language: [Faroese](../fo/overview/fo-hub.html) (code: `fo`)<br/>
+Language: [Faroese](/fo/index.html) (code: `fo`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Bjartur Mortensen, Francis Tyers.
 
 Repository: [UD_Faroese-OFT](https://github.com/UniversalDependencies/UD_Faroese-OFT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,6 +66,18 @@ or second person, as can be expected from Wikipedia texts.
 
 The morphology and preliminary disambiguation was done by Trond Trosterud's
 finite-state morphology and constraint grammar for Faroese.
+
+If you use this treebank in your work, please cite:
+
+```
+@inproceedings{tyersetal18-faroese,
+author = {Francis M. Tyers and Mariya Sheyanova and Alexandra Martynova and Pavel Stepachev and Konstantin Vinogradovsky},
+title = {Multi-source synthetic treebank creation for improved cross-lingual dependency parsing},
+booktitle = {Proceedings of the Second Workshop on Universal Dependencies (UDW 2018)},
+pages = {144--150},
+year = 2018
+}
+```
 
 # Statistics of UD Faroese OFT
 
@@ -165,205 +178,191 @@ finite-state morphology and constraint grammar for Faroese.
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: størsta, fleiri, nógvar, stór, turr, aðrar, føroysku, nógv, onnur, somu</li>
-        <li>DET: ein, eina, øll, Allar, eini, sína, Summi, allari, ei, einari</li>
-        <li>NOUN: kommuna, kommunur, kommunu, ár, oyggin, oynni, øld, bygdini, kommununi, ferðavinna</li>
-        <li>NUM: ein, tvær, trimum, tríggjar</li>
-        <li>PRON: hon, henni, hennara, hana, onga, tær</li>
-        <li>PROPN: Føroyum, Føroya, Føroyar, Danmark, Kina, Keypmannahavn, Florida, Tórshavnar, Tórshavn, Bergtóra</li>
-        <li>VERB-Part: Sameindu, nevndar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: størsta, fleiri, nógvar, stór, turr, aðrar, føroysku, nógv, onnur, somu</li>
+      <li>DET: ein, eina, øll, Allar, eini, sína, Summi, allari, ei, einari</li>
+      <li>NOUN: kommuna, kommunur, kommunu, ár, oyggin, oynni, øld, bygdini, kommununi, ferðavinna</li>
+      <li>NUM: ein, tvær, trimum, tríggjar</li>
+      <li>PRON: hon, henni, hennara, hana, onga, tær</li>
+      <li>PROPN: Føroyum, Føroya, Føroyar, Danmark, Kina, Keypmannahavn, Florida, Tórshavnar, Tórshavn, Bergtóra</li>
+      <li>VERB-Part: Sameindu, nevndar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: størsti, stórur, stóran, nógvur, stórir, føroyskur, aðrir, mangir, amerikanska, einasti</li>
-        <li>ADV: vanliga</li>
-        <li>DET: ein, einum, allir, Summir, allan, allur, sínum, mínir</li>
-        <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, landslutinum, partur, týdning, Meginparturin, limur, landslutur</li>
-        <li>NUM: tveir</li>
-        <li>PRON: hann, teir, hansara, honum, nakrir, Allir, Báðir, Summir, hesir, nakar</li>
-        <li>PROPN: Kalifornia, Tróndur, Jákupsson, Bergur, Dávid, Gásadali, Hanus, Jóannes, Jógvan, Magnus</li>
-        <li>VERB-Part: flettir, kendastur, keyptir, prentaðir</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: størsti, stórur, stóran, nógvur, stórir, føroyskur, aðrir, mangir, amerikanska, einasti</li>
+      <li>ADV: vanliga</li>
+      <li>DET: ein, einum, allir, Summir, allan, allur, sínum, mínir</li>
+      <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, landslutinum, partur, týdning, Meginparturin, limur, landslutur</li>
+      <li>NUM: tveir</li>
+      <li>PRON: hann, teir, hansara, honum, nakrir, Allir, Báðir, Summir, hesir, nakar</li>
+      <li>PROPN: Kalifornia, Tróndur, Jákupsson, Bergur, Dávid, Gásadali, Hanus, Jóannes, Jógvan, Magnus</li>
+      <li>VERB-Part: flettir, kendastur, keyptir, prentaðir</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: nógv, mong, stórt, Flestu, stór, sama, ymisk, annað, fleiri, føroyskt</li>
-        <li>ADV: størsta, vanliga, veldiga</li>
-        <li>DET: eitt, einum, annað, síni, sínum, Øll</li>
-        <li>NOUN: fólkinum, fólk, landinum, landi, landið, grundarlagið, mál, Endamálið, fólkatalið, lýðveldi</li>
-        <li>NUM: trý, tveimum, tvey</li>
-        <li>PRON: hetta, Hatta, Hettar, hvat, okkurt</li>
-        <li>PROPN: Noregi, Fraklandi, Niðurlondum, Noregs, Grønlandi, Hordalandi, Island, Russlandi, Estlandi, Grønland</li>
-        <li>VERB-Part: samlaða</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: nógv, mong, stórt, Flestu, stór, sama, ymisk, annað, fleiri, føroyskt</li>
+      <li>ADV: størsta, vanliga, veldiga</li>
+      <li>DET: eitt, einum, annað, síni, sínum, Øll</li>
+      <li>NOUN: fólkinum, fólk, landinum, landi, landið, grundarlagið, mál, Endamálið, fólkatalið, lýðveldi</li>
+      <li>NUM: trý, tveimum, tvey</li>
+      <li>PRON: hetta, Hatta, Hettar, hvat, okkurt</li>
+      <li>PROPN: Noregi, Fraklandi, Niðurlondum, Noregs, Grønlandi, Hordalandi, Island, Russlandi, Estlandi, Grønland</li>
+      <li>VERB-Part: samlaða</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: nógv, fleiri, nógvar, mong, Flestu, stórir, aðrar, aðrir, mangir, stór</li>
+      <li>ADV: vanliga, størsta, veldiga</li>
+      <li>DET: allir, Summir, Allar, mínir, síni, Øll</li>
+      <li>NOUN: fólk, kommunur, býnum, døgum, ferðir, Føturnir, býir, indiánar, minuttir, muslimar</li>
+      <li>PRON: teir, tey, vit, nakrir, Allir, Báðir, Summir, hesir, okkara, okkum</li>
+      <li>PROPN: Føroyum, Føroya, Føroyar, Niðurlondum, Niðurlond, Hellurnar</li>
+      <li>VERB: eru, vóru, hava, búgva, doyðu, kunnu, skulu, búsettust, búðu, hjálpa</li>
+      <li>VERB-Part: Sameindu, flettir, keyptir, nevndar, prentaðir</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: nógv, fleiri, nógvar, mong, Flestu, stórir, aðrar, aðrir, mangir, stór</li>
-        <li>ADV: vanliga, størsta, veldiga</li>
-        <li>DET: allir, Summir, Allar, mínir, síni, Øll</li>
-        <li>NOUN: fólk, kommunur, býnum, døgum, ferðir, Føturnir, býir, indiánar, minuttir, muslimar</li>
-        <li>PRON: teir, tey, vit, nakrir, Allir, Báðir, Summir, hesir, okkara, okkum</li>
-        <li>PROPN: Føroyum, Føroya, Føroyar, Niðurlondum, Niðurlond, Hellurnar</li>
-        <li>VERB: eru, vóru, hava, búgva, doyðu, kunnu, skulu, búsettust, búðu, hjálpa</li>
-        <li>VERB-Part: Sameindu, flettir, keyptir, nevndar, prentaðir</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: størsti, størsta, stórur, stóran, nógvur, stórt, føroyskur, sama, amerikanska, stór</li>
+      <li>DET: ein, eitt, einum, eina, allan, sínum, øll, allur, eini, sína</li>
+      <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, fólkinum, landslutinum, partur, týdning, Meginparturin</li>
+      <li>NUM: ein, tveir, trý, tvær, trimum, tríggjar, tveimum, tvey</li>
+      <li>PRON: hon, hann, tað, hetta, hansara, henni, honum, eg, hennara, Hatta</li>
+      <li>PROPN: Noregi, Danmark, Kanada, Amerika, Kina, Fraklandi, Italia, Keypmannahavn, New, Nigeria</li>
+      <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, Sí, kann</li>
+      <li>VERB-Part: kendastur, samlaða</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: størsti, størsta, stórur, stóran, nógvur, stórt, føroyskur, sama, amerikanska, stór</li>
-        <li>DET: ein, eitt, einum, eina, allan, sínum, øll, allur, eini, sína</li>
-        <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, fólkinum, landslutinum, partur, týdning, Meginparturin</li>
-        <li>NUM: ein, tveir, trý, tvær, trimum, tríggjar, tveimum, tvey</li>
-        <li>PRON: hon, hann, tað, hetta, hansara, henni, honum, eg, hennara, Hatta</li>
-        <li>PROPN: Noregi, Danmark, Kanada, Amerika, Kina, Fraklandi, Italia, Keypmannahavn, New, Nigeria</li>
-        <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, Sí, kann</li>
-        <li>VERB-Part: kendastur, samlaða</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: stóran, aðrar, nógv, nógvar, búskaparligan, mong, Føroysk, arábiskt, fá, føroyskan</li>
+      <li>DET: ein, eina, allan, eitt, sína, allir, síni</li>
+      <li>NOUN: týdning, dag, fólk, íbúgvar, hátt, Styrkin, USA, ampa, bygdina, búskapin</li>
+      <li>NUM: 2, 500, 7, 718.646, FM08, tvær, tríggjar, trý, tveir</li>
+      <li>PRON: seg, hetta, hann, tað, hana, okkurt, onga, teir, tey</li>
+      <li>PROPN: New, York, Jákupsson, Pakistan, West, Butan, Colorado, Eyguni, Føroyar, Island</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADJ: stórum, amerikanska, sama, mongum, bestu, bretskum, danska, gamlari, hvítum, høgum</li>
+      <li>DET: einum, sínum, eini, Summi, allari, einari</li>
+      <li>NOUN: USA, fólkinum, landslutinum, landinum, kommunu, býnum, ár, ES, døgum, oynni</li>
+      <li>NUM: 2005, 2010, 2011, 000, 1931, 2000, 2008, 2009, 2014, 10</li>
+      <li>PRON: henni, honum, sær, okkum</li>
+      <li>PROPN: Føroyum, Noregi, Danmark, Fraklandi, Niðurlondum, Grønlandi, Hordalandi, Kalifornia, Mississippi, Russlandi</li>
+      <li>VERB-Part: Sameindu, samlaða</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: stóran, aðrar, nógv, nógvar, búskaparligan, mong, Føroysk, arábiskt, fá, føroyskan</li>
-        <li>DET: ein, eina, allan, eitt, sína, allir, síni</li>
-        <li>NOUN: týdning, dag, fólk, íbúgvar, hátt, Styrkin, USA, ampa, bygdina, búskapin</li>
-        <li>NUM: 2, 500, 7, 718.646, FM08, tvær, tríggjar, trý, tveir</li>
-        <li>PRON: seg, hetta, hann, tað, hana, okkurt, onga, teir, tey</li>
-        <li>PROPN: New, York, Jákupsson, Pakistan, West, Butan, Colorado, Eyguni, Føroyar, Island</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: arbeiðsleys</li>
+      <li>NOUN: dømis, landsins, felagsins, handils-, Fólkaháskúla, Islams, Læraraskúla, Rithøvundafelagsins, altars, arbeiðis</li>
+      <li>NUM: 1930</li>
+      <li>PRON: hansara, hennara, mín, okkara</li>
+      <li>PROPN: Føroya, Noregs, Tórshavnar, Finsens, Sandavágs, Tvøroyrar, Bergens, Bretlands, Fraklands, Fuglafjarðar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADJ: stórum, amerikanska, sama, mongum, bestu, bretskum, danska, gamlari, hvítum, høgum</li>
-        <li>DET: einum, sínum, eini, Summi, allari, einari</li>
-        <li>NOUN: USA, fólkinum, landslutinum, landinum, kommunu, býnum, ár, ES, døgum, oynni</li>
-        <li>NUM: 2005, 2010, 2011, 000, 1931, 2000, 2008, 2009, 2014, 10</li>
-        <li>PRON: henni, honum, sær, okkum</li>
-        <li>PROPN: Føroyum, Noregi, Danmark, Fraklandi, Niðurlondum, Grønlandi, Hordalandi, Kalifornia, Mississippi, Russlandi</li>
-        <li>VERB-Part: Sameindu, samlaða</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: arbeiðsleys</li>
-        <li>NOUN: dømis, landsins, felagsins, handils-, Fólkaháskúla, Islams, Læraraskúla, Rithøvundafelagsins, altars, arbeiðis</li>
-        <li>NUM: 1930</li>
-        <li>PRON: hansara, hennara, mín, okkara</li>
-        <li>PROPN: Føroya, Noregs, Tórshavnar, Finsens, Sandavágs, Tvøroyrar, Bergens, Bretlands, Fraklands, Fuglafjarðar</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: størsti, stórur, størsta, nógv, fleiri, nógvur, stór, Flestu, stórir, føroyskur</li>
-        <li>DET: ein, eitt, øll, Summir, allir, Allar, allur, annað, ei, mínir</li>
-        <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, partur, Meginparturin, kommunur, limur, landslutur</li>
-        <li>NUM: %, ein, 10, 26, 4, tveir, 13, 14, 18, 1917</li>
-        <li>PRON: hon, hann, tað, hetta, teir, tey, vit, eg, nakrir, Allir</li>
-        <li>PROPN: Føroyar, Kanada, Amerika, Kina, Italia, Nigeria, Asia, Florida, Jackson, Norra</li>
-        <li>VERB-Part: flettir, kendastur, keyptir, nevndar, prentaðir</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: størsti, stórur, størsta, nógv, fleiri, nógvur, stór, Flestu, stórir, føroyskur</li>
+      <li>DET: ein, eitt, øll, Summir, allir, Allar, allur, annað, ei, mínir</li>
+      <li>NOUN: býur, høvuðsstaður, býurin, høvuðsstaðurin, kommuna, partur, Meginparturin, kommunur, limur, landslutur</li>
+      <li>NUM: %, ein, 10, 26, 4, tveir, 13, 14, 18, 1917</li>
+      <li>PRON: hon, hann, tað, hetta, teir, tey, vit, eg, nakrir, Allir</li>
+      <li>PROPN: Føroyar, Kanada, Amerika, Kina, Italia, Nigeria, Asia, Florida, Jackson, Norra</li>
+      <li>VERB-Part: flettir, kendastur, keyptir, nevndar, prentaðir</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: størsti, størsta, Flestu, sama, amerikanska, einasti, somu, føroysku, hægsti, størstu</li>
+      <li>NOUN: býurin, høvuðsstaðurin, fólkinum, landslutinum, Meginparturin, landinum, býnum, oyggin, oynni, bygdini</li>
+      <li>PROPN: Sprotin, Stiðin, Arbeiðaraflokkurin, Framburðsflokkin, Framburðsflokkurin, Høgra, Norðlandinum, Norðurlandinum, Suðurlandinum</li>
+      <li>VERB-Part: Sameindu, samlaða</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: størsti, størsta, Flestu, sama, amerikanska, einasti, somu, føroysku, hægsti, størstu</li>
-        <li>NOUN: býurin, høvuðsstaðurin, fólkinum, landslutinum, Meginparturin, landinum, býnum, oyggin, oynni, bygdini</li>
-        <li>PROPN: Sprotin, Stiðin, Arbeiðaraflokkurin, Framburðsflokkin, Framburðsflokkurin, Høgra, Norðlandinum, Norðurlandinum, Suðurlandinum</li>
-        <li>VERB-Part: Sameindu, samlaða</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: nógv, fleiri, stórur, stóran, stór, nógvar, nógvur, mong, stórir, stórt</li>
-        <li>DET: allir, øll, allan, Allar, allur, allari, annað</li>
-        <li>NOUN: býur, høvuðsstaður, kommuna, partur, týdning, fólk, kommunur, limur, ár, kommunu</li>
-        <li>PRON: nakrir, Allir, Báðir, nakar, okkurt, onga</li>
-        <li>PROPN: Føroyum, Føroya, Føroyar, Noregi, Danmark, Fraklandi, Keypmannahavn, Niðurlondum, Noregs, Grønlandi</li>
-        <li>VERB-Part: flettir, kendastur, keyptir, nevndar, prentaðir</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: nógv, fleiri, stórur, stóran, stór, nógvar, nógvur, mong, stórir, stórt</li>
+      <li>DET: allir, øll, allan, Allar, allur, allari, annað</li>
+      <li>NOUN: býur, høvuðsstaður, kommuna, partur, týdning, fólk, kommunur, limur, ár, kommunu</li>
+      <li>PRON: nakrir, Allir, Báðir, nakar, okkurt, onga</li>
+      <li>PROPN: Føroyum, Føroya, Føroyar, Noregi, Danmark, Fraklandi, Keypmannahavn, Niðurlondum, Noregs, Grønlandi</li>
+      <li>VERB-Part: flettir, kendastur, keyptir, nevndar, prentaðir</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: størsti, størsta, Flestu, hægsti, størstu, bestu, minsta, minsti, besta, besti</li>
-        <li>ADV: best, størsta</li>
-        <li>VERB-Part: kendastur</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: størsti, størsta, Flestu, hægsti, størstu, bestu, minsta, minsti, besta, besti</li>
+      <li>ADV: best, størsta</li>
+      <li>VERB-Part: kendastur</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -371,178 +370,158 @@ finite-state morphology and constraint grammar for Faroese.
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB: er, eru, var, hevur, vóru, varð, verður, býr, kom, liggur</li>
+      <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, hóskandi, kendastur, keyptir</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>VERB: er, eru, var, hevur, vóru, varð, verður, býr, kom, liggur</li>
-        <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, hóskandi, kendastur, keyptir</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB: Sí, Drívið, Les, end</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>VERB: var, vóru, varð, kom, fór, hevði, tók, gjørdist, vann, bleiv</li>
+      <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, kendastur, keyptir, nevndar</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB: Sí, Drívið, Les, end</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>VERB: er, eru, hevur, verður, býr, liggur, kann, fer, skal, hava</li>
+      <li>VERB-Part: hóskandi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>VERB: var, vóru, varð, kom, fór, hevði, tók, gjørdist, vann, bleiv</li>
-        <li>VERB-Part: nevndur, Sameindu, fingin, flettir, fluttur, framdur, gjørdur, kendastur, keyptir, nevndar</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>VERB: er, eru, hevur, verður, býr, liggur, kann, fer, skal, hava</li>
-        <li>VERB-Part: hóskandi</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: gjørdist, sæst, fæst, nevnist, búsettust, gerast, Andaðist, berast, berjast, boksast</li>
-        <li>VERB-Inf: berast, berjast, gerast, gevast, giftast, kappast, klekjast, mannast, mennast, miðlast</li>
-        <li>VERB-Sup: sæst, staðist</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB: gjørdist, sæst, fæst, nevnist, búsettust, gerast, Andaðist, berast, berjast, boksast</li>
+      <li>VERB-Inf: berast, berjast, gerast, gevast, giftast, kappast, klekjast, mannast, mennast, miðlast</li>
+      <li>VERB-Sup: sæst, staðist</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: hetta, Hettar, hesir</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: hetta, Hettar, hesir</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>PRON: hvat</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: hvat</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, vit, eg</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, vit, eg</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: sum, ið</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: sum, ið</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: 2., 1., 18., 19., 11., 12., 16., 17., 29., 3.</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: 2., 1., 18., 19., 11., 12., 16., 17., 29., 3.</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: seg, sær</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: seg, sær</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: vit, eg, mín, okkara, okkum</li>
+      <li>VERB: havi, taki</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: tú</li>
+      <li>VERB: sært</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: vit, eg, mín, okkara, okkum</li>
-        <li>VERB: havi, taki</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: tú</li>
-        <li>VERB: sært</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, hennara, hana</li>
-        <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, kann, fer</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: hon, hann, tað, teir, hansara, tey, henni, honum, hennara, hana</li>
+      <li>VERB: er, var, hevur, varð, verður, býr, kom, liggur, kann, fer</li>
+    </ul>
+  </li>
+</ul>
 
 
 

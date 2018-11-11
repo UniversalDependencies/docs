@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7871 nodes (11%) are attached to their parents as `punct`.
+7870 nodes (11%) are attached to their parents as `punct`.
 
-5668 instances of `punct` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.1992122983103.
+5667 instances of `punct` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.1986022871665.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4090; 52% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2471; 31% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (745; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (393; 5% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (45; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (41; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (28; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4090; 52% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2499; 32% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (711; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (393; 5% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (45; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (41; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 11	30	30	NUM	_	NumType=Card	10	nummod	_	_
 12	à	à	ADP	_	_	14	case	_	_
 13	18	18	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
-14	h	h	NOUN	_	_	10	nmod:range	_	SpaceAfter=No
+14	h	h	NOUN	_	_	10	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

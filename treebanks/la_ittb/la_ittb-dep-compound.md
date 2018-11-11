@@ -8,32 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `compound`.
+17 nodes (0%) are attached to their parents as `compound`.
 
-10 instances of `compound` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.14285714285714.
+11 instances of `compound` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.05882352941176.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (14; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (17; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 compound	color:blue
-1	si	si	SCONJ	O4|stRL	_	3	mark	_	_
-2	secundum	secundum	ADP	S4|stRL	AdpType=Prep	3	case	_	_
-3	unum	unus	NUM	F1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|NumType=Card	8	compound	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	3	punct	_	_
-5	ergo	ergo	ADV	O4|stRL	_	8	advmod	_	_
-6	non	non	ADV	O4|stRL	_	8	advmod	_	_
-7	erunt	sum	AUX	N3|modA|tem3|gen9|stAV	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	cop	_	_
-8	duo	duo	NUM	F1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|NumType=Card	0	root	_	_
-9	sed	sed	CCONJ	O4|vgr1|stRL	_	10	cc	_	_
-10	unum	unus	NUM	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|NumType=Card	8	conj	_	_
-11	tantum	tantum	ADV	O4|stRL	_	10	advmod:emph	_	SpaceAfter=No
-12	:	:	PUNCT	Punc	_	8	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 compound	color:blue
+1	quod	quod	SCONJ	O4	_	3	mark	_	_
+2	matrimonium	matrimonium	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	debeat	debeo	VERB	K3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+4	esse	sum	AUX	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	_
+5	unius	unus	NUM	F1|grn1|casB|gen1|vgr2	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	3	xcomp	_	_
+6	ad	ad	ADP	S4	AdpType=Prep	7	case	_	_
+7	unam	unus	NUM	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Card	5	compound	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

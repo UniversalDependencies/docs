@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 aux:pass	color:blue
-1	@greta__10	@greta__10	SYM	SYM	_	9	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	9	vocative:mention	_	_
 2	si	sì	INTJ	I	_	9	discourse	_	_
 3	si	sì	INTJ	I	_	9	discourse	_	_
 4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_

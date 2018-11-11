@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `ADV`
 
-There are 795 `ADV` lemmas (4%), 798 `ADV` types (3%) and 13045 `ADV` tokens (5%).
+There are 794 `ADV` lemmas (4%), 798 `ADV` types (3%) and 13045 `ADV` tokens (5%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>so, just, when, very, also, how, now, even, there, then</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>so</em> (<tt><a href="en_ewt-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.003774 (the average of all parts of speech is 1.185009).
+The form / lemma ratio of `ADV` is 1.005038 (the average of all parts of speech is 1.185132).
 
 The 1st highest number of forms (2) was observed with the lemma “a.k.a.”: <em>a.k.a., aka</em>.
 
@@ -66,12 +66,12 @@ The 2nd highest number of forms (2) was observed with the lemma “at”: <em>a,
 
 The 3rd highest number of forms (2) was observed with the lemma “basically”: <em>basically, basic­ally</em>.
 
-`ADV` occurs with 6 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (1842; 14% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (744; 6% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (78; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (8; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (1842; 14% instances), <tt><a href="en_ewt-feat-Degree.html">Degree</a></tt> (744; 6% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (78; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (9; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (1; 0% instances)
 
 `ADV` occurs with 11 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `NumType=Ord`, `Number=Sing`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`, `Typo=Yes`
 
 `ADV` occurs with 12 feature combinations.
-The most frequent feature combination is `_` (10372 tokens).
+The most frequent feature combination is `_` (10371 tokens).
 Examples: <em>so, just, very, also, now, even, only, as, back, really</em>
 
 

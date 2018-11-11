@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: POS Tags: `SYM`
 
 There are 3 `SYM` lemmas (0%), 3 `SYM` types (0%) and 3 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>dni24.com, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​=​k​u​w​y​0​1​y​9​s​x​s​v​l​=​h​y, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​d​q​o​1​i​o​x​m​t​8​i</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.523825).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.635667).
 
 The 1st highest number of forms (1) was observed with the lemma “dni24.com”: <em>dni24.com</em>.
 

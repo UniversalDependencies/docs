@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 15672 tokens (13%) have a non-empty value of `VerbForm`.
-4387 types (22%) occur at least once with a non-empty value of `VerbForm`.
-1329 lemmas (8%) occur at least once with a non-empty value of `VerbForm`.
+4387 types (25%) occur at least once with a non-empty value of `VerbForm`.
+1329 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (11254; 9% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4418; 4% instances).
 
 ### `VERB`

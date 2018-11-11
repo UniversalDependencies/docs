@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	:	:	PUNCT	PUNCT	_	5	punct	_	_
 5	הצטרפו	הצטרף	VERB	VERB	Gender=Fem,Masc|HebBinyan=HITPAEL|Mood=Imp|Number=Plur|Person=2	0	root	_	_
 6	ל	ל	ADP	ADP	_	7	case	_	_
-7	גופים	גוף	NOUN	NOUN	Gender=Masc|Number=Plur	5	iobj	_	_
+7	גופים	גוף	NOUN	NOUN	Gender=Masc|Number=Plur	5	obl	_	_
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~

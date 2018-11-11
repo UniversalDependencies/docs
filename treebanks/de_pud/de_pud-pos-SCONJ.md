@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (5%), 22 `SCONJ` types (0%) and 326 `SCONJ` tokens (2%).
+There are 22 `SCONJ` lemmas (0%), 22 `SCONJ` types (0%) and 326 `SCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>_</em>
+The 10 most frequent `SCONJ` lemmas: <em>dass, als, um, wenn, nachdem, weil, ob, indem, wie, bevor</em>
 
 The 10 most frequent `SCONJ` types:  <em>dass, als, um, wenn, nachdem, weil, ob, indem, wie, bevor</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4261, <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 2767, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 2515, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1913, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 1715, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1387, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1219, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1185, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1139, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 950, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 743, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 352, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 144, <tt><a href="de_pud-pos-X.html">X</a></tt> 31, <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> 22)
+The 10 most frequent ambiguous lemmas: <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 85, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 43), <em>um</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 27), <em>wenn</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>während</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 8), <em>da</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 4), <em>ohne</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>damit</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 83, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 36), <em>um</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 27), <em>wenn</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ob</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>wie</em> (<tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 7), <em>während</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>da</em> (<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 3), <em>ohne</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>damit</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 3), <em>bis</em> (<tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
 
@@ -54,9 +54,13 @@ The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 22.000000 (the average of all parts of speech is 307.454545).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.193156).
 
-The 1st highest number of forms (22) was observed with the lemma “_”: <em>Anstatt, If, Sobald, als, außer, bevor, bis, da, damit, dass, indem, nachdem, ob, obwohl, ohne, sodass, um, weil, wenn, wie, währen, während</em>.
+The 1st highest number of forms (2) was observed with the lemma “während”: <em>währen, während</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “If”: <em>If</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “als”: <em>als</em>.
 
 `SCONJ` does not occur with any features.
 

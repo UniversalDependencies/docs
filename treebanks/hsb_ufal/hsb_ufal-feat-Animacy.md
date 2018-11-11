@@ -12,20 +12,20 @@ It occurs with 3 different values: `Anim`, `Inan`, `Nhum`.
 1718 tokens (15%) have a non-empty value of `Animacy`.
 1178 types (27%) occur at least once with a non-empty value of `Animacy`.
 815 lemmas (27%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1144; 10% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (282; 3% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (160; 1% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (90; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1141; 10% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (282; 3% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (160; 1% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (90; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-1144 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+1141 <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1144; 100%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (691; 60%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1141; 100%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (691; 61%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (142; 12% of non-empty `Animacy`): <em>krala, kralow, wobydlerjow, wužiwar, wužiwarjo, kral, ludźi, Historikarjo, wjerchow, Ratarjo</em>
-* `Inan` (986; 86% of non-empty `Animacy`): <em>př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</em>
+* `Inan` (983; 86% of non-empty `Animacy`): <em>př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</em>
 * `Nhum` (16; 1% of non-empty `Animacy`): <em>žiwochow, wjelk, cycakach, cycakow, jednobańkowcach, jednobańkowcy, konje, kotřiž, měchawcach, rjapnikow</em>
-* `EMPTY` (1404): <em>l, město, rěč, woda, rěčow, lěta, stolica, lěće, mócnarstwo, pismo</em>
+* `EMPTY` (1402): <em>l, město, rěč, woda, rěčow, lěta, stolica, lěće, mócnarstwo, pismo</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Anim</tt></th><th><tt>Nhum</tt></th></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `DET`
 
-90 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (29% of all `DET` tokens) have a non-empty value of `Animacy`.
+90 <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> tokens (28% of all `DET` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (90; 100%), <tt><a href="hsb_ufal-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (86; 96%), <tt><a href="hsb_ufal-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (84; 93%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (84; 93%), <tt><a href="hsb_ufal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (77; 86%), <tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (47; 52%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt> (47; 52%).
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (14; 16% of non-empty `Animacy`): <em>někotři, kotřiž, wšěch, kotrymž, kotryž, někotrych, tutym, wšeho, wšitkim</em>
 * `Inan` (76; 84% of non-empty `Animacy`): <em>kotrež, tutón, kotryž, n, tute, kotrychž, někotre, swoje, tutym, wšě</em>
-* `EMPTY` (221): <em>n, kotrež, jeho, jich, kotraž, tute, tuta, swoju, swoje, tutej</em>
+* `EMPTY` (237): <em>n, kotrež, jeho, jich, wjele, kotraž, tute, tuta, swoju, swoje</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -106,21 +106,21 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (11; 50% of non-empty `Animacy`): <em>přewzali, ilustrował, mjenował, poznamjenili, přinošował, přišli, wotkryłoj, wužiwali, zawjedowali, zhonił</em>
 * `Inan` (11; 50% of non-empty `Animacy`): <em>jewjetej, mał, móžetej, poradźił, priwatizowali, předstaja, přidźělitej, wotměł, wunamakował, započał</em>
-* `EMPTY` (800): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (799): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (21) occur only with one value of `Animacy`.
 
 ### `NUM`
 
-15 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Animacy`.
+18 <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (15; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="hsb_ufal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (18; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 13% of non-empty `Animacy`): <em>jedny, jedyn</em>
-* `Inan` (13; 87% of non-empty `Animacy`): <em>jedyn, dwaj, dweju, jedneho, traje, štyrjoch</em>
-* `EMPTY` (362): <em>2, 1, 6, 4, 3, 5, 7, I, 000, 10</em>
+* `Anim` (2; 11% of non-empty `Animacy`): <em>jedny, jedyn</em>
+* `Inan` (16; 89% of non-empty `Animacy`): <em>jedyn, dwaj, Mio, dweju, jedneho, traje, štyrjoch</em>
+* `EMPTY` (364): <em>2, 1, 6, 4, 3, 5, 7, I, 000, 10</em>
 
 <table>
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

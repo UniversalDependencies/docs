@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `discourse:emo`: <t
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 discourse:emo	color:blue
-1	@cioonas	@cioonas	SYM	SYM	_	8	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
 2	ok	ok	INTJ	I	_	8	discourse	_	_
 3	grazie	grazie	INTJ	I	_	8	discourse	_	_
 4	mille	mille	NUM	N	NumType=Card	3	nummod	_	_
@@ -44,7 +44,7 @@ The following 15 pairs of parts of speech are connected with `discourse:emo`: <t
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 discourse:emo	color:blue
-1	@acmilan	@acmilan	SYM	SYM	_	4	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	4	vocative:mention	_	_
 2	Era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	anche	anche	ADV	B	_	4	advmod	_	_
 4	ora	ora	NOUN	S	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 15 pairs of parts of speech are connected with `discourse:emo`: <t
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 discourse:emo	color:blue
-1	@Chia_LovesHarry	@Chia_LovesHarry	SYM	SYM	_	2	vocative:mention	_	_
+1	@user	@user	SYM	SYM	_	2	vocative:mention	_	_
 2	grazie	grazie	INTJ	I	_	0	root	_	_
 3	!!	!!	PUNCT	FS	_	2	punct	_	_
 4	:D	:D	SYM	SYM	_	2	discourse:emo	_	_

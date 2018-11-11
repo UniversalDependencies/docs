@@ -7,24 +7,31 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `DET`
 
 There are 2 `DET` lemmas (0%), 3 `DET` types (0%) and 6 `DET` tokens (0%).
-Out of 15 observed tags, the rank of `DET` is: 14 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>став, быд</em>
 
 The 10 most frequent `DET` types:  <em>став, быд, ставыс</em>
 
-The 10 most frequent ambiguous lemmas: <em>став</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 5, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 4), <em>быд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>став</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 5, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>быд</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ставыс</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>быд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1), <em>ставыс</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
 
 
+* <em>став</em>
+  * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4: <em>А <b>став</b> ӧдзӧсъяссьыс , воротаяссьыс , калиткаяссьыс мотор шум вылӧ котӧртісны нин вооружитчӧм йӧз .</em>
+  * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3: <em>Нянь идралан удж помасьӧмӧн лыддьыссьӧ сӧмын сэк , кор <b>став</b> няньыс лоас вартӧма да пуктӧма сӧстӧм амбаръясӧ да складъясӧ .</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Сиктса партийно-комсомольскӧй организацияяс ӧні долженӧсь веськӧдны <b>став</b> агитационно-массӧвӧй удж сы вылӧ , медым урожай идралӧмын паськыда котыртны социалистическӧй ордйысьӧм , коді обеспечитіс эськӧ большевистскӧй успех урожай идралӧмын да паськӧдны движение 1940 воын ставсоюзса сельскохозяйственнӧй выставка вылын участвуйтан право шедӧдӧм вӧсна не сӧмын ӧткаӧн , но быдса колхозъясӧн , фермаясӧн да с.в. .</em>
+* <em>быд</em>
+  * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1: <em>Туйыс вӧлі сьӧкыд , белӧйяс потшисны <b>быд</b> боксянь .</em>
+  * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1: <em>Быд колхозник да колхозница обязанӧсь тышкасьны сы вӧсна , медым му вылӧ эз коль ниӧти шеп , быдӧнлы должен лоны гӧгӧрвоана , мый <b>быд</b> нянь шеп сьӧктаммӧдӧ колхозниклысь трудоденьсӧ , унджык воӧ нянь трудодень вылӧ .</em>
 * <em>ставыс</em>
   * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1: <em>И друг , кор миян войскаяс ас водзсьыныс ылысь аддзисны неыджыд казацкӧй сикт , Пятиизбеннӧй станица , <b>ставыс</b> гӧгӧр виччысьтӧг лӧнис .</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1: <em>А ачым думайта , мый грӧзитӧ кӧ енэжыс гыма зэрӧн , сідз-тадз <b>ставыс</b> оз помась .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.256410).
+The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.298160).
 
 The 1st highest number of forms (2) was observed with the lemma “став”: <em>став, ставыс</em>.
 

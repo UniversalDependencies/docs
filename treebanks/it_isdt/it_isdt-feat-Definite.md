@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (38094; 89% of non-empty `Definite`): <em>il, la, i, l', le, gli, lo, l’, the, les</em>
 * `Ind` (4621; 11% of non-empty `Definite`): <em>un, una, un', uno, un’, A, dei, Une, delle, l'</em>
-* `EMPTY` (5930): <em>quale, sua, suo, ogni, questo, loro, che, questa, tutti, suoi</em>
+* `EMPTY` (5931): <em>quale, sua, suo, ogni, questo, loro, che, questa, tutti, suoi</em>
 
 <table>
   <tr><th>Paradigm <i>lo</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -42,5 +42,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): <em>le</em>
-* `EMPTY` (11298): <em>si, che, chi, ci, cui, lo, ne, qual, quanto, c'</em>
+* `EMPTY` (11297): <em>si, che, chi, ci, cui, lo, ne, qual, quanto, c'</em>
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Breton KEB
 
-Language: [Breton](../br/overview/br-hub.html) (code: `br`)<br/>
+Language: [Breton](/br/index.html) (code: `br`)<br/>
 Family: Indo-European, Celtic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -174,378 +175,342 @@ year = 2018
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>NOUN: yezh, vro, rannvro, bro, gevredigezh, gêr, plac'h, amzer, stad, wetur</li>
-        <li>NUM: div, peder, teir</li>
-        <li>PRON: i, _, hi, anezhi, nni, -hi, he, zi, Honnezh, eben</li>
-        <li>PROPN: Lenaig, Mari, Mona, Morwenna, Anna, Janed, Nolwenn, Stéphanie</li>
-        <li>VERB-Fin: he deus, he devoa, he do</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>NOUN: yezh, vro, rannvro, bro, gevredigezh, gêr, plac'h, amzer, stad, wetur</li>
+      <li>NUM: div, peder, teir</li>
+      <li>PRON: i, _, hi, anezhi, nni, -hi, he, zi, Honnezh, eben</li>
+      <li>PROPN: Lenaig, Mari, Mona, Morwenna, Anna, Janed, Nolwenn, Stéphanie</li>
+      <li>VERB-Fin: he deus, he devoa, he do</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>NOUN: levr, dud, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</li>
-        <li>NUM: daou, tri, dri, pevar, zaou</li>
-        <li>PRON: _, añ, Hemañ, anezhañ, E, Hennezh, egile, nañ, nnañ</li>
-        <li>PROPN: Yann, Yannig, Divi, Fañch, Lan, Nevenoe, Iañ, Loeiz, Ber, Eric</li>
-        <li>VERB-Fin: en deus, en doa</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>NOUN: levr, dud, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</li>
+      <li>NUM: daou, tri, dri, pevar, zaou</li>
+      <li>PRON: _, añ, Hemañ, anezhañ, E, Hennezh, egile, nañ, nnañ</li>
+      <li>PROPN: Yann, Yannig, Divi, Fañch, Lan, Nevenoe, Iañ, Loeiz, Ber, Eric</li>
+      <li>VERB-Fin: en deus, en doa</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: a</li>
+      <li>NOUN: dud, vugale, tud, traoù, preudeur, merc'hed, rannvroioù, skolioù, skeudennoù, wazed</li>
+      <li>NUM: daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</li>
+      <li>PRON: h, _, holl, o, int, anezho, ar re all, c'hwi, Ni, anezhe</li>
+      <li>PROPN: Stadoù-Unanet</li>
+      <li>VERB: o deus, tennit, lennont, o doa, gavint, hon eus, klaskit, meskit, Lakait, emaint</li>
+      <li>VERB-Fin: o deus, lennont, o doa, gavint, hon eus, emaint, hoc'h eus, int, raent, reont</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: a</li>
-        <li>NOUN: dud, vugale, tud, traoù, preudeur, merc'hed, rannvroioù, skolioù, skeudennoù, wazed</li>
-        <li>NUM: daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</li>
-        <li>PRON: h, _, holl, o, int, anezho, ar re all, c'hwi, Ni, anezhe</li>
-        <li>PROPN: Stadoù-Unanet</li>
-        <li>VERB: o deus, tennit, lennont, o doa, gavint, hon eus, klaskit, meskit, Lakait, emaint</li>
-        <li>VERB-Fin: o deus, lennont, o doa, gavint, hon eus, emaint, hoc'h eus, int, raent, reont</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: kent</li>
+      <li>DET: bep, pep, kement</li>
+      <li>NOUN: levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</li>
+      <li>NUM: unan, 1, 1añ, 23e, 5e, IXvet, XVIIvet, 31añ</li>
+      <li>PRON: _, me, hini, i, añ, netra, a, hi, re, -me</li>
+      <li>PROPN: Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Brezhoneg, Europa</li>
+      <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
+      <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: kent</li>
-        <li>DET: bep, pep, kement</li>
-        <li>NOUN: levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</li>
-        <li>NUM: unan, 1, 1añ, 23e, 5e, IXvet, XVIIvet, 31añ</li>
-        <li>PRON: _, me, hini, i, añ, netra, a, hi, re, -me</li>
-        <li>PROPN: Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Brezhoneg, Europa</li>
-        <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
-        <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, ran</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: _, h, o, i, añ, anezhi, nni, anezhañ, anezho, E</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
-
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: _, h, o, i, añ, anezhi, nni, anezhañ, anezho, E</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>PRON: me, int, -me, hi, -hi, c'hwi, Ni</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: me, int, -me, hi, -hi, c'hwi, Ni</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: aesoc'h, bravoc'h, Klaseloc'h, c'hwekoc'h, diwezhatoc'h, emskiantekoc’h, gwelloc'h, hiroc'h, kempoelloc'h, nerzhusoc'h</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: aesoc'h, bravoc'h, Klaseloc'h, c'hwekoc'h, diwezhatoc'h, emskiantekoc’h, gwelloc'h, hiroc'h, kempoelloc'h, nerzhusoc'h</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: gwellañ, vrasañ, brasañ, goshañ, hirañ, yenañ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: gwellañ, vrasañ, brasañ, goshañ, hirañ, yenañ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: ne, n', Ne'z, n’</li>
-        <li>PART: na</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: ne, n', Ne'z, n’</li>
+      <li>PART: na</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Hab
-      <ul>
-        <li>VERB-Fin: vez, veze, ho pez, vezit, vezont</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Hab
+    <ul>
+      <li>VERB-Fin: vez, veze, ho pez, vezit, vezont</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>VERB: vefe, c'hellfe, c'hallfe, rafe, ve, blijfe, c'hanfe, ganfe, kollfemp, lavarfen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>VERB: vefe, c'hellfe, c'hallfe, rafe, ve, blijfe, c'hanfe, ganfe, kollfemp, lavarfen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB-Fin: eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>VERB-Fin: eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Opt
+    <ul>
+      <li>PART: ra</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Opt
-      <ul>
-        <li>PART: ra</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>VERB-Fin: vo, rin, zeuy, gavo, raio, yelo, gavint, teuio, kavo, ranko</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>VERB-Fin: oa, voe, reas, veze, welas, o doa, en doa, raent, c'helle, chomas</li>
+      <li>VERB-Part: bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>VERB-Fin: vo, rin, zeuy, gavo, raio, yelo, gavint, teuio, kavo, ranko</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Past
-      <ul>
-        <li>VERB-Fin: oa, voe, reas, veze, welas, o doa, en doa, raent, c'helle, chomas</li>
-        <li>VERB-Part: bet, kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>VERB-Fin: eo, zo, ra, vez, en deus, emañ, ran, he deus, o deus, am eus</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
+<ul>
+  <li>Pres
+    <ul>
+      <li>VERB-Fin: eo, zo, ra, vez, en deus, emañ, ran, he deus, o deus, am eus</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: Hemañ, kement-se, Hennezh, se, Honnezh, hounnezh</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: Hemañ, kement-se, Hennezh, se, Honnezh, hounnezh</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADJ: peseurt</li>
-        <li>ADV: penaos, pelec'h, Perak, Pegement, Pegoulz, pegen</li>
-        <li>DET: Peseurt</li>
-        <li>PRON: piv, petra, hag-eñ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADJ: peseurt</li>
+      <li>ADV: penaos, pelec'h, Perak, Pegement, Pegoulz, pegen</li>
+      <li>DET: Peseurt</li>
+      <li>PRON: piv, petra, hag-eñ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: _, me, h, o, i, añ, hi, int, -me, anezhi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: _, me, h, o, i, añ, hi, int, -me, anezhi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: a, re, ar pezh</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: a, re, ar pezh</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: pevare</li>
+      <li>NUM: eil, 13vet, 19vet, X, c'hentañ, drede, kentañ, trede, 17vet, 1añ</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: pevare</li>
-        <li>NUM: eil, 13vet, 19vet, X, c'hentañ, drede, kentañ, trede, 17vet, 1añ</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: ho, o, e, ma, he, va, hon, hoc'h, da, hor</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: ho, o, e, ma, he, va, hon, hoc'h, da, hor</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PART: em</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: _, me, -me, Ni, Va, ac'hanon, am</li>
+      <li>VERB: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
+      <li>VERB-Fin: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PART: em</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: h, _, c'hwi, az</li>
+      <li>VERB: tennit, klaskit, meskit, out, Lakait, hoc'h eus, rit, Ouzhpennit, Treuzit, c'hellit</li>
+      <li>VERB-Fin: out, hoc'h eus, rit, c'hellit, Emaout, Labourit, Lakait, Sellit, brenit, c'helloc'h</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: _, o, i, añ, hi, int, anezhi, nni, -hi, anezhañ</li>
+      <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, vefe</li>
+      <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, he deus</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
-
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: _, me, -me, Ni, Va, ac'hanon, am</li>
-        <li>VERB: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
-        <li>VERB-Fin: ran, am eus, em eus, on, rin, hon eus, lennan, welan, brenan, emaon</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: h, _, c'hwi, az</li>
-        <li>VERB: tennit, klaskit, meskit, out, Lakait, hoc'h eus, rit, Ouzhpennit, Treuzit, c'hellit</li>
-        <li>VERB-Fin: out, hoc'h eus, rit, c'hellit, Emaout, Labourit, Lakait, Sellit, brenit, c'helloc'h</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: _, o, i, añ, hi, int, anezhi, nni, -hi, anezhañ</li>
-        <li>VERB: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, vefe</li>
-        <li>VERB-Fin: eo, oa, vo, zo, ra, vez, en deus, voe, emañ, he deus</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Auto
-      <ul>
-        <li>VERB-Fin: reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Auto
+    <ul>
+      <li>VERB-Fin: reer, c'haller, c'heller, adkaver, eus, c'haver, c'houlenner, c’haller, eur, gaver</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
 
-<li><a>Gender[psor]</a>
+<ul>
+  <li>Fem
+    <ul>
+      <li>DET: he</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>DET: he</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Masc
-      <ul>
-        <li>DET: e</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Masc
+    <ul>
+      <li>DET: e</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Other Features</h3>

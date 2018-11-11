@@ -12,18 +12,18 @@ It occurs with 2 different values: `Past`, `Pres`.
 6132 tokens (6%) have a non-empty value of `Tense`.
 1091 types (7%) occur at least once with a non-empty value of `Tense`.
 611 lemmas (5%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3503; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2629; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3504; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2628; 3% instances).
 
 ### `VERB`
 
-3503 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
+3504 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3503; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2699; 77%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3504; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2700; 77%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (1666; 48% of non-empty `Tense`): <em>kwam, was, had, ontstond, kreeg, ging, nam, maakte, bleef, zorgde</em>
-* `Pres` (1837; 52% of non-empty `Tense`): <em>zie, heeft, is, zijn, komt, telt, staat, wint, gaat, hebben</em>
+* `Pres` (1838; 52% of non-empty `Tense`): <em>zie, heeft, is, zijn, komt, telt, staat, wint, gaat, hebben</em>
 * `EMPTY` (2993): <em>genoemd, volgende, maken, opgericht, gemaakt, gaan, gebruikt, laten, tekenen, vervangen</em>
 
 <table>
@@ -34,14 +34,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-2629 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
+2628 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2629; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2077; 79%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2628; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2076; 79%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (1201; 46% of non-empty `Tense`): <em>werd, was, werden, waren, zou, had, kon, moest, hadden, zouden</em>
-* `Pres` (1428; 54% of non-empty `Tense`): <em>is, wordt, zijn, worden, kan, heeft, zal, moet, hebben, kunnen</em>
+* `Pres` (1427; 54% of non-empty `Tense`): <em>is, wordt, zijn, worden, kan, heeft, zal, moet, hebben, kunnen</em>
 * `EMPTY` (166): <em>worden, zijn, geworden, kunnen, geweest, hebben, moeten, blijven, gebleven, zijnde</em>
 
 <table>

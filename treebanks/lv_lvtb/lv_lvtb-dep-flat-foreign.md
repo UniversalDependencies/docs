@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>.
 
-62 nodes (0%) are attached to their parents as `flat:foreign`.
+71 nodes (0%) are attached to their parents as `flat:foreign`.
 
-62 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.20967741935484.
+71 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.98591549295775.
 
-The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (61; 98% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (70; 99% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

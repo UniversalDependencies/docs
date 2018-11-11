@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-969 nodes (1%) are attached to their parents as `fixed`.
+1585 nodes (1%) are attached to their parents as `fixed`.
 
-969 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30856553147575.
+1585 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.2788643533123.
 
-The following 50 pairs of parts of speech are connected with `fixed`: <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (391; 40% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (87; 9% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (78; 8% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (57; 6% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (36; 4% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (34; 4% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (26; 3% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (21; 2% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (20; 2% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 64 pairs of parts of speech are connected with `fixed`: <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (391; 25% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (196; 12% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (125; 8% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (99; 6% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (94; 6% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (92; 6% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (88; 6% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (78; 5% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (36; 2% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (28; 2% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (26; 2% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (25; 2% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-AUX.html">AUX</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="he_htb-pos-X.html">X</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 50 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	ב	ב	ADP	ADP	_	9	advmod	_	_
 7	דרך	דרך	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	fixed	_	_
 8	כלל	כלל	NOUN	NOUN	Gender=Masc|Number=Sing	6	fixed	_	_
-9	יש	יש	VERB	VERB	HebExistential=True	3	conj:discourse	_	_
-10	בו	ב	ADP	ADP	_	11	case	_	_
-11	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	יש	יש	VERB	VERB	HebExistential=True	3	parataxis	_	_
+10	ב_	ב	ADP	ADP	_	11	case	_	_
+11	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 12	נגיעה	נגיעה	NOUN	NOUN	Gender=Fem|Number=Sing	9	nsubj	_	_
 13	ל	ל	ADP	ADP	_	14	case	_	_
 14	ענייני	עניין	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	12	nmod	_	_
@@ -43,30 +43,29 @@ The following 50 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 fixed	color:blue
-1	ו	ו	CCONJ	CCONJ	_	5	cc	_	_
-2	כך	כך	ADV	ADV	_	4	advmod	_	_
-3	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-4	נמשך	נמשך	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	0	root	_	_
-5	ו	ו	CCONJ	CCONJ	_	6	cc	_	_
-6	נמשך	נמשך	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	4	conj	_	_
-7	,	,	PUNCT	PUNCT	_	4	punct	_	_
-8	על	על	ADP	ADP	_	12	case	_	SpaceAfter=No
-9	-	-	PUNCT	PUNCT	_	8	fixed	_	SpaceAfter=No
-10	פני	פנים	NOUN	NOUN	Definite=Cons|Gender=Fem,Masc|Number=Plur	8	fixed	_	_
-11	16	16	NUM	NUM	_	12	nummod	_	_
-12	עמוד_	עמוד	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
-13	_של_	של	ADP	ADP	_	14	case:gen	_	_
-14	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
-15	של	של	PART	PART	Case=Gen	16	case:gen	_	_
-16	כתב	כתב	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	12	nmod:poss	_	_
-17	ה	ה	DET	DET	PronType=Art	18	det:def	_	_
-18	עת	עת	NOUN	NOUN	Gender=Fem|Number=Sing	16	compound:smixut	_	_
-19	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 8 10 fixed	color:blue
+1	אט	אט	ADV	ADV	_	3	advmod	_	_
+2	אט	אט	ADV	ADV	_	1	fixed	_	_
+3	התחיל	התחיל	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
+5	המון	המון	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
+6	לצעוד	צעד	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+7	אל	אל	ADP	ADP	_	12	case	_	_
+8	מ	מ	ADP	ADP	_	12	case	_	_
+9	חוץ	חוץ	NOUN	NOUN	Gender=Masc|Number=Sing	8	fixed	_	_
+10	ל	ל	ADP	ADP	_	8	fixed	_	_
+11	ה_	ה	DET	DET	PronType=Art	12	det:def	_	_
+12	סמטאות	סמטה	NOUN	NOUN	Gender=Fem|Number=Plur	6	obl	_	_
+13	לעבר	לעבר	ADP	ADP	_	15	case	_	_
+14	ה	ה	DET	DET	PronType=Art	15	det:def	_	_
+15	כביש	כביש	NOUN	NOUN	Gender=Masc|Number=Sing	6	obl	_	_
+16	ה	ה	DET	DET	PronType=Art	17	det:def	_	_
+17	ראשי	ראשי	ADJ	ADJ	Gender=Masc|Number=Sing	15	amod	_	_
+18	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 
@@ -77,18 +76,17 @@ The following 50 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	מ	מ	ADP	ADP	_	3	case	_	_
-2	אז	אז	ADV	ADV	_	1	fixed	_	_
-3	נפתחה	נפתח	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Mid	9	nmod	_	_
-4	ב	ב	ADP	ADP	_	5	case	_	_
-5	ינואר	ינואר	PROPN	PROPN	_	3	obl	_	_
-6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	הפכה	הפך	VERB	VERB	Gender=Fem|Number=Sing|Person=3|Tense=Past	9	aux	_	_
-8	ל	ל	ADP	ADP	_	9	case	_	_
-9	מסעדה	מסעדה	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-10	מדוברת	מדובר	ADJ	ADJ	Gender=Fem|Number=Sing	9	amod	_	_
-11	מאוד	מאוד	ADV	ADV	_	10	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	9	punct	_	_
+1	עד	עד	ADP	ADP	_	3	mark	_	_
+2	ש	ש	SCONJ	SCONJ	_	1	fixed	_	_
+3	נפרדנו	נפרד	VERB	VERB	Gender=Fem,Masc|HebBinyan=NIFAL|Number=Plur|Person=1|Tense=Past|Voice=Mid	4	advcl	_	_
+4	החל	החל	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+5	לרדת	ירד	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	גשם	גשם	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	סתיו	סתיו	NOUN	NOUN	Gender=Masc|Number=Sing	6	compound:smixut	_	_
+8	דקיק	דקיק	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
+9	ו	ו	CCONJ	CCONJ	_	10	cc	_	_
+10	דוקרני	דוקרני	ADJ	ADJ	Gender=Masc|Number=Sing	8	conj	_	_
+11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

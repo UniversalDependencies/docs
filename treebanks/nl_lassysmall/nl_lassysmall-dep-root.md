@@ -11,9 +11,9 @@ This relation is universal.
 7341 nodes (7%) are attached to their parents as `root`.
 
 7341 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.19942787086228.
+Average distance between parent and child is 4.19888298596921.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3217; 44% instances), -<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1769; 24% instances), -<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1302; 18% instances), -<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (538; 7% instances), -<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (300; 4% instances), -<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (63; 1% instances), -<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (53; 1% instances), -<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (41; 1% instances), -<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (34; 0% instances), -<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (11; 0% instances), -<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3218; 44% instances), -<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1768; 24% instances), -<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1302; 18% instances), -<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (538; 7% instances), -<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (300; 4% instances), -<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (63; 1% instances), -<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (53; 1% instances), -<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (41; 1% instances), -<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (34; 0% instances), -<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (11; 0% instances), -<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,16 +47,16 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Bart	Bart	PROPN	SPEC|deeleigen	_	0	root	0:root	_
-2	De	De	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
-3	Wever	Wever	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	SpaceAfter=No
+2	De	De	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+3	Wever	Wever	PROPN	SPEC|deeleigen	_	1	flat	1:flat	SpaceAfter=No
 4	:	:	PUNCT	LET	_	6	punct	6:punct	_
 5	algemeen	algemeen	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	6	amod	6:amod	_
 6	voorzitter	voorzitter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 7	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
 8	sinds	sinds	ADP	VZ|init	_	9	case	9:case	_
-9	23	23	NUM	TW|hoofd|vrij	_	6	nmod	6:nmod	_
-10	oktober	oktober	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	flat:name	9:flat:name	_
-11	2004	2004	NUM	TW|hoofd|vrij	_	9	flat:name	9:flat:name	SpaceAfter=No
+9	23	23	NUM	TW|hoofd|vrij	_	6	nmod	6:nmod:sinds	_
+10	oktober	oktober	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	flat	9:flat	_
+11	2004	2004	NUM	TW|hoofd|vrij	_	9	flat	9:flat	SpaceAfter=No
 12	)	)	PUNCT	LET	_	9	punct	9:punct	_
 
 ~~~

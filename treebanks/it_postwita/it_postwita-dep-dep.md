@@ -23,7 +23,7 @@ The following 53 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 8 dep	color:blue
 1	RT	retweet	NOUN	S	_	4	dep	_	_
-2	@xharoldshugs	@xharoldshugs	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
+2	@user	@user	SYM	SYM	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	FC	_	2	punct	_	_
 4	TROVA	trovare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	LE	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_

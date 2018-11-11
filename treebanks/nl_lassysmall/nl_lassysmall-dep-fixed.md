@@ -31,7 +31,7 @@ The following 105 pairs of parts of speech are connected with `fixed`: <tt><a hr
 7	van	van	ADP	VZ|init	_	10	case	10:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
 9	bestendige	bestendig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
-10	deputatie	deputatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl	SpaceAfter=No
+10	deputatie	deputatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:van	SpaceAfter=No
 11	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 105 pairs of parts of speech are connected with `fixed`: <tt><a hr
 5	»	»	PUNCT	LET	_	2	punct	2:punct	SpaceAfter=No
 6	,	,	PUNCT	LET	_	7	punct	7:punct	_
 7	Uitgeverij	Uitgeverij	PROPN	SPEC|deeleigen	_	2	parataxis	2:parataxis	_
-8	TYR	TYR	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	SpaceAfter=No
+8	TYR	TYR	PROPN	SPEC|deeleigen	_	7	flat	7:flat	SpaceAfter=No
 9	,	,	PUNCT	LET	_	10	punct	10:punct	_
 10	1989	1989	NUM	TW|hoofd|vrij	_	2	parataxis	2:parataxis	SpaceAfter=No
 11	.	.	PUNCT	LET	_	2	punct	2:punct	_
@@ -71,7 +71,7 @@ The following 105 pairs of parts of speech are connected with `fixed`: <tt><a hr
 5	verfilming	verfilming	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	parataxis	3:parataxis	_
 6	van	van	ADP	VZ|init	_	8	case	8:case	_
 7	het	het	DET	LID|bep|stan|evon	Definite=Def	8	det	8:det	_
-8	album	album	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	nmod	5:nmod	_
+8	album	album	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	nmod	5:nmod:van	_
 9	«	«	PUNCT	LET	_	10	punct	10:punct	SpaceAfter=No
 10	De	de	DET	LID|bep|stan|rest	Definite=Def	8	appos	8:appos	_
 11	duistere	duister	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	fixed	10:fixed	_

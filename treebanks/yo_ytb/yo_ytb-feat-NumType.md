@@ -20,5 +20,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="yo_ytb-pos-NUM.html
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (11; 100% of non-empty `NumType`): <em>kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan</em>
+* `Card` (11; 100% of non-empty `NumType`): <em>kan, Mẹ́ẹ̀dógún, kárùn-ún, méjì, mẹ́rin, Ọ̀kan</em>
 

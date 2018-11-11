@@ -12,15 +12,15 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 9291 tokens (9%) have a non-empty value of `VerbForm`.
 2350 types (15%) occur at least once with a non-empty value of `VerbForm`.
 1292 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (6496; 7% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2795; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (6497; 7% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2794; 3% instances).
 
 ### `VERB`
 
-6496 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+6497 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (3503; 54% of non-empty `VerbForm`): <em>zie, heeft, kwam, is, zijn, komt, telt, staat, was, wint</em>
+* `Fin` (3504; 54% of non-empty `VerbForm`): <em>zie, heeft, kwam, is, zijn, komt, telt, staat, was, wint</em>
 * `Inf` (987; 15% of non-empty `VerbForm`): <em>maken, gaan, laten, tekenen, geven, houden, zien, nemen, hebben, komen</em>
 * `Part` (2006; 31% of non-empty `VerbForm`): <em>genoemd, volgende, opgericht, gemaakt, gebruikt, gekozen, gelegen, verkozen, bestaande, geboren</em>
 
@@ -35,13 +35,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-V
 
 ### `AUX`
 
-2795 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+2794 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2077; 74%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1428; 51%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2076; 74%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1427; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2629; 94% of non-empty `VerbForm`): <em>is, werd, was, wordt, zijn, werden, worden, waren, zou, kan</em>
+* `Fin` (2628; 94% of non-empty `VerbForm`): <em>is, werd, was, wordt, zijn, werden, worden, waren, zou, kan</em>
 * `Inf` (132; 5% of non-empty `VerbForm`): <em>worden, zijn, kunnen, hebben, moeten, blijven, heten, mogen, zullen</em>
 * `Part` (34; 1% of non-empty `VerbForm`): <em>geworden, geweest, gebleven, zijnde, geheten</em>
 

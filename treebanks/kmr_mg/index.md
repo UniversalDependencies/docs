@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Kurmanji MG
 
-Language: [Kurmanji](../kmr/overview/kmr-hub.html) (code: `kmr`)<br/>
+Language: [Kurmanji](/kmr/index.html) (code: `kmr`)<br/>
 Family: Indo-European, Iranian
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Memduh Gökırmak, Francis Tyers.
 
 Repository: [UD_Kurmanji-MG](https://github.com/UniversalDependencies/UD_Kurmanji-MG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -165,479 +166,443 @@ year = 2017
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADP: ya, a, Stêrên</li>
-        <li>DET: vê, wê, _</li>
-        <li>NOUN: sala, oda, xweha, kurdî, banû, caran, dema, odê, qesirê, salên</li>
-        <li>PRON: wê, _, vê, we, ve</li>
-        <li>PROPN: Stonêrê, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, roma, Amerîkaya</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADP: ya, a, Stêrên</li>
+      <li>DET: vê, wê, _</li>
+      <li>NOUN: sala, oda, xweha, kurdî, banû, caran, dema, odê, qesirê, salên</li>
+      <li>PRON: wê, _, vê, we, ve</li>
+      <li>PROPN: Stonêrê, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, roma, Amerîkaya</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fem,Masc
-      <ul>
-        <li>ADP: yên, ên, en</li>
-        <li>DET: her, ev, hin, çend, hinek, ew, van, hemî, wan, hemû</li>
-        <li>PRON: xwe, min, me, em, ew, ez, te, wan, _, ev</li>
-        <li>PROPN: Hegel</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem,Masc
+    <ul>
+      <li>ADP: yên, ên, en</li>
+      <li>DET: her, ev, hin, çend, hinek, ew, van, hemî, wan, hemû</li>
+      <li>PRON: xwe, min, me, em, ew, ez, te, wan, _, ev</li>
+      <li>PROPN: Hegel</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADP: yê, ê, ye</li>
-        <li>DET: vî, wî</li>
-        <li>NOUN: zirbavê, gund, navê, serê, zimanê, nav, derî, mirov, dengê, dest</li>
-        <li>PRON: wî, _, ewî, Gelek, gelekê, wi</li>
-        <li>PROPN: Holmes, Rweylot, Stonêrê, Stonêr, Şerlok, Wetsin, Feqiyê, Keya, Mistentiq, Îsa</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADP: yê, ê, ye</li>
+      <li>DET: vî, wî</li>
+      <li>NOUN: zirbavê, gund, navê, serê, zimanê, nav, derî, mirov, dengê, dest</li>
+      <li>PRON: wî, _, ewî, Gelek, gelekê, wi</li>
+      <li>PROPN: Holmes, Rweylot, Stonêrê, Stonêr, Şerlok, Wetsin, Feqiyê, Keya, Mistentiq, Îsa</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADP: yên, ên, Stêrên, en</li>
+      <li>AUX-Fin: bûn, hene, in, ne, bûne, bibin, dibin, hebûn, bû bûn, hebûne</li>
+      <li>DET: gelek, van, hemî, wan, hemû, gellek, pir</li>
+      <li>NOUN: kurdan, caran, salên, salan, çavên, helbestên, navên, berhemên, destên, nivîsên</li>
+      <li>NUM: du, sê, pênc, hezar, sed, çar, 1932'an, hezaran, sedan, 14an</li>
+      <li>PRON: me, em, wan, emê, we, ew, Honê, hûn, Gelek, gelekê</li>
+      <li>PROPN: Badînan, Botan</li>
+      <li>VERB-Fin: hatine, bikin, dikin, tên, herin, kirin, derketin, didin, digirin, dihatin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADP: yên, ên, Stêrên, en</li>
-        <li>AUX-Fin: bûn, hene, in, ne, bûne, bibin, dibin, hebûn, bû bûn, hebûne</li>
-        <li>DET: gelek, van, hemî, wan, hemû, gellek, pir</li>
-        <li>NOUN: kurdan, caran, salên, salan, çavên, helbestên, navên, berhemên, destên, nivîsên</li>
-        <li>NUM: du, sê, pênc, hezar, sed, çar, 1932'an, hezaran, sedan, 14an</li>
-        <li>PRON: me, em, wan, emê, we, ew, Honê, hûn, Gelek, gelekê</li>
-        <li>PROPN: Badînan, Botan</li>
-        <li>VERB-Fin: hatine, bikin, dikin, tên, herin, kirin, derketin, didin, digirin, dihatin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Plur,Sing
+    <ul>
+      <li>DET: ev, hin, çend, hinek, ew, hindik, hinekî</li>
+      <li>PRON: xwe, ev, hev, ew, kû, _, ku, xwê, çi</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur,Sing
-      <ul>
-        <li>DET: ev, hin, çend, hinek, ew, hindik, hinekî</li>
-        <li>PRON: xwe, ev, hev, ew, kû, _, ku, xwê, çi</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADP: ya, a, yê, ê, ye</li>
+      <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bû bû, im, dibû</li>
+      <li>DET: vê, her, wê, vî, wî, Herçî, _, ewqas, herdu, yekî</li>
+      <li>NOUN: sala, oda, xweha, navê, zirbavê, gund, serê, zimanê, derî, kurdî</li>
+      <li>NUM: yek, yekê</li>
+      <li>PRON: min, wî, _, ez, wê, ew, te, tu, ezê, tukesî</li>
+      <li>PROPN: Holmes, Rweylot, Stonêrê, Stonêr, Tirkiyeyê, Şerlok, Cûlyayê, Ewropayê, Hindistanê, Wetsin</li>
+      <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
+      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADP: ya, a, yê, ê, ye</li>
-        <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bû bû, im, dibû</li>
-        <li>DET: vê, her, wê, vî, wî, Herçî, _, ewqas, herdu, yekî</li>
-        <li>NOUN: sala, oda, xweha, navê, zirbavê, gund, serê, zimanê, derî, kurdî</li>
-        <li>NUM: yek, yekê</li>
-        <li>PRON: min, wî, _, ez, wê, ew, te, tu, ezê, tukesî</li>
-        <li>PROPN: Holmes, Rweylot, Stonêrê, Stonêr, Tirkiyeyê, Şerlok, Cûlyayê, Ewropayê, Hindistanê, Wetsin</li>
-        <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
-        <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, kiriye</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Con
+    <ul>
+      <li>ADJ: saliya, derûniyê, germa, kelha, kurê, orjinalê, saliyê, tevahiya, tirşê</li>
+      <li>NOUN: sala, oda, xweha, zirbavê, navê, serê, zimanê, dema, dengê, aliyê</li>
+      <li>PROPN: Stonêrê, Amerîkaya, Feqiyê, Evdirehmanê, Kurdistana, Badînan, Cizîra, Efrîqaya, Emerîkaya, Gulçîna</li>
+      <li>X: mûrên</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Nom
+    <ul>
+      <li>DET: ev, ew</li>
+      <li>NOUN: kurdî, banû, mirov, nav, tişt, gor, gorî, hûr, mar, seh</li>
+      <li>NUM: du, yek, sê, pênc, çar, deh, dido, dwanzde, dû, penc</li>
+      <li>PRON: em, ew, ez, ev, tu, emê, ezê, Honê, hûn, Eve</li>
+      <li>PROPN: Holmes, Rweylot, Stonêr, roma, Şerlok, Botan, Keya, Teyran, Abdusamet, Elî</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Con
-      <ul>
-        <li>ADJ: saliya, derûniyê, germa, kelha, kurê, orjinalê, saliyê, tevahiya, tirşê</li>
-        <li>NOUN: sala, oda, xweha, zirbavê, navê, serê, zimanê, dema, dengê, aliyê</li>
-        <li>PROPN: Stonêrê, Amerîkaya, Feqiyê, Evdirehmanê, Kurdistana, Badînan, Cizîra, Efrîqaya, Emerîkaya, Gulçîna</li>
-        <li>X: mûrên</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Obl
+    <ul>
+      <li>DET: vê, wê, vî, wî, van, wan, _</li>
+      <li>NOUN: gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</li>
+      <li>NUM: yekê, 1932'an, 14an, 1500'an, 1534'an, 1603'an, 1604'an, 1788'an, 1825'an, 1829'an</li>
+      <li>PRON: min, me, wî, _, wê, te, wan, we, vê, ewî</li>
+      <li>PROPN: Holmes, Stonêrê, Rweylot, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Nom
-      <ul>
-        <li>DET: ev, ew</li>
-        <li>NOUN: kurdî, banû, mirov, nav, tişt, gor, gorî, hûr, mar, seh</li>
-        <li>NUM: du, yek, sê, pênc, çar, deh, dido, dwanzde, dû, penc</li>
-        <li>PRON: em, ew, ez, ev, tu, emê, ezê, Honê, hûn, Eve</li>
-        <li>PROPN: Holmes, Rweylot, Stonêr, roma, Şerlok, Botan, Keya, Teyran, Abdusamet, Elî</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Obl
-      <ul>
-        <li>DET: vê, wê, vî, wî, van, wan, _</li>
-        <li>NOUN: gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</li>
-        <li>NUM: yekê, 1932'an, 14an, 1500'an, 1534'an, 1603'an, 1604'an, 1788'an, 1825'an, 1829'an</li>
-        <li>PRON: min, me, wî, _, wê, te, wan, we, vê, ewî</li>
-        <li>PROPN: Holmes, Stonêrê, Rweylot, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Voc
-      <ul>
-        <li>NOUN: zanyariyên</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Voc
+    <ul>
+      <li>NOUN: zanyariyên</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
-
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADP: Stêrên</li>
-        <li>NOUN: sala, oda, xweha, zirbavê, gund, navê, serê, zimanê, kurdan, derî</li>
-        <li>NUM: du, yek, yekê, sê, pênc, çar, deh, dido, dwanzde, dû</li>
-        <li>PROPN: Tirkiyeyê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, roma, Amerîkaya, Botan, Germanistanê</li>
-        <li>X: mûrên</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADP: Stêrên</li>
+      <li>NOUN: sala, oda, xweha, zirbavê, gund, navê, serê, zimanê, kurdan, derî</li>
+      <li>NUM: du, yek, yekê, sê, pênc, çar, deh, dido, dwanzde, dû</li>
+      <li>PROPN: Tirkiyeyê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê, roma, Amerîkaya, Botan, Germanistanê</li>
+      <li>X: mûrên</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: zêdetir, bêtir, xeternaktir, çêtir, bilindtir, dewlementir, girîngtir, meztir</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: zêdetir, bêtir, xeternaktir, çêtir, bilindtir, dewlementir, girîngtir, meztir</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: mezin, nû, bilind, aciz, ecêb, belek, dirêj, kûr, navîn, reş</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: mezin, nû, bilind, aciz, ecêb, belek, dirêj, kûr, navîn, reş</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: Zêdetirîn, aktîftirîn, dijwartirîn</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: Zêdetirîn, aktîftirîn, dijwartirîn</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: ne</li>
-        <li>AUX-Fin: nîne, tune</li>
-        <li>DET: tu, ti</li>
-        <li>VERB-Fin: meke, nayê, nehatiye, nikarî bû, nizanî, xuya dikir, ceza dikir, dernexist, maye, nade</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: ne</li>
+      <li>AUX-Fin: nîne, tune</li>
+      <li>DET: tu, ti</li>
+      <li>VERB-Fin: meke, nayê, nehatiye, nikarî bû, nizanî, xuya dikir, ceza dikir, dernexist, maye, nade</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>VERB-Fin: hate, hatine, hatiye, nehatiye, da bûye, nehatime, nehatine</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>VERB-Fin: hate, hatine, hatiye, nehatiye, da bûye, nehatime, nehatine</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prog
-      <ul>
-        <li>AUX-Fin: dibû, dibûm</li>
-        <li>VERB-Fin: dida, dikir, dihate, dadiket, dihatin, digeriya, digirt, rûdinişt, digeriyan, digot</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prog
+    <ul>
+      <li>AUX-Fin: dibû, dibûm</li>
+      <li>VERB-Fin: dida, dikir, dihate, dadiket, dihatin, digeriya, digirt, rûdinişt, digeriyan, digot</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: nebe</li>
+      <li>VERB-Fin: meke, bikin, Rahêje, berdin, bike, bikelînin, binêre, ke, rûne, werbigirin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: nebe</li>
-        <li>VERB-Fin: meke, bikin, Rahêje, berdin, bike, bikelînin, binêre, ke, rûne, werbigirin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</li>
+      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: e, ye, bû, bûn, dibe, hebû, bûye, heye, hene, in</li>
-        <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Opt
+    <ul>
+      <li>VERB-Fin: bikira, bidîta, bigota, bihata, bistandana</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Opt
-      <ul>
-        <li>VERB-Fin: bikira, bidîta, bigota, bihata, bistandana</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: be, hebe, bibe, bibim, bibin, bibî, bin, bit, nebe, nebit</li>
+      <li>VERB-Fin: bike, bikin, bidî, bêje, herin, bibêje, herî, berde, bibînin, bidin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: be, hebe, bibe, bibim, bibin, bibî, bin, bit, nebe, nebit</li>
-        <li>VERB-Fin: bike, bikin, bidî, bêje, herin, bibêje, herî, berde, bibînin, bidin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: bibin, hebit</li>
+      <li>PART: ê, _, dê, de</li>
+      <li>VERB-Fin: bibihîsin, biborînin, bibîne, bibînim, bibînin, bidin, bikarim, bikarin, bikî, bixebitin</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: bû, bûn, hebû, bûye, bûne, dibû, hebûn, bûm, bûya, biwa</li>
+      <li>VERB-Fin: da, kir, hatiye, gote, hat, hate, got, hatine, kiriye, girt</li>
+      <li>VERB-Part: mirî, qewimî, bû, dagirtî, daliqandî, diyarkirî, dîti, girtî, keti, parastî</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: bibin, hebit</li>
-        <li>PART: ê, _, dê, de</li>
-        <li>VERB-Fin: bibihîsin, biborînin, bibîne, bibînim, bibînin, bidin, bikarim, bikarin, bikî, bixebitin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pqp
+    <ul>
+      <li>AUX-Fin: bû bû, bû bûn</li>
+      <li>VERB-Fin: da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, gihaşti bûn, hatibû, kiri bûn, miri bû</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: bû, bûn, hebû, bûye, bûne, dibû, hebûn, bûm, bûya, biwa</li>
-        <li>VERB-Fin: da, kir, hatiye, gote, hat, hate, got, hatine, kiriye, girt</li>
-        <li>VERB-Part: mirî, qewimî, bû, dagirtî, daliqandî, diyarkirî, dîti, girtî, keti, parastî</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>AUX-Fin: bû bû, bû bûn</li>
-        <li>VERB-Fin: da bû, dîti bû, goti bû, keti bû, anî bû, bihîsti bû, gihaşti bûn, hatibû, kiri bûn, miri bû</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: e, ye, dibe, heye, hene, in, ne, im, be, dibin</li>
-        <li>VERB-Fin: tê, dike, divêt, dide, bike, bikin, dikin, tên, bidî, bêje</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: e, ye, dibe, heye, hene, in, ne, im, be, dibin</li>
+      <li>VERB-Fin: tê, dike, divêt, dide, bike, bikin, dikin, tên, bidî, bêje</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Evident</a></li>
+</ul>
 
-<li><a>Evident</a>
-
-  <ul>
-    <li>Nfh
-      <ul>
-        <li>AUX-Fin: bûye, bûne, bûya, biwa, hebûne</li>
-        <li>VERB-Fin: gote, hatiye, kiriye, dihate, maye, daye, digeriya, girtiye, avête, dane</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nfh
+    <ul>
+      <li>AUX-Fin: bûye, bûne, bûya, biwa, hebûne</li>
+      <li>VERB-Fin: gote, hatiye, kiriye, dihate, maye, daye, digeriya, girtiye, avête, dane</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: vê, ev, wê, ew, vî, van, wî, wan, _</li>
-        <li>NOUN: demê, derê, navê, şanî, armancê, awayî, babetê, beşdarî, caran, gundî</li>
-        <li>PRON: _, wan, ev, vê, ve</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: vê, ev, wê, ew, vî, van, wî, wan, _</li>
+      <li>NOUN: demê, derê, navê, şanî, armancê, awayî, babetê, beşdarî, caran, gundî</li>
+      <li>PRON: _, wan, ev, vê, ve</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: her, hin, gelek, çend, tu, hinek, heman, hemî, hemû, ti</li>
-        <li>NOUN: dengekî, tiştek, tiştekî, carekê, kesekî, malbateke, meymûnek, mirovekî, nişkekê, odeke</li>
-        <li>PRON: tukesî, yekî, Gelek, Herçî, Heçî, gelekê, heryekê, hevdu, ve, vê</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: her, hin, gelek, çend, tu, hinek, heman, hemî, hemû, ti</li>
+      <li>NOUN: dengekî, tiştek, tiştekî, carekê, kesekî, malbateke, meymûnek, mirovekî, nişkekê, odeke</li>
+      <li>PRON: tukesî, yekî, Gelek, Herçî, Heçî, gelekê, heryekê, hevdu, ve, vê</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: ka</li>
-        <li>DET: çi, çiqas</li>
-        <li>PRON: çi, Kî</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: ka</li>
+      <li>DET: çi, çiqas</li>
+      <li>PRON: çi, Kî</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: wî</li>
-        <li>PRON: xwe, min, me, wî, em, ew, ez, wê, te, tu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: wî</li>
+      <li>PRON: xwe, min, me, wî, em, ew, ez, wê, te, tu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rcp
-      <ul>
-        <li>PRON: hevûdin</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: hevûdin</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: çi</li>
-        <li>PRON: kû, ku</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: çi</li>
+      <li>PRON: kû, ku</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: du, yek, yekê, 4, siseyan, yekem, sê, 1, 10, 15'ê</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: du, yek, yekê, 4, siseyan, yekem, sê, 1, 10, 15'ê</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: xwe, hev, _, xwê</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: xwe, hev, _, xwê</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: bûn, im, me, bibim, bibin, hene, bûm</li>
+      <li>PRON: min, me, em, ez, emê, ezê</li>
+      <li>VERB-Fin: herin, dizanin, ketin, rabûm, bidin, derketin, dibêjim, dibînim, dixwazim, dîtin</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX-Fin: bibî, nebe, bibin, yî, î</li>
+      <li>PRON: te, tu, we, Honê, hûn, Tiwê, hon</li>
+      <li>VERB-Fin: bidî, bikin, herî, meke, bikî, dixwazî, kirî, nizanî, Rahêje, anî</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: bûn, im, me, bibim, bibin, hene, bûm</li>
-        <li>PRON: min, me, em, ez, emê, ezê</li>
-        <li>VERB-Fin: herin, dizanin, ketin, rabûm, bidin, derketin, dibêjim, dibînim, dixwazim, dîtin</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: bibî, nebe, bibin, yî, î</li>
-        <li>PRON: te, tu, we, Honê, hûn, Tiwê, hon</li>
-        <li>VERB-Fin: bidî, bikin, herî, meke, bikî, dixwazî, kirî, nizanî, Rahêje, anî</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bûn, hene, in</li>
-        <li>DET: wî</li>
-        <li>PRON: wî, ew, wê, _, we, ewî, Ev, Eve, wan, wi</li>
-        <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
-        <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: e, ye, bû, dibe, hebû, bûye, heye, bûn, hene, in</li>
+      <li>DET: wî</li>
+      <li>PRON: wî, ew, wê, _, we, ewî, Ev, Eve, wan, wi</li>
+      <li>VERB: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+      <li>VERB-Fin: tê, da, kir, hatiye, gote, hat, dike, hate, got, hatine</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -645,21 +610,23 @@ year = 2017
 <h3>Other Features</h3>
 
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Post
-      <ul>
-        <li>ADP: de, re, ve, ya, a, da, yên, yê, ê, ên</li>
-        <li>PRON: gelekê</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: di, bi, ji, li, ser, bo, ber, piştî, jê, pê</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Post
+        <ul>
+          <li>ADP: de, re, ve, ya, a, da, yên, yê, ê, ên</li>
+          <li>PRON: gelekê</li>
+        </ul>
+      </li>
+      <li>Prep
+        <ul>
+          <li>ADP: di, bi, ji, li, ser, bo, ber, piştî, jê, pê</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

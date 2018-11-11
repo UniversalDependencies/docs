@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux	_
 4	придуман	придумать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 5	в	в	ADP	_	_	6	case	6:case	_
-6	Греции	греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
+6	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl	_
 4	в	в	ADP	_	_	6	case	6:case	_
 5	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
-6	Science	science	PROPN	_	Foreign=Yes	0	root	0:root	SpaceAfter=No
+6	Science	Science	PROPN	_	Foreign=Yes	0	root	0:root	SpaceAfter=No
 7	"	"	PUNCT	_	_	6	punct	6:punct	_
 8	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	_
 9	опубликована	опубликовать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	flat:foreign	6:flat:foreign	_
@@ -52,9 +52,9 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 11	,	,	PUNCT	_	_	12	punct	12:punct	_
 12	подтверждающая	подтверждать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	10:acl	_
 13	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	12	obj	12:obj	_
-14	Петера	петер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod	_
-15	Тяка	тяк	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	flat:name	14:flat:name	SpaceAfter=No
-16	.	.	PUNCT	_	_	12	punct	12:punct	_
+14	Петера	Петер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	13:nmod	_
+15	Тяка	Тяк	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	flat:name	14:flat:name	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	6:punct	_
 
 ~~~
 
@@ -101,11 +101,11 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 34	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	conj	32:conj	_
 35	и	и	CCONJ	_	_	36	cc	36:cc	_
 36	металлы	металл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	32	conj	32:conj	_
-37	-	-	PUNCT	_	_	36	punct	36:punct	_
+37	-	-	PUNCT	_	_	31	punct	31:punct	_
 38	перерабатывайте	перерабатывать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	29	parataxis	29:parataxis	_
 39	на	на	ADP	_	_	40	case	40:case	_
 40	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	38	obl	38:obl	SpaceAfter=No
-41	.	.	PUNCT	_	_	38	punct	38:punct	_
+41	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 

@@ -55,6 +55,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (754; 60%),
-<tt>AUX --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (760; 61%),
+<tt>AUX --[<tt><a href="fr_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%).
 

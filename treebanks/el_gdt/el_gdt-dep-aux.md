@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2187 nodes (3%) are attached to their parents as `aux`.
+2420 nodes (4%) are attached to their parents as `aux`.
 
-2180 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1572930955647.
+2407 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39090909090909.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1883; 86% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (233; 11% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (45; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (22; 1% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `aux`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1869; 77% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (456; 19% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (49; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ήδη	ήδη	ADV	ADV	_	3	advmod	_	_
 3	παρουσιαστεί	παρουσιάζω	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 4	ορισμένα	ορισμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	5	amod	_	_
-5	στοιχεία	στοιχείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	SpaceAfter=No
+5	στοιχεία	στοιχείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj:pass	_	SpaceAfter=No
 6	:	:	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
@@ -65,13 +65,13 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Αυτό	αυτός	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	det	_	_
 2	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 5	να	να	PART	PART	_	6	aux	_	_
-6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	_	_
+6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 7	να	να	PART	PART	_	9	aux	_	_
 8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	πολύγλωσσο	πολύγλωσσος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+10	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

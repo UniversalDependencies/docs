@@ -30,14 +30,14 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	,	,	PUNCT	LET	_	4	punct	4:punct	_
 6	toen	toen	SCONJ	VG|onder	_	11	mark	11:mark	_
 7	Keizer	Keizer	PROPN	SPEC|deeleigen	_	11	nsubj	11:nsubj	_
-8	Karel	Karel	PROPN	SPEC|deeleigen	_	7	flat:name	7:flat:name	_
+8	Karel	Karel	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
 10	stad	stad	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
-11	bezocht	bezoeken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	advcl	18:advcl	SpaceAfter=No
+11	bezocht	bezoeken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	advcl	18:advcl:toen	SpaceAfter=No
 12	,	,	PUNCT	LET	_	11	punct	11:punct	_
 13	de	de	DET	LID|bep|stan|rest	Definite=Def	14	det	14:det	_
 14	stadswachter	stadswachter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nsubj	18:nsubj	_
-15	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	18	obj	18:obj|19:nsubj	_
+15	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	18	obj	18:obj|19:nsubj:xsubj	_
 16	niet	niet	ADV	BW	_	18	advmod	18:advmod	_
 17	had	hebben	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
 18	zien	zien	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	csubj	2:csubj	_
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
 9	kwartfinale	kwartfinale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
 10	te	te	ADP	VZ|init	_	11	mark	11:mark	_
-11	halen	halen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	advcl	7:advcl	SpaceAfter=No
+11	halen	halen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	advcl	7:advcl:in	SpaceAfter=No
 12	.	.	PUNCT	LET	_	7	punct	7:punct	_
 
 ~~~
@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	Staatsprijs	staatsprijs	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nsubj:pass	13:nsubj:pass	_
 9	aan	aan	ADP	VZ|init	_	11	case	11:case	_
 10	een	een	DET	LID|onbep|stan|agr	Definite=Ind	11	det	11:det	_
-11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl	_
+11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl:aan	_
 12	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 13	toegekend	toekennen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	SpaceAfter=No
 14	.	.	PUNCT	LET	_	5	punct	5:punct	_

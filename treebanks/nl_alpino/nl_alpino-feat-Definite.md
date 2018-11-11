@@ -22,13 +22,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.h
 
 * `Def` (17439; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, den, des, dé</em>
 * `Ind` (4430; 20% of non-empty `Definite`): <em>een, 'n, en</em>
-* `EMPTY` (3117): <em>welke, deze, geen, dit, welk, die, alle, enkele, dat, veel</em>
+* `EMPTY` (3118): <em>welke, deze, geen, dit, welk, die, alle, enkele, dat, veel</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>DET --[<tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt>]--> DET</tt> (7; 88%),
 <tt>DET --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 100%),
-<tt>DET --[<tt><a href="nl_alpino-dep-flat-name.html">flat:name</a></tt>]--> DET</tt> (3; 100%),
+<tt>DET --[<tt><a href="nl_alpino-dep-flat.html">flat</a></tt>]--> DET</tt> (3; 100%),
 <tt>DET --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (2; 100%).
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-107017 tokens (10%) have a non-empty value of `Tense`.
-29083 types (25%) occur at least once with a non-empty value of `Tense`.
-7175 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (99620; 9% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7397; 1% instances).
+107011 tokens (10%) have a non-empty value of `Tense`.
+29081 types (25%) occur at least once with a non-empty value of `Tense`.
+7177 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (99614; 9% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7397; 1% instances).
 
 ### `VERB`
 
-99620 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Tense`.
+99614 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (86741; 87%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 78%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (77283; 78%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64790; 65%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62926; 63%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (62147; 62%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (60326; 61%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (58330; 59%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (86741; 87%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 78%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (77283; 78%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64790; 65%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62926; 63%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (62141; 62%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (60320; 61%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (58330; 59%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (5698; 6% of non-empty `Tense`): <em>скажем, станет, придется, сможет, смогут, удастся, окажется, пойдет, позволит, станут</em>
-* `Past` (52306; 53% of non-empty `Tense`): <em>было, стал, сказал, стало, стали, мог, заявил, могли, удалось, стала</em>
+* `Past` (52300; 53% of non-empty `Tense`): <em>было, стал, сказал, стало, стали, мог, заявил, могли, удалось, стала</em>
 * `Pres` (41616; 42% of non-empty `Tense`): <em>может, есть, нет, могут, является, говорит, стоит, идет, имеет, говорят</em>
 * `EMPTY` (24098): <em>быть, сделать, сказать, делать, получить, говорить, работать, стать, иметь, понять</em>
 

@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Vietnamese VTB
 
-Language: [Vietnamese](../vi/overview/vi-hub.html) (code: `vi`)<br/>
+Language: [Vietnamese](/vi/index.html) (code: `vi`)<br/>
 Family: Austro-Asiatic, Viet-Muong
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Lương Nguyễn Thị, Linh Hà Mỹ, Phương Lê Hồng, Huyền Nguyễn Thị Minh.
 
 Repository: [UD_Vietnamese-VTB](https://github.com/UniversalDependencies/UD_Vietnamese-VTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,16 +30,25 @@ Questions, comments?
 General annotation questions (either Vietnamese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Vietnamese-VTB/issues).
 If you want to collaborate, please contact [luongnt&nbsp;(æt)&nbsp;dlu&nbsp;•&nbsp;edu&nbsp;•&nbsp;vn, halinh&nbsp;•&nbsp;hus&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, phuonglh&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, ntmhuyen&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
+
+The Vietnamese UD treebank is a conversion of the constituent treebank created in the VLSP project
+(https://vlsp.hpda.vn/).
+
+
+
 
 ## Acknowledgments
 
@@ -123,40 +133,25 @@ If you want to collaborate, please contact [luongnt&nbsp;(æt)&nbsp;dlu&nbsp;•
 
 
 
-
-
-
-
-
-
 <h3>Degree and Polarity</h3>
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADJ: không thể</li>
-        <li>X: không, không thể, chẳng</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ: không thể</li>
+      <li>X: không, không thể, chẳng</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
-
-
-
-
-
 
 
 
@@ -168,26 +163,17 @@ If you want to collaborate, please contact [luongnt&nbsp;(æt)&nbsp;dlu&nbsp;•
 
 
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
-
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-
-
-
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn</li>
+    </ul>
+  </li>
+</ul>
 
 
 

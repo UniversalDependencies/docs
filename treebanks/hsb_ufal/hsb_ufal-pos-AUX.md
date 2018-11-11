@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Upper_Sorbian-UFAL: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (0%), 23 `AUX` types (1%) and 289 `AUX` tokens (3%).
+There are 2 `AUX` lemmas (0%), 23 `AUX` types (1%) and 290 `AUX` tokens (3%).
 Out of 16 observed tags, the rank of `AUX` is: 16 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>być, posłužić</em>
 
 The 10 most frequent `AUX` types:  <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
 
-The 10 most frequent ambiguous lemmas: <em>być</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 288, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 34), <em>posłužić</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>być</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 289, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 33), <em>posłužić</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 102, <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 5), <em>su</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 65, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 8), <em>bu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 28, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 2), <em>bě</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 25, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 3), <em>njeje</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>běchu</em> (<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 5, <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 4), <em>budu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>budźe</em> (<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 3, <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1), <em>njesu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>posłužić</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 102, <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 5), <em>su</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 65, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 8), <em>bu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 29, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>bě</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 25, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 3), <em>njeje</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>běchu</em> (<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 5, <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 4), <em>budu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>budźe</em> (<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 3, <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1), <em>njesu</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1), <em>posłužić</em> (<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>je</em>
@@ -26,8 +26,8 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="hsb_ufal-pos-AU
   * <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 65: <em>Wot bronzoweje doby <b>su</b> znate kulturne formy z wjetšimi symjenjemi .</em>
   * <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 8: <em>Někotre z nich <b>su</b> :</em>
 * <em>bu</em>
-  * <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 28: <em>Potom <b>bu</b> Babylon znowa kulturelny centrum Mezopotamiskeje .</em>
-  * <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 2: <em>W lěće 2006 <b>bu</b> wunamakował nowy šleski alfabet , kotryž bazuje na wšěch ze šleskich pismow ( je 10 pismow ) .</em>
+  * <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 29: <em>Potom <b>bu</b> Babylon znowa kulturelny centrum Mezopotamiskeje .</em>
+  * <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 1: <em>Zapřijeće <b>bu</b> w lěće 1819 wot Jacoba Grimma do rěčewědy za poznamjenjenje prawidłowneje změny w zdónkowym wokalu při fleksiji germanskich sylnych werbow ( tu a tam hižo zašo podobnje wužity , ale hišće nic jako jasnje wobrysowane fachowe zapřijeće ) .</em>
 * <em>bě</em>
   * <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> 25: <em>Kóžde z tutych sydlišćow <b>bě</b> politisce samostatne .</em>
   * <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> 3: <em>W starych kulturach w Mezopotamiskej , Egyptowskej , Persiskej a Israelu <b>bě</b> ludowy cyrobowy srědk .</em>
@@ -53,13 +53,13 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="hsb_ufal-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 11.500000 (the average of all parts of speech is 1.419749).
+The form / lemma ratio of `AUX` is 11.500000 (the average of all parts of speech is 1.418754).
 
 The 1st highest number of forms (22) was observed with the lemma “być”: <em>bu, buchu, budu, budźe, buštej, by, bychu, być, był, była, bě, běchu, běštej, je, njebuchu, njeje, njejsu, njesu, staj, stej, su, sy</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “posłužić”: <em>posłužić</em>.
 
-`AUX` occurs with 8 features: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt> (289; 100% instances), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt> (286; 99% instances), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt> (284; 98% instances), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt> (284; 98% instances), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt> (275; 95% instances), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt> (44; 15% instances), <tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt> (17; 6% instances), <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt> (2; 1% instances)
+`AUX` occurs with 8 features: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt> (290; 100% instances), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt> (287; 99% instances), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt> (285; 98% instances), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt> (285; 98% instances), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt> (276; 95% instances), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt> (45; 16% instances), <tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt> (17; 6% instances), <tt><a href="hsb_ufal-feat-Gender.html">Gender</a></tt> (2; 1% instances)
 
 `AUX` occurs with 18 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
@@ -70,11 +70,11 @@ Examples: <em>je</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="hsb_ufal-dep-cop.html">cop</a></tt> (240; 83% instances), <tt><a href="hsb_ufal-dep-aux.html">aux</a></tt> (47; 16% instances), <tt><a href="hsb_ufal-dep-aux-pass.html">aux:pass</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-root.html">root</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="hsb_ufal-dep-cop.html">cop</a></tt> (240; 83% instances), <tt><a href="hsb_ufal-dep-aux.html">aux</a></tt> (47; 16% instances), <tt><a href="hsb_ufal-dep-aux-pass.html">aux:pass</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (145; 50% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (87; 30% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (45; 16% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (1; 0% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (145; 50% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (87; 30% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (46; 16% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (1; 0% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-288 (100%) `AUX` nodes are leaves.
+289 (100%) `AUX` nodes are leaves.
 
 0 (0%) `AUX` nodes have one child.
 

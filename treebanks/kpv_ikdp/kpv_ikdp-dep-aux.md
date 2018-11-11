@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	advmod	_	Lang=Mixed
 6	местаясэ	места	NOUN	N	Case=Ill|Number=Plur	8	obl	_	Lang=Mixed
 7	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	ветлоо	ветлыны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
+8	ветлоо	ветлыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 aux	color:blue
-1	Воліс	волыны	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Воліс	волыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	же	жӧ	PART	Pcle	_	1	discourse	_	Lang=Mixed
 3	тундраас	тундра	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl	_	Lang=Mixed|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
@@ -49,12 +49,12 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	из	оз	VERB	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	абу	абу	PART	Pcle	Polarity=Neg	9	aux	_	_
-9	понравитчема	понравитчыны	VERB	V	_	1	conj	_	Lang=Mixed|SpaceAfter=No|Note=Check
+9	понравитчема	понравитчыны	VERB	V	Mood=Ind|Number=Sing	1	conj	_	Lang=Mixed|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	вермы	вермыны	VERB	V	Connegative=Yes	1	conj	_	_
-13	сыа	сійӧ	PRON	Pron	Case=Nom|Person=3|PronType=Prs	12	nsubj	_	_
-14	сэтшем	сэтшӧм	DET	Det	Case=Nom|Number=Sing	15	amod	_	_
+13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	amod	_	_
 15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	1	punct	_	_
 
@@ -76,7 +76,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	пока	пока	ADV	Adv	_	13	advmod	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	не	не	PART	Pcle	_	11	advmod	_	Lang=Mixed
+10	не	не	PART	Pcle	Polarity=Neg	11	advmod	_	Lang=Mixed
 11	то	то	PART	Pcle	_	13	advmod	_	Lang=Mixed
 12	что	что	PRON	Pron	_	11	goeswith	_	Lang=Rus
 13	лёк-а	лёк	ADJ	A	Case=Nom|Number=Sing	2	conj	_	SpaceAfter=No

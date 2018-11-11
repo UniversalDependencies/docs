@@ -12,17 +12,17 @@ It occurs with 2 different values: `Imp`, `Perf`.
 6932 tokens (11%) have a non-empty value of `Aspect`.
 2995 types (26%) occur at least once with a non-empty value of `Aspect`.
 956 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (6380; 10% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (552; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (6333; 10% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (599; 1% instances).
 
 ### `VERB`
 
-6380 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+6333 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5912; 93%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5892; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4763; 75%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4534; 71%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3719; 58%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5865; 93%), <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5845; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4721; 75%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4539; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3686; 58%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (3407; 53% of non-empty `Aspect`): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, έχουμε, υπάρχει, ήθελα</em>
+* `Imp` (3360; 53% of non-empty `Aspect`): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, έχουμε, υπάρχει, ήθελα</em>
 * `Perf` (2973; 47% of non-empty `Aspect`): <em>δήλωσε, γίνει, ανέφερε, έγινε, πω, ανακοίνωσε, τεθεί, αποτελέσει, γίνουν, επεσήμανε</em>
 
 <table>
@@ -42,13 +42,13 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-552 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
+599 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (552; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (552; 100%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (552; 100%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (524; 95%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (443; 80%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (420; 76%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (599; 100%), <tt><a href="el_gdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (599; 100%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 100%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (566; 94%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (473; 79%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 76%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (541; 98% of non-empty `Aspect`): <em>είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</em>
+* `Imp` (588; 98% of non-empty `Aspect`): <em>είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</em>
 * `Perf` (11; 2% of non-empty `Aspect`): <em>ήταν</em>
 
 <table>
@@ -66,10 +66,9 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (427; 80%),
-<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (406; 61%),
-<tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 60%),
-<tt>VERB --[<tt><a href="el_gdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (418; 79%),
+<tt>VERB --[<tt><a href="el_gdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (402; 62%),
+<tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (29; 60%),
 <tt>VERB --[<tt><a href="el_gdt-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="el_gdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (1; 100%).
 

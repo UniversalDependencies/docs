@@ -23,31 +23,31 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 flat	color:blue
-1	Die	_	DET	DT	Case=Nom|Definite=Def|Number=Plur|Person=3	3	det	_	_
-2	zentralen	_	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur|Person=3	3	amod	_	InflectionType=Weak
-3	Anden	_	PROPN	NNP	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
-4	gehören	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-5	zu	_	ADP	IN	_	9	case	_	_
-6	den	_	DET	DT	Case=Dat|Definite=Def|Number=Plur|Person=3	9	det	_	_
-7	sogenannten	_	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur|Person=3	9	amod	_	InflectionType=Weak
-8	„	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
-9	Andes	_	PROPN	NNP	Case=Dat|Number=Plur|Person=3	4	obl	_	_
-10	de	_	ADP	IN	Foreign=Yes	9	flat	_	_
-11	tipo	_	NOUN	NN	Foreign=Yes|Gender=Masc|Number=Sing|Person=3	10	flat	_	_
-12	andino	_	ADJ	JJ	Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	Proper=True|SpaceAfter=No
-13	“	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
-14	,	_	PUNCT	,	_	23	punct	_	_
-15	die	_	PRON	REL	Case=Nom|Number=Plur|Person=3	23	nsubj	_	_
-16	sich	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Rcp	23	obj	_	_
-17	durch	_	ADP	IN	_	19	case	_	_
-18	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	19	det	_	_
-19	Subduktion	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	23	obl	_	_
-20	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	22	det	_	_
-21	ozeanischen	_	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	22	amod	_	InflectionType=Weak
-22	Kruste	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nmod	_	_
-23	gebildet	_	VERB	VBN	Tense=Past	9	acl:relcl	_	_
-24	hatten	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	SpaceAfter=No
-25	.	_	PUNCT	.	_	4	punct	_	_
+1	Die	der	DET	DT	Case=Nom|Definite=Def|Number=Plur|Person=3	3	det	_	_
+2	zentralen	zentral	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur|Person=3	3	amod	_	InflectionType=Weak
+3	Anden	Anden	PROPN	NNP	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
+4	gehören	gehören	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	zu	zu	ADP	IN	_	9	case	_	_
+6	den	der	DET	DT	Case=Dat|Definite=Def|Number=Plur|Person=3	9	det	_	_
+7	sogenannten	sogenannt	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur|Person=3	9	amod	_	InflectionType=Weak
+8	„	„	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Andes	Andes	PROPN	NNP	Case=Dat|Number=Plur|Person=3	4	obl	_	_
+10	de	de	ADP	IN	Foreign=Yes	9	flat	_	_
+11	tipo	tipo	NOUN	NN	Foreign=Yes|Gender=Masc|Number=Sing|Person=3	10	flat	_	_
+12	andino	andino	ADJ	JJ	Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	Proper=True|SpaceAfter=No
+13	“	“	PUNCT	``	_	9	punct	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	23	punct	_	_
+15	die	der	PRON	REL	Case=Nom|Number=Plur|Person=3	23	nsubj	_	_
+16	sich	er|es|sie	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Rcp	23	obj	_	_
+17	durch	durch	ADP	IN	_	19	case	_	_
+18	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	19	det	_	_
+19	Subduktion	Subduktion	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	23	obl	_	_
+20	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	22	det	_	_
+21	ozeanischen	ozeanisch	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	22	amod	_	InflectionType=Weak
+22	Kruste	Krust	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nmod	_	_
+23	gebildet	bilden	VERB	VBN	Tense=Past	9	acl:relcl	_	_
+24	hatten	haben	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -58,25 +58,25 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 18 flat	color:blue
-1	Diese	_	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
-2	Abfassung	_	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
-3	war	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
-4	der	_	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	5	det	_	_
-5	Gründungsakt	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-6	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	8	det	_	_
-7	Römischen	_	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	8	amod	_	InflectionType=Weak|Proper=True
-8	Gesetzgebung	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	nmod	_	SpaceAfter=No
-9	,	_	PUNCT	,	_	11	punct	_	_
-10	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|Person=3	11	det	_	_
-11	Institutionen	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur|Person=3	8	conj	_	_
-12	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	14	det	_	_
-13	Römischen	_	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	14	amod	_	InflectionType=Weak|Proper=True
-14	Republik	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	_
-15	und	_	CCONJ	CC	_	17	cc	_	_
-16	des	_	DET	DT	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|Person=3	17	det	_	_
-17	mos	_	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing|Person=3	8	compound	_	Proper=True
-18	mojorum	_	X	FW	Foreign=Yes	17	flat	_	SpaceAfter=No
-19	.	_	PUNCT	.	_	5	punct	_	_
+1	Diese	dies	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
+2	Abfassung	Abfassung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+3	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+4	der	der	DET	DT	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3	5	det	_	_
+5	Gründungsakt	Gründungsakt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+6	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	8	det	_	_
+7	Römischen	römisch	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	8	amod	_	InflectionType=Weak|Proper=True
+8	Gesetzgebung	Gesetzgebung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|Person=3	11	det	_	_
+11	Institutionen	Institution	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur|Person=3	8	conj	_	_
+12	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	14	det	_	_
+13	Römischen	römisch	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	14	amod	_	InflectionType=Weak|Proper=True
+14	Republik	Republik	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	_
+15	und	und	CCONJ	CC	_	17	cc	_	_
+16	des	der	DET	DT	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|Person=3	17	det	_	_
+17	mos	mos	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing|Person=3	8	compound	_	Proper=True
+18	mojorum	mojorum	X	FW	Foreign=Yes	17	flat	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -87,31 +87,31 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat	color:blue
-1	Die	_	DET	DT	Case=Nom|Definite=Def|Number=Plur|Person=3	3	det	_	_
-2	zentralen	_	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur|Person=3	3	amod	_	InflectionType=Weak
-3	Anden	_	PROPN	NNP	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
-4	gehören	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-5	zu	_	ADP	IN	_	9	case	_	_
-6	den	_	DET	DT	Case=Dat|Definite=Def|Number=Plur|Person=3	9	det	_	_
-7	sogenannten	_	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur|Person=3	9	amod	_	InflectionType=Weak
-8	„	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
-9	Andes	_	PROPN	NNP	Case=Dat|Number=Plur|Person=3	4	obl	_	_
-10	de	_	ADP	IN	Foreign=Yes	9	flat	_	_
-11	tipo	_	NOUN	NN	Foreign=Yes|Gender=Masc|Number=Sing|Person=3	10	flat	_	_
-12	andino	_	ADJ	JJ	Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	Proper=True|SpaceAfter=No
-13	“	_	PUNCT	``	_	9	punct	_	SpaceAfter=No
-14	,	_	PUNCT	,	_	23	punct	_	_
-15	die	_	PRON	REL	Case=Nom|Number=Plur|Person=3	23	nsubj	_	_
-16	sich	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Rcp	23	obj	_	_
-17	durch	_	ADP	IN	_	19	case	_	_
-18	die	_	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	19	det	_	_
-19	Subduktion	_	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	23	obl	_	_
-20	der	_	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	22	det	_	_
-21	ozeanischen	_	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	22	amod	_	InflectionType=Weak
-22	Kruste	_	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nmod	_	_
-23	gebildet	_	VERB	VBN	Tense=Past	9	acl:relcl	_	_
-24	hatten	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	SpaceAfter=No
-25	.	_	PUNCT	.	_	4	punct	_	_
+1	Die	der	DET	DT	Case=Nom|Definite=Def|Number=Plur|Person=3	3	det	_	_
+2	zentralen	zentral	ADJ	JJ	Case=Nom|Degree=Pos|Number=Plur|Person=3	3	amod	_	InflectionType=Weak
+3	Anden	Anden	PROPN	NNP	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
+4	gehören	gehören	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	zu	zu	ADP	IN	_	9	case	_	_
+6	den	der	DET	DT	Case=Dat|Definite=Def|Number=Plur|Person=3	9	det	_	_
+7	sogenannten	sogenannt	ADJ	JJ	Case=Dat|Degree=Pos|Number=Plur|Person=3	9	amod	_	InflectionType=Weak
+8	„	„	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Andes	Andes	PROPN	NNP	Case=Dat|Number=Plur|Person=3	4	obl	_	_
+10	de	de	ADP	IN	Foreign=Yes	9	flat	_	_
+11	tipo	tipo	NOUN	NN	Foreign=Yes|Gender=Masc|Number=Sing|Person=3	10	flat	_	_
+12	andino	andino	ADJ	JJ	Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	Proper=True|SpaceAfter=No
+13	“	“	PUNCT	``	_	9	punct	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	23	punct	_	_
+15	die	der	PRON	REL	Case=Nom|Number=Plur|Person=3	23	nsubj	_	_
+16	sich	er|es|sie	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Rcp	23	obj	_	_
+17	durch	durch	ADP	IN	_	19	case	_	_
+18	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	19	det	_	_
+19	Subduktion	Subduktion	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	23	obl	_	_
+20	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	22	det	_	_
+21	ozeanischen	ozeanisch	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	22	amod	_	InflectionType=Weak
+22	Kruste	Krust	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nmod	_	_
+23	gebildet	bilden	VERB	VBN	Tense=Past	9	acl:relcl	_	_
+24	hatten	haben	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	SpaceAfter=No
+25	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

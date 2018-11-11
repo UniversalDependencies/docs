@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (31; 100% of non-empty `Polarity`): <em>njesłuša, njeje, Njejsu, Njewědźeše, Njewěm, njeběchu, njeda, njefunguja, njeliča, njeliči</em>
-* `EMPTY` (791): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (790): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (19) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): <em>njeje, njejsu, njebuchu, njesu</em>
-* `EMPTY` (272): <em>je, su, bu, bě, buchu, by, běchu, buštej, stej, bychu</em>
+* `EMPTY` (273): <em>je, su, bu, bě, buchu, by, běchu, buštej, stej, bychu</em>
 
 ### `ADJ`
 
@@ -69,5 +69,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>njederje, njesamostatnje</em>
-* `EMPTY` (537): <em>tež, tak, hišće, zwjetša, wjele, něhdźe, wjace, hižo, tu, najprjedy</em>
+* `EMPTY` (533): <em>tež, tak, hišće, zwjetša, hač, něhdźe, hižo, tu, wjace, najprjedy</em>
 

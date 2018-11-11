@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `NUM`
 
-There are 1 `NUM` lemmas (5%), 206 `NUM` types (3%) and 352 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 6 in number of types and 12 in number of tokens.
+There are 206 `NUM` lemmas (4%), 206 `NUM` types (3%) and 352 `NUM` tokens (2%).
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>_</em>
+The 10 most frequent `NUM` lemmas: <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
 The 10 most frequent `NUM` types:  <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4261, <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 2767, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 2515, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1913, <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> 1715, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1387, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1219, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1185, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 1139, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 950, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 743, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 352, <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="de_pud-pos-PART.html">PART</a></tt> 144, <tt><a href="de_pud-pos-X.html">X</a></tt> 31, <tt><a href="de_pud-pos-SYM.html">SYM</a></tt> 22)
+The 10 most frequent ambiguous lemmas: <em>zwei</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 22, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>3</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>10</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>sieben</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>16</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>31</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2), <em>6</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>21</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>16</em> (<tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>31</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 2), <em>21.</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>4</em> (<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>III</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -46,9 +46,13 @@ The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="de_pud-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 206.000000 (the average of all parts of speech is 307.454545).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.193156).
 
-The 1st highest number of forms (206) was observed with the lemma “_”: <em>-, 1, 1,165, 1,335, 1,4, 1,5, 10, 10.000, 100, 100.000, 1000, 103,7, 1072, 1075, 10:00, 11, 12.000, 120, 1200, 125, 1340, 137, 1399, 14, 1415, 1492, 15, 15,5, 15.000, 15.001, 1519, 1530, 1538, 1563, 1566, 16, 16.500, 1600, 1610, 1632, 168.000, 17, 1770, 1777, 1794, 1820, 1832, 1839, 1842, 1856, 1858, 1860, 1879, 1882, 1886, 1887, 1896, 19.999, 1900, 1903, 1904, 1911, 1912, 1913, 1914, 1916, 1917, 1918, 1925, 1926, 1927, 1928, 1933, 1945, 1947, 1948, 1952, 1954, 1955, 1956, 1960, 1961, 1962, 1969, 1973, 1975, 1976, 1977, 1979, 1980, 1981, 1984, 1987, 1988, 1990, 1991, 1992, 1993, 1994, 1996, 1997, 1998, 2, 20, 200, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2013-2014, 2014, 2015, 2015-2016, 2016, 2017, 2019, 2020, 2035, 2050, 21., 221, 23.45, 25.000, 28, 2900, 3, 3.000, 3000, 31, 328, 33, 330, 330.000, 3300, 34, 35.000, 352, 36, 360, 363, 367, 39, 393, 4, 40, 400, 42, 45, 49, 5, 5,7, 5.000, 50, 500, 5000, 511, 512, 53, 550, 56, 6, 6.000, 600.000, 62, 66, 6:30, 7, 7,5, 70, 700, 71, 760, 80, 830, 833, 84, 846, 9, 90, 96, Eins, III, Nine, acht, achtzehn, anderthalb, drei, fünf, neun, sechs, sieben, siebzehn, vier, zehn, zwei, zweitausend</em>.
+The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “1,165”: <em>1,165</em>.
 
 `NUM` occurs with 1 features: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt> (352; 100% instances)
 

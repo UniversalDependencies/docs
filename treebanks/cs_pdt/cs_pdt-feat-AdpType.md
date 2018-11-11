@@ -36,7 +36,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-ADP.html
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (585; 53%),
-<tt>ADP --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (14; 88%),
-<tt>ADP --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADP</tt> (12; 100%),
+<tt>ADP --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (11; 85%),
+<tt>ADP --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADP</tt> (11; 100%),
 <tt>ADP --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (3; 100%).
 

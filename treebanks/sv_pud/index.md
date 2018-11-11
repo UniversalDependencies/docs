@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Swedish PUD
 
-Language: [Swedish](../sv/overview/sv-hub.html) (code: `sv`)<br/>
+Language: [Swedish](/sv/index.html) (code: `sv`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
@@ -19,7 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud22)<br />
+Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
@@ -173,349 +174,316 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: stor, lång, egen, ensam, hög, liten, modern, politisk, ekonomisk, kort</li>
-        <li>ADJ-Part: känd, regisserad, anställd, gift, intresserad, samlad, utgiven, Designad, Grundad, Nedgrävd</li>
-        <li>DET: en, den, denna, någon, ingen, all, det, ett, vilken</li>
-        <li>NOUN: personer, miljoner, del, grund, oktober, världen, delen, tiden, plats, dollar</li>
-        <li>NUM: en</li>
-        <li>PRON: han, jag, sin, hon, den, vi, honom, en, du, henne</li>
-        <li>VERB-Part: förlorad, tvungen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Com
+    <ul>
+      <li>ADJ: stor, lång, egen, ensam, hög, liten, modern, politisk, ekonomisk, kort</li>
+      <li>ADJ-Part: känd, regisserad, anställd, gift, intresserad, samlad, utgiven, Designad, Grundad, Nedgrävd</li>
+      <li>DET: en, den, denna, någon, ingen, all, det, ett, vilken</li>
+      <li>NOUN: personer, miljoner, del, grund, oktober, världen, delen, tiden, plats, dollar</li>
+      <li>NUM: en</li>
+      <li>PRON: han, jag, sin, hon, den, vi, honom, en, du, henne</li>
+      <li>VERB-Part: förlorad, tvungen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: egyptiske, misstänkte, Like, Simple, anglikanske, belgiske, brittiske, demokratiske, dominikanske, högste</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: egyptiske, misstänkte, Like, Simple, anglikanske, belgiske, brittiske, demokratiske, dominikanske, högste</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: sett, annat, nytt, otroligt, öppet, allmänt, möjligt, stort, dåligt, eget</li>
-        <li>ADJ-Part: sett, inräknat, känt, Format, Uttryckt, begränsat, bevakat, beväpnat, delat, drivet</li>
-        <li>DET: ett, det, detta, något, inget, vilket, De, allt</li>
-        <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
-        <li>NUM: ett</li>
-        <li>PRON: det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: sett, annat, nytt, otroligt, öppet, allmänt, möjligt, stort, dåligt, eget</li>
+      <li>ADJ-Part: sett, inräknat, känt, Format, Uttryckt, begränsat, bevakat, beväpnat, delat, drivet</li>
+      <li>DET: ett, det, detta, något, inget, vilket, De, allt</li>
+      <li>NOUN: år, havet, fall, kriget, liv, antal, barn, åren, land, slutet</li>
+      <li>NUM: ett</li>
+      <li>PRON: det, detta, sitt, vad, vilket, ett, mycket, allt, vårt, allting</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: många, flera, andra, nya, stora, olika, fler, små, vissa, båda</li>
+      <li>ADJ-Part: allierade, kända, inblandade, kombinerade, kvalificerade, misstänkta, samlade, Finansierade, avlidna, beskattade</li>
+      <li>DET: de, alla, dessa, några, inga</li>
+      <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
+      <li>PRON: de, sina, vi, dem, vilka, oss, alla, många, andra, dessa</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: många, flera, andra, nya, stora, olika, fler, små, vissa, båda</li>
-        <li>ADJ-Part: allierade, kända, inblandade, kombinerade, kvalificerade, misstänkta, samlade, Finansierade, avlidna, beskattade</li>
-        <li>DET: de, alla, dessa, några, inga</li>
-        <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
-        <li>PRON: de, sina, vi, dem, vilka, oss, alla, många, andra, dessa</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: stor, hela, nya, södra, andra, lång, norra, brittiska, egen, ensam</li>
+      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
+      <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
+      <li>NOUN: havet, år, del, grund, oktober, världen, delen, kriget, liv, tiden</li>
+      <li>NUM: en, ett</li>
+      <li>PRON: det, han, jag, sin, hon, den, detta, honom, sitt, vad</li>
+      <li>VERB-Part: förlorad, tvungen</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: stor, hela, nya, södra, andra, lång, norra, brittiska, egen, ensam</li>
-        <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
-        <li>DET: en, den, ett, det, denna, varje, detta, någon, något, ingen</li>
-        <li>NOUN: havet, år, del, grund, oktober, världen, delen, kriget, liv, tiden</li>
-        <li>NUM: en, ett</li>
-        <li>PRON: det, han, jag, sin, hon, den, detta, honom, sitt, vad</li>
-        <li>VERB-Part: förlorad, tvungen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: sig, honom, dem, henne, oss, mig, dig, er, sej, varandra</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: ofattbaras</li>
+      <li>NOUN: stadens, världens, års, företagets, dussintals, flodens, havets, jordens, regeringens, regissörens</li>
+      <li>PROPN: USA:s, Kinas, Kongs, Australiens, Clintons, Disneys, Doss, Hitchcocks, Medelhavets, Rysslands</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: sig, honom, dem, henne, oss, mig, dig, er, sej, varandra</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: ofattbaras</li>
-        <li>NOUN: stadens, världens, års, företagets, dussintals, flodens, havets, jordens, regeringens, regissörens</li>
-        <li>PROPN: USA:s, Kinas, Kongs, Australiens, Clintons, Disneys, Doss, Hitchcocks, Medelhavets, Rysslands</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: första, andra, nya, många, flera, stora, stor, hela, senaste, sista</li>
-        <li>ADJ-Part: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
-        <li>NOUN: år, havet, personer, fall, miljoner, del, grund, oktober, världen, delen</li>
-        <li>NUM: två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</li>
-        <li>PRON: han, de, jag, hon, vi, du, man, ni</li>
-        <li>PROPN: Kina, Storbritannien, of, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North</li>
-        <li>VERB-Part: förlorad, tvungen</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: första, andra, nya, många, flera, stora, stor, hela, senaste, sista</li>
+      <li>ADJ-Part: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
+      <li>NOUN: år, havet, personer, fall, miljoner, del, grund, oktober, världen, delen</li>
+      <li>NUM: två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</li>
+      <li>PRON: han, de, jag, hon, vi, du, man, ni</li>
+      <li>PROPN: Kina, Storbritannien, of, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North</li>
+      <li>VERB-Part: förlorad, tvungen</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
 
-<li><a>Definite</a>
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: hela, senaste, nya, sista, högsta, största, södra, andra, bästa, främsta</li>
+      <li>ADJ-Part: Förenade, använda, bildade, bundna, frusna, frånskilda, förbättrade, hyllade, icke-vita, idealiserade</li>
+      <li>DET: den, de, det, denna, the, dessa, detta, a, Die, El</li>
+      <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
+      <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADJ: hela, senaste, nya, sista, högsta, största, södra, andra, bästa, främsta</li>
-        <li>ADJ-Part: Förenade, använda, bildade, bundna, frusna, frånskilda, förbättrade, hyllade, icke-vita, idealiserade</li>
-        <li>DET: den, de, det, denna, the, dessa, detta, a, Die, El</li>
-        <li>NOUN: havet, världen, delen, kriget, tiden, gången, regeringen, regionen, staden, åren</li>
-        <li>PRON: det, han, de, sig, hans, jag, sin, hon, den, sina</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: flera, stor, fler, lång, ensam, hög, liten, modern, politisk, sett</li>
-        <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
-        <li>DET: en, ett, samma, varje, några, någon, något, ingen, inget, a</li>
-        <li>NOUN: år, personer, fall, miljoner, del, grund, oktober, liv, plats, antal</li>
-        <li>NUM: en, ett</li>
-        <li>PRON: vad, en, vilket, vilka, alla, många, andra, ett, mycket, allt</li>
-        <li>VERB-Part: förlorad, tvungen</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: flera, stor, fler, lång, ensam, hög, liten, modern, politisk, sett</li>
+      <li>ADJ-Part: sett, känd, regisserad, anställd, fortsatt, gift, inräknat, intresserad, känt, samlad</li>
+      <li>DET: en, ett, samma, varje, några, någon, något, ingen, inget, a</li>
+      <li>NOUN: år, personer, fall, miljoner, del, grund, oktober, liv, plats, antal</li>
+      <li>NUM: en, ett</li>
+      <li>PRON: vad, en, vilket, vilka, alla, många, andra, ett, mycket, allt</li>
+      <li>VERB-Part: förlorad, tvungen</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: större, högre, mer, tidigare, senare, färre, mindre, ytterligare, yttre, äldre</li>
-        <li>ADV: mer, senare, tidigare, längre, bättre, mindre, hellre, snarare, närmare, vidare</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: större, högre, mer, tidigare, senare, färre, mindre, ytterligare, yttre, äldre</li>
+      <li>ADV: mer, senare, tidigare, längre, bättre, mindre, hellre, snarare, närmare, vidare</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</li>
-        <li>ADV: helt, mycket, ofta, väldigt, djupt, långt, direkt, lite, väl, faktiskt</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</li>
+      <li>ADV: helt, mycket, ofta, väldigt, djupt, långt, direkt, lite, väl, faktiskt</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, mesta, värsta</li>
-        <li>ADV: mest, sist, främst, värst, Minst, helst, ytterst, knappast</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: senaste, sista, högsta, största, bästa, främsta, bäst, flesta, mesta, värsta</li>
+      <li>ADV: mest, sist, främst, värst, Minst, helst, ytterst, knappast</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
-
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: aldrig, föga, knappast</li>
-        <li>PART: inte, icke, ej</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: aldrig, föga, knappast</li>
+      <li>PART: inte, icke, ej</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: Låt, Släpp, Spola</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: Låt, Släpp, Spola</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
+      <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
+      <li>VERB-Fin: har, sade, hade, finns, säger, började, blev, kommer, gjorde, tog</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
-        <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
-        <li>VERB-Fin: har, sade, hade, finns, säger, började, blev, kommer, gjorde, tog</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Past
+    <ul>
+      <li>ADJ-Part: sett, kända, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, inräknat</li>
+      <li>AUX-Fin: var, hade, skulle, kunde, ville, borde, behövde, fick, varade</li>
+      <li>VERB-Fin: sade, hade, började, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
+      <li>VERB-Part: förlorad, tvungen</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Pres
+    <ul>
+      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
+      <li>AUX-Fin: är, har, kan, kommer, måste, ska, vill, bör, får, må</li>
+      <li>VERB-Fin: har, finns, säger, kommer, börjar, står, ger, hjälper, inkluderar, innehåller</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>ADJ-Part: sett, kända, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, inräknat</li>
-        <li>AUX-Fin: var, hade, skulle, kunde, ville, borde, behövde, fick, varade</li>
-        <li>VERB-Fin: sade, hade, började, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
-        <li>VERB-Part: förlorad, tvungen</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
-        <li>AUX-Fin: är, har, kan, kommer, måste, ska, vill, bör, får, må</li>
-        <li>VERB-Fin: har, finns, säger, kommer, börjar, står, ger, hjälper, inkluderar, innehåller</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Act
+    <ul>
+      <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
+      <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, vilja</li>
+      <li>AUX-Sup: varit, blivit, kunnat</li>
+      <li>VERB-Fin: har, sade, hade, säger, började, blev, kommer, gjorde, tog, börjar</li>
+      <li>VERB-Inf: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
+      <li>VERB-Sup: blivit, gjort, beslutat, fått, gått, haft, kommit, sett, skrivit, ansett</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
-        <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, vilja</li>
-        <li>AUX-Sup: varit, blivit, kunnat</li>
-        <li>VERB-Fin: har, sade, hade, säger, började, blev, kommer, gjorde, tog, börjar</li>
-        <li>VERB-Inf: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
-        <li>VERB-Sup: blivit, gjort, beslutat, fått, gått, haft, kommit, sett, skrivit, ansett</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB-Fin: finns, användes, fanns, lyckades, anses, behövs, bildades, föddes, förstördes, gavs</li>
-        <li>VERB-Inf: finnas, ses, tillämpas, bebyggas, behövas, erbjudas, firas, flockas, flygas, förvaras</li>
-        <li>VERB-Sup: använts, lämnats, odlats, rapporterats, setts, skrivits, accepterats, administrerats, anklagats, betonats</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Fin: finns, användes, fanns, lyckades, anses, behövs, bildades, föddes, förstördes, gavs</li>
+      <li>VERB-Inf: finnas, ses, tillämpas, bebyggas, behövas, erbjudas, firas, flockas, flygas, förvaras</li>
+      <li>VERB-Sup: använts, lämnats, odlats, rapporterats, setts, skrivits, accepterats, administrerats, anklagats, betonats</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: den, det</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: den, det</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>PRON: mycket</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: mycket</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int,Rel
-      <ul>
-        <li>ADV: där, hur, varför, när, dit, var, varav, då</li>
-        <li>DET: vilket, vilken</li>
-        <li>PRON: som, vad, vilket, vilka, vem, vilken, vars, vilkas</li>
-        <li>SCONJ: när, då</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>ADV: där, hur, varför, när, dit, var, varav, då</li>
+      <li>DET: vilket, vilken</li>
+      <li>PRON: som, vad, vilket, vilka, vem, vilken, vars, vilkas</li>
+      <li>SCONJ: när, då</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-<li><a>Poss</a>
-
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: hans, sin, sina, dess, deras, hennes, sitt, min, vars, vår</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-
-
-
-
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: hans, sin, sina, dess, deras, hennes, sitt, min, vars, vår</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -525,28 +493,32 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 <h3>Other Features</h3>
 
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADV: f.Kr., ca, e.Kr., fvt</li>
-        <li>CCONJ: &</li>
-        <li>NOUN: %, f.Kr., md, Mps, nr, AIDS, BA, C, Mrs, RHS</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: f.Kr., ca, e.Kr., fvt</li>
+          <li>CCONJ: &</li>
+          <li>NOUN: %, f.Kr., md, Mps, nr, AIDS, BA, C, Mrs, RHS</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADP: Really, Father, Love</li>
-        <li>NOUN: Business, Didn't, Go, Her, Over, Protection, Rasa, Return, Services, Show</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADP: Really, Father, Love</li>
+          <li>NOUN: Business, Didn't, Go, Her, Over, Protection, Rasa, Return, Services, Show</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

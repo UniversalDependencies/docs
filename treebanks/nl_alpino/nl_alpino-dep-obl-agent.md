@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 2	zou	zullen	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
 3	'	'	PUNCT	LET	_	5	punct	5:punct	SpaceAfter=No
 4	per	per	ADP	VZ|init	_	5	case	5:case	_
-5	ongeluk	ongeluk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	obl	7:obl	SpaceAfter=No
+5	ongeluk	ongeluk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	obl	7:obl:per	SpaceAfter=No
 6	'	'	PUNCT	LET	_	5	punct	5:punct	_
 7	ontvoerd	ontvoeren	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 8	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	7	aux:pass	7:aux:pass	_
@@ -66,7 +66,7 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 14 7 obl:agent	color:blue
 1	Noem	noemen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 2	een	een	DET	LID|onbep|stan|agr	Definite=Ind	3	det	3:det	_
-3	journalist	journalist	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obj	1:obj|14:nsubj:pass	_
+3	journalist	journalist	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obj	1:obj|14:nsubj:pass:relsubj	_
 4	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	14	nsubj:pass	3:ref	_
 5	door	door	ADP	VZ|init	_	7	case	7:case	_
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_

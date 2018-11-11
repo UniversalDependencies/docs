@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-654 nodes (1%) are attached to their parents as `ccomp`.
+637 nodes (1%) are attached to their parents as `ccomp`.
 
-654 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.23241590214067.
+637 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.5149136577708.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (579; 89% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (51; 8% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (18; 3% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (552; 87% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (52; 8% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (26; 4% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	δημιουργηθεί	δημιουργώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	1	ccomp	_	_
 4	μια	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	νέα	νέος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
-6	Βαβέλ	Βαβέλ	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	Βαβέλ	Βαβέλ	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~

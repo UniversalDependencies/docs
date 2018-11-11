@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (1%) are attached to their parents as `csubj`.
+30 nodes (1%) are attached to their parents as `csubj`.
 
-31 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.64516129032258.
+30 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.26666666666667.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (22; 71% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (21; 70% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 11 csubj	color:blue
 1	kí	kí	AUX	_	_	4	aux	_	Gloss=let
-2	wọn	wọn	PRON	_	_	4	nsubj	_	Gloss=them
-3	ó	ó	PRON	_	_	4	nsubj	_	Gloss=he
+2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=
 4	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=be
 5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	4	obj	_	Gloss=light
 6	ní	ní	ADP	_	_	7	case	_	Gloss=in
@@ -32,14 +32,14 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	ọ̀run	ọ̀run	NOUN	_	_	4	iobj	_	SpaceAfter=No|Gloss=heaven
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 10	láti	láti	ADP	_	_	12	case	_	Gloss=to
-11	tan	tan	VERB	_	_	4	csubj	_	Gloss=had
+11	tan	tan	VERB	_	_	4	csubj	_	Gloss=shine
 12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
 13	sí	sí	ADP	_	_	14	case	_	Gloss=to
-14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=head
+14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=upon
 15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	SpaceAfter=No|Gloss=land
 16	.	.	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=.
-17	”	”	PUNCT	_	_	20	punct	_	Gloss=.
-18	ó	ó	PRON	_	_	20	nsubj	_	Gloss=he
+17	”	”	PUNCT	_	_	20	punct	_	Gloss=”
+18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he
 19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and
 20	rí	rí	VERB	_	_	11	xcomp	_	Gloss=saw
 21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=so
@@ -59,29 +59,29 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 4	àwọn	àwọn	DET	_	_	5	det	_	Gloss=the
 5	arákùnrin	arákùnrin	NOUN	_	_	7	nsubj	_	Gloss=brother
-6	rẹ̀	rẹ̀	PRON	_	_	5	nmod	_	Gloss=his
+6	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
 7	ránsẹ́	ránsẹ́	NOUN	_	_	0	root	_	Gloss=sent
 8	sí	sí	ADP	_	_	9	case	_	Gloss=to
-9	i	i	PRON	_	_	7	obj	_	SpaceAfter=No|Gloss=him
+9	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No|Gloss=him
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 11	wí	wí	VERB	_	_	7	csubj	_	Gloss=said
-12	pé	pé	SCONJ	_	_	15	mark	_	SpaceAfter=No|Gloss=saying
+12	pé	pé	SCONJ	_	_	15	mark	_	SpaceAfter=No|Gloss=that
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 14	“	“	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=“
 15	Olúwa	Olúwa	PROPN	_	_	17	nsubj	_	SpaceAfter=No|Gloss=lord
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 17	wò	wò	VERB	_	_	11	xcomp	_	Gloss=behold
-18	ó	ó	PRON	_	_	17	obj	_	SpaceAfter=No|Gloss=he
+18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	obj	_	SpaceAfter=No|Gloss=he
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=,
-20	ara	ara	PRON	_	_	21	nmod	_	Gloss=himself
-21	ẹni	ẹni	PRON	_	_	24	nsubj	_	Gloss=that
-22	tí	tí	PRON	_	_	24	mark	_	Gloss=that
-23	ìwọ	ìwọ	PRON	_	_	24	nsubj	_	Gloss=thou
+20	ara	ara	PRON	_	PronType=Emp	21	nmod	_	Gloss=body
+21	ẹni	ẹni	PRON	_	PronType=Ind	24	nsubj	_	Gloss=someone
+22	tí	tí	PRON	_	PronType=Rel	24	mark	_	Gloss=that
+23	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Gloss=thou
 24	fẹ́ràn	fẹ́ràn	VERB	_	_	17	xcomp	_	Gloss=love
 25	kò	kò	PART	_	_	26	discourse	_	Gloss=not
-26	dá	dá	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=made
+26	dá	dá	VERB	_	_	24	ccomp	_	SpaceAfter=No|Gloss=sick
 27	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No|Gloss=.
-28	”	”	PUNCT	_	_	7	punct	_	Gloss=.
+28	”	”	PUNCT	_	_	7	punct	_	Gloss=”
 
 ~~~
 
@@ -94,18 +94,18 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2 5 csubj	color:blue
 1	ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god
 2	rí	rí	VERB	_	_	0	root	_	Gloss=saw
-3	i	i	PRON	_	_	2	goeswith	_	Gloss=him
-4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=saying
+3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	goeswith	_	Gloss=it
+4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that
 5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light
-6	náà	náà	ADV	_	_	5	advmod	_	Gloss=the
+6	náà	náà	ADJ	_	_	5	amod	_	Gloss=the
 7	dára	dára	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=good
 8	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-9	ó	ó	PRON	_	_	11	nsubj	_	Gloss=he
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he
 10	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and
-11	ya	ya	VERB	_	_	2	xcomp	_	Gloss=sanctify
+11	ya	ya	VERB	_	_	2	xcomp	_	Gloss=seperate
 12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
 13	náà	náà	ADV	_	_	12	advmod	_	Gloss=the
-14	sọ́tọ̀	sọ́tọ̀	ADV	_	_	11	advmod	_	Gloss=separated
+14	sọ́tọ̀	sọ́tọ̀	ADV	_	_	11	advmod	_	Gloss=aside
 15	kúrò	kúrò	ADP	_	_	17	case	_	Gloss=from
 16	lára	lára	ADP	_	_	17	case	_	Gloss=of
 17	òkùnkùn	òkùnkùn	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=darkness
