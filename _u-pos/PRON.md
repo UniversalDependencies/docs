@@ -42,6 +42,7 @@ In particular:
 - indefinite pronouns: _somebody, something, anybody, anything_
 - total pronouns: _everybody, everything_
 - negative pronouns: _nobody, nothing_
+- possessive pronouns (which usually stand alone as a nominal): _mine, yours, (his), hers, (its), ours, theirs_
 
 ### References
 
