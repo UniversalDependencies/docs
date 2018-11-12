@@ -14,6 +14,7 @@ udver: '2'
 </table>
 
 Clusivity is a feature of first-person plural personal [pronouns](u-pos/PRON).
+As such, it can also be reflected by inflection of [verbs](u-pos/VERB), e.g. in Plains Cree (Wolvengrey 2011 p. 66).
 
 ### <a name="In">`In`</a>: inclusive
 
@@ -22,6 +23,7 @@ Includes the listener, i.e. _we_ = _I + you_ (+ optionally _they_).
 #### Examples
 
 * [id] _<b>kita</b>_ “<b>we</b>”
+* [crk] _<b>niwīcihānān</b>_ “we (I+they) help him”
 
 ### <a name="Ex">`Ex`</a>: exclusive
 
@@ -30,3 +32,8 @@ Excludes the listener, i.e. _we_ = _I + they._
 #### Examples
 
 * [id] _<b>kami</b>_ “<b>we</b>”
+* [crk] _<b>kiwīcihānaw</b>_ “we (I+you) help him”
+
+## References
+
+* Arok Elessar Wolvengrey. 2011. _Semantic and pragmatic functions in Plains Cree syntax_ (PhD thesis). LOT, Utrecht, Netherlands. ISBN 978-94-6093-051-5.
