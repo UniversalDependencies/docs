@@ -93,7 +93,11 @@ on the [release checklist page](/release_checklist.html#validation).
 See [Issue 376](https://github.com/UniversalDependencies/docs/issues/376) for references to software that helps with migration
 of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidelines.
 
+
+
 ## Third-party tools
+
+
 
 ### Annotation Tools
 
@@ -219,6 +223,7 @@ An example rule file converting (large parts of) the Hamburg Dependency Treebank
 * License: GPL 3.0
 * Homepage <https://github.com/odanoburu/conllu-mode>
 
+
 #### Atom
 
 This package provides syntax highlighting for CoNLL-U files in Atom.
@@ -246,7 +251,7 @@ Syntax highlighting for CoNLL-U files on Sublime Text.
 
 #### CL-CoNLLU
 
-A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
+A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc.
 
 * Category: library
 * Platform: any OS that runs a Common Lisp implementation
@@ -267,7 +272,7 @@ DepEdit is a simple, open source, configurable tool for manipulating dependency 
   * Use external configuration files for different scenarios or define rules programmatically when used as a module
   * No language or schema specific details are hardwired into the system - everything is defined in the configuration file
   * Can be used as a very rudimentary rule-based parser to pre-process data with easy dependencies before manual annotation (e.g. attach all articles to following nouns as `det`)
-  
+
 * Category: library
 * Platform: Windows, Linux, OSX
 * Implementation: Python 2/3
@@ -280,7 +285,7 @@ DepEdit is a simple, open source, configurable tool for manipulating dependency 
 
 DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
 
-Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format. 
+Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format.
 
 The latest CoNLL-U 2.0 format is not yet supported.
 
@@ -329,6 +334,7 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * On-line service: <http://lindat.mff.cuni.cz/services/udpipe/>
 * References: Milan Straka, Jan Hajič and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. LREC 2016, Portorož, Slovenia, May 2016.
 
+
 #### UDAPI
 
 * Category: libraries for various UD and CoNLL-U-related operations in several programming languages
@@ -361,3 +367,9 @@ A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U fil
 * Implementation: JavaScript
 * Credit: Milan Straka, Michal Sedlák
 * [Access here](conllu_viewer.html)
+
+
+#### CoNLL-U viewer at rug.nl
+
+* Live site: [http://www.let.rug.nl/kleiweg/conllu/](http://www.let.rug.nl/kleiweg/conllu/)
+* Source code: [Github](https://github.com/rug-compling/conllu-viewer)
