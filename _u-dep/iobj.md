@@ -13,6 +13,7 @@ exchange:
 ~~~ sdparse
 She gave me a raise
 iobj(gave, me)
+nsubj(gave, She)
 ~~~
 
 However, many languages allow other semantic roles as additional objects. The most common case is allowing benefactives, but some languages allow other roles. Examples include instruments, such as in the Kinyarwanda example below, or comitatives. At the other extreme, some languages lack all indirect objects.
