@@ -163,8 +163,11 @@ see the guidelines for the [enhanced representation](/u/overview/enhanced-syntax
 The final MISC field is for storing any additional information that does not fit into any of the other fields, such as language-specific annotation, any information about other linguistic levels such as discourse,
 or projective heads and dependency relations (cf. the old PHEAD and PDEPREL fields of
 the CoNLL-X format). The exact format used in this field should be specified in the
-treebank-specific documentation, but it has to be formatted as a list that can be split on the bar character (\|)
-without special escaping. If the MISC field is not used, it should contain an underscore.
+treebank-specific documentation, but it has to be formatted as a list that can be split on the vertical bar character (\|).
+If this character is needed in a value within the list, it must be escaped in a way that does not involve the character itself
+(for example, preceding the character with a backslash will not work and the vertical bar will still be considered a list
+separator).
+If the MISC field is not used, it should contain an underscore.
 
 ## Untokenized Text
 
