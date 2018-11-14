@@ -2,7 +2,7 @@
 layout: relation
 title: 'advmod'
 shortdef: 'adverbial modifier'
-udver:'2'
+udver: '2'
 ---
  
 An adverbial modifier (`advmod`) of a word is a (non-clausal) adverb or adverbial phrase that serves to modify a predicate or a modifier word.
