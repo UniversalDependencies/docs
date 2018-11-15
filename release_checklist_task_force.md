@@ -112,12 +112,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio ;
+rel="2.3" ;
 path=$(pwd) ;
 cd /net/data ;
-tar xzf $path/release-2.2/ud-treebanks-v2.2.tgz ;
-mv ud-treebanks-v2.2 universal-dependencies-2.2 ;
+tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz ;
+mv ud-treebanks-v$rel universal-dependencies-$rel ;
+\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)
 cd $HAMLEDT ;
-perl ./populate_ud22.pl ;
+perl ./populate_ud.pl $rel ;
 cd normalize ; make qpmltq ;
 \# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt) ;
 </code></small>
