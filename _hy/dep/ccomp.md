@@ -32,8 +32,8 @@ ccomp(ordered, to-dig)
 Ղեկավարը հրամայեց մեզ փորել ։ \n The-boss ordered us to-dig .
 xcomp(հրամայեց, փորել)
 xcomp(ordered, to-dig)
-obj(հրամայեց, մեզ)
-obj(ordered, us)
+iobj(հրամայեց, մեզ)
+iobj(ordered, us)
 ~~~
 
 ~~~ sdparse
