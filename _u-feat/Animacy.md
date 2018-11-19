@@ -36,11 +36,11 @@ determiner _który_ "which" in Polish (boldface forms in the upper and lower
 rows differ from the middle row):
 
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| gender            | sg-nom | sg-gen  | sg-dat  | sg-acc    | sg-ins | sg-loc | pl-nom     | pl-gen  | pl-dat | pl-acc      | pl-ins  | pl-loc  |
+| gender            | sg-nom | sg-gen  | sg-dat  | sg-acc      | sg-ins | sg-loc | pl-nom     | pl-gen  | pl-dat | pl-acc      | pl-ins  | pl-loc  |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| animate human     | który  | którego | któremu | którego   | którym | którym | **którzy** | których | którym | **których** | którymi | których |
-| animate non-human | który  | którego | któremu | którego   | którym | którym | które      | których | którym | które       | którymi | których |
-| inanimate         | który  | którego | któremu | **który** | którym | którym | które      | których | którym | które       | którymi | których |
+| animate human     | który  | którego | któremu | którego     | którym | którym | **którzy** | których | którym | **których** | którymi | których |
+| animate non-human | który  | którego | któremu | **którego** | którym | którym | **które**  | których | którym | **które**   | którymi | których |
+| inanimate         | który  | którego | któremu | **który**   | którym | którym | które      | których | którym | które       | którymi | których |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
 {: cellpadding="2" cellspacing="0" }
 
@@ -48,10 +48,10 @@ In the corresponding paradigm of Czech, only two values are distinguished:
 masculine animate and masculine inanimate:
 
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| gender          | sg-nom | sg-gen  | sg-dat  | sg-acc      | sg-ins | sg-loc | pl-nom     | pl-gen  | pl-dat | pl-acc      | pl-ins  | pl-loc  |
+| gender            | sg-nom | sg-gen  | sg-dat  | sg-acc      | sg-ins | sg-loc | pl-nom     | pl-gen  | pl-dat | pl-acc      | pl-ins  | pl-loc  |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
-| animate         | který  | kterého | kterému | **kterého** | kterým | kterém | **kteří**  | kterých | kterým | které       | kterými | kterých |
-| inanimate       | který  | kterého | kterému | **který**   | kterým | kterém | **které**  | kterých | kterým | které       | kterými | kterých |
+| animate           | který  | kterého | kterému | **kterého** | kterým | kterém | **kteří**  | kterých | kterým | které       | kterými | kterých |
+| inanimate         | který  | kterého | kterému | **který**   | kterým | kterém | **které**  | kterých | kterým | které       | kterými | kterých |
 |------------------------------------------------------------------------------------------------------------------------------------------------|
 {: cellpadding="2" cellspacing="0" }
 
