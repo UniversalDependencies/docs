@@ -24,7 +24,7 @@ udver: '2'
     * [Layered features](u/overview/feat-layers.html)
     * [Language-specific features](ext-feat-index.html) (list of **all** features and values used in a treebank, including those that are **not defined** by the universal guidelines)
   * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
-    * [Relation subtypes](ext-dep-index.html)
+    * [Relation subtypes](ext-dep-index.html) (list of **all** subtypes that are used in at least one treebank)
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 
 <small>
