@@ -1,11 +1,11 @@
 ---
 layout: relation
 title: 'advmod:det'
-shortdef: 'adverbial modification by determiner'
+shortdef: 'adverbial modification by a determiner'
 udver: '2'
 ---
 
-Ukrainian determiners (pronominal adjectives) _такий_ ‘such’ and _який_ ‘which’ are often used to modify a degree of an adjective e.g. _такий хороший_ “so good” / “that good”. These adverbial roles are distinguished as `advmod:det`.
+Ukrainian determiners (pronominal adjectives) _такий&nbsp;_ ‘such’ and _який&nbsp;_ ‘which’ are often used to modify a degree of an adjective e.g. _такий хороший&nbsp;_ “so good” / “that good”. These adverbial roles are distinguished as `advmod:det`.
 
 ~~~ conllu
 # sentence-label uk
