@@ -518,23 +518,21 @@ Adverbial relativizers receive the same treatment.
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 # visual-style 5 3 advmod color:green
-1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	episode	episode	NOUN	NN	Number=Sing	0	root	_	_
-3	where	where	ADV	WRB	PronType=Rel	5	advmod	_	_
-4	Monica	Monica	PROPN	NNP	Number=Sing	5	nsubj	_	_
-5	sings	sing	NOUN	NNS	Number=Plur	2	acl:relcl	_	_
-
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 episode episode NOUN NN Number=Sing 0 root _ _
+3 where where ADV WRB PronType=Rel 5 advmod _ _
+4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
+5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 2 3 ref color:blue
 # visual-style 5 2 obl color:blue
-1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	episode	episode	NOUN	NN	Number=Sing	0	root	5:obl	_
-3	where	where	ADV	WRB	PronType=Rel	5	advmod	2:ref	_
-4	Monica	Monica	PROPN	NNP	Number=Sing	5	nsubj	_	_
-5	sings	sing	NOUN	NNS	Number=Plur	2	acl:relcl	_	_
-
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 episode episode NOUN NN Number=Sing 0 root 5:obl _
+3 where where ADV WRB PronType=Rel 5 advmod 2:ref _
+4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
+5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
