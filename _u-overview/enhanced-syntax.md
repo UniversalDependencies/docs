@@ -523,6 +523,7 @@ Adverbial relativizers receive the same treatment.
 3	where	where	ADV	WRB	PronType=Rel	5	advmod	_	_
 4	Monica	Monica	PROPN	NNP	Number=Sing	5	nsubj	_	_
 5	sings	sing	NOUN	NNS	Number=Plur	2	acl:relcl	_	_
+
 </div>
 </td><td width="600">
 <div class="conllu-parse">
@@ -533,6 +534,7 @@ Adverbial relativizers receive the same treatment.
 3	where	where	ADV	WRB	PronType=Rel	5	advmod	2:ref	_
 4	Monica	Monica	PROPN	NNP	Number=Sing	5	nsubj	_	_
 5	sings	sing	NOUN	NNS	Number=Plur	2	acl:relcl	_	_
+
 </div>
 </td></tr></tbody>
 </table>
