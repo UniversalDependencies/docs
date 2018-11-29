@@ -25,9 +25,9 @@ Latvian uses all 17 universal POS categories.
 * [PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
 * Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as PRON, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as DET. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives. 
 * Latvian has dour auxiliary verbs [AUX](): _būt_ "to be", _kļūt_ "to become", _tikt_ "to get", and _tapt_ "to become" (obsolete). The auxiliary verb is used in several types of constructions:
-- Analytic word forms of verbs (_būt_, _tikt_).
-- The copula in non-verbal predicates (_būt_, _kļūt_) .
-- The copula in infinitive predicates (_būt_).
+    * Analytic word forms of verbs (_būt_, _tikt_).
+    * The copula in non-verbal predicates (_būt_, _kļūt_) .
+    * The copula in infinitive predicates (_būt_).
 * _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in purely existential sentences or indicate location. Word _kļūt_ always is tagged as [AUX]().
 * Verbs with modal meaning are not considered auxiliary in Latvian.
 * Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like_protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
@@ -46,10 +46,10 @@ Latvian uses all 17 universal POS categories.
 #### Degree and Polarity
 * `Degree` applies to adjectives ([ADJ]()), adverbs ([ADV]()), and some participles ([VERB](), [AUX]()), and has one of three possible values: `Pos`, `Cmp`, `Sup`.
 * `Polarity` has two values, `Pos` and `Neg`, and applies to verbs ([VERB](), [AUX]()).
-- Words _ne_, _nē_ "no" occurs as independent negation particles ([PART]()) and are marked with `Polarity=Neg`.
-- Occasionaly _ne_ occurs as a part of correlative conjunction and is marked with `Polarity=Neg`.
-- Word _jā_ occurs as an independent affirmation particle ([PART]()) and is marked with `Polarity=Pos`.
-- The `Polarity` feature is not used with pronouns and determiners, although there is a subset of pronouns and determiners which are considered to be negated traditionally. The `PronType=Neg` feature is used there instead.
+    * Words _ne_, _nē_ "no" occurs as independent negation particles ([PART]()) and are marked with `Polarity=Neg`.
+    * Occasionaly _ne_ occurs as a part of correlative conjunction and is marked with `Polarity=Neg`.
+    * Word _jā_ occurs as an independent affirmation particle ([PART]()) and is marked with `Polarity=Pos`.
+    * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of pronouns and determiners which are considered to be negated traditionally. The `PronType=Neg` feature is used there instead.
 
 
 ---
