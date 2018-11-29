@@ -15,7 +15,6 @@ In general, words are delimited by whitespace characters and punctuation is sepa
 * In Latvian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
 
----
 
 ## Morphology
 
@@ -44,6 +43,13 @@ Latvian uses all 17 universal POS categories.
 * `Case` has 6 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Loc`, `Voc`. It occurs with the nominal words, i.e., `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `NUM`, `VERB` and `AUX` (participles and verbal nouns).
 * `Definite` has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
 
+#### Degree and Polarity
+* `Degree` applies to adjectives ([ADJ]()), adverbs ([ADV]()), and some participles ([VERB](), [AUX]()), and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* `Polarity` has two values, `Pos` and `Neg`, and applies to verbs ([VERB](), [AUX]()).
+- Words _ne_, _nē_ "no" occurs as independent negation particles ([PART]()) and are marked with `Polarity=Neg`.
+- Occasionaly _ne_ occurs as a part of correlative conjunction and is marked with `Polarity=Neg`.
+- Word _jā_ occurs as an independent affirmation particle ([PART]()) and is marked with `Polarity=Pos`.
+- The `Polarity` feature is not used with pronouns and determiners, although there is a subset of pronouns and determiners which are considered to be negated traditionally. The `PronType=Neg` feature is used there instead.
 
 
 ---
