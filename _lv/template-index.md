@@ -10,7 +10,7 @@ udver: '2'
 
 In general, words are delimited by whitespace characters and punctuation is separated. Description of exceptions follows:
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ ("1,000,000" by English rules) is one token.
-* Abbreviations without spaces are treated as single words and may contain punctuation (_utt._ "etc."). In following cases we treat abbreviation as a single token even if whitespace is used between part of abbreviation and punctuation mark: _u.t.jpr._, _u.c._, _u.tml._, _v.tml_, _u.t.t._, _N.B._, _P.S._ and _P.P.S_.
+* Abbreviations without spaces are treated as single words and may contain punctuation (_utt._ "etc."). In following cases we treat abbreviation as a single token even if whitespace is used between part of abbreviation and punctuation mark: _u.t.jpr._, _u.c._, _u.tml._, _v.tml_, _u.t.t._, _N.B._, _P.S._ and _P.P.S._
 * Double surnames such as _Vīķe-Freiberga_ and words abbreviated with dashes such as _e-pasts_ "e-mail", _k-dze_ "Ms." are tokenized as a single token.
 * In Latvian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
@@ -22,8 +22,18 @@ In general, words are delimited by whitespace characters and punctuation is sepa
 
 Latvian uses all 17 universal POS categories. 
 
-* [PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
-* Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as DET. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives. 
+#### Particles
+
+[PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
+
+Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adjectives [ADJ](), correct POS is assigned based on sentence context.
+
+#### Pronouns and Determiniers
+
+Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as `DET`. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives.
+
+#### Auxiliary Verbs
+
 * Latvian has dour auxiliary verbs [AUX](): _būt_ "to be", _kļūt_ "to become", _tikt_ "to get", and _tapt_ "to become" (obsolete). The auxiliary verb is used in several types of constructions:
     * Analytic word forms of verbs (_būt_, _tikt_).
     * The copula in non-verbal predicates (_būt_, _kļūt_) .
