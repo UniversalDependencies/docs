@@ -37,16 +37,16 @@ Latvian uses all 17 universal POS categories.
 
 #### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent `Gender` feature with one of two values: `Masc` or `Fem`. 
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two values: `Masc` or `Fem`. 
 * The following parts of speech inflect for `Gender` as they must agree with nouns: [ADJ](), [DET](), [NUM](), [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for `Gender`. Finite verbs don’t.
-* The two main values of the `Number` feature are `Sing` and `Plur`. The following parts of speech inflect for number: `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `VERB`and `AUX` (finite, participles and verbal nouns), marginally `NUM`. Selected nouns are plurale tantum `Ptan` or singulare tantum `Coll`. 
-* `Case` has 6 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Loc`, `Voc`. It occurs with the nominal words, i.e., `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `NUM`, `VERB` and `AUX` (participles and verbal nouns).
-* `Definite` has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
+* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number: `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `VERB`and `AUX` (finite, participles and verbal nouns), marginally `NUM`. Selected nouns are plurale tantum `Ptan` or singulare tantum `Coll`. 
+* [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Loc`, `Voc`. It occurs with the nominal words, i.e., `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `NUM`, `VERB` and `AUX` (participles and verbal nouns).
+* [Definite]() has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
 
 #### Degree and Polarity
 
-* `Degree` applies to adjectives ([ADJ]()), adverbs ([ADV]()), and some participles ([VERB](), [AUX]()), and has one of three possible values: `Pos`, `Cmp`, `Sup`.
-* `Polarity` has two values, `Pos` and `Neg`, and applies to verbs ([VERB](), [AUX]()).
+* [Degree]() applies to adjectives ([ADJ]()), adverbs ([ADV]()), and some participles ([VERB](), [AUX]()), and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies to verbs ([VERB](), [AUX]()).
     * Words _ne_, _nē_ "no" occurs as independent negation particles ([PART]()) and are marked with `Polarity=Neg`.
     * Occasionaly _ne_ occurs as a part of correlative conjunction and is marked with `Polarity=Neg`.
     * Word _jā_ occurs as an independent affirmation particle ([PART]()) and is marked with `Polarity=Pos`.
@@ -54,21 +54,23 @@ Latvian uses all 17 universal POS categories.
 
 #### Verbal Features
 
-* There are five main (de)verbal form types, distinguished by the UPOS tag and the value of the `VerbForm` feature:
+* There are five main (de)verbal form types, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
     * Infinitive `Inf`, tagged [VERB]() or [AUX]().
     * Finite verb `Fin`, tagged `VERB` or `AUX`.
     * Participle `Part`, tagged `VERB` or `AUX`.
     * Converb `Conv`, tagged `VERB` or `AUX`.
     * Verbal noun `Vnoun`, tagged `NOUN`.
-* `Aspect` applies only to part of participles (`VERB`, `AUX`) and is either imperfective `Imp` or perfective `Perf`. 
-* Finite verbs always have one of five values of `Mood`: `Ind`, `Imp`, `Cnd`, `Qot` or `Nec`. 
-* Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`. 
-    * Imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
+* [Aspect]() applies only to part of participles (`VERB`, `AUX`) and is either imperfective `Imp` or perfective `Perf`. 
+* Finite verbs always have one of five values of [Mood](): `Ind`, `Imp`, `Cnd`, `Qot` or `Nec`.
+* [Tense]() is used for verbs and participles:
+    * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`. 
+    * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
     * The `Tense` feature is also used to distinguish present and past declinable participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable" vs. _darījis_ "[he has] been doing" and _pateikts_ “[it is] said”; tagged `VERB` or `AUX`).  
-* There are two values used for the `Voice` feature: `Act` and `Pass`.
-    * Passive participles (_lasāms_ "[it is] readable" and_pateikts_ “[it is] said”) has `Voice=Pass`.
+* There are two values used for the [Voice() feature: `Act` and `Pass`:
+    * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it is] said”) has `Voice=Pass`.
     * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
-* `Evident` applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
+* [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
+
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
