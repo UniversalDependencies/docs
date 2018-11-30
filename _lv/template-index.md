@@ -71,11 +71,31 @@ Latvian uses all 17 universal POS categories.
     * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
+#### Pronouns, Determiners, Quantifiers
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+* [PronType]() is used with pronouns [PRON](), determiners [DET]() and pronominal adverbs [ADV]() with 8 permissible values: `Prs`, `Rcp`, `Int`, `Rel`, `Dem`, `Tot`, `Neg`, `Ind`.
+* [NumType]() is used with numerals (also cardinal numbers) NUM[](), ordinal numbers [ADJ](), and some adverbs [ADV]():
+    * Numerals and ordinal numbers has one of three possible values: `Card`, `Ord` or `Frac`.
+    * Adverbs _vienreiz_ "once", _divreiz_ "twice", _trīsreiz_ "thrice", _četreiz_, _piecreiz_, _sešreiz_, _septiņreiz_, _astoņreiz_, _deviņreiz_, _desmitreiz_ "ten times", _pusotrreiz_ "one and a half times" has `NumType=Mult`.
+* The [Poss]() feature marks possessive personal pronouns and determiners (e.g., _mans_ "my") and possessive adjectives (e.g., _tavējais_ "yours") with value `Yes`.
+* The [Reflex]() feature marks reflexive pronoun _sevis_.
+    * Reflexivity is also marked on reflexive verbs and participles ([VERB](), e.g., _mazgāties_, _pusapģērbusies_). 
+* [Person]() is marked for pronouns and finite verbs and has three values: `1`, `2` and `3`.
+    * It is a lexical feature of personal pronouns `PRON` like _es_ "I", _tu_ "you", _viņš_ "he", _viņa_ "she", _viņi_ "they" (plural, masculine), _viņas_ "they" (plural, feminine).
+    * It is a lexical feature of personal possessives `DET`/`PRON` _mans_, _manējais_ "my/mine", _tavs_, _tavējais_ "your/yours" (singular), _mūsējais_ "our/ours", _jūsējais_ "your/yours" (plural), _viņējais_ "his/hers/theirs".
+    * `Person` is also marked on some demonstrative pronouns with value `3`. 
+    * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
+* [Foreign]() is annotated `Yes` for foreign words [X](). 
+* [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_god._ "honored"), `VERB` (_skat._ "see"), `ADV` (_v.j.l._ "above sea level"), `SYM` (_utt._ "etc.").
 
----
+#### Unused Features
+
+Features not applicable for Latvian:
+* [Animacy](),
+* [Clusivity](),
+* [NounClass](),
+* [Polite]().
+
 
 ## Syntax
 
