@@ -23,7 +23,7 @@ In general, words are delimited by whitespace characters and punctuation is sepa
 Latvian uses all 17 universal POS categories. 
 
 * [PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
-* Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as PRON, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as DET. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives. 
+* Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as DET. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives. 
 * Latvian has dour auxiliary verbs [AUX](): _būt_ "to be", _kļūt_ "to become", _tikt_ "to get", and _tapt_ "to become" (obsolete). The auxiliary verb is used in several types of constructions:
     * Analytic word forms of verbs (_būt_, _tikt_).
     * The copula in non-verbal predicates (_būt_, _kļūt_) .
@@ -44,6 +44,7 @@ Latvian uses all 17 universal POS categories.
 * `Definite` has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
 
 #### Degree and Polarity
+
 * `Degree` applies to adjectives ([ADJ]()), adverbs ([ADV]()), and some participles ([VERB](), [AUX]()), and has one of three possible values: `Pos`, `Cmp`, `Sup`.
 * `Polarity` has two values, `Pos` and `Neg`, and applies to verbs ([VERB](), [AUX]()).
     * Words _ne_, _nē_ "no" occurs as independent negation particles ([PART]()) and are marked with `Polarity=Neg`.
@@ -51,6 +52,23 @@ Latvian uses all 17 universal POS categories.
     * Word _jā_ occurs as an independent affirmation particle ([PART]()) and is marked with `Polarity=Pos`.
     * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of pronouns and determiners which are considered to be negated traditionally. The `PronType=Neg` feature is used there instead.
 
+#### Verbal Features
+
+* There are five main (de)verbal form types, distinguished by the UPOS tag and the value of the `VerbForm` feature:
+    * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+    * Finite verb `Fin`, tagged `VERB` or `AUX`.
+    * Participle `Part`, tagged `VERB` or `AUX`.
+    * Converb `Conv`, tagged `VERB` or `AUX`.
+    * Verbal noun `Vnoun`, tagged `NOUN`.
+* `Aspect` applies only to part of participles (`VERB`, `AUX`) and is either imperfective `Imp` or perfective `Perf`. 
+* Finite verbs always have one of five values of `Mood`: `Ind`, `Imp`, `Cnd`, `Qot` or `Nec`. 
+* Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`. 
+    * Imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
+    * The `Tense` feature is also used to distinguish present and past declinable participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable" vs. _darījis_ "[he has] been doing" and _pateikts_ “[it is] said”; tagged `VERB` or `AUX`).  
+* There are two values used for the `Voice` feature: `Act` and `Pass`.
+    * Passive participles (_lasāms_ "[it is] readable" and_pateikts_ “[it is] said”) has `Voice=Pass`.
+    * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
+* `Evident` applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
