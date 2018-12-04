@@ -75,7 +75,7 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
 * [Tense]() is used for verbs and participles:
     * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`. 
     * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
-    * The `Tense` feature is also used to distinguish present and past declinable participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable" vs. _darījis_ "[he has] been doing" and _pateikts_ “[it is] said”; tagged `VERB` or `AUX`).  
+    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it is] said”).  
 * There are two values used for the [Voice() feature: `Act` and `Pass`:
     * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it is] said”) has `Voice=Pass`.
     * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
