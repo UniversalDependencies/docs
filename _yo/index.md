@@ -9,8 +9,8 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Following most tokenization patterns, words are delimited by whitespace. Generally, words are  delimited by whitespace or punctuation except:
-  * Hyphenated words that cannot be correctly annotated when split (níhìn-ín) are not split.
-  * Multiword tokens are not used in Yorùbá; "what you see is what you tokenize". Contractions are not undone for words that can be correctly assigned a category.
+  * Hyphenated words that cannot be correctly annotated when split _(níhìn-ín)_ are not split.
+  * Multiword tokens are not used in Yorùbá; “what you see is what you tokenize”. Contractions are not undone for words that can be correctly assigned a category.
 
 ## Morphology
 
