@@ -5,7 +5,7 @@ shortdef: 'marker'
 udver: '2'
 ---
 
-A marker is the word introducing a finite clause subordinate to
+A marker is the word marking a clause as subordinate to
 another clause. For a [complement clause](ccomp), this is words like [en] _that_
 or _whether._ For an [adverbial clause](advcl), the marker is typically a
 [subordinating conjunction](../pos/SCONJ) like [en] _while_ or _although._ The mark is a dependent of the
@@ -20,6 +20,8 @@ mark(attacked, after)
 He says that you like to swim
 mark(like, that)
 ~~~
+
+Infinitive markers (e.g. English _to,_ German _zu_) in infinitival clauses are also attached as `mark`:
 
 ~~~ sdparse
 Er kam wieder , um das Werk zu Ende zu bringen \n He came again , so-that the work to end to bring
