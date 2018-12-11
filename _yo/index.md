@@ -27,8 +27,10 @@ udver: '2'
   * _kìí_ – “be”
   * Temporal (_ti_ – “have”) usually occurring before the main verb in a given construction.
   * Modal (_yóò_ – “shall”) also followed by the main verb.
-* The tag DET is used for articles and pronominal words used with a determiner function; they can precede or appear after the Noun they quantify. The tag PRON is used for subjects or objects of a noun phrase and to show possession.
-  * A word can belong to both categories DET and PRON (àwọn)
+* The tag [DET]() is used for articles and pronominal words used with a determiner function;
+  they can precede or follow the noun they quantify.
+  The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession.
+  * A word can belong to both categories `DET` and `PRON` _(àwọn)_
   * Gender of a pronoun is only determined by the antecedent (ó – can be he, she or it). It is not explicitly stated.
 * Polysemy is an important phenomenon in Yorùbá, to correctly categorize a word, the context where it occurs is the determining factor. Tone can distinguish meaning but a word with the same tone can mean different things in different circumstance (e.g. bí - “procreate”, “if”, “not” ) 
 
