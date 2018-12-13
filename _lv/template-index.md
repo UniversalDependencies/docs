@@ -137,11 +137,6 @@ The following relation subtypes are used in Latvian:
 The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
 There is [1](../treebanks/lv-comparison.html) Latvian UD treebank:
