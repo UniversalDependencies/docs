@@ -109,7 +109,7 @@ Features not applicable for Latvian:
 
 ## Syntax
 
-### Core Arguments, Oblique Arguments and Adjuncts
+### Core Arguments
 
 * Nominal subject ([nsubj]()) is a noun phrase usually in the nominative case. However:
     * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
