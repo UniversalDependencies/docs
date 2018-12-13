@@ -134,8 +134,7 @@ The following relation subtypes are used in Latvian:
 * [flat:foreign]() for non-first words in quoted foreign phrases
 * [flat:name]() for exocentric complex name
 
-The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum]().
-
+The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 
 
 ---
