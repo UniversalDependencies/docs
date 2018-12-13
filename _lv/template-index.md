@@ -109,7 +109,34 @@ Features not applicable for Latvian:
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
+
+* Nominal subject ([nsubj]()) is a noun phrase usually in the nominative case. However:
+    * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
+    * With predicates _nebūt_, _trūkt_, _pietikt_, _netrūkt_, _nepietiek_ noun phrase can be in genitive.
+    * A finite subordinate clause may serve as the subject and is labeled [csubj]().
+    * The noun phrase may be in the dative, if the predicate is in the necessitative mood (_man jāskatās spēle_ "I have to watch the game") or if the predicate is with modal meaning and has subordinated infinitive (_viņam vajadzētu pasteigties_ "he should hurry").
+* Objects as defined in the Latvian grammar may be either bare noun phrases in accusative, dative, or genitive, or prepositional phrases in accusative, dative, genitive. All objects are labeled as [obj]() or [iobj]().
+    * However, if the predicate is in the necessitative mood, object may be in nominative (_zēnam jāuzraksta mājasdarbs_ "the boy has to write a homework."), and it is labeled as `obj`.
+    * Accusative objects are considered `obj`.
+    * Objects in dative and genitive cases and prepositional objects are considered `iobj`.
+
+### Non-verbal Clauses
+
+The copula verbs _būt_ "be" and _kļūt_ "become" is used in equational and attributional nonverbal clauses. Purely existential clauses (also indicating location) use būt as well, but it is treated as the head of the clause and tagged [VERB]().
+
+### Relations Overview
+
+The following relation subtypes are used in Latvian:
+* [nsubj:pass]() for nominal subjects of passive verbs
+* [csubj:pass]() for clausal subjects of passive verbs
+* [aux:pass]() for passive auxiliaries
+* [flat:foreign]() for non-first words in quoted foreign phrases
+* [flat:name]() for exocentric complex name
+
+The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum]().
+
+
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
