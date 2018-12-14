@@ -34,7 +34,7 @@ Il quitta la pièce pleurant . \n He left the room crying .
 acl(Il, pleurant)
 ~~~
 
-Some examples od the the `acl` relation in **UD_French-Spoken**:
+Some examples of the `acl` relation in **UD_French-Spoken**:
 
 ~~~ sdparse
 on va donc avoir nos regards braqués sur l'hémisphère sud \n so we will be focused on the southern hemisphere
