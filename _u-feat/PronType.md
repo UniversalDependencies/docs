@@ -44,6 +44,13 @@ personal/possessive pronouns (e.g. [cs] _se / svůj;_ see the
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
+This value is used for pronouns that are specifically reciprocal. If a reflexive pronoun can be used to convey reciprocal meaning,
+it is still labeled as reflexive (`PronType=Prs|Reflex=Yes`). It is not marked as reciprocal in contexts in which it is used
+reciprocally.
+
+Reciprocal means that there is a plural subject and every member of the group does the thing described by the predicate to
+every other member of the group. A reciprocal pronoun is used in the object position to signal such configuration.
+
 #### Examples
 
 * [de] _einander_ “each other”
