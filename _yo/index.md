@@ -203,3 +203,16 @@ obj(rà, Ìwé)
 case(Ìwé, ni)
 ~~~
 “It was a book that Olú bought.”
+
+If the subject is focused, there must be a pronoun at the subject position.
+We treat this as an instance of clitic doubling: the fronted noun phrase
+is analyzed as the subject, and the pronoun is attached as an expletive:
+
+~~~sdparse
+Olú ni ó ra ìwé \n Olú FOC he buy book
+nsubj(ra, Olú)
+case(Olú, ni)
+expl(ra, ó)
+obj(ra, ìwé)
+~~~
+“It was Olú who bought the book.”
