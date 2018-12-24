@@ -113,3 +113,16 @@ nsubj(lọ, ọ̀rẹ́)
 aux(lọ, á)
 ~~~
 “My friend will go.”
+
+A combination of the imperfective/progressive and perfective auxiliaries
+indicates the beginning of an action in the past _(progressive perfect)._
+
+~~~sdparse
+Mo ti ń gba lẹ́tà rẹ \n I PERF IMPF receive letter your
+nsubj(gba, Mo)
+aux(gba, ti)
+aux(gba, ń)
+obj(gba, lẹ́tà)
+nmod(lẹ́tà, rẹ)
+~~~
+“I have started to receive your letters.”
