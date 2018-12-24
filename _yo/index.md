@@ -32,7 +32,7 @@ udver: '2'
   The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession.
   * A word can belong to both categories `DET` and `PRON` _(àwọn)_
   * Gender of a pronoun is only determined by the antecedent (ó – can be he, she or it). It is not explicitly stated.
-* Polysemy is an important phenomenon in Yorùbá, to correctly categorize a word, the context where it occurs is the determining factor. Tone can distinguish meaning but a word with the same tone can mean different things in different circumstance (e.g. bí - “procreate”, “if”, “not” ) 
+* Polysemy is an important phenomenon in Yorùbá, to correctly categorize a word, the context where it occurs is the determining factor. Tone can distinguish meaning but a word with the same tone can mean different things in different circumstance (e.g. bí - “procreate”, “if”, “not” )
 
 ### Features
 
@@ -44,7 +44,7 @@ udver: '2'
 
 ## Syntax
 
-* Yorùbá is an SVO language with a Strict word order 
+* Yorùbá is an SVO language with a Strict word order
 
 ### Subjects
 
@@ -59,7 +59,7 @@ udver: '2'
 
 * Verb phrases and prepositional phrases are also head initial.
 
-Yoruba uses 2 relation subtypes: 
+Yoruba uses 2 relation subtypes:
 * `compound:prt` to attach verbal particles to verbs
 * `compound:svc` to connect verbs in a serial verb construction
 
@@ -70,3 +70,17 @@ Yoruba uses 2 relation subtypes:
 There is only one Yoruba UD treeban at present:
 
   * [Yoruba-YTB](../treebanks/yo_ytb/index.html)
+
+## More
+
+This section will probably be moved to a separate page.
+Examples are taken from the [Language Gulper](http://www.languagesgulper.com/eng/Yoruba.html).
+
+The default interpretation of the bare verb stem is the past tense.
+
+~~~sdparse
+Olú ra aga \n Olú buy chair
+nsubj(ra, Olú)
+obj(ra, aga)
+~~~
+“Olu bought a chair.”
