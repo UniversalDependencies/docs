@@ -84,3 +84,13 @@ nsubj(ra, Olú)
 obj(ra, aga)
 ~~~
 “Olu bought a chair.”
+
+The imperfective auxiliary _ń_ is used to refer to an action in progress in
+the past or present, or to a habitual action.
+
+~~~sdparse
+Wọ́n ń jó \n They IMPF play
+nsubj(jó, Wọ́n)
+aux(jó, ń)
+~~~
+“They are (were) playing.”
