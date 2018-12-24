@@ -228,3 +228,14 @@ nsubj(bẹ̀rẹ̀, ó)
 aux(bẹ̀rẹ̀, ti)
 ~~~
 “It was in the house that it started.”
+
+The verb can be fronted in its nominalized form. It must be then repeated as a verb.
+
+~~~sdparse
+Rírà ni bàbá ra bàtà \n Buying FOC father buy shoes
+case(Rírà, ni)
+dislocated(ra, Rírà)
+nsubj(ra, bàbá)
+obj(ra, bàtà)
+~~~
+“Father bought shoes.”
