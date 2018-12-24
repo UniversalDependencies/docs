@@ -94,3 +94,12 @@ nsubj(jó, Wọ́n)
 aux(jó, ń)
 ~~~
 “They are (were) playing.”
+
+The perfective auxiliary _ti_ denotes a completed action.
+
+~~~sdparse
+Ó ti lọ \n He/she PERF go
+nsubj(lọ, Ó)
+aux(lọ, ti)
+~~~
+“He/she has gone.”
