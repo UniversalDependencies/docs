@@ -172,3 +172,14 @@ compound:svc(pọn, kún)
 obj(kún, kete)
 ~~~
 “He/she drew water and filled the pot.”
+
+But there can also be one shared object:
+
+~~~sdparse
+Ade ń ra ẹran jẹ \n Ade IMPF buy meat eat
+nsubj(ra, Ade)
+aux(ra, ń)
+obj(ra, ẹran)
+compound:svc(ra, jẹ)
+~~~
+“Ade is buying meat and eating it.”
