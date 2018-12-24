@@ -137,3 +137,17 @@ obj(kọ, wa)
 obl(kọ, Yorùbá)
 case(Yorùbá, ní)
 ~~~
+“He taught us Yoruba.”
+
+There are _serial verb constructions,_ in which several verbs appear in a sequence
+without any intervening coordinator or subordinator. They share tense-aspect markers
+if any, and they share arguments, although an argument may have different roles
+with respect to different verbs in the chain.
+
+~~~sdparse
+Ó gbé e wá \n He/she carry it come
+nsubj(gbé, Ó)
+obj(gbé, e)
+compound:svc(gbé, wá)
+~~~
+“He/she brought it.”
