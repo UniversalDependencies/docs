@@ -103,3 +103,13 @@ nsubj(lọ, Ó)
 aux(lọ, ti)
 ~~~
 “He/she has gone.”
+
+The auxiliaries _á/ó/yió_ denote the future tense.
+
+~~~sdparse
+ọ̀rẹ́ mi á lọ \n friend my FUT go
+nmod(ọ̀rẹ́, mi)
+nsubj(lọ, ọ̀rẹ́)
+aux(lọ, á)
+~~~
+“My friend will go.”
