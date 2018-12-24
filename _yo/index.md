@@ -151,3 +151,11 @@ obj(gbé, e)
 compound:svc(gbé, wá)
 ~~~
 “He/she brought it.”
+
+~~~sdparse
+Ó tì mí ṣubú \n He/she push me fall
+nsubj(tì, Ó)
+obj(tì, mí)
+compound:svc(tì, ṣubú)
+~~~
+“He/she pushed me and I fell.”
