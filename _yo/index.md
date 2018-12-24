@@ -216,3 +216,15 @@ expl(ra, ó)
 obj(ra, ìwé)
 ~~~
 “It was Olú who bought the book.”
+
+Oblique dependent focus:
+
+~~~sdparse
+Ní ilé ni ó ti bẹ̀rẹ̀ \n At house FOC it PERF start
+case(ilé, Ní)
+case(ilé, ni)
+obl(bẹ̀rẹ̀, ilé)
+nsubj(bẹ̀rẹ̀, ó)
+aux(bẹ̀rẹ̀, ti)
+~~~
+“It was in the house that it started.”
