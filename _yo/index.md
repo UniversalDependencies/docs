@@ -183,3 +183,23 @@ obj(ra, ẹran)
 compound:svc(ra, jẹ)
 ~~~
 “Ade is buying meat and eating it.”
+
+In _focus constructions,_ a constituent is placed at the front and marked by the morpheme _ni_.
+Normal sentence without focus:
+
+~~~sdparse
+Olú ra ìwé \n Olú buy book
+nsubj(ra, Olú)
+obj(ra, ìwé)
+~~~
+“Olú bought a book.”
+
+Object focus:
+
+~~~sdparse
+Ìwé ni Olú rà \n Book FOC Olú buy
+nsubj(rà, Olú)
+obj(rà, Ìwé)
+case(Ìwé, ni)
+~~~
+“It was a book that Olú bought.”
