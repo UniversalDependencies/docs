@@ -141,8 +141,10 @@ case(Yorùbá, ní)
 
 There are _serial verb constructions,_ in which several verbs appear in a sequence
 without any intervening coordinator or subordinator. They share tense-aspect markers
-if any, and they share arguments, although an argument may have different roles
+if any, and they may share arguments, although an argument may have different roles
 with respect to different verbs in the chain.
+Some of these constructions could be annotated as either `compound:svc` or `xcomp`.
+Precise criteria have yet to be formulated.
 
 ~~~sdparse
 Ó gbé e wá \n He/she carry it come
@@ -159,3 +161,14 @@ obj(tì, mí)
 compound:svc(tì, ṣubú)
 ~~~
 “He/she pushed me and I fell.”
+
+Two transitive verbs combined may have each their own object.
+
+~~~sdparse
+Ó pọn omi kún kete \n He/she draw water fill pot
+nsubj(pọn, Ó)
+obj(pọn, omi)
+compound:svc(pọn, kún)
+obj(kún, kete)
+~~~
+“He/she drew water and filled the pot.”
