@@ -126,3 +126,14 @@ obj(gba, lẹ́tà)
 nmod(lẹ́tà, rẹ)
 ~~~
 “I have started to receive your letters.”
+
+If the verb has two objects, the second one is preceded by the preposition _ní_.
+Therefore the second object is treated as an oblique argument in UD.
+
+~~~sdparse
+Ó kọ wa ní Yorùbá \n He teach us to Yoruba
+nsubj(kọ, Ó)
+obj(kọ, wa)
+obl(kọ, Yorùbá)
+case(Yorùbá, ní)
+~~~
