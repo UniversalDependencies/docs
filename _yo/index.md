@@ -18,12 +18,12 @@ udver: '2'
 
 * Yorùbá uses 15 universal tags ([SYM]() and [INTJ]() do not occur in the corpus at present).
 * Some words are difficult to categorize because they are semantically and syntactically redundant;
-  at present they are tagged [X]() (e.g. when _kí_ follows _jẹ́_, _ó_ after _wọn_).
-  If they can’t be categorized as preposition, adverb or adjective, they can be left uncategorized.
-  Most importantly, their presence or absence does not affect a construction.
+  at present they are tagged [X]() (e.g. _ó_ after _wọn_).
+  Their presence or absence does not affect a construction (see also _kí_ below).
 * The only word tagged as [PART]() is the negation marker _kò._
 * Auxiliary verbs ([AUX]()) are grouped to:
   * _jẹ́_ (copular “be”)
+  * _kí_ follows _jẹ́_ in constructions that can be understood as third-person existential imperatives (“let there be light”); it is semantically and syntactically redundant, but currently we tag it as auxiliary, together with _jẹ́_
   * _kìí_ – negative habitual (“usually be/do not”)
   * _ń_ – imperfective or progressive aspect
   * _ti_ – perfective aspect (“have”)
