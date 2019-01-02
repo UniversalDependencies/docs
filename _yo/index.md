@@ -22,11 +22,15 @@ udver: '2'
   If they can’t be categorized as preposition, adverb or adjective, they can be left uncategorized.
   Most importantly, their presence or absence does not affect a construction.
 * The only word tagged as [PART]() is the negation marker _kò._
-* Auxiliaries ([AUX]()) are verbal in Yorùbá and grouped to:
-  * Copula (_jẹ́_ “be”)
-  * _kìí_ – “be”
-  * Temporal (_ti_ – “have”) usually occurring before the main verb in a given construction.
-  * Modal (_yóò_ – “shall”) also followed by the main verb.
+* Auxiliary verbs ([AUX]()) are grouped to:
+  * _jẹ́_ (copular “be”)
+  * _kìí_ – negative habitual (“usually be/do not”)
+  * _ń_ – imperfective or progressive aspect
+  * _ti_ – perfective aspect (“have”)
+  * _yóò, máa_ – future tense (“shall, will”)
+  * _ìbá_ – conditional (“would”)
+  * _lè_ – modal “can, may”
+  * _má, máà_ – negative “do not” (cf. the negative particle _kò_)
 * The tag [DET]() is used for articles and pronominal words used with a determiner function;
   they can precede or follow the noun they quantify.
   The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession.
