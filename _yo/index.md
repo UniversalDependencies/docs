@@ -17,9 +17,6 @@ udver: '2'
 ### Tags
 
 * Yorùbá uses 15 universal tags ([SYM]() and [INTJ]() do not occur in the corpus at present).
-* Some words are difficult to categorize because they are semantically and syntactically redundant;
-  at present they are tagged [X]() (e.g. _ó_ after _wọn_).
-  Their presence or absence does not affect a construction (see also _kí_ below).
 * The only word tagged as [PART]() is the negation marker _kò._
 * Auxiliary verbs ([AUX]()) are grouped to:
   * _jẹ́_ (copular “be”)
