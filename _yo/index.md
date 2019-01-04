@@ -68,7 +68,7 @@ Yoruba uses 2 relation subtypes:
 
 ## Treebanks
 
-There is only one Yoruba UD treeban at present:
+There is only one Yorùbá UD treebank at present:
 
   * [Yoruba-YTB](../treebanks/yo_ytb/index.html)
 
