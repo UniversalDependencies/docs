@@ -45,7 +45,7 @@ udver: '2'
 
 ## Syntax
 
-* Yorùbá is an SVO language with a Strict word order
+* Yorùbá is an SVO language with a strict word order.
 
 ### Subjects
 
