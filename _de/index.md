@@ -153,8 +153,6 @@ udver: '2'
   * [compound:prt]() for separable verb prefixes
   * [det:poss]() for possessive determiners
   * [nmod:poss]() for possessive modifier phrases
-* The following main types are not used alone and must be subtyped:
-  [expl]()
 * The following relation types are not used in German at all:
   [clf](), [dislocated]()
 
