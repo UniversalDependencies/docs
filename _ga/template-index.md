@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Irish UD'
 udver: '2'
 ---
 
@@ -8,12 +8,11 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* In Irish, in general, words are delimited by whitespace characters. Description of exceptions follows.
+* Some punctuation marks are attached to a neighbouring word. The word and the punctuation mark are taken together as one token. For example,  _D'_  (contraction for _do_ in _d'ith_ "ate"), _b'_ (in _b'fhearr_ "would prefer") and _O'_ (in surnames) are recognised as single tokens. Abbreviations surch as _srl._ "etc." or _i.n._ "p.m." are also recognised as one token. 
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* Note that compound prepositions (_os\_cionn_ "above", _in\_aice_ "beside", etc)  are split into two tokens for UD v2, as are some placenames that the tagger recognises (e.g. _Cill\_Dara_) or a limited number of mwes (_chomh\_fada\_is_ "as long as; _cé\_is\_moite_ "except for"). 
+The Irish POS-tagger used in the Irish Dependency Treebank retains these as single tokens and so must be mapped accordingly.
 
 ## Morphology
 
