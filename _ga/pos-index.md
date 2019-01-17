@@ -8,3 +8,35 @@ permalink: ga/pos/index.html
 # POS tags
 
 {% include ga-pos-table.html %}
+
+## AUX
+
+What could be considered "auxiliary" verbs in other languages (I _have_ to go, I _am_ going) are not labelled as AUX in the Irish data. However, as all copular verbs in UD are recognised as Auxiliaries, we tag the copula as AUX.
+
+There are two verbs "to be" in Irish: the substantive verb _bí_ and the copula _is_. For that reason, the Irish POS tagset differentiates the copula by using the POS tag AUX and labelling the substantive verb as VERB. In the literature on Irish syntax, there is some discussion over the Irish copula's syntactic role, whether it is a verb or a linking particle (Carnie, 1997). The role normally played is that of a linking element between a subject and a predicate. 
+
+## ADP
+
+All simple prepositions are tagged as ADP.
+
+Compound prepositions have been split into two tokens to conform to UD guidelines. While the individual tokens are sometimes not standalone words, nor considered prepositions in their own right, they are both tagged as ADP.
+
+e.g. _os\_cionn_ "above" is split into _os_ and _cionn_, both of which are individually tagged as ADP.
+
+_in\_aice_ "beside" 
+
+
+Pron-Prep is the Irish POS tag for pronominal prepositions, which are also referred to as prepositional pronouns. Characteristic of Celtic languages, they are prepositions inflected with their pronominal objects – compare, for example, _le mo chara_ "with my friend" with _leis_ "with him". While the Irish POS labelling scheme tags them as pronouns in the first instance (i.e. their coarse grained tag), the dependency labelling scheme treats the relationship between them and their syntactic heads as 'case'. Therefore, they have been mapped to ADP (adpositions) for UD.
+
+
+## NOUN
+
+The NOUN tag is used for
+
+* common nouns
+* proper nouns
+* verbal nouns
+
+
+
+
