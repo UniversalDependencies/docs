@@ -16,8 +16,8 @@ spoken languages.
 Դա էլ հենց վատ է , որ ընտանիքներով են եկել : \n That is just bad , that they have come with families .
 dislocated(վատ, Դա)
 dislocated(bad, That)
-csubj(եկել, վատ)
-csubj(come, bad)
+csubj(վատ, եկել)
+csubj(bad, come)
 ~~~
 
 Note that the dislocated relation is also used for "fronted" apposition, which is not usual for Armenian, as in traditional grammar it is always described as a postposed construction:
