@@ -12,9 +12,7 @@ udver: '2'
 
 * If you want to start a treebank or contribute to a release, please follow the steps in the [release checklist](release_checklist.html).
 
-<!-- Dan: There will be requirements for treebanks in CoNLL 2018, but we have to finalize the task specification first.
-  * Specific to release 2.0: if you want your treebank included in the CoNLL 2017 shared task, [read this](http://universaldependencies.org/conll17/inclusion-rules.html) and [this](http://universaldependencies.org/conll17/internal-timeline.html).
--->
+  * Some more advice for those who want to start a treebank of a new language and do not know [how to start](how_to_start.html).
 
 * If you want to contribute to language-specific documentation, follow these [guidelines](contributing_language_specific.html).
 
