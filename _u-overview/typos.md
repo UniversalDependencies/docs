@@ -5,7 +5,9 @@ permalink: u/overview/typos.html
 udver: '2'
 ---
 
+<!--
 (See also issues [#330](https://github.com/UniversalDependencies/docs/issues/330), [#513](https://github.com/UniversalDependencies/docs/issues/513), and [#544](https://github.com/UniversalDependencies/docs/issues/544).)
+-->
 
 # Typos and Other Errors in Underlying Text
 
