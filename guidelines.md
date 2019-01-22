@@ -12,6 +12,7 @@ udver: '2'
   * [Syntax](u/overview/syntax.html)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
   * [CoNLL-U format](format.html) and its [extensions](ext-format.html)
+  * [Typos and other errors in underlying text](u/overview/typos.html)
 * Annotation guidelines
   * [Nominals](u/overview/nominal-syntax.html)
   * [Simple clauses](u/overview/simple-syntax.html)
