@@ -13,6 +13,8 @@ Sometimes the text underlying a UD treebank does not conform to canonical spelli
 
 The recommendations on this page are designed with sporadic errors in mind. Technically they could be also applied to learner corpora, which are full of errors; however, learner corpora usually require more thinking, and the main question is: Do we want to guess what the author would have written if they knew the language better, or do we want to approximate “the grammar in their head,” which is probably a mixture of the intended language and a language they know better?
 
+Mechanisms similar to typo handling could also be used to annotate historical corpora with historical spelling; see [below](#historical-spelling) for more details.
+
 ## Misspelled Word
 
 The easiest type of error is a simple typo in a single word, especially if the result is a non-word. (If the result is another word of the language, e.g. if one writes _too_ instead of _two_ in English, then we must decide that the author really wanted to say something else, and it may not be always obvious.)
@@ -104,3 +106,7 @@ As for the syntactic annotation, there does not seem to be a simple and easy-to-
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 </pre>
+
+## Historical Spelling
+
+Similar mechanisms could also be used to mark historical spelling in older texts. For instance, German _sein_ “to be” used to be spelled _seyn_. It is not a typo because this form was correct in the time the text was produced. Thus in the FEATS column, we may use [Style]()`=Arch` to mark that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (an analogy to `CorrectForm=sein`, which we would use if we wanted to mark it as a typo).
