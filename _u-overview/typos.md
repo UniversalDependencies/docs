@@ -80,3 +80,27 @@ Here is a more complex example that combines several error types in one sentence
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 </pre>
+
+## Wrong Morphology or Syntax
+
+For example, the grammar requires dative but the actual form is nominative. Or a singular occurs instead of plural _(the cars is produced in Detroit)._ Such errors could be treated as simple typos but intuitively they are not in the same category (although they could co-occur with a typo, as in _the cars iss produced…_) It is not always obvious what is the correct form. We could either correct _cars_ to _car_, or _is_ to _are_ (but not both). Similarly, it may be clear that the actual word form is the nominative case and that it is wrong, but several other morphological cases may be plausible in the given context.
+
+Sometimes it will not be obvious whether such errors should be classified as errors. In some languages it may be dialectal or other variety. (This actually applies to certain typos too: _color_ is correct in American English but in Britain it should be _colour_.)
+
+Suggestion: Keep the word as it was in the source text. Add morphological features that correspond to the actual form, not to the hypothetical correct form: English _is_ is `Number=Sing`, and _cars_ is `Number=Plur`. (Note that some cases will be hard to decide. Czech _auto_ “car” is singular nominative or accusative. If the context requires the dative _(autu),_ we only know that the actual form is wrong. But we don’t know whether it is `Case=Nom` or `Case=Acc`, thus we may have to annotate `Case=Acc,Nom`. If there were the correct form _autu,_ which besides the dative could also mean locative, we will disambiguate it by the context and annotate `Case=Dat`, not `Case=Dat,Loc`.)
+
+In the MISC column, we should indicate the correct form as we did with simple typos: `CorrectForm=autu`. We also add in the MISC column those features from the FEAT column that would differ for the correct form, and prefix them with “Correct”, e.g. `CorrectCase=Dat`. We will not add the `Typo=Yes` feature in FEAT because the word form in FORM reflects the values of the morphological features in FEAT.
+
+As for the syntactic annotation, there does not seem to be a simple and easy-to-follow rule. Each sentence will have to be decided separately, seeking a compromise between the actual surface form and the assumed intended reading. For example, consider the Czech preposition _k_ “to” which requires noun phrases in the dative. If the text contains (wrong) _k auto_ instead of (correct) _k autu,_ using the relation `case(auto, k)` is probably the only thing we can do, regardless that the nominative _auto_ is ungrammatical with the preposition.
+
+<pre>
+# text = The cars is produced in Detroit.
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	cars	car	NOUN	_	Number=Plur	4	nsubj:pass	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	CorrectForm=are|CorrectNumber=Plur
+4	produced	produce	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	in	in	ADP	_	_	6	case	_	_
+6	Detroit	Detroit	PROPN	_	Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+</pre>
