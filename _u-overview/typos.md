@@ -50,16 +50,33 @@ The head should also bear the part-of-speech tag and morphological annotation of
 
 ## Wrongly Merged Words
 
-UD has two mechanisms capable of capturing that two words are not separated by whitespace: the `SpaceAfter=No` attribute in MISC, and multi-word tokens. The former is considered low-level and it is normally used between a word and a punctuation node. The latter is intended for situations where two real words are merged into one, but it is assumed that these cases adhere to regular rules of the grammar, i.e., they are not arbitrary errors. Also, the format of multi-word token annotation is technically more complex because it allows for non-concatenative fusions, and it treats the parts as syntactically independent (they may attach to different parent nodes). For the annotation of poorly edited text, the low-level `SpaceAfter` attribute seems quite suitable.
+UD has two mechanisms capable of capturing that two words are not separated by whitespace: the `SpaceAfter=No` attribute in MISC, and multi-word tokens. The former is considered low-level and it is normally used between a word and a punctuation node. The latter is intended for situations where two real words are merged into one, but it is assumed that these cases adhere to regular rules of the grammar, i.e., they are not arbitrary errors. Also, the format of multi-word token annotation is technically more complex because it allows for non-concatenative fusions. For the annotation of poorly edited text, the low-level `SpaceAfter` attribute seems quite suitable.
 
-As with `Typo=Yes` and `CorrectForm=X`, it is desirable to indicate that the space is missing by error. Therefore, `SpaceAfter=No` should be accompanied by `CorrectSpaceAfter=Yes`. Note that this mechanism can be used also to mark excess spaces around punctuation. Example:
+As with `Typo=Yes` and `CorrectForm=X`, it is desirable to indicate that the space is missing by error. Therefore, `SpaceAfter=No` should be accompanied by `CorrectSpaceAfter=Yes`.
+
+Note that a similar mechanism can be used also to mark excess spaces around punctuation (using `CorrectSpaceAfter=No`). Punctuation should not be attached to another node via `goeswith` because they do not together constitute a word. Example:
 
 <pre>
-# text = This spellingis wrong.
+# text = This spellingis wrong .
 1	This	this	DET	_	Number=Sing|PronType=Dem	2	det	_	_
 2	spelling	spelling	NOUN	_	Number=Sing	4	nsubj	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	wrong	wrong	ADJ	_	_	0	root	_	SpaceAfter=No
+4	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
+
+</pre>
+
+## A Combination of the Above
+
+Here is a more complex example that combines several error types in one sentence:
+
+<pre>
+# text = This spel lingi$ wrong .
+1	This	this	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	spel	spelling	NOUN	_	Number=Sing	5	nsubj	_	_
+3	ling	_	X	_	_	2	goeswith	_	SpaceAfter=No|CorrectSpaceAfter=Yes
+4	i$	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	5	cop	_	CorrectForm=is
+5	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 </pre>
