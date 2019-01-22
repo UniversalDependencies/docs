@@ -30,3 +30,20 @@ Finally, neither the lemma nor the morphological features tell the user what the
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 </pre>
+
+## Wrongly Split Word
+
+If the word is erroneously written with one or more spaces, we have several incorrect tokens. We do not join them into one token with a space, although Universal Dependencies since version 2 allow words with spaces. This option is reserved for very specific situations, usually quite marginal in the language (with the exception of Vietnamese), but _predictable._ Not for arbitrary errors. Instead, UD defines the [goeswith]() relation to connect the parts of the word. The first part is always the head, the other parts are attached to it via `goeswith`.
+
+The head should also bear the part-of-speech tag and morphological annotation of the entire word. It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. Example:
+
+<pre>
+# text = This spel ling is wrong.
+1	This	this	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	spel	spelling	NOUN	_	Number=Sing	5	nsubj	_	_
+3	ling	_	X	_	_	2	goeswith	_	_
+4	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	wrong	wrong	ADJ	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+</pre>
