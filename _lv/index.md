@@ -15,6 +15,8 @@ In general, words are delimited by whitespace characters and punctuation is sepa
 * In Latvian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
 
+Paragraph borders from the original text is indicated by comment line `# newpar` in cases when paragraph borders aligns sentence borders and `MISC` value `NewPar=Yes` for the token following mid-sentece paragraph break. `MISC` value `SpaceAfter=No` is used to note tokens lacking any whitespace after.
+
 
 ## Morphology
 
