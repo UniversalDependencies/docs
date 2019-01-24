@@ -139,6 +139,16 @@ The following relation subtypes are used in Latvian:
 The following relation types are not used for Latvian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 
 
+## Annotating Textual Errors
+
+Following `MISC` values can be used to annotate errors in the source text interferring with treebank annotation:
+* `CorrectionType=Spelling` for typos (`FORM` is given as in text, while `LEMMA`, `UPOS`, `XPOS` and `FEATS` as for word without the error)
+* `CorrectionType=Spacing` for missing or unnecessary whitespaces
+* `CorrectionType=InsertedPunctAfter` for cases when there is missing punctuation mark (usually comma) after this token
+* `CorrectionType=RemovedPunctuation` for unnecessary punctuation (usually comma)
+* In case of `CorrectionType=Spelling` additional feature `CorrectedForm=`... gives the corrected form.
+
+
 ## Treebanks
 
 There is [1](../treebanks/lv-comparison.html) Latvian UD treebank:
