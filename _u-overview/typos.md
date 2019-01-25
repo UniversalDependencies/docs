@@ -85,6 +85,16 @@ Here is a more complex example that combines several error types in one sentence
 
 </pre>
 
+## Missing Word
+
+If one or more words are missing from the text, we treat it as [ellipsis](specific-syntax.html#ellipsis). That is, we select a constituent from the remainder of the incomplete subtree, promote it to the head of the subtree and attach the other surviving dependents to it. If an argument of a missing verb is promoted, the other arguments and adjuncts are attached to it via the [orphan]() relation, otherwise the relation type is used that would go out of the head if the missing material were present.
+
+Note that sometimes words are missing really by error and not due to ellipsis, albeit we propose to use an ellipsis-like annotation. For instance, errors in sentence segmentation may cause the sentence to end prematurely, after a period that was not intended to terminate the sentence.
+
+## Extra Word
+
+If the text contains by error a word that should not be there, it can be treated similarly to speech disfluences, that is, attached to the following constituent via the [reparandum]() relation. A relatively common instance in written language is that a word is typed twice in a row.
+
 ## Wrong Morphology or Syntax
 
 For example, the grammar requires dative but the actual form is nominative. Or a singular occurs instead of plural _(the cars is produced in Detroit)._ Such errors could be treated as simple typos but intuitively they are not in the same category (although they could co-occur with a typo, as in _the cars iss produced…_) It is not always obvious what is the correct form. We could either correct _cars_ to _car_, or _is_ to _are_ (but not both). Similarly, it may be clear that the actual word form is the nominative case and that it is wrong, but several other morphological cases may be plausible in the given context.
