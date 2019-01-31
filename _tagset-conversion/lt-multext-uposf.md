@@ -353,36 +353,36 @@ Tagset <tt>lt::multext</tt>, total 668 tags.
   <tr><td>Vgi-----y--n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|VerbForm=Inf</td><td><em>nepasiekti, neiti, neprarasti, negailėti, neleisti</em></td></tr>
   <tr style="background:lightgray"><td>Vgi-----y--y</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Reflex=Yes|VerbForm=Inf</td><td><em>nesistebeilyti, nesirinkti, nesiklausyti</em></td></tr>
   <tr><td>Vgm-1p--n--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>Paremkime</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-1p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>įgyvendintume, išliktume, kastume, ištyrinėtume, pažinotume</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-1p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>įgyvendintume, išliktume, kastume, ištyrinėtume, pažinotume</em></td></tr>
   <tr><td>Vgm-1p--y--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em>nepamirškime</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-1p--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>nesiskirtume</em></td></tr>
-  <tr><td>Vgm-1s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>būčiau, galėčiau, pavydėčiau, palikčiau, paklausčiau</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-1s--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>mokyčiausi, susigalvočiau</em></td></tr>
-  <tr><td>Vgm-1s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em>neatkurčiau, nebejausčiau, negalėčiau, neištirpčiau, nesurinkčiau</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-1p--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>nesiskirtume</em></td></tr>
+  <tr><td>Vgm-1s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>būčiau, galėčiau, pavydėčiau, palikčiau, paklausčiau</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-1s--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>mokyčiausi, susigalvočiau</em></td></tr>
+  <tr><td>Vgm-1s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em>neatkurčiau, nebejausčiau, negalėčiau, neištirpčiau, nesurinkčiau</em></td></tr>
   <tr style="background:lightgray"><td>Vgm-2p--n--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>paprašykite, atminkite, pakentėkit, darykite, raskite</em></td></tr>
-  <tr><td>Vgm-2p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>sukurtumėte, sumažintumėte, tilptumėte</em></td></tr>
+  <tr><td>Vgm-2p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>sukurtumėte, sumažintumėte, tilptumėte</em></td></tr>
   <tr style="background:lightgray"><td>Vgm-2p--n--ym</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>stenkitės, užsirašykite, pasižymėkite, Susirašykite, išsiaiškinkite</em></td></tr>
-  <tr><td>Vgm-2p--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>įsivaizduotumėt</em></td></tr>
+  <tr><td>Vgm-2p--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>įsivaizduotumėt</em></td></tr>
   <tr style="background:lightgray"><td>Vgm-2p--y--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>Neatidėliokite, Nekonkuruokite, neplanuokite, nekibkite, Nekartokite</em></td></tr>
-  <tr><td>Vgm-2p--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nebūtumėte, neapdovanotumėte</em></td></tr>
+  <tr><td>Vgm-2p--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nebūtumėte, neapdovanotumėte</em></td></tr>
   <tr style="background:lightgray"><td>Vgm-2p--y--ym</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>nesistenkite, neužsimirškite, nenusiminkite, neužsiimkite, nesitikėkite</em></td></tr>
   <tr><td>Vgm-2s--n--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>Pažiūrėk, leisk, valgyk, atleisk, baik</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-2s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>turėtum, atimtum, beišeitum, būtum, sėdėtum</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-2s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>turėtum, atimtum, beišeitum, būtum, sėdėtum</em></td></tr>
   <tr><td>Vgm-2s--n--ym</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>rinkis</em></td></tr>
   <tr style="background:lightgray"><td>Vgm-2s--y--nm</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nepyk, neturėk</em></td></tr>
-  <tr><td>Vgm-2s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nenorėtum, necyptelėtum</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3---n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, reikėtų, sustiprintų, sudarytų, prikniedytų</em></td></tr>
-  <tr><td>Vgm-3---n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>norėtųsi, pasisektų</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3---y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nereikėtų, nebūtų, Nederėtų, negelbėtų</em></td></tr>
-  <tr><td>Vgm-3---y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neatsitiktų</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, turėtų, galėtų, skirtų, atitiktų</em></td></tr>
-  <tr><td>Vgm-3p--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>išsitektų, prisidėtų, rinktųsi, prasidėtų</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3p--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nepamanytų, netaptų, negalėtų, neitų, negožtų</em></td></tr>
-  <tr><td>Vgm-3p--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neatsivertų</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, turėtų, galėtų, išliktų, sakytų</em></td></tr>
-  <tr><td>Vgm-3s--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>atsirastų, atsigautų, sektųsi, užsipiltų, leistųsi</em></td></tr>
-  <tr style="background:lightgray"><td>Vgm-3s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nebūtų, neglumintų, nebeplauktų, Nebegrobtų, nekentėtų</em></td></tr>
-  <tr><td>Vgm-3s--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neišsilaikytų, neatsitiktų</em></td></tr>
+  <tr><td>Vgm-2s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nenorėtum, necyptelėtum</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3---n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, reikėtų, sustiprintų, sudarytų, prikniedytų</em></td></tr>
+  <tr><td>Vgm-3---n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>norėtųsi, pasisektų</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3---y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nereikėtų, nebūtų, Nederėtų, negelbėtų</em></td></tr>
+  <tr><td>Vgm-3---y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neatsitiktų</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3p--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, turėtų, galėtų, skirtų, atitiktų</em></td></tr>
+  <tr><td>Vgm-3p--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>išsitektų, prisidėtų, rinktųsi, prasidėtų</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3p--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nepamanytų, netaptų, negalėtų, neitų, negožtų</em></td></tr>
+  <tr><td>Vgm-3p--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neatsivertų</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3s--n--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin</td><td><em>būtų, turėtų, galėtų, išliktų, sakytų</em></td></tr>
+  <tr><td>Vgm-3s--n--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|VerbForm=Fin</td><td><em>atsirastų, atsigautų, sektųsi, užsipiltų, leistųsi</em></td></tr>
+  <tr style="background:lightgray"><td>Vgm-3s--y--ns</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin</td><td><em>nebūtų, neglumintų, nebeplauktų, Nebegrobtų, nekentėtų</em></td></tr>
+  <tr><td>Vgm-3s--y--ys</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Reflex=Yes|VerbForm=Fin</td><td><em>neišsilaikytų, neatsitiktų</em></td></tr>
   <tr style="background:lightgray"><td>Vgma1p--n--ni</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin</td><td><em>pradėjome, žinojom, buvome, nuvažiavome, užmezgėme</em></td></tr>
   <tr><td>Vgma1p--n--yi</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin</td><td><em>lankėmės, laikėmės</em></td></tr>
   <tr style="background:lightgray"><td>Vgma1p--y--ni</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin</td><td><em>neišnešiojome, negyvenom, nepradėjom</em></td></tr>
