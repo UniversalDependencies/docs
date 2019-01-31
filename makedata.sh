@@ -13,7 +13,7 @@ rm -f $POS_DATA_FILE $FEATURE_DATA_FILE $RELATION_DATA_FILE
 mkdir -p $DATA_DIRECTORY
 
 for s in "pos" "feat" "dep"; do
-    collections=`ls -d _*-$s | egrep -v '^_(template|ext)-(pos|feat|dep)$' | perl -pe 's/^_//' | tr '\n' ' '`
+    collections=`ls -d _u-$s _*/$s | egrep -v '^_(template|ext)-(pos|feat|dep)$' | perl -pe 's/^_//' | tr '\n' ' '`
 
     # directory names are collection names with an underscore prefix.
     DIRECTORIES=$(echo " $collections" | perl -pe 's/ (\S)/ _$1/g')
@@ -26,11 +26,11 @@ for s in "pos" "feat" "dep"; do
 	perl -pe 's/\.md$//' | sort | uniq)
 
     if [ "$s" = "pos" ]; then
-	out=$POS_DATA_FILE;
+	       out=$POS_DATA_FILE;
     elif [ "$s" = "feat" ]; then
-	out=$FEATURE_DATA_FILE;
+	       out=$FEATURE_DATA_FILE;
     elif [ "$s" = "dep" ]; then
-	out=$RELATION_DATA_FILE;
+	       out=$RELATION_DATA_FILE;
     else
 	echo "internal error"
 	exit 1
