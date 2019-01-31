@@ -76,6 +76,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/ext-feat-index.md<br />
   perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt<br />
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push</code>
+* Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
+  for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.
 
 ## Releasing the data
 
