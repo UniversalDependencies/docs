@@ -19,9 +19,9 @@ The relation `aux` is  used between an auxiliary verb and a predicate (verb, adv
 # visual-style 2	fgColor:white
 1	we	we	PRON	PRON	_	3	nsubj	_	_
 2	don	PERF	AUX	AUX	_	3	aux	_	_
-3	discover	discover	VERB	VERB	_	0	root	_
+3	discover	discover	VERB	VERB	_	0	root	_	_
 4	dis	this	DET	DET	_	5	det	_	_
-5	thing	thing	NOUN	NOUN	_	3	obj	_
+5	thing	thing	NOUN	NOUN	_	3	obj	_	_
 
 1	we	_	_	_	_	0	_	_	_
 2	have	_	_	_	_	0	_	_	_
