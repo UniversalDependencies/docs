@@ -77,7 +77,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
   perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt<br />
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push</code>
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
-  for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.
+  for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
+  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push</code><br />
+  Note that the script updates the data files that are used in many MarkDown pages but it does not update the MarkDown pages directly.
+  Jekyll thus will not notice that almost all documentation must be re-generated; it will update nothing, until a change happens
+  directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
+  We probably need to ask Filip or Sampo to re-run Jekyll manually? A possible hack would be to insert a blank line at the end of every
+  affected MarkDown file but it is an ugly approach.
 
 ## Releasing the data
 
