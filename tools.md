@@ -28,6 +28,7 @@ If you would like to have your tool added to this page, please write the
     * [Arborator](#arborator)
     * [LightTag](#lighttag)
     * [TrUDucer](#truducer)
+    * [ConlluEditor](#conllueditor)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -210,6 +211,25 @@ An example rule file converting (large parts of) the Hamburg Dependency Treebank
 * References:  Hennig, Felix and Köhn, Arne (2017), Dependency Tree Transformation with Tree Transducers. In: Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017). Gothenburg, 58–66.
 * Contact: arne@chark.eu
 
+#### ConlluEditor
+
+[ConlluEditor](https://github.com/Orange-OpenSource/conllueditor) is a tool which facilitates the editing of syntactic relations and morphological features of files in CoNLL-U format. It uses a Java-based server and a HTML/CSS/Javascript based front-end. The editor loads the CoNLL-U file and saves every change to disk (and performs a git commit if the file is under git version control).
+
+The editor provides the following functionalities:
+
+* editing words (forms, lemmas, upos, xpos, features, enhanced dependencies
+* editing dependency relations
+* join/split words (to correct tokenization errors)
+* join/split sentences (to correct tokenization errors)
+* undo/redo (partially)
+* git support
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Java, JavaScript
+* License: BSD-3-Clause (open source)
+* Homepage: <https://github.com/Orange-OpenSource/conllueditor>
+* Contact: johannes.heinecke@orange.com
 
 ### Editor modes
 
