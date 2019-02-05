@@ -191,14 +191,16 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 
 * Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
 
-* Agnieszka Patejuk and Adam Przepiórkowski. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw, 2018. (263 pages)
+* Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
 
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
   
-* Adam Przepiórkowski and Agnieszka Patejuk. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM, 2018.
+* Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
+
+* Adam Przepiórkowski and Agnieszka Patejuk. 2019. [From Lexical Functional Grammar to enhanced Universal Dependencies: The UD-LFG treebank of Polish](https://doi.org/10.1007/s10579-018-9433-z). Language Resources and Evaluation.
 
 * Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
 
