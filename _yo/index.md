@@ -20,6 +20,7 @@ udver: '2'
 * The only word tagged as [PART]() is the negation marker _kò._
 * Auxiliary verbs ([AUX]()) are grouped to:
   * _jẹ́_ (copular “be”)
+  * _ní_ (copular “be”)
   * _kí_ follows _jẹ́_ in constructions that can be understood as third-person existential imperatives (“let there be light”); it is semantically and syntactically redundant, but currently we tag it as auxiliary, together with _jẹ́_
   * _kìí_ – negative habitual (“usually be/do not”)
   * _ń_ – imperfective or progressive aspect
