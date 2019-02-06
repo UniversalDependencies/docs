@@ -45,7 +45,7 @@ If you would like to have your tool added to this page, please write the
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
     * [UDAPI](#udapi)
-    * [TüNDRA](#tundra)
+    * [TüNDRA](#tündra)
 
 
 
