@@ -38,7 +38,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
   <code>check_overlaps.pl $(cat released_treebanks.txt) |& tee overlap.log</code>
 * Update statistics in the `stats.xml` file in each repository:<br />
-  <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
+  <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; ( ../tools/conllu-stats.pl *.conllu > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Merge the `dev` branch into `master` in the released repositories.
   (Note: the script `package_ud_release.sh`, that we will later use to create the release, generates plain text files from the CoNLL-U files. So far, the plain text files appear only in the released package but not in the Github treebank repository. Maybe we want to add these files to the master branch as well? But then we would have to generate them before we merge the branches here. And we must decide whether we want to have the files in the dev branch as well, like we do with `stats.xml`.)
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
