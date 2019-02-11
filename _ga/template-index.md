@@ -132,7 +132,7 @@ Comparative adjectives are also formed through inflection:
 
 #### Prepositions 
 
-Irish has simple prepositions (e.g. _ar_ "on|) and compound prepositions (e.g. _in aghaidh_ "against"). Most of the simple prepositions can inflect for a pronominal object that indicates person and number (known as prepositional pronouns or pronominal prepositions), thus including a nominal element. Compare _le_ and _leis_:
+Irish has simple prepositions (e.g. _ar_ "on") and compound prepositions (e.g. _in aghaidh_ "against"). Most of the simple prepositions can inflect for a pronominal object that indicates person and number (known as prepositional pronouns or pronominal prepositions), thus including a nominal element. Compare _le_ and _leis_:
 
 * _bhí sé ag labhairt le fear_ "he was speaking with a man"
 * _bhí sé ag labhairt leis_ "he was speaking with him"
@@ -151,16 +151,159 @@ These forms are used quite frequently, not only with regular prepositional attac
 *
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
+Here we summarise some of the distinctive features of Irish as a Celtic language. These features commonly occur in standard Irish use and therefore require discussion in the context of treebank development. Irish theoretical syntax is relatively under-researched, yet this summary shows that even within the limited work carried out in this area thus far, there still remain many unresolved disagreements as we show here. In general, Irish dependency treebank development follows the work of Stenson (1981). 
+
+
+### VSO clause structure 
+
+Both main clauses and subordinate clauses follow a VSO structure in Irish. 
+
+* _Thug sí comhairle dom_ (lit. Gave she advice to-me) "She gave me advice"
+* _Dúirt siad gur chaith na daoine an airgead_ "They said that the people were seeking work"  (V S \[that V S O\])
+
+There are only a couple of exceptional circumstances under which an element can appear between the verb and the subject (see example below) and while various elements may occur between the subject and object, such as prepositional phrases and adverbs, the verb-subject-object order is strict (Mc-Closkey, 1983, pp. 10-11).
+
+* _Tá ar ndóigh daoine a chreideann..._ (V ADV SUBJ REL-CL) "There are of-course people who believe..."
+* _Thug sé dom inné é_ (V S PP ADV O) "He gave it to me yesterday"
+
+
+Irish sentences using _bí_, the Substantive Verb "to be" follow the VSO structure.  However, copular constructions using the Copula _is_ follow a Copula-Predicate-Subject order.
+This is explained in more detail in [cop]().
+
+
+###  Core Arguments, Oblique Arguments and Adjuncts
+
+A nominal subject ('nsubj') is a noun phrase in the nominative case, without preposition.
+
+An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
+
+
+
+A finite subordinate clause may serve as the subject and is labeled 'csubj:cop'.
+
+'csubj:cop' is used when the clause is a subject of a copular phrase. These are copular constructions that follow the Copula-Predicate-Subject order.
+* _Ní hamháin nach bhfaca sé aon rogha eile áfach_ "it wasn't just that he didn't see any other option however"
+
+
+On the other hand, 'csubj:cleft' is used when the clause is the subject of a clefted sentence (which also follow the Copula-Predicate-Subject order).
+* _Is leabhar a thug sí dó_ "It's a book she gave him"
+
+
+
+There are idiomatic phrases in which translations would suggest that the Irish subject is actually the object. 
+
+
+For example:
+* _Is maith liom tae_ "I like tea" (lit. tea is good with me)
+
+
+There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:pass' are not used in the Irish treebank. What often translates into English as passive is the automonous verb form. These verbs (labelled with the feature 'Voice=Auto' (See [Voice]()) have an "understood"/implicit subject and are usually followed directly by the object.
+* _Foilsíodh an chéad chuid den sraith cartún_ "The first cartoon series was published" (lit. somebody published the first series of the cartoon) 
+
+
+
+Objects in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
+
+There are no indirect objects in Irish. 
+
+
+Oblique 'obl'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
+
+
+The dative alternation where the prepositional construction gets a similar analysis to the double object construction
+* _Thug sé litir don fhear_ "He gave a letter to the man"
+
+Nouns can be objects of clausal complements, which are labeled xcomp.
+
+
+
+If a verb subcategorizes for two core objects, one of them accusative (or ccomp) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
+
+
+Oblique agents of verbal adjectives are labelled as 'obl' 
+* _go bhfuil dul chun cinn iontach déanta ag foireann shinsir..._ "that the senior team have made great progress..."  (lit. that great progress has been made by the senior team)
+
+
+All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate) are adjuncts ('nmod').
+* _as gach ceann de na béilí seo_ "from each one of these meals"
+
+
+
+
+
+
+
+### Clefting / Fronting
+
+Clefting or fronting is a commonly used structure in the Irish language and described in more detail in [csubj:cleft](). Elements are fronted to predicate position to create emphasis or focus. Irish clefts differ from clefts in English in that there is more freedom with regards to the type of sentence element that can be fronted (Stenson, 1981, p.99). In Irish, the structure is as follows: Copula, followed by the fronted element (Predicate), followed by the rest of the sentence (Relative Clause). The predicate can take the form of a noun phrase (headed by pronoun, noun, verbal noun), or adjectival, prepositional or adverbial
+phrases. 
+
+ Adverbial Fronting:
+* _Is laistigh de bhliain a déanfar é_ "It's within a year that it will be done"
+
+Pronoun Fronting:
+* _Is ise a chonaic siad inné_ "It is she whom they saw yesterday"
+
+Prepositional fronting:
+* _Is sa pháirc a chonaic mé an gabhar_ "It's in the field I first saw the goat"
+
+Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see (mark:prt]().
+
+Stenson (1981, p.111) describes the cleft construction as being similar to copular identity structures with the order of elements as Copula, Predicate, Subject. According to Stenson, the a is a relative particle which forms part of the relative
+clause. However, there is no surface head noun in the relative clause { it is missing an NP. Stenson refers to these structures as having an "understood" nominal head such as _an rud_ "the thing" or _an té_ "the person/the one", e.g. _Is ise \[an té\] a chonaic siad inné_. When the nominal head is present, it becomes a copular identity construction: She is the one who they saw yesterday. In the absence of a head noun, the verb is labelled as the head of the clause. 
+
+
+### Language specific labels
+
+The Irish UD treebank uses 26 of the UD dependency labels. A further 10 language specific labels were introduced to deal with certain linguistic phenomena in Irish:
+
+- acl:relcl for relative clauses
+- case:voc for vocative particles
+- compound:prt for verb particle heads
+- csubj:cleft for cleft subjects
+- csubj:cop for copular clausal subject
+- mark:prt for (most) particles
+- nmod:poss for possessive pronouns
+- nmod:prep for pronominal prepositions
+- nmod:tmod for nominal temporal modifiers
+- xcomp:pred for predicates of the substantive verb "to be"
+
+
+
+## References
+
+Christian Brothers, 1988. New Irish Grammar, Dublin: C J Fallon
+
+Lynn, Teresa , Ozlem Cetinoglu, Jennifer Foster, Elaine Uí Dhonnchadha, Mark Dras and Josef van Genabith, [Irish Treebanking and Parsing: A Preliminary Evaluation] (http://www.lrec-conf.org/proceedings/lrec2012/pdf/378_Paper.pdf), LREC 2012, Istanbul, May 2012
+
+Lynn, Teresa, Jennifer Foster, Mark Dras and Elaine Uí Dhonnchadha, [Active Learning and the Irish Treebank] (http://www.alta.asn.au/events/alta2012/proceedings/pdf/U12-1005.pdf), ALTA 2012, Dunedin, NZ, December 2012
+
+Lynn, Teresa, Jennifer Foster, Mark Dras and Josef van Genabith, [Working with a small dataset — semi-supervised dependency parsing for Irish] (http://www.nclt.dcu.ie/~tlynn/spmrl.pdf), SPMRL 2013, Seattle, USA, October 2013
+
+Lynn, Teresa, Jennifer Foster, Mark Dras and Lamia Tounsi, [Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study] (http://www.nclt.dcu.ie/~tlynn/CLTW.pdf) CLTW 2014, Dublin, Ireland, August 2014
+
+Teresa Lynn, [Irish Dependency Treebanking and Parsing] (http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf), PhD Thesis, Dublin City University, Ireland and Macquarie University, Sydney, Australia, 2016
+
+Lynn, Teresa and Jennifer Foster, [Universal Dependencies for Irish] (http://www.nclt.dcu.ie/~tlynn/Lynn_CLTW2016.pdf), CLTW 2016, Paris, France, July 2016
+
+Stenson, N, 1981. Studies in Irish Syntax, Tübingen: Gunter Narr Verlag.
+
+The Christian Brothers, New Irish Grammar, Dublin, Ireland: C.J. Fallon, March 1994
+
+Uí Dhonnchadha, E. 2002. An Analyser and Generator for Irish Inflectional Morphology using Finite State Transducers, School of Computing, Dublin City University: Unpublished MSc Thesis.
+
+Uí Dhonnchadha, E. 2009. Part-of-Speech Tagging and Partial Parsing for Irish using Finite-State Transducers and Constraint Grammar (PhD thesis)
+
 
 ---
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is one (../treebanks/LCODE-comparison.html) Irish UD treebank:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Irish-A](../treebanks/ga_a/index.html)
+
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
