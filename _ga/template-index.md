@@ -59,6 +59,10 @@ Verbs inflect for number and person, as well as mood and tense. Verbs can incorp
 * _scríobhaim_ "I write"
 * _scríobhfaimid_ "we will write"
 
+However, second person singular and plural subjects are incorporated in some verb tenses and moods:
+* _nigh_ "wash"
+* _niteá_ "you used to wash" (Past Habitual)
+* _nígí!_ "(you pl.) wash!" (Imperative)
 
 Tense is also marked by lenition on some verb forms:
 * _dún_ "close"
@@ -66,7 +70,7 @@ Tense is also marked by lenition on some verb forms:
 * dhúnfainn "I would close"
 
 
-Lenition occurs after the negative particle ní:
+Lenition occurs after the negative particle _ní_:
 * _tugaim_ "I give"
 * _ní thugaim_ "I do not give"
 * _tabharfaidh mé_ "I will give"
@@ -84,6 +88,59 @@ Eclipsis (initial mutation) occurs following clitics such as interrogative parti
 
 #### NOUNS
 
+Modern Irish uses three cases: Nominative, Genitive and Vocative. The nominative form is sometimes
+regarded as the "common form" as it is now also used for accusative and dative forms (See [Case]() for a description of 'Case=NomAcc'). Nouns in Irish are divided into five classes, or declensions, depending on the manner in which the genitive case is formed. In addition, there are two grammatical genders in Irish - masculine and feminine. Case, declension and gender are expressed
+through noun inflection. For example, _páipéar_ "paper" is a masculine noun in the first declension. Both lenition and slenderisation are used to form the genitive singular form: pháipéir. 
+
+* _an dochtúir_ "the doctor"
+* _cóta an dochtúra_ "the doctor's coat"
+* _an fheoil_ "the meat"
+* _boladh an feola_ "the smell of the meat"
+* _an coinín_ "the rabbit"
+* _eireaball an choinín_ "the rabbit's tail"
+* _an siopa_ "the shop"
+* _cúl an tsiopa_ "the back of the shop"
+* _Máire_ "Mary"
+* _a Mháire!_ "Mary!" (Vocative)
+
+In addition, possessive determiners cause nominal inflection through lenition, eclipsis and prefixation. 
+
+* _teach_ "house"
+* _mo theach_ "my house"
+* _ár dteach_ "our house"
+* _ainm_ "name"
+* _a hainm_ "her name"
+* _a n-ainm_ "their name"
+
+
+
+#### Adjectives 
+
+In general, adjectives follow nouns and agree in number, gender and case. Depending on the noun they modify, adjectives can also inflect. The Christian Brothers (1988, p.63) note eight main declensions of adjectives. They can decline
+for genitive singular masculine, genitive singular feminine and nominative plural.
+
+* _bacach_ "lame"
+* _bacaigh_ (Gen.Sg.Masc)
+* _bacaí_ (Gen.Sg.Fem)
+* _bacacha_ (Nom.PL).
+
+Comparative adjectives are also formed through inflection:
+
+* _láidir_ "strong" / _níos láidre_ "stronger"
+* _déanach_ "late" / _is déanaí_ "latest"
+
+
+#### Prepositions 
+
+Irish has simple prepositions (e.g. _ar_ "on|) and compound prepositions (e.g. _in aghaidh_ "against"). Most of the simple prepositions can inflect for a pronominal object that indicates person and number (known as prepositional pronouns or pronominal prepositions), thus including a nominal element. Compare _le_ and _leis_:
+
+* _bhí sé ag labhairt le fear_ "he was speaking with a man"
+* _bhí sé ag labhairt leis_ "he was speaking with him"
+
+These forms are used quite frequently, not only with regular prepositional attachment where pronominal prepositions operate as arguments of verbs or modifiers of nouns and verbs, but also in idiomatic use where they express emotions and states.
+
+* _tá brón orm_ "I am sorry"  (lit. `is sorrow on-me')
+* _tá súil agam_ "I hope"
 
 
 
