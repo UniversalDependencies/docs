@@ -13,7 +13,8 @@ In Irish, in general, words are delimited by whitespace characters. Description 
 * Some punctuation marks are attached to a neighbouring word. The word and the punctuation mark are taken together as one token. For example,  _D'_  (contraction for _do_ in _d'ith_ "ate"), _b'_ (in _b'fhearr_ "would prefer") and _O'_ (in surnames) are recognised as single tokens. Abbreviations surch as _srl._ "etc." or _i.n._ "p.m." are also recognised as one token. 
 
 * Note that compound prepositions (_os\_cionn_ "above", _in\_aice_ "beside", etc)  are split into two tokens for UD v2, as are some placenames that the tagger recognises (e.g. _Cill\_Dara_) or a limited number of mwes (_chomh\_fada\_is_ "as long as; _cé\_is\_moite_ "except for"). 
-The Irish POS-tagger used in the Irish Dependency Treebank retains these as single tokens and so must be mapped accordingly.
+
+The Irish POS-tagger used in the Irish Dependency Treebank retains these as single tokens and so must be mapped accordingly as the treebanks develop concurrently.
 
 ## Morphology
 
@@ -42,10 +43,49 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 ### Features
 
-*
-
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+
+Inflection in Irish mainly occurs through suffixation, but initial mutation through lenition and eclipsis is also common. Lenition is a phonological change that softens or weakens the articulation of a consonant. The eclipsis process renders voiced segments as nasalised and voiceless segments as being voiced (Stenson, 1981, p.18). A prominent feature of Irish which influences inflection, is the existence of two sets of consonants,
+referred to as "broad" and "slender" consonants. Consonants can be slenderised by accompanying the consonant with a slender vowel, either _e_ or _i_. Broadening occurs through the use of broad vowels; _a_, _o_ or _u_. In general, there needs to be vowel harmony (slender or broad) between stem endings and the initial vowel in a suffix. 
+
+* _buail_ "hit"  _ag bualadh na liathróide_ "hitting the ball" (Verbal Noun)
+* _buail_ "hit"  _buaileadh an liathróid_ "the ball was hit" (Impersonal Form)
+
+#### VERBS
+
+Verbs inflect for number and person, as well as mood and tense. Verbs can incorporate their subject, inflecting for person and number through suffixation. Such forms are referred to as synthetic verb forms. Most verbs tend to incorporate a subject when it is first person singular or plural. These synthetic forms are generally restricted to the Present Tense, Imperfect Tense, Conditional Mood and Imperative Mood.
+
+* _scríobh_ "write"
+* _scríobhaim_ "I write"
+* _scríobhfaimid_ "we will write"
+
+
+Tense is also marked by lenition on some verb forms:
+* _dún_ "close"
+* _dhún mé_ "I closed"
+* dhúnfainn "I would close"
+
+
+Lenition occurs after the negative particle ní:
+* _tugaim_ "I give"
+* _ní thugaim_ "I do not give"
+* _tabharfaidh mé_ "I will give"
+* _ní thabharfaidh mé_ "I will not give"
+
+Eclipsis (initial mutation) occurs following clitics such as interrogative particles (an, nach); complementisers (go, nach); and relativisers (a, nach) (Stenson, 1981,pp. 21-26). 
+
+* _an dtuigeann sé?_ "does he understand?"
+* _nach dtuigeann sé_ "that he does not understand".
+* _go dtabharfadh sé_ "that he would give"
+
+
+
+
+
+#### NOUNS
+
+
+
 
 ---
 
