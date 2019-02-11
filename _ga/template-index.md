@@ -31,11 +31,11 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 * The AUX tag is used for the Copula only. All other verbs (including substantive verb _bí_ "to be" are tagged as VERB).
 * Verbal adjectives are tagged as ADJ
-* The following particles are tagged as PART: adverbial (_go mall_), verbal (_ná déan_), vocative (_a Sheosamh_), comparative (níos déanaí), superlative (_is déanaí_), numeral (_a haon_), relative (_a chonaic sé_), infinitive (_a dhéanamh_), degree (_a luaithe), name (Seosamh Mac Grianna)
+* The following particles are tagged as PART: adverbial (_go mall_ "slowly"), verbal (_ná déan_ "don't do"), vocative (_a Sheosamh_), comparative (_níos déanaí_ "later"), superlative (_is déanaí_ "latest"), numeral (_a haon_ "one"), relative (_a chonaic sé_ "that he saw"), infinitive (_a dhéanamh_ "to do"), degree (_a luaithe_ "sooner"), name (Seosamh Mac Grianna)
 * Verbal nouns are tagged as NOUN
 * _ag_ in use with verbal nouns to form a gerund in progressive aspectual phrases are tagged as ADP
-* demonstrative pronouns are tagged as PRON (_sin an fadhb_, _Thug sé sin faoi deara_)
-* demonstrative determiners, on the other hand, are tagged as DET along with all other determiners (_an leabhar sin_)
+* demonstrative pronouns are tagged as PRON (_sin an fadhb_ "that's the problem", _Thug sé sin faoi deara_ "he noticed that")
+* demonstrative determiners, on the other hand, are tagged as DET along with all other determiners (_an leabhar sin_ "that book")
 
 
 
@@ -148,8 +148,6 @@ These forms are used quite frequently, not only with regular prepositional attac
 
 ## Syntax
 
-*
-
 ---
 
 Here we summarise some of the distinctive features of Irish as a Celtic language. These features commonly occur in standard Irish use and therefore require discussion in the context of treebank development. Irish theoretical syntax is relatively under-researched, yet this summary shows that even within the limited work carried out in this area thus far, there still remain many unresolved disagreements as we show here. In general, Irish dependency treebank development follows the work of Stenson (1981). 
@@ -258,16 +256,16 @@ clause. However, there is no surface head noun in the relative clause { it is mi
 
 The Irish UD treebank uses 26 of the UD dependency labels. A further 10 language specific labels were introduced to deal with certain linguistic phenomena in Irish:
 
-- acl:relcl for relative clauses
-- case:voc for vocative particles
-- compound:prt for verb particle heads
-- csubj:cleft for cleft subjects
-- csubj:cop for copular clausal subject
-- mark:prt for (most) particles
-- nmod:poss for possessive pronouns
-- nmod:prep for pronominal prepositions
-- nmod:tmod for nominal temporal modifiers
-- xcomp:pred for predicates of the substantive verb "to be"
+- [acl:relcl]() for relative clauses
+- [case:voc]() for vocative particles
+- [compound:prt]() for verb particle heads
+- [csubj:cleft]() for cleft subjects
+- [csubj:cop]() for copular clausal subject
+- [mark:prt]() for (most) particles
+- [nmod:poss]() for possessive pronouns
+- [nmod:prep]() for pronominal prepositions
+- [nmod:tmod]() for nominal temporal modifiers
+- [xcomp:pred]() for predicates of the substantive verb "to be"
 
 
 
