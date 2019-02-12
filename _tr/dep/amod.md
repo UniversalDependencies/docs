@@ -2,13 +2,16 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
-An adjectival modifier of a noun is any adjectival phrase that serves to modify the meaning of the noun.
+An adjectival modifier of a noun is
+any adjectival phrase that serves to modify the meaning of the noun.
 
-`amod` is not used for all modifiers of nouns.
-We use [det]() for determiners (tagged tr[-pos/DET]()),
-and for so-called "bare noun compounds" we use [compound]().
+`amod` is not used for adjectival modifiers of nouns.
+We use [det]() for determiners (tagged [tr-pos/DET]()),
+and for so-called "bare noun compounds",
+where the modifier is a noun, we use [nmod]().
 
 ~~~ sdparse
 Ali kırmızı şarap sever . \n Ali likes red wine
@@ -21,8 +24,3 @@ amod(gül, kırmızı)
 det(gül, bir)
 ~~~
 
-~~~ sdparse
-Büyük tahta kapının önünde bekliyordu . \n He\/she was waiting in front of the big wooden door
-amod(kapının, büyük)
-compound(kapının, tahta)
-~~~

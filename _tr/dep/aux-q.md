@@ -2,6 +2,7 @@
 layout: relation
 title: 'aux:q'
 shortdef: 'question particle'
+udver: '2'
 ---
 
 This is a subtype of [aux](), used for question particle _-mI (mı/mi/mu/mü)_.
@@ -11,8 +12,6 @@ typically carries some of the tense/aspect/modality suffixes as well as person/n
 
 Although it does not function as an auxiliary when attached to non-predicate words or phrases,
 we use `aux:q` for all uses of the question particle.
-
-**Annotation of question particles are not well-specified in UD, and currently under discussion.**
 
 ~~~ sdparse
 Okuyacak mısınız ? \n Are you going to read ?

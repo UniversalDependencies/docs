@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod:emph'
 shortdef: 'emphasizing word, intensifier'
+udver: '2'
 ---
 
 This is a subtype of  [advmod](). 
@@ -16,11 +17,6 @@ admod(güzel, Çok)
 ~~~ sdparse
 Güzel mi güzel bir kız \n A very (very,very) beautiful girl
 advmod:emph(Güzel-1, mi)
-~~~
-
-~~~ sdparse
-Kitabı bile okumamış \n He (apparently) hasn't even read the book
-admod:emph(okumamış, bile)
 ~~~
 
 ~~~ sdparse

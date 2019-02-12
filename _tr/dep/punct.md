@@ -2,6 +2,7 @@
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 This is used for any piece of punctuation in a clause. See
