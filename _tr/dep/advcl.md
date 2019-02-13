@@ -2,15 +2,18 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. 
-This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc.
-The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies
+a verb or other predicate (adjective, etc.),
+as a modifier not as a core complement. 
+This includes things such as a temporal clause,
+consequence, conditional clause, purpose clause, etc.
+The dependent must be clausal (or else it is an [advmod]())
+and the dependent is the main predicate of the clause.
 
-Note that we treat the conditional clauses specially and mark then with a subtype: [advcl:cond](advcl-cond).
-
-Turkish adverbial clauses are mainly formed by a set of [converb](https://en.wikipedia.org/wiki/Converb)ial suffixes.
+Turkish adverbial clauses are mainly formed through morphological inflections.
 
 ~~~ sdparse
 Ali gelince sevindi . \n He\/she became happy when Ali arrived
@@ -20,6 +23,11 @@ advcl(sevindi, gelince)
 ~~~ sdparse
 Okurken uyuyakalmışım . \n I fell asleep while reading
 advcl(uyuyakalmışım, Okurken)
+~~~
+
+~~~ sdparse
+Kitabı okusaydın anlardın . \n You would understand if you had read the book
+advcl(anlardın, okusaydın)
 ~~~
 
 The subordinator _ki_ and a few other subordinating words may also form adverbial clauses.
@@ -41,11 +49,4 @@ Bu kitabı okudun mu herşeyi anlayacaksın \n You will understand everything on
 advcl(anlayacaksın, okudun)
 mark(okudun, mu)
 ~~~
-
-A large number of adverbials and adverbial clauses are formed by postpositions attached to nouns or noun clauses.
-We do not mark these as adverbial (`advmod` or `advcl`).
-For both cases we use [nmod](nmod) (see discussion of subordination
-in [tr-overview/specific-syntax]()).
-
-
 

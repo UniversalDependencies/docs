@@ -21,7 +21,7 @@ Typically, argument with non-accusative case marking are ``obl``.
 
 ~~~ conllu
 # I read the book with glasses
-1	Kitabı	kitap	NOUN	_	Case=Acc	3	dobj
+1	Kitabı	kitap	NOUN	_	Case=Acc	3	obj
 2	gözlükle	gözlük	_	NOUN	Case=Ins	3	obl
 3	okudum	oku	VERB	_	Number=Sing|Person=1|Tense=Past	0	root
 ~~~

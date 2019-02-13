@@ -2,20 +2,25 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
-An open clausal complement of a predicate is a predicative or clausal complement without its own subject.
-The reference of the subject is necessarily determined by an argument external to the xcomp (normally by the object of the next higher clause, if there is one, or else by the subject of the next higher clause.
-These complements are always non-finite, and they are complements (arguments of the higher predicate) rather than adjuncts/modifiers, such as a purpose clause.
+An open clausal complement of a predicate is
+a predicative or clausal complement without its own subject.
+The reference of the subject is necessarily determined
+by an argument external to the xcomp
+(normally by the object of the next higher clause, if there is one,
+or else by the subject of the next higher clause).
+These complements are always non-finite,
+and they are complements (arguments of the higher predicate)
+rather than adjuncts/modifiers, such as a purpose clause.
 
-In majority of the cases, we use `xcomp` for the verbal nouns formed by the suffix _-mAk_.
-Note that we split the nominal part, and mark the noun as the head of the predicate.
-(TODO: link to the subordination discussion)
+In majority of the cases, we use `xcomp` for the verbal nouns
+formed by the suffix _-mAk_.
 
 ~~~ sdparse
-Oku/VERB –mak/NOUN istiyor/VERB . \n He wants to read
-xcomp(istiyor, –mak)
-acl(–mak, Oku)
+Okumak istiyor . \n He wants to read
+xcomp(istiyor, Okumak)
 ~~~
 
 In addition, we also use `xcomp` for secondary predicates, 

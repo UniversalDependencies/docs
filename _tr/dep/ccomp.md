@@ -2,18 +2,23 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
-A clausal complement of a predicate is a dependent clause which is a core argument.
+A clausal complement of a predicate is a dependent clause which is
+a core argument.
 That is, it functions like an object of the predicate.
 
 We split the verbal noun suffixes,
 and mark them as the head of the subordinate clause.
 The unit with the subordinating suffix is tagged as [noun](tr-pos/NOUN).
-However, we still use `ccomp` for the relation between the higher level clause and the clausal object.
+However, we still use `ccomp` for the relation
+between the higher level clause and the clausal object.
 
-At present, we use `ccomp` only for direct objects, i.e., non-finite noun phrases in accusative or nominative [Case](tr-feat/Case).
-The arguments in other cases are marked using [nmod]() relation or appropriate subtype of it.
+`ccomp` only for direct clausal objects,
+i.e., clauses headed by (non-finite)  verbal nouns
+in accusative or nominative [Case](tr-feat/Case).
+Other clausal arguments in are marked using [advcl]() relation.
 
 ~~~ sdparse
 Sonunda " artık yeter " dedi . \n Finally, he said " that's enough " .
@@ -26,9 +31,8 @@ ccomp(demedim, Sevmiyorum)
 ~~~
 
 ~~~ sdparse
-Sevme/VERB –diğimi/NOUN söylemedim/VERB . \n I did not that I don't like it .
-ccomp(söylemedim, –diğimi)
-acl(–diğimi, Sevme)
+Sevmediğimi söylemedim . \n I did not that I don't like it .
+ccomp(söylemedim, Sevmediğimi)
 ~~~
 
 ~~~ sdparse

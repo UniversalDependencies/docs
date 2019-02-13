@@ -1,34 +1,47 @@
 ---
 layout: relation
-title: 'dobj'
+title: 'obj'
 shortdef: 'direct object'
+udver: '2'
 ---
 
-The direct object of a verb is the noun phrase that denotes the entity acted upon.
+The direct object of a verb is the noun phrase that denotes the entity
+acted upon.
 
-In Turkish, direct objects take either nominative (unmarked), or accusative [cases](tr-feat/Case).
-We do not mark arguments of verbs in other cases with `obj`.
-(**NOTE:** Kyrgiz treebank marks ablatives as in _pastadan aldı_ 'he took from the cake'. We may consider doing the same. At least we should try to unify the analyses.)
-Note also that we mark objects of intransitive causative verbs using [dobj:cau](dobj-cau).
+In Turkish, direct objects typically take
+either nominative (unmarked), or accusative [cases](tr-feat/Case).
+An object can also be in ablative case if only part of it is 
+affected by the predeicate (see below for an example).
+We do not mark arguments of verbs in other cases with ``obj``,
+the [obl]() relation is used for any "non-core" arguments and adjuncts.
 
 ~~~ sdparse
 Hafta sonları kitap okurum . \n I read (books) during weekends
-dobj(okurum, kitap)
+obj(okurum, kitap)
 ~~~
 
 ~~~ sdparse
 Kitabı okudum . \n I read the book.
-dobj(okudum, Kitabı)
+obj(okudum, Kitabı)
 ~~~
 
-We also mark the non-case marked or accusative noun phrases as `obj` even if they are not the entities that are acted upon.
+~~~ sdparse
+pastadan yedim \n I ate (some of) the cake
+obj(yedim, pastadan)
+~~~
+Note that the above differs from, e.g.,
+_tabaktan yedim_ "I ate from the plate",
+where relation should be [obl]().
+
+We also mark the non-case marked or accusative noun phrases as ``obj``
+even if they are not the entities that are acted upon.
 
 ~~~ sdparse
 Dün 10 kilometre koştum . \n I ran 10 kilometers yesterday
-dobj(koştum, kilometre)
+obj(koştum, kilometre)
 ~~~
 
 ~~~ sdparse
 Dün 10 kilometreyi 35 dakikada koştum . \n  Yesterday, I ran 10 kilometers in 35 minutes
-dobj(koştum, kilometreyi)
+obj(koştum, kilometreyi)
 ~~~
