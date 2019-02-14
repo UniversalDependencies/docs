@@ -21,6 +21,7 @@ an open community effort with over 200 contributors producing more than 100 tree
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
   * [Kontext](http://lindat.mff.cuni.cz/services/kontext/corpora/corplist) maintained by the Charles University in Prague
   * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
+  * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
 * [Download UD treebanks](#download)
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
