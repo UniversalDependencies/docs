@@ -26,7 +26,7 @@ udver: '2'
   * _ń_ – imperfective or progressive aspect
   * _ti_ – perfective aspect (“have”)
   * _yóò, máa, á, ó, yió_ – future tense (“shall, will”)
-  * _ìbá_ – conditional (“would”)
+  * _ìbá, ì bá_ – conditional (“would”); written as one word in old texts, modern spelling is _ì bá_
   * _lè_ – modal “can, may”
   * _má, máà_ – negative “do not” (cf. the negative particle _kò_)
 * The tag [DET]() is used for articles and pronominal words used with a determiner function;
