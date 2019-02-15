@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Following most tokenization patterns, words are delimited by whitespace or punctuation.
-* Multiword tokens are relatively common in Tamil. For example, the coordinating clitic _-um_ is analyzed as a separate syntactic word.
+* Multiword tokens are relatively common in Tamil. For example, the coordinating clitic -உம் / _-um_ is analyzed as a separate syntactic word.
 
 ## Morphology
 
@@ -29,12 +29,25 @@ udver: '2'
 * Tamil is a verb-final language; both SOV and OSV orders are possible.
 * Core arguments are marked by the morphological cases nominative (subject) and accusative (object).
   Core arguments are bare noun phrases without postpositions.
+* Subjects have the following characteristics:
+  * Case marking: Subjects occur in nominative case without adpositions.
+  * Passivization: Subjects are suppressed when verbs are passivized.
+* Objects have the following characteristics:
+  * Case marking: Objects occur in accusative case without adpositions.
+  * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
+* Bare nominal arguments (i.e., verb-licensed dependents) in the dative case are not considered core arguments. They are attached as `obl:arg`.
+* Prepositional arguments (i.e., verb-licensed dependents) are not considered core arguments. They are attached as `obl:arg`.
 
 Tamil uses 4 relation subtypes:
 * `advmod:emph` for adverbials emphasizing noun phrases
 * `compound:prt` to attach verbal particles to verbs
 * `nsubj:pass` for nominal subjects in passive clauses
 * `obl:arg` for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts)
+
+## References
+
+* See also [http://www.southasia.sas.upenn.edu/tamil/grammar/tamilgrammar12.html]()
+* [Tamil at the Language Gulper](http://www.languagesgulper.com/eng/Tamil.html)
 
 ---
 
