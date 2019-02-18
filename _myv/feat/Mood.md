@@ -27,23 +27,32 @@ action of the verb, the subject is limited to the second person.
 
 * [myv] _<b>паник</b> каштомсо_ "_<b>bake it</b> in the oven_"
 
+### `Cnj`: conjunctive
+
+The conjunctive mood (also subjunctive) is attested in both the main clause and subordinate clauses. It is used to express actions that would have taken
+place under some circumstances but they actually did not / do not
+happen. 
+The conjunctive is also used to express volition in both proclamations and questions
+
+#### Examples
+
+* [myv] _<b>молевлинек</b> кинов_ "we <b>would like to go</b> to the movies"
+
 ### `Cnd`: conditional
 
-The conditional mood is used to express conditions, i.e. protasis, for actions of the main clause.
+The conditional mood is used to express conditions, i.e. protasis, for actions of the main clause. This mood marker can be found in finite and non-finite forms alike, as well as followed by derivational suffixes.
 
 #### Examples
 
 * [myv] _<b>молиндерятано</b> кинов, а ванови телевидениянь программась_ "<b>if we go</b> to the movies, we won't see the t.v. program"
 
-### `Cnj`: conjunctive
+### `CndCnj` conditional-conjunctive
 
-The conjunctive mood (also subjunctive) is used to express actions that would have taken
-place under some circumstances but they actually did not / do not
-happen. It is also used to express volition in both proclamations and questions
+The conditional-conjunctive is attested in the subordinate clause, and, depending on the language variant, its constituents may alternate in order.
 
 #### Examples
 
-* [myv] _<b>молевлинек</b> кинов_ "we <b>would like to go</b> to the movies"
+* [myv] _Паро улевель <b>максовольтьдеряй</b> моненьгак лишме._ "It would be good if the were to give me a horse, too."
 
 ### `Des` desiderative
 
