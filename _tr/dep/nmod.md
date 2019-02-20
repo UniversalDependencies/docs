@@ -29,8 +29,8 @@ case(resim, –li)
 
 ~~~ sdparse
 ücret –siz hizmet \n (the\/a) service without fee (free service)
-nmod(kitap, resim)
-case(resim, –siz)
+nmod(hizmet, ücret)
+case(ücret, –siz)
 ~~~
 
 For possessive constructions we use [nmod:poss](nmod-poss).

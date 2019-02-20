@@ -2,13 +2,12 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between a subject complement and a copular verb or copular suffix.
 We always mark copula as dependent of the subject complement.
 
-In Turkish, the auxiliary verb _ol-_ 
-and in some constructions the negative particle _değil_ act like a free copula.
 The main means of forming copular constructions, however, is through
 the bound morpheme _-(y)_,
 and (infrequently) its clitic form _i-_.
@@ -20,12 +19,7 @@ that may conflict with the complement they are attached to.
 Furthermore, the copular suffixes can also attach to verbal nouns,
 causing conflicting dependency relations besides more feature conflicts.
 As a result, all copular markers, 
-including the "zero copula" are considered as a separate syntactic tokens.
-
-~~~ sdparse
-Güzel olacak . \n (He\/she\/it) will be beautiful
-cop(Güzel, olacak)
-~~~
+exectp the "zero copula", are considered as separate syntactic tokens.
 
 ~~~ sdparse
 Güzel idi . (He\/she\/it) was beautiful
@@ -42,22 +36,18 @@ Güzel –im . \n I am beautiful
 cop(Güzel, –im)
 ~~~
 
-~~~ sdparse
-Güzel –0 . \n He\/she\/it is beautiful (–0 represents the zero morpheme)
-cop(Güzel, –0)
-~~~
-
 When an overt subject is present,
 it is headed by the subject complement (not the copula).
 
 ~~~ sdparse
-Kitap güzel –0 . \n The book is nice\/beautiful 
-cop(güzel, –0)
+Kitap güzel –di . \n The book was nice\/beautiful 
+cop(güzel, –di)
 nsubj(güzel, Kitap)
 ~~~
 
-~~~ sdparse
-Kitap güzel olacak . \n The book will be nice\/beautiful
-cop(güzel, olacak)
-nsubj(güzel, Kitap)
-~~~
+In Turkish, the auxiliary verba _ol-_,
+and to a lesser extent, _bulun-_
+may act like a copula.
+currently, they are treated as main verbs rather than copula
+(see the discussion in 
+[specific syntactic constructions](/tr/specific-syntax#auxiliaries-ol--and-bulun-)).

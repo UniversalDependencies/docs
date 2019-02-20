@@ -41,6 +41,14 @@ Arabada –ki kız \n The girl in the car
 case(Arabada, –ki)
 ~~~
 
+If the head is a clause,
+[mark](mark) is used for [cross-linguistic parallelism](u-dep/case).
+
+~~~ sdparse
+Annem gelinceye kadar bunu bitirmem gerek \n I need to finish this until my mother arrives
+mark(gelinceye, kadar)
+~~~
+
 For postpositions derived from nouns with possessive suffixes,
 ``nmod:poss`` relation is used.
 In this case, the head is the derived postposition.

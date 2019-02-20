@@ -5,6 +5,13 @@ title:  'Syntax'
 
 # Specific constructions
 
+## Nominal/adjectival predicates
+
+## Auxiliaries, _ol-_ and _bulun-_ 
+
+## The negative particle _değil_
+
+
 ## Existential sentences
 
 In Turkish, existential sentences are (primarily) formed using *var* 'there is/are' and its negative counterpart *yok*. Although they do not exactly function like adjectives, following METU-Sabancı treebank, we mark them as `ADJ` and treat them like other nominals that require a copular suffix to function as predicates.  Note that, in the most common use, the 3rd person singular present copular marker is null. In general, we indicate this wit an additional IG, which marks the "predicatehood" of the verb, and also is in parallel with the other copular constructions.
@@ -96,7 +103,7 @@ yet'. In these cases, the relation is `ccomp` `xcomp`.
 
 **We need more specific guidelines**, or maybe a new relation for marking compounds with subordinate clauses.
 
-## Yes/no questions an the question particle
+## Interrogative questions and the question particle
 
 Yes-no questions in Turkish is formed by question particle -mI
 (mı/mi/mu/mü). UD currently does not have a clear way of marking

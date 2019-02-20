@@ -33,24 +33,27 @@ Okudum da anladım . \n I understood by reading
 mark(Okudum, da)
 ~~~
 
-``mark`` is also used for some redundant markers (mostly borrowings),
+Following [universal guidlienes](u-dep/case) `mark` 
+is also used [adpositions](tr-pos/ADP) that attach to verbal nouns.
+For example, although the the adposiotn  _kadar_ below
+does not introduce subordination,
+but specifies the case of the resulting verbal noun
+(the construction is paralel to
+_Gül kadar güzel mi?_ "is it as beatiful as a rose",
+where ``case`` is used),
+``mark`` is used for cross-linguistic compatibility.
+
+~~~ sdparse
+Göründüğü kadar güzel mi ? \n Is it as good as it looks?
+mark(Göründüğü, kadar)
+~~~
+
+``mark`` is also used for a few redundant markers (mostly borrowings),
 such as _eğer_ and _şayet_.
 
 ~~~ sdparse
 Eğer okumazsan , öğrenemezsin \n If you do not read you cannot learn
 mark(okumazsan, Eğer)
 advcl(öğrenemezsin, okumazsan)
-~~~
-
-`mark` should not be confused with [case]() relation,
-as [adpositions](tr-pos/ADP) can follow a verbal noun or participle.
-For example, the adposiotn  _kadar_ below does not introduce subordination,
-but specifies the case of the resulting nominal.
-Unlike the examples above, the clause can be replaced with a noun,
-e.g., _Gül kadar güzel mi?_
-
-~~~ sdparse
-Göründüğü kadar güzel mi ? \n Is it as good as it looks?
-case(Göründüğü, kadar)
 ~~~
 

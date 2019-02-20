@@ -9,13 +9,7 @@ A clausal complement of a predicate is a dependent clause which is
 a core argument.
 That is, it functions like an object of the predicate.
 
-We split the verbal noun suffixes,
-and mark them as the head of the subordinate clause.
-The unit with the subordinating suffix is tagged as [noun](tr-pos/NOUN).
-However, we still use `ccomp` for the relation
-between the higher level clause and the clausal object.
-
-`ccomp` only for direct clausal objects,
+`ccomp` is used only for direct clausal objects,
 i.e., clauses headed by (non-finite)  verbal nouns
 in accusative or nominative [Case](tr-feat/Case).
 Other clausal arguments in are marked using [advcl]() relation.
