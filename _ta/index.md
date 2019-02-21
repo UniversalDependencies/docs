@@ -17,7 +17,9 @@ udver: '2'
 
 * Tamil uses 14 universal tags ([SCONJ](), [INTJ](), and [SYM]() do not occur in the corpus at present).
 * Auxiliary verbs ([AUX]()) include:
-  * உள் / _uḷ_ “within”, படு / _paṭu_ “lye”, வேண்டு / _veṇṭu_ “must”, இரு / _iru_ “be”, வரு / _varu_ “come”, கொள் / _kòḷ_ “take”, இல் / _il_ “in”, செய் / _cèy_ “do”, விடு / _viṭu_ “let”, வா / _vā_ “come”
+  * படு / _paṭu_ “experience” for the passive voice
+  * இல் / _il_ (இல்லை / _illai_) “not be” for negation
+  * உள் / _uḷ_ “within”, வேண்டு / _veṇṭu_ “must”, இரு / _iru_ “be”, வரு / _varu_ “come”, கொள் / _kòḷ_ “take”, செய் / _cèy_ “do”, விடு / _viṭu_ “let”, வா / _vā_ “come”
 
 ### Features
 
