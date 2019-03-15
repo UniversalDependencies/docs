@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Komi-Zyrian UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/RU-KO.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -24,8 +24,6 @@ udver: '2'
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
----
-
 ### Features
 
 *
@@ -40,20 +38,22 @@ udver: '2'
 *
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
----
+* Subjects have the following characteristics:
+  * Word order: 
+  * Case marking:
+  * Passivisation: 
+  * Control: 
+  * Relativisation: 
+* Objects have the following characteristics:
+  * Word order: 
+  * Case marking:
+  * Passivisation: 
+  * Control: 
+  * Relativisation: 
+* The following subtypes are used in Komi-Zyrian:
+  * [aux:neg]() for the negative auxiliary verb
+  * [flat:name]() for names consisting of multiple parts
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
-
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
