@@ -4,6 +4,8 @@ title: 'advcl:cond'
 shortdef: 'conditional adverbial clause modifier'
 ---
 
+This relation is not used in UD v2. Documentation is kept as reference.
+
 This relation is a subtype of [advcl]().
 It is used for conditional clauses.
 

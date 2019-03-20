@@ -7,6 +7,9 @@ shortdef: 'auxiliary'
 redirect_from: "tr/dep/aux.html"
 ---
 
+Use of ``aux`` relation is incosistent across different Turkish  UD
+treebank, the information below is out of date, and may not reflect the actual use.
+
 An auxiliary of a clause is a [non-main verb](tr-pos/AUX) of the clause.
 
 In Turkish two verbs, _ol-_ and, in formal registers, _bulun_,

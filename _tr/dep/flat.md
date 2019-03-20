@@ -3,41 +3,55 @@ layout: relation
 title: 'flat'
 redirect_from: "tr/dep/name.html"
 shortdef: 'name'
+udver: '2'
 ---
 
-`flat` is one of the three relations for compounding in UD (together with [compound]() and [fixed]()).
-It is used for proper nouns constituted of multiple nominal elements.
-For phrasal or clausal names the usual relations are used.
+`flat` is one of the relations for multi-word expressionsin UD (together with [compound]() and [fixed]()).
+In Turkish it is used for names, and foreign phrases.
 
 ~~~ sdparse
 Mustafa Kemal
-name(Kemal, Mustafa)
+flat(Mustafa, Kemal)
 ~~~
 
-~~~ sdparse
-Mustafa Kemal Paşa
-name(Kemal, Mustafa)
-nmod(Paşa, Kemal)
-~~~
+Similar to some other treebanks, e.g.,  [Czech](cs-dep/flat), 
+we do not use [nmod]() for titles and honorifics.
 
 ~~~ sdparse
-Necla Hanım
-nmod(Hanım, Necla)
+Gazi Mustafa Kemal
+flat(Mustafa, Kemal)
+nmod(Mustafa, Gazi)
 ~~~
 
 ~~~ sdparse
 Mahmut öğretmen
-nmod(öğretmen, Mahmut)
+nmod(Mahmut, öğretmen)
+~~~
+
+Names that have a regular syntactic structure, should be annotated
+with regular syntactic relations.
+
+~~~ sdparse
+Van Gölü
+nmod(Gölü, Van)
+~~~
+
+~~~ sdparse
+Mavi Marmara
+amod(Marmara, Mavi)
 ~~~
 
 ~~~ sdparse
 Türkiye Büyük Millet Meclisi
-nmod:poss(Meclisi, Millet)
+nmod(Meclisi, Millet)
 amod(Meclisi, Büyük)
-nmod:poss(Meclisi, Türkiye)
+nmod(Meclisi, Türkiye)
 ~~~
 
+
+Foreign language expressions are also annotated with ``flat``.
+
 ~~~ sdparse
-Van Gölü
-nmod:poss(Gölü, Van)
+play maker olmak istiyorum
+flat(play, maker)
 ~~~

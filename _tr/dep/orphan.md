@@ -3,26 +3,16 @@ layout: relation
 title: 'orphan'
 redirect_from: "tr/dep/remnant.html"
 shortdef: 'remnant in ellipsis'
+udver: '2'
 ---
 
-The remnant relation is used to provide a satisfactory treatment of certain instances of ellipsis.
+The orphan relation is used to provide a satisfactory treatment of certain instances of ellipsis.
+
 
 ~~~ sdparse
-Ali kitabı okudu , Ahmet de . \n Ali read the book, Ahmet too.
-nsubj(okudu, Ali)
-remnant(Ali, Ahmet)
-~~~
-
-~~~ sdparse
-Ali okudu kitabı , Ahmet değil . \n Ali read the book, not Ahmet.
-nsubj(okudu, Ali)
-remnant(Ali, Ahmet)
-~~~
-
-~~~ sdparse
-Ali kitap , Ahmet gazete okudu . \n Mehmet read newspapers, Ahmet books.
+Ali kitap , Ahmet gazete okudu . \n Ahmet read newspapers, Ali books.
 nsubj(okudu, Ahmet)
 dobj(okudu, gazete)
-remnant(Ahmet, Ali)
-remnant(gazete, kitap)
+conj(okudu, Ali)
+orphan(Ali, kitap)
 ~~~

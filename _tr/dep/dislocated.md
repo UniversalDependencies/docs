@@ -2,11 +2,16 @@
 layout: relation
 title: 'dislocated'
 shortdef: 'dislocated elements'
+udver: '2'
 ---
 
 The `dislocated` relation is used for fronted or postposed elements that do not fulfill the usual core grammatical relations of a sentence.
 These elements often appear to be in the periphery of the sentence,
 and may be separated off with a comma intonation.
+
+Following [UD general guidelines](u-dep/dislocated),
+the dislocated element attaches to the head of the clause to which it belongs
+(although this does not allow recovering what is dislocated).
 
 ~~~ sdparse
 Ali ki hızlı okur, o bile kitabı bitiremedi . \n Ali, who is a fast reader, even he could not finish the book .
