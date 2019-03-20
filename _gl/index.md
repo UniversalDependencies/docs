@@ -64,6 +64,6 @@ For more information, see the README file of each Galician UD treebank.
 
 There are [two](../treebanks/gl-comparison.html) Galician UD treebanks:
 
-  * [Galician](../treebanks/gl/index.html)
+  * [Galician](../treebanks/gl_ctg/index.html)
   * [Galician-TreeGal](../treebanks/gl_treegal/index.html)
 
