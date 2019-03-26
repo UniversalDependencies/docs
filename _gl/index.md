@@ -30,7 +30,7 @@ Due to its common origin and present similarity, some linguists still consider G
 ### Tags
 
 * Galician uses all 17 universal tags. However, note that [PART]() is only used in the Galician treebank.
-* Auxiliar verbs ([AUX]()) are tagged when they behave as copula, e.g., *ser*, *estar*.
+* Auxiliar verbs ([AUX]()) are tagged when they behave as copula (e.g., *ser* and *estar*) as well as in verbal periphrases and other constructions where they depend on the main verb (e.g., "*poderían* chegar").
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 
 For more information, see the README file of each Galician UD treebank.
@@ -42,7 +42,7 @@ For more information, see the README file of each Galician UD treebank.
   * Participles inflect for gender and number.
   * Finite forms also inflect for tense and mood.
 * Morphological information is currently encoded as follows:
-  * Galician treebank contains morphological information in the XPOS field provided by [FreeLing](http://universaldependencies.org/tagset-conversion/pt-freeling-uposf.html).
+  * Galician-CTG treebank contains morphological information in the XPOS field provided by [FreeLing](http://universaldependencies.org/tagset-conversion/pt-freeling-uposf.html).
   * Galician-TreeGal includes the morphological features following the UD guidelines.
 
 For more information, see the README file of each Galician UD treebank.
@@ -64,6 +64,6 @@ For more information, see the README file of each Galician UD treebank.
 
 There are [two](../treebanks/gl-comparison.html) Galician UD treebanks:
 
-  * [Galician](../treebanks/gl_ctg/index.html)
+  * [Galician-CTG](../treebanks/gl_ctg/index.html)
   * [Galician-TreeGal](../treebanks/gl_treegal/index.html)
 
