@@ -13,7 +13,7 @@ The dislocated elements attach to the same governor as the dependent that they d
 spoken languages.
 
 ~~~ sdparse
-Համահարթ , թե պրոգրեսիվ . այդ բանավեճը միշտ եղել է : \n
+Համահարթ , թե պրոգրեսիվ . այդ բանավեճը միշտ եղել է ։
 dislocated(եղել, Համահարթ)
 conj(Համահարթ, պրոգրեսիվ)
 cc(պրոգրեսիվ, թե)
@@ -23,7 +23,7 @@ det(բանավեճը, այդ)
 nsubj(եղել, բանավեճը)
 advmod(եղել, միշտ)
 aux(եղել, է)
-punt(եղել, ։)
+punct(եղել, ։)
 ~~~
 
 ~~~ sdparse
