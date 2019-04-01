@@ -1,13 +1,14 @@
 ---
+udver: '2'
 layout: relation
-title: 'nsubjpass'
+title: 'nsubj:pass'
 shortdef: 'passive nominal subject'
 ---
 
-`nsubjpass` marks the subject of a passive clause.
+`nsubj:pass` marks the subject of a passive clause.
 
 ~~~ sdparse
 Das Bild wurde von Picasso gemalt . \n The painting was painted by Picasso .
-nsubjpass(gemalt, Bild)
+nsubj:pass(gemalt, Bild)
 ~~~
 

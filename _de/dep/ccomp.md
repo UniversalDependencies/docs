@@ -1,4 +1,5 @@
 ---
+udver: '2'
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
@@ -15,9 +16,12 @@ nsubj(hat, er)
 ~~~ sdparse
 Es heißt , die Arbeiter würden streiken . \n People say the workers are on strike .
 ccomp(heißt, streiken)
+nsubj(streiken, Arbeiter)
 ~~~
 
 ~~~ sdparse
 Wann kann ich mir anschauen , was du gemacht hast ? \n When will I see what you have done .
 ccomp(anschauen, gemacht)
+nsubj(gemacht, du)
+obj(gemacht, was)
 ~~~

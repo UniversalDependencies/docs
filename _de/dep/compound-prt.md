@@ -1,4 +1,5 @@
 ---
+udver: '2'
 layout: relation
 title:  'compound:prt'
 shortdef : 'separable verb particle'
@@ -17,4 +18,11 @@ In subordinate clauses, particle verbs appear with their particles in sentence-f
 
 ~~~ sdparse
 ... , weil der Koch die Eier aufschlägt . \n ... , because the chef breaks the eggs .
+~~~
+
+Note that some verbs can be written together or separately in the infinitive, such as "saubermachen" or "sauber machen". If the latter is considered the case, then the first part is not a compound particle, but rather an xcomp.
+
+~~~ sdparse
+Kannst du das Zimmer sauber machen ? \n Can you clean the room ?
+xcomp(machen, sauber)
 ~~~

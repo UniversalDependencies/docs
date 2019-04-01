@@ -1,6 +1,7 @@
 ---
+udver: '2'
 layout: relation
-title: 'csubjpass'
+title: 'csubj:pass'
 shortdef: 'clausal passive subject'
 ---
 
@@ -8,6 +9,6 @@ shortdef: 'clausal passive subject'
 
 ~~~ sdparse
 Hier kann nicht mehr eingeschätzt werden, wann es anfängt zu brennen . \n It cannot be estimated anymore when it starts burning .
-csubjpass(eingeschätzt, anfängt)
+csubj:pass(eingeschätzt, anfängt)
 ~~~
 

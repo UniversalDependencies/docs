@@ -1,4 +1,5 @@
 ---
+udver: '2'
 layout: relation
 title: 'dobj'
 shortdef: 'direct object'
@@ -8,6 +9,6 @@ shortdef: 'direct object'
 
 ~~~ sdparse
 Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
-dobj(gibt, Apfel)
+obj(gibt, Apfel)
 ~~~
 

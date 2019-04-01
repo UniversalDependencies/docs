@@ -9,7 +9,9 @@ The relation `mark` is used for tokens that introduce subordinate clauses, known
 
 ~~~ sdparse
 ... , weil ich krank bin . \n ... because I am sick .
-mark(bin, weil)
+mark(krank, weil)
+cop(krank, bin)
+subj(krank, ich)
 ~~~
 
 The word "zu" also receives the relation `mark` when it is used to mark an infinitive. 

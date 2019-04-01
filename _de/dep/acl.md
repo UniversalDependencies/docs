@@ -9,7 +9,7 @@ shortdef: 'adjectival clause'
 
 ~~~ sdparse
 Haben Sie den Eindruck , daß das Licht heller geworden ist ? \n Do you have the impression that the light got brighter ?
-acl(Eindruck, geworden)
+acl(Eindruck, heller)
 ~~~
 
 ~~~ sdparse
@@ -22,22 +22,22 @@ Relative clauses are finite and are introduced with a relative pronoun that refe
 
 ~~~ sdparse
 Er legt das Buch auf den Tisch , der dort drüben steht . \n Put the book on the table that stands over there .
-acl:relcl(Tisch, steht)
+acl(Tisch, steht)
 nsubj(steht, der)
 ~~~
 
 ~~~ sdparse
 Er stellt den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
-acl:relcl(Tisch, liegt)
+acl(Tisch, liegt)
 nmod(liegt, dem)
 ~~~
 
 Extraposed relative clauses often introduce non-projective structures.
 
 ~~~ sdparse
-Petra hat diese Frau angerufen , die er gestern getroffen hat . \n Petra called this woman who she met yesterday .
-acl:relcl(Frau, getroffen)
-dobj(angerufen, Frau)
+Petra hat diese Frau angerufen , die sie gestern getroffen hat . \n Petra called this woman whom she met yesterday .
+acl(Frau, getroffen)
+obj(angerufen, Frau)
 aux(angerufen, hat)
 nsubj(getroffen, die)
 ~~~

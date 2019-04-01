@@ -31,7 +31,7 @@ advmod(Mensch, kein)
 Note that adverbs can also modify other adverbs:
 
 ~~~ sdparse
-Er weiß es möglicherweise selbst noch nicht . \n He possibly doesn't know it himself yet .
+Er weiß es möglicherweise selbst noch nicht . \n He possibly does not know it himself yet .
 advmod(weiß, möglicherweise)
 advmod(weiß, selbst)
 advmod(weiß, nicht)

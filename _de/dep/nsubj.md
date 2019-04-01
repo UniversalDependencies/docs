@@ -1,5 +1,6 @@
 ---
-layout: relation
+udver: '2'
+Layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
 ---
@@ -21,3 +22,19 @@ Die Frau ist müde . \n The woman is tired .
 nsubj(müde, Frau)
 ~~~
 
+~~~ sdparse
+Er wurde schnell krank . \n He became sick quickly .
+nsubj(krank, Er)
+~~~
+
+Note that the verbs sein and werden are not considered part of copular constructions when they denote a happening, in which case they are full verbs.
+
+~~~ sdparse
+Der Vortrag ist in dem großen Saal . \n The lecture is in the great hall .
+nsubj(ist, Vortrag)
+~~~
+
+~~~ sdparse
+Das wird schon . \n It will be okay .
+nsubj(wird, Das)
+~~~
