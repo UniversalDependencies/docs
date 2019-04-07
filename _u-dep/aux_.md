@@ -28,7 +28,7 @@ aux(leave-3, should-2)
 ~~~
 
 ~~~ sdparse
-Do you think that he will have left when we come ?
+Do you think that he will have left by the time we come ?
 aux(think, Do)
 aux(left, will)
 aux(left, have)
