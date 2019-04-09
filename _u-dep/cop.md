@@ -6,10 +6,15 @@ udver: '2'
 ---
 
 A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate.
-It is often a verb but nonverbal copulas are also frequent in the world's languages. The `cop` relation
+It is often a verb but nonverbal (pronominal) copulas are also frequent in the world's languages.
+Verbal copulas are tagged [AUX](), not `VERB`. Pronominal copulas are tagged [PRON]() or [DET]().
+
+The `cop` relation
 should only be used for pure copulas that add at most TAME categories to the meaning of the predicate,
 which means that most languages have at most one copula, and only when the nonverbal predicate is treated
 as the head of the clause.
+
+As a concrete example, in many European languages the equivalent of the English verb _to be_ is the only word that can appear with the `cop` relation. In Spanish and related languages, both _ser_ and _estar_ can be copulas. In Czech and related languages, both _být_ and _bývat_ are copulas (because they are morphological variants of the same lexeme, and the reason they have two lemmas is that aspect-related morphology is treated as derivational in these languages). In contrast, the equivalents of _to become_ are not copulas despite the fact that traditional grammar may label them as such. Existential _to be_ can be copula only if it is the same verb as in equivalence clauses _(John is a teacher)_. If a language uses two different verbs, then the existential one is not a copula. Some more discussion of the topic is archived [here](https://universaldependencies.org/v2/copula.html#guidelines-for-udv2).
 
 ~~~ sdparse
 Bill is honest
