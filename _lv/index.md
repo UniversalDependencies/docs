@@ -42,7 +42,7 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
     * The copula in infinitive predicates (_būt_).
 * _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in purely existential sentences or indicate location. Word _kļūt_ always is tagged as [AUX]().
 * Verbs with modal meaning are not considered auxiliary in Latvian.
-* Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like_protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
+* Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
 
 
 ### Features
