@@ -331,9 +331,11 @@ validation script in the tools repository.
     $ cd tools
     $ python validate.py -h
 
+Note that you need Python 3 to run the validator, and you need a third-party Python module called `regex` installed via pip. See also the [README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt) in the tools repository.
+
 In general, you validate the data like so:
 
-    python validate.py --lang=xx [file.conllu]
+    python validate.py --lang=xx --max-err=0 [file.conllu]
 
 for example for Finnish:
 
