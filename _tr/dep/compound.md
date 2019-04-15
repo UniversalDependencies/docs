@@ -8,7 +8,6 @@ udver: '2'
 The ``compound`` relation is one of three relations
 for multi-word expressions (MWEs) (the other two being [fixed]() and [flat]()).
 
-
 In Turkish ``compound`` relation is used mainly noun-verb compounds, and numbers.
 For light-verb constructions we use the subtype [compoun:lvc](compound-lvc),
 and for reduplicated compounds we use [compound:redup](compound-redup).
@@ -18,8 +17,7 @@ and for reduplicated compounds we use [compound:redup](compound-redup).
 compound(çıkarmış, yoldan)
 ~~~
 
-
-It is also used for numbers, where head is the right-most number.
+``compound`` is also used for numbers, where head is the right-most number.
 
 ~~~ sdparse
 iki yüz bin lira \n two hundred thousand liras

@@ -7,20 +7,20 @@ udver: '2'
 
 This subtype of [compound]() covers a range of reduplicated forms in Turkish.
 Reduplication is a common process especially for [adverbs](tr-pos/ADV) and [adjectives](tr-pos/ADJ).
-The first word in reduplication is marked as the head of the construction.
+Except for m-reduplication (see below),
+the head is the last word.
 
 The reduplication typically involves two identical words,
 but some morpho-phonological alternations (as in m-reduplication in example 3 below) are possible.
 
-
 ~~~ sdparse
 Koca koca adamlar oyun oynuyorlar . \n _Big (+emph)_ men are playing games .
-compound:redup(Koca-1, koca-2)
+compound:redup(koca-2, Koca-1)
 ~~~
 
 ~~~ sdparse
 Açık açık söylüyorum . \n I am telling it _clearly_
-compound:redup(Açık-1, açık-2)
+compound:redup(açık-2, Açık-1)
 ~~~
 
 ~~~ sdparse
