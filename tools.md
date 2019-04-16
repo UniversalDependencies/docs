@@ -214,17 +214,17 @@ An example rule file converting (large parts of) the Hamburg Dependency Treebank
 
 #### ConlluEditor
 
+<img style="float:right" src="http://universaldependencies.org/img/conllueditor_tree.png"/>
 [ConlluEditor](https://github.com/Orange-OpenSource/conllueditor) is a tool which facilitates the editing of syntactic relations and morphological features of files in CoNLL-U format. It uses a Java-based server and a HTML/CSS/Javascript based front-end. The editor loads the CoNLL-U file and saves every change to disk (and performs a git commit if the file is under git version control).
 
 The editor provides the following functionalities:
 
-* editing words (forms, lemmas, upos, xpos, features, enhanced dependencies
+* editing words (forms, lemmas, upos, xpos, features, enhanced dependencies)
 * editing dependency relations
 * join/split words (to correct tokenization errors)
 * join/split sentences (to correct tokenization errors)
 * undo/redo (partially)
 * git support
-
 * Category: manual annotation tool
 * Platform: Any
 * Implementation: Java, JavaScript
