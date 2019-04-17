@@ -32,7 +32,7 @@ udver: '2'
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc` or `Fem`.
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with values `Masc` or `Fem`.
   * Verbs inflect for `Gender` because they must agree with nouns.
 * [Number]() has 3 possible values: `Sing`, `Dual` and `Plur`.
 * [Case]() has 3 possible values: `Nom`, `Gen`, `Acc`.
@@ -56,7 +56,7 @@ udver: '2'
 
 ### Other Features
 
-* Besides the layered features listed above, there are several other language-specific features:
+* There are several language-specific features:
   * [NumForm]()
   * [NumValue]()
   * [AdpType]()
