@@ -32,7 +32,7 @@ udver: '2'
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 * Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives are tagged [VERB]().
 
-For more information, see the list of [Italian POS tags](pos_index.html).
+For more information, see the list of [Italian POS tags](pos-index.md).
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -48,7 +48,7 @@ For more information, see the list of [Italian POS tags](pos_index.html).
 * Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
 * Determiners agree with nouns in the same way as adjectives.
 
-For more information, see the list of [Swedish features](feat/index.html).
+For more information, see the list of [Italian features](feat-index.md).
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -78,7 +78,7 @@ For more information, see the list of [Swedish features](feat/index.html).
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 
-For more information, see the list of [Swedish relations](dep/index.html).
+For more information, see the list of [Italian relations](dep-index.md).
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
