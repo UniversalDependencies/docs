@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Italian UD'
 udver: '2'
 ---
 
