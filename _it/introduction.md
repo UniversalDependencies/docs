@@ -8,10 +8,11 @@ udver: '2'
 # Introduction
 
 The Italian section of Universal Dependencies currently comprises four resources: 
-* UD_Italian (available since UD v.1)
+* UD_Italian-ISDT (available since UD v.1)
 * UD_Italian-ParTUT (available since UD v.2)
 * UD_Italian-PUD (available since UD v.2) 
-* UD_Italian-PoSTWITA (available since UD v.2.1). 
+* UD_Italian-PoSTWITA (available since UD v.2.1)
+* UD_Italian-VIT (available since UD v.2.4)
 
 ## UD_Italian 
 
@@ -57,6 +58,9 @@ The section of PoSTWITA that has been revised so far (approximately the first ha
 
 [Github repository](https://github.com/UniversalDependencies/UD_Italian-PUD )
 
+## UD_Italian-VIT
+
+The UD_Italian-VIT corpus, annotated according to the UD annotation scheme, was obtained by conversion from VIT (Venice Italian Treebank), developed at the Laboratory of Computational Linguistics of the Università Ca' Foscari in Venice (Del Monte, Bristot, Tonelli, 2008).
 
 ## References
 
@@ -73,6 +77,10 @@ The section of PoSTWITA that has been revised so far (approximately the first ha
 	Pisa University Press, ISBN/EAN: 978-886741-472-7, pp. 1-8.
 	
 * Cristina Bosco, Fabio Tamburini, Andrea Bolioli, Alessandro Mazzei. 2016. Overview of the EVALITA 2016 Part Of Speech on TWitter for ITAlian task. In: Proceedings of Evalita 2016
+
+* Delmonte R. Bristot A., Tonelli S., VIT - Venice Italian Treebank: Syntactic and Quantitative
+Features, in K. De Smedt, Jan Hajic, Sandra Kübler(Eds.), Proc. Sixth International Workshop on
+Treebanks and Linguistic Theories, Nealt Proc. Series Vol.1. 2008.
 	
 * Marie-Catherine de Marneffe and Christopher D. Manning. 2008. 
   [The Stanford typed dependencies representation](http://nlp.stanford.edu/pubs/dependencies-coling08.pdf). 
