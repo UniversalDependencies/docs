@@ -649,6 +649,9 @@ The following formal rules apply (copied from the summary at the beginning of th
   For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
   character (“_”) to connect member words.
+  * Multiple `case` or `mark` nodes may occur even if it is not a fixed expression. For example, a type of adverbial clause
+    in Dutch uses two markers _om_ and _te_, the first one roughly corresponding to English “so that”, the second one being
+    an infinitive marker. The incoming dependency of the subordinate clause will than be labeled `advcl:om_te`.
 * Morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
   the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
   (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
