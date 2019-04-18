@@ -22,8 +22,8 @@ udver: '2'
 
 ### Tags
 
-* Swedish uses all 17 universal tags.
-* The only word tagged [PART]() is the infinitive marker *att*.
+* Italian uses all 17 universal tags.
+* The use of `PART` is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
 * Auxiliaries ([AUX]()) are all verbal in Swedish and can be grouped into four types:
   * The copula *vara* (be).
   * The temporal auxiliary *ha* (have), which combines with the supine form of the main verb to form perfect tenses.
