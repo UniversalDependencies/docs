@@ -23,14 +23,18 @@ udver: '2'
 ### Tags
 
 * Italian uses all 17 universal tags.
-* The use of `PART` is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
-* Auxiliaries ([AUX]()) are all verbal in Swedish and can be grouped into four types:
-  * The copula *vara* (be).
-  * The temporal auxiliary *ha* (have), which combines with the supine form of the main verb to form perfect tenses.
-  * The passive auxiliar *bli* (get), which combines with the past participle of the main verb to form passives.
-  * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *måste* (must) and *kunde* (could).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
-* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives are tagged [VERB]().
+* The use of [PART](pos/PART_.md) is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
+* Auxiliaries ([AUX](pos/AUX_.md)) can be grouped into five types:
+  * the copula *essere* (be).
+  * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
+  * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
+  * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
+  * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want"). 
+  
+  The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
+* The tag [DET](pos/DET_.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
+* The tag [PRON](pos/PRON_.md) is reserved for pronouns occurring as the head of a noun phrase.
+* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). 
 
 For more information, see the list of [Italian POS tags](pos-index.md).
 
