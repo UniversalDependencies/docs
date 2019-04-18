@@ -34,7 +34,7 @@ udver: '2'
   The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
 * The tag [DET](pos/DET_.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
 * The tag [PRON](pos/PRON_.md) is reserved for pronouns occurring as the head of a noun phrase.
-* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). 
+* Participles (both present and past) are mainly used adjectivally and are generally tagged [ADJ](). 
 
 For more information, see the list of [Italian POS tags](pos-index.md).
 
