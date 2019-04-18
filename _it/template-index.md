@@ -62,25 +62,30 @@ For more information, see the list of [Italian features](feat-index.md).
 ## Syntax
 
 * Subjects have the following characteristics:
-  * Word order: Subjects immediately follow the finite verb and precede negation in verb-initial main clauses.
-  * Case marking: Subjects occur in nominative case without adpositions.
-  * Passivization: Subjects are suppressed when verbs (both intransitive and transitive) are passivized.
-  * Control: Subjects control the subjects of absolute adverbials.
-  * Relativization: Relative pronouns with subject function cannot be omitted.
+  * Word order: ...
+  * Case marking: ...
+  * Passivization: ...
+  * Control: ...
+  * Relativization: ...
 * Objects have the following characteristics:
-  * Word order: Objects immediately follow the main verb unless topicalized.
-  * Case marking: Objects occur in nominative case (if nouns) or accusative case (if pronouns) without adpositions.
-  * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
-* The copula verb *vara* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use a different verb (*finnas*).
-* The following subtypes are used in Swedish:
-  * [acl:relcl]() for relative clauses
-  * [aux:pass]() for passive auxiliaries
-  * [compound:prt]() for verb particles
-  * [csubj:pass]() for clausal subjects of passive verbs
-  * [flat:name]() for exocentric complex names
-  * [nmod:poss]() for possessive/genitive modifiers
-  * [nsubj:pass]() for nominal subjects of passive verbs
+  * Word order: ...
+  * Case marking: ...
+  * Passivization: ...
+* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
+* The following subtypes are used in Italian:
+  * [acl:relcl](dep/acl-relcl.md) for relative clauses
+  * [advmod:emph]() ??
+  * [aux:pass](dep/auxpass.md) for passive auxiliaries
+  * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
+  * [det:numgov]() ??
+  * [expl:impers]()
+  * [expl:pass]()
+  * [flat:foreign]()
+  * [flat:name]()
+  * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
+  * [nummod:gov]() ??
   * [obl:agent]() for agents of passive verbs
+  * [obl:arg]() ??
 
 For more information, see the list of [Italian relations](dep-index.md).
 
