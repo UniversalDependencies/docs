@@ -9,8 +9,8 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation. Exceptions:
-  * Numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, *11:00*, *2 000*.
-  * Abbreviations are treated as single words and may contain punctuation or whitespace: *t.ex.*, *bl a*.
+  * Numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, or 1/1/1970, *11:00*, *2,5%*, *2-3*.
+  * Abbreviations are treated as single words and may contain punctuation: *U.S.A.*.
 * Multiword tokens are not used.
 
 ---
