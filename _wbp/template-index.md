@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Warlpiri UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Warlpiri <span class="flagspan"><img class="flag" src="../../flags/svg/AU.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
