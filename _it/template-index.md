@@ -75,14 +75,28 @@ For more information, see the list of [Italian features](feat-index.md).
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
+  * [cc:preconj]() predeterminers
+  * [compound:prt]() ?
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
-  * [det:predet](dep/det-predet.md) appear in front of another determiner
+  * [det:poss]() possessive determiner
+  * [det:predet](dep/det-predet.md) appears in front of another determiner
+  * [discourse:emo]() ?
   * [expl:impers](dep/expl-impers.md)
   * [expl:pass](dep/expl-pass.md)
-  * [flat:foreign]()
-  * [flat:name]()
+  * [flat:foreign]() for sentences in foreign language
+  * [flat:name]() for proper names
+  * [nmod:poss]() 
+  * [nmod:tmod]() ?
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
+  * [obl:tmod]() ?
+  * [parataxis:appos]() ? abbiamo appos
+  * [parataxis:discourse]() ? abbiamo discourse
+  * [parataxis:hashtag]() ?
+  * [parataxis:insert]() ?
+  * [parataxis:nsubj]() ?
+  * [parataxis:obj]() ?
+  * [vocative:mention]() ?
 
 For more information, see the list of [Italian relations](dep-index.md).
 
