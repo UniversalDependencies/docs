@@ -83,7 +83,7 @@ For more information, see the list of [Italian features](feat-index.md).
   * [discourse:emo]() ?
   * [expl:impers](dep/expl-impers.md)
   * [expl:pass](dep/expl-pass.md)
-  * [flat:foreign]() for sentences in foreign language
+  * [flat:foreign]() for non-first words in quoted foreign phrases
   * [flat:name]() for proper names
   * [nmod:poss]() 
   * [nmod:tmod]() ?
