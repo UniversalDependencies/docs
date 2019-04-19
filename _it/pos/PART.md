@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 The use of `PART` is limited to possessive markers, in English names: [en] ‘s.

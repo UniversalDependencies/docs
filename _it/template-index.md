@@ -23,7 +23,7 @@ udver: '2'
 ### Tags
 
 * Italian uses all 17 universal tags.
-* The use of [PART](pos/PART_.md) is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
+* The use of [PART](pos/PART.md) is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
 * Auxiliaries ([AUX](pos/AUX_.md)) can be grouped into five types:
   * the copula *essere* (be).
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
