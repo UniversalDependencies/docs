@@ -33,10 +33,10 @@ udver: '2'
   
   The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
 * The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
-* The tag [PRON](pos/PRON.md) is reserved for words that substitute for [nouns](NOUN) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType]() feature.
+* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType]() feature.
 * Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate. 
 
-For more information, see the list of [Italian POS tags](pos-index.md).
+<!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -52,7 +52,7 @@ For more information, see the list of [Italian POS tags](pos-index.md).
 * Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Relfex.md) applies to pronouns. The feature [Clitic] is language specific and marks clitic pronouns.
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
-For more information, see the list of [Italian features](feat-index.md).
+<!--For more information, see the list of [Italian features](feat-index.md).-->
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -98,7 +98,7 @@ For more information, see the list of [Italian features](feat-index.md).
   * [parataxis:obj]() ?
   * [vocative:mention]() ?
 
-For more information, see the list of [Italian relations](dep-index.md).
+<!--For more information, see the list of [Italian relations](dep-index.md).-->
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
