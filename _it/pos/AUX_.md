@@ -10,7 +10,8 @@ redirect_from: "u/pos/AUX.html"
 ### Definition
 
 Italian auxiliary verbs can be divided into:
-
+- cop
+- _stare_ in "sto arrivando"
 - tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
 - passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come".
 
