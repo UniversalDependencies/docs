@@ -81,8 +81,8 @@ For more information, see the list of [Italian features](feat-index.md).
   * [det:poss]() possessive determiner
   * [det:predet](dep/det-predet.md) appears in front of another determiner
   * [discourse:emo]() ?
-  * [expl:impers](dep/expl-impers.md)
-  * [expl:pass](dep/expl-pass.md)
+  * [expl:impers](dep/expl-impers.md) for impersonal clitics
+  * [expl:pass](dep/expl-pass.md) for reflexive clitics in reflexive passives
   * [flat:foreign]() for non-first words in quoted foreign phrases
   * [flat:name]() for proper names
   * [nmod:poss]() 
@@ -90,8 +90,8 @@ For more information, see the list of [Italian features](feat-index.md).
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
   * [obl:tmod]() ?
-  * [parataxis:appos]() ? abbiamo appos
-  * [parataxis:discourse]() ? abbiamo discourse
+  * [parataxis:appos]() ? why not appos
+  * [parataxis:discourse]() ? why not discourse
   * [parataxis:hashtag]() ?
   * [parataxis:insert]() ?
   * [parataxis:nsubj]() ?
