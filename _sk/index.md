@@ -41,7 +41,7 @@ udver: '2'
   * Periphrastic passive (any form of _byť_, including periphrastic forms, + passive participle of the main verb).
 * In other words, _byť_ and _bývať_ are the only lemmas that occur with the [AUX]() tag.
   They may still occur also as normal [VERB]() if they are used in purely existential sentences
-  (i.e. such that don't even indicate location because if they do, then _být_ is treated as copula).
+  (i.e. such that don't even indicate location because if they do, then _byť_ is treated as copula).
   * Note that this may be changed in future. Existential sentences could be treated as elliptical versions of locational sentences;
     then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
 * Verbs with modal meaning are not considered auxiliary in Slovak.
