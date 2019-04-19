@@ -33,7 +33,7 @@ udver: '2'
   
   The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
 * The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
-* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType]() feature.
+* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
 * Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate. 
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
@@ -49,7 +49,7 @@ udver: '2'
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Relfex.md) applies to pronouns. The feature [Clitic] is language specific and marks clitic pronouns.
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Relfex.md) applies to pronouns. The feature [Clitic]() is language specific and marks clitic pronouns.
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
