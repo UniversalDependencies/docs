@@ -76,7 +76,7 @@ For more information, see the list of [Italian features](feat-index.md).
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
   * [cc:preconj]() predeterminers
-  * [compound:prt]() ?
+  * [compound:prt]() only compound?
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
   * [det:poss]() possessive determiner
   * [det:predet](dep/det-predet.md) appears in front of another determiner
