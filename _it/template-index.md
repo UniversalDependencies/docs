@@ -76,27 +76,23 @@ udver: '2'
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
   * [cc:preconj]() predeterminers
-  * [compound:prt]() only compound?
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
   * [det:poss]() possessive determiner
   * [det:predet](dep/det-predet.md) appears in front of another determiner
-  * [discourse:emo]() ?
+  * [discourse:emo]() emoticons/emojis and other pictographic elements
   * [expl:impers](dep/expl-impers.md) for impersonal clitics
   * [expl:pass](dep/expl-pass.md) for reflexive clitics in reflexive passives
   * [flat:foreign]() for non-first words in quoted foreign phrases
   * [flat:name]() for proper names
-  * [nmod:poss]() 
-  * [nmod:tmod]() ?
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
-  * [obl:tmod]() ?
-  * [parataxis:appos]() ? why not appos
-  * [parataxis:discourse]() ? why not discourse
-  * [parataxis:hashtag]() ?
-  * [parataxis:insert]() ?
-  * [parataxis:nsubj]() ?
-  * [parataxis:obj]() ?
-  * [vocative:mention]() ?
+  * [parataxis:appos]() appositive sentences
+  * [parataxis:discourse]() semantically-void sentences used as discourse markers 
+  * [parataxis:hashtag]() hashtags that are not syntactically integrated into the sentence
+  * [parataxis:insert]() parenthetical clauses that cannot be considered independent from the governing predicate
+  * [parataxis:nsubj]() paratactic sentences with an implicit nsubj role with respect to the governing predicate
+  * [parataxis:obj]() the paratactic sentence is an object (often used with direct speech)
+  * [vocative:mention]() Twitter @-mentions, when they are not syntactically integrated into the sentence
 
 <!--For more information, see the list of [Italian relations](dep-index.md).-->
 
