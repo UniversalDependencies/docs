@@ -8,22 +8,21 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* In Japanese there is no obvious word boundary. So we need a definition of words.
+  As the word definition for universal dependency (UD), we adopt short-unit word
+  (SUW) [1]. SUW is also adopted to tokenize sentences in Balanced corpus of
+  contemporary written Japanese (BCCWJ) [2] containing more than 60,000 sentences
+  in various domains and it has been shown that the SUW definition covers various
+  language phenomena in real texts.
+
+* Many SUWs correspond to a single English word but they tend to be shorter than
+  English counterparts. An example is "フランス 語" (French; French language).
+  For detailed definition please refer to [3] written in Japanese.
+
+* The automatic tokenization accuracy is more than 98% on in-domain data (BCCWJ) [4].
 
 ---
-In Japanese there is no obvious word boundary. So we need a definition of words.
-As the word definition for universal dependency (UD), we adopt short-unit word
-(SUW) [1]. SUW is also adopted to tokenize sentences in Balanced corpus of
-contemporary written Japanese (BCCWJ) [2] containing more than 60,000 sentences
-in various domains and it has been shown that the SUW definition covers various
-language phenomena in real texts.
 
-Many SUWs correspond to a single English word but they tend to be shorter than
-English counterparts. An example is "フランス 語" (French; French language).
-For detailed definition please refer to [3] written in Japanese.
-
-The automatic tokenization accuracy is more than 98% on in-domain data (BCCWJ)
-[4].
 
 
 [1] A Proper Approach to Japanese Morphological Analysis: Dictionary, Model, and Evaluation,
@@ -51,28 +50,28 @@ In Proceedings of the Nineth International Conference on Language Resources and 
 
 ### Tags
 
-*
+* to be described.
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+<!-- **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.-->
 
 ---
 
 ### Features
 
-*
+* No features are provided.
 
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+<!-- **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any. -->
 
 ---
 
 ## Syntax
 
-*
+* to be described.
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+<!-- **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any. -->
 
 ---
 
