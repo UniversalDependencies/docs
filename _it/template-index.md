@@ -74,19 +74,15 @@ For more information, see the list of [Italian features](feat-index.md).
 * The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
-  * [advmod:emph]() used?
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
-  * [det:numgov]() used?
   * [det:predet](dep/det-predet.md) appear in front of another determiner
   * [expl:impers](dep/expl-impers.md)
   * [expl:pass](dep/expl-pass.md)
   * [flat:foreign]()
   * [flat:name]()
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
-  * [nummod:gov]() used?
   * [obl:agent]() for agents of passive verbs
-  * [obl:arg]() ??
 
 For more information, see the list of [Italian relations](dep-index.md).
 
