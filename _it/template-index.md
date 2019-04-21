@@ -75,9 +75,8 @@ udver: '2'
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
-  * [cc:preconj]() predeterminers
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
-  * [det:poss]() possessive determiner
+  * [det:poss](dep/detposs.md) possessive determiner
   * [det:predet](dep/det-predet.md) appears in front of another determiner
   * [discourse:emo]() emoticons/emojis and other pictographic elements
   * [expl:impers](dep/expl-impers.md) for impersonal clitics
