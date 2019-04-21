@@ -9,10 +9,10 @@ The relation <code>expl:pass</code> is a sub-class of <code>expl</code>, specifi
 ~~~ sdparse
 Fra quattro giorni si aprirà il Salone internazionale di l' automobile
 expl:pass(aprirà, si)
-nsubjpass(aprirà, Salone)
+nsubj:pass(aprirà, Salone)
 ~~~
 ~~~ sdparse
 Si puniscano i praticanti stregnoni .
 expl:pass(puniscano, Si)
-nsubjpass(puniscano, praticanti)
+nsubj:pass(puniscano, praticanti)
 ~~~
