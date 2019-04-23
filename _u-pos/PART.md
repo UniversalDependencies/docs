@@ -37,7 +37,6 @@ should list the words classified as `PART` in the given language.
 - Negation particle: [en] _not;_ [de] _nicht_
 - Question particle: [ja] か / _ka_ (adding this particle to the end of a clause turns the clause into a question); [tr] _mu_
 - Sentence modality: [cs] _ať, kéž, nechť_ (_Let's_ do it! _If only_ I could do it over. _May you_ have an enjoyable stay!)
-- Indeclinable aspectual or tense particles: [zh] 了 / _le_
 
 ### References
 
