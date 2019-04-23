@@ -1,14 +1,15 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  '<Assyrian> UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Assyrian <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
 
 ## Tokenization and Word Segmentation
-
-*
+* Words are generally delimited by whitespace or punctuation.
+* Coordinating conjunction and prepositions are separated from the words that come after them in a sentence.
+* Multiword tokens are not used in Assyrian.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,7 +20,9 @@ udver: '2'
 
 ### Tags
 
-*
+* In this Assyrian treebank, 13 universal tags have been used.
+* Certain words like "ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ" are tagged as PART and have a dependency relation as AUX. Together with the following VERB, these words change the verb tense.
+* 
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -46,10 +49,7 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
-
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+There are [0](../treebanks/LCODE-comparison.html) Assyrian UD treebanks:
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
