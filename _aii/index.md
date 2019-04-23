@@ -4,7 +4,7 @@ title:  '<Assyrian> UD'
 udver: '2'
 ---
 
-# UD for Assyrian <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Assyrian <span class="flagspan"><img class="flag" src="../../flags/svg/IQ-AII.svg" /></span>
 
 ## Tokenization and Word Segmentation
 * Words are generally delimited by whitespace or punctuation.
@@ -22,7 +22,7 @@ udver: '2'
 
 * In this Assyrian treebank, 13 universal tags have been used.
 * Certain words like "ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ" are tagged as PART and have a dependency relation as AUX. Together with the following VERB, these words change the verb tense.
-* 
+*
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
