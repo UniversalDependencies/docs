@@ -116,8 +116,7 @@ collections:
     output: true
   mr:
     output: true
-###!!! DZ: I cannot make Jekyll process a collection called just "no".
-  no-overview:
+  no:
     output: true
   nl:
     output: true
