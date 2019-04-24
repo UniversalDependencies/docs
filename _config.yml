@@ -201,6 +201,8 @@ collections:
     output: true
   mk:
     output: true
+  gun:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
