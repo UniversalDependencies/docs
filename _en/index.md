@@ -6,21 +6,37 @@ udver: '2'
 
 # UD for English
 
-UD English contains data from multiple treebanks created by different teams at different times and with often different conversion tools (from gold constituent treebanks, such as the English Web Treebank for English-EWT, or from different gold dependency treeebanks, such as English-GUM). As a result, differences may sometimes be found across treebanks, though an effort is made to harmonize them when issues are identified.
+UD English contains data from multiple treebanks created by different teams at different times and with often different conversion tools (from gold constituent treebanks, such as the English Web Treebank for English-EWT, or from different gold dependency treeebanks, such as English-GUM). As a result, differences may sometimes be found across treebanks, though an effort is made to harmonize them when issues are identified. 
 
 ## Tokenization and Word Segmentation
 
-Words are generally delimited by whitespace or punctuation. No tokens in any of the UD English corpora currently contain whitespace. Most corpora do not use multiword tokens, since clitics in English can usually be expressed using `SpaceAfter=No` (for forms like "don't" = "do" + "n't"). An exception is Eng-ParTUT, which uses multiword tokens.
+Words are generally delimited by whitespace or punctuation. No tokens in any of the UD English corpora currently contain whitespace. Most corpora do not use multiword tokens, since clitics in English can usually be expressed using `SpaceAfter=No` (for forms like "don't" = "do" + "n't"). The `SpaceAfter` annotation also allows the distinction between otherwise identical token sequences, such as "can not" versus "cannot". An exception regarding complex unit is Eng-ParTUT, which does use multiword tokens.
+
+Units that are generally tokenized apart include:
+
+  * Clitic auxiliaries ('ll, 'm, 's, 've ...)
+  * Possessive genitive markers ('s, ')
+  * Clitic negation (n't, but also not in cannot)
+  
+Units that are not tokenized apart include:
+
+  * Acronyms (FBI, U.S.)
+  * Abbreviations without spaces (e.g., i.e.)
+  * Hyphenated words, which are treated as tokens and not as compounds (part-time, [a] follow-up)
 
 ## Morphology
 
 ### Tags
 
-All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset.
+All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset. Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
+
+Closed class auxiliaries include:
+  * AUX - the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when used as auxiliaries labeled `aux` or `aux:pass`
+  * COP - the lemma 'be'
 
 ### Features
 
-All treebanks currently contain whitespace information, except for English-ESL. Morphological features are included in all corpora except English-ESL.
+All treebanks currently contain whitespace information, except for English-ESL. Morphological features are included in all corpora except English-ESL. In some corpora these are added automatically using CoreNLP (EWT, GUM) and in some cases supplemented using information from other annotation layers (e.g. GUM).
 
 ## Syntax
 
@@ -41,7 +57,7 @@ There are six English UD treebanks:
 
 Comparative statistics for tags in the treebanks are available here:
 
-http://universaldependencies.org/treebanks/en-comparison.html
+[http://universaldependencies.org/treebanks/en-comparison.html]()
 
   
 
