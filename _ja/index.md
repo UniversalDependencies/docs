@@ -16,7 +16,7 @@ udver: '2'
   language phenomena in real texts.
 
 * Many SUWs correspond to a single English word but they tend to be shorter than
-  English counterparts. An example is "ƒtƒ‰ƒ“ƒX Œê" (French; French language).
+  English counterparts. An example is "ãƒ•ãƒ©ãƒ³ã‚¹ èª" (French; French language).
   For detailed definition please refer to [3] written in Japanese.
 
 * The automatic tokenization accuracy is more than 98% on in-domain data (BCCWJ) [4].
@@ -33,9 +33,9 @@ In Proceedings of the Sixth International Conference on Language Resources and E
 Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso, Takehiko Maruyama, Hideki Ogura, Wakako Kashino, Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, and Yasuharu Den
 Language Resources and Evaluation Vol. 48 345-371, May 2014.
 
-[3] wŒ»‘ã“ú–{Œê‘‚«Œ¾—t‹ÏtƒR[ƒpƒXxŒ`‘Ô˜_î•ñ‹K’öW(ã)(‰º)
-¬–¸ G÷, ¬ˆé ‰ÔŠG, •ym’r —D”ü, ‹{“à ²–é, ¬¼ Œõ, and Œ´ —T,
-“Æ—§s­–@l‘—§‘ŒêŒ¤‹†Š, 2011.
+[3] ã€ç¾ä»£æ—¥æœ¬èªæ›¸ãè¨€è‘‰å‡è¡¡ã‚³ãƒ¼ãƒ‘ã‚¹ã€å½¢æ…‹è«–æƒ…å ±è¦ç¨‹é›†(ä¸Š)(ä¸‹)
+å°æ¤‹ ç§€æ¨¹, å°ç£¯ èŠ±çµµ, å†¨å£«æ±  å„ªç¾, å®®å†… ä½å¤œé¦™, å°è¥¿ å…‰, and åŸ è£•,
+ç‹¬ç«‹è¡Œæ”¿æ³•äººå›½ç«‹å›½èªç ”ç©¶æ‰€, 2011.
 
 [4] Language Resource Addition: Dictionary or Corpus?,
 Shinsuke Mori and Graham Neubig,
