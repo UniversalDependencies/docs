@@ -8,14 +8,14 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-# UD for Estonian 
+# UD for Estonian <span class="flagspan"><img class="flag" src="../../flags/svg/EE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words) except for ordinary numbers;
   Mostly fullstops are written together with abbreviations and name initials
-* A whitespace separating digits in a large number should not treated as a word separator. 
+* A whitespace separating digits in a large number should not treated as a word separator.
 * Foreign names consisting of several strings are written together (New York, Rio de Janeiro).
 * Emoticons are single tokens.
 ---
@@ -24,7 +24,7 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. 
+This is an overview only.
 
 * Estonian uses 16 universal POS categories (all UD catecories except PART).
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
@@ -44,23 +44,22 @@ This is an overview only.
    * modal verb (+ supine)
   * _ei_, _ära_:
    * negation of verb
-         	 	
+
 * There are five main verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]() (the so-called l-participle) or [ADJ]() (all other participle types).
   * Supine `Sup`, tagged [VERB]() or [AUX]().
   * Converb `Conv`, tagged [VERB]() or [AUX]().
----
 
 ### Nominal Features
 
 * Estonian does not have Gender feature
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs), marginally [NUM]().
-* [Case]() has 15 possible values: `Nom`, `Gen`, `Par`, `Add`, `All`, `Ade`, `Abl`, `Ill`, `Ine`, `Ela`, `Ter`,`Ess`,`Abe`,`Com`. Additiv (Add) is a short form of illative (Ill) and exists only in singular. 
+* [Case]() has 15 possible values: `Nom`, `Gen`, `Par`, `Add`, `All`, `Ade`, `Abl`, `Ill`, `Ine`, `Ela`, `Ter`,`Ess`,`Abe`,`Com`. Additive (Add) is a short form of illative (Ill) and exists only in singular.
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
-  It can occur with participles but only with those tagged as `ADJ`. 
+  It can occur with participles but only with those tagged as `ADJ`.
   Cases Abe, Ill, Ine, Ela, Tra occur with supines.
 
 ### Degree and Polarity
@@ -71,7 +70,7 @@ This is an overview only.
 
 ### Verbal Features
 
-* Finite verbs always have one of four values of [Mood](): `Ind`, `Imp`, Cnd` or `Qot`. 
+* Finite verbs always have one of four values of [Mood](): `Ind`, `Imp`, Cnd` or `Qot`.
 * Verbs in the indicative mood always have one of two values of [Tense](): `Past` or `Pres`.
 * There are two values of the [Voice]() feature: `Act` and `Pass`. Impersonal verb forms  have `Voice=Pass`. All other verb forms have `Voice=Act`.
 * [Person]() has three values, `1`, `2` and `3`.
@@ -92,7 +91,7 @@ This is an overview only.
    * "PronType=Prs" for personal pronouns
    * "PronType=Rcp" for reciprocal pronouns
    * "PronType=Tot" for indefinite pronouns (_kõik_, _kogu_ etc.)
-    
+
 
 ### Other Features
 
@@ -109,7 +108,7 @@ This is an overview only.
 
 ## Syntax
 
-This is an overview only. 
+This is an overview only.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
@@ -134,10 +133,6 @@ This is an overview only.
   * [csubj:cop]() for clausal or infinitive subject in copula clauses.
   * [nsubj:cop]() for nominal subject in copula clauses,
 * The following main types are not used alone and must be subtyped:
-  
-* The following relation types are not used in Czech at all:
+
+* The following relation types are not used in Estonian at all:
   [expl](), [clf](), [dislocated]()
-
-
-
-
