@@ -27,9 +27,9 @@ advmod(often, less)
 
 ~~~ sdparse
 Ուր/ADV[PronType=Int] ՞/PUNCT ես/AUX ուզում/VERB գնալ/VERB արձակուրդներին/NOUN ։/PUNCT \n Where do-you want to-go during-the-holidays ?
-advmod(գնալ, Ուր)
+advmod(ուզում, Ուր)
 obl(գնալ, արձակուրդներին)
-advmod(to-go, Where)
+advmod(want, Where)
 obl(to-go, during-the-holidays)
 xcomp(ուզում, գնալ)
 xcomp(want, to-go)
