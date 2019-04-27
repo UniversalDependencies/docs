@@ -55,29 +55,54 @@ acl:relcl(endroit,aime)
 obl:mod(aime,où)
 ~~~
 
-## Qu'est-ce que ... ?
+## Qu'est-ce que…
 
-_qu'est-ce que ..._ is actually a cleft construction.
-For example the sentence _Qu'est-ce que tu lis ?_ (_What are you reading?_) corresponds to the sentence _C'est quoi que tu lis ?_. In the second sentence the cleft construction clearly appears: _quoi_ is the clefted element and _que tu lis_ the clause attached to it.
-_Qu'est-ce que ..._ is thus analyzed as a cleft sentence. The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/acl:cleft]() link.
+_qu'est-ce que…_ can be used in two different contexts:
+
+ * It is a dislocated construction when it introduces a noun
 
 ~~~ sdparse
-Qu' est - ce qu' il a fait ? \n What did he do ?
+Qu'/PRON est -ce que/SCONJ le platine ? \n What is platinum ?
 root(ROOT-0,Qu'-8)
 cop(Qu',est)
-nsubj:expl(Qu',ce)
-acl:cleft(Qu',fait)
-obj(fait,qu')
-nsubj(fait,il)
+nsubj(Qu',-ce)
+dislocated(Qu',platine)
+case(platine,que)
+~~~
+
+
+ * It is a cleft construction when it introduces a verbal phrase.
+For example the sentence _Qu'est-ce que tu lis&nbsp;?_ (_What are you reading?_) corresponds to the sentence _C'est quoi que tu lis ?_.
+In the second sentence the cleft construction clearly appears: _quoi_ is the clefted element and _que tu lis_ the clause attached to it.
+_Qu'est-ce que ..._ is thus analyzed as a cleft sentence.
+The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/advcl:cleft]() link.
+Annotations are similar for _qu'est-ce qui…_ or _qui est-ce qui…_
+
+~~~ sdparse
+Qu'/PRON est -ce que/PRON tu lis ? \n What are you reading ?
+root(ROOT-0,Qu'-8)
+cop(Qu',est)
+nsubj(Qu',-ce)
+advcl:cleft(Qu',lis)
+obj(lis,que)
 ~~~
 
 ~~~ sdparse
-Qu' est - ce que tu as acheté au magasin ? \n What did you buy in the shop?
+Qu'/PRON est -ce qui/PRON cause le hocquet ? \n What causes hiccups ?
+root(ROOT-0,Qu'-8)
 cop(Qu',est)
-nsubj:expl(Qu',ce)
-acl:cleft(Qu',acheté)
-obj(acheté,que)
-nsubj(acheté,tu)
+nsubj(Qu',-ce)
+advcl:cleft(Qu',cause)
+nsubj(cause,qui)
+~~~
+
+~~~ sdparse
+Qui/PRON est -ce qui/PRON vient aujourd'hui ? \n Who comes today ?
+root(ROOT-0,Qui-8)
+cop(Qui,est)
+nsubj(Qui,-ce)
+advcl:cleft(Qui,vient)
+nsubj(vient,qui)
 ~~~
 
 
