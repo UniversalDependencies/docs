@@ -8,16 +8,24 @@ udver: '2'
 
 This is a **work-in-progress** overview of the UD annotation for Turkish.
 
+Unfortunately, different treebanks follow (slightly) different
+annotation guidelines,
+and at present (as of v2.4) multiple uncoordinated attempts of
+correction efforts are known.
+
+
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by white spaces or punctuation,
-    Whitespeces or punctuation may appear in some abbreviations
+    Whitespaces or punctuation may appear in some abbreviations
     or numeric expressions.
-* The question clitic _-mI_ (or other clitics) is treated as a separate word.
+* Clitics are treated as a separate words. This includes 
+    the clitics that follow word-internal processes (e.g., vowel
+    harmony) such as question clitic  _mI_ and  adverbial _DA_.
 * Due to the interaction of syntax and rich morphology,
     the following list  affixes introduce new "syntactic words".
         - Copular suffix attached to nouns or adverbs (if not null),
-            including the confiditional _-(y)sA_ and converbial _-(y)ken_
+            including the conditional _-(y)sA_ and converbial _-(y)ken_
         - _-ki_
         - _-lI_
         - _-sIz_
@@ -27,25 +35,37 @@ For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
+Turkish has a rich inflectional and derivational morphology.
+Some of the morphological phenomena are not satisfactorily annotated as of UD v2.
+This includes some missing feature-value pairs,
+e.g., 'reflexive voice' which is marked using language specific value ``Voice=Rfl``.
+Another open issue is multiple values for certain UD morphological features.
+For example, a _gelemeselerdi_ "if they were not able to come_ expresses
+two different modalities, requiring assigning both ``Pot`` and ``Cnd``
+to the [Mood](feat/mood) feature.
+Currently these multiple features are expressed
+by concatenating the values together in alphabetic order,
+resulting in feature-value pairs like ``Mood=CndPot``.
+Besides ``Mood``, ``Voice`` may also have multiple values.
+
 ### Tags
 
 This is an overview only. For more detailed discussion and examples,
 see the list of [Turkish POS tags](pos/index.html)
 and [Turkish features](feat/index.html).
 
+* The use of UD POS tags vary among different treebanks. ``PART`` is
+    not used in any of the current treebanks.
+* Negation particle _değil_ is marked either as ``AUX`` in some treebanks, and ``VERB`` in others.
+* The question particle _mI_ is tagged as ``AUX``.
+* The copular suffix -_(y)_-, which is treated as a syntactic word, and its clitic counterpart _i-_ is marked as AUX.
+* Treatment of auxiliary/copula _ol_ differs among different treebanks.
 
 ## Syntax
 
 This is an overview only. For more detailed discussion and examples,
 see the list of [relations](dep/index.html),
 
-### Arguments of verbs
-
-* 
-
-### Non-verbal Clauses
-
-* 
 
 ### Relations Overview
 
