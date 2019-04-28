@@ -43,6 +43,7 @@ udver: '2.4'
 * PRON types are encoded in the native tagset (see above).
 
 ## Syntax
+### General
 
 * Five types of clauses are defined in MUDT:
   * Verbal clauses (those with XPOS VERB or VERB_PSEU as the root)
@@ -51,8 +52,17 @@ udver: '2.4'
   * Existential clauses (those with XPOS HEMM as the root)
   * Non-expletive subjectless clauses (all the rest)
 * There are four types of copular clauses
-  * No copula
-  * Personal pronoun (XPOS PRON_PERS) as the copula
-  * XPOS PART_ACT *qiegħed* and its forms as the copula
-  * XPOS KIEN as the copula
-* The following relations are used in MUDT:
+  * No copula (Type i)
+  * Personal pronoun (XPOS PRON_PERS) as the copula (Type ii)
+  * XPOS PART_ACT *qiegħed* and its forms as the copula (Type iii)
+  * XPOS KIEN as the copula (Type iv)
+
+### Core and oblique arguments
+* A nominal subject (`nsubj`) is primarily defined as the nominal dependent of verbal, copular and existential clauses that
+  * agrees with the predicate in gender, number and person  (most verbal and all type (iv) copular clauses)
+  * agrees with the predicate in gender and number (type (ii) and type (iii) copular clauses)
+  * is the only obligatory nominal dependent of the predicate for type (i) copular
+clauses and main existential clauses
+* An object (`obj` or `iobj`) is primarily defined as
+  * a verbal dependents that bears the XPOS LIL/LIL_DEF case markers
+  * a verbal dependent not bearing the case markers cited above or prepositions that is replaceable or can be co-referential with the respective member of either of the verbal clitic sets
