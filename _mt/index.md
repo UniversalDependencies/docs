@@ -70,3 +70,18 @@ clauses and main existential clauses
   * obligatory arguments realized by means of prepositional phrases, regardless of how many and what other arguments the verb has
   * obligatory arguments realized by means of prepositional phrases that alternate with noun phrases (including clitics) normally annotated as `obj`
   * obligatory arguments indicating the outcome, effect or origin, regardless of whether they are realized as noun phrases or prepositional phrases and regardless of how many and what other arguments the verb has
+* All non-obligatory prepositional phrases with adverbial function are attached as `obl`
+
+### Relations overview
+* The following relation subtypes are used in MUDT:
+  * advmod:neg
+  * aux:neg
+  * aux:part
+  * aux:pass
+  * case:det
+  * cop:expl
+  * flat:name
+  * nmod:poss
+  * nsubj:pass
+  * obl:arg
+  * obl:agent
