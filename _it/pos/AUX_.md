@@ -17,9 +17,10 @@ Italian auxiliary verbs can be divided into:
 
 Following the UD guidelines, Italian modal verbs are handled as modal auxiliaries (e.g. _potere_ "can", _dovere_ "must").
 
-###Corresponding language-specific part-of-speech tags
+Corresponding language-specific part-of-speech tags
 
 VA: Auxiliary verb
+
 VM: Modal verb	
 
 ### Examples
