@@ -8,9 +8,8 @@ udver: '2.4'
 
 ## Tokenization and Word Segmentation
 
-*
-Words with spaces do not occur in MUTD.
-Multi-word tokens do not occur in MUDT.
+* Tokens are delimited by a) whitespace, b) apostrophe and c) hyphen.
+* Words with spaces or multi-word tokens do not occur in MUDT.
 
 
 ## Morphology
