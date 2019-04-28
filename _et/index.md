@@ -31,20 +31,20 @@ This is an overview only.
   In general, pronouns which agree with a modified noun, are tagged [DET](), pronominal quantifiers are [DET]() as well.
 * Estonian has following auxiliary verbs: _olema_ ("to be"), _ei_, _ära_ ("not"), _võima_, _saama_, _pidama_, _tohtima_, _näima_, _paistma_, _tunduma_ (modal verbs)
   The auxiliary verbs are used in several types of constructions:
-  1 _ei_, _ära_:
+  1. _ei_, _ära_:
    * negation of verb
-  2 _olema_:
+  2. _olema_:
    * The copula with non-verbal predicates.
    * Past tenses
-  3 _saama_:
+  3. _saama_:
    * modal verb (+ infinitive)
    * future (+ supine, bad style)
    * passive (+ participe)
-  4 _võima_, _tohtima_:
+  4. _võima_, _tohtima_:
    * modal verb (+ infinitive)
-  5 _pidama_:
+  5. _pidama_:
    * modal verb (+ supine)
-  6 _näima_, _paistma_, _tunduma_:
+  6. _näima_, _paistma_, _tunduma_:
    * modal verb (+ vat-infinitive)
 
 * There are five main verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
