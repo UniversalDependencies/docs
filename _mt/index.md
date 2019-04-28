@@ -4,7 +4,7 @@ title:  'Maltese UD'
 udver: '2.4'
 ---
 
-# UD for Maltese <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Maltese <span class="flagspan"><img class="flag" src="../../flags/svg/MT.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
