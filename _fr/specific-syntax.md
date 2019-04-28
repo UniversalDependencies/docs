@@ -9,7 +9,8 @@ udver: '2'
 The specific syntactic constructions detailed here are:
 
 * [Cleft sentences](specific-syntax.html#cleft-sentences)
-* ["Qu'est-ce-que...?"](specific-syntax.html#quest-ce-que)
+* ["Qu'est-ce-que…?"](specific-syntax.html#quest-ce-que)
+* ["Est-ce-que…?"](specific-syntax.html#est-ce-que)
 * [Pseudo-cleft sentences](specific-syntax.html#pseudo-cleft-sentences)
 * [Causative constructions](specific-syntax.html#causative)
 * [Superlatives](specific-syntax.html#superlatives)
@@ -79,7 +80,7 @@ The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and
 Annotations are similar for _qu'est-ce qui…_ or _qui est-ce qui…_
 
 ~~~ sdparse
-Qu'/PRON est -ce que/PRON tu lis ? \n What are you reading ?
+Qu'/PRON est/AUX -ce que/PRON tu lis ? \n What are you reading ?
 root(ROOT-0,Qu'-8)
 cop(Qu',est)
 nsubj(Qu',-ce)
@@ -88,7 +89,7 @@ obj(lis,que)
 ~~~
 
 ~~~ sdparse
-Qu'/PRON est -ce qui/PRON cause le hocquet ? \n What causes hiccups ?
+Qu'/PRON est/AUX -ce qui/PRON cause le hocquet ? \n What causes hiccups ?
 root(ROOT-0,Qu'-8)
 cop(Qu',est)
 nsubj(Qu',-ce)
@@ -97,12 +98,24 @@ nsubj(cause,qui)
 ~~~
 
 ~~~ sdparse
-Qui/PRON est -ce qui/PRON vient aujourd'hui ? \n Who comes today ?
+Qui/PRON est/AUX -ce qui/PRON vient aujourd'hui ? \n Who comes today ?
 root(ROOT-0,Qui-8)
 cop(Qui,est)
 nsubj(Qui,-ce)
 advcl:cleft(Qui,vient)
 nsubj(vient,qui)
+~~~
+
+## Est-ce que…
+
+In sentence like _Est-ce que tu viens&nbsp;?_ (_Do you come?_), the verb _être_ introduces a verbal complement and it is not considered as an auxiliary but as a plain verb.
+
+~~~ sdparse
+Est/VERB -ce que/SCONJ tu viens ? \n Do you come ?
+root(ROOT-0,Est)
+nsubj(Est,-ce)
+mark(viens,que)
+ccomp(Est,viens)
 ~~~
 
 
