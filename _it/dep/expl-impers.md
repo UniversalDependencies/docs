@@ -1,7 +1,8 @@
 ---
 layout: relation
 title: 'expl:impers'
-shortdef: 'expletive impersonal'
+shortdef: 'impersonal expletive'
+udver: '2'
 ---
 
 The relation <code>expl:impers</code> is a sub-class of <code>expl</code>, specific for the impersonal use of the clitic pronoun *si*. We can have an impersonal construction for every verb (transitive or intransitive) when the role of subject is played by the clitic itself, as an undefined subject.
@@ -25,3 +26,4 @@ E' stata quello che ci si attendeva .
 expl:impers(attendeva, si)
 expl(attendeva, ci)
 ~~~
+

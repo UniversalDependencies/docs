@@ -18,3 +18,5 @@ discourse(Italia, Sì)
 Brava , brava , complimenti/INTJ .
 discourse(Brava, complimenti)
 ~~~
+
+<code>discourse:emo</code> is used in PoSTWITA for emoticons/emojis.

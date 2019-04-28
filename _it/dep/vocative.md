@@ -2,6 +2,7 @@
 layout: relation
 title: 'vocative'
 shortdef: 'vocative'
+udver: '2'
 ---
 
 The <code>vocative</code> relation is used to mark a dialogue participant addressed in a text (common in conversations, dialogue, emails, newsgroup postings, etc.). 
@@ -30,3 +31,7 @@ A <code>vocative</code> commonly co-occurs with a null subject.
 " Chirac , ricorda ti Hiroshima "
 vocative(ricorda, Chirac)
 ~~~
+
+The specialization [vocative:mention](vocative-mention) is used for Twitter @-mentions.
+
+
