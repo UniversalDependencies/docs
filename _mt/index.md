@@ -24,11 +24,12 @@ udver: '2.4'
 
 
 * MUDT uses all 17 UPOS
-* Four types are considered UPOS AUX in MUDT:
+* Five types are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
   * XPOS VERB_PSEU *tantx* (this one only provisionally so pending further study)
   * XPOS PRON_PERS_NEG and XPOS PRON_PERS when preceded by XPOS NEG
+  * XPOS VERB *ġa* used as the passive auxiliary
 * Modal verbs are not considered AUX in MUDT
 * UPOS PART is used for the following types:
   * *ma* (XPOS NEG)
@@ -47,7 +48,7 @@ udver: '2.4'
 
 * Five types of clauses are defined in MUDT:
   * Verbal clauses (those with XPOS VERB or VERB_PSEU as the root)
-  * Copular clauses (
+  * Copular clauses
   * Non-copular verbless clauses
   * Existential clauses (those with XPOS HEMM as the root)
   * Non-expletive subjectless clauses (all the rest)
@@ -74,14 +75,14 @@ clauses and main existential clauses
 
 ### Relations overview
 * The following relation subtypes are used in MUDT:
-  * advmod:neg
-  * aux:neg
-  * aux:part
-  * aux:pass
-  * case:det
-  * cop:expl
-  * flat:name
-  * nmod:poss
-  * nsubj:pass
-  * obl:arg
-  * obl:agent
+  * advmod:neg for verbal negators *ma* and *lanqas*
+  * aux:neg for verbal and copular negators with XPOS PRON_PERS_NEG
+  * aux:part for verbal particles
+  * aux:pass for the passive auxiliary *ġa*
+  * case:det for prepositions and case markers with fused definite article
+  * cop:expl for XPOS KIEN in non-copular verbless clauses
+  * flat:name for personal and place names
+  * nmod:poss for possessive constructions, whether the status constructus or those mediated by XPOS GEN
+  * nsubj:pass for the nominal subject of passive verbal clauses
+  * obl:arg for the non-canonical object
+  * obl:agent for the agent in passive verbal clauses
