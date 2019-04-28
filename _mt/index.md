@@ -76,14 +76,14 @@ clauses and main existential clauses
 
 ### Relations overview
 * The following relation subtypes are used in MUDT:
-  * advmod:neg for verbal negators *ma* and *lanqas*
-  * aux:neg for verbal and copular negators with XPOS PRON_PERS_NEG
-  * aux:part for verbal particles
-  * aux:pass for the passive auxiliary *ġa*
-  * case:det for prepositions and case markers with fused definite article
-  * cop:expl for XPOS KIEN in non-copular verbless clauses
-  * flat:name for personal and place names
-  * nmod:poss for possessive constructions, whether the status constructus or those mediated by XPOS GEN
-  * nsubj:pass for the nominal subject of passive verbal clauses
-  * obl:arg for the non-canonical object
-  * obl:agent for the agent in passive verbal clauses
+  * `advmod:neg` for verbal negators *ma* and *lanqas*
+  * `aux:neg` for verbal and copular negators with XPOS PRON_PERS_NEG
+  * `aux:part` for verbal particles
+  * `aux:pass` for the passive auxiliary *ġa*
+  * `case:det` for prepositions and case markers with fused definite article
+  * `cop:expl` for XPOS KIEN in non-copular verbless clauses
+  * `flat:name` for personal and place names
+  * `nmod:poss` for possessive constructions, whether the status constructus or those mediated by XPOS GEN
+  * `nsubj:pass` for the nominal subject of passive verbal clauses
+  * `obl:arg` for the non-canonical object
+  * `obl:agent` for the agent in passive verbal clauses
