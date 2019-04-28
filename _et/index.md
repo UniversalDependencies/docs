@@ -18,6 +18,7 @@ udver: '2'
 * A whitespace separating digits in a large number should not treated as a word separator.
 * Foreign names consisting of several strings are written together (New York, Rio de Janeiro).
 * Emoticons are single tokens.
+
 ---
 
 ## Morphology
@@ -93,7 +94,6 @@ This is an overview only.
    * "PronType=Prs" for personal pronouns
    * "PronType=Rcp" for reciprocal pronouns
    * "PronType=Tot" for indefinite pronouns (_kõik_, _kogu_ etc.)
-
 
 ### Other Features
 
