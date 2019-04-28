@@ -66,3 +66,7 @@ clauses and main existential clauses
 * An object (`obj` or `iobj`) is primarily defined as
   * a verbal dependents that bears the XPOS LIL/LIL_DEF case markers
   * a verbal dependent not bearing the case markers cited above or prepositions that is replaceable or can be co-referential with the respective member of either of the verbal clitic sets
+* Additionally, MUDT recognizes another type of core argument, the non-canonical object, which is for the purposes of UD designated `obl:arg`. This relation is used for the following verbal dependents:
+  * obligatory arguments realized by means of prepositional phrases, regardless of how many and what other arguments the verb has
+  * obligatory arguments realized by means of prepositional phrases that alternate with noun phrases (including clitics) normally annotated as `obj`
+  * obligatory arguments indicating the outcome, effect or origin, regardless of whether they are realized as noun phrases or prepositional phrases and regardless of how many and what other arguments the verb has
