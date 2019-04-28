@@ -20,9 +20,7 @@ Following the UD guidelines, Italian modal verbs are handled as modal auxiliarie
 ###Corresponding language-specific part-of-speech tags
 
 VA: Auxiliary verb
-
 VM: Modal verb	
-
 
 ### Examples
 
