@@ -20,6 +20,7 @@ udver: '2.4'
 ### Tags
 
 * The native tagset (XPOS) is as follows:
+* MUDT uses all 17 UPOS; the mapping between XPOS and UPOS is 
 
 ### Features
 
@@ -29,4 +30,14 @@ udver: '2.4'
 ## Syntax
 
 * Five types of clauses are defined in MUDT:
+ * Verbal clauses (those with XPOS VERB or VERB_PSEU as the root)
+ * Copular clauses (
+ * Non-copular verbless clauses
+ * Existential clauses (those with XPOS HEMM as the root)
+ * Non-expletive subjectless clauses (all the rest)
+* There are four types of copular clauses
+ * No copula
+ * Personal pronoun (XPOS PRON_PERS) as the copula
+ * XPOS PART_ACT *qiegħed* and its forms as the copula
+ * XPOS KIEN as the copula
 * The following relations are used in MUDT:
