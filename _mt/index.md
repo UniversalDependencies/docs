@@ -21,37 +21,8 @@ udver: '2.4'
 ### Tags
 
 * The native tagset (XPOS) is as follows:
-| Abbreviation | Definition   |                           Example        |
-|--------------|--------------|-----------------------------------------:|
-| ADJ | |
-| ADV | |
-| DEF | |
-| GEN | |
-| GEN | |
-| GEN | |
-| HEMM | |
-| KIEN | |
-| LIL | |
-| LIL_DEF | |
-| LIL_PRON | |
-| NOUN | |
-| NOUN_PROP | |
-| NUM_FRC | |
-| NUM_ORD | |
-| NUM_WHD | |
-| PART_ACT | |
-| PART_PASS | |
-| PREP_DEF | |
-| PREP_PRON | |
-| PRON_DEM | |
-| PRON_DEM_DEF | |
-| PRON_PERS | |
-| PRON_PERS_NEG | |
-| PRON_REF | |
-| VERB | |
-| VERB_PSEU | |
-| X_ABV | |
-| X_DIG | |
+
+
 * MUDT uses all 17 UPOS
 * Four types are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
