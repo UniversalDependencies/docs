@@ -12,6 +12,7 @@ udver: '2.4'
   * Whitespace is the default token delimiter
   * Apostrophe is a delimiter for proclitic variants of prepositions/case markers *b'*, *f'*, *m'*, *s'* and *t'*
   * Hyphens is a delimiter for the definite article *il-* and its assimilated forms which include prepositions/case markers with fused definite definite article; these are - for the moment - treated as single tokens.
+A comma is treated as a token separator in numbers, e.g. *1,500* is three tokens: 1 - , - 500.
 * Words with spaces or multi-word tokens do not occur in MUDT.
 
 
