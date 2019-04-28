@@ -78,20 +78,20 @@ udver: '2'
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
   * [det:poss](dep/det-poss.md) possessive determiner
   * [det:predet](dep/det-predet.md) appears in front of another determiner
-  * [discourse:emo]() emoticons/emojis and other pictographic elements
+  * [discourse:emo](dep/discourse-emo.md) emoticons/emojis and other pictographic elements
   * [expl:impers](dep/expl-impers.md) for impersonal clitics
   * [expl:pass](dep/expl-pass.md) for reflexive clitics in reflexive passives
-  * [flat:foreign]() for non-first words in quoted foreign phrases
-  * [flat:name]() for proper names
+  * [flat:foreign](dep/flat-foreign.md) for non-first words in quoted foreign phrases
+  * [flat:name](dep/flat-name.md) for proper names
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
-  * [obl:agent]() for agents of passive verbs
-  * [parataxis:appos]() appositive sentences
-  * [parataxis:discourse]() semantically-void sentences used as discourse markers 
-  * [parataxis:hashtag]() hashtags that are not syntactically integrated into the sentence
-  * [parataxis:insert]() parenthetical clauses that cannot be considered independent from the governing predicate
-  * [parataxis:nsubj]() paratactic sentences with an implicit nsubj role with respect to the governing predicate
-  * [parataxis:obj]() the paratactic sentence is an object (often used with direct speech)
-  * [vocative:mention]() Twitter @-mentions, when they are not syntactically integrated into the sentence
+  * [obl:agent](dep/obl-agent.md) for agents of passive verbs
+  * [parataxis:appos](dep/parataxis-appos.md) appositive sentences
+  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers 
+  * [parataxis:hashtag](dep/parataxis-hashtag.md) hashtags that are not syntactically integrated into the sentence
+  * [parataxis:insert](dep/parataxis-insert.md) parenthetical clauses that cannot be considered independent from the governing predicate
+  * [parataxis:nsubj](dep/parataxis-nsubj.md) paratactic sentences with an implicit nsubj role with respect to the governing predicate
+  * [parataxis:obj](dep/parataxis-obj.md) the paratactic sentence is an object (often used with direct speech)
+  * [vocative:mention](dep/vocative-mention.md) Twitter @-mentions, when they are not syntactically integrated into the sentence
 
 <!--For more information, see the list of [Italian relations](dep-index.md).-->
 
