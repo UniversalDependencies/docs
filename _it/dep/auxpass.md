@@ -2,6 +2,7 @@
 layout: relation
 title: 'auxpass'
 shortdef: 'passive auxiliary'
+udver: '2'
 ---
 
 A passive auxiliary (*essere*/*venire*) of a clause is a non-main verb of the clause which conveys information about the passive voice. 
