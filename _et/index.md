@@ -19,7 +19,6 @@ udver: '2'
 * Foreign names consisting of several strings are written together (New York, Rio de Janeiro).
 * Emoticons are single tokens.
 
----
 
 ## Morphology
 
@@ -106,7 +105,6 @@ This is an overview only.
   * [Foreign]() marks tokens in foreign launguage.
 * The following universal features are not used in Estonian: [Definite](), [Evident](), [Polite]().
 
----
 
 ## Syntax
 
