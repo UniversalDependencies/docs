@@ -63,10 +63,6 @@ udver: '2'
 
 * Criteria for identifying core arguments ...
 * The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses.
----
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
@@ -91,7 +87,8 @@ udver: '2'
 <!--For more information, see the list of [Italian relations](dep-index.md).-->
 
 ---
-**Instruction**: List all subtype relations used. Include links to language-specific relations definitions if any.
+**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
 ---
 
 ## Treebanks
