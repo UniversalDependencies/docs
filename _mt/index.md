@@ -59,6 +59,7 @@ udver: '2.4'
   * XPOS KIEN as the copula (Type iv)
 
 ### Core and oblique arguments
+* Core arguments in MUDT are defined based on verbal valency, largely as conceptualized by [VALLEX 3.0](http://ufal.mff.cuni.cz/vallex/3.0/theory.html)
 * A nominal subject (`nsubj`) is primarily defined as the nominal dependent of verbal, copular and existential clauses that
   * agrees with the predicate in gender, number and person  (most verbal and all type (iv) copular clauses)
   * agrees with the predicate in gender and number (type (ii) and type (iii) copular clauses)
