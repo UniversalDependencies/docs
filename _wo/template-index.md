@@ -8,7 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* Following most tokenization patterns, words are delimited by whitespace. 
+* Clitics that attach to orthographic words are systematically segmented. Function words such as prepositions, conjunctions, auxiliaries and determiners can attach to other function or content words. For instance, a word like *cib* "in a" is segmented into the preposition *ci* "in" and the indefinite article *ab* "a". A similar segmentation is done for focus morpheme, since these usually constitute an amalgam of a subject pronoun (e.g. *mu* "he/she") and the morpheme marking subject focus *a*, resulting in a complex form *moo*. 
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
