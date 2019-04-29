@@ -29,7 +29,7 @@ udver: '2'
   * the auxiliary verb *έχω* (have), which combines with the infinitive to form perfect tenses
   * the impersonal verb *πρέπει* (must)
   * the indeclinable future marker *θα*
-  * the indeclinable future marker *να*
+  * the indeclinable subjunctive particle *να*
   * the indeclinable subjunctive particle *ας*
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
