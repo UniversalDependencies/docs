@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Wolof UD'
 udver: '2'
 ---
 
