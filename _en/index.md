@@ -4,7 +4,7 @@ title:  'English UD'
 udver: '2'
 ---
 
-# UD for English <span class="flagspan"><img class="flag" src="../../flags/svg/GB.svg" /> <img class="flag" src="../../flags/svg/US.svg" /> <img class="flag" src="../../flags/svg/GB.svg" /> <img class="flag" src="../../flags/svg/CA.svg" /> <img class="flag" src="../../flags/svg/AU.svg" /> <img class="flag" src="../../flags/svg/NZ.svg" /></span>
+# UD for English <span class="flagspan"><img class="flag" src="../../flags/svg/GB.svg" /> <img class="flag" src="../../flags/svg/US.svg" /> <img class="flag" src="../../flags/svg/CA.svg" /> <img class="flag" src="../../flags/svg/AU.svg" /> <img class="flag" src="../../flags/svg/NZ.svg" /></span>
 
 UD English contains data from multiple treebanks created by different teams at different times and with often different conversion tools (from gold constituent treebanks, such as the English Web Treebank for English-EWT, or from different gold dependency treeebanks, such as English-GUM). As a result, differences may sometimes be found across treebanks, though an effort is made to harmonize them when issues are identified.
 
