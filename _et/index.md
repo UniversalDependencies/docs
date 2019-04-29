@@ -12,12 +12,14 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words) except for ordinary numbers;
-  Mostly fullstops are written together with abbreviations and name initials
-* A whitespace separating digits in a large number should not treated as a word separator.
-* Foreign names consisting of several strings are written together (New York, Rio de Janeiro).
-* Emoticons are single tokens.
+* In general, words are delimited by whitespace characters.
+* Multitoken words (syntactic words consisting of several ortographic words) include:
+     some foreign names, e.g. New York, Rio de Janeiro;
+     numerical expressions like 20 000.
+* Punctuation marks are treated as separate tokens; the exceptions include:
+     ordinary numbers (1. jaanuar)
+     abbreviations (they can be written with and without period); if an abbreviation ends a sentence, the period mark is      treated as the end-of-sentence punctuation mark, not as an abbreviation 
+* Emoticons (consisting mostly of punctutation marks) are single tokens.
 
 
 ## Morphology
@@ -92,7 +94,7 @@ This is an overview only.
    * "PronType=Int,Rel" for interrogative or relative pronouns
    * "PronType=Prs" for personal pronouns
    * "PronType=Rcp" for reciprocal pronouns
-   * "PronType=Tot" for indefinite pronouns (_kõik_, _kogu_ etc.)
+   * "PronType=Tot" for total (collective) pronouns (_kõik_, _kogu_ etc.)
 
 ### Other Features
 
