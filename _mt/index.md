@@ -19,6 +19,9 @@ udver: '2.4'
 ## Morphology
 
 ### Tags
+* The native tagset (XPOS) is as follows:
+
+
 | ID | TAG       | Description                    | ID | TAG           | Description                           |
 |----|-----------|--------------------------------|----|---------------|---------------------------------------|
 | 1  | ADJ       | adjective                      | 25 | PART_ACT      | active participle                     |
