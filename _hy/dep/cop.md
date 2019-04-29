@@ -106,8 +106,8 @@ nsubj(situation.Loc, Gohar)
 Նա նորից իմ սենյակում էր ։ \n He was in-my room.Loc again .
 cop(սենյակում, էր)
 cop(room.Loc, was)
-advmod(սենյակում, նորից)
-advmod(room.Loc, again)
+advmod:emph(սենյակում, նորից)
+advmod:emph(room.Loc, again)
 det:poss(սենյակում, իմ)
 det:poss(room.Loc, in-my)
 ~~~
