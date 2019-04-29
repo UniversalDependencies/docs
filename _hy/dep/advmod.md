@@ -39,6 +39,12 @@ xcomp(want, to-go)
 Մոտ/ADV հարյուր/NUM մարդ/NOUN եկավ/VERB խնջույքի/NOUN ։ \n About 100 people came to-the-party .
 advmod(հարյուր, Մոտ)
 advmod(100, About)
+nummod(մարդ, հարյուր)
+nummod(people, 100)
+nsubj(եկավ, մարդ)
+nsubj(came, people)
+obl(եկավ, խնջույքի)
+obl(came, to-the-party)
 ~~~
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
