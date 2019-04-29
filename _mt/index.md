@@ -23,7 +23,6 @@ udver: '2.4'
   * Semantics (e.g. words designating beings, things and concepts = NOUN; words designating properties = ADJ, words designating actions, processes and states = VERB)
   * Morphology (e.g. words that can take feminine suffix *-a* or plural suffix *-i-* = ADJ, VERBs that can appear in both prefixal and suffixal conjugations = VERB, VERBS that are conjugated with only one affix set = VERB_PSEU)
   * Syntax
-Some forms can appear in two different syntactic roles - *Maltin* can be both and ADJ and a NOUN, *qabel* can function both as a PREP and an ADV. In such cases, they are tagged based on their syntactic role.
 
 
 | ID | TAG       | Description                    | ID | TAG           | Description                           |
@@ -53,7 +52,20 @@ Some forms can appear in two different syntactic roles - *Maltin* can be both an
 | 23 | NUM_ORD   | ordinal numeral                | 47 | X_PUN         | punctuation                           |
 | 24 | NUM_WHD   | number one                     |    |               |                                       |
 
-* MUDT uses all 17 UPOS
+* Some forms can appear in two different syntactic roles - *Maltin* can be both and ADJ and a NOUN, *qabel* can function both as a PREP and an ADV. In such cases, they are tagged based on their syntactic role.
+* MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward, except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
+
+
+| Open class words | Closed class words | Other |
+|------------------|--------------------|-------|
+| ADJ              | ADP                | PUNCT |
+| ADV              | AUX                | SYM   |
+| INTJ             | CCONJ              | X     |
+| NOUN             | DET                |       |
+| PROPN            | NUM                |       |
+| VERB             | PART               |       |
+|                  | PRON               |       |
+|                  | SCONJ              |       |
 * Five types are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
