@@ -33,8 +33,8 @@ advcl(they-started, he-came)
 Եղբայրները մեջք մեջքի կանգնած էին ։ \n The-brothers was standing back to-back .
 compound:redup(մեջք, մեջքի)
 compound:redup(back, to-back)
-acl(Եղբայրները, մեջք)
-acl(The-brothers, back)
+acl(կանգնած, մեջք)
+acl(standing, back)
 ~~~
 
 ~~~ sdparse
