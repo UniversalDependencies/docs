@@ -23,12 +23,13 @@ udver: '2'
 ### Tags
 
 * Greek uses 16 universal POS categories, including particles ([PART]()). No interjections ([INTJ]()) exist in the current dataset.
-* Words tagged [PART]() are the negative particles *δεν* and *μην* and the *να* particle in subordinate clauses.
+* Words tagged [PART]() are the negative particles *δεν* and *μην*.
 * The current set of auxiliary words ([AUX]()) include:
   * the copula *είμαι* (be)
   * the auxiliary verb *έχω* (have), which combines with the infinitive to form perfect tenses
   * the impersonal verb *πρέπει* (must)
   * the indeclinable future marker *θα*
+  * the indeclinable future marker *να*
   * the indeclinable subjunctive particle *ας*
 *  The tag [DET]() is used for the definite and the indefinite article. The tag [PRON]() is used for pronouns occurring as the head of a noun phrase, for pronouns preceding or following their nominal head with which they agree in gender, number and case,  or for possessives in the genitive following their head
 *  Past participles used adjectivally are  mostly tagged  [ADJ]()
