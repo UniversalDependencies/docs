@@ -5,13 +5,16 @@
 ### sure what you're doing and know how to clean up the repo if
 ### anything goes wrong.
 
-# Usage example: addlanguage.sh ar Arabic
+# Usage example: addlanguage.sh grc Ancient_Greek GR
+# (language code, language name with underscores, flag code)
 
 set -u
 set -e
 
 lc=$1
 language=$2
+language_wsp=`echo -n $language | perl -pe 's/_/ /g'`
+flag=$3
 
 # check that no collection exists already
 f="_${lc}"
@@ -26,7 +29,7 @@ cp _template/template-index.md "$f"
 
 # replace references to "template" with references to the language
 # code in the copied materials:
-perl -p -i -e 's/template/'"$lc"'/' "$f"/*.md
+perl -p -i -e 's/template/'"$lc"'/; s/<LanguageName> UD/'"$language_wsp"' UD/; s/UD for LANGUAGE/UD for '"$language_wsp"'/; s/AQ.svg/'"$flag"'.svg' "$f"/*.md
 
 tmp=`mktemp addlanguage-tmp-XXX`
 
