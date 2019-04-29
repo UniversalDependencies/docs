@@ -21,7 +21,32 @@ udver: '2.4'
 ### Tags
 
 * The native tagset (XPOS) is as follows:
-
+| ID | TAG       | Description                    | ID | TAG           | Description                           |
+|----|-----------|--------------------------------|----|---------------|---------------------------------------|
+| 1  | ADJ       | adjective                      | 25 | PART_ACT      | active participle                     |
+| 2  | ADV       | adverb                         | 26 | PART_PASS     | passive participle                    |
+| 3  | COMP      | complementizer                 | 27 | PREP          | preposition                           |
+| 4  | CONJ_CORD | coordinating conjunction       | 28 | PREP_DEF      | preposition with article              |
+| 5  | CONJ_SUB  | subordinating conjunction      | 29 | PREP_PRON     | preposition with pronoun              |
+| 6  | DEF       | article                        | 30 | PROG          | progressive particle                  |
+| 7  | FOC       | focus particle                 | 31 | PRON_DEM      | demonstrative pronoun                 |
+| 8  | FUT       | future particle                | 32 | PRON_DEM_DEF  | demonstrative pronoun with article    |
+| 9  | GEN       | genitive particle              | 33 | PRON_INDEF    | indefinite pronoun                    |
+| 10 | GEN_DEF   | genitive particle with article | 34 | PRON_INT      | interrogative pronoun                 |
+| 11 | GEN_PRON  | genitive particle with pronoun | 35 | PRON_PERS     | personal pronoun                      |
+| 12 | HEMM      | existential verb               | 36 | PRON_PERS_NEG | personal pronoun with negative suffix |
+| 13 | INT       | interjection                   | 37 | PRON_REC      | reciprocal pronoun                    |
+| 14 | KIEN      | auxiliary                      | 38 | PRON_REF      | reflexive pronoun                     |
+| 15 | LIL       | oblique particle               | 39 | QUAN          | quantifier                            |
+| 16 | LIL_DEF   | oblique particle with article  | 40 | VERB          | verb                                  |
+| 17 | LIL_PRON  | oblique particle with pronoun  | 41 | VERB_PSEU     | pseudoverb                            |
+| 18 | NEG       | verbal negator                 | 42 | X_ABV         | abbreviation                          |
+| 19 | NOUN      | noun                           | 43 | X_BOR         | bordel                                |
+| 20 | NOUN_PROP | proper noun                    | 44 | X_DIG         | digits                                |
+| 21 | NUM_CRD   | cardinal numeral               | 45 | X_ENG         | English words                         |
+| 22 | NUM_FRC   | fractions                      | 46 | X_FOR         | other foreign words                   |
+| 23 | NUM_ORD   | ordinal numeral                | 47 | X_PUN         | punctuation                           |
+| 24 | NUM_WHD   | number one                     |    |               |                                       |
 
 * MUDT uses all 17 UPOS
 * Five types are considered UPOS AUX in MUDT:
