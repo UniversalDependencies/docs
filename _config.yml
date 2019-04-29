@@ -116,6 +116,8 @@ collections:
     output: true
   mr:
     output: true
+  mt:
+    output: true
   nl:
     output: true
   "no":
