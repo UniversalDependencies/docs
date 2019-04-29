@@ -19,7 +19,11 @@ udver: '2.4'
 ## Morphology
 
 ### Tags
-* The native tagset (XPOS) is as follows:
+* For the native tagset (XPOS), see the table below. The tagging decisions are made based on three criteria in the following hierarchy:
+  * Semantics (e.g. words designating beings, things and concepts = NOUN; words designating properties = ADJ, words designating actions, processes and states = VERB)
+  * Morphology (e.g. words that can take feminine suffix *-a* or plural suffix *-i-* = ADJ, VERBs that can appear in both prefixal and suffixal conjugations = VERB, VERBS that are conjugated with only one affix set = VERB_PSEU)
+  * Syntax
+Some forms can appear in two different syntactic roles - *Maltin* can be both and ADJ and a NOUN, *qabel* can function both as a PREP and an ADV. In such cases, they are tagged based on their syntactic role.
 
 
 | ID | TAG       | Description                    | ID | TAG           | Description                           |
