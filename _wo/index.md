@@ -4,7 +4,7 @@ title:  'Wolof UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/SN.svg" /></span>
+# UD for Wolof <span class="flagspan"><img class="flag" src="../../flags/svg/SN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
