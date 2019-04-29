@@ -19,8 +19,13 @@ udver: '2'
 
 ### Tags
 
-*
-
+* Wolof uses all 17 universal POS categories, including particles (PART). Most common usage of PART is for infinitive particles `a` (to). 
+* Wolof uses a wide range of auxiliary verb (AUX), including:
+** `di`: imperfective marker
+** `a`: subject focus marker
+** `da`: verb focus marker
+** `la`: non-subject focus marker
+** `na`: neutral (i.e. non-focus) and perfective marker
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
