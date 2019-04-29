@@ -42,7 +42,7 @@ udver: '2'
 * Definite articles and pronouns may specify deixis information. Also, demonstratives encode information about deixis, including reference to the speaker and/or addressee.
 * There is no morphological Case; instead, adpositions (ADP) are used as case markers and specify the role of a noun in a phrase.
 * Focus is marked morphosyntactically. Focus on the subject, verb, or non-subject (i.e. any constituent which is neither subject nor main verb) is signaled by special morphemes. The encode the focus type respectively as Subject focus, Verb Focus and Non-subject focus.
-* 
+* The tense feature distinguishes three values: past, present and future. Tense is typically marked on auxiliaries (e.g. *dina* "he will") and particles (*woon* "past tense particle") which follow the verb. 
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -57,7 +57,7 @@ udver: '2'
 
 * Nominal subjects are in initial position.
 * Nominal subject (nsubj) is a noun phrase without preposition.
-* A infinite subordinate clause may serve as the subject and is labeled csubj.
+* A (nonfinite) subordinate clause may serve as the subject and is labeled csubj.
 
 ### Objects
 
