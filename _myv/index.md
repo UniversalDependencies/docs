@@ -4,7 +4,7 @@ title:  'Erzya UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ERZYA.svg" /></span>
+# UD for Erzya <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ERZYA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
