@@ -99,12 +99,12 @@ This is an overview only.
 ### Other Features
 
 * Estonian UD treebanks have following language-specific features:
-  * [NumForm]() has three values: `Digit`, `Letter` or `Roman`.*
+  * [NumForm]() has three values: `Digit`, `Letter` or `Roman`.
   * [NumType]() has a value `Card` for cardinal numbers and `Ord` for ordinal numbers.
   * [AdpType]() distincts preopositions `AdpType=Prep` and postpositions `AdpType=Post`.
   * [Hyph]() marks hyhenated words.
   * [Abbr]() is for abbreviations.
-  * [Foreign]() marks tokens in foreign launguage.
+  * [Foreign]() marks foreign-language tokens.
 * The following universal features are not used in Estonian: [Definite](), [Evident](), [Polite]().
 
 
@@ -114,10 +114,10 @@ This is an overview only.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is a noun phrase in the nominative or partitive case, without preposition.
+* Nominal subject ([nsubj]()) is a nominal in the nominative or partitive case, without preposition.
    * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
-   * A finite subordinate clause may serve as the subject and is labeled `csubj`.
-* Objects defined in the Estonian grammar may be bare noun phrases in anominative, genitive or partitive case.
+   * A finite subordinate clause may serve as the subject and is labeled [csubj]().`.
+* Ojects[obj]() can be nominals in nominative, genitive or partitive case forms (and there is no accusative case in Estonian).
   * The infinitival complement is labeled as [xcomp]() or [ccomp]().
 * Adjuncts or adverbial modifiers realized as noun phrases are labeled [obl]():
 
