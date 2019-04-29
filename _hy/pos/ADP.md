@@ -16,7 +16,7 @@ Note, that the Armenian `ADP` covers also “localizers”. These are a closed s
 - _Վերցրեց գիրքը սեղանի <b>վրայից</b>։&nbsp;_ “He took the book from on the table.”
 - _Ճանապարհն անցնում էր դաշտերի <b>միջով</b>։&nbsp;_ “The road passed through the fields.”
 
-Although a few localizers have further grammaticalized into adverbials denoting spatial concepts, localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [advmod]()).
+Although a few localizers have further grammaticalized into adverbials denoting spatial concepts, localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [obl]()).
 
 - _<b>Մոտովս</b> անցան երկու սիլուետներ։&nbsp;_ “Two silhouettes passed by me.”
 
