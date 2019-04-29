@@ -81,7 +81,6 @@ Wolof uses the following relation subtypes:
 ## Treebanks
 
 There is only one Wolof UD treebank at present:
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
 
   * [Wolof-WTB](../treebanks/_wo/index.html)
 
