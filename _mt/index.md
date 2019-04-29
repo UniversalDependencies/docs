@@ -22,7 +22,7 @@ udver: '2.4'
 * For the native tagset (XPOS), see the table below. The tagging decisions are made based on three criteria in the following hierarchy:
   * Semantics (e.g. words designating beings, things and concepts = NOUN; words designating properties = ADJ, words designating actions, processes and states = VERB)
   * Morphology (e.g. words that can take feminine suffix *-a* or plural suffix *-i-* = ADJ, VERBs that can appear in both prefixal and suffixal conjugations = VERB, VERBS that are conjugated with only one affix set = VERB_PSEU)
-  * Syntax (e.g. GEN and LIL could very well fit under PREP, but their syntactic role is quite different from PREP; same goes for FOC which are normally classified under ADV, but their syntactic behavior is quite different)
+  * Syntax (e.g. GEN and LIL could very well fit under PREP, but their syntactic role is quite different from PREP; same goes for FOC which are normally classified under ADV, but their syntactic behavior is quite different; HEMM is normally classified as a VERB_PSEU, but it behaves idiosyncratically)
 
 
 | ID | TAG       | Description                    | ID | TAG           | Description                           |
