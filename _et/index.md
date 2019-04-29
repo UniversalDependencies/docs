@@ -94,7 +94,7 @@ This is an overview only.
    * "PronType=Int,Rel" for interrogative or relative pronouns
    * "PronType=Prs" for personal pronouns
    * "PronType=Rcp" for reciprocal pronouns
-   * "PronType=Tot" for indefinite pronouns (_kõik_, _kogu_ etc.)
+   * "PronType=Tot" for total (collective) pronouns (_kõik_, _kogu_ etc.)
 
 ### Other Features
 
