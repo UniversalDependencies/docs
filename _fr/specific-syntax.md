@@ -18,6 +18,8 @@ The specific syntactic constructions detailed here are:
 
 ## Cleft sentences
 
+:warning: outdated
+
 FrenchSpoken analyzes cleft sentences with [fr-dep/acl:cleft]() when the clefted element is a nominal subject or object. All other clefted elements are analyzed with [fr-dep/ccomp:cleft]().
 For cleft sentences constructed with a _c'est_ (or _ce sont_, _c'était_ etc.), the clefted element is the head of the whole cleft sentence and the syntactical subject _c'_ receives a [fr-dep/nsubj:expl]() link.
 
@@ -64,7 +66,7 @@ _qu'est-ce que…_ can be used in two different contexts:
 
 ~~~ sdparse
 Qu'/PRON est -ce que/SCONJ le platine ? \n What is platinum ?
-root(ROOT-0,Qu'-8)
+root(ROOT-0,Qu')
 cop(Qu',est)
 nsubj(Qu',-ce)
 dislocated(Qu',platine)
@@ -81,7 +83,7 @@ Annotations are similar for _qu'est-ce qui…_ or _qui est-ce qui…_
 
 ~~~ sdparse
 Qu'/PRON est/AUX -ce que/PRON tu lis ? \n What are you reading ?
-root(ROOT-0,Qu'-8)
+root(ROOT-0,Qu')
 cop(Qu',est)
 nsubj(Qu',-ce)
 advcl:cleft(Qu',lis)
@@ -90,7 +92,7 @@ obj(lis,que)
 
 ~~~ sdparse
 Qu'/PRON est/AUX -ce qui/PRON cause le hocquet ? \n What causes hiccups ?
-root(ROOT-0,Qu'-8)
+root(ROOT-0,Qu')
 cop(Qu',est)
 nsubj(Qu',-ce)
 advcl:cleft(Qu',cause)
@@ -99,11 +101,24 @@ nsubj(cause,qui)
 
 ~~~ sdparse
 Qui/PRON est/AUX -ce qui/PRON vient aujourd'hui ? \n Who comes today ?
-root(ROOT-0,Qui-8)
+root(ROOT-0,Qui)
 cop(Qui,est)
 nsubj(Qui,-ce)
 advcl:cleft(Qui,vient)
 nsubj(vient,qui)
+~~~
+
+Note that when the last _que_ does not play the role of an object, it becomes a SCONJ:
+
+~~~ sdparse
+À qui/PRON est/AUX -ce que/SCONJ tu parles ? \n Who do you talk to ?
+case(qui,À)
+root(ROOT-0,qui-1)
+cop(qui,est)
+nsubj(qui,-ce)
+advcl:cleft(qui,parles)
+nsubj(parles,tu)
+mark(parles,que)
 ~~~
 
 ## Est-ce que…
@@ -120,6 +135,8 @@ ccomp(Est,viens)
 
 
 ## Pseudo-cleft sentences
+
+:warning: outdated
 
 To stay consistent with the analysis made for the cleft sentences, and thus to show the similarities between the two types of constructions, the head of a pseudo-cleft sentence is the element that follows the _c'est_ (or _c'était_ etc.).
 This head governs the left part of the pseudo-cleft construction with a [fr-dep/dislocated:cleft]() link.
