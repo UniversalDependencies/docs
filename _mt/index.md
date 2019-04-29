@@ -37,7 +37,7 @@ udver: '2.4'
 | 11 | GEN_PRON  | genitive particle with pronoun | 35 | PRON_PERS     | personal pronoun                      |
 | 12 | HEMM      | existential verb               | 36 | PRON_PERS_NEG | personal pronoun with negative suffix |
 | 13 | INT       | interjection                   | 37 | PRON_REC      | reciprocal pronoun                    |
-| 14 | KIEN      | auxiliary                      | 38 | PRON_REF      | reflexive pronoun                     |
+| 14 | KIEN      | the copular/auxiliary verb *kien*   | 38 | PRON_REF      | reflexive pronoun                     |
 | 15 | LIL       | oblique particle               | 39 | QUAN          | quantifier                            |
 | 16 | LIL_DEF   | oblique particle with article  | 40 | VERB          | verb                                  |
 | 17 | LIL_PRON  | oblique particle with pronoun  | 41 | VERB_PSEU     | pseudoverb                            |
