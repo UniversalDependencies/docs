@@ -4,7 +4,7 @@ title:  'Italian UD'
 udver: '2'
 ---
 
-# UD for ITALIAN <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Italian <span class="flagspan"><img class="flag" src="../../flags/svg/IT.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -29,12 +29,12 @@ udver: '2'
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
   * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
   * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
-  * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want"). 
-  
+  * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want").
+
   The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
-* The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
+* The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
 * The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
-* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate. 
+* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate.
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
@@ -62,7 +62,7 @@ udver: '2'
 ## Syntax
 
 * Criteria for identifying core arguments ...
-* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
+* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
@@ -77,7 +77,7 @@ udver: '2'
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
   * [obl:agent](dep/obl-agent.md) for agents of passive verbs
   * [parataxis:appos](dep/parataxis-appos.md) appositive sentences
-  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers 
+  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers
   * [parataxis:hashtag](dep/parataxis-hashtag.md) hashtags that are not syntactically integrated into the sentence
   * [parataxis:insert](dep/parataxis-insert.md) parenthetical clauses that cannot be considered independent from the governing predicate
   * [parataxis:nsubj](dep/parataxis-nsubj.md) paratactic sentences with an implicit nsubj role with respect to the governing predicate
