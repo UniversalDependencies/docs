@@ -216,6 +216,8 @@ collections:
     output: true
   sme:
     output: true
+  sr:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
