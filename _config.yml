@@ -210,6 +210,8 @@ collections:
     output: true
   hr:
     output: true
+  hi:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
