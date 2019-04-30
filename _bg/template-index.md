@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Bambara UD'
+title:  'Bulgarian UD'
 udver: '2'
 ---
 
-# UD for Bambara <span class="flagspan"><img class="flag" src="../../flags/svg/ML.svg" /></span>
+# UD for Bulgarian <span class="flagspan"><img class="flag" src="../../flags/svg/BG.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
