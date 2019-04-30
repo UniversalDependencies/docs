@@ -1,14 +1,26 @@
 ---
 layout: relation
 title:  'obl:tmod'
-shortdef : 'temporal modifier obliques'
+shortdef : 'temporal modifier'
 ---
 
+A temporal modifier is a subtype of the [obl]() relation: if the modifier is specifying a time, it is labeled as `tmod`. 
 `obl:tmod`, used to attach nouns to predicates when they are functioning as an adverb. 
 
 
-### Examples
+### Example
 ainmneacha a bhí fairsing go maith san ardchathair céad <b>bliain</b> ó shin 'names that were popular enough in the city a hundred <b>years</b> ago
  
  
+### Example
 Tiocfaidh an Carnabhal go Gaillimh, <b>maidin</b> Dé Sathairn 'Carnaval will come to Galway (on) Saturday morning'
+
+
+### Example
+
+_daoine a mhair na milliúin <b>bliain</b> ó shin_ `people who lived millions of <b>years</b> ago'
+
+~~~ sdparse
+daoine a mhair na milliúin bliain ó shin \n people who lived the millions years from then
+obl:tmod(mhair, bliain)
+~~~
