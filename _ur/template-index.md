@@ -4,7 +4,7 @@ title:  'Urdu UD'
 udver: '2'
 ---
 
-# UD for Urdu <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span>
+# UD for Urdu <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
