@@ -75,7 +75,6 @@ udver: '2.4'
 * Modal verbs are not considered AUX in MUDT
 * UPOS PART is used for the following types:
   * *ma* (XPOS NEG)
-  * *lanqas* (XPOS FOC) when used as negator
   * XPOS FUT (*se*, *ħa*, *għad*) and XPOS PROG (*qed* and its variants)
 * The distinction between PRON and DET is syntactic: in addition to obvious candidates for DET-hood like XPOS DEF, PRON_DEM and PRON_DEM_DEF, those XPOS PRON occurring in complement to XPOS DEF are annotated as UPOS DET.
 
