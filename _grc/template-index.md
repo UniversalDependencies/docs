@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Bambara UD'
+title:  'Ancient Greek UD'
 udver: '2'
 ---
 
-# UD for Bambara <span class="flagspan"><img class="flag" src="../../flags/svg/ML.svg" /></span>
+# UD for Ancient Greek <span class="flagspan"><img class="flag" src="../../flags/svg/GR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
