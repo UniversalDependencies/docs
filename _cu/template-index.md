@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Portuguese UD'
+title:  'Old Church Slavonic UD'
 udver: '2'
 ---
 
-# UD for Portuguese <span class="flagspan"><img class="flag" src="../../flags/svg/PT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Old Church Slavonic <span class="flagspan"><img class="flag" src="../../flags/svg/MORAVA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

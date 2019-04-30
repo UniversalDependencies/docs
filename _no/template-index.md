@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Portuguese UD'
+title:  'Norwegian UD'
 udver: '2'
 ---
 
-# UD for Portuguese <span class="flagspan"><img class="flag" src="../../flags/svg/PT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/BR.svg" /></span>
+# UD for Norwegian <span class="flagspan"><img class="flag" src="../../flags/svg/NO.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
