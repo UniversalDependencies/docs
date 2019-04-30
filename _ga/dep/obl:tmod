@@ -1,0 +1,14 @@
+---
+layout: relation
+title:  'obl:tmod'
+shortdef : 'temporal modifier obliques'
+---
+
+`obl:tmod`, used to attach nouns to predicates when they are functioning as an adverb. 
+
+
+### Examples
+ainmneacha a bhí fairsing go maith san ardchathair céad <b>bliain</b> ó shin 'names that were popular enough in the city a hundred <b>years</b> ago
+ 
+ 
+Tiocfaidh an Carnabhal go Gaillimh, <b>maidin</b> Dé Sathairn 'Carnaval will come to Galway (on) Saturday morning'
