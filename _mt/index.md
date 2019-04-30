@@ -56,25 +56,25 @@ udver: '2.4'
 * MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward, except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
 
 
-| UPOS  | XPOS                                                                                                       | Comments                                                        |
-|-------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| ADJ   | ADJ                                                                                                        |                                                                 |
-| ADV   | ADV, FOC                                                                                                   |                                                                 |
-| INTJ  | INT                                                                                                        |                                                                 |
-| NOUN  | NOUN, X_ABV                                                                                                |                                                                 |
-| PROPN | NOUN_PROP                                                                                                  |                                                                 |
-| VERB  | PART_ACT, PART_PASS, VERB, VERB_PSEU                                                                       |                                                                 |
-| ADP   | PREP, PREP_DEF, GEN, GEN_DEF, LIL, LIL_DEF                                                                 |                                                                 |
-| AUX   | PRON_PERS_NEG                                                                                              |                                                                 |
-| CCONJ | CONJ_CORD                                                                                                  |                                                                 |
-| DET   | DEF, QUAN                                                                                                  |                                                                 |
-| NUM   | NUM_CRD, NUM_FRC, NUM_ORD, NUM_WHD                                                                         |                                                                 |
-| PART  | NEG                                                                                                        |                                                                 |
-| PRON  | GEN_PRON, LIL_PRON, PREP_PRON, PRON_DEM, PRON_DEM_DEF, PRON_INDEF, PRON_INT, PRON_PERS, PRON_REC, PRON_REF |                                                                 |
-| SCONJ | CONJ_SUB                                                                                                   |                                                                 |
-| PUNCT | X_PUN                                                                                                      | but see SYM below                                               |
-| SYM   | X_PUN                                                                                                      | with the exception of mathematical symbols and currency symbols |
-| X     | X_BOR                                                                                                      |                                                                 |
+| UPOS  | XPOS                                                                                                       | Comments                                                                   |
+|-------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ADJ   | ADJ                                                                                                        |                                                                            |
+| ADV   | ADV, FOC                                                                                                   |                                                                            |
+| INTJ  | INT                                                                                                        |                                                                            |
+| NOUN  | NOUN, X_ABV                                                                                                |                                                                            |
+| PROPN | NOUN_PROP                                                                                                  |                                                                            |
+| VERB  | HEMM, PART_ACT, PART_PASS, VERB, VERB_PSEU                                                                 |                                                                            |
+| ADP   | PREP, PREP_DEF, GEN, GEN_DEF, LIL, LIL_DEF                                                                 |                                                                            |
+| AUX   | KIEN, FUT, PROG, PRON_PERS_NEG                                                                             | see the note below the table                                               |
+| CCONJ | CONJ_CORD                                                                                                  |                                                                            |
+| DET   | DEF, QUAN                                                                                                  |                                                                            |
+| NUM   | NUM_CRD, NUM_FRC, NUM_ORD, NUM_WHD                                                                         | including higher-order numbers normally declined as nouns such as *miljun* |
+| PART  | NEG                                                                                                        |                                                                            |
+| PRON  | GEN_PRON, LIL_PRON, PREP_PRON, PRON_DEM, PRON_DEM_DEF, PRON_INDEF, PRON_INT, PRON_PERS, PRON_REC, PRON_REF |                                                                            |
+| SCONJ | CONJ_SUB                                                                                                   |                                                                            |
+| PUNCT | X_PUN                                                                                                      | but see SYM below                                                          |
+| SYM   | X_PUN                                                                                                      | with the exception of mathematical symbols and currency symbols            |
+| X     | X_BOR                                                                                                      |                                                                            |
 * The following are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
