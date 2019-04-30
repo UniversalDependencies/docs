@@ -208,6 +208,8 @@ collections:
     output: true
   bxr:
     output: true
+  hr:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
