@@ -224,6 +224,8 @@ collections:
     output: true
   ur:
     output: true
+  ug:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
