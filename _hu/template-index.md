@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Hindi-English UD'
+title:  'Hungarian UD'
 udver: '2'
 ---
 
-# UD for Hindi-English Code Switching <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/GB.svg" /></span>
+# UD for Hungarian <span class="flagspan"><img class="flag" src="../../flags/svg/HU.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
