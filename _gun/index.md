@@ -6,6 +6,12 @@ udver: '2'
 
 # UD for Mbya Guarani
 
+This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at gpythomas.com/Mbya_Treebank_Guidelines.pdf and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
+
+These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
+
+	Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics. 
+
 ## Tokenization and Word Segmentation
 
 * Words are delimited by whitespace character.
@@ -87,7 +93,7 @@ udver: '2'
 * Verbs are inflected for person, number and clusivity:
 
 	* Person has four possible values: 1, 2, 3, and 12. 
-	* Person=12 is used to capture portmanteau inflection, which cross-reference a first person subject and a second person object.
+	* Person=12 indicates portmanteau inflection, which cross-reference a first person subject and a second person object.
 	* Number has two possible values: Sing and Plur.
 	* Clusivity has two possible values, In and Ex.
 
@@ -105,7 +111,7 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Subjects are noun phrases without postpositions that are the sole argument of intransitive verbs, or the argument of transitive verbs that is cross-referenced with active agreement markers.
+* Subjects are noun phrases without postpositions that are the sole cross-referenced argument of intransitive verbs, or the argument of transitive verbs that is cross-referenced with active agreement markers.
 
 * Objects are noun phrases without postpositions that are cross-referenced on transitive verbs with inactive agreement markers. They may be followed by a differential object marker.
 
@@ -113,20 +119,27 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* Mbyá Guaraní is an omnipredicate language. Nouns and other non-verbal open word classes can be used predicatively without copula.
+* Mbyá Guaraní is an omnipredicative language. Nouns and other non-verbal open word classes can be used predicatively without copula.
+
+### Language Specific Syntactic Relations
+
+* There are 6 relation subtypes in UD Mbya_Guarani:
+
+| Relation			|	Description																						|
+|-------------------|---------------------------------------------------------------------------------------------------|
+| advmod:sentcon	| Adverbial modifier used as sentence initial discourse connective									|
+| compound:svc		| Used for a variety of complex predicates, notably serial verb and postposed verb constructions	|
+| discourse:q		| Used for question particles, whose head can be verbal or nominal									|
+| dislocated:cleft	| Used for cleft constructions that lack a copula													|
+| obl:sentcon		| Nominal modifier used as a sentence initial discourse connective									|
+| parataxis:rep		| Used to relate a reported speech form to a verb of speech report									|
 
 ---
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [2](../treebanks/Mbya_Guarani-comparison.html) LANGUAGE UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [Mbya_Guarani-Dooley](../treebanks/gun_dooley/index.html)
+  * [Mbya_Guarani-Thomas](../treebanks/gun_thomas/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
