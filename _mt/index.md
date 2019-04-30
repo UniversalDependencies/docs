@@ -56,26 +56,34 @@ udver: '2.4'
 * MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward, except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
 
 
-| Open class words | Closed class words | Other |
-|------------------|--------------------|-------|
-| ADJ              | ADP                | PUNCT |
-| ADV              | AUX                | SYM   |
-| INTJ             | CCONJ              | X     |
-| NOUN             | DET                |       |
-| PROPN            | NUM                |       |
-| VERB             | PART               |       |
-|                  | PRON               |       |
-|                  | SCONJ              |       |
-* Five types are considered UPOS AUX in MUDT:
+| UPOS  | XPOS                                                                                                       | Comments                                                        |
+|-------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| ADJ   | ADJ                                                                                                        |                                                                 |
+| ADV   | ADV, FOC                                                                                                   |                                                                 |
+| INTJ  | INT                                                                                                        |                                                                 |
+| NOUN  | NOUN, X_ABV                                                                                                |                                                                 |
+| PROPN | NOUN_PROP                                                                                                  |                                                                 |
+| VERB  | PART_ACT, PART_PASS, VERB, VERB_PSEU                                                                       |                                                                 |
+| ADP   | PREP, PREP_DEF, GEN, GEN_DEF, LIL, LIL_DEF                                                                 |                                                                 |
+| AUX   | PRON_PERS_NEG                                                                                              |                                                                 |
+| CCONJ | CONJ_CORD                                                                                                  |                                                                 |
+| DET   | DEF, QUAN                                                                                                  |                                                                 |
+| NUM   | NUM_CRD, NUM_FRC, NUM_ORD, NUM_WHD                                                                         |                                                                 |
+| PART  | NEG                                                                                                        |                                                                 |
+| PRON  | GEN_PRON, LIL_PRON, PREP_PRON, PRON_DEM, PRON_DEM_DEF, PRON_INDEF, PRON_INT, PRON_PERS, PRON_REC, PRON_REF |                                                                 |
+| SCONJ | CONJ_SUB                                                                                                   |                                                                 |
+| PUNCT | X_PUN                                                                                                      | but see SYM below                                               |
+| SYM   | X_PUN                                                                                                      | with the exception of mathematical symbols and currency symbols |
+| X     | X_BOR                                                                                                      |                                                                 |
+* The following are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
   * XPOS VERB_PSEU *tantx* (this one only provisionally so pending further study)
   * XPOS PRON_PERS_NEG and XPOS PRON_PERS when preceded by XPOS NEG
   * XPOS VERB *ġa* used as the passive auxiliary
-* Modal verbs are not considered AUX in MUDT
-* UPOS PART is used for the following types:
-  * *ma* (XPOS NEG)
   * XPOS FUT (*se*, *ħa*, *għad*) and XPOS PROG (*qed* and its variants)
+* Modal verbs are not considered AUX in MUDT
+* UPOS PART is only used for *ma* (XPOS NEG)  
 * The distinction between PRON and DET is primarily semantic; consequently, only XPOS DEF and XPOS QUAN are considered DET in the UPOS sense.
 
 
