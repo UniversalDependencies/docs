@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Classical Chinese UD'
+title:  'Chinese UD'
 udver: '2'
 ---
 
-# UD for Classical Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/CN-QING.svg" /></span>
+# UD for Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/CN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
