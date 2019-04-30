@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Karelian UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Karelian <span class="flagspan"><img class="flag" src="../../flags/svg/RU-KR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
