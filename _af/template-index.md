@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Akkadian UD'
+title:  'Afrikaans UD'
 udver: '2'
 ---
 
-# UD for Akkadian <span class="flagspan"><img class="flag" src="../../flags/svg/IQ.svg" /></span>
+# UD for Afrikaans <span class="flagspan"><img class="flag" src="../../flags/svg/ZA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
