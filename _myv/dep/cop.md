@@ -8,7 +8,7 @@ udver: '2'
 A copula is the relation between the complement of a copular verb and
 the copular verb. Copular heads are avoided when possible.
 
-In Erzya the copula is represented by the independent copulas ульнемс (preterit) and улемс (non-past), and the dependent morphology -оль (both preterit and non-past).
+In Erzya the copula is represented by the independent copulas ульнемс (preterit) and улемс (non-past), and the dependent morphology -оль (both preterit and non-past). In locative and existential predication there is also a negative `арась'.
 
 ~~~ sdparse
 Кечай вадря ульнесь цёрынесь . \n Kechai good was that_boy .
