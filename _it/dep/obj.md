@@ -2,6 +2,7 @@
 layout: relation
 title: 'dobj'
 shortdef: 'direct object'
+udver: '2'
 ---
 
 The direct object of a verb is the second most core argument of a verb after the subject. Typically, it is the noun phrase that denotes the entity acted upon or which undergoes a change of state or motion (the proto-patient). 
