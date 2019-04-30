@@ -4,19 +4,21 @@ title:  'Mbya Guarani UD'
 udver: '2'
 ---
 
-# UD for Mbya Guarani
+# UD for Mbyá Guaraní
 
 This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at gpythomas.com/Mbya_Treebank_Guidelines.pdf and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
 
-These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
+These guidelines are very much a work in progress. They are meant to adapt [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
 
 	Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics. 
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited by whitespace character.
+* In general, words are delimited by white spaces or punctuation, Whitespaces or punctuation may appear in some abbreviations or numeric expressions.
 
-* Glottal stops are commonly represented by the apostrophe, which can therefore be part of a word. Reduplicated units are joined to their host by a hyphen.
+* In order to capture interactions between syntax and morphology, clause level nominalizers (including the suffix _-a_) and adverbializers (including the switch reference markers _vy_ and _ramo_) have been represented as syntactic words.
+
+* Glottal stops are represented by the apostrophe, which can therefore be part of a word. Reduplicated units are joined to their host by a hyphen.
 
 ## Morphology
 
@@ -81,7 +83,7 @@ These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.or
 |	vi:a		|	VERB	| intransitive verb: active						|
 |	vi:i		|	VERB	| intransitive verb: inactive					|
 |	vt			|	VERB	| transitive verb								|
-|	vd			|	VERB	| ditransitive verb: active						|
+|	vd			|	VERB	| ditransitive verb								|
 |	vd:a		|	VERB	| indirect transitive verb: active				|
 |	vd:i		|	VERB	| indirect transitive verb: inactive			|
 |	vpos		|	VERB	| postposed verb								|
@@ -93,7 +95,7 @@ These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.or
 * Verbs are inflected for person, number and clusivity:
 
 	* Person has four possible values: 1, 2, 3, and 12. 
-	* Person=12 indicates portmanteau inflection, which cross-reference a first person subject and a second person object.
+	* Person=12 indicates portmanteau inflection, which cross-references a first person subject and a second person object.
 	* Number has two possible values: Sing and Plur.
 	* Clusivity has two possible values, In and Ex.
 
@@ -111,7 +113,7 @@ These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.or
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Subjects are noun phrases without postpositions that are the sole cross-referenced argument of intransitive verbs, or the argument of transitive verbs that is cross-referenced with active agreement markers.
+* Subjects are noun phrases without postpositions that are the sole cross-referenced argument of intransitive verbs, or the argument of transitive verbs that is cross-referenced with an active agreement marker.
 
 * Objects are noun phrases without postpositions that are cross-referenced on transitive verbs with inactive agreement markers. They may be followed by a differential object marker.
 
@@ -119,7 +121,7 @@ These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.or
 
 ### Non-verbal Clauses
 
-* Mbyá Guaraní is an omnipredicative language. Nouns and other non-verbal open word classes can be used predicatively without copula.
+* Mbyá Guaraní is an omnipredicative language. Nouns and other non-verbal open word classes can be used predicatively without copula. In certain environments, non-verbal predicates are introduced by the copula _iko_.
 
 ### Language Specific Syntactic Relations
 
@@ -132,7 +134,7 @@ These guidelines are an attempt at adapting [Dooley's (2015)](https://www.sil.or
 | discourse:q		| Used for question particles, whose head can be verbal or nominal									|
 | dislocated:cleft	| Used for cleft constructions that lack a copula													|
 | obl:sentcon		| Nominal modifier used as a sentence initial discourse connective									|
-| parataxis:rep		| Used to relate a reported speech form to a verb of speech report									|
+| parataxis:rep		| Used to relate a reported speech form to a verb of speech report analyzed as its head				|
 
 ---
 
