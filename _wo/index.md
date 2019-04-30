@@ -17,11 +17,27 @@ udver: '2'
 
 * Wolof uses all 17 universal POS categories, including particles (PART). Most common usage of PART is for infinitive particles `a` (to).
 * Wolof uses a wide range of auxiliary verb (AUX), including:
-	* *di*: imperfective marker
 	* *a*: subject focus marker
+	* *avoir*: french auxiliary *avoir* contained in some foreign material
+	* *bu*: negative imperative marker	
 	* *da*: verb focus marker
+	* *di*: imperfective marker
+	* *doon*: copular verb
+	* *être*: french auxiliary *être* contained in some foreign material	
 	* *la*: non-subject focus marker
 	* *na*: neutral (i.e. non-focus) and perfective marker
+	* *nekk*: copular verb	
+	* *ngi*: progressive marker 
+	* *woon*: past tense marker 	
+* The AUX category also includes copulas. Lemmas for copula are
+	* *a*: is used in presentative constructions. 	
+	* *di*: is used in identificational sentences.
+	* *doon*: is used as copula.
+	* *être*: is used as a copula (in French foreign material)
+	* *la*: is used in predicational sentences
+	* *nekk*: is used as copula.
+	* *ngi*: is used in presentative constructions.
+	* *woon*: is in elliptic copular constructions.	
 * The tag [DET]() is used for definite/indefinite articles, quantifiers and determiner words used with a determiner function;
   they can precede or follow the noun they quantify.
   The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession. In addition, possessive, reflexive, relative, interrogative, demonstrative, and indefinite pronouns are also grouped under the [PRON]() tag.
