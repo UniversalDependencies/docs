@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Tagalog UD'
+title:  'Slovenian UD'
 udver: '2'
 ---
 
-# UD for Tagalog <span class="flagspan"><img class="flag" src="../../flags/svg/PH.svg" /></span>
+# UD for Slovenian <span class="flagspan"><img class="flag" src="../../flags/svg/SI.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

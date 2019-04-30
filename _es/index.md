@@ -8,7 +8,7 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-# UD for Spanish <span class="flagspan"><img class="flag" src="../../flags/svg/ES.svg" /></span>
+# UD for Spanish <span class="flagspan"><img class="flag" src="../../flags/svg/ES.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/MX.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CO.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CL.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/PE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

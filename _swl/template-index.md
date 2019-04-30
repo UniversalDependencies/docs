@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Tagalog UD'
+title:  'Swedish Sign Language UD'
 udver: '2'
 ---
 
-# UD for Tagalog <span class="flagspan"><img class="flag" src="../../flags/svg/PH.svg" /></span>
+# UD for Swedish Sign Language <span class="flagspan"><img class="flag" src="../../flags/svg/SE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
