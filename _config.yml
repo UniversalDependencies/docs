@@ -206,6 +206,8 @@ collections:
     output: true
   am:
     output: true
+  bxr:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
