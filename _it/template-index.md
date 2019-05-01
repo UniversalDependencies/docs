@@ -93,14 +93,17 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [five](../treebanks/it-comparison.html) Italian UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [ISDT](../treebanks/it_isdt/index.html)
+  * [PARTUT](../treebanks/it_partut/index.html)
+  * [POSTWITA](../treebanks/it_postwita/index.html)
+  * [PUD](../treebanks/it_pud/index.html)
+  * [VIT](../treebanks/it_vit/index.html)
 
----
+<!-----
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
 from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
 and the treebank code in the file name.
 
----
+--->
