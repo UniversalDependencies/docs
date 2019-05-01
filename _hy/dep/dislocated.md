@@ -12,22 +12,6 @@ However, this relation is also used generally for topic elements that otherwise 
 The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
 spoken languages.
 
-~~~ conllu
-1	«	«	PUNCT	_	_	10	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Համահարթ	համահարթ	ADJ	_	_	10	dislocated	_	Translit=hamahart’|LTranslit=hamahart’|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-4	թե	թե	CCONJ	_	_	5	cc	_	Translit=t’e|LTranslit=t’e
-5	պրոգրեսիվ	պրոգրեսիվ	ADJ	_	Degree=Pos	2	conj	_	Translit=progresiv|LTranslit=progresiv|SpaceAfter=No
-6	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
-7	այդ	այդ	DET	_	Distance=Med|PronType=Dem	8	det	_	Translit=ayd|LTranslit=ayd
-8	բանավեճը	բանավեճ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Translit=banaveč̣ë|LTranslit=banaveč̣
-9	միշտ	միշտ	ADV	_	_	10	advmod	_	Translit=mišt|LTranslit=mišt
-10	եղել	լինել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġel|LTranslit=linel
-11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-12	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
-
-~~~
-
 ~~~ sdparse
 Համահարթ , թե պրոգրեսիվ . այդ բանավեճը միշտ եղել է ։
 dislocated(եղել, Համահարթ)
