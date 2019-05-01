@@ -11,7 +11,7 @@ The specializations is used in PoSTWITA for Twitter hashtags.
 parataxis:hashtag(Piovono, #notizie) 
 ~~~
 
-However, whenever they are syntactically integrated into the sentence we consider these elements for the actual grammatical value they’gain’, since with their removal the sentence may turn out to be ungrammatical.
+However, whenever they are syntactically integrated into the sentence we consider these elements for the actual grammatical value they ’gain’, since with their removal the sentence may turn out to be ungrammatical.
 ~~~ sdparse
 #Ferrara critica #Grillo
 nsubj(critica, #Ferrara)
