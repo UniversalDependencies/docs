@@ -11,7 +11,7 @@ udver: '2'
 ### Definition
 
 The only truly auxiliary verb in Armenian is _եմ&nbsp;_ “be”,
-and its variants (with separate lemma) _լինել (լինեմ)&nbsp;_ “be repeatedly / habitually” and _կամ&nbsp;_ “be, exist”.
+and its variants (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually” and _կամ&nbsp;_ “be, exist”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
 
@@ -52,7 +52,7 @@ Note, that in Armenian copulas are also tagged `AUX` and the definition of copul
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
 Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։&nbsp;_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
 
-Note, that finite form of existentials _կամ&nbsp;_ and _ունենալ (ունեմ)&nbsp;_ in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written a single row since yesterday.”) are also tagged `AUX` (so-called “experiential forms”, mainly negativ or interrogative).
+Note, that finite form of existentials _կամ&nbsp;_ and _ունեմ (ունենալ)&nbsp;_ in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written a single row since yesterday.”) are also tagged `AUX` (so-called “experiential forms”, mainly negativ or interrogative).
 
 ### Modal verbs are not auxiliaries
 
