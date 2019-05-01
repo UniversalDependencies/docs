@@ -82,11 +82,11 @@ Note, that we treat a closed set of postpositions (traditionally known as “imp
 ~~~ sdparse
 Մոտովս/ADP[AdpType=Post|Case=Ins|Number[psor]=Sing|Person[psor]=1] անցան/VERB[Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid] երկու/NUM[NumForm=Word|NumType=Card] սիլուետներ/NOUN[Animacy=Inan|Case=Nom|Definite=Ind|Number=Plur] ։/PUNCT \n Two silhouettes passed by-me .
 nsubj(անցան, սիլուետներ)
-advmod(անցան, Մոտովս)
+obl(անցան, Մոտովս)
 nummod(սիլուետներ, երկու)
 punct(անցան, ։)
 nsubj(passed, silhouettes)
-advmod(passed, by-me)
+obl(passed, by-me)
 nummod(silhouettes, Two)
 punct(passed, .)
 ~~~
