@@ -66,30 +66,22 @@ Italian core arguments are the following:
 * relative order of core arguments: although the linear order of elements in a sentence is not rigidly defined, Italian *nsubj* and *obj* relations show preferences about their position with respect to the verb. Italian is a SVO language, which means that *nsubj* typically occurs in pre-verbal position, while *obj* canonical position is usually post-verbal. 
 * _nsubj_ agrees in number and person with the governing verb. Consider as an example the sentence _Al balcone si affacciano donne anziane_ where the nominal subject is represented as *nsubj(affacciano, donne)*. Note that the *nsubj* role is only applied to semantic arguments of a predicate. When there is an empty argument in a grammatical subject position (sometimes called a pleonastic or expletive), it is labeled as an *expl* subtype, *expl:impers* which is specific for the impersonal use of clitic pronouns (used as an undefined subject); e.g. _Si può procedere_ expl:impers(procedere, si). 
 Consider also that Italian is a pro-drop language, thus subjects can be omitted: the features of the subject can be inferred from the inflectional morphological features associated with the verb.  
-* _iobj_ refers to the indirect object of a verb only when realized as a dative pronominal complement. In Italian *iobj* only appears in the form of a clitic pronoun, as in *dovranno cercarsi un lavoro* *iobj(cercare,si)*. Otherwise, the indirect object is realized as a prepositional phrase, which it is labeled as *obl* (e.g.  *Dare a qualcuno qualcosa*, "give something to someone").
+* _iobj_ refers to the indirect object of a verb only when realized as a dative pronominal clitic complement. In Italian *iobj* only appears in the form of a clitic pronoun, as in *dovranno cercarsi un lavoro* *iobj(cercare,si)*. Otherwise, the indirect object is realized as a prepositional phrase, which it is labeled as *obl* (e.g.  *Dare a qualcuno qualcosa*, "give something to someone").
 
 * Dependency analysis of clitic Pronouns
 Clitics are a subtype of the class of personal pronouns, differing from tonic personal pronouns in many respects. While tonic personal and clitic pronouns are rather uniform in their functional and referential characteristics, they are clearly differentiated on the morphological and syntactic levels. In Italian, the dependency relations used to annotate clitics are *obj*, *iobj* (see above), *expl*, *expl:impers* (see above) and *expl:pass*.
 * Whenever possible, clitic pronouns are assigned a label that reflects their grammatical function. For this reason, if the pronoun appears in a reflexive construction of a transitive or intransitive active verb, then it’s treated as *dobj* or *iobj* (see above). 
   * the *dobj* relation is used to mark real reflexive constructions where the clitic pronoun is a direct object of the verb, e.g. *la bambina si lava* "the girl washes herself" *dobj(lavare,si).
-  * In Italian,  clitics can also be used to mark passive and impersonal constructions: see the relation subtypes *expl:pass* and *expl:impers*.
-  * expl: for expletive or pleonastic nominals (nominal core arguments of a predicate but which do not themselves satisfy any of the semantic roles of the predicate), as in pronominal verbs where clitics do not have a semantic role, such as *rompersi* or *vergognarsi*
-  . E.g. *Il proprietario non può opporsi* "the owner cannot oppose hi or *sedersi per terra*
-expl(oppor,si)
-expl(seder,si)
+  * clitics can also be used to mark passive and impersonal constructions: see the relation subtypes *expl:pass* and *expl:impers*.
+  * *expl* is used for expletive or pleonastic nominals (nominal core arguments of a predicate but which do not themselves satisfy any of the semantic roles of the predicate), as in pronominal verbs where clitics do not have a semantic role, such as *rompersi* "break" or *vergognarsi* "feel ashamed".
 
-This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective) is the governor. In Italian, this relation is used only with clitic pronouns in the following cases:
+* Copula
+The only copular verb for Italian is the verb *essere* "to be". The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses, as detailed below.
+  * Equation
 
-Pronouns in pronominal verbs which do not have a semantic role, such as si in vergognarsi.
-
-
-Copula
-The only copula verb for Italian is the verb “essere” and the cop relation is used between the complement of a copular verb and the copula verb. The cop relation is used in all cases of: 
-
-•	Equation
-es: Loro sono amici
+*Loro sono amici* "they are friends" 
 cop(amici,sono)
-nsubj(amici,Loro)
+nsubj(amici,loro)
 
 •	Attribution 
 es: I cinque sarebbero tutti immigrati clandestini
@@ -126,8 +118,6 @@ There are cases when the verb essere is not marked as copula, thus becoming the 
 	ccomp(è,esplodendo)
 
 
-* Criteria for identifying core arguments ...
-* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
