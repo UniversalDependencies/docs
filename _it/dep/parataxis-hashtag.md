@@ -5,7 +5,7 @@ shortdef: 'paratactic hashtag'
 udver: '2'
 ---
 
-The specializations is used in PoSTWITA for Twitter hashtags. 
+The specialization is used in PoSTWITA for Twitter hashtags. 
 ~~~ sdparse
 #notizie Piovono dollari su Blatter
 parataxis:hashtag(Piovono, #notizie) 
