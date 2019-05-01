@@ -15,23 +15,23 @@ udver: '2'
   * multi-word tokens are used for the following cases: 1) prepositions combined with the definite article, e.g. *nella* “in the” (feminine), *del* “of the” (masculine); 2) clitic pronouns (both accusative and dative) appear as enclitics attached to the verb when used in imperative or non-finite moods, e.g. *dammelo* “give-to me-it”, *fallo* “do-it”, *mangiandolo* “eating-it”, *leggerlo* “to read-it”.
 
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+ 
 
 ## Morphology
 
 ### Tags
 
 * Italian uses all 17 universal tags.
-* The use of [PART](pos/PART.md) is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
-* Auxiliaries ([AUX](pos/AUX_.md)) can be grouped into five types:
-  * the copula *essere* (be).
+* The use of [PART](pos/PART.md) is limited to possessive markers in English names: [en] ‘s. Examples: *Wendy 's*, *McDonald 's*.
+* Auxiliaries ([AUX](pos/AUX_.md)) can be classified into five types:
+
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
   * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
   * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
   * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want").
+
+
+  * the copula *essere* (be).
 
   The language-specific part-of-speech tag is VM for modal verb, VA for other auxiliary verbs and V for copulas.
 * The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
