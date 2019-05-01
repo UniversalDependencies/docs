@@ -18,11 +18,21 @@ udver: '2'
 ### Tags
 
 * Hindi uses all 17 universal POS categories, including particles ([PART]()).
-* Hindi has the following auxiliary verbs ([AUX]()):
+* Hindi has the following auxiliary verbs ([AUX]()): <!-- In Hindi by Rupert Snell, see also Appendix 7 on pages 258, 259. -->
   * है _hai_ and था _thā_ are present and past equivalents of “to be”.
     They are used as copulas and in periphrastic tenses.
   * रह _raha_ (“to stay”) for the progressive aspect (with the stem of the main verb and the auxiliary ह/था).
+  * कर _kara_ (“to do”) for the habitual aspect (with the perfective participle of the main verb).
   * जा _jā_ (“to go”) for the passive (with the perfective participle of the main verb).
+  * Modal auxiliaries:
+    * सक _saka_ (“be able, can”) <!-- Page 153. -->
+    * पा _pā_ (“to manage”) <!-- Page 153. -->
+    * चाहिए _cāhie_ (“needed, should, ought to”) <!-- Page 91, 164. -->
+    * हो _ho_ (“to have to”) <!-- Page 165. -->
+    * पड़ _paṛa_ (“must”) <!-- Pages 165, 166. -->
+  * Phase verbs:
+    * लग _laga_ (“to start”) <!-- Page 171 is mostly about other meaning, to strike, to like. -->
+    * चुक _cuka_ (“to finish”) <!-- Page 153. -->
   * The current data treats as auxiliaries also some verbs that regularly appear in compound verbs
     as the semantically less salient element. Since compound verbs are not periphrastic tense/aspect/voice
     forms, these verbs do not fit well in the UD definition of auxiliaries, and they should be given
@@ -31,6 +41,9 @@ udver: '2'
     * जा _jā_ (“to go”) (note that this verb can also be used as real auxiliary in passives)
     * ले _le_ (“to take”)
     * दे _de_ (“to give”)
+    * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
+    * पड़ _paṛa_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
+    * आ _ā_ (“to come”)
 
 ### Features
 
