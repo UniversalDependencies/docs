@@ -40,18 +40,22 @@ Note that the dislocated relation is also used for "fronted" apposition, which i
 Նրանց ՝ ծերերին ու երեխաներին փրկեք առաջինը ։ \n Them elderly and children save first .
 obj(փրկեք, Նրանց)
 obj(save, Them)
-appos(ծերերին, Նրանց)
-appos(elderly, Them)
-conj(երեխաներին,ծերերին)
-conj(children, elderly)
+appos(Նրանց, ծերերին)
+appos(Them, elderly)
+conj(ծերերին, երեխաներին)
+conj(elderly, children)
+cc(երեխաներին, ու)
+cc(children, and)
 ~~~ 
 
 ~~~ sdparse
-Ծերերին ու երեխաներին , նրանց փրկեք առաջինը ։ \n Elderly and and children save them first .
+Ծերերին ու երեխաներին , նրանց փրկեք առաջինը ։ \n Elderly and children save them first .
 obj(փրկեք, նրանց)
 obj(save, them)
 dilocated(փրկեք, Ծերերին)
 dilocated(save, Elderly)
-conj(երեխաներին, Ծերերին)
-conj(children, Elderly)
+conj(Ծերերին, երեխաներին)
+conj(Elderly, children)
+cc(երեխաներին, ու)
+cc(children, and)
 ~~~
