@@ -29,18 +29,21 @@ udver: '2'
   * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
   * auxiliaries used for the progressive form, represented by _stare_ followed by a gerund, e.g. _sto arrivando_ "I am coming";
   * modal verbs, e.g. _potere_ "can", _dovere_ "must", _volere_ "want". 
-  The language-specific part-of-speech tag is VM for modal verb, VA for other auxiliary verbs and V for copulas.
+  
+  The language-specific part-of-speech tag is VM for modal verbs, VA for the auxiliary verbs and V for copulas.
 
-* The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
-* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
-* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](pos/ADJ.md), when they do not introduce a subordinate.
+* The tag [DET](pos/DET.md) is used for determiners that modify nouns or noun phrases and express the reference of the noun phrase in context. In Italian this tag is used for: articles, predeterminers (e.g. _<b>Tutti</b> gli amici_ "<b>All</b> the friends") and different types of adjectives playing the determiner function (i.e. possessive _mio padre_ "my father", demonstrative _questo libro_ "this book", interrogative , indefinite, exclamative, relative _che libro_ "which book"). Like adjectives, Italian determiners typically agree with the noun they modify for gender and number, e.g. _questo libro_ “this book” (masculin singular), _i libri_ “the books” (masculin plural), _la carta_ “the paper” (feminine singular). 
+
+  In Italian, usually a nominal allows for one DET modifier only, with the following exceptions:
+  * predeterminers;
+  * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
+
+* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
+* Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
+
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -48,15 +51,10 @@ udver: '2'
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Reflex.md) applies to pronouns. The feature [Clitic](feat/Clitic.md) is language specific and marks clitic pronouns.
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may be further specified by the [PronType](feat/PronType.md) feature. The boolean feature [Reflex](feat/Reflex.md) applies to reflexive pronouns. The value [Clitic](feat/Clitic.md) is used for marking clitic pronouns; 
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
