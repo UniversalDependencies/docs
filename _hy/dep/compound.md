@@ -34,7 +34,7 @@ compound(երկար, բարակ)
 compound(long, thin)
 ~~~
 
-- for fraction and range [numbers](NumType) in contrast with [flat](). The leftmost numeral is the head, the other numerals are attached as its modifiers:
+- for fraction and some range [numbers](NumType) in contrast with [flat](). The leftmost numeral is the head, the other numerals are attached as its modifiers:
 
 ~~~ sdparse
 երեք քառորդ բաժին հաց \n three quarters pieces of-bread
@@ -47,17 +47,13 @@ compound(three, quarters)
 ~~~
 
 ~~~ sdparse
-չորս - հինգ ժամ \n four - five hours
-compound(չորս, հինգ)
-compound(four, five)
-punct(հինգ, --2)
-punct(five, --7)
-nummod(ժամ, չորս)
-nummod(hours, four)
+չորս-հինգ[NUM|NumForm=Word|NumType=Range] ժամ[NOUN] \n four-five hours
+nummod(ժամ, չորս-հինգ)
+nummod(hours, four-five)
 ~~~
 
 ~~~ sdparse
-տասից տասնհինգ ժամ \n from-ten to-fifteen hours
+տասից[NOUN|Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing|NumForm=Word] տասնհինգ[NOUN|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|NumForm=Word] ժամ[NOUN] \n from-ten to-fifteen hours
 compound(տասից, տասնհինգ)
 compound(from-ten, to-fifteen)
 nummod(ժամ, տասից)
