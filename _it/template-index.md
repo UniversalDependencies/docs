@@ -78,41 +78,24 @@ Copula
 * The only copular verb for Italian is the verb *essere* "to be". It is used in equational, attributional, locative, possessive and benefactory nonverbal clauses, as detailed below.
 
   * Equation
-*Loro sono amici* "they are friends" 
+*Loro sono amici* "they are friends" > cop(amici,sono) nsubj(amici,loro)
+  * Attribution 
+*I cinque sarebbero tutti immigrati clandestini* > cop(immigrati,sarebbero) nsubj(immigrati,cinque)
+  * Location
+*Anna è a Roma* "Anna is in Rome" > cop(Roma,è) nsubj(Roma,Anna)
+  * Possession
+  *La scultura è del pachistano Hamad Butt* > cop(pachistano,è) nsubj(pachistano,scultura)
+  * Benefactory  
+  *Il libro è per Anna* "The book is for Anna" > cop(Anna,è) nsubj(Anna,libro)
 
-cop(amici,sono) 
-nsubj(amici,loro)
-
-•	Attribution 
-es: I cinque sarebbero tutti immigrati clandestini
-cop(immigrati,sarebbero)
-nsubj(immigrati,cinque)
-
-•	Location
-es: Anna è a Roma
-cop(Roma,è)
-nsubj(Roma,Anna)
-
-•	Possession
-es: ROOT La scultura è di il pachistano Hamad Butt
-cop(pachistano,è)
-nsubj(pachistano,scultura)
-
-•	Benefaction 
-es: Il libro è per Anna
-cop(Anna,è)
-nsubj(Anna,libro)
-
-There are cases when the verb essere is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted when:
-
-•	Presentational or existential constructions
-	es: ROOT Vi sono migliaia di casi di questo genere
+* There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted when:
+  * Presentational or existential constructions
+	E.g. *Vi sono migliaia di casi di questo genere*
 	expl(sono,Vi)
 	nsubj(sono,migliaia)
 	root(ROOT,sono)
-  
-•	the argument of the verb essere is a subordinate clause
-	es: ROOT La verità è che la spesa sanitaria sta esplodendo
+  * the argument of the verb essere is a subordinate clause
+	E.g. *La verità è che la spesa sanitaria sta esplodendo* 
 	nsubj(è,verità)
 	root(ROOT,è)
 	ccomp(è,esplodendo)
