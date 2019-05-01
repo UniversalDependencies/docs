@@ -8,10 +8,12 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are generally delimited by whitespace or punctuation. Exceptions:
-  * Numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, or 1/1/1970, *11:00*, *2,5%*, *2-3*.
-  * Abbreviations are treated as single words and may contain punctuation: *U.S.A.*.
-* Multiword tokens are not used.
+* Words are delimited by whitespaces, with some exceptions reported below:
+  * in Italian orthography, punctuation marks are usually attached to a neighboring word (typically the preceding one). They are tokenized as separate tokens with the only exception of abbreviations and numerical expressions (see below);
+  * numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, or *1/1/1970*, *11:00*, *2,5%*, *2-3*;
+  * abbreviations are treated as single words and may contain punctuation, both word-internal (e.g. *U.S.A.*) and word-final (*etc.*);
+  * multi-word tokens are used for the following cases: 1) prepositions combined with the definite article, e.g. *nella* “in the” (feminine), *del* “of the” (masculine); 2) clitic pronouns (both accusative and dative) appear as enclitics attached to the verb when used in imperative or non-finite moods, e.g. *dammelo* “give-to me-it”, *fallo* “do-it”, *mangiandolo* “eating-it”, *leggerlo* “to read-it”.
+
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
