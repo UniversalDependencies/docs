@@ -4,44 +4,46 @@ title:  'Italian UD'
 udver: '2'
 ---
 
-# UD for ITALIAN <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Italian <span class="flagspan"><img class="flag" src="../../flags/svg/IT.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
-* Words are generally delimited by whitespace or punctuation. Exceptions:
-  * Numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, or 1/1/1970, *11:00*, *2,5%*, *2-3*.
-  * Abbreviations are treated as single words and may contain punctuation: *U.S.A.*.
-* Multiword tokens are not used.
+* Words are delimited by whitespaces, with some exceptions reported below:
+  * in Italian orthography, punctuation marks are usually attached to a neighboring word (typically the preceding one). They are tokenized as separate tokens with the only exception of abbreviations and numerical expressions (see below);
+  * numerical expressions (including dates) are treated as single words and may contain punctuation: *1.1.1970*, or *1/1/1970*, *11:00*, *2,5%*, *2-3*;
+  * abbreviations are treated as single words and may contain punctuation, both word-internal (e.g. *U.S.A.*) and word-final (*etc.*);
+  * multi-word tokens are used for the following cases: 1) prepositions combined with the definite article, e.g. *nella* “in the” (feminine), *del* “of the” (masculine); 2) clitic pronouns (both accusative and dative) appear as enclitics attached to the verb when used in imperative or non-finite moods, e.g. *dammelo* “give-to me-it”, *fallo* “do-it”, *mangiandolo* “eating-it”, *leggerlo* “to read-it”.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
----
+ 
 
 ## Morphology
 
 ### Tags
 
 * Italian uses all 17 universal tags.
-* The use of [PART](pos/PART.md) is limited to possessive markers, in English names: [en] ‘s. Examples: Wendy 's, McDonald 's.
-* Auxiliaries ([AUX](pos/AUX_.md)) can be grouped into five types:
-  * the copula *essere* (be).
+* The use of [PART](pos/PART.md) is limited to possessive markers in English names: [en] ‘s. Examples: *Wendy 's*, *McDonald 's*.
+* The tag [AUX](pos/AUX_.md) is used to mark the following cases:
+  * the copular verb *essere* "be", which in Italian is the only verb that can be a copula;
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
   * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
-  * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
-  * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want"). 
+  * auxiliaries used for the progressive form, represented by _stare_ followed by a gerund, e.g. _sto arrivando_ "I am coming";
+  * modal verbs, e.g. _potere_ "can", _dovere_ "must", _volere_ "want". 
   
-  The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
-* The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends". 
-* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
-* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate. 
+  The language-specific part-of-speech tag is VM for modal verbs, VA for the auxiliary verbs and V for copulas.
+
+* The tag [DET](pos/DET.md) is used for determiners that modify nouns or noun phrases and express the reference of the noun phrase in context. In Italian this tag is used for: articles, predeterminers (e.g. _<b>Tutti</b> gli amici_ "<b>All</b> the friends") and different types of adjectives playing the determiner function (i.e. possessive _mio padre_ "my father", demonstrative _questo libro_ "this book", interrogative , indefinite, exclamative, relative _che libro_ "which book"). Like adjectives, Italian determiners typically agree with the noun they modify for gender and number, e.g. _questo libro_ “this book” (masculin singular), _i libri_ “the books” (masculin plural), _la carta_ “the paper” (feminine singular). 
+
+  In Italian, usually a nominal allows for one DET modifier only, with the following exceptions:
+  * predeterminers;
+  * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
+
+* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
+* Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
+
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -49,20 +51,15 @@ udver: '2'
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Relfex.md) applies to pronouns. The feature [Clitic]() is language specific and marks clitic pronouns.
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may be further specified by the [PronType](feat/PronType.md) feature. The boolean feature [Reflex](feat/Reflex.md) applies to reflexive pronouns. The value [Clitic](feat/Clitic.md) is used for marking clitic pronouns; 
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 * Criteria for identifying core arguments ...
-* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
+* The copula verb *essere* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 * The following subtypes are used in Italian:
   * [acl:relcl](dep/acl-relcl.md) for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
@@ -77,7 +74,7 @@ udver: '2'
   * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
   * [obl:agent](dep/obl-agent.md) for agents of passive verbs
   * [parataxis:appos](dep/parataxis-appos.md) appositive sentences
-  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers 
+  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers
   * [parataxis:hashtag](dep/parataxis-hashtag.md) hashtags that are not syntactically integrated into the sentence
   * [parataxis:insert](dep/parataxis-insert.md) parenthetical clauses that cannot be considered independent from the governing predicate
   * [parataxis:nsubj](dep/parataxis-nsubj.md) paratactic sentences with an implicit nsubj role with respect to the governing predicate
@@ -93,14 +90,17 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [five](../treebanks/it-comparison.html) Italian UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [ISDT](../treebanks/it_isdt/index.html)
+  * [PARTUT](../treebanks/it_partut/index.html)
+  * [POSTWITA](../treebanks/it_postwita/index.html)
+  * [PUD](../treebanks/it_pud/index.html)
+  * [VIT](../treebanks/it_vit/index.html)
 
----
+<!-----
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
 from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
 and the treebank code in the file name.
 
----
+--->

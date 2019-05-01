@@ -4,7 +4,7 @@ title:  'Japanese UD'
 udver: '2'
 ---
 
-# UD for Japanese <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Japanese <span class="flagspan"><img class="flag" src="../../flags/svg/JP.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Bambara UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Bambara <span class="flagspan"><img class="flag" src="../../flags/svg/ML.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

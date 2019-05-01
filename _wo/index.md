@@ -22,22 +22,16 @@ udver: '2'
 	* *bu*: negative imperative marker	
 	* *da*: verb focus marker
 	* *di*: imperfective marker
-	* *doon*: copular verb
 	* *être*: french auxiliary *être* contained in some foreign material	
 	* *la*: non-subject focus marker
 	* *na*: neutral (i.e. non-focus) and perfective marker
-	* *nekk*: copular verb	
 	* *ngi*: progressive marker 
 	* *woon*: past tense marker 	
-* The AUX category also includes copulas. Lemmas for copula are
-	* *a*: is used in presentative constructions. 	
+* The AUX category also includes copulas. Wolof hhas three copulas: 
 	* *di*: is used in identificational sentences.
-	* *doon*: is used as copula.
-	* *être*: is used as a copula (in French foreign material)
 	* *la*: is used in predicational sentences
-	* *nekk*: is used as copula.
-	* *ngi*: is used in presentative constructions.
-	* *woon*: is in elliptic copular constructions.	
+	* *ngi*: is used in presentative/progressive constructions.
+	* In addition the data contain the French copula *être* (to be) (French foreign material)
 * The tag [DET]() is used for definite/indefinite articles, quantifiers and determiner words used with a determiner function;
   they can precede or follow the noun they quantify.
   The tag [PRON]() is used for subjects or objects of a noun phrase and to show possession. In addition, possessive, reflexive, relative, interrogative, demonstrative, and indefinite pronouns are also grouped under the [PRON]() tag.
@@ -73,6 +67,15 @@ Wolof uses the following relation subtypes:
 * `obj:appl`: direct applicative object
 * `iobj:appl`: indirect applicative object
 * `obj:caus`: causative object
+
+### Copular constructions
+* Wolof distinguish between three copulas: *di*, *la*, and *ngi*. These appear 
+	* *di* appears in identificational sentences like *Góor gi di njiit* (The man is a leader). Such sentences follow the standard SVO worder order (i.e. Nominal Subject + Copula + Nominal Predicate). The predicate is typically a nominal one. 
+	* *la* is used in predicational sentences like *Góor gi njjit la* (The man is a leader). In contrast to identificational sentences, Wolof predicational sentences do not show the SVO word order, but rather SOV order. The predicate, which is typically a nominal one, precedes the copula.
+	* *ngi* is mainly used in presentative/progressive sentences. Unlike the two previous copulas, the predicate of the *ngi* copula can only be a manner or a locative (e.g. in the house) as in *Góor gi mu ngi ci kër gi* (The man is in the house). Also, such copular constructions have an SVO word order. 
+	
+	
+
 
 ## Treebanks
 

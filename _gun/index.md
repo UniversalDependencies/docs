@@ -4,7 +4,7 @@ title:  'Mbya Guarani UD'
 udver: '2'
 ---
 
-# UD for Mbyá Guaraní
+# UD for Mbyá Guaraní <span class="flagspan"><img class="flag" src="../../flags/svg/PY.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AR.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
 This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
 
@@ -41,7 +41,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 | 	XPOS 		| 	UPOS	| XPOSDescription								|
 |---------------|-----------|-----------------------------------------------|
-| 	adj			| 	ADJ		| adjective										|	 
+| 	adj			| 	ADJ		| adjective										|
 |	aspprt		|	PART	| aspect particle								|
 |	coordconn	|	CCONJ	| coordinating conjunction						|
 |	defpro		|	PRON	| definite pronoun							|
@@ -143,7 +143,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 ## Treebanks
 
-There are [2](../treebanks/Mbya_Guarani-comparison.html) LANGUAGE UD treebanks:
+There are [2](../treebanks/Mbya_Guarani-comparison.html) Mbyá Guaraní treebanks:
 
   * [Mbya_Guarani-Dooley](../treebanks/gun_dooley/index.html)
   * [Mbya_Guarani-Thomas](../treebanks/gun_thomas/index.html)

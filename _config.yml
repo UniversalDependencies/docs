@@ -204,6 +204,28 @@ collections:
     output: true
   gun:
     output: true
+  am:
+    output: true
+  bxr:
+    output: true
+  hr:
+    output: true
+  hi:
+    output: true
+  id:
+    output: true
+  sme:
+    output: true
+  sr:
+    output: true
+  te:
+    output: true
+  th:
+    output: true
+  ur:
+    output: true
+  ug:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

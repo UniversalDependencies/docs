@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Macedonian UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Macedonian <span class="flagspan"><img class="flag" src="../../flags/svg/MK.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

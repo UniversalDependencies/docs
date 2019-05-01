@@ -1,14 +1,14 @@
 ---
 layout: relation
-title: 'parataxis:discourse'
-shortdef: 'paratactic discourse'
+title: 'parataxis:appos'
+shortdef: 'paratactic apposition'
 udver: '2'
 ---
 
-The specializations is used in the PoSTWITA, a tweet corpus, for semantically-void sentences used as discourse markers 
+The specialization is used in PoSTWITA for appositive sentences.  
 
 ~~~ sdparse
-voglio dire, è sempre banale 
-parataxis:discourse(banale, dire) 
+Corrado Passera. Ministro dello Sviluppo Economico
+parataxis:appos(Corrado, Ministro) 
 ~~~
 

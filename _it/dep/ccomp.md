@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 A clausal complement (<code>ccomp</code>) of a verb or a verbal predicate is a dependent clause which is a core argument. In a clausal complement the subject is not determined by obligatory control, either because the clause has its own overt subject or because the subject is arbitrary or determined anaphorically. Such clausal complements can have the following structures: 

@@ -4,15 +4,15 @@ title:  'Irish UD'
 udver: '2'
 ---
 
-# UD for Irish <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Irish <span class="flagspan"><img class="flag" src="../../flags/svg/IE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
 In Irish, in general, words are delimited by whitespace characters. Description of exceptions follows:
 
-* Some punctuation marks are attached to a neighbouring word. The word and the punctuation mark are taken together as one token. For example,  _D'_  (contraction for _do_ in _d'ith_ "ate"), _b'_ (in _b'fhearr_ "would prefer") and _O'_ (in surnames) are recognised as single tokens. Abbreviations surch as _srl._ "etc." or _i.n._ "p.m." are also recognised as one token. 
+* Some punctuation marks are attached to a neighbouring word. The word and the punctuation mark are taken together as one token. For example,  _D'_  (contraction for _do_ in _d'ith_ "ate"), _b'_ (in _b'fhearr_ "would prefer") and _O'_ (in surnames) are recognised as single tokens. Abbreviations surch as _srl._ "etc." or _i.n._ "p.m." are also recognised as one token.
 
-* Note that compound prepositions (_os\_cionn_ "above", _in\_aice_ "beside", etc)  are split into two tokens for UD v2, as are some placenames that the tagger recognises (e.g. _Cill\_Dara_) or a limited number of mwes (_chomh\_fada\_is_ "as long as; _cé\_is\_moite_ "except for"). 
+* Note that compound prepositions (_os\_cionn_ "above", _in\_aice_ "beside", etc)  are split into two tokens for UD v2, as are some placenames that the tagger recognises (e.g. _Cill\_Dara_) or a limited number of mwes (_chomh\_fada\_is_ "as long as; _cé\_is\_moite_ "except for").
 
 The Irish POS-tagger used in the Irish Dependency Treebank retains these as single tokens and so must be mapped accordingly as the treebanks develop concurrently.
 
@@ -21,9 +21,9 @@ The Irish POS-tagger used in the Irish Dependency Treebank retains these as sing
 ### POS Tags
 
 The UD part-of-speech (POS) tagset is an extension of the The Google Universal POS tagset (Petrov
-et al., 2012) and contains 17 POS tags. 
+et al., 2012) and contains 17 POS tags.
 The tags for the Irish Dependency Treebank is based on the PAROLE Morphosyntactic Tagset (ITÉ,
-2002). 
+2002).
 
 (Table to be inserted here) A mapping from this tagest to the UD tagset for use in the IUDT is given in: Lynn, Teresa and Jennifer Foster, _Universal Dependencies for Irish_ In Proceedings of the 2nd Celtic Language Technology Workshop 2016, Paris, France.
 
@@ -46,7 +46,7 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 ---
 
 Inflection in Irish mainly occurs through suffixation, but initial mutation through lenition and eclipsis is also common. Lenition is a phonological change that softens or weakens the articulation of a consonant. The eclipsis process renders voiced segments as nasalised and voiceless segments as being voiced (Stenson, 1981, p.18). A prominent feature of Irish which influences inflection, is the existence of two sets of consonants,
-referred to as "broad" and "slender" consonants. Consonants can be slenderised by accompanying the consonant with a slender vowel, either _e_ or _i_. Broadening occurs through the use of broad vowels; _a_, _o_ or _u_. In general, there needs to be vowel harmony (slender or broad) between stem endings and the initial vowel in a suffix. 
+referred to as "broad" and "slender" consonants. Consonants can be slenderised by accompanying the consonant with a slender vowel, either _e_ or _i_. Broadening occurs through the use of broad vowels; _a_, _o_ or _u_. In general, there needs to be vowel harmony (slender or broad) between stem endings and the initial vowel in a suffix.
 
 * _buail_ "hit"  _ag bualadh na liathróide_ "hitting the ball" (Verbal Noun)
 * _buail_ "hit"  _buaileadh an liathróid_ "the ball was hit" (Impersonal Form)
@@ -76,7 +76,7 @@ Lenition occurs after the negative particle _ní_:
 * _tabharfaidh mé_ "I will give"
 * _ní thabharfaidh mé_ "I will not give"
 
-Eclipsis (initial mutation) occurs following clitics such as interrogative particles (an, nach); complementisers (go, nach); and relativisers (a, nach) (Stenson, 1981,pp. 21-26). 
+Eclipsis (initial mutation) occurs following clitics such as interrogative particles (an, nach); complementisers (go, nach); and relativisers (a, nach) (Stenson, 1981,pp. 21-26).
 
 * _an dtuigeann sé?_ "does he understand?"
 * _nach dtuigeann sé_ "that he does not understand".
@@ -90,7 +90,7 @@ Eclipsis (initial mutation) occurs following clitics such as interrogative parti
 
 Modern Irish uses three cases: Nominative, Genitive and Vocative. The nominative form is sometimes
 regarded as the "common form" as it is now also used for accusative and dative forms (See [Case]() for a description of 'Case=NomAcc'). Nouns in Irish are divided into five classes, or declensions, depending on the manner in which the genitive case is formed. In addition, there are two grammatical genders in Irish - masculine and feminine. Case, declension and gender are expressed
-through noun inflection. For example, _páipéar_ "paper" is a masculine noun in the first declension. Both lenition and slenderisation are used to form the genitive singular form: pháipéir. 
+through noun inflection. For example, _páipéar_ "paper" is a masculine noun in the first declension. Both lenition and slenderisation are used to form the genitive singular form: pháipéir.
 
 * _an dochtúir_ "the doctor"
 * _cóta an dochtúra_ "the doctor's coat"
@@ -103,7 +103,7 @@ through noun inflection. For example, _páipéar_ "paper" is a masculine noun in
 * _Máire_ "Mary"
 * _a Mháire!_ "Mary!" (Vocative)
 
-In addition, possessive determiners cause nominal inflection through lenition, eclipsis and prefixation. 
+In addition, possessive determiners cause nominal inflection through lenition, eclipsis and prefixation.
 
 * _teach_ "house"
 * _mo theach_ "my house"
@@ -114,7 +114,7 @@ In addition, possessive determiners cause nominal inflection through lenition, e
 
 
 
-#### Adjectives 
+#### Adjectives
 
 In general, adjectives follow nouns and agree in number, gender and case. Depending on the noun they modify, adjectives can also inflect. The Christian Brothers (1988, p.63) note eight main declensions of adjectives. They can decline
 for genitive singular masculine, genitive singular feminine and nominative plural.
@@ -130,7 +130,7 @@ Comparative adjectives are also formed through inflection:
 * _déanach_ "late" / _is déanaí_ "latest"
 
 
-#### Prepositions 
+#### Prepositions
 
 Irish has simple prepositions (e.g. _ar_ "on") and compound prepositions (e.g. _in aghaidh_ "against"). Most of the simple prepositions can inflect for a pronominal object that indicates person and number (known as prepositional pronouns or pronominal prepositions), thus including a nominal element. Compare _le_ and _leis_:
 
@@ -150,12 +150,12 @@ These forms are used quite frequently, not only with regular prepositional attac
 
 ---
 
-Here we summarise some of the distinctive features of Irish as a Celtic language. These features commonly occur in standard Irish use and therefore require discussion in the context of treebank development. Irish theoretical syntax is relatively under-researched, yet this summary shows that even within the limited work carried out in this area thus far, there still remain many unresolved disagreements as we show here. In general, Irish dependency treebank development follows the work of Stenson (1981). 
+Here we summarise some of the distinctive features of Irish as a Celtic language. These features commonly occur in standard Irish use and therefore require discussion in the context of treebank development. Irish theoretical syntax is relatively under-researched, yet this summary shows that even within the limited work carried out in this area thus far, there still remain many unresolved disagreements as we show here. In general, Irish dependency treebank development follows the work of Stenson (1981).
 
 
-### VSO clause structure 
+### VSO clause structure
 
-Both main clauses and subordinate clauses follow a VSO structure in Irish. 
+Both main clauses and subordinate clauses follow a VSO structure in Irish.
 
 * _Thug sí comhairle dom_ (lit. Gave she advice to-me) "She gave me advice"
 * _Dúirt siad gur chaith na daoine an airgead_ "They said that the people were seeking work"  (V S \[that V S O\])
@@ -189,7 +189,7 @@ On the other hand, 'csubj:cleft' is used when the clause is the subject of a cle
 
 
 
-There are idiomatic phrases in which translations would suggest that the Irish subject is actually the object. 
+There are idiomatic phrases in which translations would suggest that the Irish subject is actually the object.
 
 
 For example:
@@ -197,13 +197,13 @@ For example:
 
 
 There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:pass' are not used in the Irish treebank. What often translates into English as passive is the automonous verb form. These verbs (labelled with the feature 'Voice=Auto' (See [Voice]()) have an "understood"/implicit subject and are usually followed directly by the object.
-* _Foilsíodh an chéad chuid den sraith cartún_ "The first cartoon series was published" (lit. somebody published the first series of the cartoon) 
+* _Foilsíodh an chéad chuid den sraith cartún_ "The first cartoon series was published" (lit. somebody published the first series of the cartoon)
 
 
 
 Objects in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
 
-There are no indirect objects in Irish. 
+There are no indirect objects in Irish.
 
 
 Oblique 'obl'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
@@ -219,7 +219,7 @@ Nouns can be objects of clausal complements, which are labeled xcomp.
 If a verb subcategorizes for two core objects, one of them accusative (or ccomp) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
 
 
-Oblique agents of verbal adjectives are labelled as 'obl' 
+Oblique agents of verbal adjectives are labelled as 'obl'
 * _go bhfuil dul chun cinn iontach déanta ag foireann shinsir..._ "that the senior team have made great progress..."  (lit. that great progress has been made by the senior team)
 
 
@@ -235,7 +235,7 @@ All prepositional phrases that are not prepositional objects (i.e., their role a
 ### Clefting / Fronting
 
 Clefting or fronting is a commonly used structure in the Irish language and described in more detail in [csubj:cleft](). Elements are fronted to predicate position to create emphasis or focus. Irish clefts differ from clefts in English in that there is more freedom with regards to the type of sentence element that can be fronted (Stenson, 1981, p.99). In Irish, the structure is as follows: Copula, followed by the fronted element (Predicate), followed by the rest of the sentence (Relative Clause). The predicate can take the form of a noun phrase (headed by pronoun, noun, verbal noun), or adjectival, prepositional or adverbial
-phrases. 
+phrases.
 
  Adverbial Fronting:
 * _Is laistigh de bhliain a déanfar é_ "It's within a year that it will be done"
@@ -249,7 +249,7 @@ Prepositional fronting:
 Note that in UD, the cleft particle _a_ is indistinguishable from the relative particle _a_. Both are labelled 'mark:prt' (see (mark:prt]().
 
 Stenson (1981, p.111) describes the cleft construction as being similar to copular identity structures with the order of elements as Copula, Predicate, Subject. According to Stenson, the a is a relative particle which forms part of the relative
-clause. However, there is no surface head noun in the relative clause { it is missing an NP. Stenson refers to these structures as having an "understood" nominal head such as _an rud_ "the thing" or _an té_ "the person/the one", e.g. _Is ise \[an té\] a chonaic siad inné_. When the nominal head is present, it becomes a copular identity construction: She is the one who they saw yesterday. In the absence of a head noun, the verb is labelled as the head of the clause. 
+clause. However, there is no surface head noun in the relative clause { it is missing an NP. Stenson refers to these structures as having an "understood" nominal head such as _an rud_ "the thing" or _an té_ "the person/the one", e.g. _Is ise \[an té\] a chonaic siad inné_. When the nominal head is present, it becomes a copular identity construction: She is the one who they saw yesterday. In the absence of a head noun, the verb is labelled as the head of the clause.
 
 
 ### Language specific labels

@@ -2,6 +2,7 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
 The <code>nmod</code> relation is used for nominal modifiers. They depend either on another noun (group “noun dependents”) or on a predicate (group “non-core dependents of clausal predicates”).  

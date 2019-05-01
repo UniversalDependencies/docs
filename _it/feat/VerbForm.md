@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 ### `Fin`: finite verb
@@ -38,5 +39,5 @@ Not used.
 
 #### Examples
 
-* _Sto <b>sognando</b> you_ "I am dreaming"
-* _Arrivando tardi si perde il treno_ "Arriving late you miss the train"
+* _Sto <b>sognando</b>_ "I am dreaming"
+* _<b>Arrivando</b> tardi si perde il treno_ "Arriving late you miss the train"

@@ -2,6 +2,7 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
 An adjectival modifier is any adjective that serves to modify the meaning of a nominal head. In Italian, adjectival modifiers can occur both in pre- and post-nominal position. Note that in Italian the class of adjectives also includes ordinal numerals which thus can be adjectival modifiers (always depending on the context). Adjectives can be found as modifiers of nouns, verbs, pronouns, adverbs and other adjectives. 

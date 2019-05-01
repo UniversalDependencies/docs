@@ -4,7 +4,7 @@ title:  'Tamil UD'
 udver: '2'
 ---
 
-# UD for Tamil <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
+# UD for Tamil <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LK.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

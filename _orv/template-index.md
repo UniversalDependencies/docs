@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Old Russian UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Old Russian <span class="flagspan"><img class="flag" src="../../flags/svg/RU-IVAN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

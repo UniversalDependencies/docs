@@ -4,7 +4,7 @@ title:  'Turkish UD'
 udver: '2'
 ---
 
-# UD for Turkish 
+# UD for Turkish <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
 This is a **work-in-progress** overview of the UD annotation for Turkish.
 
@@ -19,7 +19,7 @@ correction efforts are known.
 * In general, words are delimited by white spaces or punctuation,
     Whitespaces or punctuation may appear in some abbreviations
     or numeric expressions.
-* Clitics are treated as a separate words. This includes 
+* Clitics are treated as a separate words. This includes
     the clitics that follow word-internal processes (e.g., vowel
     harmony) such as question clitic  _mI_ and  adverbial _DA_.
 * Due to the interaction of syntax and rich morphology,
