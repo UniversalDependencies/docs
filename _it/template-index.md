@@ -38,10 +38,21 @@ udver: '2'
   * predeterminers;
   * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
 
-* The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
-* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](pos/ADJ.md), when they do not introduce a subordinate.
+* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature. Here follows the list of language specific pronoun PoS and the associated values of the PronType feature:
+  * PC (clitic pronouns) -> PronType=Clit (this feature is language-specific)
+  * PD (demonstrative pronouns) -> PronType=Dem
+  * PE (personal pronouns) -> PronType=Prs
+  * PI (indefinite pronouns) -> PronType=Ind
+  * PP (possessive pronouns) -> PronType=Prs	Poss=Yes
+  * PQ (interrogative pronouns) -> PronType=Int
+  * PR (relative pronouns) -> PronType=Rel
+* Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
+
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
+
+
+
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
