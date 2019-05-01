@@ -77,24 +77,24 @@ Dependency analysis of clitic pronouns
 Copula
 * The only copular verb for Italian is the verb *essere* "to be". It is used in equational, attributional, locative, possessive and benefactory nonverbal clauses, as detailed below.
 
-  * Equation
+  * Equation  
 *Loro sono amici* "they are friends" > cop(amici,sono) nsubj(amici,loro)
-  * Attribution 
+  * Attribution   
 *I cinque sarebbero tutti immigrati clandestini* > cop(immigrati,sarebbero) nsubj(immigrati,cinque)
-  * Location
+  * Location  
 *Anna è a Roma* "Anna is in Rome" > cop(Roma,è) nsubj(Roma,Anna)
-  * Possession
+  * Possession  
   *La scultura è del pachistano Hamad Butt* > cop(pachistano,è) nsubj(pachistano,scultura)
   * Benefactory  
   *Il libro è per Anna* "The book is for Anna" > cop(Anna,è) nsubj(Anna,libro)
 
-* There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted when:
-  * Presentational or existential constructions
+* There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted:
+  * with presentational or existential constructions
 	E.g. *Vi sono migliaia di casi di questo genere*
 	expl(sono,Vi)
 	nsubj(sono,migliaia)
 	root(ROOT,sono)
-  * the argument of the verb essere is a subordinate clause
+  * when the argument of the verb essere is a subordinate clause
 	E.g. *La verità è che la spesa sanitaria sta esplodendo* 
 	nsubj(è,verità)
 	root(ROOT,è)
