@@ -5,10 +5,15 @@ shortdef: 'paratactic hashtag'
 udver: '2'
 ---
 
-The specializations is used in the PoSTWITA, a tweet corpus, for  hashtags that are not syntactically integrated into the sentence 
+The specializations is used in PoSTWITA for Twitter hashtags. 
 ~~~ sdparse
 è una rivoluzione #cittadinanza 
 parataxis:hashtag(rivoluzione, cittadinanza) 
 ~~~
 
+However, whenever they are syntactically integrated into the sentence we consider these elements for the actual grammatical value they’gain’, since with their removal the sentence may turn out to be ungrammatical.
+~~~ sdparse
+arriva #matteorenzi
+nsubj(arriva, #matteorenzi) 
+~~~
 
