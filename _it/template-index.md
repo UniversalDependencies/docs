@@ -68,7 +68,7 @@ Italian core arguments are the following:
 Consider also that Italian is a pro-drop language, thus subjects can be omitted: the features of the subject can be inferred from the inflectional morphological features associated with the verb.  
 * _iobj_ refers to the indirect object of a verb only when realized as a dative pronominal clitic complement. In Italian *iobj* only appears in the form of a clitic pronoun, as in *dovranno cercarsi un lavoro* *iobj(cercare,si)*. Otherwise, the indirect object is realized as a prepositional phrase, which it is labeled as *obl* (e.g.  *Dare a qualcuno qualcosa*, "give something to someone").
 
-Dependency analysis of clitic Pronouns
+Dependency analysis of clitic pronouns
 * Clitics are a subtype of the class of personal pronouns, differing from tonic personal pronouns in many respects. While tonic personal and clitic pronouns are rather uniform in their functional and referential characteristics, they are clearly differentiated on the morphological and syntactic levels. In Italian, the dependency relations used to annotate clitics are *obj*, *iobj* (see above), *expl*, *expl:impers* (see above) and *expl:pass*. 
   * Whenever possible, clitic pronouns are assigned a label that reflects their grammatical function. For this reason, if the pronoun appears in a reflexive construction of a transitive or intransitive active verb, then it’s treated as *dobj* or *iobj* (see above). The *dobj* relation is used to mark real reflexive constructions where the clitic pronoun is a direct object of the verb, e.g. *la bambina si lava* "the girl washes herself" *dobj(lavare,si).
   * clitics can also be used to mark passive and impersonal constructions: see the relation subtypes *expl:pass* and *expl:impers*.
@@ -79,6 +79,7 @@ Copula
 
   * Equation
 *Loro sono amici* "they are friends" 
+
 cop(amici,sono) 
 nsubj(amici,loro)
 
