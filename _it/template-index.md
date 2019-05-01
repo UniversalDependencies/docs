@@ -74,12 +74,13 @@ Dependency analysis of clitic pronouns
   * Whenever possible, clitic pronouns are assigned a label that reflects their grammatical function. For this reason, if the pronoun appears in a reflexive construction of a transitive or intransitive active verb, then it’s treated as *dobj* or *iobj* (see above). The *dobj* relation is used to mark real reflexive constructions where the clitic pronoun is a direct object of the verb, e.g. *la bambina si lava* "the girl washes herself" dobj(lavare,si);
   * clitics can also be used to mark passive and impersonal constructions: see the relation subtypes *expl:pass* and *expl:impers*, exemplified above;
   * *expl* is used for expletive or pleonastic nominals (nominal core arguments of a predicate but which do not themselves satisfy any of the semantic roles of the predicate), as in pronominal verbs where clitics do not have a semantic role, such as *rompersi* "break" or *vergognarsi* "feel ashamed".
+<!--SM: what about presentative constructions? they should be added here? -->
 
 Copula
 * The only copular verb for Italian is the verb *essere* "to be". It is used in equational, attributional, locative, possessive and benefactory nonverbal clauses, as detailed below.
 
   * Equation  
-*Loro sono amici* "they are friends" 
+*Loro sono amici* "they are friends"  
 cop(amici,sono)  
 nsubj(amici,loro)
   * Attribution   
@@ -89,22 +90,28 @@ nsubj(immigrati,cinque)
   * Location  
 *Anna è a Roma* "Anna is in Rome"  
 cop(Roma,è)  
-nsubj(Roma,Anna)
+nsubj(Roma,Anna)  
+case(Roma,in)
   * Possession  
-  *La scultura è del pachistano Hamad Butt* > cop(pachistano,è) nsubj(pachistano,scultura)
+  *La scultura è del pachistano Hamad Butt* 
+cop(pachistano,è)  
+nsubj(pachistano,scultura)  
+case(pachistano,di)
   * Benefactory  
-  *Il libro è per Anna* "The book is for Anna" > cop(Anna,è) nsubj(Anna,libro)
-
-* There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted:
-  * with presentational or existential constructions
-	E.g. *Vi sono migliaia di casi di questo genere*
-	expl(sono,Vi)
-	nsubj(sono,migliaia)
+  *Il libro è per Anna* "The book is for Anna" 
+cop(Anna,è)  
+nsubj(Anna,libro)  
+case(Anna,per)
+* There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted in the following cases:
+  * presentational or existential constructions
+	E.g. *Vi sono migliaia di casi di questo genere* "there are thousands of cases of this type"
+	expl(sono,Vi)  
+	nsubj(sono,migliaia)  
 	root(ROOT,sono)
   * when the argument of the verb essere is a subordinate clause
-	E.g. *La verità è che la spesa sanitaria sta esplodendo* 
-	nsubj(è,verità)
-	root(ROOT,è)
+	E.g. *La verità è che la spesa sanitaria sta esplodendo* "the truth is that that health spending is exploding"  
+	nsubj(è,verità)  
+	root(ROOT,è)  
 	ccomp(è,esplodendo)
 
 
