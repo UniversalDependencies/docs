@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'parataxis:discourse'
-shortdef: 'paratactic discourse'
+title: 'parataxis:appos'
+shortdef: 'paratactic apposition'
 udver: '2'
 ---
 
