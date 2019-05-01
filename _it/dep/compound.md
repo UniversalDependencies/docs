@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 `compound` in Italian is used for noun compounds and numbers (e.g. numbers expressed alphabetically). <code>compound</code> is not used to mark only traditional compounds, but also terms that frequently appear together, words juxtaposed or separated by graphical signs (like "-"). 

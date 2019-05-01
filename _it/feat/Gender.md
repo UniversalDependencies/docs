@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 ### `Masc`: masculine gender

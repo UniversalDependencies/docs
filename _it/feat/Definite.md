@@ -2,6 +2,7 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
+udver: '2'
 redirect_from: "u/feat/Definiteness.html"
 ---
 

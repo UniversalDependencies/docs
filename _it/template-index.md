@@ -31,10 +31,10 @@ udver: '2'
   * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
   * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want").
 
-  The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
+  The language-specific part-of-speech tag is VM for modal verb, VA for other auxiliary verbs and V for copulas.
 * The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
 * The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
-* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](), when they do not introduce a subordinate.
+* Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](pos/ADJ.md), when they do not introduce a subordinate.
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
@@ -49,7 +49,7 @@ udver: '2'
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Relfex.md) applies to pronouns. The feature [Clitic]() is language specific and marks clitic pronouns.
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Reflex.md) applies to pronouns. The feature [Clitic](feat/Clitic.md) is language specific and marks clitic pronouns.
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
@@ -93,14 +93,17 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [five](../treebanks/it-comparison.html) Italian UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+  * [ISDT](../treebanks/it_isdt/index.html)
+  * [PARTUT](../treebanks/it_partut/index.html)
+  * [POSTWITA](../treebanks/it_postwita/index.html)
+  * [PUD](../treebanks/it_pud/index.html)
+  * [VIT](../treebanks/it_vit/index.html)
 
----
+<!-----
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
 from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
 and the treebank code in the file name.
 
----
+--->

@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 In Italian, the case relation is used for any preposition introducing a noun, pronoun, adjective or adverb. Prepositions are treated as dependents of the element they attach to (or introduce) in an “extended nominal projection”. 

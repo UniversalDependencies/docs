@@ -2,6 +2,7 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 A coordinating conjunction relation (<code>cc</code>) holds between the head conjunct of a coordinate structure (which is taken to be the first conjunct) and any of the coordinating conjunctions involved in the structure. This also includes the first element in paired conjunctions like "*sia … sia*" (both…and). 

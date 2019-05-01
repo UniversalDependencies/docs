@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the complement of a copular verb and the copular verb *essere* (in Italian this is the only verb that can be a copula). The copula be is not treated as the head of a clause, but rather as the dependent of a lexical predicate, as exemplified below, which can be an adjective, a noun or a pronoun. 

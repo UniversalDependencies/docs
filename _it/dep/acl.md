@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 `acl` is used for dependent finite and non-finite clauses that modify a nominal (either a noun or a pronoun). The head of the `acl` relation is the noun/pronoun that is modified, and the dependent is the head of the clause that modifies the noun/pronoun: it can be the verb itself or an adjective part of a verbal predicate. 
 
