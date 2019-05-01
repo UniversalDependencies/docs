@@ -6,11 +6,11 @@ udver: '2'
 
 # UD for Mbyá Guaraní
 
-This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at gpythomas.com/Mbya_Treebank_Guidelines.pdf and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
+This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
 
 These guidelines are very much a work in progress. They are meant to adapt [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
 
-	Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics. 
+* Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics. 
 
 ## Tokenization and Word Segmentation
 
@@ -44,6 +44,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 | 	adj			| 	ADJ		| adjective										|	 
 |	aspprt		|	PART	| aspect particle								|
 |	coordconn	|	CCONJ	| coordinating conjunction						|
+|	defpro		|	PRON	| definite pronoun							|
 |	dem			|	PRON	| demonstrative pronoun							|
 |	demadv		|	ADV		| demonstrative adverb							|
 |	det			|	DET		| determiner									|
@@ -94,14 +95,16 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * Verbs are inflected for person, number and clusivity:
 
-	* Person has four possible values: 1, 2, 3, and 12. 
-	* Person=12 indicates portmanteau inflection, which cross-references a first person subject and a second person object.
+	* Person has three possible values: 1, 2, 3.
+	* Person uses the layers subj and obj.
 	* Number has two possible values: Sing and Plur.
+	* Number uses the layer psor.
 	* Clusivity has two possible values, In and Ex.
+	* Clusivity uses the layers subj and obj.
 
 * Verbs have a subcategorization feature Subcat with two possible values: Int and Tran.
 
-* Verbs have an optional form feature with four possible values: Part(iciple), Ser(ial), Post(posed verb), Prov(erb)
+* Verbs have an optional form feature with four possible values: Part(iciple), Ser(ial), Post(posed verb), Prov(erb).
 
 * Verbs have an optional Polarity feature with one possible value, Neg.
 
