@@ -74,7 +74,7 @@ and [Armenian features](feat/index.html).
   * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished
     analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
-  * There are four values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`. Active and causative verbs have `Subcate=Tran`, the other two `Subcate=Intr`.
+  * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
 
 ### Polarity
 
