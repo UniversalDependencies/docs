@@ -2,6 +2,7 @@
 layout: postag
 title: 'AUX'
 shortdef: 'auxiliary verb'
+udver: '2'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "u/pos/AUX.html"
@@ -22,6 +23,8 @@ Corresponding language-specific part-of-speech tags
 VA: Auxiliary verb
 
 VM: Modal verb	
+
+V: Copula
 
 ### Examples
 
