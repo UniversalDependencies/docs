@@ -12,7 +12,7 @@ However, this relation is also used generally for topic elements that otherwise 
 The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
 spoken languages.
 
-~~~ sdparse
+~~~ conllu
 1	«	«	PUNCT	_	_	10	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 2	Համահարթ	համահարթ	ADJ	_	_	10	dislocated	_	Translit=hamahart’|LTranslit=hamahart’|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
@@ -25,6 +25,7 @@ spoken languages.
 10	եղել	լինել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġel|LTranslit=linel
 11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 12	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 ~~~ sdparse
