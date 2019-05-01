@@ -79,6 +79,7 @@ udver: '2.4'
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
   * XPOS VERB_PSEU *tantx* (this one only provisionally so pending further study)
+  * XPOS PRON_PERS *hux*, *hix* etc. which function as interrogative pronouns
   * XPOS PRON_PERS_NEG and XPOS PRON_PERS when preceded by XPOS NEG
   * XPOS VERB *ġa* used as the passive auxiliary
   * XPOS FUT (*se*, *ħa*, *għad*) and XPOS PROG (*qed* and its variants)
