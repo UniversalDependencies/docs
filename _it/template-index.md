@@ -51,25 +51,10 @@ udver: '2'
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Reflex.md) applies to pronouns. The feature [Clitic](feat/Clitic.md) is language specific and marks clitic pronouns.
-
-Here follows the list of language specific pronoun PoS and the associated values of the PronType feature:
-  * PC (clitic pronouns) -> PronType=Clit (this feature is language-specific)
-  * PD (demonstrative pronouns) -> PronType=Dem
-  * PE (personal pronouns) -> PronType=Prs
-  * PI (indefinite pronouns) -> PronType=Ind
-  * PP (possessive pronouns) -> PronType=Prs	Poss=Yes
-  * PQ (interrogative pronouns) -> PronType=Int
-  * PR (relative pronouns) -> PronType=Rel
-
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may be further specified by the [PronType](feat/PronType.md) feature. The boolean feature [Reflex](feat/Reflex.md) applies to reflexive pronouns. The value [Clitic](feat/Clitic.md) is used for marking clitic pronouns; 
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
