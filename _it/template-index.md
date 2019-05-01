@@ -148,7 +148,7 @@ case(Anna,per)
 
 There are [five](../treebanks/it-comparison.html) Italian UD treebanks:
 
-  * [IUDT](../treebanks/it_isdt/index.html)
+  * [ISDT](../treebanks/it_isdt/index.html)
   * [PARTUT](../treebanks/it_partut/index.html)
   * [POSTWITA](../treebanks/it_postwita/index.html)
   * [PUD](../treebanks/it_pud/index.html)
