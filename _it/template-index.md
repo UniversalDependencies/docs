@@ -34,7 +34,7 @@ udver: '2'
 
 * The tag [DET](pos/DET.md) is used for determiners that modify nouns or noun phrases and express the reference of the noun phrase in context. In Italian this tag is used for: articles, predeterminers (e.g. _<b>Tutti</b> gli amici_ "<b>All</b> the friends") and different types of adjectives playing the determiner function (i.e. possessive _mio padre_ "my father", demonstrative _questo libro_ "this book", interrogative , indefinite, exclamative, relative _che libro_ "which book"). Like adjectives, Italian determiners typically agree with the noun they modify for gender and number, e.g. _questo libro_ “this book” (masculin singular), _i libri_ “the books” (masculin plural), _la carta_ “the paper” (feminine singular). 
 
-In Italian, usually a nominal allows for one DET modifier only, with the following exceptions:
+  In Italian, usually a nominal allows for one DET modifier only, with the following exceptions:
   * predeterminers;
   * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
 
