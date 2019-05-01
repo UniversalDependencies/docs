@@ -31,7 +31,7 @@ udver: '2'
   * auxiliaries in progressive form, represented by _stare_ followed by a gerund. Ex. _sto arrivando_ "I am coming";
   * modal verbs are also handled as auxiliaries (e.g. _potere_ "can", _dovere_ "must", _volere_ "want").
 
-  The language-specific part-of-speech tag is VM for modal verb and VA for other auxiliary verbs.
+  The language-specific part-of-speech tag is VM for modal verb, VA for other auxiliary verbs and V for copulas.
 * The tag [DET](pos/DET.md) is used for articles and pronominal words used to modify nouns or noun phrases, including possessives, for example _Mio padre_ "my father". Predeterminers (or addeterminers), are also tagged `DET`. For example: _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
 * The tag [PRON](pos/PRON.md) is reserved for words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature.
 * Participles (both present and past) are rendered as participial adjectives, and are generally tagged [ADJ](pos/ADJ.md), when they do not introduce a subordinate.
