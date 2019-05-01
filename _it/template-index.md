@@ -84,7 +84,7 @@ Copula
 cop(amici,sono)  
 nsubj(amici,loro)
   * Attribution   
-*I cinque sarebbero tutti immigrati clandestini*  
+*I cinque sarebbero tutti immigrati clandestini*  "The five would all be illegal immigrants"  
 cop(immigrati,sarebbero)  
 nsubj(immigrati,cinque)
   * Location  
@@ -93,18 +93,18 @@ cop(Roma,è)
 nsubj(Roma,Anna)  
 case(Roma,in)
   * Possession  
-  *La scultura è del pachistano Hamad Butt* 
+  *La scultura è del pachistano Hamad Butt*  "The sculpture is by the Pakistani Hamad Butt"  
 cop(pachistano,è)  
 nsubj(pachistano,scultura)  
 case(pachistano,di)
   * Benefactory  
-  *Il libro è per Anna* "The book is for Anna" 
+  *Il libro è per Anna* "The book is for Anna"  
 cop(Anna,è)  
 nsubj(Anna,libro)  
 case(Anna,per)
 * There are cases where the verb *essere* is not marked as copula, thus becoming the main verb of the clause. This analysis is generally adopted in the following cases:
   * presentational or existential constructions
-	E.g. *Vi sono migliaia di casi di questo genere* "there are thousands of cases of this type"
+	E.g. *Vi sono migliaia di casi di questo genere* "there are thousands of cases of this type"  
 	expl(sono,Vi)  
 	nsubj(sono,migliaia)  
 	root(ROOT,sono)
