@@ -38,26 +38,12 @@ udver: '2'
   * predeterminers;
   * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
 
-* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns correspond to different language specific PoS leading to different values for the [PronType](feat/PronType.md) feature. Here follows the list of language specific pronoun PoS and the associated values of the PronType feature:
-  * PC (clitic pronouns) -> PronType=Clit (this feature is language-specific)
-  * PD (demonstrative pronouns) -> PronType=Dem
-  * PE (personal pronouns) -> PronType=Prs
-  * PI (indefinite pronouns) -> PronType=Ind
-  * PP (possessive pronouns) -> PronType=Prs	Poss=Yes
-  * PQ (interrogative pronouns) -> PronType=Int
-  * PR (relative pronouns) -> PronType=Rel
+* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
 * Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
 
 
 <!--For more information, see the list of [Italian POS tags](pos-index.md).-->
 
-
-
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -66,6 +52,16 @@ udver: '2'
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
 * Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may have a [PronType](feat/PronType.md) feature, marking them as personal (Prs) or possessive (Poss). The boolean feature [Reflex](feat/Reflex.md) applies to pronouns. The feature [Clitic](feat/Clitic.md) is language specific and marks clitic pronouns.
+
+Here follows the list of language specific pronoun PoS and the associated values of the PronType feature:
+  * PC (clitic pronouns) -> PronType=Clit (this feature is language-specific)
+  * PD (demonstrative pronouns) -> PronType=Dem
+  * PE (personal pronouns) -> PronType=Prs
+  * PI (indefinite pronouns) -> PronType=Ind
+  * PP (possessive pronouns) -> PronType=Prs	Poss=Yes
+  * PQ (interrogative pronouns) -> PronType=Int
+  * PR (relative pronouns) -> PronType=Rel
+
 * Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
 
 <!--For more information, see the list of [Italian features](feat-index.md).-->
