@@ -43,7 +43,7 @@ In the negative declarative sentences the negation verb is used, as normally in 
 Ме эг вӧв велӧдысь . \n  I wasn't a teacher .
 nsubj(велӧдысь-4, ме-1)
 aux(велӧдысь-4, эг-2)
-aux(велӧдысь-4, cop-3)
+cop(велӧдысь-4, вӧв-3)
 ~~~
 
 ~~~ sdparse
@@ -56,8 +56,8 @@ cop(велӧдысь-4, ло-3)
 In locative and existential predication negative абу is also used: 
 
 ~~~ sdparse
-Менам абу кань . \n  I don't have a cat .
-obl(кань-3, менам-1)
-advmod(кань-3, абу-2)
+Менам абу кань .
+obl(кань, менам)
+advmod(кань, абу)
 ~~~
 
