@@ -43,9 +43,9 @@ udver: '2'
     * دے _de_ (“to give”)
     * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
     * پڑ _paṛ_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
-    * بیٹھ _baiṭha_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
-    * उठ _uṭha_ (“to rise”)
-    * رکھ _rakha_ (“to keep”) <!-- Adds a sense of firmness. -->
+    * بیٹھ _baiṭh_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
+    * उठ _uṭh_ (“to rise”)
+    * رکھ _rakh_ (“to keep”) <!-- Adds a sense of firmness. -->
     * آ _ā_ (“to come”)
 
 ### Features
