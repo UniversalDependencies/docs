@@ -9,7 +9,7 @@ udver: '2'
 
 #### Examples
 
-* _loro <b>hanno</b> "they have"
+* _loro <b>hanno</b>_ "they have"
 
 ### `Inf`: infinitive
 
@@ -27,7 +27,7 @@ Not used.
 #### Examples
 
 * _potrebbe essersi <b>preparato</b>_ "he could have been prepared";
-* _è <b>arrivato</b< tardi_ "he arrived late"
+* _è <b>arrivato</b> tardi_ "he arrived late"
 * _<b>appartenenti</b> ad organizzazioni terroristiche_ "members of terroristic organizations"
 
 
