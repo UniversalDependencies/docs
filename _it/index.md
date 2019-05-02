@@ -23,7 +23,7 @@ udver: '2'
 
 * Italian uses all 17 universal tags.
 * The use of [PART]() is limited to possessive markers in English names: [en] ‘s. Examples: *Wendy 's*, *McDonald 's*.
-* The tag [AUX](pos/AUX_.md) is used to mark the following cases:
+* The tag [AUX]() is used to mark the following cases:
   * the copular verb *essere* "be", which in Italian is the only verb that can be a copula;
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
   * passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come";
@@ -32,13 +32,13 @@ udver: '2'
   
   The language-specific part-of-speech tag is VM for modal verbs, VA for the auxiliary verbs and V for copulas.
 
-* The tag [DET](pos/DET.md) is used for determiners that modify nouns or noun phrases and express the reference of the noun phrase in context. In Italian this tag is used for: articles, predeterminers (e.g. _<b>Tutti</b> gli amici_ "<b>All</b> the friends") and different types of adjectives playing the determiner function (i.e. possessive _mio padre_ "my father", demonstrative _questo libro_ "this book", interrogative , indefinite, exclamative, relative _che libro_ "which book"). Like adjectives, Italian determiners typically agree with the noun they modify for gender and number, e.g. _questo libro_ “this book” (masculin singular), _i libri_ “the books” (masculin plural), _la carta_ “the paper” (feminine singular). 
+* The tag [DET]() is used for determiners that modify nouns or noun phrases and express the reference of the noun phrase in context. In Italian this tag is used for: articles, predeterminers (e.g. _<b>Tutti</b> gli amici_ "<b>All</b> the friends") and different types of adjectives playing the determiner function (i.e. possessive _mio padre_ "my father", demonstrative _questo libro_ "this book", interrogative , indefinite, exclamative, relative _che libro_ "which book"). Like adjectives, Italian determiners typically agree with the noun they modify for gender and number, e.g. _questo libro_ “this book” (masculin singular), _i libri_ “the books” (masculin plural), _la carta_ “the paper” (feminine singular). 
 
   In Italian, usually a nominal allows for one DET modifier only, with the following exceptions:
   * predeterminers;
   * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
 
-* The tag [PRON](pos/PRON.md) is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
+* The tag [PRON]() is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
 * Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
 
 
@@ -47,7 +47,7 @@ udver: '2'
 
 ### Features
 
-* Nouns have inherent [Gender](feat/Gender.md) (Masc or Fem) and inflect for [Number](feat/Number.md) (Sing or Plur).
+* Nouns have inherent [Gender]() (Masc or Fem) and inflect for [Number]() (Sing or Plur).
 * Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
 * Adverbs inflect only for [Degree](feat/Degree.md).
