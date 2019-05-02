@@ -38,7 +38,7 @@ udver: '2'
   * predeterminers;
   * possessive adjectives, as in _la mia macchina_ lit. “the my car”, _la figlia mia_ lit. “the daughter my”.
 
-* The tag [PRON]() is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType](feat/PronType.md) feature (see below). 
+* The tag [PRON]() is used for words that substitute nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Specializations of pronouns, corresponding to different language specific PoS, can be recovered by combining  PoS information with the values of the [PronType]() feature (see below). 
 * Verbal participles (both present and past) when used attributively are generally tagged as [ADJ](pos/ADJ.md).
 
 
@@ -48,11 +48,11 @@ udver: '2'
 ### Features
 
 * Nouns have inherent [Gender]() (Masc or Fem) and inflect for [Number]() (Sing or Plur).
-* Verbs inflect for [Mood](feat/Mood.md) (indicative, imperative, conditional, subjunctive); for [Tense](feat/Tense.md) (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm](feat/VerbForm.md).
-* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](feat/Gender.md) and [Number](feat/Number.md). In addition, many adjectives inflect for [Degree](feat/Degree.md) (comparative and superlative).
-* Adverbs inflect only for [Degree](feat/Degree.md).
-* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may be further specified by the [PronType](feat/PronType.md) feature. The boolean feature [Reflex](feat/Reflex.md) applies to reflexive pronouns. The value [Clitic](feat/Clitic.md) is used for marking clitic pronouns; 
-* Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite](feat/Definite.md).
+* Verbs inflect for [Mood]() (indicative, imperative, conditional, subjunctive); for [Tense]() (past, present, future or imperfect). There are three types of nonfinite forms: infinitives, participles (present and past), and gerund [VerbForm]().
+* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender]() and [Number](). In addition, many adjectives inflect for [Degree]() (comparative and superlative).
+* Adverbs inflect only for [Degree]().
+* Pronouns, determiners, pronominal numerals (quantifiers) and pronominal adverbs may be further specified by the [PronType]() feature. The boolean feature [Reflex]() applies to reflexive pronouns. The value [Clitic]() is used for marking clitic pronouns; 
+* Determiners agree with nouns in the same way as adjectives. They can be definite or indefinite [Definite]().
 
 <!--SM: the part on features needs to be revised and expanded-->
 <!--For more information, see the list of [Italian features](feat-index.md).-->
