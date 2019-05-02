@@ -11,7 +11,7 @@ the copular verb. Copular heads are avoided when possible.
 In Komi-Zyrian the copula is represented by the independent copulas вӧвны (preterit) and лоны (future). There is no copula in an affirmative declarative sentence in the present tense. See:
 
 ~~~ sdparse
-Ме велӧдысь . \n  I'm a teacher .
+Ме велӧдысь .
 nsubj(велӧдысь-2, ме-1)
 ~~~
 
@@ -28,13 +28,13 @@ In the preterite and future tenses the copula is obligatory.
 ~~~ sdparse
 Ме лоа велӧдысь . \n  I will be a teacher .
 nsubj(велӧдысь, ме)
-aux(велӧдысь, лоа)
+cop(велӧдысь, лоа)
 ~~~
 
 ~~~ sdparse
 Ме вӧлі велӧдысь . \n  I was a teacher .
 nsubj(велӧдысь-3, ме-1)
-aux(велӧдысь-3, вӧлі-2)
+cop(велӧдысь-3, вӧлі-2)
 ~~~
 
 In the negative declarative sentences the negation verb is used, as normally in Komi with verbs.
@@ -43,14 +43,14 @@ In the negative declarative sentences the negation verb is used, as normally in 
 Ме эг вӧв велӧдысь . \n  I wasn't a teacher .
 nsubj(велӧдысь-4, ме-1)
 aux(велӧдысь-4, эг-2)
-aux(велӧдысь-4, вӧв-3)
+aux(велӧдысь-4, cop-3)
 ~~~
 
 ~~~ sdparse
-Ме ог ло велӧдысь . \n  I will not be a teacher .
+Ме ог ло велӧдысь . \n  I will_not be teacher .
 nsubj(велӧдысь-4, ме-1)
 aux(велӧдысь-4, ог-2)
-aux(велӧдысь-4, ло-3)
+cop(велӧдысь-4, ло-3)
 ~~~
 
 In locative and existential predication negative абу is also used: 
