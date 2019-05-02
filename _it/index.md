@@ -22,7 +22,7 @@ udver: '2'
 ### Tags
 
 * Italian uses all 17 universal tags.
-* The use of [PART](pos/PART.md) is limited to possessive markers in English names: [en] ‘s. Examples: *Wendy 's*, *McDonald 's*.
+* The use of [PART]() is limited to possessive markers in English names: [en] ‘s. Examples: *Wendy 's*, *McDonald 's*.
 * The tag [AUX](pos/AUX_.md) is used to mark the following cases:
   * the copular verb *essere* "be", which in Italian is the only verb that can be a copula;
   * tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
@@ -117,24 +117,24 @@ case(Anna,per)
 
 * The following subtypes are used in Italian:
   * [acl:relcl]() for relative clauses
-  * [aux:pass](dep/auxpass.md) for passive auxiliaries
-  * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
-  * [det:poss](dep/det-poss.md) possessive determiner
-  * [det:predet](dep/det-predet.md) appears in front of another determiner
-  * [discourse:emo](dep/discourse-emo.md) emoticons/emojis and other pictographic elements
-  * [expl:impers](dep/expl-impers.md) for impersonal clitics
-  * [expl:pass](dep/expl-pass.md) for reflexive clitics in reflexive passives
-  * [flat:foreign](dep/flat-foreign.md) for non-first words in quoted foreign phrases
-  * [flat:name](dep/flat-name.md) for proper names
-  * [nsubj:pass](dep/nsubjpass.md) for nominal subjects of passive verbs
-  * [obl:agent](dep/obl-agent.md) for agents of passive verbs
-  * [parataxis:appos](dep/parataxis-appos.md) appositive sentences
-  * [parataxis:discourse](dep/parataxis-discourse.md) semantically-void sentences used as discourse markers
-  * [parataxis:hashtag](dep/parataxis-hashtag.md) hashtags that are not syntactically integrated into the sentence
-  * [parataxis:insert](dep/parataxis-insert.md) parenthetical clauses that cannot be considered independent from the governing predicate
-  * [parataxis:nsubj](dep/parataxis-nsubj.md) paratactic sentences with an implicit nsubj role with respect to the governing predicate
-  * [parataxis:obj](dep/parataxis-obj.md) the paratactic sentence is an object (often used with direct speech)
-  * [vocative:mention](dep/vocative-mention.md) Twitter @-mentions, when they are not syntactically integrated into the sentence
+  * [aux:pass]() for passive auxiliaries
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [det:poss]() possessive determiner
+  * [det:predet]() appears in front of another determiner
+  * [discourse:emo]() emoticons/emojis and other pictographic elements
+  * [expl:impers]() for impersonal clitics
+  * [expl:pass]() for reflexive clitics in reflexive passives
+  * [flat:foreign]() for non-first words in quoted foreign phrases
+  * [flat:name]() for proper names
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
+  * [parataxis:appos]() appositive sentences
+  * [parataxis:discourse]() semantically-void sentences used as discourse markers
+  * [parataxis:hashtag]() hashtags that are not syntactically integrated into the sentence
+  * [parataxis:insert]() parenthetical clauses that cannot be considered independent from the governing predicate
+  * [parataxis:nsubj]() paratactic sentences with an implicit nsubj role with respect to the governing predicate
+  * [parataxis:obj]() the paratactic sentence is an object (often used with direct speech)
+  * [vocative:mention]() Twitter @-mentions, when they are not syntactically integrated into the sentence
 
 <!--SM: the part on syntax needs to be revised and expanded-->
 <!--For more information, see the list of [Italian relations](dep-index.md).-->
