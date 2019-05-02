@@ -14,6 +14,6 @@ parataxis:obj(Leggete, innesca)
 ~~~
 
 ~~~ sdparse
-Grillo avverte: " Dopo la Lega colpiranno anche noi "
+Grillo avverte : " Dopo la Lega colpiranno anche noi "
 parataxis:obj(avverte, colpiranno) 
 ~~~
