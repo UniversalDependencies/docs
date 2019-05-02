@@ -27,8 +27,8 @@ In the preterite and future tenses the copula is obligatory.
 
 ~~~ sdparse
 Ме лоа велӧдысь . \n  I will be a teacher .
-nsubj(велӧдысь-3, ме-1)
-aux(велӧдысь-3, лоа-2)
+nsubj(велӧдысь, ме)
+aux(велӧдысь, лоа)
 ~~~
 
 ~~~ sdparse
