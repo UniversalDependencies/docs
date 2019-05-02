@@ -55,6 +55,16 @@ case(աշխատանքի, մեջ)
 det(աշխատանքի, այդ)
 ~~~
 
+* Dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient:
+
+~~~ sdparse
+Նրան/PROPN[Case=Dat] սուրճ/NOUN[Case=Nom] եփեց/VERB ։ \n He-made (for) him coffee .
+obl(եփեց, Նրան)
+obl(He-made, him)
+obj(եփեց, սուրճ)
+obj(He-made, coffee)
+~~~
+
 * `obl` is also used for temporal and locational nominal modifiers as bare nominals or something syntactically a noun phrase in a sentence:
 
 ~~~ sdparse
