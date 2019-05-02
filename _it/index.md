@@ -116,7 +116,7 @@ case(Anna,per)
 
 
 * The following subtypes are used in Italian:
-  * [acl:relcl](dep/acl-relcl.md) for relative clauses
+  * [acl:relcl]() for relative clauses
   * [aux:pass](dep/auxpass.md) for passive auxiliaries
   * [csubj:pass](dep/csubjpass.md) for clausal subjects of passive verbs
   * [det:poss](dep/det-poss.md) possessive determiner
