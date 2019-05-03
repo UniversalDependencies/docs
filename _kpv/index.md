@@ -16,7 +16,7 @@ udver: '2'
 
 ### Tags
 
-* Komi-Zyrian uses all 17 universal POS categories. There are also complex compound-cases in Komi, but as they don't yet occur in the treebanks, they have not been included into documentation or annotation conventions.
+* Komi-Zyrian uses all 17 universal POS categories. 
 * There are two copulas лоны and вӧвны, both meaning “to be”. Besides these there are also frequentative forms such as вӧвлыны and лолыны.
 * Verbs with modal meaning are not considered auxiliary in Komi-Zyrian.
 
@@ -25,7 +25,7 @@ udver: '2'
 
 #### Nominal features
 
-* Case has 17 possible values: Nom, Gen, Acc, Abl, Dat, Ins, Com, Car, Cau, Ine, Ill, Ela, Tra, Prl, Ter, Apr, Egr. They occur with following word POS: NOUN, PROPN, PRON, ADJ, ADV and ADP.
+* Case has 17 possible values: Nom, Gen, Acc, Abl, Dat, Ins, Com, Car, Cau, Ine, Ill, Ela, Tra, Prl, Ter, Apr, Egr. They occur with following word POS: NOUN, PROPN, PRON, ADJ, ADV and ADP. There are also complex compound-cases in Komi, but as they don't yet occur in the treebanks, they have not been included into documentation or annotation conventions.
 
 * The cases are widely used with adpositions and adverbs, which are also tagged separately for case. This is not a common solution with UD treebanks, but keeping this information seems important with Uralic languages where the case marking is such an important aspect of adpositions.
 
