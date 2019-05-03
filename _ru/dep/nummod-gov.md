@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod:gov'
 shortdef: 'numeric modifier governing the case of the noun'
+udver: '2'
 ---
 
 `nummod:gov` differs from [nummod]()
@@ -13,16 +14,16 @@ In UD the numeral is annotated as dependent of the noun and the `nummod:gov` lab
 the information about case conditions.
 
 ~~~ sdparse
-Пять мужчин играло в карты . \n Five men played cards .
+Пять мужчин играло в карты . \n Five men were playing cards .
 nummod:gov(мужчин, Пять)
 nsubj(играло, мужчин)
 obj(играло, карты)
 case(карты, в)
 punct(играло, .-6)
 nummod:gov(men, Five)
-nsubj(played, men)
-obj(played, cards)
-punct(played, .-12)
+nsubj(playing, men)
+obj(playing, cards)
+punct(playing, .-13)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.

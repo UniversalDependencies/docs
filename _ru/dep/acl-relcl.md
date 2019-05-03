@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl:relcl'
 shortdef: 'relative clause modifier'
+udver: '2'
 ---
 
 The `acl:relcl` relation is used for relative clauses modifying
@@ -28,4 +29,23 @@ obj(любишь, которого)
 obj(love, who)
 ~~~
 
+~~~ sdparse
+Я увидел этого мужчину в саду, в котором я не хотел бы оказаться снова  \n I saw that man in the garden,  where I would not like to turn up again
+obl(увидел, саду)
+obl(saw, garden)
+acl:relcl(саду, хотел)
+acl:relcl(garden, like)
+nsubj(увидел, Я)
+nsubj(saw, I)
+obj(увидел, мужчину)
+obj(saw, man)
+~~~
+
+~~~ sdparse
+Мужчина, который всегда носит красную рубашку, никогда не опаздывает  \n A man who always wears a red shirt is never late
+acl:relcl(Мужчина, носит)
+acl:relcl(man, wears)
+nsubj(опаздывает, Мужчина)
+nsubj(late, man)
+~~~
 

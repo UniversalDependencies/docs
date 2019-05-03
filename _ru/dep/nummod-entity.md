@@ -2,13 +2,14 @@
 layout: relation
 title: 'nummod:entity'
 shortdef: 'numeric modifier governed by a noun'
+udver: '2'
 ---
 
 ~~~ sdparse
-Она вошла в комнату номер 384. \n She entered room number 384 .
+Она вошла в комнату номер 5. \n She entered room number five .
 nummod:entity(комнату, номер)
-nummod(номер, 384)
+nummod(номер, 5)
 nummod:entity(room, number)
-nummod(number, 384)
+nummod(number, five)
 ~~~
 
