@@ -12,7 +12,7 @@ In Komi-Zyrian the copula is represented by the independent copulas вӧвны (
 
 ~~~ sdparse
 Ме велӧдысь .
-nsubj(велӧдысь, ме)
+nsubj(велӧдысь, Ме)
 ~~~
 
 However, particle абу is used in a negative declarative sentence in the present.
@@ -33,7 +33,7 @@ cop(велӧдысь, лоа)
 
 ~~~ sdparse
 Ме вӧлі велӧдысь . \n  I was a teacher .
-nsubj(велӧдысь-3, ме-1)
+nsubj(велӧдысь-3, Ме-1)
 cop(велӧдысь-3, вӧлі-2)
 ~~~
 
@@ -41,14 +41,14 @@ In the negative declarative sentences the negation verb is used, as normally in 
 
 ~~~ sdparse
 Ме эг вӧв велӧдысь . \n  I wasn't a teacher .
-nsubj(велӧдысь-4, ме-1)
+nsubj(велӧдысь-4, Ме-1)
 aux(велӧдысь-4, эг-2)
 cop(велӧдысь-4, вӧв-3)
 ~~~
 
 ~~~ sdparse
 Ме ог ло велӧдысь . \n  I will_not be teacher .
-nsubj(велӧдысь-4, ме-1)
+nsubj(велӧдысь-4, Ме-1)
 aux(велӧдысь-4, ог-2)
 cop(велӧдысь-4, ло-3)
 ~~~
@@ -57,7 +57,7 @@ In locative and existential predication negative абу is also used:
 
 ~~~ sdparse
 Менам абу кань .
-obl(кань, менам)
+obl(кань, Менам)
 advmod(кань, абу)
 ~~~
 
