@@ -12,7 +12,7 @@ In Komi-Zyrian the copula is represented by the independent copulas вӧвны (
 
 ~~~ sdparse
 Ме велӧдысь .
-nsubj(велӧдысь-2, ме-1)
+nsubj(велӧдысь, ме)
 ~~~
 
 However, particle абу is used in a negative declarative sentence in the present.
