@@ -77,3 +77,11 @@ obl(кань, Менам)
 advmod(кань, эм)
 ~~~
 
+These particles also have plural forms эмӧсь and абуӧсь, which makes other analyses besides a particle also worth considering:
+
+~~~ sdparse
+Менам эмӧсь каньяс . \n I have cats .
+obl(кань, Менам)
+advmod(кань, эмӧсь)
+~~~
+
