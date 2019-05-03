@@ -33,11 +33,14 @@ udver: '2'
   * pron: interrogatives and others (_beth_, _neb_, _pwy_, _rhai_, _sawl_)
 * AUX is used in three cases:
   * for the auxiliary verb _bod_, if inflected and in copula position)
-  * for TAM markers (_yn_ (XPOS: impf), _wedi_ (perf), _newydd_ (perf), _heb_ (perf), _ar_ (post)
+  * for TAM markers (_yn_ (XPOS: impf), _wedi_ (ante), _newydd_ (ante), _heb_ (ante),  _hen_ (ante), _ar_ (post),  _am_ (post)
+    (maybe changed to PART in a future version)
   * for preverbals (_y_, _a_, _mi_, _fe_)
+    (maybe changed to PART in a future version)
 * VERB is used for all verbs, including _bod_ if it is the main verb (followed by a verbnoun). Verbnouns however are marked as NOUN (with XPOS verbnoun) since they function syntactically as nouns (the direct object is in a genetive construction, the subject is marked with a preposition)
 * ADP: inflected prepostions are marked with the XPOS cprep, other preposition have the XPOS prep)
 * PART is only used for the predicative marker _yn_ (which triggers soft mutation on the following word, in difference to the TAM marker _yn_ with does not trigger any mutation and the preposition _yn_ which triggers nasal mutation). The predicative _yn_ is used before nouns and adjectives in head position _Mae Siôn yn athro_ «Siôn is a teacher», _Roedd Nia yn gyflym_ «Nia was fast»
+* The ADV class also contains _dyma_, _dyna_ and _dacw_, even though they can function as a copula.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -71,16 +74,21 @@ udver: '2'
 * The following multi-word expressions use the fixed dependency relation
   * _o hyd_ «always«
   * _ar hyd_ «along»
+  * _ar draws_ «across»
   * _hyd at_ «as far as»
   * _hyd yn oed_ «even»
   * _dim ond_ «only»
+  * _i fyny_ «up»
   * _i mewn_ «into»
   * _o fewn_ «within»
   * _ynglŷn â_ «in connection with»
+  * _yn lle_ «instead»
   * _oddi ar_ «since»
   * _oddi yma_ «from here»
   * _oddi wrth_ «from»
   * _oddi mewn_ «within»
+  * _ar draws_ «across»
+  * _er gwaethaf_ «in spite of»
 
 
 ---
