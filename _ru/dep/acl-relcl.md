@@ -36,7 +36,7 @@ obl(saw, garden)
 acl:relcl(саду, хотел)
 acl:relcl(garden, like)
 nsubj(увидел, Я)
-nsubj(saw, .-16)
+nsubj(saw, .-17)
 obj(увидел, мужчину)
 obj(saw, man)
 ~~~

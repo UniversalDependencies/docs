@@ -19,3 +19,4 @@ flat:foreign(компанией, Bull)
 flat:foreign(компанией, Technology)
 ~~~
 
+
