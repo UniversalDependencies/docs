@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ~~~ sdparse
-Она вошла в комнату номер 5. \n She entered room number five .
+Она вошла в комнату номер 5 \n She entered room number five
 nummod:entity(комнату, номер)
 nummod(номер, 5)
 nummod:entity(room, number)

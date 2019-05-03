@@ -20,7 +20,7 @@ obj(loves, you)
 ~~~
 
 ~~~ sdparse
-Я увидел мужчину , которого ты любишь  \n I saw the man who you love
+Я увидел мужчину , которого ты любишь \n I saw the man who you love
 acl:relcl(мужчину, любишь)
 acl:relcl(man, love)
 nsubj(любишь, ты)
@@ -30,19 +30,19 @@ obj(love, who)
 ~~~
 
 ~~~ sdparse
-Я увидел этого мужчину в саду, в котором я не хотел бы оказаться снова  \n I saw that man in the garden,  where I would not like to turn up again
+Я увидел этого мужчину в саду , в котором я не хотел бы оказаться снова \n I saw that man in the garden, where I would not like to turn up again
 obl(увидел, саду)
 obl(saw, garden)
 acl:relcl(саду, хотел)
 acl:relcl(garden, like)
 nsubj(увидел, Я)
-nsubj(saw, I)
+nsubj(saw, .-16)
 obj(увидел, мужчину)
 obj(saw, man)
 ~~~
 
 ~~~ sdparse
-Мужчина, который всегда носит красную рубашку, никогда не опаздывает  \n A man who always wears a red shirt is never late
+Мужчина , который всегда носит красную рубашку , никогда не опаздывает  \n A man who always wears a red shirt is never late
 acl:relcl(Мужчина, носит)
 acl:relcl(man, wears)
 nsubj(опаздывает, Мужчина)
