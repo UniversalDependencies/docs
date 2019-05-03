@@ -81,7 +81,7 @@ These particles also have plural forms эмӧсь and абуӧсь, which makes 
 
 ~~~ sdparse
 Менам эмӧсь каньяс . \n I have cats .
-obl(кань, Менам)
-advmod(кань, эмӧсь)
+obl(каньяс, Менам)
+advmod(каньяс, эмӧсь)
 ~~~
 
