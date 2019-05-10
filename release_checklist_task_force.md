@@ -20,10 +20,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl |& tee release-2.2-report.txt | less`.
-  (Since the partial shared task releases, the source code is modified to only look at
-  pre-selected UD folders. Check the code to make sure it visits all UD_* repositories.
-  Also check other parameters that are currently hard-coded, such as the release number.)
+* Run `tools/check_files.pl |& tee release-2.4-report.txt | less`.
+  (Check the code for parameters that are currently hard-coded, such as the release number.)
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
   and check whether the treebanks are valid (prerequisite: all UD repositories are registered
