@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2019-05-10T12:05:14Z">2019-05-10T12:05:14 zulu</time>
+Regenerated <time class="timeago" datetime="2019-05-10T12:05:32Z">2019-05-10T12:05:32 zulu</time>
 
 # Aux chain
 
@@ -45,18 +45,8 @@ aux(left, have)
 </div>
 <div>
 <table>
-<tr><th/> <th>VERB</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Vietnamese-VTB-dev">49</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">49 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -242,18 +232,8 @@ appos(brother, Sam)
 </div>
 <div>
 <table>
-<tr><th/> <th>NOUN</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos%40R+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos%40R+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -273,18 +253,8 @@ Search expression: `(!(AUX|PRON)) <cop _`
 </div>
 <div>
 <table>
-<tr><th/> <th>CCONJ</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Ccop+_&db=UD_Vietnamese-VTB-dev">2</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28AUX%7CPRON%29%29+%3Ccop+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -345,13 +315,6 @@ Search expression: `(!DET&!PRON) <det _`
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">886 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
-</div>
 </div>
 
 
@@ -370,13 +333,6 @@ Search expression: `!PUNCT <punct _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">8 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PUNCT+%3Cpunct+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -397,13 +353,6 @@ Search expression: `PUNCT (<!punct&<!root) _`
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">18 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
-</div>
 </div>
 
 
@@ -422,13 +371,6 @@ Search expression: `(PRON|DET)&!PronType`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">691 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Warlpiri-UFAL</span>
@@ -474,13 +416,6 @@ Search expression: `(VERB)&!VerbForm`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">8582 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%29%26%21VerbForm&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Warlpiri-UFAL</span>
@@ -564,20 +499,8 @@ Search expression: `_ >nsubj|>csubj|>nsubj:pass|>csubj:pass _ >nsubj|>csubj|>nsu
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>NOUN</th><th>VERB</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Vietnamese-VTB-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Vietnamese-VTB-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Vietnamese-VTB-dev">67</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">80 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -597,25 +520,11 @@ Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>PUNCT</th><th>VERB</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Vietnamese-VTB-dev">12</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Vietnamese-VTB-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Vietnamese-VTB-dev">519</a></td>
-</tr>
+<tr><th/> <th>VERB</th> </tr>
 <tr><td>UD_Warlpiri-UFAL</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Warlpiri-UFAL-dev">2</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">533 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Warlpiri-UFAL</span>
@@ -642,18 +551,8 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <table>
-<tr><th/> <th>NOUN</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -673,13 +572,6 @@ Search expression: `ADP >!conj&>!cc&>!punct&>!fixed _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">260 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21fixed+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -721,18 +613,8 @@ appos(brother, cousin)
 </div>
 <div>
 <table>
-<tr><th/> <th>NOUN</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cappos+%28_+%3Cappos+_%29&db=UD_Vietnamese-VTB-dev">1</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cappos+%28_+%3Cappos+_%29&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -752,13 +634,6 @@ Search expression: `(!ADV) <advmod _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">3332 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Warlpiri-UFAL</span>
@@ -785,21 +660,8 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>NOUN</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-VTB-dev">54</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-VTB-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-VTB-dev">315</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">376 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -840,18 +702,8 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <table>
-<tr><th/> <th>NUM</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Vietnamese-VTB-dev">85</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">85 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -871,18 +723,8 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <table>
-<tr><th/> <th>NOUN</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -902,18 +744,8 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 </div>
 <div>
 <table>
-<tr><th/> <th>AUX</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">412</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">412 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -933,24 +765,8 @@ Search expression: `!AUX (<aux|<aux:pass) _`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>NOUN</th><th>PART</th><th>PROPN</th><th>PUNCT</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">22</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">500</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">60</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">588 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21AUX+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -971,13 +787,6 @@ Search expression: `(!CCONJ&!SYM&!ADV) <cc _`
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">485 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21CCONJ%26%21SYM%26%21ADV%29+%3Ccc+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
-</div>
 </div>
 
 
@@ -996,26 +805,8 @@ Search expression: `_ < (_ <cc _)`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>ADP</th><th>CCONJ</th><th>NOUN</th><th>PART</th><th>PROPN</th><th>PUNCT</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">5</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">5</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">32 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 </div>
 
@@ -1098,33 +889,11 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>CCONJ</th><th>NOUN</th><th>NUM</th><th>PROPN</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Vietnamese-VTB</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Vietnamese-VTB-dev">248</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Excomp+_&db=UD_Vietnamese-VTB-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Vietnamese-VTB-dev">1490</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Vietnamese-VTB-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Vietnamese-VTB-dev">18</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Vietnamese-VTB-dev">1583</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Vietnamese-VTB-dev">2</a></td>
-</tr>
+<tr><th/> <th>VERB</th> </tr>
 <tr><td>UD_Warlpiri-UFAL</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Warlpiri-UFAL-dev">&nbsp;</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Vietnamese-VTB</span>
-<span class="widespan">3345 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Vietnamese-VTB-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Warlpiri-UFAL</span>
