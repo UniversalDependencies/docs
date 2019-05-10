@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-10041 tokens (7%) have a non-empty value of `Polarity`.
+10111 tokens (7%) have a non-empty value of `Polarity`.
 95 types (0%) occur at least once with a non-empty value of `Polarity`.
 5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (8295; 6% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1073; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (673; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (8295; 6% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1073; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (743; 1% instances).
 
 ### `AUX`
 
@@ -78,12 +78,12 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `PART`
 
-673 <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> tokens (16% of all `PART` tokens) have a non-empty value of `Polarity`.
+743 <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> tokens (18% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (673; 100% of non-empty `Polarity`): <em>ne</em>
-* `EMPTY` (3426): <em>tudi, še, že, le, naj, prav, samo, seveda, sicer, več</em>
+* `Neg` (743; 100% of non-empty `Polarity`): <em>ne</em>
+* `EMPTY` (3356): <em>tudi, še, že, le, naj, prav, samo, seveda, sicer, več</em>
 
 ## Relations with Agreement in `Polarity`
 

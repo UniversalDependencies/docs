@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-75 nodes (0%) are attached to their parents as `iobj`.
+97 nodes (0%) are attached to their parents as `iobj`.
 
-74 instances of `iobj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48.
+96 instances of `iobj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38144329896907.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (40; 53% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (28; 37% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (7; 9% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (57; 59% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (28; 29% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (10; 10% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,21 +55,21 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 iobj	color:blue
-1	Biologist	biologist	NOUN	NN	Number=Sing	4	nsubj	_	_
-2	Nick	Nick	PROPN	NNP	Number=Sing	1	flat	_	_
-3	Bos	Bos	PROPN	NNP	Number=Sing	1	flat	_	_
-4	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	Wikinews	Wikinews	PROPN	NNP	Number=Sing	4	iobj	_	_
-6	about	about	ADP	IN	_	10	case	_	_
-7	'	'	PUNCT	``	_	8	punct	_	SpaceAfter=No
-8	self-medicating	self-medicate	VERB	VBG	VerbForm=Ger	10	amod	_	SpaceAfter=No
-9	'	'	PUNCT	''	_	8	punct	_	_
-10	ants	ant	NOUN	NNS	Number=Plur	4	obl	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 iobj	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	SpaceAfter=No
+3	n’t	n't	PART	RB	Polarity=Neg	4	advmod	_	_
+4	wait	wait	VERB	VB	VerbForm=Inf	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	show	show	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+7	Toph	Toph	PROPN	NNP	Number=Sing	6	iobj	_	_
+8	and	and	CCONJ	CC	_	9	cc	_	_
+9	Len	Len	PROPN	NNP	Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

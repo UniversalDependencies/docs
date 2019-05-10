@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-557 nodes (5%) are attached to their parents as `obl`.
+556 nodes (5%) are attached to their parents as `obl`.
 
-318 instances of `obl` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.6032315978456.
+317 instances of `obl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.60611510791367.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (420; 75% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (54; 10% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 3% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (419; 75% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (54; 10% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 3% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

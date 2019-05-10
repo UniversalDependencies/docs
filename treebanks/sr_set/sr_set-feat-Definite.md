@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-9369 tokens (11%) have a non-empty value of `Definite`.
-4684 types (29%) occur at least once with a non-empty value of `Definite`.
-1935 lemmas (23%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (9369; 11% instances).
+10623 tokens (11%) have a non-empty value of `Definite`.
+5347 types (29%) occur at least once with a non-empty value of `Definite`.
+2253 lemmas (24%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 1 part-of-speech tags: <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10623; 11% instances).
 
 ### `ADJ`
 
-9369 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
+10623 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (91% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8994; 96%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6376; 68%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10194; 96%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7206; 68%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (8794; 94% of non-empty `Definite`): <em>prošle, novi, inostranih, bivši, srpske, novog, evropske, Crne, glavni, nove</em>
-* `Ind` (575; 6% of non-empty `Definite`): <em>važan, održan, otvoren, poznat, postignut, završen, dobar, zadužen, osuđen, pozitivan</em>
-* `EMPTY` (4): <em>tzv.</em>
+* `Def` (9945; 94% of non-empty `Definite`): <em>novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</em>
+* `Ind` (678; 6% of non-empty `Definite`): <em>važan, održan, dobar, poznat, otvoren, sam, čitav, postignut, završen, zadužen</em>
+* `EMPTY` (1099): <em>drugi, prvi, druge, drugim, drugih, 2007., 2004., 21., prva, 1.</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -53,14 +53,16 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novim</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>novim</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Novim</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novim</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novom</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>novim</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novoj</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Novom</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>novim</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novijoj</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najnovijem</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>najnovijim</em></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>novi</em></td></tr>
+  <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nov</em></td><td><em>novi</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>novi</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nova</em></td></tr>
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>nove</em></td></tr>
@@ -74,14 +76,14 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>ADJ --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (253; 95%),
-<tt>ADJ --[<tt><a href="sr_set-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (11; 85%),
-<tt>ADJ --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 100%),
-<tt>ADJ --[<tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (6; 86%),
-<tt>ADJ --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> ADJ</tt> (5; 100%),
+<tt>ADJ --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (314; 93%),
+<tt>ADJ --[<tt><a href="sr_set-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (12; 80%),
+<tt>ADJ --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9; 69%),
+<tt>ADJ --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (6; 55%),
+<tt>ADJ --[<tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (6; 75%),
+<tt>ADJ --[<tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="sr_set-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (5; 83%),
-<tt>ADJ --[<tt><a href="sr_set-dep-acl.html">acl</a></tt>]--> ADJ</tt> (4; 80%),
-<tt>ADJ --[<tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="sr_set-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="sr_set-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (3; 75%).
+<tt>ADJ --[<tt><a href="sr_set-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (4; 100%).
 

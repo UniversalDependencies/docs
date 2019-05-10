@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-167 nodes (0%) are attached to their parents as `punct`.
+168 nodes (0%) are attached to their parents as `punct`.
 
 129 instances of `punct` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05988023952096.
+Average distance between parent and child is 1.06547619047619.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (35; 21% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (32; 19% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (27; 16% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (21; 13% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (18; 11% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (16; 10% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (13; 8% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (35; 21% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (32; 19% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (27; 16% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (21; 13% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (18; 11% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (16; 10% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (14; 8% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances).
 
 
 ~~~ conllu

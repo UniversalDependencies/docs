@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.422480).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.422634).
 
 The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
@@ -43,7 +43,7 @@ Examples: <em>att, inte, Icke</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 4 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (1121; 60% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (744; 40% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (8; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 4 different relations: <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (1120; 60% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (744; 40% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1623; 87% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (103; 5% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (97; 5% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

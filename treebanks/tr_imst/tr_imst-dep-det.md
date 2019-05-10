@@ -23,12 +23,9 @@ The following 32 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
 1	Bir	bir	NUM	ANum	NumType=Card	2	det	_	_
-2	ihtimal	ihtimal	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obl	_	_
-3	olarak	olarak	ADP	PCNom	_	2	case	_	_
-4	bu	bu	DET	Det	_	5	det	_	_
-5	hususu	husus	NOUN	Noun	Case=Acc|Number=Sing|Person=3	6	obj	_	_
-6	belirtiyorlar	belir	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+2	taksi	taksi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+3	bulduk	bul	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

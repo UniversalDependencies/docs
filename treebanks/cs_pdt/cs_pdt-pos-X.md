@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PDT: POS Tags: `X`
 
 There are 4 `X` lemmas (0%), 4 `X` types (0%) and 13 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 16 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>a, h, m, s</em>
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="cs_pdt-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.181849).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.181762).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 

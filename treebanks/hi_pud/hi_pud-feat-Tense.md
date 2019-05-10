@@ -40,8 +40,3 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Pres` (178; 27% of non-empty `Tense`): है, हैं, करें, करता, करते, चाहिए, निपटें, फटते, फिशिंग, मांगा
 * `EMPTY` (1392): करने, कर, किया, हो, होने, करते, की, करता, करना, कहा
 
-## Relations with Agreement in `Tense`
-
-The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="hi_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).
-

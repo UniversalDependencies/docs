@@ -28,12 +28,12 @@ The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="cs_pud-pos-NUM.h
   * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2: <em>Federico Fellini <b>jednou</b> řekl : „ Klaun je pro lidstvo jako stín pro člověka “ .</em>
   * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>To má co do činění s <b>jednou</b> z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .</em>
 * <em>pár</em>
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Viděl jsem jen <b>pár</b> dílů a najedou mi začal ožívat telefon .</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Viděl jsem jen <b>pár</b> dílů a najednou mi začal ožívat telefon .</em>
   * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>V srpnu 2015 Kesha zveřejnila <b>pár</b> informací o svém připravovaném třetím studiovém albu .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.094595 (the average of all parts of speech is 1.427558).
+The form / lemma ratio of `NUM` is 1.094595 (the average of all parts of speech is 1.427665).
 
 The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednou, jednu, jedné, jedním</em>.
 
@@ -54,7 +54,7 @@ Examples: <em>1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</em>
 
 `NUM` nodes are attached to their parents using 16 different relations: <tt><a href="cs_pud-dep-nummod.html">nummod</a></tt> (319; 69% instances), <tt><a href="cs_pud-dep-nummod-gov.html">nummod:gov</a></tt> (74; 16% instances), <tt><a href="cs_pud-dep-conj.html">conj</a></tt> (18; 4% instances), <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt> (11; 2% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="cs_pud-dep-compound.html">compound</a></tt> (5; 1% instances), <tt><a href="cs_pud-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="cs_pud-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="cs_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="cs_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (371; 81% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (25; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (22; 5% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (19; 4% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (13; 3% instances),  (5; 1% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (371; 81% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (25; 5% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (22; 5% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (19; 4% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt> (13; 3% instances),  (5; 1% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 321 (70%) `NUM` nodes are leaves.
 

@@ -70,21 +70,21 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
-1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon|SpaceAfter=No
+1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	den	dén	NOUN	n	_	7	nsubj	_	Gloss=enfant
+3	den	dén	NOUN	n	_	7	nsubj	_	Gloss=enfant
 4	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
-5	i	í	PRON	pers	PronType=Prs	7	obj	_	Gloss=REFL
+5	i	í	PRON	pers	PronType=Prs	7	obj	_	Gloss=REFL
 6	sigilen	sigilen	VERB	ptcp	Aspect=Perf|VerbForm=Part	7	xcomp	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
-7	to	tó	VERB	v	_	0	root	_	Gloss=rester
-8	so	só	NOUN	n	_	7	obl	_	Gloss=maison
-9	kònò	kɔ́nɔ	ADP	pp	_	8	case	_	Gloss=dans
-10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=3SG
+7	to	tó	VERB	v	_	0	root	_	Gloss=rester
+8	so	só	NOUN	n	_	7	obl	_	Gloss=maison
+9	kònò	kɔ́nɔ	ADP	pp	_	8	case	_	Gloss=dans
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=3SG
 11	kasira	kasira	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	7	parataxis	_	Gloss=pleurer|Morf=pleurer,PFV.INTR
-12	ko	kó	PART	cop	_	14	discourse	_	Gloss=
-13	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	14	nmod:poss	_	Gloss=1SG.EMPH
-14	ba	bá	NOUN	n	_	11	parataxis:obj	_	Gloss=mère
-15	yo	yó	PART	prt	_	14	discourse	_	Gloss=salut|SpaceAfter=No
+12	ko	kó	PART	cop	_	14	discourse	_	Gloss=
+13	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	14	nmod:poss	_	Gloss=1SG.EMPH
+14	ba	bá	NOUN	n	_	11	parataxis:obj	_	Gloss=mère
+15	yo	yó	PART	prt	_	14	discourse	_	Gloss=salut|SpaceAfter=No
 16	!	!	PUNCT	_	_	7	punct	_	Gloss=!
 
 ~~~

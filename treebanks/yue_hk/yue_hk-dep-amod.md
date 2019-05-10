@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `amod`.
+136 nodes (1%) are attached to their parents as `amod`.
 
-32 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+136 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23529411764706.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (27; 84% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (115; 85% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,40 +40,44 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	但係	但係	CCONJ	_	_	8	advmod	_	SpaceAfter=No
-2	細個	細個	ADJ	_	_	3	amod	_	SpaceAfter=No
-3	嗰陣時	嗰陣時	ADP	_	_	8	obl:tmod	_	SpaceAfter=No
-4	就	就	ADV	_	_	8	advmod	_	SpaceAfter=No
-5	反而	反而	ADV	_	_	8	advmod	_	SpaceAfter=No
-6	多多	多多	ADV	_	_	8	advmod	_	SpaceAfter=No
-7	都	都	ADV	_	_	8	advmod	_	SpaceAfter=No
-8	買	買	VERB	_	_	0	root	_	SpaceAfter=No
-9	得	得	AUX	_	_	10	aux	_	SpaceAfter=No
-10	起	起	VERB	_	_	8	compound:dir	_	SpaceAfter=No
-11	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 14 amod	color:blue
+1	我	_	PRON	_	_	5	reparandum	_	SpaceAfter=No
+2	-	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	我	_	PRON	_	_	5	reparandum	_	SpaceAfter=No
+4	-	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	我哋	_	PRON	_	_	9	nsubj	_	SpaceAfter=No
+6	係咪	_	ADV	_	_	9	advmod	_	SpaceAfter=No
+7	應該	_	AUX	_	_	9	aux	_	SpaceAfter=No
+8	要	_	AUX	_	_	9	aux	_	SpaceAfter=No
+9	等	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	埋	_	PART	_	_	9	compound:quant	_	SpaceAfter=No
+11	佢	_	PRON	_	_	12	nsubj	_	SpaceAfter=No
+12	有	_	VERB	_	_	9	ccomp	_	SpaceAfter=No
+13	呢個	_	DET	_	_	16	det	_	SpaceAfter=No
+14	噉樣	_	ADV	_	_	16	amod	_	SpaceAfter=No
+15	嘅	_	PART	_	_	14	case	_	SpaceAfter=No
+16	文件	_	NOUN	_	_	12	obj	_	SpaceAfter=No
+17	喺	_	ADP	_	_	18	case	_	SpaceAfter=No
+18	手	_	NOUN	_	_	12	obl	_	SpaceAfter=No
+19	。	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	關	關	VERB	_	_	0	root	_	SpaceAfter=No
-2	你	你	PRON	_	_	4	nmod	_	SpaceAfter=No
-3	鬼	鬼	NOUN	_	_	4	amod	_	SpaceAfter=No
-4	事	事	NOUN	_	_	1	obj	_	SpaceAfter=No
-5	呀	呀	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-6	？	？	PUNCT	_	_	1	punct	_	SpaceAfter=No
-7	殊	殊	VERB	_	_	1	parataxis	_	SpaceAfter=No
-8	！	！	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	大	大	ADJ	_	_	2	amod	_	SpaceAfter=No
+2	蝦	蝦	VERB	_	_	0	root	_	SpaceAfter=No
+3	細	細	ADJ	_	_	2	obj	_	SpaceAfter=No
+4	！	！	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 ~~~
 

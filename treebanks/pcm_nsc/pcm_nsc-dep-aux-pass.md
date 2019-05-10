@@ -24,13 +24,13 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 15 14 aux:pass	color:blue
 1	#	#	PUNCT	_	_	12	punct	_	_
 2	after	after	ADP	_	_	4	case	_	_
-3	{	{	PUNCT	_	_	2	punct	_	_
+3	{	{	PUNCT	_	_	4	punct	_	_
 4	food	food	NOUN	_	_	12	obl:mod	_	_
 5	|c	|c	PUNCT	_	_	4	punct	_	_
 6	#	#	PUNCT	_	_	4	punct	_	_
 7	and	and	CCONJ	_	_	8	cc	_	_
 8	house	house	NOUN	_	_	4	conj:coord	_	_
-9	}	}	PUNCT	_	_	2	punct	_	_
+9	}	}	PUNCT	_	_	4	punct	_	_
 10	<+	<+	PUNCT	_	_	12	punct	_	_
 11	na	na	PART	_	_	12	mark	_	_
 12	motor	motor	NOUN	_	_	0	root	_	_

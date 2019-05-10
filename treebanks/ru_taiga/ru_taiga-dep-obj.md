@@ -8,74 +8,75 @@ udver: '2'
 
 This relation is universal.
 
-821 nodes (4%) are attached to their parents as `obj`.
+1503 nodes (4%) are attached to their parents as `obj`.
 
-582 instances of `obj` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.86723507917174.
+1012 instances of `obj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.86427145708583.
 
-The following 18 pairs of parts of speech are connected with `obj`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (612; 75% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (136; 17% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (36; 4% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `obj`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1139; 76% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (249; 17% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (49; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 obj	color:blue
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	собираем	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	#Топ100	#Топ100	NOUN	_	_	2	obj	_	_
+5	-	-	PUNCT	_	_	7	punct	_	_
+6	что	что	PRON	_	Case=Acc	7	obj	_	_
+7	увидеть	видеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	попробовать	пробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	_
+10	во	в	ADP	_	_	11	case	_	_
+11	Вьетнаме	Вьетнам	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 obj	color:blue
-1	Счастье	счастье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
-2	это	это	PART	_	_	3	cop	_	_
-3	качество	качество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
-6	имеющее	иметь	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
-7	будущего	будущее	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obj	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 obj	color:blue
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	собираем	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	#Топ100	#Топ100	NOUN	_	_	2	obj	_	_
+5	-	-	PUNCT	_	_	7	punct	_	_
+6	что	что	PRON	_	Case=Acc	7	obj	_	_
+7	увидеть	видеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	acl	_	_
 8	и	и	CCONJ	_	_	9	cc	_	_
-9	прошлого	прошлое	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
+9	попробовать	пробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	conj	_	_
+10	во	в	ADP	_	_	11	case	_	_
+11	Вьетнаме	Вьетнам	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 5 obj	color:blue
-1	Но	но	CCONJ	_	_	2	cc	_	_
-2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	мужчина	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	_
-5	которого	который	PRON	_	Case=Acc	10	obj	_	_
-6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
-7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
-8	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
-9	бы	бы	PART	_	Mood=Cnd	8	aux	_	_
-10	потерять	потерять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 obj	color:blue
-1	А	а	CCONJ	_	_	10	cc	_	_
-2	Явлинский	Явлинский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
-3	и	и	CCONJ	_	_	6	cc	_	_
-4	его	его	DET	_	_	6	det	_	_
-5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	Яблоко	Яблоко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	SpaceAfter=No
-7	"	"	PUNCT	_	_	6	punct	_	_
-8	так	так	ADV	_	Degree=Pos	9	advmod	_	_
-9	вообще	вообще	ADV	_	Degree=Pos	10	advmod	_	_
-10	собираются	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-11	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
-12	вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 11 10 obj	color:blue
+1	она	она	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+2	на	на	ADP	ADP	_	3	case	_	_
+3	почки	почка	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
+4	падает	падать	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	никто	никто	PRON	NOUN	Case=Nom	8	nsubj	_	_
+6	ничего	ничто	PRON	NOUN	Case=Gen	8	obj	_	_
+7	не	не	PART	PART	_	8	advmod	_	_
+8	сознаёт	сознавать	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+9	стремится	стремиться	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	parataxis	_	_
+10	Бога	Бог	PROPN	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+11	умолить	умолить	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
 
 ~~~
 

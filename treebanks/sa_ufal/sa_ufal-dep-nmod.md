@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sa_ufal-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-151 nodes (8%) are attached to their parents as `nmod`.
+146 nodes (8%) are attached to their parents as `nmod`.
 
-134 instances of `nmod` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28476821192053.
+129 instances of `nmod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27397260273973.
 
-The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (106; 70% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (21; 14% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (106; 73% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (21; 14% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

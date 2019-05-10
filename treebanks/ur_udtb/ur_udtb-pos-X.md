@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  افسوس (<tt><a href="ur_udtb-pos-NOUN
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.101810).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.101903).
 
 The 1st highest number of forms (1) was observed with the lemma “آخر”: آخر.
 
@@ -61,8 +61,8 @@ The 3rd highest number of forms (1) was observed with the lemma “افسوس”
 `X` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `VerbForm=Inf`
 
 `X` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (7 tokens).
-Examples: خدارا، آخر، نسبتاً، نہ، واقعی، چلو
+The most frequent feature combination is `Foreign=Yes` (7 tokens).
+Examples: ئن، را، لوڈ، نئچ، چۓۓپ، ڈان، ہتتپ
 
 
 ## Relations
@@ -71,13 +71,13 @@ Examples: خدارا، آخر، نسبتاً، نہ، واقعی، چلو
 
 Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (10; 45% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (9; 41% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (2; 9% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 5% instances)
 
-17 (77%) `X` nodes are leaves.
+18 (82%) `X` nodes are leaves.
 
-5 (23%) `X` nodes have one child.
+4 (18%) `X` nodes have one child.
 
 The highest child degree of a `X` node is 1.
 
-Children of `X` nodes are attached using 5 different relations: <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 20% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (1; 20% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (1; 20% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (1; 20% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (1; 20% instances)
+Children of `X` nodes are attached using 4 different relations: <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 25% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (1; 25% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (1; 25% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (1; 25% instances)
 
-Children of `X` nodes belong to 4 different parts of speech: <tt><a href="ur_udtb-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 20% instances)
+Children of `X` nodes belong to 3 different parts of speech: <tt><a href="ur_udtb-pos-X.html">X</a></tt> (2; 50% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
 

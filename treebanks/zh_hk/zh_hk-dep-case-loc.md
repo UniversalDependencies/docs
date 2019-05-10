@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-case.html">case</a></tt>.
 
-37 nodes (0%) are attached to their parents as `case:loc`.
+40 nodes (0%) are attached to their parents as `case:loc`.
 
-37 instances of `case:loc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08108108108108.
+40 instances of `case:loc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.075.
 
-The following 9 pairs of parts of speech are connected with `case:loc`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (22; 59% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `case:loc`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (26; 65% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (7; 18% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

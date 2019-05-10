@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 25	ST	ST	NOUN	_	_	24	nmod	_	_
 26	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 27	AI	AI	NOUN	_	_	12	appos	_	_
-28	/	/	PUNCT	_	_	27	punct	_	_
+28	/	/	SYM	_	_	27	dep	_	_
 29	IDM	IDM	NOUN	_	_	27	nmod	_	_
 30	ST-	ST-	NOUN	_	_	27	nmod	_	SpaceAfter=No
 31	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No

@@ -50,10 +50,10 @@ The following 47 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	ikkje	ikkje	PART	_	Polarity=Neg	3	advmod	_	_
 6	om	om	ADP	_	_	7	case	_	_
 7	oss	vi	PRON	_	Animacy=Hum|Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
-8	,	$,	PUNCT	_	_	3	punct	_	_
+8	,	$,	PUNCT	_	_	9	punct	_	_
 9	seier	seie	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 10	Rasim	Rasim	PROPN	_	_	9	nsubj	_	SpaceAfter=No
-11	,	$,	PUNCT	_	_	10	punct	_	_
+11	,	$,	PUNCT	_	_	14	punct	_	_
 12	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	eldre	gammal	ADJ	_	Degree=Cmp	14	amod	_	_
 14	mann	mann	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
@@ -72,7 +72,7 @@ The following 47 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	den	den	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 3	så	så	ADV	_	_	4	advmod	_	_
 4	spesiell	spesiell	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-5	,	$,	PUNCT	_	_	4	punct	_	_
+5	,	$,	PUNCT	_	_	7	punct	_	_
 6	denne	denne	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	ballen	ball	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
 8	?	$?	PUNCT	_	_	4	punct	_	_

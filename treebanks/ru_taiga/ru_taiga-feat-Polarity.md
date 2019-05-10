@@ -9,28 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-379 tokens (2%) have a non-empty value of `Polarity`.
+382 tokens (1%) have a non-empty value of `Polarity`.
 6 types (0%) occur at least once with a non-empty value of `Polarity`.
 2 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (350; 2% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (353; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances).
 
 ### `PART`
 
-350 <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> tokens (46% of all `PART` tokens) have a non-empty value of `Polarity`.
+353 <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> tokens (26% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (350; 100% of non-empty `Polarity`): <em>не, ни, неее</em>
-* `EMPTY` (416): <em>и, же, бы, только, вот, да, даже, это, просто, ну</em>
+* `Neg` (353; 100% of non-empty `Polarity`): <em>не, ни, неее</em>
+* `EMPTY` (1014): <em>не, и, же, вот, только, да, это, даже, ну, ли</em>
 
 ### `CCONJ`
 
-29 <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> tokens (3% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+29 <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> tokens (2% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (29; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (833): <em>и, а, но, или, да, либо, +, зато, то, КАК</em>
+* `EMPTY` (1714): <em>и, а, но, или, да, то, +, либо, ни, зато</em>
 
 ## Relations with Agreement in `Polarity`
 

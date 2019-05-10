@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-flat.html">flat</a></tt>.
 There are also 6 other language-specific subtypes of `flat`: <tt><a href="uk_iu-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_iu-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_iu-dep-flat-repeat.html">flat:repeat</a></tt>, <tt><a href="uk_iu-dep-flat-sibl.html">flat:sibl</a></tt>, <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>.
 
-44 nodes (0%) are attached to their parents as `flat:abs`.
+48 nodes (0%) are attached to their parents as `flat:abs`.
 
-44 instances of `flat:abs` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.72727272727273.
+48 instances of `flat:abs` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75.
 
-The following 5 pairs of parts of speech are connected with `flat:abs`: <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (26; 59% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (11; 25% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `flat:abs`: <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (26; 54% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (13; 27% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

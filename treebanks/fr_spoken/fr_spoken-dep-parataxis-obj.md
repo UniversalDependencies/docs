@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="fr_spoken-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="fr_spoken-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-45 nodes (0%) are attached to their parents as `parataxis:obj`.
+41 nodes (0%) are attached to their parents as `parataxis:obj`.
 
-44 instances of `parataxis:obj` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.62222222222222.
+40 instances of `parataxis:obj` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.36585365853659.
 
-The following 3 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (38; 84% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 7% instances).
+The following 3 pairs of parts of speech are connected with `parataxis:obj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (34; 83% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 7% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:obj`: <tt
 # visual-style 6	fgColor:white
 # visual-style 6 11 parataxis:obj	color:blue
 1	elle	il	PRON	_	_	3	nsubj	_	_
-2	a	avoir	VERB	_	_	3	aux	_	_
+2	a	avoir	AUX	_	_	3	aux	_	_
 3	commencé	commencer	VERB	_	_	0	root	_	_
 4	par	par	ADP	_	_	6	mark	_	_
 5	nous	nous	PRON	_	_	6	iobj	_	_

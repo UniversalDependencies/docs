@@ -25,7 +25,7 @@ The following 22 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	τρόπος	τρόπος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 3	που	που	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	5	obl	_	_
-4	θα	θα	PART	PART	_	5	aux	_	_
+4	θα	θα	AUX	AUX	_	5	aux	_	_
 5	ψηφίσουμε	ψηφίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 6	σήμερα	σήμερα	ADV	ADV	_	5	advmod	_	_
 7	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
@@ -49,8 +49,8 @@ The following 22 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	σ	σε	ADP	AsPpSp	_	5	case	_	_
 4	το	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
 5	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	obl	_	_
-6	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-7	να	να	PART	PART	_	8	aux	_	_
+6	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	να	να	AUX	AUX	_	8	aux	_	_
 8	δώσουμε	δίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 9	μεγάλη	μεγάλος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
 10	προσοχή	προσοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No

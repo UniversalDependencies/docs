@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_gum-dep-obl-npmod.html">obl:npmod</a></tt>.
 
-129 nodes (0%) are attached to their parents as `obl:tmod`.
+148 nodes (0%) are attached to their parents as `obl:tmod`.
 
-82 instances of `obl:tmod` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.10077519379845.
+97 instances of `obl:tmod` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.06081081081081.
 
-The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (93; 72% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (10; 8% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (103; 70% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (16; 11% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (11; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,24 +38,21 @@ The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 obl:tmod	color:blue
-1	1669	@card@	NUM	CD	NumType=Card	4	obl:tmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	reportedly	reportedly	ADV	RB	_	4	advmod	_	_
-4	built	build	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	for	for	ADP	IN	_	7	case	_	_
-6	residence	residence	NOUN	NN	Number=Sing	7	compound	_	_
-7	purposes	purpose	NOUN	NNS	Number=Plur	4	obl	_	_
-8	of	of	ADP	IN	_	12	case	_	_
-9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
-10	king	king	NOUN	NN	Number=Sing	12	nmod:poss	_	SpaceAfter=No
-11	's	's	PART	POS	_	10	case	_	_
-12	harem	harem	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 obl:tmod	color:blue
+1	Born	Born	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	:	_	4	punct	_	_
+3	June	June	PROPN	NNP	Number=Sing	4	compound	_	_
+4	11	@card@	NUM	CD	NumType=Card	1	obl:tmod	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	1988	@card@	NUM	CD	NumType=Card	4	nmod:tmod	_	_
+7	(	(	PUNCT	-LRB-	_	9	punct	_	SpaceAfter=No
+8	age	age	NOUN	NN	Number=Sing	9	nsubj	_	_
+9	30	@card@	NUM	CD	NumType=Card	1	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	-RRB-	_	9	punct	_	_
 
 ~~~
 
@@ -78,7 +75,7 @@ The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 10	and	and	CCONJ	CC	_	12	cc	_	_
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 12	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	17	punct	_	_
+13	,	,	PUNCT	,	_	12	punct	_	_
 14	“	"	PUNCT	``	_	17	punct	_	SpaceAfter=No
 15	Sonia	Sonia	PROPN	NNP	Number=Sing	17	vocative	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_

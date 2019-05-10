@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Economic, European, New, United, priori, restante</em>
-* `EMPTY` (8494): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
+* `EMPTY` (8493): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
 
 ### `ADP`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>a, in, of</em>
-* `EMPTY` (11243): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11236): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ### `ADV`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>sic</em>
-* `EMPTY` (7024): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
+* `EMPTY` (7030): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
 
 ### `CCONJ`
 

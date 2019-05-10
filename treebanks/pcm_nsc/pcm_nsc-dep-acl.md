@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 4 acl	color:blue
 1	person	person	NOUN	_	_	0	root	_	_
-2	no	no	PART	_	_	4	advmod	_	_
+2	no	no	ADV	PART	_	4	advmod	_	_
 3	dey	dey	AUX	_	_	4	aux	_	_
 4	see	see	VERB	_	_	1	acl	_	_
 5	NE~	NE~	X	_	_	4	obj	_	_

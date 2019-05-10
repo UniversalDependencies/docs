@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
-5	баб	баб	NOUN	N	Case=Acc|Number=Sing	4	nsubj	_	Lang=Mixed
+5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	Lang=Mixed
 6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -40,16 +40,16 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 12 parataxis	color:blue
 1	Маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	Lang=Mixed|Note=CheckAll
-2	вед	вед	PART	Pcle	_	1	discourse	_	_
+2	вед	вед	PART	Pcle	_	1	advmod	_	_
 3	сэчем	сэчем	ADV	Adv	_	6	advmod	_	_
-4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed
+4	же	жӧ	PART	Pcle	_	3	advmod	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	6	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
-11	уна	уна	ADV	Adv	Case=Nom|Number=Sing	12	advmod	_	_
+11	уна	уна	ADV	Adv	_	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
@@ -72,9 +72,9 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	кудз	кудз	ADV	Adv	_	4	advmod	_	_
 4	висьтооны	висьтооны	VERB	V	VerbForm=Inf	7	parataxis	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	абу	абу	PART	Pcle	Polarity=Neg	7	aux	_	_
+6	абу	абу	AUX	Pcle	Polarity=Neg	7	aux	_	_
 7	оленевод	оленевод	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Mixed
-8	да	да	PART	Pcle	_	7	discourse	_	Lang=Mixed|SpaceAfter=No
+8	да	да	PART	Pcle	_	7	advmod	_	Lang=Mixed|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	приведитчис	приведитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	Lang=Mixed
 11	кольччыны	кольччыны	VERB	V	VerbForm=Inf	10	xcomp	_	SpaceAfter=No

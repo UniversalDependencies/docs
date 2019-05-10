@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-175 nodes (0%) are attached to their parents as `expl`.
+188 nodes (0%) are attached to their parents as `expl`.
 
-170 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26857142857143.
+183 instances of `expl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32446808510638.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (160; 91% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (10; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (172; 91% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,44 +43,46 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 expl	color:blue
-1	Hence	hence	ADV	RB	_	9	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	there	there	PRON	EX	_	9	expl	_	_
-4	can	can	AUX	MD	VerbForm=Fin	9	aux	_	_
-5	be	be	AUX	VB	VerbForm=Inf	9	cop	_	_
-6	no	no	DET	DT	Polarity=Neg	9	det	_	_
-7	fully	fully	ADV	RB	_	8	advmod	_	_
-8	exact	exact	ADJ	JJ	Degree=Pos	9	amod	_	_
-9	translations	translation	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	9	punct	_	SpaceAfter=No
-11	"	''	PUNCT	''	_	9	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 expl	color:blue
+1	There	There	PRON	EX	_	5	expl	_	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	_
+4	much	much	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	speculation	speculation	NOUN	NN	Number=Sing	0	root	_	_
+6	as	as	ADP	IN	_	9	case	_	_
+7	to	to	PART	TO	_	6	fixed	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+9	reasons	reason	NOUN	NNS	Number=Plur	5	nmod	_	_
+10	behind	behind	ADP	IN	_	11	case	_	_
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 expl	color:blue
-1	Here	here	ADV	RB	PronType=Dem	4	expl	_	_
-2	and	and	CCONJ	CC	_	3	cc	_	_
-3	there	there	PRON	EX	_	1	conj	_	_
-4	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-5	bits	bit	NOUN	NNS	Number=Plur	4	nsubj	_	_
-6	of	of	ADP	IN	_	8	case	_	_
-7	charred	char	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	_
-8	debris	debris	NOUN	NN	Number=Sing	5	nmod	_	_
-9	in	in	ADP	IN	_	11	case	_	_
-10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
-11	gutters	gutter	NOUN	NNS	Number=Plur	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 expl	color:blue
+1	However	however	ADV	RB	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	not	not	PART	RB	Polarity=Neg	6	advmod	_	_
+6	enough	enough	ADJ	JJ	Degree=Pos	0	root	_	_
+7	to	to	PART	TO	_	9	mark	_	_
+8	have	have	AUX	VB	VerbForm=Inf	9	aux	_	_
+9	attained	attain	VERB	VBN	Tense=Past|VerbForm=Part	6	csubj	_	_
+10	such	such	ADJ	JJ	Degree=Pos	12	amod	_	_
+11	native-like	native-like	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	levels	level	NOUN	NNS	Number=Plur	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

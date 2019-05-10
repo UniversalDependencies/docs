@@ -9,78 +9,78 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-3317 tokens (3%) have a non-empty value of `Uninflect`.
-907 types (3%) occur at least once with a non-empty value of `Uninflect`.
-898 lemmas (5%) occur at least once with a non-empty value of `Uninflect`.
-The feature is used with 7 part-of-speech tags: <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1098; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (838; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (536; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (525; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (314; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (3; 0% instances).
+3494 tokens (3%) have a non-empty value of `Uninflect`.
+928 types (3%) occur at least once with a non-empty value of `Uninflect`.
+918 lemmas (5%) occur at least once with a non-empty value of `Uninflect`.
+The feature is used with 7 part-of-speech tags: <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1157; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (885; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (564; 0% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (547; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (334; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (3; 0% instances).
 
 ### `NUM`
 
-1098 <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> tokens (71% of all `NUM` tokens) have a non-empty value of `Uninflect`.
+1157 <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> tokens (71% of all `NUM` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `NUM` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1098; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (918; 84%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (593; 54%).
+The most frequent other feature values with which `NUM` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1157; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (960; 83%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (622; 54%).
 
 `NUM` tokens may have the following values of `Uninflect`:
 
-* `Yes` (1098; 100% of non-empty `Uninflect`): <em>1, 2, 5, 3, 7, 4, 10, 6, 8, пів</em>
+* `Yes` (1157; 100% of non-empty `Uninflect`): <em>1, 2, 5, 3, 7, 4, 10, 6, 8, пів</em>
 
-`Uninflect` seems to be **lexical feature** of `NUM`. 100% lemmas (260) occur only with one value of `Uninflect`.
+`Uninflect` seems to be **lexical feature** of `NUM`. 100% lemmas (269) occur only with one value of `Uninflect`.
 
 ### `NOUN`
 
-838 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Uninflect`.
+885 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `NOUN` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (796; 95%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (562; 67%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt> (481; 57%).
+The most frequent other feature values with which `NOUN` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (843; 95%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (592; 67%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt> (513; 58%).
 
 `NOUN` tokens may have the following values of `Uninflect`:
 
-* `Yes` (838; 100% of non-empty `Uninflect`): <em>%, №, р, грн, ст, млрд, УПА, м, млн, $</em>
+* `Yes` (885; 100% of non-empty `Uninflect`): <em>%, №, р, грн, ст, млрд, УПА, м, тис, млн</em>
 
-`Uninflect` seems to be **lexical feature** of `NOUN`. 100% lemmas (218) occur only with one value of `Uninflect`.
+`Uninflect` seems to be **lexical feature** of `NOUN`. 100% lemmas (222) occur only with one value of `Uninflect`.
 
 ### `ADJ`
 
-536 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Uninflect`.
+564 <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `ADJ` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (536; 100%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (536; 100%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (536; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (536; 100%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (536; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (532; 99%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt> (346; 65%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (302; 56%).
+The most frequent other feature values with which `ADJ` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="uk_iu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="uk_iu-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="uk_iu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="uk_iu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (564; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (560; 99%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Gen</tt> (368; 65%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (293; 52%).
 
 `ADJ` tokens may have the following values of `Uninflect`:
 
-* `Yes` (536; 100% of non-empty `Uninflect`): <em>2017, 2016, 2015, 27, 1, 3, XI, 17, 21, 7</em>
+* `Yes` (564; 100% of non-empty `Uninflect`): <em>2017, 2016, 2015, 27, 1, 3, XI, 1945, 17, 2014</em>
 
-`Uninflect` seems to be **lexical feature** of `ADJ`. 100% lemmas (190) occur only with one value of `Uninflect`.
+`Uninflect` seems to be **lexical feature** of `ADJ`. 100% lemmas (194) occur only with one value of `Uninflect`.
 
 ### `PROPN`
 
-525 <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> tokens (16% of all `PROPN` tokens) have a non-empty value of `Uninflect`.
+547 <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> tokens (16% of all `PROPN` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `PROPN` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (480; 91%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (291; 55%).
+The most frequent other feature values with which `PROPN` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (499; 91%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (299; 55%).
 
 `PROPN` tokens may have the following values of `Uninflect`:
 
-* `Yes` (525; 100% of non-empty `Uninflect`): <em>США, О, ХАІ, ОУН, І, Лі, М, УНР, В, Гаррі</em>
+* `Yes` (547; 100% of non-empty `Uninflect`): <em>США, О, ХАІ, І, ОУН, УНР, В, Лі, М, Гаррі</em>
 
-`Uninflect` seems to be **lexical feature** of `PROPN`. 100% lemmas (291) occur only with one value of `Uninflect`.
+`Uninflect` seems to be **lexical feature** of `PROPN`. 100% lemmas (296) occur only with one value of `Uninflect`.
 
 ### `DET`
 
-314 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Uninflect`.
+334 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `DET` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (314; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (303; 96%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (303; 96%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=3</tt> (301; 96%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (231; 74%).
+The most frequent other feature values with which `DET` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (334; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (334; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (321; 96%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (321; 96%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=3</tt> (319; 96%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (246; 74%).
 
 `DET` tokens may have the following values of `Uninflect`:
 
-* `Yes` (314; 100% of non-empty `Uninflect`): <em>його, її, їх, т, інш, і, ин, ін</em>
+* `Yes` (334; 100% of non-empty `Uninflect`): <em>його, її, їх, т, інш, і, ін, ин</em>
 
 ### `PRON`
 
-3 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Uninflect`.
+4 <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Uninflect`.
 
-The most frequent other feature values with which `PRON` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (3; 100%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt> (3; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3; 100%).
+The most frequent other feature values with which `PRON` and `Uninflect` co-occurred: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4; 100%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Dat</tt> (4; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (4; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Uninflect`:
 
-* `Yes` (3; 100% of non-empty `Uninflect`): <em>т</em>
+* `Yes` (4; 100% of non-empty `Uninflect`): <em>т</em>
 
 ### `X`
 
@@ -95,14 +95,14 @@ The most frequent other feature values with which `X` and `Uninflect` co-occurre
 ## Relations with Agreement in `Uninflect`
 
 The 10 most frequent relations where parent and child node agree in `Uninflect`:
-<tt>NUM --[<tt><a href="uk_iu-dep-compound.html">compound</a></tt>]--> NUM</tt> (175; 100%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (163; 51%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>]--> NUM</tt> (82; 58%),
+<tt>NUM --[<tt><a href="uk_iu-dep-compound.html">compound</a></tt>]--> NUM</tt> (185; 100%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (176; 53%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>]--> NUM</tt> (83; 57%),
 <tt>NUM --[<tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>]--> NUM</tt> (48; 100%),
 <tt>NUM --[<tt><a href="uk_iu-dep-conj.html">conj</a></tt>]--> NUM</tt> (32; 94%),
-<tt>ADJ --[<tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>]--> ADJ</tt> (26; 96%),
-<tt>PROPN --[<tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>]--> NUM</tt> (14; 78%),
-<tt>ADJ --[<tt><a href="uk_iu-dep-compound.html">compound</a></tt>]--> NUM</tt> (9; 100%),
-<tt>NOUN --[<tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>]--> NOUN</tt> (7; 78%),
+<tt>ADJ --[<tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>]--> ADJ</tt> (29; 97%),
+<tt>PROPN --[<tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>]--> NUM</tt> (16; 76%),
+<tt>ADJ --[<tt><a href="uk_iu-dep-compound.html">compound</a></tt>]--> NUM</tt> (12; 100%),
+<tt>NOUN --[<tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>]--> NOUN</tt> (7; 88%),
 <tt>PROPN --[<tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (7; 54%).
 

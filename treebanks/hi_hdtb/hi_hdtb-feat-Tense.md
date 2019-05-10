@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 16582 tokens (5%) have a non-empty value of `Tense`.
-243 types (1%) occur at least once with a non-empty value of `Tense`.
-114 lemmas (1%) occur at least once with a non-empty value of `Tense`.
+241 types (1%) occur at least once with a non-empty value of `Tense`.
+112 lemmas (1%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 4 part-of-speech tags: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (14063; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2517; 1% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Pres` (10598; 75% of non-empty `Tense`): है, हैं, हूं, हूँ, हैँ
 * `EMPTY` (11967): गया, गई, हुए, गए, जा, दिया, रहे, रही, रहा, जाने
 
-`Tense` seems to be **lexical feature** of `AUX`. 100% lemmas (20) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `AUX`. 100% lemmas (19) occur only with one value of `Tense`.
 
 ### `VERB`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Pres` (886; 35% of non-empty `Tense`): है, हैं, हूं, हूँ
 * `EMPTY` (31236): कहा, किया, कर, करने, की, हो, बताया, होने, हुई, करते
 
-`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (109) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (107) occur only with one value of `Tense`.
 
 ### `ADP`
 

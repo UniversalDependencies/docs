@@ -12,18 +12,18 @@ It occurs with 5 different values: `Fin`, `Inf`, `Part`, `Stem`, `Sup`.
 15716 tokens (16%) have a non-empty value of `VerbForm`.
 3473 types (23%) occur at least once with a non-empty value of `VerbForm`.
 1703 lemmas (17%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9966; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4186; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1564; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9871; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4281; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1564; 2% instances).
 
 ### `VERB`
 
-9966 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+9871 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8137; 82%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5722; 57%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5046; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8042; 81%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5630; 57%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4964; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5928; 59% of non-empty `VerbForm`): <em>har, finns, är, blir, får, gäller, ger, går, kommer, gör</em>
-* `Inf` (3170; 32% of non-empty `VerbForm`): <em>få, ha, bli, göra, ge, ta, komma, gå, se, vara</em>
+* `Fin` (5836; 59% of non-empty `VerbForm`): <em>har, finns, blir, får, är, gäller, ger, går, kommer, gör</em>
+* `Inf` (3167; 32% of non-empty `VerbForm`): <em>få, ha, bli, göra, ge, ta, komma, gå, se, finnas</em>
 * `Part` (49; 0% of non-empty `VerbForm`): <em>påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</em>
 * `Stem` (1; 0% of non-empty `VerbForm`): <em>läs-</em>
 * `Sup` (818; 8% of non-empty `VerbForm`): <em>fått, blivit, haft, gjort, ökat, kommit, gått, visat, börjat, skett</em>
@@ -41,14 +41,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4186 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4281 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4186; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3772; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3414; 82%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4281; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3864; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3496; 82%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (3781; 90% of non-empty `VerbForm`): <em>är, kan, har, måste, skall, skulle, ska, kommer, var, får</em>
-* `Inf` (322; 8% of non-empty `VerbForm`): <em>vara, kunna, få, ha, bli, behöva, vilja, komma, dra</em>
+* `Fin` (3873; 90% of non-empty `VerbForm`): <em>är, kan, har, måste, skall, skulle, ska, kommer, var, får</em>
+* `Inf` (325; 8% of non-empty `VerbForm`): <em>vara, kunna, få, ha, bli, behöva, vilja, komma</em>
 * `Sup` (83; 2% of non-empty `VerbForm`): <em>varit, kunnat, fått, kommit, blivit, velat</em>
 
 <table>
@@ -69,18 +69,21 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1564; 100% of non-empty `VerbForm`): <em>följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</em>
-* `EMPTY` (6936): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
+* `EMPTY` (6935): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (701) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (695; 81%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (139; 62%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (703; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (132; 61%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (22; 67%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 58%),
-<tt>AUX --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -166,17 +166,17 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 ## Relations
 
-[acl](no_bokmaal-dep-acl.html) – [acl:cleft](no_bokmaal-dep-acl-cleft.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [compound:prt](no_bokmaal-dep-compound-prt.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:pass](no_bokmaal-dep-csubj-pass.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [expl](no_bokmaal-dep-expl.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [goeswith](no_bokmaal-dep-goeswith.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:pass](no_bokmaal-dep-nsubj-pass.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
+[acl](no_bokmaal-dep-acl.html) – [acl:cleft](no_bokmaal-dep-acl-cleft.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [compound:prt](no_bokmaal-dep-compound-prt.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:pass](no_bokmaal-dep-csubj-pass.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [expl](no_bokmaal-dep-expl.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:pass](no_bokmaal-dep-nsubj-pass.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [reparandum](no_bokmaal-dep-reparandum.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 20045 sentences and 310222 tokens.</li>
+<li>This corpus contains 20044 sentences and 310221 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34525 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 34524 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -203,7 +203,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, som, sånt, vi, vår, whatever, you, æ</li>
+<li>This corpus contains 50 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, som, sånt, vi, vår, whatever, you, æ</li>
 </ul>
 
 <ul>
@@ -789,7 +789,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1463)</li>
       <li>VERB-Part--NOUN (1045)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
-      <li>VERB-Part--PRON (510)</li>
+      <li>VERB-Part--PRON (511)</li>
       <li>VERB-Part--PRON-Nom (1015)</li>
     </ul>
   </li>
@@ -848,5 +848,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

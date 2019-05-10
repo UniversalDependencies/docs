@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PART`
 
-There are 9 `PART` lemmas (0%), 10 `PART` types (0%) and 117 `PART` tokens (0%).
+There are 9 `PART` lemmas (0%), 10 `PART` types (0%) and 116 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PART` lemmas: か, 約, 第, 紀元前, さ, ね, 最大, 最高, 翌
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  第 (<tt><a href="ja_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.111111 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `PART` is 1.111111 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (2) was observed with the lemma “か”: か, かどうか.
 
@@ -47,17 +47,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ね”: ね.
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (70; 60% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (47; 40% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (69; 59% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (47; 41% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (52; 44% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (42; 36% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (2; 2% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (51; 44% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (42; 36% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (11; 9% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (2; 2% instances)
 
-115 (98%) `PART` nodes are leaves.
+115 (99%) `PART` nodes are leaves.
 
-2 (2%) `PART` nodes have one child.
+1 (1%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 
-Children of `PART` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1; 50% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1; 50% instances)
+Children of `PART` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1; 100% instances)
 
-Children of `PART` nodes belong to 2 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
+Children of `PART` nodes belong to 1 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 

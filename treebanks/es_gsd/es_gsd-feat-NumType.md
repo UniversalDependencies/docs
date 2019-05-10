@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (539; 100% of non-empty `NumType`): <em>tanto, poco, mucho, muchos, ambos, bastante, muchas, demasiado, ambas, pocos</em>
-* `EMPTY` (13485): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (13497): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `NumType`.
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (408; 100% of non-empty `NumType`): <em>muchos, muchas, ambos, mucha, pocos, poco, ambas, mucho, poca, tanto</em>
-* `EMPTY` (60464): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (60449): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `NumType`.
 

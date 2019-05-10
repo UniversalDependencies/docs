@@ -91,13 +91,12 @@ The most frequent other feature values with which `NUM` and `Polite` co-occurred
 ## Relations with Agreement in `Polite`
 
 The 10 most frequent relations where parent and child node agree in `Polite`:
-<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (97; 76%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (96; 76%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (60; 55%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (27; 53%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (22; 81%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11; 61%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>NUM --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt>]--> PROPN</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (1; 100%).
 

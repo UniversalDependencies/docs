@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-1520 tokens (8%) have a non-empty value of `Degree`.
-826 types (13%) occur at least once with a non-empty value of `Degree`.
+1519 tokens (8%) have a non-empty value of `Degree`.
+825 types (13%) occur at least once with a non-empty value of `Degree`.
 627 lemmas (13%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1246; 7% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (274; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1245; 7% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (274; 1% instances).
 
 ### `ADJ`
 
-1246 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (79% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1245 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (79% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1246; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1246; 100%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1243; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (830; 67%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (693; 56%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1245; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1245; 100%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1242; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (830; 67%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (692; 56%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (44; 4% of non-empty `Degree`): <em>större, högre, mer, tidigare, senare, färre, mindre, ytterligare, yttre, äldre</em>
-* `Pos` (1127; 90% of non-empty `Degree`): <em>nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</em>
+* `Pos` (1126; 90% of non-empty `Degree`): <em>nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</em>
 * `Sup` (75; 6% of non-empty `Degree`): <em>senaste, sista, högsta, största, bästa, främsta, bäst, flesta, mesta, värsta</em>
-* `EMPTY` (330): <em>första, andra, betydande, sett, följande, kända, tredje, allierade, känd, levande</em>
+* `EMPTY` (324): <em>första, andra, betydande, sett, följande, kända, tredje, allierade, känd, levande</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (73; 27% of non-empty `Degree`): <em>mer, senare, tidigare, längre, bättre, mindre, hellre, snarare, närmare, vidare</em>
 * `Pos` (172; 63% of non-empty `Degree`): <em>helt, mycket, ofta, väldigt, djupt, långt, direkt, lite, väl, faktiskt</em>
 * `Sup` (29; 11% of non-empty `Degree`): <em>mest, sist, främst, värst, Minst, helst, ytterst, knappast</em>
-* `EMPTY` (738): <em>så, in, ut, där, också, upp, bara, fram, här, även</em>
+* `EMPTY` (747): <em>så, in, ut, där, också, upp, bara, fram, här, även</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

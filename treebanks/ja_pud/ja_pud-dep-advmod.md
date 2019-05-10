@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-374 nodes (1%) are attached to their parents as `advmod`.
+370 nodes (1%) are attached to their parents as `advmod`.
 
-374 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.57486631016043.
+370 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.57567567567568.
 
-The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (161; 43% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 20% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (45; 12% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (42; 11% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (33; 9% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (161; 44% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 20% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (45; 12% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (42; 11% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (33; 9% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (10; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

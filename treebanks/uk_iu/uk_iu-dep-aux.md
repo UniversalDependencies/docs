@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (0%) are attached to their parents as `aux`.
+253 nodes (0%) are attached to their parents as `aux`.
 
-158 instances of `aux` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46090534979424.
+168 instances of `aux` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45454545454545.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (219; 90% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (18; 7% instances), <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (226; 89% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (20; 8% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	давала	давати	VERB	Vmpis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=140b|LTranslit=davaty|Translit=davala
 5	б	б	AUX	Q	Mood=Cnd	4	aux	4:aux	Id=140c|LTranslit=b|Translit=b
 6	історія	історія	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	Id=140d|LTranslit=istorija|Translit=istorija
-7	його	його	DET	Ppp3m-sga	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes	8	det	8:det	Id=140e|LTranslit=joho|Translit=joho
+7	його	його	DET	Pps3m-sga	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes	8	det	8:det	Id=140e|LTranslit=joho|Translit=joho
 8	арешту	арешт	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	Id=140f|LTranslit=arešt|SpaceAfter=No|Translit=areštu
 9	.	.	PUNCT	U	_	4	punct	4:punct	Id=140g|LTranslit=.|Translit=.
 
@@ -56,29 +56,45 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 aux	color:blue
-1	Марксизм	марксизм	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	Id=35gw|LTranslit=marksyzm|Translit=Marksyzm
-2	не	не	PART	Q	Polarity=Neg	3	advmod	3:advmod	Id=35gx|LTranslit=ne|Translit=ne
-3	був	бути	AUX	Vapis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	cop	5:cop	Id=35gy|LTranslit=buty|Translit=buv
-4	би	би	AUX	Q	Mood=Cnd	3	aux	3:aux	Id=35gz|LTranslit=by|Translit=by
-5	марксизмом	марксизм	NOUN	Ncmsin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	Id=35h0|LTranslit=marksyzm|SpaceAfter=No|Translit=marksyzmom
-6	,	,	PUNCT	U	_	11	punct	11:punct	Id=35h1|LTranslit=,|Translit=,
-7	коли	коли	SCONJ	Css	_	11	mark	11:mark	Id=35h2|LTranslit=koly|Translit=koly
-8	б	б	PART	Q	_	7	discourse	7:discourse	Id=35h3|LTranslit=b|Translit=b
-9	він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	Id=35h4|LTranslit=vin|Translit=vin
-10	не	не	PART	Q	Polarity=Neg	11	advmod	11:advmod	Id=35h5|LTranslit=ne|Translit=ne
-11	будував	будувати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	advcl	5:advcl	Id=35h6|LTranslit=buduvaty|Translit=buduvav
-12	свою	свій	DET	Ppp-f-saa	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	13:det	Id=35h7|LTranslit=svij|Translit=svoju
-13	теорію	теорія	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	11:obj	Id=35h8|LTranslit=teorija|Translit=teoriju
-14	на	на	ADP	Spsl	Case=Loc	15	case	15:case	Id=35h9|LTranslit=na|Translit=na
-15	досвіді	досвід	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	11:obl	Id=35ha|LTranslit=dosvid|Translit=dosvidi
-16	минулих	минулий	ADJ	Ap--pgf-ea	Aspect=Perf|Case=Gen|Number=Plur|VerbForm=Part|Voice=Act	17	amod	17:amod	Id=35hb|LTranslit=mynulyj|Translit=mynulych
-17	віків	вік	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod	Id=35hc|LTranslit=vik|SpaceAfter=No|Translit=vikiv
-18	.	.	PUNCT	U	_	5	punct	5:punct	Id=35hd|LTranslit=.|Translit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 aux	color:blue
+1	Радий	радий	ADJ	Ao-msnf	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Id=1kyh|LTranslit=radyj|Translit=Radyj
+2	був	бути	AUX	Vapis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	cop	1:cop	Id=1kyi|LTranslit=buty|Translit=buv
+3	би	би	AUX	Q	Mood=Cnd	1	aux	1:aux	Id=1kyj|LTranslit=by|Translit=by
+4	дістати	дістати	VERB	Vmen	Aspect=Perf|VerbForm=Inf	1	xcomp	1:xcomp	Id=1kyk|LTranslit=distaty|Translit=distaty
+5	від	від	ADP	Spsg	Case=Gen	6	case	6:case	Id=1kyl|LTranslit=vid|Translit=vid
+6	Вас	ви	PRON	Pp-2-ypgn	Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs	4	obl	4:obl	Id=1kym|LTranslit=vy|Translit=Vas
+7	дозвіл	дозвіл	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	Id=1kyn|LTranslit=dozvil|Translit=dozvil
+8	послати	послати	VERB	Vmen	Aspect=Perf|VerbForm=Inf	7	acl	7:acl	Id=1kyo|LTranslit=poslaty|Translit=poslaty
+9	Вам	ви	PRON	Pp-2-ypdn	Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs	8	iobj	8:iobj	Id=1kyp|LTranslit=vy|Translit=Vam
+10	свою	свій	DET	Pps-f-saa	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	13:det	Id=1kyq|LTranslit=svij|SpaceAfter=No|Translit=svoju
+11	:	:	PUNCT	U	_	13	punct	13:punct	Id=1kyr|LTranslit=:|Translit=:
+12	«	«	PUNCT	U	PunctType=Quot	13	punct	13:punct	Id=1kys|LTranslit=«|SpaceAfter=No|Translit=«
+13	Антологію	антологія	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	Id=1kyt|LTranslit=antolohija|Translit=Antolohiju
+14	римських	римський	ADJ	Ao--pgf	Case=Gen|Number=Plur	15	amod	15:amod	Id=1kyu|LTranslit=rymśkyj|Translit=rymśkych
+15	поетів	поет	NOUN	Ncmpgy	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	13:nmod	Id=1kyv|LTranslit=poet|SpaceAfter=No|Translit=poetiv
+16	»	»	PUNCT	U	PunctType=Quot	13	punct	13:punct	Id=1kyw|LTranslit=»|SpaceAfter=No|Translit=»
+17	,	,	PUNCT	U	_	18	punct	18:punct	Id=1kyx|LTranslit=,|Translit=,
+18	2	2	NUM	Mlc-n	Case=Nom|NumType=Card|Uninflect=Yes	13	conj	8:obj|13:conj	Id=1kyy|LTranslit=2|SpaceAfter=No|Translit=2
+19	)	)	PUNCT	U	_	18	punct	18:punct	Id=1kyz|LTranslit=)|Translit=)
+20	«	«	PUNCT	U	PunctType=Quot	21	punct	21:punct	Id=1kz0|LTranslit=«|SpaceAfter=No|Translit=«
+21	Камену	Камена	PROPN	Npfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	appos	18:appos	Id=1kz1|LTranslit=Kamena|SpaceAfter=No|Translit=Kamenu
+22	»	»	PUNCT	U	PunctType=Quot	21	punct	21:punct	Id=1kz2|LTranslit=»|Translit=»
+23	та	та	CCONJ	Ccs	_	24	cc	24:cc	Id=1kz3|LTranslit=ta|Translit=ta
+24	3	3	NUM	Mlc-n	Case=Nom|NumType=Card|Uninflect=Yes	13	conj	8:obj|13:conj	Id=1kz4|LTranslit=3|SpaceAfter=No|Translit=3
+25	)	)	PUNCT	U	_	24	punct	24:punct	Id=1kz5|LTranslit=)|Translit=)
+26	1-у	1-ий	ADJ	Mlofsa	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	27	amod	27:amod	Id=1kz6|LTranslit=1-yj|Translit=1-u
+27	частину	частина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	appos	24:appos	Id=1kz7|LTranslit=častyna|Translit=častynu
+28	свого	свій	DET	Pps-m-sga	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	29:det	Id=1kz8|LTranslit=svij|Translit=svoho
+29	курсу	курс	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	27:nmod	Id=1kz9|LTranslit=kurs|Translit=kursu
+30	історії	історія	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	29:nmod	Id=1kza|LTranslit=istorija|Translit=istoriji
+31	нового	новий	ADJ	Afpnsgf	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	33:amod	Id=1kzb|LTranslit=novyj|Translit=novoho
+32	українського	український	ADJ	Ao-nsgf	Case=Gen|Gender=Neut|Number=Sing	33	amod	33:amod	Id=1kzc|LTranslit=ukrajinśkyj|Translit=ukrajinśkoho
+33	письменства	письменство	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	30:nmod	Id=1kzd|LTranslit=pyśmenstvo|SpaceAfter=No|Translit=pyśmenstva
+34	.	.	PUNCT	U	_	1	punct	1:punct	Id=1kze|LTranslit=.|Translit=.
 
 ~~~
 

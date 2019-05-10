@@ -66,7 +66,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (4601; 24% of non-empty `Number`): <em>dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</em>
 * `Sing` (14388; 76% of non-empty `Number`): <em>det, han, eg, seg, ein, dette, ho, du, noko, sin</em>
-* `EMPTY` (3802): <em>som, kva, kven, d., eg, ha, Dette, dét, man</em>
+* `EMPTY` (3810): <em>som, kva, kven, der, d., eg, ha, Dette, dét, man</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,14 +124,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (4; 100% of non-empty `Number`): <em>blir, innført, lagt, stoppa</em>
-* `EMPTY` (29425): <em>har, seier, vart, er, få, kjem, får, meiner, ha, går</em>
+* `EMPTY` (28776): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12307; 84%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12310; 84%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (12150; 95%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5748; 54%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5747; 54%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2821; 73%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1934; 88%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1697; 93%),

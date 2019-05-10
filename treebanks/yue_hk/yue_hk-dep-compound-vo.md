@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-compound.html">compound</a></tt>.
 There are also 4 other language-specific subtypes of `compound`: <tt><a href="yue_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="yue_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="yue_hk-dep-compound-quant.html">compound:quant</a></tt>, <tt><a href="yue_hk-dep-compound-vv.html">compound:vv</a></tt>.
 
-8 nodes (0%) are attached to their parents as `compound:vo`.
+15 nodes (0%) are attached to their parents as `compound:vo`.
 
-8 instances of `compound:vo` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.125.
+15 instances of `compound:vo` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06666666666667.
 
-The following 2 pairs of parts of speech are connected with `compound:vo`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (7; 88% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `compound:vo`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (13; 87% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -76,6 +76,58 @@ The following 2 pairs of parts of speech are connected with `compound:vo`: <tt><
 18	㗎	㗎	PART	_	_	15	discourse:sp	_	SpaceAfter=No
 19	喇	嘑	PART	_	_	15	discourse:sp	_	SpaceAfter=No
 20	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 35 compound:vo	color:blue
+1	不過	_	CCONJ	_	_	5	advmod	_	SpaceAfter=No
+2	呢	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	，	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	就	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+5	係	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	無論	_	SCONJ	_	_	11	mark	_	SpaceAfter=No
+7	當事人	_	NOUN	_	_	11	nsubj	_	SpaceAfter=No
+8	呢	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+9	，	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	點樣	_	ADV	_	_	11	advmod	_	SpaceAfter=No
+11	澄清	_	VERB	_	_	5	ccomp	_	SpaceAfter=No
+12	，	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	點樣	_	ADV	_	_	14	advmod	_	SpaceAfter=No
+14	作出	_	VERB	_	_	11	conj	_	SpaceAfter=No
+15	一	_	NUM	_	_	18	nummod	_	SpaceAfter=No
+16	個	_	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No
+17	嘅	_	PART	_	_	16	case	_	SpaceAfter=No
+18	解釋	_	NOUN	_	_	14	compound:vo	_	SpaceAfter=No
+19	嘅話	_	SCONJ	_	_	11	mark	_	SpaceAfter=No
+20	呢	_	PART	_	_	11	discourse:sp	_	SpaceAfter=No
+21	，	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
+22	其實	_	ADV	_	_	32	advmod	_	SpaceAfter=No
+23	我	_	PRON	_	_	24	nsubj	_	SpaceAfter=No
+24	喺	_	ADP	_	_	32	advcl	_	SpaceAfter=No
+25	依個	_	DET	_	_	26	det	_	SpaceAfter=No
+26	會議	_	NOUN	_	_	24	obj	_	SpaceAfter=No
+27	上高	_	NOUN	_	_	26	case:loc	_	SpaceAfter=No
+28	，	_	PUNCT	_	_	32	punct	_	SpaceAfter=No
+29	我	_	PRON	_	_	32	nsubj	_	SpaceAfter=No
+30	唔	_	ADV	_	_	32	advmod	_	SpaceAfter=No
+31	能夠	_	AUX	_	_	32	aux	_	SpaceAfter=No
+32	作	_	VERB	_	_	5	ccomp	_	SpaceAfter=No
+33	任何	_	DET	_	_	35	det	_	SpaceAfter=No
+34	嘅	_	PART	_	_	33	case	_	SpaceAfter=No
+35	保證	_	VERB	_	_	32	compound:vo	_	SpaceAfter=No
+36	大家	_	PRON	_	_	37	nsubj	_	SpaceAfter=No
+37	滿意	_	ADJ	_	_	35	ccomp	_	SpaceAfter=No
+38	或者	_	CCONJ	_	_	40	cc	_	SpaceAfter=No
+39	唔	_	ADV	_	_	40	advmod	_	SpaceAfter=No
+40	滿意	_	ADJ	_	_	37	conj	_	SpaceAfter=No
+41	嘅	_	PART	_	_	32	discourse:sp	_	SpaceAfter=No
+42	。	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

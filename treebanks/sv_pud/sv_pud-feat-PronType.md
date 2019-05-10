@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Ind` (1; 0% of non-empty `PronType`): <em>mycket</em>
 * `Int,Rel` (298; 100% of non-empty `PronType`): <em>som, vad, vilket, vilka, vem, vilken, vars, vilkas</em>
-* `EMPTY` (1012): <em>det, han, de, sig, hans, jag, sin, hon, den, sina</em>
+* `EMPTY` (1016): <em>det, han, de, sig, hans, jag, sin, hon, den, sina</em>
 
 ### `ADV`
 
@@ -36,16 +36,16 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int,Rel` (46; 100% of non-empty `PronType`): <em>där, hur, varför, när, dit, var, varav, då</em>
-* `EMPTY` (966): <em>så, mer, in, ut, också, upp, bara, fram, här, även</em>
+* `EMPTY` (975): <em>så, mer, in, ut, också, upp, bara, fram, här, även</em>
 
 ### `SCONJ`
 
-46 <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (13% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+46 <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (12% of all `SCONJ` tokens) have a non-empty value of `PronType`.
 
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Int,Rel` (46; 100% of non-empty `PronType`): <em>när, då</em>
-* `EMPTY` (322): <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, sedan</em>
+* `EMPTY` (323): <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, sedan</em>
 
 ### `DET`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (2; 40% of non-empty `PronType`): <em>den, det</em>
 * `Int,Rel` (3; 60% of non-empty `PronType`): <em>vilket, vilken</em>
-* `EMPTY` (1018): <em>en, den, ett, de, det, denna, varje, dessa, alla, detta</em>
+* `EMPTY` (1017): <em>en, den, ett, de, det, denna, varje, dessa, alla, detta</em>
 
 ## Relations with Agreement in `PronType`
 

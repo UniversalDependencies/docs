@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2699 nodes (2%) are attached to their parents as `case`.
+2697 nodes (2%) are attached to their parents as `case`.
 
-2375 instances of `case` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15968877361986.
+2365 instances of `case` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16833518724509.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1938; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (392; 15% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (227; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (44; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1940; 72% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (382; 14% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (227; 8% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (59; 2% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (46; 2% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

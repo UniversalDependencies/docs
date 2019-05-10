@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>ἀνήρ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ἀνὴρ, ἀνήρ, ἁνὴρ, ἁνήρ, ὡνὴρ</em></td><td><em>ἄνδρα, ἄνδῤ, ἀνέρα, ἄνδρά</em></td><td><em>ἀνδρὶ, τἀνδρὶ, ἀνέρι, ἀνδρί</em></td><td><em>ἀνδρὸς, τἀνδρὸς, ἀνδρός, ἀνέρος, τἀνδρός</em></td><td><em>ἄνερ, ἆνερ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ἀνὴρ, ἀνήρ, ἁνὴρ, ἁνήρ, ὡνὴρ</em></td><td><em>ἄνδρα, ἄνδῤ, ἀνέρα, ἄνδρά</em></td><td><em>ἀνδρὶ, τἀνδρὶ, ἀνέρι, ἀνδρί</em></td><td><em>ἀνδρὸς, τἀνδρὸς, ἀνδρός, ἀνέρος, τἀνδρός</em></td><td><em>ἄνερ, ἆνερ</em></td></tr>
   <tr><td><tt><tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td><em>ἀνέρε, ἄνδρε</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ἄνδρες, ἀνέρες, ἅνδρες</em></td><td><em>ἄνδρας, ἀνέρας</em></td><td><em>ἀνδράσιν, ἀνδράσι, ἄνδρεσσι, ἄνδρεσσιν</em></td><td><em>ἀνδρῶν, ἀνέρων</em></td><td><em>ἄνδρες, ἀνέρες</em></td></tr>
 </table>
@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (1749; 14% of non-empty `Case`): <em>αὐτοῦ, αὐτῶν, τοῦ, ὧν, τῶν, τούτων, αὐτῆς, οὗ, τούτου, ἐμοῦ</em>
 * `Nom` (3502; 28% of non-empty `Case`): <em>ὃ, ἐγὼ, τις, οἳ, σὺ, ὃς, τίς, ἣ, ὅς, ὅ</em>
 * `Voc` (6; 0% of non-empty `Case`): <em>οὗτοι, οὗτος, σφῶϊ, τύνη, ἡμεῖς</em>
-* `EMPTY` (25): <em>πῇ, πᾷ, τίπτ̓, τίπτε, τίπτέ, τίφθ̓, ποῦ, πότε, ἆῤ</em>
+* `EMPTY` (25): <em>πῇ, πᾷ, τίπτ̓, τίπτε, τίπτέ, τίφθ̓, ποῦ, πότε, ἆῤ</em>
 
 <table>
   <tr><th>Paradigm <i>ἐγώ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Acc` (5; 63% of non-empty `Case`): <em>τί, Λάϊον, τάς, τέκμαρ</em>
 * `Dat` (2; 25% of non-empty `Case`): <em>τοῖσι</em>
 * `Nom` (1; 13% of non-empty `Case`): <em>τὰ</em>
-* `EMPTY` (33): <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ἠ, ξύμβληντο</em>
+* `EMPTY` (33): <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ξύμβληντο, πολυάϊκος</em>
 
 <table>
   <tr><th>Paradigm <i>τίς</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

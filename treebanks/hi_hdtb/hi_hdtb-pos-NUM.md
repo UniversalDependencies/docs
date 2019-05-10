@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `NUM`
 
-There are 859 `NUM` lemmas (5%), 896 `NUM` types (4%) and 6740 `NUM` tokens (2%).
+There are 856 `NUM` lemmas (5%), 893 `NUM` types (4%) and 6740 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 4 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: एक, दो, तीन, करोड, हजार, चार, लाख, पांच, छह, सात
 
-The 10 most frequent `NUM` types:  एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
+The 10 most frequent `NUM` types:  एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
 
 The 10 most frequent ambiguous lemmas: एक (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 1643, <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> 39, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 20, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 1), दो (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 844, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 68, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 1), तीन (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 338, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 1), करोड (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 245, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 2), हजार (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 197, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 5), चार (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 196, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), लाख (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 193, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 5), पांच (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 132, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 6), छह (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 107, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 10), सात (<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 91, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  एक (<tt><a href="hi_hdtb-pos-NUM.html
 * तीन
   * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 310: इसकी ऊँचाई करीब <b>तीन</b> मीटर है ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 7: स्तूप क्रमांक <b>तीन</b> , पहले स्तूप के पास स्थित है .
-  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 2: रादौर के मॉडल टाउन करेहड़ा में बाढ़ के पानी में डूबते <b>तीन</b> में से दो बच्चों को तो बचा लिया गया , लेकिन एक लापता है ।
-  * <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 1: स्टेटस सिंबल के चक्कर में कुछ बड़े अफसरों के घरों में तीन - <b>तीन</b> पुलिसकर्मी तैनात हैं ।
+  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 2: रादौर के मॉडल टाउन करेहड़ा में बाढ़ के पानी में डूबते <b>तीन</b> में से दो बच्चों को तो बचा लिया गया , लेकिन एक लापता है ।
+  * <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 1: स्टेटस सिंबल के चक्कर में कुछ बड़े अफसरों के घरों में तीन - <b>तीन</b> पुलिसकर्मी तैनात हैं ।
 * चार
   * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 191: मंदिर के <b>चार</b> बड़े - बड़े द्वार हैं , जो सभी दिशाओं की ओर बनाए गए हैं ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 6: किशन सिंह का छोटा पुत्र आनंद उर्फ गोलू होडल के डीएवी स्कूल में कक्षा <b>चार</b> का छात्र है ।
@@ -53,22 +53,22 @@ The 10 most frequent ambiguous types:  एक (<tt><a href="hi_hdtb-pos-NUM.html
   * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 104: इनकी उम्र करीब <b>छह</b> हजार साल बताई गई है ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 10: यही हाल <b>छह</b> टूटी बाजार में भी देखने को मिला .
 * सात
-  * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 90: मुठभेड़ में कुल चार सुरक्षाकर्मी शहीद हुए व <b>सात</b> घायल हुए ।
-  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1: मुठभेड़ में <b>सात</b> राष्ट्रीय राइफल्स का जवान बलवंत सिंह घायल हो गया ।
+  * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 90: मुठभेड़ में कुल चार सुरक्षाकर्मी शहीद हुए व <b>सात</b> घायल हुए ।
+  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1: मुठभेड़ में <b>सात</b> राष्ट्रीय राइफल्स का जवान बलवंत सिंह घायल हो गया ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1: बहरहाल , सारस्वत ने कहा कि <b>सात</b> अप्रैल को चीफ ज्यूडिशियल मजिस्ट्रेट ने सलमान की याचिका ठुकरा दी थी ।
 * दस
-  * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 66: बल्कि कुछ कंपनियों ने तो <b>दस</b> महीने बाद ही कारों के दाम बढ़ा दिए ।
+  * <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 66: बल्कि कुछ कंपनियों ने तो <b>दस</b> महीने बाद ही कारों के दाम बढ़ा दिए ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 4: <b>दस</b> जनपथ के लिए फैसला करना आसान नहीं रह गया है ।
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.043073 (the average of all parts of speech is 1.207153).
+The form / lemma ratio of `NUM` is 1.043224 (the average of all parts of speech is 1.203116).
 
-The 1st highest number of forms (4) was observed with the lemma “हजार”: हजार, हजारों, हज़ार, हज़ारों.
+The 1st highest number of forms (4) was observed with the lemma “हजार”: हज़ार, हज़ारों, हजार, हजारों.
 
-The 2nd highest number of forms (3) was observed with the lemma “करोड”: करोड़, करोड़, करोड़ों.
+The 2nd highest number of forms (2) was observed with the lemma “100000”: 1,00,000, 100,000.
 
-The 3rd highest number of forms (2) was observed with the lemma “100000”: 1,00,000, 100,000.
+The 3rd highest number of forms (2) was observed with the lemma “1500”: 1,500, 1500.
 
 `NUM` occurs with 6 features: <tt><a href="hi_hdtb-feat-NumType.html">NumType</a></tt> (6740; 100% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (513; 8% instances), <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (288; 4% instances), <tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt> (22; 0% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (1; 0% instances)
 
@@ -76,7 +76,7 @@ The 3rd highest number of forms (2) was observed with the lemma “100000”: 1,
 
 `NUM` occurs with 13 feature combinations.
 The most frequent feature combination is `NumType=Card` (6007 tokens).
-Examples: एक, दो, तीन, दोनों, करोड़, चार, लाख, हजार, पांच, छह
+Examples: एक, दो, तीन, करोड़, दोनों, चार, लाख, हजार, पांच, छह
 
 
 ## Relations
@@ -85,17 +85,17 @@ Examples: एक, दो, तीन, दोनों, करोड़, चार, �
 
 Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (5512; 82% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (864; 13% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (166; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (97; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (47; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (28; 0% instances),  (23; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (3; 0% instances)
 
-5326 (79%) `NUM` nodes are leaves.
+5346 (79%) `NUM` nodes are leaves.
 
-1038 (15%) `NUM` nodes have one child.
+1013 (15%) `NUM` nodes have one child.
 
-276 (4%) `NUM` nodes have two children.
+269 (4%) `NUM` nodes have two children.
 
-100 (1%) `NUM` nodes have three or more children.
+112 (2%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 23 different relations: <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (667; 34% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (484; 25% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (192; 10% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (159; 8% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (91; 5% instances), <tt><a href="hi_hdtb-dep-nummod.html">nummod</a></tt> (67; 3% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (44; 2% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (43; 2% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (43; 2% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (33; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (28; 1% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (23; 1% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (23; 1% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (18; 1% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-iobj.html">iobj</a></tt> (2; 0% instances)
+Children of `NUM` nodes are attached using 23 different relations: <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (667; 34% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (484; 25% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (191; 10% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (159; 8% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (91; 5% instances), <tt><a href="hi_hdtb-dep-nummod.html">nummod</a></tt> (67; 3% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (44; 2% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (43; 2% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (43; 2% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (33; 2% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (28; 1% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (23; 1% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (23; 1% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (18; 1% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-dep-nsubj-pass.html">nsubj:pass</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-iobj.html">iobj</a></tt> (2; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (864; 44% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (385; 20% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (321; 16% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (156; 8% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (103; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (33; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (22; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (864; 44% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (386; 20% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (321; 16% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (155; 8% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (103; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (33; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (22; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

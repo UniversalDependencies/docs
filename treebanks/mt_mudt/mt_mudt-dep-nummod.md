@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-226 nodes (1%) are attached to their parents as `nummod`.
+252 nodes (1%) are attached to their parents as `nummod`.
 
-160 instances of `nummod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20796460176991.
+157 instances of `nummod` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18650793650794.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (157; 69% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (32; 14% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (24; 11% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (189; 75% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (32; 13% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (25; 10% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
 1	Prezz	_	NOUN	NOUN	_	0	root	_	_
-2	€	_	PUNCT	X_PUN	_	1	nmod	_	_
+2	€	_	SYM	X_PUN	_	1	nmod	_	_
 3	2	_	NUM	X_DIG	_	2	nummod	_	SpaceAfter=No
 4	.	_	PUNCT	X_PUN	_	3	punct	_	_
 5	50	_	NUM	X_DIG	_	3	nummod	_	_

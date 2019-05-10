@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-aux.html">aux</a></tt>.
 
-15 nodes (0%) are attached to their parents as `aux:pass`.
+18 nodes (0%) are attached to their parents as `aux:pass`.
 
-14 instances of `aux:pass` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+18 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (15; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (18; 100% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	быць	быць	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	aux:pass	_	_
 4	заменена	заменена	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	xcomp	_	_
 5	паверхневай	паверхневы	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	апрацоўкай	апрацоўка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+6	апрацоўкай	апрацоўка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

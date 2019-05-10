@@ -11,7 +11,7 @@ This relation is universal.
 1000 nodes (4%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.625.
+Average distance between parent and child is 7.626.
 
 The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (810; 81% instances), -<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> (89; 9% instances), -<tt><a href="it_pud-pos-ADJ.html">ADJ</a></tt> (76; 8% instances), -<tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="it_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), -<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), -<tt><a href="it_pud-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
@@ -22,8 +22,8 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	È	essere	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	aux:pass	_	_
-2	stata	essere	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	4	aux:pass	_	_
+1	È	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	4	aux:pass	_	_
+2	stata	essere	AUX	VBN	Gender=Fem|Number=Sing|Tense=Past	4	aux:pass	_	_
 3	anche	anche	ADV	RB	_	4	advmod	_	_
 4	accusata	accusare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
 5	di	di	ADP	IN	_	8	case	_	_

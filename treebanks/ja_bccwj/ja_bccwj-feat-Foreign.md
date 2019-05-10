@@ -26,5 +26,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ja_bccwj-pos-X.html
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="ja_bccwj-dep-dep.html">dep</a></tt>]--> X</tt> (15; 100%).
+<tt>X --[<tt><a href="ja_bccwj-dep-dep.html">dep</a></tt>]--> X</tt> (21; 100%).
 

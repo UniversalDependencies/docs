@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  ۔ (<tt><a href="ur_udtb-pos-PUNCT.html">
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.101810).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.101903).
 
 The 1st highest number of forms (2) was observed with the lemma “-”: -, ۔.
 
@@ -75,19 +75,19 @@ Examples: ۔، ,، ،، -، ''، )، (، "، '، ؟
 
 `PUNCT` nodes are attached to their parents using 15 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (6836; 99% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (14; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (13; 0% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (13; 0% instances), <tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt> (10; 0% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (4907; 71% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (691; 10% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (680; 10% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (418; 6% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (68; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (5209; 75% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (739; 11% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (634; 9% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (187; 3% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (1; 0% instances)
 
-6843 (99%) `PUNCT` nodes are leaves.
+6901 (100%) `PUNCT` nodes are leaves.
 
-67 (1%) `PUNCT` nodes have one child.
+10 (0%) `PUNCT` nodes have one child.
 
-1 (0%) `PUNCT` nodes have two children.
+0 (0%) `PUNCT` nodes have two children.
 
 2 (0%) `PUNCT` nodes have three or more children.
 
 The highest child degree of a `PUNCT` node is 5.
 
-Children of `PUNCT` nodes are attached using 7 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (68; 87% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes are attached using 8 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (9; 47% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (2; 11% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2; 11% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (2; 11% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (1; 5% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (1; 5% instances)
 
-Children of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (68; 87% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (9; 47% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 21% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (2; 11% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 5% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15522 nodes (8%) are attached to their parents as `case`.
+15541 nodes (8%) are attached to their parents as `case`.
 
-15333 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17162736760727.
+15347 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17264011324883.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9453; 61% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2912; 19% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1414; 9% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1238; 8% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (325; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (76; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (73; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9465; 61% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2913; 19% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1416; 9% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1239; 8% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (325; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (76; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (76; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

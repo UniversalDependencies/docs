@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	av	av	ADP	_	_	10	case	_	_
 9	én	én	NUM	_	Gender=Masc|Number=Sing|NumType=Card	10	nummod	_	_
 10	Færderseilas	Færderseilas	PROPN	_	_	7	nmod	_	SpaceAfter=No
-11	,	$,	PUNCT	_	_	5	punct	_	_
+11	,	$,	PUNCT	_	_	12	punct	_	_
 12	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 13	Nilsson	Nilsson	PROPN	_	_	12	nsubj	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	5	punct	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>.
 There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_taiga-dep-nummod-entity.html">nummod:entity</a></tt>.
 
-208 nodes (1%) are attached to their parents as `nummod:gov`.
+285 nodes (1%) are attached to their parents as `nummod:gov`.
 
-197 instances of `nummod:gov` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+272 instances of `nummod:gov` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38245614035088.
 
-The following 12 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (187; 90% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (253; 89% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (10; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,56 +23,61 @@ The following 12 pairs of parts of speech are connected with `nummod:gov`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod:gov	color:blue
-1	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
-2	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	что	что	SCONJ	_	_	5	mark	_	_
-5	любишь	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-6	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	5	obj	_	_
-7	по	по	ADP	_	_	8	case	_	_
-8	100	100	NUM	_	_	9	nummod:gov	_	_
-9	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	_
-10	в	в	ADP	_	_	11	case	_	_
-11	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+1	Насчитал	насчитать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	11	punct	_	_
+3	что	что	SCONJ	_	_	11	mark	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	всего	всего	ADV	_	Degree=Pos	9	advmod	_	_
+8	три	три	NUM	_	Case=Nom	9	nummod:gov	_	_
+9	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	_
+10	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	солнечными	солнечный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod:gov	color:blue
-1	100	100	NUM	_	_	2	nummod:gov	_	SpaceAfter=No
-2	%	%	SYM	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	compound	_	_
-3	яблочник	яблочник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nummod:gov	color:blue
+1	Цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	двоих	двое	NUM	_	Animacy=Anim|Case=Acc	1	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	выходные	выходной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	nmod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	пт	пт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	вс	вс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	8	punct	_	_
+12	14100	14100	NUM	_	_	13	nummod:gov	_	SpaceAfter=No
+13	₽	₽	SYM	_	_	0	root	_	SpaceAfter=No
+14	/	/	ADP	_	_	15	case	_	SpaceAfter=No
+15	сутки	сутки	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod:gov	color:blue
-1	Вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	_	_	6	punct	_	_
-3	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-4	Сколько	сколько	NUM	_	Case=Nom	5	nummod:gov	_	_
-5	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	_
-6	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	parataxis	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	13	punct	_	_
-8	пока	пока	SCONJ	_	_	13	mark	_	_
-9	три	три	NUM	_	Case=Nom	10	nummod:gov	_	_
-10	недели	неделя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
-11	новости	новость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	_	_
-12	не	не	PART	_	Polarity=Neg	13	advmod	_	_
-13	читал	читать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
-14	!!!\	!!!\	PUNCT	_	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod:gov	color:blue
+1	За	за	ADP	_	_	3	case	_	_
+2	6	6	NUM	_	_	3	nummod:gov	_	_
+3	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+4	освоено	освоить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	42	42	NUM	_	_	6	nummod:gov	_	_
+6	млн.	миллион	NOUN	_	Abbr=Yes	7	nummod:gov	_	_
+7	га	га	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

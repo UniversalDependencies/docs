@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `ADP`
 
 There are 33 `ADP` lemmas (1%), 64 `ADP` types (1%) and 4675 `ADP` tokens (8%).
-Out of 14 observed tags, the rank of `ADP` is: 6 in number of lemmas, 9 in number of types and 7 in number of tokens.
+Out of 14 observed tags, the rank of `ADP` is: 6 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>въ, на, отъ, къ, съ, о, по, прѣдъ, ради, из</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>въ</em> (<tt><a href="cu_proiel-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.939394 (the average of all parts of speech is 3.256534).
+The form / lemma ratio of `ADP` is 1.939394 (the average of all parts of speech is 3.275325).
 
 The 1st highest number of forms (9) was observed with the lemma “из”: <em>и, иж, из, из-д-, изь, ис, ꙇж, ꙇз, ꙇз-д-</em>.
 
@@ -69,19 +69,21 @@ The 3rd highest number of forms (5) was observed with the lemma “без”: <e
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="cu_proiel-dep-case.html">case</a></tt> (4654; 100% instances), <tt><a href="cu_proiel-dep-xcomp.html">xcomp</a></tt> (11; 0% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="cu_proiel-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cu_proiel-dep-flat.html">flat</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="cu_proiel-dep-case.html">case</a></tt> (4654; 100% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="cu_proiel-dep-ccomp.html">ccomp</a></tt> (6; 0% instances), <tt><a href="cu_proiel-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cu_proiel-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (2749; 59% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1181; 25% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (296; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (268; 6% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (112; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (57; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (2748; 59% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1181; 25% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (296; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (269; 6% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (112; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (50; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (10; 0% instances),  (5; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-4580 (98%) `ADP` nodes are leaves.
+4657 (100%) `ADP` nodes are leaves.
 
-93 (2%) `ADP` nodes have one child.
+6 (0%) `ADP` nodes have one child.
 
-2 (0%) `ADP` nodes have two children.
+0 (0%) `ADP` nodes have two children.
 
-The highest child degree of a `ADP` node is 2.
+12 (0%) `ADP` nodes have three or more children.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (47; 48% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (37; 38% instances), <tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt> (7; 7% instances), <tt><a href="cu_proiel-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="cu_proiel-dep-flat.html">flat</a></tt> (1; 1% instances)
+The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (48; 49% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (29; 30% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (7; 7% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 12 different relations: <tt><a href="cu_proiel-dep-cop.html">cop</a></tt> (12; 25% instances), <tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt> (10; 21% instances), <tt><a href="cu_proiel-dep-mark.html">mark</a></tt> (7; 15% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (4; 8% instances), <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (3; 6% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (3; 6% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (2; 4% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="cu_proiel-dep-nmod.html">nmod</a></tt> (2; 4% instances), <tt><a href="cu_proiel-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (1; 2% instances)
+
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (12; 25% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (12; 25% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (7; 15% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (6; 13% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 6% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

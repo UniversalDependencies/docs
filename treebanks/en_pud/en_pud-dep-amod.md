@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 5	by	by	ADP	IN	_	6	case	6:case	_
 6	after	after	ADP	GW	_	4	obl	4:obl:by	_
 7	show	show	NOUN	NN	Number=Sing	6	goeswith	6:goeswith	SpaceAfter=No
-8	,	,	PUNCT	,	_	4	punct	4:punct	_
+8	,	,	PUNCT	,	_	6	punct	6:punct	_
 9	"	"	PUNCT	``	_	12	punct	12:punct	SpaceAfter=No
 10	The	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Proper=True
 11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_

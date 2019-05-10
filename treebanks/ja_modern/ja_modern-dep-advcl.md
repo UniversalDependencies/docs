@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-729 nodes (5%) are attached to their parents as `advcl`.
+727 nodes (5%) are attached to their parents as `advcl`.
 
-725 instances of `advcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.00274348422497.
+723 instances of `advcl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.00687757909216.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (692; 95% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (690; 95% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 11 advcl	color:blue
-1	僕	僕	PRON	代名詞	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
+1	僕	僕	PRON	代名詞	_	3	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	見る	見る	VERB	動詞-非自立可能	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 4	所	所	NOUN	名詞-普通名詞-副詞可能	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
@@ -78,17 +78,17 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 13 advcl	color:blue
-1	故	故	NOUN	名詞-普通名詞-副詞可能	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
+1	故	故	NOUN	名詞-普通名詞-副詞可能	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 2	に	に	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	上旨	上旨	NOUN	名詞-普通名詞-一般	_	5	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 5	下達	下達	NOUN	名詞-普通名詞-サ変可能	_	10	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
-6	せ	す	VERB	動詞-非自立可能	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
+6	せ	す	VERB	動詞-非自立可能	_	5	compound	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
 7	ず	ず	AUX	助動詞	Polarity=Neg	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No
 8	下情	下情	NOUN	名詞-普通名詞-一般	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 9	は	は	ADP	助詞-係助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 10	上伸	上伸	NOUN	名詞-普通名詞-サ変可能	_	13	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
-11	せ	す	VERB	動詞-非自立可能	_	10	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
+11	せ	す	VERB	動詞-非自立可能	_	10	compound	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
 12	ず	ず	AUX	助動詞	Polarity=Neg	10	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助動詞|SpaceAfter=No
 13	し	す	VERB	動詞-非自立可能	_	20	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 14	て	て	SCONJ	助詞-接続助詞	_	13	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-接続助詞|SpaceAfter=No

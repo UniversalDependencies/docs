@@ -54,7 +54,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>managai</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>managans</em></td><td></td><td><em>managistans</em></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>managa</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>managizo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>managos</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>managons</em></td><td></td><td><em>managistons</em></td></tr>
   <tr><td><tt><tt><a href="got_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="got_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>manag</em></td><td></td><td></td></tr>
@@ -75,7 +74,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (58; 39% of non-empty `Degree`): <em>mais, aljaleikos, mins, airis, framis, hauhis, sniumundos, wairs</em>
 * `Pos` (78; 52% of non-empty `Degree`): <em>filu, sniumundo, fram, uhteigo, usdaudo</em>
 * `Sup` (13; 9% of non-empty `Degree`): <em>frumist</em>
-* `EMPTY` (4988): <em>ni, þan, jah, auk, nu, unte, swe, swaswe, swa, aftra</em>
+* `EMPTY` (4992): <em>ni, þan, jah, auk, nu, swe, unte, swaswe, swa, aftra</em>
 
 <table>
   <tr><th>Paradigm <i>fram</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -85,9 +84,9 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (84; 94%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (93; 93%),
 <tt>ADJ --[<tt><a href="got_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (20; 77%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (10; 91%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="got_proiel-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="got_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (12; 80%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (5; 71%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
 

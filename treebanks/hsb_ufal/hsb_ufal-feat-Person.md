@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (10; 2% of non-empty `Person`): <em>prošu, móžemy, trjebamy, Njewěm, wothladamy, činju</em>
 * `2` (36; 6% of non-empty `Person`): <em>móžeš, hlej, namakaš, Pomhaj, móžeće, chceće, dodaš, dyrbiš, namakaće, njenamakaš</em>
 * `3` (595; 93% of non-empty `Person`): <em>ma, leži, móže, wobsahuje, su, rěči, běchu, dyrbi, maja, wužiwa</em>
-* `EMPTY` (180): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
+* `EMPTY` (181): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
   <tr><th>Paradigm <i>móc</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Person`.
+285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (285; 100%), <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (275; 96%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 64%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `2` (2; 1% of non-empty `Person`): <em>sy</em>
 * `3` (283; 99% of non-empty `Person`): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
-* `EMPTY` (5): <em>być, był, była, posłužić</em>
+* `EMPTY` (4): <em>być, był, była</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

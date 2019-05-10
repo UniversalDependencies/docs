@@ -9,178 +9,98 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-51829 tokens (52%) have a non-empty value of `Animacy`.
-26485 types (88%) occur at least once with a non-empty value of `Animacy`.
-15955 lemmas (86%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (27194; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12314; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (7074; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2063; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1238; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1013; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (925; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+38365 tokens (39%) have a non-empty value of `Animacy`.
+19388 types (65%) occur at least once with a non-empty value of `Animacy`.
+12195 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 10 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (178; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-27194 <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+26754 <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20470; 75%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13648; 50%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20138; 75%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (3759; 14% of non-empty `Animacy`): <em>человек, человека, женщин, мужчин, членом, автор, детей, жителей, людей, деятель</em>
-* `Inan` (23435; 86% of non-empty `Animacy`): <em>года, году, время, области, лет, войны, реки, год, км, города</em>
-* `EMPTY` (55): <em>No, n, C, T, f, i, x, С, AFe, B</em>
+* `Anim` (3697; 14% of non-empty `Animacy`): <em>человек, человека, женщин, мужчин, членом, автор, детей, жителей, людей, член</em>
+* `Inan` (23057; 86% of non-empty `Animacy`): <em>года, году, время, области, лет, войны, реки, год, км, города</em>
+* `EMPTY` (60): <em>No, n, ВЧ, C, T, f, i, x, ЛГБТ, С</em>
 
 <table>
-  <tr><th>Paradigm <i>ГОД</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><th>Paradigm <i>год</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>год, года</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годы, лет, годов</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годы, гг., лет, годов</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годы</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>году</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годам</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>года</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>лет, годов</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годам, гг.</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>года, г., гг.</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>лет, годов, гг.</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>годом</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годами</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>году</em></td><td><em>году</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годах, годы</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>год</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годы</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>году</em></td><td><em>году, г.</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годах, гг., годы</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>год, г.</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>годы, гг.</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6327) occur only with one value of `Animacy`.
-
-### `ADJ`
-
-12314 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9590; 78%).
-
-`ADJ` tokens may have the following values of `Animacy`:
-
-* `Anim` (1271; 10% of non-empty `Animacy`): <em>II, I, первым, сам, III, известный, американский, должен, многие, главный</em>
-* `Inan` (11043; 90% of non-empty `Animacy`): <em>второй, й, 2008, 2010, х, 2004, 2012, 1, 2006, 2009</em>
-* `EMPTY` (65): <em>старше, выше, необходимо, нужно, известно, трудно, возможно, достаточно, интересно, мельче</em>
-
-<table>
-  <tr><th>Paradigm <i>ПЕРВЫЙ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первый</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первую</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>первые</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первому</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>первого</em></td><td><em>первого</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>первой</em></td><td><em>первой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первого</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>первых</em></td><td><em>первых</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>первым</em></td><td><em>первым</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первым</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>первыми</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первом</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первом</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>первый</em></td><td><em>первый</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первая</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>первое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>первые</em></td><td><em>первые</em></td></tr>
-</table>
-
-`Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (3445) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6043) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-7074 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+6585 <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6837; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4907; 69%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6382; 97%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4523; 69%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (3420; 48% of non-empty `Animacy`): <em>де, Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей</em>
-* `Inan` (3654; 52% of non-empty `Animacy`): <em>России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Москве</em>
+* `Anim` (3299; 50% of non-empty `Animacy`): <em>Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей, Виктор</em>
+* `Inan` (3286; 50% of non-empty `Animacy`): <em>России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Москве</em>
+* `EMPTY` (32): <em>НЧ, В., 154М, 22М, 22Р, 25С, 3О, 400Т, 60К, 60Н</em>
 
 <table>
-  <tr><th>Paradigm <i>ДЕ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>де</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>де</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>де</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>де</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>де</em></td><td><em>Де</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>де</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>де</em></td></tr>
+  <tr><th>Paradigm <i>Дон</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Дона</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td><em>Дону</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>дон</em></td><td><em>Дон</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (4839) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (4425) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-2063 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Animacy`.
+2040 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2063; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2063; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2062; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1659; 80%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1561; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1477; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1422; 69%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1369; 66%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1115; 54%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2040; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2040; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2039; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1644; 81%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1547; 76%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1463; 72%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1405; 69%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1348; 66%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1096; 54%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (438; 21% of non-empty `Animacy`): <em>назначен, награждён, избран, вынужден, похоронен, произведён, ранен, убит, арестован, арестованы</em>
-* `Inan` (1625; 79% of non-empty `Animacy`): <em>расположен, основана, расположена, основан, принято, создана, расположено, расположены, назван, проведены</em>
-* `EMPTY` (6321): <em>составляет, может, находится, входит, получил, стал, можно, родился, имеет, начал</em>
+* `Anim` (434; 21% of non-empty `Animacy`): <em>назначен, награждён, избран, вынужден, похоронен, произведён, ранен, убит, арестован, арестованы</em>
+* `Inan` (1606; 79% of non-empty `Animacy`): <em>расположен, основана, основан, расположена, принято, создана, расположено, назван, проведены, расположены</em>
+* `EMPTY` (6454): <em>является, стал, составляет, может, находится, входит, получил, можно, родился, имеет</em>
 
 <table>
-  <tr><th>Paradigm <i>СТАТЬ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><th>Paradigm <i>стать</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ставших</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ставшим</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ставший</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ставшая</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ставшие</em></td><td><em>ставшие</em></td></tr>
 </table>
 
-### `DET`
-
-1238 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1187; 96%), <tt><a href="ru_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (980; 79%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (850; 69%).
-
-`DET` tokens may have the following values of `Animacy`:
-
-* `Anim` (178; 14% of non-empty `Animacy`): <em>своего, the, все, всех, своей, некоторые, тех, своим, своих, тот</em>
-* `Inan` (1060; 86% of non-empty `Animacy`): <em>этого, этот, все, том, своей, the, всех, то, это, свой</em>
-* `EMPTY` (359): <em>его, её, их, ее</em>
-
-<table>
-  <tr><th>Paradigm <i>ЭТОТ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этого</em></td><td><em>этот</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>эту</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>это</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Этих</em></td><td><em>эти</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этому</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этому</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>этим</em></td><td><em>этим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этого</em></td><td><em>этого</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этой, это</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этого</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>этих</em></td><td><em>этих</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>этими</em></td><td><em>этими</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этом</em></td><td><em>этом</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этом</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>этих</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этот</em></td><td><em>этот</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>эта</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>это</em></td></tr>
-  <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>эти</em></td></tr>
-</table>
-
 ### `NUM`
 
-1013 <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Animacy`.
+1014 <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> tokens (48% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1013; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (697; 69%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1000; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (692; 68%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (170; 17% of non-empty `Animacy`): <em>один, одного, одним, двух, два, 1, двое, три, четырёх, 2</em>
-* `Inan` (843; 83% of non-empty `Animacy`): <em>2, два, несколько, 1, 4, двух, 3, три, один, одной</em>
-* `EMPTY` (1018): <em>10, 5, 20, 6, 16, 15, 18, 100, 12, 0</em>
+* `Anim` (165; 16% of non-empty `Animacy`): <em>один, одним, одного, двух, два, 1, двое, три, четырёх, 2</em>
+* `Inan` (849; 84% of non-empty `Animacy`): <em>2, два, несколько, 1, 4, двух, 3, три, один, одной</em>
+* `EMPTY` (1091): <em>10, 5, 6, 20, 16, 15, 18, 12, 100, 7</em>
 
 <table>
-  <tr><th>Paradigm <i>ОДИН</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><th>Paradigm <i>один</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одного</em></td><td><em>один</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>одну</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>одно, одного</em></td></tr>
@@ -203,18 +123,18 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 ### `PRON`
 
-925 <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Animacy`.
+939 <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (925; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (777; 84%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (479; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (939; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (791; 84%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (492; 52%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (131; 14% of non-empty `Animacy`): <em>который, которые, кто, которого, которых, которым, кем, которой, которая, которому</em>
-* `Inan` (794; 86% of non-empty `Animacy`): <em>это, который, того, что, которые, тем, которой, которых, том, этом</em>
-* `EMPTY` (1000): <em>он, она, они, его, себя, ему, им, их, собой, них</em>
+* `Anim` (132; 14% of non-empty `Animacy`): <em>который, которые, кто, которого, которых, которым, кем, которой, которая, которому</em>
+* `Inan` (807; 86% of non-empty `Animacy`): <em>это, который, того, что, которые, тем, которой, которых, том, этом</em>
+* `EMPTY` (979): <em>он, она, они, его, себя, ему, им, их, собой, них</em>
 
 <table>
-  <tr><th>Paradigm <i>КОТОРЫЙ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><th>Paradigm <i>который</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>которого, который</em></td><td><em>который</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>которую</em></td><td><em>которую</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>которое, которого</em></td></tr>
@@ -240,36 +160,96 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>которые</em></td><td><em>которые</em></td></tr>
 </table>
 
+`Animacy` seems to be **lexical feature** of `PRON`. 93% lemmas (13) occur only with one value of `Animacy`.
+
+### `ADJ`
+
+850 <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (845; 99%), <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (832; 98%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (458; 54%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (458; 54%).
+
+`ADJ` tokens may have the following values of `Animacy`:
+
+* `Anim` (60; 7% of non-empty `Animacy`): <em>I, активных, бывших, новых, Дикого, Законных, Митиленского, Сильного, Слепого, Хильдесхеймского</em>
+* `Inan` (790; 93% of non-empty `Animacy`): <em>первый, первые, последние, следующий, государственный, новый, другие, новые, разные, второй</em>
+* `EMPTY` (11422): <em>второй, 2008, других, 2010, 1, 2004, 2012, 2007, 2011, 2006</em>
+
+<table>
+  <tr><th>Paradigm <i>новый</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>новый</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>новых</em></td><td><em>новые</em></td></tr>
+</table>
+
+`Animacy` seems to be **lexical feature** of `ADJ`. 96% lemmas (547) occur only with one value of `Animacy`.
+
+### `DET`
+
+178 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (174; 98%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 53%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (91; 51%).
+
+`DET` tokens may have the following values of `Animacy`:
+
+* `Anim` (30; 17% of non-empty `Animacy`): <em>всех, своего, своих, один, одного, таких, тех, Этих, некоего, некоторых</em>
+* `Inan` (148; 83% of non-empty `Animacy`): <em>свой, этот, свои, все, эти, каждый, такие, тот, весь, некоторые</em>
+* `EMPTY` (1377): <em>его, её, их, этого, своей, том, всех, все, то, это</em>
+
+<table>
+  <tr><th>Paradigm <i>этот</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этого</em></td><td><em>этот</em></td></tr>
+  <tr><td><tt><tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Этих</em></td><td><em>эти</em></td></tr>
+</table>
+
 ### `AUX`
 
-8 <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Animacy`.
+3 <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 88%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6; 75%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5; 63%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 63%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5; 63%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Anim` (5; 63% of non-empty `Animacy`): <em>бывшего, бывшим, назначен, ставших, являющегося</em>
-* `Inan` (3; 38% of non-empty `Animacy`): <em>бывшие, песни, являющееся</em>
-* `EMPTY` (1004): <em>был, была, были, было, является, быть, будет, это, являются, будучи</em>
+* `Anim` (2; 67% of non-empty `Animacy`): <em>бывшего, бывшим</em>
+* `Inan` (1; 33% of non-empty `Animacy`): <em>бывшие</em>
+* `EMPTY` (805): <em>был, были, была, было, быть, будет, будучи, будут, бы, есть</em>
 
 <table>
-  <tr><th>Paradigm <i>БЫТЬ</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><th>Paradigm <i>быть</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>бывшего</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>бывшим</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>бывшие</em></td></tr>
 </table>
 
+### `PART`
+
+1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `PART` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`PART` tokens may have the following values of `Animacy`:
+
+* `Inan` (1; 100% of non-empty `Animacy`): <em>Де</em>
+* `EMPTY` (1086): <em>не, же, и, также, только, лишь, даже, де, это, ни</em>
+
+### `PUNCT`
+
+1 <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Animacy`.
+
+`PUNCT` tokens may have the following values of `Animacy`:
+
+* `Anim` (1; 100% of non-empty `Animacy`): <em>-</em>
+* `EMPTY` (18124): <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
+
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9860; 100%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6977; 81%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1943; 95%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1175; 95%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1035; 64%),
-<tt>PROPN --[<tt><a href="ru_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (990; 100%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-det.html">det</a></tt>]--> DET</tt> (922; 72%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (900; 92%),
-<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NOUN</tt> (779; 86%),
-<tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (570; 99%).
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6864; 81%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1942; 96%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1086; 95%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1000; 64%),
+<tt>PROPN --[<tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (963; 99%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (890; 93%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> NOUN</tt> (650; 84%),
+<tt>VERB --[<tt><a href="ru_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (527; 97%),
+<tt>PROPN --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (519; 99%),
+<tt>NOUN --[<tt><a href="ru_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (298; 83%).
 

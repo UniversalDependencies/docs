@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	taujan	taujan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=MATT_6.1
 6	in	in	ADP	R-	_	7	case	_	ref=MATT_6.1
 7	andwairþja	andwairþi	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	ref=MATT_6.1
-8	manne	manna#2	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MATT_6.1
+8	manne	manna	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MATT_6.1|LId=2
 9	du	du	ADP	R-	_	10	mark	_	ref=MATT_6.1
 10	saiƕan	saiƕan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	advcl	_	ref=MATT_6.1
 11	im	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obl:agent	_	ref=MATT_6.1

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1203 nodes (5%) are attached to their parents as `punct`.
+1339 nodes (5%) are attached to their parents as `punct`.
 
-956 instances of `punct` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.0931005818786.
+1088 instances of `punct` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 14.2143390589993.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (822; 68% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (250; 21% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (69; 6% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (34; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (12; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (947; 71% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (262; 20% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (67; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (37; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,19 +49,19 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 14 punct	color:blue
-1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	3	case	_	_
-2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	_
-4	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-5	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
-6	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	ⲙⲛⲧⲙⲛⲧⲣⲉ	ⲙⲛⲧⲙⲛⲧⲣⲉ	NOUN	N	_	11	nsubj	_	Morphs=ⲙⲛⲧ-ⲙⲛⲧⲣⲉ
-8	ⲙ	ⲛ	ADP	PREP	_	10	case	_	_
-9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	7	nmod	_	_
-11	ⲧⲁϫⲣⲟ	ⲧⲁϫⲣⲟ	VERB	V	VerbForm=Fin	3	acl	_	_
-12	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	13	case	_	_
-13	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	obl	_	_
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
+3	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	0	root	_	_
+4	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
+5	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	7	nsubj	_	_
+7	ϣⲟⲩⲟ	ϣⲟⲩⲟ	VERB	V	VerbForm=Fin	3	acl	_	_
+8	ⲙⲙⲟ	ⲛ	ADP	PREP	_	9	case	_	_
+9	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+10	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advcl	_	_
+11	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	ⲙⲛⲧⲥⲛⲟⲟⲩⲥ	NUM	NUM	NumType=Card	10	nsubj	_	Morphs=ⲙⲛⲧ-ⲥⲛⲟⲟⲩⲥ
+12	ⲛ	ⲛ	ADP	PREP	_	13	case	_	Orig=ⲣ
+13	ⲣⲟⲙⲡⲉ	ⲣⲟⲙⲡⲉ	NOUN	N	_	11	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

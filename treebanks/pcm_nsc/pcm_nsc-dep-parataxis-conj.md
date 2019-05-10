@@ -45,13 +45,13 @@ The following 9 pairs of parts of speech are connected with `parataxis:conj`: <t
 3	house	house	NOUN	_	_	2	obj	_	_
 4	now	now	ADV	_	_	2	advmod	_	_
 5	<	<	PUNCT	_	_	2	punct	_	_
-6	na	na	PART	_	_	7	cop	_	_
+6	na	na	AUX	PART	_	7	cop	_	_
 7	wahala	wahala	NOUN	_	_	0	root	_	_
 8	//=	//=	PUNCT	_	_	13	punct	_	_
 9	to	to	SCONJ	_	_	10	mark	_	_
 10	feed	feed	VERB	_	_	13	csubj	_	_
 11	<	<	PUNCT	_	_	10	punct	_	_
-12	na	na	PART	_	_	13	cop	_	_
+12	na	na	AUX	PART	_	13	cop	_	_
 13	wahala	wahala	NOUN	_	_	7	parataxis:conj	_	_
 14	//	//	PUNCT	_	_	7	punct	_	_
 

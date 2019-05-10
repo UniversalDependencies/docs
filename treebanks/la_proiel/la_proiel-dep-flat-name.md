@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-PROIEL: Relations: `flat:name`
 
-This relation is a language-specific subtype of <tt><a href="la_proiel-dep-flat.html">flat</a></tt>.
+This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="la_proiel-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-582 nodes (0%) are attached to their parents as `flat:name`.
+574 nodes (0%) are attached to their parents as `flat:name`.
 
-582 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37628865979381.
+574 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.40418118466899.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (582; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (574; 100% instances).
 
 
 ~~~ conllu

@@ -11,27 +11,23 @@ This relation is universal.
 72 nodes (0%) are attached to their parents as `parataxis`.
 
 37 instances of `parataxis` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.11111111111111.
+Average distance between parent and child is 5.01388888888889.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (50; 69% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (9; 13% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (36; 50% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (10; 14% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (7; 10% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 parataxis	color:blue
-1	аще	аще	SCONJ	G-	_	3	mark	_	ref=MATT_24.26
-2	же	же	ADV	Df	_	10	discourse	_	ref=MATT_24.26
-3	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=MATT_24.26
-4	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_24.26
-5	се	се	INTJ	I-	_	10	vocative	_	ref=MATT_24.26
-6	въ	въ	ADP	R-	_	7	case	_	ref=MATT_24.26
-7	поустꙑни	поустꙑни	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	xcomp	_	ref=MATT_24.26
-8	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	ref=MATT_24.26
-9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	ref=MATT_24.26
-10	изидѣте	изити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_24.26
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 parataxis	color:blue
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_7.8
+2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.8
+3	семоу	сь	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=LUKE_7.8
+4	иди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	ref=LUKE_7.8
+5	и	и	CCONJ	C-	_	2	cc	_	ref=LUKE_7.8
+6	идетъ	ити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_7.8
 
 ~~~
 

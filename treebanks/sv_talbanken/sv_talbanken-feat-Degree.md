@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (542; 8% of non-empty `Degree`): <em>större, högre, bättre, mindre, äldre, längre, lättare, lägre, yttre, svårare</em>
 * `Pos` (5940; 88% of non-empty `Degree`): <em>olika, andra, nya, många, stora, stor, vissa, hela, flera, annan</em>
 * `Sup` (287; 4% of non-empty `Degree`): <em>flesta, bästa, största, närmaste, högsta, viktigaste, senaste, vanligaste, störst, främsta</em>
-* `EMPTY` (1731): <em>första, följande, beroende, särskild, särskilda, andra, ökad, motsvarande, liknande, ökade</em>
+* `EMPTY` (1730): <em>första, följande, beroende, särskild, särskilda, andra, ökad, motsvarande, liknande, ökade</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (392; 23% of non-empty `Degree`): <em>mer, tidigare, mindre, vidare, mera, längre, senare, ytterligare, bättre, närmare</em>
 * `Pos` (1082; 63% of non-empty `Degree`): <em>mycket, helt, ofta, länge, långt, snabbt, relativt, direkt, starkt, säkert</em>
 * `Sup` (255; 15% of non-empty `Degree`): <em>mest, minst, främst, högst, helst, bäst, oftast, längst, knappast, ytterst</em>
-* `EMPTY` (5296): <em>så, också, hur, där, här, nu, bara, ut, även, då</em>
+* `EMPTY` (5302): <em>så, också, hur, där, här, nu, bara, ut, även, då</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

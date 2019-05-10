@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="zh_hk-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="zh_hk-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-7 nodes (0%) are attached to their parents as `obl:patient`.
+8 nodes (0%) are attached to their parents as `obl:patient`.
 
-7 instances of `obl:patient` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57142857142857.
+8 instances of `obl:patient` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="zh_hk-pos-PART.html">PART</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `obl:patient`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (5; 63% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 # visual-style 31	bgColor:blue
 # visual-style 31	fgColor:white
 # visual-style 31 29 obl:patient	color:blue
-1	倘若	_	SCONJ	_	_	8	advmod	_	SpaceAfter=No
+1	倘若	_	SCONJ	_	_	8	mark	_	SpaceAfter=No
 2	秘書處	_	NOUN	_	_	8	nsubj	_	SpaceAfter=No
 3	和	_	CCONJ	_	_	4	cc	_	SpaceAfter=No
 4	主席	_	NOUN	_	_	2	conj	_	SpaceAfter=No
@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 6	整個	_	DET	_	_	7	det	_	SpaceAfter=No
 7	選舉	_	NOUN	_	_	8	obl	_	SpaceAfter=No
 8	負責	_	VERB	_	_	30	advcl	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
+9	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	或	_	CCONJ	_	_	11	cc	_	SpaceAfter=No
 11	覺得	_	VERB	_	_	8	conj	_	SpaceAfter=No
 12	整個	_	DET	_	_	13	det	_	SpaceAfter=No
@@ -67,10 +67,10 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 16	，	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
 17	重新	_	ADV	_	_	19	advmod	_	SpaceAfter=No
 18	取得	_	VERB	_	_	15	conj	_	SpaceAfter=No
-19	市民	_	NOUN	_	_	22	nmod	_	SpaceAfter=No
+19	市民	_	NOUN	_	_	21	nmod	_	SpaceAfter=No
 20	的	_	PART	_	_	19	case	_	SpaceAfter=No
-21	信任	_	NOUN	_	_	19	obj	_	SpaceAfter=No
-22	，	_	PUNCT	_	_	31	punct	_	SpaceAfter=No
+21	信任	_	NOUN	_	_	18	obj	_	SpaceAfter=No
+22	，	_	PUNCT	_	_	30	punct	_	SpaceAfter=No
 23	便	_	ADV	_	_	31	advmod	_	SpaceAfter=No
 24	更	_	ADV	_	_	31	advmod	_	SpaceAfter=No
 25	要	_	AUX	_	_	31	aux	_	SpaceAfter=No
@@ -79,12 +79,12 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 28	個	_	NOUN	_	NounType=Clf	27	clf	_	SpaceAfter=No
 29	程式	_	NOUN	_	_	31	obl:patient	_	SpaceAfter=No
 30	做	_	VERB	_	_	0	root	_	SpaceAfter=No
-31	得	_	PART	_	_	30	compound:ext	_	SpaceAfter=No
-32	更	_	ADV	_	_	34	advmod	_	SpaceAfter=No
+31	得	_	AUX	_	_	30	aux	_	SpaceAfter=No
+32	更	_	ADV	_	_	33	advmod	_	SpaceAfter=No
 33	嚴謹	_	ADJ	_	_	31	xcomp	_	SpaceAfter=No
-34	，	_	PUNCT	_	_	37	punct	_	SpaceAfter=No
-35	而	_	CCONJ	_	_	37	cc	_	SpaceAfter=No
-36	非	_	VERB	_	_	31	conj	_	SpaceAfter=No
+34	，	_	PUNCT	_	_	30	punct	_	SpaceAfter=No
+35	而	_	CCONJ	_	_	40	cc	_	SpaceAfter=No
+36	非	_	VERB	_	_	30	conj	_	SpaceAfter=No
 37	「	_	PUNCT	_	_	40	punct	_	SpaceAfter=No
 38	按	_	ADP	_	_	39	case	_	SpaceAfter=No
 39	章	_	NOUN	_	_	40	obl	_	SpaceAfter=No
@@ -106,18 +106,27 @@ The following 3 pairs of parts of speech are connected with `obl:patient`: <tt><
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obl:patient	color:blue
-1	常	_	ADV	_	_	4	advmod	_	SpaceAfter=No
-2	把	_	ADP	_	_	3	case	_	SpaceAfter=No
-3	龜波氣功	_	PROPN	_	_	4	obl:patient	_	SpaceAfter=No
-4	掛	_	VERB	_	_	0	root	_	SpaceAfter=No
-5	在	_	ADP	_	_	6	case	_	SpaceAfter=No
-6	口邊	_	NOUN	_	_	4	obl	_	SpaceAfter=No
-7	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obl:patient	color:blue
+1	除非	_	SCONJ	_	_	6	mark	_	SpaceAfter=No
+2	你	_	PRON	_	_	6	nsubj	_	SpaceAfter=No
+3	不	_	ADV	_	_	6	advmod	_	SpaceAfter=No
+4	把	_	ADP	_	_	6	case	_	SpaceAfter=No
+5	我	_	PRON	_	_	6	obl:patient	_	SpaceAfter=No
+6	當作	_	VERB	_	_	12	advcl	_	SpaceAfter=No
+7	主席	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	，	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
+9	那	_	ADV	_	_	12	advmod	_	SpaceAfter=No
+10	就	_	ADV	_	_	12	advmod	_	SpaceAfter=No
+11	不用	_	AUX	_	_	12	aux	_	SpaceAfter=No
+12	理會	_	VERB	_	_	0	root	_	SpaceAfter=No
+13	我	_	PRON	_	_	15	nmod	_	SpaceAfter=No
+14	這	_	DET	_	_	15	det	_	SpaceAfter=No
+15	決定	_	NOUN	_	_	12	obj	_	SpaceAfter=No
+16	。	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -10,10 +10,10 @@ This relation is universal.
 
 3247 nodes (22%) are attached to their parents as `case`.
 
-3247 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15029257776409.
+3244 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15368032029566.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (2263; 70% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (384; 12% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (324; 10% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (109; 3% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (53; 2% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (42; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ja_modern-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (2267; 70% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (385; 12% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (324; 10% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (109; 3% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (53; 2% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (42; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="ja_modern-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	僕	僕	PRON	代名詞	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
+1	僕	僕	PRON	代名詞	_	3	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	見る	見る	VERB	動詞-非自立可能	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 4	所	所	NOUN	名詞-普通名詞-副詞可能	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No

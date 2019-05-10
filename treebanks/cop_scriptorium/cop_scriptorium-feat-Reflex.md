@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Reflex` co-occurred
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (4; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
-* `EMPTY` (869): ⲉⲃⲟⲗ, ⲁⲛ, ⲧⲏⲣ, ⲛ, ⲉϩⲣⲁⲓ, ⲟⲛ, ⲉϩⲟⲩⲛ, ⲙⲙⲁⲩ, ⲧⲙ, ϩⲣⲁⲓ
+* `EMPTY` (1038): ⲉⲃⲟⲗ, ⲁⲛ, ⲧⲏⲣ, ⲛ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲧⲙ, ϩⲣⲁⲓ
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ
-* `EMPTY` (3500): ϥ, ⲩ, ⲟⲩ, ⲥ, ⲕ, ⲧⲛ, ⲡⲉ, ⲓ, ⲧⲉⲧⲛ, ⲛ
+* `EMPTY` (4254): ϥ, ⲩ, ⲟⲩ, ⲥ, ⲕ, ⲧⲛ, ⲧⲉⲧⲛ, ⲓ, ⲡⲉ, ⲛ
 

@@ -8,46 +8,51 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="no_nynorsklia-dep-nsubj.html">nsubj</a></tt>.
 
-11 nodes (0%) are attached to their parents as `nsubj:pass`.
+57 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-10 instances of `nsubj:pass` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36363636363636.
+56 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (10; 91% instances), <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsklia-pos-PROPN.html">PROPN</a></tt> (1; 9% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (49; 86% instances), <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsklia-pos-NOUN.html">NOUN</a></tt> (8; 14% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj:pass	color:blue
-1	blei	bli	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj:pass	_	_
-3	kontrollert	kontrollere	VERB	_	VerbForm=Part	0	root	_	_
-4	?	$?	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj:pass	color:blue
+1	seien	sei	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
+2	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	_	_
+3	blir	bli	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+4	em	em	X	_	_	6	discourse:filler	_	_
+5	#	#	PUNCT	_	_	4	punct	_	_
+6	levert	levere	VERB	_	VerbForm=Part	0	root	_	_
+7	til	til	ADP	_	_	10	case	_	_
+8	e	e	X	_	_	10	discourse:filler	_	_
+9	#	#	PUNCT	_	_	8	punct	_	_
+10	fisketilverkarar	fisketilverkar	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	6	obl	_	_
+11	.	$.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 nsubj:pass	color:blue
-1	men	men	CCONJ	_	_	6	cc	_	_
-2	så	så	ADV	_	_	6	advmod	_	_
-3	blei	bli	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-5	jo	jo	ADV	_	_	6	advmod	_	_
-6	bygd	bygge	VERB	_	VerbForm=Part	0	root	_	_
-7	Bøndenes	Bøndenes	PROPN	_	_	6	nsubj:pass	_	_
-8	hus	hus	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	7	flat:name	_	_
-9	her	her	ADV	_	_	6	advmod	_	_
-10	oppe	oppe	ADP	_	_	6	compound:prt	_	_
-11	da	da	ADV	_	_	6	advmod	_	_
-12	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 7 4 nsubj:pass	color:blue
+1	ja	ja	INTJ	_	_	7	discourse	_	_
+2	og	og	CCONJ	_	_	7	cc	_	_
+3	så	så	ADV	_	_	7	advmod	_	_
+4	tankane	tank	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+5	må	måtte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	jo	jo	ADV	_	_	7	advmod	_	_
+7	gjerast	gjere	VERB	_	VerbForm=Inf|Voice=Pass	0	root	_	_
+8	reine	rein	ADJ	_	Degree=Pos|Number=Plur	7	xcomp	_	_
+9	og	og	CCONJ	_	_	7	cc	_	_
+10	.	$.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

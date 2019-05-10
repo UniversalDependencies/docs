@@ -8,81 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `goeswith`.
+1 nodes (0%) are attached to their parents as `goeswith`.
 
-4 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 50% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 25% instances).
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 goeswith	color:blue
-1	Adoptée	adopter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-2	par	par	ADP	E	_	4	case	_	_
-3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	assemblée	assemblée	NOUN	S	Gender=Fem|Number=Sing	1	obl:agent	_	_
-5	générale	général	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
-6	de	de	ADP	E	_	8	case	_	_
-7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	Nations	Nations	PROPN	SP	_	4	nmod	_	_
-9	Unies	Unies	PROPN	SP	_	8	flat:name	_	_
-10	dans	dans	ADP	E	_	12	case	_	_
-11	sa	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	12	det	_	_
-12	résolution	résolution	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
-13	217	217	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
-14	a	(#\a	X	X	_	13	goeswith	_	_
-15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
-16	III	troisieme	ADJ	NO	Number=Sing|NumType=Ord	13	amod	_	SpaceAfter=No
-17	)	)	PUNCT	FB	_	16	punct	_	_
-18	de	de	ADP	E	_	20	case	_	_
-19	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
-20	10	10	NUM	N	NumType=Card	12	nmod	_	_
-21	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	20	flat	_	_
-22	1948	1948	NUM	N	NumType=Card	20	flat	_	SpaceAfter=No
-23	.	.	PUNCT	FS	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 goeswith	color:blue
-1	Le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	présent	présent	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	_
-3	traité	traité	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
-4	entre	entrer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	en	en	ADP	E	_	6	case	_	_
-6	vigueur	vigueur	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
-7	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	1	1	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
-9	er	er	NOUN	S	Gender=Fem|Number=Sing	8	goeswith	_	_
-10	janvier	janvier	NOUN	S	Gender=Fem|Number=Sing	8	flat	_	_
-11	2007	2007	NUM	N	NumType=Card	8	flat	_	_
-12	à	à	ADP	E	_	13	case	_	_
-13	condition	condition	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
-14	que	que	SCONJ	CS	_	22	mark	_	_
-15	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	17	det	_	_
-16	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
-17	instruments	instruments	NOUN	S	Gender=Fem|Number=Plur	22	nsubj:pass	_	_
-18	de	de	ADP	E	_	19	case	_	_
-19	ratification	ratification	ADJ	A	Number=Sing	17	nmod	_	_
-20	aient	avoir	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
-21	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	aux:pass	_	_
-22	déposés	déposer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
-23	avant	avant	ADP	E	_	25	case	_	_
-24	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
-25	date	date	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
-26	.	.	PUNCT	FS	_	4	punct	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

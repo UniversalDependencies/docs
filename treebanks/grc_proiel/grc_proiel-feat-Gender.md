@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 2 combinations have been observed: `Fem|Masc`, `Masc|Neut`.
 
-122497 tokens (57%) have a non-empty value of `Gender`.
+122490 tokens (57%) have a non-empty value of `Gender`.
 20753 types (64%) occur at least once with a non-empty value of `Gender`.
-7600 lemmas (81%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35744; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31296; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17820; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16635; 8% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (11542; 5% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (792; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (568; 0% instances).
+7586 lemmas (81%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35741; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31291; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17818; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16637; 8% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (11542; 5% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (793; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (568; 0% instances).
 
 ### `NOUN`
 
-35744 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+35741 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24915; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24914; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (12599; 35% of non-empty `Gender`): <em>πόλιν, γῆς, ἡμέρας, γῆν, θάλασσαν, πίστεως, γυναῖκα, νέας, ἡμέρᾳ, γυνὴ</em>
 * `Fem,Masc` (27; 0% of non-empty `Gender`): <em>ἵππον, βοῦς, κύων, ἵπποισι, ἵππῳ, αἰγὸς, βοὸς, βοῦν, δυωδεκαπόλιες, κάμηλον</em>
-* `Masc` (16281; 46% of non-empty `Gender`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, κύριος, ἀνθρώπων, ἀνθρώπου, υἱὸς, ἄνθρωπος</em>
+* `Masc` (16278; 46% of non-empty `Gender`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, κύριος, ἀνθρώπων, ἀνθρώπου, υἱὸς, ἄνθρωπος</em>
 * `Masc,Neut` (5; 0% of non-empty `Gender`): <em>Ναζαρηνοῦ, ἱροῦ, ὀνείρου, ὀνειράτων, ὄνειρον</em>
 * `Neut` (6832; 19% of non-empty `Gender`): <em>πνεῦμα, οὔνομα, πνεύματος, ὄνομα, πνεύματι, τέκνα, ὀνόματι, σῶμα, ἔργα, ὕδωρ</em>
 * `EMPTY` (69): <em>πάσχα, ῥαββεί, μάννα, οὐαὶ, ω, ἀββᾶ, ἄλφα, ῥαββουνί, Μαδιάμ, Χερουβεὶν</em>
@@ -42,21 +42,21 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ἵπποι</em></td><td><em>ἵπποι</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (2971) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (2969) occur only with one value of `Gender`.
 
 ### `DET`
 
-31296 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
+31291 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27814; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (27814; 89%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22178; 71%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27811; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (27811; 89%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22177; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (9062; 29% of non-empty `Gender`): <em>τὴν, τῆς, ἡ, τῇ, τὰς, αἱ, ταῖς, τῶν, πᾶσαν, ταύτην</em>
 * `Fem,Masc` (63; 0% of non-empty `Gender`): <em>τις, τινὰ, τινα, τινάς, τινας, τινὲς, πάντες, τίς, τινος, τινων</em>
-* `Masc` (14102; 45% of non-empty `Gender`): <em>ὁ, τὸν, οἱ, τοῦ, τοὺς, τῶν, τῷ, τοῖς, τοῖσι, τοῦτον</em>
+* `Masc` (14098; 45% of non-empty `Gender`): <em>ὁ, τὸν, οἱ, τοῦ, τοὺς, τῶν, τῷ, τοῖς, τοῖσι, τοῦτον</em>
 * `Masc,Neut` (2214; 7% of non-empty `Gender`): <em>τοῦ, τῷ, τοῖς, τοῖσι, πάντων, τούτου, παντὶ, αὐτῷ, πᾶσιν, τούτῳ</em>
-* `Neut` (5855; 19% of non-empty `Gender`): <em>τὸ, τὰ, τοῦ, τῷ, τῶν, πάντα, τι, πᾶν, τοῦτο, τοῖς</em>
+* `Neut` (5854; 19% of non-empty `Gender`): <em>τὸ, τὰ, τοῦ, τῷ, τῶν, πάντα, τι, πᾶν, τοῦτο, τοῖς</em>
 * `EMPTY` (651): <em>τῶν, αὐτῶν, τούτων, ἄλλων, τινι, ἀμφοτέρων, τεο, τευ, τεῶν, τεῷ</em>
 
 <table>
@@ -74,15 +74,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-17820 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
+17818 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14350; 81%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11125; 62%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14349; 81%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11125; 62%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1269; 7% of non-empty `Gender`): <em>αὐτῆς, αὐτῇ, ἣν, αὐτὴν, αὐτήν, τὴν, ἧς, τῇ, ἥτις, ᾗ</em>
 * `Fem,Masc` (1919; 11% of non-empty `Gender`): <em>ὑμῖν, σου, ὑμῶν, ὑμεῖς, ὑμᾶς, σοι, σε, σὺ, ἡμῶν, ἡμᾶς</em>
-* `Masc` (12856; 72% of non-empty `Gender`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, μου, ἐγὼ, οἱ, ὑμῶν, αὐτόν</em>
+* `Masc` (12854; 72% of non-empty `Gender`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, μου, ἐγὼ, οἱ, ὑμῶν, αὐτόν</em>
 * `Masc,Neut` (22; 0% of non-empty `Gender`): <em>οὗ, ποίῳ, τῷ, ὅσον, ᾧ, κοίῳ, ποίου, ποῖον, τέοισί, τίνι</em>
 * `Neut` (1754; 10% of non-empty `Gender`): <em>τί, ὃ, ἃ, τὰ, ὅσα, αὐτὸ, τὸ, ὅ, αὐτοῦ, ᾧ</em>
 * `EMPTY` (24): <em>ἐγὼ, μου, τέῳ, τίνι, τῶν, ὑμῖν, με, σὺ, τινι, τινος</em>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-16635 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
+16637 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10155; 61%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8928; 54%).
 
@@ -109,9 +109,9 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (2452; 15% of non-empty `Gender`): <em>αὕτη, μεγάλη, μεγάλῃ, μεγάλην, ἄλλην, ταύτην, αἰώνιον, ἰδίαν, ταύτης, ἄλλη</em>
 * `Fem,Masc` (313; 2% of non-empty `Gender`): <em>τις, τινες, πλήρης, ἐλάσσω, ἔρημος, βεβήλους, εὐπρόσδεκτος, τίς, τινα, ἀδόκιμοι</em>
-* `Masc` (7601; 46% of non-empty `Gender`): <em>οὗτοι, οὗτος, τις, πάντες, οὐδεὶς, αὐτὸς, πολλοὶ, νεκρῶν, τούτους, τοῦτον</em>
+* `Masc` (7602; 46% of non-empty `Gender`): <em>οὗτοι, οὗτος, τις, πάντες, οὐδεὶς, αὐτὸς, πολλοὶ, νεκρῶν, τούτους, τοῦτον</em>
 * `Masc,Neut` (417; 3% of non-empty `Gender`): <em>ἁγίου, ἁγίῳ, ἅγιον, ἴδιον, πολλῷ, καλὸν, ἰδίου, ἀγαθὸν, ἰδίοις, ὅλον</em>
-* `Neut` (5852; 35% of non-empty `Gender`): <em>ταῦτα, τοῦτο, πάντα, τάδε, πρότερον, τούτων, οὐδὲν, πολλὰ, τι, πρῶτον</em>
+* `Neut` (5853; 35% of non-empty `Gender`): <em>ταῦτα, τοῦτο, πάντα, τάδε, πρότερον, τούτων, οὐδὲν, πολλὰ, τι, πρῶτον</em>
 * `EMPTY` (198): <em>πολλῶν, αἰωνίου, αἰώνιον, μεγάλων, καλῶν, Εὔξεινον, αἰωνίων, βάρβαρον, νεκρῶν, πάροινον</em>
 
 <table>
@@ -151,7 +151,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Masc` (9456; 82% of non-empty `Gender`): <em>λέγων, λέγοντες, ἔχων, ἀποκριθεὶς, ἔχοντες, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας</em>
 * `Masc,Neut` (142; 1% of non-empty `Gender`): <em>γενόμενον, ζῶντος, δόντος, εἰρημένῳ, καλεομένου, καλεόμενον, λέγοντος, λαλούντων, βουλομένοισι, γενομένου</em>
 * `Neut` (899; 8% of non-empty `Gender`): <em>γεγραμμένον, ἔχοντα, ῥηθὲν, γενόμενα, γενόμενον, γινόμενα, λεγόμενα, παρεὸν, γεγονός, γεγραμμένα</em>
-* `EMPTY` (28131): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, γενέσθαι, δεῖ, ἔλεγον, εἶπαν, εἶχον</em>
+* `EMPTY` (28124): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, γενέσθαι, δεῖ, ἔλεγον, εἶπαν, εἶχον</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -210,19 +210,19 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Ξέρξης</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (1237) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (1235) occur only with one value of `Gender`.
 
 ### `NUM`
 
-792 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (48% of all `NUM` tokens) have a non-empty value of `Gender`.
+793 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (48% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (414; 52%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (415; 52%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (196; 25% of non-empty `Gender`): <em>μίαν, μία, τρεῖς, μιᾷ, τριηκοσίας, μιᾶς, μιῇ, διηκοσίας, μιῆς, τρισὶ</em>
 * `Fem,Masc` (47; 6% of non-empty `Gender`): <em>τρεῖς, τέσσαρες, τέσσαρας, εἴκοσι, δεκατέσσαρες, τεσσεράκοντα, ἑκατὸν, εἴκοσιτρεῖς, πεντακισχιλίων</em>
-* `Masc` (364; 46% of non-empty `Gender`): <em>εἷς, ἕνα, τρεῖς, ἑνὸς, ἑνὶ, χίλιοι, τέσσερας, τριῶν, καὶ, μυρίους</em>
+* `Masc` (365; 46% of non-empty `Gender`): <em>εἷς, ἕνα, τρεῖς, ἑνὸς, ἑνὶ, χίλιοι, τέσσερας, τριῶν, καὶ, μυρίους</em>
 * `Masc,Neut` (25; 3% of non-empty `Gender`): <em>ἑνὶ, ἑνὸς, τετρακοσίοις</em>
 * `Neut` (160; 20% of non-empty `Gender`): <em>ἓν, ἕν, τρία, τέσσερα, χίλια, ἑνὸς, τεσσάρων, πεντακόσια, δυῶν, μυρίων</em>
 * `EMPTY` (844): <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
@@ -247,10 +247,10 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Masc` (377; 66% of non-empty `Gender`): <em>ἐὼν, ἐόντες, ἐόντα, ὢν, ἐόντας, ὄντες, ἐόντων, ὄντος, ἐόντος, ὄντα</em>
 * `Masc,Neut` (11; 2% of non-empty `Gender`): <em>οὖσιν, ἐόντος, ἐόντων</em>
 * `Neut` (83; 15% of non-empty `Gender`): <em>ἐὸν, ἐόντα, ἐόν, ὄντα, ἐόντων, ἐόντος, ἐσόμενον, ἐόντι, ὂν, ὄντος</em>
-* `EMPTY` (3369): <em>ἦν, ἐστιν, εἶναι, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ</em>
+* `EMPTY` (3373): <em>ἦν, ἐστιν, εἶναι, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ</em>
 
 <table>
-  <tr><th>Paradigm <i>εἰμί#1</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ἐσομένην</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td><em>ἐσομένην</em></td><td><em>ἐσόμενον</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐόντα, ὄντα</em></td><td></td><td><em>ἐοῦσαν, οὖσαν</em></td><td><em>ἐὸν, ἐόν</em></td></tr>
@@ -267,14 +267,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (19023; 89%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2982; 86%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2936; 88%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2552; 81%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (19082; 88%),
+<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3010; 84%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2954; 88%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2551; 82%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2005; 78%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1428; 57%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1430; 57%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (821; 86%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (627; 70%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (628; 70%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (489; 87%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (486; 83%).
+<tt>PROPN --[<tt><a href="grc_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (472; 82%).
 

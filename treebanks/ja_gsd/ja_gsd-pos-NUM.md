@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `NUM`
 
-There are 716 `NUM` lemmas (3%), 716 `NUM` types (3%) and 4349 `NUM` tokens (2%).
+There are 715 `NUM` lemmas (3%), 715 `NUM` types (3%) and 4347 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: 1, 2, 3, 4, 一, 5, 10, 6, 二, 7
 
 The 10 most frequent `NUM` types:  1, 2, 3, 4, 一, 5, 10, 6, 二, 7
 
-The 10 most frequent ambiguous lemmas: 一 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 156, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 23), 二 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 77, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 8), 万 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 56, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), 億 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 31, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 数 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 62, <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 22), 三 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 21, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 何 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 15, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 10), 四 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), 百 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 六 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 一 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 156, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 23), 二 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 77, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 8), 万 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 56, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), 億 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 31, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 数 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 22), 三 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 21, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 何 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 15, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 10), 四 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), 百 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 六 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  一 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 156, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 23), 二 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 77, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 8), 万 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 56, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), 億 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 31, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 数 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 62, <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 22), 三 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 21, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 何 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 15, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 10), 四 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), 百 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 六 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  一 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 156, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 23), 二 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 77, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 8), 万 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 56, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), 億 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 31, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 数 (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 22), 三 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 21, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11), 何 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 15, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 10), 四 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 10, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 5), 百 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1), 六 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * 一
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  一 (<tt><a href="ja_gsd-pos-NUM.html">NU
   * <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 31: 2011 年 3 月期 に LED 関連 照明 事業 で 22 <b>億</b> 円 の 売り上げ を 目指す 。
   * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 11: 規模別 の 総 売上高 は 、 宿泊人 員 を 伸ばし た 小 旅館 が 7.0 % 増 の 3 <b>億</b> 954 万 円 。
 * 数
-  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 62: 病院 に <b>数</b> 治療 も 受け ず に なくなっ て い ます 。
+  * <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 61: 病院 に <b>数</b> 治療 も 受け ず に なくなっ て い ます 。
   * <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 22: ほとんど は 浅海生 だ が 、 水深 <b>数</b> 百 m ほど の 深海 まで 生息 する もの も いる 。
 * 三
   * <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 21: 左 目 を 眼帯 で 覆っ た 謎 の 高等 部 <b>三</b> 年生 の 現 「 トップ 3 」 。
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  一 (<tt><a href="ja_gsd-pos-NUM.html">NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.058722).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.058680).
 
 The 1st highest number of forms (1) was observed with the lemma “.250”: .250.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (1) was observed with the lemma “0”: 0.
 
 The 3rd highest number of forms (1) was observed with the lemma “0.1”: 0.1.
 
-`NUM` occurs with 1 features: <tt><a href="ja_gsd-feat-NumType.html">NumType</a></tt> (4349; 100% instances)
+`NUM` occurs with 1 features: <tt><a href="ja_gsd-feat-NumType.html">NumType</a></tt> (4347; 100% instances)
 
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
 `NUM` occurs with 1 feature combinations.
-The most frequent feature combination is `NumType=Card` (4349 tokens).
+The most frequent feature combination is `NumType=Card` (4347 tokens).
 Examples: 1, 2, 3, 4, 一, 5, 10, 6, 二, 7
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (4147; 95% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (52; 1% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (47; 1% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (24; 1% instances), <tt><a href="ja_gsd-dep-iobj.html">iobj</a></tt> (20; 0% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (20; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (16; 0% instances), <tt><a href="ja_gsd-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (4196; 97% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (48; 1% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (23; 1% instances), <tt><a href="ja_gsd-dep-iobj.html">iobj</a></tt> (20; 0% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (20; 0% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (16; 0% instances), <tt><a href="ja_gsd-dep-obj.html">obj</a></tt> (15; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (6; 0% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (3968; 91% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (165; 4% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (107; 2% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (64; 1% instances),  (20; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (3967; 91% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (164; 4% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (107; 2% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (64; 1% instances),  (20; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances)
 
-3936 (91%) `NUM` nodes are leaves.
+3937 (91%) `NUM` nodes are leaves.
 
-160 (4%) `NUM` nodes have one child.
+158 (4%) `NUM` nodes have one child.
 
 108 (2%) `NUM` nodes have two children.
 
-145 (3%) `NUM` nodes have three or more children.
+144 (3%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 8.
 
-Children of `NUM` nodes are attached using 16 different relations: <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (434; 45% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (187; 19% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (117; 12% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (109; 11% instances), <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (62; 6% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (18; 2% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (13; 1% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (10; 1% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (4; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 16 different relations: <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (416; 43% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (187; 19% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (130; 14% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (106; 11% instances), <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (62; 6% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (18; 2% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (13; 1% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (10; 1% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ja_gsd-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (275; 28% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (188; 19% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (137; 14% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (130; 13% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (108; 11% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (64; 7% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (30; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (270; 28% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (188; 20% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (134; 14% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (130; 14% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (108; 11% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (64; 7% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (29; 3% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances)
 

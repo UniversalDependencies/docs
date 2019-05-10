@@ -11,42 +11,44 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt>, <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-511 tokens (48%) have a non-empty value of `Number`.
-383 types (77%) occur at least once with a non-empty value of `Number`.
-302 lemmas (70%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (205; 19% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (108; 10% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (65; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (45; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+673 tokens (52%) have a non-empty value of `Number`.
+489 types (80%) occur at least once with a non-empty value of `Number`.
+375 lemmas (75%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (264; 21% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (149; 12% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (77; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (51; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (35; 3% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (28; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-205 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+264 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (167; 81%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (167; 81%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (122; 60%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (201; 76%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (154; 58%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (26; 13% of non-empty `Number`): <em>кокъясэ, ребята, Гожемъясын, Керкаяс, бабаясыс, баняяс, вокъяскед, вӧӧяссэ, гаражъяс, глаза</em>
-* `Sing` (179; 87% of non-empty `Number`): <em>во, ае, год, чой, чом, вок, класс, коми, маме, тундраа</em>
-* `EMPTY` (5): <em>ОПХ-а, живносьсэ, район, рӧбетасэ, удовольствием</em>
+* `Plur` (30; 11% of non-empty `Number`): <em>кокъясэ, ребята, Гожемъясын, Керкаяс, бабаясыс, баняяс, вокъяскед, вӧӧяссэ, гаражъяс, глаза</em>
+* `Sing` (234; 89% of non-empty `Number`): <em>во, ае, год, чой, чом, вок, класс, коми, лун, маме</em>
+* `EMPTY` (4): <em>живносьсэ, район, рӧбетасэ, удовольствием</em>
 
 <table>
-  <tr><th>Paradigm <i>вок</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td></td><td><em>вокъяскед</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>вок</em></td><td></td></tr>
+  <tr><th>Paradigm <i>керка</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>керкасис</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>керкасис</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td><em>керкаӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>керка</em></td><td><em>Керкаяс</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (133) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (160) occur only with one value of `Number`.
 
 ### `VERB`
 
-108 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Number`.
+149 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (97; 90%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (97; 90%), <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (90; 83%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (74; 69%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (60; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (131; 88%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (131; 88%), <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (128; 86%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (105; 70%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (93; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (24; 22% of non-empty `Number`): <em>знали, колэныс, ваедісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам, вӧрземаась, вӧрзисныс</em>
-* `Sing` (84; 78% of non-empty `Number`): <em>ветлі, мӧдэма, примитіс, рӧдитчи, рӧдитчылі, босьтіс, вермы, висьталэма, делал, кочегариті</em>
-* `EMPTY` (24): <em>висьтооны, закончитэм, Он, вермы, ветлыны, висьт-, висьтоола, воедны, вӧрзялыгдырйи, вӧрзёоны</em>
+* `Plur` (30; 20% of non-empty `Number`): <em>знали, колэныс, пондісны, ваедісны, вайӧдісны, велӧдчӧны, ветлӧны, видзены, висьмисныс, вӧдитам</em>
+* `Sing` (119; 80% of non-empty `Number`): <em>босьтіс, вермы, ветлі, мӧдэма, примитіс, пукаліс, рӧдитчи, рӧдитчылі, ветліс, висьталэма</em>
+* `EMPTY` (26): <em>висьтооны, закончитэм, бериччыны, велӧдчыны, ветлыны, вины, висьт-, воедны, вӧрзялыгдырйи, вӧрзёоны</em>
 
 <table>
   <tr><th>Paradigm <i>ветлыны</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -57,19 +59,19 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ветлӧны</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `VERB`. 94% lemmas (65) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `VERB`. 95% lemmas (88) occur only with one value of `Number`.
 
 ### `PRON`
 
-65 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Number`.
+77 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (55; 85%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (40; 62%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt> (35; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (66; 86%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (47; 61%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (12; 18% of non-empty `Number`): <em>миян, Ми, меам, менам, миянумес</em>
-* `Sing` (53; 82% of non-empty `Number`): <em>ме, сыа, сы, Всё, менам, меня, ми, нас, сіес, Сылэн</em>
-* `EMPTY` (16): <em>ачыс, мыйке, сы, что, асланум, аслум, кодке, мыйттэм, мӧд, никучем</em>
+* `Plur` (12; 16% of non-empty `Number`): <em>миян, Ми, меам, менам, миянумес</em>
+* `Sing` (65; 84% of non-empty `Number`): <em>ме, сыа, сія, сы, сійӧ, Всё, кодке, менам, меня, ми</em>
+* `EMPTY` (18): <em>быд, сы, ачыс, мыйке, мӧд, что, асланум, аслум, сыа, этія</em>
 
 <table>
   <tr><th>Paradigm <i>ме</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -81,110 +83,109 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-45 <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+51 <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (38; 84%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45; 88%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2; 4% of non-empty `Number`): <em>ыдзыдэсь, большие</em>
-* `Sing` (43; 96% of non-empty `Number`): <em>ас, второй, клубного, межпоселенческого, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей, Ненецкий</em>
+* `Plur` (2; 4% of non-empty `Number`): <em>большие, ыдзыдэсь</em>
+* `Sing` (49; 96% of non-empty `Number`): <em>ас, бия, второй, дик, кык-суда, Берёзовский, Вто-, Выль, Ленинградскей, Нарьян-Марскей</em>
 * `EMPTY` (1): <em>Омскейын</em>
 
 <table>
   <tr><th>Paradigm <i>ыджыд</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>ыдзыдэсь</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ыджыд</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>ыджыд</em></td><td><em>ыдзыдэсь</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 97% lemmas (38) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (41) occur only with one value of `Number`.
 
 ### `NUM`
 
-26 <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> tokens (63% of all `NUM` tokens) have a non-empty value of `Number`.
+35 <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> tokens (71% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (25; 96%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (24; 92%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (33; 94%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (30; 86%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (1; 4% of non-empty `Number`): <em>квайтэнэсь</em>
-* `Sing` (25; 96% of non-empty `Number`): <em>сизим, кык, дас, куим, нёль, кӧкъямыс, три, тысяча, четыреста, шейсят</em>
-* `EMPTY` (15): <em>десятой, мӧдэд, сорок, Девять, двадцать, девятьсот, десяти, куим, мӧд, третьей</em>
+* `Plur` (1; 3% of non-empty `Number`): <em>квайтэнэсь</em>
+* `Sing` (34; 97% of non-empty `Number`): <em>сизим, дас, куим, кык, нёль, вит, вторая, кызь-вит, кӧкъямыс, первей</em>
+* `EMPTY` (14): <em>десятой, мӧдэд, сорок, Девять, двадцать, девятьсот, десяти, куим, третьей, тридцеть</em>
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (18) occur only with one value of `Number`.
 
 ### `ADP`
 
-20 <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> tokens (47% of all `ADP` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ine</tt> (11; 55%).
+28 <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> tokens (53% of all `ADP` tokens) have a non-empty value of `Number`.
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Sing` (20; 100% of non-empty `Number`): <em>вылын, бӧрын, вылэ, доре, сае, сайын, бӧрас, вылас, дорас</em>
-* `EMPTY` (23): <em>в, у, с, для, до, без, доре, койд, кузя, от</em>
+* `Sing` (28; 100% of non-empty `Number`): <em>вылын, бӧрын, вылэ, вывті, доре, сае, сайын, бӧрас, вылас, вылӧ</em>
+* `EMPTY` (25): <em>в, у, с, для, до, кузя, без, доре, койд, нынніыс</em>
 
 ### `PROPN`
 
-17 <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> tokens (85% of all `PROPN` tokens) have a non-empty value of `Number`.
+28 <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 59%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (19; 68%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (17; 100% of non-empty `Number`): <em>Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Из, Красный, Ляпинын, Ляпиныс</em>
+* `Sing` (28; 100% of non-empty `Number`): <em>Иван, Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Из, Йӧртым, Красный</em>
 * `EMPTY` (3): <em>Из</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (21) occur only with one value of `Number`.
 
 ### `AUX`
 
-16 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Number`.
+26 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (59% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 81%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 81%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13; 81%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10; 63%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23; 88%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23; 88%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 85%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 77%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20; 77%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (2; 13% of non-empty `Number`): <em>были</em>
-* `Sing` (14; 88% of non-empty `Number`): <em>вӧлі, вӧліс, было, лоас, лоо</em>
-* `EMPTY` (11): <em>ог, из, оз, ло, он</em>
+* `Plur` (2; 8% of non-empty `Number`): <em>были</em>
+* `Sing` (24; 92% of non-empty `Number`): <em>вӧлі, из, вӧліс, вӧв, лоас, было, ло, лоо</em>
+* `EMPTY` (18): <em>абу, из, ог, оз, он</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt></tt></td><td><em>было</em></td><td><em>были</em></td></tr>
 </table>
 
-### `DET`
-
-6 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%).
-
-`DET` tokens may have the following values of `Number`:
-
-* `Sing` (6; 100% of non-empty `Number`): <em>Став, всю, мӧд, сизимед, такое, четвёртэй</em>
-* `EMPTY` (2): <em>быд, какой</em>
-
 ### `ADV`
 
-3 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Number`.
+10 <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ill</tt> (7; 70%).
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Sing` (3; 100% of non-empty `Number`): <em>бӧр, водз, уна</em>
-* `EMPTY` (77): <em>нин, зэй, пока, сэн, только, гашке, эні, ӧні, Сэсся, кор</em>
+* `Sing` (10; 100% of non-empty `Number`): <em>вӧдзӧ, бӧрӧ, бӧр, водз, дзикедз</em>
+* `EMPTY` (89): <em>сэн, нин, зэй, пока, только, гашке, эні, ӧні, Сэсся, каждэй</em>
+
+### `DET`
+
+5 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4; 80%).
+
+`DET` tokens may have the following values of `Number`:
+
+* `Sing` (5; 100% of non-empty `Number`): <em>Став, всю, мӧд, ставыс, такое</em>
+* `EMPTY` (1): <em>какой</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (43; 67%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (25; 93%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (19; 86%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (18; 67%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (17; 61%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 94%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (15; 79%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (15; 79%),
-<tt>VERB --[<tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt>]--> NOUN</tt> (14; 67%),
-<tt>NOUN --[<tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt>]--> AUX</tt> (11; 100%).
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt>]--> NOUN</tt> (70; 70%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (31; 97%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (27; 75%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (27; 96%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (24; 73%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (21; 81%),
+<tt>VERB --[<tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt>]--> NOUN</tt> (19; 63%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (16; 80%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 100%),
+<tt>NOUN --[<tt><a href="kpv_ikdp-dep-cop.html">cop</a></tt>]--> AUX</tt> (8; 100%).
 

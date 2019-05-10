@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	γίνεσθαι	γίγνομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	0	root	_	_
 5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
 6	προχωρεῖν	προχωρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
-7	δἰ	διά	ADP	r--------	_	8	case	_	_
+7	δἰ	διά	ADP	r--------	_	8	case	_	_
 8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 10	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No

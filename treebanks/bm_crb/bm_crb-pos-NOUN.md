@@ -9,49 +9,49 @@ udver: '2'
 There are 486 `NOUN` lemmas (45%), 516 `NOUN` types (46%) and 2145 `NOUN` tokens (16%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 3 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: <em>_, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ</em>
+The 10 most frequent `NOUN` lemmas: <em>_, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ</em>
 
-The 10 most frequent `NOUN` types:  <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+The 10 most frequent `NOUN` types:  <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 50, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-X.html">X</a></tt> 4, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2), <em>dén.nin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>dá</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 29, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 25), <em>kɔ̀nɔ</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>má</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 33, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>bólo</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 51, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16), <em>kɔ́</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sú</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>nà</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 70, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 3), <em>cɛ̀</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 50, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-X.html">X</a></tt> 4, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2), <em>dén.nin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>dá</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 29, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 25), <em>kɔ̀nɔ</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>má</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 33, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>bólo</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 51, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16), <em>kɔ́</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sú</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>nà</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 70, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 3), <em>cɛ̀</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>dennin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 43, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>fa</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 28, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 21), <em>Ala</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 26, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 1), <em>da</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 22), <em>kònò</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 41, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>ta</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 43, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> 16), <em>ma</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 71, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>kò</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>bin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4), <em>su</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>dennin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 43, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1), <em>fa</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 28, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 21), <em>Ala</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 26, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 1), <em>da</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 22), <em>kònò</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 41, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>ta</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 43, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> 16), <em>ma</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 71, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>kò</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>bin</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4), <em>su</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>dennin</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 43: <em>ayiwa , <b>dennin</b> bè kasi la .</em>
-  * <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1: <em>a ye dennin yèlèn o bala , ko <b>dennin</b> ka a tigè .</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 43: <em>ayiwa , <b>dennin</b> bè kasi la .</em>
+  * <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 1: <em>a ye dennin yèlèn o bala , ko <b>dennin</b> ka a tigè .</em>
 * <em>fa</em>
   * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 28: <em>A <b>fa</b> ko , o ye mun kɔnɔ suguya ye , o sigijiri na sɔrɔ ?</em>
-  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 21: <em>a ka ca fo ka a cèmancè <b>fa</b> .</em>
+  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 21: <em>a ka ca fo ka a cèmancè <b>fa</b> .</em>
 * <em>Ala</em>
   * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 26: <em><b>Ala</b> y' a kɛ k' u to sɛnɛ la foro kɔnɔ , cɛkɔrɔba sɛgɛnna .</em>
   * <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 1: <em>Olu ye du joli kɛ tomo ye , dugu duman filen kɛ kolon ye , ko olu bɛ ka kɛlɛ kɛ ni <b>Ala</b> ye !</em>
 * <em>da</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 24: <em>tèmèn ni e <b>da</b> ye .</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 24: <em>tèmèn ni e <b>da</b> ye .</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 22: <em>Zan tagara foro la , ko a bɛ t' a ɲɛ <b>da</b> sumanw kan .</em>
-* <em>kònò</em>
-  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 41: <em>ayiwa , den ye i sigilen to so <b>kònò</b> a kasira ko ne ba yo !</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22: <em>a ye <b>kònò</b> ta .</em>
-  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1: <em>o kòfè , masakè ko batula ninw ye , ko aw bè mun <b>kònò</b> ?</em>
+* <em>kònò</em>
+  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 41: <em>ayiwa , den ye i sigilen to so <b>kònò</b> a kasira ko ne ba yo !</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22: <em>a ye <b>kònò</b> ta .</em>
+  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1: <em>o kòfè , masakè ko batula ninw ye , ko aw bè mun <b>kònò</b> ?</em>
 * <em>ta</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 43: <em>Maa be kolokuru jalan <b>ta</b> k' o di maa ma , ko k' o kɛ na ye !</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22: <em>bèè <b>ta</b> ko tot tot !</em>
-  * <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> 16: <em><b>ta</b> <b>ta</b> <b>ta</b> <b>ta</b> ne ye a da gè !</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 22: <em>ni i ye bin nin kè masaso nin kòrò , i ka dòònin kè n <b>ta</b> nin kòrò .</em>
+  * <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> 16: <em><b>ta</b> <b>ta</b> <b>ta</b> <b>ta</b> ne ye a da gè !</em>
 * <em>ma</em>
   * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101: <em>Maa be kolokuru jalan ta k' o di maa <b>ma</b> , ko k' o kɛ na ye !</em>
   * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 71: <em>Sigidankelen , e <b>ma</b> dɔn ko ɲin si tɛ kologɛlɛya mulukuli ma wa ?</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21: <em>a ko : n <b>ma</b> ; ni i ye sin di yan , n bè sunògò .</em>
-* <em>kò</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20: <em>jinamuso ko sisan , n den , na n <b>kò</b> ko .</em>
-  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7: <em>a wulila ka a ka marfa jòsò ka sèmèkala ta ka tugu wulunin <b>kò</b> .</em>
-  * <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>o bannen <b>kò</b> ko u bè taga , ko Amadu Tara bè na so minkè , Amadu Tara fana ko ko ale tè se ka na , ko fo ni a ni a kòròw nana nyògòn fè .</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21: <em>a ko : n <b>ma</b> ; ni i ye sin di yan , n bè sunògò .</em>
+* <em>kò</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20: <em>jinamuso ko sisan , n den , na n <b>kò</b> ko .</em>
+  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7: <em>ayiwa , a nyògòn subaga don , a fana ma foyi sòrò denmusonin kelen <b>kò</b> .</em>
+  * <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>o bannen <b>kò</b> ko u bè taga , ko Amadu Tara bè na so minkè , Amadu Tara fana ko ko ale tè se ka na , ko fo ni a ni a kòròw nana nyògòn fè .</em>
 * <em>bin</em>
   * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17: <em>A ko a denw ma , k' a bɛ taa <b>bin</b> na ka na .</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 4: <em>Ala ye a ta ka <b>bin</b> .</em>
 * <em>su</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17: <em><b>su</b> o <b>su</b> , u bè nyògon na .</em>
-  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1: <em>a tagara se baji ma , ka i bolo <b>su</b> o la ka a nènè ko èè ko u bè a fò kògòji kògòji , ko kògò dun tè nin na .</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 17: <em><b>su</b> o <b>su</b> , u bè nyògon na .</em>
+  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1: <em>a tagara se baji ma , ka i bolo <b>su</b> o la ka a nènè ko èè ko u bè a fò kògòji kògòji , ko kògò dun tè nin na .</em>
 
 ## Morphology
 
@@ -59,9 +59,9 @@ The form / lemma ratio of `NOUN` is 1.061728 (the average of all parts of speech
 
 The 1st highest number of forms (80) was observed with the lemma “_”: <em>Dugutigi, an, baloko, bamamakɔ, bamanakan, bamuso, basi, bila, bolonkɔniw, bugudanin, bɔtuma, cogo, cɛ, cɛya, da, denw, don, du, dugu, duguba, dugudenw, dumuni, duw, dɛgɛ, falikɛ, filen, foro, fɛɛrɛ, hakilila, jamanamara, jamanaw, jogow, kini, ko, kolakalilaba, kolokuru, kunbɛnni, kɔrɔnfɛmaraw, kɔrɔnna, kɔrɔtɔ, kɔɲɔmuso, kɛlɛ, laada, labɛnw, maa, morilu, mulukuli, musokɔrɔba, musokɔrɔnin, mɔgɔ, na, nɔgɔ, san, sigi, sira, sogo, sogosan, sonsannin, su, sumanw, surukuba, suyansiirin, suɲɔgɔnw, sɔgɔma, ta, taamashyɛn, tali, tarikuw, tere, tilebinyanfan, togoda, tomo, tɛgɛ, tɛmɛbaatɔw, wolonflanan, yamariya, yɛlɛma, ɲin, ɲɛ, ɲɛnajɛ</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “Ála”: <em>ALA, Ala</em>.
+The 2nd highest number of forms (2) was observed with the lemma “cógo”: <em>cogo, cògò</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “cógo”: <em>cogo, cògò</em>.
+The 3rd highest number of forms (2) was observed with the lemma “cɛ̀kɔrɔba”: <em>cèkòròba, cɛkɔrɔba</em>.
 
 `NOUN` occurs with 2 features: <tt><a href="bm_crb-feat-Number.html">Number</a></tt> (71; 3% instances), <tt><a href="bm_crb-feat-VerbForm.html">VerbForm</a></tt> (20; 1% instances)
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (2) was observed with the lemma “cógo”: <e
 
 `NOUN` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (2054 tokens).
-Examples: <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+Examples: <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 
 ## Relations

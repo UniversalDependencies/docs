@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_pud-dep-det.html">det</a></tt>.
 
-231 nodes (1%) are attached to their parents as `det:poss`.
+230 nodes (1%) are attached to their parents as `det:poss`.
 
-231 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11688311688312.
+230 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11739130434783.
 
-The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (228; 99% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (227; 99% instances), <tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `det:poss`: <tt><a h
 6	a	a	ADP	IN	_	7	case	_	_
 7	corte	corte	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 8	quando	quando	SCONJ	IN	_	10	mark	_	_
-9	fu	essere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	10	aux:pass	_	_
+9	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	10	aux:pass	_	_
 10	mandato	mandare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	4	advcl	_	_
 11	come	come	ADP	IN	_	12	case	_	_
 12	emissario	emissario	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_

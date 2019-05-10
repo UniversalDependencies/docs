@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `advcl`: <tt><a href="la_it
 114 instances of `advcl:arg` (74%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 3 pairs of parts of speech are connected with `advcl:arg`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (140; 91% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4; 3% instances).
+The following 3 pairs of parts of speech are connected with `advcl:arg`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (140; 91% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -56,25 +56,31 @@ The following 3 pairs of parts of speech are connected with `advcl:arg`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 13 advcl:arg	color:blue
-1	quanto	quanto	ADV	O4	_	5	advmod:emph	_	_
-2	spiritualia	spiritualis	ADJ	C1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	nsubj	_	_
-3	sunt	sum	AUX	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	temporalibus	temporalis	ADJ	C1|grn1|casO|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	5	obl	_	_
-5	potiora	potior	ADJ	C1|grn2|casJ|gen3	Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	Punc	_	9	punct	_	_
-7	et	et	CCONJ	O4	_	9	cc	_	_
-8	magis	magis	ADV	O4	_	9	advmod	_	_
-9	necessaria	necessarius	NOUN	B1|grn1|casJ|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	conj	_	_
-10	ad	ad	ADP	S4	AdpType=Prep	13	mark	_	_
-11	finem	finis	NOUN	C1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	obj	_	_
-12	beatitudinis	beatitudo	NOUN	C1|grn1|casB|gen2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	nmod	_	_
-13	consequendum	consequor	VERB	L2|modN|grp1|casD	Case=Acc|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Pass	9	advcl:arg	_	SpaceAfter=No
-14	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 advcl:arg	color:blue
+1	ab	ab	ADP	S4|vgr2	AdpType=Prep	5	mark	_	_
+2	hoc	hic	PRON	F1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+3	autem	autem	CCONJ	O4	_	7	cc	_	_
+4	auxilio	auxilium	NOUN	B1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	ferendo	fero	VERB	N2|modE|grp1|casF	Case=Abl|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Act	8	advcl:arg	_	_
+6	se	se	PRON	F1|grn1|casM|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|PronType=Prs|Reflex=Yes	7	obj	_	_
+7	faciunt	facio	VERB	N3|modA|tem1|gen9	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	impotentes	impotens	NOUN	C1|grn1|casM|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	xcomp	_	_
+9	qui	qui	PRON	F1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	_
+10	exteriorem	exterior	ADJ	C1|grn2|casD|gen2	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	11	amod	_	_
+11	substantiam	substantia	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	obj	_	_
+12	abiiciunt	abjicio	VERB	L3|modA|tem1|gen9|vgr2	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No
+13	,	,	PUNCT	Punc	_	19	punct	_	_
+14	per	per	ADP	S4	AdpType=Prep	15	case	_	_
+15	quam	qui	PRON	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	19	obl	_	_
+16	plurimum	multus	ADJ	B1|grn3|casA|gen3	Case=Nom|Degree=Abs|Gender=Neut|Number=Sing	18	amod	_	_
+17	aliis	alius	PRON	F1|grn1|casL|gen1|vgr1	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|PronType=Ind	19	obj	_	_
+18	auxilium	auxilium	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	nsubj:pass	_	_
+19	fertur	fero	VERB	N3|modJ|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	acl:relcl	_	SpaceAfter=No
+20	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 

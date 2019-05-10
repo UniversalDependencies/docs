@@ -8,12 +8,43 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (1%) are attached to their parents as `appos`.
+207 nodes (2%) are attached to their parents as `appos`.
 
-42 instances of `appos` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.44186046511628.
+207 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.3768115942029.
 
-The following 11 pairs of parts of speech are connected with `appos`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (16; 37% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (15; 35% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (2; 5% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (153; 74% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (6; 3% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 appos	color:blue
+1	Закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Рэспублiкi	рэспублiка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	Беларусь	Беларусь	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 appos	color:blue
+1	Ідэальнае	Ідэальны	ADJ	ORD	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	месца	месца	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	для	для	ADP	IN	_	5	case	_	_
+4	мускуснага	мускусны	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	пацука	пацук	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	—	-	PUNCT	PUNCT	_	7	punct	_	_
+7	андатры	андатра	NOUN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,80 +53,27 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 appos	color:blue
-1	Віну	віна	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
-2	за	за	ADP	IN	_	3	case	_	_
-3	тэракт	тэракт	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
-4	усклалі	усклацi	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	на	на	ADP	IN	_	7	case	_	_
-6	двух	два	NUM	CD	Animacy=Anim|Case=Acc|Gender=Masc|NumType=Card	7	nummod	_	_
-7	віцябчан	віцябчанiн	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
-8	--	--	PUNCT	PUNCT	_	7	punct	_	_
-9	Дзмітрыя	дзмітрый	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	appos	_	_
-10	Канавалава	канавалаў	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	flat	_	_
-11	і	і	CCONJ	CC	_	12	cc	_	_
-12	Уладзіслава	уладзіслав	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
-13	Кавалёва	Кавалёв	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
-14	.	.	PUNCT	PUNCT	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 appos	color:blue
-1	Трэцяе	трэцi	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
-2	месяца	месяц	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
-3	і	і	CCONJ	_	_	4	cc	_	_
-4	тытул	тытул	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
-5	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No
-6	Другая	другi	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	віцэ-Каралева	віцэ-каралева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
-8	Вясна	вясна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	appos	_	SpaceAfter=No
-9	”	”	PUNCT	_	_	7	punct	_	_
-10	дасталася	дастацца	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-11	прадстаўніцы	прадстаўніца	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	10	iobj	_	_
-12	Полацкага	полацкi	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
-13	дзяржаўнага	дзяржаўны	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
-14	ўніверсітэта	універсітэт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-15	Хрысціне	Хрысціна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
-16	Нікіфаравай	Нікіфарава	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 appos	color:blue
-1	Абсалютным	абсалютны	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	пераможцам	пераможца	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	obj	_	_
-3	і	і	CCONJ	_	_	4	cc	_	_
-4	ўладальніцай	уладальніца	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	_
-5	тытулу	тытул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
-6	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	Каралева	каралева	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
-8	Вясна	вясна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	appos	_	_
-9	Беларусі	Беларусь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
-10	—	—	PUNCT	_	_	7	punct	_	_
-11	2017	2017	NUM	_	_	7	appos	_	SpaceAfter=No
-12	”	”	PUNCT	_	_	7	punct	_	_
-13	стала	стаць	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-14	студэнтка	студэнтка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
-15	чацвёртага	чацвёрты	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	курса	курс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
-17	Віцебскага	віцебскi	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-18	дзяржаўнага	дзяржаўны	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-19	тэхналагічнага	тэхналагічны	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	ўніверсітэта	універсітэт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
-21	Сняжана	Сняжана	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	appos	_	_
-22	Міхейцава	Міхейцава	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	21	flat:name	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	13	punct	_	_
+1	Група	група	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Litesound	litesound	X	X	Foreign=Yes	1	appos	_	_
+3	ужо	ужо	ADV	RB	Degree=Pos	4	advmod	_	_
+4	прыступіла	прыступіць	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	да	да	ADP	IN	_	6	case	_	_
+6	запісу	запіс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+7	песні	песня	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+9	We	we	X	X	Foreign=Yes	7	appos	_	_
+10	Are	are	X	X	Foreign=Yes	9	flat:foreign	_	_
+11	The	the	X	X	Foreign=Yes	9	flat:foreign	_	_
+12	Heroes	heroes	X	X	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
+13	"	"	PUNCT	PUNCT	_	9	punct	_	_
+14	(	(	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
+15	"	"	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
+16	Мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
+17	--	--	PUNCT	PUNCT	_	18	punct	_	_
+18	героі	герой	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	parataxis	_	SpaceAfter=No
+19	"	"	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
+20	)	)	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
+21	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

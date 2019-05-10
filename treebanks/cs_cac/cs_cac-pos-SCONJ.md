@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CAC: POS Tags: `SCONJ`
 
-There are 45 `SCONJ` lemmas (0%), 46 `SCONJ` types (0%) and 8802 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 43 `SCONJ` lemmas (0%), 44 `SCONJ` types (0%) and 8725 `SCONJ` tokens (2%).
+Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>že, jako, aby, když, proto, než, protože, pokud, takže, jestliže</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>proto</em> (<tt><a href="cs_cac-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.022222 (the average of all parts of speech is 2.186309).
+The form / lemma ratio of `SCONJ` is 1.023256 (the average of all parts of speech is 2.186313).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoliv”: <em>ačkoli, ačkoliv</em>.
 
@@ -67,21 +67,21 @@ The 3rd highest number of forms (1) was observed with the lemma “aniž”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (7726; 88% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (419; 5% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (412; 5% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (186; 2% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (14; 0% instances), <tt><a href="cs_cac-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (12; 0% instances), <tt><a href="cs_cac-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cs_cac-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="cs_cac-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (8011; 92% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (394; 5% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (204; 2% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (58; 1% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (13; 0% instances), <tt><a href="cs_cac-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (12; 0% instances), <tt><a href="cs_cac-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cs_cac-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="cs_cac-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4963; 56% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1917; 22% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1285; 15% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (172; 2% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (171; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (86; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (63; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (41; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (31; 0% instances),  (13; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4932; 57% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1902; 22% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1275; 15% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (167; 2% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (164; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (85; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (41; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (31; 0% instances),  (13; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-8654 (98%) `SCONJ` nodes are leaves.
+8609 (99%) `SCONJ` nodes are leaves.
 
-91 (1%) `SCONJ` nodes have one child.
+73 (1%) `SCONJ` nodes have one child.
 
-19 (0%) `SCONJ` nodes have two children.
+11 (0%) `SCONJ` nodes have two children.
 
-38 (0%) `SCONJ` nodes have three or more children.
+32 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 7.
 
-Children of `SCONJ` nodes are attached using 18 different relations: <tt><a href="cs_cac-dep-advmod-emph.html">advmod:emph</a></tt> (68; 25% instances), <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (55; 21% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (47; 18% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (23; 9% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (23; 9% instances), <tt><a href="cs_cac-dep-advcl.html">advcl</a></tt> (14; 5% instances), <tt><a href="cs_cac-dep-orphan.html">orphan</a></tt> (9; 3% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (8; 3% instances), <tt><a href="cs_cac-dep-acl.html">acl</a></tt> (6; 2% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 15 different relations: <tt><a href="cs_cac-dep-advmod-emph.html">advmod:emph</a></tt> (69; 32% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (37; 17% instances), <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (36; 17% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (23; 11% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (22; 10% instances), <tt><a href="cs_cac-dep-orphan.html">orphan</a></tt> (7; 3% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (6; 3% instances), <tt><a href="cs_cac-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="cs_cac-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (80; 30% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (55; 21% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (41; 15% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (33; 12% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (22; 8% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (15; 6% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (72; 33% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (36; 17% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (32; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (27; 13% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (22; 10% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

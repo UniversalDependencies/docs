@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	ఆమె	_	PRON	PRON	_	6	nsubj	_	Translit=āmè|LTranslit=_
 2	నాతో	_	PRON	PRON	_	6	iobj	_	Translit=nāto|LTranslit=_
 3	ఆ	_	DET	DET	_	4	det	_	Translit=ā|LTranslit=_
-4	సంగతి	_	NOUN	NOUN	_	6	obj	_	Translit=saṁgati|LTranslit=_
+4	సంగతి	_	NOUN	NOUN	_	6	obj	_	Translit=saṁgati|LTranslit=_
 5	చెప్ప	_	VERB	VERB	_	6	compound:svc	_	Translit=cèppa|LTranslit=_
 6	లేదు	_	VERB	VERB	_	0	root	_	Translit=ledu|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
@@ -41,11 +41,11 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 7 5 iobj	color:blue
 1	నెల	_	NOUN	NOUN	_	2	compound:redup	_	Translit=nèla|LTranslit=_
 2	నెలా	_	NOUN	NOUN	_	7	obl:tmod	_	Translit=nèlā|LTranslit=_
-3	జీతం	_	NOUN	NOUN	_	4	nmod	_	Translit=jītaṁ|LTranslit=_
-4	డబ్బులోనుంచి	_	NOUN	NOUN	_	7	obl	_	Translit=ḍabbulonuṁci|LTranslit=_
+3	జీతం	_	NOUN	NOUN	_	4	nmod	_	Translit=jītaṁ|LTranslit=_
+4	డబ్బులోనుంచి	_	NOUN	NOUN	_	7	obl	_	Translit=ḍabbulonuṁci|LTranslit=_
 5	భార్యకు	_	NOUN	NOUN	_	7	iobj	_	Translit=bhāryaku|LTranslit=_
 6	కాసులు	_	NOUN	NOUN	_	7	obj	_	Translit=kāsulu|LTranslit=_
-7	కొనేవాడు	_	VERB	VERB	_	0	root	_	Translit=kònevāḍu|LTranslit=_
+7	కొనేవాడు	_	VERB	VERB	_	0	root	_	Translit=kònevāḍu|LTranslit=_
 8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -59,8 +59,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 2 iobj	color:blue
 1	రాము	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmu|LTranslit=_
 2	కమలకు	_	PROPN	PROPN	_	4	iobj	_	Translit=kamalaku|LTranslit=_
-3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	Translit=pustakaṁ|LTranslit=_
-4	ఇచ్చేడు	_	VERB	VERB	_	0	root	_	Translit=icceḍu|LTranslit=_
+3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	Translit=pustakaṁ|LTranslit=_
+4	ఇచ్చేడు	_	VERB	VERB	_	0	root	_	Translit=icceḍu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 ~~~

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Ech`.
 
-3 tokens (0%) have a non-empty value of `Echo`.
-3 types (0%) occur at least once with a non-empty value of `Echo`.
-3 lemmas (0%) occur at least once with a non-empty value of `Echo`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
+6 tokens (0%) have a non-empty value of `Echo`.
+6 types (0%) occur at least once with a non-empty value of `Echo`.
+6 lemmas (0%) occur at least once with a non-empty value of `Echo`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-1 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Echo`.
+4 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Echo`:
 
-* `Ech` (1; 100% of non-empty `Echo`): <em>լեփ</em>
+* `Ech` (4; 100% of non-empty `Echo`): <em>լեփ, մոլոր, մուճուճ, շիփ</em>
 
 ### `NOUN`
 

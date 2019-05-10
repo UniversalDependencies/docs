@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4 2 nsubj:pass	color:blue
 1	Denne	denne	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	skatten	skatt	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
-3	vert	verte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+3	vert	verte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	lagd	leggje	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	0	root	_	_
 5	på	på	ADP	_	_	6	case	_	_
 6	kraftrekninga	kraftrekning	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
@@ -44,10 +44,10 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	4	punct	_	_
+6	,	$,	PUNCT	_	_	10	punct	_	_
 7	og	og	CCONJ	_	_	10	cc	_	_
 8	den	den	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
-9	vert	verte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+9	vert	verte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	brukt	bruke	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	4	conj	_	_
 11	rett	rett	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	10	advmod	_	_
 12	som	som	PRON	_	PronType=Rel	14	nsubj	_	_
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	då	då	SCONJ	_	_	10	mark	_	_
 7	Kilen	Kilen	PROPN	_	_	10	nsubj:pass	_	_
 8	kapell	kapell	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	7	flat:name	_	_
-9	vart	verte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
+9	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	vigsla	vigsle	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	5	advmod	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	5	punct	_	_
 

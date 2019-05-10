@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.086957 (the average of all parts of speech is 1.487817).
+The form / lemma ratio of `SCONJ` is 1.086957 (the average of all parts of speech is 1.488064).
 
 The 1st highest number of forms (2) was observed with the lemma “come”: <em>com', come</em>.
 
@@ -75,15 +75,15 @@ The 3rd highest number of forms (1) was observed with the lemma “affinché”:
 
 Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (531; 79% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (69; 10% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (49; 7% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 
-640 (95%) `SCONJ` nodes are leaves.
+652 (97%) `SCONJ` nodes are leaves.
 
-30 (4%) `SCONJ` nodes have one child.
+18 (3%) `SCONJ` nodes have one child.
 
 2 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="it_partut-dep-advmod.html">advmod</a></tt> (18; 53% instances), <tt><a href="it_partut-dep-case.html">case</a></tt> (13; 38% instances), <tt><a href="it_partut-dep-acl-relcl.html">acl:relcl</a></tt> (1; 3% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="it_partut-dep-punct.html">punct</a></tt> (1; 3% instances)
+Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="it_partut-dep-advmod.html">advmod</a></tt> (18; 82% instances), <tt><a href="it_partut-dep-acl-relcl.html">acl:relcl</a></tt> (1; 5% instances), <tt><a href="it_partut-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 5% instances), <tt><a href="it_partut-dep-punct.html">punct</a></tt> (1; 5% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (18; 53% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (13; 38% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="it_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 3% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (18; 82% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="it_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances)
 

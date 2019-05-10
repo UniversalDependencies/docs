@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 297 tokens (2%) have a non-empty value of `Person[psor]`.
 267 types (4%) occur at least once with a non-empty value of `Person[psor]`.
 231 lemmas (5%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (222; 1% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (43; 0% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (222; 1% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (43; 0% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -48,9 +48,9 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `ADV`
 
-12 <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+15 <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (12; 100%).
+The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (15; 100%).
 
 `ADV` tokens may have the following values of `Person[psor]`:
 
@@ -61,15 +61,6 @@ The most frequent other feature values with which `ADV` and `Person[psor]` co-oc
   <tr><td><tt><tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>ympärillään</em></td></tr>
 </table>
 
-### `ADP`
-
-8 <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (8; 100%).
-
-`ADP` tokens may have the following values of `Person[psor]`:
-
-
 ### `PRON`
 
 6 <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
@@ -77,6 +68,15 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
+
+
+### `ADP`
+
+5 <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="fi_pud-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (5; 100%).
+
+`ADP` tokens may have the following values of `Person[psor]`:
 
 
 ### `ADJ`

@@ -60,17 +60,17 @@ Examples: <em>că, dacă, până, încât, deoarece, deși, fiindcă, fără, î
 
 Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1446; 73% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (164; 8% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (133; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (123; 6% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (77; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-1846 (93%) `SCONJ` nodes are leaves.
+1850 (93%) `SCONJ` nodes are leaves.
 
-115 (6%) `SCONJ` nodes have one child.
+113 (6%) `SCONJ` nodes have one child.
 
-17 (1%) `SCONJ` nodes have two children.
+15 (1%) `SCONJ` nodes have two children.
 
 1 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (121; 80% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (9; 6% instances), <tt><a href="ro_rrt-dep-mark.html">mark</a></tt> (7; 5% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (4; 3% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (121; 83% instances), <tt><a href="ro_rrt-dep-mark.html">mark</a></tt> (7; 5% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (4; 3% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (3; 2% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (95; 63% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (13; 9% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (12; 8% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (10; 7% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (9; 6% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (9; 6% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (95; 65% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (13; 9% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (12; 8% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (10; 7% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (9; 6% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

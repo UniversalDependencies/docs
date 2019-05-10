@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt>.
 There are also 2 other language-specific subtypes of `parataxis`: <tt><a href="uk_iu-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="uk_iu-dep-parataxis-newsent.html">parataxis:newsent</a></tt>.
 
-38 nodes (0%) are attached to their parents as `parataxis:rel`.
+44 nodes (0%) are attached to their parents as `parataxis:rel`.
 
-37 instances of `parataxis:rel` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.3684210526316.
+43 instances of `parataxis:rel` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 13.0909090909091.
 
-The following 6 pairs of parts of speech are connected with `parataxis:rel`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (18; 47% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (8; 21% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (7; 18% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `parataxis:rel`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (23; 52% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (8; 18% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (8; 18% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

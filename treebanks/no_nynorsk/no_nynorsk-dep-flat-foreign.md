@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 16	kvartal	kvartal	X	_	_	2	flat:foreign	_	_
 17	2011	2011	NUM	_	Number=Plur|NumType=Card	2	flat:foreign	_	SpaceAfter=No
 18	»	$"	PUNCT	_	_	2	punct	_	SpaceAfter=No
-19	,	$,	PUNCT	_	_	2	punct	_	_
+19	,	$,	PUNCT	_	_	20	punct	_	_
 20	skriv	skrive	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 21	NAV	NAV	PROPN	_	_	20	nsubj	_	_
 22	i	i	ADP	_	_	24	case	_	_
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 24	pressemelding	pressemelding	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	_
 25	som	som	PRON	_	PronType=Rel	28	nsubj:pass	_	_
 26	nett	nett	ADV	_	_	28	compound	_	_
-27	vart	verte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
+27	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
 28	send	sende	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	24	amod	_	_
 29	ut	ut	ADP	_	_	28	obl	_	SpaceAfter=No
 30	.	$.	PUNCT	_	_	2	punct	_	_
@@ -105,7 +105,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 16	kvartal	kvartal	X	_	_	2	flat:foreign	_	_
 17	2011	2011	NUM	_	Number=Plur|NumType=Card	2	flat:foreign	_	SpaceAfter=No
 18	»	$"	PUNCT	_	_	2	punct	_	SpaceAfter=No
-19	,	$,	PUNCT	_	_	2	punct	_	_
+19	,	$,	PUNCT	_	_	20	punct	_	_
 20	skriv	skrive	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 21	NAV	NAV	PROPN	_	_	20	nsubj	_	_
 22	i	i	ADP	_	_	24	case	_	_
@@ -113,7 +113,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 24	pressemelding	pressemelding	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	20	obl	_	_
 25	som	som	PRON	_	PronType=Rel	28	nsubj:pass	_	_
 26	nett	nett	ADV	_	_	28	compound	_	_
-27	vart	verte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
+27	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
 28	send	sende	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	24	amod	_	_
 29	ut	ut	ADP	_	_	28	obl	_	SpaceAfter=No
 30	.	$.	PUNCT	_	_	2	punct	_	_

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Dist`, `Ord`.
 
-2985 tokens (1%) have a non-empty value of `NumType`.
-102 types (1%) occur at least once with a non-empty value of `NumType`.
+2988 tokens (1%) have a non-empty value of `NumType`.
+103 types (1%) occur at least once with a non-empty value of `NumType`.
 29 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1507; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1478; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1510; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1478; 0% instances).
 
 ### `ADJ`
 
-1507 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `NumType`.
+1510 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1361; 90%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1299; 86%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1364; 90%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1300; 86%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Dist` (63; 4% of non-empty `NumType`): <em>singula, singulis, singulas, singulae, singulorum, singulos, singulum</em>
-* `Ord` (1444; 96% of non-empty `NumType`): <em>prima, primum, primo, prius, primam, primi, secunda, primae, secundo, primus</em>
-* `EMPTY` (23529): <em>divina, suam, sua, impossibile, divinae, suum, divinam, possibilis, suae, necesse</em>
+* `Dist` (65; 4% of non-empty `NumType`): <em>singula, singulis, singulas, singulae, singulorum, singulos, singularum, singulum</em>
+* `Ord` (1445; 96% of non-empty `NumType`): <em>prima, primum, primo, prius, primam, primi, secunda, primae, secundo, primus</em>
+* `EMPTY` (23748): <em>divina, suam, sua, impossibile, divinae, suum, divinam, possibilis, suae, necesse</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 1478 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (59% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1478; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1443; 98%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1188; 80%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1478; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1442; 98%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1187; 80%).
 
 `NUM` tokens may have the following values of `NumType`:
 

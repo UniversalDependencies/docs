@@ -26,7 +26,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Dem` (91; 5% of non-empty `PronType`): <em>this, that, these, those</em>
 * `Int` (5; 0% of non-empty `PronType`): <em>whatever, which</em>
 * `Rel` (4; 0% of non-empty `PronType`): <em>that, which</em>
-* `EMPTY` (104): <em>all, some, each, no, both, another, every, any, such, there</em>
+* `EMPTY` (101): <em>all, some, each, no, both, another, every, any, such, there</em>
 
 <table>
   <tr><th>Paradigm <i>that</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (26; 28% of non-empty `PronType`): <em>then, there, here</em>
 * `Int` (48; 52% of non-empty `PronType`): <em>when, how, why, where, whenever</em>
 * `Rel` (19; 20% of non-empty `PronType`): <em>where, when, why</em>
-* `EMPTY` (750): <em>also, so, only, more, not, however, most, well, as, just</em>
+* `EMPTY` (755): <em>also, so, only, more, not, however, most, well, as, about</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

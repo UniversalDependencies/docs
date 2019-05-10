@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>+</em> (<tt><a href="cs_cltt-pos-SYM.
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -46,15 +46,15 @@ Parents of `SYM` nodes belong to 2 different parts of speech: <tt><a href="cs_cl
 
 8 (44%) `SYM` nodes are leaves.
 
-9 (50%) `SYM` nodes have one child.
+7 (39%) `SYM` nodes have one child.
 
-0 (0%) `SYM` nodes have two children.
+2 (11%) `SYM` nodes have two children.
 
 1 (6%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 4.
 
-Children of `SYM` nodes are attached using 5 different relations: <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (8; 62% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 15% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 8% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 8% instances), <tt><a href="cs_cltt-dep-nummod.html">nummod</a></tt> (1; 8% instances)
+Children of `SYM` nodes are attached using 5 different relations: <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (8; 53% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (4; 27% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 7% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 7% instances), <tt><a href="cs_cltt-dep-nummod.html">nummod</a></tt> (1; 7% instances)
 
-Children of `SYM` nodes belong to 5 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (8; 62% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 15% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 8% instances)
+Children of `SYM` nodes belong to 5 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (8; 53% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 27% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 7% instances)
 

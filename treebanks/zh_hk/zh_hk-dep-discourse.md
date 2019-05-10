@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `discourse`: <tt><a href="zh_hk-dep-discourse-sp.html">discourse:sp</a></tt>.
 
-27 nodes (0%) are attached to their parents as `discourse`.
+28 nodes (0%) are attached to their parents as `discourse`.
 
-22 instances of `discourse` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.59259259259259.
+23 instances of `discourse` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.60714285714286.
 
-The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (10; 37% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (7; 26% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (11; 39% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (7; 25% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

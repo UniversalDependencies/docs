@@ -22,14 +22,14 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 11 vocative	color:blue
-1	Eso	_	DET	DT	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-3	lo	_	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
-4	que	_	PRON	REL	Gender=Masc|Number=Sing	6	obj	_	_
+1	Eso	_	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
+4	que	_	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	6	obj	_	_
 5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	necesitamos	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	2	ccomp	_	_
+6	necesitamos	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 7	en	_	ADP	IN	_	9	case	_	_
-8	nuestro	_	PRON	DTP$	Gender=Masc|Number=Sing|Person=1	9	det	_	_
+8	nuestro	_	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	_	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	_	PUNCT	,	_	11	punct	_	_
 11	amigos	_	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	de	_	ADP	IN	_	6	case	_	_
 6	Sony	_	PROPN	NNP	Number=Sing	4	nmod	_	_
 7	Australia	_	PROPN	NNP	Number=Sing	6	appos	_	_
-8	dijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
+8	dijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 9	:	_	PUNCT	:	_	19	punct	_	_
 10	"	_	PUNCT	``	_	19	punct	_	SpaceAfter=No
 11	Ey	_	X	UH	_	19	vocative	_	SpaceAfter=No
@@ -60,15 +60,15 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 14	cierto	_	NOUN	NN	Gender=Masc|Number=Sing	13	fixed	_	SpaceAfter=No
 15	,	_	PUNCT	,	_	13	punct	_	_
 16	¿	_	PUNCT	.	_	19	punct	_	SpaceAfter=No
-17	os	_	PRON	SE	Number=Plur|Person=2	19	compound:prt	_	_
-18	habéis	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|Voice=Act	19	aux	_	_
-19	dado	_	VERB	VBN	_	8	ccomp	_	_
+17	os	tú	PRON	SE	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	19	compound:prt	_	_
+18	habéis	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	_
+19	dado	_	VERB	VBN	VerbForm=Fin	8	ccomp	_	_
 20	cuenta	_	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
 21	de	_	ADP	IN	_	22	case	_	_
-22	esto	_	DET	DT	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	esto	_	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nmod	_	SpaceAfter=No
 23	?	_	PUNCT	.	_	19	punct	_	SpaceAfter=No
 24	"	_	PUNCT	''	_	19	punct	_	_
-25	dice	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	parataxis	_	_
+25	dice	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
 26	Pall	_	PROPN	NNP	Number=Sing	25	nsubj	_	SpaceAfter=No
 27	.	_	PUNCT	.	_	25	punct	_	_
 

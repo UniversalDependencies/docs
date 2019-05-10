@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 10 ccomp	color:blue
-1	証人	証人	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
+1	証人	証人	NOUN	NN	_	10	dislocated	_	SpaceAfter=No
 2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
 3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
 4	4月	4月	NOUN	NR	_	10	iobj	_	SpaceAfter=No

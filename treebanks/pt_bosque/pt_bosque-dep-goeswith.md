@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 10	dicionário	dicionário	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	_	_	14	case	_	_
-12	34	34	ADP	_	_	14	nummod	_	MWE=34_470
+12	34	34	NUM	_	_	14	nummod	_	MWE=34_470
 13	470	470	NUM	_	NumType=Card	12	goeswith	_	_
 14	entradas	entrada	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
 15	em	em	ADP	_	_	16	case	_	_

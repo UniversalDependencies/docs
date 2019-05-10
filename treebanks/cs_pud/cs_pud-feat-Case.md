@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 10488 tokens (56%) have a non-empty value of `Case`.
 5471 types (72%) occur at least once with a non-empty value of `Case`.
 3574 lemmas (67%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4315; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2025; 11% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1834; 10% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (877; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (721; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (576; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4315; 23% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2025; 11% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1833; 10% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (877; 5% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (721; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (577; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (140; 1% instances).
 
 ### `NOUN`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `ADP`
 
-1834 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+1833 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1682; 92%).
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Acc` (323; 18% of non-empty `Case`): <em>na, pro, za, o, v, po, mimo, přes, ve, mezi</em>
 * `Dat` (115; 6% of non-empty `Case`): <em>k, proti, ke, kvůli, díky, vůči, navzdory, oproti</em>
 * `Gen` (411; 22% of non-empty `Case`): <em>z, do, od, ze, během, podle, u, kolem, bez, kromě</em>
-* `Ins` (216; 12% of non-empty `Case`): <em>s, mezi, před, se, pod, př, nad, za</em>
+* `Ins` (215; 12% of non-empty `Case`): <em>s, mezi, před, se, pod, př, nad, za</em>
 * `Loc` (763; 42% of non-empty `Case`): <em>v, na, ve, po, o, při, a</em>
 * `Nom` (6; 0% of non-empty `Case`): <em>de</em>
 * `EMPTY` (9): <em>vzhledem, Von, of, Di, On</em>
@@ -116,9 +116,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-721 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
+721 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (701; 97%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (635; 88%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (634; 88%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (587; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (495; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (635; 88%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (634; 88%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (587; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (495; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Ins` (56; 8% of non-empty `Case`): <em>tím, n, svým, jakým, jejím, mnoha, svou, tou, tímto, těmi</em>
 * `Loc` (55; 8% of non-empty `Case`): <em>této, tom, svém, té, kterém, tomto, kterých, některých, své, svých</em>
 * `Nom` (338; 47% of non-empty `Case`): <em>to, který, která, které, kteří, mnoho, tento, její, toto, tato</em>
-* `EMPTY` (92): <em>jeho, jejich, její, jejichž, jehož, jejíž</em>
+* `EMPTY` (106): <em>jeho, jejich, více, její, jejichž, víc, jehož, jejíž, méně</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -145,13 +145,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-576 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+577 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (512; 89%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (479; 83%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (470; 82%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (450; 78%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (425; 74%), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (378; 66%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (353; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (513; 89%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (480; 83%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (471; 82%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (451; 78%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (426; 74%), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (379; 66%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (354; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (371; 64% of non-empty `Case`): <em>se, ho, co, ji, mě, je, nás, něco, nic, ně</em>
+* `Acc` (372; 64% of non-empty `Case`): <em>se, ho, co, ji, mě, je, nás, něco, nic, ně</em>
 * `Dat` (79; 14% of non-empty `Case`): <em>si, mu, jí, jim, nám, mi, čemuž, nimž, němu, něčemu</em>
 * `Gen` (33; 6% of non-empty `Case`): <em>nich, ní, něj, jich, nichž, mě, něhož, sebe, jehož, jí</em>
 * `Ins` (21; 4% of non-empty `Case`): <em>ním, nimi, jím, čímž, nikým, ničím, ní, něčím, sebou, čím</em>

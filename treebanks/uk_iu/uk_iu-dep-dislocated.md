@@ -8,28 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `dislocated`.
+19 nodes (0%) are attached to their parents as `dislocated`.
 
-12 instances of `dislocated` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.125.
+15 instances of `dislocated` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (8; 50% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
+The following 10 pairs of parts of speech are connected with `dislocated`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 7 dislocated	color:blue
-1	Бодай	бодай	PART	Q	_	4	discourse	4:discourse	Id=0d6i|LTranslit=bodaj|Translit=Bodaj
-2	вони	вони	PRON	Pp-3--pnn	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	Id=0d6j|LTranslit=vony|Translit=vony
-3	були	бути	AUX	Vapis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	aux	4:aux	Id=0d6k|LTranslit=buty|Translit=buly
-4	пропали	пропасти	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=0d6l|LTranslit=propasty|SpaceAfter=No|Translit=propaly
-5	,	,	PUNCT	U	_	7	punct	7:punct	Id=0d6m|LTranslit=,|Translit=,
-6	прокляті	проклятий	ADJ	Ap--pns-ep	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	7	amod	7:amod	Id=0d6n|LTranslit=prokľаtyj|Translit=prokľаti
-7	злидні	злидень	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	dislocated	4:dislocated	Id=0d6o|LTranslit=zlydeń|SpaceAfter=No|Translit=zlydni
-8	!	!	PUNCT	U	_	4	punct	4:punct	Id=0d6p|LTranslit=!|Translit=!
+# visual-style 4 6 dislocated	color:blue
+1	колись	колись	ADV	Pi------r	PronType=Ind	4	advmod	4:advmod	Id=328b|LTranslit=kolyś|Translit=kolyś
+2	то	то	PART	Q	_	1	discourse	1:discourse	Id=328c|LTranslit=to|Translit=to
+3	вона	вона	PRON	Pp-3f-snn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Id=328d|LTranslit=vona|Translit=vona
+4	вилізе	вилізти	VERB	Vmeif3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	Id=328e|LTranslit=vylizty|Translit=vylize
+5	та	той	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	6:det	Id=328f|LTranslit=toj|Translit=ta
+6	правда	правда	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	dislocated	4:dislocated	Id=328g|LTranslit=pravda|Translit=pravda
+7	і	і	CCONJ	Ccs	_	9	cc	9:cc	Id=328h|LTranslit=i|Translit=i
+8	лише	лише	PART	Q	_	9	discourse	9:discourse	Id=328i|LTranslit=lyše|Translit=lyše
+9	гірше	гірше	ADV	Rc	Degree=Cmp	4	conj	0:root|4:conj	Id=328j|LTranslit=hirše|Translit=hirše
+10	буде	бути	AUX	Vapif3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	9	cop	9:cop	Id=328k|LTranslit=buty|SpaceAfter=No|Translit=bude
+11	.	.	PUNCT	U	_	4	punct	4:punct	Id=328l|LTranslit=.|Translit=.
 
 ~~~
 

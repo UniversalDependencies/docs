@@ -6,85 +6,75 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `AUX`
 
-There are 43 `AUX` lemmas (1%), 102 `AUX` types (2%) and 950 `AUX` tokens (4%).
-Out of 16 observed tags, the rank of `AUX` is: 8 in number of lemmas, 7 in number of types and 10 in number of tokens.
+There are 9 `AUX` lemmas (0%), 56 `AUX` types (1%) and 869 `AUX` tokens (4%).
+Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>sein, werden, haben, können, müssen, sollen, wollen, bleiben, lassen, mögen</em>
+The 10 most frequent `AUX` lemmas: <em>sein, werden, haben, können, müssen, sollen, wollen, mögen, dürfen</em>
 
-The 10 most frequent `AUX` types:  <em>ist, wurde, war, werden, wird, wurden, sind, hatte, waren, hat</em>
+The 10 most frequent `AUX` types:  <em>ist, war, wurde, werden, wird, wurden, sind, hat, hatte, waren</em>
 
-The 10 most frequent ambiguous lemmas: <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 320, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 51), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 312, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 5), <em>haben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 121, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 55), <em>können</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 71, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>wollen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>bleiben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 8, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>lassen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 6, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>ansehen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 4, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>nennen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 4, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>halten</em> (<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 323, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 49), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 286, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 32), <em>haben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 122, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 55), <em>können</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 71, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>wollen</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 119, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 19), <em>wurde</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 108, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>war</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 94, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 13), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 59, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>wird</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 50, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1), <em>sind</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 38, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 8), <em>hatte</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 10), <em>waren</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 4), <em>hat</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 34, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18), <em>haben</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 24, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 17)
+The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 120, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 19), <em>war</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 95, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 12), <em>wurde</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 95, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 15), <em>werden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 53, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7), <em>wird</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 48, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 3), <em>wurden</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 40, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2), <em>sind</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 39, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7), <em>hat</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18), <em>hatte</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 10), <em>waren</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 4)
 
 
 * <em>ist</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 119: <em>Was sie sagt und was sie tut - eigentlich <b>ist</b> es unglaublich .</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 120: <em>Was sie sagt und was sie tut - eigentlich <b>ist</b> es unglaublich .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 19: <em>Das <b>ist</b> es , was uns süchtig macht .</em>
-* <em>wurde</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 108: <em>Die Produktion des Smartphone - Modells <b>wurde</b> komplett eingestellt .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2: <em>Daraus <b>wurde</b> in dem Jahr 833 n . Chr. durch die Eroberung des Fürstentums Nitra ( heutige Slowakei ) der Staat Großmähren .</em>
 * <em>war</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 94: <em>Vielleicht <b>war</b> die Kleiderordnung zu bieder .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 13: <em>An dem dritten Tag <b>war</b> ich wieder auf dem Emicro .</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 95: <em>Vielleicht <b>war</b> die Kleiderordnung zu bieder .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 12: <em>An dem dritten Tag <b>war</b> ich wieder auf dem Emicro .</em>
+* <em>wurde</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 95: <em>Die Produktion des Smartphone - Modells <b>wurde</b> komplett eingestellt .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 15: <em>2011 <b>wurde</b> Blunt Botschafterin des neuen Dufts von Yves Saint Laurent Opium .</em>
 * <em>werden</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 59: <em>Wir <b>werden</b> prüfen , ob und wie wir in dem nächsten Abschnitt fortfahren .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1: <em>Aber als der Senat ihm endgültig antwortete , indem er ihm verbot , in dem Konsulat anzutreten und ihm die Optionen eröffnete , entweder seine Truppen zurückzuziehen oder zu dem öffentlichen Feind zu <b>werden</b> , erkannte er : Egal , welche Alternative er wählte , er würde sich seinen Feinden unbewaffnet ergeben müssen .</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 53: <em>Wir <b>werden</b> prüfen , ob und wie wir in dem nächsten Abschnitt fortfahren .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7: <em>„ Ich muss Andy gratulieren ; die Nummer 1 in der Welt zu <b>werden</b> , ist eine unglaubliche Leistung “ , sagte der Amerikaner .</em>
 * <em>wird</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 50: <em>Das Projekt <b>wird</b> über Sponsoren und Werbung finanziert .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1: <em>Der nördliche Abschnitt des Kaukasus wird Ciskaukasien und der südliche Abschnitt <b>wird</b> Transkaukasien genannt .</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 48: <em>Das Projekt <b>wird</b> über Sponsoren und Werbung finanziert .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 3: <em>Der nördliche Abschnitt des Kaukasus wird Ciskaukasien und der südliche Abschnitt <b>wird</b> Transkaukasien genannt .</em>
+* <em>wurden</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 40: <em>Dort <b>wurden</b> Leute umgebracht .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 2: <em>Eine Vielzahl an germanischen und hauptsächlich slawischen Stämmen durchquerte Mähren während der Völkerwanderungszeit , bevor die Slawen in dem 6. Jahrhundert n . Chr. dort ansässig <b>wurden</b> .</em>
 * <em>sind</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 38: <em>Wer <b>sind</b> sie ?</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 8: <em>Über 330 Besatzungsmitglieder <b>sind</b> an Bord des Schiffes .</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 39: <em>Wer <b>sind</b> sie ?</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 7: <em>Diese Pflanzenfamilien <b>sind</b> noch in Papua - Neuguinea zu finden .</em>
+* <em>hat</em>
+  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35: <em>Er <b>hat</b> sich für Folter ausgesprochen .</em>
+  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18: <em>Er <b>hat</b> seine harten Kanten in dem Spiel , aber auch weiche Hände .</em>
 * <em>hatte</em>
   * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35: <em>Russland <b>hatte</b> die Aussetzung des Abkommens Anfang Oktober angekündigt .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 10: <em>In dem selben Jahr <b>hatte</b> sie einen kurzen Auftritt in Disneys „ Die Muppets “ als Miss Piggys Empfangsdame .</em>
 * <em>waren</em>
   * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 35: <em>Nur 50 davon <b>waren</b> Marktplätze .</em>
   * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 4: <em>In dieser Zeit wawr Marcelle oft allein in dem Zimmer , währen Piaf und Mômone draußen auf der Straße oder in Clubs zu dem Singen <b>waren</b> .</em>
-* <em>hat</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 34: <em>Er <b>hat</b> sich für Folter ausgesprochen .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 18: <em>Er <b>hat</b> seine harten Kanten in dem Spiel , aber auch weiche Hände .</em>
-* <em>haben</em>
-  * <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 24: <em>Wir sind so enttäuscht , weil wir 6 Punkte bei Heimspielen verloren <b>haben</b> .</em>
-  * <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 17: <em>In der Regel <b>haben</b> die Explosionen keine katastrophalen Ausmaße .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.372093 (the average of all parts of speech is 1.193156).
+The form / lemma ratio of `AUX` is 6.222222 (the average of all parts of speech is 1.195606).
 
 The 1st highest number of forms (12) was observed with the lemma “sein”: <em>bin, gewesen, ist, sei, seien, sein, sind, war, waren, wawr, wäre, wären</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “werden”: <em>geworden, werde, werden, werden., wird, worden, wurde, wurden, würde, würden</em>.
+The 2nd highest number of forms (8) was observed with the lemma “haben”: <em>habe, haben, habt, hat, hatte, hatten, hätte, hätten</em>.
 
-The 3rd highest number of forms (8) was observed with the lemma “haben”: <em>habe, haben, habt, hat, hatte, hatten, hätte, hätten</em>.
+The 3rd highest number of forms (8) was observed with the lemma “müssen”: <em>muss, musst, musste, mussten, müsse, müssen, müssten, müßten</em>.
 
-`AUX` occurs with 7 features: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt> (891; 94% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (852; 90% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (852; 90% instances), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt> (851; 90% instances), <tt><a href="de_pud-feat-VerbForm.html">VerbForm</a></tt> (4; 0% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (1; 0% instances)
+`AUX` occurs with 4 features: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt> (827; 95% instances), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (804; 93% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (804; 93% instances)
 
-`AUX` occurs with 14 feature-value pairs: `Case=Dat`, `Gender=Fem`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 9 feature-value pairs: `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`
 
-`AUX` occurs with 23 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (265 tokens).
-Examples: <em>wurde, war, hatte, konnte, wollte, blieb, beschrieb, ließ, musste, ansah</em>
+`AUX` occurs with 19 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres` (250 tokens).
+Examples: <em>ist, wird, hat, kann, muss, soll, mag</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="de_pud-dep-aux.html">aux</a></tt> (374; 39% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (335; 35% instances), <tt><a href="de_pud-dep-aux-pass.html">aux:pass</a></tt> (230; 24% instances), <tt><a href="de_pud-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="de_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="de_pud-dep-aux.html">aux</a></tt> (365; 42% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (274; 32% instances), <tt><a href="de_pud-dep-aux-pass.html">aux:pass</a></tt> (230; 26% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (572; 60% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (200; 21% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (148; 16% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (8; 1% instances),  (8; 1% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (588; 68% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (158; 18% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (108; 12% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-937 (99%) `AUX` nodes are leaves.
+869 (100%) `AUX` nodes are leaves.
 
-2 (0%) `AUX` nodes have one child.
-
-0 (0%) `AUX` nodes have two children.
-
-11 (1%) `AUX` nodes have three or more children.
-
-The highest child degree of a `AUX` node is 6.
-
-Children of `AUX` nodes are attached using 11 different relations: <tt><a href="de_pud-dep-punct.html">punct</a></tt> (13; 28% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (5; 11% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (5; 11% instances), <tt><a href="de_pud-dep-aux-pass.html">aux:pass</a></tt> (4; 9% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (4; 9% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (4; 9% instances), <tt><a href="de_pud-dep-xcomp.html">xcomp</a></tt> (3; 7% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (2; 4% instances), <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (2; 4% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (2; 4% instances)
-
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (14; 30% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (13; 28% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (7; 15% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (4; 9% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="de_pud-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+The highest child degree of a `AUX` node is 0.
 

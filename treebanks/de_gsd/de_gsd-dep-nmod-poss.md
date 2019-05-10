@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="de_gsd-dep-nmod.htm
 76 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.22368421052632.
 
-The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (73; 96% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (3; 4% instances).
+The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-DET.html">DET</a></tt> (74; 97% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

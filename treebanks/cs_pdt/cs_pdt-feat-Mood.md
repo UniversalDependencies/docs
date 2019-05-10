@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-93491 tokens (6%) have a non-empty value of `Mood`.
-9382 types (7%) occur at least once with a non-empty value of `Mood`.
-3712 lemmas (6%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (60745; 4% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (32746; 2% instances).
+93481 tokens (6%) have a non-empty value of `Mood`.
+9381 types (7%) occur at least once with a non-empty value of `Mood`.
+3711 lemmas (6%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (60730; 4% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (32751; 2% instances).
 
 ### `VERB`
 
-60745 <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `Mood`.
+60730 <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (60745; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (60745; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59852; 99%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (59250; 98%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53113; 87%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (52782; 87%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41709; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (60730; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (60730; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59837; 99%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (59235; 98%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53098; 87%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (52767; 87%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41695; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (15; 0% of non-empty `Mood`): <em>by, bych, bychom, bysem, bysme, bysom</em>
 * `Imp` (878; 1% of non-empty `Mood`): <em>viz, řekněme, dejme, připomeňme, doufejme, vraťme, dodejme, Ponechme, podívejme, předpokládejme</em>
-* `Ind` (59852; 99% of non-empty `Mood`): <em>má, je, může, mají, musí, jde, jsou, lze, mohou, říká</em>
-* `EMPTY` (74765): <em>řekl, měl, měla, mít, uvedl, měli, mělo, mohl, měly, bylo</em>
+* `Ind` (59837; 99% of non-empty `Mood`): <em>má, je, může, mají, musí, jde, jsou, lze, mohou, říká</em>
+* `EMPTY` (74749): <em>řekl, měl, měla, mít, uvedl, měli, mělo, mohl, měly, bylo</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -63,20 +63,20 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (3477) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (3476) occur only with one value of `Mood`.
 
 ### `AUX`
 
-32746 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Mood`.
+32751 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32746; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32746; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 73%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (22271; 68%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 66%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 59%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32751; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32751; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23775; 73%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (22276; 68%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21493; 66%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19269; 59%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17776; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (8893; 27% of non-empty `Mood`): <em>by, bychom, bych, byste, bys</em>
 * `Imp` (83; 0% of non-empty `Mood`): <em>buď, buďte, budiž, Buďme, Nebuďte</em>
-* `Ind` (23770; 73% of non-empty `Mood`): <em>je, jsou, bude, jsem, jsme, není, budou, nebude, nejsou, jste</em>
-* `EMPTY` (8647): <em>byl, být, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly</em>
+* `Ind` (23775; 73% of non-empty `Mood`): <em>je, jsou, bude, jsem, jsme, není, budou, nebude, nejsou, jste</em>
+* `EMPTY` (8644): <em>byl, být, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th></tr>
@@ -125,8 +125,9 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (5613; 70%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (5612; 70%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2005; 54%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (80; 71%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (10; 53%).
+<tt>VERB --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (10; 53%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%).
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Mult` (84; 21% of non-empty `NumType`): <em>jediný, mnohých, jediného, jediným, jediné, mnohí, jediná, ostatní, dvojitý, dvojnásobné</em>
 * `Ord` (323; 79% of non-empty `NumType`): <em>prvý, druhý, druhej, prvé, prvá, prvom, prvým, prvej, druhá, tretí</em>
-* `EMPTY` (9073): <em>celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</em>
+* `EMPTY` (9067): <em>celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (68; 100% of non-empty `NumType`): <em>niekoľko, niekoľkých, toľko, koľko, niekoľkými, niekolko</em>
-* `EMPTY` (4339): <em>to, jeho, jej, ktoré, ktorý, ten, ich, ktorá, tom, toho</em>
+* `EMPTY` (4336): <em>to, jeho, jej, ktoré, ktorý, ten, ich, ktorá, tom, toho</em>
 
 ### `ADV`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (67; 100% of non-empty `NumType`): <em>raz, prvýkrát, niekoľkokrát, neraz, dvakrát, Tisíckrát, dvojako, mnohokrát, ráz, stokrát</em>
-* `EMPTY` (4326): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
+* `EMPTY` (4366): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (14) occur only with one value of `NumType`.
 

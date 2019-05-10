@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc` (548; 5% of non-empty `Gender`): <em>den, noen, denne, ingen, enhver, der</em>
 * `Masc` (3161; 27% of non-empty `Gender`): <em>han, sin, ham, min, hans, vår, din, deres, hennes</em>
 * `Neut` (7055; 60% of non-empty `Gender`): <em>det, dette, noe, sitt, alt, mitt, vårt, hans, hennes, ditt</em>
-* `EMPTY` (14157): <em>som, jeg, vi, de, seg, du, man, meg, hva, oss</em>
+* `EMPTY` (14164): <em>som, jeg, vi, de, seg, du, man, meg, hva, oss</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>Jo</em>
-* `EMPTY` (9977): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
+* `EMPTY` (9970): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
 
 ## Relations with Agreement in `Gender`
 

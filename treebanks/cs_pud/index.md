@@ -100,7 +100,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 2634 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 2636 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -134,7 +134,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as determiners (DET): jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, svůj, sám, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
+<li>This corpus contains 27 lemmas tagged as determiners (DET): hodně, jaký, jakýkoli, jeho, jenž, každý, kolik, který, kterýkoli, mnoho, málo, můj, nějaký, několik, některý, onen, svůj, sám, takový, ten, tenhle, tento, tentýž, tolik, tvůj, všechen, žádný</li>
 </ul>
 
 <ul>
@@ -184,7 +184,7 @@ employ ten-fold cross-validation.
   <ul>
     <li>ADJ: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
     <li>AUX: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
-    <li>VERB: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
+    <li>VERB: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
   </ul>
   </li>
 </ul>
@@ -372,7 +372,7 @@ employ ten-fold cross-validation.
       <li>PROPN: Čína, Francie, Albánie, Británii, Clintonové, Evropě, Itálii, Trump, Trumpa, Ameriky</li>
       <li>VERB-Conv: Počínaje, redukujíc</li>
       <li>VERB-Fin: má, je, může, říká, lze, obsahuje, pomáhá, ukazuje, nelze, stojí</li>
-      <li>VERB-Part: řekl, mohl, měl, stal, vedl, bylo, pracoval, rozhodl, uvedl, vrátil</li>
+      <li>VERB-Part: řekl, mohl, měl, stal, vedl, pracoval, rozhodl, uvedl, vrátil, začal</li>
     </ul>
   </li>
 </ul>
@@ -511,7 +511,8 @@ employ ten-fold cross-validation.
   <li>Cmp
     <ul>
       <li>ADJ: větší, vyšší, menší, Starší, afričtějšího, bezpečnější, horším, jemnější, jistější, lepší</li>
-      <li>ADV: více, víc, později, dříve, méně, Přesněji, dál, lépe, raději, radši</li>
+      <li>ADV: více, později, víc, dříve, méně, Přesněji, dál, lépe, raději, radši</li>
+      <li>DET: více, víc, méně</li>
     </ul>
   </li>
 </ul>
@@ -559,17 +560,17 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
       <li>ADJ-Part: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
-      <li>ADV: více, stejně, víc, často, později, pravděpodobně, původně, samozřejmě, dobře, dříve</li>
+      <li>ADV: více, stejně, často, později, pravděpodobně, původně, samozřejmě, víc, dobře, dříve</li>
       <li>AUX-Fin: je, jsou, bude, jsem, jsme, budou, budeme, budu, jste, bývají</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli</li>
-      <li>DET: tohoto</li>
+      <li>DET: více, víc, méně, tohoto</li>
       <li>NOUN: roce, roku, let, století, letech, době, území, období, oblasti, l</li>
       <li>PROPN: Čína, Francie, USA, Čching, Albánie, BBC, Británii, Clintonové, Danevirke, Evropě</li>
       <li>VERB-Conv: Počínaje, redukujíc</li>
       <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
       <li>VERB-Inf: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
-      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
+      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
     </ul>
   </li>
 </ul>
@@ -629,7 +630,6 @@ employ ten-fold cross-validation.
   <li>Cnd
     <ul>
       <li>AUX-Fin: by, bych, bychom, byste</li>
-      <li>VERB-Fin: by</li>
     </ul>
   </li>
 </ul>
@@ -669,7 +669,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
       <li>VERB-Conv: redukujíc</li>
-      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
+      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
     </ul>
   </li>
 </ul>
@@ -698,7 +698,7 @@ employ ten-fold cross-validation.
       <li>VERB-Conv: Počínaje, nedbajíce, redukujíc</li>
       <li>VERB-Fin: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
       <li>VERB-Inf: překonat</li>
-      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
+      <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
     </ul>
   </li>
 </ul>
@@ -778,6 +778,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: přičemž, zato</li>
       <li>DET: jejichž, jehož, jejíž</li>
       <li>PRON: což, jenž, nichž, níž, jež, něhož, čemuž, čímž, jehož, nimž</li>
     </ul>

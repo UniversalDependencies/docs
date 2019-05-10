@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41368 nodes (3%) are attached to their parents as `mark`.
+41369 nodes (3%) are attached to their parents as `mark`.
 
-41285 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.78739605492168.
+41286 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.78744953951026.
 
-The following 13 pairs of parts of speech are connected with `mark`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (30545; 74% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (5891; 14% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (3009; 7% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1382; 3% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (216; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (139; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (98; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (49; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (30546; 74% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (5891; 14% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (3009; 7% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (1382; 3% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (216; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (139; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (98; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (49; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 mark	color:blue
-1	_	_	CCONJ	_	_	27	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
-2	_	_	PUNCT	_	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+1	_	_	CCONJ	_	_	27	cc	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+2	_	_	PUNCT	_	_	27	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 3	_	_	NOUN	_	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 4	_	_	NOUN	_	_	6	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 5	_	_	PUNCT	_	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
@@ -35,7 +35,7 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 11	_	_	NOUN	_	_	12	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 12	_	_	NOUN	_	_	19	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 13	_	_	ADP	_	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-14	_	_	VERB	_	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+14	_	_	VERB	_	_	12	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 15	_	_	AUX	_	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 16	_	_	NOUN	_	_	17	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 17	_	_	NOUN	_	_	19	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
@@ -65,7 +65,7 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 3	_	_	NUM	_	_	4	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 4	_	_	NOUN	_	_	30	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-6	_	_	VERB	_	_	4	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+6	_	_	VERB	_	_	4	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 7	_	_	SCONJ	_	_	4	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 8	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
 9	_	_	PUNCT	_	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No

@@ -8,53 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-1692 nodes (2%) are attached to their parents as `acl`.
+2011 nodes (2%) are attached to their parents as `acl`.
 
-1676 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.49408983451537.
+1962 instances of `acl` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.49328692192939.
 
-The following 28 pairs of parts of speech are connected with `acl`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (959; 57% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (381; 23% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (76; 4% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (61; 4% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (57; 3% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (24; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 acl	color:blue
-1	Postoji	postojati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-2	osećaj	osećaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	da	da	SCONJ	_	_	5	mark	_	_
-4	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	aux	_	_
-5	žrtvovali	žrtvovati	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
-6	sve	sve	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	_
-7	zarad	zarad	ADP	_	Case=Gen	8	case	_	_
-8	statusa	status	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
-9	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_
-
-~~~
+The following 38 pairs of parts of speech are connected with `acl`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1128; 56% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (454; 23% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (96; 5% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (65; 3% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (64; 3% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 acl	color:blue
-1	Zgrada	zgrada	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-2	u	u	ADP	_	Case=Loc	3	case	_	_
-3	Tirani	Tirana	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	poznata	poznat	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	1	acl	_	_
-6	kao	kao	SCONJ	_	_	7	case	_	_
-7	piramida	piramida	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obl	_	_
-8	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	9	compound	_	_
-9	nalazi	nalaziti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-10	u	u	ADP	_	Case=Loc	11	case	_	_
-11	centru	centar	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
-12	debate	debata	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 acl	color:blue
+1	Postigli	postići	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	smo	biti	AUX	Var1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	mir	mir	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+4	u	u	ADP	Sl	Case=Loc	5	case	_	_
+5	Dejtonu	Dejton	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+6	koji	koji	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	9	obj	_	_
+7	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	svi	sav	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	9	nsubj	_	_
+9	prihvatili	prihvatiti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 
@@ -62,23 +39,38 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 acl	color:blue
-1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-3	poznata	poznat	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-4	po	po	ADP	_	Case=Loc	5	case	_	_
-5	tome	taj	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-6	da	da	SCONJ	_	_	7	mark	_	_
-7	jede	jesti	VERB	_	Number=Sing|Person=3|Tense=Pres	5	acl	_	_
-8	i	i	CCONJ	_	_	11	advmod	_	_
-9	do	do	ADP	_	Case=Gen	11	case	_	_
-10	50	50	NUM	_	NumType=Card	11	nummod:gov	_	_
-11	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
-12	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-13	dnevno	dnevno	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 acl	color:blue
+1	Bugarska	bugarski	ADJ	Agpfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	vojska	vojska	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	pomaže	pomagati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	u	u	ADP	Sl	Case=Loc	5	case	_	_
+5	raščišćavanju	raščišćavanje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+6	štete	šteta	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+7	izazvane	izazvan	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	acl	_	_
+8	poplavama	poplava	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	7	obl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 acl	color:blue
+1	Vlasti	vlast	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+2	EU	EU	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+3	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	te	taj	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
+5	koje	koji	DET	Pi-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	7	nsubj	_	_
+6	nisu	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	ispunile	ispuniti	VERB	Vmp-pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
+8	svoja	svoj	DET	Px-npa	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	9	det	_	_
+9	obećanja	obećanje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+11	"	"	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

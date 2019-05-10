@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="cs_pud-dep-aux.html
 164 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.11585365853659.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (163; 99% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (164; 100% instances).
 
 
 ~~~ conllu
@@ -33,26 +33,6 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	dvouleté	dvouletý	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
 10	dcery	dcera	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 aux:pass	color:blue
-1	Bylo	být	VERB	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	aux:pass	_	_
-2	provedeno	provedený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=provést
-3	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=od-1
-4	dubna	duben	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
-5	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=do-1
-6	června	červen	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
-7	blízko	blízko	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	9	case	_	LId=blízko-1
-8	mexického	mexický	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	9	amod	_	_
-9	pobřeží	pobřeží	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	2	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 

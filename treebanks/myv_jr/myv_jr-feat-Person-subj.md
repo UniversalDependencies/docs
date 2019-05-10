@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-2436 tokens (15%) have a non-empty value of `Person[subj]`.
-1412 types (28%) occur at least once with a non-empty value of `Person[subj]`.
-643 lemmas (26%) occur at least once with a non-empty value of `Person[subj]`.
-The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2079; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (352; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
+2429 tokens (15%) have a non-empty value of `Person[subj]`.
+1411 types (28%) occur at least once with a non-empty value of `Person[subj]`.
+640 lemmas (26%) occur at least once with a non-empty value of `Person[subj]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2044; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (379; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-2079 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
+2044 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2079; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2074; 100%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (2032; 98%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1932; 93%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1668; 80%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1664; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1476; 71%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (1210; 58%).
+The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2044; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2039; 100%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (1997; 98%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1912; 94%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1637; 80%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1633; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1449; 71%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (1191; 58%).
 
 `VERB` tokens may have the following values of `Person[subj]`:
 
@@ -45,9 +45,9 @@ The most frequent other feature values with which `VERB` and `Person[subj]` co-o
 
 ### `AUX`
 
-352 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
+379 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `AUX` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (302; 86%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (267; 76%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (256; 73%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (244; 69%).
+The most frequent other feature values with which `AUX` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (286; 75%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (279; 74%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (252; 66%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (191; 50%).
 
 `AUX` tokens may have the following values of `Person[subj]`:
 
@@ -91,11 +91,18 @@ The most frequent other feature values with which `NOUN` and `Person[subj]` co-o
 `NOUN` tokens may have the following values of `Person[subj]`:
 
 
+### `ADV`
+
+1 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person[subj]`.
+
+The most frequent other feature values with which `ADV` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Person[subj]`:
+
+
 ### `PART`
 
-1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Person[subj]`.
-
-The most frequent other feature values with which `PART` and `Person[subj]` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Person[subj]`.
 
 `PART` tokens may have the following values of `Person[subj]`:
 
@@ -110,6 +117,6 @@ The 10 most frequent relations where parent and child node agree in `Person[subj
 <tt>VERB --[<tt><a href="myv_jr-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (4; 80%),
 <tt>AUX --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%).
 

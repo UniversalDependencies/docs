@@ -12,7 +12,7 @@ Some words have combined values of the feature; 8 combinations have been observe
 
 1224 tokens (8%) have a non-empty value of `Derivation`.
 1054 types (14%) occur at least once with a non-empty value of `Derivation`.
-751 lemmas (15%) occur at least once with a non-empty value of `Derivation`.
+750 lemmas (15%) occur at least once with a non-empty value of `Derivation`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (579; 4% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (520; 3% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (124; 1% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Derivation` co-occu
 * `Llinen` (123; 21% of non-empty `Derivation`): <em>mahdollista, kansallinen, Teollinen, historiallinen, kansallisella, kansallisiin, kuninkaallinen, poikkeuksellisen, taloudellisia, todellista</em>
 * `Ton` (44; 8% of non-empty `Derivation`): <em>käsittämättömän, uskomaton, vaatimattomana, alastomana, ennenkuulumatonta, haluton, hillittömän, huoletonta, jäljittelemättömän, kehittymättömiä</em>
 
-`Derivation` seems to be **lexical feature** of `ADJ`. 100% lemmas (336) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `ADJ`. 100% lemmas (335) occur only with one value of `Derivation`.
 
 ### `NOUN`
 

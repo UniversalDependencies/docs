@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1568; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (10955): <em>no, también, muy, donde, ya, además, así, después, sólo, bien</em>
+* `EMPTY` (10920): <em>no, también, muy, donde, ya, además, así, después, sólo, bien</em>
 
 ### `ADJ`
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 * `Abs` (8; 73% of non-empty `Degree`): <em>muchísimo, muchisimo, muchisimio</em>
 * `Cmp` (3; 27% of non-empty `Degree`): <em>menos, más</em>
-* `EMPTY` (14013): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
+* `EMPTY` (14025): <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
 ### `DET`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (3; 100% of non-empty `Degree`): <em>muchísimas, muchisimas</em>
-* `EMPTY` (60869): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (60854): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ## Relations with Agreement in `Degree`
 

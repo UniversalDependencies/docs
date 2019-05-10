@@ -13,7 +13,7 @@ This relation is universal.
 158 instances of `advcl` (72%) are left-to-right (parent precedes child).
 Average distance between parent and child is 9.8675799086758.
 
-The following 15 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (175; 80% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (12; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (6; 3% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (185; 84% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (13; 6% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	changea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	lorsque	_	SCONJ	IN	_	8	mark	_	_
 6	Julien	_	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
-7	fut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux:pass	_	_
+7	fut	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux:pass	_	_
 8	tué	_	VERB	VBN	Gender=Masc|Number=Sing	4	advcl	_	_
 9	à	à	ADP	INDT	_	11	case	_	_
 10	le	le	DET	_	Gender=Masc|Number=Sing	11	det	_	_
@@ -54,7 +54,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	indétectable	_	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 7	s’	_	ADP	IN	_	10	mark	_	OrigForm=s'|SpaceAfter=No
 8	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	10	nsubj:pass	_	_
-9	est	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:pass	_	_
+9	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:pass	_	_
 10	fait	_	VERB	VBN	Gender=Masc|Number=Sing	6	advcl	_	_
 11	correctement	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
 12	.	_	PUNCT	.	_	6	punct	_	_
@@ -63,29 +63,31 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 13 advcl	color:blue
-1	Cependant	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	son	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	nmod:poss	_	_
-4	rival	_	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
-5	Prabowo	_	PROPN	NNP	Gender=Masc|Number=Sing	4	appos	_	_
-6	Subianto	_	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
-7	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-8	également	_	ADV	RB	_	9	advmod	_	_
-9	déclaré	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
-10	la	_	DET	DT	Gender=Fem|Number=Sing	11	det	_	_
-11	victoire	_	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
-12	,	_	PUNCT	,	_	13	punct	_	_
-13	laissant	_	AUX	VBG	VerbForm=Part	9	advcl	_	_
-14	les	_	DET	DT	Gender=Masc|Number=Plur	15	det	_	_
-15	citoyens	_	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
-16	indonésiens	_	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
-17	confus	_	ADJ	JJ	Gender=Masc|Number=Plur	13	xcomp	_	SpaceAfter=No
-18	.	_	PUNCT	.	_	9	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 advcl	color:blue
+1	Ce	_	PRON	PDEM	_	5	nsubj	_	_
+2	fut	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	certainement	_	ADV	RB	_	5	advmod	_	_
+4	le	_	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+5	cas	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+6	pour	_	ADP	IN	_	7	case	_	_
+7	Andy	_	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
+8	quand	_	SCONJ	WRB	_	11	mark	_	_
+9	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+10	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+11	joué	_	VERB	VBN	Gender=Masc|Number=Sing	5	advcl	_	_
+12	contre	_	ADP	IN	_	13	case	_	_
+13	Benoît	_	PROPN	NNP	Gender=Masc|Number=Sing	11	obl	_	_
+14	Paire	_	PROPN	NNP	Gender=Masc|Number=Sing	13	flat:name	_	_
+15	à	_	ADP	IN	_	16	case	_	_
+16	Monte	_	PROPN	NNP	Number=Sing	11	obl	_	_
+17	Carlo	_	PROPN	NNP	Number=Sing	16	flat:name	_	_
+18	en	_	ADP	IN	_	19	case	_	_
+19	avril	_	NOUN	NNP	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+20	.	_	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

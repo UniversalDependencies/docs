@@ -68,19 +68,9 @@ Examples: है, हैं, हो
 
 `AUX` nodes are attached to their parents using 3 different relations: <tt><a href="hi_pud-dep-aux.html">aux</a></tt> (1202; 68% instances), <tt><a href="hi_pud-dep-cop.html">cop</a></tt> (358; 20% instances), <tt><a href="hi_pud-dep-aux-pass.html">aux:pass</a></tt> (211; 12% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1237; 70% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (445; 25% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (63; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1240; 70% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (445; 25% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (64; 4% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt> (2; 0% instances)
 
-1767 (100%) `AUX` nodes are leaves.
+1771 (100%) `AUX` nodes are leaves.
 
-2 (0%) `AUX` nodes have one child.
-
-1 (0%) `AUX` nodes have two children.
-
-1 (0%) `AUX` nodes have three or more children.
-
-The highest child degree of a `AUX` node is 4.
-
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="hi_pud-dep-punct.html">punct</a></tt> (3; 38% instances), <tt><a href="hi_pud-dep-aux.html">aux</a></tt> (1; 13% instances), <tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 13% instances), <tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt> (1; 13% instances), <tt><a href="hi_pud-dep-obj.html">obj</a></tt> (1; 13% instances), <tt><a href="hi_pud-dep-obl.html">obl</a></tt> (1; 13% instances)
-
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 38% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 13% instances)
+The highest child degree of a `AUX` node is 0.
 

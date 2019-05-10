@@ -8,12 +8,36 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `dislocated`.
+3 nodes (0%) are attached to their parents as `dislocated`.
 
-2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.5.
+3 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 3 dislocated	color:blue
+1	Particularly	particularly	ADV	RB	_	3	advmod	3:advmod	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	lady	lady	NOUN	NN	Number=Sing	13	dislocated	5:nsubj|13:dislocated	_
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	3:ref	_
+5	operates	operate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+7	front	front	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	register	register	NOUN	NN	Number=Sing	5	obj	5:obj	SpaceAfter=No
+9	,	,	PUNCT	,	_	13	punct	13:punct	_
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	SpaceAfter=No
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+12	very	very	ADV	RB	_	13	advmod	13:advmod	_
+13	kind	kind	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+14	!	!	PUNCT	.	_	13	punct	13:punct	_
+
+~~~
 
 
 ~~~ conllu

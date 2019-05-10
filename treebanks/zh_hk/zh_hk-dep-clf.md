@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-103 nodes (1%) are attached to their parents as `clf`.
+116 nodes (1%) are attached to their parents as `clf`.
 
-103 instances of `clf` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00970873786408.
+116 instances of `clf` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00862068965517.
 
-The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (54; 52% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (37; 36% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (59; 51% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (43; 37% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (8; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

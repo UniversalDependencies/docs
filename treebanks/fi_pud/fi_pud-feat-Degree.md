@@ -11,12 +11,12 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 1525 tokens (10%) have a non-empty value of `Degree`.
 1249 types (16%) occur at least once with a non-empty value of `Degree`.
-773 lemmas (16%) occur at least once with a non-empty value of `Degree`.
+772 lemmas (16%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 5 part-of-speech tags: <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1022; 6% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (451; 3% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
-1022 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (89% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1022 <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (688; 67%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (33; 3% of non-empty `Degree`): <em>korkeampi, Afrikkalaisempaa, Myöhempinä, Suuremmilla, epätavallisempiin, harmonisemmaksi, huolestuttavamman, huolestuttavammat, hyödyllisempänä, järkevämmäksi</em>
 * `Pos` (928; 91% of non-empty `Degree`): <em>uuden, suuri, uusia, useita, lukuisia, pienen, erilaisia, korkean, mahdollista, poliittisen</em>
 * `Sup` (61; 6% of non-empty `Degree`): <em>suurin, suurimman, suurimmalla, tunnetuin, viimeisin, korkeimman, korkeimmassa, korkein, parhaassa, Kaukaisimmassa</em>
-* `EMPTY` (121): <em>viime, ensimmäinen, ensimmäisen, koko, ensimmäistä, eri, 1., 30., I, toinen</em>
+* `EMPTY` (117): <em>viime, ensimmäinen, ensimmäisen, koko, ensimmäistä, eri, 1., 30., I, toinen</em>
 
 <table>
   <tr><th>Paradigm <i>suuri</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>suuria</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (485) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (484) occur only with one value of `Degree`.
 
 ### `VERB`
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Pos` (449; 100% of non-empty `Degree`): <em>tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, olevaa, ollut, päättänyt</em>
 * `Sup` (2; 0% of non-empty `Degree`): <em>menestynein, myydyimmistään</em>
-* `EMPTY` (1580): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</em>
+* `EMPTY` (1566): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, johti, sai, syntyi</em>
 
 <table>
   <tr><th>Paradigm <i>myydä</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Degree` co-occurred
 `AUX` tokens may have the following values of `Degree`:
 
 * `Pos` (47; 100% of non-empty `Degree`): <em>ollut, olleet, olevan, oltu, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt</em>
-* `EMPTY` (762): <em>on, oli, ei, ovat, ole, voi, olivat, eivät, olisi, voisi</em>
+* `EMPTY` (779): <em>on, oli, ei, ovat, ole, voi, olivat, eivät, olisi, voisi</em>
 
 ### `ADV`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (2; 67% of non-empty `Degree`): <em>useammin, vahvemmin</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>laajimmin</em>
-* `EMPTY` (956): <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, hyvin, paljon, aina</em>
+* `EMPTY` (960): <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, hyvin, paljon, aina</em>
 
 ### `PROPN`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>Antarktista, Pyhän</em>
-* `EMPTY` (1502): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
+* `EMPTY` (1503): <em>of, Ranskan, Australian, Kiinan, Hong, Venäjän, Yhdysvaltain, de, the, Euroopan</em>
 
 ## Relations with Agreement in `Degree`
 

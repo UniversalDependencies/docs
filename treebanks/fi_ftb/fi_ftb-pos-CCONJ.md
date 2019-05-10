@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `CCONJ`
 
 There are 21 `CCONJ` lemmas (0%), 24 `CCONJ` types (0%) and 4776 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ja, mutta, tai, vai, vaan, sekä, eli, että, joko, kuin</em>
 
@@ -15,7 +15,7 @@ The 10 most frequent `CCONJ` types:  <em>ja, mutta, tai, vai, vaan, sekä, eli, 
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3230, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2), <em>mutta</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 604, <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>vaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 86), <em>eli</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 12), <em>että</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1772, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 3), <em>kuin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 647, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 23), <em>elikkä</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 4), <em>joskaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 204, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4), <em>joskin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3080, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2), <em>vaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73), <em>eli</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 5), <em>että</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1404, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2), <em>mut</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 3), <em>kuin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 615, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 23), <em>elikkä</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 1), <em>joskaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 134, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 65, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3), <em>joskin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3080, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 2), <em>vaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 126, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 73), <em>eli</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 5), <em>että</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1404, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2), <em>mut</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 3), <em>kuin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 615, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 23), <em>elikkä</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 1), <em>joskaan</em> (<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 134, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 65, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 3), <em>joskin</em> (<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 2)
 
 
 * <em>ja</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_ftb-pos-CCON
 * <em>että</em>
   * <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> 1404: <em>ei voi ajatellakhaa varhmaan <b>että</b> ne ikinä olis vakinaisia .</em>
   * <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 38: <em>Sekä työnantaja <b>että</b> työntekijät ovat tyytyväisiä tehtyihin sopimuksiin .</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2: <em>Minkä perkeleen takia työ <b>että</b> oo eronna ?</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2: <em>Minkä perkeleen takia työ <b>että</b> oo eronna ?</em>
 * <em>mut</em>
   * <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> 21: <em>No <b>mut</b> mä voin mennä kauppaan ku mä tuun .</em>
   * <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 3: <em>Suostuisit sä tapaamaan <b>mut</b> ?</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="fi_ftb-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 2.048675).
+The form / lemma ratio of `CCONJ` is 1.142857 (the average of all parts of speech is 2.050767).
 
 The 1st highest number of forms (3) was observed with the lemma “mutta”: <em>mut, mutt, mutta</em>.
 
@@ -74,19 +74,19 @@ Examples: <em>ja, mutta, tai, vai, vaan, sekä, eli, että, joko, kuin</em>
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-cc.html">cc</a></tt> (4726; 99% instances), <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (23; 0% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (14; 0% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (13; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2088; 44% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1524; 32% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (502; 11% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (306; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (136; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (118; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2096; 44% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1518; 32% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (502; 11% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (306; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (136; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (117; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
 4680 (98%) `CCONJ` nodes are leaves.
 
-94 (2%) `CCONJ` nodes have one child.
+93 (2%) `CCONJ` nodes have one child.
 
-1 (0%) `CCONJ` nodes have two children.
+2 (0%) `CCONJ` nodes have two children.
 
 1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (87; 88% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 12% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (88; 88% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 12% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (87; 88% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (12; 12% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (88; 88% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (12; 12% instances)
 

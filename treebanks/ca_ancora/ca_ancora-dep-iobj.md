@@ -10,8 +10,8 @@ This relation is universal.
 
 1537 nodes (0%) are attached to their parents as `iobj`.
 
-774 instances of `iobj` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.62589459986988.
+784 instances of `iobj` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.58750813272609.
 
 The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (679; 44% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (537; 35% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (195; 13% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (115; 7% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 2	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
 3	però	però	ADV	ADV	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
-5	es	ell	PRON	PRON	Person=3	6	iobj	_	_
+5	es	ell	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
 6	proposa	proposar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	augmentar	augmentar	VERB	VERB	VerbForm=Inf	6	xcomp	_	_
 8	ne	en	PRON	PRON	Person=3|PronType=Prs	7	obj	_	_
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 5 2 iobj	color:blue
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	peregrinació	peregrinació	NOUN	NOUN	Gender=Fem|Number=Sing	5	iobj	_	_
-3	l'	ell	PRON	PRON	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+3	l'	ell	PRON	PRON	Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 4	ha	haver	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	organitzat	organitzar	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

@@ -123,6 +123,5 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>ADJ --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (52; 61%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (52; 61%).
 

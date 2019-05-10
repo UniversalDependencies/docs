@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	bien	_	ADV	RB	_	6	advmod	_	_
 3	sûr	_	ADJ	JJ	Gender=Masc|Number=Sing	2	fixed	_	_
 4	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
-5	y	_	PRON	PRP	Person=3	6	advmod	_	_
+5	y	_	PRON	PRP	Person=3	6	expl	_	_
 6	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	Bob	_	PROPN	NNP	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	_	PUNCT	,	_	10	punct	_	_

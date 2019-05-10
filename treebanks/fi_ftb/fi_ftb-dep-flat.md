@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1 2 flat	color:blue
 1	Seppo	seppo	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	4	nsubj	_	Alt=name
 2	Räty	räty	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	1	flat	_	_
-3	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+3	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	saattanut	saattaa	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	seppouden	seppous	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	4	obj	_	_
 6	lakipisteeseen	lakipiste	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	4	nmod	_	_
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	Organ	organ	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	flat	_	Alt=name
 5	Blasterin	blaster	PROPN	N,Prop,Sg,Gen	Case=Gen|Number=Sing	3	flat	_	Alt=6_nmod
 6	kappaleen	kappale	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	2	obj	_	_
-7	BWV	bwv	PROPN	N,Abbr,Prop,Sg,Nom	Abbr=Yes|Case=Nom|Number=Sing	6	nummod	_	Alt=name
+7	BWV	bwv	PROPN	N,Abbr,Prop,Sg,Nom	Abbr=Yes|Case=Nom|Number=Sing	6	nmod	_	Alt=name|Was18propnum=nummod
 8	680	680	NUM	Num,Card	NumType=Card	7	flat	_	_
 
 ~~~

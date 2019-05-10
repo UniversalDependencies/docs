@@ -203,7 +203,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Loc` (1; 20% of non-empty `Case`): <em>бывшем</em>
 * `Nom` (4; 80% of non-empty `Case`): <em>бывшие, бывший</em>
-* `EMPTY` (8140): <em>было, был, были, будет, была, быть, будут, есть, будем, буду</em>
+* `EMPTY` (9664): <em>было, был, бы, были, будет, была, быть, будут, есть, будем</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Nom</tt></th><th><tt>Loc</tt></th></tr>
@@ -215,13 +215,13 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80316; 100%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20712; 87%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18293; 96%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7171; 90%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20716; 87%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18306; 96%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7172; 90%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5326; 99%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3568; 98%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3454; 78%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3570; 98%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3460; 78%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> VERB</tt> (3419; 100%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2078; 98%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2081; 98%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1745; 70%).
 

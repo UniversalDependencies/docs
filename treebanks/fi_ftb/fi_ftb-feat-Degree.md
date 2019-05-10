@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (440; 51% of non-empty `Degree`): <em>parempi, suurempi, vanhempi, mukavampi, parempaa, pienempiä, pitempi, aiempien, aikaisempaa, isompi</em>
 * `Sup` (430; 49% of non-empty `Degree`): <em>suurin, parasta, paras, mahdollisimman, parhaat, pahin, nopein, suurimman, suurimmat, tärkeintä</em>
-* `EMPTY` (9624): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
+* `EMPTY` (9621): <em>koko, hyvä, viime, ensi, hyvää, uusi, oma, ensimmäinen, uutta, uuden</em>
 
 <table>
   <tr><th>Paradigm <i>uusi</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (366; 80% of non-empty `Degree`): <em>enemmän, myöhemmin, paremmin, vähemmän, aikaisemmin, enempää, aiemmin, mieluummin, helpommin, ennemmin</em>
 * `Sup` (94; 20% of non-empty `Degree`): <em>eniten, parhaiten, vähiten, Pahiten, useimmiten, mieluiten, ilmeisimmin, lähinnä, mieluimmin, pahimmillaan</em>
-* `EMPTY` (9744): <em>nyt, aina, paljon, siellä, täällä, hyvin, miten, niin, vähän, sitten</em>
+* `EMPTY` (9673): <em>nyt, aina, paljon, siellä, täällä, hyvin, miten, vähän, sitten, sinne</em>
 
 <table>
   <tr><th>Paradigm <i>mieluimmin</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 * `Cmp` (8; 53% of non-empty `Degree`): <em>useampia, useampien, harvemman, useammalle, useamman, useampiakin</em>
 * `Sup` (7; 47% of non-empty `Degree`): <em>useimmat, Useimmilla, useimpien</em>
-* `EMPTY` (10557): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
+* `EMPTY` (10633): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
 
 <table>
   <tr><th>Paradigm <i>usea</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -133,7 +133,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>korostavampana</em>
-* `EMPTY` (33812): <em>on, ei, oli, en, ole, voi, ovat, olla, olisi, ollut</em>
+* `EMPTY` (26438): <em>on, oli, ole, olla, tuli, ollut, tulee, ei, sanoi, tehdä</em>
 
 ## Relations with Agreement in `Degree`
 

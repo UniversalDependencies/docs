@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="no_bokmaal-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.381975).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.381919).
 
 The 1st highest number of forms (1) was observed with the lemma “32”: <em>32</em>.
 
@@ -76,15 +76,15 @@ The 3rd highest number of forms (1) was observed with the lemma “Annan”: <em
 
 Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (478; 66% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (156; 21% instances),  (51; 7% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-641 (88%) `X` nodes are leaves.
+592 (82%) `X` nodes are leaves.
 
-3 (0%) `X` nodes have one child.
+53 (7%) `X` nodes have one child.
 
-9 (1%) `X` nodes have two children.
+7 (1%) `X` nodes have two children.
 
-73 (10%) `X` nodes have three or more children.
+74 (10%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 46.
+The highest child degree of a `X` node is 41.
 
 Children of `X` nodes are attached using 12 different relations: <tt><a href="no_bokmaal-dep-flat-foreign.html">flat:foreign</a></tt> (481; 65% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (218; 30% instances), <tt><a href="no_bokmaal-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (10; 1% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (1; 0% instances)
 

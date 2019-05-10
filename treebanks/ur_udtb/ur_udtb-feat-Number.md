@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 84119 tokens (61%) have a non-empty value of `Number`.
 8940 types (83%) occur at least once with a non-empty value of `Number`.
-7829 lemmas (82%) occur at least once with a non-empty value of `Number`.
+7828 lemmas (82%) occur at least once with a non-empty value of `Number`.
 The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32533; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17037; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10631; 8% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (8742; 6% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (7794; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4100; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1891; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (825; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (444; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (46; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances).
 
 ### `NOUN`
@@ -417,13 +417,13 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7970; 98%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4396; 69%),
-<tt>VERB --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (3041; 54%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4393; 69%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4113; 50%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2501; 55%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2427; 83%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1944; 86%),
-<tt>AUX --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (1833; 73%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1686; 72%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1394; 50%),
-<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1254; 95%).
+<tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1254; 95%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1238; 72%).
 

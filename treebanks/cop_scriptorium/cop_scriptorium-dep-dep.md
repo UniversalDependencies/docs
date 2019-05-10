@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `dep`.
+15 nodes (0%) are attached to their parents as `dep`.
 
-8 instances of `dep` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.35714285714286.
+9 instances of `dep` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.66666666666667.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (5; 36% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 21% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (6; 40% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (4; 27% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (3; 20% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

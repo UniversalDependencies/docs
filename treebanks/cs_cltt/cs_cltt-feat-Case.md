@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-23293 tokens (65%) have a non-empty value of `Case`.
+23260 tokens (65%) have a non-empty value of `Case`.
 3471 types (74%) occur at least once with a non-empty value of `Case`.
 1533 lemmas (57%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6406; 18% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3938; 11% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1004; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (631; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6406; 18% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3938; 11% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (971; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (631; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
 ### `NOUN`
 
@@ -84,18 +84,18 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `DET`
 
-1004 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Case`.
+971 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (953; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (630; 63%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (944; 97%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (944; 97%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (920; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (597; 61%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (152; 15% of non-empty `Case`): <em>to, které, tuto, kterou, tyto, všechny, který, její, každou, tento</em>
+* `Acc` (126; 13% of non-empty `Case`): <em>které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</em>
 * `Dat` (53; 5% of non-empty `Case`): <em>kterému, kterým, této, tomu, takovému, jejímu, které, tomuto, téže, těmto</em>
-* `Gen` (221; 22% of non-empty `Case`): <em>tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</em>
+* `Gen` (221; 23% of non-empty `Case`): <em>tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</em>
 * `Ins` (61; 6% of non-empty `Case`): <em>kterým, tímto, tím, touto, kterou, kterými, jejím, jejímž, několika, svým</em>
-* `Loc` (93; 9% of non-empty `Case`): <em>kterém, tomto, kterých, které, těchto, této, jejím, tom, jakém, své</em>
-* `Nom` (424; 42% of non-empty `Case`): <em>které, která, který, tyto, tato, tento, to, toto, její, všechna</em>
+* `Loc` (93; 10% of non-empty `Case`): <em>kterém, tomto, kterých, které, těchto, této, jejím, tom, jakém, své</em>
+* `Nom` (417; 43% of non-empty `Case`): <em>které, která, který, tyto, tato, tento, to, toto, její, všechna</em>
 * `EMPTY` (190): <em>jejich, jeho, jejichž, její, jehož, jejíž, t</em>
 
 <table>
@@ -166,11 +166,11 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5967; 98%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3163; 93%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1468; 81%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (451; 70%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (453; 70%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (258; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (187; 88%),
 <tt>DET --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (110; 94%),
 <tt>PRON --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (83; 100%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (42; 63%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (42; 64%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (21; 68%).
 

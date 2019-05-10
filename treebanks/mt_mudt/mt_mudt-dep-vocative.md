@@ -40,7 +40,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Mr	_	X	X_ENG	_	5	vocative	_	_
 2	Chairman	_	X	X_ENG	_	1	flat	_	SpaceAfter=No
 3	,	_	PUNCT	X_PUN	_	1	punct	_	_
-4	m'	_	PART	NEG	_	5	aux:neg	_	SpaceAfter=No
+4	m'	_	PART	NEG	_	5	advmod:neg	_	SpaceAfter=No
 5	għandi	_	VERB	VERB_PSEU	_	0	root	_	_
 6	ebda	_	DET	QUAN	_	7	det	_	_
 7	diffikultà	_	NOUN	NOUN	_	5	obj	_	SpaceAfter=No

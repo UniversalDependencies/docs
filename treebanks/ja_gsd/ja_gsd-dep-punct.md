@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19033 nodes (10%) are attached to their parents as `punct`.
+19255 nodes (10%) are attached to their parents as `punct`.
 
-17646 instances of `punct` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.19534492723165.
+17860 instances of `punct` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18140742664243.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (9104; 48% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (6821; 36% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1153; 6% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1131; 6% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (376; 2% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (188; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (117; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (114; 1% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (9104; 47% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (6950; 36% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1242; 6% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1135; 6% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (375; 2% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (189; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (130; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (114; 1% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No
@@ -84,7 +84,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 punct	color:blue
-1	麺棒	麺棒	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
+1	麺棒	麺棒	NOUN	NN	_	16	dislocated	_	SpaceAfter=No
 2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
 3	直径	直径	PART	XPC	_	6	compound	_	SpaceAfter=No
 4	2	2	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No

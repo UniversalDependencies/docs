@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Belarusian-HSE: Relations: `nummod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nummod`: <tt><a href="be_hse-dep-nummod-gov.html">nummod:gov</a></tt>.
+There are 2 language-specific subtypes of `nummod`: <tt><a href="be_hse-dep-nummod-entity.html">nummod:entity</a></tt>, <tt><a href="be_hse-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-45 nodes (1%) are attached to their parents as `nummod`.
+40 nodes (0%) are attached to their parents as `nummod`.
 
-43 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31111111111111.
+39 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (32; 71% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (3; 7% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (33; 83% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (5; 13% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -38,27 +38,30 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 nummod	color:blue
-1	Пры	пры	ADP	IN	_	2	case	_	_
-2	гэтым	гэта	PRON	DT	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-3	характэрны	характэрны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-4	рост	рост	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-5	рублёвых	рублёвы	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
-6	укладаў	уклад	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
-7	(	(	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
-8	на	на	ADP	IN	_	11	case	_	_
-9	2,5	2,5	NUM	CD	NumType=Card	10	compound	_	_
-10	трлн	трлн	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nummod	_	_
-11	рублёў	рубель	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	parataxis	_	_
-12	за	за	ADP	IN	_	14	case	_	_
-13	два	два	NUM	CD	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	14	nummod:gov	_	_
-14	месяцы	месяц	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	parataxis	_	SpaceAfter=No
-15	)	)	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
-16	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 nummod	color:blue
+1	Па	па	ADP	IN	_	2	case	_	_
+2	паведамленні	паведамленне	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+3	УКДБ	УКДБ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	2	punct	_	_
+5	у	у	ADP	IN	_	6	case	_	_
+6	асноўным	асноўнае	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+7	у	у	ADP	IN	_	8	case	_	_
+8	галіне	галіна	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+9	ўкладчыкі	ўкладчык	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+10	ўносілі	ўносіць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	ў	ў	ADP	IN	_	12	case	_	_
+12	набыццё	набыццё	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+13	акцый	акцыя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+14	сумы	сума	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obj	_	_
+15	да	да	ADP	IN	_	18	case	_	_
+16	10	10	NUM	CD	Case=Gen|NumType=Card	17	compound	_	_
+17	тыс.	тыс.	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nummod	_	_
+18	даляраў	даляр	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 
@@ -83,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	склала	скласцi	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
 13	каля	каля	ADP	IN	_	15	case	_	_
 14	11	11	NUM	CD	Case=Gen|NumType=Card	15	nummod	_	SpaceAfter=No
-15	°С	°с	X	X	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+15	°С	°с	SYM	SYM	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

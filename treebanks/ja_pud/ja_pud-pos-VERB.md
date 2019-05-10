@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `VERB`
 
-There are 942 `VERB` lemmas (17%), 1122 `VERB` types (19%) and 2420 `VERB` tokens (9%).
+There are 941 `VERB` lemmas (17%), 1121 `VERB` types (19%) and 2419 `VERB` tokens (9%).
 Out of 15 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: ある, する, なる, できる, 言う, よる, 見る, 述べる, いる, 持つ
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  し (<tt><a href="ja_pud-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.191083 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `VERB` is 1.191286 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (5) was observed with the lemma “なる”: なっ, なら, なり, なる, なれ.
 
@@ -65,21 +65,21 @@ The 3rd highest number of forms (5) was observed with the lemma “行う”: �
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-root.html">root</a></tt> (843; 35% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (822; 34% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (587; 24% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (92; 4% instances), <tt><a href="ja_pud-dep-ccomp.html">ccomp</a></tt> (44; 2% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (21; 1% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (10; 0% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (1; 0% instances)
+`VERB` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-root.html">root</a></tt> (842; 35% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (819; 34% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (588; 24% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (92; 4% instances), <tt><a href="ja_pud-dep-ccomp.html">ccomp</a></tt> (44; 2% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (21; 1% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (10; 0% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (3; 0% instances)
 
-Parents of `VERB` nodes belong to 11 different parts of speech:  (843; 35% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (824; 34% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (622; 26% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (79; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (38; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `VERB` nodes belong to 12 different parts of speech:  (842; 35% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (822; 34% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (602; 25% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (79; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (39; 2% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (21; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-57 (2%) `VERB` nodes are leaves.
+56 (2%) `VERB` nodes are leaves.
 
-136 (6%) `VERB` nodes have one child.
+137 (6%) `VERB` nodes have one child.
 
-270 (11%) `VERB` nodes have two children.
+272 (11%) `VERB` nodes have two children.
 
-1957 (81%) `VERB` nodes have three or more children.
+1954 (81%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 13.
 
-Children of `VERB` nodes are attached using 18 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (3028; 28% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1350; 13% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1167; 11% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (970; 9% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (968; 9% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (892; 8% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (781; 7% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (684; 6% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (395; 4% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (236; 2% instances), <tt><a href="ja_pud-dep-ccomp.html">ccomp</a></tt> (68; 1% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (62; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (61; 1% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (14; 0% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (11; 0% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
+Children of `VERB` nodes are attached using 17 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (2839; 27% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1355; 13% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1137; 11% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (1079; 10% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (967; 9% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (964; 9% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (784; 7% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (685; 6% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (394; 4% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (235; 2% instances), <tt><a href="ja_pud-dep-ccomp.html">ccomp</a></tt> (68; 1% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (62; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (61; 1% instances), <tt><a href="ja_pud-dep-dislocated.html">dislocated</a></tt> (41; 0% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (14; 0% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (10; 0% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (3; 0% instances)
 
-Children of `VERB` nodes belong to 13 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (3131; 29% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2916; 27% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1354; 13% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (850; 8% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (824; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (471; 4% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (395; 4% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (249; 2% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (216; 2% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (163; 2% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (8; 0% instances)
+Children of `VERB` nodes belong to 13 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (2948; 28% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2914; 27% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1355; 13% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1037; 10% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (822; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (473; 4% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (394; 4% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (256; 2% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (214; 2% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (163; 2% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (74; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (42; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances)
 

@@ -166,7 +166,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 * `Dual` (91; 2% of non-empty `Number`): <em>oba, obeh, obe, obema, svoja, njuni, ta, KATERIH, Moja, Njegova</em>
 * `Plur` (1192; 27% of non-empty `Number`): <em>vse, vseh, vsi, te, teh, katerih, svoje, svojih, nekatere, ti</em>
 * `Sing` (3187; 71% of non-empty `Number`): <em>to, tem, ta, tega, vse, svojo, svoje, katerem, vsak, svoj</em>
-* `EMPTY` (782): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
+* `EMPTY` (784): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
 
 <table>
   <tr><th>Paradigm <i>ta</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>

@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Abs` (84; 100% of non-empty `Degree`): <em>bellissimo, bellissima, bravissimo, felicissima, gentilissimo, grandissima, grandissimo, bellissime, bravissimi, dolcissimo</em>
-* `EMPTY` (4897): <em>nuovo, grande, bella, buon, buona, primo, vero, nuova, prima, giusto</em>
+* `EMPTY` (4901): <em>nuovo, grande, bella, buon, buona, primo, vero, nuova, prima, giusto</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `Degree`.
 

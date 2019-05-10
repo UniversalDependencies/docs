@@ -8,71 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-414 nodes (0%) are attached to their parents as `fixed`.
+498 nodes (1%) are attached to their parents as `fixed`.
 
-414 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13526570048309.
+492 instances of `fixed` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13855421686747.
 
-The following 27 pairs of parts of speech are connected with `fixed`: <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (141; 34% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (71; 17% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (62; 15% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (33; 8% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (26; 6% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (14; 3% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (8; 2% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `fixed`: <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (158; 32% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (75; 15% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (72; 14% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (36; 7% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (28; 6% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (12; 2% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (8; 2% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (8; 2% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 fixed	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Zemlji	zemlja	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
-3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	cop	_	_
-4	potrebni	potreban	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
-5	političari	političar	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-6	kao	kao	SCONJ	_	_	8	mark	_	_
-7	što	što	SCONJ	_	_	6	fixed	_	_
-8	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	acl	_	_
-9	Komšić	Komšić	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+2	Moj	moj	DET	Ps1msn	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	život	život	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	nije	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	kao	kao	SCONJ	Cs	_	8	mark	_	_
+6	što	što	SCONJ	Cs	_	5	fixed	_	_
+7	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	bio	biti	AUX	Vap-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
+9	pre	pre	ADV	Rgp	Degree=Pos	8	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 fixed	color:blue
-1	Lokalna	lokalan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	vlast	vlast	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-3	Novog	nov	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	Sada	Sad	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-5	finansijski	finansijski	ADV	_	Degree=Pos	7	advmod	_	_
-6	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
-7	podržala	podržati	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-8	festival	festival	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	_
-10	baš	baš	ADV	_	Degree=Pos	11	advmod	_	_
-11	kao	kao	SCONJ	_	_	14	cc	_	_
-12	i	i	CCONJ	_	_	11	fixed	_	_
-13	savezna	savezni	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
-14	vlast	vlast	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	Reči	reč	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+2	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	postale	postati	VERB	Vmp-pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	roba	roba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	_
+5	kao	kao	SCONJ	Cs	_	7	cc	_	_
+6	i	i	CCONJ	Cc	_	5	fixed	_	_
+7	sve	sav	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	1	conj	_	_
+8	drugo	drugi	ADJ	Mlonsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Da	da	SCONJ	_	_	4	mark	_	_
-2	li	li	PART	_	_	1	fixed	_	_
-3	Turska	Turska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-4	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-5	sama	sam	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 2 3 fixed	color:blue
+1	"	"	PUNCT	Z	_	5	punct	_	SpaceAfter=No
+2	Da	da	SCONJ	Cs	_	5	mark	_	_
+3	li	li	PART	Qq	_	2	fixed	_	_
+4	to	taj	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+5	znači	značiti	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	da	da	SCONJ	Cs	_	10	mark	_	_
+7	smo	biti	AUX	Var1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	potpuno	potpuno	ADV	Rgp	Degree=Pos	10	advmod	_	_
+9	van	van	ADP	Sg	Case=Gen	10	case	_	_
+10	opasnosti	opasnost	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	ccomp	_	SpaceAfter=No
+11	?	?	PUNCT	Z	_	5	punct	_	_
 
 ~~~
 

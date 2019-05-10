@@ -11,7 +11,7 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 131845 tokens (12%) have a non-empty value of `VerbForm`.
 33902 types (29%) occur at least once with a non-empty value of `VerbForm`.
-7832 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
+7830 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123700; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8145; 1% instances).
 
 ### `VERB`
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-8145 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+8145 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8145; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8145; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7346; 90%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6063; 74%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5491; 67%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5296; 65%).
 
@@ -55,6 +55,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (7373; 91% of non-empty `VerbForm`): <em>было, был, были, будет, была, будут, есть, будем, буду, будь</em>
 * `Inf` (721; 9% of non-empty `VerbForm`): <em>быть</em>
 * `Part` (5; 0% of non-empty `VerbForm`): <em>бывшие, бывший, бывшем</em>
+* `EMPTY` (1524): <em>бы, б</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -88,6 +89,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (6; 55%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> VERB</tt> (2; 100%).
 

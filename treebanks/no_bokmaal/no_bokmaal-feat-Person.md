@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (5011; 28% of non-empty `Person`): <em>jeg, vi, meg, oss, mæ, Eg, mig, æ</em>
 * `2` (880; 5% of non-empty `Person`): <em>du, deg, dere</em>
 * `3` (12257; 68% of non-empty `Person`): <em>det, han, de, hun, dette, den, noe, dem, ham, alt</em>
-* `EMPTY` (7807): <em>som, seg, man, sin, hva, sine, hans, sitt, min, vår</em>
+* `EMPTY` (7814): <em>som, seg, man, sin, hva, sine, hans, sitt, min, vår</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
 

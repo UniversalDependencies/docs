@@ -108,8 +108,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 14	ème	_	X	GW	_	13	goeswith	_	_
 15	siècle	_	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 16	,	_	PUNCT	,	_	10	punct	_	_
-17	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
-18	été	_	VERB	VBN	Gender=Masc|Number=Sing	19	aux:pass	_	_
+17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
+18	été	_	AUX	VBN	Gender=Masc|Number=Sing	19	aux:pass	_	_
 19	remis	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 20	en	_	ADP	IN	_	21	case	_	_
 21	état	_	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_

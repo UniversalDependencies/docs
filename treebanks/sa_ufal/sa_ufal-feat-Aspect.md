@@ -23,7 +23,12 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (26; 100% of non-empty `Aspect`): आह, प्रोवाच, उवाच, प्राह, बभूवुः, आजगाम, ऊचे, चकार, निषसाद, प्रोचुः
-* `EMPTY` (289): अब्रवीत्, भवति, उक्तं, गत्वा, करिष्यामि, श्रुत्वा, आरब्धम्, उच्यते, करोमि, अनुष्ठीयताम्
+* `EMPTY` (288): अब्रवीत्, भवति, उक्तं, गत्वा, करिष्यामि, श्रुत्वा, आरब्धम्, उच्यते, करोमि, अनुष्ठीयताम्
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Aspect`.
+
+## Relations with Agreement in `Aspect`
+
+The 10 most frequent relations where parent and child node agree in `Aspect`:
+<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

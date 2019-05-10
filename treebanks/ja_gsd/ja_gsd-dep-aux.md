@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22211 nodes (12%) are attached to their parents as `aux`.
+21416 nodes (12%) are attached to their parents as `aux`.
 
-22211 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76417090630769.
+21416 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75158759805753.
 
-The following 15 pairs of parts of speech are connected with `aux`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (18256; 82% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2426; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (672; 3% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (666; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (43; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (18243; 85% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2426; 11% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (666; 3% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 15 pairs of parts of speech are connected with `aux`: <tt><a href=
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No
@@ -83,23 +83,19 @@ The following 15 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 aux	color:blue
-1	これら	これら	PRON	NP	_	4	nsubj	_	SpaceAfter=No
-2	が	が	ADP	PS	_	1	case	_	SpaceAfter=No
-3	順に	順に	ADV	RB	_	4	advmod	_	SpaceAfter=No
-4	収縮	収縮	VERB	VV	_	12	advcl	_	SpaceAfter=No
-5	する	する	AUX	XV	_	4	aux	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	4	aux	_	SpaceAfter=No
-7	で	で	ADP	PS	_	4	case	_	SpaceAfter=No
-8	食物	食物	NOUN	NN	_	12	obj	_	SpaceAfter=No
-9	を	を	ADP	PS	_	8	case	_	SpaceAfter=No
-10	胃	胃	NOUN	NN	_	12	iobj	_	SpaceAfter=No
-11	に	に	ADP	PS	_	10	case	_	SpaceAfter=No
-12	送り出す	送り出す	VERB	VV	_	14	acl	_	SpaceAfter=No
-13	ような	ようだ	AUX	AV	_	12	aux	_	SpaceAfter=No
-14	動き	動き	NOUN	NN	_	16	obj	_	SpaceAfter=No
-15	を	を	ADP	PS	_	14	case	_	SpaceAfter=No
-16	する	する	VERB	VV	_	0	root	_	SpaceAfter=No
-17	。	。	PUNCT	SYM	_	16	punct	_	SpaceAfter=No
+1	姉	姉	NOUN	NN	_	3	obl	_	SpaceAfter=No
+2	と	と	ADP	PS	_	1	case	_	SpaceAfter=No
+3	同じ	同じ	ADJ	JN	_	4	acl	_	SpaceAfter=No
+4	先生	先生	NOUN	NN	_	10	advcl	_	SpaceAfter=No
+5	だっ	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
+6	た	た	AUX	AV	_	4	aux	_	SpaceAfter=No
+7	ので	ので	SCONJ	PC	_	4	mark	_	SpaceAfter=No
+8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
+9	話	話	NOUN	NN	_	10	obl	_	SpaceAfter=No
+10	やすかっ	やすい	ADJ	JJ	_	0	root	_	SpaceAfter=No
+11	た	た	AUX	AV	_	10	aux	_	SpaceAfter=No
+12	です	だ	AUX	AV	_	10	cop	_	SpaceAfter=No
+13	。	。	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

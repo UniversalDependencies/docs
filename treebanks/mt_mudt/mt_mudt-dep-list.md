@@ -8,20 +8,20 @@ udver: '2'
 
 This relation is universal.
 
-178 nodes (0%) are attached to their parents as `list`.
+238 nodes (1%) are attached to their parents as `list`.
 
-122 instances of `list` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.92696629213483.
+182 instances of `list` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.49579831932773.
 
-The following 24 pairs of parts of speech are connected with `list`: <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (48; 27% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (28; 16% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (27; 15% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (14; 8% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (7; 4% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (5; 3% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (5; 3% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (5; 3% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `list`: <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (100; 42% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (28; 12% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (27; 11% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (17; 7% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (14; 6% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (7; 3% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (6; 3% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (5; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 10 list	color:blue
+# visual-style 8 9 list	color:blue
 1	Fil-	_	ADP	PREP_DEF	_	2	case:det	_	SpaceAfter=No
 2	kuntest	_	NOUN	NOUN	_	6	obl	_	_
 3	generali	_	ADJ	ADJ	_	2	amod	_	SpaceAfter=No
@@ -30,17 +30,17 @@ The following 24 pairs of parts of speech are connected with `list`: <tt><a href
 6	issir	_	VERB	VERB	_	0	root	_	_
 7	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 8	a	_	SYM	X_BOR	_	6	xcomp	_	_
-9	*	_	PUNCT	X_PUN	_	8	punct	_	_
+9	*	_	SYM	X_PUN	_	8	list	_	_
 10	b	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
 11	)	_	PUNCT	X_PUN	_	8	punct	_	_
-12	*	_	PUNCT	X_PUN	_	8	punct	_	_
+12	*	_	SYM	X_PUN	_	8	list	_	_
 13	c	_	SYM	X_BOR	_	8	list	_	_
-14	=	_	PUNCT	X_PUN	_	8	punct	_	_
+14	=	_	SYM	X_PUN	_	8	list	_	_
 15	a	_	SYM	X_BOR	_	8	list	_	_
-16	*	_	PUNCT	X_PUN	_	8	punct	_	_
+16	*	_	SYM	X_PUN	_	8	list	_	_
 17	(	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 18	b	_	SYM	X_BOR	_	8	list	_	_
-19	*	_	PUNCT	X_PUN	_	8	punct	_	_
+19	*	_	SYM	X_PUN	_	8	list	_	_
 20	c	_	SYM	X_BOR	_	8	list	_	SpaceAfter=No
 21	)	_	PUNCT	X_PUN	_	8	punct	_	SpaceAfter=No
 22	.	_	PUNCT	X_PUN	_	6	punct	_	_

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-PRON.
 
 ### `PRON`
 
-5596 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
+5596 <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5525; 99%), <tt><a href="nl_alpino-feat-Person.html">Person</a></tt><tt>=3</tt> (2817; 50%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Dat` (4; 0% of non-empty `Case`): <em>dien, dezen</em>
 * `Gen` (2; 0% of non-empty `Case`): <em>uwer, zijner</em>
 * `Nom` (4185; 75% of non-empty `Case`): <em>hij, ik, we, men, je, zij, wij, u, jij, ie</em>
-* `EMPTY` (8044): <em>die, het, dat, zijn, wat, ze, wie, meer, hun, haar</em>
+* `EMPTY` (7718): <em>die, het, dat, zijn, wat, ze, wie, hun, haar, dit</em>
 
 <table>
   <tr><th>Paradigm <i>je</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

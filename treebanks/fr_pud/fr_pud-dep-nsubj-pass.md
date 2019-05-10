@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="fr_pud-dep-nsubj.ht
 200 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 199 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.38.
+Average distance between parent and child is 5.36.
 
-The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (129; 65% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (46; 23% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (18; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (130; 65% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (47; 24% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (20; 10% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,9 +25,9 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Auparavant	_	ADV	RB	_	7	advmod	_	_
 2	les	_	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
 3	jets	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
-4	avaient	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
+4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
 5	seulement	_	ADV	RB	_	7	advmod	_	_
-6	été	_	VERB	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
+6	été	_	AUX	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
 7	vus	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 8	par	_	ADP	IN	_	10	case	_	_
 9	des	_	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	indétectable	_	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 7	s’	_	ADP	IN	_	10	mark	_	OrigForm=s'|SpaceAfter=No
 8	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	10	nsubj:pass	_	_
-9	est	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:pass	_	_
+9	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:pass	_	_
 10	fait	_	VERB	VBN	Gender=Masc|Number=Sing	6	advcl	_	_
 11	correctement	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
 12	.	_	PUNCT	.	_	6	punct	_	_
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	changea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	lorsque	_	SCONJ	IN	_	8	mark	_	_
 6	Julien	_	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
-7	fut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux:pass	_	_
+7	fut	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux:pass	_	_
 8	tué	_	VERB	VBN	Gender=Masc|Number=Sing	4	advcl	_	_
 9	à	à	ADP	INDT	_	11	case	_	_
 10	le	le	DET	_	Gender=Masc|Number=Sing	11	det	_	_

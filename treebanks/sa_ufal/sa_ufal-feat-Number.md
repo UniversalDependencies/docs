@@ -12,7 +12,7 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 1112 tokens (60%) have a non-empty value of `Number`.
 789 types (74%) occur at least once with a non-empty value of `Number`.
 564 lemmas (73%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (436; 24% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (261; 14% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (169; 9% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (78; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (72; 4% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (65; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (436; 24% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (260; 14% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (169; 9% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (78; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (72; 4% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (65; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -40,15 +40,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-261 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
+260 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (163; 62%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (163; 62%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (163; 62%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (136; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (162; 62%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (135; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (5; 2% of non-empty `Number`): आरब्धौ, उत्पन्नौ, ऐव, वोढारौ, स्थितौ
 * `Plur` (28; 11% of non-empty `Number`): बभूवुः, अलब्धाः, इष्यन्ते, कर्तव्याः, कुर्वन्ति, गच्छन्ति, चिन्तनीयाः, जायन्ते, जीवन्ति, ज्ञायन्ते
-* `Sing` (228; 87% of non-empty `Number`): अब्रवीत्, आह, भवति, उक्तं, करिष्यामि, आरब्धम्, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
+* `Sing` (227; 87% of non-empty `Number`): अब्रवीत्, आह, भवति, उक्तं, करिष्यामि, आरब्धम्, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
 * `EMPTY` (54): गत्वा, श्रुत्वा, आदाय, आलोक्य, आहूय, कर्तुम्, कृत, मृत, समालोक्य, अधीत्य
 
 <table>
@@ -163,13 +163,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-15 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
+16 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 93%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 87%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 87%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 80%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 94%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 88%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14; 88%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 81%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Sing` (15; 100% of non-empty `Number`): अस्ति, अस्तु, अस्मि, भवति, सत्त्वम्, स्यात्
+* `Sing` (16; 100% of non-empty `Number`): अस्ति, अस्तु, अस्मि, भवति, सत्त्वम्, स्यात्
 
 ### `NUM`
 
@@ -206,7 +206,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="sa_ufal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (57; 66%),
+<tt>VERB --[<tt><a href="sa_ufal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (60; 65%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (51; 86%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-det.html">det</a></tt>]--> DET</tt> (46; 92%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 98%),

@@ -9,7 +9,7 @@ udver: '2'
 There are 3 `X` lemmas (0%), 4 `X` types (0%) and 6 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_, báwò, ni</em>
+The 10 most frequent `X` lemmas: <em>_, báwò, ni</em>
 
 The 10 most frequent `X` types:  <em></>, <>, bawo, ni</em>
 
@@ -19,8 +19,8 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="bm_crb-pos-SCON
 
 
 * <em>ni</em>
-  * <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 88: <em>a bè a fò ko <b>ni</b> i sera ka o tògò fò , n bè a furu i ma .</em>
-  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 51: <em>a bè a ta ka yèlèn <b>ni</b> a ye san fè .</em>
+  * <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 88: <em>a bè a fò ko <b>ni</b> i sera ka o tògò fò , n bè a furu i ma .</em>
+  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 51: <em>a bè a ta ka yèlèn <b>ni</b> a ye san fè .</em>
   * <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 31: <em>u <b>ni</b> dugu kolakalilaba dɔ don , ko Mɛnkɔrɔ .</em>
   * <tt><a href="bm_crb-pos-X.html">X</a></tt> 1: <em><> Den ɲuman <b>ni</b> Kɔnɔnin </></em>
 
@@ -30,7 +30,7 @@ The form / lemma ratio of `X` is 1.333333 (the average of all parts of speech is
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em></>, <></em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “báwò”: <em>bawo</em>.
+The 2nd highest number of forms (1) was observed with the lemma “báwò”: <em>bawo</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “ni”: <em>ni</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-nummod.html">nummod</a></tt>.
 
-413 nodes (0%) are attached to their parents as `nummod:gov`.
+432 nodes (0%) are attached to their parents as `nummod:gov`.
 
-397 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57384987893462.
+416 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58564814814815.
 
-The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (403; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (422; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

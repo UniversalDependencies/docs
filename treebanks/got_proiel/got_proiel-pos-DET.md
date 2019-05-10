@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>sa</em> (<tt><a href="got_proiel-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.666667 (the average of all parts of speech is 2.624779).
+The form / lemma ratio of `DET` is 5.666667 (the average of all parts of speech is 2.637304).
 
 The 1st highest number of forms (17) was observed with the lemma “sa”: <em>sa, so, þai, þaim, þamma, þana, þans, þat, þata, þis, þizai, þize, þizei, þizo, þizos, þo, þos</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>sa, sums, jains, ƕas, ƕazuh, ainshun, ainƕarjizuh, alls, sah</e
 
 `DET` nodes are attached to their parents using 1 different relations: <tt><a href="got_proiel-dep-det.html">det</a></tt> (2473; 100% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (1530; 62% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (440; 18% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (326; 13% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (57; 2% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (41; 2% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (1578; 64% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (417; 17% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (330; 13% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (51; 2% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (48; 2% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 2466 (100%) `DET` nodes are leaves.
 
@@ -82,5 +82,5 @@ The highest child degree of a `DET` node is 1.
 
 Children of `DET` nodes are attached using 4 different relations: <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (3; 43% instances), <tt><a href="got_proiel-dep-acl.html">acl</a></tt> (2; 29% instances), <tt><a href="got_proiel-dep-case.html">case</a></tt> (1; 14% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 14% instances)
 
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 43% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (1; 14% instances)
+Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 43% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 14% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>.
 
-41 nodes (0%) are attached to their parents as `nsubj:pass`.
+52 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-21 instances of `nsubj:pass` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.17073170731707.
+33 instances of `nsubj:pass` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.61538461538461.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (29; 71% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (36; 69% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (8; 15% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (6; 12% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4 2 nsubj:pass	color:blue
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	accidente	accidente	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
-3	se	se	PRON	PRON	_	4	expl:pass	_	_
+3	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 4	saldó	saldar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	sin	sin	ADP	ADP	AdpType=Prep	6	case	_	_
 6	heridos	herido	NOUN	NOUN	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
@@ -34,35 +34,24 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 6 nsubj:pass	color:blue
-1	Incluso	incluso	ADV	ADV	_	2	advmod	_	_
-2	Italia	Italia	PROPN	PROPN	_	18	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-4	otro	otro	DET	DET	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
-5	país	país	NOUN	NOUN	Gender=Masc|Number=Sing	2	appos	_	_
-6	que	que	PRON	PRON	PronType=Rel	9	nsubj:pass	_	_
-7	no	no	ADV	ADV	Polarity=Neg	9	advmod	_	_
-8	se	se	PRON	PRON	_	9	expl:pass	_	_
-9	caracteriza	caracterizar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
-10	por	por	ADP	ADP	AdpType=Prep	12	case	_	_
-11	su	su	DET	DET	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-12	sensibilidad	sensibilidad	NOUN	NOUN	Gender=Fem|Number=Sing	9	obj	_	_
-13	pública	público	ADJ	ADJ	Gender=Fem|Number=Sing	12	amod	_	_
-14	hacia	hacia	ADP	ADP	AdpType=Prep	16	case	_	_
-15	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	familia	familia	NOUN	NOUN	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-17	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-18	tiene	tener	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-19	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	6%	6/100	SYM	SYM	NumForm=Digit|NumType=Frac	18	obj	_	_
-21	de	de	ADP	ADP	AdpType=Prep	22	case	_	_
-22	infantes	infante	NOUN	NOUN	Gender=Masc|Number=Plur	20	nmod	_	_
-23	cubiertos	cubierto	ADJ	ADJ	Gender=Masc|Number=Plur|VerbForm=Part	22	amod	_	SpaceAfter=No
-24	.	.	PUNCT	PUNCT	PunctType=Peri	18	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 nsubj:pass	color:blue
+1	Tampoco	tampoco	ADV	ADV	_	2	advmod	_	_
+2	quiso	querer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	revelar	revelar	VERB	VERB	VerbForm=Inf	2	xcomp	_	_
+4	los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	3	obj	_	_
+6	de	de	ADP	ADP	AdpType=Prep	8	case	_	_
+7	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	empresas	empresa	NOUN	NOUN	Gender=Fem|Number=Plur	5	nmod	_	_
+9	que	que	PRON	PRON	PronType=Int,Rel	12	nsubj:pass	_	_
+10	están	estar	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	siendo	ser	AUX	AUX	VerbForm=Ger	12	aux:pass	_	_
+12	investigadas	investigar	VERB	AUX	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No
+13	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -73,13 +62,13 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 nsubj:pass	color:blue
-1	LA	la	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	REAL	real	PROPN	PROPN	_	6	nsubj:pass	_	MWE=REAL_SOCIEDAD|MWEPOS=PROPN
 3	SOCIEDAD	sociedad	PROPN	PROPN	_	2	flat	_	_
 4	NO	no	ADV	ADV	Polarity=Neg	6	advmod	_	_
-5	SE	se	PRON	PRON	_	6	expl:pass	_	_
+5	SE	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
 6	ALEJA	aleja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	DEL	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	8	case	_	_
+7	DEL	del	ADP	ADP	AdpType=Preppron	8	case	_	_
 8	PRECIPICIO	precipicio	NOUN	NOUN	Gender=Masc|Number=Sing	6	obl	_	_
 
 ~~~

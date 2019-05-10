@@ -70,7 +70,7 @@ The following 35 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	og	og	CCONJ	_	_	5	cc	_	_
 4	kvit	kvit	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	tv	tv	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	5	punct	_	_
+6	,	$,	PUNCT	_	_	10	punct	_	_
 7	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
 8	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	heilt	heil	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	10	advmod	_	_

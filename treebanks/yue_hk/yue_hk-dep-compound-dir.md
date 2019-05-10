@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-compound.html">compound</a></tt>.
 There are also 4 other language-specific subtypes of `compound`: <tt><a href="yue_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="yue_hk-dep-compound-quant.html">compound:quant</a></tt>, <tt><a href="yue_hk-dep-compound-vo.html">compound:vo</a></tt>, <tt><a href="yue_hk-dep-compound-vv.html">compound:vv</a></tt>.
 
-29 nodes (0%) are attached to their parents as `compound:dir`.
+60 nodes (0%) are attached to their parents as `compound:dir`.
 
-29 instances of `compound:dir` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24137931034483.
+60 instances of `compound:dir` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.65.
 
-The following 1 pairs of parts of speech are connected with `compound:dir`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (29; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:dir`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (60; 100% instances).
 
 
 ~~~ conllu

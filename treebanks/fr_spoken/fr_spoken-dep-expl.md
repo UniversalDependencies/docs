@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	il	il	PRON	_	_	4	nsubj:expl	_	_
 3	y	y	PRON	_	_	4	iobj	_	_
 4	a	avoir	VERB	_	_	0	root	_	_
-5	dans	dans	ADP	_	_	4	advmod	_	_
+5	dans	dans	ADP	_	_	4	dep	_	_
 6	qui	qui	PRON	_	_	8	obj	_	_
 7	y	y	PRON	_	_	8	iobj	_	_
 8	a	avoir	VERB	conj:reform	_	4	conj:dicto	_	_

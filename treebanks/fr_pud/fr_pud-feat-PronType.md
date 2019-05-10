@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `PRON` tokens may have the following values of `PronType`:
 
 * `Prs` (278; 100% of non-empty `PronType`): <em>son, sa, ses, leur, leurs, notre, nos, mon, votre, My</em>
-* `EMPTY` (1058): <em>il, qui, se, elle, ils, y, s', on, je, ce</em>
+* `EMPTY` (1056): <em>il, qui, se, elle, ils, y, s', on, je, ce</em>
 

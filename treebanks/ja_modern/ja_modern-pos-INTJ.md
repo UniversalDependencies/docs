@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-Modern: POS Tags: `INTJ`
 
 There are 2 `INTJ` lemmas (0%), 2 `INTJ` types (0%) and 2 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: 否, 嗚呼
 

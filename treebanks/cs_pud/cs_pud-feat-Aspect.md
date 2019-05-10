@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (645; 61% of non-empty `Aspect`): <em>říká, obsahuje, pomáhá, pracoval, ukazuje, existují, patří, pokračovat, tvrdí, dělat</em>
 * `Perf` (414; 39% of non-empty `Aspect`): <em>rozhodl, vrátil, objevil, opustit, vydala, získat, navštívil, rozhodli, setkal, udělat</em>
-* `EMPTY` (696): <em>řekl, má, je, může, mohou, mají, mohl, měl, stal, lze</em>
+* `EMPTY` (693): <em>řekl, má, je, může, mohou, mají, mohl, měl, stal, lze</em>
 
 <table>
   <tr><th>Paradigm <i>rozvíjet</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (3; 100% of non-empty `Aspect`): <em>byl, bývají, bývá</em>
-* `EMPTY` (645): <em>je, by, byl, bylo, byla, jsou, byly, bude, jsem, být</em>
+* `EMPTY` (647): <em>je, by, byl, bylo, byla, jsou, byly, bude, jsem, být</em>
 
 ## Relations with Agreement in `Aspect`
 

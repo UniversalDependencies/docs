@@ -9,21 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-257 tokens (1%) have a non-empty value of `NumType`.
-131 types (2%) occur at least once with a non-empty value of `NumType`.
+259 tokens (1%) have a non-empty value of `NumType`.
+132 types (2%) occur at least once with a non-empty value of `NumType`.
 122 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (257; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (259; 1% instances).
 
 ### `NUM`
 
-257 <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+259 <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (197; 77%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (144; 56%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (197; 76%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (146; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (219; 85% of non-empty `NumType`): <em>catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</em>
+* `Card` (221; 85% of non-empty `NumType`): <em>catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</em>
 * `Ord` (38; 15% of non-empty `NumType`): <em>primeira, primeiro, segunda, II, IX, terceira, terceiro, V, primeiras, primeiros</em>
+* `EMPTY` (1): <em>687 614 874</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (122) occur only with one value of `NumType`.
 

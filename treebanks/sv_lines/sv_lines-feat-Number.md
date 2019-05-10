@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 30150 tokens (38%) have a non-empty value of `Number`.
-8815 types (68%) occur at least once with a non-empty value of `Number`.
-6216 lemmas (69%) occur at least once with a non-empty value of `Number`.
+8816 types (68%) occur at least once with a non-empty value of `Number`.
+6217 lemmas (69%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13724; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (7091; 9% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (4622; 6% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4221; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (477; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (15; 0% instances).
 
 ### `NOUN`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (3777; 28% of non-empty `Number`): <em>data, år, fält, ögon, frågor, människor, saker, ögonen, element, barn</em>
 * `Sing` (9947; 72% of non-empty `Number`): <em>gång, sätt, sidan, mr, fråga, man, del, mannen, mrs, linjen</em>
-* `EMPTY` (294): <em>slags, exempel, stället, väg, början, grund, går, rad-, avståndet, närvarande</em>
+* `EMPTY` (293): <em>slags, exempel, stället, väg, början, grund, går, rad-, avståndet, närvarande</em>
 
 <table>
   <tr><th>Paradigm <i>man</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1216; 17% of non-empty `Number`): <em>de, vi, dem, den, sina, oss, alla, varandra, mina, vilka</em>
 * `Sing` (5875; 83% of non-empty `Number`): <em>han, det, jag, du, honom, man, vad, mig, hon, ni</em>
-* `EMPTY` (2032): <em>som, sig, hans, deras, dom, hennes, någonting, dess, allting, alltihop</em>
+* `EMPTY` (2031): <em>som, sig, hans, deras, dom, hennes, någonting, dess, allting, alltihop</em>
 
 <table>
   <tr><th>Paradigm <i>jag</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (1468; 32% of non-empty `Number`): <em>andra, flera, många, vita, nya, olika, egna, stora, långa, små</em>
 * `Sing` (3154; 68% of non-empty `Number`): <em>själv, hela, annat, andra, stor, annan, liten, ena, egen, vit</em>
-* `EMPTY` (919): <em>samma, första, enda, mer, inre, yttre, följande, sista, bra, bättre</em>
+* `EMPTY` (926): <em>samma, första, enda, mer, inre, yttre, följande, sista, bra, bättre</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (5; 33% of non-empty `Number`): <em>tvungna, fullproppade</em>
 * `Sing` (10; 67% of non-empty `Number`): <em>tvungen, lastad, omhändertagen, sitt, spräckt</em>
-* `EMPTY` (10036): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10006): <em>var, har, sa, hade, gick, kom, såg, sade, ta, göra</em>
 
 <table>
   <tr><th>Paradigm <i>tvinga</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -134,14 +134,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3833; 97%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3837; 97%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2999; 76%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1240; 63%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (772; 77%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1234; 63%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (767; 77%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (567; 65%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (243; 64%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (180; 72%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (161; 78%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (179; 72%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (165; 79%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (155; 91%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (139; 64%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (139; 81%).
 

@@ -12,22 +12,22 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 2892 tokens (11%) have a non-empty value of `Person`.
 1107 types (21%) occur at least once with a non-empty value of `Person`.
-489 lemmas (12%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1436; 6% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (635; 2% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (590; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (231; 1% instances).
+489 lemmas (13%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1467; 6% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (635; 2% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (559; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (231; 1% instances).
 
 ### `VERB`
 
-1436 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Person`.
+1467 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1436; 100%), <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1420; 99%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1267; 88%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1019; 71%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (922; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1451; 99%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1295; 88%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1042; 71%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (947; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (120; 8% of non-empty `Person`): <em>temos, fixemos, queremos, digo, quixera, chegamos, creo, defendiamos, deixamos, entendemos</em>
 * `1,3` (1; 0% of non-empty `Person`): <em>Diría</em>
 * `2` (15; 1% of non-empty `Person`): <em>Explica, Imaxina, aceptas, alboreas, atoparás, buscas, chegas, escoites, escureces, miras</em>
-* `3` (1300; 91% of non-empty `Person`): <em>hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</em>
-* `EMPTY` (905): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
+* `3` (1331; 91% of non-empty `Person`): <em>hai, ten, teñen, fai, fixo, quere, considera, di, vén, dá</em>
+* `EMPTY` (908): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
 
 <table>
   <tr><th>Paradigm <i>dicir</i></th><th><tt>1</tt></th><th><tt>1,3</tt></th><th><tt>3</tt></th></tr>
@@ -53,22 +53,22 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (94; 15% of non-empty `Person`): <em>nos, me, nós, eu, min, nosa</em>
 * `2` (9; 1% of non-empty `Person`): <em>te, che, ti</em>
 * `3` (532; 84% of non-empty `Person`): <em>se, o, lle, a, lo, os, lles, as, elas, el</em>
-* `EMPTY` (738): <em>que, iso, quen, todo, algo, un, algúns, isto, unha, outros</em>
+* `EMPTY` (737): <em>que, iso, quen, todo, algo, un, algúns, isto, unha, outros</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `Person`.
 
 ### `AUX`
 
-590 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Person`.
+559 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (587; 99%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (519; 88%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (444; 75%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (418; 71%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (556; 99%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (491; 88%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (421; 75%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (393; 70%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (30; 5% of non-empty `Person`): <em>estamos, somos, estou, teño, vou, Podiamos, Sigo, deberiamos, imos, podemos</em>
 * `2` (1; 0% of non-empty `Person`): <em>Vas</em>
-* `3` (559; 95% of non-empty `Person`): <em>é, foi, está, son, pode, están, era, sería, vai, será</em>
-* `EMPTY` (54): <em>ser, sendo, poder, considerado, estar, ter, Eis, acabar, ir, parecer</em>
+* `3` (528; 94% of non-empty `Person`): <em>é, foi, está, son, pode, están, era, sería, vai, será</em>
+* `EMPTY` (50): <em>ser, sendo, poder, estar, ter, acabar, ir, podendo, quedar</em>
 
 <table>
   <tr><th>Paradigm <i>ir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -89,15 +89,15 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (55; 24% of non-empty `Person`): <em>nosa, noso, meu, miña, nosos, meus, nosas</em>
 * `3` (176; 76% of non-empty `Person`): <em>súa, seu, seus, súas, os, sua</em>
-* `EMPTY` (3889): <em>o, a, os, as, un, unha, lo, esta, este, la</em>
+* `EMPTY` (3887): <em>o, a, os, as, un, unha, lo, esta, este, la</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="gl_treegal-dep-expl.html">expl</a></tt>]--> PRON</tt> (200; 70%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (109; 72%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-expl.html">expl</a></tt>]--> PRON</tt> (203; 71%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (114; 74%),
 <tt>PRON --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (54; 68%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (18; 62%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (19; 66%),
 <tt>PRON --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 67%),
-<tt>AUX --[<tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="gl_treegal-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%).
 

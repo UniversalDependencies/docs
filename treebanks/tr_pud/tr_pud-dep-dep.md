@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 dep	color:blue
-1	Burada	bura	PRON	PRD	Case=Loc|Number=Sing|Polarity=Pos	22	advmod	_	_
+1	Burada	bura	PRON	PRD	Case=Loc|Number=Sing|Polarity=Pos	22	nmod	_	_
 2	1970'lerde	1970'	NOUN	NN	Case=Loc|Number=Plur	5	obl:tmod	_	_
-3	Decca	Decca	PROPN	PROPN	Number=Sing	5	advmod	_	Proper=True
+3	Decca	Decca	PROPN	PROPN	Number=Sing	5	obl	_	Proper=True
 4	Records'la	Records	PROPN	PROPN	Case=Ins|Number=Sing	3	flat:name	_	Proper=True
 5	anlaşan	anlaş	ADJ	VJ	Number=Sing|Polarity=Pos	15	acl:relcl	_	_
 6	ve	ve	CCONJ	CCONJ	_	13	cc	_	_
 7	aynı	aynı	ADJ	JJ	Number=Sing	8	amod	_	_
-8	zamanda	zaman	NOUN	NN	Case=Loc|Number=Sing	13	advmod	_	_
+8	zamanda	zaman	NOUN	NN	Case=Loc|Number=Sing	13	obl	_	_
 9	Rafferty'nin	Rafferty	PROPN	PROPN	Case=Gen|Number=Sing	13	nmod:poss	_	Proper=True
 10	şarkıcı	_	NOUN	NN	Number=Sing	13	compound	_	SpaceAfter=No
 11	/	_	SYM	SYM	_	12	dep	_	SpaceAfter=No

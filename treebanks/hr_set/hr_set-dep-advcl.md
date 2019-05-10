@@ -8,31 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-1753 nodes (1%) are attached to their parents as `advcl`.
+1765 nodes (1%) are attached to their parents as `advcl`.
 
-1190 instances of `advcl` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.9218482601255.
+1197 instances of `advcl` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.92974504249292.
 
-The following 39 pairs of parts of speech are connected with `advcl`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (972; 55% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (192; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (135; 8% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (95; 5% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (85; 5% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (49; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (33; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (27; 2% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `advcl`: <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (977; 55% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (194; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (141; 8% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (93; 5% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (85; 5% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (49; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (30; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 8 advcl	color:blue
-1	Pokušaj	pokušaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	parenja	parenje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
-3	propao	propasti	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-5	kada	kada	ADV	_	Degree=Pos|PronType=Int,Rel	8	advmod	_	_
-6	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-7	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
-8	ubila	ubiti	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	_
-9	svojeg	svoj	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	_
-10	udvarača	udvarač	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 3 advcl	color:blue
+1	"	"	PUNCT	Z	_	11	punct	_	SpaceAfter=No
+2	Ako	ako	SCONJ	Cs	_	3	mark	_	_
+3	želite	željeti	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+4	dobiti	dobiti	VERB	Vmn	VerbForm=Inf	3	xcomp	_	_
+5	nešto	nešto	PRON	Pi3n-a	Case=Acc|Gender=Neut|PronType=Ind	4	obj	_	_
+6	[	[	PUNCT	Z	_	8	punct	_	SpaceAfter=No
+7	kao	kao	SCONJ	Cs	_	8	case	_	_
+8	manjina	manjina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	]	]	PUNCT	Z	_	8	punct	_	SpaceAfter=No
+10	,	,	PUNCT	Z	_	3	punct	_	_
+11	morate	morati	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	to	taj	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	13	obj	_	_
+13	tražiti	tražiti	VERB	Vmn	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	Z	_	11	punct	_	_
 
 ~~~
 
@@ -43,17 +46,17 @@ The following 39 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 3 advcl	color:blue
-1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Ako	ako	SCONJ	_	_	3	mark	_	_
-3	odaberete	odabrati	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-4	reforme	reforma	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	3	punct	_	_
-6	vrata	vrata	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	_
-7	EU	EU	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-8	bit	biti	AUX	_	VerbForm=Inf	10	aux:pass	_	_
-9	će	htjeti	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	otvorena	otvoriti	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
+1	"	"	PUNCT	Z	_	3	punct	_	SpaceAfter=No
+2	Ako	ako	SCONJ	Cs	_	3	mark	_	_
+3	odaberete	odabrati	VERB	Vmr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	reforme	reforma	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	Z	_	3	punct	_	_
+6	vrata	vrata	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	_
+7	EU	EU	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	bit	biti	AUX	Van	VerbForm=Inf	10	aux:pass	_	_
+9	će	htjeti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	otvorena	otvoriti	ADJ	Appnpny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	10	punct	_	_
 
 ~~~
 
@@ -64,18 +67,18 @@ The following 39 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 advcl	color:blue
-1	Setimes	Setimes	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
-2	:	:	PUNCT	_	_	1	punct	_	_
-3	Što	što	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Int,Rel	6	nsubj	_	_
-4	će	htjeti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-5	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
-6	dogoditi	dogoditi	VERB	_	VerbForm=Inf	0	root	_	_
-7	ako	ako	SCONJ	_	_	10	mark	_	_
-8	ipak	ipak	ADV	_	Degree=Pos	10	advmod	_	_
-9	bude	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	korišten	korišten	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	advcl	_	_
-11	veto	veto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	SpaceAfter=No
-12	?	?	PUNCT	_	_	6	punct	_	_
+1	Setimes	SETimes	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	_	_
+3	Što	što	PRON	Pq3n-n	Case=Nom|Gender=Neut|PronType=Int,Rel	6	nsubj	_	_
+4	će	htjeti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+6	dogoditi	dogoditi	VERB	Vmn	VerbForm=Inf	0	root	_	_
+7	ako	ako	SCONJ	Cs	_	10	mark	_	_
+8	ipak	ipak	ADV	Rgp	Degree=Pos	10	advmod	_	_
+9	bude	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+10	korišten	korišten	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	advcl	_	_
+11	veto	veto	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	SpaceAfter=No
+12	?	?	PUNCT	Z	_	6	punct	_	_
 
 ~~~
 

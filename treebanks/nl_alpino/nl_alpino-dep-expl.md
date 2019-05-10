@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `expl`: <tt><a href="nl_alpino-dep-exp
 374 instances of `expl` (82%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.11597374179431.
 
-The following 11 pairs of parts of speech are connected with `expl`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (195; 43% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (105; 23% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (101; 22% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (30; 7% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (300; 66% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (104; 23% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (35; 8% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,28 +38,6 @@ The following 11 pairs of parts of speech are connected with `expl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 3 expl	color:blue
-1	Syrië	Syrië	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
-2	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
-3	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	10	expl	10:expl	_
-4	niet	niet	ADV	BW	_	6	advmod	6:advmod	_
-5	bij	bij	ADP	VZ|fin	_	10	case	10:case	_
-6	gebaat	baten	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
-7	dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	10	obj	10:obj	_
-8	wel	wel	ADV	BW	_	10	advmod	10:advmod	_
-9	te	te	ADP	VZ|init	_	10	mark	10:mark	_
-10	doen	doen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	advcl	6:advcl:bij	SpaceAfter=No
-11	.	.	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
-12	''	''	PUNCT	LET	_	6	punct	6:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
@@ -75,6 +53,28 @@ The following 11 pairs of parts of speech are connected with `expl`: <tt><a href
 8	gebeurd	gebeuren	VERB	WW|vd|vrij|zonder	VerbForm=Part	4	csubj	4:csubj	SpaceAfter=No
 9	"	"	PUNCT	LET	_	4	punct	4:punct	SpaceAfter=No
 10	.	.	PUNCT	LET	_	4	punct	4:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 expl	color:blue
+1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	5	expl	5:expl	_
+2	blijft	blijven	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	intussen	intussen	ADV	BW	_	5	advmod	5:advmod	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
+5	vraag	vraag	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+6	of	of	SCONJ	VG|onder	_	9	mark	9:mark	_
+7	het	het	DET	LID|bep|stan|evon	Definite=Def	8	det	8:det	_
+8	middel	middel	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	nsubj	9:nsubj	_
+9	effectief	effectief	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	5	csubj	5:csubj	_
+10	zal	zullen	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+11	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	9	cop	9:cop	SpaceAfter=No
+12	:	:	PUNCT	LET	_	5	punct	5:punct	_
 
 ~~~
 

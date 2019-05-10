@@ -10,8 +10,8 @@ This relation is universal.
 
 289 nodes (1%) are attached to their parents as `expl`.
 
-145 instances of `expl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1522491349481.
+146 instances of `expl` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14186851211073.
 
 The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (286; 99% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 

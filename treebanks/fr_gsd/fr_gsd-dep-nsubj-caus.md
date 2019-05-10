@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-144 nodes (0%) are attached to their parents as `nsubj:caus`.
+149 nodes (0%) are attached to their parents as `nsubj:caus`.
 
-143 instances of `nsubj:caus` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.93055555555556.
+148 instances of `nsubj:caus` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.87248322147651.
 
-The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (62; 43% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (52; 36% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (27; 19% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 2% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (65; 44% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (53; 36% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (28; 19% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (3; 2% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-compound.html">compound</a></tt>.
 There are also 4 other language-specific subtypes of `compound`: <tt><a href="yue_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="yue_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="yue_hk-dep-compound-quant.html">compound:quant</a></tt>, <tt><a href="yue_hk-dep-compound-vo.html">compound:vo</a></tt>.
 
-61 nodes (1%) are attached to their parents as `compound:vv`.
+114 nodes (1%) are attached to their parents as `compound:vv`.
 
-61 instances of `compound:vv` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31147540983607.
+114 instances of `compound:vv` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.24561403508772.
 
-The following 5 pairs of parts of speech are connected with `compound:vv`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (43; 70% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (14; 23% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `compound:vv`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (81; 71% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (28; 25% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `compound:vv`: <tt><
 2	企	企	VERB	_	_	9	advcl	_	SpaceAfter=No
 3	喺度	喺度	ADV	_	_	2	compound:vv	_	SpaceAfter=No
 4	都	都	ADV	_	_	9	reparandum	_	SpaceAfter=No
-5	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
 6	你哋	你哋	PRON	_	_	9	nsubj	_	SpaceAfter=No
 7	都	都	ADV	_	_	9	advmod	_	SpaceAfter=No
 8	喺度	喺度	ADV	_	_	9	advmod	_	SpaceAfter=No

@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 6	consulter	consulter	VERB	V	VerbForm=Inf	4	acl	_	_
 7	et	et	CCONJ	CC	_	10	cc	_	_
 8	de	de	ADP	E	_	10	mark	_	_
-9	faire	faire	VERB	V	VerbForm=Inf	10	aux:caus	_	_
+9	faire	faire	AUX	V	VerbForm=Inf	10	aux:caus	_	_
 10	collaborer	collaborer	VERB	V	VerbForm=Inf	6	conj	_	_
 11	activement	activement	ADV	B	_	10	advmod	_	_
 12	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 2	conséquences	conséquence	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:caus	_	_
 3	ne	ne	PART	PART	Polarity=Neg	7	advmod	_	_
 4	se	se	PRON	P	Person=3|PronType=Prs	7	obj:agent	_	_
-5	font	faire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
+5	font	faire	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 6	pas	pas	ADV	BN	Polarity=Neg	7	advmod	_	_
 7	attendre	attendre	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	7	punct	_	_

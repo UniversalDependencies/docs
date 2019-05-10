@@ -9,32 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-415 tokens (0%) have a non-empty value of `Poss`.
-154 types (1%) occur at least once with a non-empty value of `Poss`.
-70 lemmas (1%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (300; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (115; 0% instances).
+895 tokens (1%) have a non-empty value of `Poss`.
+198 types (1%) occur at least once with a non-empty value of `Poss`.
+88 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sr_set-pos-DET.html">DET</a></tt> (758; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (137; 0% instances).
 
-### `PRON`
+### `DET`
 
-300 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Poss`.
+758 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (22% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (300; 100%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (300; 100%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (238; 79%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (236; 79%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (715; 94%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (547; 72%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (411; 54%), <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (394; 52%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (390; 51%).
 
-`PRON` tokens may have the following values of `Poss`:
+`DET` tokens may have the following values of `Poss`:
 
-* `Yes` (300; 100% of non-empty `Poss`): <em>njegova, njegov, njegovog, njen, njihov, njegove, naše, naša, njegovu, njenog</em>
-* `EMPTY` (4621): <em>se, koji, to, on, koje, koja, što, svoje, ove, oni</em>
+* `Yes` (758; 100% of non-empty `Poss`): <em>svoje, svoj, svoju, svog, svojih, njegova, njegov, svojim, svom, njegovog</em>
+* `EMPTY` (2687): <em>koji, to, koje, koja, ove, toga, koju, taj, sve, kojima</em>
+
+`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Poss`.
 
 ### `ADJ`
 
-115 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
+137 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (115; 100%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (97; 84%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (76; 66%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (64; 56%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (137; 100%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (115; 84%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 70%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (73; 53%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (115; 100% of non-empty `Poss`): <em>nevladine, Ešdaunova, Ahtisarijev, nevladinih, vladinih, Burkajev, vladini, Đinđićeve, Erdoganove, Majkrosoftovih</em>
-* `EMPTY` (9258): <em>prošle, novi, inostranih, bivši, srpske, novog, evropske, Crne, glavni, nove</em>
+* `Yes` (137; 100% of non-empty `Poss`): <em>nevladine, Ešdaunova, Ahtisarijev, Burkajev, nevladinih, vladinih, Nobelove, vladini, Đinđićeve, Erdoganove</em>
+* `EMPTY` (11585): <em>novi, prošle, drugi, inostranih, srpske, bivši, prvi, novog, političke, drugim</em>
 
-`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (62) occur only with one value of `Poss`.
+`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (75) occur only with one value of `Poss`.
 

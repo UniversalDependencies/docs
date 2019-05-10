@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	In	in	ADP	IN	_	3	case	_	_
 2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	1912	1912	NUM	CD	_	5	obl	_	_
-4	fu	essere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	aux:pass	_	_
+4	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	aux:pass	_	_
 5	fondata	fondare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
 6	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
 7	prima	primo	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_

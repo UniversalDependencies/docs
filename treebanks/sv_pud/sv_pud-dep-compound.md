@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `compound`: <tt><a href="sv_pud-dep-co
 81 instances of `compound` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.35802469135802.
 
-The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (47; 58% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (13; 16% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `compound`: <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (42; 52% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 17% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (10; 12% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,26 +60,35 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 compound	color:blue
-1	Häxtimmen	häxtimm	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	nsubj	2:nsubj	_
-2	börjar	börja	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	åtminstone	åtminstone	ADV	AB	_	2	advmod	2:advmod	_
-4	när	när	SCONJ	HA	PronType=Int,Rel	8	mark	8:mark	_
-5	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	7	det	7:det	_
-6	läskiga	läskig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	7	amod	7:amod	_
-7	orgeln	orgel	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	nsubj:pass	8:nsubj:pass	_
-8	spelas	spela	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	advcl	2:advcl:när	SpaceAfter=No
-9	,	,	PUNCT	MID	_	8	punct	8:punct	_
-10	som	som	ADP	KN	_	14	case	14:case	_
-11	i	i	ADP	PP	_	14	case	14:case	_
-12	60-talshiten	60-talshit	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	14	nmod	14:nmod	_
-13	Monster	monster	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	14	compound	14:compound	_
-14	Mash	Mash	PROPN	PM|NOM	Case=Nom	8	obl	8:obl:i	SpaceAfter=No
-15	.	.	PUNCT	MAD	_	2	punct	2:punct	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 compound	color:blue
+1	Wright	Wright	PROPN	PM|NOM	Case=Nom	2	nsubj	2:nsubj	_
+2	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing	4	det	4:det	_
+4	bror	bror	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj|10:nsubj|13:nsubj	SpaceAfter=No
+5	,	,	PUNCT	MID	_	6	punct	6:punct	_
+6	Oscar	Oscar	PROPN	PM|NOM	Case=Nom	4	appos	4:appos	SpaceAfter=No
+7	,	,	PUNCT	MID	_	10	punct	10:punct	_
+8	som	som	PRON	HP|-|-|-	PronType=Int,Rel	10	nsubj	4:ref	_
+9	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
+10	serietidningskonstnär	serietidningskonstnär	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	acl:relcl	4:acl:relcl	SpaceAfter=No
+11	,	,	PUNCT	MID	_	13	punct	13:punct	_
+12	som	som	PRON	HP|-|-|-	PronType=Int,Rel	13	nsubj	4:ref	_
+13	bidrar	bidra	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl:relcl	_
+14	med	med	ADP	PP	_	15	case	15:case	_
+15	bildmanus	bildmanus	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	13	obl	13:obl:med	SpaceAfter=No
+16	,	,	PUNCT	MID	_	18	punct	18:punct	_
+17	concept	concept	NOUN	UO	Foreign=Yes	18	compound	18:compound	_
+18	art	art	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	conj	13:obl:med|15:conj:och	_
+19	och	och	CCONJ	KN	_	20	cc	20:cc	_
+20	reklambilder	reklambilder	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	conj	13:obl:med|15:conj:och	_
+21	för	för	ADP	PP	_	23	case	23:case	_
+22	Edgars	Edgar	PROPN	PM|GEN	Case=Gen	23	nmod:poss	23:nmod:poss	_
+23	filmer	film	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	13	obl	13:obl:för	SpaceAfter=No
+24	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~
 

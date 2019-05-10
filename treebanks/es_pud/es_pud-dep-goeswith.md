@@ -23,19 +23,19 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 6 goeswith	color:blue
 1	Desde	_	ADP	IN	_	3	case	_	_
-2	el	_	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	siglo	_	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
-4	9	_	NUM	CD	Gender=Masc	3	appos	_	_
+4	9	_	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	_
 5	a.	_	ADV	RB	_	4	advmod	_	_
 6	C.	_	ADV	_	_	5	goeswith	_	SpaceAfter=No
 7	,	_	PUNCT	,	_	3	punct	_	_
-8	los	_	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
+8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 9	primeros	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 10	textos	_	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
 11	griegos	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	Proper=True
-12	empezaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	14	aux	_	_
+12	empezaron	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux	_	_
 13	a	_	ADP	IN	_	12	fixed	_	_
-14	aparecer	_	VERB	VB	Aspect=Imp	0	root	_	SpaceAfter=No
+14	aparecer	_	VERB	VB	Aspect=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
 15	.	_	PUNCT	.	_	14	punct	_	_
 
 ~~~
@@ -49,9 +49,9 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6 7 goeswith	color:blue
 1	A	_	ADP	IN	_	3	advmod	_	_
 2	veces	_	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
-3	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+3	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	como	_	ADP	IN	_	6	case	_	_
-5	un	_	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	súper	_	X	AFX	_	3	obl	_	_
 7	poder	_	NOUN	NN	Gender=Masc|Number=Sing	6	goeswith	_	SpaceAfter=No
 8	.	_	PUNCT	.	_	3	punct	_	_
@@ -68,17 +68,17 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	En	_	ADP	IN	_	2	case	_	_
 2	julio	_	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 3	de	_	ADP	IN	_	4	case	_	_
-4	1918	_	NUM	CD	Gender=Masc	2	nmod	_	SpaceAfter=No
+4	1918	_	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	_	PUNCT	,	_	2	punct	_	_
-6	el	_	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tratado	_	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
-8	franco	_	X	AFX	_	7	amod	_	Proper=True|SpaceAfter=No
+8	franco	_	X	AFX	_	7	amod	_	SpaceAfter=No|Proper=True
 9	-	_	PUNCT	-	_	10	punct	_	SpaceAfter=No
 10	monegasco	_	ADJ	JJ	Gender=Masc|Number=Sing	8	goeswith	_	Proper=True
-11	fue	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	12	aux:pass	_	_
-12	firmado	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	aux:pass	_	_
+12	firmado	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	,	_	PUNCT	,	_	14	punct	_	_
-14	ofreciendo	_	VERB	VBG	Aspect=Imp|Voice=Act	12	acl	_	_
+14	ofreciendo	_	VERB	VBG	Aspect=Imp|VerbForm=Fin|Voice=Act	12	advcl	_	_
 15	limitada	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
 16	protección	_	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
 17	francesa	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True

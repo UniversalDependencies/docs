@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3231 nodes (25%) are attached to their parents as `punct`.
+3230 nodes (25%) are attached to their parents as `punct`.
 
-1782 instances of `punct` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.28814608480347.
+1724 instances of `punct` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.26625386996904.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1681; 52% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (540; 17% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (203; 6% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (134; 4% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (123; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (119; 4% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (107; 3% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (69; 2% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (66; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (49; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (39; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1767; 55% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (571; 18% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (195; 6% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (133; 4% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (133; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (126; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (75; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (59; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (54; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	we	we	PRON	_	_	4	nsubj	_	_
 4	talk	talk	VERB	_	_	0	root	_	_
 5	true	true	ADJ	_	_	4	xcomp	_	_
-6	sef	sef	PART	_	_	5	advmod:emph	_	_
-7	o	o	PART	_	_	4	advmod:emph	_	_
+6	sef	sef	ADV	PART	_	5	advmod:emph	_	_
+7	o	o	ADV	PART	_	4	advmod:emph	_	_
 8	//	//	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -41,11 +41,11 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 1 punct	color:blue
 1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	PART	_	_	3	cop	_	_
+2	na	na	AUX	PART	_	3	cop	_	_
 3	farmer	farmer	NOUN	_	_	0	root	_	_
-4	dem	dem	PART	_	_	3	det	_	_
+4	dem	dem	DET	PART	_	3	det	_	_
 5	>+	>+	PUNCT	_	_	7	punct	_	_
-6	dey	dey	AUX	_	_	7	cop	_	_
+6	dey	be	AUX	_	_	7	cop	_	_
 7	happy	happy	ADJ	_	_	3	acl:cleft	_	_
 8	pass	pass	VERB	_	_	7	compound:svc	_	_
 9	#	#	PUNCT	_	_	12	punct	_	_
@@ -72,7 +72,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	{	{	PUNCT	_	_	7	punct	_	_
 6	una	una	PRON	_	_	7	nmod:poss	_	_
 7	tenant	tenant	NOUN	_	_	4	obj	_	_
-8	dem	dem	PART	_	_	7	det	_	_
+8	dem	dem	DET	PART	_	7	det	_	_
 9	|c	|c	PUNCT	_	_	11	punct	_	_
 10	and	and	CCONJ	_	_	11	cc	_	_
 11	unasef	unasef	PRON	_	_	7	conj:coord	_	_

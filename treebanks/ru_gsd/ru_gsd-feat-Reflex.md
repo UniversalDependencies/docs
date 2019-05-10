@@ -9,21 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-342 tokens (0%) have a non-empty value of `Reflex`.
-22 types (0%) occur at least once with a non-empty value of `Reflex`.
-2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (258; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (84; 0% instances).
-
-### `DET`
-
-258 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Reflex`.
-
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (258; 100%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (215; 83%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 78%).
-
-`DET` tokens may have the following values of `Reflex`:
-
-* `Yes` (258; 100% of non-empty `Reflex`): <em>своей, свою, свой, своего, своих, свои, своё, своим, своими, свое</em>
-* `EMPTY` (1339): <em>его, её, их, этого, все, этот, the, всех, том, то</em>
+84 tokens (0%) have a non-empty value of `Reflex`.
+4 types (0%) occur at least once with a non-empty value of `Reflex`.
+1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (84; 0% instances).
 
 ### `PRON`
 
@@ -34,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (84; 100% of non-empty `Reflex`): <em>себя, собой, себе, собою</em>
-* `EMPTY` (1841): <em>он, который, это, она, которые, они, его, что, того, которой</em>
+* `EMPTY` (1834): <em>он, который, это, она, которые, они, его, того, что, которой</em>
 

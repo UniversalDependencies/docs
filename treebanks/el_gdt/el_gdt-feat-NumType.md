@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Mult`, `Ord`, `Sets`.
 
-979 tokens (2%) have a non-empty value of `NumType`.
+980 tokens (2%) have a non-empty value of `NumType`.
 350 types (3%) occur at least once with a non-empty value of `NumType`.
 299 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (979; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (980; 2% instances).
 
 ### `NUM`
 
-979 <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+980 <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (773; 79% of non-empty `NumType`): <em>δύο, τρεις, 1, 15, πέντε, 100, 20, 3, 30, 80</em>
+* `Card` (774; 79% of non-empty `NumType`): <em>δύο, τρεις, 1, 15, πέντε, 100, 20, 3, 30, 80</em>
 * `Mult` (4; 0% of non-empty `NumType`): <em>διπλή, διπλάσιο, διπλό</em>
 * `Ord` (184; 19% of non-empty `NumType`): <em>πρώτη, πρώτο, Β', δεύτερη, δεύτερο, τρίτη, πρώτες, πρώτης, πρώτος, δεύτερος</em>
 * `Sets` (18; 2% of non-empty `NumType`): <em>δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, εκατοντάδων</em>

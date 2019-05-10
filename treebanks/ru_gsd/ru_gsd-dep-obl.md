@@ -9,29 +9,27 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="ru_gsd-dep-obl-agent.html">obl:agent</a></tt>.
 
-7237 nodes (7%) are attached to their parents as `obl`.
+7260 nodes (7%) are attached to their parents as `obl`.
 
-4374 instances of `obl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.98604394085947.
+4378 instances of `obl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.9202479338843.
 
-The following 33 pairs of parts of speech are connected with `obl`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5858; 81% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (546; 8% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (420; 6% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (70; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (63; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (41; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (27; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `obl`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5594; 77% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (556; 8% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (429; 6% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (353; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (95; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (40; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (36; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (26; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 obl	color:blue
-1	Хирамацу	ХИРАМАЦУ	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
-2	Дзенки	ДЗЕНКИ	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	flat	_	_
-3	и	И	CCONJ	CC	_	4	cc	_	_
-4	Яцумото	ЯЦУМОТО	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
-5	Эйти	ЭЙТИ	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	flat	_	_
-6	призывают	ПРИЗЫВАТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	в	В	ADP	IN	_	8	case	_	_
-8	армию	АРМИЯ	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 obl	color:blue
+1	Текст	текст	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	был	быть	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	написан	написать	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	по	по	ADP	AFX	_	6	case	_	SpaceAfter=No
+5	-	-	PUNCT	-	_	6	punct	_	SpaceAfter=No
+6	латыни	латыни	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
@@ -42,15 +40,15 @@ The following 33 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 obl	color:blue
-1	Провёл	ПРОВЕСТИ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-2	полтора	ПОЛТОРА	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
-3	года	ГОД	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
-4	в	В	ADP	IN	_	5	case	_	_
-5	Риме	РИМ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
-6	и	И	CCONJ	CC	_	9	cc	_	_
-7	других	ДРУГОЙ	ADJ	JJL	Animacy=Inan|Case=Loc|Number=Plur	9	amod	_	_
-8	европейских	ЕВРОПЕЙСКИЙ	ADJ	JJL	Animacy=Inan|Case=Loc|Number=Plur	9	amod	_	_
-9	городах	ГОРОД	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+1	Провёл	провести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	полтора	полтора	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+4	в	в	ADP	IN	_	5	case	_	_
+5	Риме	Рим	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	других	другой	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+8	европейских	европейский	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	городах	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -62,13 +60,13 @@ The following 33 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obl	color:blue
-1	С	С	ADP	IN	_	2	case	_	_
-2	ним	ОН	PRON	PRP	Case=Ins|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
-3	граничат	ГРАНИЧИТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	города	ГОРОД	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
-5	Иидзука	ИИДЗУКА	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+1	С	с	ADP	IN	_	2	case	_	_
+2	ним	он	PRON	PRP	Case=Ins|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+3	граничат	граничить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	города	город	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+5	Иидзука	Иидзука	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
-7	Кама	КАМА	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+7	Кама	Кама	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

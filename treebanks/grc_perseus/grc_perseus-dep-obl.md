@@ -41,7 +41,7 @@ The following 26 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1 4 obl	color:blue
 1	ἐξίησι	ἐξίημι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
-3	παῤ	παρά	ADP	r--------	_	4	case	_	_
+3	παῤ	παρά	ADP	r--------	_	4	case	_	_
 4	αὐτὴν	αὐτός	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
 5	Ἀχερουσία	Ἀχερουσία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nmod	_	_
 6	λίμνη	λίμνη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_

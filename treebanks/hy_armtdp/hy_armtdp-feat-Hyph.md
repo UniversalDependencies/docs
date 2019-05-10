@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-13 tokens (0%) have a non-empty value of `Hyph`.
-8 types (0%) occur at least once with a non-empty value of `Hyph`.
-8 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+15 tokens (0%) have a non-empty value of `Hyph`.
+9 types (0%) occur at least once with a non-empty value of `Hyph`.
+9 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-12 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Hyph`.
+14 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11; 92%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (12; 86%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (12; 100% of non-empty `Hyph`): <em>արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, քրիստոնեա</em>
+* `Yes` (14; 100% of non-empty `Hyph`): <em>արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, սոցիալ, քրիստոնեա</em>
 
 ### `ADV`
 

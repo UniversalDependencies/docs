@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Cantonese-HK: Relations: `mark:rel`
 
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-mark.html">mark</a></tt>.
+There are also 1 other language-specific subtypes of `mark`: <tt><a href="yue_hk-dep-mark-adv.html">mark:adv</a></tt>.
 
-15 nodes (0%) are attached to their parents as `mark:rel`.
+107 nodes (1%) are attached to their parents as `mark:rel`.
 
-15 instances of `mark:rel` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+102 instances of `mark:rel` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.68224299065421.
 
-The following 4 pairs of parts of speech are connected with `mark:rel`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (9; 60% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (4; 27% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (56; 52% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (34; 32% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (6; 6% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -22,9 +23,9 @@ The following 4 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 mark:rel	color:blue
-1	呢	呢	PART	_	_	2	det	_	SpaceAfter=No
+1	呢	呢	DET	_	_	2	det	_	SpaceAfter=No
 2	張	張	NOUN	_	NounType=Clf	8	nsubj	_	SpaceAfter=No
-3	唔	唔	ADV	_	_	4	advmod	_	SpaceAfter=No
+3	唔	唔	ADV	_	_	8	advmod	_	SpaceAfter=No
 4	係	係	AUX	_	_	8	cop	_	SpaceAfter=No
 5	你	你	PRON	_	_	6	nsubj	_	SpaceAfter=No
 6	中意	中意	VERB	_	_	8	acl	_	SpaceAfter=No
@@ -64,25 +65,32 @@ The following 4 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 mark:rel	color:blue
-1	爺爺	爺爺	NOUN	_	_	7	vocative	_	SpaceAfter=No
-2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
-4	可	可	AUX	_	_	7	aux	_	SpaceAfter=No
-5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	可以	可以	AUX	_	_	4	aux	_	SpaceAfter=No
-7	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
-8	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
-9	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No
-10	集	集	NOUN	_	NounType=Clf	12	amod	_	SpaceAfter=No
-11	嘅	嘅	PART	_	_	10	mark:rel	_	SpaceAfter=No
-12	龍珠	龍珠	PROPN	_	_	7	obj	_	SpaceAfter=No
-13	呀	呀	PART	_	_	7	discourse:sp	_	SpaceAfter=No
-14	？	？	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 mark:rel	color:blue
+1	佢	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
+2	一定	_	ADV	_	_	4	advmod	_	SpaceAfter=No
+3	要	_	AUX	_	_	4	aux	_	SpaceAfter=No
+4	有	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	一	_	NUM	_	_	20	nummod	_	SpaceAfter=No
+6	份	_	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No
+7	噉樣	_	ADV	_	_	20	amod	_	SpaceAfter=No
+8	嘅	_	PART	_	_	7	mark:rel	_	SpaceAfter=No
+9	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	呀	_	INTJ	_	_	7	discourse	_	SpaceAfter=No
+11	，	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	正正式式	_	ADJ	_	_	13	advmod	_	SpaceAfter=No
+13	係	_	VERB	_	_	20	acl	_	SpaceAfter=No
+14	放棄	_	VERB	_	_	13	ccomp	_	SpaceAfter=No
+15	英國	_	PROPN	_	_	16	compound	_	SpaceAfter=No
+16	國籍	_	NOUN	_	_	18	nmod	_	SpaceAfter=No
+17	嘅	_	PART	_	_	16	case	_	SpaceAfter=No
+18	聲明	_	NOUN	_	_	20	nmod	_	SpaceAfter=No
+19	嘅	_	PART	_	_	18	case	_	SpaceAfter=No
+20	文件	_	NOUN	_	_	4	obj	_	SpaceAfter=No
+21	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -69,7 +69,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	ihvertfall	ihvertfall	ADV	_	_	4	advmod	_	_
 4	prøve	prøve	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
-5	,	$,	PUNCT	_	_	4	punct	_	_
+5	,	$,	PUNCT	_	_	6	punct	_	_
 6	lover	love	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 7	Svindal	Svindal	PROPN	_	_	6	nsubj	_	_
 8	Dagbladet.no	Dagbladet.no	PROPN	_	_	6	iobj	_	SpaceAfter=No

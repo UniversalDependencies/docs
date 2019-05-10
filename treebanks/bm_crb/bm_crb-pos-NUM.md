@@ -9,9 +9,9 @@ udver: '2'
 There are 10 `NUM` lemmas (1%), 10 `NUM` types (1%) and 92 `NUM` tokens (1%).
 Out of 16 observed tags, the rank of `NUM` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ</em>
+The 10 most frequent `NUM` lemmas: <em>kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ</em>
 
-The 10 most frequent `NUM` types:  <em>kelen, fila, kònòntò, seegin, saba, 6, NAN, kelen-kelen, wolonfila, woro</em>
+The 10 most frequent `NUM` types:  <em>kelen, fila, kònòntò, seegin, saba, 6, NAN, kelen-kelen, wolonfila, woro</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 50, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-X.html">X</a></tt> 4, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2)
 
@@ -19,8 +19,8 @@ The 10 most frequent ambiguous types:  <em>woro</em> (<tt><a href="bm_crb-pos-NO
 
 
 * <em>woro</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2: <em>ko ni i ye <b>woro</b> di ne ma ani syèfan , ko ne bè a tògò fò i ye .</em>
-  * <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 1: <em>kònòba kunkolo ye <b>woro</b> ye , Namaramatu kunkolo ye wolonfila ye , kònòba nana : kònòba be dugu min na , su tè ko , dugu tè gè .</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2: <em>ko ni i ye <b>woro</b> di ne ma ani syèfan , ko ne bè a tògò fò i ye .</em>
+  * <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 1: <em>kònòba kunkolo ye <b>woro</b> ye , Namaramatu kunkolo ye wolonfila ye , kònòba nana : kònòba be dugu min na , su tè ko , dugu tè gè .</em>
 
 ## Morphology
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>kel
 
 The 2nd highest number of forms (1) was observed with the lemma “6”: <em>6</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “fìla”: <em>fila</em>.
+The 3rd highest number of forms (1) was observed with the lemma “fìla”: <em>fila</em>.
 
 `NUM` occurs with 1 features: <tt><a href="bm_crb-feat-NumType.html">NumType</a></tt> (2; 2% instances)
 
@@ -38,7 +38,7 @@ The 3rd highest number of forms (1) was observed with the lemma “fìla”: <e
 
 `NUM` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (90 tokens).
-Examples: <em>kelen, fila, kònòntò, seegin, saba, kelen-kelen, wolonfila, woro</em>
+Examples: <em>kelen, fila, kònòntò, seegin, saba, kelen-kelen, wolonfila, woro</em>
 
 
 ## Relations

@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="mt_mudt
 354 nodes (1%) are attached to their parents as `aux:part`.
 
 352 instances of `aux:part` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13841807909605.
+Average distance between parent and child is 1.1638418079096.
 
-The following 11 pairs of parts of speech are connected with `aux:part`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (331; 94% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux:part`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (337; 95% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,34 +41,24 @@ The following 11 pairs of parts of speech are connected with `aux:part`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 14 aux:part	color:blue
-1	Għaldaqstant	_	ADV	ADV	_	2	advmod	_	_
-2	nissuġġerixxi	_	VERB	VERB	_	0	root	_	_
-3	li	_	SCONJ	COMP	_	6	mark	_	_
-4	l-	_	DET	DEF	_	5	det	_	SpaceAfter=No
-5	kontributur	_	NOUN	NOUN	_	6	nsubj	_	_
-6	jiffoka	_	VERB	VERB	_	2	ccomp	_	_
-7	l-	_	DET	DEF	_	8	det	_	SpaceAfter=No
-8	enerġiji	_	NOUN	NOUN	_	6	obj	_	_
-9	tiegħu	_	PRON	GEN_PRON	_	8	case	_	_
-10	fuq	_	ADP	PREP	_	11	case	_	_
-11	nies	_	NOUN	NOUN	_	6	obl:arg	_	_
-12	li	_	SCONJ	COMP	_	17	mark	_	_
-13	tassew	_	ADV	ADV	_	17	advmod	_	_
-14	qegħdin	_	AUX	PROG	_	17	aux:part	_	_
-15	ikunu	_	AUX	KIEN	_	17	cop	_	_
-16	ta'	_	ADP	GEN	_	17	case	_	_
-17	piż	_	NOUN	NOUN	_	11	acl	_	_
-18	għas-	_	ADP	PREP_DEF	_	19	case:det	_	SpaceAfter=No
-19	soċjetà	_	NOUN	NOUN	_	17	obl	_	_
-20	bl-	_	ADP	PREP_DEF	_	21	case:det	_	SpaceAfter=No
-21	għemil	_	NOUN	NOUN	_	17	obl	_	_
-22	tagħhom	_	PRON	GEN_PRON	_	21	case	_	SpaceAfter=No
-23	.	_	PUNCT	X_PUN	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 8 aux:part	color:blue
+1	Kartelluni	_	NOUN	NOUN	_	4	nsubj	_	_
+2	minnhom	_	PRON	PREP_PRON	_	1	nmod	_	_
+3	saħansitra	_	ADV	FOC	_	4	discourse	_	_
+4	staqsew	_	VERB	VERB	_	0	root	_	_
+5	jekk	_	SCONJ	CONJ_SUB	_	12	mark	_	_
+6	dan	_	PRON	PRON_DEM	_	12	nsubj	_	_
+7	hux	_	AUX	PRON_PERS	_	12	aux:part	_	_
+8	se	_	AUX	FUT	_	12	aux:part	_	_
+9	jkun	_	AUX	KIEN	_	12	cop	_	_
+10	l-	_	DET	DEF	_	12	det	_	SpaceAfter=No
+11	aħħar	_	ADJ	ADJ	_	12	amod	_	_
+12	Karnival	_	NOUN	NOUN	_	4	ccomp	_	SpaceAfter=No
+13	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 ~~~
 
@@ -84,8 +74,8 @@ The following 11 pairs of parts of speech are connected with `aux:part`: <tt><a 
 3	)	_	PUNCT	X_PUN	_	2	punct	_	_
 4	Lili	_	PRON	LIL_PRON	_	9	obj	_	_
 5	ħadd	_	PRON	PRON_INDEF	_	9	nsubj	_	_
-6	m'	_	PART	NEG	_	9	aux:neg	_	SpaceAfter=No
-7	hu	_	PRON	PRON_PERS	_	9	aux:neg	_	_
+6	m'	_	PART	NEG	_	9	advmod:neg	_	SpaceAfter=No
+7	hu	_	AUX	PRON_PERS	_	9	aux:neg	_	_
 8	qed	_	AUX	PROG	_	9	aux:part	_	_
 9	jirrispondini	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	9	punct	_	_

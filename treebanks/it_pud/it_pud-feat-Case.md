@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (106; 95% of non-empty `Case`): <em>lo, gli, ne, lui, l', le, mi, la, ci, lei</em>
 * `Nom` (6; 5% of non-empty `Case`): <em>lei, egli, essi, io, lui</em>
-* `EMPTY` (762): <em>che, si, sua, suo, loro, cui, questo, ci, sue, suoi</em>
+* `EMPTY` (749): <em>che, si, sua, suo, loro, cui, ci, questo, sue, suoi</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

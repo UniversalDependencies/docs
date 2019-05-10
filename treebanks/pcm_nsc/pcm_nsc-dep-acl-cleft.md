@@ -25,17 +25,17 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 4 10 acl:cleft	color:blue
 1	#	#	PUNCT	_	_	4	punct	_	_
 2	but	but	CCONJ	_	_	4	cc	_	_
-3	na	na	PART	_	_	4	cop	_	_
+3	na	na	AUX	PART	_	4	cop	_	_
 4	landlord	landlord	NOUN	_	_	0	root	_	_
-5	dem	dem	PART	_	_	4	det	_	_
+5	dem	dem	DET	PART	_	4	det	_	_
 6	>+	>+	PUNCT	_	_	10	punct	_	_
 7	di	di	DET	_	_	8	det	_	_
 8	matter	matter	NOUN	_	_	10	nsubj	_	_
 9	come	come	AUX	_	_	10	aux	_	_
 10	concern	concern	VERB	_	_	4	acl:cleft	_	_
 11	well	well	ADV	_	_	10	advmod	_	_
-12	well	well	ADV	_	_	11	compound:redup	_	_
-13	o	o	PART	_	_	12	advmod:emph	_	_
+12	well	well	ADV	_	_	11	conj:redup	_	_
+13	o	o	ADV	PART	_	12	advmod:emph	_	_
 14	//	//	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 1	#	#	PUNCT	_	_	5	punct	_	_
 2	because	because	SCONJ	_	_	5	mark	_	_
 3	#	#	PUNCT	_	_	2	punct	_	_
-4	na	na	PART	_	_	5	cop	_	_
+4	na	na	AUX	PART	_	5	cop	_	_
 5	im	im	PRON	_	_	0	root	_	_
 6	>+	>+	PUNCT	_	_	9	punct	_	_
 7	we	we	PRON	_	_	9	nsubj	_	_
@@ -75,7 +75,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 acl:cleft	color:blue
-1	na	na	PART	_	_	2	cop	_	_
+1	na	na	AUX	PART	_	2	cop	_	_
 2	God	God	PROPN	_	_	0	root	_	_
 3	>+	>+	PUNCT	_	_	5	punct	_	_
 4	go	go	AUX	_	_	5	aux	_	_
@@ -83,7 +83,7 @@ The following 16 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 6	person	person	NOUN	_	_	5	obj	_	_
 7	dey	dey	AUX	_	_	8	aux	_	_
 8	go	go	VERB	_	_	5	compound:svc	_	_
-9	o	o	PART	_	_	8	advmod:emph	_	_
+9	o	o	ADV	PART	_	8	advmod:emph	_	_
 10	//	//	PUNCT	_	_	2	punct	_	_
 
 ~~~

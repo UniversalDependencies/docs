@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_pud-pos-X.html">
 
 ### `X`
 
-18 <tt><a href="fr_pud-pos-X.html">X</a></tt> tokens (38% of all `X` tokens) have a non-empty value of `Foreign`.
+18 <tt><a href="fr_pud-pos-X.html">X</a></tt> tokens (42% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (18; 100% of non-empty `Foreign`): <em>Este, Greco, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós, Skylark</em>
-* `EMPTY` (30): <em>., El, Punta, a, posteriori, !, ?, Cumae, Die, Fjögur</em>
+* `EMPTY` (25): <em>El, Punta, a, posteriori, Cumae, Die, Fjögur, Jin, Mare, Or</em>
 

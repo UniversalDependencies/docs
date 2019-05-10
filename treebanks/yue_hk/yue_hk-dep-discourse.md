@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `discourse`: <tt><a href="yue_hk-dep-discourse-sp.html">discourse:sp</a></tt>.
 
-163 nodes (3%) are attached to their parents as `discourse`.
+338 nodes (2%) are attached to their parents as `discourse`.
 
-112 instances of `discourse` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.37423312883436.
+251 instances of `discourse` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.90828402366864.
 
-The following 16 pairs of parts of speech are connected with `discourse`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (78; 48% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (43; 26% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (7; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (6; 4% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 23 pairs of parts of speech are connected with `discourse`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (139; 41% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (105; 31% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (22; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (15; 4% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,20 +53,18 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	嘩	嘩	INTJ	_	_	3	discourse	_	SpaceAfter=No
-2	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	真係	真係	ADV	_	_	0	root	_	SpaceAfter=No
-4	喎	喎	PART	_	_	3	discourse:sp	_	SpaceAfter=No
-5	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No
-6	好	好	ADV	_	_	7	advmod	_	SpaceAfter=No
-7	叻	叻	VERB	_	_	3	parataxis	_	SpaceAfter=No
-8	喎	喎	PART	_	_	7	discourse:sp	_	SpaceAfter=No
-9	！	！	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 discourse	color:blue
+1	係	係	AUX	_	_	2	cop	_	SpaceAfter=No
+2	閃卡	閃卡	NOUN	_	_	0	root	_	SpaceAfter=No
+3	！	！	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	好嘢	好嘢	INTJ	_	_	2	discourse	_	SpaceAfter=No
+5	！	！	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	好嘢	好嘢	INTJ	_	_	2	discourse	_	SpaceAfter=No
+7	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

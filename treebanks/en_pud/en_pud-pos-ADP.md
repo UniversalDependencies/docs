@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `ADP`
 
-There are 64 `ADP` lemmas (1%), 64 `ADP` types (1%) and 2497 `ADP` tokens (12%).
+There are 64 `ADP` lemmas (1%), 64 `ADP` types (1%) and 2493 `ADP` tokens (12%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>of, in, to, for, on, with, by, as, at, from</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="en_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.136613).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.138338).
 
 The 1st highest number of forms (1) was observed with the lemma “Under”: <em>Under</em>.
 
@@ -70,11 +70,11 @@ The 3rd highest number of forms (1) was observed with the lemma “above”: <em
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="en_pud-dep-case.html">case</a></tt> (2339; 94% instances), <tt><a href="en_pud-dep-compound-prt.html">compound:prt</a></tt> (62; 2% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (60; 2% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (17; 1% instances), <tt><a href="en_pud-dep-mark.html">mark</a></tt> (9; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="en_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="en_pud-dep-case.html">case</a></tt> (2339; 94% instances), <tt><a href="en_pud-dep-compound-prt.html">compound:prt</a></tt> (62; 2% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (60; 2% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-mark.html">mark</a></tt> (9; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="en_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1595; 64% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (512; 21% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (118; 5% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (96; 4% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (76; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (51; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1594; 64% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (512; 21% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (115; 5% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (96; 4% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (76; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (51; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances),  (1; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-2467 (99%) `ADP` nodes are leaves.
+2463 (99%) `ADP` nodes are leaves.
 
 26 (1%) `ADP` nodes have one child.
 
@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_p
 
 The highest child degree of a `ADP` node is 10.
 
-Children of `ADP` nodes are attached using 10 different relations: <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (28; 65% instances), <tt><a href="en_pud-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (2; 5% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-goeswith.html">goeswith</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-obl-npmod.html">obl:npmod</a></tt> (1; 2% instances)
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (28; 64% instances), <tt><a href="en_pud-dep-punct.html">punct</a></tt> (6; 14% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (2; 5% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-goeswith.html">goeswith</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="en_pud-dep-obl-npmod.html">obl:npmod</a></tt> (1; 2% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (12; 28% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (11; 26% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (7; 16% instances), <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 12% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 2% instances)
+Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (12; 27% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (11; 25% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (7; 16% instances), <tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 14% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 2% instances)
 

@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:name	color:blue
-1	Mhux	_	PART	PRON_PERS_NEG	_	2	aux:neg	_	_
+1	Mhux	_	AUX	PRON_PERS_NEG	_	2	aux:neg	_	_
 2	dgħufija	_	NOUN	NOUN	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	6	mark	_	_
 4	wieħed	_	NUM	NUM_WHD	_	6	nsubj	_	_
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a
 4	Moffatt	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
 5	,	_	PUNCT	X_PUN	_	1	punct	_	_
 6	gravitazzjoni	_	NOUN	NOUN	_	1	list	_	_
-7	mhux	_	PART	PRON_PERS_NEG	_	8	aux:neg	_	_
+7	mhux	_	AUX	PRON_PERS_NEG	_	8	aux:neg	_	_
 8	simmetrica	_	ADJ	ADJ	_	6	amod	_	_
 9	(	_	PUNCT	X_PUN	_	10	punct	_	SpaceAfter=No
 10	NGT	_	NOUN	X_ABV	_	6	appos	_	SpaceAfter=No

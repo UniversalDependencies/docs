@@ -10,16 +10,16 @@ This feature is language-specific.
 It occurs with 7 different values: `Com`, `Geo`, `Giv`, `Nat`, `Oth`, `Pro`, `Sur`.
 Some words have combined values of the feature; 21 combinations have been observed: `Com|Geo`, `Com|Giv`, `Com|Giv|Sur`, `Com|Nat`, `Com|Oth`, `Com|Pro`, `Com|Pro|Sur`, `Com|Sur`, `Geo|Giv`, `Geo|Giv|Sur`, `Geo|Oth`, `Geo|Pro`, `Geo|Sur`, `Giv|Nat`, `Giv|Oth`, `Giv|Pro`, `Giv|Pro|Sur`, `Giv|Sur`, `Nat|Sur`, `Oth|Sur`, `Pro|Sur`.
 
-88937 tokens (6%) have a non-empty value of `NameType`.
-24371 types (19%) occur at least once with a non-empty value of `NameType`.
-17008 lemmas (29%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 11 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (84031; 6% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (4756; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+88936 tokens (6%) have a non-empty value of `NameType`.
+24370 types (19%) occur at least once with a non-empty value of `NameType`.
+17007 lemmas (29%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 11 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (84030; 6% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (4756; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-84031 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+84030 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84031; 100%), <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (70989; 84%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63182; 75%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (48949; 58%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84030; 100%), <tt><a href="cs_pdt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (70988; 84%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63182; 75%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (48949; 58%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Com,Nat` (5; 0% of non-empty `NameType`): <em>Jihlavanu, Jihlavan</em>
 * `Com,Pro` (34; 0% of non-empty `NameType`): <em>Bild, Canon, Fiat, Honda, Fiatu, Canonu, Hondy, CANON, Fiaty, HONDA</em>
 * `Com,Sur` (44; 0% of non-empty `NameType`): <em>Benetton, Benettonu, Mates, Winston, Maxwell, Biederstein, Bradstreet, Daimler, Dohme, Dun</em>
-* `Geo` (26520; 32% of non-empty `NameType`): <em>Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</em>
+* `Geo` (26519; 32% of non-empty `NameType`): <em>Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</em>
 * `Geo,Giv` (31; 0% of non-empty `NameType`): <em>Amos, Gyula, Gyuly, Karin, Alma, AMOS, Amosem, Gyulu, José, Josému</em>
 * `Geo,Giv,Sur` (18; 0% of non-empty `NameType`): <em>Butrus, Butruse, Keith, Kozák</em>
 * `Geo,Oth` (1; 0% of non-empty `NameType`): <em>Saturn</em>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt></tt></td><td><em>Paris</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 96% lemmas (14763) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 96% lemmas (14762) occur only with one value of `NameType`.
 
 ### `ADJ`
 
@@ -227,14 +227,14 @@ The most frequent other feature values with which `DET` and `NameType` co-occurr
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5319; 88%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (591; 71%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (210; 88%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5320; 88%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (591; 70%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (213; 87%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (128; 80%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (81; 70%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (83; 70%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (56; 71%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (10; 53%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 64%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-cc.html">cc</a></tt>]--> PROPN</tt> (5; 56%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (4; 100%).
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (4; 57%),
+<tt>PART --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (3; 75%).
 

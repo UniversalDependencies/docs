@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.791667 (the average of all parts of speech is 1.207153).
+The form / lemma ratio of `PUNCT` is 0.791667 (the average of all parts of speech is 1.203116).
 
 The 1st highest number of forms (4) was observed with the lemma “।”: !, -, ?, ।.
 
@@ -42,19 +42,9 @@ Examples: ।, ,, -, ., ', ), (, -JOIN, ?, '1
 
 `PUNCT` nodes are attached to their parents using 4 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (23415; 100% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (37; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (15476; 66% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3183; 14% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2818; 12% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (992; 4% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (213; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (186; 1% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (156; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (132; 1% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (107; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (60; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (45; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (15739; 67% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3218; 14% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2951; 13% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1007; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (199; 1% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (155; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (124; 1% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (38; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
 
-23408 (100%) `PUNCT` nodes are leaves.
+23455 (100%) `PUNCT` nodes are leaves.
 
-46 (0%) `PUNCT` nodes have one child.
-
-0 (0%) `PUNCT` nodes have two children.
-
-1 (0%) `PUNCT` nodes have three or more children.
-
-The highest child degree of a `PUNCT` node is 3.
-
-Children of `PUNCT` nodes are attached using 4 different relations: <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (45; 92% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="hi_hdtb-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (1; 2% instances)
-
-Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (45; 92% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (2; 4% instances)
+The highest child degree of a `PUNCT` node is 0.
 

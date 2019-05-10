@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-127 nodes (2%) are attached to their parents as `det`.
+192 nodes (1%) are attached to their parents as `det`.
 
-125 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24409448818898.
+190 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26041666666667.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (119; 94% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (181; 94% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,37 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 8	двума	два	NUM	CD	Case=Ins|Gender=Masc|NumType=Card	9	nummod	_	_
 9	падыходамі	падыход	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 det	color:blue
+1	Трымацца	трымацца	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	20	xcomp	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	сцэне	сцэна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	спантанна	спантанна	ADV	_	Degree=Pos	6	advmod	_	_
+6	адказваць	адказваць	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	каверзныя	каверзны	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	пытанні	пытанне	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obl	_	_
+10	суддзяў	суддзя	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	дарыць	дарыць	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	_	_
+13	публіцы	публіка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
+14	шчаслівы	шчаслівы	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	эмоцыі	эмоцыя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+16	—	—	PUNCT	_	_	18	punct	_	_
+17	усё	увесь	DET	_	Case=Nom|Gender=Neut|Number=Sing	18	det	_	_
+18	гэта	гэта	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	appos	_	_
+19	трэба	трэба	VERB	_	_	0	root	_	_
+20	ўмець	ўмець	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	csubj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~
 
@@ -56,37 +87,6 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 12	можа	магчы	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
 13	падавацца	падавацца	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 17 det	color:blue
-1	Трымацца	трымацца	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	18	appos	_	_
-2	на	на	ADP	_	_	3	case	_	_
-3	сцэне	сцэна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	спантанна	спантанна	ADV	_	Degree=Pos	6	advmod	_	_
-6	адказваць	адказваць	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	_	_
-7	на	на	ADP	_	_	9	case	_	_
-8	каверзныя	каверзны	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
-9	пытанні	пытанне	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obl	_	_
-10	суддзяў	суддзя	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	дарыць	дарыць	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	conj	_	_
-13	публіцы	публіка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
-14	шчаслівы	шчаслівы	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
-15	эмоцыі	эмоцыя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
-16	—	—	PUNCT	_	_	18	punct	_	_
-17	усё	увесь	DET	_	Case=Nom|Gender=Neut|Number=Sing	18	det	_	_
-18	гэта	гэта	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
-19	трэба	трэба	ADV	_	Degree=Pos	0	root	_	_
-20	ўмець	ўмець	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	csubj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~
 

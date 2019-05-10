@@ -13,7 +13,7 @@ This relation is universal.
 188 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (90; 48% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (28; 15% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (24; 13% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (10; 5% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (90; 48% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (24; 13% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (13; 7% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (11; 6% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (10; 5% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,25 +27,6 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	ma	_	SCONJ	COMP	_	2	fixed	_	_
 4	sellmitilhom	_	VERB	VERB	_	1	advcl	_	SpaceAfter=No
 5	.	_	PUNCT	X_PUN	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	Ma	_	PART	NEG	_	2	aux:neg	_	_
-2	jafx	_	VERB	VERB	_	0	root	_	_
-3	ġietx	_	VERB	VERB	_	2	ccomp	_	_
-4	għax	_	SCONJ	CONJ_SUB	_	7	mark	_	_
-5	x'	_	PRON	PRON_INT	_	7	advmod	_	SpaceAfter=No
-6	aktarx	_	ADV	ADV	_	5	fixed	_	_
-7	laħaq	_	VERB	VERB	_	2	advcl	_	_
-8	raqad	_	VERB	VERB	_	7	xcomp	_	SpaceAfter=No
-9	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 ~~~
 
@@ -74,6 +55,32 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 16	ta'	_	ADP	GEN	_	17	case	_	_
 17	sidru	_	NOUN	NOUN	_	15	nmod:poss	_	SpaceAfter=No
 18	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 fixed	color:blue
+1	Żammit	_	PROPN	NOUN_PROP	_	2	nsubj	_	_
+2	għandha	_	VERB	VERB_PSEU	_	0	root	_	_
+3	esperjenza	_	NOUN	NOUN	_	2	obj	_	_
+4	estensiva	_	ADJ	ADJ	_	3	amod	_	_
+5	fix-	_	ADP	PREP_DEF	_	6	case:det	_	SpaceAfter=No
+6	xogħol	_	NOUN	NOUN	_	3	nmod	_	_
+7	mat-	_	ADP	PREP_DEF	_	8	case:det	_	SpaceAfter=No
+8	tfal	_	NOUN	NOUN	_	6	obl	_	_
+9	kif	_	PRON	PRON_INT	_	12	cc	_	_
+10	ukoll	_	ADV	FOC	_	9	fixed	_	_
+11	fil-	_	ADP	PREP_DEF	_	12	case:det	_	SpaceAfter=No
+12	qasam	_	NOUN	NOUN	_	6	conj	_	_
+13	tas-	_	ADP	GEN_DEF	_	14	case:det	_	SpaceAfter=No
+14	servizzi	_	NOUN	NOUN	_	12	nmod:poss	_	_
+15	soċjali	_	ADJ	ADJ	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 ~~~
 

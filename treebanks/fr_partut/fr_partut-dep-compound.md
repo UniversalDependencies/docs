@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-72 nodes (0%) are attached to their parents as `compound`.
+71 nodes (0%) are attached to their parents as `compound`.
 
-72 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13888888888889.
+71 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14084507042254.
 
-The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (71; 99% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (70; 99% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

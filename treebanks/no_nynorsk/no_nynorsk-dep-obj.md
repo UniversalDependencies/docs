@@ -24,7 +24,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5 6 obj	color:blue
 1	8	8	NUM	_	Number=Plur|NumType=Card	2	nummod	_	_
 2	salatblad	salatblad	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
-3	,	$,	PUNCT	_	_	2	punct	_	_
+3	,	$,	PUNCT	_	_	5	punct	_	_
 4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	brukte	bruke	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
 6	hjertesalat	hjertesalat	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	_

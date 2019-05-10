@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-216 nodes (0%) are attached to their parents as `expl:pass`.
+235 nodes (0%) are attached to their parents as `expl:pass`.
 
-176 instances of `expl:pass` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+194 instances of `expl:pass` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31489361702128.
 
-The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (209; 97% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (228; 97% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 13	fgColor:white
 # visual-style 13 11 expl:pass	color:blue
 1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MARC13.13
-2	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	appos	_	ref=MARC13.13
+2	cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj:pass	_	ref=MARC13.13
 3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	5	nsubj	_	ref=MARC13.13
 4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MARC13.13
 5	răbda	răbda	VERB	Vmn	VerbForm=Inf	2	acl	_	ref=MARC13.13
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	fixed	_	ref=MARC13.13
 8	sfîrșit	sfârșit	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod:tmod	_	ref=MARC13.13|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	2	punct	_	ref=MARC13.13
-10	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj:pass	_	ref=MARC13.13
+10	acela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	appos	_	ref=MARC13.13
 11	să	să	PART	Qs	PartType=Sub	13	expl:pass	_	ref=MARC13.13
 12	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux	_	ref=MARC13.13
 13	mîntui	mântui	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MARC13.13|SpaceAfter=No

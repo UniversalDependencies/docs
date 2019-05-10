@@ -38,15 +38,14 @@ The following 30 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 obl	color:blue
-1	Orada	ora	PRON	Noun	Case=Loc|Number=Sing|Person=3	3	obl	_	_
-2	ki	ki	ADP	Rel	_	1	case	_	_
-3	tartışma	tartış	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	5	nsubj	_	_
-4	hayli	hayli	ADV	Adverb	_	5	advmod	_	_
-5	zengin	zengin	ADJ	Adj	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 obl	color:blue
+1	Ona	o	PRON	Pers	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+2	her	her	DET	Det	_	4	obj	_	_
+3	şeyimi	şey	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	2	compound	_	_
+4	verdim	ver	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

@@ -9,29 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-381 tokens (2%) have a non-empty value of `InfForm`.
-293 types (4%) occur at least once with a non-empty value of `InfForm`.
+384 tokens (2%) have a non-empty value of `InfForm`.
+295 types (4%) occur at least once with a non-empty value of `InfForm`.
 221 lemmas (4%) occur at least once with a non-empty value of `InfForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (368; 2% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (13; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (371; 2% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (13; 0% instances).
 
 ### `VERB`
 
-368 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `InfForm`.
+371 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (368; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (368; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 99%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (366; 99%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (191; 52%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (371; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (371; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (371; 100%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (371; 100%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (371; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (371; 100%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (369; 99%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (369; 99%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (191; 51%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
-* `1` (209; 57% of non-empty `InfForm`): <em>tehdä, johtaa, nähdä, palata, saadakseen, tulla, antaa, käyttää, lähteä, pitää</em>
+* `1` (209; 56% of non-empty `InfForm`): <em>tehdä, johtaa, nähdä, palata, saadakseen, tulla, antaa, käyttää, lähteä, pitää</em>
 * `2` (59; 16% of non-empty `InfForm`): <em>liittyen, lukien, johtuen, muodostaen, Ohittaen, Poiketen, Puhuessaan, Viettäessään, antaen, antaessaan</em>
-* `3` (100; 27% of non-empty `InfForm`): <em>olemassa, käyttämällä, hoitamaan, kilpailemaan, laittamaan, osoittamasta, ottamaan, pitämään, tuottamaan, uskomasta</em>
+* `3` (103; 28% of non-empty `InfForm`): <em>olemassa, käyttämällä, hoitamaan, kilpailemaan, laittamaan, osoittamasta, ottamaan, pitämään, tulossa, tuottamaan</em>
 
 <table>
-  <tr><th>Paradigm <i>tehdä</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td></td><td></td><td><em>tekemään</em></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>tehdessään</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td></td><td></td><td><em>tekemässä</em></td></tr>
-  <tr><td><tt></tt></td><td><em>tehdä</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>tulla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>tullessaan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td></td><td><em>tullessa</em></td><td><em>tulossa</em></td></tr>
+  <tr><td><tt></tt></td><td><em>tulla</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`

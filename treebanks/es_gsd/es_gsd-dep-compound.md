@@ -51,7 +51,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 4	siempre	siempre	ADV	_	_	5	advmod	_	_
 5	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
-7	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	5	csubj	_	_
 9	en	en	ADP	_	_	10	case	_	_
 10	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
@@ -71,7 +71,7 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 2	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
 3	-	-	PUNCT	_	_	4	punct	_	_
 4	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
-5	están	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	muy	mucho	ADV	_	_	7	advmod	_	_
 7	presentes	presente	ADJ	_	Number=Plur	0	root	_	_
 8	en	en	ADP	_	_	10	case	_	_

@@ -9,93 +9,80 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1394 tokens (0%) have a non-empty value of `Foreign`.
-940 types (2%) occur at least once with a non-empty value of `Foreign`.
-929 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 12 part-of-speech tags: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1183; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (74; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (35; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+2436 tokens (1%) have a non-empty value of `Foreign`.
+1494 types (3%) occur at least once with a non-empty value of `Foreign`.
+1480 lemmas (3%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (2197; 1% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (88; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (67; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-1183 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+2197 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1183; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1183; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1183; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2197; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2197; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2197; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (1183; 100% of non-empty `Foreign`): <em>the, of, la, de, You, for, a, do, is, it</em>
-* `EMPTY` (30001): <em>von, Deutschland, de, US, Berlin, of, SPD, St., für, Oktober</em>
+* `Yes` (2197; 100% of non-empty `Foreign`): <em>of, de, the, University, la, d', for, You, di, a</em>
+* `EMPTY` (28660): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, von</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (811) occur only with one value of `Foreign`.
-
-### `NOUN`
-
-74 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (74; 100%).
-
-`NOUN` tokens may have the following values of `Foreign`:
-
-* `Yes` (74; 100% of non-empty `Foreign`): <em>Bass, Top, facto, &amp;, Arrondissement, Armée, Atun, Chief, City, Dirigent</em>
-* `EMPTY` (52148): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
-
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (62) occur only with one value of `Foreign`.
-
-### `CCONJ`
-
-35 <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
-
-`CCONJ` tokens may have the following values of `Foreign`:
-
-* `Yes` (35; 100% of non-empty `Foreign`): <em>and, et, an, bzw, i, or, ou, u</em>
-* `EMPTY` (8830): <em>und, oder, sowie, aber, als, sondern, wie, sowohl, doch, noch</em>
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1362) occur only with one value of `Foreign`.
 
 ### `X`
 
-31 <tt><a href="de_gsd-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Foreign`.
+88 <tt><a href="de_gsd-pos-X.html">X</a></tt> tokens (26% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (31; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (88; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (88; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (88; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (31; 100% of non-empty `Foreign`): <em>i, &amp;, ???, ????, ?????, ???????, All, Bottom, PS, Slow</em>
-* `EMPTY` (338): <em>z.B., u.a., =, %, B., etc., †, *, z., &amp;</em>
+* `Yes` (88; 100% of non-empty `Foreign`): <em>'s, i, to, be, ???, ????, ?????, ???????, All, Bottom</em>
+* `EMPTY` (256): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (58) occur only with one value of `Foreign`.
+
+### `NOUN`
+
+67 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (67; 100%).
+
+`NOUN` tokens may have the following values of `Foreign`:
+
+* `Yes` (67; 100% of non-empty `Foreign`): <em>Bass, Top, facto, Arrondissement, Armée, Atun, Chief, City, Dirigent, Drücklok</em>
+* `EMPTY` (52135): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (57) occur only with one value of `Foreign`.
+
+### `CCONJ`
+
+33 <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
+
+`CCONJ` tokens may have the following values of `Foreign`:
+
+* `Yes` (33; 100% of non-empty `Foreign`): <em>and, et, an, bzw, i, or, ou, u</em>
+* `EMPTY` (8826): <em>und, oder, sowie, aber, als, sondern, wie, sowohl, doch, noch</em>
 
 ### `ADJ`
 
-23 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+18 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (23; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (23; 100% of non-empty `Foreign`): <em>Top, Local, Safe, ca, correct, crazy, englisch, good, green, happy</em>
+* `Yes` (18; 100% of non-empty `Foreign`): <em>Top, Local, Safe, ca, correct, englisch, hollandaise, hypermethylated, imparar, lat.</em>
 * `EMPTY` (20550): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
 
-`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (19) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Foreign`.
 
 ### `ADP`
 
-17 <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
+15 <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
 `ADP` tokens may have the following values of `Foreign`:
 
-* `Yes` (17; 100% of non-empty `Foreign`): <em>in, de, a, För, of, om, per</em>
-* `EMPTY` (31672): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
-
-### `VERB`
-
-10 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%).
-
-`VERB` tokens may have the following values of `Foreign`:
-
-* `Yes` (10; 100% of non-empty `Foreign`): <em>Logon, anschloss, live, loved, meln, realize, sang, shines, smoke, wanted</em>
-* `EMPTY` (19912): <em>gibt, hat, kam, liegt, hatte, gab, war, erhielt, befindet, ist</em>
-
-`Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Foreign`.
+* `Yes` (15; 100% of non-empty `Foreign`): <em>in, de, a, För, om, per</em>
+* `EMPTY` (31974): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 ### `ADV`
 
@@ -104,18 +91,18 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>Please, always, ca, inte, socially, up, wahnsinning, yonder</em>
-* `EMPTY` (14751): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14854): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
-### `AUX`
+### `VERB`
 
-5 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Foreign`.
+6 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `AUX` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%).
 
-`AUX` tokens may have the following values of `Foreign`:
+`VERB` tokens may have the following values of `Foreign`:
 
-* `Yes` (5; 100% of non-empty `Foreign`): <em>be, could, have, was</em>
-* `EMPTY` (11391): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `Yes` (6; 100% of non-empty `Foreign`): <em>Logon, anschloss, loved, meln, sang, shines</em>
+* `EMPTY` (20706): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `DET`
 
@@ -126,39 +113,28 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>The, alla, dessa</em>
-* `EMPTY` (36857): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
-
-### `PART`
-
-3 <tt><a href="de_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `PART` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
-
-`PART` tokens may have the following values of `Foreign`:
-
-* `Yes` (3; 100% of non-empty `Foreign`): <em>to</em>
-* `EMPTY` (2163): <em>nicht, zu, aus, an, ja, nein, 's, Hallo, hin, her</em>
+* `EMPTY` (36793): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `SCONJ`
 
-2 <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Foreign`.
 
 `SCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (2; 100% of non-empty `Foreign`): <em>att, so</em>
-* `EMPTY` (1800): <em>dass, da, wenn, als, daß, nachdem, weil, wie, während, ob</em>
+* `Yes` (1; 100% of non-empty `Foreign`): <em>att</em>
+* `EMPTY` (1747): <em>dass, da, wenn, als, daß, nachdem, weil, wie, während, ob</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (173; 59%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-case.html">case</a></tt>]--> PROPN</tt> (97; 69%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (77; 62%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-cc.html">cc</a></tt>]--> CCONJ</tt> (29; 62%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (25; 83%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-advmod.html">advmod</a></tt>]--> PROPN</tt> (16; 94%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PROPN</tt> (14; 78%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-cop.html">cop</a></tt>]--> PROPN</tt> (11; 92%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1226; 89%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (79; 50%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (51; 59%),
+<tt>X --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> X</tt> (30; 100%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (26; 84%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 57%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-aux.html">aux</a></tt>]--> PROPN</tt> (8; 100%).
+<tt>X --[<tt><a href="de_gsd-dep-compound.html">compound</a></tt>]--> X</tt> (8; 73%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PROPN</tt> (7; 64%),
+<tt>VERB --[<tt><a href="de_gsd-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3; 100%),
+<tt>X --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> X</tt> (3; 100%).
 

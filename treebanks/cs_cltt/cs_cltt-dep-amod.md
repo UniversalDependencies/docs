@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	nmod	_	_
 10	vypracován	vypracovaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	amod	_	LDeriv=vypracovat
 11	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	_	LId=podle-2
-12	zákona_č._125/2008_Sb.	zákona_č._125/2008_Sb.	X	X@-------------	_	10	advmod	_	SpaceAfter=No
+12	zákona_č._125/2008_Sb.	zákona_č._125/2008_Sb.	X	X@-------------	_	10	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 14	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	_	LId=o-1
 15	přeměnách	přeměna	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	12	nmod	_	_
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 35	přeměně	přeměna	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	33	nmod	_	_
 36	společnosti	společnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	35	nmod	_	_
 37	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	38	case	_	LId=podle-2
-38	vyhlášky_č._500/2002_Sb.	vyhlášky_č._500/2002_Sb.	X	X@-------------	_	30	advmod	_	SpaceAfter=No
+38	vyhlášky_č._500/2002_Sb.	vyhlášky_č._500/2002_Sb.	X	X@-------------	_	30	obl	_	SpaceAfter=No
 39	,	,	PUNCT	Z:-------------	_	41	punct	_	_
 40	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	41	case	_	LId=v-1
 41	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	38	nmod	_	_

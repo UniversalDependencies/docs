@@ -12,19 +12,19 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 26787 tokens (16%) have a non-empty value of `Tense`.
 9131 types (34%) occur at least once with a non-empty value of `Tense`.
 3482 lemmas (25%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21384; 13% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5140; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (263; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21337; 13% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5187; 3% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (263; 0% instances).
 
 ### `VERB`
 
-21384 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
+21337 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21384; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (18830; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17996; 84%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14516; 68%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14464; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12801; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21337; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (18783; 88%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17949; 84%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14515; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14515; 68%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14463; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12754; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (100; 0% of non-empty `Tense`): <em>bude, nepůjde, nepůjdu, nebude, půjde, půjdeme, půjdu, budou, nebudu, pojedeme</em>
-* `Past` (14467; 68% of non-empty `Tense`): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
-* `Pres` (6817; 32% of non-empty `Tense`): <em>je, má, mám, může, nevím, jsi, musí, není, mají, musím</em>
+* `Past` (14466; 68% of non-empty `Tense`): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
+* `Pres` (6771; 32% of non-empty `Tense`): <em>je, má, mám, může, nevím, musí, není, mají, musím, vím</em>
 * `EMPTY` (3612): <em>dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</em>
 
 <table>
@@ -60,15 +60,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-5140 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Tense`.
+5187 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5140; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4873; 95%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4403; 86%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4130; 80%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4130; 80%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4130; 80%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (2684; 52%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5187; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4920; 95%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4450; 86%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4176; 81%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4176; 81%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4176; 81%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (2684; 52%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (307; 6% of non-empty `Tense`): <em>bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudeme</em>
-* `Past` (1009; 20% of non-empty `Tense`): <em>byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</em>
-* `Pres` (3824; 74% of non-empty `Tense`): <em>jsem, je, jsme, jsou, jste, jsi, není, nejsem, nejsou, bývá</em>
+* `Past` (1010; 19% of non-empty `Tense`): <em>byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</em>
+* `Pres` (3870; 75% of non-empty `Tense`): <em>jsem, je, jsme, jsi, jsou, jste, není, nejsem, nejsou, bývá</em>
 * `EMPTY` (1378): <em>by, bych, být, byste, bys, bychom, buď, buďte, bysme, Buďme</em>
 
 <table>
@@ -121,11 +121,10 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4565; 91%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4566; 91%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1293; 75%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (56; 67%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (57; 67%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (32; 84%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (29; 81%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_fictree-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%).
 

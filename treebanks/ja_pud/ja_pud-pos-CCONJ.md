@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `CCONJ`
 
 There are 17 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 130 `CCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: しかし, また, および, または, そして, 一方, それに, あるいは, さもなくば, しかしながら
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_pud-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (2) was observed with the lemma “および”: および, 及び.
 

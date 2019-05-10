@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 11 10 clf	color:blue
 1	137	137	NUM	CD	Number=Sing	3	nummod	_	_
 2	uluslararası	uluslarara	ADJ	JJ	Number=Sing	3	amod	_	_
-3	maçta	maç	NOUN	NN	Case=Loc|Number=Sing	6	advmod	_	_
+3	maçta	maç	NOUN	NN	Case=Loc|Number=Sing	6	obl	_	_
 4	71	71	NUM	CD	Number=Sing	5	nummod	_	_
 5	gol	gol	NOUN	NN	Number=Sing	6	obj	_	_
 6	kaydederek	kaydet	ADV	CRB	Polarity=Pos	12	advcl	_	_

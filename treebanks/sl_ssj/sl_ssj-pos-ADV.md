@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SSJ: POS Tags: `ADV`
 
-There are 853 `ADV` lemmas (5%), 912 `ADV` types (3%) and 6631 `ADV` tokens (5%).
+There are 852 `ADV` lemmas (5%), 911 `ADV` types (3%) and 6629 `ADV` tokens (5%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>lahko, tako, zelo, kako, bolj, vedno, potem, kar, zdaj, dobro</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>lahko</em> (<tt><a href="sl_ssj-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.069168 (the average of all parts of speech is 1.892155).
+The form / lemma ratio of `ADV` is 1.069249 (the average of all parts of speech is 1.892155).
 
 The 1st highest number of forms (4) was observed with the lemma “dobro”: <em>bolje, dobr, dobro, najbolje</em>.
 
@@ -61,22 +61,22 @@ The 2nd highest number of forms (4) was observed with the lemma “dolgo”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “lahko”: <em>lahko, laže, lažje, lohk</em>.
 
-`ADV` occurs with 2 features: <tt><a href="sl_ssj-feat-Degree.html">Degree</a></tt> (6613; 100% instances), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt> (18; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="sl_ssj-feat-Degree.html">Degree</a></tt> (6611; 100% instances), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt> (18; 0% instances)
 
 `ADV` occurs with 4 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `VerbForm=Conv`
 
 `ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `Degree=Pos` (6089 tokens).
+The most frequent feature combination is `Degree=Pos` (6087 tokens).
 Examples: <em>lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (6328; 95% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (186; 3% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (81; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (25; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (6326; 95% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (186; 3% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (81; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (25; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (4405; 66% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1216; 18% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (391; 6% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (379; 6% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (106; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (77; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (11; 0% instances),  (10; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (4405; 66% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1216; 18% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (389; 6% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (379; 6% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (106; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (77; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (11; 0% instances),  (10; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-5732 (86%) `ADV` nodes are leaves.
+5730 (86%) `ADV` nodes are leaves.
 
 765 (12%) `ADV` nodes have one child.
 

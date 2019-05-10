@@ -8,12 +8,39 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-case.html">case</a></tt>.
 
-11 nodes (0%) are attached to their parents as `case:loc`.
+69 nodes (0%) are attached to their parents as `case:loc`.
 
-10 instances of `case:loc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.54545454545455.
+69 instances of `case:loc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15942028985507.
 
-The following 6 pairs of parts of speech are connected with `case:loc`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 27% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 27% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 18% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 9% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 9% instances).
+The following 7 pairs of parts of speech are connected with `case:loc`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (43; 62% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (12; 17% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 case:loc	color:blue
+1	而	_	CCONJ	_	_	9	advmod	_	SpaceAfter=No
+2	今日	_	NOUN	_	_	5	compound	_	SpaceAfter=No
+3	我哋	_	PRON	_	_	5	nmod	_	SpaceAfter=No
+4	個	_	NOUN	_	NounType=Clf	3	case	_	SpaceAfter=No
+5	會議	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+6	裏面	_	NOUN	_	_	5	case:loc	_	SpaceAfter=No
+7	呢	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+8	，	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	係	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	冇	_	VERB	_	_	9	ccomp	_	SpaceAfter=No
+11	辦法	_	NOUN	_	_	10	obj	_	SpaceAfter=No
+12	去	_	VERB	_	_	11	acl	_	SpaceAfter=No
+13	處理	_	VERB	_	_	12	conj	_	SpaceAfter=No
+14	依個	_	DET	_	_	15	det	_	SpaceAfter=No
+15	問題	_	NOUN	_	_	13	obj	_	SpaceAfter=No
+16	嘅	_	PART	_	_	9	discourse:sp	_	SpaceAfter=No
+17	。	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -35,26 +62,6 @@ The following 6 pairs of parts of speech are connected with `case:loc`: <tt><a h
 11	度	度	ADP	_	_	10	case:loc	_	SpaceAfter=No
 12	囖	囖	PART	_	_	2	discourse:sp	_	SpaceAfter=No
 13	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 case:loc	color:blue
-1	喺	喺	ADP	_	_	2	case	_	SpaceAfter=No
-2	九零三	九零三	PROPN	_	_	6	obl	_	SpaceAfter=No
-3	同埋	同埋	CCONJ	_	_	2	cc	_	SpaceAfter=No
-4	新城	新城	PROPN	_	_	2	conj	_	SpaceAfter=No
-5	之間	之間	ADP	_	_	2	case:loc	_	SpaceAfter=No
-6	轉	轉	VERB	_	_	0	root	_	SpaceAfter=No
-7	嚟	唻	VERB	_	_	6	compound:dir	_	SpaceAfter=No
-8	轉	轉	VERB	_	_	6	conj	_	SpaceAfter=No
-9	去	去	VERB	_	_	8	compound:dir	_	SpaceAfter=No
-10	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

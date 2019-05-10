@@ -53,6 +53,17 @@ UD Erzya is the original annotation (CoNLL-U) for texts in the Erzya language. T
 
 The original annotation has been performed by Jack Rueter at the University of Helsinki using morphological tools facilitated at the Norwegian Arctic University in Tromsø and with continuous consultation from Francis Tyers. Without the Erzya writers themselves, we would be no where…
 
+If you use this data in your work, please cite:
+
+@inproceedings{rueter2018towards,
+title={Towards an open-source universal-dependency treebank for Erzya},
+author={Rueter, Jack and Tyers, Francis},
+booktitle={Proceedings of the Fourth International Workshop on Computational Linguistics of Uralic Languages},
+pages={106--118},
+year={2018}
+}
+
+
 
 # Statistics of UD Erzya JR
 
@@ -66,7 +77,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 
 ## Relations
 
-[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:tmod](myv_jr-dep-advmod-tmod.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:q](myv_jr-dep-aux-q.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:coll](myv_jr-dep-compound-coll.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [compound:svc](myv_jr-dep-compound-svc.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [goeswith](myv_jr-dep-goeswith.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:comp](myv_jr-dep-nmod-comp.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nsubj](myv_jr-dep-nsubj.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
+[acl](myv_jr-dep-acl.html) – [acl:relcl](myv_jr-dep-acl-relcl.html) – [advcl](myv_jr-dep-advcl.html) – [advmod](myv_jr-dep-advmod.html) – [advmod:tmod](myv_jr-dep-advmod-tmod.html) – [amod](myv_jr-dep-amod.html) – [appos](myv_jr-dep-appos.html) – [aux](myv_jr-dep-aux.html) – [aux:neg](myv_jr-dep-aux-neg.html) – [aux:q](myv_jr-dep-aux-q.html) – [case](myv_jr-dep-case.html) – [cc](myv_jr-dep-cc.html) – [cc:preconj](myv_jr-dep-cc-preconj.html) – [ccomp](myv_jr-dep-ccomp.html) – [compound](myv_jr-dep-compound.html) – [compound:coll](myv_jr-dep-compound-coll.html) – [compound:redup](myv_jr-dep-compound-redup.html) – [compound:svc](myv_jr-dep-compound-svc.html) – [conj](myv_jr-dep-conj.html) – [cop](myv_jr-dep-cop.html) – [csubj](myv_jr-dep-csubj.html) – [dep](myv_jr-dep-dep.html) – [det](myv_jr-dep-det.html) – [discourse](myv_jr-dep-discourse.html) – [dislocated](myv_jr-dep-dislocated.html) – [expl](myv_jr-dep-expl.html) – [fixed](myv_jr-dep-fixed.html) – [flat](myv_jr-dep-flat.html) – [flat:name](myv_jr-dep-flat-name.html) – [mark](myv_jr-dep-mark.html) – [nmod](myv_jr-dep-nmod.html) – [nmod:comp](myv_jr-dep-nmod-comp.html) – [nmod:gobj](myv_jr-dep-nmod-gobj.html) – [nmod:gsubj](myv_jr-dep-nmod-gsubj.html) – [nsubj](myv_jr-dep-nsubj.html) – [nummod](myv_jr-dep-nummod.html) – [obj](myv_jr-dep-obj.html) – [obl](myv_jr-dep-obl.html) – [obl:agent](myv_jr-dep-obl-agent.html) – [obl:tmod](myv_jr-dep-obl-tmod.html) – [orphan](myv_jr-dep-orphan.html) – [parataxis](myv_jr-dep-parataxis.html) – [punct](myv_jr-dep-punct.html) – [root](myv_jr-dep-root.html) – [vocative](myv_jr-dep-vocative.html) – [xcomp](myv_jr-dep-xcomp.html) – [xcomp:ds](myv_jr-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -102,7 +113,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 </ul>
 
 <ul>
-<li>This corpus contains 38 word types tagged as particles (PART): Бульчом, Ведь, Кадык, Каня, Эдь, Эрь, а, аволь, азё, апак, арась, бу, бути, буто, вай, вана, весемеде, военно, допрок, ды, жо, как, карадо, келя, кой, ли, нать, но, оно, паряк, прок, седе, седеяк, сехте, то, тыц, эно, ялатеке</li>
+<li>This corpus contains 31 word types tagged as particles (PART): Бульчом, Ведь, Каня, Эдь, Эрь, азё, бути, буто, вай, вана, весемеде, военно, допрок, ды, жо, как, карадо, келя, кой, нать, но, оно, паряк, прок, седе, седеяк, сехте, то, тыц, эно, ялатеке</li>
 </ul>
 
 <ul>
@@ -110,7 +121,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as determiners (DET): аламне, аламо, вейте-вейте, весе, ветешка, зняро, зяро, зярыя, истямо, колмонь-колмонь, кона, ламо, лия, лиякс, не, некень, неть, нонат, пель, се, секе, те, теке, эрьва, эсь</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): аламне, аламо, вейте-вейте, весе, зняро, зяро, зярыя, истямо, кона, ламо, лия, лиякс, не, некень, неть, нонат, се, секе, те, теке, эрьва, эсь</li>
 </ul>
 
 <ul>
@@ -118,11 +129,11 @@ The original annotation has been performed by Jack Rueter at the University of H
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): а, аволь, арась, вадря, давайте, иля, иляV, кадомс, оль, савкшномс, савомс, улемс, ульнемс, эзия, эзь, эрявомс</li>
+<li>This corpus contains 19 lemmas tagged as auxiliaries (AUX): а, аволь, апак, арась, бу, давай, давайте, иля, кадык, кармамс, ли, оль, савкшномс, савомс, улемс, ульнемс, штоли, эзь, эрявомс</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: аволь, иля, кадомс, эзь, эрявомс</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: кармамс, эрявомс</li>
 </ul>
 
 <ul>
@@ -238,8 +249,8 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>ADJ: беднойстэ, виде-паронь, виевстэ, кежейстэ, манейдеяк, марявиксстэ, остаткадояк, стяконь, сэтьмекс, сюпавонь</li>
       <li>ADP: ваксс, вакссо, вакска, велькссэнзэ, кондямокс, лангстонзо, мартонь, ёжос</li>
-      <li>ADV: алкуксонь, вакска, ваксстост, колмоцеде, мейлес, парынестэ</li>
-      <li>DET: конань, ламонь, аламнеде, аламодо, аламос, ламос, лиякс, лиянь</li>
+      <li>ADV: аламодо, алкуксонь, вакска, ваксстост, колмоцеде, ламос, мейлес, парынестэ</li>
+      <li>DET: конань, ламонь, аламнеде, лиякс, лиянь</li>
       <li>NOUN: кудов, лангс, велень, каськас, ёнов, кудос, шкане, ёндо, вайгельсэ, мельс</li>
       <li>NOUN-Vnoun: Удомань, валаськавтомадо, кандомадо, каявомадо, сиземань, туемадо</li>
       <li>NUM: колоньгеменьшка, сядошка, кавтов, кеменьшка, сядодо</li>
@@ -256,15 +267,16 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: кодамо, васень, рижой, омбоце, пешксе, валдо, васенце, кадовикс, кондямо, меельце</li>
+      <li>ADJ: кодамо, васень, омбоце, рижой, пешксе, валдо, васенце, кадовикс, кондямо, меельце</li>
       <li>ADP: перька</li>
-      <li>ADV: мекев, Кодашка, алкукскак, байтяк, истякак, ламо, теске</li>
-      <li>DET: эрьва, те, се, ламо, лия, истямо, кона, секе, аламо, зяро</li>
+      <li>ADV: истямо, ламо, мекев, секе, Кодашка, алкукскак, байтяк, истякак, теске</li>
+      <li>AUX: бу</li>
+      <li>DET: эрьва, те, се, лия, истямо, кона, ламо, аламо, зяро, зярыя</li>
       <li>INTJ: Бах</li>
       <li>NOUN: бандитэсь, прянзо, авазо, кенкшенть, ломань, ведь, тайганть, тев, тол, веленть</li>
       <li>NOUN-Vnoun: коцькерямонть, удомазо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, вейкесь, ниле, омбоцесь, Комсь, Кавто-колмо, Комсьсисемге, Сисемь</li>
-      <li>PART: бу, ялатеке, допрок, тыц, Эрь</li>
+      <li>PART: ялатеке, допрок, тыц, Эрь</li>
       <li>PRON: сон, весе, те, мон, сонзэ, сонсь, тензэ, мезе, тон, кона</li>
       <li>PROPN: Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</li>
       <li>VERB: молиця, аштиця, вечкема, кадовозь, солавтозь, сэредиця, Ёртозь, Мизолдыця, Пейдемат, апаркстомтыця</li>
@@ -295,7 +307,7 @@ The original annotation has been performed by Jack Rueter at the University of H
       <li>ADJ: манейдеяк, остаткадояк</li>
       <li>ADP: пельде, ёндо, алдо, пельдеяк, эздэ, эстэдест, кавалалдо, томбальде, эстэденек</li>
       <li>ADV: аламодо, васолдо, омбоцеде, колмоцеде, сехте, васенцеде, верде, верьде, знярдо, седеяк</li>
-      <li>DET: аламнеде, аламодо, ламодонть</li>
+      <li>DET: аламнеде, ламодонть</li>
       <li>NOUN: ёндо, ашотнеде, бандитнэде, иеде, чопачадо, ёндояк, Ашодонть, Кавтолдоматнеде, Кудотнеде, Панжовкскетнеде</li>
       <li>NOUN-Vnoun: валаськавтомадо, кандомадо, каявомадо, туемадо</li>
       <li>NUM: сядодо</li>
@@ -377,7 +389,6 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>ADP: лангс, ланкс, ваксс, коряс, эйзэнзэ, келес, таркас, юткс, лангозост, эйс</li>
       <li>ADV: куватьс, козонь, зярс, лангс, тозонь, вейс, одс, Знярс, каршозост, козоньгак</li>
-      <li>DET: аламос, ламос</li>
       <li>NOUN: лангс, каськас, кудос, мельс, юткс, лангозонзо, велес, кардайс, пряс, тевс</li>
       <li>PRON: мезес</li>
       <li>VERB-Conv: куломс, печтемс, пувамс</li>
@@ -402,11 +413,11 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Lat
     <ul>
-      <li>ADP: ёнов, алов, пелев, икелев, малав, томбалев, удалов, аловгак, латалов</li>
-      <li>ADV: тов, ков, тей, чопоньбелев, верев, мекев, тев, малав, алов, кудыкелев</li>
+      <li>ADP: ёнов, алов, икелев, пелев, малав, томбалев, удалов, аловгак, латалов</li>
+      <li>ADV: тов, ков, тей, чопоньбелев, верев, мекев, тев, малав, пелев, алов</li>
       <li>NOUN: кудов, ёнов, ушов, велев, тайгав, ульцяв, вирев, Вечерняв, волостев, кардазов</li>
       <li>NUM: кавтов</li>
-      <li>PRON: ков</li>
+      <li>PRON: Ков</li>
       <li>PROPN: Цярданев, Цярданевгак</li>
     </ul>
   </li>
@@ -429,14 +440,15 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: кодамо, кодат, рижой, омбоце, васенце, васень, вишкинетне, кадовикс, кондямо, меельце</li>
-      <li>ADV: алкукскак, байтяк, истякак, ламо</li>
-      <li>DET: эрьва, те, ламо, лия, истямо, кона, секе, аламо, зяро, ламотне</li>
+      <li>ADJ: кодамо, кодат, омбоце, рижой, васень, васенце, вишкинетне, кадовикс, кондямо, меельце</li>
+      <li>ADV: истямо, ламо, секе, алкукскак, байтяк, истякак</li>
+      <li>AUX: бу</li>
+      <li>DET: эрьва, те, лия, истямо, кона, ламо, аламо, зяро, ламотне, се</li>
       <li>INTJ: Бах</li>
       <li>NOUN: бандитэсь, партизантнэ, ялгат, авазо, бандитнэ, ломань, ведь, тев, тол, сёвонь</li>
       <li>NOUN-Vnoun: удомазо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, вейкесь, ниле, вейкеть, омбоцесь, Комсь, Кавто-колмо, Кавтотне</li>
-      <li>PART: бу, ялатеке, допрок, тыц, Эрь</li>
+      <li>PART: ялатеке, допрок, тыц, Эрь</li>
       <li>PRON: сон, весе, те, мон, сонсь, минь, мезе, сынь, тон, кона</li>
       <li>PROPN: Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</li>
       <li>VERB: молиця, аштиця, вечкема, кадовозь, солавтозь, сэредиця, Ёртозь, Мизолдыця, Пейдемат, апаркстомтыця</li>
@@ -511,16 +523,17 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: кодамо, рижой, кодат, омбоце, васенце, васень, кадовикс, кондямо, меельце, од</li>
+      <li>ADJ: кодамо, омбоце, рижой, васень, кодат, васенце, кадовикс, кондямо, меельце, од</li>
       <li>ADP: перька, ваксс, вакссо, томбалев, ало, вакска, кондямокс, латалов, мартонь, удалов</li>
-      <li>ADV: колияк, косояк, мекев, сехте, Кодашка, алкукскак, алкуксонь, байтяк, вакска, васолдо</li>
-      <li>DET: эрьва, те, ламо, лия, истямо, секе, аламо, зяро, кона, се</li>
+      <li>ADV: колияк, истямо, косояк, ламо, мекев, секе, сехте, Кодашка, аламодо, алкукскак</li>
+      <li>AUX: бу</li>
+      <li>DET: эрьва, те, лия, истямо, ламо, аламо, зяро, кона, се, зярыя</li>
       <li>INTJ: Бах</li>
       <li>NOUN: ялгат, кудов, лангс, тев, велень, каськас, ломань, ведь, тол, ёнов</li>
       <li>NOUN-Vnoun: Удомань, валаськавтомадо, кандомадо, каявомадо, сиземань, туемадо, ёртнема</li>
       <li>NUM: вейке, кавто, колмо, ниле, вейкеть, Комсь, колоньгеменьшка, сядошка, Кавто-колмо, Колмосят</li>
-      <li>PART: бу, ялатеке, допрок, кой, тыц, Эрь</li>
-      <li>PRON: весе, те, мезе, кона, конань, неть, конат, истямо, теке, тень</li>
+      <li>PART: ялатеке, допрок, кой, тыц, Эрь</li>
+      <li>PRON: весе, те, мезе, кона, конань, неть, конат, истямо, тень, тона</li>
       <li>PROPN: Микол, Ястребов, Палько, Любань, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</li>
       <li>VERB: молиця, аштиця, вечкема, кадовозь, солавтозь, сэредиця, Ёртозь, Мелявтыцякс, Мизолдыця, Ярсамодо</li>
       <li>VERB-Conv: кадовозь, солавтозь, валаськавтозь, кирнявтозь, кулозекс, кутькавтозь, лексемстэ, ливтямсто, мазылгавтозь, панжовозь</li>
@@ -562,11 +575,9 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: аволь, эзь, арась, эсть, эзинь, арасть, а, арасель, илязо, эзизе</li>
+      <li>AUX: а, аволь, апак, эзь, арась, эзинь, эсть, эзть, арасть, арасель</li>
       <li>INTJ: Арась</li>
-      <li>PART: а, апак, аволь, арась</li>
       <li>PRON: аместь</li>
-      <li>VERB: эзь, эзть, аволить, аволь, эзинь, эсть</li>
     </ul>
   </li>
 </ul>
@@ -630,9 +641,8 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Cnj
     <ul>
-      <li>AUX: аволинь, улевель, аволизе, аволинек, аволь, улевельть</li>
-      <li>PART: бу</li>
-      <li>VERB: аволить, аволь, кандоволь, кирдевель, ладяволь, маняволь, маштовлидизь, миевлик, пачкодевель, пештявлизь</li>
+      <li>AUX: аволинь, аволить, аволь, бу, улевель, аволизе, аволинек, улевельть, эряволь</li>
+      <li>VERB: кандоволь, кирдевель, ладяволь, маняволь, маштовлидизь, миевлик, пачкодевель, пештявлизь, рамавлить, чавовледезь</li>
     </ul>
   </li>
 </ul>
@@ -648,9 +658,10 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: кадык, давайте, иля</li>
+      <li>ADV: Я</li>
+      <li>AUX: кадык, давай, давайте, иля</li>
       <li>PART: азё</li>
-      <li>VERB: кадык, адя, вант, азё, ванодо, кирдть, Ёвтак, учок, чийть, ютак</li>
+      <li>VERB: адя, вант, азё, ванодо, кирдть, Ёвтак, кадык, учок, чийть, ютак</li>
     </ul>
   </li>
 </ul>
@@ -658,7 +669,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ульнесь, эзь, арась, ули, ульнесть, улить, савсь, эсть, эзинь, арасть</li>
+      <li>AUX: эзь, ульнесь, арась, ули, ульнесть, улить, эряви, эсть, савсь, эзинь</li>
       <li>VERB: кармась, мерсь, лиссь, кармасть, мольсь, совась, ашти, ютась, неяви, саизе</li>
       <li>VERB-Conv: юкстнезь</li>
     </ul>
@@ -668,8 +679,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Opt
     <ul>
-      <li>AUX: давайте, илязо, улезэ, иляст, улест, илязт, улезт</li>
-      <li>PART: Кадык</li>
+      <li>AUX: Кадык, давайте, илязо, улезэ, иляст, улест, илязт, улезт</li>
       <li>VERB: лоподезэ, лоткаст, маряст, содаст, эцест</li>
     </ul>
   </li>
@@ -678,8 +688,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Proh
     <ul>
-      <li>AUX: иля, Илядо, Илять</li>
-      <li>VERB: илядо</li>
+      <li>AUX: иля, илядо, Илять</li>
     </ul>
   </li>
 </ul>
@@ -692,9 +701,9 @@ The original annotation has been performed by Jack Rueter at the University of H
   <li>Pres
     <ul>
       <li>ADJ: берянь, ловтаня</li>
-      <li>AUX: _, арась, ули, т, улить, ть, арасть, эряви, ят, ан</li>
+      <li>AUX: _, арась, ули, т, улить, эряви, ть, арасть, ят, ан</li>
       <li>NOUN: аванть, кирьгакссонзо</li>
-      <li>VERB: ашти, неяви, ваны, кармить, маряви, карми, эряви, арьси, моли, мерят</li>
+      <li>VERB: ашти, неяви, ваны, кармить, маряви, карми, арьси, моли, мерят, содави</li>
       <li>VERB-Conv: важодема, уема</li>
       <li>VERB-Part: менчевиця, молиця, сэредиця, Аштиця, Мизолдыця, ардыця, ваныцякс, вастневиця, дивсиця, жойниця</li>
     </ul>
@@ -704,7 +713,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Prt1
     <ul>
-      <li>AUX: эзь, ульнесь, ульнесть, савсь, эсть, эзинь, эзизе, эзизь, савкшнось, эзинзе</li>
+      <li>AUX: эзь, ульнесь, ульнесть, эсть, савсь, эзинь, эзть, эзизе, эзизь, Эрявсь</li>
       <li>VERB: кармась, мерсь, лиссь, кармасть, мольсь, совась, ютась, саизе, тейсь, шачсь</li>
       <li>VERB-Conv: юкстнезь</li>
     </ul>
@@ -744,9 +753,9 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: тесэ, сестэ, сеске, тезэнь</li>
+      <li>ADV: тесэ, истямо, сестэ, сеске, тезэнь</li>
       <li>DET: те, не, се, истямо, Нона, некень, теке</li>
-      <li>PRON: те, истямо, неть, тень, теке, тона, истят, нетне, теде, Нень</li>
+      <li>PRON: те, неть, истямо, тень, тона, теке, истят, нетне, теде, Нень</li>
     </ul>
   </li>
 </ul>
@@ -837,8 +846,8 @@ The original annotation has been performed by Jack Rueter at the University of H
   <li>Dist
     <ul>
       <li>ADV: рядс-рядс, косто-косто</li>
-      <li>DET: Колмонь-колмонь, вейте-вейте</li>
-      <li>NUM: кавтонь-кавтонь, сядонь-сядонь</li>
+      <li>DET: вейте-вейте</li>
+      <li>NUM: Колмонь-колмонь, кавтонь-кавтонь, сядонь-сядонь</li>
       <li>PRON: Мезе-мезе, кинь-кинь, кона-кона</li>
     </ul>
   </li>
@@ -847,8 +856,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Mult
     <ul>
-      <li>ADV: весть, Ламоксть, Колмоксть, Чуросто, зярыяксть, кавксть, Кавкстешкаксть, вестешка, вестькак</li>
-      <li>NUM: весть, кеменьшкаксть</li>
+      <li>ADV: весть, Ламоксть, Колмоксть, Чуросто, зярыяксть, кавксть, кеменьшкаксть, Кавкстешкаксть, вестешка, вестькак</li>
     </ul>
   </li>
 </ul>
@@ -856,9 +864,9 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: васенце, Колмоцекс, Колмоцесь</li>
+      <li>ADJ: омбоце, васенце, Колмоцекс, Колмоцесь, васень</li>
       <li>ADV: омбоцеде, колмоцеде, васенцеде, васняяк</li>
-      <li>NUM: омбоце, омбоцесь, васень, омбоцесэнть</li>
+      <li>NUM: омбоцесь, омбоцесэнть</li>
     </ul>
   </li>
 </ul>
@@ -874,7 +882,7 @@ The original annotation has been performed by Jack Rueter at the University of H
 <ul>
   <li>Sets
     <ul>
-      <li>DET: ламонест</li>
+      <li>ADV: кавонест, ламонест</li>
       <li>NUM: кавонест, веенст, колмонест, Веенстнэнь, ниленест</li>
       <li>PRON: Кавонест, ськамон, ськамонзо, ськамонк</li>
     </ul>
@@ -933,8 +941,7 @@ The original annotation has been performed by Jack Rueter at the University of H
   <li>Plur
     <ul>
       <li>ADP: эйсэст, эйстэст, лангозост, мартост, мельгаст, перьканок, эйстэнек, эйсэнек, эстэдест, ютксонок</li>
-      <li>ADV: ваксстост, каршозост, каршост</li>
-      <li>DET: ламонест</li>
+      <li>ADV: кавонест, ваксстост, каршозост, каршост, ламонест</li>
       <li>NOUN: кедест, аваст, лангозост, лишмест, пряст, азорост, веленек, велесэнк, винтовкаст, кудост</li>
       <li>NUM: кавонест, колмонест, ниленест</li>
       <li>PRON: вейкест, вейкест-вейкест, мельгаст, Кавонест, вейкенек-вейкенек, мезенек, ськамонк, тенст</li>
@@ -991,9 +998,9 @@ The original annotation has been performed by Jack Rueter at the University of H
       <li>Loc
         <ul>
           <li>ADP: мельга, лангс, ёнов, пачк, ланкс, каршо, ваксс, лангсо, пельде, перька</li>
-          <li>ADV: икелев, мекев, васоло, васов, тесэ, пелев, потс, тов, алов, верев</li>
+          <li>ADV: икелев, мекев, васоло, васов, пелев, тесэ, потс, тов, алов, верев</li>
           <li>NOUN: ёнов</li>
-          <li>PRON: мельганзо, ков, мельгаст, Икелензэ</li>
+          <li>PRON: мельганзо, мельгаст, Икелензэ, Ков</li>
         </ul>
       </li>
       <li>Man
@@ -1066,8 +1073,8 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>Yes
         <ul>
-          <li>AUX: уле, саво, ульне</li>
-          <li>VERB: редя, сатстне, учо, юта, карма, жаля, корта, мере, тукшно, учне</li>
+          <li>AUX: уле, ульгак, карма, саво, ульне</li>
+          <li>VERB: редя, сатстне, учо, юта, жаля, карма, корта, мере, тукшно, учне</li>
         </ul>
       </li>
     </ul>
@@ -1269,8 +1276,8 @@ The original annotation has been performed by Jack Rueter at the University of H
       </li>
       <li>Sing
         <ul>
-          <li>AUX: кадык, эзизе, эзизь, эссе, Эзик, аволизе, эзимизь, эзия</li>
-          <li>VERB: саизе, путызе, кепедизе, кадык, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь</li>
+          <li>AUX: эзизе, эзизь, эссе, Кадык, Эзик, аволизе, эзимизь, эзия</li>
+          <li>VERB: саизе, путызе, кепедизе, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь, панжизе</li>
         </ul>
       </li>
     </ul>
@@ -1282,9 +1289,9 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: ульнесть, улить, т, эсть, ть, арасть, _, ельть, эзизь, иляст</li>
+          <li>AUX: ульнесть, улить, эсть, т, ть, эзть, арасть, _, ельть, эзизь</li>
           <li>NOUN: аванть</li>
-          <li>VERB: кармасть, кармить, мольсть, совасть, эзть, удыть, ваныть, кадовсть, лездасть, маштызь</li>
+          <li>VERB: кармасть, кармить, мольсть, совасть, удыть, ваныть, кадовсть, лездасть, маштызь, молить</li>
           <li>VERB-Conv: юкстнезь</li>
         </ul>
       </li>
@@ -1296,7 +1303,8 @@ The original annotation has been performed by Jack Rueter at the University of H
       <li>Sing
         <ul>
           <li>ADJ: берянь, ловтаня</li>
-          <li>AUX: _, эзь, ульнесь, арась, ль, ули, иля, ель, савсь, эзинь</li>
+          <li>ADV: Я</li>
+          <li>AUX: _, эзь, ульнесь, арась, ль, ули, иля, ель, эряви, савсь</li>
           <li>NOUN: кирьгакссонзо</li>
           <li>PART: азё</li>
           <li>VERB: кармась, мерсь, лиссь, мольсь, совась, ашти, ютась, неяви, саизе, тейсь</li>
@@ -1313,7 +1321,7 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>Emp
         <ul>
-          <li>PART: аволь</li>
+          <li>AUX: аволь</li>
         </ul>
       </li>
     </ul>
@@ -1336,8 +1344,8 @@ The original annotation has been performed by Jack Rueter at the University of H
       </li>
       <li>3
         <ul>
-          <li>AUX: кадык, эзизе, эзизь, эзинзе, эссе, Илять, Эзик, аволизе, эзия</li>
-          <li>VERB: саизе, путызе, кепедизе, кадык, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь</li>
+          <li>AUX: эзизе, эзизь, эзинзе, эссе, Илять, Кадык, Эзик, аволизе, эзия</li>
+          <li>VERB: саизе, путызе, кепедизе, кевкстизе, неизе, таргизе, ёртызе, маризе, маштызь, панжизе</li>
           <li>VERB-Conv: юкстнезь</li>
         </ul>
       </li>
@@ -1372,8 +1380,8 @@ The original annotation has been performed by Jack Rueter at the University of H
         <ul>
           <li>ADJ: лембе</li>
           <li>ADP: мартонзо, эйсэнзэ, эйсэст, эйстэнзэ, эйстэст, мельганзо, эйзэнзэ, лангсонзо, вакссонзо, ланганзо</li>
-          <li>ADV: каршонзо, мельганзо, Ваксканзо, ваксстост, каршозост, каршост, пильгалонзо</li>
-          <li>DET: ламонест, эсинзэ</li>
+          <li>ADV: кавонест, каршонзо, мельганзо, Ваксканзо, ваксстост, каршозост, каршост, ламонест, пильгалонзо</li>
+          <li>DET: эсинзэ</li>
           <li>NOUN: кедензэ, прянзо, авазо, сельмензэ, кедьсэнзэ, чамазо, аванзо, лангозонзо, пильгензэ, тевензэ</li>
           <li>NOUN-Vnoun: удомазо</li>
           <li>NUM: кавонест, колмонест, ниленест</li>
@@ -1399,9 +1407,10 @@ The original annotation has been performed by Jack Rueter at the University of H
       </li>
       <li>2
         <ul>
-          <li>AUX: иля, кадык, ят, т, эзить, Илядо, Илять, Улят, Эзик, араселеть</li>
+          <li>ADV: Я</li>
+          <li>AUX: иля, ят, т, аволить, илядо, эзить, Илять, Кадык, Улят, Эзик</li>
           <li>PART: азё</li>
-          <li>VERB: кадык, мерят, адя, вант, азё, ванодо, кирдть, содат, Ёвтак, аволить</li>
+          <li>VERB: мерят, адя, вант, азё, ванодо, кирдть, содат, Ёвтак, кадсак, кадык</li>
         </ul>
       </li>
       <li>3
@@ -1439,7 +1448,7 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>1
         <ul>
-          <li>AUX: ульнесь, ули, ульнесть, улить, савсь, эряви, сави, улезэ, савкшнось, уле</li>
+          <li>AUX: ульнесь, ули, ульнесть, улить, эряви, савсь, сави, улезэ, Эрявсь, савкшнось</li>
           <li>AUX-Inf: улеме, улемс</li>
           <li>NOUN: шлямо, каявомадо, молемась, полавтовомадонть, прамо, рамсицят-микшницят, совамо, энялдомат, ютамо</li>
           <li>NOUN-Inf: шлямо</li>
@@ -1453,10 +1462,10 @@ The original annotation has been performed by Jack Rueter at the University of H
       </li>
       <li>2
         <ul>
-          <li>AUX: кадык</li>
+          <li>AUX: Кадык, эряволь</li>
           <li>NOUN: валаськавтомадо, кандомадо, коламодо, путыцязо, ёвтамозояк</li>
           <li>NOUN-Vnoun: валаськавтомадо, кандомадо</li>
-          <li>VERB: мерсь, ютась, саизе, путызе, ваны, кепедизе, кадык, кевкстизе, неизе, сергедсь</li>
+          <li>VERB: мерсь, ютась, саизе, путызе, ваны, кепедизе, кевкстизе, неизе, сергедсь, сергець</li>
           <li>VERB-Conv: оршазь, содозь, кирнявтозь, кундазь, кучозь, наразь, путозь, солавтозь, сорнозь, сюлмазь</li>
           <li>VERB-Inf: тееме, кортамо, сёрмадомо, леднеме, теемс, кортамс, онгомо, пурнамс, таргамо, тонавтнемс</li>
           <li>VERB-Part: Керязь, ваныцякс, изнямот, морыця, судрявт, токиця, якиця</li>
@@ -1472,8 +1481,7 @@ The original annotation has been performed by Jack Rueter at the University of H
     <ul>
       <li>Aux
         <ul>
-          <li>AUX: эзь, иля, эсть, эзинь, эзизь, аволинь, иляст, эзить, эзимизь, эзть</li>
-          <li>VERB: эзь, илядо, эзинь, эзть, эсть</li>
+          <li>AUX: эзь, эсть, иля, эзинь, эзизь, аволинь, иляст, эзить, эзть, илядо</li>
         </ul>
       </li>
     </ul>
@@ -1485,11 +1493,11 @@ The original annotation has been performed by Jack Rueter at the University of H
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: оль, улемс, ульнемс, арась, вадря, ульгак.</li>
+<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: оль, улемс, ульнемс, арась.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: савомс, эрявомс, эзь, бу, кадомс, давайте, ли, савкшномс, эзть, кадык, кармамс, давай, эрямс.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: савомс, эзь, эрявомс, кадык, бу, давайте, ли, савкшномс, кармамс, давай.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1498,14 +1506,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (2)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Gen (3)</li>
       <li>VERB--NOUN-Ine (1)</li>
       <li>VERB--NOUN-Nom (573)</li>
       <li>VERB--NOUN-Nom-ADP(марто) (1)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Gen-ADP(пелев) (1)</li>
       <li>VERB--PRON-Nom (231)</li>
-      <li>VERB-Conv--NOUN-Nom (43)</li>
+      <li>VERB-Conv--NOUN-Nom (42)</li>
       <li>VERB-Conv--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN-Nom (4)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
@@ -1520,11 +1529,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abl (2)</li>
-      <li>VERB--NOUN-Gen (287)</li>
+      <li>VERB--NOUN-Gen (296)</li>
       <li>VERB--NOUN-Gen-ADP(лангс) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(эйсэ) (5)</li>
-      <li>VERB--NOUN-Ill (1)</li>
-      <li>VERB--NOUN-Nom (175)</li>
+      <li>VERB--NOUN-Gen-ADP(эйсэ) (6)</li>
+      <li>VERB--NOUN-Nom (168)</li>
       <li>VERB--PRON (3)</li>
       <li>VERB--PRON-Abl (1)</li>
       <li>VERB--PRON-Gen (40)</li>
@@ -1534,8 +1542,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (5)</li>
       <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Gen (57)</li>
-      <li>VERB-Inf--NOUN-Nom (24)</li>
+      <li>VERB-Inf--NOUN-Gen (58)</li>
+      <li>VERB-Inf--NOUN-Nom (23)</li>
       <li>VERB-Inf--PRON-Gen (4)</li>
       <li>VERB-Inf--PRON-Nom (9)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
@@ -1560,5 +1568,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advmod:tmod</a>, <a>aux:neg</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:coll</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>flat:name</a>, <a>nmod:comp</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>obl:agent</a>, <a>obl:tmod</a>, <a>xcomp:ds</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

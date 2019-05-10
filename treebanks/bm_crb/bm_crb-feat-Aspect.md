@@ -22,9 +22,9 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (318; 44% of non-empty `Aspect`): <em>bè, tè, be, te, bɛ, b'</em>
+* `Imp` (318; 44% of non-empty `Aspect`): <em>bè, tè, be, te, bɛ, b'</em>
 * `Perf` (401; 56% of non-empty `Aspect`): <em>ye, ma, y'</em>
-* `EMPTY` (644): <em>ka, ma, diye, bɛ, kana, bè, mana, k', bèna, na</em>
+* `EMPTY` (644): <em>ka, ma, diye, bɛ, kana, bè, mana, k', bèna, na</em>
 
 `Aspect` seems to be **lexical feature** of `AUX`. 100% lemmas (12) occur only with one value of `Aspect`.
 
@@ -36,10 +36,10 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (5; 1% of non-empty `Aspect`): <em>be, bè, tè, tɛ</em>
-* `Perf` (480; 98% of non-empty `Aspect`): <em>tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</em>
-* `Prog` (5; 1% of non-empty `Aspect`): <em>kotò, bintò, natò</em>
-* `EMPTY` (2021): <em>ko, taga, kè, bè, na, ye, fò, di, sòrò, to</em>
+* `Imp` (5; 1% of non-empty `Aspect`): <em>be, bè, tè, tɛ</em>
+* `Perf` (480; 98% of non-empty `Aspect`): <em>tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</em>
+* `Prog` (5; 1% of non-empty `Aspect`): <em>kotò, bintò, natò</em>
+* `EMPTY` (2021): <em>ko, taga, kè, bè, na, ye, fò, di, sòrò, to</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (91) occur only with one value of `Aspect`.
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Perf` (3; 100% of non-empty `Aspect`): <em>jalenba, jelenba, sigilen</em>
-* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
+* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
 

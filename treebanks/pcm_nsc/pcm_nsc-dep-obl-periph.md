@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `obl:periph`: <tt><a
 5	now	now	ADV	_	_	4	advmod	_	_
 6	<	<	PUNCT	_	_	2	punct	_	_
 7	im	im	PRON	_	_	10	nsubj	_	_
-8	no	no	PART	_	_	10	advmod	_	_
+8	no	no	ADV	PART	_	10	advmod	_	_
 9	go	go	AUX	_	_	10	aux	_	_
 10	agree	agree	VERB	_	_	0	root	_	_
 11	come	come	VERB	_	_	10	xcomp	_	_
@@ -50,8 +50,8 @@ The following 8 pairs of parts of speech are connected with `obl:periph`: <tt><a
 2	four	four	NUM	_	_	3	nummod	_	_
 3	hundred	hundred	NOUN	_	_	7	obl:periph	_	_
 4	<	<	PUNCT	_	_	3	punct	_	_
-5	no	no	PART	_	_	6	advmod	_	_
-6	be	be	PART	_	_	7	cop	_	_
+5	no	no	ADV	PART	_	7	advmod	_	_
+6	be	be	AUX	PART	_	7	cop	_	_
 7	book	book	NOUN	_	_	0	root	_	_
 8	>+	>+	PUNCT	_	_	10	punct	_	_
 9	I	I	PRON	_	_	10	nsubj	_	_
@@ -78,10 +78,10 @@ The following 8 pairs of parts of speech are connected with `obl:periph`: <tt><a
 1	#	#	PUNCT	_	_	8	punct	_	_
 2	to	to	ADP	_	_	3	case	_	_
 3	me	me	PRON	_	_	8	obl:periph	_	_
-4	ma	ma	PART	_	_	3	advmod:emph	_	_
+4	ma	ma	ADV	PART	_	3	advmod:emph	_	_
 5	<	<	PUNCT	_	_	3	punct	_	_
 6	I	I	PRON	_	_	8	nsubj	_	_
-7	no	no	PART	_	_	8	advmod	_	_
+7	no	no	ADV	PART	_	8	advmod	_	_
 8	ready	ready	ADV	_	_	0	root	_	_
 9	to	to	PART	_	_	10	mark	_	_
 10	do	do	VERB	_	_	8	xcomp	_	_

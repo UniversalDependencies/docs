@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `appos`.
+50 nodes (0%) are attached to their parents as `appos`.
 
-36 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.52777777777778.
+50 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.74.
 
-The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (10; 28% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 22% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 22% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (8; 22% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (13; 26% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (10; 20% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -59,16 +59,16 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 1	彼ら	彼ら	PRON	NP	_	4	nmod	_	SpaceAfter=No
 2	の	の	ADP	PN	_	1	case	_	SpaceAfter=No
 3	初代	初代	NOUN	NN	_	4	compound	_	SpaceAfter=No
-4	国王	国王	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+4	国王	国王	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 5	は	は	ADP	PK	_	4	case	_	SpaceAfter=No
-6	モイミール	モイミール	PROPN	NNP	_	11	compound	_	SpaceAfter=No
-7	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+6	モイミール	モイミール	PROPN	NNP	_	8	compound	_	SpaceAfter=No
+7	1	1	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
 8	世	世	NOUN	XSC	_	0	root	_	SpaceAfter=No
-9	（	（	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
+9	（	（	PUNCT	SYM	_	15	punct	_	SpaceAfter=No
 10	830	830	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	年	年	NOUN	XSC	_	15	nmod	_	SpaceAfter=No
 12	–	–	SYM	SYM	_	11	compound	_	SpaceAfter=No
-13	846	846	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
+13	846	846	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
 14	年	年	NOUN	XSC	_	15	compound	_	SpaceAfter=No
 15	統治	統治	NOUN	NN	_	8	appos	_	SpaceAfter=No
 16	）	）	PUNCT	SYM	_	15	punct	_	SpaceAfter=No
@@ -80,44 +80,44 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 appos	color:blue
-1	11月	11月	NOUN	NR	_	4	nmod	_	SpaceAfter=No
-2	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-3	日	日	NOUN	XSC	_	4	compound	_	SpaceAfter=No
-4	木曜日	木曜日	NOUN	NN	_	31	advmod	_	SpaceAfter=No
-5	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
-6	サン・ゴーダン	サン・ゴーダン	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
-7	（	（	PUNCT	SYM	_	9	compound	_	SpaceAfter=No
-8	オート・ガロンヌ	オート・ガロンヌ	PROPN	NNP	_	9	compound	_	SpaceAfter=No
-9	地域	地域	NOUN	NN	_	6	appos	_	SpaceAfter=No
-10	）	）	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
-11	の	の	ADP	PN	_	6	case	_	SpaceAfter=No
-12	市長	市長	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
-13	は	は	ADP	PK	_	12	case	_	SpaceAfter=No
-14	、	、	PUNCT	SYM	_	12	punct	_	SpaceAfter=No
-15	2014	2014	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
-16	年	年	NOUN	XSC	_	20	iobj	_	SpaceAfter=No
-17	に	に	ADP	PS	_	16	case	_	SpaceAfter=No
-18	政府	政府	NOUN	NN	_	20	obl	_	SpaceAfter=No
-19	と	と	ADP	PS	_	18	case	_	SpaceAfter=No
-20	結ん	結ぶ	VERB	VV	_	23	acl	_	SpaceAfter=No
-21	だ	た	AUX	AV	_	20	aux	_	SpaceAfter=No
-22	都市開発	都市開発	NOUN	NN	_	23	compound	_	SpaceAfter=No
-23	協定	協定	NOUN	NN	_	25	nmod	_	SpaceAfter=No
-24	の	の	ADP	PN	_	23	case	_	SpaceAfter=No
-25	履行	履行	NOUN	NN	_	27	obj	_	SpaceAfter=No
-26	を	を	ADP	PS	_	25	case	_	SpaceAfter=No
-27	中止	中止	VERB	VV	_	31	advcl	_	SpaceAfter=No
-28	する	する	AUX	XV	_	27	aux	_	SpaceAfter=No
-29	こと	こと	NOUN	NB	_	27	aux	_	SpaceAfter=No
-30	を	を	ADP	PS	_	27	case	_	SpaceAfter=No
-31	決め	決める	VERB	VV	_	0	root	_	SpaceAfter=No
-32	た	た	AUX	AV	_	31	aux	_	SpaceAfter=No
-33	。	。	PUNCT	SYM	_	31	punct	_	SpaceAfter=No
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 19 appos	color:blue
+1	この	この	DET	JR	_	2	det	_	SpaceAfter=No
+2	メッセージ	メッセージ	NOUN	NN	_	30	obl	_	SpaceAfter=No
+3	で	で	ADP	PS	_	2	case	_	SpaceAfter=No
+4	、	、	PUNCT	SYM	_	2	punct	_	SpaceAfter=No
+5	元	元	ADJ	JR	_	6	amod	_	SpaceAfter=No
+6	法務長官	法務長官	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
+7	は	は	ADP	PK	_	6	case	_	SpaceAfter=No
+8	、	、	PUNCT	SYM	_	6	punct	_	SpaceAfter=No
+9	ブリス	ブリス	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
+10	・	・	SYM	SYM	_	9	compound	_	SpaceAfter=No
+11	ホテフュー	ホテフュー	PROPN	NNP	_	14	nmod	_	SpaceAfter=No
+12	を	を	ADP	PS	_	11	case	_	SpaceAfter=No
+13	「	「	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
+14	ファシスト	ファシスト	NOUN	NN	_	22	nmod	_	SpaceAfter=No
+15	」	」	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
+16	、	、	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
+17	「	「	PROPN	UNK	_	22	nmod	_	SpaceAfter=No
+18	（	（	PUNCT	SYM	_	19	punct	_	SpaceAfter=No
+19	ばか	ばか	NOUN	NN	_	17	appos	_	SpaceAfter=No
+20	）	）	PUNCT	SYM	_	19	punct	_	SpaceAfter=No
+21	内務	内務	NOUN	NN	_	22	compound	_	SpaceAfter=No
+22	長官	長官	NOUN	NN	_	26	nmod	_	SpaceAfter=No
+23	」	」	PUNCT	SYM	_	22	punct	_	SpaceAfter=No
+24	、	、	PUNCT	SYM	_	22	punct	_	SpaceAfter=No
+25	「	「	PUNCT	SYM	_	26	punct	_	SpaceAfter=No
+26	刺客	刺客	NOUN	NN	_	30	advcl	_	SpaceAfter=No
+27	」	」	PUNCT	SYM	_	26	punct	_	SpaceAfter=No
+28	である	だ	AUX	AV	_	26	cop	_	SpaceAfter=No
+29	と	と	SCONJ	PC	_	26	mark	_	SpaceAfter=No
+30	非難	非難	VERB	VV	_	0	root	_	SpaceAfter=No
+31	し	する	AUX	XV	_	30	aux	_	SpaceAfter=No
+32	た	た	AUX	AV	_	30	aux	_	SpaceAfter=No
+33	。	。	PUNCT	SYM	_	30	punct	_	SpaceAfter=No
 
 ~~~
 

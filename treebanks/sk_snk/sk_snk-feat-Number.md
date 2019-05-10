@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sk_snk-feat-Number.html">Number</a></tt>, <tt><a href="sk_snk-feat-Number-psor.html">Number[psor]</a></tt>.
 
-60493 tokens (57%) have a non-empty value of `Number`.
+60503 tokens (57%) have a non-empty value of `Number`.
 25478 types (98%) occur at least once with a non-empty value of `Number`.
-12335 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (12772; 12% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9480; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4568; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4404; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3478; 3% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3474; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (1; 0% instances).
+12336 lemmas (87%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (12781; 12% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3485; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3477; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-12772 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Number`.
+12781 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11611; 91%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 73%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 73%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7662; 60%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6491; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11619; 91%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9303; 73%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9303; 73%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9303; 73%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9303; 73%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7670; 60%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6492; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2380; 19% of non-empty `Number`): <em>mali, majú, mohli, sú, boli, prišli, máme, začali, sedeli, dali</em>
-* `Sing` (10392; 81% of non-empty `Number`): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
+* `Plur` (2385; 19% of non-empty `Number`): <em>mali, majú, mohli, sú, boli, prišli, máme, začali, sedeli, dali</em>
+* `Sing` (10396; 81% of non-empty `Number`): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
 * `EMPTY` (1287): <em>povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</em>
 
 <table>
@@ -71,14 +71,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-9480 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+9474 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8283; 87%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5511; 58%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8744; 92%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2546; 27% of non-empty `Number`): <em>ďalšie, verejných, nové, rôznych, nových, veľké, ďalších, hlavných, jednotlivých, legislatívne</em>
-* `Sing` (6934; 73% of non-empty `Number`): <em>celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</em>
+* `Plur` (2542; 27% of non-empty `Number`): <em>ďalšie, verejných, nové, rôznych, nových, veľké, ďalších, hlavných, jednotlivých, legislatívne</em>
+* `Sing` (6932; 73% of non-empty `Number`): <em>celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</em>
 
 <table>
   <tr><th>Paradigm <i>veľký</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -128,14 +128,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-4568 <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+4569 <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2994; 66%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2782; 61%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2569; 56%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2995; 66%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2783; 61%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2570; 56%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (163; 4% of non-empty `Number`): <em>Peržanov, Vianoce, Benátok, Samojedov, Slovania, Slovákov, Arabi, Arabmi, Estóncov, Grékov</em>
-* `Sing` (4405; 96% of non-empty `Number`): <em>Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</em>
+* `Sing` (4406; 96% of non-empty `Number`): <em>Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</em>
+* `EMPTY` (261): <em>J, SR, USA, EÚ, P, A, N, V, B, C</em>
 
 <table>
   <tr><th>Paradigm <i>rus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -145,18 +146,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Rus</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1678) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1679) occur only with one value of `Number`.
 
 ### `DET`
 
-4404 <tt><a href="sk_snk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+4401 <tt><a href="sk_snk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sk_snk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3924; 89%), <tt><a href="sk_snk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk_snk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 71%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2883; 65%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sk_snk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3921; 89%), <tt><a href="sk_snk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3470; 79%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3470; 79%), <tt><a href="sk_snk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3144; 71%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2880; 65%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (952; 22% of non-empty `Number`): <em>ktoré, jeho, všetky, všetci, všetkých, tieto, ktorí, svojich, ich, tie</em>
-* `Sing` (3452; 78% of non-empty `Number`): <em>to, jeho, ktorý, jej, ten, ktorá, tom, toho, ich, všetko</em>
+* `Sing` (3449; 78% of non-empty `Number`): <em>to, jeho, ktorý, jej, ten, ktorá, tom, toho, ich, všetko</em>
 * `EMPTY` (3): <em>ta, toľko</em>
 
 <table>
@@ -170,39 +171,16 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>do</em></td><td></td></tr>
 </table>
 
-### `PRON`
-
-3478 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3370; 97%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2453; 71%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Plur` (493; 14% of non-empty `Number`): <em>ich, nás, nich, im, nám, vás, nimi, my, vám, vy</em>
-* `Sing` (2985; 86% of non-empty `Number`): <em>mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</em>
-* `EMPTY` (2972): <em>sa, si, a, se, za</em>
-
-<table>
-  <tr><th>Paradigm <i>ja</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ma, mňa</em></td><td><em>nás</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>mi, mne</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>mňa, ma</em></td><td><em>nás</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>mnou</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>mne</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ono</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ja</em></td><td><em>my</em></td></tr>
-</table>
-
 ### `AUX`
 
-3474 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
+3485 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3473; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3333; 96%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2743; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2737; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 79%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2541; 73%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3485; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3345; 96%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2755; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 79%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 73%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (567; 16% of non-empty `Number`): <em>sme, sú, boli, ste, budú, budeme, neboli, bývali, budete, buďte</em>
-* `Sing` (2907; 84% of non-empty `Number`): <em>som, je, bol, bola, bolo, bude, si, nebola, nebolo, nebude</em>
+* `Plur` (566; 16% of non-empty `Number`): <em>sme, sú, boli, ste, budú, budeme, neboli, bývali, budete, buďte</em>
+* `Sing` (2919; 84% of non-empty `Number`): <em>som, je, bol, bola, bolo, bude, si, nebola, nebolo, nebude</em>
 * `EMPTY` (238): <em>by, byť</em>
 
 <table>
@@ -222,9 +200,9 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>niesme</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>som</em></td><td><em>sme</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>budem</em></td><td><em>budeme</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>so</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>som</em></td><td><em>sme</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nebudeš</em></td><td><em>Nebudete</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>si</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>budeš</em></td><td><em>budete</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>si</em></td><td><em>ste</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nebude</em></td><td><em>nebudú</em></td></tr>
@@ -232,6 +210,29 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>bude</em></td><td><em>budú</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>je</em></td><td><em>sú</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>boli</em></td></tr>
+</table>
+
+### `PRON`
+
+3477 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3369; 97%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2862; 82%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2452; 71%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Plur` (493; 14% of non-empty `Number`): <em>ich, nás, nich, im, nám, vás, nimi, my, vám, vy</em>
+* `Sing` (2984; 86% of non-empty `Number`): <em>mi, ho, ma, mu, čo, ju, ja, jej, niečo, nič</em>
+* `EMPTY` (2958): <em>sa, si, a, se, za</em>
+
+<table>
+  <tr><th>Paradigm <i>ja</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ma, mňa</em></td><td><em>nás</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>mi, mne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>mňa, ma</em></td><td><em>nás</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>mnou</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>mne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ono</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ja</em></td><td><em>my</em></td></tr>
 </table>
 
 ### `NUM`
@@ -280,7 +281,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Plur` (3; 9% of non-empty `Number`): <em>ráz, razy</em>
 * `Sing` (31; 91% of non-empty `Number`): <em>raz</em>
-* `EMPTY` (4359): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
+* `EMPTY` (4399): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 <table>
   <tr><th>Paradigm <i>raz</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -289,28 +290,17 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>raz</em></td><td></td></tr>
 </table>
 
-### `X`
-
-1 <tt><a href="sk_snk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="sk_snk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk_snk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk_snk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>VB</em>
-* `EMPTY` (773): <em>j, O, tzv, sv, SR, USA, EÚ, P, c, po</em>
-
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7716; 100%),
-<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2986; 96%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7715; 100%),
+<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2989; 96%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2931; 65%),
-<tt>VERB --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2924; 68%),
+<tt>VERB --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2925; 68%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2467; 100%),
-<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2086; 56%),
-<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1680; 85%),
-<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1575; 96%),
+<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2087; 56%),
+<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1693; 85%),
+<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1576; 95%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1439; 88%),
 <tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> PRON</tt> (1087; 66%).
 

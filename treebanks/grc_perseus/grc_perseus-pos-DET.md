@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>τῶν</em> (<tt><a href="grc_perseu
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em><b>τὸν</b> μὲν ἔφερε θανατώσων παῖδα , τοῦτον μὲν παραδιδοῖ τῇ ἑωυτοῦ γυναικί , τὸν δὲ ἑωυτοῦ ἐόντα νεκρὸν λαβὼν ἔθηκε ἐς τὸ ἄγγος ἐν τῷ ἔφερε τὸν ἕτερον ·</em>
 * <em>τὸ</em>
   * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 904: <em>ἀφνειὸν γὰρ ἐπωνόμασαν <b>τὸ</b> χωρίον .</em>
-  * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 71: <em><b>τὸ</b> δ̓ ἦν ἄῤ οὐδὲν ἄλλο πλὴν θανεῖν ἐμέ .</em>
+  * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 71: <em><b>τὸ</b> δ̓ ἦν ἄῤ οὐδὲν ἄλλο πλὴν θανεῖν ἐμέ .</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em><b>τὸ</b> δὲ ἁπάντων θῶμα μέγιστόν μοι ἐστὶ τῶν ταύτῃ μετά γε αὐτὴν τὴν πόλιν , ἔρχομαι φράσων ·</em>
 * <em>τῆς</em>
   * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 882: <em>ἔστι δὲ τὰ Σύβοτα <b>τῆς</b> Θεσπρωτίδος λιμὴν ἐρῆμος .</em>
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>τῶν</em> (<tt><a href="grc_perseu
 * <em>τοῦ</em>
   * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 752: <em>ταῦτα γὰρ πάντα μετὰ τοῦδε <b>τοῦ</b> πολέμου ἅμα ξυνεπέθετο .</em>
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 119: <em><b>τοῦ</b> δ̓ εἰπόντος εἰς ποίαν ; εἰς Σίγειον εἶπεν .</em>
-  * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>μετὰ ταῦτ̓ ἀκούσας Ἀνδρόνικος τὸ γεγονὸς ἐκ τῆς Κορίνθου προσφάτως ἀφιγμένος ὀργιζόμενος πικρῶς τε λοιδορούμενος παρὰ τὸν πότον ταῦτ̓ ἔλεγε τῇ Γναθαινίῳ , αὐτὸν μὲν ἀξιοῦντα μὴ τετευχέναι τούτου παῤ αὐτῆς μηδέποτε <b>τοῦ</b> σχήματος , ἐν τῷδε δ̓ ἑτέρους ἐντρυφᾶν μαστιγίας .</em>
+  * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>μετὰ ταῦτ̓ ἀκούσας Ἀνδρόνικος τὸ γεγονὸς ἐκ τῆς Κορίνθου προσφάτως ἀφιγμένος ὀργιζόμενος πικρῶς τε λοιδορούμενος παρὰ τὸν πότον ταῦτ̓ ἔλεγε τῇ Γναθαινίῳ , αὐτὸν μὲν ἀξιοῦντα μὴ τετευχέναι τούτου παῤ αὐτῆς μηδέποτε <b>τοῦ</b> σχήματος , ἐν τῷδε δ̓ ἑτέρους ἐντρυφᾶν μαστιγίας .</em>
 * <em>τοὺς</em>
   * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 718: <em>τοξότας γὰρ πάντας πεποίηκε <b>τοὺς</b> προσκώπους .</em>
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 74: <em><b>τοὺς</b> ἐκ Διὸς γὰρ εἰκός ἐστι πάνθ̓ ὁρᾶν .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>τῶν</em> (<tt><a href="grc_perseu
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 8.666667 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `DET` is 8.666667 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (51) was observed with the lemma “ὁ”: <em>αἱ, αἳ, αἵ, οἱ, οἳ, οἵ, τά, τάν, τάς, τήν, ταῖς, τούς, τοὶ, τοὺς, τοῖν, τοῖο, τοῖς, τοῖσι, τοῖσιν, τοῦ, τό, τόν, τὰ, τὰν, τὰς, τὴν, τὸ, τὸν, τὼ, τᾶν, τᾶς, τᾷ, τῆ, τῆς, τῇ, τῇσι, τῳ, τῶ, τῶν, τῷ, χοἰ, χἠ, χὠ, ἁ, ἃ, ἡ, ἣ, ἥ, ὁ, ὃ, ὅ</em>.
 

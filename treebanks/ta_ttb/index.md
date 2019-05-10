@@ -61,11 +61,16 @@ improved.
 
 ## References:
 
-* http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/ ... TamilTB
-* http://ufal.mff.cuni.cz/hamledt ... HamleDT
-* http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
-* http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
+* [TamilTB](http://ufal.mff.cuni.cz/~ramasamy/tamiltb/0.1/)
+* [HamleDT](http://ufal.mff.cuni.cz/hamledt)
+* [Treex](http://ufal.mff.cuni.cz/treex) is the software used for conversion
+* [Interset](http://ufal.mff.cuni.cz/interset) was used to convert POS tags and features
+* Loganathan Ramasamy, Zdeněk Žabokrtský. 2012.
+[Prague Dependency Style Treebank for Tamil](http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html).
+In: *Proceedings of Eighth International Conference on Language Resources and Evaluation (LREC 2012),*
+İstanbul, Turkey, ISBN 978-2-9517408-7-7, pp. 1888–1894.
 
+<pre>
 @inproceedings{ta,
 author = {Ramasamy, Loganathan and \v{Z}abokrtsk\'{y}, Zden\v{e}k},
 year = {2012},
@@ -77,6 +82,7 @@ isbn = {978-2-9517408-7-7},
 pages = {1888--1894},
 url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 }
+</pre>
 
 
 ## Acknowledgments
@@ -93,7 +99,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 
 ## Relations
 
-[acl](ta_ttb-dep-acl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [appos](ta_ttb-dep-appos.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
+[acl](ta_ttb-dep-acl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [dep](ta_ttb-dep-dep.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -723,7 +729,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 </ul>
 
 <ul>
-<li>This corpus uses 24 lemmas as auxiliaries (<a>aux</a>). Examples: உள், படு, வேண்டு, இரு, வரு, கொள், இல், செய், விடு, வா, கூடு, முடி, மாட்டு, ஆகு, தகு, வீடு, போ, வை, ஆவர், கூறு, கொடு, பிடு, வரல், விரி.</li>
+<li>This corpus uses 25 lemmas as auxiliaries (<a>aux</a>). Examples: உள், படு, வேண்டு, இரு, வரு, கொள், இல், செய், விடு, வா, கூடு, முடி, மாட்டு, ஆகு, தகு, வீடு, போ, வை, ஆவர், கூறு, கொடு, பிடு, பெறு, வரல், விரி.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -743,7 +749,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (17)</li>
       <li>VERB-Part--NOUN-Nom (104)</li>
-      <li>VERB-Part--PRON-Nom (26)</li>
+      <li>VERB-Part--PRON-Nom (27)</li>
     </ul>
   </li>
 </ul>
@@ -751,27 +757,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (36)</li>
-      <li>VERB-Fin--NOUN-Dat (7)</li>
+      <li>VERB-Fin--NOUN-Acc (37)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (65)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Fin--NOUN-Nom (66)</li>
       <li>VERB-Ger--NOUN-Acc (16)</li>
-      <li>VERB-Ger--NOUN-Dat (2)</li>
       <li>VERB-Ger--NOUN-Nom (33)</li>
       <li>VERB-Ger--PRON-Acc (5)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (50)</li>
-      <li>VERB-Inf--NOUN-Dat (8)</li>
+      <li>VERB-Inf--NOUN-Acc (52)</li>
       <li>VERB-Inf--NOUN-Nom (46)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
-      <li>VERB-Inf--PRON-Dat (8)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (77)</li>
-      <li>VERB-Part--NOUN-Dat (8)</li>
+      <li>VERB-Part--NOUN-Acc (78)</li>
       <li>VERB-Part--NOUN-Nom (58)</li>
       <li>VERB-Part--PRON-Acc (14)</li>
-      <li>VERB-Part--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>
@@ -781,11 +780,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Loc (2)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Ger--NOUN-Nom (2)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Dat (2)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (10)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
@@ -798,12 +795,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 4 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: அல் தனக்கு, இடம் தனக்கு, தரு தனக்கு, புறக்கணி தன்னைப்</li>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: புறக்கணி தன்னைப்</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus uses 4 relation subtypes: <a>advmod:emph</a>, <a>compound:prt</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

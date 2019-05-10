@@ -69,13 +69,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Relations
 
-[acl](grc_proiel-dep-acl.html) – [advcl](grc_proiel-dep-advcl.html) – [advmod](grc_proiel-dep-advmod.html) – [amod](grc_proiel-dep-amod.html) – [appos](grc_proiel-dep-appos.html) – [aux](grc_proiel-dep-aux.html) – [aux:pass](grc_proiel-dep-aux-pass.html) – [case](grc_proiel-dep-case.html) – [cc](grc_proiel-dep-cc.html) – [ccomp](grc_proiel-dep-ccomp.html) – [conj](grc_proiel-dep-conj.html) – [cop](grc_proiel-dep-cop.html) – [csubj:pass](grc_proiel-dep-csubj-pass.html) – [dep](grc_proiel-dep-dep.html) – [det](grc_proiel-dep-det.html) – [discourse](grc_proiel-dep-discourse.html) – [fixed](grc_proiel-dep-fixed.html) – [flat](grc_proiel-dep-flat.html) – [flat:name](grc_proiel-dep-flat-name.html) – [iobj](grc_proiel-dep-iobj.html) – [mark](grc_proiel-dep-mark.html) – [nmod](grc_proiel-dep-nmod.html) – [nsubj](grc_proiel-dep-nsubj.html) – [nsubj:pass](grc_proiel-dep-nsubj-pass.html) – [nummod](grc_proiel-dep-nummod.html) – [obj](grc_proiel-dep-obj.html) – [obl](grc_proiel-dep-obl.html) – [obl:agent](grc_proiel-dep-obl-agent.html) – [orphan](grc_proiel-dep-orphan.html) – [parataxis](grc_proiel-dep-parataxis.html) – [root](grc_proiel-dep-root.html) – [vocative](grc_proiel-dep-vocative.html) – [xcomp](grc_proiel-dep-xcomp.html)
+[acl](grc_proiel-dep-acl.html) – [advcl](grc_proiel-dep-advcl.html) – [advmod](grc_proiel-dep-advmod.html) – [amod](grc_proiel-dep-amod.html) – [appos](grc_proiel-dep-appos.html) – [aux](grc_proiel-dep-aux.html) – [aux:pass](grc_proiel-dep-aux-pass.html) – [case](grc_proiel-dep-case.html) – [cc](grc_proiel-dep-cc.html) – [ccomp](grc_proiel-dep-ccomp.html) – [conj](grc_proiel-dep-conj.html) – [cop](grc_proiel-dep-cop.html) – [csubj:pass](grc_proiel-dep-csubj-pass.html) – [dep](grc_proiel-dep-dep.html) – [det](grc_proiel-dep-det.html) – [discourse](grc_proiel-dep-discourse.html) – [dislocated](grc_proiel-dep-dislocated.html) – [fixed](grc_proiel-dep-fixed.html) – [flat:name](grc_proiel-dep-flat-name.html) – [iobj](grc_proiel-dep-iobj.html) – [mark](grc_proiel-dep-mark.html) – [nmod](grc_proiel-dep-nmod.html) – [nsubj](grc_proiel-dep-nsubj.html) – [nsubj:pass](grc_proiel-dep-nsubj-pass.html) – [nummod](grc_proiel-dep-nummod.html) – [obj](grc_proiel-dep-obj.html) – [obl](grc_proiel-dep-obl.html) – [obl:agent](grc_proiel-dep-obl-agent.html) – [orphan](grc_proiel-dep-orphan.html) – [parataxis](grc_proiel-dep-parataxis.html) – [root](grc_proiel-dep-root.html) – [vocative](grc_proiel-dep-vocative.html) – [xcomp](grc_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 17081 sentences and 214015 tokens.</li>
+<li>This corpus contains 17080 sentences and 213999 tokens.</li>
 </ul>
 
 <ul>
@@ -87,7 +87,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 53 types of words that contain both letters and punctuation. Examples: ἀλλ’, ἐπ’, δ’, δι’, μετ’, ἀπ’, κατ’, παρ’, ἐφ’, ὑπ’, καθ’, ἀφ’, μεθ’, οὐδ’, τοῦτ’, οὔτ’, ὑφ’, τ’, ἀντ’, ἀνθ’, μ’, μηδ’, τόδ’, ἔστ’, δώματ’, εὖτ’, κ’, τῶνδ’, Δί’, γίνοιτ’, γενοίατ’, γλαῦκ’, γ’, λαλῆσαι., μέγ’, μέμφοιτ’, μήτ’, ξεῖν’, πόλλ’, σ’, τάσδ’, ταῦτ’, τρίποδ’, φίλ’, φεῦγ’, ἀμφ’, ἀνέθηκ’, ἀν’, ἄλλ’, ἅμ’</li>
+<li>This corpus contains 53 types of words that contain both letters and punctuation. Examples: ἀλλ’, ἐπ’, δ’, δι’, μετ’, κατ’, ἀπ’, παρ’, ἐφ’, ὑπ’, καθ’, ἀφ’, μεθ’, οὐδ’, τοῦτ’, οὔτ’, ὑφ’, τ’, ἀντ’, ἀνθ’, μ’, μηδ’, τόδ’, ἔστ’, δώματ’, εὖτ’, κ’, τῶνδ’, Δί’, γίνοιτ’, γενοίατ’, γλαῦκ’, γ’, λαλῆσαι., μέγ’, μέμφοιτ’, μήτ’, ξεῖν’, πόλλ’, σ’, τάσδ’, ταῦτ’, τρίποδ’, φίλ’, φεῦγ’, ἀμφ’, ἀνέθηκ’, ἀν’, ἄλλ’, ἅμ’</li>
 </ul>
 
 <ul>
@@ -118,10 +118,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): εἰμί#1</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): εἰμί, πωλέω, ἀγοράζω, ἔχω</li>
 </ul>
 
 <ul>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: πωλέω, ἀγοράζω, ἔχω</li>
 </ul>
 
 <ul>
@@ -148,7 +149,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</li>
+    <li>AUX: εἶναι, ἔσεσθαι, εἶναί, πωλῆσαι, ἀγοράσαι, ἔσεσθαί</li>
     <li>VERB: γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</li>
   </ul>
   </li>
@@ -443,7 +444,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Inf: ἔσεσθαι</li>
+      <li>AUX-Fin: ἔσχε</li>
+      <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, εἶπαν, ἦλθεν, ἀπεκρίθη, ἦλθον, ἐποίησεν, εἶπον, ἐξῆλθεν, γέγραπται</li>
       <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
       <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -512,7 +514,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Past
     <ul>
       <li>AUX-Fin: ἦν, ἦσαν, ἤμην, ἦτε, ἦμεν, ἦς, ἤμεθα, ἔσκε, ἦσάν, ἦσθα</li>
-      <li>AUX-Inf: ἔσεσθαι</li>
+      <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, ἔφη, ἀπεκρίθη, ἔλεγεν, ἦλθον</li>
       <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
       <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -549,7 +551,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Act
     <ul>
       <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, εἰσὶ</li>
-      <li>AUX-Inf: εἶναι, εἶναί</li>
+      <li>AUX-Inf: εἶναι, εἶναί, πωλῆσαι, ἀγοράσαι</li>
       <li>AUX-Part: ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἐόντας, ὄντες, ἐοῦσαν, ἐόντος, ἐοῦσα</li>
       <li>VERB-Fin: εἶπεν, λέγει, λέγω, ἔχει, δεῖ, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, λέγουσι</li>
       <li>VERB-Inf: λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν</li>
@@ -620,7 +622,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
+      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
     </ul>
   </li>
 </ul>
@@ -698,7 +700,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: σῇ, σφετέρην, σφετέρων, σφέτερον, σφετέρας, σφετέρης, σφετέρους, σφέτερα, σφετερέων, σφέτερος</li>
       <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, ἐστὶν, εἴη, εἰσὶ, ἔστι</li>
-      <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
+      <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
       <li>VERB-Fin: εἶπεν, λέγει, ἐγένετο, ἔχει, δεῖ, εἶπαν, εἶχον, ἔλεγον, ἦλθεν, λέγουσι</li>
     </ul>
   </li>
@@ -715,12 +717,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί#1.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί#1, πωλέω, ἀγοράζω, ἀπέρχομαι, ἔχω.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί#1, εἶμι#2.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί, πωλέω, ἀγοράζω, ἔχω.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -745,7 +747,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (8)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐπί) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ὑπέρ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (3342)</li>
+      <li>VERB-Fin--NOUN-Nom (3340)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(κατά) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(περί) (2)</li>
@@ -756,7 +758,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen-ADP(παρά) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(περί) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(ἐκτός) (1)</li>
-      <li>VERB-Fin--PRON-Nom (1970)</li>
+      <li>VERB-Fin--PRON-Nom (1976)</li>
       <li>VERB-Gdv--NOUN-Nom (1)</li>
       <li>VERB-Gdv--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (278)</li>
@@ -785,7 +787,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (14)</li>
-      <li>VERB-Fin--NOUN-Acc (3809)</li>
+      <li>VERB-Fin--NOUN-Acc (3811)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(εἰς) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(κατά) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(παρά) (2)</li>
@@ -796,12 +798,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(ἐν) (1)</li>
       <li>VERB-Fin--NOUN-Gen (23)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(διά) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (10)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (11)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (15)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἐντός) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ἔξωθεν) (2)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (2540)</li>
+      <li>VERB-Fin--PRON-Acc (2543)</li>
       <li>VERB-Fin--PRON-Acc-ADP(κατά) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(περί) (1)</li>
       <li>VERB-Fin--PRON-Dat (22)</li>
@@ -878,6 +880,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

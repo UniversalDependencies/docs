@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-88616 tokens (8%) have a non-empty value of `Mood`.
-17852 types (15%) occur at least once with a non-empty value of `Mood`.
+87093 tokens (8%) have a non-empty value of `Mood`.
+17850 types (15%) occur at least once with a non-empty value of `Mood`.
 6104 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7373; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1539; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7373; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (16; 0% instances).
 
 ### `VERB`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7373 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
+7373 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5488; 74%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5291; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5291; 72%).
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (27; 0% of non-empty `Mood`): <em>будь, будьте</em>
 * `Ind` (7346; 100% of non-empty `Mood`): <em>было, был, были, будет, была, будут, есть, будем, буду, будете</em>
-* `EMPTY` (772): <em>быть, будучи, бывшие, бывший, бывшем</em>
+* `EMPTY` (2296): <em>бы, быть, будучи, б, бывшие, бывший, бывшем</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -68,15 +68,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>были</em></td><td></td></tr>
 </table>
 
-### `PART`
-
-1539 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Mood`.
-
-`PART` tokens may have the following values of `Mood`:
-
-* `Cnd` (1539; 100% of non-empty `Mood`): <em>бы, б</em>
-* `EMPTY` (33836): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
-
 ### `SCONJ`
 
 1411 <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> tokens (7% of all `SCONJ` tokens) have a non-empty value of `Mood`.
@@ -85,6 +76,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (1411; 100% of non-empty `Mood`): <em>чтобы, чтоб</em>
 * `EMPTY` (19114): <em>что, как, если, когда, то, чем, хотя, поскольку, пока, ведь</em>
+
+### `PART`
+
+16 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Mood`.
+
+`PART` tokens may have the following values of `Mood`:
+
+* `Cnd` (16; 100% of non-empty `Mood`): <em>бы</em>
+* `EMPTY` (33835): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
 
 ## Relations with Agreement in `Mood`
 

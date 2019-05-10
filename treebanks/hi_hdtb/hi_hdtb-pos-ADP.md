@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `ADP`
 
-There are 151 `ADP` lemmas (1%), 155 `ADP` types (1%) and 74145 `ADP` tokens (21%).
+There are 150 `ADP` lemmas (1%), 152 `ADP` types (1%) and 74145 `ADP` tokens (21%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: का, में, के, को, ने, से, पर, लिए, वाला, तक
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  के (<tt><a href="hi_hdtb-pos-ADP.html
   * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1: ये बौद्ध मूल लामा बौद्ध न होकर दलितों से धर्म परिवर्तन कर <b>के</b> बन रहे बौद्ध हैं ।
 * में
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 10544: कुशीनगर का सबसे ज्‍यादा महत्‍व बौद्ध तीर्थ के रूप <b>में</b> है ।
-  * <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> 4: इसके मद्देनजर मंत्रालय को आनन - फानन <b>में</b> विदेशों से बर्ड फ्लू की दस लाख टेबलेट खरीदनी पड़ी ।
+  * <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> 4: इसके मद्देनजर मंत्रालय को आनन - फानन <b>में</b> विदेशों से बर्ड फ्लू की दस लाख टेबलेट खरीदनी पड़ी ।
   * <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 2: दूसरे पुरस्कार के लिए सत्य नारायण साबत की पुस्तक ' भारतीय संस्कृति <b>में</b> मानवाधिकार की अवधारणा ' को चुना गया है ।
 * की
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 8161: इस मंदिर का स्‍थापत्‍य अजंता <b>की</b> गुफाओं से प्रेरित है ।
@@ -48,10 +48,10 @@ The 10 most frequent ambiguous types:  के (<tt><a href="hi_hdtb-pos-ADP.html
 * लिए
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 2222: मंदिर सुबह 10 से शाम 4 बजे तक दर्शनार्थियों के <b>लिए</b> खुला रहता है ।
   * <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 45: हम पांच दिन तक जंगलों में शरण <b>लिए</b> रहे ।
-  * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 27: लेकिन इन कंपनियों ने इसमें से ९२७.३१ करोड़ रुपये अपने पास ही रख <b>लिए</b> ।
+  * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 27: लेकिन इन कंपनियों ने इसमें से ९२७.३१ करोड़ रुपये अपने पास ही रख <b>लिए</b> ।
 * तक
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 830: मंदिर सुबह 10 से शाम 4 बजे <b>तक</b> दर्शनार्थियों के लिए खुला रहता है ।
-  * <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> 3: जबकि मौजूदा वित्तीय वर्ष के लिए आबंटित ३४८० करोड़ रुपये पाने के लिए अभी तक ज्यादातर राज्य अपने प्रस्ताव <b>तक</b> नहीं भेज पाए हैं ।
+  * <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> 3: जबकि मौजूदा वित्तीय वर्ष के लिए आबंटित ३४८० करोड़ रुपये पाने के लिए अभी तक ज्यादातर राज्य अपने प्रस्ताव <b>तक</b> नहीं भेज पाए हैं ।
 * साथ
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 760: लोग बरबस इस सोने की परत चढ़े चैत्‍य के <b>साथ</b> फोटो खींचना चाहते हैं ।
   * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 86: दिल्ली पुलिस सुनील को भी <b>साथ</b> ले गई है ।
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  के (<tt><a href="hi_hdtb-pos-ADP.html
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.026490 (the average of all parts of speech is 1.207153).
+The form / lemma ratio of `ADP` is 1.013333 (the average of all parts of speech is 1.203116).
 
 The 1st highest number of forms (4) was observed with the lemma “का”: का, की, के, को.
 
@@ -84,19 +84,15 @@ Examples: के, में, को, ने, से, की, पर, लिए, 
 
 `ADP` nodes are attached to their parents using 8 different relations: <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (66759; 90% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (7056; 10% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (297; 0% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (20; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (43986; 59% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (19669; 27% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (7062; 10% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2477; 3% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (321; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (308; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (283; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (44134; 60% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (19794; 27% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (7076; 10% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2499; 3% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (321; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (269; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (8; 0% instances)
 
-73547 (99%) `ADP` nodes are leaves.
+74127 (100%) `ADP` nodes are leaves.
 
-557 (1%) `ADP` nodes have one child.
+18 (0%) `ADP` nodes have one child.
 
-38 (0%) `ADP` nodes have two children.
+The highest child degree of a `ADP` node is 1.
 
-3 (0%) `ADP` nodes have three or more children.
+Children of `ADP` nodes are attached using 2 different relations: <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (14; 78% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (4; 22% instances)
 
-The highest child degree of a `ADP` node is 3.
-
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (298; 46% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (261; 41% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (39; 6% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (25; 4% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (14; 2% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (2; 0% instances)
-
-Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (308; 48% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (261; 41% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (39; 6% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (30; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 2 different parts of speech: <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (14; 78% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (4; 22% instances)
 

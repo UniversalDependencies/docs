@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (86; 100% of non-empty `Abbr`): <em>ca, ca., dvs., f.eks., m.m., dvs, osv., m.v., mv, o.l.</em>
-* `EMPTY` (9892): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
+* `EMPTY` (9885): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Abbr`.
 

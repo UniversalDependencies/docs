@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-20452 tokens (10%) have a non-empty value of `Degree`.
-10375 types (19%) occur at least once with a non-empty value of `Degree`.
-3758 lemmas (14%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (12512; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7299; 4% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (522; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (107; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+20478 tokens (10%) have a non-empty value of `Degree`.
+10376 types (19%) occur at least once with a non-empty value of `Degree`.
+3744 lemmas (14%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (12512; 6% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7297; 4% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (524; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (133; 0% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -22,10 +22,10 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (492; 4% of non-empty `Degree`): <em>parempi, parempaa, suurempi, pienempi, useamman, alhaisempi, nuorempi, pienempiä, vanhempi, helpompaa</em>
-* `Pos` (11514; 92% of non-empty `Degree`): <em>hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta, pieni, oma, tärkeää</em>
+* `Cmp` (493; 4% of non-empty `Degree`): <em>parempi, parempaa, suurempi, pienempi, useamman, alhaisempi, nuorempi, pienempiä, vanhempi, helpompaa</em>
+* `Pos` (11513; 92% of non-empty `Degree`): <em>hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta, pieni, oma, tärkeää</em>
 * `Sup` (506; 4% of non-empty `Degree`): <em>suurin, paras, suurimmat, korkein, suurimman, parasta, vanhin, tärkein, useimmat, parhaan</em>
-* `EMPTY` (1754): <em>koko, eri, viime, ensimmäinen, 1., ensimmäisen, 2., 3., toisen, II</em>
+* `EMPTY` (1747): <em>koko, eri, viime, ensimmäinen, 1., ensimmäisen, 2., 3., toisen, II</em>
 
 <table>
   <tr><th>Paradigm <i>hyvä</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -57,20 +57,20 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>hyväksi</em></td><td><em>paremmaksi</em></td><td><em>parhaaksi</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 92% lemmas (2246) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 92% lemmas (2233) occur only with one value of `Degree`.
 
 ### `VERB`
 
-7299 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (26% of all `VERB` tokens) have a non-empty value of `Degree`.
+7297 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (27% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (7299; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7299; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7299; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7299; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7299; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5476; 75%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4585; 63%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (4414; 60%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3974; 54%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (7297; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7297; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7297; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7297; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7297; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5475; 75%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4583; 63%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt> (4414; 60%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3973; 54%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 0% of non-empty `Degree`): <em>hyväksytympi</em>
-* `Pos` (7294; 100% of non-empty `Degree`): <em>tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</em>
+* `Pos` (7292; 100% of non-empty `Degree`): <em>tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</em>
 * `Sup` (4; 0% of non-empty `Degree`): <em>menestynein, myydyin, saastuneimpia</em>
-* `EMPTY` (20495): <em>eikä, ottaa, tulee, saa, sai, tuli, ettei, on, tehdä, sanoi</em>
+* `EMPTY` (20071): <em>ottaa, tulee, saa, sai, tuli, on, tehdä, sanoi, antaa, pitää</em>
 
 <table>
   <tr><th>Paradigm <i>hyväksyä</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -92,39 +92,39 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>hyväksyttäviksi</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (1250) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (1249) occur only with one value of `Degree`.
 
 ### `AUX`
 
-522 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Degree`.
+524 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (522; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (451; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (433; 83%).
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (524; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (524; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (524; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (524; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (524; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (453; 86%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (434; 83%).
 
 `AUX` tokens may have the following values of `Degree`:
 
-* `Pos` (522; 100% of non-empty `Degree`): <em>ollut, olevan, olleet, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu</em>
-* `EMPTY` (11142): <em>on, ei, oli, ovat, ole, voi, olisi, olla, en, eivät</em>
+* `Pos` (524; 100% of non-empty `Degree`): <em>ollut, olevan, olleet, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu</em>
+* `EMPTY` (11586): <em>on, ei, oli, ovat, ole, voi, olisi, olla, en, eivät</em>
 
 `Degree` seems to be **lexical feature** of `AUX`. 100% lemmas (10) occur only with one value of `Degree`.
 
 ### `ADV`
 
-107 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
+133 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=Sti</tt> (74; 69%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=Sti</tt> (74; 56%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (94; 88% of non-empty `Degree`): <em>paremmin, useammin, nopeammin, laajemmin, enemmän, pidemmälle, pidempään, huonommin, alempana, etäämmällä</em>
-* `Sup` (13; 12% of non-empty `Degree`): <em>helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin, vilkkaimmin</em>
-* `EMPTY` (15507): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
+* `Cmp` (107; 80% of non-empty `Degree`): <em>paremmin, useammin, nopeammin, laajemmin, enemmän, pidemmälle, pidempään, huonommin, alempana, etäämmällä</em>
+* `Sup` (26; 20% of non-empty `Degree`): <em>parhaiten, helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin</em>
+* `EMPTY` (15479): <em>myös, niin, vain, nyt, jo, vielä, kuitenkin, sitten, hyvin, ihan</em>
 
 <table>
-  <tr><th>Paradigm <i>nopeasti</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>nopeammin</em></td><td><em>nopeimmin</em></td></tr>
+  <tr><th>Paradigm <i>hyvin</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>paremmin</em></td><td><em>parhaiten</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (55) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (54) occur only with one value of `Degree`.
 
 ### `NOUN`
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (6; 100% of non-empty `Degree`): <em>alaisena, hyvähän, rakkaille, tuntemattomille, tuttujen, tutuille</em>
-* `EMPTY` (56591): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
+* `EMPTY` (56471): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
 
 ### `PRON`
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Pos` (5; 100% of non-empty `Degree`): <em>muita, muiden, muidenkin, muittenkin</em>
-* `EMPTY` (13458): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, ne, jotka</em>
+* `EMPTY` (13478): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, ne, jotka</em>
 
 ### `PROPN`
 
@@ -157,19 +157,19 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 `PROPN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>Yhtenäinen</em>
-* `EMPTY` (12061): <em>euroopan, Turun, suomen, EU:n, Suomessa, the, Helsingin, Yhdysvaltain, Mithridates, Venäjän</em>
+* `EMPTY` (12122): <em>euroopan, Turun, suomen, EU:n, Suomessa, the, EY, Helsingin, Yhdysvaltain, Mithridates</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (467; 93%),
-<tt>ADJ --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (207; 94%),
+<tt>ADJ --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (207; 89%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (21; 100%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (16; 84%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (14; 56%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (9; 60%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> ADJ</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADV --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 80%),
+<tt>ADV --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 57%),
 <tt>ADJ --[<tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (3; 100%).
 

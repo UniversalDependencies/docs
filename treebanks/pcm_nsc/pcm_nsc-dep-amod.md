@@ -44,7 +44,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	na	na	PART	_	_	3	cop	_	_
+1	na	na	AUX	PART	_	3	cop	_	_
 2	only	only	ADJ	_	_	3	amod	_	_
 3	God	God	PROPN	_	_	0	root	_	_
 4	>+	>+	PUNCT	_	_	5	punct	_	_
@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 4	want	want	VERB	_	_	2	acl:cleft	_	_
 5	to	to	ADP	_	_	7	mark	_	_
 6	dey	dey	AUX	_	_	7	aux	_	_
-7	&	&	PUNCT	_	_	8	punct	_	_
+7	&	&	X	_	_	4	xcomp	_	_
 8	//	//	PUNCT	_	_	2	punct	_	_
 
 ~~~

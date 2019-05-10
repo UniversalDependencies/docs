@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: -.
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sa_ufal-dep-punct.html">punct</a></tt> (195; 100% instances)
 
-Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (144; 74% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (27; 14% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
+Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (148; 76% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (27; 14% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-INTJ.html">INTJ</a></tt> (1; 1% instances)
 
 195 (100%) `PUNCT` nodes are leaves.
 

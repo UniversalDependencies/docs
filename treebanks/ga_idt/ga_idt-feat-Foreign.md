@@ -12,20 +12,20 @@ It occurs with 1 different values: `Yes`.
 41 tokens (0%) have a non-empty value of `Foreign`.
 41 types (1%) occur at least once with a non-empty value of `Foreign`.
 41 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ga_idt-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ga_idt-pos-X.html">X</a></tt> (30; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `X`
 
-31 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (12% of all `X` tokens) have a non-empty value of `Foreign`.
+30 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (19% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (31; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=EMPTY</tt> (30; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (31; 100% of non-empty `Foreign`): <em>-e, Comptroller-General, Cyrano, Forget, I, Love, May, September, The, TrueType</em>
-* `EMPTY` (234): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `Yes` (30; 100% of non-empty `Foreign`): <em>-e, Comptroller-General, Cyrano, Forget, I, Love, May, September, TrueType, You</em>
+* `EMPTY` (125): <em>Co., Uimh., FÁS, a, chan, fá, m, Caidé, I.R., IO</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (31) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Office, Regeneration, tasks, cheap</em>
-* `EMPTY` (6365): <em>bheith, chur, níos, rud, duine, dhéanamh, chuid, fear, dul, fáil</em>
+* `EMPTY` (6321): <em>bheith, chur, rud, duine, dhéanamh, chuid, fear, dul, fáil, lá</em>
 
 ### `ADJ`
 
@@ -58,7 +58,18 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>by</em>
-* `EMPTY` (3813): <em>ar, i, ag, le, de, sa, leis, ina, ann, mar</em>
+* `EMPTY` (3815): <em>ar, i, ag, le, de, sa, leis, ina, ann, mar</em>
+
+### `DET`
+
+1 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>The</em>
+* `EMPTY` (2160): <em>an, na, a, seo, sin, aon, eile, gach, mo, do</em>
 
 ### `PROPN`
 
@@ -69,7 +80,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>major</em>
-* `EMPTY` (946): <em>Gaeilge, Átha, Cliath, Bhaile, Seán, hÉireann, mBaile, Éirinn, Ghaeilge, Mháire</em>
+* `EMPTY` (944): <em>Gaeilge, Átha, Cliath, Bhaile, Seán, hÉireann, mBaile, Éirinn, Ghaeilge, Mháire</em>
 
 ### `VERB`
 

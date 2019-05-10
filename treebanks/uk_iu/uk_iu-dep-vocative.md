@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `vocative`: <tt><a href="uk_iu-dep-vocative-cl.html">vocative:cl</a></tt>.
 
-92 nodes (0%) are attached to their parents as `vocative`.
+101 nodes (0%) are attached to their parents as `vocative`.
 
-51 instances of `vocative` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.28260869565217.
+55 instances of `vocative` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.23762376237624.
 
-The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (47; 51% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (18; 20% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (55; 54% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (18; 18% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,27 +57,17 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 8 vocative	color:blue
-1	—	—	PUNCT	U	PunctType=Dash	2	punct	2:punct	Id=14wm|LTranslit=—|Translit=—
-2	Ні	ні	INTJ	I	_	0	root	0:root	Id=14wn|LTranslit=ni|SpaceAfter=No|Translit=Ni
-3	-	-	PUNCT	U	PunctType=Hyph	4	punct	4:punct	Id=14wo|LTranslit=-|SpaceAfter=No|Translit=-
-4	ні	ні	INTJ	I	_	2	flat:repeat	2:flat:repeat	Id=14wp|LTranslit=ni|SpaceAfter=No|Translit=ni
-5	-	-	PUNCT	U	PunctType=Hyph	6	punct	6:punct	Id=14wq|LTranslit=-|SpaceAfter=No|Translit=-
-6	ні	ні	INTJ	I	_	2	flat:repeat	2:flat:repeat	Id=14wr|LTranslit=ni|SpaceAfter=No|Translit=ni
-7	,	,	PUNCT	U	_	8	punct	8:punct	Id=14ws|LTranslit=,|Translit=,
-8	дядечку	дядечко	NOUN	Ncmsvy	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	2	vocative	2:vocative	Id=14wt|LTranslit=ďаdečko|SpaceAfter=No|Translit=ďаdečku
-9	!	!	PUNCT	U	_	8	punct	8:punct	Id=14wu|LTranslit=!|Translit=!
-10	—	—	PUNCT	U	PunctType=Dash	12	punct	12:punct	Id=14wv|LTranslit=—|Translit=—
-11	аж	аж	PART	Q	_	12	discourse	12:discourse	Id=14ww|LTranslit=až|Translit=až
-12	похлинається	похлинатися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	Id=14wx|LTranslit=pochlynatyśа|Translit=pochlynaěťśа
-13	від	від	ADP	Spsg	Case=Gen	14	case	14:case	Id=14wy|LTranslit=vid|Translit=vid
-14	щирості	щирість	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	12:obl	Id=14wz|LTranslit=ščyrisť|Translit=ščyrosti
-15	Марфа	Марфа	PROPN	Npfsny	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	12	nsubj	12:nsubj	Id=14x0|LTranslit=Marfa|SpaceAfter=No|Translit=Marfa
-16	.	.	PUNCT	U	_	2	punct	2:punct	Id=14x1|LTranslit=.|Translit=.
+# visual-style 2 5 vocative	color:blue
+1	—	—	PUNCT	U	PunctType=Dash	2	punct	2:punct	Id=0hli|LTranslit=—|Translit=—
+2	Так	так	INTJ	I	_	0	root	0:root	Id=0hlj|LTranslit=tak|SpaceAfter=No|Translit=Tak
+3	,	,	PUNCT	U	_	4	punct	4:punct	Id=0hlk|LTranslit=,|Translit=,
+4	так	так	INTJ	I	_	2	flat:repeat	2:flat:repeat	Id=0hll|LTranslit=tak|Translit=tak
+5	чоловіче	чоловік	NOUN	Ncmsvy	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	2	vocative	2:vocative	Id=0hlm|LTranslit=čolovik|SpaceAfter=No|Translit=čoloviče
+6	!	!	PUNCT	U	_	2	punct	2:punct	Id=0hln|LTranslit=!|Translit=!
 
 ~~~
 

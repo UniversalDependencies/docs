@@ -11,9 +11,9 @@ This relation is universal.
 198 nodes (1%) are attached to their parents as `advcl`.
 
 174 instances of `advcl` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.0505050505051.
+Average distance between parent and child is 10.0555555555556.
 
-The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (150; 76% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (26; 13% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (150; 76% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (26; 13% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	इन	_	DET	DT	Definite=Def|Number=Plur	2	det	_	Translit=ina
 2	सभी	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	_	Translit=sabhī
 3	से	_	ADP	IN	Case=Acc	2	case	_	Translit=se
-4	दूर	_	NOUN	NST	_	5	advmod	_	Translit=dūra
+4	दूर	_	NOUN	NST	_	5	obl	_	Translit=dūra
 5	रहने	_	VERB	VINF	VerbForm=Inf	18	advcl	_	Translit=rahane
 6	के	_	ADP	IN	_	5	case	_	Translit=ke
 7	लिए	_	ADP	IN	_	6	fixed	_	SpaceAfter=No|Translit=lie
@@ -33,12 +33,12 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 9	रेमिस	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	Translit=remisa
 10	1947	_	NUM	CD	NumType=Card	12	nmod:poss	_	Translit=1947
 11	की	_	ADP	IN	Case=Gen|Gender=Fem	10	case	_	Translit=kī
-12	गर्मियों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obl	_	Translit=garmiyoṁ
-13	में	_	ADP	IN	Case=Loc	12	case	_	Translit=meṁ
+12	गर्मियों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obl	_	Translit=garmiyoṁ
+13	में	_	ADP	IN	Case=Loc	12	case	_	Translit=meṁ
 14	ज्यादातर	_	DET	QF	_	15	det	_	Translit=jyādātara
 15	समय	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	obl:tmod	_	Translit=samaya
-16	स्विट्जरलैंड	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obl	_	Translit=sviṭjaralaiṁḍa
-17	में	_	ADP	IN	Case=Loc	16	case	_	Translit=meṁ
+16	स्विट्जरलैंड	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obl	_	Translit=sviṭjaralaiṁḍa
+17	में	_	ADP	IN	Case=Loc	16	case	_	Translit=meṁ
 18	रहा	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=rahā
 19	।	_	PUNCT	.	_	18	punct	_	Translit=.
 
@@ -51,12 +51,12 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 2 advcl	color:blue
-1	एंडीज	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	obj	_	Translit=eṁḍīja
+1	एंडीज	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	obj	_	Translit=eṁḍīja
 2	बनने	_	VERB	VINF	VerbForm=Inf	15	advcl	_	Translit=banane
 3	से	_	ADP	IN	_	2	case	_	Translit=se
 4	पहले	_	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=pahale
-5	,	_	PUNCT	,	_	3	punct	_	Translit=,
-6	दक्षिण	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	7	compound	_	Proper=True|Translit=dakṣiṇa
+5	,	_	PUNCT	,	_	2	punct	_	Translit=,
+6	दक्षिण	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	7	compound	_	Proper=True|Translit=dakṣiṇa
 7	अमेरिका	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod:poss	_	Translit=amerikā
 8	की	_	ADP	IN	Case=Gen|Gender=Fem	7	case	_	Translit=kī
 9	पश्चिमी	_	ADJ	JJ	_	10	amod	_	Translit=paścimī
@@ -87,14 +87,14 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	पर	_	ADP	IN	Case=Acc	5	case	_	SpaceAfter=No|Translit=para
 8	,	_	PUNCT	,	_	5	punct	_	Translit=,
 9	कुछ	_	DET	QF	_	10	det	_	Translit=kucha
-10	कण	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Translit=kaṇa
+10	कण	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Translit=kaṇa
 11	हवा	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	nmod:poss	_	Translit=havā
 12	की	_	ADP	IN	Case=Gen|Gender=Fem	11	case	_	Translit=kī
 13	धारा	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	Translit=dhārā
-14	में	_	ADP	IN	Case=Loc	13	case	_	Translit=meṁ
-15	उठ	_	VERB	VB	_	0	root	_	Translit=uṭha
+14	में	_	ADP	IN	Case=Loc	13	case	_	Translit=meṁ
+15	उठ	_	VERB	VB	_	0	root	_	Translit=uṭha
 16	जाते	_	AUX	VXH	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3	15	aux	_	Translit=jāte
-17	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	15	aux	_	SpaceAfter=No|Translit=haiṁ
+17	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	15	aux	_	SpaceAfter=No|Translit=haiṁ
 18	।	_	PUNCT	.	_	15	punct	_	Translit=.
 
 ~~~

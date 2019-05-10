@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 1	deir	deir	PRON	_	_	2	nmod:poss	_	_
 2	maggi	maggi	NOUN	_	_	9	nsubj	_	_
 3	too	too	ADV	_	_	5	advmod	_	_
-4	dey	dey	PART	_	_	5	cop	_	_
+4	dey	be	AUX	PART	_	5	cop	_	_
 5	plenty	plenty	NOUN	_	_	2	appos	_	_
 6	inside	inside	ADP	_	_	7	case	_	_
 7	food	food	NOUN	_	_	5	nmod	_	_
@@ -48,23 +48,23 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 4	donate	donate	VERB	_	_	0	root	_	_
 5	money	money	NOUN	_	_	4	obj	_	_
 6	//+	//+	PUNCT	_	_	9	punct	_	_
-7	{	{	PUNCT	_	_	6	punct	_	_
+7	{	{	PUNCT	_	_	9	punct	_	_
 8	one	one	NUM	_	_	9	nummod	_	_
 9	million	million	NUM	_	_	5	appos	_	_
 10	|	|	PUNCT	_	_	14	punct	_	_
 11	so	so	ADV	_	_	14	amod	_	_
-12	so	so	ADV	_	_	11	compound:redup	_	_
-13	so	so	ADV	_	_	11	compound:redup	_	_
+12	so	so	ADV	_	_	11	conj:redup	_	_
+13	so	so	ADV	_	_	11	conj:redup	_	_
 14	million	million	NUM	_	_	9	list	_	_
 15	|	|	PUNCT	_	_	18	punct	_	_
 16	one	one	DET	_	_	18	nmod	_	_
 17	point	point	NOUN	_	_	16	compound	_	_
 18	million	million	NUM	_	_	9	list	_	_
 19	|	|	PUNCT	_	_	22	punct	_	_
-20	half	half	NOUN	_	_	22	det:predet	_	_
+20	half	half	DET	NOUN	_	22	det:predet	_	_
 21	a	a	DET	_	_	22	det	_	_
 22	million	million	NUM	_	_	9	list	_	_
-23	}	}	PUNCT	_	_	6	punct	_	_
+23	}	}	PUNCT	_	_	9	punct	_	_
 24	//	//	PUNCT	_	_	4	punct	_	_
 
 ~~~

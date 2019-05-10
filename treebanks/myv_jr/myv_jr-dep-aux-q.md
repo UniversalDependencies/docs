@@ -11,10 +11,10 @@ There are also 1 other language-specific subtypes of `aux`: <tt><a href="myv_jr-
 
 9 nodes (0%) are attached to their parents as `aux:q`.
 
-9 instances of `aux:q` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22222222222222.
+8 instances of `aux:q` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33333333333333.
 
-The following 6 pairs of parts of speech are connected with `aux:q`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (3; 33% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 22% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `aux:q`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (5; 56% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 22% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 11% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 2 3 aux:q	color:blue
 1	Эзизь	эзь	AUX	Aux	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Polarity=Neg|Tense=Prt1|VerbType=Aux	2	aux:neg	_	_
 2	машт	маштомс	VERB	V	Connegative=Yes|Valency=2	0	root	_	GTtags=TV,Hom2,Dial,Connegative=Yes
-3	ли	ли	PART	Pcle	_	2	aux:q	_	GTtags=Qst
+3	ли	ли	AUX	Pcle	_	2	aux:q	_	GTtags=Qst
 4	бандитнэ	бандит	NOUN	N	Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 5	?	?	PUNCT	CLB	_	2	punct	_	_
 
@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 1 3 aux:q	color:blue
 1	Видестэ	видестэ	ADV	Adv	AdvType=Man	4	advmod	_	GTtags=Manner|Gloss=in-the-right-way
 2	-	-	PUNCT	PUNCT	_	3	punct	_	_
-3	арась	арась	PART	Pcle	Polarity=Neg	1	aux:q	_	GTtags=Neg|Gloss=in-the-right-way
+3	арась	арась	AUX	Pcle	Polarity=Neg	1	aux:q	_	GTtags=Neg|Gloss=in-the-right-way
 4	тошкси	тошксемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|Gloss=whisper
 5	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom|Gloss=it|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `aux:q`: <tt><a href
 5	:	:	PUNCT	CLB	_	3	punct	_	_
 6	шумбра	шумбра	ADJ	A	_	0	root	_	_
 7	т	оль	AUX	Cop	Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	cop	_	GTtags=Prs,ScSg2
-8	ли	ли	PART	Pcle	_	6	aux:q	_	GTtags=Qst
+8	ли	ли	AUX	Pcle	_	6	aux:q	_	GTtags=Qst
 9	кудосонть	кудо	NOUN	N	Case=Ine|Definite=Def|Number=Sing	6	obl	_	GTtags=Sem/Plc,Sg,Ine,Def|SpaceAfter=No
 10	?	?	PUNCT	CLB	_	6	punct	_	_
 

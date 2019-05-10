@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-aux.h
 2010 instances of `aux:pass` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.05218498090793.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2343; 99% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2352; 100% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,26 +38,6 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 2 aux:pass	color:blue
-1	Er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	9	advmod	9:advmod	_
-2	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
-3	zes	zes	NUM	TW|hoofd|prenom|stan	_	4	nummod	4:nummod	_
-4	maanden	maanden	NOUN	N|soort|mv|basis	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-5	met	met	ADP	VZ|init	_	6	case	6:case	_
-6	aftrek	aftrek	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:met	_
-7	tegen	tegen	ADP	VZ|init	_	8	case	8:case	_
-8	K.	K.	SYM	SPEC|symb	_	9	obl	9:obl:tegen	_
-9	geeist	eisen	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
-10	.	.	PUNCT	LET	_	9	punct	9:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
@@ -73,6 +53,19 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 8	dat	dat	SCONJ	VG|onder	_	10	mark	10:mark	_
 9	ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 10	sliep	slapen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	csubj	5:csubj	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 aux:pass	color:blue
+1	Herdacht	herdenken	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+2	werden	worden	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	1	aux:pass	1:aux:pass	SpaceAfter=No
+3	:	:	PUNCT	LET	_	1	punct	1:punct	_
 
 ~~~
 

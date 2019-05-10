@@ -13,7 +13,7 @@ This relation is universal.
 221 instances of `advcl` (75%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.00341296928328.
 
-The following 19 pairs of parts of speech are connected with `advcl`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (224; 76% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (19; 6% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `advcl`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (226; 77% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (19; 6% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	right	right	ADJ	JJ	Degree=Pos	5	xcomp	5:xcomp	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	SpaceAfter=No
-9	’s	’s	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
 10	un-detectable	un-detectable	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	10:punct	_
 
@@ -61,29 +61,28 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 advcl	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
-3	definitely	definitely	ADV	RB	_	5	advmod	5:advmod	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	case	case	NOUN	NN	Number=Sing	0	root	0:root	_
-6	for	for	ADP	IN	_	7	case	7:case	_
-7	Andy	Andy	PROPN	NNP	Number=Sing	5	obl	5:obl:for	_
-8	when	when	ADV	WRB	PronType=Int	10	advmod	10:advmod	_
-9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
-10	played	play	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	5:advcl	_
-11	Benoît	Benoît	PROPN	NNP	Number=Sing	10	obj	10:obj	_
-12	Paire	Paire	PROPN	NNP	Number=Sing	11	flat	11:flat	_
-13	in	in	ADP	IN	_	15	case	15:case	_
-14	Monte	Monte	PROPN	NNP	Number=Sing	15	compound	15:compound	_
-15	Carlo	Carlo	PROPN	NNP	Number=Sing	10	obl	10:obl:in	_
-16	in	in	ADP	IN	_	17	case	17:case	_
-17	April	April	PROPN	NNP	Number=Sing	10	obl	10:obl:in	SpaceAfter=No
-18	.	.	PUNCT	.	_	5	punct	5:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 9 advcl	color:blue
+1	Because	because	SCONJ	IN	_	9	mark	9:mark	_
+2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
+3	1	1	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
+6	longer	longer	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	old	old	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	one	one	NOUN	NN	Number=Sing	14	advcl	14:advcl:because	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	14:punct	_
+11	many	many	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	users	user	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+14	save	save	VERB	VB	VerbForm=Inf	0	root	0:root	_
+15	100	100	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+16	euros	euro	NOUN	NNS	Number=Plur	14	obj	14:obj	SpaceAfter=No
+17	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 ~~~
 

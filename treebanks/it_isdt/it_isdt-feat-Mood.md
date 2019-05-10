@@ -11,22 +11,22 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 20786 tokens (7%) have a non-empty value of `Mood`.
 3728 types (14%) occur at least once with a non-empty value of `Mood`.
-1289 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10515; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10271; 3% instances).
+1288 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (10514; 4% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (10272; 3% instances).
 
 ### `VERB`
 
-10515 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
+10514 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10515; 100%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10514; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9254; 88%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8147; 77%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7418; 71%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10514; 100%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10513; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9252; 88%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8146; 77%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7418; 71%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (108; 1% of non-empty `Mood`): <em>bisognerebbe, comporterebbe, consentirebbe, direi, sarebbe, vorrei, avrebbe, sarebbero, farebbe, gradirei</em>
 * `Imp` (245; 2% of non-empty `Mood`): <em>v., Nomina, Dimmi, Elenca, vedi, Dammi, andate, clicca, ricorda, usa</em>
-* `Ind` (9631; 92% of non-empty `Mood`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
+* `Ind` (9630; 92% of non-empty `Mood`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
 * `Sub` (531; 5% of non-empty `Mood`): <em>abbia, sia, faccia, abbiano, veda, siano, facciano, tratti, disponga, permetta</em>
-* `EMPTY` (14737): <em>fare, fatto, far, visto, vinto, vedere, avere, avuto, tenuto, detto</em>
+* `EMPTY` (14734): <em>fare, fatto, far, visto, vinto, vedere, avere, avuto, tenuto, detto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -48,17 +48,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-10271 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Mood`.
+10272 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10271; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9667; 94%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8824; 86%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7331; 71%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10272; 100%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9669; 94%), <tt><a href="it_isdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8825; 86%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7331; 71%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (388; 4% of non-empty `Mood`): <em>sarebbe, potrebbe, avrebbe, dovrebbe, dovrebbero, potrebbero, sarebbero, vorrei, avrebbero, dovremmo</em>
 * `Imp` (3; 0% of non-empty `Mood`): <em>devi, dovete, sii</em>
-* `Ind` (9318; 91% of non-empty `Mood`): <em>è, sono, ha, può, hanno, era, possono, deve, fu, erano</em>
+* `Ind` (9319; 91% of non-empty `Mood`): <em>è, sono, ha, può, hanno, era, possono, deve, fu, erano</em>
 * `Sub` (562; 5% of non-empty `Mood`): <em>sia, siano, possa, abbia, fosse, venga, avesse, debba, possano, fossero</em>
-* `EMPTY` (1430): <em>essere, stato, stata, stati, aver, state, poter, potuto, dovuto, esser</em>
+* `EMPTY` (1433): <em>essere, stato, stata, stati, aver, state, poter, potuto, dovuto, esser</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -87,6 +87,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (803; 64%),
-<tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
-<tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%).
+<tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%).
 

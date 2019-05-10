@@ -6,18 +6,25 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `AUX`
 
-There are 51 `AUX` lemmas (0%), 93 `AUX` types (0%) and 685 `AUX` tokens (0%).
-Out of 16 observed tags, the rank of `AUX` is: 8 in number of lemmas, 8 in number of types and 13 in number of tokens.
+There are 13 `AUX` lemmas (0%), 31 `AUX` types (0%) and 2165 `AUX` tokens (1%).
+Out of 16 observed tags, the rank of `AUX` is: 13 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: كَان، لَيس، عَدّ، اِعتَبَر، زَال، قَال، ظَلّ، أَصبَح، عَاد، أَعلَن
+The 10 most frequent `AUX` lemmas: سَ، قَد، كَان، لَيس، سَوفَ، مَا، هَل، إِلَّا، رُبَّمَا، أَ
 
-The 10 most frequent `AUX` types:  كان، يكون، ليس، تكون، كانت، ليست، تعد، قال، يكن، يعتبر
+The 10 most frequent `AUX` types:  س، قد، كان، يكون، سوف، ليس، تكون، ما، كانت، ليست
 
-The 10 most frequent ambiguous lemmas: كَان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 911, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 386), لَيس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 113, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 79), عَدّ (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 31, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 29, <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> 1), اِعتَبَر (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 158, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 27), زَال (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 83, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 25), قَال (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 958, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 21), ظَلّ (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 34, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 10), أَصبَح (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 61, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 9), عَاد (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 92, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 4), أَعلَن (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 360, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 3)
+The 10 most frequent ambiguous lemmas: سَ (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5), قَد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 407, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كَان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 911, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 386), لَيس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 113, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 79), مَا (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1021, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), هَل (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17), إِلَّا (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 150, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 15), رُبَّمَا (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 28, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 6), أَ (<tt><a href="ar_padt-pos-X.html">X</a></tt> 48, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 6, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 4), عَاد (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 95, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  كان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 378, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118), يكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 99, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 89), ليس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 79, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 63), تكون (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 76, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 76), كانت (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 61), ليست (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13), تعد (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 27, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 22, <tt><a href="ar_padt-pos-X.html">X</a></tt> 1), قال (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 733, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 18), يكن (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 22, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 15), يعتبر (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 21, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 14)
+The 10 most frequent ambiguous types:  س (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_padt-pos-X.html">X</a></tt> 2), قد (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 406, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145), كان (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 378, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118), يكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 99, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 89), ليس (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 78, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 64), تكون (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 77, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 75), ما (<tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1025, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64, <tt><a href="ar_padt-pos-X.html">X</a></tt> 4, <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3, <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1), كانت (<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 61), ليست (<tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32, <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13), هل (<tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32, <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17)
 
 
+* س
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 1069: و قالت " <b>س</b> نلتقي عند عودة نا من مدينة البصرة " .
+  * <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 5: و مضى يقول " ان فرق الانقاذ مدركة ل كل ما سبق و <b>س</b> تبذل ما ب وسع ها ل إنقاذ طاقم الغواصة على الرغم من سوء الاحوال الجوية " .
+  * <tt><a href="ar_padt-pos-X.html">X</a></tt> 2: و في حوار مع الوكالة ذكر ك . ب . <b>س</b> . جيل رئيس اتحاد الهوكى أن ه اذا تم الاخذ ب تصريحات فاجبايى يمكن ل الهند أن تلعب المزيد من المباريات ضد باكستان .
+* قد
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 406: و <b>قد</b> قضينا على فاعلية مجموعة اللصوص و تم تفريق هم .
+  * <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 145: إسرائيل : حزب الله " <b>قد</b> يخطف جنوداً و س يكون رد نا عملية داخل سورية
 * كان
   * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 378: وماهندرا شودري <b>كان</b> اول مواطن من اصل هندي يترأس الحكومة في تاريخ فيدجي .
   * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 118: و <b>كان</b> من الممكن جدا ان يحصل هجوم لو لم نبدا ب قصف هم " .
@@ -25,67 +32,63 @@ The 10 most frequent ambiguous types:  كان (<tt><a href="ar_padt-pos-VERB.htm
   * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 99: رمضان : رفع الحظر المفروض على العراق " لن <b>يكون</b> ب قرار من مجلس الامن "
   * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 89: الإفراط في المتعة قد <b>يكون</b> مشكلة .
 * ليس
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 79: ب معنى آخر ان دور نا الاساسي هو العرض و <b>ليس</b> الانتقاد .
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 63: ب التالي <b>ليس</b> هناك ما يلزم مصر ب أن تخفض الرسوم الجمركية .
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 78: ب معنى آخر ان دور نا الاساسي هو العرض و <b>ليس</b> الانتقاد .
+  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 64: ب التالي <b>ليس</b> هناك ما يلزم مصر ب أن تخفض الرسوم الجمركية .
 * تكون
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 76: و كم س <b>تكون</b> التكلفة . .
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 76: * هل س <b>تكون</b> أنت ضمن القضاة ب اعتبار ك قاضياً و عضوا في مجلس الحكم ؟
+  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 77: * هل س <b>تكون</b> أنت ضمن القضاة ب اعتبار ك قاضياً و عضوا في مجلس الحكم ؟
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 75: و كم س <b>تكون</b> التكلفة . .
+* ما
+  * <tt><a href="ar_padt-pos-DET.html">DET</a></tt> 1025: <b>ما</b> الضمانات الإسرائيلية و الأمريكية ل نجاح هذه الهدنة .
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 64: و <b>ما</b> زال سبب اندلاع الحريق و حجم الخسائر الاقتصادية قيد التحقيق .
+  * <tt><a href="ar_padt-pos-X.html">X</a></tt> 4: يمكن استنتاج هذه الوعود من ما أعلن ه صدام حسين في تسجيلات ه منذ هروب ه ، <b>ما</b> دام لم يصدر أي بيان يحدد برنامجاً سياسيا ب الانتقام من " المتخاذلين " أي من لم يقفوا مع صدام ، و هم غالبية ساحقة في الجنوب و الوسط و كل كردستان .
+  * <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 3: ـ صدام حسين و أعضاء النظام السابق أبرياء <b>ما</b> لم تثبت إدانة هم ، و ل هٰذا ل هم الحق ب ارتداء ما يريدون ه في السجن و في المحكمة ، و عندما يصدر قرار القضاة ب سجن هم عند ذاك يرتدون الملابس الخاصة ب السجناء مثل هم مثل بقية السجناء .
+  * <tt><a href="ar_padt-pos-INTJ.html">INTJ</a></tt> 1: و أضافت : " لا بد من ان نسأل أنفس نا في هذا المؤتمر ما هو الاتحاد الذي نتطلع إلي ه ؟ و <b>ما</b> الذي تحتاج إلي ه المرأة في عالم نا هذا ؟ و إلى اي اتحاد نحتاج ؟ و هل ورش العمل و اللجان التي س تنبثق من ها س تساعد نا على تحديد حاجات نا و فهم التزامات نا و إعطاء ها افقاً فعالا و موسعا " .
 * كانت
   * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 251: و <b>كانت</b> تونس فازت اليوم ايضا على الاردن 28 - 25 ( 11 - 8 ) .
   * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 61: سواء أ <b>كانت</b> صحية ، أو غير ها . .
 * ليست
   * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 32: و قال إن " سوريا <b>ليست</b> خائفة و لا قلقة من هذه التهديدات " .
   * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 13: و أضاف التقرير أن ها <b>ليست</b> أثارا إسلامية أو قبطية . .
-* تعد
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 27: لكن ب استثناء محاولة فاشلة ل التنقيب في أواخر الثمانينات لم <b>تعد</b> شل ل العمل في ليبيا .
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 22: و لم <b>تعد</b> قادرة على تحمّل الخسائر البشرية اليومية المتزايدة .
-  * <tt><a href="ar_padt-pos-X.html">X</a></tt> 1: لم <b>تعد</b> هذه الأخبار وحد ها تقليدية ، ف ردود الفعل الاسرائيلية علي ها أصبحت تقليدية أيضاً ، و الإسرائيليون ضربوا فوراً مقراً فلسطينياً خالياً ، ما جعل جريدة » هاتزوفيه « تسخر من ان الجيش الاسرائيلي أصاب أكياس الرمل خارج المقر اصابات قاتلة .
-* قال
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 733: و <b>قال</b> الناصري : " إن ه لم يتم بعد بحث أي أجل محدد ل التأجيل المحتمل " .
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 18: و <b>قال</b> : " هذا تصرف باطل و مخالف ل الأحكام الشرعية " .
-* يكن
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 22: ف لم <b>يكن</b> هناك خلاف بين الفصائل على فكرة الهدنة ، و إنما شروط ها .
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 15: و لم <b>يكن</b> من السهل علي ه مواجهة كاميرات التلفزيون و عدسات المصورين و هو يصعد الباص .
-* يعتبر
-  * <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> 21: و <b>يعتبر</b> قسم من السكان ان مستوى معيشة هم انخفض بعد تراجع علاقات التعاون مع صربيا .
-  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 14: يشار الى ان محتشمي و هو مدير تحرير صحيفة + بيان + الاصلاحية التي علق القضاء الايراني صدور ها ، <b>يعتبر</b> احد مؤسسي حزب الله الشيعي اللبناني .
+* هل
+  * <tt><a href="ar_padt-pos-PART.html">PART</a></tt> 32: <b>هل</b> دفعت الخلافات العائلية الشيخ إلى الانتحار ؟
+  * <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> 17: <b>هل</b> تتعمق الأزمة السياسية و الاقتصادية في لبنان ؟
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.823529 (the average of all parts of speech is 1.761701).
+The form / lemma ratio of `AUX` is 2.384615 (the average of all parts of speech is 1.762014).
 
 The 1st highest number of forms (14) was observed with the lemma “كَان”: أكون, اكون, تكن, تكون, تكونون, كان, كانت, كانوا, كن, كنت, نكون, يكن, يكون, يكونا.
 
-The 2nd highest number of forms (5) was observed with the lemma “أَصبَح”: أصبح, أصبحت, اصبح, تصبح, يصبح.
+The 2nd highest number of forms (4) was observed with the lemma “لَيس”: لسنا, ليس, ليست, ليسوا.
 
-The 3rd highest number of forms (5) was observed with the lemma “اِعتَبَر”: اعتبر, اعتبرت, اعتبروا, تعتبر, يعتبر.
+The 3rd highest number of forms (2) was observed with the lemma “إِلَّا”: إلا, الا.
 
-`AUX` occurs with 7 features: <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt> (685; 100% instances), <tt><a href="ar_padt-feat-Number.html">Number</a></tt> (685; 100% instances), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt> (683; 100% instances), <tt><a href="ar_padt-feat-Person.html">Person</a></tt> (683; 100% instances), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt> (683; 100% instances), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt> (294; 43% instances), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt> (294; 43% instances)
+`AUX` occurs with 7 features: <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt> (501; 23% instances), <tt><a href="ar_padt-feat-Number.html">Number</a></tt> (501; 23% instances), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt> (499; 23% instances), <tt><a href="ar_padt-feat-Person.html">Person</a></tt> (499; 23% instances), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt> (499; 23% instances), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt> (197; 9% instances), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt> (197; 9% instances)
 
-`AUX` occurs with 17 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Imp`, `Mood=Ind`, `Mood=Jus`, `Mood=Sub`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `VerbForm=Fin`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 16 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Imp`, `Mood=Ind`, `Mood=Jus`, `Mood=Sub`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `VerbForm=Fin`, `Voice=Act`
 
-`AUX` occurs with 24 feature combinations.
-The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act` (248 tokens).
-Examples: كان، ليس، قال، زال، اصبح، ظل، بات، ذكر، صار، صرح
+`AUX` occurs with 19 feature combinations.
+The most frequent feature combination is `_` (1664 tokens).
+Examples: س، قد، سوف، ما، هل، إلا، الا، ربما، أ، علّ
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="ar_padt-dep-cop.html">cop</a></tt> (646; 94% instances), <tt><a href="ar_padt-dep-aux.html">aux</a></tt> (39; 6% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="ar_padt-dep-aux.html">aux</a></tt> (1593; 74% instances), <tt><a href="ar_padt-dep-cop.html">cop</a></tt> (462; 21% instances), <tt><a href="ar_padt-dep-aux-pass.html">aux:pass</a></tt> (110; 5% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (321; 47% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (294; 43% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (30; 4% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1563; 72% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (272; 13% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (251; 12% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (43; 2% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 
-661 (96%) `AUX` nodes are leaves.
+2157 (100%) `AUX` nodes are leaves.
 
-6 (1%) `AUX` nodes have one child.
+7 (0%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
-18 (3%) `AUX` nodes have three or more children.
+1 (0%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 5.
+The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 13 different relations: <tt><a href="ar_padt-dep-mark.html">mark</a></tt> (15; 20% instances), <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (12; 16% instances), <tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt> (10; 13% instances), <tt><a href="ar_padt-dep-obl.html">obl</a></tt> (9; 12% instances), <tt><a href="ar_padt-dep-cc.html">cc</a></tt> (6; 8% instances), <tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt> (6; 8% instances), <tt><a href="ar_padt-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="ar_padt-dep-advmod-emph.html">advmod:emph</a></tt> (4; 5% instances), <tt><a href="ar_padt-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="ar_padt-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="ar_padt-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (2; 3% instances), <tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 2 different relations: <tt><a href="ar_padt-dep-conj.html">conj</a></tt> (8; 80% instances), <tt><a href="ar_padt-dep-punct.html">punct</a></tt> (2; 20% instances)
 
-Children of `AUX` nodes belong to 10 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (34; 45% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt> (13; 17% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt> (10; 13% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (8; 11% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="ar_padt-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (2; 3% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="ar_padt-pos-PUNCT.html">PUNCT</a></tt> (2; 20% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 10% instances)
 

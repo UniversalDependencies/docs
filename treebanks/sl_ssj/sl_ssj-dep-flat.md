@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	tisoč	tisoč	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	7	flat	_	Dep=9|Rel=Atr
 9	tolarjev	tolar	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	4	xcomp	_	Dep=4|Rel=Obj
 10	škode	škoda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|Dep=9|Rel=Atr
-11	.	.	PUNCT	Z	_	4	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
 1	M.	M.	X	Y	Abbr=Yes	0	root	_	Dep=0|Rel=Root
-2	V.	V.	X	Y	Abbr=Yes	1	flat	_	SpaceAfter=No|Dep=0|Rel=Root
+2	V.	V.	X	Y	Abbr=Yes	1	flat	_	Dep=0|Rel=Root
 
 ~~~
 

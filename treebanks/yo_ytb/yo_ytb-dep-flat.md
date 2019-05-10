@@ -11,64 +11,54 @@ This relation is universal.
 1 nodes (0%) are attached to their parents as `flat`.
 
 1 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 39 flat	color:blue
-1	Nígbà	Nígbà	ADV	_	_	5	advmod	_	Gloss=when
-2	tí	tí	PRON	_	_	5	mark	_	Gloss=that
-3	Màríà	Màríà	PROPN	_	_	5	nsubj	_	Gloss=mary
-4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
-5	dé	dé	VERB	_	_	0	root	_	Gloss=come
-6	ibi	ibi	NOUN	_	_	5	obj	_	Gloss=place
-7	tí	tí	PRON	_	_	9	mark	_	Gloss=that
-8	Jésù	Jésù	PROPN	_	_	9	nsubj	_	Gloss=jesus
-9	wà	wà	AUX	_	_	5	xcomp	_	SpaceAfter=No|Gloss=was
-10	,	,	PUNCT	_	_	14	punct	_	Gloss=,
-11	tí	tí	PRON	_	_	14	mark	_	Gloss=that
-12	ó	ó	PRON	_	_	14	nsubj	_	Gloss=he
-13	sì	sì	CCONJ	_	_	14	cc	_	Gloss=and
-14	rí	rí	VERB	_	_	5	conj	_	Gloss=saw
-15	i	i	PRON	_	_	14	obj	_	SpaceAfter=No|Gloss=him
-16	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-17	ó	ó	PRON	_	_	18	nsubj	_	Gloss=he
-18	wólẹ̀	wólẹ̀	VERB	_	_	15	conj	_	Gloss=fell
-19	lẹ́bàá	lẹ́bàá	ADP	_	_	20	case	_	Gloss=by
-20	ẹsẹ̀	ẹsẹ̀	NOUN	_	_	18	obj	_	Gloss=feet
-21	rẹ̀	rẹ̀	PRON	_	_	20	nmod	_	SpaceAfter=No|Gloss=his
-22	,	,	PUNCT	_	_	24	punct	_	Gloss=,
-23	ó	ó	PRON	_	_	24	nsubj	_	Gloss=he
-24	wí	wí	VERB	_	_	20	conj	_	Gloss=said
-25	fún	fún	ADP	_	_	26	case	_	Gloss=unto
-26	un	un	PRON	_	_	24	obj	_	Gloss=him
-27	pé	pé	SCONJ	_	_	30	mark	_	SpaceAfter=No|Gloss=saying
-28	,	,	PUNCT	_	_	30	punct	_	Gloss=,
-29	“	“	PUNCT	_	_	30	punct	_	SpaceAfter=No|Gloss=“
-30	Olúwa	Olúwa	PROPN	_	_	36	nsubj	_	SpaceAfter=No|Gloss=lord
-31	,	,	PUNCT	_	_	36	punct	_	Gloss=,
-32	ìbáṣe	ìbáṣe	SCONJ	_	_	36	mark	_	Gloss=if
-33	pé	pé	SCONJ	_	_	36	mark	_	Gloss=saying
-34	ìwọ	ìwọ	PRON	_	_	36	expl	_	Gloss=thou
-35	ti	ti	AUX	_	_	36	aux	_	Gloss=have
-36	wà	wà	AUX	_	_	37	cop	_	Gloss=was
-37	níhín	níhín	ADV	_	_	24	xcomp	_	SpaceAfter=No|Gloss=here
-38	-	-	PUNCT	_	_	37	goeswith	_	SpaceAfter=No|Gloss=the
-39	ín	ín	ADV	_	_	38	flat	_	SpaceAfter=No|Gloss=him
-40	,	,	PUNCT	_	_	45	punct	_	Gloss=,
-41	arákùnrin	arákùnrin	NOUN	_	_	45	nsubj	_	Gloss=brother
-42	mi	mi	PRON	_	_	41	nmod	_	Gloss=my
-43	kì	kì	PART	_	_	45	discourse	_	Gloss=not
-44	bá	bá	SCONJ	_	_	45	mark	_	Gloss=if
-45	kú	kú	VERB	_	_	36	xcomp	_	SpaceAfter=No|Gloss=die
-46	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Gloss=.
-47	”	”	PUNCT	_	_	5	punct	_	Gloss=.
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 27 flat	color:blue
+1	(	(	PUNCT	_	_	2	punct	_	Gloss=(|Ref=JOHN_11.2|SpaceAfter=No
+2	Màríà	Màríà	PROPN	_	_	0	root	_	Gloss=mary|Ref=JOHN_11.2
+3	náà	náà	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_11.2
+4	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.2
+5	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_11.2
+6	tí	tí	PRON	_	PronType=Rel	8	nsubj	_	Gloss=that|Ref=JOHN_11.2
+7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	expl	_	Gloss=she|Ref=JOHN_11.2
+8	fi	fi	VERB	_	_	5	acl	_	Gloss=with|Ref=JOHN_11.2
+9	òróró	òróró	NOUN	_	_	8	obj	_	Gloss=ointment|Ref=JOHN_11.2
+10	ìkunra	ìkunra	NOUN	_	_	9	nmod	_	Gloss=wipes|Ref=JOHN_11.2
+11	kun	kun	VERB	_	_	8	compound:svc	_	Gloss=wipe|Ref=JOHN_11.2
+12	Olúwa	Olúwa	PROPN	_	_	11	obj	_	Gloss=lord|Ref=JOHN_11.2|SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=JOHN_11.2
+14	tí	tí	PRON	_	PronType=Rel	17	nsubj	_	Gloss=that|Ref=JOHN_11.2
+15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Gloss=she|Ref=JOHN_11.2
+16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=that|Ref=JOHN_11.2
+17	fi	fi	VERB	_	_	8	conj	_	Gloss=with|Ref=JOHN_11.2
+18	irun	irun	NOUN	_	_	17	obj	_	Gloss=hair|Ref=JOHN_11.2
+19	orí	orí	NOUN	_	_	18	nmod	_	Gloss=head|Ref=JOHN_11.2
+20	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Gloss=her|Ref=JOHN_11.2
+21	nù	nù	VERB	_	_	17	compound:svc	_	Gloss=cast|Ref=JOHN_11.2
+22	ún	ún	PRON	_	_	21	obj	_	Gloss=fifth|Ref=JOHN_11.2|SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_11.2
+24	arákùnrin	arákùnrin	NOUN	_	_	29	nsubj	_	Gloss=brother|Ref=JOHN_11.2
+25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Gloss=her|Ref=JOHN_11.2
+26	ni	ni	PART	_	_	24	case	_	Gloss=is|Ref=JOHN_11.2
+27	Lásárù	Lásárù	PROPN	_	_	24	flat	_	Gloss=lazarus|Ref=JOHN_11.2
+28	í	í	PRON	_	_	29	expl	_	Gloss=is|Ref=JOHN_11.2
+29	ṣe	ṣe	VERB	_	_	17	xcomp	_	Gloss=be|Ref=JOHN_11.2|SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.2
+31	ara	ara	PRON	_	PronType=Emp	27	appos	_	Gloss=body|Ref=JOHN_11.2
+32	ẹni	ẹni	PRON	_	PronType=Ind	31	nmod	_	Gloss=that|Ref=JOHN_11.2
+33	tí	tí	PRON	_	PronType=Rel	35	nsubj	_	Gloss=that|Ref=JOHN_11.2
+34	kò	kò	PART	_	_	35	advmod	_	Gloss=not|Ref=JOHN_11.2
+35	dá	dá	VERB	_	_	32	acl	_	Gloss=made|Ref=JOHN_11.2|SpaceAfter=No
+36	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_11.2|SpaceAfter=No
+37	)	)	PUNCT	_	_	2	punct	_	Gloss=)|Ref=JOHN_11.2
 
 ~~~
 

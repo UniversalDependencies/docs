@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-314 nodes (1%) are attached to their parents as `nummod`.
+312 nodes (1%) are attached to their parents as `nummod`.
 
-174 instances of `nummod` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.18789808917197.
+174 instances of `nummod` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.21794871794872.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (182; 58% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (63; 20% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (32; 10% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (14; 4% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (180; 58% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (63; 20% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (33; 11% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (14; 4% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

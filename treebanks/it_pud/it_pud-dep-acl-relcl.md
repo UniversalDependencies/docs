@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 7 11 acl:relcl	color:blue
 1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
 2	spedizione	spedizione	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
-3	venne	venire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
+3	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	aux:pass	_	_
 4	guidata	guidare	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past	0	root	_	_
 5	da	da	ADP	IN	_	7	case	_	_
 6	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_

@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="en_lines-dep-aux.ht
 697 nodes (1%) are attached to their parents as `aux:pass`.
 
 696 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3142037302726.
+Average distance between parent and child is 1.31133428981349.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (687; 99% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (696; 100% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,30 +34,6 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	web	web	NOUN	SG-NOM	Number=Sing	11	compound	_	_
 11	site	site	NOUN	SG-NOM	Number=Sing	7	obl	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:pass	color:blue
-1	It	it	PRON	PERS-SG	_	4	nsubj:pass	_	_
-2	had	have	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_
-3	got	get	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
-4	filled	fill	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-5	since	since	ADP	_	_	7	case	_	_
-6	my	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
-7	boyhood	boyhood	NOUN	SG-NOM	Number=Sing	4	obl	_	_
-8	with	with	ADP	_	_	9	case	_	_
-9	rivers	river	NOUN	PL-NOM	Number=Plur	4	obl	_	_
-10	and	and	CCONJ	_	_	11	cc	_	_
-11	lakes	lake	NOUN	PL-NOM	Number=Plur	9	conj	_	_
-12	and	and	CCONJ	_	_	13	cc	_	_
-13	names	name	NOUN	PL-NOM	Number=Plur	9	conj	_	SpaceAfter=No
-14	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

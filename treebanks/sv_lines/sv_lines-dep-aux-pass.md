@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_lines-dep-aux.html">aux</a></tt>.
 
-115 nodes (0%) are attached to their parents as `aux:pass`.
+116 nodes (0%) are attached to their parents as `aux:pass`.
 
-115 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35652173913043.
+116 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36206896551724.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (109; 95% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (115; 99% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,29 +31,6 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	på	på	ADP	_	_	8	case	_	_
 8	er	ni	PRON	PERS-P2PL-ACC	Case=Gen|Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	6	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 aux:pass	color:blue
-1	Han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	nsubj	_	_
-2	fick	få	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-3	bara	bara	ADV	_	_	4	advmod	_	_
-4	hoppas	hoppas	VERB	INF-DPO	Mood=Ind|VerbForm=Inf|Voice=Act	0	root	_	_
-5	att	att	SCONJ	_	_	9	mark	_	_
-6	Stillman	Stillman	PROPN	SG-NOM	Case=Nom|Number=Sing	9	nsubj	_	_
-7	inte	inte	PART	NEG	_	9	advmod	_	_
-8	blivit	bli	VERB	SUP-ACT	VerbForm=Sup|Voice=Act	9	aux:pass	_	_
-9	förvarnad	förvarna	VERB	AD-SG-IND	Mood=Ind|VerbForm=Part|Voice=Pass	4	ccomp	_	_
-10	om	om	ADP	_	_	12	case	_	_
-11	hans	han	PRON	P3SG-GEN	Case=Gen|Definite=Def|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
-12	närvaro	närvaro	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

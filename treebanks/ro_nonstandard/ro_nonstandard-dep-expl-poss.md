@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-99 nodes (0%) are attached to their parents as `expl:poss`.
+100 nodes (0%) are attached to their parents as `expl:poss`.
 
-73 instances of `expl:poss` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3030303030303.
+74 instances of `expl:poss` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3.
 
-The following 5 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (93; 94% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (95; 95% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 11 12 expl:poss	color:blue
 1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=PAVEL_1.CORINT_12.27
 2	voi	tu	PRON	Pp2-pr	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	ref=PAVEL_1.CORINT_12.27
-3	sînteți	fi	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	ref=PAVEL_1.CORINT_12.27
+3	sînteți	fi	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	cop	_	ref=PAVEL_1.CORINT_12.27
 4	trupul	trup	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	ref=PAVEL_1.CORINT_12.27
 5	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	ref=PAVEL_1.CORINT_12.27
 6	Hristos	Hristos	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	ref=PAVEL_1.CORINT_12.27|SpaceAfter=No
@@ -69,8 +69,8 @@ The following 5 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 6 2 expl:poss	color:blue
 1	Când	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	_
 2	ți-	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	6	expl:poss	_	SpaceAfter=No
-3	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	det	_	_
-4	fi	fi	VERB	Vmn	VerbForm=Inf	6	cop	_	_
+3	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+4	fi	fi	AUX	Van	VerbForm=Inf	6	cop	_	_
 5	cămașa	cămașă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
 6	neagră	negru	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	advcl:tcl	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	6	punct	_	_

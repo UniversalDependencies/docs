@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `SCONJ`
 
-There are 7 `SCONJ` lemmas (2%), 7 `SCONJ` types (1%) and 11 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
+There are 7 `SCONJ` lemmas (1%), 7 `SCONJ` types (1%) and 11 `SCONJ` tokens (1%).
+Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>потому, что, дак, как, ке, так, чтоб</em>
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="kpv_ikdp-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.144444).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.198459).
 
 The 1st highest number of forms (1) was observed with the lemma “дак”: <em>дак</em>.
 
@@ -41,7 +41,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ке”: <em>
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (6; 55% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (2; 18% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (1; 9% instances), <tt><a href="kpv_ikdp-dep-discourse.html">discourse</a></tt> (1; 9% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 9% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="kpv_ikdp-dep-mark.html">mark</a></tt> (7; 64% instances), <tt><a href="kpv_ikdp-dep-fixed.html">fixed</a></tt> (2; 18% instances), <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt> (1; 9% instances), <tt><a href="kpv_ikdp-dep-goeswith.html">goeswith</a></tt> (1; 9% instances)
 
 Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (4; 36% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 27% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 9% instances)
 

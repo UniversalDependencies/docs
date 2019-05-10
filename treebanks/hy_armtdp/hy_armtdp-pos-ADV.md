@@ -6,87 +6,89 @@ udver: '2'
 
 ## Treebank Statistics: UD_Armenian-ArmTDP: POS Tags: `ADV`
 
-There are 236 `ADV` lemmas (5%), 239 `ADV` types (3%) and 1058 `ADV` tokens (5%).
-Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
+There are 307 `ADV` lemmas (5%), 313 `ADV` types (3%) and 1597 `ADV` tokens (4%).
+Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>էլ, ավելի, միայն, արդեն, երբ, հիմա, դեռ, շատ, տեղի, դուրս</em>
+The 10 most frequent `ADV` lemmas: <em>էլ, ավելի, միայն, արդեն, հիմա, երբ, դուրս, շատ, հետո, ինչպես</em>
 
-The 10 most frequent `ADV` types:  <em>էլ, ավելի, միայն, արդեն, երբ, հիմա, դեռ, շատ, տեղի, դուրս</em>
+The 10 most frequent `ADV` types:  <em>էլ, ավելի, միայն, արդեն, հիմա, երբ, դուրս, շատ, հետո, ինչպես</em>
 
-The 10 most frequent ambiguous lemmas: <em>էլ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 76, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 27), <em>ավելի</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 42, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 1), <em>միայն</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 41, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1), <em>երբ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 39, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 20), <em>դեռ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 21, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1), <em>շատ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 21, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 4), <em>դուրս</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 3), <em>ինչպես</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 18, <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 2), <em>հետո</em> (<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 32, <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 18), <em>այնքան</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17, <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>էլ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 98, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 41), <em>ավելի</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 65, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 1), <em>միայն</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 60, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 2), <em>երբ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 49, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 27), <em>դուրս</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 38, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 5, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 3), <em>շատ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 38, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 8), <em>հետո</em> (<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 46, <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 32), <em>ինչպես</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 28, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 4), <em>որտեղ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 24, <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> 4), <em>այնքան</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 23, <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>էլ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 75, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 27), <em>ավելի</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 40, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 1), <em>երբ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 39, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 13), <em>դեռ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1), <em>շատ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 7), <em>դուրս</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 3), <em>ինչպես</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 2), <em>հետո</em> (<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 32, <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 12), <em>այնքան</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 12, <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 1), <em>անգամ</em> (<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 14)
+The 10 most frequent ambiguous types:  <em>էլ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 97, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 41), <em>ավելի</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 62, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 1), <em>միայն</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 55, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1), <em>երբ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 49, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 16), <em>դուրս</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 38, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 5), <em>շատ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 34, <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 3), <em>հետո</em> (<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 46, <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 19), <em>ինչպես</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 24, <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 4), <em>դեռ</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20, <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 5), <em>այնքան</em> (<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17, <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 2)
 
 
 * <em>էլ</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 75: <em>Շատ - շատ ՝ Հայաստան չի մնա , ուրեմն իրենք <b>էլ</b> չեն մնա :</em>
-  * <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 27: <em>Օրերս <b>էլ</b> Նարիշկինն աշխատանքային այցով եկել էր Հայաստան :</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 97: <em>— Ինչ գնով <b>էլ</b> լինի , վաղը երեկոյան պետք է լինենք Կողոնիայում :</em>
+  * <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 41: <em>Նա այդպես <b>էլ</b> մնացել է նույն դիրքով , շորերը հագին , պտղի պես կծկված :</em>
 * <em>ավելի</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 40: <em>« Նրանք իրարից հեռու չեն կարող փախչել , բայց <b>ավելի</b> մոտենալ էլ չեն կարող ։</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 62: <em>Կնոջ ականջն ընկած խոսքն <b>ավելի</b> արագ կթռչեր , քան մեր ձիերը :</em>
   * <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 1: <em>Nas Daily բլոգերը ունի 7 մլն-ից <b>ավելի</b> հետևորդ :</em>
+  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 1: <em>Ինձ թվում է , թե մենք չափից <b>ավելի</b> ենք տարվում առօրյա հարցերով ։</em>
+* <em>միայն</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 55: <em>Այո , նա <b>միայն</b> լուռ ցավակցում է :</em>
+  * <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1: <em>Մի բան , որը ըստ էության նաև նոր նախարարը չի հերքում ՝ ասելով , սակայն , որ դեռևս պարզ չէ , թե ով որտեղ և ինչպես է չարաշահել , ու ինքը չէ , որ սա <b>միայն</b> պետք է գնահատի :</em>
 * <em>երբ</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 39: <em>Ոչ ոք չգիտեր , թե այդ կինը <b>երբ</b> և որտեղից է հայտնվել ։</em>
-  * <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 13: <em>« Փառք Աստծո , միջինը չեմ լսել . սարսափելի է , <b>երբ</b> անտարբեր են :</em>
-* <em>դեռ</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20: <em>Որովհետև նրա պատկերը , քանի <b>դեռ</b> այդ կինը չէր նյութականացել , կիսատ էր ։</em>
-  * <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 1: <em>Գոնե կարգին եղանակ լիներ , Հարութը կօգներ ՝ Էրիվան , Բայազետ , Արան , մի տեղ մի անզավակ ընտանիք կգտներ ՝ կտային , բայց հիմիկվա նման , <b>դեռ</b> ավելի ցուրտ , ձմեռ էր , պտուղն էլ առողջ . պորտն անկտրել , էնքան ճչաց ՜ ...</em>
-* <em>շատ</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17: <em>Շատ - <b>շատ</b> ՝ Հայաստան չի մնա , ուրեմն իրենք էլ չեն մնա :</em>
-  * <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 7: <em>Հիմա , իհարկե , <b>շատ</b> ավելին գիտենք ։</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 49: <em>Ինչ ՞ ես կարծում , <b>երբ</b> ՞ կկարողանաս գալ ։</em>
+  * <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 16: <em>« Փառք Աստծո , միջինը չեմ լսել . սարսափելի է , <b>երբ</b> անտարբեր են :</em>
 * <em>դուրս</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20: <em>Երբ ծննդկանի ցավերը թողնում էին , Սաթոն արանքում իրեն գցում էր <b>դուրս</b> ։</em>
-  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 3: <em>Իշխանությունը համառորեն չտեսնելու է տալիս իր միջավայրից <b>դուրս</b> տեղի ունեցողը :</em>
-* <em>ինչպես</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17: <em>Ներկա փուլն <b>ինչպես</b> ՞ եք գնահատում ։</em>
-  * <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 12: <em>Ես , ավելի շուտ , <b>ինչպես</b> ասացի , տեսա արժանապատվության ու զզվանքի հասնող հոգնածության դրդապատճառը :</em>
-  * <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Գիտաշխատողների խոսքով ՝ սեռական կյանքի որակն ազդում է աշխատունակության վրա , <b>ինչպես</b> տղամարդկանց , այնպես էլ կանանց մոտ :</em>
-  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 2: <em>Եվ հանկարծ թվաց ՝ արդեն անցել է այդ ճանապարհով , շատ փոքր էր , նստած էր Ներսեսի շալակին , նրա ուսի վրայից , <b>ինչպես</b> այսօր տեսնում էր հռոմեացի զինվորների թիկունքները :</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 38: <em>Հետո նստում եմ , ջրով լվանում աչքերս , <b>դուրս</b> գալիս :</em>
+  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 5: <em>Իշխանությունը համառորեն չտեսնելու է տալիս իր միջավայրից <b>դուրս</b> տեղի ունեցողը :</em>
+* <em>շատ</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 34: <em>Իրադրությունը համարում եմ <b>շատ</b> վտանգավոր :</em>
+  * <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> 19: <em>Հիմա , իհարկե , <b>շատ</b> ավելին գիտենք ։</em>
+  * <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 3: <em>Ուրեմն քիչը <b>շատ</b> ընդունիր և նայիր հոգուդ խորքը և այնտեղ որոնիր քո երջանկությունը ։</em>
 * <em>հետո</em>
-  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 32: <em>Շատ կարևոր մի գործ ՝ « Վարդապետի լռությունը » ֆիլմից <b>հետո</b> :</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 12: <em>Երկու դեպքում էլ տեսանք , թե ինչ եղավ <b>հետո</b> :</em>
+  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 46: <em>Պատարագից <b>հետո</b> քահանան մոտենում է , ձեռքը ընկերաբար հպում ուսիս :</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 19: <em>Երկու դեպքում էլ տեսանք , թե ինչ եղավ <b>հետո</b> :</em>
+* <em>ինչպես</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 24: <em>Սիմեոնը չզգաց ՝ <b>ինչպես</b> իջեցրեց սուրը :</em>
+  * <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> 16: <em>Ես , ավելի շուտ , <b>ինչպես</b> ասացի , տեսա արժանապատվության ու զզվանքի հասնող հոգնածության դրդապատճառը :</em>
+  * <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> 14: <em>Դա արտահայտվում է ՝ <b>ինչպես</b> ներդրումների և ֆիզիկական անձանց փոխանցումների , այնպես էլ ՝ արտաքին առևտրի ոլորտում ։</em>
+  * <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> 4: <em>Երրորդ անցումը չորրորդ աշխարհի երկրորդ մակարդակում է . պետք է գնալ վերևով , <b>ինչպես</b> առաջին աշխարհի երկրորդ մակարդակում , ու կհասնես հինգերորդ աշխարհի մուտքին ։</em>
+* <em>դեռ</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 20: <em>Արդյունքը <b>դեռ</b> կարևոր չէ , գլխավորն էլեկտորատին գրավելն է :</em>
+  * <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> 5: <em>Որովհետև նրա պատկերը , քանի <b>դեռ</b> այդ կինը չէր նյութականացել , կիսատ էր ։</em>
 * <em>այնքան</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 12: <em>Նամանավանդ , որ պահանջվող գումարը <b>այնքան</b> էլ մեծ չէ :</em>
-  * <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 1: <em>Իսկ եթե , այնուամենայնիվ , պատահեց , որ փողի <b>այնքան</b> կարիք ունեցավ , որ ոչ մի բանով չի փոխարինվի , եթե , մանավանդ , փողը պետք է մեքենան սարքին պահելուն , այդ դեպքի համար նա ամենալավ ժամերը գիտի ՝ առավոտյան 3-5-ը ։</em>
-* <em>անգամ</em>
-  * <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> 27: <em>Հակառակ բոլոր տոհմերի , մեր ազգությունն այս <b>անգամ</b> սկսվում է նախատատով ։</em>
-  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 14: <em>Ամենատարեց ծերունիներն <b>անգամ</b> չէին հիշում , թե ժայռափորի վերջին բնակիչը երբ էր անհետացել ։</em>
+  * <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> 17: <em>Նամանավանդ , որ պահանջվող գումարը <b>այնքան</b> էլ մեծ չէ :</em>
+  * <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> 2: <em>Իսկ եթե , այնուամենայնիվ , պատահեց , որ փողի <b>այնքան</b> կարիք ունեցավ , որ ոչ մի բանով չի փոխարինվի , եթե , մանավանդ , փողը պետք է մեքենան սարքին պահելուն , այդ դեպքի համար նա ամենալավ ժամերը գիտի ՝ առավոտյան 3-5-ը ։</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.012712 (the average of all parts of speech is 1.635667).
+The form / lemma ratio of `ADV` is 1.019544 (the average of all parts of speech is 1.747020).
 
-The 1st highest number of forms (2) was observed with the lemma “այնպես”: <em>այնպես, էնպես</em>.
+The 1st highest number of forms (2) was observed with the lemma “այդպես”: <em>այդպես, էդպես</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “այնքան”: <em>այնքան, էնքան</em>.
+The 2nd highest number of forms (2) was observed with the lemma “այդքան”: <em>Էդքան, այդքան</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “հնարավորինս”: <em>հնարավորինս, հնարովորինս</em>.
+The 3rd highest number of forms (2) was observed with the lemma “այնպես”: <em>այնպես, էնպես</em>.
 
-`ADV` occurs with 8 features: <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt> (181; 17% instances), <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt> (118; 11% instances), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt> (66; 6% instances), <tt><a href="hy_armtdp-feat-Style.html">Style</a></tt> (30; 3% instances), <tt><a href="hy_armtdp-feat-NumForm.html">NumForm</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-feat-Hyph.html">Hyph</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADV` occurs with 8 features: <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt> (273; 17% instances), <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt> (194; 12% instances), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt> (100; 6% instances), <tt><a href="hy_armtdp-feat-Style.html">Style</a></tt> (19; 1% instances), <tt><a href="hy_armtdp-feat-NumForm.html">NumForm</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-feat-Hyph.html">Hyph</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADV` occurs with 18 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Distance=Dist`, `Distance=Med`, `Distance=Prox`, `Hyph=Yes`, `NumForm=Word`, `NumType=Card`, `PronType=Dem`, `PronType=Exc`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`, `Style=Arch`, `Style=Coll`, `Style=Vrnc`, `Typo=Yes`
+`ADV` occurs with 19 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Distance=Dist`, `Distance=Med`, `Distance=Prox`, `Hyph=Yes`, `NumForm=Word`, `NumType=Card`, `PronType=Dem`, `PronType=Exc`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`, `Style=Arch`, `Style=Coll`, `Style=Rare`, `Style=Vrnc`, `Typo=Yes`
 
-`ADV` occurs with 19 feature combinations.
-The most frequent feature combination is `_` (732 tokens).
-Examples: <em>էլ, միայն, արդեն, հիմա, դեռ, դուրս, հենց, հետո, անգամ, միշտ</em>
+`ADV` occurs with 21 feature combinations.
+The most frequent feature combination is `_` (1122 tokens).
+Examples: <em>էլ, միայն, արդեն, հիմա, դուրս, հետո, հենց, միշտ, դեռ, այլևս</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 20 different relations: <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (737; 70% instances), <tt><a href="hy_armtdp-dep-advmod-emph.html">advmod:emph</a></tt> (139; 13% instances), <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt> (57; 5% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (33; 3% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (22; 2% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (19; 2% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt> (9; 1% instances), <tt><a href="hy_armtdp-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-dep-orphan.html">orphan</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-obl.html">obl</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 21 different relations: <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (1142; 72% instances), <tt><a href="hy_armtdp-dep-advmod-emph.html">advmod:emph</a></tt> (222; 14% instances), <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt> (74; 5% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (35; 2% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (28; 2% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (24; 2% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (20; 1% instances), <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt> (15; 1% instances), <tt><a href="hy_armtdp-dep-orphan.html">orphan</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-dep-xcomp.html">xcomp</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (600; 57% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (137; 13% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (135; 13% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (81; 8% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (41; 4% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (16; 2% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (905; 57% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (213; 13% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (209; 13% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (112; 7% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (58; 4% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (29; 2% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (23; 1% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (20; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (8; 1% instances),  (2; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-833 (79%) `ADV` nodes are leaves.
+1279 (80%) `ADV` nodes are leaves.
 
-177 (17%) `ADV` nodes have one child.
+257 (16%) `ADV` nodes have one child.
 
-34 (3%) `ADV` nodes have two children.
+40 (3%) `ADV` nodes have two children.
 
-14 (1%) `ADV` nodes have three or more children.
+21 (1%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 5.
+The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 16 different relations: <tt><a href="hy_armtdp-dep-punct.html">punct</a></tt> (65; 22% instances), <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (56; 19% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (40; 14% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (33; 11% instances), <tt><a href="hy_armtdp-dep-cc.html">cc</a></tt> (22; 8% instances), <tt><a href="hy_armtdp-dep-obl.html">obl</a></tt> (22; 8% instances), <tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt> (18; 6% instances), <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt> (9; 3% instances), <tt><a href="hy_armtdp-dep-appos.html">appos</a></tt> (8; 3% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (6; 2% instances), <tt><a href="hy_armtdp-dep-cop.html">cop</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="hy_armtdp-dep-punct.html">punct</a></tt> (101; 24% instances), <tt><a href="hy_armtdp-dep-advmod.html">advmod</a></tt> (84; 20% instances), <tt><a href="hy_armtdp-dep-fixed.html">fixed</a></tt> (51; 12% instances), <tt><a href="hy_armtdp-dep-conj.html">conj</a></tt> (37; 9% instances), <tt><a href="hy_armtdp-dep-obl.html">obl</a></tt> (33; 8% instances), <tt><a href="hy_armtdp-dep-cc.html">cc</a></tt> (28; 7% instances), <tt><a href="hy_armtdp-dep-advcl.html">advcl</a></tt> (25; 6% instances), <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt> (15; 4% instances), <tt><a href="hy_armtdp-dep-appos.html">appos</a></tt> (13; 3% instances), <tt><a href="hy_armtdp-dep-mark.html">mark</a></tt> (7; 2% instances), <tt><a href="hy_armtdp-dep-cop.html">cop</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-goeswith.html">goeswith</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (81; 28% instances), <tt><a href="hy_armtdp-pos-PUNCT.html">PUNCT</a></tt> (65; 22% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (36; 12% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (27; 9% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (27; 9% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (23; 8% instances), <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (18; 6% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (112; 27% instances), <tt><a href="hy_armtdp-pos-PUNCT.html">PUNCT</a></tt> (101; 24% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (52; 13% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (45; 11% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (35; 8% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (26; 6% instances), <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt> (17; 4% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances)
 

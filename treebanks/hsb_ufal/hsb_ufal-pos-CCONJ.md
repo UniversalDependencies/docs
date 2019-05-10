@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="hsb_ufal-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.418754).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.418889).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ale”: <em>a
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (419; 99% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-goeswith-alt.html">goeswith:alt</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (419; 99% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-dep-alt.html">dep:alt</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
 Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (183; 43% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (92; 22% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (56; 13% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (52; 12% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt> (13; 3% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

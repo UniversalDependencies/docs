@@ -18,6 +18,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-ADV.h
 
 2838 <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> tokens (18% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2838; 100%).
+
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2838; 100% of non-empty `Polarity`): <em>no, pas, ni, només</em>

@@ -23,16 +23,14 @@ The most frequent other feature values with which `ADV` and `Evident` co-occurre
 `ADV` tokens may have the following values of `Evident`:
 
 * `Nfh` (5; 100% of non-empty `Evident`): <em>келя</em>
-* `EMPTY` (1309): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
+* `EMPTY` (1353): <em>ансяк, кода, пек, истя, уш, ней, мейле, седе, прок, яла</em>
 
 ### `PART`
 
-2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Evident`.
-
-The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
+2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Evident`.
 
 `PART` tokens may have the following values of `Evident`:
 
 * `Nfh` (2; 100% of non-empty `Evident`): <em>келя</em>
-* `EMPTY` (347): <em>а, апак, жо, аволь, бути, прок, ли, бу, вана, эно</em>
+* `EMPTY` (114): <em>жо, бути, прок, вана, эно, буто, паряк, весемеде, ялатеке, Бульчом</em>
 

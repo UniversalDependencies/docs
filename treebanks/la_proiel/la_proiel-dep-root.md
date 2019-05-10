@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18400 nodes (9%) are attached to their parents as `root`.
+18411 nodes (9%) are attached to their parents as `root`.
 
-18400 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.90347826086956.
+18411 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.90462223670632.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (15031; 82% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1049; 6% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1023; 6% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (343; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (324; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (232; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (121; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (98; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (79; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (57; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (43; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (15042; 82% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1049; 6% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1023; 6% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (343; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (324; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (232; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (121; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (98; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (79; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (57; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (43; 0% instances).
 
 
 ~~~ conllu

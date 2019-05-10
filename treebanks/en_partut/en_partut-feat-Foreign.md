@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-115 tokens (0%) have a non-empty value of `Foreign`.
-58 types (1%) occur at least once with a non-empty value of `Foreign`.
-60 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_partut-pos-X.html">X</a></tt> (115; 0% instances).
+113 tokens (0%) have a non-empty value of `Foreign`.
+57 types (1%) occur at least once with a non-empty value of `Foreign`.
+59 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="en_partut-pos-X.html">X</a></tt> (113; 0% instances).
 
 ### `X`
 
-115 <tt><a href="en_partut-pos-X.html">X</a></tt> tokens (74% of all `X` tokens) have a non-empty value of `Foreign`.
+113 <tt><a href="en_partut-pos-X.html">X</a></tt> tokens (75% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (115; 100% of non-empty `Foreign`): <em>La, Comédie, humaine, De, Illusions, Le, Perdues, Chagrin, Peau, Père</em>
-* `EMPTY` (40): <em>s, ', -, a, Anti, Corsaire, Pre, X, Z, b</em>
+* `Yes` (113; 100% of non-empty `Foreign`): <em>La, Comédie, humaine, De, Illusions, Le, Perdues, Chagrin, Peau, Père</em>
+* `EMPTY` (37): <em>s, ', a, -, Anti, Corsaire, De, La, Pre, Privée</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (60) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (59) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

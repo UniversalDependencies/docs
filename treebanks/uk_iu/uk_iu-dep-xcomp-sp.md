@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-xcomp.html">xcomp</a></tt>.
 
-315 nodes (0%) are attached to their parents as `xcomp:sp`.
+334 nodes (0%) are attached to their parents as `xcomp:sp`.
 
-268 instances of `xcomp:sp` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.44444444444444.
+286 instances of `xcomp:sp` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41017964071856.
 
-The following 12 pairs of parts of speech are connected with `xcomp:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (178; 57% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (96; 30% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (10; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `xcomp:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (185; 55% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (105; 31% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (10; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `xcomp:sp`: <tt><a 
 6	Google	Google	X	X	Foreign=Yes	5	flat:title	5:flat:title|7:nsubj:sp	Id=1pec|LTranslit=Google|Translit=Google
 7	такою	такий	DET	Pd--f-sia	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	4	xcomp:sp	4:xcomp:sp	Id=1ped|LTranslit=takyj|SpaceAfter=No|Translit=takoju
 8	,	,	PUNCT	U	_	9	punct	9:punct	Id=1pee|LTranslit=,|Translit=,
-9	якою	який	DET	Pr--f-sia	Case=Ins|Gender=Fem|Number=Sing|PronType=Rel	7	acl:relcl	7:acl:relcl|7:ref	Id=1pef|LTranslit=jakyj|Translit=jakoju
+9	якою	який	DET	Pr--f-sia	Case=Ins|Gender=Fem|Number=Sing|PronType=Rel	7	acl	7:acl|7:ref	Id=1pef|LTranslit=jakyj|Translit=jakoju
 10	вона	вона	PRON	Pp-3f-snn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	7:nsubj|9:nsubj	Id=1peg|LTranslit=vona|Translit=vona
 11	є	бути	AUX	Vapip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	Id=1peh|LTranslit=buty|SpaceAfter=No|Translit=ě
 12	.	.	PUNCT	U	_	4	punct	4:punct	Id=1pei|LTranslit=.|Translit=.

@@ -13,7 +13,7 @@ This relation is universal.
 123 instances of `discourse` (81%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.58278145695364.
 
-The following 23 pairs of parts of speech are connected with `discourse`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (63; 42% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (23; 15% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (17; 11% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (10; 7% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (7; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 23 pairs of parts of speech are connected with `discourse`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (63; 42% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (23; 15% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (15; 10% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (10; 7% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (7; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,18 +40,18 @@ The following 23 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
 1	ah	ah	INTJ	_	_	5	discourse	_	_
-2	no	no	PART	_	_	3	advmod	_	_
-3	be	be	PART	_	_	5	cop	_	_
+2	no	no	ADV	PART	_	5	advmod	_	_
+3	be	be	AUX	PART	_	5	cop	_	_
 4	since	since	SCONJ	_	_	5	case	_	_
 5	day	day	NOUN	_	_	0	root	_	_
 6	before	before	ADP	_	_	7	case	_	_
 7	yesterday	yesterday	NOUN	_	_	5	obl:mod	_	_
-8	na	na	ADV	_	_	7	advmod:emph	_	_
+8	na	na	ADV	ADV	_	7	advmod:emph	_	_
 9	dem	dem	PRON	_	_	10	nsubj	_	_
 10	seize	seize	VERB	_	_	5	acl:cleft	_	_
 11	di	di	DET	_	_	12	det	_	_
 12	light	light	NOUN	_	_	10	obj	_	_
-13	sef	sef	PART	_	_	10	advmod	_	_
+13	sef	sef	ADV	PART	_	10	advmod	_	_
 14	//	//	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 23 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4 1 discourse	color:blue
 1	shey	shey	ADV	_	_	4	discourse	_	_
 2	you	you	PRON	_	_	4	nsubj	_	_
-3	no	no	PART	_	_	4	advmod	_	_
+3	no	no	ADV	PART	_	4	advmod	_	_
 4	see	see	VERB	_	_	0	root	_	_
 5	{	{	PUNCT	_	_	6	punct	_	_
 6	Obasan~	Obasan~	X	_	_	4	obj	_	_

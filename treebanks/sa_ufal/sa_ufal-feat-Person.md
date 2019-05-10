@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 258 tokens (14%) have a non-empty value of `Person`.
 151 types (14%) occur at least once with a non-empty value of `Person`.
 83 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (163; 9% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (74; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (162; 9% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (74; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-163 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
+162 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (163; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (163; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (146; 90%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (135; 83%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (114; 70%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (82; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (162; 100%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (162; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (162; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (145; 90%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (134; 83%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (113; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (19; 12% of non-empty `Person`): करिष्यामि, करोमि, ब्रवीमि, अपठम्, आगमिष्यामि, आनं, ऐव, गृह्णामि, जानामि, नियोजयिष्यामि
 * `2` (16; 10% of non-empty `Person`): गृहाण, अनुभविष्यसि, आगच्छ, इच्छसि, करिष्यसि, कुरु, तिष्ठ, तिष्ठत, तिष्ठसि, पश्यसि
-* `3` (128; 79% of non-empty `Person`): अब्रवीत्, आह, भवति, उच्यते, प्रोवाच, अनुष्ठीयताम्, अस्ति, उवाच, करिष्यति, तिष्ठति
+* `3` (127; 78% of non-empty `Person`): अब्रवीत्, आह, भवति, उच्यते, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति, तिष्ठति, प्राह
 * `EMPTY` (152): उक्तं, गत्वा, श्रुत्वा, आरब्धम्, अभिहितम्, आदाय, आलोक्य, आहूय, उक्ते, कर्तुम्
 
 <table>
@@ -54,14 +54,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-14 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+15 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (14; 100%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 86%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12; 86%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15; 100%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 87%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 87%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (1; 7% of non-empty `Person`): अस्मि
-* `3` (13; 93% of non-empty `Person`): अस्ति, अस्तु, भवति, स्यात्
+* `3` (14; 93% of non-empty `Person`): अस्ति, अस्तु, भवति, स्यात्
 * `EMPTY` (1): सत्त्वम्
 
 <table>
@@ -96,8 +96,8 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="sa_ufal-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> DET</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-obj.html">obj</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-aux.html">aux</a></tt>.
 
-665 nodes (0%) are attached to their parents as `aux:pass`.
+932 nodes (0%) are attached to their parents as `aux:pass`.
 
-596 instances of `aux:pass` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21954887218045.
+820 instances of `aux:pass` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2156652360515.
 
-The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (634; 95% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (23; 3% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (919; 99% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,21 +39,6 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux:pass	color:blue
-1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=ACTS_1.14.content
-2	rugăciune	rugăciune	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	ref=ACTS_1.14.content
-3	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux:pass	_	ref=ACTS_1.14.content
-4	cuprinși	cuprins	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	0	root	_	ref=ACTS_1.14.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	4	punct	_	ref=ACTS_1.14.content
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:pass	color:blue
 1	Și	și	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MARC13.13
 2	veți	vrea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	ref=MARC13.13
 3	fi	fi	AUX	Van	VerbForm=Inf	4	aux:pass	_	ref=MARC13.13
@@ -63,6 +48,33 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	numele	nume	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	ref=MARC13.13
 8	Mieu	Mieu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=MARC13.13|SpaceAfter=No
 9	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MARC13.13
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 aux:pass	color:blue
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=PAVEL_EFES_4.30
+2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	ref=PAVEL_EFES_4.30
+3	întristareți	întrista	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=PAVEL_EFES_4.30
+4	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=PAVEL_EFES_4.30
+5	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod:pmod	_	ref=PAVEL_EFES_4.30
+6	Sfînt	sfânt	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=PAVEL_EFES_4.30
+7	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	9	det	_	ref=PAVEL_EFES_4.30
+8	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	9	det	_	ref=PAVEL_EFES_4.30
+9	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	ref=PAVEL_EFES_4.30
+10	pren	prin	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	11	case	_	ref=PAVEL_EFES_4.30
+11	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	13	obl	_	ref=PAVEL_EFES_4.30
+12	sînteți	fi	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	13	aux:pass	_	ref=PAVEL_EFES_4.30
+13	sămnați	semna	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	acl	_	ref=PAVEL_EFES_4.30
+14	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=PAVEL_EFES_4.30
+15	zuoa	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	ref=PAVEL_EFES_4.30
+16	răscumpărării	răscumpărare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	ref=PAVEL_EFES_4.30|SpaceAfter=No
+17	.	.	PUNCT	PERIOD	_	3	punct	_	ref=PAVEL_EFES_4.30
 
 ~~~
 

@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 2	сэсся	сэсся	ADV	Adv	_	4	advmod	_	_
 3	вылісянь	вылісянь	ADV	Adv	Case=Egr|Number=Sing	4	obl	_	_
 4	мӧдӧдчисны	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	гырысь	гырысь	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+5	гырысь	гырысь	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
 6	зэр	зэр	NOUN	N	Case=Nom|Number=Plur	7	compound	_	_
 7	войтъяс	войт	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -43,8 +43,8 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Туйыс	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	_
 2	зэр	зэр	NOUN	N	Case=Nom|Number=Sing	7	obl	_	_
 3	вӧснаыс	вӧсна	ADP	Po	Person=3	2	case	_	_
-4	лоис	лоны	AUX	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
-5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Degree=Pos|Derivation=Ik|Number=Sing	6	amod	_	_
+4	лоис	лоны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	amod	_	_
 6	ю	ю	NOUN	N	Case=Nom|Number=Sing	7	compound	_	_
 7	кодь	кодь	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_

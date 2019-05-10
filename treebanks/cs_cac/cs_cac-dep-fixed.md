@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2324 nodes (0%) are attached to their parents as `fixed`.
+2630 nodes (1%) are attached to their parents as `fixed`.
 
-2324 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17254733218589.
+2630 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15361216730038.
 
-The following 24 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1339; 58% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (497; 21% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (166; 7% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (129; 6% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (114; 5% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1339; 51% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (497; 19% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (250; 10% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (167; 6% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (129; 5% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (114; 4% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (19; 1% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,17 +55,26 @@ The following 24 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	I	i	CCONJ	J^-------------	_	3	mark	3:mark	LId=i-1
-2	když	když	SCONJ	J,-------------	_	1	fixed	1:fixed	_
-3	nejde	jít	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=o-1
-5	čísla	číslo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	3	obl:arg	3:obl:arg	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 fixed	color:blue
+1	Návrhy	návrh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	nsubj:pass	5:nsubj:pass	_
+2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
+3	přeřazení	přeřazení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod	LDeriv=přeřadit
+4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	LGloss=(zvr._zájmeno/částice)
+5	podávají	podávat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LDeriv=podat|LGloss=(něco_[někomu]_[někam])
+6	#	&camount;	NUM	C=-------------	NumForm=Digit|NumType=Card	7	obl	7:obl	_
+7	ročně	ročně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	SpaceAfter=No|LDeriv=roční
+8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
+9	a	a	CCONJ	J^-------------	_	12	cc	12:cc	LId=a-1
+10	to	to	PART	PDNS4----------	_	9	fixed	9:fixed	_
+11	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	12	case	12:case	LId=k-1
+12	#	&cdate;	NUM	C=-------------	NumForm=Digit|NumType=Card	5	obl	5:obl	_
+13	a	a	CCONJ	J^-------------	_	14	cc	14:cc	LId=a-1
+14	#	&cdate;	NUM	C=-------------	NumForm=Digit|NumType=Card	12	conj	5:obl|12:conj	_
+15	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~
 

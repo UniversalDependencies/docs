@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 5791 tokens (8%) have a non-empty value of `Person`.
 1024 types (11%) occur at least once with a non-empty value of `Person`.
 508 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2126; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1898; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1767; 3% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2128; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1898; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1765; 3% instances).
 
 ### `VERB`
 
-2126 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
+2128 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2126; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2126; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2126; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1941; 91%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1660; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1486; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2128; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2128; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2128; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1943; 91%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1661; 78%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1489; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (306; 14% of non-empty `Person`): <em>voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</em>
+* `1` (305; 14% of non-empty `Person`): <em>voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</em>
 * `2` (98; 5% of non-empty `Person`): <em>avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</em>
-* `3` (1722; 81% of non-empty `Person`): <em>doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</em>
+* `3` (1725; 81% of non-empty `Person`): <em>doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</em>
 * `EMPTY` (3776): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
 
 <table>
@@ -64,15 +64,15 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-1767 <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Person`.
+1765 <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1767; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1665; 94%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1482; 84%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1235; 70%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1765; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1663; 94%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1481; 84%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1232; 70%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (77; 4% of non-empty `Person`): <em>ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</em>
+* `1` (78; 4% of non-empty `Person`): <em>ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</em>
 * `2` (34; 2% of non-empty `Person`): <em>avez, êtes, avais, ayez, étais</em>
-* `3` (1656; 94% of non-empty `Person`): <em>est, a, ont, sont, était, avait, sera, fut, étaient, soit</em>
+* `3` (1653; 94% of non-empty `Person`): <em>est, a, ont, sont, était, avait, sera, fut, étaient, soit</em>
 * `EMPTY` (536): <em>été, être, avoir, ayant, étant, faire, fait, ETRE, faisant</em>
 
 <table>
@@ -94,10 +94,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (721; 61%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (718; 61%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-expl.html">expl</a></tt>]--> PRON</tt> (203; 58%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (118; 58%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (21; 95%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 90%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="fr_sequoia-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (1; 100%).
 

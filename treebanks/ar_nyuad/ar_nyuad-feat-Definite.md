@@ -11,224 +11,200 @@ It occurs with 3 different values: `Com`, `Def`, `Ind`.
 
 417286 tokens (56%) have a non-empty value of `Definite`.
 1 types (0) occur at least once with a non-empty value of `Definite`.
-4544 lemmas (90%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 16 part-of-speech tags: <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> (216797; 29% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> (67059; 9% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> (54088; 7% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (31010; 4% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> (24343; 3% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> (11386; 2% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> (6031; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (3442; 0% instances), <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> (843; 0% instances), <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> (671; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> (502; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (434; 0% instances), <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> (341; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt> (279; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> (57; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+4543 lemmas (90%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 16 part-of-speech tags: <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> (221551; 30% instances), <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> (69167; 9% instances), <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> (53581; 7% instances), <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> (43049; 6% instances), <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> (19507; 3% instances), <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> (6060; 1% instances), <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (3524; 0% instances), <tt><a href="ar_nyuad-pos-X.html">X</a></tt> (281; 0% instances), <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> (151; 0% instances), <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> (147; 0% instances), <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> (136; 0% instances), <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> (79; 0% instances), <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="ar_nyuad-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-216797 <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Definite`.
+221551 <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (192645; 89%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (150658; 69%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (142071; 66%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (197241; 89%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (154565; 70%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (142652; 64%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Com` (82924; 38% of non-empty `Definite`): _
-* `Def` (95738; 44% of non-empty `Definite`): _
-* `Ind` (38135; 18% of non-empty `Definite`): _
-* `EMPTY` (1457): _
-
-`Definite` seems to be **lexical feature** of `NOUN`. 92% lemmas (35) occur only with one value of `Definite`.
+* `Com` (83991; 38% of non-empty `Definite`): _
+* `Def` (96157; 43% of non-empty `Definite`): _
+* `Ind` (41403; 19% of non-empty `Definite`): _
+* `EMPTY` (348): _
 
 ### `ADJ`
 
-67059 <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Definite`.
+69167 <tt><a href="ar_nyuad-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64133; 96%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (40502; 60%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35315; 53%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66115; 96%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (40733; 59%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (36996; 53%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Com` (2404; 4% of non-empty `Definite`): _
-* `Def` (45522; 68% of non-empty `Definite`): _
-* `Ind` (19133; 29% of non-empty `Definite`): _
-* `EMPTY` (545): _
+* `Com` (2397; 3% of non-empty `Definite`): _
+* `Def` (45841; 66% of non-empty `Definite`): _
+* `Ind` (20929; 30% of non-empty `Definite`): _
+* `EMPTY` (188): _
 
 ### `PROPN`
 
-54088 <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Definite`.
+53581 <tt><a href="ar_nyuad-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53621; 99%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (51067; 94%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (42593; 79%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (53128; 99%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (50581; 94%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (42821; 80%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Com` (3393; 6% of non-empty `Definite`): _
-* `Def` (9981; 18% of non-empty `Definite`): _
-* `Ind` (40714; 75% of non-empty `Definite`): _
-* `EMPTY` (4237): _
+* `Com` (3307; 6% of non-empty `Definite`): _
+* `Def` (9949; 19% of non-empty `Definite`): _
+* `Ind` (40325; 75% of non-empty `Definite`): _
+* `EMPTY` (3840): _
 
-`Definite` seems to be **lexical feature** of `PROPN`. 99% lemmas (4450) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PROPN`. 99% lemmas (4476) occur only with one value of `Definite`.
 
 ### `PRON`
 
-31010 <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Definite`.
+43049 <tt><a href="ar_nyuad-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (30458; 98%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (27571; 89%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25396; 82%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20041; 65%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (16343; 53%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36360; 84%), <tt><a href="ar_nyuad-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (30458; 71%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=3</tt> (29791; 69%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27277; 63%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Com` (127; 0% of non-empty `Definite`): _
-* `Def` (28709; 93% of non-empty `Definite`): _
-* `Ind` (2174; 7% of non-empty `Definite`): _
-* `EMPTY` (229): _
+* `Com` (94; 0% of non-empty `Definite`): _
+* `Def` (30205; 70% of non-empty `Definite`): _
+* `Ind` (12750; 30% of non-empty `Definite`): _
+* `EMPTY` (444): _
+
+`Definite` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Definite`.
 
 ### `ADV`
 
-24343 <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> tokens (92% of all `ADV` tokens) have a non-empty value of `Definite`.
+19507 <tt><a href="ar_nyuad-pos-ADV.html">ADV</a></tt> tokens (81% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24181; 99%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (23459; 96%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt> (18316; 75%).
+The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19507; 100%), <tt><a href="ar_nyuad-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (19507; 100%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19486; 100%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt> (13032; 67%).
 
 `ADV` tokens may have the following values of `Definite`:
 
-* `Com` (15629; 64% of non-empty `Definite`): _
-* `Def` (31; 0% of non-empty `Definite`): _
-* `Ind` (8683; 36% of non-empty `Definite`): _
-* `EMPTY` (2184): _
-
-### `SCONJ`
-
-11386 <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> tokens (44% of all `SCONJ` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10477; 92%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6753; 59%).
-
-`SCONJ` tokens may have the following values of `Definite`:
-
-* `Com` (35; 0% of non-empty `Definite`): _
-* `Def` (964; 8% of non-empty `Definite`): _
-* `Ind` (10387; 91% of non-empty `Definite`): _
-* `EMPTY` (14648): _
-
-`Definite` seems to be **lexical feature** of `SCONJ`. 92% lemmas (12) occur only with one value of `Definite`.
+* `Com` (15109; 77% of non-empty `Definite`): _
+* `Def` (9; 0% of non-empty `Definite`): _
+* `Ind` (4389; 22% of non-empty `Definite`): _
+* `EMPTY` (4560): _
 
 ### `DET`
 
-6031 <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Definite`.
+6060 <tt><a href="ar_nyuad-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5845; 97%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3801; 63%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5876; 97%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3818; 63%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Com` (10; 0% of non-empty `Definite`): _
-* `Def` (16; 0% of non-empty `Definite`): _
-* `Ind` (6005; 100% of non-empty `Definite`): _
-* `EMPTY` (331): _
+* `Com` (3; 0% of non-empty `Definite`): _
+* `Def` (2; 0% of non-empty `Definite`): _
+* `Ind` (6055; 100% of non-empty `Definite`): _
+* `EMPTY` (303): _
 
 ### `NUM`
 
-3442 <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> tokens (23% of all `NUM` tokens) have a non-empty value of `Definite`.
+3524 <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> tokens (23% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3330; 97%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3046; 88%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2094; 61%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2039; 59%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3328; 94%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3123; 89%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2155; 61%), <tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt> (2114; 60%).
 
 `NUM` tokens may have the following values of `Definite`:
 
-* `Com` (2317; 67% of non-empty `Definite`): _
-* `Def` (359; 10% of non-empty `Definite`): _
-* `Ind` (766; 22% of non-empty `Definite`): _
-* `EMPTY` (11705): _
-
-### `ADP`
-
-843 <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (843; 100%).
-
-`ADP` tokens may have the following values of `Definite`:
-
-* `Com` (187; 22% of non-empty `Definite`): _
-* `Def` (402; 48% of non-empty `Definite`): _
-* `Ind` (254; 30% of non-empty `Definite`): _
-* `EMPTY` (90851): _
-
-`Definite` seems to be **lexical feature** of `ADP`. 93% lemmas (27) occur only with one value of `Definite`.
-
-### `PUNCT`
-
-671 <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> tokens (1% of all `PUNCT` tokens) have a non-empty value of `Definite`.
-
-`PUNCT` tokens may have the following values of `Definite`:
-
-* `Com` (137; 20% of non-empty `Definite`): _
-* `Def` (295; 44% of non-empty `Definite`): _
-* `Ind` (239; 36% of non-empty `Definite`): _
-* `EMPTY` (74477): _
-
-### `CCONJ`
-
-502 <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `Definite`.
-
-`CCONJ` tokens may have the following values of `Definite`:
-
-* `Com` (92; 18% of non-empty `Definite`): _
-* `Def` (257; 51% of non-empty `Definite`): _
-* `Ind` (153; 30% of non-empty `Definite`): _
-* `EMPTY` (49530): _
-
-`Definite` seems to be **lexical feature** of `CCONJ`. 93% lemmas (25) occur only with one value of `Definite`.
-
-### `AUX`
-
-434 <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (434; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (434; 100%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (349; 80%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (306; 71%).
-
-`AUX` tokens may have the following values of `Definite`:
-
-* `Com` (62; 14% of non-empty `Definite`): _
-* `Def` (356; 82% of non-empty `Definite`): _
-* `Ind` (16; 4% of non-empty `Definite`): _
-* `EMPTY` (7289): _
-
-`Definite` seems to be **lexical feature** of `AUX`. 91% lemmas (10) occur only with one value of `Definite`.
-
-### `VERB`
-
-341 <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (341; 100%), <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (341; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (341; 100%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (312; 91%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (312; 91%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (258; 76%).
-
-`VERB` tokens may have the following values of `Definite`:
-
-* `Com` (82; 24% of non-empty `Definite`): _
-* `Def` (110; 32% of non-empty `Definite`): _
-* `Ind` (149; 44% of non-empty `Definite`): _
-* `EMPTY` (54874): _
+* `Com` (2440; 69% of non-empty `Definite`): _
+* `Def` (341; 10% of non-empty `Definite`): _
+* `Ind` (743; 21% of non-empty `Definite`): _
+* `EMPTY` (11853): _
 
 ### `X`
 
-279 <tt><a href="ar_nyuad-pos-X.html">X</a></tt> tokens (30% of all `X` tokens) have a non-empty value of `Definite`.
+281 <tt><a href="ar_nyuad-pos-X.html">X</a></tt> tokens (30% of all `X` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (279; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (279; 100%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (278; 100%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (247; 89%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (214; 77%).
+The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (281; 100%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (281; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (281; 100%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (248; 88%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (217; 77%).
 
 `X` tokens may have the following values of `Definite`:
 
-* `Com` (19; 7% of non-empty `Definite`): _
-* `Def` (64; 23% of non-empty `Definite`): _
-* `Ind` (196; 70% of non-empty `Definite`): _
-* `EMPTY` (638): _
+* `Com` (18; 6% of non-empty `Definite`): _
+* `Def` (56; 20% of non-empty `Definite`): _
+* `Ind` (207; 74% of non-empty `Definite`): _
+* `EMPTY` (646): _
 
-<table>
-  <tr><th>Paradigm <i>None</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>_</td><td>_</td><td>_</td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>_</td><td>_</td><td>_</td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>_</td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>_</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>_</td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td>_</td><td></td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>_</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>_</td><td>_</td><td>_</td></tr>
-  <tr><td><tt><tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>_</td><td>_</td><td></td></tr>
-</table>
+`Definite` seems to be **lexical feature** of `X`. 92% lemmas (23) occur only with one value of `Definite`.
+
+### `ADP`
+
+151 <tt><a href="ar_nyuad-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (141; 93%).
+
+`ADP` tokens may have the following values of `Definite`:
+
+* `Com` (6; 4% of non-empty `Definite`): _
+* `Def` (93; 62% of non-empty `Definite`): _
+* `Ind` (52; 34% of non-empty `Definite`): _
+* `EMPTY` (91591): _
+
+### `PUNCT`
+
+147 <tt><a href="ar_nyuad-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Definite`.
+
+`PUNCT` tokens may have the following values of `Definite`:
+
+* `Com` (15; 10% of non-empty `Definite`): _
+* `Def` (88; 60% of non-empty `Definite`): _
+* `Ind` (44; 30% of non-empty `Definite`): _
+* `EMPTY` (75119): _
+
+### `VERB`
+
+136 <tt><a href="ar_nyuad-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (136; 100%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (131; 96%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (127; 93%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (118; 87%).
+
+`VERB` tokens may have the following values of `Definite`:
+
+* `Com` (31; 23% of non-empty `Definite`): _
+* `Def` (19; 14% of non-empty `Definite`): _
+* `Ind` (86; 63% of non-empty `Definite`): _
+* `EMPTY` (55333): _
+
+### `CCONJ`
+
+79 <tt><a href="ar_nyuad-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Definite`.
+
+`CCONJ` tokens may have the following values of `Definite`:
+
+* `Com` (12; 15% of non-empty `Definite`): _
+* `Def` (46; 58% of non-empty `Definite`): _
+* `Ind` (21; 27% of non-empty `Definite`): _
+* `EMPTY` (49079): _
+
+### `AUX`
+
+18 <tt><a href="ar_nyuad-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ar_nyuad-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="ar_nyuad-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 94%), <tt><a href="ar_nyuad-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="ar_nyuad-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12; 67%).
+
+`AUX` tokens may have the following values of `Definite`:
+
+* `Def` (10; 56% of non-empty `Definite`): _
+* `Ind` (8; 44% of non-empty `Definite`): _
+* `EMPTY` (9145): _
 
 ### `PART`
 
-57 <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `PART` and `Definite` co-occurred: <tt><a href="ar_nyuad-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (57; 100%).
+16 <tt><a href="ar_nyuad-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Definite`.
 
 `PART` tokens may have the following values of `Definite`:
 
-* `Com` (9; 16% of non-empty `Definite`): _
-* `Def` (23; 40% of non-empty `Definite`): _
-* `Ind` (25; 44% of non-empty `Definite`): _
-* `EMPTY` (8555): _
+* `Com` (2; 13% of non-empty `Definite`): _
+* `Def` (5; 31% of non-empty `Definite`): _
+* `Ind` (9; 56% of non-empty `Definite`): _
+* `EMPTY` (2503): _
+
+### `SCONJ`
+
+16 <tt><a href="ar_nyuad-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Definite`.
+
+`SCONJ` tokens may have the following values of `Definite`:
+
+* `Com` (2; 13% of non-empty `Definite`): _
+* `Def` (6; 38% of non-empty `Definite`): _
+* `Ind` (8; 50% of non-empty `Definite`): _
+* `EMPTY` (16598): _
 
 ### `INTJ`
 
@@ -242,14 +218,14 @@ The most frequent other feature values with which `PART` and `Definite` co-occur
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (46371; 84%),
-<tt>PROPN --[<tt><a href="ar_nyuad-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (10684; 76%),
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10461; 73%),
-<tt>PROPN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1798; 71%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1772; 98%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1041; 83%),
-<tt>PROPN --[<tt><a href="ar_nyuad-dep-appos.html">appos</a></tt>]--> PROPN</tt> (314; 100%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (233; 70%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (193; 56%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (189; 72%).
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (46661; 85%),
+<tt>PROPN --[<tt><a href="ar_nyuad-dep-flat.html">flat</a></tt>]--> PROPN</tt> (11043; 77%),
+<tt>ADJ --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> ADJ</tt> (2342; 95%),
+<tt>PROPN --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> PROPN</tt> (1936; 71%),
+<tt>ADJ --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1109; 85%),
+<tt>PROPN --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (401; 69%),
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> ADJ</tt> (397; 52%),
+<tt>ADV --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> ADV</tt> (342; 91%),
+<tt>ADV --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (323; 74%),
+<tt>ADJ --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (229; 53%).
 

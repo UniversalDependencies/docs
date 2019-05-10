@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  کہ (<tt><a href="ur_udtb-pos-SCONJ.html
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.101810).
+The form / lemma ratio of `SCONJ` is 0.790698 (the average of all parts of speech is 1.101903).
 
 The 1st highest number of forms (2) was observed with the lemma “تب”: تب, تو.
 
@@ -82,15 +82,15 @@ Examples: کہ، تو، اگر، کیونکہ، تاکہ، بلکہ، حالان
 
 `SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (2611; 98% instances), <tt><a href="ur_udtb-dep-cc.html">cc</a></tt> (50; 2% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2289; 86% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (214; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (109; 4% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2295; 86% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (214; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (109; 4% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (19; 1% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-2647 (99%) `SCONJ` nodes are leaves.
+2666 (100%) `SCONJ` nodes are leaves.
 
-26 (1%) `SCONJ` nodes have one child.
+7 (0%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (11; 42% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (5; 19% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (5; 19% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (2; 8% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 8% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (1; 4% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (3; 43% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (2; 29% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (2; 29% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (12; 46% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (12; 46% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (2; 8% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (6; 86% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 14% instances)
 

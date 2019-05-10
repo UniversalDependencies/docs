@@ -11,16 +11,16 @@ It occurs with 2 different values: `Anim`, `Inan`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt>, <tt><a href="uk_iu-feat-Animacy-gram.html">Animacy[gram]</a></tt>.
 
-45 tokens (0%) have a non-empty value of `Animacy[gram]`.
+47 tokens (0%) have a non-empty value of `Animacy[gram]`.
 35 types (0%) occur at least once with a non-empty value of `Animacy[gram]`.
 35 lemmas (0%) occur at least once with a non-empty value of `Animacy[gram]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (45; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (47; 0% instances).
 
 ### `NOUN`
 
-45 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Animacy[gram]`.
+47 <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Animacy[gram]`.
 
-The most frequent other feature values with which `NOUN` and `Animacy[gram]` co-occurred: <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (40; 89%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (33; 73%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 67%).
+The most frequent other feature values with which `NOUN` and `Animacy[gram]` co-occurred: <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Acc</tt> (47; 100%), <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (42; 89%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (35; 74%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 68%).
 
 `NOUN` tokens may have the following values of `Animacy[gram]`:
 

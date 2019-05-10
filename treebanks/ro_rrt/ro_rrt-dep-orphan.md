@@ -30,7 +30,7 @@ The following 18 pairs of parts of speech are connected with `orphan`: <tt><a hr
 6	Și	și	CCONJ	Crssp	Polarity=Pos	9	cc	_	_
 7	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	înțelesuri	înțeles	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	9	orphan	_	orig_deprel=obl
-9	furnicile	furnică	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	conj	_	orig_deprel=obj|SpaceAfter=No
+9	furnicile	furnică	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	4	conj	_	SpaceAfter=No|orig_deprel=obj
 10	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
@@ -48,13 +48,13 @@ The following 18 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	vălul	văl	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	_
 5	costau	costa	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	doar	doar	ADV	Rgp	Degree=Pos	7	advmod	_	_
-7	ý10	ý10	NUM	M	_	5	nummod	_	SpaceAfter=No
+7	ý10	ý10	NUM	M	NumType=Card	5	nummod	_	SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	5	punct	_	ToDo=punct-in-coord
 9	rochia	rochie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	orphan	_	orig_deprel=nsubj
 10	domnișoarei	domnișoară	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
 12	onoare	onoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	_
-13	ý5	ý5	NUM	M	_	16	orphan	_	orig_deprel=nummod|SpaceAfter=No
+13	ý5	ý5	NUM	M	NumType=Card	16	orphan	_	SpaceAfter=No|orig_deprel=nummod
 14	,	,	PUNCT	COMMA	_	16	punct	_	_
 15	iar	iar	ADV	Rc	_	16	cc	_	_
 16	redingota	redingotă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	conj	_	orig_deprel=nsubj
@@ -65,7 +65,7 @@ The following 18 pairs of parts of speech are connected with `orphan`: <tt><a hr
 21	plus	plus	ADV	Rgp	Degree=Pos	22	advmod	_	_
 22	smochingul	smoching	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	COMMA	_	22	punct	_	_
-24	ý15	ý15	NUM	M	_	16	orphan	_	orig_deprel=nummod|SpaceAfter=No
+24	ý15	ý15	NUM	M	NumType=Card	16	orphan	_	SpaceAfter=No|orig_deprel=nummod
 25	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~

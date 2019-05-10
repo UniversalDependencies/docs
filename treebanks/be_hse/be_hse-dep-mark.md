@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-128 nodes (2%) are attached to their parents as `mark`.
+139 nodes (1%) are attached to their parents as `mark`.
 
-125 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.9140625.
+139 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.9136690647482.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (104; 81% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 7% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (8; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (111; 80% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt>-<tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,12 +46,12 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 14 4 mark	color:blue
 1	Раптам	раптам	ADV	RB	Degree=Pos	2	advmod	_	_
 2	аказалася	аказацца	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	8	punct	_	_
+3	,	,	PUNCT	PUNCT	_	14	punct	_	_
 4	што	што	SCONJ	IN	_	14	mark	_	_
 5	“	“	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 6	мёртвая	мёртвы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 7	”	”	PUNCT	PUNCT	_	6	punct	_	_
-8	мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+8	мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
 9	зусім	зусім	ADV	RB	Degree=Pos	10	advmod	_	_
 10	не	не	PART	UH	Polarity=Neg	11	advmod	_	_
 11	такая	такi	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Int` are language-specific.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Int`, `Sub`.
 
-1917 tokens (8%) have a non-empty value of `Mood`.
-721 types (13%) occur at least once with a non-empty value of `Mood`.
-264 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1877; 8% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (7; 0% instances).
+1914 tokens (8%) have a non-empty value of `Mood`.
+720 types (13%) occur at least once with a non-empty value of `Mood`.
+262 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1877; 8% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (7; 0% instances).
 
 ### `VERB`
 
@@ -74,32 +74,33 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `PART`
 
-17 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Mood`.
+16 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (17; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 100%).
+The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (16; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (16; 100%).
 
 `PART` tokens may have the following values of `Mood`:
 
-* `Imp` (10; 59% of non-empty `Mood`): <em>ná</em>
-* `Int` (5; 29% of non-empty `Mood`): <em>nach</em>
-* `Sub` (2; 12% of non-empty `Mood`): <em>go</em>
-* `EMPTY` (1514): <em>a, go, ní, d', nach, gur, Ó, is, do, níor</em>
+* `Imp` (9; 56% of non-empty `Mood`): <em>ná</em>
+* `Int` (5; 31% of non-empty `Mood`): <em>nach</em>
+* `Sub` (2; 13% of non-empty `Mood`): <em>go</em>
+* `EMPTY` (1558): <em>a, go, ní, d', nach, gur, níos, Ó, is, do</em>
 
 ### `AUX`
 
-16 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Mood`.
+14 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (16; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (15; 94%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (15; 94%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11; 69%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 56%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (14; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10; 71%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 57%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (2; 13% of non-empty `Mood`): <em>Ba, mba</em>
-* `Int` (14; 88% of non-empty `Mood`): <em>nach, an, Cén, cad, nár</em>
-* `EMPTY` (379): <em>is, gur, ba, ní, b', nach, gurb, níor, ar, gurbh</em>
+* `Cnd` (2; 14% of non-empty `Mood`): <em>Ba, mba</em>
+* `Int` (12; 86% of non-empty `Mood`): <em>an, nach, Cén, nár</em>
+* `EMPTY` (372): <em>is, ba, gur, ní, b', nach, gurb, níor, gurbh, ar</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Cnd</tt></th><th><tt>Int</tt></th></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt></tt></td><td><em>mba</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>Cén</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>nár</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>nach</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>an</em></td></tr>
@@ -108,15 +109,15 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `X`
 
-7 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Mood`.
+7 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (7; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (7; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (7; 100%).
 
 `X` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 29% of non-empty `Mood`): <em>dein</em>
 * `Ind` (5; 71% of non-empty `Mood`): <em>dhein, Bhraitheas, chuireas, deineadh</em>
-* `EMPTY` (258): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `EMPTY` (148): <em>Co., Uimh., FÁS, a, chan, fá, m, Caidé, I.R., IO</em>
 
 <table>
   <tr><th>Paradigm <i>dein</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -128,11 +129,11 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> VERB</tt> (136; 96%),
-<tt>VERB --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (133; 90%),
-<tt>VERB --[<tt><a href="ga_idt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (115; 78%),
-<tt>VERB --[<tt><a href="ga_idt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (12; 67%),
-<tt>VERB --[<tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (11; 69%),
+<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> VERB</tt> (137; 96%),
+<tt>VERB --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (135; 89%),
+<tt>VERB --[<tt><a href="ga_idt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (116; 79%),
+<tt>VERB --[<tt><a href="ga_idt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (13; 68%),
+<tt>VERB --[<tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (11; 65%),
 <tt>VERB --[<tt><a href="ga_idt-dep-csubj-cleft.html">csubj:cleft</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ga_idt-dep-csubj-cop.html">csubj:cop</a></tt>]--> VERB</tt> (2; 100%),
 <tt>X --[<tt><a href="ga_idt-dep-advmod.html">advmod</a></tt>]--> PART</tt> (2; 100%),

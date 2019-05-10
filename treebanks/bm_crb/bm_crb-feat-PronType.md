@@ -24,10 +24,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Dem` (28; 1% of non-empty `PronType`): <em>nin</em>
 * `Emp` (218; 10% of non-empty `PronType`): <em>ne, e, ale, aw, ele</em>
-* `Prs` (1864; 87% of non-empty `PronType`): <em>a, n, i, u, olu, an, à</em>
-* `Rcp` (17; 1% of non-empty `PronType`): <em>nyògòn, nyògon</em>
+* `Prs` (1864; 87% of non-empty `PronType`): <em>a, n, i, u, olu, an, à</em>
+* `Rcp` (17; 1% of non-empty `PronType`): <em>nyògòn, nyògon</em>
 * `Rel` (18; 1% of non-empty `PronType`): <em>min, minw, mun</em>
-* `EMPTY` (367): <em>o, a, mun, nin, i, min, bèè, dò, dòw, u</em>
+* `EMPTY` (367): <em>o, a, mun, nin, i, min, bèè, dò, dòw, u</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `PronType`.
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Dem` (170; 73% of non-empty `PronType`): <em>nin, ninw</em>
 * `Rel` (62; 27% of non-empty `PronType`): <em>min, minw</em>
-* `EMPTY` (272): <em>o, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe, dòròn, in</em>
+* `EMPTY` (272): <em>o, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe, dòròn, in</em>
 
 ## Relations with Agreement in `PronType`
 

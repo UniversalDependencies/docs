@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (3; 3% of non-empty `Case`): जातेन, लुब्धेन, व्रजता
 * `Loc` (4; 4% of non-empty `Case`): उक्ते, उपपन्ने, गते
 * `Nom` (85; 87% of non-empty `Case`): उक्तं, अभिहितम्, आरब्धम्, गतः, प्रस्थितः, अगतः, अगम्यम्, अधिरूढः, अनुगृहीता, अनुज्ञातः
-* `EMPTY` (217): अब्रवीत्, आह, भवति, गत्वा, करिष्यामि, श्रुत्वा, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
+* `EMPTY` (216): अब्रवीत्, आह, भवति, गत्वा, करिष्यामि, श्रुत्वा, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
 
 <table>
   <tr><th>Paradigm <i>वच्</i></th><th><tt>Nom</tt></th><th><tt>Loc</tt></th></tr>
@@ -197,14 +197,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-1 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Case`.
+1 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): सत्त्वम्
-* `EMPTY` (14): अस्ति, अस्तु, अस्मि, भवति, स्यात्
+* `EMPTY` (15): अस्ति, अस्तु, अस्मि, भवति, स्यात्
 
 ### `PART`
 

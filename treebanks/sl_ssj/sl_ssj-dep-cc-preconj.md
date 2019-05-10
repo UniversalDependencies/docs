@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `cc:preconj`: <tt><
 2	ravnatelj	ravnatelj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Dep=0|Rel=Root
 3	kot	kot	SCONJ	Cs	_	4	cc	_	Dep=4|Rel=Conj
 4	profesorji	profesor	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	SpaceAfter=No|Dep=2|Rel=Coord
-5	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+5	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `cc:preconj`: <tt><
 11	Slovenci	Slovenec	PROPN	Npmpn	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	Dep=13|Rel=Sb
 12	golf	golf	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	Dep=13|Rel=Obj
 13	razumeli	razumeti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	7	acl	_	Dep=7|Rel=Atr
-14	ne	ne	PART	Q	_	17	cc:preconj	_	Dep=17|Rel=Conj
+14	ne	ne	PART	Q	Polarity=Neg	17	cc:preconj	_	Dep=17|Rel=Conj
 15	kot	kot	SCONJ	Cs	_	17	case	_	Dep=17|Rel=Conj
 16	elitno	eliten	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	Dep=17|Rel=Atr
 17	druženje	druženje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No|Dep=13|Rel=AdvM

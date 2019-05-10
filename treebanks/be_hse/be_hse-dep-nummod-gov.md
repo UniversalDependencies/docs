@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Belarusian-HSE: Relations: `nummod:gov`
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-nummod.html">nummod</a></tt>.
+There are also 1 other language-specific subtypes of `nummod`: <tt><a href="be_hse-dep-nummod-entity.html">nummod:entity</a></tt>.
 
-69 nodes (1%) are attached to their parents as `nummod:gov`.
+98 nodes (1%) are attached to their parents as `nummod:gov`.
 
-69 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20289855072464.
+98 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23469387755102.
 
-The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (42; 61% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (12; 17% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (9; 13% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (6; 9% instances).
+The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (66; 67% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (16; 16% instances).
 
 
 ~~~ conllu
@@ -42,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 5 4 nummod:gov	color:blue
 1	Купюра	купюра	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 2	ў	ў	ADP	IN	_	5	case	_	_
-3	200	200	NUM	CD	Case=Acc|NumType=Card	4	compound	_	_
+3	200	200	NUM	CD	Case=Acc|NumType=Card	4	nummod:gov	_	_
 4	тыс.	тыс.	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nummod:gov	_	_
 5	рублёў	рубель	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
 6	паступіць	паступіць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -56,27 +57,19 @@ The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod:gov	color:blue
-1	У	у	ADP	IN	_	2	case	_	_
-2	лютага	люты	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
-3	2012	2012	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
-4	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-5	яна	яна	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-6	вырасла	вырасцi	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-7	на	на	ADP	IN	_	9	case	_	_
-8	1,4	1,4	NUM	CD	NumType=Card	9	nummod:gov	_	SpaceAfter=No
-9	%	%	SYM	SYM	_	6	obl	_	_
-10	у	у	ADP	IN	_	13	case	_	_
-11	параўнанні	параўнанне	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	fixed	_	_
-12	з	з	ADP	IN	_	10	fixed	_	_
-13	студзенем	студзень	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
-14	гэтага	гэты	DET	DT	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
-15	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod:gov	color:blue
+1	Тады	тады	ADV	RB	Degree=Pos	7	advmod	_	_
+2	сярэднямесячная	сярэднямесячны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	тэмпература	тэмпература	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+4	было	быць	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+5	ўсяго	ўсяго	PART	UH	_	7	advmod:discourse	_	_
+6	2,5	2,5	NUM	CD	NumType=Card	7	nummod:gov	_	SpaceAfter=No
+7	°С	°с	SYM	SYM	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

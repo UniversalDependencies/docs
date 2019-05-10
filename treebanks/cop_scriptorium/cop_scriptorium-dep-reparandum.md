@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	NOUN	N	_	0	root	_	Orig=ⲟⲩⲟⲓ̈
 3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	Orig=ⲛ̄
 4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	2	obl	_	_
-5	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	aux	_	_
+5	ⲉⲧⲉⲣⲉ	ⲉⲧⲉⲣⲉ	AUX	CREL	_	9	aux	_	_
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	nsubj	_	_
 8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
@@ -110,7 +110,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 86	ⲙ	ⲛ	ADP	PREP	_	88	case	_	Orig=ⲙ̄
 87	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	88	det	_	_
 88	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	_	83	obj	_	Orig=ⲗⲁⲟⲥ`
-89	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	91	case	_	Orig=ⲛ̄
+89	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	91	aux	_	Orig=ⲛ̄
 90	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	_	91	det	_	_
 91	ⲟⲩⲉ	ⲟⲩⲉ	VERB	V	VerbForm=Fin	83	advcl	_	Orig=ⲟⲩⲉ`
 92	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	94	case	_	_
@@ -127,14 +127,14 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 26	bgColor:blue
 # visual-style 26	fgColor:white
 # visual-style 26 9 reparandum	color:blue
-1	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	28	advmod	_	_
+1	ϩⲧⲟⲟⲩⲉ	ϩⲧⲟⲟⲩⲉ	NOUN	N	_	28	obl:npmod	_	_
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	28	advmod	_	_
 3	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̄
 4	ⲥⲟⲩ	ⲥⲟⲩ	NOUN	N	_	5	compound	_	_
 5	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	1	nmod	_	Orig=ⲁ̄
 6	ⲙ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲙ̄
 7	ⲡⲁⲣⲙⲟⲩⲧⲉ	ⲡⲁⲣⲙⲟⲩⲧⲉ	PROPN	NPROP	_	5	nmod	_	_
-8	·	·	PUNCT	PUNCT	_	1	punct	_	_
+8	·	·	PUNCT	PUNCT	_	28	punct	_	_
 9	ⲁ	ⲁ	AUX	APST	_	26	reparandum	_	_
 10	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	PROPN	NPROP	_	28	dislocated	_	Orig=ⲇⲓⲟ̄ⲕⲗⲏϯⲁⲛⲟⲥ
 11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_

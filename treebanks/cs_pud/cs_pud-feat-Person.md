@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1164 tokens (6%) have a non-empty value of `Person`.
-463 types (6%) occur at least once with a non-empty value of `Person`.
-300 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (573; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (324; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (139; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (128; 1% instances).
+1163 tokens (6%) have a non-empty value of `Person`.
+462 types (6%) occur at least once with a non-empty value of `Person`.
+299 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (572; 3% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (324; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (139; 1% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (128; 1% instances).
 
 ### `VERB`
 
-573 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
+572 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (573; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (573; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (573; 100%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (571; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (571; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (565; 99%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (517; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (387; 68%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (313; 55%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (572; 100%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (570; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (570; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (564; 99%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (516; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (387; 68%), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (313; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (44; 8% of non-empty `Person`): <em>musíme, Myslím, Nevím, hraju, máme, nemůžeme, Jdeme, Musím, Míjíme, Navštěvuji</em>
 * `2` (9; 2% of non-empty `Person`): <em>musíte, Hádáte, Polož, Skončíte, máte, víte, čekáte</em>
-* `3` (520; 91% of non-empty `Person`): <em>má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</em>
-* `EMPTY` (1182): <em>řekl, mohl, měl, stal, mít, stala, uvedla, vedl, bylo, mohla</em>
+* `3` (519; 91% of non-empty `Person`): <em>má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</em>
+* `EMPTY` (1180): <em>řekl, mohl, měl, stal, mít, stala, uvedla, vedl, mohla, pracoval</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>máme</em></td><td><em>máte</em></td><td><em>mají</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 94% lemmas (272) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 94% lemmas (271) occur only with one value of `Person`.
 
 ### `AUX`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (36; 11% of non-empty `Person`): <em>jsem, jsme, budeme, budu, bych, Nejsme, bychom, nebudu</em>
 * `2` (3; 1% of non-empty `Person`): <em>jste, byste</em>
 * `3` (285; 88% of non-empty `Person`): <em>je, by, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají</em>
-* `EMPTY` (324): <em>byl, by, bylo, byla, byly, být, byli, nebyly, nebyla, nebyl</em>
+* `EMPTY` (326): <em>byl, by, bylo, byla, byly, být, byli, nebyly, nebyla, nebyl</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (26; 19% of non-empty `Person`): <em>n, naše, mých, Moje, mé, můj, naší, naším, náš</em>
 * `2` (1; 1% of non-empty `Person`): <em>vašich</em>
 * `3` (112; 81% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jejím, jehož, jejích, jejího, jejíž</em>
-* `EMPTY` (674): <em>to, který, které, která, své, mnoho, toho, kteří, tím, tento</em>
+* `EMPTY` (688): <em>to, který, které, která, své, mnoho, toho, kteří, tím, tento</em>
 
 ### `PRON`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (23; 18% of non-empty `Person`): <em>mě, nás, nám, já, mi, me</em>
 * `2` (4; 3% of non-empty `Person`): <em>Tebe, You, vám, vás</em>
 * `3` (101; 79% of non-empty `Person`): <em>ho, nich, ní, jí, mu, ji, něj, jim, ním, je</em>
-* `EMPTY` (450): <em>se, si, co, což, nic, něco, kdo, jenž, nichž, níž</em>
+* `EMPTY` (451): <em>se, si, co, což, nic, něco, kdo, jenž, nichž, níž</em>
 
 ## Relations with Agreement in `Person`
 

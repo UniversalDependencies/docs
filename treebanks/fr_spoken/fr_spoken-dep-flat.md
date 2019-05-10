@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (1%) are attached to their parents as `flat`.
+180 nodes (1%) are attached to their parents as `flat`.
 
-181 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17127071823204.
+180 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17222222222222.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (178; 98% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (178; 99% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 16	Paris	Paris	PROPN	_	_	11	conj:coord	_	_
 17	Hilton	Hilton	PROPN	_	_	16	flat	_	_
 18	ou	ou	CCONJ	_	_	22	cc	_	_
-19	encore	encore	ADV	_	_	18	dep	_	_
+19	encore	encore	ADV	_	_	18	fixed	_	_
 20	l'	le	DET	_	_	22	det	_	_
 21	indéboulonnable	indéboulonnable	ADJ	_	_	22	amod	_	_
 22	Massimo	Massimo	PROPN	_	_	16	conj:coord	_	_
@@ -75,39 +75,25 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 flat	color:blue
-1	enfin	enfin	ADV	_	_	6	discourse	_	_
-2	c'	ce	PRON	_	_	6	nsubj	_	_
-3	est	être	AUX	_	_	6	cop	_	_
-4	c'	ce	PRON	_	_	5	nsubj	_	_
-5	est	être	AUX	conj:reform	_	6	dep	_	_
-6	vrai	vrai	NOUN	_	_	0	root	_	_
-7	que	que	SCONJ	_	_	11	mark	_	_
-8	c'	ce	PRON	_	_	11	nsubj	_	_
-9	était	être	AUX	_	_	11	cop	_	_
-10	le	le	DET	_	_	11	det	_	_
-11	côté	côté	NOUN	_	_	6	dep	_	_
-12	public	public	ADJ	_	_	11	amod	_	_
-13	direct	direct	ADJ	_	_	12	appos:conj	_	_
-14	et	et	CCONJ	_	_	15	cc	_	_
-15	que	que	SCONJ	_	_	11	conj:coord	_	_
-16	et	et	CCONJ	_	_	17	cc	_	_
-17	que	que	SCONJ	_	_	20	mark	_	_
-18	ça	ça	PRON	_	_	20	nsubj	_	_
-19	c'	ce	PRON	_	_	18	conj:dicto	_	_
-20	est	être	AUX	_	_	14	conj:dicto	_	_
-21	c'	ce	PRON	_	_	22	nsubj	_	_
-22	est	être	AUX	conj:reform	_	20	conj:dicto	_	_
-23	comme	comme	ADP	_	_	26	mark	_	_
-24	si	si	SCONJ	_	_	23	flat	_	_
-25	je	je	PRON	_	_	26	nsubj	_	_
-26	faisais	faire	VERB	_	_	22	dep	_	_
-27	un	un	DET	_	_	28	det	_	_
-28	spectacle	spectacle	NOUN	_	_	26	obj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 flat	color:blue
+1	le	le	DET	_	_	2	det	_	_
+2	président	président	NOUN	_	_	0	root	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	Unef	Unef	PROPN	_	_	2	nmod	_	_
+6	Jean	Jean	PROPN	_	_	2	flat	_	_
+7	-	-	PUNCT	_	_	8	punct	_	_
+8	Baptiste	Baptiste	PROPN	_	_	6	flat	_	_
+9	Prévot	Prévot	PROPN	_	_	6	flat	_	_
+10	au	à+le	ADP	_	_	11	case	_	_
+11	micro	micro	NOUN	_	_	6	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	Sonia	Sonia	PROPN	_	_	11	nmod	_	_
+14	Bourane	Bourane	PROPN	_	_	13	flat	_	_
 
 ~~~
 

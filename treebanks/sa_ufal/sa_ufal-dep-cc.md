@@ -11,7 +11,7 @@ This relation is universal.
 34 nodes (2%) are attached to their parents as `cc`.
 
 18 instances of `cc` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.91176470588235.
+Average distance between parent and child is 2.29411764705882.
 
 The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-CCONJ.html">CCONJ</a></tt> (13; 38% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-CCONJ.html">CCONJ</a></tt> (8; 24% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-CCONJ.html">CCONJ</a></tt> (6; 18% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-CCONJ.html">CCONJ</a></tt> (3; 9% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (2; 6% instances).
 

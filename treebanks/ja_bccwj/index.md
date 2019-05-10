@@ -69,6 +69,7 @@ The corpus is obtained by running the following command:
 ```
 
 where `BCCWJ_CORE_FILE` denotes the file of BCCWJ core file (core_SUW.txt)
+the script requires Python (2.x)
 
 or
 
@@ -79,8 +80,8 @@ from https://bccwj-data.ninjal.ac.jp/mdl/
 
 Each data set contains UD annotations for the following parts in BCCWJ
 
-training: annotation C, D, E subsets
-development: annotation B subset
+training: annotation B, C, D, E subsets
+development: annotation A subset
 test: annotation A subset
 
 See also https://github.com/masayu-a/BCCWJ-ANNOTATION-ORDER
@@ -132,7 +133,7 @@ and is a project of the Center for Corpus Development, NINJAL.
 
 ## Relations
 
-[acl](ja_bccwj-dep-acl.html) – [advcl](ja_bccwj-dep-advcl.html) – [advmod](ja_bccwj-dep-advmod.html) – [amod](ja_bccwj-dep-amod.html) – [appos](ja_bccwj-dep-appos.html) – [aux](ja_bccwj-dep-aux.html) – [case](ja_bccwj-dep-case.html) – [cc](ja_bccwj-dep-cc.html) – [compound](ja_bccwj-dep-compound.html) – [cop](ja_bccwj-dep-cop.html) – [dep](ja_bccwj-dep-dep.html) – [det](ja_bccwj-dep-det.html) – [discourse](ja_bccwj-dep-discourse.html) – [iobj](ja_bccwj-dep-iobj.html) – [mark](ja_bccwj-dep-mark.html) – [nmod](ja_bccwj-dep-nmod.html) – [nsubj](ja_bccwj-dep-nsubj.html) – [nummod](ja_bccwj-dep-nummod.html) – [obj](ja_bccwj-dep-obj.html) – [obl](ja_bccwj-dep-obl.html) – [punct](ja_bccwj-dep-punct.html) – [reparandum](ja_bccwj-dep-reparandum.html) – [root](ja_bccwj-dep-root.html)
+[acl](ja_bccwj-dep-acl.html) – [advcl](ja_bccwj-dep-advcl.html) – [advmod](ja_bccwj-dep-advmod.html) – [amod](ja_bccwj-dep-amod.html) – [aux](ja_bccwj-dep-aux.html) – [case](ja_bccwj-dep-case.html) – [cc](ja_bccwj-dep-cc.html) – [compound](ja_bccwj-dep-compound.html) – [cop](ja_bccwj-dep-cop.html) – [dep](ja_bccwj-dep-dep.html) – [det](ja_bccwj-dep-det.html) – [discourse](ja_bccwj-dep-discourse.html) – [dislocated](ja_bccwj-dep-dislocated.html) – [iobj](ja_bccwj-dep-iobj.html) – [mark](ja_bccwj-dep-mark.html) – [nmod](ja_bccwj-dep-nmod.html) – [nsubj](ja_bccwj-dep-nsubj.html) – [nummod](ja_bccwj-dep-nummod.html) – [obj](ja_bccwj-dep-obj.html) – [obl](ja_bccwj-dep-obl.html) – [punct](ja_bccwj-dep-punct.html) – [reparandum](ja_bccwj-dep-reparandum.html) – [root](ja_bccwj-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -273,16 +274,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (10)</li>
-      <li>VERB--NOUN-ADP(_) (24436)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (3931)</li>
+      <li>VERB--NOUN-ADP(_) (25480)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (4075)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (81)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (15)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (16)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (10)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (3)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-      <li>VERB--PRON-ADP(_) (1033)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (203)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (8)</li>
+      <li>VERB--PRON-ADP(_) (1489)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (274)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (10)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
     </ul>
@@ -292,15 +293,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-ADP(_) (25625)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (440)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (25)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-ADP(_) (26234)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (445)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (29)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (9)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-      <li>VERB--PRON-ADP(_) (476)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (34)</li>
+      <li>VERB--PRON-ADP(_) (590)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (39)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (2)</li>
     </ul>
   </li>
@@ -310,14 +311,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN (861)</li>
-      <li>VERB--NOUN-ADP(_) (10502)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (472)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (13)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(_) (9279)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (408)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (10)</li>
       <li>VERB--PRON (84)</li>
-      <li>VERB--PRON-ADP(_) (988)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (102)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--PRON-ADP(_) (602)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (74)</li>
     </ul>
   </li>
 </ul>
@@ -329,5 +328,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 orphan	color:blue
-1	Ну	ну	PART	Pcle	_	4	discourse	_	SpaceAfter=No
+1	Ну	ну	PART	Pcle	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
 4	ми	ми	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	_

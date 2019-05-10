@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
 1	Κινδυνεύουμε	κινδυνεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	να	να	PART	PART	_	3	aux	_	_
+2	να	να	AUX	AUX	_	3	aux	_	_
 3	δημιουργηθεί	δημιουργώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	1	ccomp	_	_
 4	μια	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	νέα	νέος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	καλύτερη	καλός	ADJ	ADJ	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	10	amod	_	_
 10	στιγμή	στιγμή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	_	_
-11	να	να	PART	PART	_	12	aux	_	_
+11	να	να	AUX	AUX	_	12	aux	_	_
 12	αποσυρθώ	αποσύρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	10	acl	_	SpaceAfter=No
 13	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_

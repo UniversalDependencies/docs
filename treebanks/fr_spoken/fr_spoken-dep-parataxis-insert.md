@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="fr_spoken-dep-parataxis-obj.html">parataxis:obj</a></tt>, <tt><a href="fr_spoken-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-13 nodes (0%) are attached to their parents as `parataxis:insert`.
+14 nodes (0%) are attached to their parents as `parataxis:insert`.
 
-12 instances of `parataxis:insert` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.61538461538461.
+12 instances of `parataxis:insert` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.78571428571429.
 
-The following 4 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (6; 46% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 38% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 50% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

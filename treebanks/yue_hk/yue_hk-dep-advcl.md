@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="yue_hk-dep-advcl-coverb.html">advcl:coverb</a></tt>.
 
-82 nodes (1%) are attached to their parents as `advcl`.
+232 nodes (2%) are attached to their parents as `advcl`.
 
-66 instances of `advcl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.60975609756098.
+195 instances of `advcl` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.02155172413793.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (66; 80% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `advcl`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (182; 78% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,6 +44,28 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 advcl	color:blue
+1	但係	但係	CCONJ	_	_	11	advmod	_	SpaceAfter=No
+2	呢	呢	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	冇	冇	AUX	_	_	5	aux	_	SpaceAfter=No
+5	開	開	VERB	_	_	11	advcl	_	SpaceAfter=No
+6	燈	燈	NOUN	_	_	5	obj	_	SpaceAfter=No
+7	呢	呢	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
+9	真係	真係	ADV	_	_	11	advmod	_	SpaceAfter=No
+10	好	好	ADV	_	_	11	advmod	_	SpaceAfter=No
+11	驚	驚	ADJ	_	_	0	root	_	SpaceAfter=No
+12	！	！	PUNCT	_	_	11	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
@@ -66,28 +88,6 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 15	喺度	喺度	ADV	_	_	16	advmod	_	SpaceAfter=No
 16	捱夜	捱夜	VERB	_	_	8	xcomp	_	SpaceAfter=No
 17	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 advcl	color:blue
-1	但係	但係	CCONJ	_	_	11	advmod	_	SpaceAfter=No
-2	呢	呢	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-3	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
-4	冇	冇	AUX	_	_	5	aux	_	SpaceAfter=No
-5	開	開	VERB	_	_	11	advcl	_	SpaceAfter=No
-6	燈	燈	NOUN	_	_	5	obj	_	SpaceAfter=No
-7	呢	呢	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-8	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
-9	真係	真係	ADV	_	_	11	advmod	_	SpaceAfter=No
-10	好	好	ADV	_	_	11	advmod	_	SpaceAfter=No
-11	驚	驚	ADJ	_	_	0	root	_	SpaceAfter=No
-12	！	！	PUNCT	_	_	11	punct	_	SpaceAfter=No
 
 ~~~
 

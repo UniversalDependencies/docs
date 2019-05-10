@@ -29,7 +29,7 @@ Genre: news, nonfiction, fiction
 Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian-SSJ/issues).
-If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com; tomaz&nbsp;•&nbsp;erjavec&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; simon&nbsp;•&nbsp;krek&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
+If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; tomaz&nbsp;•&nbsp;erjavec&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; simon&nbsp;•&nbsp;krek&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -44,13 +44,15 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Slovenian UD Treebank is a rule-based conversion of the ssj500k treebank, the largest collection of manually syntactically annotated data in Slovenian, originally annotated in the JOS annotation scheme.
+The Slovenian UD Treebank is a rule-based conversion of the ssj500k
+treebank, the largest collection of manually syntactically annotated
+data in Slovenian, originally annotated in the JOS annotation scheme.
 
 
 
 
 The Slovenian SSJ UD Treebank (Dobrovoljc et al. 2017) is based on the ssj500k treebank
-(Krek et al. 2015), a balanced collection of sampled texts from the FidaPLUS reference
+(Krek et al. 2019), a balanced collection of sampled texts from the FidaPLUS reference
 corpus of written Slovene (Arhar and Gorjanc 2007). The original ssj500k corpus has
 been manually segmented, tokenized, lemmatized and morphosyntactically tagged within
 JOS project, in which the annotation guidelines have also been developed (Erjavec et
@@ -60,16 +62,21 @@ scheme. The syntactically annotated part of the ssj500k corpus (known as ssj200k
 consisting of 11,411 annotated sentences and 235,864 tokens, has been used as the
 basis for conversion to the Slovenian UD Treebank.
 
-The conversion from ssj200k to the Slovenian SSJ UD Treebank was completely automatic,
-based on a large set of rules for both morphosyntactic and syntactic layer,
-which include different lexical, morphological and dependency features. Due to the
-specifics of the original JOS syntactic annotation scheme, not all dependency relations
-from the original ssj200k treebank could be converted automatically, resulting in a
-smaller UD treebank size. The current version of the Slovenian UD Treebank thus contains
-8,000 sentences with 140,670 tokens taken from various text types, e.g. fiction,
-non-fiction and periodicals, dating from 1990-2000. The original JOS annotations are
-included as part of the POSTAG (JOS morphosyntactic tags) and MISC (JOS dependency
-heads and labels) columns in the CONLLU format.
+The conversion from ssj200k to the Slovenian SSJ UD Treebank was
+automatic (except for "biti"), based on a set of rules for both
+morphosyntactic and syntactic layer, which include different lexical,
+morphological and dependency features. The rules and conversion
+scripts are available at https://github.com/clarinsi/jos2ud
+
+Due to the specifics of the original JOS syntactic annotation scheme,
+not all dependency relations from the original ssj200k treebank could
+be converted automatically, resulting in a smaller UD treebank
+size. The current version of the Slovenian UD Treebank thus contains
+8,000 sentences with 140,670 tokens taken from various text types,
+e.g. fiction, non-fiction and periodicals, dating from 1990-2000. The
+original JOS annotations are included as part of the POSTAG (JOS
+morphosyntactic tags) and MISC (JOS dependency heads and labels)
+columns in the CONLLU format.
 
 The corpus is linearly split into training (80%), development (10%) and test
 (10%) data.
@@ -109,7 +116,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 </ul>
 
 <ul>
-<li>This corpus contains 20488 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 18508 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -141,7 +148,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 </ul>
 
 <ul>
-<li>This corpus contains 65 lemmas tagged as determiners (DET): dosti, dovolj, enak, isti, kak, kakršen, kakršenkoli, kakšen, kateri, katerikoli, koliko, kolikšen, malo, malokateri, manj, marsikateri, mnog, mnogo, moj, najin, največ, naš, nek, nekaj, nekak, nekakšen, nekateri, neki, nešteto, nikakršen, njegov, njen, njihov, njun, noben, oba, oboj, ogromno, oni, par, pol, premnog, prenekateri, preveč, svoj, ta, tak, takšen, tale, tisti, tolik, toliko, tolikšen, tvoj, vajin, vaš, veliko, ves, več, vsak, vsakršen, četrt, čigar, čigav, čimveč</li>
+<li>This corpus contains 66 lemmas tagged as determiners (DET): dosti, dovolj, enak, isti, kak, kakršen, kakršenkoli, kakšen, kateri, katerikoli, koliko, kolikšen, malo, malokateri, manj, marsikateri, mnog, mnogo, moj, najin, največ, naš, nek, nekaj, nekak, nekakšen, nekateri, neki, nešteto, nikakršen, njegov, njen, njihov, njun, noben, oba, obilo, oboj, ogromno, oni, par, pol, premnog, prenekateri, preveč, svoj, ta, tak, takšen, tale, tisti, tolik, toliko, tolikšen, tvoj, vajin, vaš, veliko, ves, več, vsak, vsakršen, četrt, čigar, čigav, čimveč</li>
 </ul>
 
 <ul>
@@ -477,6 +484,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       <li>ADJ: mogoče, sam, novo, nove, različnih, veliko, slovenski, velika, veliki, novega</li>
       <li>ADJ-Part: znani, prepričan, znano, določene, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet</li>
       <li>ADV: lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</li>
+      <li>DET: obilo</li>
     </ul>
   </li>
 </ul>

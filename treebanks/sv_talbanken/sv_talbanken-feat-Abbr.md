@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (426; 100% of non-empty `Abbr`): <em>t.ex., ca, t ex, bl.a., s k, etc, bl a, dvs, osv, s.k.</em>
-* `EMPTY` (6599): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
+* `EMPTY` (6605): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (39) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>S:t, ev, Kungl, Kungl., Teol, fil, med</em>
-* `EMPTY` (8491): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
+* `EMPTY` (8490): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
 
 ### `VERB`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>jfr</em>
-* `EMPTY` (9959): <em>har, finns, är, blir, få, får, ha, gäller, ger, går</em>
+* `EMPTY` (9864): <em>har, finns, blir, få, får, ha, är, gäller, ger, går</em>
 
 ### `ADP`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>f</em>
-* `EMPTY` (11245): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11238): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ## Relations with Agreement in `Abbr`
 

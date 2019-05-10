@@ -9,27 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_gsd-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-42 nodes (0%) are attached to their parents as `csubj`.
+32 nodes (0%) are attached to their parents as `csubj`.
 
-32 instances of `csubj` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.95238095238095.
+30 instances of `csubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.21875.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (17; 40% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (15; 36% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (8; 19% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 csubj	color:blue
-1	Mieux	mieux	ADV	_	_	2	advmod	_	_
-2	vaut	valoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	_
-4	oublier	oublier	VERB	_	VerbForm=Inf	2	csubj	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (14; 44% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (12; 38% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -56,6 +41,21 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 csubj	color:blue
+1	Mieux	mieux	ADV	_	_	2	advmod	_	_
+2	vaut	valoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+4	oublier	oublier	VERB	_	VerbForm=Inf	2	csubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 4 csubj	color:blue
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	parking	parking	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	très	très	ADV	_	_	11	advmod	_	_
-11	difficile	difficile	ADJ	_	Gender=Masc|Number=Sing	2	ccomp	_	_
+11	difficile	difficile	ADJ	_	Gender=Masc|Number=Sing	2	parataxis	_	_
 12	!	!	PUNCT	_	_	11	punct	_	_
 
 ~~~

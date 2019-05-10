@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `SCONJ`
 
-There are 17 `SCONJ` lemmas (1%), 23 `SCONJ` types (0%) and 1435 `SCONJ` tokens (2%).
-Out of 14 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 9 in number of tokens.
+There are 17 `SCONJ` lemmas (1%), 23 `SCONJ` types (0%) and 1433 `SCONJ` tokens (2%).
+Out of 14 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ꙗко, да, аще, доньде, занѥ, даже, понѥже, еда, доидеже, зане</em>
 
 The 10 most frequent `SCONJ` types:  <em>ѣко, да, аште, аще, доньдеже, зане, даже, понеже, еда, дондеже</em>
 
-The 10 most frequent ambiguous lemmas: <em>ꙗко</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 681, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 20), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 350, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 81, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2), <em>аще</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 291, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 68), <em>занѥ</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 4), <em>еда</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 41, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 8), <em>или</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ꙗкоже</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 91, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ꙗко</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 679, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 125), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 350, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 81, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2), <em>аще</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 291, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 68), <em>занѥ</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 4), <em>еда</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 41, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 8), <em>или</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ꙗкоже</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 91, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ѣко</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 679, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 122), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 348, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 79, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>аште</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 213, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 49), <em>аще</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 19), <em>зане</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 4), <em>еда</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 40, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 8), <em>до</em> (<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 56, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 8, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 2), <em>еже</em> (<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 117, <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> 7, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ѣкоже</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 90, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ꙇли</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ѣко</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 677, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 124), <em>да</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 348, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 79, <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> 1), <em>аште</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 213, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 49), <em>аще</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 19), <em>зане</em> (<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 4), <em>еда</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 40, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 8), <em>до</em> (<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> 56, <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 8, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 2), <em>еже</em> (<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> 117, <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> 7, <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ѣкоже</em> (<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 90, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ꙇли</em> (<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>ѣко</em>
-  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 679: <em>Слꙑшасте <b>ѣко</b> речено бꙑⷭ҇ древънимъ</em>
-  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 122: <em>бѫдѣте оубо вꙑ съвръшени <b>ѣко</b> и отецъ вашъ н҃бскꙑ съвръшенъ естъ</em>
+  * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 677: <em>Слꙑшасте <b>ѣко</b> речено бꙑⷭ҇ древънимъ</em>
+  * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 124: <em>бѫдѣте оубо вꙑ съвръшени <b>ѣко</b> и отецъ вашъ н҃бскꙑ съвръшенъ естъ</em>
 * <em>да</em>
   * <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> 348: <em>Вьнемлѣте милостꙑнѧ вашеѩ не творити прѣдъ ч҃лвкꙑ <b>да</b> видими бѫдете ими</em>
   * <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> 79: <em>ꙇже аште поуститъ женѫ своѭ <b>да</b> дастъ еи кънигꙑ распоустънꙑѩ</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ѣко</em> (<tt><a href="cu_proiel-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.352941 (the average of all parts of speech is 3.256534).
+The form / lemma ratio of `SCONJ` is 1.352941 (the average of all parts of speech is 3.275325).
 
 The 1st highest number of forms (6) was observed with the lemma “аще”: <em>аште, аще, ащте, а҅ще, ѣште, ѣще</em>.
 
@@ -69,21 +69,19 @@ The 3rd highest number of forms (2) was observed with the lemma “доньде�
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="cu_proiel-dep-mark.html">mark</a></tt> (1338; 93% instances), <tt><a href="cu_proiel-dep-ccomp.html">ccomp</a></tt> (81; 6% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="cu_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (2; 0% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cu_proiel-dep-mark.html">mark</a></tt> (1345; 94% instances), <tt><a href="cu_proiel-dep-ccomp.html">ccomp</a></tt> (83; 6% instances), <tt><a href="cu_proiel-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="cu_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (2; 0% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1413; 98% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1161; 81% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (86; 6% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (60; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (39; 3% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (29; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (22; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-1390 (97%) `SCONJ` nodes are leaves.
+1432 (100%) `SCONJ` nodes are leaves.
 
-22 (2%) `SCONJ` nodes have one child.
+0 (0%) `SCONJ` nodes have one child.
 
-12 (1%) `SCONJ` nodes have two children.
+1 (0%) `SCONJ` nodes have two children.
 
-11 (1%) `SCONJ` nodes have three or more children.
+The highest child degree of a `SCONJ` node is 2.
 
-The highest child degree of a `SCONJ` node is 4.
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (1; 50% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (1; 50% instances)
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (29; 35% instances), <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (22; 27% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (22; 27% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (4; 5% instances), <tt><a href="cu_proiel-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="cu_proiel-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="cu_proiel-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
-
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (33; 40% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (22; 27% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (18; 22% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 50% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
 

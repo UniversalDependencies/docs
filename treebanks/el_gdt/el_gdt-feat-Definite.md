@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-9846 tokens (16%) have a non-empty value of `Definite`.
+9845 tokens (16%) have a non-empty value of `Definite`.
 39 types (0%) occur at least once with a non-empty value of `Definite`.
-4 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (9846; 16% instances).
+3 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 1 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (9845; 16% instances).
 
 ### `DET`
 
-9846 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
+9845 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9846; 100%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7487; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5320; 54%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9845; 100%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7486; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5320; 54%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (9378; 95% of non-empty `Definite`): <em>την, της, το, η, του, των, ο, οι, τα, τη</em>
-* `Ind` (468; 5% of non-empty `Definite`): <em>μια, ένα, μία, ένας, ενός, μιας, έναν, μίας</em>
+* `Ind` (467; 5% of non-empty `Definite`): <em>μια, ένα, μία, ένας, ενός, μιας, έναν, μίας</em>
 * `EMPTY` (1668): <em>την, το, τη, τις, τον, τα, τους</em>
 
 <table>

@@ -23,8 +23,8 @@ The following 9 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj	color:blue
 1	<>	_	X	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
-2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
-3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
+2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
+3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
 4	ni	ni	X	conj	_	5	cc	_	Gloss=et
 5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
 6	</>	_	X	_	_	2	punct	_	Gloss=_
@@ -58,9 +58,9 @@ The following 9 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=3PL
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=3PL
 2	ni	ni	CCONJ	conj	_	3	cc	_	Gloss=et
-3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	1	conj	_	Gloss=3SG
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	1	conj	_	Gloss=3SG
 4	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 

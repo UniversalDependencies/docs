@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (24; 100% of non-empty `Reflex`): <em>své, svého, svých, svůj, svoji, svým, svou</em>
-* `EMPTY` (1170): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+* `EMPTY` (1137): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 

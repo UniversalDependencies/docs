@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>9/11</em>
-* `EMPTY` (14773): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
+* `EMPTY` (14771): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
 
 ## Relations with Agreement in `NumType`
 
@@ -55,7 +55,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="it_isdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (229; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (154; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (79; 100%),
-<tt>NUM --[<tt><a href="it_isdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (34; 97%),
+<tt>NUM --[<tt><a href="it_isdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (35; 97%),
 <tt>NUM --[<tt><a href="it_isdt-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (16; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (13; 100%),
 <tt>ADJ --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (12; 86%),

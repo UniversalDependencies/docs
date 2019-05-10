@@ -49,20 +49,20 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 det	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
-2	ba	bá	NOUN	n	_	3	nsubj	_	Gloss=mère
-3	ko	kó	VERB	cop	_	0	root	_	Gloss=
-4	ayi	àyi	INTJ	intj	_	7	discourse	_	Gloss=non
-5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
-6	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	7	aux	_	Gloss=IPFV.NEG
-7	taga	tága	VERB	v	_	3	parataxis:obj	_	Gloss=aller
-8	dè	dɛ́	PART	prt	_	7	discourse	_	Gloss=certes
-9	ko	kó	PART	cop	_	12	discourse	_	Gloss=
-10	nin	nìn	PRON	prn	_	12	nsubj	_	Gloss=ceci
-11	dòròn	dɔ́rɔn	DET	dtm	_	10	det	_	Gloss=seulement
-12	bè	bɛ́	VERB	cop	_	7	parataxis	_	Gloss=être
-13	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	12	obl	_	Gloss=1SG
-14	bolo	bólo	ADP	pp	_	13	case	_	Gloss=CNTRL|SpaceAfter=No
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
+2	ba	bá	NOUN	n	_	3	nsubj	_	Gloss=mère
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=
+4	ayi	àyi	INTJ	intj	_	7	discourse	_	Gloss=non
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+6	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	7	aux	_	Gloss=IPFV.NEG
+7	taga	tága	VERB	v	_	3	parataxis:obj	_	Gloss=aller
+8	dè	dɛ́	PART	prt	_	7	discourse	_	Gloss=certes
+9	ko	kó	PART	cop	_	12	discourse	_	Gloss=
+10	nin	nìn	PRON	prn	_	12	nsubj	_	Gloss=ceci
+11	dòròn	dɔ́rɔn	DET	dtm	_	10	det	_	Gloss=seulement
+12	bè	bɛ́	VERB	cop	_	7	parataxis	_	Gloss=être
+13	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	12	obl	_	Gloss=1SG
+14	bolo	bólo	ADP	pp	_	13	case	_	Gloss=CNTRL|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -74,20 +74,20 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 det	color:blue
-1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
-2	jèra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
+1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
+2	jèra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	Dawuda	Dáwuda	PROPN	n.prop	_	6	nsubj	_	Gloss=NOM.M
-5	yèrè	yɛ̀rɛ	DET	dtm	_	4	det	_	Gloss=même
+4	Dawuda	Dáwuda	PROPN	n.prop	_	6	nsubj	_	Gloss=NOM.M
+5	yèrè	yɛ̀rɛ	DET	dtm	_	4	det	_	Gloss=même
 6	wulila	wulila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	parataxis	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
-7	ko	kó	PART	cop	_	14	discourse	_	Gloss=
-8	woo	wòo	NOUN	n	_	14	discourse	_	Gloss=huée
-9	ko	kó	PART	cop	_	14	discourse	_	Gloss=
-10	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	14	nsubj	_	Gloss=2SG.EMPH
+7	ko	kó	PART	cop	_	14	discourse	_	Gloss=
+8	woo	wòo	NOUN	n	_	14	discourse	_	Gloss=huée
+9	ko	kó	PART	cop	_	14	discourse	_	Gloss=
+10	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	14	nsubj	_	Gloss=2SG.EMPH
 11	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR
-12	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=2SG.EMPH
+12	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=2SG.EMPH
 13	denw	denw	NOUN	n	Number=Plur	14	obj	_	Gloss=enfant|Morf=enfant,PL
-14	faga	fàga	VERB	v	_	6	parataxis:obj	_	Gloss=tuer
+14	faga	fàga	VERB	v	_	6	parataxis:obj	_	Gloss=tuer
 15	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
 ~~~

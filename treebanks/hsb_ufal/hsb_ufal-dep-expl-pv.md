@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="hsb_uf
 47 instances of `expl:pv` (59%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.45569620253165.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (76; 96% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (77; 97% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -60,28 +60,6 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 11	zakonjow	zakoń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 12	wobkedźbowaše	wobkedźbować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 expl:pv	color:blue
-1	Wužiwar	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
-3	posłužić	posłužić	AUX	_	VerbForm=Inf	0	root	_	_
-4	nastajeneho	nastajeny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	amod	_	_
-5	kopěraka	kopěrak	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obj	_	_
-6	hdyž	hdyž	SCONJ	_	_	11	mark	_	_
-7	zakónske	zakónski	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	8	amod	_	_
-8	postajenja	postajenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obl	_	_
-9	awtorskeho	awtorski	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	10	amod	_	_
-10	prawa	prawo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
-11	wobkedźbuje	wobkedźbować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

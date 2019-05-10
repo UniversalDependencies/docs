@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 32637 tokens (12%) have a non-empty value of `Person`.
 4124 types (17%) occur at least once with a non-empty value of `Person`.
 1570 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21064; 7% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (683; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (13; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (21248; 8% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (10877; 4% instances), <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> (499; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt> (13; 0% instances).
 
 ### `VERB`
 
-21064 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
+21248 <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19895; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19640; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13305; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11132; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11132; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11132; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20024; 94%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19814; 93%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13414; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (11219; 53%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11219; 53%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11219; 53%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (226; 1% of non-empty `Person`): نرى، نريد، نجد، نستورد، نعرف، نقول، أعتقد، أعلن، أقول، أكون
+* `1` (228; 1% of non-empty `Person`): نرى، نريد، نجد، نستورد، نعرف، نقول، أعتقد، أعلن، أقول، أكون
 * `2` (116; 1% of non-empty `Person`): تحب، تواجه، تتجنب، تتعرض، تجد، تحصل، تخليتم، تبلي، تتوقع، تدع
-* `3` (20722; 98% of non-empty `Person`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
+* `3` (20904; 98% of non-empty `Person`): قال، كان، أضاف، كانت، تم، أكد، يتم، يمكن، أشار، أوضح
 * `EMPTY` (52): حاول، د، دعوا، حث، ابحث، احرص، اخدموا، افتحوا، اكسون، انتبه
 
 <table>
@@ -80,16 +80,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-683 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
+499 <tt><a href="ar_padt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (658; 96%), <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (628; 92%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (431; 63%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (391; 57%), <tt><a href="ar_padt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (391; 57%), <tt><a href="ar_padt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (391; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ar_padt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (499; 100%), <tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (484; 97%), <tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (322; 65%), <tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (304; 61%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (10; 1% of non-empty `Person`): كنت، لسنا، أظن، أكون، اعتقد، اكون، نكون
-* `2` (3; 0% of non-empty `Person`): تكونون، تكون
-* `3` (670; 98% of non-empty `Person`): كان، يكون، ليس، تكون، كانت، ليست، تعد، قال، يكن، يعتبر
-* `EMPTY` (2): كن
+* `1` (8; 2% of non-empty `Person`): كنت، لسنا، أكون، اكون، نكون
+* `2` (3; 1% of non-empty `Person`): تكونون، تكون
+* `3` (488; 98% of non-empty `Person`): كان، يكون، ليس، تكون، كانت، ليست، يكن، تكن، كانوا، ألا
+* `EMPTY` (1666): س، قد، سوف، ما، هل، إلا، الا، ربما، أ، كن
 
 <table>
   <tr><th>Paradigm <i>كَان</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -107,8 +107,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="ar_padt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>كانت</td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `AUX`. 94% lemmas (48) occur only with one value of `Person`.
-
 ### `DET`
 
 13 <tt><a href="ar_padt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
@@ -124,14 +122,14 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2514; 97%),
-<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2514; 98%),
+<tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2545; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2532; 98%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (1199; 91%),
-<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1097; 97%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (660; 90%),
-<tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (640; 100%),
-<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (633; 100%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> PRON</tt> (329; 95%),
-<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (297; 95%),
-<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (236; 98%).
+<tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1110; 97%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (662; 90%),
+<tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (646; 100%),
+<tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (646; 100%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> PRON</tt> (372; 95%),
+<tt>VERB --[<tt><a href="ar_padt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (319; 96%),
+<tt>VERB --[<tt><a href="ar_padt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (243; 98%).
 

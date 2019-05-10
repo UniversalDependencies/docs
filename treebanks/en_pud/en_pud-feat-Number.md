@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 7282 tokens (34%) have a non-empty value of `Number`.
 3467 types (65%) occur at least once with a non-empty value of `Number`.
 3005 lemmas (65%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4036; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1721; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (779; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (427; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (205; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4036; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1721; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (779; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (197; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -62,25 +62,25 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-427 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Number`.
+435 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (427; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (427; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (425; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (251; 59%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (435; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (435; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (433; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (254; 58%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Sing` (427; 100% of non-empty `Number`): <em>was, is, has, 's, ’s, does, am, means</em>
-* `EMPTY` (583): <em>be, are, were, had, been, have, will, would, can, could</em>
+* `Sing` (435; 100% of non-empty `Number`): <em>was, is, has, 's, ’s, does, am</em>
+* `EMPTY` (579): <em>are, be, were, had, been, have, would, will, can, could</em>
 
 ### `VERB`
 
-205 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Number`.
+197 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (202; 99%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (202; 99%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (189; 92%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (194; 98%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (194; 98%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (186; 94%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Sing` (205; 100% of non-empty `Number`): <em>has, is, was, says, 's, makes, helps, seems, working, appears</em>
-* `EMPTY` (1949): <em>have, said, used, took, are, began, had, became, made, according</em>
+* `Sing` (197; 100% of non-empty `Number`): <em>has, is, says, was, makes, helps, seems, working, 's, appears</em>
+* `EMPTY` (1953): <em>have, said, used, took, began, are, had, became, made, according</em>
 
 `Number` seems to be **lexical feature** of `VERB`. 100% lemmas (110) occur only with one value of `Number`.
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (19; 21% of non-empty `Number`): <em>these, those</em>
 * `Sing` (72; 79% of non-empty `Number`): <em>this, that</em>
-* `EMPTY` (1998): <em>the, a, an, all, some, each, no, both, another, every</em>
+* `EMPTY` (1995): <em>the, a, an, all, some, each, no, both, another, every</em>
 
 ### `SYM`
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>course</em>
-* `EMPTY` (842): <em>also, when, so, only, more, not, where, however, most, well</em>
+* `EMPTY` (847): <em>also, when, so, only, more, not, where, however, most, well</em>
 
 ### `NUM`
 

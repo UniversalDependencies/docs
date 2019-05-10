@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `SYM`
 
-There are 24 `SYM` lemmas (0%), 24 `SYM` types (0%) and 1064 `SYM` tokens (1%).
-Out of 16 observed tags, the rank of `SYM` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 20 `SYM` lemmas (0%), 20 `SYM` types (0%) and 1047 `SYM` tokens (1%).
+Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: ・, -, :, &, *, ~, #, ―, ", '
+The 10 most frequent `SYM` lemmas: ・, -, *, ~, &, :, #, ―, ', ※
 
-The 10 most frequent `SYM` types:  ・, -, :, &, *, ~, #, ―, ", '
+The 10 most frequent `SYM` types:  ・, -, *, ~, &, :, #, ―, ', ※
 
 The 10 most frequent ambiguous lemmas: - (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 49, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 28), ~ (<tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 12, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 12, <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> 3), + (<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 2, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), % (<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 1), ☆ (<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 1)
 
@@ -38,24 +38,24 @@ The 10 most frequent ambiguous types:  - (<tt><a href="ja_gsd-pos-PART.html">PAR
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.058722).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.058680).
 
-The 1st highest number of forms (1) was observed with the lemma “"”: ".
+The 1st highest number of forms (1) was observed with the lemma “#”: #.
 
-The 2nd highest number of forms (1) was observed with the lemma “#”: #.
+The 2nd highest number of forms (1) was observed with the lemma “%”: %.
 
-The 3rd highest number of forms (1) was observed with the lemma “%”: %.
+The 3rd highest number of forms (1) was observed with the lemma “&”: &.
 
 `SYM` does not occur with any features.
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 4 different relations: <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1040; 98% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (11; 1% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (11; 1% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (2; 0% instances)
+`SYM` nodes are attached to their parents using 3 different relations: <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1035; 99% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (2; 0% instances)
 
-Parents of `SYM` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (511; 48% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (502; 47% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances),  (2; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 8 different parts of speech: <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (511; 49% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (489; 47% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (29; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-1061 (100%) `SYM` nodes are leaves.
+1044 (100%) `SYM` nodes are leaves.
 
 2 (0%) `SYM` nodes have one child.
 
@@ -65,5 +65,5 @@ The highest child degree of a `SYM` node is 2.
 
 Children of `SYM` nodes are attached using 2 different relations: <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (2; 50% instances), <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (2; 50% instances)
 
-Children of `SYM` nodes belong to 2 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 50% instances)
+Children of `SYM` nodes belong to 3 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 25% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1; 25% instances)
 

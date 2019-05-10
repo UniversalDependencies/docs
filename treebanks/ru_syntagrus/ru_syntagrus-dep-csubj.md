@@ -64,7 +64,7 @@ The following 26 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	врать	врать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	_
 4	не	не	PART	_	_	5	advmod	5:advmod	_
 5	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	0:root	_
-6	бы	бы	PART	_	Mood=Cnd	5	aux	5:aux	SpaceAfter=No
+6	бы	бы	AUX	_	_	5	aux	5:aux	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~

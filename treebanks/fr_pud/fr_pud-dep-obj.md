@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1095 nodes (4%) are attached to their parents as `obj`.
+1090 nodes (4%) are attached to their parents as `obj`.
 
-886 instances of `obj` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.17442922374429.
+880 instances of `obj` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17522935779817.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (806; 74% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (209; 19% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (48; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (8; 1% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (809; 74% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (221; 20% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (47; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (8; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	bien	_	ADV	RB	_	6	advmod	_	_
 3	sûr	_	ADJ	JJ	Gender=Masc|Number=Sing	2	fixed	_	_
 4	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
-5	y	_	PRON	PRP	Person=3	6	advmod	_	_
+5	y	_	PRON	PRP	Person=3	6	expl	_	_
 6	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	Bob	_	PROPN	NNP	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	_	PUNCT	,	_	10	punct	_	_

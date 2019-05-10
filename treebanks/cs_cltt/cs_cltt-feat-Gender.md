@@ -12,10 +12,10 @@ Some words have combined values of the feature; 3 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt>, <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-19272 tokens (54%) have a non-empty value of `Gender`.
+19239 tokens (54%) have a non-empty value of `Gender`.
 3629 types (77%) occur at least once with a non-empty value of `Gender`.
 1610 lemmas (60%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11303; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 19% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (892; 3% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (116; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (90; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (59; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (46; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11303; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 19% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (859; 2% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (116; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (90; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (59; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (46; 0% instances).
 
 ### `NOUN`
 
@@ -91,16 +91,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-892 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
+859 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (74% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (860; 96%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (860; 96%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (839; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (639; 72%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (827; 96%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (827; 96%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (806; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (606; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (396; 44% of non-empty `Gender`): <em>které, této, která, tato, tyto, kterou, tuto, její, své, všechny</em>
-* `Masc` (181; 20% of non-empty `Gender`): <em>které, který, tento, tyto, všechny, každého, každý, svůj, takový, její</em>
+* `Fem` (396; 46% of non-empty `Gender`): <em>které, této, která, tato, tyto, kterou, tuto, její, své, všechny</em>
+* `Masc` (181; 21% of non-empty `Gender`): <em>které, který, tento, tyto, všechny, každého, každý, svůj, takový, její</em>
 * `Masc,Neut` (201; 23% of non-empty `Gender`): <em>tohoto, kterém, kterému, tomto, kterým, tímto, kterého, jejího, tím, jejím</em>
-* `Neut` (114; 13% of non-empty `Gender`): <em>to, které, která, toto, všechna, její, některá, každé, samo, takové</em>
+* `Neut` (81; 9% of non-empty `Gender`): <em>které, to, která, toto, všechna, její, některá, každé, samo, takové</em>
 * `EMPTY` (302): <em>jejich, jeho, těchto, kterých, všech, kterým, jejichž, jehož, kterými, svých</em>
 
 <table>
@@ -216,7 +216,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5933; 97%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (979; 54%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (190; 83%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (48; 72%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (47; 71%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (15; 94%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 52%),
 <tt>DET --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),

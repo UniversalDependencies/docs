@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4399 nodes (5%) are attached to their parents as `root`.
+5231 nodes (5%) are attached to their parents as `root`.
 
-4399 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.58877017503978.
+5231 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.68858726820876.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3051; 69% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (719; 16% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (290; 7% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (248; 6% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (28; 1% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (20; 0% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (18; 0% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3671; 70% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (820; 16% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (343; 7% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (281; 5% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (35; 1% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (25; 0% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (24; 0% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (16; 0% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Leading	Leading	VERB	VBG	VerbForm=Ger	0	root	_	_
+1	Leading	lead	VERB	VBG	VerbForm=Ger	0	root	_	_
 2	Dutch	Dutch	ADJ	JJ	Degree=Pos	3	amod	_	_
-3	Librarians	Librarian	NOUN	NNS	Number=Plur	1	obj	_	_
+3	Librarians	librarian	NOUN	NNS	Number=Plur	1	obj	_	_
 4	into	into	ADP	IN	_	5	case	_	_
 5	DH	DH	PROPN	NNP	Number=Sing	1	obl	_	_
 
@@ -32,30 +32,35 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	Beast	beast	NOUN	NN	Number=Sing	0	root	_	_
+# visual-style 0 1 root	color:blue
+1	Introduction	introduction	NOUN	NN	Number=Sing	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
-3	dark	dark	ADJ	JJ	Degree=Pos	0	root	_	_
-4	under	under	ADP	IN	_	6	case	_	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
-6	bleachers	bleacher	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 0 6 root	color:blue
+1	However	however	ADV	RB	_	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	not	not	PART	RB	Polarity=Neg	6	advmod	_	_
+6	enough	enough	ADJ	JJ	Degree=Pos	0	root	_	_
+7	to	to	PART	TO	_	9	mark	_	_
+8	have	have	AUX	VB	VerbForm=Inf	9	aux	_	_
+9	attained	attain	VERB	VBN	Tense=Past|VerbForm=Part	6	csubj	_	_
+10	such	such	ADJ	JJ	Degree=Pos	12	amod	_	_
+11	native-like	native-like	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	levels	level	NOUN	NNS	Number=Plur	9	obj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

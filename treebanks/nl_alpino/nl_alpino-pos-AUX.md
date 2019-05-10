@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="nl_alpino-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.357143 (the average of all parts of speech is 1.214228).
+The form / lemma ratio of `AUX` is 5.357143 (the average of all parts of speech is 1.213971).
 
 The 1st highest number of forms (11) was observed with the lemma “zijn”: <em>Wees, ben, bent, geweest, is, ware, waren, was, zij, zijn, zijnde</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>is, heeft, wordt, zal, kan, moet, heet, heb, ben, mag</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="nl_alpino-dep-aux.html">aux</a></tt> (4615; 44% instances), <tt><a href="nl_alpino-dep-cop.html">cop</a></tt> (3612; 34% instances), <tt><a href="nl_alpino-dep-aux-pass.html">aux:pass</a></tt> (2357; 22% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6876; 65% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1425; 13% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1293; 12% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (431; 4% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (344; 3% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (71; 1% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (61; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (39; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6885; 65% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1425; 13% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1284; 12% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (431; 4% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (344; 3% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (71; 1% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (61; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (39; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
 
 10512 (99%) `AUX` nodes are leaves.
 

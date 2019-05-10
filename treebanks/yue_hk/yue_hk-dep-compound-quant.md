@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-compound.html">compound</a></tt>.
 There are also 4 other language-specific subtypes of `compound`: <tt><a href="yue_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="yue_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="yue_hk-dep-compound-vo.html">compound:vo</a></tt>, <tt><a href="yue_hk-dep-compound-vv.html">compound:vv</a></tt>.
 
-11 nodes (0%) are attached to their parents as `compound:quant`.
+14 nodes (0%) are attached to their parents as `compound:quant`.
 
-11 instances of `compound:quant` (100%) are left-to-right (parent precedes child).
+14 instances of `compound:quant` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `compound:quant`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (10; 91% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `compound:quant`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (12; 86% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -63,6 +63,38 @@ The following 2 pairs of parts of speech are connected with `compound:quant`: <t
 12	晒	晒	PART	_	_	11	compound:quant	_	SpaceAfter=No
 13	㗎	㗎	PART	_	_	3	discourse:sp	_	SpaceAfter=No
 14	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 compound:quant	color:blue
+1	究竟	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+2	呢	_	DET	_	_	4	det	_	SpaceAfter=No
+3	個	_	NOUN	_	NounType=Clf	2	clf	_	SpaceAfter=No
+4	投票箱	_	NOUN	_	_	7	obl	_	SpaceAfter=No
+5	入便	_	NOUN	_	_	4	case:loc	_	SpaceAfter=No
+6	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	有	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	兩	_	NUM	_	_	10	nummod	_	SpaceAfter=No
+9	個	_	NOUN	_	NounType=Clf	8	clf	_	SpaceAfter=No
+10	投票箱	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+11	：	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	廢票	_	NOUN	_	_	10	appos	_	SpaceAfter=No
+13	同	_	CCONJ	_	_	14	cc	_	SpaceAfter=No
+14	塗謹申	_	PROPN	_	_	12	conj	_	SpaceAfter=No
+15	議員	_	NOUN	_	_	14	flat	_	SpaceAfter=No
+16	，	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	定係	_	CCONJ	_	_	18	cc	_	SpaceAfter=No
+18	加	_	VERB	_	_	7	conj	_	SpaceAfter=No
+19	埋	_	ADV	_	_	18	compound:quant	_	SpaceAfter=No
+20	梁君彥	_	PROPN	_	_	18	obj	_	SpaceAfter=No
+21	議員	_	NOUN	_	_	20	flat	_	SpaceAfter=No
+22	？	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
 ~~~
 

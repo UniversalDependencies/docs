@@ -131,14 +131,14 @@ The most frequent other feature values with which `NUM` and `Polarity` co-occurr
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (520; 98%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (202; 96%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (523; 97%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (204; 96%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (151; 99%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-mark.html">mark</a></tt>]--> PART</tt> (112; 61%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-mark.html">mark</a></tt>]--> PART</tt> (116; 61%),
 <tt>ADJ --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 95%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 94%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26; 93%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (26; 100%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> VERB</tt> (18; 100%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-compound.html">compound</a></tt>]--> VERB</tt> (11; 100%),
-<tt>AUX --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6; 86%).
+<tt>ADJ --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (5; 100%).
 

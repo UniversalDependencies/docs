@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="pcm_nsc
 160 nodes (1%) are attached to their parents as `obl:arg`.
 
 158 instances of `obl:arg` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.15.
+Average distance between parent and child is 3.14375.
 
 The following 18 pairs of parts of speech are connected with `obl:arg`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (93; 58% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (18; 11% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (7; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 1% instances).
 
@@ -36,7 +36,7 @@ The following 18 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 11	inside	inside	ADP	_	_	13	case	_	_
 12	dis	dis	DET	_	_	13	det	_	_
 13	rain	rain	NOUN	_	_	10	obl:arg	_	_
-14	o	o	PART	_	_	13	advmod:emph	_	_
+14	o	o	ADV	PART	_	13	advmod:emph	_	_
 15	//	//	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 18 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	tire	tire	VERB	_	_	0	root	_	_
 4	for	for	ADP	_	_	5	case	_	_
 5	dem	dem	PRON	_	_	3	obl:arg	_	_
-6	o	o	PART	_	_	5	advmod:emph	_	_
+6	o	o	ADV	PART	_	5	advmod:emph	_	_
 7	//	//	PUNCT	_	_	3	punct	_	_
 
 ~~~

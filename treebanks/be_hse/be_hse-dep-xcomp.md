@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-109 nodes (1%) are attached to their parents as `xcomp`.
+154 nodes (1%) are attached to their parents as `xcomp`.
 
-106 instances of `xcomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.77064220183486.
+138 instances of `xcomp` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.1038961038961.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (77; 71% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (16; 15% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (15; 14% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (93; 60% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (24; 16% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (15; 10% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (8; 5% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,33 +22,32 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
-1	Сірыя	сірыя	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+1	Сірыя	Сірыя	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	хоча	хацець	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	выпускаць	выпускаць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
 4	лекі	лекі	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
 5	разам	разам	ADV	RB	Degree=Pos	3	advmod	_	_
 6	з	з	ADP	IN	_	7	case	_	_
-7	Беларуссю	беларусь	PROPN	NNP	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+7	Беларуссю	Беларусь	PROPN	NNP	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 xcomp	color:blue
-1	Да	да	ADP	IN	_	3	case	_	_
-2	сваіх	свой	DET	PRP$	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	3	det	_	_
-3	сяброў	сябар	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
-4	я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-5	гавару	гаварыць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-6	:	:	PUNCT	PUNCT	_	8	punct	_	_
-7	зараз	зараз	ADV	RB	Degree=Pos	8	advmod	_	_
-8	час	час	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	ccomp	_	_
-9	падрыхтавацца	падрыхтавацца	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 xcomp	color:blue
+1	Мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	не	не	PART	UH	Polarity=Neg	3	advmod	_	_
+3	важная	важны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	важна	важны	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	_
+6	адчуваць	адчуваць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	сабе	сабе	PRON	PRP	Case=Acc|PronType=Prs|Reflex=Yes	6	obj	_	_
+8	беларусам	беларус	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+9	...	...	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="it_isdt-dep-aux.htm
 2231 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.16427931960609.
 
-The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2215; 99% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (2216; 99% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

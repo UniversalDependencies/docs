@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>power</em> (<tt><a href="pcm_nsc-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.000884).
 
 The 1st highest number of forms (1) was observed with the lemma “power”: <em>power</em>.
 
@@ -49,5 +49,5 @@ The highest child degree of a `SYM` node is 3.
 
 Children of `SYM` nodes are attached using 3 different relations: <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-dep-aux.html">aux</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-dep-mark.html">mark</a></tt> (1; 33% instances)
 
-Children of `SYM` nodes belong to 3 different parts of speech: <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances)
+Children of `SYM` nodes belong to 3 different parts of speech: <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 33% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances)
 

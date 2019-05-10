@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="bm_crb-pos-PART.htm
 `PART` tokens may have the following values of `Tense`:
 
 * `Past` (38; 100% of non-empty `Tense`): <em>tun</em>
-* `EMPTY` (664): <em>ko, fana, de, dun, le, dè, sa, wa, bilen, yo</em>
+* `EMPTY` (664): <em>ko, fana, de, dun, le, dè, sa, wa, bilen, yo</em>
 
 ### `AUX`
 
@@ -31,6 +31,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (10; 100% of non-empty `Tense`): <em>bèna, na, n', tèna</em>
-* `EMPTY` (1353): <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
+* `Fut` (10; 100% of non-empty `Tense`): <em>bèna, na, n', tèna</em>
+* `EMPTY` (1353): <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
 

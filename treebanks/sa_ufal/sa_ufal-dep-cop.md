@@ -13,7 +13,7 @@ This relation is universal.
 10 instances of `cop` (71%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.78571428571429.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (5; 36% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (3; 21% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (3; 21% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (5; 36% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (3; 21% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (3; 21% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (1; 7% instances).
 
 
 ~~~ conllu

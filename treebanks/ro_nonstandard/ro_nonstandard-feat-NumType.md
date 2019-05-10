@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
-1274 tokens (1%) have a non-empty value of `NumType`.
-136 types (1%) occur at least once with a non-empty value of `NumType`.
-77 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1274; 1% instances).
+1554 tokens (1%) have a non-empty value of `NumType`.
+145 types (1%) occur at least once with a non-empty value of `NumType`.
+78 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1554; 1% instances).
 
 ### `NUM`
 
-1274 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (75% of all `NUM` tokens) have a non-empty value of `NumType`.
+1554 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (69% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1230; 97%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1072; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1042; 82%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt> (791; 62%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1496; 96%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1269; 82%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1217; 78%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt> (903; 58%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (850; 67% of non-empty `NumType`): <em>doi, trei, doao, cinci, șapte, patru, doisprăzeace, două, mie, nouă</em>
-* `Frac` (10; 1% of non-empty `NumType`): <em>jumătate, giumătate</em>
-* `Ord` (414; 32% of non-empty `NumType`): <em>întîiu, treia, întăiu, dentîiu, întîi, doao, dentîi, doa, doaoa, dintîi</em>
-* `EMPTY` (423): <em>2, 1, 3, 4, 6, 14, 12, 8, 9, 5</em>
+* `Card` (979; 63% of non-empty `NumType`): <em>trei, doi, doao, cinci, patru, șapte, mie, doisprăzeace, mii, două</em>
+* `Frac` (14; 1% of non-empty `NumType`): <em>giumătate, jumătate</em>
+* `Ord` (561; 36% of non-empty `NumType`): <em>întîiu, treia, dentîiu, întăiu, întîi, dintîiu, dintîi, doa, doao, dentîi</em>
+* `EMPTY` (689): <em>7, 2, 3, 4, 1, 12, 6, 5, 8, 10</em>
 
 <table>
   <tr><th>Paradigm <i>doi</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -42,11 +42,8 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NUM</tt> (35; 97%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (34; 100%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-compound.html">compound</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-advmod.html">advmod</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-case.html">case</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NUM</tt> (48; 89%),
+<tt>NUM --[<tt><a href="ro_nonstandard-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (43; 72%),
+<tt>NUM --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (9; 100%),
+<tt>NUM --[<tt><a href="ro_nonstandard-dep-compound.html">compound</a></tt>]--> NUM</tt> (3; 100%).
 

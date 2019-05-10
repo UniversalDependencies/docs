@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="en_lines-dep-aux-pass.html">aux:pass</a></tt>.
 
-2441 nodes (3%) are attached to their parents as `aux`.
+2402 nodes (3%) are attached to their parents as `aux`.
 
-2432 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66816878328554.
+2393 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65070774354704.
 
-The following 19 pairs of parts of speech are connected with `aux`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2094; 86% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (130; 5% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (91; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (41; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2198; 92% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (41; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,26 +41,6 @@ The following 19 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	How	how	ADV	WH	PronType=Int	5	advmod	_	_
-2	do	do	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	you	you	PRON	PERS-P2	_	5	nsubj	_	_
-4	English	English	ADJ	POS	Degree=Pos	3	amod	_	_
-5	say	say	VERB	INF	VerbForm=Inf	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	eh	eh	INTJ	_	_	5	parataxis	_	SpaceAfter=No
-8	?	?	PUNCT	QuestionMark	_	5	punct	_	_
-9	Good-by	good-bye	INTJ	_	_	5	appos	_	SpaceAfter=No
-10	.	.	PUNCT	Period	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 8	bgColor:blue
@@ -75,6 +55,27 @@ The following 19 pairs of parts of speech are connected with `aux`: <tt><a href=
 7	been	be	AUX	PERF	Tense=Past|VerbForm=Part	8	cop	_	_
 8	wrong	wrong	ADJ	POS	Degree=Pos	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Period	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 aux	color:blue
+1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+2	've	have	VERB	PRES	Case=Nom	0	root	_	_
+3	a	a	DET	IND-SG	Definite=Ind|PronType=Art	4	det	_	_
+4	feeling	feeling	NOUN	SG-NOM	Number=Sing	2	obj	_	_
+5	there	there	PRON	EX	_	7	expl	_	SpaceAfter=No
+6	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	been	be	AUX	PERF	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	terrible	terrible	ADJ	POS	Degree=Pos	10	amod	_	_
+10	mistake	mistake	NOUN	SG-NOM	Number=Sing	7	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
 

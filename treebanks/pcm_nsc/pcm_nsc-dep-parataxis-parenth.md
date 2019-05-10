@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 # visual-style 4	fgColor:white
 # visual-style 4 8 parataxis:parenth	color:blue
 1	#	#	PUNCT	_	_	4	punct	_	_
-2	na	na	PART	_	_	4	cop	_	_
+2	na	na	AUX	PART	_	4	cop	_	_
 3	ma	ma	PRON	_	_	4	nmod:poss	_	_
 4	team	team	NOUN	_	_	0	root	_	_
 5	(	(	PUNCT	_	_	8	punct	_	_
@@ -56,7 +56,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 # visual-style 6	fgColor:white
 # visual-style 6 11 parataxis:parenth	color:blue
 1	#	#	PUNCT	_	_	24	punct	_	_
-2	{	{	PUNCT	_	_	1	punct	_	_
+2	{	{	PUNCT	_	_	6	punct	_	_
 3	if	if	SCONJ	_	_	6	mark	_	_
 4	im	im	PRON	_	_	6	nsubj	_	_
 5	don	don	AUX	_	_	6	aux	_	_
@@ -64,16 +64,16 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 7	to	to	ADP	_	_	8	case	_	_
 8	you	you	PRON	_	_	6	obl:arg	_	_
 9	(	(	PUNCT	_	_	11	punct	_	_
-10	no	no	PART	_	_	11	advmod	_	_
+10	no	no	ADV	PART	_	11	advmod	_	_
 11	lie	lie	VERB	_	_	6	parataxis:parenth	_	_
-12	//)	//)	PUNCT	_	_	16	punct	_	_
-13	|	|	PUNCT	_	_	12	punct	_	_
+12	//)	//)	PUNCT	_	_	11	punct	_	_
+13	|	|	PUNCT	_	_	16	punct	_	_
 14	if	if	SCONJ	_	_	16	mark	_	_
 15	don	don	AUX	_	_	16	aux	_	_
 16	happen	happen	VERB	_	_	6	conj:dicto	_	_
 17	to	to	ADP	_	_	18	case	_	_
 18	you	you	PRON	_	_	16	obl:arg	_	_
-19	}	}	PUNCT	_	_	1	punct	_	_
+19	}	}	PUNCT	_	_	6	punct	_	_
 20	here	here	ADV	_	_	24	advmod	_	_
 21	<	<	PUNCT	_	_	20	punct	_	_
 22	make	make	AUX	_	_	24	aux	_	_
@@ -96,14 +96,14 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 1	#	#	PUNCT	_	_	25	punct	_	_
 2	at	at	ADP	_	_	3	case	_	_
 3	time	time	NOUN	_	_	25	obl:periph	_	_
-4	sef	sef	PART	_	_	3	advmod:emph	_	_
-5	o	o	PART	_	_	4	advmod:emph	_	_
+4	sef	sef	ADV	PART	_	3	advmod:emph	_	_
+5	o	o	ADV	PART	_	4	advmod:emph	_	_
 6	<	<	PUNCT	_	_	3	punct	_	_
 7	#	#	PUNCT	_	_	3	punct	_	_
 8	if	if	SCONJ	_	_	12	mark	_	_
 9	rain	rain	NOUN	_	_	12	nsubj	_	_
-10	no	no	PART	_	_	12	advmod	_	_
-11	quick	quick	ADJ	_	_	12	advmod	_	_
+10	no	no	ADV	PART	_	12	advmod	_	_
+11	quick	quick	ADV	ADJ	_	12	advmod	_	_
 12	fall	fall	VERB	_	_	25	advcl:periph	_	_
 13	#	#	PUNCT	_	_	12	punct	_	_
 14	<	<	PUNCT	_	_	12	punct	_	_
@@ -111,12 +111,12 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 16	for	for	ADP	_	_	18	case	_	_
 17	some	some	DET	_	_	18	det	_	_
 18	area	area	NOUN	_	_	25	parataxis:parenth	_	_
-19	dem	dem	PART	_	_	18	det	_	_
+19	dem	dem	DET	PART	_	18	det	_	_
 20	)	)	PUNCT	_	_	18	punct	_	_
 21	#	#	PUNCT	_	_	18	punct	_	_
-22	na	na	PART	_	_	25	cop	_	_
+22	na	na	AUX	PART	_	25	cop	_	_
 23	so	so	ADV	_	_	25	advmod	_	_
-24	so	so	ADV	_	_	23	compound:redup	_	_
+24	so	so	ADV	_	_	23	conj:redup	_	_
 25	prayer	prayer	NOUN	_	_	0	root	_	_
 26	>+	>+	PUNCT	_	_	30	punct	_	_
 27	dem	dem	PRON	_	_	30	nsubj	_	_
@@ -129,10 +129,10 @@ The following 8 pairs of parts of speech are connected with `parataxis:parenth`:
 34	God	God	PROPN	_	_	35	nsubj	_	_
 35	forgive	forgive	VERB	_	_	30	ccomp	_	_
 36	dem	dem	PRON	_	_	35	obj	_	_
-37	o	o	PART	_	_	35	advmod:emph	_	_
+37	o	o	ADV	PART	_	35	advmod:emph	_	_
 38	>	>	PUNCT	_	_	41	punct	_	_
 39	if	if	SCONJ	_	_	41	mark	_	_
-40	na	na	PART	_	_	41	cop	_	_
+40	na	na	AUX	PART	_	41	cop	_	_
 41	sin	sin	NOUN	_	_	35	advcl	_	_
 42	//	//	PUNCT	_	_	41	punct	_	_
 43	]	]	PUNCT	_	_	35	punct	_	_

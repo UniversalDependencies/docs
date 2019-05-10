@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (3909; 39% of non-empty `Tense`): <em>zei, kwam, had, was, vond, kreeg, vroeg, maakte, won, ging</em>
 * `Pres` (6148; 61% of non-empty `Tense`): <em>heeft, komt, wil, is, gaat, noemt, ligt, hebben, zijn, staat</em>
-* `EMPTY` (10884): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
+* `EMPTY` (10897): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
 
 <table>
   <tr><th>Paradigm <i>komen</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

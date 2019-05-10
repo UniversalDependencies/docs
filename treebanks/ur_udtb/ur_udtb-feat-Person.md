@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 63896 tokens (46%) have a non-empty value of `Person`.
 8425 types (78%) occur at least once with a non-empty value of `Person`.
-7618 lemmas (80%) occur at least once with a non-empty value of `Person`.
+7617 lemmas (80%) occur at least once with a non-empty value of `Person`.
 The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32438; 23% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17029; 12% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (4952; 4% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4054; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1781; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1544; 1% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1319; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (412; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (290; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (38; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances).
 
 ### `NOUN`
@@ -118,7 +118,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td>اپنے</td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 91% lemmas (63) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 91% lemmas (62) occur only with one value of `Person`.
 
 ### `DET`
 
@@ -316,7 +316,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (8015; 99%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6188; 98%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6184; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2885; 98%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2140; 95%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1722; 73%),
@@ -324,5 +324,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1072; 98%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (744; 99%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (721; 98%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (668; 54%).
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (667; 54%).
 

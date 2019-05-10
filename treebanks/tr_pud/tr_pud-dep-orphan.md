@@ -56,7 +56,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 8	kısmı	kısım	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	_
 9	ise	ise	VERB	VB	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos	12	advcl	_	_
 10	Transkafkasya	Transkafkasya	PROPN	PROPN	Number=Sing	12	advcl	_	Proper=True
-11	olarak	olarak	AUX	CRB	Polarity=Pos	10	cop	_	_
+11	olarak	ol	AUX	CRB	Polarity=Pos	10	cop	_	_
 12	bilinir	bili	VERB	VB	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	conj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -72,15 +72,15 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Para	para	NOUN	NN	Number=Sing	2	obj	_	_
 2	basma	bas	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Tense=Pres|VerbForm=Ger	5	csubj	_	_
 3	ağırlıklı	_	ADJ	JJ	Number=Sing	0	root	_	orig_deprel=advcl
-4	olarak	olarak	AUX	CRB	Polarity=Pos	3	cop	_	_
+4	olarak	ol	AUX	CRB	Polarity=Pos	3	cop	_	_
 5	nümismatik	nümismatik	NOUN	NN	Number=Sing	3	orphan	_	orig_deprel=root
 6	tir	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
 7	ve	ve	CCONJ	CCONJ	_	13	cc	_	ToDo=cc-after-conj
 8	esas	esas	NOUN	NN	Number=Sing	13	advcl	_	_
-9	olarak	olarak	AUX	CRB	Polarity=Pos	8	cop	_	_
-10	koleksiyonculara	koleksiyoncu	NOUN	NN	Case=Dat|Number=Plur	11	advmod	_	_
+9	olarak	ol	AUX	CRB	Polarity=Pos	8	cop	_	_
+10	koleksiyonculara	koleksiyoncu	NOUN	NN	Case=Dat|Number=Plur	11	obl	_	_
 11	satılmak	sat	NOUN	VN	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	12	compound	_	_
-12	amacıyla	amaç	NOUN	NN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	advmod	_	_
+12	amacıyla	amaç	NOUN	NN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	_
 13	gerçekleştirilen	gerçekleş	ADJ	VJ	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Pres|Voice=CauPass	3	conj	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 

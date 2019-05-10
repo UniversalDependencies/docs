@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="de_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-375 nodes (2%) are attached to their parents as `aux`.
+365 nodes (2%) are attached to their parents as `aux`.
 
-210 instances of `aux` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.13866666666667.
+203 instances of `aux` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.21917808219178.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (349; 93% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (17; 5% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (357; 98% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,46 +36,55 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 aux	color:blue
-1	Diese	dies	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
-2	Abteilung	Abteilung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
-3	muss	müssen	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-4	sich	er|es|sie	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rcp	9	obj	_	_
-5	nun	nun	ADV	RB	Degree=Pos	9	advmod	_	_
-6	auf	auf	ADP	IN	_	8	case	_	_
-7	neue	neu	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Person=3	8	amod	_	InflectionType=Strong
-8	Herausforderungen	Herausforderung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	9	obl	_	_
-9	gefasst	fassen	ADJ	JJ	Degree=Pos	0	root	_	_
-10	machen	machen	AUX	VB	_	9	cop	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	9	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 aux	color:blue
+1	Die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	3	det	_	_
+2	große	groß	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Person=3	3	amod	_	InflectionType=Weak
+3	Höhe	Höhe	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
+4	hilft	helfen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	das	der	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	7	det	_	_
+7	Klima	Klima	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	_	_
+8	zu	zu	PART	RP	_	9	mark	_	_
+9	kühlen	kühlen	VERB	VB	_	4	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	das	der	PRON	REL	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	_	_
+12	anderenfalls	anderenfalls	ADV	RB	Degree=Pos	14	advmod	_	_
+13	sehr	sehr	ADV	RB	Degree=Pos	14	advmod	_	_
+14	heiß	heiß	ADJ	JJ	Degree=Pos	7	acl:relcl	_	_
+15	sein	sein	AUX	VB	_	14	cop	_	_
+16	würde	werden	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past	14	aux	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 aux	color:blue
-1	Diese	dies	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	2	det	_	_
-2	Affäre	Affäre	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj:pass	_	_
-3	kann	können	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-4	als	als	CCONJ	CC	_	5	cc	_	_
-5	Startpunkt	Startpunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-6	für	für	ADP	IN	_	8	case	_	_
-7	seine	sein	PRON	DTP$	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	8	nmod:poss	_	_
-8	Karriere	Karriere	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
-9	als	als	CCONJ	CC	_	11	cc	_	_
-10	radikaler	radikal	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Person=3	11	amod	_	InflectionType=Strong
-11	Revolutionär	Revolutionär	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	conj	_	_
-12	vestanden	vestehen	AUX	VBN	Tense=Past	5	cop	_	_
-13	werden	werden	AUX	VB	_	5	aux:pass	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 16 aux	color:blue
+1	Trudeau	Trudeau	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+2	wird	werden	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+3	den	der	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3	5	det	_	_
+4	45.	45.	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord|Person=3	5	amod	_	InflectionType=Weak
+5	Präsidenten	Präsident	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obj	_	_
+6	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Person=3	8	det	_	_
+7	Vereinigten	vereinigt	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Person=3	8	amod	_	InflectionType=Weak|Proper=True
+8	Staaten	Staat	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur|Person=3	5	nmod	_	Proper=True
+9	einladen	einladen	VERB	VB	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	wer	wer	PRON	WP	Case=Nom|Person=3	14	nsubj	_	_
+12	auch	auch	ADV	RB	Degree=Pos	13	advmod	_	_
+13	immer	immer	ADV	RB	Degree=Pos	11	advmod	_	_
+14	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	9	advcl	_	_
+15	sein	sein	AUX	VB	_	14	cop	_	_
+16	wird	werden	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

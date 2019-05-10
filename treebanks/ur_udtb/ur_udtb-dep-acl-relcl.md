@@ -31,7 +31,7 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	,	,	PUNCT	SYM	_	5	punct	_	ChunkId=VGF|ChunkType=child
 8	آتش_پرست	آتش_پرست	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head
 9	تھا	تھا	AUX	VM	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=تھا|Tam=WA|ChunkId=VGF2|ChunkType=head|Stype=declarative
-10	۔	۔	PUNCT	SYM	_	9	punct	_	ChunkId=VGF2|ChunkType=child
+10	۔	۔	PUNCT	SYM	_	8	punct	_	ChunkId=VGF2|ChunkType=child
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
 7	جو	جو	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	اپنے	اپنا	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
-9	نفس	نفس	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	advmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
+9	نفس	نفس	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 10	پر	پر	ADP	PSP	AdpType=Post	9	case	_	ChunkId=NP5|ChunkType=child
 11	کنٹرول	کنٹرول	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head
 12	و	و	CCONJ	CC	_	13	cc	_	ChunkId=CCP|ChunkType=head
@@ -73,7 +73,7 @@ The following 28 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	قوم	قوم	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 5	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
 6	جو	جو	PRON	PRP	_	10	nsubj	_	ChunkId=NP3|ChunkType=head
-7	کثرت	کثرت	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	advmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
+7	کثرت	کثرت	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 8	مےں	مےں	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP4|ChunkType=child
 9	یقین	یقین	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 10	رکھتی	رکھ	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	1	acl:relcl	_	Vib=تا|Tam=wA|ChunkId=VGF2|ChunkType=head|Stype=declarative

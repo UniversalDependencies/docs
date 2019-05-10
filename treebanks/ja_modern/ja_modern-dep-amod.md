@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 19 amod	color:blue
-1	僕	僕	PRON	代名詞	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
+1	僕	僕	PRON	代名詞	_	3	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	見る	見る	VERB	動詞-非自立可能	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 4	所	所	NOUN	名詞-普通名詞-副詞可能	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
@@ -83,7 +83,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 15 amod	color:blue
-1	僕	僕	PRON	代名詞	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
+1	僕	僕	PRON	代名詞	_	3	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	見る	見る	VERB	動詞-非自立可能	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 4	所	所	NOUN	名詞-普通名詞-副詞可能	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No

@@ -44,21 +44,12 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-A treebank manually annotated at the City University of Hong Kong.
-It contains subtitles of three films shot by students from the School of
-Creative Media as well as the official record of proceedings of the Legislative
-Council of Hong Kong. Traditional Chinese characters. This treebank is parallel
-with UD_Cantonese-HK.
+A Traditional Chinese treebank of film subtitles and of legislative proceedings
+of Hong Kong, parallel with the Cantonese-HK treebank.
 
 
 
-The Chinese-HK UD treebank was manually annotated by Herman H. M. Leung and Tak-sum Wong
-at City University of Hong Kong, directly using the subtitles from three films
-shot by students from the School of Creative Media as well as the official
-record of proceedings of the section of the Election of President of the
-council meeting of the Legislative Council of the HKSAR of the P. R. China on
-12th October, 2016 commencing at 2:13 p.m. The data are in Traditional Chinese.
-These trees form a parallel treebank with those in Cantonese-HK.
+The Chinese-HK UD treebank was manually annotated by Herman H. M. Leung and Tak-sum Wong at City University of Hong Kong, directly using the subtitles from three films shot by students from the School of Creative Media as well as part of the official record of proceedings of the section of the Election of President of the council meeting of the Legislative Council of the HKSAR of the P. R. China on 12th October, 2016 commencing at 2:13 p.m. The data are in Traditional Chinese. These trees form a parallel treebank with those in Cantonese-HK.
 
 ORIGIN
 
@@ -79,17 +70,17 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 
 ## Relations
 
-[acl](zh_hk-dep-acl.html) – [advcl](zh_hk-dep-advcl.html) – [advmod](zh_hk-dep-advmod.html) – [advmod:df](zh_hk-dep-advmod-df.html) – [amod](zh_hk-dep-amod.html) – [appos](zh_hk-dep-appos.html) – [aux](zh_hk-dep-aux.html) – [aux:pass](zh_hk-dep-aux-pass.html) – [case](zh_hk-dep-case.html) – [case:loc](zh_hk-dep-case-loc.html) – [cc](zh_hk-dep-cc.html) – [ccomp](zh_hk-dep-ccomp.html) – [clf](zh_hk-dep-clf.html) – [compound](zh_hk-dep-compound.html) – [compound:dir](zh_hk-dep-compound-dir.html) – [compound:ext](zh_hk-dep-compound-ext.html) – [compound:vo](zh_hk-dep-compound-vo.html) – [compound:vv](zh_hk-dep-compound-vv.html) – [conj](zh_hk-dep-conj.html) – [cop](zh_hk-dep-cop.html) – [csubj](zh_hk-dep-csubj.html) – [dep](zh_hk-dep-dep.html) – [det](zh_hk-dep-det.html) – [discourse](zh_hk-dep-discourse.html) – [discourse:sp](zh_hk-dep-discourse-sp.html) – [dislocated](zh_hk-dep-dislocated.html) – [flat](zh_hk-dep-flat.html) – [iobj](zh_hk-dep-iobj.html) – [mark](zh_hk-dep-mark.html) – [mark:adv](zh_hk-dep-mark-adv.html) – [mark:rel](zh_hk-dep-mark-rel.html) – [nmod](zh_hk-dep-nmod.html) – [nsubj](zh_hk-dep-nsubj.html) – [nsubj:pass](zh_hk-dep-nsubj-pass.html) – [nummod](zh_hk-dep-nummod.html) – [obj](zh_hk-dep-obj.html) – [obj:periph](zh_hk-dep-obj-periph.html) – [obl](zh_hk-dep-obl.html) – [obl:agent](zh_hk-dep-obl-agent.html) – [obl:patient](zh_hk-dep-obl-patient.html) – [obl:tmod](zh_hk-dep-obl-tmod.html) – [parataxis](zh_hk-dep-parataxis.html) – [punct](zh_hk-dep-punct.html) – [reparandum](zh_hk-dep-reparandum.html) – [root](zh_hk-dep-root.html) – [vocative](zh_hk-dep-vocative.html) – [xcomp](zh_hk-dep-xcomp.html)
+[acl](zh_hk-dep-acl.html) – [advcl](zh_hk-dep-advcl.html) – [advmod](zh_hk-dep-advmod.html) – [advmod:df](zh_hk-dep-advmod-df.html) – [amod](zh_hk-dep-amod.html) – [appos](zh_hk-dep-appos.html) – [aux](zh_hk-dep-aux.html) – [aux:pass](zh_hk-dep-aux-pass.html) – [case](zh_hk-dep-case.html) – [case:loc](zh_hk-dep-case-loc.html) – [cc](zh_hk-dep-cc.html) – [ccomp](zh_hk-dep-ccomp.html) – [clf](zh_hk-dep-clf.html) – [compound](zh_hk-dep-compound.html) – [compound:dir](zh_hk-dep-compound-dir.html) – [compound:ext](zh_hk-dep-compound-ext.html) – [compound:vo](zh_hk-dep-compound-vo.html) – [compound:vv](zh_hk-dep-compound-vv.html) – [conj](zh_hk-dep-conj.html) – [cop](zh_hk-dep-cop.html) – [csubj](zh_hk-dep-csubj.html) – [det](zh_hk-dep-det.html) – [discourse](zh_hk-dep-discourse.html) – [discourse:sp](zh_hk-dep-discourse-sp.html) – [dislocated](zh_hk-dep-dislocated.html) – [flat](zh_hk-dep-flat.html) – [iobj](zh_hk-dep-iobj.html) – [mark](zh_hk-dep-mark.html) – [mark:adv](zh_hk-dep-mark-adv.html) – [mark:rel](zh_hk-dep-mark-rel.html) – [nmod](zh_hk-dep-nmod.html) – [nsubj](zh_hk-dep-nsubj.html) – [nsubj:pass](zh_hk-dep-nsubj-pass.html) – [nummod](zh_hk-dep-nummod.html) – [obj](zh_hk-dep-obj.html) – [obj:periph](zh_hk-dep-obj-periph.html) – [obl](zh_hk-dep-obl.html) – [obl:agent](zh_hk-dep-obl-agent.html) – [obl:patient](zh_hk-dep-obl-patient.html) – [obl:tmod](zh_hk-dep-obl-tmod.html) – [parataxis](zh_hk-dep-parataxis.html) – [punct](zh_hk-dep-punct.html) – [reparandum](zh_hk-dep-reparandum.html) – [root](zh_hk-dep-root.html) – [vocative](zh_hk-dep-vocative.html) – [xcomp](zh_hk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 908 sentences and 8701 tokens.</li>
+<li>This corpus contains 1004 sentences and 9874 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8701 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 9874 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -183,7 +174,7 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
       <li>Clf
         <ul>
           <li>ADV: 些</li>
-          <li>NOUN: 個, 元, 位, 塊, 次, 天, 分鐘, 張, 份, 分</li>
+          <li>NOUN: 個, 位, 元, 條, 塊, 次, 天, 點, 分鐘, 張</li>
         </ul>
       </li>
     </ul>
@@ -209,9 +200,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (154)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--PRON (419)</li>
+      <li>VERB--NOUN (173)</li>
+      <li>VERB--NOUN-ADP(_) (2)</li>
+      <li>VERB--PRON (503)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
     </ul>
   </li>
@@ -220,8 +211,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (505)</li>
-      <li>VERB--PRON (120)</li>
+      <li>VERB--NOUN (588)</li>
+      <li>VERB--PRON (137)</li>
       <li>VERB--PRON-ADP(_) (2)</li>
     </ul>
   </li>
@@ -242,5 +233,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 15 relation subtypes: <a>advmod:df</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

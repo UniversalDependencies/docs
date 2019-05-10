@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	precisava	precisar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	ajuda	ajuda	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+5	ajuda	ajuda	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	senhor	senhor	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No

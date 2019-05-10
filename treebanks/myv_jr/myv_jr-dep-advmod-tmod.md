@@ -13,21 +13,26 @@ This relation is a language-specific subtype of <tt><a href="myv_jr-dep-advmod.h
 4 instances of `advmod:tmod` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.16666666666667.
 
-The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 50% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (4; 67% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod:tmod	color:blue
-1	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef
-2	седе	седе	ADV	Adv	Degree=Cmp	3	advmod	_	GTtags=Comp
-3	курок	курок	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Temp
-4	валксь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
-5	каськас	каська	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Ill,Indef|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod:tmod	color:blue
+1	Лишмесь	лишме	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Indef
+2	ве	ве	NUM	Num	NumType=Card	3	nummod	_	GTtags=Card,Adn
+3	ёндо	ёндо	ADP	Adp	AdvType=Loc|Case=Abl	4	obl	_	GTtags=Spat,Abl
+4	содызе	содамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+5	азоронзо	азор	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	кодак	кодак	ADV	Adv	_	8	advmod:tmod	_	GTtags=TV,Imprt,ScSg2
+8	неизе	неемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	4	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+9	—	—	PUNCT	PUNCT	_	10	punct	_	_
+10	цяхазевсь	цяхазевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	8	conj	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

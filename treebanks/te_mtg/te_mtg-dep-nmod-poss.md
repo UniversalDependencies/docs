@@ -24,9 +24,9 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod:poss	color:blue
 1	మీ	_	PRON	PRON	_	3	nmod:poss	_	Translit=mī|LTranslit=_
-2	తల్లిదండ్రుల	_	NOUN	NOUN	_	3	nmod:poss	_	Translit=tallidaṁḍrula|LTranslit=_
+2	తల్లిదండ్రుల	_	NOUN	NOUN	_	3	nmod:poss	_	Translit=tallidaṁḍrula|LTranslit=_
 3	ఊరు	_	NOUN	NOUN	_	4	nsubj	_	Translit=ūru|LTranslit=_
-4	ఏమిటి	_	PRON	PRON	_	0	root	_	Translit=emiṭi|LTranslit=_
+4	ఏమిటి	_	PRON	PRON	_	0	root	_	Translit=emiṭi|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
 ~~~
@@ -39,9 +39,9 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:poss	color:blue
 1	మీ	_	PRON	PRON	_	3	nmod:poss	_	Translit=mī|LTranslit=_
-2	తల్లిదండ్రుల	_	NOUN	NOUN	_	3	nmod:poss	_	Translit=tallidaṁḍrula|LTranslit=_
+2	తల్లిదండ్రుల	_	NOUN	NOUN	_	3	nmod:poss	_	Translit=tallidaṁḍrula|LTranslit=_
 3	ఊరు	_	NOUN	NOUN	_	4	nsubj	_	Translit=ūru|LTranslit=_
-4	ఏమిటి	_	PRON	PRON	_	0	root	_	Translit=emiṭi|LTranslit=_
+4	ఏమిటి	_	PRON	PRON	_	0	root	_	Translit=emiṭi|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
 ~~~
@@ -54,12 +54,12 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod:poss	color:blue
 1	మీ	_	PRON	PRON	_	2	nmod:poss	_	Translit=mī|LTranslit=_
-2	కలంలో	_	NOUN	NOUN	_	4	obl	_	Translit=kalaṁlo|LTranslit=_
+2	కలంలో	_	NOUN	NOUN	_	4	obl	_	Translit=kalaṁlo|LTranslit=_
 3	సిరా	_	NOUN	NOUN	_	4	nsubj	_	Translit=sirā|LTranslit=_
 4	ఉన్నది	_	VERB	VERB	_	0	root	_	Translit=unnadi|LTranslit=_
 5	;	_	PUNCT	PUNCT	_	4	punct	_	Translit=;|LTranslit=_
 6	నా	_	PRON	PRON	_	7	nmod:poss	_	Translit=nā|LTranslit=_
-7	దాంట్లో	_	PRON	PRON	_	8	obl	_	Translit=dāṁṭlo|LTranslit=_
+7	దాంట్లో	_	PRON	PRON	_	8	obl	_	Translit=dāṁṭlo|LTranslit=_
 8	లేదు	_	VERB	VERB	_	4	parataxis	_	Translit=ledu|LTranslit=_
 9	.	_	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=_
 

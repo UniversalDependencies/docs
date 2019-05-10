@@ -169,7 +169,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 ## Relations
 
-[acl](no_nynorsk-dep-acl.html) – [acl:cleft](no_nynorsk-dep-acl-cleft.html) – [acl:relcl](no_nynorsk-dep-acl-relcl.html) – [advcl](no_nynorsk-dep-advcl.html) – [advmod](no_nynorsk-dep-advmod.html) – [amod](no_nynorsk-dep-amod.html) – [appos](no_nynorsk-dep-appos.html) – [aux](no_nynorsk-dep-aux.html) – [aux:pass](no_nynorsk-dep-aux-pass.html) – [case](no_nynorsk-dep-case.html) – [cc](no_nynorsk-dep-cc.html) – [ccomp](no_nynorsk-dep-ccomp.html) – [compound](no_nynorsk-dep-compound.html) – [compound:prt](no_nynorsk-dep-compound-prt.html) – [conj](no_nynorsk-dep-conj.html) – [cop](no_nynorsk-dep-cop.html) – [csubj](no_nynorsk-dep-csubj.html) – [csubj:pass](no_nynorsk-dep-csubj-pass.html) – [det](no_nynorsk-dep-det.html) – [discourse](no_nynorsk-dep-discourse.html) – [expl](no_nynorsk-dep-expl.html) – [flat:foreign](no_nynorsk-dep-flat-foreign.html) – [flat:name](no_nynorsk-dep-flat-name.html) – [goeswith](no_nynorsk-dep-goeswith.html) – [iobj](no_nynorsk-dep-iobj.html) – [mark](no_nynorsk-dep-mark.html) – [nmod](no_nynorsk-dep-nmod.html) – [nsubj](no_nynorsk-dep-nsubj.html) – [nsubj:pass](no_nynorsk-dep-nsubj-pass.html) – [nummod](no_nynorsk-dep-nummod.html) – [obj](no_nynorsk-dep-obj.html) – [obl](no_nynorsk-dep-obl.html) – [orphan](no_nynorsk-dep-orphan.html) – [parataxis](no_nynorsk-dep-parataxis.html) – [punct](no_nynorsk-dep-punct.html) – [root](no_nynorsk-dep-root.html) – [xcomp](no_nynorsk-dep-xcomp.html)
+[acl](no_nynorsk-dep-acl.html) – [acl:cleft](no_nynorsk-dep-acl-cleft.html) – [acl:relcl](no_nynorsk-dep-acl-relcl.html) – [advcl](no_nynorsk-dep-advcl.html) – [advmod](no_nynorsk-dep-advmod.html) – [amod](no_nynorsk-dep-amod.html) – [appos](no_nynorsk-dep-appos.html) – [aux](no_nynorsk-dep-aux.html) – [aux:pass](no_nynorsk-dep-aux-pass.html) – [case](no_nynorsk-dep-case.html) – [cc](no_nynorsk-dep-cc.html) – [ccomp](no_nynorsk-dep-ccomp.html) – [compound](no_nynorsk-dep-compound.html) – [compound:prt](no_nynorsk-dep-compound-prt.html) – [conj](no_nynorsk-dep-conj.html) – [cop](no_nynorsk-dep-cop.html) – [csubj](no_nynorsk-dep-csubj.html) – [csubj:pass](no_nynorsk-dep-csubj-pass.html) – [det](no_nynorsk-dep-det.html) – [discourse](no_nynorsk-dep-discourse.html) – [expl](no_nynorsk-dep-expl.html) – [flat:foreign](no_nynorsk-dep-flat-foreign.html) – [flat:name](no_nynorsk-dep-flat-name.html) – [iobj](no_nynorsk-dep-iobj.html) – [mark](no_nynorsk-dep-mark.html) – [nmod](no_nynorsk-dep-nmod.html) – [nsubj](no_nynorsk-dep-nsubj.html) – [nsubj:pass](no_nynorsk-dep-nsubj-pass.html) – [nummod](no_nynorsk-dep-nummod.html) – [obj](no_nynorsk-dep-obj.html) – [obl](no_nynorsk-dep-obl.html) – [orphan](no_nynorsk-dep-orphan.html) – [parataxis](no_nynorsk-dep-parataxis.html) – [punct](no_nynorsk-dep-punct.html) – [reparandum](no_nynorsk-dep-reparandum.html) – [root](no_nynorsk-dep-root.html) – [xcomp](no_nynorsk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -206,7 +206,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
+<li>This corpus contains 45 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, der, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
 </ul>
 
 <ul>
@@ -218,11 +218,11 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): bli, burde, få, ha, kunne, måtte, skulle, tore, vere, vilje</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): bli, burde, få, ha, kunne, måtte, skulle, tore, vere, verte, vilje</li>
 </ul>
 
 <ul>
-<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: bli, burde, få, ha, kunne, måtte, skulle, tore, vere, vilje</li>
+<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: bli, burde, få, ha, kunne, måtte, skulle, tore, vere, verte, vilje</li>
 </ul>
 
 <ul>
@@ -232,8 +232,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: er, har, var, kan, skal, vil, må, blir, hadde, kunne</li>
-    <li>VERB: har, seier, vart, er, kjem, får, meiner, går, fekk, kom</li>
+    <li>AUX: er, har, var, kan, skal, vil, må, vart, blir, hadde</li>
+    <li>VERB: har, seier, er, kjem, får, meiner, går, fekk, kom, blir</li>
   </ul>
   </li>
 </ul>
@@ -242,7 +242,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   <li>Inf
   <ul>
     <li>ADV: hende</li>
-    <li>AUX: vere, vera, ha, bli, få, kunne, kunna, måtte, måtta, skulle</li>
+    <li>AUX: vere, vera, ha, bli, få, kunne, kunna, verta, verte, måtte</li>
     <li>VERB: få, ha, ta, gå, bli, sjå, gjere, gje, gjera, seie</li>
   </ul>
   </li>
@@ -252,8 +252,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   <li>Part
   <ul>
     <li>ADJ: sett, lagt, auka, gjort, manglande, samla, avgjerande, følgjande, aukande, komande</li>
-    <li>AUX: vore, blitt, fått, kunna, måtta, måtte, fengje, vilja, vorte</li>
-    <li>VERB: fått, hatt, gjort, sett, gått, vore, vorte, teke, kome, sagt</li>
+    <li>AUX: vore, blitt, vorte, fått, kunna, måtta, måtte, fengje, vilja</li>
+    <li>VERB: fått, hatt, gjort, sett, gått, vore, teke, kome, sagt, blitt</li>
   </ul>
   </li>
 </ul>
@@ -499,8 +499,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: er, har, var, kan, skal, vil, må, blir, hadde, kunne</li>
-      <li>VERB-Fin: har, seier, vart, er, kjem, får, meiner, går, fekk, vert</li>
+      <li>AUX-Fin: er, har, var, kan, skal, vil, må, vart, blir, hadde</li>
+      <li>VERB-Fin: har, seier, er, kjem, får, meiner, går, fekk, blir, kom</li>
     </ul>
   </li>
 </ul>
@@ -512,8 +512,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: var, hadde, kunne, skulle, ville, måtte, blei, burde, fekk, kunde</li>
-      <li>VERB-Fin: vart, fekk, kom, hadde, gjekk, sa, var, tok, gjorde, såg</li>
+      <li>AUX-Fin: var, vart, hadde, kunne, skulle, ville, måtte, blei, burde, fekk</li>
+      <li>VERB-Fin: fekk, kom, hadde, gjekk, sa, vart, var, tok, gjorde, såg</li>
     </ul>
   </li>
 </ul>
@@ -521,8 +521,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: er, har, kan, skal, vil, må, blir, bør, får, hev</li>
-      <li>VERB-Fin: har, seier, er, kjem, får, meiner, går, vert, blir, ser</li>
+      <li>AUX-Fin: er, har, kan, skal, vil, må, blir, vert, bør, får</li>
+      <li>VERB-Fin: har, seier, er, kjem, får, meiner, går, blir, ser, gjer</li>
     </ul>
   </li>
 </ul>
@@ -731,7 +731,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunne, skulle, vilje, måtte, vere, få, burde, bli, tore.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunne, skulle, vilje, måtte, vere, få, burde, verte, bli, tore.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: verte, bli.</li>
 </ul>
 
@@ -808,5 +808,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

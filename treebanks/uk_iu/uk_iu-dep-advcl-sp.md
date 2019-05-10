@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-svc.html">advcl:svc</a></tt>.
 
-46 nodes (0%) are attached to their parents as `advcl:sp`.
+51 nodes (0%) are attached to their parents as `advcl:sp`.
 
-31 instances of `advcl:sp` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.45652173913043.
+34 instances of `advcl:sp` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.50980392156863.
 
-The following 5 pairs of parts of speech are connected with `advcl:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (32; 70% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `advcl:sp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (33; 65% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (9; 18% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 6% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

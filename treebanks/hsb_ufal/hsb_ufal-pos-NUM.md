@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>sta</em> (<tt><a href="hsb_ufal-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.053476 (the average of all parts of speech is 1.418754).
+The form / lemma ratio of `NUM` is 1.053476 (the average of all parts of speech is 1.418889).
 
 The 1st highest number of forms (6) was observed with the lemma “jedyn”: <em>jedna, jedneho, jednu, jedny, jednym, jedyn</em>.
 

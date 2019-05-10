@@ -11,9 +11,9 @@ This relation is universal.
 18723 nodes (12%) are attached to their parents as `root`.
 
 18723 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.51498157346579.
+Average distance between parent and child is 3.50040057683064.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14086; 75% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2490; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1574; 8% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (165; 1% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (161; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (34; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14236; 76% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2401; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1525; 8% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (158; 1% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (156; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (33; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), -<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	ei	ei	VERB	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
-2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	voi	voida	AUX	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
 4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
 5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_

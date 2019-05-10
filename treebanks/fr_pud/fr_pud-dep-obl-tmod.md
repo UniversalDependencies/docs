@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="fr_pud-dep-obl.html
 58 instances of `obl:tmod` (73%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.2125.
 
-The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (50; 63% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (12; 15% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (51; 64% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (12; 15% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 2	passionné	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	1	ccomp	_	SpaceAfter=No
 3	,	_	PUNCT	,	_	4	punct	_	_
 4	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	appos	_	_
-5	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+5	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 6	participé	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 7	à	_	ADP	IN	_	9	case	_	_
 8	un	_	DET	DT	Gender=Masc|Number=Sing	9	det	_	_
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 5	(	_	PUNCT	(	_	6	punct	_	SpaceAfter=No
 6	1981	_	NUM	CD	_	2	obl:tmod	_	SpaceAfter=No
 7	)	_	PUNCT	)	_	6	punct	_	_
-8	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+8	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
 9	été	_	AUX	VBN	Gender=Masc|Number=Sing	11	cop	_	_
 10	l’	_	DET	DT	Gender=Fem|Number=Sing	11	det	_	OrigForm=l'|SpaceAfter=No
 11	une	_	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
@@ -72,7 +72,7 @@ The following 9 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6 7 obl:tmod	color:blue
 1	Les	_	DET	DT	Gender=Masc|Number=Plur	2	det	_	_
 2	officiers	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	ont	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	_
+3	ont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	_
 4	réussi	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	,	_	6	punct	_	_
 6	dimanche	_	NOUN	NNP	Gender=Masc|Number=Sing	4	obl:tmod	_	_

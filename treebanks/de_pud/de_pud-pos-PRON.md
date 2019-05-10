@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_German-PUD: POS Tags: `PRON`
 
 There are 28 `PRON` lemmas (0%), 56 `PRON` types (1%) and 1185 `PRON` tokens (6%).
-Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 10 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 10 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>der, er, es, er|es|sie, sie, sein, ihr, ich, wir, was</em>
 
 The 10 most frequent `PRON` types:  <em>es, sich, die, er, sie, der, ich, seine, wir, ihre</em>
 
-The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2118, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 320, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 51)
+The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2118, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>sein</em> (<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 323, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 107, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 49), <em>her</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 474, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131), <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 541, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 65), <em>das</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 143, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 17), <em>sein</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> 9, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 3), <em>denen</em> (<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 1), <em>dem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 399, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7), <em>deren</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessen</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 4, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 2), <em>den</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 201, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1)
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>die</em> (<tt><a href="de_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.193156).
+The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.195606).
 
 The 1st highest number of forms (8) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, dessen, die</em>.
 
@@ -68,21 +68,21 @@ Examples: <em>er, der</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 14 different relations: <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (517; 44% instances), <tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt> (230; 19% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (196; 17% instances), <tt><a href="de_pud-dep-expl.html">expl</a></tt> (90; 8% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (55; 5% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (50; 4% instances), <tt><a href="de_pud-dep-iobj.html">iobj</a></tt> (33; 3% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-expl-pv.html">expl:pv</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (517; 44% instances), <tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt> (229; 19% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (195; 16% instances), <tt><a href="de_pud-dep-expl.html">expl</a></tt> (90; 8% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (55; 5% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (50; 4% instances), <tt><a href="de_pud-dep-iobj.html">iobj</a></tt> (33; 3% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-expl-pv.html">expl:pv</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (810; 68% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (271; 23% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (96; 8% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (833; 70% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (260; 22% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (84; 7% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-1099 (93%) `PRON` nodes are leaves.
+1098 (93%) `PRON` nodes are leaves.
 
 75 (6%) `PRON` nodes have one child.
 
 6 (1%) `PRON` nodes have two children.
 
-5 (0%) `PRON` nodes have three or more children.
+6 (1%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 6.
+The highest child degree of a `PRON` node is 8.
 
-Children of `PRON` nodes are attached using 14 different relations: <tt><a href="de_pud-dep-case.html">case</a></tt> (60; 56% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (13; 12% instances), <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (9; 8% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (8; 7% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="de_pud-dep-acl.html">acl</a></tt> (3; 3% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="de_pud-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-orphan.html">orphan</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `PRON` nodes are attached using 15 different relations: <tt><a href="de_pud-dep-case.html">case</a></tt> (60; 52% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (13; 11% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (10; 9% instances), <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (9; 8% instances), <tt><a href="de_pud-dep-flat.html">flat</a></tt> (6; 5% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (4; 3% instances), <tt><a href="de_pud-dep-acl.html">acl</a></tt> (3; 3% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="de_pud-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-orphan.html">orphan</a></tt> (1; 1% instances), <tt><a href="de_pud-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `PRON` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (60; 56% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (18; 17% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (8; 7% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `PRON` nodes belong to 11 different parts of speech: <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (60; 52% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (19; 16% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (11; 9% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 9% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

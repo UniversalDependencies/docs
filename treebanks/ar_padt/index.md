@@ -63,6 +63,23 @@ The morphological and syntactic annotation of the Arabic UD treebank is created 
 conversion of PADT data. The conversion procedure has been designed by Dan Zeman.
 The main coordinator of the original PADT project was Otakar Smrž.
 
+### Source of annotations
+
+This table summarizes the origins and checking of the various columns of the CoNLL-U data.
+
+| Column | Status |
+| ------ | ------ |
+| ID | Sentence-level units in PADT often correspond to entire paragraphs and they were obtained automatically. Low-level tokenization (whitespace and punctuation) was done automatically and then hand-corrected. Splitting of fused tokens into syntactic words in Arabic is part of morphological analysis. [ElixirFM](http://elixir-fm.sf.net/) was used to provide context-independent options, then these results were disambiguated manually. |
+| FORM | The unvocalized surface form is used. Fully vocalized counterpart can be found in the MISC column as Vform attribute. |
+| LEMMA | Plausible analyses provided by ElixirFM, manual disambiguation. Lemmas are vocalized. Part of the selection of lemmas was also word sense disambiguation of the lexemes, providing English equivalents (see the Gloss attribute of the MISC column). |
+| UPOSTAG | Converted automatically from XPOSTAG (via [Interset](http://ufal.mff.cuni.cz/interset)); human checking of patterns revealed by automatic consistency tests. |
+| XPOSTAG | Manual selection from possibilities provided by ElixirFM. |
+| FEATS | Converted automatically from XPOSTAG (via Interset); human checking of patterns revealed by automatic consistency tests. |
+| HEAD | Original PADT annotation is manual. Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPREL | Original PDT annotation is manual. Automatic conversion to UD; human checking of patterns revealed by automatic consistency tests. |
+| DEPS | &mdash; (currently unused) |
+| MISC | Information about token spacing taken from PADT annotation. Additional word attributes provided by morphological analysis (i.e. ElixirFM rules + manual disambiguation): Vform (fully vocalized Arabic form), Translit (Latin transliteration of word form), LTranslit (Latin transliteration of lemma), Root (word root), Gloss (English translation of lemma). |
+
 
 ## Acknowledgments
 
@@ -96,11 +113,11 @@ Marrakech, Morocco.
 
 ## Features
 
-[Abbr](ar_padt-feat-Abbr.html) – [AdpType](ar_padt-feat-AdpType.html) – [Aspect](ar_padt-feat-Aspect.html) – [Case](ar_padt-feat-Case.html) – [Definite](ar_padt-feat-Definite.html) – [Foreign](ar_padt-feat-Foreign.html) – [Gender](ar_padt-feat-Gender.html) – [Mood](ar_padt-feat-Mood.html) – [Number](ar_padt-feat-Number.html) – [NumForm](ar_padt-feat-NumForm.html) – [NumValue](ar_padt-feat-NumValue.html) – [Person](ar_padt-feat-Person.html) – [Polarity](ar_padt-feat-Polarity.html) – [PronType](ar_padt-feat-PronType.html) – [VerbForm](ar_padt-feat-VerbForm.html) – [Voice](ar_padt-feat-Voice.html)
+[Abbr](ar_padt-feat-Abbr.html) – [AdpType](ar_padt-feat-AdpType.html) – [Aspect](ar_padt-feat-Aspect.html) – [Case](ar_padt-feat-Case.html) – [ConjType](ar_padt-feat-ConjType.html) – [Definite](ar_padt-feat-Definite.html) – [Foreign](ar_padt-feat-Foreign.html) – [Gender](ar_padt-feat-Gender.html) – [Mood](ar_padt-feat-Mood.html) – [Number](ar_padt-feat-Number.html) – [NumForm](ar_padt-feat-NumForm.html) – [NumValue](ar_padt-feat-NumValue.html) – [Person](ar_padt-feat-Person.html) – [Polarity](ar_padt-feat-Polarity.html) – [PronType](ar_padt-feat-PronType.html) – [VerbForm](ar_padt-feat-VerbForm.html) – [Voice](ar_padt-feat-Voice.html)
 
 ## Relations
 
-[acl](ar_padt-dep-acl.html) – [advcl](ar_padt-dep-advcl.html) – [advmod](ar_padt-dep-advmod.html) – [advmod:emph](ar_padt-dep-advmod-emph.html) – [amod](ar_padt-dep-amod.html) – [appos](ar_padt-dep-appos.html) – [aux](ar_padt-dep-aux.html) – [aux:pass](ar_padt-dep-aux-pass.html) – [case](ar_padt-dep-case.html) – [cc](ar_padt-dep-cc.html) – [ccomp](ar_padt-dep-ccomp.html) – [conj](ar_padt-dep-conj.html) – [cop](ar_padt-dep-cop.html) – [csubj](ar_padt-dep-csubj.html) – [csubj:pass](ar_padt-dep-csubj-pass.html) – [dep](ar_padt-dep-dep.html) – [det](ar_padt-dep-det.html) – [fixed](ar_padt-dep-fixed.html) – [flat:foreign](ar_padt-dep-flat-foreign.html) – [iobj](ar_padt-dep-iobj.html) – [mark](ar_padt-dep-mark.html) – [nmod](ar_padt-dep-nmod.html) – [nsubj](ar_padt-dep-nsubj.html) – [nsubj:pass](ar_padt-dep-nsubj-pass.html) – [nummod](ar_padt-dep-nummod.html) – [obj](ar_padt-dep-obj.html) – [obl](ar_padt-dep-obl.html) – [obl:arg](ar_padt-dep-obl-arg.html) – [orphan](ar_padt-dep-orphan.html) – [parataxis](ar_padt-dep-parataxis.html) – [punct](ar_padt-dep-punct.html) – [root](ar_padt-dep-root.html) – [xcomp](ar_padt-dep-xcomp.html)
+[acl](ar_padt-dep-acl.html) – [advcl](ar_padt-dep-advcl.html) – [advmod](ar_padt-dep-advmod.html) – [advmod:emph](ar_padt-dep-advmod-emph.html) – [amod](ar_padt-dep-amod.html) – [appos](ar_padt-dep-appos.html) – [aux](ar_padt-dep-aux.html) – [aux:pass](ar_padt-dep-aux-pass.html) – [case](ar_padt-dep-case.html) – [cc](ar_padt-dep-cc.html) – [ccomp](ar_padt-dep-ccomp.html) – [conj](ar_padt-dep-conj.html) – [cop](ar_padt-dep-cop.html) – [csubj](ar_padt-dep-csubj.html) – [csubj:pass](ar_padt-dep-csubj-pass.html) – [dep](ar_padt-dep-dep.html) – [det](ar_padt-dep-det.html) – [discourse](ar_padt-dep-discourse.html) – [dislocated](ar_padt-dep-dislocated.html) – [fixed](ar_padt-dep-fixed.html) – [flat:foreign](ar_padt-dep-flat-foreign.html) – [iobj](ar_padt-dep-iobj.html) – [mark](ar_padt-dep-mark.html) – [nmod](ar_padt-dep-nmod.html) – [nsubj](ar_padt-dep-nsubj.html) – [nsubj:pass](ar_padt-dep-nsubj-pass.html) – [nummod](ar_padt-dep-nummod.html) – [obj](ar_padt-dep-obj.html) – [obl](ar_padt-dep-obl.html) – [obl:arg](ar_padt-dep-obl-arg.html) – [orphan](ar_padt-dep-orphan.html) – [parataxis](ar_padt-dep-parataxis.html) – [punct](ar_padt-dep-punct.html) – [root](ar_padt-dep-root.html) – [xcomp](ar_padt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -136,7 +153,7 @@ Marrakech, Morocco.
 </ul>
 
 <ul>
-<li>This corpus contains 30 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, سوف, عل, علّ, قد, كلا, ل, لا, لقد, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
+<li>This corpus contains 27 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, عل, قد, كلا, ل, لا, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
 </ul>
 
 <ul>
@@ -144,7 +161,7 @@ Marrakech, Morocco.
 </ul>
 
 <ul>
-<li>This corpus contains 24 lemmas tagged as determiners (DET): أَينَ, اَلَّذِي, ذَا, ذَاكَ, ذُو, ذٰلِكَ, كَم, كَيفَ, كِلَا, لِمَاذَا, ما, ماهُوَ, مَا, مَاذَا, مَتَى, مَن, نا, ها, هُ, هُوَ, هِ, هٰذَا, هٰكَذَا, ِي</li>
+<li>This corpus contains 24 lemmas tagged as determiners (DET): أَينَ, اَلَّذِي, ذَا, ذَاكَ, ذُو, ذٰلِكَ, كَم, كَيفَ, كِلَا, لِمَاذَا, ما, ماهُوَ, مَا, مَاذَا, مَتَى, مَن, نا, ها, هُ, هُوَ, هِ, هٰذَا, هٰكَذَا, ِي</li>
 </ul>
 
 <ul>
@@ -152,11 +169,11 @@ Marrakech, Morocco.
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as auxiliaries (AUX): أَصبَح, أَصَاب, أَضَاف, أَعلَن, أَفَاد, أَكَّد, أَلَا, أَوضَح, اِعتَبَر, اِعتَذَر, اِعتَقَد, بَات, بَدَأ, بَعُد, بَقِي, تَبَيَّن, ثَنَى, جَاء, جَرَى, جَعَل, حَثّ, حَصَل, خَضَع, دَعَا, ذَكَر, رَأَى, زَار, زَال, صَار, صَرَّح, ظَلّ, ظَنّ, عَاد, عَدّ, عَرَف, عَمِل, عَوَّد, قَال, قَام, قَتَل, قَرَّر, كَان, كَتَب, كَشَف, كَوَّن, لَفَت, لَيس, لَيِس, نَظَر, وَاصَل, وَصَف</li>
+<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): أَ, أَلَا, إِلَّا, رُبَّمَا, سَ, سَوفَ, عَاد, عَلَّ, قَد, كَان, لَيس, مَا, هَل</li>
 </ul>
 
 <ul>
-<li>Out of the above, 49 lemmas occurred sometimes as AUX and sometimes as VERB: أَصبَح, أَصَاب, أَضَاف, أَعلَن, أَفَاد, أَكَّد, أَوضَح, اِعتَبَر, اِعتَذَر, اِعتَقَد, بَات, بَدَأ, بَعُد, بَقِي, تَبَيَّن, جَاء, جَرَى, جَعَل, حَثّ, حَصَل, خَضَع, دَعَا, ذَكَر, رَأَى, زَار, زَال, صَار, صَرَّح, ظَلّ, ظَنّ, عَاد, عَدّ, عَرَف, عَمِل, عَوَّد, قَال, قَام, قَتَل, قَرَّر, كَان, كَتَب, كَشَف, كَوَّن, لَفَت, لَيس, لَيِس, نَظَر, وَاصَل, وَصَف</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: عَاد, كَان, لَيس</li>
 </ul>
 
 <ul>
@@ -166,8 +183,8 @@ Marrakech, Morocco.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-    <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+    <li>AUX: يكون, تكون, يكن, تكن, تكونون, كن, أكون, اكون, تعد, نكون</li>
+    <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
   </ul>
   </li>
 </ul>
@@ -183,15 +200,15 @@ Marrakech, Morocco.
   <li>Fem
     <ul>
       <li>ADJ: المصرية, المتحدة, العربية, جديدة, الدولية, الفلسطينية, خاصة, أخرى, الأمريكية, العامة</li>
-      <li>AUX: تكون, كانت, ليست, تعد, تعتبر, تكن, زالت, تزال, تظل, ظلت</li>
-      <li>AUX-Fin: تكون, تعد, تعتبر, تكن, تزال, تظل, تصبح, تتبين, تثن, تعود</li>
+      <li>AUX: تكون, كانت, ليست, تكن, تعد</li>
+      <li>AUX-Fin: تكون, تكن, تعد</li>
       <li>DET: التي, هذه, التى, تلك, هٰذه, اللتين, اللواتي, ها, اللتان, اللاتى</li>
       <li>NOUN: الحاصلات, البويات, بدايات, عداءة, الآفات, التليفونات, الخضروات, الكابلات, المداهمات, بضعة</li>
       <li>NUM: ثلاث, عشر, الثلاث, خمس, ست, عشرة, اربع, الخمس, الثماني, العشر</li>
       <li>PRON: ها, هي, هما, هن, هى, ك, أعضائها, أهدافها, إليها, بضمانها</li>
       <li>PROPN: العمارة, اللطيفية, الوكرة</li>
       <li>VERB: كانت, قالت, ذكرت, بلغت, تصل, تكون, بدأت, تقوم, أكدت, نقلت</li>
-      <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تشهد, تضم, تعمل, تتم, تقدم, تمثل</li>
+      <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تعتبر, تشهد, تضم, تعمل, تتم, تعد</li>
     </ul>
   </li>
 </ul>
@@ -200,14 +217,14 @@ Marrakech, Morocco.
   <li>Masc
     <ul>
       <li>ADJ: المصري, الماضي, أي, الحالي, العام, المقبل, المركزي, أكثر, الدولي, الاول</li>
-      <li>AUX: كان, يكون, ليس, قال, يكن, يعتبر, يعد, كانوا, زال, اصبح</li>
-      <li>AUX-Fin: يكون, يكن, يعتبر, يعد, يزال, تكونون, كن, يرى, يصبح, يعرف</li>
+      <li>AUX: كان, يكون, ليس, يكن, كانوا, كنت, تكونون, كن, لسنا, أكون</li>
+      <li>AUX-Fin: يكون, يكن, تكونون, كن, أكون, اكون, تكون, نكون, يكونا</li>
       <li>DET: الذي, هذا, ذلك, الذين, ذٰلك, هٰذا, الذى, هؤلاء, اللذين, ه</li>
       <li>NOUN: المعتمرين</li>
       <li>NUM: ثلاثة, خمسة, ستة, عشرة, الثلاثة, اربعة, اثنين, أربعة, سبعة, واحد</li>
       <li>PRON: ه, هم, هو, نا, هما, ك, ي, ني, نحن, كم</li>
       <li>VERB: قال, كان, أضاف, تم, أكد, يتم, يمكن, أشار, أوضح, أعلن</li>
-      <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يذكر, يقول, يعني, يرى, يقوم</li>
+      <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يقول, يذكر, يعني, يرى, يقوم</li>
     </ul>
   </li>
 </ul>
@@ -221,13 +238,12 @@ Marrakech, Morocco.
   <li>Dual
     <ul>
       <li>ADJ: الماضيين, الكوريتين, القادمين, المقبلين, جافتين, قديمتين, الفنلنديين, قادمين, آخران, آخرين</li>
-      <li>AUX: تعودا, قتلا, يكونا</li>
-      <li>AUX-Fin: تعودا, يكونا</li>
+      <li>AUX-Fin: يكونا</li>
       <li>DET: اللذين, اللتين, هذين, كلا, اللتان, اللذان, هاتين, ذاتا, هاتان, هٰذان</li>
       <li>NOUN: البلدين, الجانبين, الطرفين, اسبوعين, الدولتين, يومين, وزيري, سنتين, الجانبان, عامين</li>
       <li>NUM: مليوني, مئتي, ملياري, الفي, بليوني, ألفي, الفى, مليارى, ألفين, الفين</li>
       <li>PRON: هما, كما</li>
-      <li>VERB: اتفقا, قتلا, أكدا, بحثا, كانا, عقدا, قدما, كانتا, يشيران, يلتقيان</li>
+      <li>VERB: قتلا, اتفقا, أكدا, بحثا, كانا, عقدا, قدما, كانتا, يشيران, يلتقيان</li>
       <li>VERB-Fin: يشيران, يلتقيان, تدرسان, تستعدان, يبحثان, يتجهان, يتوقفان, يدعوان, يعتبران, يعرفان</li>
     </ul>
   </li>
@@ -237,7 +253,7 @@ Marrakech, Morocco.
   <li>Plur
     <ul>
       <li>ADJ: المصريين, اليهود, كبار, العرب, الفلسطينيين, المسلمين, العراقيين, آخرين, الأجانب, المصابين</li>
-      <li>AUX: كانوا, زالوا, تكونون, لسنا, أصيبوا, اعتبروا, اعتقدوا, باتوا, قتلوا, ليسوا</li>
+      <li>AUX: كانوا, تكونون, لسنا, ليسوا, نكون</li>
       <li>AUX-Fin: تكونون, نكون</li>
       <li>DET: الذين, هؤلاء, اللواتي, هٰؤلاء, اولئك, أولٰئك, اللاتى, أولئك, اللاتي, نا</li>
       <li>NOUN: الولايات, الدول, الشركات, الوزراء, دول, شركات, أسعار, العلاقات, البنوك, مصادر</li>
@@ -253,15 +269,15 @@ Marrakech, Morocco.
   <li>Sing
     <ul>
       <li>ADJ: المصرية, المتحدة, المصري, الماضي, العربية, أي, الحالي, جديدة, الدولية, الفلسطينية</li>
-      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
-      <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كنت, كن</li>
+      <li>AUX-Fin: يكون, تكون, يكن, تكن, كن, أكون, اكون, تعد</li>
       <li>DET: التي, الذي, هذه, هذا, ذلك, ذٰلك, التى, هٰذا, تلك, هٰذه</li>
       <li>NOUN: مصر, اليوم, رئيس, دولار, الحكومة, العراق, وزير, كل, الرئيس, غير</li>
       <li>NUM: مليون, مليار, ألف, المئة, بليون, الف, المائة, مليوناً, ملياراً, مليونا</li>
       <li>PRON: ه, ها, هو, هي, ك, ي, ني, هى, أنا, أنت</li>
       <li>PROPN: العمارة, اللطيفية, الوكرة</li>
       <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
-      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
     </ul>
   </li>
 </ul>
@@ -385,8 +401,8 @@ Marrakech, Morocco.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+      <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
+      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +410,7 @@ Marrakech, Morocco.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: كان, ليس, كانت, ليست, قال, زالت, كانوا, زال, اصبح, زالوا</li>
+      <li>AUX: كان, ليس, كانت, ليست, كانوا, كنت, لسنا, ألا, ليسوا</li>
       <li>VERB: قال, كان, أضاف, كانت, تم, أكد, أشار, أوضح, أعلن, قالت</li>
     </ul>
   </li>
@@ -416,8 +432,8 @@ Marrakech, Morocco.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: يكون, تكون, تعد, يعتبر, يعد, تعتبر, تزال, تظل, يزال, تكونون</li>
-      <li>VERB-Fin: يتم, يمكن, يجب, يذكر, يعني, يقول, تبلغ, تضم, تقوم, يرى</li>
+      <li>AUX-Fin: يكون, تكون, تكونون, أكون</li>
+      <li>VERB-Fin: يتم, يمكن, يجب, يقول, يذكر, يعني, تعتبر, يرى, تبلغ, تضم</li>
     </ul>
   </li>
 </ul>
@@ -425,8 +441,8 @@ Marrakech, Morocco.
 <ul>
   <li>Jus
     <ul>
-      <li>AUX-Fin: يكن, تكن, تعد, تثن, تعودا, يصف</li>
-      <li>VERB-Fin: يكن, يتم, تكن, يمكن, يصدر, يحدد, يعد, تتجاوز, يستبعد, يعلن</li>
+      <li>AUX-Fin: يكن, تكن, تعد</li>
+      <li>VERB-Fin: يكن, يتم, تكن, يمكن, يصدر, يحدد, يعد, تتجاوز, تعد, يستبعد</li>
     </ul>
   </li>
 </ul>
@@ -434,7 +450,7 @@ Marrakech, Morocco.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: يكون, تكون, اكون, تزال, تصبح, نكون, يبقى, يظل, يكونا</li>
+      <li>AUX-Fin: يكون, تكون, اكون, نكون, يكونا</li>
       <li>VERB-Fin: يكون, تكون, تصل, يصل, يتم, تصبح, تقوم, يمكن, تدخل, تستطيع</li>
     </ul>
   </li>
@@ -448,8 +464,8 @@ Marrakech, Morocco.
 <ul>
   <li>Act
     <ul>
-      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, قال, يكن, تكن, زالت</li>
-      <li>AUX-Fin: يكون, تكون, يكن, تكن, تزال, تعد, تظل, يزال, تصبح, تكونون</li>
+      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, كنت</li>
+      <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
       <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
       <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, تقوم, يعني</li>
     </ul>
@@ -459,10 +475,8 @@ Marrakech, Morocco.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: تعد, يعتبر, تعتبر, يعد, أصيبوا, اعتبروا, قتلا, قتلوا, كتب, يُعد</li>
-      <li>AUX-Fin: تعد, يعتبر, تعتبر, يعد, يُعد</li>
-      <li>VERB: يذكر, يوجد, قتل, يتوقع, أصيب, توجد, عقد, تعتبر, قتلوا, يشار</li>
-      <li>VERB-Fin: يذكر, يوجد, يتوقع, توجد, تعتبر, يشار, تقام, تعد, يعد, تعقد</li>
+      <li>VERB: يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر</li>
+      <li>VERB-Fin: يذكر, يوجد, يتوقع, تعد, تعتبر, يعد, توجد, يعتبر, يشار, تقام</li>
     </ul>
   </li>
 </ul>
@@ -509,8 +523,8 @@ Marrakech, Morocco.
 <ul>
   <li>1
     <ul>
-      <li>AUX: كنت, لسنا, أظن, أكون, اعتقد, اكون, نكون</li>
-      <li>AUX-Fin: أظن, أكون, اعتقد, اكون, نكون</li>
+      <li>AUX: كنت, لسنا, أكون, اكون, نكون</li>
+      <li>AUX-Fin: أكون, اكون, نكون</li>
       <li>DET: نا, ي</li>
       <li>PRON: نا, ي, ني, نحن, أنا, انا, لمساعدتنا</li>
       <li>VERB: نرى, نريد, نجد, نستورد, نعرف, نقول, أعتقد, أعلن, أقول, أكون</li>
@@ -533,12 +547,12 @@ Marrakech, Morocco.
 <ul>
   <li>3
     <ul>
-      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
-      <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+      <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, ألا</li>
+      <li>AUX-Fin: يكون, تكون, يكن, تكن, تعد, يكونا</li>
       <li>DET: ه, ها</li>
       <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
       <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
-      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+      <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
     </ul>
   </li>
 </ul>
@@ -567,6 +581,18 @@ Marrakech, Morocco.
       <li>Prep
         <ul>
           <li>ADP: في, ل, ب, من, على, الى, إلى, عن, فى, مع</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ConjType</a>
+    <ul>
+      <li>Oper
+        <ul>
+          <li>SYM: <</li>
         </ul>
       </li>
     </ul>
@@ -629,12 +655,12 @@ Marrakech, Morocco.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 206 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، عَدّ، اِعتَبَر، زَال، قَال، هُوَ، لَا، أَنَّ، ظَلّ، مِن، أَصبَح، كَون، مَا، دَولَة، فِي، أَعلَن، إِجرَاء، اِثنَان، بَات، ذَكَر، رَئِيس، صَار، عَاد، مَشرُوع، مُؤَكِّد، 13، أَضَاف، أَكَّد، أَوضَح، اِتِّفَاق، اِتِّفَاقِيَّة، اِعتَقَد، اِنتِقَاد، ثَلَاثَة، جَرِيمَة، رَأَى، صَرَّح، طَرَف، عَامِل، عَرَف، غَير، قَائِل، قَتَل، قَول، كنت، كَشَف، لسنا، مَن، مُعتَبِر.</li>
+<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، هُوَ، ".</li>
 </ul>
 
 <ul>
-<li>This corpus uses 39 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، إِلَّا، لَيس، هَل، لقد، نَحو، رُبَّمَا، تَقرِيب، أَ، الا، لَ، لَو، أَيّ، كَيفَ، 12، أيها، أَسوَأ، أَكثَر، أَلَا، أَمَل، أَنَّ، بلاش، بَل، بِلَاش، حوإلى، دَائِم، سِوَى، شَكّ، عَاد، عَلَّ، غَير، لَعل، لِ، مايكون، مَسؤُولِيَّة، مَن.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ، إِلَّا.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، هَل، إِلَّا، رُبَّمَا، أَ، أَلَا، عَاد، عَلَّ.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -643,41 +669,38 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (828)</li>
-      <li>VERB--NOUN-Acc-ADP(إِضَافَة) (1)</li>
+      <li>VERB--NOUN-Acc (851)</li>
       <li>VERB--NOUN-Acc-ADP(إِلَى) (3)</li>
       <li>VERB--NOUN-Acc-ADP(إِلَى)-ADP(عَلَى) (1)</li>
       <li>VERB--NOUN-Acc-ADP(بِ) (2)</li>
       <li>VERB--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
       <li>VERB--NOUN-Acc-ADP(تَحتَ) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(ضِدَّ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(ضِدَّ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(ضِمنَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(عَلَى) (2)</li>
+      <li>VERB--NOUN-Acc-ADP(عَن) (1)</li>
       <li>VERB--NOUN-Acc-ADP(فِي) (4)</li>
       <li>VERB--NOUN-Acc-ADP(قَيدَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(لِ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(مِن) (1)</li>
       <li>VERB--NOUN-Acc-ADP(مِن)-ADP(فِي) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(هُوَ) (4)</li>
       <li>VERB--NOUN-Acc-ADP(وَ) (1)</li>
-      <li>VERB--NOUN-Gen (12)</li>
+      <li>VERB--NOUN-Gen (15)</li>
       <li>VERB--NOUN-Gen-ADP(إِلَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(بَينَ) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(بِ) (4)</li>
-      <li>VERB--NOUN-Gen-ADP(دُونَ) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(بِ) (5)</li>
       <li>VERB--NOUN-Gen-ADP(سِوَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(عَلَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(عَن) (3)</li>
       <li>VERB--NOUN-Gen-ADP(فِي) (2)</li>
       <li>VERB--NOUN-Gen-ADP(كَ) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(كُلّ) (1)</li>
       <li>VERB--NOUN-Gen-ADP(مِن) (1)</li>
-      <li>VERB--NOUN-Nom (4301)</li>
-      <li>VERB--NOUN-Nom-ADP(إِضَافَة) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(عِلَاوَة)-ADP(وَ) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(كَان) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(وَصَل) (1)</li>
-      <li>VERB--PRON-Acc (193)</li>
+      <li>VERB--NOUN-Gen-ADP(مِن)-ADP(دُونَ) (1)</li>
+      <li>VERB--NOUN-Nom (4342)</li>
+      <li>VERB--NOUN-Nom-ADP(بِ) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(مِن) (3)</li>
+      <li>VERB--NOUN-Nom-ADP(وَ) (1)</li>
+      <li>VERB--PRON-Acc (195)</li>
       <li>VERB--PRON-Acc-ADP(إِلَى) (1)</li>
       <li>VERB--PRON-Acc-ADP(بِ) (2)</li>
       <li>VERB--PRON-Acc-ADP(بِ)-ADP(أَمَامَ) (1)</li>
@@ -689,40 +712,34 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Gen-ADP(حَوَالَى)-ADP(مِن) (1)</li>
       <li>VERB--PRON-Gen-ADP(مِن) (3)</li>
       <li>VERB--PRON-Gen-ADP(وَ) (1)</li>
-      <li>VERB--PRON-Nom (19)</li>
+      <li>VERB--PRON-Nom (24)</li>
       <li>VERB--PRON-Nom-ADP(عَلَى) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1160)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(إِضَافَة) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(بِ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(إِضَافَة) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1178)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(بِ) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(عَلَى)-ADP(بِ) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(فِي) (4)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(مَعَ)-ADP(مِن) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(هُوَ) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (11)</li>
+      <li>VERB-Fin--NOUN-Gen (12)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(إِلَى) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(سِوَى) (8)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(غَير) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(كَ) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(مِثلَ) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(مِن) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(مِن) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(وِفقَ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2837)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(إِضَافَة) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(بِ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(إِضَافَة) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(مَا)-ADP(ذٰلِكَ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(فَضل) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (2857)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(بِ) (4)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(حَولَ) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(فِي) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(لِ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(مِن) (1)</li>
-      <li>VERB-Fin--PRON-Acc (319)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(كَ) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(لِ) (2)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(مِن) (2)</li>
+      <li>VERB-Fin--PRON-Acc (323)</li>
       <li>VERB-Fin--PRON-Acc-ADP(مِن) (1)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Gen-ADP(وَ)-ADP(فِي) (1)</li>
-      <li>VERB-Fin--PRON-Nom (81)</li>
-      <li>VERB-Fin--PRON-Nom-ADP(إِمَّا) (1)</li>
+      <li>VERB-Fin--PRON-Nom (83)</li>
+      <li>VERB-Fin--PRON-Nom-ADP(إِمَّا) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(فِي) (1)</li>
     </ul>
   </li>
@@ -731,13 +748,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (2049)</li>
+      <li>VERB--NOUN-Acc (2044)</li>
+      <li>VERB--NOUN-Acc-ADP(إِزَاءَ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(بِ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
       <li>VERB--NOUN-Gen (7)</li>
       <li>VERB--NOUN-Nom (121)</li>
       <li>VERB--PRON-Acc (660)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2714)</li>
-      <li>VERB-Fin--NOUN-Gen (9)</li>
+      <li>VERB-Fin--NOUN-Acc (2706)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(بِ) (3)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
+      <li>VERB-Fin--NOUN-Gen (10)</li>
       <li>VERB-Fin--NOUN-Nom (85)</li>
       <li>VERB-Fin--PRON-Acc (662)</li>
     </ul>
@@ -747,7 +774,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Acc (124)</li>
+      <li>VERB--NOUN-Acc (123)</li>
+      <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
       <li>VERB--NOUN-Gen (2)</li>
       <li>VERB--NOUN-Nom (21)</li>
       <li>VERB--PRON-Acc (31)</li>
@@ -766,5 +794,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

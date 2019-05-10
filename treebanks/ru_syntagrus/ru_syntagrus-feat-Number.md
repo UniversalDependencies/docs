@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 579364 tokens (52%) have a non-empty value of `Number`.
 112695 types (98%) occur at least once with a non-empty value of `Number`.
-38875 lemmas (88%) occur at least once with a non-empty value of `Number`.
+38874 lemmas (88%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (271022; 24% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (106031; 10% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (96614; 9% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (37434; 3% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (36150; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (24735; 2% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7378; 1% instances).
 
 ### `NOUN`
@@ -211,7 +211,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-7378 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
+7378 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7378; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7378; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7346; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5296; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5296; 72%).
 
@@ -219,7 +219,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (1887; 26% of non-empty `Number`): <em>были, будут, будем, есть, будете, будьте, бывшие, суть</em>
 * `Sing` (5491; 74% of non-empty `Number`): <em>было, был, будет, была, есть, буду, будь, будешь, бывший, бывшем</em>
-* `EMPTY` (767): <em>быть, будучи</em>
+* `EMPTY` (2291): <em>бы, быть, будучи, б</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -241,12 +241,12 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80010; 99%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (46472; 61%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (31527; 94%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20741; 87%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15379; 80%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12004; 75%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (31552; 94%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20746; 87%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15388; 80%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11983; 75%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (10309; 79%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7569; 95%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7570; 95%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7330; 71%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (5569; 94%).
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (5572; 94%).
 

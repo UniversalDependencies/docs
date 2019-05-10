@@ -52,7 +52,7 @@ The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), 
 
 All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information). At the end of this process, several corrections were carried out in order to agree with the UD guidelines.
 
-Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 60-40 splits (train-test).
 
 ## Acknowledgments
 
@@ -126,11 +126,11 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): acabar, acertar, adoitar, considerar, deber, deixar, eis, estar, haber, ir, levar, parecer, pasar, permanecer, poder, quedar, querer, resultar, seguir, semellar, ser, ter, tratar, ver, vir</li>
+<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): acabar, deber, deixar, estar, haber, ir, levar, poder, quedar, querer, seguir, semellar, ser, ter, vir</li>
 </ul>
 
 <ul>
-<li>Out of the above, 22 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, considerar, deber, deixar, estar, haber, ir, levar, parecer, pasar, permanecer, poder, quedar, querer, resultar, seguir, semellar, ser, ter, tratar, ver, vir</li>
+<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, deber, deixar, estar, haber, ir, levar, poder, quedar, querer, seguir, semellar, ser, ter, vir</li>
 </ul>
 
 <ul>
@@ -141,7 +141,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Fin
   <ul>
     <li>AUX: é, foi, está, son, pode, están, era, sería, vai, será</li>
-    <li>VERB: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
+    <li>VERB: hai, ten, teñen, fai, fixo, quere, considera, di, vén, dá</li>
   </ul>
   </li>
 </ul>
@@ -158,7 +158,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: ser, poder, estar, ter, acabar, ir, parecer, quedar, seren, sermos</li>
+    <li>AUX: ser, poder, estar, ter, acabar, ir, quedar, seren, sermos</li>
     <li>VERB: facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</li>
   </ul>
   </li>
@@ -167,7 +167,6 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Part
   <ul>
-    <li>AUX: considerado</li>
     <li>VERB: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, atendidos, chamado</li>
   </ul>
   </li>
@@ -197,7 +196,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
       <li>ADJ: galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</li>
       <li>DET: a, as, unha, súa, esta, la, nosa, súas, esa, outra</li>
       <li>NOUN: cidade, música, parte, obra, vida, proposta, arte, empresa, obras, lingua</li>
-      <li>NUM: primeira, dúas, segunda, catro, tres, cinco, terceira, 12, 15.000, 17</li>
+      <li>NUM: primeira, dúas, segunda, catro, tres, unha, cinco, terceira, 12, 15.000</li>
       <li>PRON: que, a, lle, as, unha, elas, ela, esta, na, ningunha</li>
       <li>PROPN: Mercedes, Núñez, Unión, UE, Zona, Bases, Xunta, Constitución, Galiza, Academia</li>
       <li>VERB-Part: recibida, dirixida, destinadas, feita, feitas, prometidas, realizada, vencellada, Configurada, Nacida</li>
@@ -209,13 +208,12 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Masc
     <ul>
       <li>ADJ: novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</li>
-      <li>AUX-Part: considerado</li>
       <li>DET: o, os, un, lo, seu, este, seus, todo, todos, ese</li>
       <li>NOUN: anos, traballo, goberno, mundo, tempo, dereito, proxecto, país, medios, grupo</li>
       <li>NUM: dous, un, primeiro, catro, dez, 1990, 25, cinco, quince, tres</li>
       <li>PRON: que, o, lle, lo, os, todo, un, algo, algúns, lles</li>
       <li>PROPN: BNG, Estado, Manuel, Xosé, Miguel, Anxo, Carlos, Estatuto, González, Francisco</li>
-      <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, dirixido, empeñados</li>
+      <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, considerado, dirixido</li>
     </ul>
   </li>
 </ul>
@@ -257,14 +255,13 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
     <ul>
       <li>ADJ: galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</li>
       <li>AUX-Fin: é, foi, está, pode, era, sería, vai, será, ten, sexa</li>
-      <li>AUX-Part: considerado</li>
       <li>DET: o, a, un, unha, súa, lo, seu, esta, este, la</li>
       <li>NOUN: traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</li>
       <li>NUM: primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</li>
       <li>PRON: que, o, lle, a, me, iso, lo, todo, quen, un</li>
       <li>PROPN: BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</li>
-      <li>VERB-Fin: hai, ten, fai, fixo, quere, considera, di, dá, semella, afirma</li>
-      <li>VERB-Part: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, chamado, dirixido</li>
+      <li>VERB-Fin: hai, ten, fai, fixo, quere, considera, di, dá, vén, pasa</li>
+      <li>VERB-Part: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, chamado, considerado</li>
     </ul>
   </li>
 </ul>
@@ -368,8 +365,8 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Cnd,Ind
     <ul>
-      <li>AUX: sería, debería, podería, habería, poderían, tería, deberiamos, permanecería</li>
-      <li>AUX-Fin: sería, debería, podería, habería, poderían, tería, permanecería</li>
+      <li>AUX: sería, debería, podería, habería, poderían, tería, deberiamos</li>
+      <li>AUX-Fin: sería, debería, podería, habería, poderían, tería</li>
       <li>VERB-Fin: gustaría, tería, Diría, Quedaría, correspondería, empobrecería, escluiría, faltaría, gostaría, instalaría</li>
     </ul>
   </li>
@@ -387,7 +384,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Ind
     <ul>
       <li>AUX-Fin: é, foi, está, son, pode, están, era, vai, será, poden</li>
-      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, vén, dá</li>
     </ul>
   </li>
 </ul>
@@ -408,8 +405,8 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: será, serán, haberá, poderá, poderán, Permanecerá, acabarán, for, irá, pasarán</li>
-      <li>VERB-Fin: terá, contará, corresponderá, decidirá, ocupará, recollerá, terán, Atribuirá, Lograrán, Pasarán</li>
+      <li>AUX-Fin: será, serán, haberá, poderá, poderán, acabarán, for, irá</li>
+      <li>VERB-Fin: terá, contará, corresponderá, decidirá, ocupará, pasarán, recollerá, terán, Atribuirá, Lograrán</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +423,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: foi, foron, fose, estivese, estivo, puido, viñeron, estiveron, fosen, puidemos</li>
+      <li>AUX-Fin: foi, foron, fose, estivese, estivo, puido, Viñeron, estiveron, fosen, puidemos</li>
       <li>VERB-Fin: fixo, deu, dixo, houbo, publicou, tivo, chegaron, conseguiu, fixemos, comezou</li>
     </ul>
   </li>
@@ -445,7 +442,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Pres
     <ul>
       <li>AUX-Fin: é, está, son, pode, están, vai, poden, ten, sexa, hai</li>
-      <li>VERB-Fin: hai, ten, teñen, fai, quere, considera, di, dá, fan, semella</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, quere, considera, di, vén, dá, fan</li>
     </ul>
   </li>
 </ul>
@@ -481,7 +478,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
   <li>Ind
     <ul>
       <li>DET: todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</li>
-      <li>PRON: algo, todo, nada, un, algúns, unha, outros, outro, alguén, mesmo</li>
+      <li>PRON: algo, todo, un, nada, algúns, unha, outros, outro, alguén, mesmo</li>
     </ul>
   </li>
 </ul>
@@ -592,7 +589,7 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
       <li>AUX-Inf: seren</li>
       <li>DET: súa, seu, seus, súas, os, sua</li>
       <li>PRON: se, o, lle, a, lo, os, lles, as, elas, el</li>
-      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
+      <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, vén, dá</li>
       <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, decidiren, desviaren, formaren, forzaren, iren, mostraren</li>
     </ul>
   </li>
@@ -654,11 +651,11 @@ Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens)
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 9 lemmas as copulas (<a>cop</a>). Examples: ser, estar, resultar, parecer, considerar, permanecer, deixar, eis, ter.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ser, estar.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 18 lemmas as auxiliaries (<a>aux</a>). Examples: poder, ir, ter, estar, deber, haber, vir, seguir, acabar, adoitar, pasar, ver, acertar, levar, quedar, querer, semellar, tratar.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: poder, ir, ter, estar, deber, haber, vir, seguir, acabar, deixar, levar, querer, semellar.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, quedar.</li>
 </ul>
 
@@ -668,25 +665,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (336)</li>
+      <li>VERB-Fin--NOUN (339)</li>
       <li>VERB-Fin--NOUN-ADP(arredor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
-      <li>VERB-Fin--PRON (277)</li>
+      <li>VERB-Fin--PRON (285)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
       <li>VERB-Fin--PRON-ADP(en) (1)</li>
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Fin--PRON-Dat (4)</li>
       <li>VERB-Fin--PRON-Nom (20)</li>
       <li>VERB-Ger--NOUN (7)</li>
       <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Inf--NOUN (34)</li>
-      <li>VERB-Inf--PRON (32)</li>
+      <li>VERB-Inf--NOUN (33)</li>
+      <li>VERB-Inf--PRON (30)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (15)</li>
-      <li>VERB-Part--PRON (12)</li>
+      <li>VERB-Part--PRON (10)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -699,7 +696,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(a) (7)</li>
       <li>VERB-Fin--NOUN-ADP(arredor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON (112)</li>
+      <li>VERB-Fin--PRON (114)</li>
       <li>VERB-Fin--PRON-ADP(a) (2)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(pesar) (1)</li>
@@ -714,9 +711,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--PRON (34)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Acc (30)</li>
+      <li>VERB-Inf--PRON-Acc (31)</li>
       <li>VERB-Part--NOUN (7)</li>
       <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-ADP(a) (1)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
     </ul>
   </li>
@@ -729,7 +727,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(a) (5)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Dat (45)</li>
+      <li>VERB-Fin--PRON-Dat (46)</li>
       <li>VERB-Ger--NOUN-ADP(a) (1)</li>
       <li>VERB-Ger--PRON-Dat (4)</li>
       <li>VERB-Inf--NOUN-ADP(a) (8)</li>

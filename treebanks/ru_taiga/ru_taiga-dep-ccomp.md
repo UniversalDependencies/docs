@@ -8,75 +8,78 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (1%) are attached to their parents as `ccomp`.
+193 nodes (1%) are attached to their parents as `ccomp`.
 
-99 instances of `ccomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.56730769230769.
+185 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.26943005181347.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (71; 68% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (107; 55% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (21; 11% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (11; 6% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 ccomp	color:blue
-1	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
-2	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	что	что	SCONJ	_	_	5	mark	_	_
-5	любишь	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-6	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	5	obj	_	_
-7	по	по	ADP	_	_	8	case	_	_
-8	100	100	NUM	_	_	9	nummod:gov	_	_
-9	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	_
-10	в	в	ADP	_	_	11	case	_	_
-11	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 ccomp	color:blue
+1	Сколько	сколько	ADV	_	_	2	advmod	_	_
+2	езжу	ездить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	никогда	никогда	ADV	_	Degree=Pos	8	advmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	что	что	SCONJ	_	Case=Nom	11	mark	_	_
+11	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+12	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	SpaceAfter=No
+13	!!	!!	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 ccomp	color:blue
-1	–	–	PUNCT	_	_	2	punct	_	_
-2	изменяем	изменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	критерии	критерий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	устанавливающие	устанавливать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	что	что	SCONJ	_	_	9	mark	_	_
-8	лошадь	лошадь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-9	мертва	мертвый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	ccomp	_	SpaceAfter=No
-10	;	;	PUNCT	_	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 11 ccomp	color:blue
+1	Насчитал	насчитать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	11	punct	_	_
+3	что	что	SCONJ	_	_	11	mark	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	всего	всего	ADV	_	Degree=Pos	9	advmod	_	_
+8	три	три	NUM	_	Case=Nom	9	nummod:gov	_	_
+9	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	_
+10	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	солнечными	солнечный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 ccomp	color:blue
-1	Вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	4	iobj	_	_
-2	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
-3	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	cop	_	_
-4	стыдно	стыдный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	csubj	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	Евгений	Евгений	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	что	что	SCONJ	_	_	10	mark	_	_
-9	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	10	nsubj	_	_
-10	сомневаетесь	сомневаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
-11	в	в	ADP	_	_	12	case	_	_
-12	Анне	Анна	PROPN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
-13	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 ccomp	color:blue
+1	ты	ты	PRON	PRON	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	не	не	PART	PART	_	3	advmod	_	_
+3	робей	робеть	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ты	ты	PRON	PRON	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+5	знай	знать	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	что	что	SCONJ	CONJ	_	8	mark	_	_
+7	ты	ты	PRON	PRON	Case=Nom|Number=Sing|Person=2	8	nsubj	_	_
+8	покойник	покойник	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	ccomp	_	_
+9	и	и	CCONJ	CONJ	_	13	cc	_	_
+10	всё	все	PRON	NOUN	Case=Nom|Gender=Neut|Number=Sing	13	advmod	_	_
+11	равно	равный	ADJ	ADJ	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	fixed	_	_
+12	что	что	SCONJ	CONJ	_	10	fixed	_	_
+13	рукомойник	рукомойник	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 
 ~~~
 

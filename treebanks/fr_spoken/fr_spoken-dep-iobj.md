@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-358 nodes (1%) are attached to their parents as `iobj`.
+366 nodes (1%) are attached to their parents as `iobj`.
 
-347 instances of `iobj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18715083798883.
+355 instances of `iobj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19945355191257.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (356; 99% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (363; 99% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,11 +30,28 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	fac	fac	NOUN	_	_	10	dislocated	_	_
 7	ça	ça	PRON	_	_	10	nsubj	_	_
 8	m'	me	PRON	_	_	10	iobj	_	_
-9	a	avoir	VERB	_	_	10	aux	_	_
+9	a	avoir	AUX	_	_	10	aux	_	_
 10	fait	faire	VERB	_	_	0	root	_	_
 11	beaucoup	beaucoup	PRON	_	_	10	obj	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	bien	bien	NOUN	_	_	11	nmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 iobj	color:blue
+1	les	le	DET	_	_	2	det	_	_
+2	fêtes	fête	NOUN	_	_	7	nsubj	_	_
+3	y	y	PRON	_	_	7	iobj	_	_
+4	sont	être	AUX	_	_	7	cop	_	_
+5	plus	plus	ADV	_	_	7	advmod	_	_
+6	plus	plus	PART	conj:reform	_	5	conj:dicto	_	_
+7	nombreuses	nombreux	ADJ	_	_	0	root	_	_
 
 ~~~
 
@@ -52,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	d'	d'	ADP	_	_	6	case	_	_
 6	ailleurs	ailleurs	ADV	_	_	4	advmod	_	_
 7	si	si	SCONJ	_	_	41	mark	_	_
-8	euh	euh	INTJ	_	_	7	discourse	_	_
+8	euh	euh	INTJ	_	_	41	discourse	_	_
 9	l'	le	DET	_	_	10	det	_	_
 10	arrivée	arrivé	NOUN	_	_	41	nsubj	_	_
 11	du	de+le	ADP	_	_	12	case	_	_
@@ -71,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 24	d'	de	ADP	_	_	26	case	_	_
 25	autres	autre	ADJ	_	_	26	amod	_	_
 26	valeurs	valeur	NOUN	_	_	23	conj:dicto	_	_
-27	d'	de	ADP	_	_	29	det	_	_
+27	d'	de	ADP	_	_	29	case	_	_
 28	autres	autre	ADJ	_	_	29	amod	_	_
 29	YYY	YYY	PROPN	_	_	26	conj:dicto	_	_
 30	si	si	SCONJ	_	_	32	mark	_	_
@@ -93,53 +110,6 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 46	arrivée	arrivé	NOUN	_	_	41	obj	_	_
 47	de	de	ADP	_	_	48	case	_	_
 48	Lohengrin	Lohengrin	PROPN	_	_	46	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 iobj	color:blue
-1	mais	mais	CCONJ	_	_	13	cc	_	_
-2	les	le	DET	_	_	3	det	_	_
-3	postes	poste	NOUN	_	_	13	nsubj	_	_
-4	qu'	que	PRON	_	_	8	obj	_	_
-5	ils	il	PRON	_	_	8	nsubj	_	_
-6	m'	me	PRON	_	_	8	iobj	_	_
-7	ont	avoir	VERB	_	_	8	aux	_	_
-8	f~	f~	X	_	_	3	acl:relcl	_	_
-9	euh	euh	INTJ	_	_	8	discourse	_	_
-10	proposés	proposer	VERB	_	_	8	conj:dicto	_	_
-11	ne	ne	PART	_	_	13	advmod	_	_
-12	me	me	PRON	_	_	13	obj	_	_
-13	plaisaient	plaire	VERB	_	_	0	root	_	_
-14	pas	pas	PART	_	_	13	advmod	_	_
-15	beaucoup	beaucoup	ADV	_	_	13	advmod	_	_
-16	excepté	excepté	CCONJ	_	_	17	cc	_	_
-17	Marsabit	Marsabit	PROPN	_	_	13	dislocated	_	_
-18	qui	qui	PRON	_	_	21	nsubj	_	_
-19	était	être	AUX	_	_	21	cop	_	_
-20	une	un	DET	_	_	21	det	_	_
-21	espèce	espèce	NOUN	_	_	17	acl:relcl	_	_
-22	de	de	ADP	_	_	24	case	_	_
-23	d'	de	ADP	_	_	22	conj:dicto	_	_
-24	île	île	NOUN	_	_	21	nmod	_	_
-25	dans	dans	ADP	_	_	27	case	_	_
-26	le	le	DET	_	_	27	det	_	_
-27	désert	désert	NOUN	_	_	24	nmod	_	_
-28	tout	tout	ADV	_	_	30	advmod	_	_
-29	au	à+le	ADP	_	_	30	case	_	_
-30	nord	nord	NOUN	_	_	27	nmod	_	_
-31	du	de+le	ADP	_	_	32	case	_	_
-32	Kenya	Kenya	PROPN	_	_	30	nmod	_	_
-33	dans	dans	ADP	_	_	35	case	_	_
-34	le	le	DET	_	_	35	det	_	_
-35	désert	désert	NOUN	_	_	27	conj:dicto	_	_
-36	du	de+le	ADP	_	_	37	case	_	_
-37	Kenya	Kenya	PROPN	_	_	35	nmod	_	_
 
 ~~~
 

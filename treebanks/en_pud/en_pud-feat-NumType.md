@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (4; 100% of non-empty `NumType`): <em>once, twice</em>
-* `EMPTY` (839): <em>also, when, so, only, more, not, where, however, most, well</em>
+* `EMPTY` (844): <em>also, when, so, only, more, not, where, however, most, well</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -6,94 +6,90 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-GSD: POS Tags: `SCONJ`
 
-There are 19 `SCONJ` lemmas (0%), 26 `SCONJ` types (0%) and 3174 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
+There are 13 `SCONJ` lemmas (0%), 20 `SCONJ` types (0%) and 2989 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>que, si, puis, lorsque, quand, soit, comme, puisque, sinon, voire</em>
+The 10 most frequent `SCONJ` lemmas: <em>que, si, comme, lorsque, quand, puisque, sinon, voire, quoique, plus</em>
 
-The 10 most frequent `SCONJ` types:  <em>que, qu', si, puis, quand, soit, lorsque, s', comme, lorsqu'</em>
+The 10 most frequent `SCONJ` types:  <em>que, qu', si, comme, quand, lorsque, s', lorsqu', puisque, puisqu'</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2234, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 494, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 203, <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 54, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 2), <em>si</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 296, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 30, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>puis</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 221, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 45), <em>lorsque</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 117, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1), <em>quand</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 93, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 9), <em>soit</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 73, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3), <em>comme</em> (<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 635, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 28), <em>sinon</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3), <em>voire</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 8), <em>and</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2239, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 503, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 245), <em>si</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 298, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 29, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>comme</em> (<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 543, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 175), <em>lorsque</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 117, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1), <em>quand</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 94, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 8), <em>sinon</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>voire</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 27, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 4), <em>quoique</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 3), <em>plus</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1330, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 1), <em>ainsi</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 375, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 1549, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 226, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 123, <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 46), <em>qu'</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 673, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 253, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 79, <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 7, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 2), <em>si</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 167, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 29), <em>puis</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 221, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 5), <em>quand</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 9), <em>soit</em> (<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 100, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 73, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 3), <em>s'</em> (<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 983, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 48), <em>comme</em> (<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 614, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 24), <em>voire</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 22, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 5), <em>and</em> (<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 1563, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 230, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 151), <em>qu'</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 664, <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 258, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 92), <em>si</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 168, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 28), <em>comme</em> (<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 528, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 153), <em>quand</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 8), <em>s'</em> (<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 982, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 49), <em>sinon</em> (<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3), <em>quoique</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 2, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2), <em>plus</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1286, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 1), <em>voir</em> (<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 90, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 
 * <em>que</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 1549: <em>La junk-food rend aussi accro <b>que</b> les drogues dures !</em>
-  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 226: <em>C' est ce <b>que</b> nous nommons aujourd'hui le Vieux-Flassans , ou " Ville " ,</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 123: <em>Il ne sera présent <b>que</b> durant les 10 premières parties .</em>
-  * <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 46: <em>La chaîne s' adresse à un public plus jeune <b>que</b> son aînée .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 1563: <em>La junk-food rend aussi accro <b>que</b> les drogues dures !</em>
+  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 230: <em>C' est ce <b>que</b> nous nommons aujourd'hui le Vieux-Flassans , ou " Ville " ,</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 151: <em>Il ne sera présent <b>que</b> durant les 10 premières parties .</em>
 * <em>qu'</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 673: <em>Il n' est pas aussi anxieux <b>qu'</b> il y paraît .</em>
-  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 253: <em>C' est ce <b>qu'</b> on appelle une campagne de dératisation intensive .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 79: <em>Pourtant en 1940 Cuijk n' avait encore <b>qu'</b> environ 4600 habitants .</em>
-  * <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 7: <em>Il est moins un penseur original <b>qu'</b> un codificateur de la pratique architecturale de son époque .</em>
-  * <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 2: <em>En 1007 , Boleslas I le Vaillant attaque Magdebourg et réoccupe la Lusace pendant <b>qu'</b> Henri II est occupé par une révolte en Lotharingie .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 664: <em>Il n' est pas aussi anxieux <b>qu'</b> il y paraît .</em>
+  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 258: <em>C' est ce <b>qu'</b> on appelle une campagne de dératisation intensive .</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 92: <em>Pourtant en 1940 Cuijk n' avait encore <b>qu'</b> environ 4600 habitants .</em>
 * <em>si</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 167: <em>Arrêtez la lecture , <b>si</b> cela vous suffit pour aujourd'hui .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 29: <em>Ce brutal renversement de situation n' est pas <b>si</b> surprenant après tout .</em>
-* <em>puis</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 221: <em>Leur premier né Tvrtko devient Ban de Bosnie <b>puis</b> roi de Bosnie en 1337 .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 5: <em>Et <b>puis</b> , ma chaîne est tombée .</em>
-* <em>quand</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 75: <em>Il se trouve derrière elle mais disparait <b>quand</b> elle se retourne .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 9: <em>Et ce d' autant plus que nul ne sait où et <b>quand</b> passera le prochain camion .</em>
-* <em>soit</em>
-  * <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> 100: <em>Ils ont interdit qui que ce <b>soit</b> de s' approcher de ma chambre .</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 73: <em>Ilonse se situe à une heure de Nice <b>soit</b> 72 km .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3: <em>Malgré sa surprise en les lisant , il décida d' accomplir sa mission , <b>soit</b> de détruire tous les villages acadiens sur sa route et de faire le plus de prisonniers possible .</em>
-  * <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 3: <em>Les prof sont des français de France , ce qui est plutôt intéressant ( accent , vocabulaire ) , que ce <b>soit</b> pour les élèves de passage ou pour les anglophones qui veulent apprendre la langue .</em>
-* <em>s'</em>
-  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 983: <em>Tous les trains locaux de la ligne Nara <b>s'</b> arrêtent à la gare d' Inari .</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 48: <em>A aucun moment , de le jour ou de la nuit <b>s'</b> il le faut .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 168: <em>Arrêtez la lecture , <b>si</b> cela vous suffit pour aujourd'hui .</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 28: <em>Ce brutal renversement de situation n' est pas <b>si</b> surprenant après tout .</em>
 * <em>comme</em>
-  * <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 614: <em>Certaines sont également barophiles , <b>comme</b> Pyrococcus abyssi .</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 43: <em>Un petit mécano moto <b>comme</b> on devrait en rencontrer plus souvent .</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 24: <em>C' est un peu <b>comme</b> une nouvelle famille !</em>
-* <em>voire</em>
-  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 22: <em>Il peut même créer en parallèle texte et musique , <b>voire</b> les arranger .</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: <em>La légalisation vise à autoriser la consommation et la vente via un contrôle par l' État de la production <b>voire</b> de la distribution .</em>
-* <em>and</em>
-  * <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> 23: <em>" Rough Landing , Holly " est le deuxième single extrait de Lights <b>and</b> Sounds de le groupe américain Yellowcard .</em>
-  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Falling Out est le deuxième album de Peter Bjorn <b>and</b> John .</em>
-  * <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 3: <em>Entretemps , Frye et ses 40 hommes à bord de le York <b>and</b> Halifax se dirigent vers le Village-des-Blanchard .</em>
+  * <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 528: <em>Certaines sont également barophiles , <b>comme</b> Pyrococcus abyssi .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 153: <em>Dans les sixties , ce n' était pas <b>comme</b> aujourd'hui .</em>
+* <em>quand</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 76: <em>Il se trouve derrière elle mais disparait <b>quand</b> elle se retourne .</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 8: <em>Et ce d' autant plus que nul ne sait où et <b>quand</b> passera le prochain camion .</em>
+* <em>s'</em>
+  * <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> 982: <em>Tous les trains locaux de la ligne Nara <b>s'</b> arrêtent à la gare d' Inari .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 49: <em>A aucun moment , de le jour ou de la nuit <b>s'</b> il le faut .</em>
+* <em>sinon</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Ainsi , Madrid semble se faire autant de mouron <b>sinon</b> plus que Rabat sur la question de les frontières .</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3: <em>Pour respecter le décret environnemental , le débit ne doit pas dépasser 68 000 véhicules <b>sinon</b> les tarifs seront augmentés .</em>
+* <em>quoique</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 2: <em>Appelé à Edo en 1857 , il a activement essayé de favoriser , <b>quoique</b> sans succès , Hitotsubashi Yoshinobu pour devenir le 14ème Shogun .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2: <em>L' élection de le 24 octobre 1999 est la première élection présidentielle pluraliste ( trois candidats ) , <b>quoique</b> le président Ben Ali ait été réélu avec un score ( 99,44 % ) comparable à les élections précédentes .</em>
+* <em>plus</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1286: <em>Il verra le puits le <b>plus</b> profond de France porter son nom : .</em>
+  * <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 12: <em>Il est aussi celui qui remporta le <b>plus</b> de succès .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Les marocains , <b>plus</b> ils sont réprimés , <b>plus</b> ils baisent la main de leur roi</em>
+  * <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> 1: <em>Nous étions venus à 3 avec 2 coupons promotionnels prépayés ( 10 euros le brunch à le lieu de 23 achetés en juin ) , <b>plus</b> un enfant qui a aussi pris le brunch à 20 euros .</em>
+* <em>voir</em>
+  * <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 90: <em>Mais on peut aussi le <b>voir</b> comme une métaphore .</em>
+  * <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 3: <em>À l' heure de l' intégration européenne et de la mondialisation , le droit français de les contrats apparait , pour certains , techniquement dépassé <b>voir</b> obsolète .</em>
+  * <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Il peut mesurer jusqu' à 2 m de diamètre <b>voir</b> plus .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.368421 (the average of all parts of speech is 1.305352).
+The form / lemma ratio of `SCONJ` is 1.538462 (the average of all parts of speech is 1.302640).
 
-The 1st highest number of forms (3) was observed with the lemma “que”: <em>qu, qu', que</em>.
+The 1st highest number of forms (4) was observed with the lemma “que”: <em>qu, qu', que, que'</em>.
 
 The 2nd highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
 The 3rd highest number of forms (2) was observed with the lemma “puisque”: <em>puisqu', puisque</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt> (3; 0% instances)
+`SCONJ` occurs with 1 features: <tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
+`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3171 tokens).
-Examples: <em>que, qu', si, puis, quand, soit, lorsque, s', comme, lorsqu'</em>
+The most frequent feature combination is `_` (2987 tokens).
+Examples: <em>que, qu', si, comme, quand, lorsque, s', lorsqu', puisque, puisqu'</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="fr_gsd-dep-mark.html">mark</a></tt> (1957; 62% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (587; 18% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (385; 12% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (180; 6% instances), <tt><a href="fr_gsd-dep-expl.html">expl</a></tt> (52; 2% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="fr_gsd-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_gsd-dep-mark.html">mark</a></tt> (2141; 72% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (568; 19% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (183; 6% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (89; 3% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="fr_gsd-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="fr_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1808; 57% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (501; 16% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (406; 13% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (184; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (93; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (93; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1720; 58% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (502; 17% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (351; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (209; 7% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (94; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (59; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-3135 (99%) `SCONJ` nodes are leaves.
+2979 (100%) `SCONJ` nodes are leaves.
 
-34 (1%) `SCONJ` nodes have one child.
+6 (0%) `SCONJ` nodes have one child.
 
-4 (0%) `SCONJ` nodes have two children.
+0 (0%) `SCONJ` nodes have two children.
 
-1 (0%) `SCONJ` nodes have three or more children.
+4 (0%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 3.
+The highest child degree of a `SCONJ` node is 6.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (13; 29% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (12; 27% instances), <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (11; 24% instances), <tt><a href="fr_gsd-dep-acl.html">acl</a></tt> (3; 7% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (2; 4% instances), <tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt> (2; 4% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (20; 95% instances), <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (1; 5% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (18; 40% instances), <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (11; 24% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (5; 11% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (8; 38% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (4; 19% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3; 14% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances)
 

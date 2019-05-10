@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-13644 tokens (7%) have a non-empty value of `Degree`.
-3634 types (13%) occur at least once with a non-empty value of `Degree`.
-2555 lemmas (11%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (13644; 7% instances).
+13540 tokens (6%) have a non-empty value of `Degree`.
+3623 types (13%) occur at least once with a non-empty value of `Degree`.
+2549 lemmas (11%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (13540; 6% instances).
 
 ### `ADJ`
 
-13644 <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
+13540 <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (706; 5% of non-empty `Degree`): <em>verder, beter, later, jongeren, langer, groter, grotere, hoger, vroeger, vroegere</em>
-* `Pos` (12459; 91% of non-empty `Degree`): <em>nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</em>
+* `Pos` (12355; 91% of non-empty `Degree`): <em>nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</em>
 * `Sup` (479; 4% of non-empty `Degree`): <em>laatste, grootste, beste, belangrijkste, hoogste, best, hoogst, jongste, voornaamste, oudste</em>
 * `EMPTY` (577): <em>eerste, tweede, derde, eerst, vierde, vijfde, zevende, 19e, dertiende, negende</em>
 
@@ -30,7 +30,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-ADJ.h
   <tr><td><tt></tt></td><td><em>grote, groot, groten</em></td><td><em>groter, grotere</em></td><td><em>grootste, grootst</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 94% lemmas (2411) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 94% lemmas (2405) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 

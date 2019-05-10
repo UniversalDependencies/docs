@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-10529 tokens (44%) have a non-empty value of `Number`.
-4381 types (76%) occur at least once with a non-empty value of `Number`.
-2881 lemmas (74%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5575; 23% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1694; 7% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1170; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (848; 4% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (687; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (419; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (123; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+10526 tokens (44%) have a non-empty value of `Number`.
+4379 types (76%) occur at least once with a non-empty value of `Number`.
+2879 lemmas (74%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (5531; 23% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1696; 7% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1171; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (846; 4% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (687; 3% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (419; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (123; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (40; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-5575 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
+5531 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5575; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4574; 82%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4329; 78%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (4325; 78%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3383; 61%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5531; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4530; 82%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (4320; 78%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (4285; 77%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3380; 61%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (800; 14% of non-empty `Number`): <em>daoine, dhaoine, tíortha, blianta, rudaí, rialacha, scrúduithe, Ballstáit, scéalta, seirbhísí</em>
-* `Sing` (4775; 86% of non-empty `Number`): <em>bith, níos, rud, duine, chuid, fear, féidir, lá, leith, oiread</em>
+* `Sing` (4731; 86% of non-empty `Number`): <em>bith, rud, duine, chuid, fear, féidir, lá, leith, oiread, chéile</em>
 * `EMPTY` (794): <em>bheith, chur, dhéanamh, fáil, dul, thabhairt, rá, bhaint, cur, déanamh</em>
 
 <table>
@@ -42,15 +42,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-1694 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Number`.
+1696 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1460; 86%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1450; 86%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1450; 86%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1448; 85%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1447; 85%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1325; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1462; 86%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1452; 86%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1452; 86%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1450; 85%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1449; 85%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1327; 78%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (252; 15% of non-empty `Number`): <em>na, a, ár</em>
-* `Sing` (1442; 85% of non-empty `Number`): <em>an, na, a, mo, do, m', a', 'n, cén, d'</em>
-* `EMPTY` (440): <em>seo, sin, aon, eile, gach, cibé, uile, úd, chuile, s'</em>
+* `Sing` (1444; 85% of non-empty `Number`): <em>an, na, a, mo, do, m', a', 'n, cén, The</em>
+* `EMPTY` (465): <em>seo, sin, aon, eile, gach, san, so, cibé, uile, úd</em>
 
 <table>
   <tr><th>Paradigm <i>na</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -61,15 +61,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `ADP`
 
-1170 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (31% of all `ADP` tokens) have a non-empty value of `Number`.
+1171 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (31% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (737; 63%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (718; 61%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (590; 50%).
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (738; 63%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (718; 61%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (590; 50%).
 
 `ADP` tokens may have the following values of `Number`:
 
 * `Plur` (233; 20% of non-empty `Number`): <em>acu, ina, orthu, dóibh, leo, sna, againn, dúinn, á, díobh</em>
-* `Sing` (937; 80% of non-empty `Number`): <em>sa, ann, den, ina, air, san, leis, ón, don, á</em>
-* `EMPTY` (2644): <em>ar, i, ag, le, de, leis, mar, in, chun, do</em>
+* `Sing` (938; 80% of non-empty `Number`): <em>sa, ann, den, ina, air, san, don, leis, ón, á</em>
+* `EMPTY` (2645): <em>ar, i, ag, le, de, leis, mar, in, chun, do</em>
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -85,14 +85,14 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 ### `PROPN`
 
-848 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Number`.
+846 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (741; 87%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (674; 79%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (652; 77%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (739; 87%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (672; 79%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (650; 77%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (32; 4% of non-empty `Number`): <em>mBaile, Eorpach, Mumhan, gCill, hIceadha, Éireannaigh, Comharsain, Doirí, Fíoncheannaithe, Gaeil</em>
-* `Sing` (816; 96% of non-empty `Number`): <em>Gaeilge, Átha, Bhaile, Seán, hÉireann, Éirinn, Ghaeilge, Mháire, nGaeilge, Éire</em>
+* `Sing` (814; 96% of non-empty `Number`): <em>Gaeilge, Átha, Bhaile, Seán, hÉireann, Éirinn, Ghaeilge, Mháire, nGaeilge, Éire</em>
 * `EMPTY` (99): <em>Cliath, Fraince, Dara, Fáil, Bhéal, Eo, Feirste, Gaillimhe, Garman, Mhacha</em>
 
 <table>
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt></tt></td><td><em>Baile</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (579) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (578) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -172,16 +172,27 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ga_idt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Táimid</em></td></tr>
 </table>
 
+### `PART`
+
+40 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Comp</tt> (40; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (40; 100%).
+
+`PART` tokens may have the following values of `Number`:
+
+* `Sing` (40; 100% of non-empty `Number`): <em>níos</em>
+* `EMPTY` (1534): <em>a, go, ní, d', nach, gur, Ó, is, do, níor</em>
+
 ### `X`
 
-10 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Number`.
+10 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (9; 90%).
+The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (9; 90%).
 
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (10; 100% of non-empty `Number`): <em>fá, dein, Bhraitheas, Kill, chuireas, domhsa, open</em>
-* `EMPTY` (255): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `EMPTY` (145): <em>Co., Uimh., FÁS, a, chan, m, Caidé, I.R., IO, J.</em>
 
 ### `AUX`
 
@@ -192,19 +203,19 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (3; 100% of non-empty `Number`): <em>Sé, Cén</em>
-* `EMPTY` (392): <em>is, ba, gur, ní, nach, b', gurb, níor, ar, gurbh</em>
+* `EMPTY` (383): <em>is, ba, gur, ní, b', nach, gurb, níor, gurbh, mba</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (1247; 72%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (703; 70%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (380; 64%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (1247; 71%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (707; 70%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (378; 64%),
 <tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (232; 76%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (164; 72%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (166; 73%),
 <tt>NOUN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (136; 70%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (93; 75%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (91; 85%),
-<tt>PROPN --[<tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (79; 92%),
-<tt>NOUN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (57; 58%).
+<tt>PROPN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (94; 75%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (90; 85%),
+<tt>PROPN --[<tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (78; 92%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (56; 57%).
 

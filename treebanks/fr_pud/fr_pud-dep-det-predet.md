@@ -49,8 +49,8 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 1	Après	_	ADP	IN	_	5	mark	_	_
 2	qu'	_	SCONJ	IN	_	1	fixed	_	SpaceAfter=No
 3	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-4	est	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
-5	devenu	_	AUX	VBN	Gender=Masc|Number=Sing	28	advcl	_	_
+4	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+5	devenu	_	VERB	VBN	Gender=Masc|Number=Sing	28	advcl	_	_
 6	évident	_	ADJ	JJ	Gender=Masc|Number=Sing	5	xcomp	_	_
 7	que	_	SCONJ	IN	_	11	mark	_	_
 8	l'	_	DET	DT	Gender=Masc|Number=Sing	9	det	_	SpaceAfter=No
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 24	grandes	_	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
 25	puissances	_	NOUN	NN	Gender=Fem|Number=Plur	28	nsubj	_	_
 26	se	_	PRON	PRP	Gender=Fem|Number=Plur|Person=3	28	obj	_	_
-27	sont	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	28	aux	_	_
+27	sont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	28	aux	_	_
 28	rendues	_	VERB	VBN	Gender=Fem|Number=Plur	0	root	_	_
 29	compte	_	NOUN	NN	Gender=Masc|Number=Sing	28	obj	_	_
 30	qu'	_	SCONJ	IN	_	32	mark	_	SpaceAfter=No
@@ -107,9 +107,9 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 13	Phéniciens	_	NOUN	NN	Gender=Masc|Number=Plur	10	conj	_	SpaceAfter=No
 14	,	_	PUNCT	,	_	20	punct	_	_
 15	qui	_	PRON	WP	Gender=Masc|Number=Plur	20	nsubj	_	_
-16	ont	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	20	aux	_	_
+16	ont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	20	aux	_	_
 17	tous	_	DET	DT	Gender=Masc|Number=Plur	18	det:predet	_	_
-18	deux	_	NUM	CD	_	20	advmod	_	_
+18	deux	_	NUM	CD	_	20	obl	_	_
 19	amplement	_	ADV	RB	_	20	advmod	_	_
 20	colonisé	_	VERB	VBN	Gender=Masc|Number=Sing	10	acl:relcl	_	_
 21	les	_	DET	DT	Gender=Masc|Number=Plur	22	det	_	_

@@ -24,7 +24,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 5 7 orphan	color:blue
 1	Fatt	fatte	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	mot	mot	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	1	obj	_	_
-3	-	$-	PUNCT	_	_	1	punct	_	_
+3	-	$-	PUNCT	_	_	5	punct	_	_
 4	ny	ny	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
 5	ordbok	ordbok	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	_
 6	på	på	ADP	_	_	7	case	_	_
@@ -48,7 +48,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	omtrent	omtrent	ADV	_	_	8	advmod	_	_
 8	65	65	NUM	_	Number=Plur|NumType=Card	9	nummod	_	_
 9	kilo	kilo	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	obj	_	_
-10	-	$-	PUNCT	_	_	5	punct	_	_
+10	-	$-	PUNCT	_	_	12	punct	_	_
 11	63	63	NUM	_	Number=Plur|NumType=Card	12	nummod	_	_
 12	kilo	kilo	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	conj	_	_
 13	dersom	dersom	SCONJ	_	_	15	mark	_	_
@@ -72,7 +72,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	vindretningen	vindretning	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 5	som	som	PRON	_	PronType=Rel	6	nsubj	_	_
 6	avgjør	avgjøre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:cleft	_	SpaceAfter=No
-7	,	$,	PUNCT	_	_	4	punct	_	_
+7	,	$,	PUNCT	_	_	11	punct	_	_
 8	og	og	CCONJ	_	_	11	cc	_	_
 9	om	om	SCONJ	_	_	11	mark	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	_	_

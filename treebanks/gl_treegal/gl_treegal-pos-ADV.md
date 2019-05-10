@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `ADV`
 
-There are 159 `ADV` lemmas (4%), 164 `ADV` types (3%) and 1186 `ADV` tokens (5%).
+There are 160 `ADV` lemmas (4%), 165 `ADV` types (3%) and 1188 `ADV` tokens (5%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>non, máis, como, tamén, moito, xa, así, aínda, agora, cando</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>máis</em> (<tt><a href="gl_treegal-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.031447 (the average of all parts of speech is 1.370902).
+The form / lemma ratio of `ADV` is 1.031250 (the average of all parts of speech is 1.372032).
 
 The 1st highest number of forms (3) was observed with the lemma “moito”: <em>moi, moito, moitísimo</em>.
 
@@ -67,27 +67,27 @@ The 3rd highest number of forms (2) was observed with the lemma “libremente”
 `ADV` occurs with 3 feature-value pairs: `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
 
 `ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (834 tokens).
+The most frequent feature combination is `_` (836 tokens).
 Examples: <em>máis, tamén, xa, así, aínda, agora, moi, só, despois, sempre</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (991; 84% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (61; 5% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (40; 3% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (31; 3% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (12; 1% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-discourse.html">discourse</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 14 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (994; 84% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (61; 5% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (40; 3% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (31; 3% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (16; 1% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (11; 1% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (10; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 13 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (619; 52% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (210; 18% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (142; 12% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (82; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (28; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (23; 2% instances),  (12; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `ADV` nodes belong to 13 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (642; 54% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (215; 18% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (143; 12% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (83; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (12; 1% instances),  (11; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-990 (83%) `ADV` nodes are leaves.
+991 (83%) `ADV` nodes are leaves.
 
-140 (12%) `ADV` nodes have one child.
+139 (12%) `ADV` nodes have one child.
 
-32 (3%) `ADV` nodes have two children.
+33 (3%) `ADV` nodes have two children.
 
-24 (2%) `ADV` nodes have three or more children.
+25 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 18 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (64; 22% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (54; 19% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (46; 16% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (33; 11% instances), <tt><a href="gl_treegal-dep-obl.html">obl</a></tt> (24; 8% instances), <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (19; 7% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (13; 4% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (13; 4% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (8; 3% instances), <tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (65; 22% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (54; 18% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (49; 17% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (34; 11% instances), <tt><a href="gl_treegal-dep-obl.html">obl</a></tt> (24; 8% instances), <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (19; 6% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (13; 4% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (13; 4% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (8; 3% instances), <tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt> (5; 2% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (2; 1% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (82; 28% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (47; 16% instances), <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (46; 16% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (32; 11% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (30; 10% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (20; 7% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (15; 5% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (83; 28% instances), <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (49; 17% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (48; 16% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (32; 11% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (30; 10% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (20; 7% instances), <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (15; 5% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

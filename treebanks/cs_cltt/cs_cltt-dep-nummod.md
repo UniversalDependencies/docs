@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 23	společný	společný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	conj	_	SpaceAfter=No
 24	;	;	PUNCT	Z:-------------	_	26	punct	_	_
 25	není-li	není-li	X	X@-------------	_	26	cop	_	_
-26	prokázán	prokázaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	29	advmod	_	LDeriv=prokázat
+26	prokázán	prokázaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	29	obl	_	LDeriv=prokázat
 27	opak	opak	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	26	nsubj	_	SpaceAfter=No
 28	,	,	PUNCT	Z:-------------	_	26	punct	_	_
 29	považuje	považovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
@@ -102,7 +102,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	_	LId=účetní-1
 7	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	nmod	_	_
 8	započatého	započatý	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	_	_
-9	1.ledna	1.ledna	X	X@-------------	_	8	advmod	_	_
+9	1.ledna	1.ledna	X	X@-------------	_	8	obl	_	_
 10	2004	2004	NUM	C}-------------	NumForm=Roman|NumType=Card	9	nummod	_	_
 11	a	a	CCONJ	J^-------------	_	12	cc	_	LId=a-1
 12	později	pozdě	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	9	conj	_	_

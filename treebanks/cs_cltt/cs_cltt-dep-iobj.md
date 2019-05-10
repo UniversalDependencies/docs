@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	7	nsubj	_	_
 4	uvedené	uvedený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
-6	§_20_odst._1_písm._e)	§_20_odst._1_písm._e)	X	X@-------------	_	4	advmod	_	_
+6	§_20_odst._1_písm._e)	§_20_odst._1_písm._e)	X	X@-------------	_	4	obl	_	_
 7	vyhotovují	vyhotovovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
 9	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 12	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
 13	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	conj	_	SpaceAfter=No
 14	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-15	vyžaduje-li	vyžaduje-li	X	X@-------------	_	25	advmod	_	_
+15	vyžaduje-li	vyžaduje-li	X	X@-------------	_	25	obl	_	_
 16	její	jeho	DET	PSNS4FS3-------	Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	vyhotovení	vyhotovení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	15	obj	_	_
 18	tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_

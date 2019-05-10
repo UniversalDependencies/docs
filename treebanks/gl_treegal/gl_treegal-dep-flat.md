@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="gl_treegal-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="gl_treegal-dep-flat-name.html">flat:name</a></tt>.
 
-27 nodes (0%) are attached to their parents as `flat`.
+29 nodes (0%) are attached to their parents as `flat`.
 
-27 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+29 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.96551724137931.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (22; 81% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (24; 83% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

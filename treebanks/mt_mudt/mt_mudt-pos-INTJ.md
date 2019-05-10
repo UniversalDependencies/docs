@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>le, pereżempju, mela, iva, allaħares, eċċetra, j', Baħħ, Bumm, Eħe</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> 8530, <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> 6489, <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> 5374, <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> 4839, <tt><a href="mt_mudt-pos-DET.html">DET</a></tt> 3631, <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> 2650, <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> 2602, <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> 2313, <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> 1545, <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> 1513, <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> 1492, <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> 1427, <tt><a href="mt_mudt-pos-PART.html">PART</a></tt> 624, <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> 596, <tt><a href="mt_mudt-pos-X.html">X</a></tt> 341, <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> 131, <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> 65)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> 8526, <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> 6386, <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> 5372, <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> 4729, <tt><a href="mt_mudt-pos-DET.html">DET</a></tt> 3602, <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> 2647, <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> 2321, <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> 2313, <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> 1788, <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> 1690, <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> 1545, <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> 1525, <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> 600, <tt><a href="mt_mudt-pos-PART.html">PART</a></tt> 473, <tt><a href="mt_mudt-pos-X.html">X</a></tt> 339, <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> 241, <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> 65)
 
 The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="mt_mudt-pos-PART.html">PART</a></tt> 2), <em>ta</em> (<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> 5, <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="mt_mudt-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 19.000000 (the average of all parts of speech is 473.529412).
+The form / lemma ratio of `INTJ` is 19.000000 (the average of all parts of speech is 474.588235).
 
 The 1st highest number of forms (19) was observed with the lemma “_”: <em>Baħħ, Bumm, Eħe, Imn'Alla, Owkej, Pa, addio, allaħares, eċċetra, grazzi, insomma, iva, j', ja, le, mela, pereżempju, ta, Ħeqq</em>.
 
@@ -38,7 +38,7 @@ The 1st highest number of forms (19) was observed with the lemma “_”: <em>Ba
 
 `INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="mt_mudt-dep-discourse.html">discourse</a></tt> (36; 55% instances), <tt><a href="mt_mudt-dep-conj.html">conj</a></tt> (14; 22% instances), <tt><a href="mt_mudt-dep-root.html">root</a></tt> (13; 20% instances), <tt><a href="mt_mudt-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="mt_mudt-dep-vocative.html">vocative</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (30; 46% instances),  (13; 20% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (30; 46% instances),  (13; 20% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 2% instances)
 
 21 (32%) `INTJ` nodes are leaves.
 

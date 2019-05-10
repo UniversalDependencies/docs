@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.332330).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.339798).
 
 The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (1) was observed with the lemma “-”: <em>-</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="fr_spoken-dep-punct.html">punct</a></tt> (167; 99% instances), <tt><a href="fr_spoken-dep-fixed.html">fixed</a></tt> (1; 1% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fr_spoken-dep-punct.html">punct</a></tt> (168; 100% instances)
 
 Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (35; 21% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (32; 19% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (21; 13% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (18; 11% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (16; 10% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (14; 8% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt> (5; 3% instances)
 

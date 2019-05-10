@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-DET.h
 
 495 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (495; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (495; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (373; 75%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (495; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (489; 99%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (373; 75%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 17 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 94%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt> (14; 82%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (10; 59%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 94%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt> (14; 82%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (10; 59%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 53%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

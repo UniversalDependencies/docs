@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3684; 100% of non-empty `Foreign`): <em>HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</em>
-* `EMPTY` (80347): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
+* `EMPTY` (80348): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1422) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2670; 100% of non-empty `Foreign`): <em>New, the, open, US, Pink, la, Le, Deutsche, die, United</em>
-* `EMPTY` (186515): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
+* `EMPTY` (186516): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (1003) occur only with one value of `Foreign`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1813; 100% of non-empty `Foreign`): <em>play, managementu, management, CD, s, facto, st, o, homo, neem</em>
-* `EMPTY` (370553): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
+* `EMPTY` (370546): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (945) occur only with one value of `Foreign`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (120; 100% of non-empty `Foreign`): <em>off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</em>
-* `EMPTY` (8045): <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
+* `EMPTY` (8397): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (28) occur only with one value of `Foreign`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (119; 100% of non-empty `Foreign`): <em>is, Be, can, est, transit, Check, Come, Habent, Keep, Love</em>
-* `EMPTY` (135391): <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
+* `EMPTY` (135360): <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (85) occur only with one value of `Foreign`.
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (116; 100% of non-empty `Foreign`): <em>cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</em>
-* `EMPTY` (79881): <em>tak, už, také, jak, včera, ještě, již, tedy, dnes, pak</em>
+* `EMPTY` (80116): <em>tak, už, také, jak, včera, ještě, již, tedy, dnes, pak</em>
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (71) occur only with one value of `Foreign`.
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (80; 100% of non-empty `Foreign`): <em>and, et, und, As, or, ma, So, e, n</em>
-* `EMPTY` (56777): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
+* `EMPTY` (56797): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 ### `PRON`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (60; 100% of non-empty `Foreign`): <em>it, All, you, I, Me, We, Us, She, WAS, ja</em>
-* `EMPTY` (44860): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
+* `EMPTY` (44859): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
 `Foreign` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Foreign`.
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (29; 100% of non-empty `Foreign`): <em>Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</em>
-* `EMPTY` (41478): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
+* `EMPTY` (41475): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
 
 `Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (20; 100% of non-empty `Foreign`): <em>Some, My, That, This, Your, sua, C, Notre, These, ce</em>
-* `EMPTY` (56450): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (56107): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -158,7 +158,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>as, If, When, ak, ako, gdyž, kak</em>
-* `EMPTY` (27710): <em>že, jako, aby, než, když, pokud, protože, zda, jak, zatímco</em>
+* `EMPTY` (27485): <em>že, jako, aby, než, když, pokud, protože, zda, jak, zatímco</em>
 
 ### `INTJ`
 
@@ -172,14 +172,14 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (832; 99%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (425; 100%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (377; 100%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (236; 98%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (157; 99%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (115; 99%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (86; 98%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (71; 95%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (837; 99%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (434; 100%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (380; 100%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (240; 98%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (160; 99%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (118; 99%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (90; 98%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (72; 95%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> PART</tt> (65; 100%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (60; 100%).
 

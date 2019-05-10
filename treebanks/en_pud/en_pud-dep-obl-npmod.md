@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_pud-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_pud-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-18 nodes (0%) are attached to their parents as `obl:npmod`.
+20 nodes (0%) are attached to their parents as `obl:npmod`.
 
-13 instances of `obl:npmod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88888888888889.
+15 instances of `obl:npmod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7.
 
-The following 7 pairs of parts of speech are connected with `obl:npmod`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 22% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 6% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (7; 35% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 5% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -40,32 +40,6 @@ The following 7 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 15	Sunday	Sunday	PROPN	NNP	Number=Sing	16	compound	16:compound	_
 16	morning	morning	NOUN	NN	Number=Sing	6	obl	6:obl:on	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	4:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 obl:npmod	color:blue
-1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
-3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
-4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
-5	to	to	ADP	IN	_	6	case	6:case	_
-6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
-8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
-9	,	,	PUNCT	,	_	4	punct	4:punct	_
-10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
-11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
-12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
-13	worth	worth	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
-14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	SpaceAfter=No
-15	.	.	PUNCT	.	_	4	punct	4:punct	SpaceAfter=No
-16	"	"	PUNCT	''	_	4	punct	4:punct	_
 
 ~~~
 
@@ -99,6 +73,32 @@ The following 7 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
 22	world	world	NOUN	NN	Number=Sing	19	nmod	19:nmod:in	SpaceAfter=No
 23	.	.	PUNCT	.	_	14	punct	14:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 obl:npmod	color:blue
+1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+5	to	to	ADP	IN	_	6	case	6:case	_
+6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
+7	either	either	DET	DT	_	8	det	8:det	_
+8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
+9	,	,	PUNCT	,	_	4	punct	4:punct	_
+10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
+13	worth	worth	ADJ	JJ	Degree=Pos	10	ccomp	10:ccomp	_
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	SpaceAfter=No
+15	.	.	PUNCT	.	_	4	punct	4:punct	SpaceAfter=No
+16	"	"	PUNCT	''	_	4	punct	4:punct	_
 
 ~~~
 

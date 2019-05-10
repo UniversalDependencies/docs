@@ -11,7 +11,7 @@ This relation is universal.
 62 nodes (0%) are attached to their parents as `parataxis`.
 
 53 instances of `parataxis` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.4032258064516.
+Average distance between parent and child is 12.3870967741935.
 
 The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (30; 48% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
@@ -38,7 +38,7 @@ The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a
 14	minuto	minuto	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	_
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
 16	silencio	silencio	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	Q.	_	9	punct	_	_
+17	.	.	PUNCT	Q.	_	12	punct	_	_
 
 ~~~
 

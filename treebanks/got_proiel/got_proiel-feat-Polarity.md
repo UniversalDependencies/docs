@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1272; 100% of non-empty `Polarity`): <em>ni, nih, niþ, nis, nibai, nei</em>
-* `EMPTY` (3865): <em>þan, jah, auk, nu, unte, swe, swaswe, swa, aftra, þanuh</em>
+* `EMPTY` (3869): <em>þan, jah, auk, nu, swe, unte, swaswe, swa, aftra, þanuh</em>
 

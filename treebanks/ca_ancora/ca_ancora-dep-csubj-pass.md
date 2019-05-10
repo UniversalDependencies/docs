@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	certa	cert	DET	DET	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
 8	pompa	pompa	NOUN	NOUN	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-10	es	es	PRON	PRON	_	12	expl:pass	_	_
+10	es	ell	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pass	_	_
 11	pot	poder	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	suposar	suposar	VERB	VERB	VerbForm=Inf	0	root	_	_
 13	que	que	SCONJ	SCONJ	_	25	mark	_	SpaceAfter=No
@@ -41,9 +41,9 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 17	l'	el	DET	DET	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
 18	acte	acte	NOUN	NOUN	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	PunctType=Comm	16	punct	_	_
-20	pels	pel	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Plur	21	case	_	_
+20	pels	pel	ADP	ADP	AdpType=Preppron	21	case	_	_
 21	salons	saló	NOUN	NOUN	Gender=Masc|Number=Plur	25	obl	_	_
-22	del	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	23	case	_	_
+22	del	del	ADP	ADP	AdpType=Preppron	23	case	_	_
 23	centre	centre	NOUN	NOUN	Gender=Masc|Number=Sing	21	nmod	_	_
 24	han	haver	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 25	aparegut	aparèixer	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	csubj:pass	_	_

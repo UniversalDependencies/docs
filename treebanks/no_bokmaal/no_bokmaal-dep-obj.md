@@ -49,7 +49,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 5	selv	selv	ADV	_	_	2	advmod	_	_
 6	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	advmod	_	_
 7	smittet	smitte	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	2	xcomp	_	SpaceAfter=No
-8	;	$;	PUNCT	_	_	2	punct	_	_
+8	;	$;	PUNCT	_	_	10	punct	_	_
 9	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	spør	spørre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
 11	:	$:	PUNCT	_	_	2	punct	_	_

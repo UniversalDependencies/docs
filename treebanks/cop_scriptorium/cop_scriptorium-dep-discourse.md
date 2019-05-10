@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `discourse`.
+16 nodes (0%) are attached to their parents as `discourse`.
 
-10 instances of `discourse` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.15384615384615.
+13 instances of `discourse` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.4375.
 
-The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (4; 31% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (3; 23% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (5; 31% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (4; 25% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (3; 19% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -32,27 +32,6 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
 9	ϩⲣⲱⲙⲁⲓⲟⲥ	ϩⲣⲱⲙⲁⲓⲟⲥ	NOUN	N	_	7	nmod	_	Orig=ϩⲣⲟⲙⲁⲓⲟⲥ
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 discourse	color:blue
-1	ϩⲁⲙⲟⲓ	ϩⲁⲙⲟⲓ	CCONJ	CONJ	_	6	discourse	_	Orig=ϩⲁⲙⲟⲓ̈
-2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	6	advmod	_	Orig=ⲟⲛ⳿
-3	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	mark	_	_
-4	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
-5	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
-6	ϭⲱ	ϭⲱ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϭⲱ̂
-7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
-8	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Orig=ⲧⲉⲓ̈
-9	ϩⲉ	ϩⲉ	NOUN	N	_	6	obl	_	_
-10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	Orig=ⲡⲉ⳿
-11	,	,	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 
@@ -90,6 +69,27 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	21	nmod	_	_
 27	·	·	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	ϩⲁⲙⲟⲓ	ϩⲁⲙⲟⲓ	CCONJ	CONJ	_	6	discourse	_	Orig=ϩⲁⲙⲟⲓ̈
+2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	6	advmod	_	Orig=ⲟⲛ⳿
+3	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	aux	_	_
+4	ϣⲁ	ϣⲁⲣⲉ	AUX	AAOR	_	6	aux	_	_
+5	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+6	ϭⲱ	ϭⲱ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϭⲱ̂
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
+8	ⲧⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	Orig=ⲧⲉⲓ̈
+9	ϩⲉ	ϩⲉ	NOUN	N	_	6	obl	_	_
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	Orig=ⲡⲉ⳿
+11	,	,	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

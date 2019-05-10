@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt>.
 
-145 nodes (1%) are attached to their parents as `advmod:emph`.
+118 nodes (1%) are attached to their parents as `advmod:emph`.
 
-141 instances of `advmod:emph` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24137931034483.
+117 instances of `advmod:emph` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22033898305085.
 
-The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (61; 42% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (21; 14% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 10% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 10% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (10; 7% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (61; 52% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (21; 18% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 13% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (10; 8% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (4; 3% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 10	fgColor:white
 # visual-style 10 11 advmod:emph	color:blue
 1	Oyun	oyun	NOUN	NN	Number=Sing	2	compound	_	_
-2	tarzında	tarz	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	advmod	_	_
+2	tarzında	tarz	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
 3	sert	sert	ADJ	JJ	Number=Sing	5	amod	_	_
 4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
 5	yan	yan	NOUN	NN	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -58,25 +58,19 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 advmod:emph	color:blue
-1	Ancak	ancak	ADV	RB	_	12	advmod	_	_
-2	onda	o	PRON	PRP	Case=Loc|Number=Sing	12	advmod	_	_
-3	ya	ya	CCONJ	CCONJ	_	7	cc	_	_
-4	da	da	ADV	RB	_	3	advmod:emph	_	_
-5	başkalarına	başka	NOUN	NN	Case=Dat|Number=Plur	7	nmod	_	_
-6	karşı	karşı	ADP	IN	_	5	case	_	_
-7	davranışlarında	davranış	NOUN	NN	Case=Loc|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	conj	_	_
-8	sanatsal	sanatsal	ADJ	JJ	Number=Sing	11	amod	_	_
-9	başka	başka	ADJ	JJ	Number=Sing	11	amod	_	_
-10	hiçbir	hiçbir	DET	DT	Definite=Ind|Number=Sing|Polarity=Neg	11	det	_	_
-11	şey	şey	PRON	PRI	Case=Nom|Number=Sing	12	nsubj	_	_
-12	yok	yok	ADJ	JJ	Polarity=Neg	0	root	_	_
-13	tu	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-14	.	.	PUNCT	.	_	12	punct	_	_
+# visual-style 4 5 advmod:emph	color:blue
+1	Bizi	biz	PRON	PRP	Case=Acc|Number=Sing|Person=1|Polarity=Pos	3	obj	_	_
+2	onlara	o	PRON	PRP	Case=Dat|Number=Plur|Person=3|Polarity=Pos	3	iobj	_	_
+3	bağlayan	bağla	ADJ	VJ	Number=Sing|Polarity=Pos	4	acl:relcl	_	_
+4	şey	şey	PRON	PRI	Case=Nom|Number=Sing	6	nsubj	_	_
+5	de	de	ADV	RB	_	4	advmod:emph	_	_
+6	bu	bu	PRON	PRD	Definite=Def|Number=Sing|Polarity=Pos	0	root	_	_
+7	dur	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

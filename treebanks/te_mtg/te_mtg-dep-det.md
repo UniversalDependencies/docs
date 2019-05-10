@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 2	ఆ	_	DET	DET	_	3	det	_	Translit=ā|LTranslit=_
 3	పని	_	NOUN	NOUN	_	5	obj	_	Translit=pani|LTranslit=_
 4	చెయ్యాల్సి	_	VERB	VERB	_	5	compound:svc	_	Translit=cèyyālsi|LTranslit=_
-5	వచ్చింది	_	VERB	VERB	_	0	root	_	Translit=vacciṁdi|LTranslit=_
+5	వచ్చింది	_	VERB	VERB	_	0	root	_	Translit=vacciṁdi|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -53,11 +53,11 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	ఎంత	_	DET	DET	_	2	det	_	Translit=èṁta|LTranslit=_
+1	ఎంత	_	DET	DET	_	2	det	_	Translit=èṁta|LTranslit=_
 2	త్వరగా	_	ADV	ADV	_	3	advmod	_	Translit=tvaragā|LTranslit=_
 3	అయితే	_	VERB	VERB	_	5	ccomp	_	Translit=ayite|LTranslit=_
-4	అంత	_	DET	DET	_	5	det	_	Translit=aṁta|LTranslit=_
-5	మంచిది	_	NOUN	NOUN	_	0	root	_	Translit=maṁcidi|LTranslit=_
+4	అంత	_	DET	DET	_	5	det	_	Translit=aṁta|LTranslit=_
+5	మంచిది	_	NOUN	NOUN	_	0	root	_	Translit=maṁcidi|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
 
 ~~~

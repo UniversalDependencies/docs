@@ -9,35 +9,35 @@ udver: '2'
 This feature is universal.
 It occurs with 15 different values: `Abe`, `Abl`, `Add`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Nom`, `Par`, `Ter`, `Tra`.
 
-209207 tokens (48%) have a non-empty value of `Case`.
-71690 types (90%) occur at least once with a non-empty value of `Case`.
-36213 lemmas (86%) occur at least once with a non-empty value of `Case`.
-The feature is used with 13 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (113213; 26% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (31562; 7% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24958; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (22783; 5% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7015; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (6487; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2913; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (182; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (72; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+209204 tokens (48%) have a non-empty value of `Case`.
+71686 types (90%) occur at least once with a non-empty value of `Case`.
+36212 lemmas (86%) occur at least once with a non-empty value of `Case`.
+The feature is used with 13 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (113214; 26% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (31552; 7% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24958; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (22779; 5% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7017; 2% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (6496; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2912; 1% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (182; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (72; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-113213 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+113214 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (85849; 76%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (85850; 76%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abe` (254; 0% of non-empty `Case`): <em>tasuta, abita, tööta, traadita, heakskiiduta, järelevalveta, vastuseta, Piirideta, eelarvamusteta, elaniketa</em>
-* `Abl` (606; 1% of non-empty `Case`): <em>töölt, maalt, seisukohalt, välismaalt, riigilt, inimestelt, katuselt, lavalt, põrandalt, kohalt</em>
-* `Add` (1800; 2% of non-empty `Case`): <em>kätte, koju, tuppa, meelde, silma, selga, kööki, pähe, ellu, toime</em>
-* `Ade` (6491; 6% of non-empty `Case`): <em>aastal, ajal, sõnul, juhul, aastatel, alusel, hommikul, päeval, õhtul, hetkel</em>
+* `Abl` (607; 1% of non-empty `Case`): <em>töölt, maalt, seisukohalt, välismaalt, riigilt, inimestelt, katuselt, lavalt, põrandalt, kohalt</em>
+* `Add` (1802; 2% of non-empty `Case`): <em>kätte, koju, tuppa, meelde, silma, selga, kööki, pähe, ellu, toime</em>
+* `Ade` (6492; 6% of non-empty `Case`): <em>aastal, ajal, sõnul, juhul, aastatel, alusel, hommikul, päeval, õhtul, hetkel</em>
 * `All` (4002; 4% of non-empty `Case`): <em>tööle, lastele, inimesele, inimestele, tööhõivele, teele, ebavõrdsusele, riigile, küsimusele, põrandale</em>
 * `Com` (4469; 4% of non-empty `Case`): <em>aastaga, osaajaga, käega, arhitektuuriga, nimega, punktiga, tööga, häälega, tõenäosusega, ω-3-rasvhapetega</em>
 * `Ela` (4704; 4% of non-empty `Case`): <em>aastast, ajast, aastatest, elust, peast, algusest, küljest, tervisest, uksest, üldlipiididest</em>
 * `Ess` (668; 1% of non-empty `Case`): <em>reeglina, tulemusena, tervikuna, mõjurina, põhjusena, ainsana, näitajana, tegurina, mõjuritena, osana</em>
-* `Gen` (29648; 26% of non-empty `Case`): <em>aasta, sissetulekute, riigi, töö, inimese, maailma, ebavõrdsuse, inimeste, aja, andmete</em>
+* `Gen` (29647; 26% of non-empty `Case`): <em>aasta, sissetulekute, riigi, töö, inimese, maailma, ebavõrdsuse, inimeste, aja, andmete</em>
 * `Ill` (897; 1% of non-empty `Case`): <em>arvesse, haiglasse, masinatesse, voodisse, kohtusse, ehitistesse, autosse, taskusse, politseisse, sajandisse</em>
-* `Ine` (6837; 6% of non-empty `Case`): <em>maailmas, mõttes, alguses, riigis, elus, aastas, keeles, lõpus, kodus, nädalas</em>
-* `Nom` (31375; 28% of non-empty `Case`): <em>mees, inimesed, inimene, osa, aeg, asi, naine, riik, osakaal, mõju</em>
-* `Par` (18112; 16% of non-empty `Case`): <em>aastat, korda, krooni, aega, raha, tegemist, tööd, aru, inimesi, inimest</em>
+* `Ine` (6838; 6% of non-empty `Case`): <em>maailmas, mõttes, alguses, riigis, elus, aastas, keeles, lõpus, kodus, nädalas</em>
+* `Nom` (31374; 28% of non-empty `Case`): <em>mees, inimesed, inimene, osa, aeg, asi, naine, riik, osakaal, mõju</em>
+* `Par` (18110; 16% of non-empty `Case`): <em>aastat, korda, krooni, aega, raha, tegemist, tööd, aru, inimesi, inimest</em>
 * `Ter` (392; 0% of non-empty `Case`): <em>lõpuni, aastani, õhtuni, kroonini, dollarini, protsendini, päevani, detsembrini, keskpaigani, novembrini</em>
 * `Tra` (2958; 3% of non-empty `Case`): <em>lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, kasuks, lõpuks, õnneks, ülesandeks</em>
-* `EMPTY` (1488): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
+* `EMPTY` (1489): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
 
 <table>
   <tr><th>Paradigm <i>riik</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Add</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Ter</tt></th></tr>
@@ -48,25 +48,25 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-31562 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Case`.
+31552 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (27362; 87%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27226; 86%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (27219; 86%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26009; 82%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23444; 74%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (27352; 87%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27216; 86%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (27209; 86%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26006; 82%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23434; 74%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abe` (110; 0% of non-empty `Case`): <em>polüküllastumata, küllastumata, mehitamata, saamata, teadmata, tulemata, alustamata, lõpetamata, etteteatamata, juhtimata</em>
-* `Abl` (76; 0% of non-empty `Case`): <em>esimeselt, vasakult, puhtalt, teiselt, vahetumalt, 2008., Kaugelt, Vaimsetelt, Vanematelt, Vormikohastelt</em>
+* `Abl` (74; 0% of non-empty `Case`): <em>esimeselt, vasakult, puhtalt, teiselt, vahetumalt, 2008., Kaugelt, Vaimsetelt, Vanematelt, Vormikohastelt</em>
 * `Add` (86; 0% of non-empty `Case`): <em>uude, esimesse, laia, kohalikku, suurde, kummalisse, pikka, riiklikku, tagumisse, 16.</em>
 * `Ade` (1672; 5% of non-empty `Case`): <em>viimasel, järgmisel, eelmisel, esimesel, teisel, viimastel, suurel, 1999., varasematel, 16.</em>
 * `All` (743; 2% of non-empty `Case`): <em>uuele, suurele, suuremale, uutele, avalikule, praegusele, rasvhappelisele, endisele, strateegilistele, viimasele</em>
 * `Com` (31; 0% of non-empty `Case`): <em>viimasega, 80ndatega, II-ga, Viimastega, abstraktsega, auklikuga, dekoratiivsega, dementsetega, eelmisega, eestikeelsetega</em>
 * `Ela` (1060; 3% of non-empty `Case`): <em>keskmisest, suurest, esimesest, tavalisest, senisest, vanast, 1., uuest, endisest, mustast</em>
 * `Ess` (165; 1% of non-empty `Case`): <em>esimesena, järgmisena, mõõdetuna, vaadatuna, võetuna, stabiilsena, 17aastasena, hinnatuna, koosnevana, lummatuna</em>
-* `Gen` (7780; 25% of non-empty `Case`): <em>uue, suure, viimase, erinevate, suurema, esimese, keskmise, uute, hea, suurte</em>
+* `Gen` (7776; 25% of non-empty `Case`): <em>uue, suure, viimase, erinevate, suurema, esimese, keskmise, uute, hea, suurte</em>
 * `Ill` (189; 1% of non-empty `Case`): <em>endisesse, asuvasse, erinevatesse, suuremasse, uutesse, väikestesse, jahedasse, lähimasse, millisesse, pimedasse</em>
-* `Ine` (1185; 4% of non-empty `Case`): <em>esimeses, suures, erinevates, teises, käesolevas, viimases, uues, kolmandas, multiskalaarses, heas</em>
-* `Nom` (12645; 40% of non-empty `Case`): <em>suur, võimalik, suurem, hea, oluline, esimene, raske, uus, väike, viimane</em>
-* `Par` (4236; 13% of non-empty `Case`): <em>uusi, esimest, suurt, erinevaid, uut, head, suuri, suuremat, viimast, pikka</em>
+* `Ine` (1184; 4% of non-empty `Case`): <em>esimeses, suures, erinevates, teises, käesolevas, viimases, uues, kolmandas, multiskalaarses, heas</em>
+* `Nom` (12643; 40% of non-empty `Case`): <em>suur, võimalik, suurem, hea, oluline, esimene, raske, uus, väike, viimane</em>
+* `Par` (4235; 13% of non-empty `Case`): <em>uusi, esimest, suurt, erinevaid, uut, head, suuri, suuremat, viimast, pikka</em>
 * `Ter` (11; 0% of non-empty `Case`): <em>praeguseni, 1990ndateni, Homseni, mustjaspruunini, neljandani, segmentaarseteni, seitsmekümnendateni, äärmuslikeni, üheksakümnendateni</em>
 * `Tra` (1573; 5% of non-empty `Case`): <em>selgeks, kindlaks, oluliseks, heaks, paremaks, esimeseks, puhtaks, suuremaks, tänaseks, nüüdseks</em>
 * `EMPTY` (5036): <em>eesti, nn, seotud, teatud, tehtud, vene, eri, antud, möödunud, tuntud</em>
@@ -109,9 +109,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-22783 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+22779 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17288; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13844; 61%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11580; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17287; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13840; 61%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11580; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -127,7 +127,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ill` (41; 0% of non-empty `Case`): <em>sellesse, endasse, temasse, millesse, kellesse, kellessegi, neisse, üksteisesse, millessegi, mitmetesse</em>
 * `Ine` (289; 1% of non-empty `Case`): <em>selles, milles, neis, paljudes, endas, temas, paljuski, omas, minus, teises</em>
 * `Nom` (10122; 44% of non-empty `Case`): <em>ta, see, mis, ma, kes, nad, me, sa, need, ise</em>
-* `Par` (3343; 15% of non-empty `Case`): <em>seda, mida, midagi, neid, end, teda, mind, ennast, meid, keda</em>
+* `Par` (3339; 15% of non-empty `Case`): <em>seda, mida, midagi, neid, end, teda, mind, ennast, meid, keda</em>
 * `Ter` (21; 0% of non-empty `Case`): <em>selleni, meieni, milleni, minuni, teieni, paljudeni, temani</em>
 * `Tra` (221; 1% of non-empty `Case`): <em>selleks, omaks, samaks, milleks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljudeks</em>
 * `EMPTY` (2): <em>tal, teistsuguseid</em>
@@ -142,9 +142,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NUM`
 
-7015 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (76% of all `NUM` tokens) have a non-empty value of `Case`.
+7017 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (76% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (7007; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6878; 98%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3631; 52%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (7007; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6879; 98%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3631; 52%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -158,11 +158,11 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Gen` (1357; 19% of non-empty `Case`): <em>kahe, ühe, miljoni, kolme, viie, poole, kümne, nelja, paari, 000</em>
 * `Ill` (5; 0% of non-empty `Case`): <em>kümnetesse, esikaheksasse, miljarditesse, seitsmesse</em>
 * `Ine` (107; 2% of non-empty `Case`): <em>ühes, kolmes, kahes, 10, 30, neljas, 12, 17, 40, 644-s</em>
-* `Nom` (4614; 66% of non-empty `Case`): <em>kaks, üks, kolm, 1, 000, viis, neli, 2, paar, kümme</em>
+* `Nom` (4618; 66% of non-empty `Case`): <em>kaks, üks, kolm, 1, 000, viis, neli, 2, paar, kümme</em>
 * `Par` (421; 6% of non-empty `Case`): <em>miljonit, kahte, kolme, miljardit, tuhat, ühtegi, üht, nelja, tuhandeid, ühte</em>
 * `Ter` (18; 0% of non-empty `Case`): <em>17,1, 2,5, 2,8, 22,8, 29, 3, 3.30ni, 39,6, 40, 46,4</em>
-* `Tra` (55; 1% of non-empty `Case`): <em>kaheks, üheks, 99, kolmeks, neljaks, viieks, paariks, kuueks, pooleks, 000</em>
-* `EMPTY` (2232): <em>1, 2, 10, 3, 6, 50, 4, 20.11.2002, 100, 20</em>
+* `Tra` (53; 1% of non-empty `Case`): <em>kaheks, üheks, 99, kolmeks, neljaks, viieks, paariks, kuueks, pooleks, 10-15</em>
+* `EMPTY` (2235): <em>1, 2, 10, 3, 6, 50, 4, 20.11.2002, 100, 20</em>
 
 <table>
   <tr><th>Paradigm <i>üks</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th><th><tt>Add</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Ter</tt></th></tr>
@@ -175,9 +175,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `DET`
 
-6487 <tt><a href="et_edt-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Case`.
+6496 <tt><a href="et_edt-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4519; 70%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3337; 51%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4525; 70%), <tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3339; 51%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -188,11 +188,11 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Com` (1; 0% of non-empty `Case`): <em>kõigiga</em>
 * `Ela` (311; 5% of non-empty `Case`): <em>sellest, neist, ühest, teistest, teisest, kõigist, mõnest, mitmest, samast, kõikidest</em>
 * `Ess` (1; 0% of non-empty `Case`): <em>ühena</em>
-* `Gen` (1397; 22% of non-empty `Case`): <em>selle, ühe, nende, teiste, iga, mõne, kõigi, sellise, teise, sama</em>
+* `Gen` (1400; 22% of non-empty `Case`): <em>selle, ühe, nende, teiste, iga, mõne, kõigi, sellise, teise, sama</em>
 * `Ill` (45; 1% of non-empty `Case`): <em>sellesse, neisse, samasse, igasse, mingisse, teistesse, nendesse, kellessegi, kõigisse, mingisugusesse</em>
-* `Ine` (427; 7% of non-empty `Case`): <em>selles, ühes, igas, teises, mõnes, teistes, neis, samas, mingis, kõigis</em>
+* `Ine` (428; 7% of non-empty `Case`): <em>selles, ühes, igas, teises, mõnes, teistes, neis, samas, mingis, kõigis</em>
 * `Nom` (2253; 35% of non-empty `Case`): <em>see, kõik, üks, need, iga, mitu, selline, mõni, mõned, mingi</em>
-* `Par` (942; 15% of non-empty `Case`): <em>seda, mingit, neid, kõiki, sellist, mingeid, selliseid, sama, mitmeid, teisi</em>
+* `Par` (947; 15% of non-empty `Case`): <em>seda, mingit, neid, kõiki, sellist, mingeid, selliseid, mitmeid, sama, teisi</em>
 * `Tra` (107; 2% of non-empty `Case`): <em>üheks, selleks, igaks, mõneks, mitmeks, teiseks, esimeseks, samaks, Nendeks, Seks</em>
 * `EMPTY` (309): <em>kogu, terve, Muist, igasugu, sama</em>
 
@@ -205,9 +205,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `VERB`
 
-2913 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Case`.
+2912 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2913; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2913; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2913; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2913; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Sup</tt> (2913; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2913; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2912; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2912; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2912; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2912; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Sup</tt> (2912; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2912; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -216,8 +216,8 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ela` (35; 1% of non-empty `Case`): <em>avaldamast, kommenteerimast, laulmast, registreerimast, tegemast, tulemast, tunnistamast, ennustamast, kaagutamast, kadumast</em>
 * `Ill` (2318; 80% of non-empty `Case`): <em>hakkama, tegema, minema, saama, võtma, maksma, käima, vaatama, tulema, andma</em>
 * `Ine` (268; 9% of non-empty `Case`): <em>olemas, tulemas, valimas, tegemas, vaatamas, kasvamas, kujunemas, muutumas, tantsimas, esinemas</em>
-* `Tra` (51; 2% of non-empty `Case`): <em>leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</em>
-* `EMPTY` (44806): <em>on, tuleb, teha, ütles, sai, saada, tuli, saanud, jääb, saab</em>
+* `Tra` (50; 2% of non-empty `Case`): <em>leidmaks, kirjeldamaks, vältimaks, näitamaks, rõhutamaks, selgitamaks, Andmaks, Jõudmaks, Kavandamaks, Saavutamaks</em>
+* `EMPTY` (44762): <em>on, tuleb, teha, ütles, saada, sai, tuli, saanud, jääb, saab</em>
 
 <table>
   <tr><th>Paradigm <i>võtma</i></th><th><tt>Tra</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>
@@ -236,7 +236,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Ela` (1; 1% of non-empty `Case`): <em>olemast</em>
 * `Ill` (179; 98% of non-empty `Case`): <em>olema, saama</em>
 * `Ine` (1; 1% of non-empty `Case`): <em>olemas</em>
-* `EMPTY` (21761): <em>on, ei, oli, pole, võib, ole, olid, oleks, olnud, olla</em>
+* `EMPTY` (21805): <em>on, ei, oli, pole, võib, ole, olid, oleks, olnud, olla</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>
@@ -277,7 +277,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 * `Gen` (3; 19% of non-empty `Case`): <em>fungi, outcome, siecle'i</em>
 * `Nom` (13; 81% of non-empty `Case`): <em>pruritus, Sorry, acid, basic, block, brief, fin, health, of, tšh</em>
-* `EMPTY` (642): <em>al., et, of, in, drive, the, I, de, key, to</em>
+* `EMPTY` (640): <em>al., et, of, in, drive, the, I, key, to, International</em>
 
 `Case` seems to be **lexical feature** of `X`. 100% lemmas (13) occur only with one value of `Case`.
 
@@ -289,7 +289,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 * `Abl` (3; 75% of non-empty `Case`): <em>laiemalt, optimaalsemalt, otstarbekamalt</em>
 * `Nom` (1; 25% of non-empty `Case`): <em>täis</em>
-* `EMPTY` (41602): <em>ka, siis, nii, kas, juba, välja, aga, veel, mitte, väga</em>
+* `EMPTY` (41612): <em>ka, siis, nii, kas, juba, välja, aga, veel, mitte, väga</em>
 
 ### `ADP`
 
@@ -300,7 +300,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): <em>Läbi</em>
-* `EMPTY` (9176): <em>eest, üle, pärast, kohta, vastu, vahel, peale, järgi, jooksul, korral</em>
+* `EMPTY` (9173): <em>eest, üle, pärast, kohta, vastu, vahel, peale, järgi, jooksul, korral</em>
 
 ### `CCONJ`
 
@@ -309,19 +309,19 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `CCONJ` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): <em>või</em>
-* `EMPTY` (15969): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
+* `EMPTY` (15965): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="et_edt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18194; 85%),
-<tt>NOUN --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6633; 87%),
-<tt>NOUN --[<tt><a href="et_edt-dep-det.html">det</a></tt>]--> DET</tt> (5410; 86%),
+<tt>NOUN --[<tt><a href="et_edt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18166; 85%),
+<tt>NOUN --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6634; 87%),
+<tt>NOUN --[<tt><a href="et_edt-dep-det.html">det</a></tt>]--> DET</tt> (5416; 86%),
 <tt>PROPN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2562; 61%),
 <tt>ADJ --[<tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (2000; 89%),
-<tt>PROPN --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1503; 87%),
-<tt>NOUN --[<tt><a href="et_edt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1444; 64%),
-<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1319; 90%),
-<tt>NOUN --[<tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (688; 73%),
+<tt>PROPN --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1506; 87%),
+<tt>NOUN --[<tt><a href="et_edt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1427; 65%),
+<tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1318; 90%),
+<tt>NOUN --[<tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (688; 72%),
 <tt>ADJ --[<tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (586; 88%).
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  ほとんど (<tt><a href="ja_pud-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (1) was observed with the lemma “あまり”: あまり.
 
@@ -69,9 +69,9 @@ The 3rd highest number of forms (1) was observed with the lemma “いくばく�
 
 Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (163; 65% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (46; 18% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (39; 16% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
 
-200 (80%) `ADV` nodes are leaves.
+201 (80%) `ADV` nodes are leaves.
 
-45 (18%) `ADV` nodes have one child.
+44 (18%) `ADV` nodes have one child.
 
 2 (1%) `ADV` nodes have two children.
 
@@ -79,7 +79,7 @@ Parents of `ADV` nodes belong to 5 different parts of speech: <tt><a href="ja_pu
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 11 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (32; 49% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (18; 28% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (4; 6% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (4; 6% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 2% instances)
+Children of `ADV` nodes are attached using 11 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (31; 48% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (18; 28% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (4; 6% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (4; 6% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (32; 49% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (18; 28% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (31; 48% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (18; 28% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

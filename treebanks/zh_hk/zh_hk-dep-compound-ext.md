@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-compound.html">compound</a></tt>.
 There are also 3 other language-specific subtypes of `compound`: <tt><a href="zh_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="zh_hk-dep-compound-vo.html">compound:vo</a></tt>, <tt><a href="zh_hk-dep-compound-vv.html">compound:vv</a></tt>.
 
-10 nodes (0%) are attached to their parents as `compound:ext`.
+11 nodes (0%) are attached to their parents as `compound:ext`.
 
-10 instances of `compound:ext` (100%) are left-to-right (parent precedes child).
+11 instances of `compound:ext` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `compound:ext`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (8; 80% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 10% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `compound:ext`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (9; 82% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 9% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 9% instances).
 
 
 ~~~ conllu

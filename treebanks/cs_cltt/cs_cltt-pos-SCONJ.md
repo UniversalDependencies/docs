@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `SCONJ`
 
-There are 18 `SCONJ` lemmas (1%), 18 `SCONJ` types (0%) and 389 `SCONJ` tokens (1%).
+There are 17 `SCONJ` lemmas (1%), 17 `SCONJ` types (0%) and 386 `SCONJ` tokens (1%).
 Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (1) was observed with the lemma “aby”: <em>aby</em>.
 
@@ -41,17 +41,17 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: <em>a
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (363; 93% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (19; 5% instances), <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt> (4; 1% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (2; 1% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (365; 95% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (19; 5% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (150; 39% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (114; 29% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (97; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (149; 39% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (115; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (95; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-387 (99%) `SCONJ` nodes are leaves.
+385 (100%) `SCONJ` nodes are leaves.
 
-2 (1%) `SCONJ` nodes have one child.
+1 (0%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 50% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 100% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 100% instances)
 

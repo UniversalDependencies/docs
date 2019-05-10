@@ -78,16 +78,16 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 obj	color:blue
-1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
-2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
+2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
-9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
+9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
 ~~~

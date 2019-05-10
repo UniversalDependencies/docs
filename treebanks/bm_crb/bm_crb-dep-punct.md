@@ -73,8 +73,8 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 punct	color:blue
-1	ko	kó	PART	cop	_	2	discourse	_	Gloss=
-2	ayi	àyi	INTJ	intj	_	0	root	_	Gloss=non|SpaceAfter=No
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=
+2	ayi	àyi	INTJ	intj	_	0	root	_	Gloss=non|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~

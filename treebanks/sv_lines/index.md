@@ -127,11 +127,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, hålla, komma, kunna, lär, må, måste, ombedd, råka, skola, vara, vilja</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, komma, kunna, lär, må, måste, skola, vara, vilja</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, hålla, komma, må, råka, vara, vilja</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, må, vara, vilja</li>
 </ul>
 
 <ul>
@@ -150,7 +150,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: vara, ha, kunna, få, vilja, bli, komma, ombedd</li>
+    <li>AUX: vara, ha, kunna, få, bli, vilja, komma</li>
     <li>VERB: göra, ta, se, gå, använda, få, komma, bli, säga, ha</li>
   </ul>
   </li>
@@ -278,13 +278,13 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>ADJ: andra, första, själv, hela, annat, flera, många, nya, stor, enda</li>
       <li>ADJ-Part: följande, särskilt, motsvarande, nuvarande, grundläggande, beredd, dolda, intresserad, liknande, omfattande</li>
       <li>ADV: i, med, på, av, runt, efter, klart, igenom, korrekt, och</li>
-      <li>AUX: höll, haft, råkar, skola</li>
+      <li>AUX: haft, skola</li>
       <li>DET: båda, denne, du, vad, La, de, samtliga</li>
       <li>NOUN: fält, sätt, gång, år, sidan, data, man, mr, fråga, del</li>
       <li>NUM: U</li>
       <li>PRON: han, jag, du, de, vi, man, hon, ni, enda, lite</li>
       <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
-      <li>VERB: närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande, flytande</li>
+      <li>VERB: höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande</li>
     </ul>
   </li>
 </ul>
@@ -391,7 +391,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ-Part: dansande</li>
       <li>AUX-Fin: är, var, hade, kan, har, skulle, måste, kunde, vill, ska</li>
-      <li>AUX-Inf: ombedd</li>
       <li>AUX-Sup: velat</li>
       <li>VERB-Fin: var, har, sa, hade, gick, såg, kom, sade, är, vet</li>
       <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, installerat, skuggad, dödade, kopplad, sett</li>
@@ -451,7 +450,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ-Part: dansande</li>
       <li>AUX-Fin: är, var, hade, kan, har, skulle, måste, kunde, vill, ska</li>
-      <li>AUX-Inf: vara, ha, kunna, få, vilja, bli, komma</li>
+      <li>AUX-Inf: vara, ha, kunna, få, bli, vilja, komma</li>
       <li>AUX-Sup: varit, kunnat, fått, blivit, velat, kommit</li>
       <li>VERB-Fin: var, har, sa, hade, gick, kom, såg, sade, är, vet</li>
       <li>VERB-Inf: göra, ta, se, gå, använda, få, komma, bli, säga, ha</li>
@@ -464,7 +463,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Inf: ombedd</li>
       <li>VERB-Fin: visas, kändes, används, hördes, tycktes, flyttas, döljs, skapas, behövs, läggs</li>
       <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, visas, avslutad, installerat, köras, skuggad</li>
       <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, försvunnen, kallad, omgiven, Förundrad, betitlad</li>
@@ -549,6 +547,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Rel
     <ul>
       <li>PRON: som, något, vilket, vilka, vars, vilken, vilkas</li>
+      <li>SCONJ: som</li>
     </ul>
   </li>
 </ul>
@@ -606,7 +605,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, måste, vilja, få, komma, böra, må, vara, hålla, bli, lär, bruka.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, måste, vilja, få, komma, böra, må, vara, bli, lär.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: vara, bli, ha.</li>
 </ul>
 
@@ -619,23 +618,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Nom (2)</li>
       <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1022)</li>
+      <li>VERB-Fin--NOUN-Nom (1024)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(med) (2)</li>
       <li>VERB-Fin--PRON (761)</li>
       <li>VERB-Fin--PRON-Nom (2138)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (176)</li>
-      <li>VERB-Inf--PRON (93)</li>
-      <li>VERB-Inf--PRON-Nom (670)</li>
-      <li>VERB-Part--NOUN-Nom (8)</li>
+      <li>VERB-Inf--NOUN-Nom (179)</li>
+      <li>VERB-Inf--PRON (96)</li>
+      <li>VERB-Inf--PRON-Nom (668)</li>
+      <li>VERB-Part--NOUN-Nom (12)</li>
       <li>VERB-Part--PRON (9)</li>
       <li>VERB-Part--PRON-Nom (17)</li>
+      <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Nom (137)</li>
-      <li>VERB-Sup--PRON (111)</li>
+      <li>VERB-Sup--PRON (110)</li>
       <li>VERB-Sup--PRON-Nom (332)</li>
     </ul>
   </li>
@@ -647,17 +648,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (2)</li>
       <li>VERB-Fin--NOUN (9)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (1355)</li>
+      <li>VERB-Fin--NOUN-Nom (1356)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(om) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (326)</li>
+      <li>VERB-Fin--PRON (325)</li>
       <li>VERB-Fin--PRON-ADP(med) (1)</li>
-      <li>VERB-Fin--PRON-Acc (494)</li>
+      <li>VERB-Fin--PRON-Acc (493)</li>
       <li>VERB-Fin--PRON-Gen (11)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (7)</li>
-      <li>VERB-Inf--NOUN-Nom (938)</li>
+      <li>VERB-Inf--NOUN-Nom (940)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
       <li>VERB-Inf--PRON (166)</li>
@@ -668,7 +669,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Sup--NOUN-Nom (191)</li>
-      <li>VERB-Sup--PRON (88)</li>
+      <li>VERB-Sup--PRON (91)</li>
       <li>VERB-Sup--PRON-ADP(med) (1)</li>
       <li>VERB-Sup--PRON-Acc (77)</li>
       <li>VERB-Sup--PRON-Gen (1)</li>

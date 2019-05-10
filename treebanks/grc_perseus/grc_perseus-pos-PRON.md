@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>οἱ</em> (<tt><a href="grc_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 11.903846 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `PRON` is 11.903846 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (69) was observed with the lemma “ὅς”: <em>αἳ, αἵ, αἵπερ, αἷν, αἷς, αἷσπερ, οἳ, οἵ, οἵπερ, οἷο, οἷς, οἷσί, οἷσίν, οἷσι, οἷσιν, οὓς, οὕς, οὗ, τά, τοὺς, τοῖσί, τοῖσι, τοῦ, τόν, τὰ, τὰς, τὴν, τὸ, τὸν, τῆς, τῇ, τῇσι, τῶν, τῷ, χὦνπερ, ἃ, ἃν, ἃς, ἅ, ἅπερ, ἅς, ἅσπερ, ἇς, ἕης, ἣ, ἣν, ἥ, ἥν, ἥπερ, ἧς, ὃ, ὃν, ὃς, ὅ, ὅν, ὅνπερ, ὅου, ὅς, ὅσπερ, ὣ, ὥ, ὧν, ὧνπερ, ᾇ, ᾗ, ᾗς, ᾗσιν, ᾧ, ᾧπερ</em>.
 

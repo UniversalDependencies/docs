@@ -13,13 +13,13 @@ The 10 most frequent `ADP` lemmas: の, は, を, に, が, と, で, も, か�
 
 The 10 most frequent `ADP` types:  の, は, を, に, が, と, で, も, から, や
 
-The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1630, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 66), が (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 596, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 424, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 121), から (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 5)
+The 10 most frequent ambiguous lemmas: の (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1629, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 66), が (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 596, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 424, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 121), から (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 5)
 
-The 10 most frequent ambiguous types:  の (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1629, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 21), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 792, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 130, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 4), が (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 596, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 386, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 121), で (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 331, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 67, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 20), から (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 5), より (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 9), はじめ (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  の (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1628, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 21), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 792, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 130, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 4), が (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 596, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 84), と (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 386, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 121), で (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 331, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 67, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 20), から (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 5), より (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 9), はじめ (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
 
 
 * の
-  * <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1629: 新た な 支出 は クリントン <b>の</b> 巨大 な 銀行口座 によって 充填 さ れ て いる 。
+  * <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 1628: 新た な 支出 は クリントン <b>の</b> 巨大 な 銀行口座 によって 充填 さ れ て いる 。
   * <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 66: ドレス コード が 堅苦し すぎる <b>の</b> だろ う 。
   * <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 21: 展示会 で は 、 地図 それぞれ が 独自 <b>の</b> 物語 を 告げる が 、 事実 と は 限ら ない 。
 * に
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.139535 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `ADP` is 1.139535 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (2) was observed with the lemma “と”: 、と, と.
 
@@ -61,17 +61,11 @@ The 3rd highest number of forms (2) was observed with the lemma “とともに�
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (6377; 98% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (74; 1% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (28; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (6375; 98% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (75; 1% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (28; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (4637; 72% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (902; 14% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (436; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (395; 6% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (65; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (4610; 71% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (907; 14% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (436; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (394; 6% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (65; 1% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (18; 0% instances)
 
-6478 (100%) `ADP` nodes are leaves.
+6479 (100%) `ADP` nodes are leaves.
 
-1 (0%) `ADP` nodes have one child.
-
-The highest child degree of a `ADP` node is 1.
-
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1; 100% instances)
-
-Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `ADP` node is 0.
 

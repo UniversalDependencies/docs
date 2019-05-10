@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 8	erfreut	erfreuen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 9	sich	er|es|sie	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rcp	8	expl:pv	_	_
 10	eines	ein	DET	DT	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|Person=3	14	det	_	_
-11	milden	mild	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Person=3	14	amod	_	InflectionType=Mixed|SpaceAfter=No
+11	milden	mild	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Person=3	14	amod	_	SpaceAfter=No|InflectionType=Mixed
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	mediterranen	mediterran	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Person=3	11	conj	_	InflectionType=Mixed
 14	Klimas	Klima	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing|Person=3	8	obj	_	SpaceAfter=No

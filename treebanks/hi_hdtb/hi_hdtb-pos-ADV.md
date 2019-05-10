@@ -36,11 +36,11 @@ The 10 most frequent ambiguous types:  बाद (<tt><a href="hi_hdtb-pos-ADP.h
   * <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 4: अफ्रीकी संघ के इस निर्णय से भारत , जर्मनी एवं जापान की उम्मीदों पर पानी <b>फिर</b> गया प्रतीत होता है ।
 * वहीं
   * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 122: <b>वहीं</b> धर्मशालाओं में भी साल भर भीड़ रहती है ।
-  * <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> 11: <b>वहीं</b> पर सादे कपड़ों में मौजूद दिल्ली पुलिस ने इस कार पर धावा बोल दिया ।
+  * <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> 11: <b>वहीं</b> पर सादे कपड़ों में मौजूद दिल्ली पुलिस ने इस कार पर धावा बोल दिया ।
 * आगे
   * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 109: महापरिनिर्वाण मंदिर से कुछ दूर <b>आगे</b> माथा कुँवर का मंदिर है ।
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 24: सैलानी मक्कू बैण्ड से <b>आगे</b> नहीं बढ़ पा रहे हैं ।
-  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 2: गाड़ी को <b>आगे</b> - पीछे चलाकर देखा गया और तसल्ली होने के बाद ही उसे आगे रवाना किया गया ।
+  * <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 2: गाड़ी को <b>आगे</b> - पीछे चलाकर देखा गया और तसल्ली होने के बाद ही उसे आगे रवाना किया गया ।
 * जल्द
   * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 91: हालांकि उन्होंने उम्मीद जताई है कि बिस्वास <b>जल्द</b> स्वस्थ हो जाएंगे ।
   * <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> 1: प्रधानमंत्री मनमोहन सिंह ने इस घटना को दुर्भाग्यपूर्ण बताते हुए महाजन के <b>जल्द</b> स्वास्थ्य लाभ के लिए उनकी पत्नी रेखा को लिखा है ।
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  बाद (<tt><a href="hi_hdtb-pos-ADP.h
   * <tt><a href="hi_hdtb-pos-X.html">X</a></tt> 1: पुलिस के साथ -JOIN <b>साथ</b> हमें भी सजग रहने की आवश्यकता है .
 * दौरान
   * <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 375: सर्वेक्षण के <b>दौरान</b> कुछ सुखद पहलू भी सामने आए हैं ।
-  * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 77: इस <b>दौरान</b> उच्च शिक्षा में महिलाओं की भागीदारी बढ़ कर ४० फीसदी हो गई ।
+  * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 77: इस <b>दौरान</b> उच्च शिक्षा में महिलाओं की भागीदारी बढ़ कर ४० फीसदी हो गई ।
 * बहुत
   * <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> 74: यह फर्म <b>बहुत</b> आकर्षक निवेश रणनीति बनाने में ईपीएफओ की मदद करेगी ।
   * <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> 63: यह <b>बहुत</b> ही चिंताजनक स्थिति है ।
@@ -59,13 +59,13 @@ The 10 most frequent ambiguous types:  बाद (<tt><a href="hi_hdtb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.025424 (the average of all parts of speech is 1.207153).
+The form / lemma ratio of `ADV` is 1.025424 (the average of all parts of speech is 1.203116).
 
 The 1st highest number of forms (3) was observed with the lemma “वहाँ”: वहाँ, वहां, वहीं.
 
 The 2nd highest number of forms (2) was observed with the lemma “अवश्य”: अवश्य, अवश्‍य.
 
-The 3rd highest number of forms (2) was observed with the lemma “आखिरकार”: आखिरकार, आख़िरकार.
+The 3rd highest number of forms (2) was observed with the lemma “आखिरकार”: आख़िरकार, आखिरकार.
 
 `ADV` occurs with 9 features: <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (1380; 42% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (1379; 42% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (1377; 42% instances), <tt><a href="hi_hdtb-feat-AdpType.html">AdpType</a></tt> (1373; 42% instances), <tt><a href="hi_hdtb-feat-Person.html">Person</a></tt> (1371; 42% instances), <tt><a href="hi_hdtb-feat-AdvType.html">AdvType</a></tt> (372; 11% instances), <tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt> (42; 1% instances), <tt><a href="hi_hdtb-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
 
@@ -82,17 +82,17 @@ Examples: फिर, वहीं, जल्द, लगातार, फिल�
 
 Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2591; 79% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (310; 9% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (179; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (103; 3% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (71; 2% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (22; 1% instances),  (13; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-2287 (69%) `ADV` nodes are leaves.
+2375 (72%) `ADV` nodes are leaves.
 
-863 (26%) `ADV` nodes have one child.
+784 (24%) `ADV` nodes have one child.
 
-112 (3%) `ADV` nodes have two children.
+104 (3%) `ADV` nodes have two children.
 
-37 (1%) `ADV` nodes have three or more children.
+36 (1%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 7.
+The highest child degree of a `ADV` node is 8.
 
-Children of `ADV` nodes are attached using 17 different relations: <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (291; 23% instances), <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (288; 23% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (145; 12% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (142; 11% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (87; 7% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (75; 6% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (52; 4% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (46; 4% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (36; 3% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (22; 2% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (19; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (18; 1% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (8; 1% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="hi_hdtb-dep-case.html">case</a></tt> (274; 24% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (224; 20% instances), <tt><a href="hi_hdtb-dep-det.html">det</a></tt> (142; 12% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (137; 12% instances), <tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt> (87; 8% instances), <tt><a href="hi_hdtb-dep-amod.html">amod</a></tt> (75; 7% instances), <tt><a href="hi_hdtb-dep-compound.html">compound</a></tt> (44; 4% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (37; 3% instances), <tt><a href="hi_hdtb-dep-acl-relcl.html">acl:relcl</a></tt> (36; 3% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (22; 2% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (19; 2% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (18; 2% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (13; 1% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (8; 1% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (6; 1% instances), <tt><a href="hi_hdtb-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (287; 23% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (283; 23% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (143; 12% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (132; 11% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (127; 10% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (74; 6% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (71; 6% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (40; 3% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (13; 1% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances)
+Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (269; 23% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (224; 20% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (143; 12% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (124; 11% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (119; 10% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (74; 6% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (71; 6% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (40; 3% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (13; 1% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances)
 

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 4 combinations have been observe
 
 75768 tokens (55%) have a non-empty value of `Case`.
 9227 types (85%) occur at least once with a non-empty value of `Case`.
-8472 lemmas (89%) occur at least once with a non-empty value of `Case`.
+8471 lemmas (89%) occur at least once with a non-empty value of `Case`.
 The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32674; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17054; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10907; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (5581; 4% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5187; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1954; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1578; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (475; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (189; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (94; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (55; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances).
 
 ### `NOUN`
@@ -323,8 +323,8 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ur_udtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4449; 74%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3362; 53%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4451; 74%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3359; 53%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1903; 65%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-det.html">det</a></tt>]--> DET</tt> (1623; 69%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (808; 74%),

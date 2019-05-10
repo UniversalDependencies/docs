@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 7	dobu	doba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
 8	stanovenou	stanovený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	LId=v-1
-10	§_31_odst._2	§_31_odst._2	X	X@-------------	_	8	advmod	_	_
+10	§_31_odst._2	§_31_odst._2	X	X@-------------	_	8	obl	_	_
 11	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	_	LId=podle-2
 12	toho	ten	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	16	punct	_	_
@@ -85,7 +85,7 @@ The following 10 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 18	vedení	vedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	16	obl	_	_
 19	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	18	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	21	punct	_	_
-21	nejde-li	nejde-li	X	X@-------------	_	3	advmod	_	_
+21	nejde-li	nejde-li	X	X@-------------	_	3	obl	_	_
 22	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	23	case	_	LId=o-1
 23	případ	případ	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	21	obl:arg	_	_
 24	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	25	case	_	LId=podle-2

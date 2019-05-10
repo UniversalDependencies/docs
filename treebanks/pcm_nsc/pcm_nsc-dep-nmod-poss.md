@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	derefore	derefore	ADV	_	_	7	advmod	_	_
 3	<	<	PUNCT	_	_	2	punct	_	_
 4	#	#	PUNCT	_	_	2	punct	_	_
-5	na	na	PART	_	_	7	cop	_	_
+5	na	na	AUX	PART	_	7	cop	_	_
 6	our	our	PRON	_	_	7	nmod:poss	_	_
 7	hand	hand	NOUN	_	_	0	root	_	_
 8	>+	>+	PUNCT	_	_	12	punct	_	_
@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nmod:poss	color:blue
-1	na	na	PART	_	_	3	cop	_	_
+1	na	na	AUX	PART	_	3	cop	_	_
 2	only	only	ADJ	_	_	3	amod	_	_
 3	God	God	PROPN	_	_	0	root	_	_
 4	>+	>+	PUNCT	_	_	6	punct	_	_

@@ -28,5 +28,6 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>ADJ --[<tt><a href="got_proiel-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 75%),
+<tt>ADJ --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 67%).
 

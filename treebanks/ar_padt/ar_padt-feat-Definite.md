@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 * `EMPTY` (5): أفريقي، أوسطي، افريقي، عام، كبيرة
 
 <table>
-  <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Com</tt></th><th><tt>Cons</tt></th></tr>
+  <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Com</tt></th><th><tt>Cons</tt></th></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أول, أولاً, اول, اولا, أولا, اولاً</td><td>الاول, الأول</td><td></td><td>أول, اول</td></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>الأولى</td><td></td></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>الاولى, الأولى</td><td></td><td>أولى, اولى</td></tr>
@@ -106,12 +106,12 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19192; 83%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4038; 70%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (882; 98%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (313; 79%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19201; 83%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4037; 70%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (881; 98%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (311; 81%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (236; 82%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (136; 67%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (135; 67%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (98; 54%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (67; 72%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (56; 84%),

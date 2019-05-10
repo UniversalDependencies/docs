@@ -105,11 +105,11 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 
 <ul>
-<li>This corpus contains 2090 sentences, 49616 tokens and 49648 syntactic words.</li>
+<li>This corpus contains 2090 sentences, 49602 tokens and 49634 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6475 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 6461 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -117,7 +117,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 82 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, A., African-American, C., Co-operation, D., Fine-tune, H., M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, case-by-case, co-financing, co-ordination, cost-effectiveness, deep-seated, dot-com, fat-soluble</li>
+<li>This corpus contains 86 types of words that contain both letters and punctuation. Examples: 's, 're, so-called, 'm, 've, cost-effective, long-term, ’s, hi-tech, self-regulation, 'd, 'll, D', G., Mid-1590s, R&D, S., T., e.g., etc., i.e., late-1990, medium-sized, p., part-time, real-time, son-in-law, A., African-American, C., Co-operation, D., Fine-tune, H., M., Mr., Self-destructive, St., W., W.H., above-mentioned, avant-garde, back-up, best-selling, blow-ups, case-by-case, co-financing, co-ordination, cost-effectiveness, deep-seated</li>
 </ul>
 
 <ul>
@@ -138,7 +138,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 43 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): above, all, anyone, both, each, everyone, everything, first, he, her, his, i, it, latter, many, most, much, nobody, none, nothing, one, other, second, several, she, some, someone, something, that, them, there, they, third, this, us, we, what, when, where, whereby, which, who, whose, you</li>
 </ul>
 
 <ul>
@@ -150,11 +150,11 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): be, being, can, do, have, is, may, might, must, shall, will</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): be, can, do, have, may, might, must, shall, will</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, have, is, will</li>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, have, will</li>
 </ul>
 
 <ul>
@@ -566,7 +566,7 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: be, being, is.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
 </ul>
 
 <ul>
@@ -584,10 +584,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (617)</li>
       <li>VERB-Ger--NOUN (36)</li>
       <li>VERB-Ger--PRON (46)</li>
-      <li>VERB-Inf--NOUN (185)</li>
-      <li>VERB-Inf--PRON (233)</li>
-      <li>VERB-Part--NOUN (133)</li>
-      <li>VERB-Part--PRON (91)</li>
+      <li>VERB-Inf--NOUN (189)</li>
+      <li>VERB-Inf--PRON (237)</li>
+      <li>VERB-Part--NOUN (135)</li>
+      <li>VERB-Part--PRON (93)</li>
     </ul>
   </li>
 </ul>
@@ -601,7 +601,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN (261)</li>
       <li>VERB-Ger--PRON (17)</li>
       <li>VERB-Inf--NOUN (579)</li>
-      <li>VERB-Inf--PRON (78)</li>
+      <li>VERB-Inf--PRON (79)</li>
       <li>VERB-Part--NOUN (213)</li>
       <li>VERB-Part--NOUN-ADP('s) (1)</li>
       <li>VERB-Part--PRON (21)</li>

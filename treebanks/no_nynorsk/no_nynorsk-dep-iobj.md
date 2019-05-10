@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	på	på	ADP	_	_	5	case	_	_
 4	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tallerken	tallerken	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	1	punct	_	_
+6	,	$,	PUNCT	_	_	8	punct	_	_
 7	og	og	CCONJ	_	_	8	cc	_	_
 8	la	la	VERB	_	Mood=Imp|VerbForm=Fin	1	conj	_	_
 9	den	den	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	til	til	ADP	_	_	6	case	_	_
 5	dobbel	dobbel	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	6	amod	_	_
 6	storleik	storleik	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-7	,	$,	PUNCT	_	_	6	punct	_	_
+7	,	$,	PUNCT	_	_	10	punct	_	_
 8	ca.	ca.	ADV	_	Abbr=Yes	10	advmod	_	_
 9	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	time	time	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No

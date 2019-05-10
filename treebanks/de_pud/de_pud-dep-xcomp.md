@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-122 nodes (1%) are attached to their parents as `xcomp`.
+190 nodes (1%) are attached to their parents as `xcomp`.
 
-111 instances of `xcomp` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.76229508196721.
+142 instances of `xcomp` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.12105263157895.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (77; 63% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (31; 25% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (85; 45% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (32; 17% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (31; 16% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (31; 16% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,24 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 xcomp	color:blue
+1	Ich	ich	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	nenne	nennen	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+3	es	es	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
+4	nicht	nicht	ADV	RB	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	leichtfertig	leichtfertig	ADV	RB	Degree=Pos	2	advmod	_	_
+6	eine	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3	7	det	_	_
+7	Bestie	Bestie	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
@@ -52,30 +70,6 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	zu	zu	PART	RP	_	10	mark	_	_
 10	vergolden	vergolden	VERB	VB	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 13 xcomp	color:blue
-1	Platon	Platon	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-2	hielt	halten	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
-3	es	es	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3	6	obj	_	_
-4	für	für	CCONJ	CC	_	6	cc	_	_
-5	bedeutend	bedeutend	ADV	RB	Degree=Pos	6	advmod	_	_
-6	sicherer	sicher	ADJ	JJ	Degree=Cmp|Person=3	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	,	_	13	punct	_	_
-8	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	9	det	_	_
-9	Macht	Macht	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obj	_	_
-10	hoch	hoch	ADV	RB	Degree=Pos	11	advmod	_	_
-11	gebildeten	gebildet	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Person=3	12	amod	_	InflectionType=Strong
-12	Wächtern	Wächter	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur|Person=3	13	iobj	_	_
-13	anzuvertrauen	anvertrauen	VERB	VB	_	6	xcomp	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

@@ -34,7 +34,7 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	10	nsubj	10:nsubj	_
 10	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	8:acl:relcl	_
 11	inne	inne	ADV	AB	_	10	advmod	10:advmod	_
-12	på	på	ADP	PP	_	11	advmod	11:advmod	SpaceAfter=No
+12	på	på	ADP	PP	_	10	obl	10:obl	SpaceAfter=No
 13	.	.	PUNCT	MAD	_	6	punct	6:punct	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	4	nsubj	4:nsubj	_
 2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
 3	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	system	system	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	7:nsubj	_
+4	system	system	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root|7:nsubj	_
 5	som	som	PRON	HP|-|-|-	PronType=Rel	7	nsubj	4:ref	_
 6	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 7	känt	känd	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_

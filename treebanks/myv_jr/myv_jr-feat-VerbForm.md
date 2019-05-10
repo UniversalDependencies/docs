@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.htm
 
 ### `VERB`
 
-652 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+652 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (651; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (651; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (651; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (647; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (647; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (616; 94%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (418; 64%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (341; 52%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (319; 49% of non-empty `VerbForm`): <em>молемс, теемс, кортамо, оймсеме, тееме, путомс, сёрмадомо, валомс, леднеме, меремс</em>
 * `Part` (38; 6% of non-empty `VerbForm`): <em>менчевиця, молиця, сэредиця, Ёртозь, Аштиця, Керязь, Мизолдыця, ардыця, ваныцякс, вастневиця</em>
 * `Vnoun` (46; 7% of non-empty `VerbForm`): <em>вечкема, Пейдемат, Ярсамодо, вастнематне, ветямо, вечкима, видема, дивсематнень, жалямонь, лисемадонть</em>
-* `EMPTY` (2258): <em>кармась, мерсь, лиссь, кармасть, мольсь, совась, ашти, ютась, неяви, саизе</em>
+* `EMPTY` (2219): <em>кармась, мерсь, лиссь, кармасть, мольсь, совась, ашти, ютась, неяви, саизе</em>
 
 <table>
   <tr><th>Paradigm <i>самс</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -60,12 +60,12 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 4 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (4; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Inf` (4; 100% of non-empty `VerbForm`): <em>улеме, улемс</em>
-* `EMPTY` (410): <em>_, аволь, эзь, ульнесь, арась, ль, ули, иля, т, ульнесть</em>
+* `EMPTY` (681): <em>а, аволь, _, эзь, апак, ульнесь, арась, ль, ули, иля</em>
 
 ## Relations with Agreement in `VerbForm`
 

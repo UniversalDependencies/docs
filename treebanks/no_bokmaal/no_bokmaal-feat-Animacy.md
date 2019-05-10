@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (9745; 100% of non-empty `Animacy`): <em>jeg, han, vi, hun, du, man, meg, oss, ham, deg</em>
-* `EMPTY` (16210): <em>det, som, de, seg, dette, sin, den, hva, noe, dem</em>
+* `EMPTY` (16217): <em>det, som, de, seg, dette, sin, den, hva, noe, dem</em>
 
 `Animacy` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `Animacy`.
 

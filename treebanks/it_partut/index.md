@@ -90,7 +90,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 ## Relations
 
-[acl](it_partut-dep-acl.html) – [acl:relcl](it_partut-dep-acl-relcl.html) – [advcl](it_partut-dep-advcl.html) – [advmod](it_partut-dep-advmod.html) – [amod](it_partut-dep-amod.html) – [appos](it_partut-dep-appos.html) – [aux](it_partut-dep-aux.html) – [aux:pass](it_partut-dep-aux-pass.html) – [case](it_partut-dep-case.html) – [cc](it_partut-dep-cc.html) – [ccomp](it_partut-dep-ccomp.html) – [compound](it_partut-dep-compound.html) – [conj](it_partut-dep-conj.html) – [cop](it_partut-dep-cop.html) – [csubj](it_partut-dep-csubj.html) – [csubj:pass](it_partut-dep-csubj-pass.html) – [dep](it_partut-dep-dep.html) – [det](it_partut-dep-det.html) – [det:poss](it_partut-dep-det-poss.html) – [det:predet](it_partut-dep-det-predet.html) – [discourse](it_partut-dep-discourse.html) – [expl](it_partut-dep-expl.html) – [expl:impers](it_partut-dep-expl-impers.html) – [expl:pass](it_partut-dep-expl-pass.html) – [fixed](it_partut-dep-fixed.html) – [flat](it_partut-dep-flat.html) – [flat:foreign](it_partut-dep-flat-foreign.html) – [flat:name](it_partut-dep-flat-name.html) – [goeswith](it_partut-dep-goeswith.html) – [iobj](it_partut-dep-iobj.html) – [mark](it_partut-dep-mark.html) – [nmod](it_partut-dep-nmod.html) – [nsubj](it_partut-dep-nsubj.html) – [nsubj:pass](it_partut-dep-nsubj-pass.html) – [nummod](it_partut-dep-nummod.html) – [obj](it_partut-dep-obj.html) – [obl](it_partut-dep-obl.html) – [obl:agent](it_partut-dep-obl-agent.html) – [orphan](it_partut-dep-orphan.html) – [parataxis](it_partut-dep-parataxis.html) – [punct](it_partut-dep-punct.html) – [root](it_partut-dep-root.html) – [vocative](it_partut-dep-vocative.html) – [xcomp](it_partut-dep-xcomp.html)
+[acl](it_partut-dep-acl.html) – [acl:relcl](it_partut-dep-acl-relcl.html) – [advcl](it_partut-dep-advcl.html) – [advmod](it_partut-dep-advmod.html) – [amod](it_partut-dep-amod.html) – [appos](it_partut-dep-appos.html) – [aux](it_partut-dep-aux.html) – [aux:pass](it_partut-dep-aux-pass.html) – [case](it_partut-dep-case.html) – [cc](it_partut-dep-cc.html) – [ccomp](it_partut-dep-ccomp.html) – [compound](it_partut-dep-compound.html) – [conj](it_partut-dep-conj.html) – [cop](it_partut-dep-cop.html) – [csubj](it_partut-dep-csubj.html) – [csubj:pass](it_partut-dep-csubj-pass.html) – [dep](it_partut-dep-dep.html) – [det](it_partut-dep-det.html) – [det:poss](it_partut-dep-det-poss.html) – [det:predet](it_partut-dep-det-predet.html) – [discourse](it_partut-dep-discourse.html) – [expl](it_partut-dep-expl.html) – [expl:impers](it_partut-dep-expl-impers.html) – [expl:pass](it_partut-dep-expl-pass.html) – [fixed](it_partut-dep-fixed.html) – [flat](it_partut-dep-flat.html) – [flat:foreign](it_partut-dep-flat-foreign.html) – [flat:name](it_partut-dep-flat-name.html) – [iobj](it_partut-dep-iobj.html) – [mark](it_partut-dep-mark.html) – [nmod](it_partut-dep-nmod.html) – [nsubj](it_partut-dep-nsubj.html) – [nsubj:pass](it_partut-dep-nsubj-pass.html) – [nummod](it_partut-dep-nummod.html) – [obj](it_partut-dep-obj.html) – [obl](it_partut-dep-obl.html) – [obl:agent](it_partut-dep-obl-agent.html) – [orphan](it_partut-dep-orphan.html) – [parataxis](it_partut-dep-parataxis.html) – [punct](it_partut-dep-punct.html) – [root](it_partut-dep-root.html) – [vocative](it_partut-dep-vocative.html) – [xcomp](it_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -141,7 +141,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, dovrebbero, essere, potere, stare, venire, volere</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, essere, potere, stare, venire, volere</li>
 </ul>
 
 <ul>
@@ -592,7 +592,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: avere, potere, essere, dovere, stare, volere, andare, dovrebbero.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avere, potere, essere, dovere, stare, volere, andare.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare, stare.</li>
 </ul>
 
@@ -606,10 +606,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (328)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON (2)</li>
-      <li>VERB-Inf--NOUN (109)</li>
+      <li>VERB-Inf--NOUN (110)</li>
       <li>VERB-Inf--PRON (23)</li>
       <li>VERB-Part--NOUN (173)</li>
-      <li>VERB-Part--PRON (74)</li>
+      <li>VERB-Part--PRON (75)</li>
     </ul>
   </li>
 </ul>
@@ -623,7 +623,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN (86)</li>
       <li>VERB-Ger--PRON (12)</li>
       <li>VERB-Inf--NOUN (664)</li>
-      <li>VERB-Inf--PRON (88)</li>
+      <li>VERB-Inf--PRON (89)</li>
       <li>VERB-Part--NOUN (198)</li>
       <li>VERB-Part--PRON (38)</li>
     </ul>
@@ -658,5 +658,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

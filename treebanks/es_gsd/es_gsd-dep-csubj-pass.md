@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	de	de	ADP	_	_	7	case	_	_
 7	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
-9	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	demasiado	demasiado	PRON	_	NumType=Card|PronType=Ind	11	nmod	_	_
 11	inteligentes	inteligente	ADJ	_	Number=Plur	1	csubj:pass	_	_
 12	y	y	CCONJ	_	_	15	cc	_	_

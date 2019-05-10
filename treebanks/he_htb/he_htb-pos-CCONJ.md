@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  ו (<tt><a href="he_htb-pos-CCONJ.html">C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.085714 (the average of all parts of speech is 1.698519).
+The form / lemma ratio of `CCONJ` is 1.085714 (the average of all parts of speech is 1.701251).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: ו, חרף, למעט, עקב, פלוס.
 

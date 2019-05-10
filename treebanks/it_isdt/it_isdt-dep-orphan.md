@@ -39,7 +39,7 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 15	più	più	PRON	PI	PronType=Ind	13	conj	13:conj:o	_
 16	da	da	ADP	E	_	18	case	18:case	_
 17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	_
-18	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	orphan	_	_
+18	parte	parte	NOUN	S	Gender=Fem|Number=Sing	10	orphan	10:orphan	_
 19	opposta	opposto	ADJ	A	Gender=Fem|Number=Sing	18	amod	18:amod	SpaceAfter=No
 20	,	,	PUNCT	FF	_	10	punct	10:punct	_
 21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	22:det	_
@@ -76,13 +76,13 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 16	ogni	ogni	DET	DI	Number=Sing|PronType=Ind	17	det	17:det	_
 17	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	8	obl	8:obl	SpaceAfter=No
 18	,	,	PUNCT	FF	_	21	punct	21:punct	_
-19	complessivamente	complessivamente	ADV	B	_	21	orphan	_	_
+19	complessivamente	complessivamente	ADV	B	_	21	orphan	21:orphan	_
 20	1,3	1,3	NUM	N	NumType=Card	21	nummod	21:nummod	_
 21	miliardi	miliardo	NOUN	S	Gender=Masc|Number=Plur	8	conj	8:conj	_
 22	di	di	ADP	E	_	23	case	23:case	_
 23	passeggeri	passeggero	NOUN	S	Gender=Masc|Number=Plur	21	nmod	21:nmod:di	_
 24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	25:det	SpaceAfter=No
-25	anno	anno	NOUN	S	Gender=Masc|Number=Sing	23	orphan	_	SpaceAfter=No
+25	anno	anno	NOUN	S	Gender=Masc|Number=Sing	23	orphan	23:orphan	SpaceAfter=No
 26	.	.	PUNCT	FS	_	8	punct	8:punct	_
 
 ~~~
@@ -107,7 +107,7 @@ The following 15 pairs of parts of speech are connected with `orphan`: <tt><a hr
 11	e	e	CCONJ	CC	_	17	cc	17:cc	_
 12	a	a	ADP	E	_	14	case	14:case	_
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	14:det	_
-14	Cecenia	Cecenia	PROPN	SP	_	17	orphan	_	_
+14	Cecenia	Cecenia	PROPN	SP	_	17	orphan	17:orphan	_
 15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	17:det	_
 16	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	17:det:poss	_
 17	libertà	libertà	NOUN	S	Gender=Fem	5	conj	3:ccomp|5:conj:e	SpaceAfter=No

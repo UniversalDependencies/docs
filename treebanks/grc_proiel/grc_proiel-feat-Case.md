@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 
-123413 tokens (58%) have a non-empty value of `Case`.
+123406 tokens (58%) have a non-empty value of `Case`.
 20860 types (64%) occur at least once with a non-empty value of `Case`.
-7648 lemmas (82%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35745; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31947; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17844; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16828; 8% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (11556; 5% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (825; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (568; 0% instances).
+7634 lemmas (82%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35742; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31942; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17842; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16830; 8% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (11556; 5% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (826; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (568; 0% instances).
 
 ### `NOUN`
 
-35745 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+35742 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24915; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24914; 70%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (12520; 35% of non-empty `Case`): <em>λόγον, πόλιν, γῆν, χρόνον, θάλασσαν, πατέρα, γυναῖκα, ἡμέρας, νέας, θεὸν</em>
+* `Acc` (12519; 35% of non-empty `Case`): <em>λόγον, πόλιν, γῆν, χρόνον, θάλασσαν, πατέρα, γυναῖκα, ἡμέρας, νέας, θεὸν</em>
 * `Dat` (5277; 15% of non-empty `Case`): <em>θεῷ, κυρίῳ, πνεύματι, ἡμέρᾳ, λόγῳ, ὀνόματι, πίστει, Πέρσῃσι, ἡμέραις, τρόπῳ</em>
 * `Gen` (8994; 25% of non-empty `Case`): <em>θεοῦ, κυρίου, γῆς, ἀνθρώπων, ἀνθρώπου, οὐρανοῦ, πίστεως, Περσέων, πνεύματος, Ἑλλήνων</em>
-* `Nom` (8349; 23% of non-empty `Case`): <em>θεὸς, κύριος, υἱὸς, ἄνθρωπος, λόγος, μαθηταὶ, ἀνὴρ, βασιλεὺς, γυνὴ, πνεῦμα</em>
+* `Nom` (8347; 23% of non-empty `Case`): <em>θεὸς, κύριος, υἱὸς, ἄνθρωπος, λόγος, μαθηταὶ, ἀνὴρ, βασιλεὺς, γυνὴ, πνεῦμα</em>
 * `Voc` (605; 2% of non-empty `Case`): <em>κύριε, ἀδελφοί, βασιλεῦ, ἄνδρες, διδάσκαλε, πάτερ, παῖ, ἄνθρωπε, γύναι, δέσποτα</em>
 * `EMPTY` (68): <em>πάσχα, ῥαββεί, μάννα, οὐαὶ, ω, ἀββᾶ, ἄλφα, ῥαββουνί, Μαδιάμ, Χερουβεὶν</em>
 
@@ -39,16 +39,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `DET`
 
-31947 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+31942 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28426; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28426; 89%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22184; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28423; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28423; 89%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22183; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (10855; 34% of non-empty `Case`): <em>τὴν, τὸν, τὸ, τοὺς, τὰ, τὰς, πάντα, πᾶσαν, τοῦτον, ταύτην</em>
+* `Acc` (10853; 34% of non-empty `Case`): <em>τὴν, τὸν, τὸ, τοὺς, τὰ, τὰς, πάντα, πᾶσαν, τοῦτον, ταύτην</em>
 * `Dat` (4517; 14% of non-empty `Case`): <em>τῷ, τῇ, τοῖς, τοῖσι, ταῖς, τῇσι, τούτῳ, πάσῃ, παντὶ, ταύτῃ</em>
 * `Gen` (7872; 25% of non-empty `Case`): <em>τοῦ, τῶν, τῆς, πάντων, τούτου, τούτων, ταύτης, πάσης, παντὸς, ἐκείνου</em>
-* `Nom` (8694; 27% of non-empty `Case`): <em>ὁ, οἱ, ἡ, τὸ, τὰ, αἱ, πάντες, οὗτος, τις, πᾶς</em>
+* `Nom` (8691; 27% of non-empty `Case`): <em>ὁ, οἱ, ἡ, τὸ, τὰ, αἱ, πάντες, οὗτος, τις, πᾶς</em>
 * `Voc` (9; 0% of non-empty `Case`): <em>οἱ, πάντες, τὸ</em>
 
 <table>
@@ -66,15 +66,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-17844 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+17842 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14365; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12856; 72%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11139; 62%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14364; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12854; 72%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11139; 62%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (5182; 29% of non-empty `Case`): <em>αὐτὸν, ὑμᾶς, με, αὐτόν, τί, αὐτοὺς, σε, ὃ, ὃν, ἡμᾶς</em>
+* `Acc` (5181; 29% of non-empty `Case`): <em>αὐτὸν, ὑμᾶς, με, αὐτόν, τί, αὐτοὺς, σε, ὃ, ὃν, ἡμᾶς</em>
 * `Dat` (4388; 25% of non-empty `Case`): <em>αὐτῷ, ὑμῖν, αὐτοῖς, μοι, σφι, οἱ, ἡμῖν, σοι, ᾧ, αὐτῇ</em>
-* `Gen` (5279; 30% of non-empty `Case`): <em>αὐτοῦ, αὐτῶν, μου, ὑμῶν, σου, ἡμῶν, αὐτῆς, οὗ, ἑωυτοῦ, ἐμοῦ</em>
+* `Gen` (5278; 30% of non-empty `Case`): <em>αὐτοῦ, αὐτῶν, μου, ὑμῶν, σου, ἡμῶν, αὐτῆς, οὗ, ἑωυτοῦ, ἐμοῦ</em>
 * `Nom` (2995; 17% of non-empty `Case`): <em>ἐγὼ, ὃς, ὁ, ὑμεῖς, σὺ, οἳ, ἐγώ, τίς, ἡμεῖς, οἱ</em>
 
 <table>
@@ -89,16 +89,16 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `ADJ`
 
-16828 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+16830 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10335; 61%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9033; 54%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (6404; 38% of non-empty `Case`): <em>ταῦτα, τοῦτο, πάντα, πρότερον, τάδε, πρῶτον, οὐδὲν, τούτους, τοῦτον, μόνον</em>
+* `Acc` (6405; 38% of non-empty `Case`): <em>ταῦτα, τοῦτο, πάντα, πρότερον, τάδε, πρῶτον, οὐδὲν, τούτους, τοῦτον, μόνον</em>
 * `Dat` (1789; 11% of non-empty `Case`): <em>τούτοισι, τούτῳ, πολλῷ, Ἀθηναίοισι, μεγάλῃ, πᾶσιν, μέσῳ, Ἰουδαίοις, ἁγίῳ, τοῖσιδε</em>
 * `Gen` (2469; 15% of non-empty `Case`): <em>τούτων, πάντων, τούτου, νεκρῶν, Ἀθηναίων, Ἰουδαίων, πολλῶν, ἄλλων, ἁγίου, ἁγίων</em>
-* `Nom` (6060; 36% of non-empty `Case`): <em>τις, οὗτοι, οὗτος, πάντες, οὐδεὶς, ταῦτα, αὐτὸς, τοῦτο, πολλοὶ, Ἀθηναῖοι</em>
+* `Nom` (6061; 36% of non-empty `Case`): <em>τις, οὗτοι, οὗτος, πάντες, οὐδεὶς, ταῦτα, αὐτὸς, τοῦτο, πολλοὶ, Ἀθηναῖοι</em>
 * `Voc` (106; 1% of non-empty `Case`): <em>ἀγαπητοί, Λακεδαιμόνιοι, ὀλιγόπιστοι, θείη, κράτιστε, τυφλοί, ἀγαθὲ, Ἀθηναῖε, Ἀθηναῖοι, Κορίνθιοι</em>
 * `EMPTY` (5): <em>ἀγχοῦ, ἔμπαλιν, δεῖνα</em>
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (1319; 11% of non-empty `Case`): <em>γενομένης, λέγοντος, λαλοῦντος, γενομένου, ζῶντος, μελλόντων, γενομένων, ἐχόντων, καθημένου, λεγόντων</em>
 * `Nom` (7576; 66% of non-empty `Case`): <em>λέγων, λέγοντες, ἔχων, ἀποκριθεὶς, ἔχοντες, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας</em>
 * `Voc` (11; 0% of non-empty `Case`): <em>φοβούμενοι, κρίνων, εὐλογημένοι, κατηραμένοι, κεκονιαμένε, λέγοντες, ποιῶν, σκηνοῦντες</em>
-* `EMPTY` (28117): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, γενέσθαι, δεῖ, ἔλεγον, εἶπαν, εἶχον</em>
+* `EMPTY` (28110): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, γενέσθαι, δεῖ, ἔλεγον, εἶπαν, εἶχον</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -175,16 +175,16 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `NUM`
 
-825 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Case`.
+826 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (414; 50%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (415; 50%).
 
 `NUM` tokens may have the following values of `Case`:
 
 * `Acc` (308; 37% of non-empty `Case`): <em>ἕνα, τρεῖς, μίαν, ἓν, τέσσερας, τρία, τριηκοσίας, τέσσαρας, ἕν, μυρίους</em>
 * `Dat` (89; 11% of non-empty `Case`): <em>ἑνὶ, μιᾷ, μιῇ, τρισὶ, τρισὶν, δυσὶν, τέσσαρσιν, δυοῖσι, δυσὶ, ἑνί</em>
 * `Gen` (135; 16% of non-empty `Case`): <em>ἑνὸς, τριῶν, τεσσάρων, μιᾶς, δυῶν, τετρακοσίων, ἑνός, μιῆς, μυρίων, διακοσίων</em>
-* `Nom` (293; 36% of non-empty `Case`): <em>εἷς, ἓν, μία, τρεῖς, χίλιοι, τέσσαρες, ἕν, τέσσερες, τέσσερα, εἴκοσι</em>
+* `Nom` (294; 36% of non-empty `Case`): <em>εἷς, ἓν, μία, τρεῖς, χίλιοι, τέσσαρες, ἕν, τέσσερες, τέσσερα, εἴκοσι</em>
 * `EMPTY` (811): <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
 
 <table>
@@ -207,10 +207,10 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Dat` (41; 7% of non-empty `Case`): <em>ἐόντι, ἐοῦσι, οὖσιν, οὔσῃ, ὄντι, ἐούσῃ</em>
 * `Gen` (91; 16% of non-empty `Case`): <em>ἐόντος, ἐόντων, ὄντος, ἐούσης, ἐουσέων, οὔσης, ὄντων, οὐσῶν, ἐσομένων</em>
 * `Nom` (267; 47% of non-empty `Case`): <em>ἐὼν, ἐόντες, ὢν, ὄντες, ἐοῦσα, ἐὸν, ἐόντα, ἐών, οὖσα, ὤν</em>
-* `EMPTY` (3369): <em>ἦν, ἐστιν, εἶναι, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ</em>
+* `EMPTY` (3373): <em>ἦν, ἐστιν, εἶναι, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ</em>
 
 <table>
-  <tr><th>Paradigm <i>εἰμί#1</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>ἐόντος</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>οὖσιν</em></td><td><em>ἐόντων</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐὼν, ὢν, ἐών, ὤν</em></td><td><em>ἐόντα, ὄντα</em></td><td><em>ἐόντι, ὄντι</em></td><td><em>ὄντος, ἐόντος, ὄντων</em></td></tr>
@@ -228,14 +228,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (21135; 99%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3272; 98%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3165; 91%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3018; 96%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2398; 96%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (21196; 98%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3284; 98%),
+<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3197; 89%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3017; 96%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2402; 96%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2218; 87%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (830; 86%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (658; 73%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (660; 73%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (566; 98%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (508; 87%).
+<tt>PROPN --[<tt><a href="grc_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (499; 86%).
 

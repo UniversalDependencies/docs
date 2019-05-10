@@ -17,21 +17,18 @@ The following 95 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 conj	color:blue
-1	Sabahtan	sabah	NOUN	Noun	Case=Abl|Number=Sing|Person=3	4	obl	_	_
-2	beri	beri	ADP	PCAbl	_	1	case	_	_
-3	seni	sen	PRON	Pers	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
-4	gözetliyorum	gözetle	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	9	punct	_	_
-6	hiç	hiç	ADV	Adverb	_	9	advmod	_	_
-7	bir	bir	NUM	ANum	NumType=Card	8	det	_	_
-8	arabaya	araba	NOUN	Noun	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-9	yanaşmadın	yanaş	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	4	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 conj	color:blue
+1	Gel	gel	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+2	bak	bak	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	1	conj	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	6	punct	_	_
+4	sana	sen	PRON	Pers	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+5	evi	ev	NOUN	Noun	Case=Acc|Number=Sing|Person=3	6	obj	_	_
+6	göstereyim	göster	VERB	Verb	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	1	conj	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

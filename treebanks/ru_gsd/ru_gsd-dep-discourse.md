@@ -8,67 +8,102 @@ udver: '2'
 
 This relation is universal.
 
-191 nodes (0%) are attached to their parents as `discourse`.
+2 nodes (0%) are attached to their parents as `discourse`.
 
-174 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.27748691099476.
+2 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.
 
-The following 27 pairs of parts of speech are connected with `discourse`: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (58; 30% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (40; 21% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (12; 6% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (11; 6% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (9; 5% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 50% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 discourse	color:blue
-1	Впервые	ВПЕРВЫЕ	ADV	RB	_	2	advmod	_	_
-2	начал	НАЧАТЬ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-3	работать	РАБОТАТЬ	VERB	VB	Aspect=Imp|VerbForm=Inf	2	xcomp	_	_
-4	в	В	ADP	IN	_	5	case	_	_
-5	газете	ГАЗЕТА	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-6	ещё	ЕЩЕ	ADV	UH	_	2	discourse	_	_
-7	в	В	ADP	IN	_	9	case	_	_
-8	1919	1919	ADJ	ORD	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	amod	_	_
-9	году	ГОД	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 18 discourse	color:blue
+1	Поп	поп	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Григорий	Григорий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	показывал	показывать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	:	_	3	punct	_	_
+5	``	``	PUNCT	``	_	26	punct	_	SpaceAfter=No
+6	какая	какой	DET	WDT	Case=Nom|Gender=Fem|Number=Sing	13	det	_	_
+7	де	де	PART	UH	_	14	discourse	_	_
+8	на	на	ADP	IN	_	9	case	_	_
+9	нем	он	PRON	PRP	Case=Loc|Gender=Masc|Number=Sing|Person=3	14	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	архиерее	архиерей	NOUN	NN	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	скорбь	скорбь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	была	быть	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	про	про	ADP	IN	_	19	case	_	_
+17	тое	тот	DET	DT	Case=Acc|Gender=Fem|Number=Sing	19	det	_	_
+18	де	де	PART	UH	_	19	discourse	_	_
+19	скорбь	скорбь	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obl	_	_
+20	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	22	punct	_	_
+22	поп	поп	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+23	Григорий	Григорий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
+24	,	,	PUNCT	,	_	22	punct	_	_
+25	не	не	PART	NEG	Polarity=Neg	26	advmod	_	_
+26	скажет	сказать	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	31	punct	_	_
+28	потому	потому	SCONJ	IN	_	31	mark	_	_
+29	что	что	SCONJ	IN	_	28	fixed	_	_
+30	за	за	ADP	IN	_	31	case	_	_
+31	клятвою	клятва	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	advcl	_	_
+32	его	его	DET	PRP$	_	31	det	_	SpaceAfter=No
+33	,	,	PUNCT	,	_	34	punct	_	_
+34	архиерейскою	архиерейский	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No
+35	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	26	punct	_	SpaceAfter=No
+36	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	Ещё	ЕЩЕ	ADV	UH	_	3	discourse	_	_
-2	до	ДО	ADP	IN	_	3	case	_	_
-3	представления	ПРЕДСТАВЛЕНИЕ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
-4	у	У	ADP	IN	_	5	case	_	_
-5	неё	ОНА	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	obl	_	_
-6	были	БЫТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
-7	плохие	ПЛОХОЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Number=Plur	8	amod	_	_
-8	предчувствия	ПРЕДЧУВСТВИЕ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 discourse	color:blue
-1	В	В	ADP	IN	_	3	case	_	_
-2	уличных	УЛИЧНЫЙ	ADJ	JJL	Animacy=Inan|Case=Loc|Number=Plur	3	amod	_	_
-3	боях	БОЙ	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
-4	подбил	ПОДБИТЬ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-5	ещё	ЕЩЕ	ADV	UH	_	6	discourse	_	_
-6	два	ДВА	NUM	CD	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card	7	nummod:gov	_	_
-7	танка	ТАНК	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 7 discourse	color:blue
+1	Поп	поп	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Григорий	Григорий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	показывал	показывать	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	:	_	3	punct	_	_
+5	``	``	PUNCT	``	_	26	punct	_	SpaceAfter=No
+6	какая	какой	DET	WDT	Case=Nom|Gender=Fem|Number=Sing	13	det	_	_
+7	де	де	PART	UH	_	14	discourse	_	_
+8	на	на	ADP	IN	_	9	case	_	_
+9	нем	он	PRON	PRP	Case=Loc|Gender=Masc|Number=Sing|Person=3	14	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	архиерее	архиерей	NOUN	NN	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	скорбь	скорбь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	была	быть	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	acl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	про	про	ADP	IN	_	19	case	_	_
+17	тое	тот	DET	DT	Case=Acc|Gender=Fem|Number=Sing	19	det	_	_
+18	де	де	PART	UH	_	19	discourse	_	_
+19	скорбь	скорбь	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obl	_	_
+20	он	он	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	,	_	22	punct	_	_
+22	поп	поп	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	appos	_	_
+23	Григорий	Григорий	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
+24	,	,	PUNCT	,	_	22	punct	_	_
+25	не	не	PART	NEG	Polarity=Neg	26	advmod	_	_
+26	скажет	сказать	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+27	,	,	PUNCT	,	_	31	punct	_	_
+28	потому	потому	SCONJ	IN	_	31	mark	_	_
+29	что	что	SCONJ	IN	_	28	fixed	_	_
+30	за	за	ADP	IN	_	31	case	_	_
+31	клятвою	клятва	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	advcl	_	_
+32	его	его	DET	PRP$	_	31	det	_	SpaceAfter=No
+33	,	,	PUNCT	,	_	34	punct	_	_
+34	архиерейскою	архиерейский	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No
+35	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	26	punct	_	SpaceAfter=No
+36	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -9,268 +9,205 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt>, <tt><a href="ru_pud-feat-Gender-psor.html">Gender[psor]</a></tt>.
-
-9424 tokens (49%) have a non-empty value of `Gender`.
-5975 types (78%) occur at least once with a non-empty value of `Gender`.
-4092 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 12 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4843; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1284; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1096; 6% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (875; 5% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (448; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (341; 2% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (262; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (179; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (89; 0% instances), <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
+9006 tokens (47%) have a non-empty value of `Gender`.
+5708 types (74%) occur at least once with a non-empty value of `Gender`.
+3792 lemmas (74%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (4893; 25% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1275; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1101; 6% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (809; 4% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> (446; 2% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt> (262; 1% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (155; 1% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (65; 0% instances).
 
 ### `NOUN`
 
-4843 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4893 <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4224; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3524; 73%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4264; 87%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3523; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (1521; 31% of non-empty `Gender`): <em>войны, компании, часть, страны, жизни, истории, мере, части, э., партии</em>
-* `Masc` (2178; 45% of non-empty `Gender`): <em>году, года, лет, людей, города, результате, века, человек, год, люди</em>
-* `Neut` (1144; 24% of non-empty `Gender`): <em>время, течение, качестве, влияние, море, основном, внимание, место, начале, имя</em>
-* `EMPTY` (52): <em>данных, выборов, выборы, данным, деньги, данные, ребята, Г-жа, Г-н, Крестцово-копчиковая</em>
+* `Fem` (1523; 31% of non-empty `Gender`): <em>войны, компании, часть, страны, жизни, истории, мере, части, э., партии</em>
+* `Masc` (2208; 45% of non-empty `Gender`): <em>году, года, лет, людей, города, результате, века, человек, год, люди</em>
+* `Neut` (1162; 24% of non-empty `Gender`): <em>время, течение, качестве, влияние, основном, море, внимание, место, начале, имя</em>
+* `EMPTY` (5): <em>Film, Wi-Fi, GIF</em>
 
 <table>
-  <tr><th>Paradigm <i>человек</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>людей</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>людям</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>человека</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>людей, человек</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>человеком</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>людьми</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>человек</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>люди</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>людей</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>человек</em></td></tr>
+  <tr><th>Paradigm <i>представитель</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>представителей</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Представитель</em></td><td><em>Представитель</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>представители</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1891) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (1904) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-1284 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
+1275 <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> tokens (61% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1281; 100%), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (1230; 96%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1160; 90%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1274; 100%), <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1269; 100%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (505; 39% of non-empty `Gender`): <em>первой, Северной, крайней, другой, южной, большая, новой, южная, американской, большой</em>
-* `Masc` (473; 37% of non-empty `Gender`): <em>I, III, новый, первого, последний, самым, 8, большой, британский, бывший</em>
-* `Neut` (306; 24% of non-empty `Gender`): <em>самое, самым, должно, самом, 1, большое, возможно, настоящее, 21, Карибское</em>
-* `EMPTY` (620): <em>другие, многие, других, новые, новых, последние, должны, такие, последних, гражданских</em>
+* `Fem` (508; 40% of non-empty `Gender`): <em>первой, Северной, крайней, большая, другой, южной, новой, южная, американской, большой</em>
+* `Masc` (439; 34% of non-empty `Gender`): <em>новый, первого, последний, самым, большой, британский, бывший, высокий, главным, единственный</em>
+* `Neut` (328; 26% of non-empty `Gender`): <em>нужно, самое, самым, большое, возможно, должно, необходимо, самом, известно, настоящее</em>
+* `EMPTY` (815): <em>другие, других, многие, новые, новых, последние, должны, 2014, 2015, III</em>
 
 <table>
   <tr><th>Paradigm <i>новый</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>новый</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>новый</em></td><td><em>новую</em></td><td><em>новое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>новому</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>нового</em></td><td><em>новой</em></td><td><em>нового</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td><em>новой</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Новый</em></td><td><em>новая</em></td><td><em>новое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td></td><td><em>Новой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>новый</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>новую</em></td><td><em>новое</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>новому</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>нового</em></td><td><em>новой</em></td><td><em>нового</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td><em>новой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td><em>Новой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>новый</em></td><td><em>новая</em></td><td><em>новое</em></td></tr>
 </table>
 
 ### `PROPN`
 
-1096 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Gender`.
+1101 <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1061; 97%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (570; 52%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1051; 95%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (577; 52%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (359; 33% of non-empty `Gender`): <em>Великобритании, Америки, Италии, Австралии, Европы, Клинтон, Америке, Англии, Германии, Македонии</em>
-* `Masc` (716; 65% of non-empty `Gender`): <em>США, Китай, Ахеменидов, Даневирке, Китая, Трампа, де, Гонконг, Джон, Джордж</em>
-* `Neut` (21; 2% of non-empty `Gender`): <em>Онтарио, Средиземноморью, Амурру, Загорья, Закавказье, Килиманджаро, Конго, Корё, Ляо, МГБ</em>
-* `EMPTY` (17): <em>Альпы, Альпах, Анд, Андам, Афинах, Афины, Балкан, Богдо-гэгэне, Буэнос-Айреса, Мальдивы</em>
+* `Fem` (357; 32% of non-empty `Gender`): <em>Великобритании, Америки, Италии, Австралии, Европы, Клинтон, Америке, Англии, Германии, Македонии</em>
+* `Masc` (728; 66% of non-empty `Gender`): <em>США, Китай, Онтарио, Ахеменидов, Даневирке, Китая, Трампа, Валентино, Гонконг, Джон</em>
+* `Neut` (16; 1% of non-empty `Gender`): <em>ЗППНС, Средиземноморью, Загорья, Закавказье, МГБ, Монте-Карло, НАТО, По, СФНО, Солнца</em>
+* `EMPTY` (108): <em>BBC, CNN, RECO, Spotify, Twitter, Uber, Academy, Adidas, Agora, Assistant</em>
 
 <table>
   <tr><th>Paradigm <i>Трамп</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Трампа</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Трампу</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Трампа</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>Трампом</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Трамп</em></td><td><em>Трамп</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>Трампе</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Трампа</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Трампу</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Трампа</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>Трампом</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>Трампе</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Трамп</em></td><td><em>Трамп</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (719) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (729) occur only with one value of `Gender`.
 
 ### `VERB`
 
-875 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (39% of all `VERB` tokens) have a non-empty value of `Gender`.
+809 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (875; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (875; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (826; 94%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (769; 88%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (655; 75%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (654; 75%), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (654; 75%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (649; 74%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (649; 74%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (572; 65%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (809; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (809; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (756; 93%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (585; 72%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (585; 72%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (574; 71%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (482; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (231; 26% of non-empty `Gender`): <em>была, сказала, привела, стала, могла, началась, показала, сыграла, вернулась, включала</em>
-* `Masc` (463; 53% of non-empty `Gender`): <em>был, сказал, заявил, стал, принял, начал, мог, получил, жил, оставался</em>
-* `Neut` (181; 21% of non-empty `Gender`): <em>было, стало, позволило, привело, удалось, началось, получило, потраченное, произошло, Соединенные</em>
-* `EMPTY` (1377): <em>может, является, были, говорит, есть, быть, могут, можно, находится, имеет</em>
+* `Fem` (220; 27% of non-empty `Gender`): <em>сказала, начала, привела, стала, могла, началась, показала, сыграла, вернулась, включала</em>
+* `Masc` (439; 54% of non-empty `Gender`): <em>сказал, заявил, стал, принял, начал, мог, получил, жил, оставался, вернулся</em>
+* `Neut` (150; 19% of non-empty `Gender`): <em>стало, привело, позволило, удалось, началось, получило, потраченное, произошло, имело, использовалось</em>
+* `EMPTY` (1304): <em>является, может, говорит, могут, можно, находится, имеет, сделать, получили, нет</em>
 
 <table>
-  <tr><th>Paradigm <i>быть</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>был</em></td><td><em>была</em></td><td><em>было</em></td></tr>
-</table>
-
-### `DET`
-
-448 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (61% of all `DET` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (448; 100%), <tt><a href="ru_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (447; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (415; 93%), <tt><a href="ru_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (414; 92%), <tt><a href="ru_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (414; 92%), <tt><a href="ru_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (398; 89%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (343; 77%).
-
-`DET` tokens may have the following values of `Gender`:
-
-* `Fem` (127; 28% of non-empty `Gender`): <em>своей, которая, н., этой, свою, эта, которой, эту, всей, которую</em>
-* `Masc` (138; 31% of non-empty `Gender`): <em>который, этот, этого, тот, том, этом, своего, котором, свой, всему</em>
-* `Neut` (183; 41% of non-empty `Gender`): <em>это, того, то, том, которое, тем, этого, все, всего, этом</em>
-* `EMPTY` (285): <em>его, которые, их, ее, свои, которых, некоторые, эти, всех, своих</em>
-
-<table>
-  <tr><th>Paradigm <i>который</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>которому</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>которого</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>который</em></td><td><em>которая</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>который</em></td><td><em>которую</em></td><td><em>которое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>которого</em></td><td><em>которой</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>которым</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>который</em></td><td><em>которая</em></td><td><em>которое</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>котором</em></td><td><em>которой</em></td><td><em>котором</em></td></tr>
+  <tr><th>Paradigm <i>стать</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ставшего</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>ставшей</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>стал</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>стал</em></td><td><em>стала</em></td><td><em>стало</em></td></tr>
 </table>
 
 ### `PRON`
 
-341 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `Gender`.
+446 <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (290; 85%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (222; 65%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (221; 65%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (219; 64%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (446; 100%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (256; 57%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (226; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (66; 19% of non-empty `Gender`): <em>она, ее, ей, нее, ней, ею, которая, неё</em>
-* `Masc` (163; 48% of non-empty `Gender`): <em>он, его, кто, ему, него, им, кого, нем, ним, кто-то</em>
-* `Neut` (112; 33% of non-empty `Gender`): <em>это, что, то, что-то, того, чего, его, т., чем, все</em>
-* `EMPTY` (204): <em>они, я, мы, себя, них, мне, вы, их, нас, собой</em>
+* `Fem` (95; 21% of non-empty `Gender`): <em>она, которая, ее, которой, ей, которую, нее, ней, ею, неё</em>
+* `Masc` (162; 36% of non-empty `Gender`): <em>он, его, ему, него, котором, который, нем, ним, им, которого</em>
+* `Neut` (189; 42% of non-empty `Gender`): <em>это, того, то, том, которое, тем, этого, все, этом, всего</em>
+* `EMPTY` (348): <em>они, которые, я, который, мы, что, себя, них, кто, мне</em>
 
 <table>
-  <tr><th>Paradigm <i>он</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>его, него</em></td><td><em>его, него</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>ему, нему</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>него, его</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>им, ним</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>он</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>нем</em></td><td></td></tr>
+  <tr><th>Paradigm <i>который</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>который</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>которую</em></td><td><em>которое</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>которому</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>которого</em></td><td><em>которой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>которым</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>котором</em></td><td><em>которой</em></td><td><em>котором</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>который</em></td><td><em>которая</em></td><td><em>которое</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PRON`. 95% lemmas (18) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PRON`. 93% lemmas (13) occur only with one value of `Gender`.
 
-### `NUM`
+### `DET`
 
-262 <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Gender`.
+262 <tt><a href="ru_pud-pos-DET.html">DET</a></tt> tokens (53% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (234; 89%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (212; 81%), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (161; 61%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (262; 100%).
 
-`NUM` tokens may have the following values of `Gender`:
+`DET` tokens may have the following values of `Gender`:
 
-* `Fem` (34; 13% of non-empty `Gender`): <em>две, одной, одну, 5000, двумя, обе, одна, 3, 3000, 5</em>
-* `Masc` (209; 80% of non-empty `Gender`): <em>один, двух, два, одного, 2014, 2015, 1, 1492, 2012, 2013</em>
-* `Neut` (19; 7% of non-empty `Gender`): <em>30, 31, 1, 10, 19, 20, 21, 25, 27, 4</em>
-* `EMPTY` (160): <em>несколько, три, 3, четыре, десяти, нескольких, шесть, 1,5, 10, 100</em>
+* `Fem` (100; 38% of non-empty `Gender`): <em>своей, н., этой, свою, эта, эту, всей, нашей, всю, каждой</em>
+* `Masc` (93; 35% of non-empty `Gender`): <em>этот, этого, том, этом, каждый, тот, своего, свой, таким, всему</em>
+* `Neut` (69; 26% of non-empty `Gender`): <em>это, то, наше, свое, своего, своем, тем, этого, всего, всему</em>
+* `EMPTY` (231): <em>его, их, ее, такие, свои, некоторые, эти, всех, своих, таких</em>
 
 <table>
-  <tr><th>Paradigm <i>один</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>одного</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>одному</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>одного</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>одним</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>один</em></td><td><em>одна</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>одну</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>одному</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>одного</em></td><td><em>одной</em></td><td><em>одного, одной</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>одним</em></td><td><em>одной</em></td><td><em>Одним</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>один</em></td><td></td><td><em>одно</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td><em>одном</em></td><td><em>одной</em></td><td><em>одном</em></td></tr>
+  <tr><th>Paradigm <i>этот</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>этот</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>эту</em></td><td><em>это</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>этой</em></td><td><em>этому</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>этого</em></td><td><em>этой</em></td><td><em>этого</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>этом</em></td><td><em>этой</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>этот</em></td><td><em>эта</em></td><td><em>это</em></td></tr>
 </table>
-
-`Gender` seems to be **lexical feature** of `NUM`. 97% lemmas (116) occur only with one value of `Gender`.
-
-### `X`
-
-179 <tt><a href="ru_pud-pos-X.html">X</a></tt> tokens (85% of all `X` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (172; 96%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (162; 91%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (111; 62%).
-
-`X` tokens may have the following values of `Gender`:
-
-* `Fem` (64; 36% of non-empty `Gender`): <em>BBC, CNN, A, Agora, Amnesty, Apple, Associated, Asty, Athina, Australia</em>
-* `Masc` (109; 61% of non-empty `Gender`): <em>Facebook, Film, RECO, Spotify, Twitter, Uber, Wi-Fi, Academy, Adidas, Assistant</em>
-* `Neut` (6; 3% of non-empty `Gender`): <em>DPA, GEMA, Heart, Hispania, IRENA, Zay</em>
-* `EMPTY` (31): <em>and, ', Really, You, American, Anyway, Breaking, Buck, Don, Go</em>
-
-<table>
-  <tr><th>Paradigm <i>BBC</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>BBC</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>BBC</em></td></tr>
-</table>
-
-`Gender` seems to be **lexical feature** of `X`. 98% lemmas (162) occur only with one value of `Gender`.
 
 ### `AUX`
 
-89 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (53% of all `AUX` tokens) have a non-empty value of `Gender`.
+155 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (89; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (89; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (89; 100%), <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (88; 99%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (155; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (155; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (155; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (155; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (155; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (155; 100%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (155; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (19; 21% of non-empty `Gender`): <em>была, начала</em>
-* `Masc` (47; 53% of non-empty `Gender`): <em>был</em>
-* `Neut` (23; 26% of non-empty `Gender`): <em>было</em>
-* `EMPTY` (79): <em>были, будет, является, будут, быть, буду, являются</em>
+* `Fem` (32; 21% of non-empty `Gender`): <em>была</em>
+* `Masc` (74; 48% of non-empty `Gender`): <em>был</em>
+* `Neut` (49; 32% of non-empty `Gender`): <em>было</em>
+* `EMPTY` (141): <em>были, будет, бы, быть, есть, будут, будучи, буду, будь</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt></tt></td><td><em>был</em></td><td><em>была</em></td><td><em>было</em></td></tr>
 </table>
 
-### `SCONJ`
+### `NUM`
 
-5 <tt><a href="ru_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (3% of all `SCONJ` tokens) have a non-empty value of `Gender`.
+65 <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> tokens (22% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-`SCONJ` tokens may have the following values of `Gender`:
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (52; 80%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 62%).
 
-* `Neut` (5; 100% of non-empty `Gender`): <em>чем, что, тем</em>
-* `EMPTY` (171): <em>как, что, если, чем, когда, то, чтобы, поскольку, Хотя, будто</em>
+`NUM` tokens may have the following values of `Gender`:
 
-### `ADV`
+* `Fem` (25; 38% of non-empty `Gender`): <em>две, одной, одну, обе, одна</em>
+* `Masc` (37; 57% of non-empty `Gender`): <em>один, два, одного, обоих, одним, оба, одном, одному, двух, полтора</em>
+* `Neut` (3; 5% of non-empty `Gender`): <em>Одним, одно, одного</em>
+* `EMPTY` (225): <em>несколько, больше, много, три, двух, 3, четыре, 1, десяти, нескольких</em>
 
-1 <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
-
-`ADV` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>больше</em>
-* `EMPTY` (836): <em>также, однако, еще, когда, более, как, где, так, больше, только</em>
-
-### `PART`
-
-1 <tt><a href="ru_pud-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="ru_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Gender`:
-
-* `Neut` (1; 100% of non-empty `Gender`): <em>это</em>
-* `EMPTY` (243): <em>не, же, бы, и, ли, лишь, ни, всего, именно, конечно</em>
+<table>
+  <tr><th>Paradigm <i>один</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>одного</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>одну</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>одному</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>одного</em></td><td><em>одной</em></td><td><em>одного</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>одним</em></td><td><em>одной</em></td><td><em>Одним</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>одном</em></td><td><em>одной</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>один</em></td><td><em>одна</em></td><td><em>одно</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (997; 66%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (239; 53%),
-<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (136; 71%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> NUM</tt> (134; 92%),
-<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (118; 65%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (105; 99%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (964; 58%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (242; 52%),
+<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (132; 70%),
+<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (127; 59%),
+<tt>PROPN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (102; 99%),
+<tt>NOUN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (92; 96%),
 <tt>VERB --[<tt><a href="ru_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (80; 88%),
-<tt>NOUN --[<tt><a href="ru_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (78; 95%),
-<tt>VERB --[<tt><a href="ru_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (65; 59%),
-<tt>PROPN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (63; 98%).
+<tt>PROPN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (67; 97%),
+<tt>VERB --[<tt><a href="ru_pud-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (66; 55%),
+<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (57; 52%).
 

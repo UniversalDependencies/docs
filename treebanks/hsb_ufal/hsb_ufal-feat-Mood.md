@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (13; 2% of non-empty `Mood`): <em>hlej, Pomhaj, wobroćće, wotstroń, wužiwaj</em>
 * `Ind` (630; 98% of non-empty `Mood`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, běchu, dyrbi</em>
-* `EMPTY` (178): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
+* `EMPTY` (179): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
   <tr><th>Paradigm <i>wužiwać</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `Mood`.
+285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (285; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (283; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 64%).
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (10; 4% of non-empty `Mood`): <em>by, bychu</em>
 * `Ind` (275; 96% of non-empty `Mood`): <em>je, su, bu, bě, buchu, njeje, njejsu, běchu, buštej, stej</em>
-* `EMPTY` (5): <em>być, był, była, posłužić</em>
+* `EMPTY` (4): <em>być, był, była</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th></tr>

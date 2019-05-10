@@ -12,19 +12,19 @@ It occurs with 2 different values: `Imp`, `Perf`.
 29661 tokens (6%) have a non-empty value of `Aspect`.
 11157 types (18%) occur at least once with a non-empty value of `Aspect`.
 4211 lemmas (15%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (24956; 5% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4600; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (90; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (24959; 5% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4600; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (87; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `VERB`
 
-24956 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Aspect`.
+24959 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23518; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19365; 78%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18972; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13603; 55%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13414; 54%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13373; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (23521; 94%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19366; 78%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18975; 76%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13604; 55%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13415; 54%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13374; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (17153; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
+* `Imp` (17156; 69% of non-empty `Aspect`): <em>patří, tvoří, znamená, odpovídá, stává, mění, představuje, dochází, ukazuje, říká</em>
 * `Perf` (7803; 31% of non-empty `Aspect`): <em>zajistit, podařilo, vytvořit, vyjádřit, vysvětlit, získat, stanoví, viz, splnit, odstranit</em>
-* `EMPTY` (15635): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (15646): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (3008) occur only with one value of `Aspect`.
 
@@ -44,15 +44,15 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 ### `AUX`
 
-90 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Aspect`.
+87 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (88; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77; 86%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (75; 83%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (73; 81%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (73; 81%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (73; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 74%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (87; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (81; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (74; 85%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (74; 85%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (72; 83%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (72; 83%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (72; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66; 76%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (89; 99% of non-empty `Aspect`): <em>bývá, bývají, býval, bývalo, nebývá, bývaly, jsouc, jsouce, nebývají, pěstovat</em>
+* `Imp` (86; 99% of non-empty `Aspect`): <em>bývá, bývají, býval, bývalo, nebývá, bývaly, jsouc, jsouce, nebývají</em>
 * `Perf` (1; 1% of non-empty `Aspect`): <em>byvše</em>
-* `EMPTY` (14154): <em>je, by, jsou, bude, byl, být, bylo, byla, jsme, není</em>
+* `EMPTY` (14143): <em>je, by, jsou, bude, byl, být, bylo, byla, jsme, není</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -85,5 +85,6 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

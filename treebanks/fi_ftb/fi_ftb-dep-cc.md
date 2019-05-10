@@ -11,9 +11,9 @@ This relation is universal.
 4727 nodes (3%) are attached to their parents as `cc`.
 
 4695 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01290459064946.
+Average distance between parent and child is 2.00782737465623.
 
-The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2070; 44% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1513; 32% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (502; 11% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (305; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (134; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (117; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (47; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2078; 44% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (1507; 32% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (502; 11% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (305; 6% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (134; 3% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (116; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (47; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
 1	Riki	riki	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	3	nsubj	_	_
-2	alkoi	alkaa	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	alkoi	alkaa	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	kantaa	kantaa	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	0	root	_	_
 4	laukkuja	laukku	NOUN	N,Pl,Par	Case=Par|Number=Plur	3	obj	_	_
 5	hissiin	hissi	NOUN	N,Sg,Ill	Case=Ill|Number=Sing	3	nmod	_	_
@@ -62,7 +62,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	kiusallista	kiusallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
 5	,	,	PUNCT	Pun	_	4	punct	_	_
 6	mutta	mutta	CCONJ	Pcle,CC	_	9	cc	_	_
-7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	cop	_	_
+7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	vielä	vielä	PART	Pcle	_	9	advmod	_	_
 9	vaarallista	vaarallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	4	conj	_	_
 10	.	.	PUNCT	Pun	_	9	punct	_	_

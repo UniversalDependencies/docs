@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 166414 tokens (47%) have a non-empty value of `Person`.
-15266 types (79%) occur at least once with a non-empty value of `Person`.
-12532 lemmas (80%) occur at least once with a non-empty value of `Person`.
+15183 types (80%) occur at least once with a non-empty value of `Person`.
+12488 lemmas (80%) occur at least once with a non-empty value of `Person`.
 The feature is used with 13 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77405; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41504; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (13407; 4% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (13353; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10686; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4570; 1% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (3885; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1371; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (227; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 * `3` (77404; 100% of non-empty `Person`): सरकार, पुलिस, लोगों, मामले, पार्टी, बात, राज्य, चुनाव, तरह, देश
 * `EMPTY` (750): हवाई, मुख्य, खुफिया, संयुक्त, चीफ, उप, ऑफ, मोबाइल, अतिरिक्त, जनरल
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (6331) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (6307) occur only with one value of `Person`.
 
 ### `PROPN`
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 * `3` (41501; 100% of non-empty `Person`): सिंह, भारत, प्रधानमंत्री, कांग्रेस, पाकिस्तान, दिल्ली, मंत्री, भाजपा, सरकार, कश्मीर
 * `EMPTY` (1437): भारतीय, केंद्रीय, राष्ट्रीय, ऑफ, एवं, सुप्रीम, संयुक्त, नेशनल, एंड, इंडियन
 
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (7136) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (7123) occur only with one value of `Person`.
 
 ### `VERB`
 
@@ -333,7 +333,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): पौन
-* `EMPTY` (6739): एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
+* `EMPTY` (6739): एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
 
 ## Relations with Agreement in `Person`
 
@@ -341,11 +341,11 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13597; 90%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13296; 100%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (8331; 100%),
-<tt>NOUN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6261; 91%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4832; 68%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4409; 52%),
+<tt>NOUN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6277; 91%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (5364; 68%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (4831; 68%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4408; 52%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-det.html">det</a></tt>]--> DET</tt> (4364; 65%),
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2785; 100%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2396; 100%),
-<tt>PROPN --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2287; 100%).
+<tt>PROPN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2396; 100%).
 

@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (3; 21% of non-empty `NumType`): <em>jednou</em>
 * `Ord` (11; 79% of non-empty `NumType`): <em>poprvé</em>
-* `EMPTY` (773): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (776): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>několika</em>
-* `EMPTY` (1192): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+* `EMPTY` (1159): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `NumType`
 

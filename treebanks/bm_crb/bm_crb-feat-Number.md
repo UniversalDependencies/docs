@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (275; 15% of non-empty `Number`): <em>u, olu, an, aw, dòw, dow, minw, a</em>
-* `Sing` (1519; 85% of non-empty `Number`): <em>a, n, ne, e, i, ale, ele, à</em>
-* `EMPTY` (718): <em>o, n, i, nin, a, mun, min, nyògòn, bèè, dò</em>
+* `Plur` (275; 15% of non-empty `Number`): <em>u, olu, an, aw, dòw, dow, minw, a</em>
+* `Sing` (1519; 85% of non-empty `Number`): <em>a, n, ne, e, i, ale, ele, à</em>
+* `EMPTY` (718): <em>o, n, i, nin, a, mun, min, nyògòn, bèè, dò</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (18) occur only with one value of `Number`.
 
@@ -34,8 +34,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (71; 100% of non-empty `Number`): <em>kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</em>
-* `EMPTY` (2074): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `Plur` (71; 100% of non-empty `Number`): <em>kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</em>
+* `EMPTY` (2074): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Number`.
 
@@ -47,8 +47,8 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (28; 100% of non-empty `Number`): <em>ninw, dòw, minw</em>
-* `EMPTY` (476): <em>nin, o, min, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe</em>
+* `Plur` (28; 100% of non-empty `Number`): <em>ninw, dòw, minw</em>
+* `EMPTY` (476): <em>nin, o, min, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe</em>
 
 ### `PROPN`
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>warabaw</em>
-* `EMPTY` (291): <em>Amadu, Tara, Namaramatu, Jasun, Dawuda, Bilali, Kusuba, Mamadu, Tarawele, tinòò</em>
+* `EMPTY` (291): <em>Amadu, Tara, Namaramatu, Jasun, Dawuda, Bilali, Kusuba, Mamadu, Tarawele, tinòò</em>
 
 ## Relations with Agreement in `Number`
 

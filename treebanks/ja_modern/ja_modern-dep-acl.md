@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-426 nodes (3%) are attached to their parents as `acl`.
+425 nodes (3%) are attached to their parents as `acl`.
 
-397 instances of `acl` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.07981220657277.
+396 instances of `acl` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.07529411764706.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (421; 99% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (420; 99% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
-1	僕	僕	PRON	代名詞	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
+1	僕	僕	PRON	代名詞	_	3	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=代名詞|SpaceAfter=No
 2	が	が	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 3	見る	見る	VERB	動詞-非自立可能	_	4	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
 4	所	所	NOUN	名詞-普通名詞-副詞可能	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=副詞|SpaceAfter=No
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 acl	color:blue
-1	尤	尤	CCONJ	接続詞	_	14	dep	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=接続詞|SpaceAfter=No
+1	尤	尤	CCONJ	接続詞	_	14	cc	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=接続詞|SpaceAfter=No
 2	世間	世間	NOUN	名詞-普通名詞-一般	_	4	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 3	へ	へ	ADP	助詞-格助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No
 4	出す	出す	VERB	動詞-非自立可能	_	6	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No

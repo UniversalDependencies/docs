@@ -45,9 +45,9 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 nummod	color:blue
-1	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.42
-2	бо	бо	ADV	Df	_	1	discourse	_	ref=MARK_5.42
-3	лѣтома	лѣто	NOUN	Nb	Case=Ins|Gender=Neut|Number=Dual	1	xcomp	_	ref=MARK_5.42
+1	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MARK_5.42
+2	бо	бо	ADV	Df	_	3	discourse	_	ref=MARK_5.42
+3	лѣтома	лѣто	NOUN	Nb	Case=Ins|Gender=Neut|Number=Dual	0	root	_	ref=MARK_5.42
 4	дъвѣма	дъва	NUM	Ma	Case=Ins|Number=Dual	3	nummod	_	ref=MARK_5.42
 5	на	на	ADP	R-	_	6	case	_	ref=MARK_5.42
 6	десѧте	десѧть	NUM	Ma	Case=Loc|Gender=Fem,Masc|Number=Sing	4	nummod	_	ref=MARK_5.42

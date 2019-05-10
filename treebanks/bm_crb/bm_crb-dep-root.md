@@ -51,8 +51,8 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	<>	_	X	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
-2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
-3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
+2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
+3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
 4	ni	ni	X	conj	_	5	cc	_	Gloss=et
 5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
 6	</>	_	X	_	_	2	punct	_	Gloss=_
@@ -66,8 +66,8 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	ko	kó	PART	cop	_	2	discourse	_	Gloss=
-2	ayi	àyi	INTJ	intj	_	0	root	_	Gloss=non|SpaceAfter=No
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=
+2	ayi	àyi	INTJ	intj	_	0	root	_	Gloss=non|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~

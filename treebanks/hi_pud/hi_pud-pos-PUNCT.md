@@ -32,15 +32,9 @@ The 1st highest number of forms (18) was observed with the lemma “_”: ", ', 
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="hi_pud-dep-punct.html">punct</a></tt> (2297; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1220; 53% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (512; 22% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (248; 11% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (108; 5% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (67; 3% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1252; 55% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (537; 23% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (257; 11% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (121; 5% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (60; 3% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt> (3; 0% instances)
 
-2289 (100%) `PUNCT` nodes are leaves.
+2297 (100%) `PUNCT` nodes are leaves.
 
-8 (0%) `PUNCT` nodes have one child.
-
-The highest child degree of a `PUNCT` node is 1.
-
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="hi_pud-dep-case.html">case</a></tt> (8; 100% instances)
-
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (8; 100% instances)
+The highest child degree of a `PUNCT` node is 0.
 

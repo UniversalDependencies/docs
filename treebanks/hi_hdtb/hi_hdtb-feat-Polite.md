@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Form`, `Infm`.
 
 6201 tokens (2%) have a non-empty value of `Polite`.
-411 types (2%) occur at least once with a non-empty value of `Polite`.
-173 lemmas (1%) occur at least once with a non-empty value of `Polite`.
+409 types (2%) occur at least once with a non-empty value of `Polite`.
+171 lemmas (1%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 8 part-of-speech tags: <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2881; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1552; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1490; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (261; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -64,7 +64,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
   <tr><td><tt><tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>कर</td></tr>
 </table>
 
-`Polite` seems to be **lexical feature** of `VERB`. 96% lemmas (145) occur only with one value of `Polite`.
+`Polite` seems to be **lexical feature** of `VERB`. 96% lemmas (143) occur only with one value of `Polite`.
 
 ### `AUX`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Polite` co-occurred
 
 `ADJ` tokens may have the following values of `Polite`:
 
-* `Form` (11; 100% of non-empty `Polite`): कुंवारे, अकेले, अच्छे, खड़े, जन्मे, जाने, तीसरे, पहले, बड़े, माने
+* `Form` (11; 100% of non-empty `Polite`): कुंवारे, अकेले, अच्छे, खड़े, जन्मे, जाने, तीसरे, पहले, बड़े, माने
 * `EMPTY` (20635): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
 
 `Polite` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Polite`.
@@ -153,9 +153,8 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 ## Relations with Agreement in `Polite`
 
 The 10 most frequent relations where parent and child node agree in `Polite`:
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (833; 96%),
-<tt>AUX --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (355; 92%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (29; 97%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (832; 96%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (416; 100%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> ADP</tt> (16; 94%),
 <tt>ADJ --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>AUX --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).

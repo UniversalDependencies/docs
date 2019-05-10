@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-aux.html">aux</a></tt>.
 
-152 nodes (0%) are attached to their parents as `aux:pass`.
+151 nodes (0%) are attached to their parents as `aux:pass`.
 
-152 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11842105263158.
+151 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11920529801324.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (149; 98% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (148; 98% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

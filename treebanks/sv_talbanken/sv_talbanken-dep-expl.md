@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl	color:blue
 1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	3:expl	_
-2	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	kvinnan	kvinna	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	MID	_	3	punct	3:punct	_
 5	som	som	PRON	HP|-|-|-	PronType=Rel	6	nsubj	6:nsubj	_

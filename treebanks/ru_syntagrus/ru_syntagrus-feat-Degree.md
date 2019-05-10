@@ -117,7 +117,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> ADV</tt> (4435; 84%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4125; 99%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4127; 99%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (2471; 81%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1425; 85%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1104; 100%),

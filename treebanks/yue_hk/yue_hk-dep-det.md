@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-188 nodes (3%) are attached to their parents as `det`.
+445 nodes (3%) are attached to their parents as `det`.
 
-186 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40425531914894.
+443 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.95955056179775.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (80; 43% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (71; 38% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (21; 11% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (307; 69% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (104; 23% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,21 +58,23 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	呢	呢	PART	_	_	2	det	_	SpaceAfter=No
-2	張	張	NOUN	_	NounType=Clf	8	nsubj	_	SpaceAfter=No
-3	唔	唔	ADV	_	_	4	advmod	_	SpaceAfter=No
-4	係	係	AUX	_	_	8	cop	_	SpaceAfter=No
-5	你	你	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	中意	中意	VERB	_	_	8	acl	_	SpaceAfter=No
-7	嘅	嘅	PART	_	_	6	mark:rel	_	SpaceAfter=No
-8	孫悟空	孫悟空	PROPN	_	_	0	root	_	SpaceAfter=No
-9	咩	咩	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-10	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	成日	成日	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	都	都	ADV	_	_	3	advmod	_	SpaceAfter=No
+3	講	講	VERB	_	_	0	root	_	SpaceAfter=No
+4	埋	埋	PART	_	_	3	advmod	_	SpaceAfter=No
+5	啲	啲	NOUN	_	NounType=Clf	7	det	_	SpaceAfter=No
+6	咩	咩	PRON	_	_	7	det	_	SpaceAfter=No
+7	龜波氣功	龜波氣功	NOUN	_	_	3	obj	_	SpaceAfter=No
+8	吖	吖	PART	_	_	3	discourse:sp	_	SpaceAfter=No
+9	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	打交	打交	VERB	_	_	3	conj	_	SpaceAfter=No
+11	啦	喇	PART	_	_	10	discourse:sp	_	SpaceAfter=No
+12	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

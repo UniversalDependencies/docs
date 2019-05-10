@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: _
 
 The 10 most frequent `SYM` types:  ＋
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1642, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1565, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1533, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1017, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 742, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 521, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 405, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 282, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 263, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 234, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 168, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 157, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 85, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 52, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1848, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1766, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1738, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1158, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 875, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 560, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 502, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 301, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 260, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 177, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 166, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 103.937500).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 107.937500).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: ＋.
 

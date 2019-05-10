@@ -23,9 +23,9 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
 1	Ma	ma	CCONJ	CC	_	5	cc	_	_
-2	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	_
+2	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nsubj	_	_
 3	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	essenzialmente	essenzialmente	ADV	B	_	3	advmod	_	_
+4	essenzialmente	essenzialmente	ADV	B	_	5	advmod	_	_
 5	stomaco	stomaco	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 6	e	e	CCONJ	CC	_	7	cc	_	_
 7	polmoni	polmone	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_

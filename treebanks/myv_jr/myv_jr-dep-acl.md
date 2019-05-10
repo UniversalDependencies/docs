@@ -63,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 acl	color:blue
-1	АВОЛЬ	аволь	PART	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Neg
+1	АВОЛЬ	аволь	AUX	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Neg
 2	икеле	икеле	ADV	Adv	AdvType=Loc|Case=Loc	3	acl	_	GTtags=Spat,Loc
 3	ладсо	лад	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Ine,Indef
 4	кортась	кортамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3

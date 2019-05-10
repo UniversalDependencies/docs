@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  اور (<tt><a href="ur_udtb-pos-CCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.571429 (the average of all parts of speech is 1.101810).
+The form / lemma ratio of `CCONJ` is 0.571429 (the average of all parts of speech is 1.101903).
 
 The 1st highest number of forms (2) was observed with the lemma “جبکہ”: جبکہ, جب۔کہ.
 
@@ -74,13 +74,7 @@ Examples: اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز�
 
 Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1389; 43% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1177; 36% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (449; 14% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (181; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-3240 (100%) `CCONJ` nodes are leaves.
+3248 (100%) `CCONJ` nodes are leaves.
 
-8 (0%) `CCONJ` nodes have one child.
-
-The highest child degree of a `CCONJ` node is 1.
-
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (8; 100% instances)
-
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (8; 100% instances)
+The highest child degree of a `CCONJ` node is 0.
 

@@ -8,36 +8,53 @@ udver: '2'
 
 This relation is universal.
 
-252 nodes (0%) are attached to their parents as `fixed`.
+285 nodes (0%) are attached to their parents as `fixed`.
 
-252 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12301587301587.
+285 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11929824561404.
 
-The following 32 pairs of parts of speech are connected with `fixed`: <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (54; 21% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (44; 17% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (43; 17% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (26; 10% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (9; 4% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (7; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `fixed`: <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (56; 20% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (50; 18% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (46; 16% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (30; 11% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (11; 4% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (10; 4% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 fixed	color:blue
-1	Тут	тут	ADV	Pd------r	PronType=Dem	2	advmod	2:advmod	Id=0qew|LTranslit=tut|Translit=Tut
-2	сонетики	сонетик	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	Id=0qex|LTranslit=sonetyk|Translit=sonetyky
-3	з	з	ADP	Spsg	Case=Gen	5	case	5:case	Id=0qey|LTranslit=z|Translit=z
-4	1907	1907	ADJ	Mlomsg	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|Uninflect=Yes	5	amod	5:amod	Id=0qez|LTranslit=1907|Translit=1907
-5	року	рік	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	Id=0qf0|LTranslit=rik|Translit=roku
-6	про	про	ADP	Spsa	Case=Acc	7	case	7:case	Id=0qf1|LTranslit=pro|Translit=pro
-7	муедзинів	муедзин	NOUN	Ncmpay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	2	nmod	2:nmod	Id=0qf2|LTranslit=muedzyn|Translit=muedzyniv
-8	з	з	ADP	Spsi	Case=Ins	9	case	9:case	Id=0qf3|LTranslit=z|Translit=z
-9	мінаретами	мінарет	NOUN	Ncmpin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	nmod	7:nmod	Id=0qf4|LTranslit=minaret|SpaceAfter=No|Translit=minaretamy
-10	,	,	PUNCT	U	_	13	punct	13:punct	Id=0qf5|LTranslit=,|Translit=,
-11	а	а	CCONJ	Ccs	_	13	cc	13:cc	Id=0qf6|LTranslit=a|Translit=a
-12	також	також	ADV	R	_	11	fixed	11:fixed	Id=0qf7|LTranslit=takož|Translit=takož
-13	Аврора	Аврора	PROPN	Npfsny	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	2	conj	0:root|2:conj	Id=0qf8|LTranslit=Avrora|Translit=Avrora
-14	й	й	CCONJ	Ccs	_	15	cc	15:cc	Id=0qf9|LTranslit=j|Translit=j
-15	інш	інш.	DET	Y	Abbr=Yes|Case=Nom|Number=Plur|PronType=Ind|Uninflect=Yes	13	conj	0:root|13:conj	Id=0qfa|LTranslit=inš.|SpaceAfter=No|Translit=inš
-16	.	.	PUNCT	U	_	15	punct	15:punct	Id=0qfb|LTranslit=.|Translit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Та	та	CCONJ	Ccs	_	6	discourse	6:discourse	Id=3bp7|LTranslit=ta|Translit=Ta
+2	ще	ще	ADV	R	_	1	fixed	1:fixed	Id=3bp8|LTranslit=šče|Translit=šče
+3	й	й	PART	Q	_	1	fixed	1:fixed	Id=3bp9|LTranslit=j|Translit=j
+4	пів	пів	NUM	Mlc-g	Case=Gen|NumType=Card|Orth=Alt|Uninflect=Yes	5	nummod	5:nummod	Id=3bpa|LTranslit=piv|Translit=piv
+5	хати	хата	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obj	6:obj	Id=3bpb|LTranslit=chata|Translit=chaty
+6	нема	немати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=3bpc|LTranslit=nematy|SpaceAfter=No|Translit=nema
+7	,	,	PUNCT	U	_	8	punct	8:punct	Id=3bpd|LTranslit=,|Translit=,
+8	зосталася	зостатися	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	parataxis	6:parataxis	Id=3bpe|LTranslit=zostatyśа|Translit=zostalaśа
+9	тільки	тільки	PART	Q	_	10	discourse	10:discourse	Id=3bpf|LTranslit=tiľky|Translit=tiľky
+10	хатина	хатина	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	Id=3bpg|LTranslit=chatyna|SpaceAfter=No|Translit=chatyna
+11	,	,	PUNCT	U	_	15	punct	15:punct	Id=3bph|LTranslit=,|Translit=,
+12	а	а	CCONJ	Ccs	_	15	cc	15:cc	Id=3bpi|LTranslit=a|Translit=a
+13	більшу	більший	ADJ	Afcfsas	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	14	amod	14:amod	Id=3bpj|LTranslit=biľšyj|Translit=biľšu
+14	половину	половина	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	15:obj	Id=3bpk|LTranslit=polovyna|Translit=polovynu
+15	одірвало	одірвати	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	conj	8:conj	Id=3bpl|LTranslit=odirvaty|Translit=odirvalo
+16	бомбою	бомба	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	15:obl	Id=3bpm|LTranslit=bomba|SpaceAfter=No|Translit=bomboju
+17	.	.	PUNCT	U	_	15	punct	15:punct	Id=3bpn|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Так	так	PART	Q	_	3	discourse	3:discourse	Id=14az|LTranslit=tak|Translit=Tak
+2	і	і	PART	Q	_	1	fixed	1:fixed	Id=14b0|LTranslit=i|Translit=i
+3	тягне	тягнути	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=14b1|LTranslit=ťаhnuty|Translit=ťаhne
+4	робити	робити	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	3	advcl:svc	3:advcl:svc	Id=14b2|LTranslit=robyty|Translit=robyty
+5	виписки	виписка	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	Id=14b3|LTranslit=vypyska|SpaceAfter=No|Translit=vypysky
+6	.	.	PUNCT	U	_	3	punct	3:punct	Id=14b4|LTranslit=.|Translit=.
 
 ~~~
 
@@ -59,22 +76,6 @@ The following 32 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	два	два	NUM	Mlcmsa	Case=Acc|Gender=Masc|NumType=Card	5	conj	5:conj|10:nummod	Id=1fy5|LTranslit=dva|Translit=dva
 10	тижні	тиждень	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obl	2:obl	Id=1fy6|LTranslit=tyždeń|SpaceAfter=No|Translit=tyžni
 11	.	.	PUNCT	U	_	2	punct	2:punct	Id=1fy7|LTranslit=.|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Так	так	PART	Q	_	3	discourse	3:discourse	Id=14az|LTranslit=tak|Translit=Tak
-2	і	і	PART	Q	_	1	fixed	1:fixed	Id=14b0|LTranslit=i|Translit=i
-3	тягне	тягнути	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=14b1|LTranslit=ťаhnuty|Translit=ťаhne
-4	робити	робити	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	3	advcl:svc	3:advcl:svc	Id=14b2|LTranslit=robyty|Translit=robyty
-5	виписки	виписка	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	4:obj	Id=14b3|LTranslit=vypyska|SpaceAfter=No|Translit=vypysky
-6	.	.	PUNCT	U	_	3	punct	3:punct	Id=14b4|LTranslit=.|Translit=.
 
 ~~~
 

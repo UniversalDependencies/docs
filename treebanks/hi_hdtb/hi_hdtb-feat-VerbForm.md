@@ -10,8 +10,8 @@ This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 52634 tokens (15%) have a non-empty value of `VerbForm`.
-1966 types (10%) occur at least once with a non-empty value of `VerbForm`.
-559 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
+1924 types (10%) occur at least once with a non-empty value of `VerbForm`.
+549 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 10 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (27978; 8% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (24639; 7% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (1123; 4% of non-empty `VerbForm`): लेकर, करके, होकर, देकर, मिलकर, आकर, जाकर, छोड़कर, बढ़कर, देखकर
+* `Conv` (1123; 4% of non-empty `VerbForm`): लेकर, करके, होकर, देकर, मिलकर, आकर, छोड़कर, जाकर, बढ़कर, देखकर
 * `Fin` (2848; 10% of non-empty `VerbForm`): है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, करें
 * `Inf` (7271; 26% of non-empty `VerbForm`): करने, होने, देने, कहना, करना, बनाने, आने, लेने, मिलने, कराने
 * `Part` (16736; 60% of non-empty `VerbForm`): कहा, किया, की, बताया, हुई, करते, दिया, किए, दी, हुआ
@@ -180,7 +180,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (14405; 58% of non-empty `VerbForm`): है, हैं, था, थी, थे, जाएगा, जाएगी, जाए, होगा, थीं
 * `Inf` (727; 3% of non-empty `VerbForm`): जाने, जाना, जानी, रखने, देना, पाने, देने, लेने, पाना, रहने
 * `Part` (9502; 39% of non-empty `VerbForm`): गया, गई, गए, हुए, दिया, रहे, रही, रहा, दी, सकता
-* `EMPTY` (1391): जा, चाहिए, कर, वाले, हो, पड़, वाली, पा, वाला, दे
+* `EMPTY` (1391): जा, चाहिए, कर, वाले, हो, पड़, वाली, पा, वाला, दे
 
 <table>
   <tr><th>Paradigm <i>जा</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -286,7 +286,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Conv` (1; 100% of non-empty `VerbForm`): खड़ा
+* `Conv` (1; 100% of non-empty `VerbForm`): खड़ा
 * `EMPTY` (20645): शामिल, अन्य, जारी, पिछले, पूर्व, भारतीय, तैयार, स्थित, पूरी, वरिष्ठ
 
 ### `ADV`
@@ -334,6 +334,5 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2292; 52%),
 <tt>VERB --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (786; 55%).
 

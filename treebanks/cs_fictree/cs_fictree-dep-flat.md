@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-305 nodes (0%) are attached to their parents as `flat`.
+306 nodes (0%) are attached to their parents as `flat`.
 
-305 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2983606557377.
+306 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29738562091503.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (201; 66% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (99; 32% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (201; 66% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (99; 32% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

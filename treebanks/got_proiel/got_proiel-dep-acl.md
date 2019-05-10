@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-864 nodes (2%) are attached to their parents as `acl`.
+755 nodes (1%) are attached to their parents as `acl`.
 
-777 instances of `acl` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.77777777777778.
+706 instances of `acl` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.61721854304636.
 
-The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (513; 59% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (209; 24% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (53; 6% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (46; 5% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (452; 60% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (163; 22% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (41; 5% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (32; 4% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.32
 3	ize	izei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=MATT_5.32
 4	afsatida	af-satjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	obj	_	ref=MATT_5.32
-5	liugaiþ	liugan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=MATT_5.32
+5	liugaiþ	liugan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=MATT_5.32|LId=1
 6	horinoþ	horinon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.32
 
 ~~~

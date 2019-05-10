@@ -11,9 +11,9 @@ This relation is universal.
 5401 nodes (10%) are attached to their parents as `root`.
 
 5401 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.91112756896871.
+Average distance between parent and child is 3.90890575819293.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (4994; 92% instances), -<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (111; 2% instances), -<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (76; 1% instances), -<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (63; 1% instances), -<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (63; 1% instances), -<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (38; 1% instances), -<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (26; 0% instances), -<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), -<tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="got_proiel-pos-X.html">X</a></tt> (5; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (4461; 83% instances), -<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (303; 6% instances), -<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (235; 4% instances), -<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (88; 2% instances), -<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (84; 2% instances), -<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (82; 2% instances), -<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (63; 1% instances), -<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (38; 1% instances), -<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (27; 0% instances), -<tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (14; 0% instances), -<tt><a href="got_proiel-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,14 +52,19 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=LUKE_4.34
-2	weiha	weihs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	0	root	_	ref=LUKE_4.34
-3	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=LUKE_4.34
+# visual-style 0 7 root	color:blue
+1	iþ	iþ	CCONJ	C-	_	7	cc	_	ref=MATT_5.37
+2	þata	sa	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=MATT_5.37
+3	managizo	manags	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	7	nsubj	_	ref=MATT_5.37
+4	þaim	sa	ADJ	Pd	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.37
+5	us	us	ADP	R-	_	7	case	_	ref=MATT_5.37
+6	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	7	det	_	ref=MATT_5.37
+7	ubilin	ubils	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	0	root	_	ref=MATT_5.37
+8	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.37|LId=1
 
 ~~~
 

@@ -70,7 +70,7 @@ The following 17 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 12 advcl	color:blue
-1	Θα	θα	PART	PART	_	2	aux	_	_
+1	Θα	θα	AUX	AUX	_	2	aux	_	_
 2	αναφερθώ	αναφέρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	σ	σε	ADP	AsPpSp	_	5	case	_	_
 4	τη	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_

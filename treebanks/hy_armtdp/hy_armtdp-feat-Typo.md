@@ -10,13 +10,13 @@ This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
 44 tokens (0%) have a non-empty value of `Typo`.
-43 types (1%) occur at least once with a non-empty value of `Typo`.
+43 types (0%) occur at least once with a non-empty value of `Typo`.
 43 lemmas (1%) occur at least once with a non-empty value of `Typo`.
 The feature is used with 7 part-of-speech tags: <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-18 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Typo`.
+18 <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Typo`.
 
 The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (18; 100%), <tt><a href="hy_armtdp-feat-NumType.html">NumType</a></tt><tt>=Frac</tt> (18; 100%).
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 3 <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 67%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (2; 67%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hy_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="hy_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 67%), <tt><a href="hy_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (2; 67%), <tt><a href="hy_armtdp-feat-Voice.html">Voice</a></tt><tt>=Mid</tt> (2; 67%).
 
 `VERB` tokens may have the following values of `Typo`:
 

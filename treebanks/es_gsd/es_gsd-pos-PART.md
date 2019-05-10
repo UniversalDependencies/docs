@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-GSD: POS Tags: `PART`
 
 There are 23 `PART` lemmas (0%), 24 `PART` types (0%) and 35 `PART` tokens (0%).
-Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 17 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>hola, ex, re, co, ir, l, abandono, adio, ficha, gram</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ex</em> (<tt><a href="es_gsd-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.255739).
+The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.256167).
 
 The 1st highest number of forms (2) was observed with the lemma “ir”: <em>Vamos, Vaya</em>.
 
@@ -72,7 +72,7 @@ The 3rd highest number of forms (1) was observed with the lemma “adio”: <em>
 
 `PART` nodes are attached to their parents using 9 different relations: <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (14; 40% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (7; 20% instances), <tt><a href="es_gsd-dep-compound.html">compound</a></tt> (5; 14% instances), <tt><a href="es_gsd-dep-root.html">root</a></tt> (3; 9% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (13; 37% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (9; 26% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (6; 17% instances),  (3; 9% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (13; 37% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (8; 23% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (6; 17% instances),  (3; 9% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 
 26 (74%) `PART` nodes are leaves.
 

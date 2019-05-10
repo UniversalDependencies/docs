@@ -48,16 +48,12 @@ A small set of sentences from Babylonian royal inscriptions.
 
 
 
+
 ‘PISANDUB’ means ‘basket of tablets’ (Sumerian logogram for Akkadian pisanduppu
 / pisan ṭuppātim), which reflects the scale of this project.
 
+
 ## Acknowledgments
-
-...
-
-## References
-
-* (citation)
 
 # Statistics of UD Akkadian PISANDUB
 

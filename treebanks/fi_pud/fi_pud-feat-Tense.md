@@ -11,39 +11,40 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 1766 tokens (11%) have a non-empty value of `Tense`.
 725 types (10%) occur at least once with a non-empty value of `Tense`.
-420 lemmas (8%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (606; 4% instances).
+418 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1158; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (608; 4% instances).
 
 ### `VERB`
 
-1160 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
+1158 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1160; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1160; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (946; 82%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (900; 78%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (723; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1158; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1158; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1158; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (944; 82%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (899; 78%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (721; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (717; 62% of non-empty `Tense`): <em>sanoi, tuli, kertoi, alkoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</em>
-* `Pres` (443; 38% of non-empty `Tense`): <em>tulee, sanoo, auttaa, pidetään, kuuluvat, pitää, toimii, alkaa, haluaa, kuuluu</em>
-* `EMPTY` (871): <em>eikä, tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä</em>
+* `Pres` (441; 38% of non-empty `Tense`): <em>tulee, sanoo, auttaa, pidetään, kuuluvat, toimii, alkaa, haluaa, kuuluu, liittyy</em>
+* `EMPTY` (859): <em>tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä, nähdä</em>
 
 <table>
-  <tr><th>Paradigm <i>sanoa</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sanoo</em></td><td><em>sanoi</em></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sanovat</em></td><td><em>sanoivat</em></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>sanotaan</em></td><td></td></tr>
+  <tr><th>Paradigm <i>tulla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulee</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulee</em></td><td><em>tuli</em></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulevat</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>tullaan</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-606 <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Tense`.
+608 <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (606; 100%), <tt><a href="fi_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (606; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (606; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (565; 93%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (548; 90%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (468; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (608; 100%), <tt><a href="fi_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (608; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (608; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (567; 93%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (549; 90%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (470; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (175; 29% of non-empty `Tense`): <em>oli, olivat, oliko, olin, täytyi, olivatkaan, piti, voikin, voitiin</em>
-* `Pres` (431; 71% of non-empty `Tense`): <em>on, ovat, ole, voi, täytyy, voivat, olemme, olen, onko, voidaan</em>
-* `EMPTY` (203): <em>ei, ollut, eivät, olisi, voisi, en, olla, pitäisi, emme, olleet</em>
+* `Pres` (433; 71% of non-empty `Tense`): <em>on, ovat, ole, voi, täytyy, voivat, olemme, olen, onko, pitää</em>
+* `EMPTY` (218): <em>ei, ollut, eivät, olisi, voisi, eikä, en, olla, pitäisi, emme</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Inch` (5; 100% of non-empty `Aspect`): <em>арсезевинь, лаказеви, тошказевсь, урнозевсь, эскелязевсь</em>
-* `EMPTY` (2905): <em>кармась, мерсь, лиссь, кармасть, мольсь, совась, ютась, ашти, неяви, саизе</em>
+* `EMPTY` (2866): <em>кармась, мерсь, лиссь, кармасть, мольсь, совась, ютась, ашти, неяви, саизе</em>
 

@@ -67,7 +67,7 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 
 ### `ADV`
 
-33 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Derivation`.
+33 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Derivation`.
 
 The most frequent other feature values with which `ADV` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (17; 52%).
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `ADJ` and `Derivation` co-occu
 
 6 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (6; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5; 83%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (5; 83%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (5; 83%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `AUX` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=1</tt> (6; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5; 83%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (5; 83%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Prt1</tt> (5; 83%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (4; 67%).
 
 `AUX` tokens may have the following values of `Derivation`:
 
@@ -150,9 +150,7 @@ The most frequent other feature values with which `ADP` and `Derivation` co-occu
 
 ### `PART`
 
-1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Derivation`.
-
-The most frequent other feature values with which `PART` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Derivation`.
 
 `PART` tokens may have the following values of `Derivation`:
 
@@ -162,7 +160,7 @@ The most frequent other feature values with which `PART` and `Derivation` co-occ
 
 1 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `PRON` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Derivation`:
 

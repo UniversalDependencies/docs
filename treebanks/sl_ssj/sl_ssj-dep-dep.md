@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	zavezništvo	zavezništvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Dep=9|Rel=Obj
 11	proti	proti	ADP	Sd	Case=Dat	12	case	_	Dep=12|Rel=Atr
 12	Burgundcem	Burgundec	PROPN	Npmpd	Case=Dat|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Dep=10|Rel=Atr
-13	.	.	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
 
 ~~~
 

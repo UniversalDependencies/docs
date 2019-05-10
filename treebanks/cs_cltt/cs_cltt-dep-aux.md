@@ -103,14 +103,14 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 17	2008	2008	NUM	C}-------------	NumForm=Roman|NumType=Card	16	nummod	_	_
 18	a	a	CCONJ	J^-------------	_	19	cc	_	LId=a-1
 19	později	pozdě	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	16	conj	_	SpaceAfter=No
-20	,	,	PUNCT	Z:-------------	_	26	punct	_	_
+20	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 21	pokud	pokud	SCONJ	J,-------------	_	26	mark	_	_
 22	není	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	_
 23	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	26	case	_	LId=v-1
-24	bodě	bod	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	26	obl	_	_
+24	bodě	bod	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
 25	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	24	nummod	_	_
 26	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	6	aux	_	LDeriv=stanovit
-27	jinak	jinak	ADV	Db-------------	_	26	advmod	_	SpaceAfter=No
+27	jinak	jinak	ADV	Db-------------	_	6	advmod	_	SpaceAfter=No
 28	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~

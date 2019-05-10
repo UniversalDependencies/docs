@@ -88,10 +88,10 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
 12	vraiment	_	ADV	RB	_	14	advmod	_	_
 13	quelque	_	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
-14	chose	_	NOUN	NN	Gender=Fem|Number=Sing	18	parataxis	_	_
+14	chose	_	NOUN	NN	Gender=Fem|Number=Sing	3	parataxis	_	_
 15	»	_	PUNCT	''	_	3	punct	_	SpaceAfter=No
-16	,	_	PUNCT	,	_	14	punct	_	_
-17	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+16	,	_	PUNCT	,	_	3	punct	_	_
+17	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
 18	constaté	_	VERB	VBN	Gender=Masc|Number=Sing	3	parataxis	_	_
 19	l’	_	DET	DT	Gender=Masc|Number=Sing	20	det	_	OrigForm=l'|SpaceAfter=No
 20	américain	_	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No

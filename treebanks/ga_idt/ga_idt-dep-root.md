@@ -11,9 +11,9 @@ This relation is universal.
 1020 nodes (4%) are attached to their parents as `root`.
 
 1020 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.40686274509804.
+Average distance between parent and child is 3.55294117647059.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (644; 63% instances), -<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (166; 16% instances), -<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (60; 6% instances), -<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (36; 4% instances), -<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (36; 4% instances), -<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (32; 3% instances), -<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (12; 1% instances), -<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (11; 1% instances), -<tt><a href="ga_idt-pos-X.html">X</a></tt> (10; 1% instances), -<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (643; 63% instances), -<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (173; 17% instances), -<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (62; 6% instances), -<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (37; 4% instances), -<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (36; 4% instances), -<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (32; 3% instances), -<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (12; 1% instances), -<tt><a href="ga_idt-pos-X.html">X</a></tt> (10; 1% instances), -<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	1	csubj:cleft	_	_
 9	ina	i	ADP	Poss	Number=Plur|Person=3|Poss=Yes	10	case	_	_
 10	magistri	magistri	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	8	xcomp:pred	_	_
-11	tráth	tráth	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	advmod	_	_
+11	tráth	tráth	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	obl:tmod	_	_
 12	a	a	PART	Vb	PartType=Vb|PronType=Rel	13	nsubj	_	_
 13	bhíodh	bí	VERB	PastImp	Form=Len|Mood=Imp|Tense=Past	1	acl:relcl	_	_
 14	ann	i	ADP	Prep	Gender=Masc|Number=Sing|Person=3	13	xcomp:pred	_	SpaceAfter=No

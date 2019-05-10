@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `X`
 
 There are 5 `X` lemmas (0%), 7 `X` types (0%) and 10 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 14 observed tags, the rank of `X` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>ели, лема, савахтани, еффата, талиѳакоумъ</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.400000 (the average of all parts of speech is 3.256534).
+The form / lemma ratio of `X` is 1.400000 (the average of all parts of speech is 3.275325).
 
 The 1st highest number of forms (2) was observed with the lemma “ели”: <em>елѡи, елѡꙇ</em>.
 

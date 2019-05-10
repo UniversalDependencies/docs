@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-214 nodes (0%) are attached to their parents as `compound`.
+215 nodes (0%) are attached to their parents as `compound`.
 
-164 instances of `compound` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36915887850467.
+165 instances of `compound` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36744186046512.
 
-The following 16 pairs of parts of speech are connected with `compound`: <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (100; 47% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (37; 17% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (34; 16% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `compound`: <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (100; 47% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (37; 17% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (34; 16% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (16; 7% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound	color:blue
-1	Kemm	_	PRON	PRON_INT	_	3	advmod	_	_
+1	Kemm	_	ADV	PRON_INT	_	3	advmod	_	_
 2	qed	_	AUX	PROG	_	3	aux:part	_	_
 3	nagħtuha	_	VERB	VERB	_	0	root	_	_
 4	piż	_	NOUN	NOUN	_	3	compound	_	SpaceAfter=No

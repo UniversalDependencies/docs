@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 20 18 compound:redup	color:blue
 1	अभिनेत्री	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	compound	_	Translit=abhinetrī
 2	ग्लोरिया	_	PROPN	NNP	Animacy=Anim|Gender=Fem|Number=Sing	7	obl	_	Translit=gloriyā
-3	होल्डन	_	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	flat:name	_	Translit=holḍana
+3	होल्डन	_	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	flat:name	_	Translit=holḍana
 4	से	_	ADP	IN	Case=Acc	2	case	_	Translit=se
 5	उसका	_	PRON	PRP$	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nmod:poss	_	Translit=usakā
 6	तलाक	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=talāka
@@ -33,7 +33,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 8	अभी	_	NOUN	NST	_	12	obl:tmod	_	Translit=abhī
 9	ज्यादा	_	DET	QF	_	10	det	_	Translit=jyādā
 10	समय	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	obj	_	Translit=samaya
-11	नहीं	_	PART	NEG	Polarity=Neg	12	advmod	_	Translit=nahīṁ
+11	नहीं	_	PART	NEG	Polarity=Neg	12	advmod	_	Translit=nahīṁ
 12	हुआ	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	0	root	_	Translit=huā
 13	था	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Past	12	aux	_	SpaceAfter=No|Translit=thā
 14	,	_	PUNCT	,	_	24	punct	_	Translit=,
@@ -79,13 +79,13 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 compound:redup	color:blue
-1	वहां	_	NOUN	NST	_	5	advmod	_	Translit=vahāṁ
+1	वहां	_	NOUN	NST	_	5	obl	_	Translit=vahāṁ
 2	कई	_	DET	QF	_	4	det	_	Translit=kaī
 3	प्रागैतिहासिक	_	ADJ	JJ	_	4	amod	_	Translit=prāgaitihāsika
-4	कलाकृतियां	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	obj	_	Translit=kalākr̥tiyāṁ
-5	हैं	_	VERB	VBI	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|Translit=haiṁ
+4	कलाकृतियां	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	obj	_	Translit=kalākr̥tiyāṁ
+5	हैं	_	VERB	VBI	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|Translit=haiṁ
 6	,	_	PUNCT	,	_	18	punct	_	Translit=,
-7	जिनमें	_	PRON	REL	Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|PronType=Prs	18	obl	_	Translit=jinameṁ
+7	जिनमें	_	PRON	REL	Case=Acc|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|PronType=Prs	18	obl	_	Translit=jinameṁ
 8	कई	_	DET	QF	_	12	det	_	Translit=kaī
 9	अलग	_	ADJ	JJ	_	11	compound:redup	_	SpaceAfter=No|Translit=alaga
 10	-	_	PUNCT	-	_	9	punct	_	SpaceAfter=No|Translit=-
@@ -94,9 +94,9 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 13	के	_	ADP	IN	Case=Acc	12	case	_	Translit=ke
 14	मेनहिर	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Translit=menahira
 15	और	_	CCONJ	CC	_	16	cc	_	Translit=aura
-16	डॉल्मेन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	Translit=ḍôlmena
+16	डॉल्मेन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	Translit=ḍôlmena
 17	शामिल	_	ADJ	JJ	_	18	compound:conjv	_	Translit=śāmila
-18	हैं	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
+18	हैं	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
 19	।	_	PUNCT	.	_	5	punct	_	Translit=.
 
 ~~~

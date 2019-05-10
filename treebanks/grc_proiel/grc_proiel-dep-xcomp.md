@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3555 nodes (2%) are attached to their parents as `xcomp`.
+3761 nodes (2%) are attached to their parents as `xcomp`.
 
-2528 instances of `xcomp` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.49057665260197.
+2640 instances of `xcomp` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.56819994682265.
 
-The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1971; 55% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (634; 18% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (580; 16% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (159; 4% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (116; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (41; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (31; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (2013; 54% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (681; 18% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (680; 18% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (161; 4% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (116; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (47; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (31; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,27 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=1.10.1
 6	ἐδύνατο	δύναμαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	ref=1.10.1
 7	διαφυγεῖν	διαφεύγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	ref=1.10.1
-8	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.10.1
+8	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.10.1|LId=1
 9	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1.10.1
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 xcomp	color:blue
+1	Ἀρτυβίῳ	Ἀρτύβιος	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	ref=5.110.1
+2	δὲ	δέ	ADV	Df	_	8	discourse	_	ref=5.110.1
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=5.110.1
+4	στρατηγῷ	στρατηγός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	ref=5.110.1
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=5.110.1
+6	Περσέων	Πέρσης	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=5.110.1
+7	ἐθελοντὴς	ἐθελοντής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=5.110.1
+8	ἀντετάσσετο	ἀντιτάσσω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=5.110.1
+9	Ὀνήσιλος	Ὀνήσιλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=5.110.1
 
 ~~~
 
@@ -51,23 +70,6 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	ἐς	εἰς	ADP	R-	_	9	case	_	ref=1.19.2
 9	Δελφοὺς	Δελφοί	PROPN	Ne	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	ref=1.19.2
 10	θεοπρόπους	θεοπρόπος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	obj	_	ref=1.19.2
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 xcomp	color:blue
-1	Λύκιοι	Λύκιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj:pass	_	ref=7.92.1
-2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=7.92.1
-3	Τερμίλαι	Τερμίλαι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	ref=7.92.1
-4	ἐκαλέοντο	καλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=7.92.1
-5	ἐκ	ἐκ	ADP	R-	_	6	case	_	ref=7.92.1
-6	Κρήτης	Κρήτη	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=7.92.1
-7	γεγονότες	γίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=7.92.1
 
 ~~~
 

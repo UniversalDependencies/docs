@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovak-SNK: POS Tags: `CCONJ`
 
-There are 30 `CCONJ` lemmas (0%), 31 `CCONJ` types (0%) and 3374 `CCONJ` tokens (3%).
+There are 30 `CCONJ` lemmas (0%), 31 `CCONJ` types (0%) and 3376 `CCONJ` tokens (3%).
 Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, ale, aj, alebo, i, ani, či, však, lebo, no</em>
 
 The 10 most frequent `CCONJ` types:  <em>a, ale, aj, alebo, i, ani, či, však, lebo, no</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 2506, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90, <tt><a href="sk_snk-pos-X.html">X</a></tt> 15), <em>ale</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 210, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 29), <em>aj</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 227, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 101), <em>i</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 71, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 29, <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 23, <tt><a href="sk_snk-pos-X.html">X</a></tt> 2), <em>ani</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 68, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 61), <em>však</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 124, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 54), <em>no</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 15), <em>tak</em> (<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 79, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 47, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="sk_snk-pos-X.html">X</a></tt> 1), <em>takže</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 12), <em>teda</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 31, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 14)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 2506, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90, <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="sk_snk-pos-X.html">X</a></tt> 6), <em>ale</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 210, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 29), <em>aj</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 227, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 101), <em>i</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 26, <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 23, <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> 2), <em>ani</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 68, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 61), <em>však</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 124, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 54), <em>no</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 41, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 15), <em>tak</em> (<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 79, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 47, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="sk_snk-pos-X.html">X</a></tt> 1), <em>takže</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 16, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 12), <em>teda</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 31, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 14)
 
 The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 2379, <tt><a href="sk_snk-pos-X.html">X</a></tt> 3, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 1, <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 1), <em>ale</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 161, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 6), <em>aj</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 200, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 87), <em>i</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 68, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 26), <em>ani</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 52), <em>však</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 122, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 54), <em>no</em> (<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 3), <em>tak</em> (<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 19, <tt><a href="sk_snk-pos-X.html">X</a></tt> 1), <em>teda</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 30, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 13), <em>len</em> (<tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90, <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 6)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sk_snk-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.800669).
+The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.801856).
 
 The 1st highest number of forms (2) was observed with the lemma “síce”: <em>sice, síce</em>.
 
@@ -68,19 +68,19 @@ The 3rd highest number of forms (1) was observed with the lemma “aj”: <em>aj
 `CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3373 tokens).
+The most frequent feature combination is `_` (3375 tokens).
 Examples: <em>a, ale, aj, alebo, i, ani, či, však, lebo, no</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (3163; 94% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (144; 4% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (54; 2% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (3162; 94% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (144; 4% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (57; 2% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1742; 52% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (963; 29% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (309; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (192; 6% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (62; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (35; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (6; 0% instances),  (4; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1744; 52% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (965; 29% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (309; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (198; 6% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (62; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (6; 0% instances),  (4; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-3321 (98%) `CCONJ` nodes are leaves.
+3322 (98%) `CCONJ` nodes are leaves.
 
-48 (1%) `CCONJ` nodes have one child.
+49 (1%) `CCONJ` nodes have one child.
 
 1 (0%) `CCONJ` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sk
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (45; 73% instances), <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (8; 13% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (6; 10% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="sk_snk-dep-acl.html">acl</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (49; 78% instances), <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (7; 11% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (6; 10% instances), <tt><a href="sk_snk-dep-acl.html">acl</a></tt> (1; 2% instances)
 
-Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (45; 73% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (8; 13% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (45; 71% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (7; 11% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (4; 6% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

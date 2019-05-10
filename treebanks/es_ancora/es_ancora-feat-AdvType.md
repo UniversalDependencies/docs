@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `AdvType` co-occurre
 
 2 <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `AdvType`:
 

@@ -8,32 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-225 nodes (1%) are attached to their parents as `expl`.
+212 nodes (1%) are attached to their parents as `expl`.
 
-217 instances of `expl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.59111111111111.
+204 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60377358490566.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (196; 87% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (20; 9% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (186; 88% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (20; 9% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 expl	color:blue
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	y	y	PRON	P	PronType=Prs	3	expl	_	_
-3	a	avoir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	case	_	_
-4	420	420	NUM	N	NumType=Card	5	nummod	_	_
-5	millions	millions	NOUN	S	Gender=Fem|Number=Plur	11	obl	_	_
-6	d'	de	ADP	E	_	7	case	_	SpaceAfter=No
-7	années	année	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	5	punct	_	_
-9	cet	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
-10	organisme	organisme	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	existait	exister	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	11	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 expl	color:blue
+1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	ne	ne	PART	PART	Polarity=Neg	3	advmod	_	_
+3	savons	savoir	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pas	pas	ADV	BN	Polarity=Neg	3	advmod	_	_
+5	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+6	qui	qui	PRON	PR	PronType=Rel	8	nsubj	_	_
+7	se	se	PRON	P	Person=3|PronType=Prs	8	expl	_	_
+8	passe	passer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

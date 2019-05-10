@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2163 tokens (9%) have a non-empty value of `Tense`.
+2160 tokens (9%) have a non-empty value of `Tense`.
 633 types (11%) occur at least once with a non-empty value of `Tense`.
-250 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1697; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (378; 2% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (80; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+249 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1697; 7% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (373; 2% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (81; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -59,15 +59,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-378 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
+373 <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (378; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (330; 87%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (325; 86%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (298; 79%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=Cop</tt> (373; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (325; 87%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (320; 86%), <tt><a href="ga_idt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (295; 79%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (126; 33% of non-empty `Tense`): <em>ba, b', gur, níor, gurbh, mba, nár, ab, níorbh, ar</em>
-* `Pres` (252; 67% of non-empty `Tense`): <em>is, gur, ní, nach, gurb, an, ar, sea</em>
-* `EMPTY` (17): <em>Seo, is, Sin, Sé, Ba, Cén, cad, mba, más</em>
+* `Past` (125; 34% of non-empty `Tense`): <em>ba, b', gur, níor, gurbh, mba, nár, ab, níorbh, ar</em>
+* `Pres` (248; 66% of non-empty `Tense`): <em>is, gur, ní, nach, gurb, an, ar, sea</em>
+* `EMPTY` (13): <em>Seo, is, Sé, Ba, Cén, Sin, mba</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -87,26 +87,26 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `PART`
 
-80 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Tense`.
+81 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (76; 95%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (65; 81%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (77; 95%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (66; 81%).
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Past` (80; 100% of non-empty `Tense`): <em>gur, níor, ar, nár</em>
-* `EMPTY` (1451): <em>a, go, ní, d', nach, Ó, is, do, ná, ina</em>
+* `Past` (81; 100% of non-empty `Tense`): <em>gur, níor, ar, nár</em>
+* `EMPTY` (1493): <em>a, go, ní, d', nach, níos, Ó, is, do, ina</em>
 
 ### `X`
 
-5 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Tense`.
+5 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `X` and `Tense` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (5; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `X` and `Tense` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (5; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `X` tokens may have the following values of `Tense`:
 
 * `Past` (4; 80% of non-empty `Tense`): <em>dhein, chuireas, deineadh</em>
 * `Pres` (1; 20% of non-empty `Tense`): <em>Bhraitheas</em>
-* `EMPTY` (260): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `EMPTY` (150): <em>Co., Uimh., FÁS, a, chan, fá, m, Caidé, I.R., IO</em>
 
 ### `SCONJ`
 
@@ -115,18 +115,30 @@ The most frequent other feature values with which `X` and `Tense` co-occurred: <
 `SCONJ` tokens may have the following values of `Tense`:
 
 * `Past` (3; 100% of non-empty `Tense`): <em>Sular, murab</em>
-* `EMPTY` (371): <em>ach, nuair, mar, má, dá, go, agus, más, cé, ná</em>
+* `EMPTY` (379): <em>ach, nuair, mar, má, dá, go, agus, más, cé, ná</em>
+
+### `ADP`
+
+1 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `ADP` and `Tense` co-occurred: <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Tense`:
+
+* `Pres` (1; 100% of non-empty `Tense`): <em>ar</em>
+* `EMPTY` (3815): <em>ar, i, ag, le, de, sa, leis, ina, ann, mar</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> VERB</tt> (121; 90%),
-<tt>VERB --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (92; 66%),
-<tt>VERB --[<tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 63%),
+<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> VERB</tt> (122; 90%),
+<tt>VERB --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (92; 65%),
+<tt>VERB --[<tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 59%),
+<tt>VERB --[<tt><a href="ga_idt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (9; 53%),
 <tt>X --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="ga_idt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ga_idt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> X</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt>]--> AUX</tt> (1; 100%),
-<tt>X --[<tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt>]--> PART</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ga_idt-dep-advmod.html">advmod</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ga_idt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> X</tt> (1; 100%).
 

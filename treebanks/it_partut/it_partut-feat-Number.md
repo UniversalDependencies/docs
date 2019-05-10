@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 30415 tokens (55%) have a non-empty value of `Number`.
 6346 types (75%) occur at least once with a non-empty value of `Number`.
-3921 lemmas (69%) occur at least once with a non-empty value of `Number`.
+3920 lemmas (69%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (10700; 19% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (9432; 17% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (4152; 7% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (3347; 6% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1870; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (912; 2% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (1492; 36% of non-empty `Number`): <em>strutturali, altri, principali, teatrali, importanti, nazionali, ambientali, sociali, applicabili, fondamentali</em>
 * `Sing` (2660; 64% of non-empty `Number`): <em>presente, sociale, importante, possibile, grande, europeo, intellettuale, primo, internazionale, forte</em>
-* `EMPTY` (55): <em>pari, fa, gran, 1, audio, ex, meglio, online, standard, °</em>
+* `EMPTY` (53): <em>pari, fa, gran, 1, audio, ex, meglio, online, standard, 1°</em>
 
 <table>
   <tr><th>Paradigm <i>altro</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -159,14 +159,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
-* `EMPTY` (2035): <em>Shakespeare, Balzac, Facebook, Europa, Ucraina, Pericle, Stati, Uniti, Europea, Unione</em>
+* `EMPTY` (2033): <em>Shakespeare, Balzac, Facebook, Europa, Ucraina, Pericle, Stati, Uniti, Europea, Unione</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (7394; 93%),
 <tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3152; 92%),
-<tt>NOUN --[<tt><a href="it_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1826; 50%),
+<tt>NOUN --[<tt><a href="it_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1827; 50%),
 <tt>VERB --[<tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (719; 78%),
 <tt>NOUN --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (596; 68%),
 <tt>NOUN --[<tt><a href="it_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (529; 73%),

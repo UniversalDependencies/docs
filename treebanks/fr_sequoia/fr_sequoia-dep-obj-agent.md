@@ -94,8 +94,8 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 52	nous	il	PRON	_	Number=Plur|Person=1	54	nsubj	_	_
 53	avons	avoir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	54	aux	_	_
 54	admis	admettre	VERB	_	Gender=Masc|Tense=Past|VerbForm=Part	47	acl:relcl	_	_
-55	jusqu'	jusque	ADP	_	_	58	case	_	MWE=jusqu'à|MWEPOS=ADP|SpaceAfter=No
-56	à	à	ADP	_	_	55	fixed	_	_
+55	jusqu'	jusque	ADP	_	_	58	case	_	SpaceAfter=No
+56	à	à	ADP	_	_	58	case	_	_
 57	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	58	det	_	_
 58	jour	jour	NOUN	_	Gender=Masc|Number=Sing	54	obl:mod	_	SpaceAfter=No
 59	.	.	PUNCT	_	_	4	punct	_	_

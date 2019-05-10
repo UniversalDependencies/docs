@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (1%) are attached to their parents as `amod`.
+128 nodes (1%) are attached to their parents as `amod`.
 
-103 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60576923076923.
+127 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5546875.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (92; 88% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (117; 91% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	問題	_	NOUN	_	_	4	obj	_	SpaceAfter=No
 7	的	_	PART	_	_	4	mark:rel	_	SpaceAfter=No
 8	議員	_	NOUN	_	_	10	nsubj	_	SpaceAfter=No
-9	是	_	VERB	_	_	10	cop	_	SpaceAfter=No
+9	是	_	AUX	_	_	10	cop	_	SpaceAfter=No
 10	許智峯	_	PROPN	_	_	0	root	_	SpaceAfter=No
 11	議員	_	NOUN	_	_	10	flat	_	SpaceAfter=No
 12	。	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	秘書長	_	NOUN	_	_	13	nsubj	_	SpaceAfter=No
 3	亦	_	ADV	_	_	13	advmod	_	SpaceAfter=No
 4	對	_	ADP	_	_	12	case	_	SpaceAfter=No
-5	所有	_	DET	_	_	12	dep	_	SpaceAfter=No
+5	所有	_	DET	_	_	12	det	_	SpaceAfter=No
 6	他	_	PRON	_	_	7	nsubj	_	SpaceAfter=No
 7	懷疑	_	VERB	_	_	12	acl	_	SpaceAfter=No
 8	未	_	ADV	_	_	10	advmod	_	SpaceAfter=No

@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>de, Von, of, Di, On</em>
-* `EMPTY` (1831): <em>v, na, z, s, do, ve, o, k, pro, za</em>
+* `EMPTY` (1830): <em>v, na, z, s, do, ve, o, k, pro, za</em>
 
 ### `CCONJ`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>and, If</em>
-* `EMPTY` (657): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
+* `EMPTY` (656): <em>a, ale, i, nebo, však, avšak, nicméně, až, ani, tedy</em>
 
 ### `PRON`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>You, me</em>
-* `EMPTY` (576): <em>se, si, co, což, ho, nich, ní, jí, mu, mě</em>
+* `EMPTY` (577): <em>se, si, co, což, ho, nich, ní, jí, mu, mě</em>
 
 ### `ADV`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>cca</em>
-* `EMPTY` (848): <em>tak, také, jak, více, poté, už, kde, pouze, stejně, ještě</em>
+* `EMPTY` (836): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Foreign`
 

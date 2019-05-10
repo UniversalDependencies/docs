@@ -11,9 +11,9 @@ This relation is universal.
 4865 nodes (8%) are attached to their parents as `cc`.
 
 3263 instances of `cc` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.82425488180884.
+Average distance between parent and child is 3.81007194244604.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3855; 79% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (588; 12% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (141; 3% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (133; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (58; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (36; 1% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3499; 72% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (664; 14% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (231; 5% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (149; 3% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (147; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (83; 2% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (43; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (31; 1% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,24 +57,20 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 10 cc	color:blue
-1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_7.17
-2	изиде	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.17
-3	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=LUKE_7.17
-4	се	сь	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=LUKE_7.17
-5	по	по	ADP	R-	_	7	case	_	ref=LUKE_7.17
-6	вьсеи	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Sing	7	det	_	ref=LUKE_7.17
-7	июдеи	июдеꙗ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=LUKE_7.17
-8	о	о	ADP	R-	_	9	case	_	ref=LUKE_7.17
-9	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=LUKE_7.17
-10	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=LUKE_7.17
-11	по	по	ADP	R-	_	13	case	_	ref=LUKE_7.17
-12	вьсеи	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Sing	13	det	_	ref=LUKE_7.17
-13	странѣ	страна	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	conj	_	ref=LUKE_7.17
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 cc	color:blue
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_6.25
+2	ⷣ҇ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=MATT_6.25
+3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	ref=MATT_6.25
+4	больши	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=MATT_6.25
+5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_6.25
+6	пиштѧ	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	ref=MATT_6.25
+7	и	и	CCONJ	C-	_	4	cc	_	ref=MATT_6.25
+8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=MATT_6.25
+9	одеждѧ	одежда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	ref=MATT_6.25
 
 ~~~
 

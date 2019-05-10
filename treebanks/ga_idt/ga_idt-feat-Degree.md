@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>ceart</em>
-* `EMPTY` (6368): <em>bheith, chur, níos, rud, duine, dhéanamh, chuid, fear, dul, fáil</em>
+* `EMPTY` (6324): <em>bheith, chur, rud, duine, dhéanamh, chuid, fear, dul, fáil, lá</em>
 
 ## Relations with Agreement in `Degree`
 

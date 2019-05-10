@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj	color:blue
 1	Does	do	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	cost	cost	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	money	money	NOUN	S	Number=Sing	3	obj	_	_
 5	to	to	PART	PART	_	6	mark	_	_

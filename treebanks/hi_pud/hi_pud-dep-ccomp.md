@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	सचमुच	_	ADV	RB	_	11	advmod	_	Translit=sacamuca
 8	दुनिया	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	obl	_	Translit=duniyā
 9	भर	_	PART	PRT	_	8	discourse	_	Translit=bhara
-10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
+10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
 11	फैल	_	VERB	VB	_	3	ccomp	_	Translit=phaila
 12	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	11	aux	_	SpaceAfter=No|Translit=gayī
 13	।	_	PUNCT	.	_	3	punct	_	Translit=.
@@ -76,7 +76,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 9 ccomp	color:blue
 1	जलवायु	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Translit=jalavāyu
 2	इतनी	_	DET	QF	Case=Nom|Gender=Fem|Number=Sing	3	det	_	Translit=itanī
-3	शुष्क	_	ADJ	JJ	_	0	root	_	Translit=śuṣka
+3	शुष्क	_	ADJ	JJ	_	0	root	_	Translit=śuṣka
 4	है	_	AUX	VBI	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	Translit=hai
 5	कि	_	SCONJ	IN	_	9	mark	_	Translit=ki
 6	कभी	_	ADV	RB	_	8	compound:redup	_	SpaceAfter=No|Translit=kabhī
@@ -91,7 +91,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 15	सहारा	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	nmod:poss	_	Translit=sahārā
 16	के	_	ADP	IN	Case=Gen|Gender=Masc|Number=Plur	15	case	_	Translit=ke
 17	हिस्से	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	ccomp	_	Translit=hisse
-18	हैं	_	AUX	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	cop	_	SpaceAfter=No|Translit=haiṁ
+18	हैं	_	AUX	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	cop	_	SpaceAfter=No|Translit=haiṁ
 19	।	_	PUNCT	.	_	3	punct	_	Translit=.
 
 ~~~

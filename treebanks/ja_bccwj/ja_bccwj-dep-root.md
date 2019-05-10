@@ -11,9 +11,9 @@ This relation is universal.
 57109 nodes (4%) are attached to their parents as `root`.
 
 57109 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 19.9031326060691.
+Average distance between parent and child is 19.9023446391987.
 
-The following 17 pairs of parts of speech are connected with `root`: -<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (27672; 48% instances), -<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (19337; 34% instances), -<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3642; 6% instances), -<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2257; 4% instances), -<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1441; 3% instances), -<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1069; 2% instances), -<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (513; 1% instances), -<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (328; 1% instances), -<tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (323; 1% instances), -<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (200; 0% instances), -<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (121; 0% instances), -<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (116; 0% instances), -<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (46; 0% instances), -<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), -<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), -<tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (5; 0% instances), -<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `root`: -<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (27672; 48% instances), -<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (19338; 34% instances), -<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3642; 6% instances), -<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2258; 4% instances), -<tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1441; 3% instances), -<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1069; 2% instances), -<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (513; 1% instances), -<tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (413; 1% instances), -<tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (328; 1% instances), -<tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (200; 0% instances), -<tt><a href="ja_bccwj-pos-X.html">X</a></tt> (125; 0% instances), -<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (50; 0% instances), -<tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), -<tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), -<tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), -<tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 17 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	_	_	NUM	_	_	4	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 4	_	_	NOUN	_	_	30	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-6	_	_	VERB	_	_	4	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+6	_	_	VERB	_	_	4	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 7	_	_	SCONJ	_	_	4	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 8	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
 9	_	_	PUNCT	_	_	4	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
@@ -87,7 +87,7 @@ The following 17 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
 1	_	_	CCONJ	_	_	8	cc	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
-2	_	_	PUNCT	_	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+2	_	_	PUNCT	_	_	8	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 3	_	_	NOUN	_	_	4	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 4	_	_	NOUN	_	_	8	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No

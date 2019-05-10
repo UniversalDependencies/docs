@@ -26,7 +26,7 @@ The following 44 pairs of parts of speech are connected with `mark`: <tt><a href
 2	уход	уход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
 3	под	под	ADP	_	_	4	case	4:case	_
 4	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	7:punct	_
+5	,	,	PUNCT	_	_	2	punct	2:punct	_
 6	как	как	SCONJ	_	_	7	mark	7:mark	_
 7	полагал	полагать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	10:parataxis	_
 8	Жиров	Жиров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 44 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5 4 mark	color:blue
 1	Их	они	PRON	_	Case=Gen|Number=Plur|Person=3	2	nmod	2:nmod	_
 2	преодоление	преодоление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	7:nsubj:pass	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	как	как	SCONJ	_	_	5	mark	5:mark	_
 5	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	7:parataxis	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	5:punct	_

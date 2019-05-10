@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18650 nodes (4%) are attached to their parents as `aux`.
+17083 nodes (3%) are attached to their parents as `aux`.
 
-18430 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54016085790885.
+16693 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39530527424925.
 
-The following 13 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (17301; 93% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (698; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (423; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (54; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (51; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (16178; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (418; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (280; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (50; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
 5	algunes	algun	PRON	PRON	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	_	_
 6	no	no	ADV	ADV	Polarity=Neg	9	advmod	_	_
-7	s'	es	PRON	PRON	_	9	obj	_	SpaceAfter=No
+7	s'	ell	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	_	SpaceAfter=No
 8	han	haver	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	obert	obrir	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-10	al	al	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	11	case	_	_
+10	al	al	ADP	ADP	AdpType=Preppron	11	case	_	_
 11	públic	públic	NOUN	NOUN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 

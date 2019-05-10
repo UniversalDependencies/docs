@@ -43,9 +43,9 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 25	fgColor:white
 # visual-style 25 24 reparandum	color:blue
 1	Niin	niin	PART	Pcle	_	5	advmod	_	_
-2	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	4	det	_	_
-3	feminismi	feminismi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	goeswith	_	Alt=goeswith
-4	sana	sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	_
+2	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	3	det	_	Was18goes=det:4
+3	feminismi	feminismi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	nsubj	_	Alt=goeswith|Was18gor=4
+4	sana	sana	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	3	goeswith	_	Was18gow=5:nsubj
 5	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	tuli	tulla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 7	semmoseen	semmoinen	DET	A,Dem,Sg,Ill	Case=Ill|Number=Sing|PronType=Dem|Style=Coll	8	amod	_	Alt=DET
@@ -84,7 +84,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	niillä	ne	DET	Pron,Dem,Pl,Ade	Case=Ade|Number=Plur|PronType=Dem	3	det	_	_
 3	semmosilla	semmoinen	ADJ	A,Dem,Pl,Ade	Case=Ade|Number=Plur|PronType=Dem|Style=Coll	41	nmod	_	_
 4	jotka	joka	PRON	Pron,Rel,Pl,Nom	Case=Nom|Number=Plur|PronType=Rel	6	nsubj	_	_
-5	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 6	erikoistunuj	erikoistua	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|Style=Coll|VerbForm=Part|Voice=Act	3	acl	_	_
 7	jonnekkii	jonnekin	ADV	Adv,Qnt	PronType=Ind|Style=Coll	6	advmod	_	_
 8	,	,	PUNCT	Pun	_	7	punct	_	_

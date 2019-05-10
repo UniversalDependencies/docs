@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 15	tak	tak	ADV	Db-------------	PronType=Dem	18	advmod	_	LId=tak-3
 16	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	18	nsubj:pass	_	_
 17	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	18	aux:pass	_	_
-18	řečeno	řečený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	LDeriv=říct|SpaceAfter=No
+18	řečeno	řečený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	SpaceAfter=No|LDeriv=říct
 19	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~

@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	δύο	δύο	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	3	nummod	_	_
 3	χρόνια	χρόνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
 4	μπορεί	μπορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	να	να	PART	PART	_	6	aux	_	_
+5	να	να	AUX	AUX	_	6	aux	_	_
 6	έχουμε	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
 7	δέκα	δέκα	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	9	nummod	_	_
 8	νέα	νέος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	μας	μου	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
 4	αποστολή	αποστολή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 5	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
-6	να	να	PART	PART	_	7	aux	_	_
+6	να	να	AUX	AUX	_	7	aux	_	_
 7	προχωρήσει	προχωρώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	_	_
 8	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Ευρώπη	Ευρώπη	PROPN	PROPN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No

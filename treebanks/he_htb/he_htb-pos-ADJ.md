@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  ראשון (<tt><a href="he_htb-pos-ADJ.h
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.920279 (the average of all parts of speech is 1.698519).
+The form / lemma ratio of `ADJ` is 1.920279 (the average of all parts of speech is 1.701251).
 
 The 1st highest number of forms (56) was observed with the lemma “_”: אזוטרי, אידאליסטי, אלמנטרי, אקספרסיווי, אשמה, בית"ריות, בכורה, בלטיות, בלטית, בנאליות, גרמניה, דומה, דרמאטי, הבעתי, המוצעת, ויזואלית, חובבניות, חוליגאנים, טכסיים, טרפים, יהודיה, יורקית, ייצוגי, יתר, כווייתים, כולל, כוללת, לבדך, מגוייס, מגוררת, מדוייקות, מהולל, מהוללת, מהפכני, נ"ל, סבאי, סיטרי, סימבולי, סימבולית, סיעודי, ספורטיווית, עיצוביים, עלוב, פונדמליסטיים, פלורנטיני, קולינארית, קולינרי, קיים, ראשון, ראשונה, ראשונות, ראשונים, רצוי, רשמית, שיפוטיות, תיאמן.
 

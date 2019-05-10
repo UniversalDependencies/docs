@@ -29,12 +29,12 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	vuotta	vuosi	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	nmod	_	_
 5	pytyssä	pytty	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	2	nmod	_	_
 6	ell	jos	SCONJ	Pcle,CS	_	8	mark	_	Join=Yes
-7	ei	ei	VERB	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	anna	antaa	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
 9	ilmi	ilmi	ADV	Adv	_	8	compound:prt	_	_
 10	kavereitaan	kaveri	NOUN	N,Pl,Par,Px3	Case=Par|Number=Plur|Person[psor]=3	8	obj	_	_
 11	.	.	PUNCT	Pun	_	10	punct	_	_
-12	"	"	PUNCT	Pun,Quo,Fin	PunctSide=Fin	11	punct	_	Missed-SUBCAT=QUOTATION
+12	"	"	PUNCT	Pun,Quo,Fin	PunctSide=Fin	10	punct	_	Missed-SUBCAT=QUOTATION|Was18punch=punct:11
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	fgColor:white
 # visual-style 3 1 compound:prt	color:blue
 1	Mieleni	mieli	NOUN	N,Sg,Nom,PxSg1	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	compound:prt	_	_
-2	olisi	olla	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	olisi	olla	AUX	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	tehnyt	tehdä	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	rynnätä	rynnätä	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	3	xcomp	_	Alt=3_xcomp
 5	pois	pois	ADV	Adv	_	4	advmod	_	_

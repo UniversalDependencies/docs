@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="cs_cltt-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.218750 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `ADP` is 1.218750 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
@@ -72,11 +72,13 @@ Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="cs_c
 
 202 (5%) `ADP` nodes have one child.
 
-63 (2%) `ADP` nodes have two children.
+62 (2%) `ADP` nodes have two children.
 
-The highest child degree of a `ADP` node is 2.
+1 (0%) `ADP` nodes have three or more children.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (324; 99% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (1; 0% instances)
+The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (260; 79% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (66; 20% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 4 different relations: <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (324; 98% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (1; 0% instances)
+
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (260; 79% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (66; 20% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances)
 

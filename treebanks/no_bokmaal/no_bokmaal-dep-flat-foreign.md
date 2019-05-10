@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 14	valgmannstemmene	valgmannstemme	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	11	obj	_	_
 15	i	i	ADP	_	_	16	case	_	_
 16	Arizona	Arizona	PROPN	_	_	14	nmod	_	SpaceAfter=No
-17	,	$,	PUNCT	_	_	16	punct	_	_
+17	,	$,	PUNCT	_	_	18	punct	_	_
 18	the	the	X	_	_	16	appos	_	_
 19	Grand	Grand	PROPN	_	_	18	flat:foreign	_	_
 20	Canyon	Canyon	PROPN	_	_	18	flat:foreign	_	_

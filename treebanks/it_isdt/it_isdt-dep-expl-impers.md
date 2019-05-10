@@ -11,10 +11,10 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="it_isd
 
 425 nodes (0%) are attached to their parents as `expl:impers`.
 
-400 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46823529411765.
+401 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47529411764706.
 
-The following 5 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (420; 99% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (422; 99% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,28 +31,6 @@ The following 5 pairs of parts of speech are connected with `expl:impers`: <tt><
 6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	7:expl:impers	_
 7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	3:acl:relcl	SpaceAfter=No
 8	:	:	PUNCT	FC	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 expl:impers	color:blue
-1	Come	come	ADV	B	_	4	advmod	4:advmod	_
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	3:expl:impers	_
-3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	misurare	misurare	VERB	V	VerbForm=Inf	0	root	0:root	_
-5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
-6	contenuto	contenuto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	4:nsubj:pass	_
-7	di	di	ADP	E	_	8	case	8:case	_
-8	deuterio	deuterio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	6:nmod:di	_
-9	in	in	ADP	E	_	11	case	11:case	_
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
-11	vino	vino	NOUN	S	Gender=Masc|Number=Sing	4	obl	4:obl:in	SpaceAfter=No
-12	?	?	PUNCT	FS	_	4	punct	4:punct	_
 
 ~~~
 
@@ -81,6 +59,42 @@ The following 5 pairs of parts of speech are connected with `expl:impers`: <tt><
 16	sola	solo	ADJ	A	Gender=Fem|Number=Sing	17	amod	17:amod	_
 17	parola	parola	NOUN	S	Gender=Fem|Number=Sing	11	obl	11:obl:a	SpaceAfter=No
 18	.	.	PUNCT	FS	_	10	punct	10:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 25 expl:impers	color:blue
+1	insomma	insomma	ADV	B	_	10	advmod	10:advmod	_
+2	che	che	SCONJ	CS	_	10	mark	10:mark	_
+3	d'	da	ADP	E	_	4	case	4:case	SpaceAfter=No
+4	ora	ora	ADV	B	_	10	advmod	10:advmod	_
+5	in	in	ADP	E	_	4	fixed	4:fixed	_
+6	avanti	avanti	NOUN	S	Gender=Masc	4	fixed	4:fixed	_
+7	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj|20:nsubj	_
+8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	10:expl	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	10:expl	_
+10	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+11	nervosamente	nervosamente	ADV	B	_	10	advmod	10:advmod	_
+12	avanti	avanti	ADV	B	_	10	advmod	10:advmod	_
+13	e	e	CCONJ	CC	_	14	cc	14:cc	_
+14	indietro	indietro	ADV	B	_	12	conj	10:advmod|12:conj:e	_
+15	per	per	ADP	E	_	18	case	18:case	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	_
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	18:det:poss	_
+18	aia	aia	NOUN	S	Gender=Fem|Number=Sing	10	obl	10:obl:per	SpaceAfter=No
+19	,	,	PUNCT	FF	_	10	punct	10:punct	_
+20	perplesso	perplesso	ADJ	A	Gender=Masc|Number=Sing	10	xcomp	10:xcomp	_
+21	su	su	ADP	E	_	23	case	23:case	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	23:det	_
+23	da	da	ADP	E	_	20	obl	20:obl:su	_
+24	far	fare	VERB	V	VerbForm=Inf	23	fixed	23:fixed	_
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	expl:impers	23:expl:impers	_
+26	.	.	PUNCT	FS	_	10	punct	10:punct	_
 
 ~~~
 

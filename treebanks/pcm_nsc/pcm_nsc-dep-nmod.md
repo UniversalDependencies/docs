@@ -27,9 +27,9 @@ The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href
 2	dis	dis	DET	_	_	3	det	_	_
 3	kind	kind	NOUN	_	_	6	nsubj	_	_
 4	thing	thing	NOUN	_	_	3	nmod	_	_
-5	no	no	PART	_	_	6	advmod	_	_
+5	no	no	ADV	PART	_	6	advmod	_	_
 6	good	good	ADJ	_	_	0	root	_	_
-7	o	o	PART	_	_	6	advmod:emph	_	_
+7	o	o	ADV	PART	_	6	advmod:emph	_	_
 8	//	//	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	||	||	PUNCT	_	_	3	punct	_	_
 5	dem	dem	PRON	_	_	6	nsubj	_	_
 6	want	want	VERB	_	_	3	conj:dicto	_	_
-7	}	}	PUNCT	_	_	3	punct	_	_
+7	}	}	PUNCT	_	_	6	punct	_	_
 8	just	just	ADV	_	_	9	advmod	_	_
 9	spoil	spoil	VERB	_	_	6	xcomp	_	_
 10	Obasanjo	Obasanjo	PROPN	_	_	11	nmod	_	_

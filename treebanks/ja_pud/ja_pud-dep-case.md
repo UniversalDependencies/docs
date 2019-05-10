@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6377 nodes (24%) are attached to their parents as `case`.
+6375 nodes (24%) are attached to their parents as `case`.
 
-6376 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21624588364435.
+6375 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22211764705882.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4545; 71% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (892; 14% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (436; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (395; 6% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (65; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4546; 71% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (895; 14% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (436; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (394; 6% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (65; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (18; 0% instances).
 
 
 ~~~ conllu
@@ -79,13 +79,13 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 3	言っ	言う	VERB	VV	_	9	advcl	_	SpaceAfter=No
 4	て	て	SCONJ	PC	_	3	mark	_	SpaceAfter=No
 5	いる	いる	AUX	AV	_	3	aux	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	3	aux	_	SpaceAfter=No
+6	こと	こと	SCONJ	PNB	_	3	mark	_	SpaceAfter=No
 7	と	と	ADP	PS	_	3	case	_	SpaceAfter=No
 8	、	、	PUNCT	SYM	_	3	punct	_	SpaceAfter=No
 9	やっ	やる	VERB	VV	_	18	csubj	_	SpaceAfter=No
 10	て	て	SCONJ	PC	_	9	mark	_	SpaceAfter=No
 11	いる	いる	AUX	AV	_	9	aux	_	SpaceAfter=No
-12	こと	こと	NOUN	NB	_	9	aux	_	SpaceAfter=No
+12	こと	こと	SCONJ	PNB	_	9	mark	_	SpaceAfter=No
 13	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
 14	、	、	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
 15	実際	実際	NOUN	NN	_	18	iobj	_	SpaceAfter=No
@@ -94,7 +94,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 18	信じ	信じる	VERB	VV	_	0	root	_	SpaceAfter=No
 19	られ	られる	AUX	AV	_	18	aux	_	SpaceAfter=No
 20	ない	ない	AUX	AV	_	18	aux	_	SpaceAfter=No
-21	こと	こと	NOUN	NB	_	18	aux	_	SpaceAfter=No
+21	こと	こと	SCONJ	PNB	_	18	mark	_	SpaceAfter=No
 22	だ	だ	AUX	AV	_	18	cop	_	SpaceAfter=No
 23	。	。	PUNCT	SYM	_	18	punct	_	SpaceAfter=No
 

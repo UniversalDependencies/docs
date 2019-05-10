@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-220 nodes (1%) are attached to their parents as `ccomp`.
+247 nodes (1%) are attached to their parents as `ccomp`.
 
-220 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.52727272727273.
+219 instances of `ccomp` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.35627530364372.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (129; 59% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (24; 11% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (9; 4% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (130; 53% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (36; 15% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (24; 10% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (16; 6% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (14; 6% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,9 +28,28 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	pas	pas	PART	_	_	3	advmod	_	_
 5	si	si	SCONJ	_	_	8	mark	_	_
 6	vous	vous	PRON	_	_	8	nsubj	_	_
-7	voulez	vouloir	VERB	_	_	8	aux	_	_
+7	voulez	vouloir	AUX	_	_	8	aux	_	_
 8	savoir	savoir	VERB	_	_	3	ccomp	_	_
 9	pourquoi	pourquoi	PRON	_	_	8	obj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 ccomp	color:blue
+1	et	et	CCONJ	_	_	2	cc	_	_
+2	est	être	AUX	_	_	6	ccomp	_	_
+3	-ce	ce	PRON	_	_	6	nsubj	_	_
+4	qu'	que	SCONJ	_	_	6	mark	_	_
+5	ils	il	PRON	_	_	6	nsubj	_	_
+6	font	faire	VERB	_	_	0	root	_	_
+7	aussi	aussi	ADV	_	_	6	advmod	_	_
+8	le	le	DET	_	_	9	det	_	_
+9	cannage	cannage	NOUN	_	_	6	obj	_	_
 
 ~~~
 
@@ -52,30 +71,6 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	pas	pas	PART	_	_	11	advmod	_	_
 10	la	le	DET	_	_	11	det	_	_
 11	peine	peine	NOUN	_	_	5	ccomp	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 ccomp	color:blue
-1	donc	donc	ADV	_	_	4	advmod:periph	_	_
-2	euh	euh	INTJ	_	_	1	discourse	_	_
-3	j'	je	PRON	_	_	4	nsubj	_	_
-4	avais	avoir	VERB	_	_	0	root	_	_
-5	qu'	que	SCONJ	_	_	4	advcl	_	_
-6	un	un	DET	_	_	7	det	_	_
-7	souhait	souhait	NOUN	_	_	4	obj	_	_
-8	c'	ce	PRON	_	_	9	nsubj	_	_
-9	était	être	AUX	_	_	4	conj:dicto	_	_
-10	re~	re~	VERB	_	_	9	ccomp	_	_
-11	de	de	ADP	_	_	12	mark	_	_
-12	revenir	revenir	VERB	conj:reform	_	10	conj:dicto	_	_
-13	en	en	ADP	_	_	14	case	_	_
-14	France	France	PROPN	_	_	12	obl:comp	_	_
 
 ~~~
 

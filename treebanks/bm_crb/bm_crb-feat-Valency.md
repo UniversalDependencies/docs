@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
 
 `VERB` tokens may have the following values of `Valency`:
 
-* `1` (448; 100% of non-empty `Valency`): <em>tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</em>
+* `1` (448; 100% of non-empty `Valency`): <em>tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</em>
 
 `Valency` seems to be **lexical feature** of `VERB`. 100% lemmas (59) occur only with one value of `Valency`.
 

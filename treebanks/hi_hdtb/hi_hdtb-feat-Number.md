@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 217739 tokens (62%) have a non-empty value of `Number`.
-16142 types (84%) occur at least once with a non-empty value of `Number`.
-12869 lemmas (83%) occur at least once with a non-empty value of `Number`.
+16026 types (84%) occur at least once with a non-empty value of `Number`.
+12817 lemmas (83%) occur at least once with a non-empty value of `Number`.
 The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77436; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41555; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (28255; 8% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (25282; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (24139; 7% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10898; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4883; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (3353; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1377; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (513; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>मंत्री</td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (7086) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (7073) occur only with one value of `Number`.
 
 ### `VERB`
 
@@ -223,7 +223,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (4439; 18% of non-empty `Number`): हैं, गए, थे, रहे, सकते, हुए, रही, गई, थीं, चुके
 * `Sing` (19700; 82% of non-empty `Number`): है, गया, था, गई, हुए, थी, दिया, हैं, रहा, रही
-* `EMPTY` (1891): जा, जाने, चाहिए, कर, जाना, हो, पड़, पा, रखने, चुका
+* `EMPTY` (1891): जा, जाने, चाहिए, कर, जाना, हो, पड़, पा, रखने, चुका
 
 <table>
   <tr><th>Paradigm <i>है</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -336,7 +336,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (522; 16% of non-empty `Number`): पिछले, बड़े, नए, अगले, दूसरे, अच्छे, छोटे, बड़ी, नई, पुराने
+* `Plur` (522; 16% of non-empty `Number`): पिछले, बड़े, नए, अगले, दूसरे, अच्छे, छोटे, बड़ी, नई, पुराने
 * `Sing` (2831; 84% of non-empty `Number`): पिछले, पूरी, पूरा, अगले, पहली, पूरे, नए, नई, दूसरी, दूसरे
 * `EMPTY` (17293): शामिल, अन्य, जारी, पूर्व, भारतीय, तैयार, स्थित, वरिष्ठ, पेश, दर्ज
 
@@ -381,9 +381,9 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (504; 98% of non-empty `Number`): दोनों, तीनों, हजारों, सैकड़ों, करोड़ों, लाखों, चारों, १०, तीन, नौ
+* `Plur` (504; 98% of non-empty `Number`): दोनों, तीनों, सैकड़ों, हजारों, करोड़ों, लाखों, चारों, १०, तीन, नौ
 * `Sing` (9; 2% of non-empty `Number`): पौने, आधा, आधे, एक, दूसरे, दो, पौन, ४.११
-* `EMPTY` (6227): एक, दो, तीन, करोड़, चार, लाख, हजार, पांच, छह, सात
+* `EMPTY` (6227): एक, दो, तीन, करोड़, चार, लाख, हजार, पांच, छह, सात
 
 <table>
   <tr><th>Paradigm <i>दो</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -393,7 +393,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt></tt></td><td></td><td>दोनों, दो</td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NUM`. 98% lemmas (62) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 98% lemmas (61) occur only with one value of `Number`.
 
 ### `PART`
 
@@ -425,12 +425,12 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 `X` tokens may have the following values of `Number`:
 
 * `Plur` (2; 17% of non-empty `Number`): बडे, बुझे
-* `Sing` (10; 83% of non-empty `Number`): बड़े, आधा, इतना, इतनी, खासी, दर्जन, बड़ा, बड़ी, साथ
+* `Sing` (10; 83% of non-empty `Number`): बड़े, आधा, इतना, इतनी, खासी, दर्जन, बड़ा, बड़ी, साथ
 * `EMPTY` (136): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, अलग, आउट, आफ, इंटरसेप्ट
 
 <table>
   <tr><th>Paradigm <i>बडा</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td>बड़े</td><td>बडे</td></tr>
+  <tr><td><tt></tt></td><td>बड़े</td><td>बडे</td></tr>
 </table>
 
 ### `SCONJ`
@@ -455,13 +455,13 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (13480; 90%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (11362; 65%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (10658; 97%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (11877; 66%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux.html">aux</a></tt>]--> AUX</tt> (10655; 97%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (9792; 90%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9073; 68%),
 <tt>NOUN --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7013; 84%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6613; 78%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (6563; 63%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6404; 76%),
-<tt>AUX --[<tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (5706; 85%),
-<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (5090; 90%).
+<tt>VERB --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (6621; 78%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (6564; 63%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6403; 76%),
+<tt>VERB --[<tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (5089; 90%).
 

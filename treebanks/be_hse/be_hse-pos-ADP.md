@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Belarusian-HSE: POS Tags: `ADP`
 
-There are 39 `ADP` lemmas (2%), 39 `ADP` types (1%) and 876 `ADP` tokens (11%).
+There are 41 `ADP` lemmas (1%), 41 `ADP` types (1%) and 1421 `ADP` tokens (11%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>ў, у, на, з, па, да, за, аб, для, пра</em>
+The 10 most frequent `ADP` lemmas: <em>у, па, ў, на, з, да, за, аб, для, ад</em>
 
-The 10 most frequent `ADP` types:  <em>ў, у, на, з, па, да, за, аб, для, пра</em>
+The 10 most frequent `ADP` types:  <em>у, ў, па, на, з, да, за, аб, для, ад</em>
 
-The 10 most frequent ambiguous lemmas: <em>насустрач</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 2, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1), <em>нягледзячы</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 2, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1), <em>імя</em> (<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>згодна</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 4, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>насустрач</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 2, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1), <em>нягледзячы</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 2, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1), <em>імя</em> (<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>насустрач</em> (<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 2, <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1), <em>нягледзячы</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1, <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> 1), <em>імя</em> (<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> 1, <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -30,34 +30,34 @@ The 10 most frequent ambiguous types:  <em>насустрач</em> (<tt><a href=
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.397401).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.442017).
 
-The 1st highest number of forms (1) was observed with the lemma “аб”: <em>аб</em>.
+The 1st highest number of forms (2) was observed with the lemma “у”: <em>у, ў</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ад”: <em>ад</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Мiж”: <em>Мiж</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “адносна”: <em>адносна</em>.
+The 3rd highest number of forms (1) was observed with the lemma “аб”: <em>аб</em>.
 
 `ADP` does not occur with any features.
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="be_hse-dep-case.html">case</a></tt> (833; 95% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (33; 4% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="be_hse-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="be_hse-dep-case.html">case</a></tt> (1360; 96% instances), <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (54; 4% instances), <tt><a href="be_hse-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="be_hse-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (647; 74% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (93; 11% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (77; 9% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (26; 3% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (6; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1126; 79% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (109; 8% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (100; 7% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (46; 3% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-821 (94%) `ADP` nodes are leaves.
+1307 (92%) `ADP` nodes are leaves.
 
-27 (3%) `ADP` nodes have one child.
+62 (4%) `ADP` nodes have one child.
 
-26 (3%) `ADP` nodes have two children.
+51 (4%) `ADP` nodes have two children.
 
-2 (0%) `ADP` nodes have three or more children.
+1 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (79; 93% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (5; 6% instances), <tt><a href="be_hse-dep-goeswith.html">goeswith</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="be_hse-dep-fixed.html">fixed</a></tt> (164; 98% instances), <tt><a href="be_hse-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="be_hse-dep-goeswith.html">goeswith</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (47; 55% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (26; 31% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (5; 6% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (109; 65% instances), <tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (46; 28% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

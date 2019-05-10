@@ -68,15 +68,15 @@ The 1st highest number of forms (25) was observed with the lemma “_”: इफ
 
 `SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="hi_pud-dep-mark.html">mark</a></tt> (382; 100% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (302; 79% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (58; 15% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (303; 79% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (58; 15% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-353 (92%) `SCONJ` nodes are leaves.
+381 (100%) `SCONJ` nodes are leaves.
 
-29 (8%) `SCONJ` nodes have one child.
+1 (0%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="hi_pud-dep-punct.html">punct</a></tt> (19; 66% instances), <tt><a href="hi_pud-dep-discourse.html">discourse</a></tt> (7; 24% instances), <tt><a href="hi_pud-dep-case.html">case</a></tt> (2; 7% instances), <tt><a href="hi_pud-dep-fixed.html">fixed</a></tt> (1; 3% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="hi_pud-dep-fixed.html">fixed</a></tt> (1; 100% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (19; 66% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (7; 24% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (3; 10% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 100% instances)
 

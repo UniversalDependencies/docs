@@ -10,16 +10,16 @@ This feature is language-specific.
 It occurs with 11 different values: `Inen`, `Ja`, `Lainen`, `Llinen`, `Minen`, `Sti`, `Tar`, `Ton`, `Ttain`, `U`, `Vs`.
 Some words have combined values of the feature; 5 combinations have been observed: `Inen|Vs`, `Ja|Tar`, `Lainen|Vs`, `Llinen|Vs`, `Ton|Vs`.
 
-16023 tokens (8%) have a non-empty value of `Derivation`.
-8988 types (17%) occur at least once with a non-empty value of `Derivation`.
-4457 lemmas (17%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 5 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7494; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (6602; 3% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1922; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+16017 tokens (8%) have a non-empty value of `Derivation`.
+8986 types (17%) occur at least once with a non-empty value of `Derivation`.
+4423 lemmas (17%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 5 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (7488; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (6602; 3% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (1922; 1% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-7494 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+7488 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5723; 76%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5721; 76%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 * `Tar` (19; 0% of non-empty `Derivation`): <em>kuningatar, kaunotar, kuningattaren, herttuatar, kaunotarta, kaunottaria, kuningatarta, kuningattarien, paronitar, vapaaherratar</em>
 * `Ton` (6; 0% of non-empty `Derivation`): <em>p​i​t​k​ä​a​i​k​a​i​s​t​y​ö​t​t​ö​m​i​e​n, syyttömiä, tuntemattomille, työttömien, työttömät</em>
 * `Ton,Vs` (52; 1% of non-empty `Derivation`): <em>onnettomuus, onnettomuuden, koskemattomuutensa, lento-onnettomuus, onnettomuudessa, onnettomuudesta, onnettomuuksien, riippumattomuus, Levottomuudet, Levottomuuksien</em>
-* `U` (1971; 26% of non-empty `Derivation`): <em>avulla, alussa, loppuun, keskustelua, alusta, apua, lopussa, kasvu, kasvua, lopulla</em>
+* `U` (1965; 26% of non-empty `Derivation`): <em>avulla, alussa, loppuun, keskustelua, alusta, apua, lopussa, kasvu, kasvua, lopulla</em>
 * `Vs` (937; 13% of non-empty `Derivation`): <em>yhteydessä, oikeus, oikeuden, osuus, yhteyttä, ihmisoikeuksien, terveyttä, ihmisoikeuksia, liikkuvuuden, oikeutta</em>
 
 <table>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mahdollisuuksia</em></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `NOUN`. 100% lemmas (2360) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `NOUN`. 100% lemmas (2341) occur only with one value of `Derivation`.
 
 ### `ADJ`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Derivation` co-occu
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>eteläistä</em></td></tr>
 </table>
 
-`Derivation` seems to be **lexical feature** of `ADJ`. 100% lemmas (1627) occur only with one value of `Derivation`.
+`Derivation` seems to be **lexical feature** of `ADJ`. 100% lemmas (1614) occur only with one value of `Derivation`.
 
 ### `ADV`
 
@@ -118,5 +118,5 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 ## Relations with Agreement in `Derivation`
 
 The 10 most frequent relations where parent and child node agree in `Derivation`:
-<tt>ADV --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (32; 65%).
+<tt>ADV --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (32; 63%).
 

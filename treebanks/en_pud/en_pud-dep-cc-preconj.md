@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="en_pud-dep-cc.html"
 11 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.27272727272727.
 
-The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 27% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 9% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 9% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 9% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 36% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 27% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 18% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 9% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -42,43 +42,32 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc:preconj	color:blue
-1	Consonant	consonant	NOUN	NN	Number=Sing	2	compound	2:compound	_
-2	gradation	gradation	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
-5	feature	feature	NOUN	NN	Number=Sing	0	root	0:root	_
-6	in	in	ADP	IN	_	12	case	12:case	_
-7	both	both	CCONJ	CC	_	8	cc:preconj	8:cc:preconj	_
-8	Finnish	Finnish	PROPN	NNP	Number=Sing	12	compound	12:compound	_
-9	and	and	CCONJ	CC	_	11	cc	11:cc	_
-10	northern	northern	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	Sami	Sami	PROPN	NNP	Number=Sing	8	conj	8:conj:and|12:compound	_
-12	dialects	dialect	NOUN	NNS	Number=Plur	5	nmod	5:nmod:in	SpaceAfter=No
-13	,	,	PUNCT	,	_	18	punct	18:punct	_
-14	but	but	CCONJ	CC	_	18	cc	18:cc	_
-15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	_
-16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
-17	not	not	PART	RB	Polarity=Neg	18	advmod	18:advmod	_
-18	present	present	ADJ	JJ	Degree=Pos	5	conj	5:conj:but	_
-19	in	in	ADP	IN	_	21	case	21:case	_
-20	south	south	ADJ	JJ	Degree=Pos	21	amod	21:amod	_
-21	Sami	Sami	PROPN	NNP	Number=Sing	18	obl	18:obl:in|25:nsubj:pass|27:nsubj:xsubj	SpaceAfter=No
-22	,	,	PUNCT	,	_	21	punct	21:punct	_
-23	which	which	PRON	WDT	PronType=Rel	25	nsubj:pass	21:ref	_
-24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:pass	25:aux:pass	_
-25	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	21	acl:relcl	21:acl:relcl	_
-26	to	to	PART	TO	_	27	mark	27:mark	_
-27	have	have	VERB	VB	VerbForm=Inf	25	xcomp	25:xcomp	_
-28	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	31:det	_
-29	different	different	ADJ	JJ	Degree=Pos	31	amod	31:amod	_
-30	language	language	NOUN	NN	Number=Sing	31	compound	31:compound	_
-31	history	history	NOUN	NN	Number=Sing	27	obj	27:obj	SpaceAfter=No
-32	.	.	PUNCT	.	_	5	punct	5:punct	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 cc:preconj	color:blue
+1	In	in	SCONJ	IN	_	2	mark	2:mark	_
+2	addressing	address	VERB	VBG	VerbForm=Ger	14	advcl	14:advcl:in	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	Cabinet	cabinet	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	shortly	shortly	ADV	RB	_	9	advmod	9:advmod	_
+6	after	after	SCONJ	IN	_	9	mark	9:mark	_
+7	German	german	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
+8	forces	force	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
+9	crossed	cross	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:after	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+11	border	border	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	14:punct	_
+13	Chamberlain	Chamberlain	PROPN	NNP	Number=Sing	14	nsubj	14:nsubj	_
+14	placed	place	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+15	blame	blame	NOUN	NN	Number=Sing	14	obj	14:obj	_
+16	on	on	ADP	IN	_	18	case	18:case	_
+17	both	both	CCONJ	CC	_	18	cc:preconj	18:cc:preconj	_
+18	Germany	Germany	PROPN	NNP	Number=Sing	14	obl	14:obl:on	_
+19	and	and	CCONJ	CC	_	20	cc	20:cc	_
+20	Austria	Austria	PROPN	NNP	Number=Sing	18	conj	14:obl:on|18:conj:and	SpaceAfter=No
+21	.	.	PUNCT	.	_	14	punct	14:punct	_
 
 ~~~
 

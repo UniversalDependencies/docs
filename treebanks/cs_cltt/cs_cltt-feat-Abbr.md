@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>něm</em>
-* `EMPTY` (784): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
+* `EMPTY` (787): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `DET`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>t</em>
-* `EMPTY` (1193): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+* `EMPTY` (1160): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `Abbr`
 

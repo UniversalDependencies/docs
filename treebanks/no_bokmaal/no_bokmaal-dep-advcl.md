@@ -68,7 +68,7 @@ The following 38 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	frisk	frisk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	4	xcomp	_	_
 7	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 8	kan	kunne	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
-9	,	$,	PUNCT	_	_	4	punct	_	_
+9	,	$,	PUNCT	_	_	10	punct	_	_
 10	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 11	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	4	punct	_	_

@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="hsb_ufal-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.500000 (the average of all parts of speech is 1.418754).
+The form / lemma ratio of `PRON` is 3.500000 (the average of all parts of speech is 1.418889).
 
 The 1st highest number of forms (18) was observed with the lemma “wón”: <em>Jej, Wonej, Woni, je, jeho, jeje, ju, jón, nich, nim, nimi, njej, njeje, nju, wona, wone, wono, wón</em>.
 
@@ -66,7 +66,7 @@ Examples: <em>so</em>
 
 `PRON` nodes are attached to their parents using 14 different relations: <tt><a href="hsb_ufal-dep-expl-pass.html">expl:pass</a></tt> (99; 29% instances), <tt><a href="hsb_ufal-dep-expl-pv.html">expl:pv</a></tt> (79; 23% instances), <tt><a href="hsb_ufal-dep-nsubj.html">nsubj</a></tt> (53; 16% instances), <tt><a href="hsb_ufal-dep-obl.html">obl</a></tt> (43; 13% instances), <tt><a href="hsb_ufal-dep-obj.html">obj</a></tt> (36; 11% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (16; 5% instances), <tt><a href="hsb_ufal-dep-iobj.html">iobj</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (286; 85% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (29; 9% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (15; 4% instances), <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (287; 85% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (29; 9% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (15; 4% instances), <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
 268 (79%) `PRON` nodes are leaves.
 

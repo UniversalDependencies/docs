@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	5:aux:pass	_
 5	způsobena	způsobený	ADJ	VsFS------AP---	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	_
 6	něčím	něco	PRON	PZ--7----------	Case=Ins|PronType=Ind	5	obl:agent	5:obl:agent	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	9	punct	9:punct|15:punct|23:punct	_
+7	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
 8	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	9	nsubj	9:nsubj	_
 9	bylo	být	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	6:acl	_
 10	mimo	mimo	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	_

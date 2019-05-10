@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 obj	color:blue
-1	Θα	θα	PART	PART	_	2	aux	_	_
+1	Θα	θα	AUX	AUX	_	2	aux	_	_
 2	συνεχίσει	συνεχίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	όμως	όμως	CCONJ	CCONJ	_	2	cc	_	SpaceAfter=No

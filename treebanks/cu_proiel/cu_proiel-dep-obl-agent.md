@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="cu_proiel-dep-obl.h
 75 nodes (0%) are attached to their parents as `obl:agent`.
 
 64 instances of `obl:agent` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.10666666666667.
+Average distance between parent and child is 2.12.
 
 The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (50; 67% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (15; 20% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 3% instances).
 
@@ -25,10 +25,10 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Се	сь	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=MATT_21.4
 2	же	же	ADV	Df	_	4	discourse	_	ref=MATT_21.4
 3	вьсе	вьсь	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=MATT_21.4
-4	бꙑстъ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_21.4
+4	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_21.4
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_21.4
 6	събѫдетъ	събꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=MATT_21.4
-7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=MATT_21.4
+7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.4
 8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
 9	п҃ркмъ	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	ref=MATT_21.4
 10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
@@ -47,10 +47,10 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	ч҃лвкоу	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=MATT_26.24
 4	томоу	тъ	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	3	det	_	ref=MATT_26.24
 5	имьже	иже	PRON	Pr	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	8	obl:agent	_	ref=MATT_26.24
-6	с҃нъ	сꙑнъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT_26.24
+6	с҃нъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT_26.24|LId=1
 7	ч҃скъ	чловѣчьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=MATT_26.24
 8	прѣдастъ	прѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=MATT_26.24
-9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=MATT_26.24
+9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=MATT_26.24
 
 ~~~
 

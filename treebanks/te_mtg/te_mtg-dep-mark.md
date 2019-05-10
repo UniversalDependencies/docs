@@ -23,9 +23,9 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
 1	ఎవరిదగ్గిరికి	_	PRON	PRON	_	2	ccomp	_	Translit=èvaridaggiriki|LTranslit=_
-2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=vèḷḷaṭamā|LTranslit=_
+2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=vèḷḷaṭamā|LTranslit=_
 3	అని	_	SCONJ	SCONJ	_	2	mark	_	Translit=ani|LTranslit=_
-4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkociṁcānu|LTranslit=_
+4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkociṁcānu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -37,11 +37,11 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 mark	color:blue
-1	జైల్నుంచి	_	NOUN	NOUN	_	3	obl	_	Translit=jailnuṁci|LTranslit=_
+1	జైల్నుంచి	_	NOUN	NOUN	_	3	obl	_	Translit=jailnuṁci|LTranslit=_
 2	ఎలా	_	ADV	ADV	_	3	advmod	_	Translit=èlā|LTranslit=_
-3	తప్పించుకోవడమా	_	VERB	VERB	_	0	root	_	Translit=tappiṁcukovaḍamā|LTranslit=_
+3	తప్పించుకోవడమా	_	VERB	VERB	_	0	root	_	Translit=tappiṁcukovaḍamā|LTranslit=_
 4	అని	_	SCONJ	SCONJ	_	6	mark	_	Translit=ani|LTranslit=_
-5	వాడి	_	PRON	PRON	_	6	nmod	_	Translit=vāḍi|LTranslit=_
+5	వాడి	_	PRON	PRON	_	6	nmod	_	Translit=vāḍi|LTranslit=_
 6	ఆలోచన	_	NOUN	NOUN	_	3	ccomp	_	Translit=ālocana|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
 
@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	సొంతంగా	_	ADV	ADV	_	6	advmod	_	Translit=sòṁtaṁgā|LTranslit=_
+1	సొంతంగా	_	ADV	ADV	_	6	advmod	_	Translit=sòṁtaṁgā|LTranslit=_
 2	తనది	_	PRON	PRON	_	4	acl	_	Translit=tanadi|LTranslit=_
 3	అనే	_	SCONJ	SCONJ	_	2	mark	_	Translit=ane|LTranslit=_
 4	ఆస్తి	_	NOUN	NOUN	_	6	nsubj	_	Translit=āsti|LTranslit=_

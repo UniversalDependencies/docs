@@ -14,7 +14,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="mt_mudt
 86 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.01162790697674.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (86; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (86; 100% instances).
 
 
 ~~~ conllu
@@ -27,10 +27,10 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	fatt	_	NOUN	NOUN	_	9	dislocated	_	_
 3	jew	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 4	le	_	INTJ	INT	_	2	conj	_	_
-5	ġiex	_	VERB	VERB	_	6	aux:pass	_	_
+5	ġiex	_	AUX	VERB	_	6	aux:pass	_	_
 6	influwenzat	_	VERB	PART_PASS	_	2	acl	_	_
 7	mhemmx	_	VERB	HEMM	_	0	root	_	_
-8	għalfejn	_	PRON	PRON_INT	_	7	advmod	_	_
+8	għalfejn	_	ADV	PRON_INT	_	7	advmod	_	_
 9	nidħlu	_	VERB	VERB	_	7	ccomp	_	_
 10	fih	_	PRON	PREP_PRON	_	9	obl	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	7	punct	_	_

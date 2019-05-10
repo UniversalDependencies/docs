@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-advmod.html">advmod</a></tt>.
 
-5 nodes (0%) are attached to their parents as `advmod:df`.
+6 nodes (0%) are attached to their parents as `advmod:df`.
 
-5 instances of `advmod:df` (100%) are left-to-right (parent precedes child).
+6 instances of `advmod:df` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `advmod:df`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `advmod:df`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (6; 100% instances).
 
 
 ~~~ conllu

@@ -68,7 +68,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	zůstávalo	zůstávat	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	LDeriv=zůstat
 7	skoro	skoro	ADV	Db-------------	_	8	advmod:emph	_	_
 8	úplně	úplně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	9	advmod	_	LDeriv=úplný
-9	zapomenuto	zapomenutý	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	6	xcomp	_	LDeriv=zapomenout|SpaceAfter=No
+9	zapomenuto	zapomenutý	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	6	xcomp	_	SpaceAfter=No|LDeriv=zapomenout
 10	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-410 nodes (2%) are attached to their parents as `cop`.
+393 nodes (2%) are attached to their parents as `cop`.
 
-345 instances of `cop` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01707317073171.
+329 instances of `cop` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.01272264631043.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (149; 36% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (120; 29% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (57; 14% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (55; 13% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (149; 38% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (107; 27% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (55; 14% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (54; 14% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

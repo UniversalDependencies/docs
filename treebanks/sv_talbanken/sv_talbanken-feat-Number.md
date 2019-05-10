@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 39254 tokens (41%) have a non-empty value of `Number`.
 11229 types (74%) occur at least once with a non-empty value of `Number`.
 7386 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22430; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6814; 7% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5016; 5% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4853; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22430; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6814; 7% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5016; 5% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4854; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (91; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
 
 ### `NOUN`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (2624; 39% of non-empty `Number`): <em>olika, andra, många, vissa, stora, flera, flesta, nya, små, sådana</em>
 * `Sing` (4190; 61% of non-empty `Number`): <em>stor, hela, annan, nya, själv, sådan, viss, egen, annat, ny</em>
-* `EMPTY` (1686): <em>större, första, högre, bättre, mindre, bästa, bra, följande, äldre, beroende</em>
+* `EMPTY` (1685): <em>större, första, högre, bättre, mindre, bästa, bra, följande, äldre, beroende</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -79,34 +79,35 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-4853 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+4854 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3844; 79%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2579; 53%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2563; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3844; 79%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (2580; 53%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2564; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (1004; 21% of non-empty `Number`): <em>de, alla, dessa, några, vilka, inga, bägge, dom</em>
-* `Sing` (3849; 79% of non-empty `Number`): <em>en, den, ett, det, denna, varje, någon, detta, ingen, något</em>
+* `Sing` (3850; 79% of non-empty `Number`): <em>en, den, ett, det, denna, varje, någon, detta, ingen, något</em>
 * `EMPTY` (100): <em>samma, the</em>
 
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>den</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>det</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td><em>de, Dom</em></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>den</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>det</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>de, Dom</em></td></tr>
   <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>en</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ett</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Com</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>en</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ett</em></td><td></td></tr>
 </table>
 
 ### `NUM`
 
-92 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Number`.
+91 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (92; 100%), <tt><a href="sv_talbanken-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (92; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (91; 100%), <tt><a href="sv_talbanken-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (91; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Sing` (92; 100% of non-empty `Number`): <em>en, ett</em>
+* `Sing` (91; 100% of non-empty `Number`): <em>en, ett</em>
 * `EMPTY` (1649): <em>två, tre, 1, 20, 2, 1970, 3, 10, 1971, 7</em>
 
 ### `VERB`
@@ -119,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (22; 45% of non-empty `Number`): <em>påverkade, tvungna, anpassade, bedövade, diciplinerade, emanciperade, fjärrundersökta, frusterade, färdigräknade, fördelade</em>
 * `Sing` (27; 55% of non-empty `Number`): <em>vald, vänd, hörselskadad, accepterad, förbjudet, förstärkt, förändrad, ifylld, komplicerad, likställd</em>
-* `EMPTY` (9917): <em>har, finns, är, blir, få, får, ha, gäller, ger, går</em>
+* `EMPTY` (9822): <em>har, finns, blir, få, får, ha, är, gäller, ger, går</em>
 
 <table>
   <tr><th>Paradigm <i>välja</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -133,13 +134,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4636; 80%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (4430; 97%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1579; 76%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1571; 54%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (4431; 97%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1578; 76%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1572; 54%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (587; 64%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (506; 76%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (371; 76%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (370; 76%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (261; 80%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (193; 68%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (194; 69%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (185; 68%).
 

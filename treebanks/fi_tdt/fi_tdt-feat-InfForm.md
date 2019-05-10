@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-5680 tokens (3%) have a non-empty value of `InfForm`.
-2168 types (4%) occur at least once with a non-empty value of `InfForm`.
+5698 tokens (3%) have a non-empty value of `InfForm`.
+2170 types (4%) occur at least once with a non-empty value of `InfForm`.
 1157 lemmas (4%) occur at least once with a non-empty value of `InfForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (5323; 3% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (357; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (5341; 3% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (357; 0% instances).
 
 ### `VERB`
 
-5323 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `InfForm`.
+5341 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5323; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5323; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5323; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5323; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5323; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5323; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5255; 99%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5255; 99%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3151; 59%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5341; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5341; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5341; 100%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5341; 100%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5341; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5341; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5273; 99%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5273; 99%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3151; 59%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
 * `1` (3257; 61% of non-empty `InfForm`): <em>tehdä, saada, ottaa, käyttää, antaa, mennä, pitää, sanoa, olla, tulla</em>
-* `2` (604; 11% of non-empty `InfForm`): <em>kuluessa, tarvittaessa, ottaen, lukien, johtuen, noudattaen, liittyen, käyttäen, pitäen, riippuen</em>
-* `3` (1462; 27% of non-empty `InfForm`): <em>olemassa, tekemään, katsomaan, käyttämään, etsimään, hoitamaan, istumaan, opiskelemaan, ottamaan, puhumaan</em>
+* `2` (603; 11% of non-empty `InfForm`): <em>kuluessa, tarvittaessa, ottaen, lukien, johtuen, noudattaen, liittyen, käyttäen, pitäen, riippuen</em>
+* `3` (1481; 28% of non-empty `InfForm`): <em>olemassa, tekemään, katsomaan, tulossa, käyttämään, etsimään, hoitamaan, istumaan, opiskelemaan, ottamaan</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -71,6 +71,6 @@ The most frequent other feature values with which `AUX` and `InfForm` co-occurre
 ## Relations with Agreement in `InfForm`
 
 The 10 most frequent relations where parent and child node agree in `InfForm`:
-<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (364; 64%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (364; 63%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 100%).
 

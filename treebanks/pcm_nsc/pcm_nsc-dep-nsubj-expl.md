@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a
 4	man	man	NOUN	_	_	2	nsubj:quasi	_	_
 5	wey	wey	SCONJ	_	_	10	mark	_	_
 6	be	be	VERB	_	_	5	fixed	_	_
-7	sey	sey	SCONJ	_	_	6	fixed	_	_
+7	sey	sey	SCONJ	_	_	5	fixed	_	_
 8	im	im	PRON	_	_	10	nsubj	_	_
 9	don	don	AUX	_	_	10	aux	_	_
 10	carry	carry	VERB	_	_	4	acl:relcl	_	_
@@ -59,7 +59,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a
 9	better	better	ADJ	_	_	0	root	_	_
 10	make	make	AUX	_	_	13	aux	_	_
 11	you	you	PRON	_	_	13	nsubj	_	_
-12	no	no	PART	_	_	13	advmod	_	_
+12	no	no	ADV	PART	_	13	advmod	_	_
 13	use	use	VERB	_	_	9	csubj:quasi	_	_
 14	am	am	PRON	_	_	13	obj	_	_
 15	again	again	ADV	_	_	13	advmod	_	_
@@ -76,7 +76,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a
 # visual-style 6 2 nsubj:expl	color:blue
 1	{	{	PUNCT	_	_	6	punct	_	_
 2	it	it	PRON	_	_	6	nsubj:expl	_	_
-3	is	is	VERB	_	_	6	cop	_	_
+3	is	be	AUX	VERB	_	6	cop	_	_
 4	on	on	ADP	_	_	6	case	_	_
 5	di	di	DET	_	_	6	det	_	_
 6	tire	tire	NOUN	_	_	0	root	_	_
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:expl`: <tt><a
 13	everything	everything	PRON	_	_	11	conj:dicto	_	_
 14	}	}	PUNCT	_	_	11	punct	_	_
 15	<	<	PUNCT	_	_	18	punct	_	_
-16	na	na	PART	_	_	18	cop	_	_
+16	na	na	AUX	PART	_	18	cop	_	_
 17	on	on	ADP	_	_	18	case	_	_
 18	top	top	ADJ	_	_	6	conj:dicto	_	_
 19	tire	tire	NOUN	_	_	18	nmod	_	_

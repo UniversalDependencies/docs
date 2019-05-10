@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `amod:advmod`: <tt><
 1	ostensum	ostendo	VERB	L2|modM|tem4|grp1|casA|gen3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux:pass	_	_
 3	autem	autem	CCONJ	O4	_	1	cc	_	_
-4	supra	supra	ADP	S4	AdpType=Prep	1	advmod	_	_
+4	supra	supra	ADV	S4	_	1	advmod	_	_
 5	quod	quod	SCONJ	O4	_	8	mark	_	_
 6	solus	solus	ADJ	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod:advmod	_	_
 7	deus	deus	PROPN	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj	_	_

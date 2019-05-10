@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `AUX`
 
-There are 54 `AUX` lemmas (0%), 249 `AUX` types (1%) and 26030 `AUX` tokens (7%).
+There are 52 `AUX` lemmas (0%), 244 `AUX` types (1%) and 26030 `AUX` tokens (7%).
 Out of 16 observed tags, the rank of `AUX` is: 12 in number of lemmas, 6 in number of types and 5 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: है, जा, था, रह, दे, हो, सक, ले, चाहिए, चुक
 
 The 10 most frequent `AUX` types:  है, हैं, गया, था, गई, हुए, गए, थी, जा, दिया
 
-The 10 most frequent ambiguous lemmas: है (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 10616, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 887, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), जा (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 5835, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 384, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), था (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 2536, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 157), रह (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1909, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 614), दे (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 1946, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1255), हो (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 3528, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1124, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), सक (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 852, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), ले (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 1005, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 376, <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 2), चाहिए (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 348, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 16), पा (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 172, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 121)
+The 10 most frequent ambiguous lemmas: है (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 10616, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 887, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), जा (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 5835, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 384, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), था (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 2536, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 157), रह (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1909, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 614), दे (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 1946, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1255), हो (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 3528, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1124, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), सक (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 852, <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> 1), ले (<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 1005, <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 376, <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 2), चाहिए (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 348, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 16), पड़ (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 203, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 84)
 
 The 10 most frequent ambiguous types:  है (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 7947, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 764, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), हैं (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 2609, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 118), गया (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1600, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 18, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 4), था (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1129, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 90), गई (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 910, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 7), हुए (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 806, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 231), गए (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 800, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 44), थी (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 714, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 20), जा (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 690, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 69), दिया (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 683, <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 421)
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  है (<tt><a href="hi_hdtb-pos-AUX.html
   * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 910: यह मंदिर उसी स्‍थान पर बनाया गया है , जहाँ से यह मूर्ति निकाली <b>गई</b> थी ।
   * <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 7: लेकिन मोहता सीट भाजपा के खाते में <b>गई</b> ।
 * हुए
-  * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 806: लेकिन नटवर की जिद को देखते <b>हुए</b> प्रधानमंत्री को यह रास्ता निकालना पड़ा ।
+  * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 806: लेकिन नटवर की जिद को देखते <b>हुए</b> प्रधानमंत्री को यह रास्ता निकालना पड़ा ।
   * <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> 231: लंदन पर <b>हुए</b> हमले के कारण आतंकवाद जी - ८ के एजेंडे के केंद्र में आ गया ।
 * गए
   * <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 800: इन सभी स्‍थानों पर इन भस्‍मों और अस्‍थियों के ऊपर स्‍तूप बनाए <b>गए</b> ।
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  है (<tt><a href="hi_hdtb-pos-AUX.html
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.611111 (the average of all parts of speech is 1.207153).
+The form / lemma ratio of `AUX` is 4.692308 (the average of all parts of speech is 1.203116).
 
 The 1st highest number of forms (34) was observed with the lemma “जा”: गई, गईं, गए, गया, गयी, गये, जा, जाए, जाएँ, जाएँगी, जाएँगीं, जाएँगे, जाएं, जाएंगी, जाएंगीं, जाएंगे, जाएंगें, जाएगा, जाएगी, जाएगें, जाकर, जाता, जाती, जातीं, जाते, जाना, जानी, जाने, जाय, जाया, जाये, जायेंगी, जायेंगे, जायेगा.
 
@@ -74,19 +74,19 @@ Examples: है, हैं
 
 `AUX` nodes are attached to their parents using 7 different relations: <tt><a href="hi_hdtb-dep-aux.html">aux</a></tt> (11404; 44% instances), <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt> (11103; 43% instances), <tt><a href="hi_hdtb-dep-cop.html">cop</a></tt> (3511; 13% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (15830; 61% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (6695; 26% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2129; 8% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1028; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (116; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (114; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances),  (2; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (22520; 87% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2129; 8% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1028; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (118; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (114; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (3; 0% instances),  (2; 0% instances)
 
-18700 (72%) `AUX` nodes are leaves.
+26021 (100%) `AUX` nodes are leaves.
 
-7297 (28%) `AUX` nodes have one child.
+3 (0%) `AUX` nodes have one child.
 
-28 (0%) `AUX` nodes have two children.
+1 (0%) `AUX` nodes have two children.
 
 5 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 10 different relations: <tt><a href="hi_hdtb-dep-aux-pass.html">aux:pass</a></tt> (6692; 91% instances), <tt><a href="hi_hdtb-dep-advmod.html">advmod</a></tt> (424; 6% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (213; 3% instances), <tt><a href="hi_hdtb-dep-dep.html">dep</a></tt> (21; 0% instances), <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (1; 0% instances)
+Children of `AUX` nodes are attached using 7 different relations: <tt><a href="hi_hdtb-dep-nsubj.html">nsubj</a></tt> (6; 30% instances), <tt><a href="hi_hdtb-dep-conj.html">conj</a></tt> (3; 15% instances), <tt><a href="hi_hdtb-dep-obj.html">obj</a></tt> (3; 15% instances), <tt><a href="hi_hdtb-dep-obl.html">obl</a></tt> (3; 15% instances), <tt><a href="hi_hdtb-dep-mark.html">mark</a></tt> (2; 10% instances), <tt><a href="hi_hdtb-dep-punct.html">punct</a></tt> (2; 10% instances), <tt><a href="hi_hdtb-dep-cc.html">cc</a></tt> (1; 5% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (6695; 91% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (445; 6% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (213; 3% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (6; 30% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (5; 25% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (3; 15% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (2; 10% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 10% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 5% instances)
 

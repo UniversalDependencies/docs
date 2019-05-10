@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 2	conséquences	conséquence	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:caus	_	_
 3	ne	ne	PART	PART	Polarity=Neg	7	advmod	_	_
 4	se	se	PRON	P	Person=3|PronType=Prs	7	obj:agent	_	_
-5	font	faire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
+5	font	faire	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 6	pas	pas	ADV	BN	Polarity=Neg	7	advmod	_	_
 7	attendre	attendre	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	7	punct	_	_
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:caus	color:blue
 1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:caus	_	_
-2	fait	faire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
+2	fait	faire	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
 3	s'	se	PRON	P	PronType=Prs	4	expl	_	SpaceAfter=No
 4	effriter	effriter	VERB	V	VerbForm=Inf	0	root	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 10	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	première	premier	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
-13	étape	étape	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
+13	étape	étape	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
 14	dans	dans	ADP	E	_	16	case	_	_
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	production	production	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_

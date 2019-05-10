@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31774 nodes (2%) are attached to their parents as `acl`.
+31794 nodes (2%) are attached to their parents as `acl`.
 
-31771 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.81050544470322.
+31791 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.8075737560546.
 
-The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (29174; 92% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2267; 7% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (158; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (153; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (29194; 92% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2271; 7% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (155; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (152; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 
 ~~~ conllu
@@ -78,12 +78,12 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 6	_	_	VERB	_	_	11	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
 7	_	_	PROPN	_	_	11	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=22|SpaceAfter=No
 8	_	_	NOUN	_	_	11	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=22|SpaceAfter=No
-9	_	_	PUNCT	_	_	11	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+9	_	_	SYM	_	_	11	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
 10	_	_	NUM	_	_	11	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 11	_	_	NUM	_	_	14	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=3|SpaceAfter=No
-12	_	_	PUNCT	_	_	11	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
+12	_	_	SYM	_	_	11	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
 13	_	_	ADP	_	_	11	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-14	_	_	AUX	_	_	29	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=15|SpaceAfter=No
+14	_	_	AUX	_	_	29	dep	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=15|SpaceAfter=No
 15	_	_	AUX	_	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
 16	_	_	PROPN	_	_	18	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=20|SpaceAfter=No
 17	_	_	ADP	_	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
@@ -93,7 +93,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 21	_	_	NUM	_	_	22	nummod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 22	_	_	NOUN	_	_	27	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=3|SpaceAfter=No
 23	_	_	ADP	_	_	22	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-24	_	_	VERB	_	_	22	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+24	_	_	VERB	_	_	22	compound	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 25	_	_	NOUN	_	_	27	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 26	_	_	NOUN	_	_	27	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 27	_	_	NOUN	_	_	29	iobj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No

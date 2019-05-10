@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Gothic-PROIEL: POS Tags: `X`
 
 There are 13 `X` lemmas (0%), 14 `X` types (0%) and 19 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 11 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 14 observed tags, the rank of `X` is: 11 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>osanna, ailoe, helei, lima, sibakþanei, abba, aiffaþa, aþa, kaurban, kumei</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 2.624779).
+The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 2.637304).
 
 The 1st highest number of forms (2) was observed with the lemma “sibakþanei”: <em>sibakþanei, sibakþani</em>.
 
@@ -50,5 +50,5 @@ The highest child degree of a `X` node is 3.
 
 Children of `X` nodes are attached using 4 different relations: <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (8; 67% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (2; 17% instances), <tt><a href="got_proiel-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (1; 8% instances)
 
-Children of `X` nodes belong to 4 different parts of speech: <tt><a href="got_proiel-pos-X.html">X</a></tt> (7; 58% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 8% instances)
+Children of `X` nodes belong to 4 different parts of speech: <tt><a href="got_proiel-pos-X.html">X</a></tt> (7; 58% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 8% instances)
 

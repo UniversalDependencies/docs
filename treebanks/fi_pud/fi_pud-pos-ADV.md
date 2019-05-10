@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-PUD: POS Tags: `ADV`
 
-There are 304 `ADV` lemmas (6%), 314 `ADV` types (4%) and 959 `ADV` tokens (6%).
+There are 305 `ADV` lemmas (6%), 316 `ADV` types (4%) and 963 `ADV` tokens (6%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, yhä, hyvin, paljon</em>
@@ -53,32 +53,32 @@ The 10 most frequent ambiguous types:  <em>kuten</em> (<tt><a href="fi_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.032895 (the average of all parts of speech is 1.520990).
+The form / lemma ratio of `ADV` is 1.036066 (the average of all parts of speech is 1.526379).
 
 The 1st highest number of forms (2) was observed with the lemma “aiemmin”: <em>aiemmin, aiemminkin</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “juuri”: <em>juuri, juurikaan</em>.
+The 2nd highest number of forms (2) was observed with the lemma “haltuun”: <em>haltuun, haltuunsa</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “laajasti”: <em>laajasti, laajimmin</em>.
+The 3rd highest number of forms (2) was observed with the lemma “juuri”: <em>juuri, juurikaan</em>.
 
-`ADV` occurs with 5 features: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt> (124; 13% instances), <tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt> (12; 1% instances), <tt><a href="fi_pud-feat-Clitic.html">Clitic</a></tt> (10; 1% instances), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="fi_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances)
+`ADV` occurs with 5 features: <tt><a href="fi_pud-feat-Derivation.html">Derivation</a></tt> (124; 13% instances), <tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt> (15; 2% instances), <tt><a href="fi_pud-feat-Clitic.html">Clitic</a></tt> (10; 1% instances), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="fi_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances)
 
 `ADV` occurs with 12 feature-value pairs: `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Pa`, `Degree=Cmp`, `Degree=Sup`, `Derivation=Llinen,Sti`, `Derivation=Sti`, `Derivation=Sti,Ton`, `Derivation=Ttain`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=3`
 
 `ADV` occurs with 14 feature combinations.
-The most frequent feature combination is `_` (813 tokens).
+The most frequent feature combination is `_` (814 tokens).
 Examples: <em>myös, vain, enemmän, kuten, noin, kuitenkin, niin, hyvin, paljon, aina</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 18 different relations: <tt><a href="fi_pud-dep-advmod.html">advmod</a></tt> (865; 90% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (22; 2% instances), <tt><a href="fi_pud-dep-compound-prt.html">compound:prt</a></tt> (15; 2% instances), <tt><a href="fi_pud-dep-root.html">root</a></tt> (14; 1% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="fi_pud-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 17 different relations: <tt><a href="fi_pud-dep-advmod.html">advmod</a></tt> (870; 90% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (22; 2% instances), <tt><a href="fi_pud-dep-compound-prt.html">compound:prt</a></tt> (15; 2% instances), <tt><a href="fi_pud-dep-root.html">root</a></tt> (14; 1% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (10; 1% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="fi_pud-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="fi_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (504; 53% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (179; 19% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (85; 9% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (57; 6% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (45; 5% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (35; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (16; 2% instances),  (14; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (508; 53% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (178; 18% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (85; 9% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (57; 6% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (45; 5% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (36; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (16; 2% instances),  (14; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-838 (87%) `ADV` nodes are leaves.
+841 (87%) `ADV` nodes are leaves.
 
-84 (9%) `ADV` nodes have one child.
+85 (9%) `ADV` nodes have one child.
 
 11 (1%) `ADV` nodes have two children.
 
@@ -86,7 +86,7 @@ Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fi_p
 
 The highest child degree of a `ADV` node is 7.
 
-Children of `ADV` nodes are attached using 20 different relations: <tt><a href="fi_pud-dep-advmod.html">advmod</a></tt> (38; 17% instances), <tt><a href="fi_pud-dep-cop.html">cop</a></tt> (26; 12% instances), <tt><a href="fi_pud-dep-punct.html">punct</a></tt> (24; 11% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (22; 10% instances), <tt><a href="fi_pud-dep-advcl.html">advcl</a></tt> (21; 9% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (20; 9% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (14; 6% instances), <tt><a href="fi_pud-dep-nmod.html">nmod</a></tt> (11; 5% instances), <tt><a href="fi_pud-dep-cc.html">cc</a></tt> (10; 4% instances), <tt><a href="fi_pud-dep-ccomp.html">ccomp</a></tt> (9; 4% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (7; 3% instances), <tt><a href="fi_pud-dep-aux.html">aux</a></tt> (5; 2% instances), <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="fi_pud-dep-nmod-poss.html">nmod:poss</a></tt> (3; 1% instances), <tt><a href="fi_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 19 different relations: <tt><a href="fi_pud-dep-advmod.html">advmod</a></tt> (37; 16% instances), <tt><a href="fi_pud-dep-cop.html">cop</a></tt> (26; 12% instances), <tt><a href="fi_pud-dep-punct.html">punct</a></tt> (24; 11% instances), <tt><a href="fi_pud-dep-nsubj-cop.html">nsubj:cop</a></tt> (22; 10% instances), <tt><a href="fi_pud-dep-advcl.html">advcl</a></tt> (21; 9% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (20; 9% instances), <tt><a href="fi_pud-dep-obl.html">obl</a></tt> (14; 6% instances), <tt><a href="fi_pud-dep-nmod.html">nmod</a></tt> (11; 5% instances), <tt><a href="fi_pud-dep-cc.html">cc</a></tt> (10; 4% instances), <tt><a href="fi_pud-dep-ccomp.html">ccomp</a></tt> (10; 4% instances), <tt><a href="fi_pud-dep-conj.html">conj</a></tt> (7; 3% instances), <tt><a href="fi_pud-dep-aux.html">aux</a></tt> (6; 3% instances), <tt><a href="fi_pud-dep-amod.html">amod</a></tt> (4; 2% instances), <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="fi_pud-dep-nmod-poss.html">nmod:poss</a></tt> (3; 1% instances), <tt><a href="fi_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fi_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (57; 26% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (54; 24% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (31; 14% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 11% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (17; 8% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (12; 5% instances), <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 11 different parts of speech: <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (57; 25% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (54; 24% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (32; 14% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 11% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (13; 6% instances), <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 5% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

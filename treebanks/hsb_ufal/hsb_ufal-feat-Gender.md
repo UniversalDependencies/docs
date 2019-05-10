@@ -162,7 +162,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (12; 25% of non-empty `Gender`): <em>dodźeržała, eksistowali, kontrolowali, móhła, předstaja, přeměniła, přełožili, přistupiła, rostła, stabilizowała</em>
 * `Masc` (30; 63% of non-empty `Gender`): <em>přewzali, wužiwali, započał, ilustrował, mał, mjenował, měł, nastał, poradźił, poznamjenili</em>
 * `Neut` (6; 13% of non-empty `Gender`): <em>móhli, poradźiło, předstajili, stali, stało, wočakowało</em>
-* `EMPTY` (773): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (774): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 <table>
   <tr><th>Paradigm <i>předstajić</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -205,7 +205,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (1; 50% of non-empty `Gender`): <em>była</em>
 * `Masc` (1; 50% of non-empty `Gender`): <em>był</em>
-* `EMPTY` (288): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
+* `EMPTY` (287): <em>je, su, bu, bě, buchu, by, njeje, njejsu, běchu, buštej</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

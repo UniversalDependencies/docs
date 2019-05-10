@@ -10,24 +10,24 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 3 combinations have been observed: `Fem|Masc`, `Fem|Neut`, `Masc|Neut`.
 
-98055 tokens (49%) have a non-empty value of `Gender`.
-17305 types (59%) occur at least once with a non-empty value of `Gender`.
-6799 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40317; 20% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (19388; 10% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18304; 9% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (9000; 5% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6415; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (3584; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (995; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (52; 0% instances).
+98149 tokens (49%) have a non-empty value of `Gender`.
+17315 types (59%) occur at least once with a non-empty value of `Gender`.
+6779 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40357; 20% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (19406; 10% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18320; 9% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (9008; 5% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6421; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (3588; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (997; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (52; 0% instances).
 
 ### `NOUN`
 
-40317 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+40357 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27989; 69%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28016; 69%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (15912; 39% of non-empty `Gender`): <em>re, rebus, res, causa, domum, terram, terra, die, rem, gratia</em>
-* `Fem,Masc` (126; 0% of non-empty `Gender`): <em>diebus, die, dies, diem, scrobibus, diei, scrobes, boues, dierum, scrobe</em>
-* `Masc` (15850; 39% of non-empty `Gender`): <em>dei, deus, deo, domini, filius, fratres, deum, dominus, pater, spiritus</em>
+* `Fem` (15931; 39% of non-empty `Gender`): <em>re, rebus, res, causa, domum, terram, terra, die, rem, gratia</em>
+* `Fem,Masc` (127; 0% of non-empty `Gender`): <em>diebus, die, dies, diem, scrobibus, diei, scrobes, boues, dierum, scrobe</em>
+* `Masc` (15866; 39% of non-empty `Gender`): <em>dei, deus, deo, domini, filius, fratres, deum, dominus, pater, spiritus</em>
 * `Masc,Neut` (9; 0% of non-empty `Gender`): <em>locis, aequum, die, praeclarum, tumulum</em>
-* `Neut` (8420; 21% of non-empty `Gender`): <em>nomine, verbum, regnum, tempore, caelo, tempus, testimonium, nomen, castra, opus</em>
+* `Neut` (8424; 21% of non-empty `Gender`): <em>nomine, verbum, regnum, tempore, caelo, tempus, testimonium, nomen, castra, opus</em>
 * `EMPTY` (80): <em>pascha, rabbi, semis, fas, manna, Alpha, Omega, caracter, instar, rabboni</em>
 
 <table>
@@ -43,23 +43,23 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>dies</em></td><td><em>dies</em></td><td></td><td><em>dies</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (3142) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (3138) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-19388 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
+19406 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16032; 83%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16032; 83%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12223; 63%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16046; 83%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16046; 83%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12233; 63%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (4202; 22% of non-empty `Gender`): <em>suam, magna, tua, mea, sua, meam, nostra, publica, tuam, haec</em>
+* `Fem` (4208; 22% of non-empty `Gender`): <em>suam, magna, tua, mea, sua, meam, nostra, publica, tuam, haec</em>
 * `Fem,Masc` (591; 3% of non-empty `Gender`): <em>nemo, certiorem, maior, neminem, certior, plures, maiores, fidelis, fortis, maiorem</em>
 * `Fem,Neut` (2; 0% of non-empty `Gender`): <em>extremis, inconsutilis</em>
-* `Masc` (8243; 43% of non-empty `Gender`): <em>illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</em>
-* `Masc,Neut` (1240; 6% of non-empty `Gender`): <em>magno, meo, Romani, suo, tuo, tuum, suum, meum, magnum, nostro</em>
-* `Neut` (5110; 26% of non-empty `Gender`): <em>hoc, haec, nihil, omnia, illud, aliquid, multa, quid, sua, his</em>
-* `EMPTY` (964): <em>suis, nostris, meis, multis, tuis, totius, reliquis, paucis, magnis, superioribus</em>
+* `Masc` (8251; 43% of non-empty `Gender`): <em>illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</em>
+* `Masc,Neut` (1241; 6% of non-empty `Gender`): <em>magno, meo, Romani, suo, tuo, tuum, suum, meum, magnum, nostro</em>
+* `Neut` (5113; 26% of non-empty `Gender`): <em>hoc, haec, nihil, omnia, illud, aliquid, multa, quid, sua, his</em>
+* `EMPTY` (966): <em>suis, nostris, meis, multis, tuis, totius, reliquis, paucis, magnis, superioribus</em>
 
 <table>
   <tr><th>Paradigm <i>ille</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -77,18 +77,18 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-18304 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
+18320 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12226; 67%), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11592; 63%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12234; 67%), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11602; 63%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1592; 9% of non-empty `Gender`): <em>quae, quam, qua, eam, quas, eius, ea, se, quibus, eas</em>
-* `Fem,Masc` (424; 2% of non-empty `Gender`): <em>vobis, me, ego, vos, tibi, te, mihi, nobis, nos, quis</em>
+* `Fem` (1597; 9% of non-empty `Gender`): <em>quae, quam, qua, eam, quas, eius, ea, se, quibus, eas</em>
+* `Fem,Masc` (425; 2% of non-empty `Gender`): <em>vobis, me, ego, vos, tibi, te, mihi, nobis, nos, quis</em>
 * `Fem,Neut` (2; 0% of non-empty `Gender`): <em>quae, te</em>
-* `Masc` (13463; 74% of non-empty `Gender`): <em>qui, me, eum, te, eius, se, vobis, vos, mihi, ego</em>
+* `Masc` (13472; 74% of non-empty `Gender`): <em>qui, me, eum, te, eius, se, vobis, vos, mihi, ego</em>
 * `Masc,Neut` (90; 0% of non-empty `Gender`): <em>quo, quanto, eo, eorum, ipso, mei, quantum, quoquo, tui, ipsorum</em>
-* `Neut` (2733; 15% of non-empty `Gender`): <em>quod, quae, quid, id, quo, ea, eo, quibus, quaecumque, se</em>
+* `Neut` (2734; 15% of non-empty `Gender`): <em>quod, quae, quid, id, quo, ea, eo, quibus, quaecumque, se</em>
 * `EMPTY` (186): <em>quibus, se, vobis, cuius, ego, nos, vos, eius, me, sese</em>
 
 <table>
@@ -117,18 +117,18 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-9000 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Gender`.
+9008 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8263; 92%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5734; 64%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5649; 63%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5013; 56%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5013; 56%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4999; 56%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9008; 100%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9008; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8269; 92%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5739; 64%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5656; 63%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5017; 56%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5017; 56%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (5003; 56%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (1633; 18% of non-empty `Gender`): <em>facta, data, factae, datas, dicens, accepta, posita, mortua, secutae, cognita</em>
+* `Fem` (1635; 18% of non-empty `Gender`): <em>facta, data, factae, datas, dicens, accepta, posita, mortua, secutae, cognita</em>
 * `Fem,Masc` (84; 1% of non-empty `Gender`): <em>dicentem, ambulantem, stantem, habentem, loquentes, sedentes, audientes, consummatis, esurientem, faciens</em>
-* `Masc` (5480; 61% of non-empty `Gender`): <em>dicens, dicentes, respondens, factus, locutus, habens, profectus, mortuus, habentes, videns</em>
+* `Masc` (5486; 61% of non-empty `Gender`): <em>dicens, dicentes, respondens, factus, locutus, habens, profectus, mortuus, habentes, videns</em>
 * `Masc,Neut` (33; 0% of non-empty `Gender`): <em>iurando, munitum, acceptum, adprobatum, aedificando, apertum, aversum, clausum, coactum, concluso</em>
 * `Neut` (1770; 20% of non-empty `Gender`): <em>factum, scriptum, dictum, datum, scripta, facta, facto, faciendum, visum, audito</em>
-* `EMPTY` (31659): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, facere</em>
+* `EMPTY` (31682): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, facere</em>
 
 <table>
   <tr><th>Paradigm <i>facio</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -159,18 +159,18 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PROPN`
 
-6415 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
+6421 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6270; 98%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6276; 98%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (1231; 19% of non-empty `Gender`): <em>Romae, Galliae, Gallia, Maria, Romam, Galliam, Galilaeam, Galilaeae, Hierosolymam, Iudaea</em>
+* `Fem` (1234; 19% of non-empty `Gender`): <em>Romae, Galliae, Gallia, Maria, Romam, Galliam, Galilaeam, Galilaeae, Hierosolymam, Iudaea</em>
 * `Fem,Masc` (2; 0% of non-empty `Gender`): <em>Hercyniam, Hierosolyma</em>
-* `Masc` (5032; 78% of non-empty `Gender`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</em>
+* `Masc` (5035; 78% of non-empty `Gender`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</em>
 * `Masc,Neut` (1; 0% of non-empty `Gender`): <em>Danubii</em>
 * `Neut` (149; 2% of non-empty `Gender`): <em>Hierosolymis, Hierosolyma, Anti, Brundisi, Brundisium, Antium, Brundisio, Cyzicum, Illyricum, Arcano</em>
-* `EMPTY` (630): <em>Hierusalem, Israhel, David, Ioseph, Abraham, Iacob, Capharnaum, Isaac, Nazareth, Elisabeth</em>
+* `EMPTY` (631): <em>Hierusalem, Israhel, David, Ioseph, Abraham, Iacob, Capharnaum, Isaac, Nazareth, Elisabeth</em>
 
 <table>
   <tr><th>Paradigm <i>Hierosolyma</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -182,20 +182,20 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Hierosolyma</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (880) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (879) occur only with one value of `Gender`.
 
 ### `DET`
 
-3584 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
+3588 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2599; 73%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2603; 73%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1115; 31% of non-empty `Gender`): <em>illa, hac, ea, eam, hanc, haec, omnis, nulla, eadem, omni</em>
-* `Fem,Masc` (227; 6% of non-empty `Gender`): <em>omnes, omnem, omnis, illis, talem, neminem, talis, eo, omnibus, tales</em>
+* `Fem,Masc` (228; 6% of non-empty `Gender`): <em>omnes, omnem, omnis, illis, talem, neminem, talis, eo, omnibus, tales</em>
 * `Fem,Neut` (2; 0% of non-empty `Gender`): <em>omnibus</em>
-* `Masc` (1199; 33% of non-empty `Gender`): <em>omnes, ipsum, ille, quidam, omnium, ipse, hic, illius, hunc, hoc</em>
+* `Masc` (1202; 34% of non-empty `Gender`): <em>omnes, ipsum, ille, quidam, omnium, ipse, hic, illius, hunc, hoc</em>
 * `Masc,Neut` (367; 10% of non-empty `Gender`): <em>eo, hoc, ipso, eodem, ipsum, illo, quodam, nullo, nullum, aliquo</em>
 * `Neut` (674; 19% of non-empty `Gender`): <em>omnia, hoc, omne, aliud, haec, illud, nihil, id, ipsum, omni</em>
 * `EMPTY` (743): <em>omnibus, omni, his, eius, huius, omnium, iis, huic, aliquot, ei</em>
@@ -218,18 +218,18 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `NUM`
 
-995 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (59% of all `NUM` tokens) have a non-empty value of `Gender`.
+997 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (59% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt> (506; 51%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt> (507; 51%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (217; 22% of non-empty `Gender`): <em>una, duas, unam, duabus, duae, tribus, tres, unius, duarum, ducentae</em>
-* `Fem,Masc` (16; 2% of non-empty `Gender`): <em>tres, tribus, tris</em>
+* `Fem` (218; 22% of non-empty `Gender`): <em>una, duas, unam, duabus, duae, tribus, tres, unius, duarum, ducentae</em>
+* `Fem,Masc` (17; 2% of non-empty `Gender`): <em>tres, tribus, tris</em>
 * `Masc` (380; 38% of non-empty `Gender`): <em>unus, unum, duo, duos, duobus, tres, uno, unius, uni, duorum</em>
 * `Masc,Neut` (82; 8% of non-empty `Gender`): <em>uno, unum, duobus, duorum, ducentorum, duo, quadringentorum</em>
 * `Neut` (300; 30% of non-empty `Gender`): <em>unum, milia, duo, milibus, milium, tria, uno, duobus, ducenta, sescenta</em>
-* `EMPTY` (680): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
+* `EMPTY` (682): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -253,7 +253,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Masc` (19; 37% of non-empty `Gender`): <em>futurus, futuros, futurum, futuri</em>
 * `Masc,Neut` (2; 4% of non-empty `Gender`): <em>futurorum</em>
 * `Neut` (21; 40% of non-empty `Gender`): <em>futurum, futura</em>
-* `EMPTY` (7784): <em>est, sunt, esse, erat, sit, sum, esset, erant, fuit, erit</em>
+* `EMPTY` (7795): <em>est, sunt, esse, erat, sit, sum, esset, erant, fuit, erit</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -267,14 +267,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3072; 67%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2698; 79%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2198; 62%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1737; 53%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1308; 59%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (575; 85%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (494; 95%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (443; 75%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (441; 87%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> PROPN</tt> (337; 87%).
+<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3074; 67%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2701; 79%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2199; 62%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1741; 54%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1307; 59%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (583; 85%),
+<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (480; 94%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (444; 75%),
+<tt>PROPN --[<tt><a href="la_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (427; 86%),
+<tt>PROPN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> PROPN</tt> (338; 87%).
 

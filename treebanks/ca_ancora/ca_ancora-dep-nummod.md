@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5691 nodes (1%) are attached to their parents as `nummod`.
+5699 nodes (1%) are attached to their parents as `nummod`.
 
-4503 instances of `nummod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22438938675101.
+4507 instances of `nummod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22512721530093.
 
-The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4656; 82% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (562; 10% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (233; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (18; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-X.html">X</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nummod`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (4648; 82% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (561; 10% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (223; 4% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (184; 3% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
 1	També	també	ADV	ADV	_	4	advmod	_	_
-2	s'	es	PRON	PRON	_	4	obj	_	SpaceAfter=No
+2	s'	ell	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	obj	_	SpaceAfter=No
 3	ha	haver	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	fet	fer	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	una	un	NUM	NUM	Gender=Fem|Number=Sing|NumType=Card	6	nummod	_	_
@@ -72,7 +72,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	l'	el	DET	DET	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
 8	Ibex	Ibex	PROPN	PROPN	_	0	root	_	MWE=Ibex_35|MWEPOS=PROPN
 9	35	35	NUM	NUM	NumForm=Digit|NumType=Card	8	nummod	_	_
-10	dels	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Plur	11	case	_	_
+10	dels	del	ADP	ADP	AdpType=Preppron	11	case	_	_
 11	records	record	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 

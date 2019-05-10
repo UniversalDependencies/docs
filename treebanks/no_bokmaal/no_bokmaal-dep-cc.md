@@ -25,7 +25,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Og	og	CCONJ	_	_	3	cc	_	_
 2	Aftenposten	Aftenposten	PROPN	_	Gender=Masc	3	nsubj	_	_
 3	leverer	levere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	$,	PUNCT	_	_	3	punct	_	_
+4	,	$,	PUNCT	_	_	6	punct	_	_
 5	også	også	ADV	_	_	6	advmod	_	_
 6	her	her	ADV	_	_	3	advmod	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	3	punct	_	_

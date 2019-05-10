@@ -52,11 +52,11 @@ The following 28 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	وزارتوں	وزارت	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	5	conj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	5	case	_	ChunkId=NP3|ChunkType=child
 9	مالیتی	مالیتی	ADJ	JJ	Case=Acc	10	amod	_	ChunkId=NP4|ChunkType=child
-10	آڈٹ	آڈٹ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	advmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
+10	آڈٹ	آڈٹ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 11	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	10	case	_	ChunkId=NP4|ChunkType=child
 12	ذمہ_دار	ذمہ_دار	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head
 13	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
-14	۔	۔	PUNCT	SYM	_	13	punct	_	ChunkId=VGF|ChunkType=child
+14	۔	۔	PUNCT	SYM	_	12	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 28 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	حالت	حالت	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 7	تشویشناک	تشویشناک	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head
 8	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
-9	۔	۔	PUNCT	SYM	_	8	punct	_	ChunkId=VGF|ChunkType=child
+9	۔	۔	PUNCT	SYM	_	7	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-aux.html">aux</a></tt>.
 
-1940 nodes (1%) are attached to their parents as `aux:pass`.
+1941 nodes (1%) are attached to their parents as `aux:pass`.
 
 1469 instances of `aux:pass` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.24845360824742.
+Average distance between parent and child is 1.24111282843895.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1939; 100% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1940; 100% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 10 aux:pass	color:blue
 1	tum	tum	CCONJ	O4	_	2	cc	_	_
-2	etiam	etiam	PART	O4|vgr1	_	0	root	_	_
+2	etiam	etiam	ADV	O4|vgr1	_	0	root	_	_
 3	propter	propter	ADP	S4	AdpType=Prep	4	case	_	_
 4	multa	multus	NOUN	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	conj	_	_
 5	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	6	nsubj:pass	_	_

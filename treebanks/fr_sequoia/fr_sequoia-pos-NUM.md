@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `NUM`
 
 There are 350 `NUM` lemmas (5%), 350 `NUM` types (4%) and 1649 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>deux</em> (<tt><a href="fr_sequoia-po
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.401447).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.401419).
 
 The 1st highest number of forms (1) was observed with the lemma “-6”: <em>-6</em>.
 
@@ -59,32 +59,32 @@ The 2nd highest number of forms (1) was observed with the lemma “0,0001”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “0,001”: <em>0,001</em>.
 
-`NUM` occurs with 3 features: <tt><a href="fr_sequoia-feat-NumType.html">NumType</a></tt> (1648; 100% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (2; 0% instances)
+`NUM` occurs with 2 features: <tt><a href="fr_sequoia-feat-NumType.html">NumType</a></tt> (1648; 100% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (1; 0% instances)
 
-`NUM` occurs with 4 feature-value pairs: `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 2 feature-value pairs: `Gender=Masc`, `NumType=Card`
 
-`NUM` occurs with 4 feature combinations.
-The most frequent feature combination is `NumType=Card` (1646 tokens).
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `NumType=Card` (1647 tokens).
 Examples: <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt> (1049; 64% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (341; 21% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (187; 11% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (39; 2% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt> (1048; 64% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (342; 21% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (184; 11% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (39; 2% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1314; 80% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (200; 12% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (61; 4% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (56; 3% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1313; 80% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (197; 12% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (61; 4% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (56; 3% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-1238 (75%) `NUM` nodes are leaves.
+1236 (75%) `NUM` nodes are leaves.
 
-281 (17%) `NUM` nodes have one child.
+283 (17%) `NUM` nodes have one child.
 
-81 (5%) `NUM` nodes have two children.
+79 (5%) `NUM` nodes have two children.
 
-49 (3%) `NUM` nodes have three or more children.
+51 (3%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 7.
+The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 19 different relations: <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (207; 34% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (165; 27% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (92; 15% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (35; 6% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (33; 5% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (29; 5% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (23; 4% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 15 different relations: <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (208; 34% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (172; 28% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (93; 15% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (34; 6% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (34; 6% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (29; 5% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (23; 4% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (186; 31% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (166; 27% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (95; 16% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (61; 10% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (33; 5% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (29; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (22; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (189; 31% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (173; 28% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (96; 16% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (61; 10% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (34; 6% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (30; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (22; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
 

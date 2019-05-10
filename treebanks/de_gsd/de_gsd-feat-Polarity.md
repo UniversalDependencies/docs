@@ -21,7 +21,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="de_gsd-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1097; 100% of non-empty `Polarity`): <em>nicht, garnicht, nich, keine, keinerlei</em>
-* `EMPTY` (1069): <em>zu, aus, an, ja, nein, 's, Hallo, hin, her, to</em>
+* `EMPTY` (1056): <em>zu, aus, an, ja, nein, hin, einnahm, her, preis, wie</em>
 
 ### `PRON`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (290; 100% of non-empty `Polarity`): <em>keine, kein, keinen, keinem, keiner, keinerlei, keines, meiner</em>
-* `EMPTY` (14804): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (14751): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `DET`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>keine, Keinen, reine</em>
-* `EMPTY` (36854): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `EMPTY` (36790): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `ADV`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>keineswegs, nicht</em>
-* `EMPTY` (14754): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14857): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `NOUN`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>Nicht</em>
-* `EMPTY` (52220): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52200): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 ### `PROPN`
 
@@ -70,5 +70,5 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>nicht</em>
-* `EMPTY` (31182): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
+* `EMPTY` (30855): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 

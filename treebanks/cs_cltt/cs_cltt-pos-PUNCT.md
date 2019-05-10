@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="cs_cltt-pos-PUNC
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -37,21 +37,21 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (4521; 100% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (3; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (4524; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1934; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1290; 29% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (618; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (526; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (87; 2% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (36; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1931; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1285; 28% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (655; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (523; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (84; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (20; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-4400 (97%) `PUNCT` nodes are leaves.
+4492 (99%) `PUNCT` nodes are leaves.
 
-109 (2%) `PUNCT` nodes have one child.
+21 (0%) `PUNCT` nodes have one child.
 
-6 (0%) `PUNCT` nodes have two children.
+4 (0%) `PUNCT` nodes have two children.
 
-9 (0%) `PUNCT` nodes have three or more children.
+7 (0%) `PUNCT` nodes have three or more children.
 
 The highest child degree of a `PUNCT` node is 9.
 
-Children of `PUNCT` nodes are attached using 6 different relations: <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (62; 39% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (35; 22% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (34; 21% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (28; 17% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (61; 97% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (2; 3% instances)
 
-Children of `PUNCT` nodes belong to 5 different parts of speech: <tt><a href="cs_cltt-pos-X.html">X</a></tt> (62; 39% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (36; 22% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (36; 22% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (26; 16% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `PUNCT` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-X.html">X</a></tt> (61; 97% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 3% instances)
 

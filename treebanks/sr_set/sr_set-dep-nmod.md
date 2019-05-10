@@ -8,67 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-7914 nodes (9%) are attached to their parents as `nmod`.
+8658 nodes (9%) are attached to their parents as `nmod`.
 
-7858 instances of `nmod` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.99684104119282.
+8600 instances of `nmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.98429198429198.
 
-The following 33 pairs of parts of speech are connected with `nmod`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (5635; 71% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1869; 24% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (59; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (57; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (54; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (50; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (15; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 nmod	color:blue
-1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	4	mark	_	_
-4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
-5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
-6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
-7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 39 pairs of parts of speech are connected with `nmod`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (6307; 73% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1924; 22% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (103; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (57; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (54; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (39; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (22; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-X.html">X</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 nmod	color:blue
-1	Poreklom	poreklo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	parataxis	_	_
-2	iz	iz	ADP	_	Case=Gen	3	case	_	_
-3	Afrike	Afrika	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	_	_
-5	nilski	nilski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
-6	konji	konj	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
-7	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	8	cop	_	_
-8	vegetarijanci	vegetarijanac	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 1 2 nmod	color:blue
+1	Proces	proces	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	privatizacije	privatizacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	na	na	ADP	Sl	Case=Loc	4	case	_	_
+4	Kosovu	Kosovo	PROPN	Npnsl	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	pod	pod	ADP	Si	Case=Ins	6	case	_	_
+6	lupom	lupa	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nmod	color:blue
+1	Proces	proces	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	privatizacije	privatizacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	na	na	ADP	Sl	Case=Loc	4	case	_	_
+4	Kosovu	Kosovo	PROPN	Npnsl	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	pod	pod	ADP	Si	Case=Ins	6	case	_	_
+6	lupom	lupa	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 nmod	color:blue
-1	Cvetina	Cvetina	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	Borisova	Borisov	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
-3	za	za	ADP	_	Case=Acc	4	case	_	_
-4	Southeast	southeast	ADP	_	_	1	nmod	_	_
-5	European	european	ADP	_	_	4	flat	_	_
-6	Times	times	ADP	_	_	4	flat	_	_
-7	iz	iz	ADP	_	Case=Gen	8	case	_	_
-8	Sofije	Sofija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-9	3.8.2011.	3.8.2011.	NUM	_	NumType=Ord	1	nmod	_	_
+# visual-style 8 9 nmod	color:blue
+1	Oni	oni	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	su	biti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	razgovarali	razgovarati	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	o	o	ADP	Sl	Case=Loc	6	case	_	_
+5	bezbednosnim	bezbednosan	ADJ	Agpnply	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur	6	amod	_	_
+6	pitanjima	pitanje	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	3	obl	_	_
+7	u	u	ADP	Sl	Case=Loc	8	case	_	_
+8	regionu	region	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	Crnog	crn	ADJ	Agpnsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	8	nmod	_	_
+10	mora	more	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	9	flat	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 

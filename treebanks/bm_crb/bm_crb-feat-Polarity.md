@@ -22,9 +22,9 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (130; 16% of non-empty `Polarity`): <em>tè, ma, kana, te, man, tèna</em>
-* `Pos` (685; 84% of non-empty `Polarity`): <em>ye, bè, ka, be, mana, bèna, y', bɛ, na, b'</em>
-* `EMPTY` (548): <em>ka, ma, diye, bɛ, k', tɛ, bè, y', ye, na</em>
+* `Neg` (130; 16% of non-empty `Polarity`): <em>tè, ma, kana, te, man, tèna</em>
+* `Pos` (685; 84% of non-empty `Polarity`): <em>ye, bè, ka, be, mana, bèna, y', bɛ, na, b'</em>
+* `EMPTY` (548): <em>ka, ma, diye, bɛ, k', tɛ, bè, y', ye, na</em>
 
 `Polarity` seems to be **lexical feature** of `AUX`. 100% lemmas (24) occur only with one value of `Polarity`.
 
@@ -36,9 +36,9 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (36; 6% of non-empty `Polarity`): <em>tè, tɛ</em>
-* `Pos` (544; 94% of non-empty `Polarity`): <em>tagara, bè, ye, nana, bòra, sera, kèra, tora, cira, banna</em>
-* `EMPTY` (1931): <em>ko, taga, kè, na, fò, di, sòrò, to, se, ta</em>
+* `Neg` (36; 6% of non-empty `Polarity`): <em>tè, tɛ</em>
+* `Pos` (544; 94% of non-empty `Polarity`): <em>tagara, bè, ye, nana, bòra, sera, kèra, tora, cira, banna</em>
+* `EMPTY` (1931): <em>ko, taga, kè, na, fò, di, sòrò, to, se, ta</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (65) occur only with one value of `Polarity`.
 

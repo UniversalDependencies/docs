@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="fr_spoken-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="fr_spoken-dep-parataxis-obj.html">parataxis:obj</a></tt>.
 
-42 nodes (0%) are attached to their parents as `parataxis:parenth`.
+41 nodes (0%) are attached to their parents as `parataxis:parenth`.
 
-39 instances of `parataxis:parenth` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.02380952380952.
+38 instances of `parataxis:parenth` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.19512195121951.
 
-The following 16 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 17% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 17% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 15 pairs of parts of speech are connected with `parataxis:parenth`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 17% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 17% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 7	plutôt	plutôt	ADV	_	_	13	advmod	_	_
 8	vous	vous	PRON	_	_	11	nsubj	_	_
 9	l'	le	PRON	_	_	11	obj	_	_
-10	avez	avoir	VERB	_	_	11	aux	_	_
+10	avez	avoir	AUX	_	_	11	aux	_	_
 11	vu	voir	VERB	_	_	13	parataxis:parenth	_	_
 12	du	de+le	ADP	_	_	13	case	_	_
 13	côté	côté	NOUN	_	_	0	root	_	_
@@ -51,7 +51,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 7	fgColor:white
 # visual-style 7 12 parataxis:parenth	color:blue
 1	et	et	CCONJ	_	_	7	cc	_	_
-2	à	à	ADP	_	_	1	dep	_	_
+2	à	à	ADP	_	_	7	dep	_	_
 3	par	par	ADP	_	_	4	case	_	_
 4	hasard	hasard	NOUN	_	_	7	obl:periph	_	_
 5	je	je	PRON	_	_	7	nsubj	_	_
@@ -60,7 +60,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 8	en	en	ADP	_	_	9	case	_	_
 9	quarante-neuf	quarante-neuf	NUM	_	_	7	nummod	_	_
 10	à	à	ADP	_	_	7	dep	_	_
-11	ayant	avoir	VERB	_	_	12	aux	_	_
+11	ayant	avoir	AUX	_	_	12	aux	_	_
 12	fini	finir	VERB	_	_	7	parataxis:parenth	_	_
 13	mon	son	DET	_	_	14	det	_	_
 14	tour	tour	NOUN	_	_	12	obj	_	_
@@ -89,7 +89,7 @@ The following 16 pairs of parts of speech are connected with `parataxis:parenth`
 7	ils	il	PRON	_	_	8	nsubj	_	_
 8	sont	être	AUX	_	_	5	acl	_	_
 9	vous	vous	PRON	_	_	12	nsubj:pass	_	_
-10	avez	avoir	VERB	_	_	12	aux	_	_
+10	avez	avoir	AUX	_	_	12	aux	_	_
 11	été	être	AUX	DoubleAux	_	12	aux:pass	_	_
 12	ruinée	ruiner	VERB	DoubleAux	_	0	root	_	_
 

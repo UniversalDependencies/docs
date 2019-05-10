@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (63; 94% of non-empty `Degree`): <em>περισσότερο, αργότερα, νωρίτερα, καλύτερα, λιγότερο, ειδικότερα, παλαιότερα, Παλιότερα, αυστηρότερα, βορειότερα</em>
 * `Sup` (4; 6% of non-empty `Degree`): <em>πιθανότατα, ελάχιστα, πρώτιστα</em>
-* `EMPTY` (2668): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
+* `EMPTY` (2708): <em>επίσης, όπως, ως, σχετικά, σήμερα, μόνο, εδώ, πολύ, σύμφωνα, πιο</em>
 
 <table>
   <tr><th>Paradigm <i>λίγο</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

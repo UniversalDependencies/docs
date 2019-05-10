@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-109 tokens (5%) have a non-empty value of `Person[psor]`.
-101 types (10%) occur at least once with a non-empty value of `Person[psor]`.
-77 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (85; 4% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances).
+121 tokens (6%) have a non-empty value of `Person[psor]`.
+111 types (11%) occur at least once with a non-empty value of `Person[psor]`.
+86 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (97; 5% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-85 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+97 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (22% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (82; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68; 80%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (51; 60%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (94; 97%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 80%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 60%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>олӧмыс</em></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 91% lemmas (53) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 93% lemmas (62) occur only with one value of `Person[psor]`.
 
 ### `ADP`
 
@@ -53,9 +53,18 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 
 5 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="kpv_lattice-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%).
 
 `ADJ` tokens may have the following values of `Person[psor]`:
+
+
+### `DET`
+
+4 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (31% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (3; 75%).
+
+`DET` tokens may have the following values of `Person[psor]`:
 
 
 ### `VERB`
@@ -67,15 +76,6 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 `VERB` tokens may have the following values of `Person[psor]`:
 
 
-### `PRON`
-
-3 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
-
-`PRON` tokens may have the following values of `Person[psor]`:
-
-
 ### `ADV`
 
 1 <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
@@ -83,15 +83,6 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Person[psor]`:
-
-
-### `DET`
-
-1 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1; 100%).
-
-`DET` tokens may have the following values of `Person[psor]`:
 
 
 ## Relations with Agreement in `Person[psor]`

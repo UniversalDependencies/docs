@@ -70,17 +70,17 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 
 ## Relations
 
-[acl](yo_ytb-dep-acl.html) – [advcl](yo_ytb-dep-advcl.html) – [advmod](yo_ytb-dep-advmod.html) – [amod](yo_ytb-dep-amod.html) – [aux](yo_ytb-dep-aux.html) – [case](yo_ytb-dep-case.html) – [cc](yo_ytb-dep-cc.html) – [ccomp](yo_ytb-dep-ccomp.html) – [compound](yo_ytb-dep-compound.html) – [compound:prt](yo_ytb-dep-compound-prt.html) – [compound:svc](yo_ytb-dep-compound-svc.html) – [conj](yo_ytb-dep-conj.html) – [cop](yo_ytb-dep-cop.html) – [csubj](yo_ytb-dep-csubj.html) – [det](yo_ytb-dep-det.html) – [discourse](yo_ytb-dep-discourse.html) – [expl](yo_ytb-dep-expl.html) – [goeswith](yo_ytb-dep-goeswith.html) – [iobj](yo_ytb-dep-iobj.html) – [list](yo_ytb-dep-list.html) – [mark](yo_ytb-dep-mark.html) – [nmod](yo_ytb-dep-nmod.html) – [nsubj](yo_ytb-dep-nsubj.html) – [nummod](yo_ytb-dep-nummod.html) – [obj](yo_ytb-dep-obj.html) – [obl](yo_ytb-dep-obl.html) – [orphan](yo_ytb-dep-orphan.html) – [parataxis](yo_ytb-dep-parataxis.html) – [punct](yo_ytb-dep-punct.html) – [root](yo_ytb-dep-root.html) – [xcomp](yo_ytb-dep-xcomp.html)
+[acl](yo_ytb-dep-acl.html) – [advcl](yo_ytb-dep-advcl.html) – [advmod](yo_ytb-dep-advmod.html) – [amod](yo_ytb-dep-amod.html) – [appos](yo_ytb-dep-appos.html) – [aux](yo_ytb-dep-aux.html) – [case](yo_ytb-dep-case.html) – [cc](yo_ytb-dep-cc.html) – [ccomp](yo_ytb-dep-ccomp.html) – [compound](yo_ytb-dep-compound.html) – [compound:prt](yo_ytb-dep-compound-prt.html) – [compound:svc](yo_ytb-dep-compound-svc.html) – [conj](yo_ytb-dep-conj.html) – [cop](yo_ytb-dep-cop.html) – [det](yo_ytb-dep-det.html) – [discourse](yo_ytb-dep-discourse.html) – [expl](yo_ytb-dep-expl.html) – [fixed](yo_ytb-dep-fixed.html) – [flat](yo_ytb-dep-flat.html) – [goeswith](yo_ytb-dep-goeswith.html) – [iobj](yo_ytb-dep-iobj.html) – [mark](yo_ytb-dep-mark.html) – [nmod](yo_ytb-dep-nmod.html) – [nsubj](yo_ytb-dep-nsubj.html) – [nummod](yo_ytb-dep-nummod.html) – [obj](yo_ytb-dep-obj.html) – [obl](yo_ytb-dep-obl.html) – [orphan](yo_ytb-dep-orphan.html) – [parataxis](yo_ytb-dep-parataxis.html) – [punct](yo_ytb-dep-punct.html) – [root](yo_ytb-dep-root.html) – [vocative](yo_ytb-dep-vocative.html) – [xcomp](yo_ytb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 100 sentences and 2666 tokens.</li>
+<li>This corpus contains 100 sentences and 2664 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 459 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 457 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -104,27 +104,27 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 </ul>
 
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): kì, kìí, kò, mo</li>
+<li>This corpus contains 7 word types tagged as particles (PART): kì, kìí, kò, mo, ni, nì, Ǹjẹ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 40 lemmas tagged as pronouns (PRON): a, ara, i, mi, mo, mí, ohun, rẹ, rẹ̀, ti, tirẹ̀, tiwọn, tèmi, tí, u, un, wa, wá, wọn, wọ́n, yín, Òun, àwa, àwọn, á, èmi, èwo, èyí, èéṣe, ìwọ, í, ó, ú, ún, ẹ, ẹni, ẹnìkan, ẹ̀yin, ọ, ọ́</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): a, ara, i, mi, mo, mí, rẹ, rẹ̀, ti, tirẹ̀, tiwọn, tèmi, tí, u, un, wa, wọn, wọ́n, yín, Òun, à, àwa, àwọn, á, èmi, èwo, èyí, èéṣe, ìwọ, í, ó, ú, ún, ẹ, ẹni, ẹnìkan, ẹ̀yin, ọ, ọ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): gbogbo, náà, wọ̀nyí, yìí, àwọn</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): gbogbo, náà, wọ̀nyí, yìí, à, àwọn</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: àwọn</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: à, àwọn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): baà, bá, jẹ́, kí, le, lè, má, máa, ni, ní, se, sì, sí, ti, tí, tíì, wà, yóò, í, ó, ń, ṣe, ṣeé</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): jẹ́, kìí, kí, lè, má, máa, ti, tí, yóò, ìbá, ó, ń</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: jẹ́, lè, máa, ní, sí, wà, yóò, ń, ṣe</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: lè</li>
 </ul>
 
 <ul>
@@ -151,6 +151,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <ul>
   <li>Sing
     <ul>
+      <li>AUX: ó</li>
       <li>PRON: ó, rẹ̀, èmi, mi, i, ìwọ, un, tirẹ̀, mo, mí</li>
     </ul>
   </li>
@@ -163,7 +164,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: wọn, mi, i, mí, wa, wọ́n, ọ́, èmi, ẹ, ìwọ</li>
+      <li>PRON: mi, wọn, i, mí, wa, wọ́n, ọ́, èmi, ẹ, ìwọ</li>
     </ul>
   </li>
 </ul>
@@ -179,6 +180,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <ul>
   <li>Nom
     <ul>
+      <li>AUX: ó</li>
       <li>PRON: ó, èmi, wọn, a, ìwọ, ẹ̀yin, mo, wọ́n, àwa, ẹ</li>
     </ul>
   </li>
@@ -242,6 +244,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <ul>
   <li>Prs
     <ul>
+      <li>AUX: ó</li>
       <li>PRON: ó, wọn, rẹ̀, èmi, mi, i, a, ìwọ, un, wọ́n</li>
     </ul>
   </li>
@@ -292,6 +295,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <ul>
   <li>3
     <ul>
+      <li>AUX: ó</li>
       <li>PRON: ó, wọn, rẹ̀, i, un, wọ́n, tirẹ̀, Òun, á, tiwọn</li>
     </ul>
   </li>
@@ -308,7 +312,9 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
     <ul>
       <li>Yes
         <ul>
-          <li>PRON: wọ́n, ọ́</li>
+          <li>ADP: sí</li>
+          <li>AUX: tí</li>
+          <li>PROPN: Bétanì</li>
         </ul>
       </li>
     </ul>
@@ -320,11 +326,11 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: ni, wà, jẹ́, ní, mi, rẹ̀, sí, yóò, ń, ṣe.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: jẹ́.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: ń, kí, ni, ti, yóò, jẹ́, lè, máa, ṣe, bá, má, í, baà, se, le, nì, sì, sí, tí, tíì, ìbá, ó, ṣeé.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ń, kí, ti, yóò, lè, jẹ́, máa, kìí, má, ó, tí, ìbá.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -333,14 +339,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (64)</li>
-      <li>VERB--NOUN-ADP(kí) (1)</li>
-      <li>VERB--NOUN-ADP(sí) (1)</li>
-      <li>VERB--PRON (19)</li>
-      <li>VERB--PRON-ADP(lẹ́yìn) (1)</li>
+      <li>VERB--NOUN (65)</li>
+      <li>VERB--NOUN-ADP(ni) (1)</li>
+      <li>VERB--PRON (55)</li>
+      <li>VERB--PRON-Acc (4)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB--PRON-Nom (123)</li>
-      <li>VERB--PRON-Nom-ADP(nínú) (3)</li>
+      <li>VERB--PRON-Nom (111)</li>
+      <li>VERB--PRON-Nom-ADP(ni) (1)</li>
     </ul>
   </li>
 </ul>
@@ -348,40 +353,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (66)</li>
+      <li>VERB--NOUN (74)</li>
       <li>VERB--NOUN-ADP(fún) (2)</li>
       <li>VERB--NOUN-ADP(jáde) (1)</li>
-      <li>VERB--NOUN-ADP(kúrò) (2)</li>
-      <li>VERB--NOUN-ADP(kúrò)-ADP(lọ́wọ́) (1)</li>
-      <li>VERB--NOUN-ADP(láti) (3)</li>
-      <li>VERB--NOUN-ADP(láti)-ADP(àárin) (1)</li>
-      <li>VERB--NOUN-ADP(láti)-ADP(ọ̀dọ̀) (1)</li>
-      <li>VERB--NOUN-ADP(lẹ́bàá) (1)</li>
-      <li>VERB--NOUN-ADP(ní) (4)</li>
-      <li>VERB--NOUN-ADP(nínú) (2)</li>
-      <li>VERB--NOUN-ADP(nípa)-ADP(ti) (1)</li>
+      <li>VERB--NOUN-ADP(ni) (4)</li>
       <li>VERB--NOUN-ADP(pẹ̀lú) (1)</li>
-      <li>VERB--NOUN-ADP(sí) (3)</li>
       <li>VERB--NOUN-ADP(sí)-ADP(àárin) (1)</li>
-      <li>VERB--NOUN-ADP(sókè) (1)</li>
-      <li>VERB--NOUN-ADP(ti) (2)</li>
-      <li>VERB--PRON (4)</li>
-      <li>VERB--PRON-ADP(nínú) (1)</li>
-      <li>VERB--PRON-Acc (30)</li>
-      <li>VERB--PRON-Acc-ADP(fún) (10)</li>
-      <li>VERB--PRON-Acc-ADP(lẹ́yìn) (1)</li>
-      <li>VERB--PRON-Acc-ADP(lọ́wọ́) (1)</li>
-      <li>VERB--PRON-Acc-ADP(nínú) (1)</li>
-      <li>VERB--PRON-Acc-ADP(sí) (4)</li>
-      <li>VERB--PRON-Acc-ADP(ti) (1)</li>
-      <li>VERB--PRON-Acc-ADP(ṣáájú) (1)</li>
-      <li>VERB--PRON-Gen (17)</li>
-      <li>VERB--PRON-Gen-ADP(fún) (14)</li>
-      <li>VERB--PRON-Gen-ADP(kúrò)-ADP(lọ́dọ̀) (1)</li>
-      <li>VERB--PRON-Gen-ADP(lọ́wọ́) (1)</li>
-      <li>VERB--PRON-Gen-ADP(ní) (1)</li>
-      <li>VERB--PRON-Gen-ADP(nínú) (1)</li>
-      <li>VERB--PRON-Gen-ADP(sọ́dọ̀) (3)</li>
+      <li>VERB--PRON (15)</li>
+      <li>VERB--PRON-ADP(ni) (1)</li>
+      <li>VERB--PRON-Acc (37)</li>
+      <li>VERB--PRON-Gen (15)</li>
+      <li>VERB--PRON-Gen-ADP(ni) (1)</li>
       <li>VERB--PRON-Nom (3)</li>
     </ul>
   </li>
@@ -390,9 +372,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-ADP(sí) (1)</li>
-      <li>VERB--PRON-Gen (1)</li>
+      <li>VERB--PRON-Gen-ADP(ní) (2)</li>
     </ul>
   </li>
 </ul>
@@ -404,5 +384,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>compound:prt</a>, <a>compound:svc</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>csubj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

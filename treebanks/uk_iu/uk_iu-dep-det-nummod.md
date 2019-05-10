@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="uk_iu-dep-det-numgov.html">det:numgov</a></tt>.
 
-33 nodes (0%) are attached to their parents as `det:nummod`.
+35 nodes (0%) are attached to their parents as `det:nummod`.
 
-33 instances of `det:nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36363636363636.
+35 instances of `det:nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37142857142857.
 
-The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (31; 94% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (33; 94% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -78,7 +78,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 1	Писатиму	писати	VERB	Vmpif1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	0:root	Id=1sab|LTranslit=pysaty|Translit=Pysatymu
 2	тут	тут	ADV	Pd------r	PronType=Dem	1	advmod	1:advmod	Id=1sac|LTranslit=tut|Translit=tut
 3	про	про	ADP	Spsa	Case=Acc	5	case	5:case	Id=1sad|LTranslit=pro|Translit=pro
-4	свої	свій	DET	Ppp--npaa	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	5:det	Id=1sae|LTranslit=svij|Translit=svoji
+4	свої	свій	DET	Pps--npaa	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	5:det	Id=1sae|LTranslit=svij|Translit=svoji
 5	успіхи	успіх	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obl	1:obl	Id=1saf|LTranslit=uspich|Translit=uspichy
 6	в	в	ADP	Spsl	Case=Loc	7	case	7:case	Id=1sag|LTranslit=v|Translit=v
 7	справі	справа	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	5:nmod	Id=1sah|LTranslit=sprava|Translit=spravi

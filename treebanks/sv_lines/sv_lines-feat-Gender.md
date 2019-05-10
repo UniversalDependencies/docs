@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Com`, `Masc`, `Neut`.
 
 25325 tokens (32%) have a non-empty value of `Gender`.
-7412 types (57%) occur at least once with a non-empty value of `Gender`.
-5242 lemmas (58%) occur at least once with a non-empty value of `Gender`.
+7413 types (57%) occur at least once with a non-empty value of `Gender`.
+5243 lemmas (58%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (13678; 17% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (6211; 8% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (3590; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1845; 2% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Com` (9496; 69% of non-empty `Gender`): <em>gång, sidan, man, fråga, mr, del, mannen, mrs, frågor, människor</em>
 * `Neut` (4182; 31% of non-empty `Gender`): <em>fält, sätt, år, data, ögon, fältet, fall, huvudet, ansikte, ögonblick</em>
-* `EMPTY` (340): <em>slags, exempel, stället, väg, början, grund, går, rad-, Language, avståndet</em>
+* `EMPTY` (339): <em>slags, exempel, stället, väg, början, grund, går, rad-, Language, avståndet</em>
 
 <table>
   <tr><th>Paradigm <i>man</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Com` (4415; 71% of non-empty `Gender`): <em>han, jag, du, vi, honom, man, mig, hon, ni, sin</em>
 * `Masc` (5; 0% of non-empty `Gender`): <em>denne</em>
 * `Neut` (1791; 29% of non-empty `Gender`): <em>det, vad, sitt, detta, allt, något, ingenting, vilket, mitt, annat</em>
-* `EMPTY` (2912): <em>som, sig, de, hans, dem, den, sina, deras, dom, alla</em>
+* `EMPTY` (2911): <em>som, sig, de, hans, dem, den, sina, deras, dom, alla</em>
 
 <table>
   <tr><th>Paradigm <i>jag</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Com` (1193; 65% of non-empty `Gender`): <em>själv, stor, annan, liten, egen, vit, sådan, lång, ung, gammal</em>
 * `Masc` (1; 0% of non-empty `Gender`): <em>andre</em>
 * `Neut` (651; 35% of non-empty `Gender`): <em>annat, stort, eget, litet, nytt, möjligt, svårt, visst, gott, sådant</em>
-* `EMPTY` (3696): <em>andra, hela, samma, första, flera, många, nya, enda, vita, egna</em>
+* `EMPTY` (3703): <em>andra, hela, samma, första, flera, många, nya, enda, vita, egna</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -103,19 +103,19 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>sitt</em>
-* `EMPTY` (10050): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10020): <em>var, har, sa, hade, gick, kom, såg, sade, ta, göra</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3293; 84%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1138; 58%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (622; 62%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (3297; 84%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1130; 58%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (620; 62%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (193; 51%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (58; 75%),
-<tt>PRON --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (57; 55%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (55; 64%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (61; 71%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (60; 76%),
+<tt>PRON --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (58; 56%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (57; 66%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-expl.html">expl</a></tt>]--> PRON</tt> (54; 68%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> NOUN</tt> (53; 71%),
-<tt>PRON --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (28; 67%).
+<tt>PRON --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (25; 64%).
 

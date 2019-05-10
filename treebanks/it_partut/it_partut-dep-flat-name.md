@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_partut-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="it_partut-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-363 nodes (1%) are attached to their parents as `flat:name`.
+364 nodes (1%) are attached to their parents as `flat:name`.
 
-363 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16253443526171.
+364 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16483516483516.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (355; 98% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="it_partut-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (357; 98% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

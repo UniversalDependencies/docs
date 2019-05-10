@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19909 nodes (2%) are attached to their parents as `advmod`.
+16940 nodes (1%) are attached to their parents as `advmod`.
 
-19855 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.87473002159827.
+16886 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.65442739079103.
 
-The following 19 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (10002; 50% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2418; 12% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1902; 10% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1876; 9% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1514; 8% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (998; 5% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (387; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (276; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (206; 1% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (92; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (80; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (59; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (54; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (9901; 58% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2383; 14% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1891; 11% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1859; 11% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (387; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (273; 2% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (56; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (53; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -29,11 +29,11 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
 6	_	_	NUM	_	_	15	nummod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 7	_	_	NUM	_	_	15	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=3|SpaceAfter=No
-8	_	_	PUNCT	_	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+8	_	_	SYM	_	_	15	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
 9	_	_	NOUN	_	_	15	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 10	_	_	NUM	_	_	15	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 11	_	_	NUM	_	_	15	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=3|SpaceAfter=No
-12	_	_	PUNCT	_	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
+12	_	_	SYM	_	_	15	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
 13	_	_	NOUN	_	_	15	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 14	_	_	NUM	_	_	15	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 15	_	_	NOUN	_	_	25	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=3|SpaceAfter=No
@@ -74,10 +74,10 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	_	_	NOUN	_	_	9	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 8	_	_	ADP	_	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
 9	_	_	VERB	_	_	12	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-10	_	_	PUNCT	_	_	12	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+10	_	_	SYM	_	_	12	dep	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
 11	_	_	NOUN	_	_	12	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 12	_	_	NOUN	_	_	16	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-13	_	_	PUNCT	_	_	12	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
+13	_	_	SYM	_	_	12	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
 14	_	_	ADP	_	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
 15	_	_	ADV	_	_	16	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=17|SpaceAfter=No
 16	_	_	NOUN	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No

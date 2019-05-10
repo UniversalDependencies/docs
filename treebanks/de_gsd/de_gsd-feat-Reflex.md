@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1697; 100% of non-empty `Reflex`): <em>sich, mich, uns, mir, Euch, dich</em>
-* `EMPTY` (13397): <em>er, sie, es, die, ich, der, man, diese, das, wir</em>
+* `EMPTY` (13344): <em>er, sie, es, die, ich, der, man, diese, das, wir</em>
 
 ### `ADV`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>einander</em>
-* `EMPTY` (14758): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14861): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 

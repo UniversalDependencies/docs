@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Upper_Sorbian-UFAL: Relations: `dep`
 
 This relation is universal.
+There are 1 language-specific subtypes of `dep`: <tt><a href="hsb_ufal-dep-dep-alt.html">dep:alt</a></tt>.
 
-6 nodes (0%) are attached to their parents as `dep`.
+7 nodes (0%) are attached to their parents as `dep`.
 
-4 instances of `dep` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.16666666666667.
+4 instances of `dep` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.28571428571429.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (2; 29% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (1; 14% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (1%) are attached to their parents as `acl`.
+175 nodes (1%) are attached to their parents as `acl`.
 
-23 instances of `acl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.26829268292683.
+126 instances of `acl` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.75428571428571.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (26; 63% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (6; 15% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (148; 85% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,21 +63,29 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 acl	color:blue
-1	呢	呢	PART	_	_	2	det	_	SpaceAfter=No
-2	張	張	NOUN	_	NounType=Clf	8	nsubj	_	SpaceAfter=No
-3	唔	唔	ADV	_	_	4	advmod	_	SpaceAfter=No
-4	係	係	AUX	_	_	8	cop	_	SpaceAfter=No
-5	你	你	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	中意	中意	VERB	_	_	8	acl	_	SpaceAfter=No
-7	嘅	嘅	PART	_	_	6	mark:rel	_	SpaceAfter=No
-8	孫悟空	孫悟空	PROPN	_	_	0	root	_	SpaceAfter=No
-9	咩	咩	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-10	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 acl	color:blue
+1	誒	_	INTJ	_	_	17	discourse	_	SpaceAfter=No
+2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	主席	_	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+4	，	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	你	_	PRON	_	_	6	nsubj	_	SpaceAfter=No
+6	作為	_	VERB	_	_	17	csubj	_	SpaceAfter=No
+7	，	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	誒	_	INTJ	_	_	6	discourse	_	SpaceAfter=No
+9	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	代理	_	ADJ	_	_	11	acl	_	SpaceAfter=No
+11	主席	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+12	呢	_	PART	_	_	6	discourse:sp	_	SpaceAfter=No
+13	，	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	都	_	ADV	_	_	17	advmod	_	SpaceAfter=No
+15	係	_	AUX	_	_	17	cop	_	SpaceAfter=No
+16	唔	_	ADV	_	_	17	advmod	_	SpaceAfter=No
+17	容易	_	ADJ	_	_	0	root	_	SpaceAfter=No
+18	。	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
 
 ~~~
 

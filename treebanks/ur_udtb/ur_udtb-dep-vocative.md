@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	عدالت	عدالت	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	vocative	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 10	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	9	case	_	ChunkId=NP4|ChunkType=child
 11	جانب	جانب	ADP	NST	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing|Person=3	9	case	_	AltTag=ADP-NOUN|ChunkId=NP4|ChunkType=child
-12	سے	سے	ADP	PSP	AdpType=Post	11	case	_	ChunkId=NP4|ChunkType=child
+12	سے	سے	ADP	PSP	AdpType=Post	9	case	_	ChunkId=NP4|ChunkType=child
 13	اس	یہ	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	14	det	_	ChunkId=NP5|ChunkType=child
 14	تحقیقات	تحقیق	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	16	nmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 15	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	14	case	_	ChunkId=NP5|ChunkType=child
@@ -83,10 +83,10 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	منتخبہ	منتخبہ	ADJ	JJ	Case=Acc	10	amod	_	ChunkId=NP5|ChunkType=child
 10	فہرست	فہرست	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 11	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	ChunkId=NP5|ChunkType=child
-12	افشا	افشا	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head
+12	افشا	افشا	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	nmod	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head
 13	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	ChunkId=NP6|ChunkType=child
 14	اقدام	اقدام	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	case	_	Vib=0|Tam=0|ChunkId=NP7|ChunkType=head
-15	سے	سے	ADP	PSP	AdpType=Post	14	case	_	ChunkId=NP7|ChunkType=child
+15	سے	سے	ADP	PSP	AdpType=Post	16	case	_	ChunkId=NP7|ChunkType=child
 16	قطع_نظر	قطع_نظر	ADV	RB	_	50	obl	_	ChunkId=RBP|ChunkType=head
 17	ریاستی	ریاستی	NOUN	NNC	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	compound	_	Vib=0|Tam=0|ChunkId=NP8|ChunkType=child
 18	اعداد	عدد	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	50	obl	_	Vib=0|Tam=0|ChunkId=NP8|ChunkType=head
@@ -102,9 +102,9 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 28	سبھا	سبھا	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	Vib=0|Tam=0|ChunkId=NP11|ChunkType=child
 29	انتخابات	انتخاب	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	31	vocative	_	Vib=0|Tam=0|ChunkId=NP11|ChunkType=head
 30	سے	سے	ADP	PSP	AdpType=Post	29	case	_	ChunkId=NP11|ChunkType=child
-31	اب	اب	PRON	PRP	Case=Acc|PronType=Prs	50	advmod	_	ChunkId=NP12|ChunkType=head
+31	اب	اب	PRON	PRP	Case=Acc|PronType=Prs	50	obl	_	ChunkId=NP12|ChunkType=head
 32	تک	تک	ADP	PSP	AdpType=Post	31	case	_	ChunkId=NP12|ChunkType=child
-33	ریاست	ریاست	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	50	advmod	_	Vib=0|Tam=0|ChunkId=NP13|ChunkType=head
+33	ریاست	ریاست	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	50	obl	_	Vib=0|Tam=0|ChunkId=NP13|ChunkType=head
 34	مےں	مےں	ADP	PSP	AdpType=Post	33	case	_	ChunkId=NP13|ChunkType=child
 35	ترنمول	ترنمول	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	36	compound	_	Vib=0|Tam=0|ChunkId=NP14|ChunkType=child
 36	کانگریس	کانگریس	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	50	nsubj	_	Vib=0|Tam=0|ChunkId=NP14|ChunkType=head
@@ -113,7 +113,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 39	اتحاد	اتحاد	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	36	conj	_	Vib=0|Tam=0|ChunkId=NP15|ChunkType=head
 40	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	36	case	_	ChunkId=NP15|ChunkType=child
 41	جانب	جانب	ADP	NST	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing|Person=3	36	case	_	AltTag=ADP-NOUN|ChunkId=NP15|ChunkType=child
-42	سے	سے	ADP	PSP	AdpType=Post	41	case	_	ChunkId=NP15|ChunkType=child
+42	سے	سے	ADP	PSP	AdpType=Post	36	case	_	ChunkId=NP15|ChunkType=child
 43	قریب	قریب	PART	RP	_	44	dep	_	ChunkId=NP16|ChunkType=child
 44	380	380	NUM	QC	NumType=Card	46	nummod	_	ChunkId=NP16|ChunkType=child
 45	لفٹ	لفٹ	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	46	compound	_	Vib=0|Tam=0|ChunkId=NP16|ChunkType=child
@@ -123,7 +123,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 49	ہلاک	ہلاک	ADJ	JJ	_	50	compound	_	ChunkId=JJP|ChunkType=head
 50	کیا	کر	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	3	obj	_	Vib=یا|Tam=yA|ChunkId=VGF2|ChunkType=head|Stype=declarative
 51	گیا	جا	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	50	aux	_	Vib=1یا|Tam=yA1|ChunkId=VGF2|ChunkType=child
-52	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	51	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
+52	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
 53	۔	۔	PUNCT	SYM	_	50	punct	_	ChunkId=VGF2|ChunkType=child
 
 ~~~

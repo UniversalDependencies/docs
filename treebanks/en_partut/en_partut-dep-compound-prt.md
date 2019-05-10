@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-compound.html">compound</a></tt>.
 
-102 nodes (0%) are attached to their parents as `compound:prt`.
+104 nodes (0%) are attached to their parents as `compound:prt`.
 
-100 instances of `compound:prt` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06862745098039.
+104 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06730769230769.
 
-The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (85; 83% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (13; 13% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (89; 86% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (13; 13% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	turns	turn	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 4	out	out	ADV	B	_	3	compound:prt	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	there	there	ADV	B	_	7	expl	_	_
+6	there	there	PRON	_	_	7	expl	_	_
 7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	some	some	DET	DI	PronType=Ind	9	det	_	_
 9	truth	truth	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -61,28 +61,35 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 compound:prt	color:blue
-1	Saintsbury	Saintsbury	PROPN	SP	_	2	nsubj	_	_
-2	points	point	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	out	out	ADP	E	_	4	compound:prt	_	_
-4	that	that	SCONJ	CS	_	9	mark	_	_
-5	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-6	Cœlebs	Cœlebs	PROPN	SP	_	9	nsubj	_	_
-7	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-8	not	not	PART	PART	Polarity=Neg	7	advmod	_	_
-9	talk	talk	VERB	V	VerbForm=Inf	2	ccomp	_	_
-10	of	of	ADP	E	_	12	case	_	_
-11	[	[	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-12	marriage	marriage	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
-13	]	]	PUNCT	FB	_	12	punct	_	_
-14	with	with	ADP	E	_	16	case	_	_
-15	much	much	ADJ	A	Degree=Pos	16	amod	_	_
-16	authority	authority	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 compound:prt	color:blue
+1	In	in	ADP	E	_	2	case	_	_
+2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
+5	Henry	Henry	PROPN	SP	_	4	flat	_	_
+6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
+7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	that	that	SCONJ	CS	_	13	mark	_	_
+9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
+10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
+11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
+13	set	set	ADJ	A	Degree=Pos	7	ccomp	_	_
+14	forth	forth	ADP	E	_	13	compound:prt	_	_
+15	with	with	ADP	E	_	18	amod	_	_
+16	many	many	ADJ	A	Degree=Pos	18	amod	_	_
+17	extraordinary	extraordinary	ADJ	A	Degree=Pos	18	amod	_	_
+18	circumstances	circumstance	NOUN	S	Number=Plur	13	obl	_	_
+19	of	of	ADP	E	_	20	case	_	_
+20	pomp	pomp	NOUN	S	Number=Sing	18	nmod	_	_
+21	and	and	CCONJ	CC	_	22	cc	_	_
+22	ceremony	ceremony	NOUN	S	Number=Sing	20	conj	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+24	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

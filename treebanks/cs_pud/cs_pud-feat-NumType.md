@@ -44,12 +44,12 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 46 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (43; 93%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (43; 93%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (46; 100% of non-empty `NumType`): <em>mnoho, několik, mnoha, několika, tolik, kolika, mála, málo</em>
-* `EMPTY` (767): <em>to, který, jeho, které, která, jejich, své, toho, její, kteří</em>
+* `EMPTY` (781): <em>to, který, jeho, které, která, jejich, své, toho, její, kteří</em>
 
 ### `ADV`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (8; 50% of non-empty `NumType`): <em>třikrát, dvakrát, jednou, několikrát, mnohokrát</em>
 * `Ord` (8; 50% of non-empty `NumType`): <em>poprvé, podruhé</em>
-* `EMPTY` (833): <em>tak, také, jak, více, poté, už, kde, pouze, stejně, ještě</em>
+* `EMPTY` (821): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `NumType`
 

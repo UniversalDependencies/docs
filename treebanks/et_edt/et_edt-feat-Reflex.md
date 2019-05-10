@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1144; 100% of non-empty `Reflex`): <em>ise, end, endale, enda, ennast, endast, endal, iseenda, enese, endaga</em>
-* `EMPTY` (21641): <em>ta, see, mis, oma, ma, kes, seda, tema, mida, nad</em>
+* `EMPTY` (21637): <em>ta, see, mis, oma, ma, kes, seda, tema, mida, nad</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>üksteise</em>
-* `EMPTY` (6795): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
+* `EMPTY` (6804): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
 

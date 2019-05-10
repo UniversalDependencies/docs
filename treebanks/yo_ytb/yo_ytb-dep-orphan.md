@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `orphan`.
+2 nodes (0%) are attached to their parents as `orphan`.
 
-1 instances of `orphan` (100%) are left-to-right (parent precedes child).
+2 instances of `orphan` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
@@ -22,33 +22,33 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 16 orphan	color:blue
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	pe	pe	VERB	_	_	0	root	_	Gloss=called
-4	ilẹ̀	ilẹ̀	NOUN	_	_	3	iobj	_	Gloss=land
-5	gbígbẹ	gbígbẹ	ADJ	_	_	4	amod	_	Gloss=dry
-6	náà	náà	ADJ	_	_	4	amod	_	Gloss=the
-7	ní	ní	ADP	_	_	9	case	_	Gloss=has
-8	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No|Gloss=“
-9	ilẹ̀	ilẹ̀	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=land
-10	”	”	PUNCT	_	_	12	punct	_	Gloss=”
-11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and
-12	àpapọ̀	àpapọ̀	ADV	_	_	13	advmod	_	Gloss=altogether
-13	omi	omi	NOUN	_	_	3	conj	_	Gloss=water
-14	ní	ní	ADP	_	_	16	case	_	Gloss=in
-15	“	“	PUNCT	_	_	16	punct	_	SpaceAfter=No|Gloss=“
-16	òkun	òkun	NOUN	_	_	13	orphan	_	SpaceAfter=No|Gloss=sea
-17	:	:	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=:
-18	”	”	PUNCT	_	_	20	punct	_	Gloss=”
-19	ọlórun	ọlórun	NOUN	_	_	22	nsubj	_	Gloss=god
-20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and
-21	rí	rí	VERB	_	_	3	conj	_	Gloss=saw
-22	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=it
-23	wí	wí	VERB	_	_	26	mark	_	Gloss=that
-24	pé	pé	SCONJ	_	_	26	mark	_	Gloss=that
-25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it
-26	dára	dára	ADJ	_	_	22	acl	_	SpaceAfter=No|Gloss=good
-27	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.10
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.10
+3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.10
+4	ilẹ̀	ilẹ̀	NOUN	_	_	3	obj	_	Gloss=land|Ref=GEN_1.10
+5	gbígbẹ	gbígbẹ	ADJ	_	_	4	amod	_	Gloss=dry|Ref=GEN_1.10
+6	náà	náà	ADJ	_	_	4	amod	_	Gloss=the|Ref=GEN_1.10
+7	ní	ní	ADP	_	_	9	case	_	Gloss=has|Ref=GEN_1.10
+8	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=GEN_1.10|SpaceAfter=No
+9	Ilẹ̀	ilẹ̀	NOUN	_	_	3	xcomp	_	Gloss=land|Ref=GEN_1.10|SpaceAfter=No
+10	”	”	PUNCT	_	_	9	punct	_	Gloss=”|Ref=GEN_1.10
+11	àti	àti	CCONJ	_	_	13	cc	_	Gloss=and|Ref=GEN_1.10
+12	àpapọ̀	àpapọ̀	ADV	_	_	13	advmod	_	Gloss=altogether|Ref=GEN_1.10
+13	omi	omi	NOUN	_	_	3	conj	_	Gloss=water|Ref=GEN_1.10
+14	ní	ní	ADP	_	_	16	case	_	Gloss=in|Ref=GEN_1.10
+15	“	“	PUNCT	_	_	16	punct	_	Gloss=“|Ref=GEN_1.10|SpaceAfter=No
+16	Òkun	òkun	NOUN	_	_	13	orphan	_	Gloss=sea|Ref=GEN_1.10|SpaceAfter=No
+17	:	:	PUNCT	_	_	16	punct	_	Gloss=:|Ref=GEN_1.10|SpaceAfter=No
+18	”	”	PUNCT	_	_	16	punct	_	Gloss=”|Ref=GEN_1.10
+19	Ọlórun	ọlórun	NOUN	_	_	21	nsubj	_	Gloss=god|Ref=GEN_1.10
+20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and|Ref=GEN_1.10
+21	rí	rí	VERB	_	_	3	conj	_	Gloss=saw|Ref=GEN_1.10
+22	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=it|Ref=GEN_1.10
+23	wí	wí	SCONJ	_	_	26	mark	_	Gloss=that|Ref=GEN_1.10
+24	pé	pé	SCONJ	_	_	26	mark	_	Gloss=that|Ref=GEN_1.10
+25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it|Ref=GEN_1.10
+26	dára	dára	ADJ	_	_	22	acl	_	Gloss=good|Ref=GEN_1.10|SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.10
 
 ~~~
 

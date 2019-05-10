@@ -16,7 +16,7 @@ Family: Indo-European, Celtic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
-The following people have contributed to making this treebank part of UD: Teresa Lynn, Jennifer Foster.
+The following people have contributed to making this treebank part of UD: Teresa Lynn, Jennifer Foster, Abigail Walsh Sarah McGuinness.
 
 Repository: [UD_Irish-IDT](https://github.com/UniversalDependencies/UD_Irish-IDT)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_idt22)<br />
@@ -49,26 +49,26 @@ A Universal Dependencies 1020-sentence treebank for modern Irish.
 
 
 The Irish UD Treebank is a conversion of the Irish Dependency Treebank
-(IDT).
+(IDT), which was part of a PhD research project by Teresa Lynn at Dublin City University, Ireland (Lynn, 2016).
 
-IDT development was part of a PhD research project by Teresa Lynn at Dublin City University, Ireland (Lynn, 2016). The IDT data has
-been released on [GitHub] (https://github.com/tlynn747/IrishDependencyTreebank). The Treebank
+---- The IDT data has been released on [GitHub] (https://github.com/tlynn747/IrishDependencyTreebank). The Treebank
 contains 1020 sentences taken from the New Corpus of Ireland-Irish
-(NCII), with text from books, newswire, websites and other media. These sentences are a subset of a gold-standard POS-tagged corpus for Irish.
+(NCII), with text from books, newswire, websites and other media. These sentences are a subset of a gold-standard POS-tagged corpus for Irish. ----
 
 The conversion from the IDT annotation scheme to the UD annotation scheme was designed by Teresa Lynn and Jennifer Foster at Dublin City University, Ireland. The mapping to UD is reported in Lynn et al., (2016)
 
-The UD Treebank is split into three sets as follows:
+The UD Treebank is split into two sets as follows:
 
 * 454 trees (test)
-* 445 trees - 11,533 tokens (dev)
-* 121 trees - 3425 tokens (train)
+* 566 trees (train)
 
 Note: the split was formerly 150- test, 150-dev, 720-train, but have split as above for the 2017 CoNLL shared task on dependency parsing.
 
 ## Acknowledgments
 
 We wish to thank all of the contributors to the original IDT annotation, including Elaine Uí Dhonnchadha for her gold POS-tagged corpus and linguistic advice. We would also like to acknowledge linguistic advice offered by Kevin Scannell in the conversion to UD effort.
+
+Expansion of the IUDT from 2019-2021 is funded by the Irish Government Department of Culture, Heritage and the Gaeltacht.
 
 This research is partially supported by Science Foundation Ireland through the ADAPT Centre for Digital Content Technology. The ADAPT Centre for Digital Content Technology is funded under the SFI Research Centres Programme (Grant 13/RC/2106)
 and is co-funded under the European Regional Development Fund.
@@ -120,15 +120,15 @@ and is co-funded under the European Regional Development Fund.
 </ul>
 
 <ul>
-<li>This corpus contains 34 word types tagged as particles (PART): Mac, Mc, Mhic, Nic, O', Uí, a, a', ab, an, ar, ba, d', de, do, faoina, go, gur, ina, inar, is, le, lena, lenar, n', n-a, nach, ná, nár, ní, níor, o, trasna, Ó</li>
+<li>This corpus contains 35 word types tagged as particles (PART): Mac, Mc, Mhic, Nic, O', Uí, a, a', ab, an, ar, ba, d', de, do, faoina, go, gur, ina, inar, is, le, lena, lenar, n', n-a, nach, ná, nár, ní, níor, níos, o, trasna, Ó</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): cad, ceachtar, cibé, cé, céard, ea, eisean, féin, iad, ise, iúd, mise, muid, mé, pé, seisean, seo, siad, sibh, sin, sinn, siúd, sé, sí, tusa, tú, é, í</li>
+<li>This corpus contains 29 lemmas tagged as pronouns (PRON): cad, ceachtar, cibé, cé, céard, ea, eisean, féin, iad, ise, iúd, mise, muid, mé, pé, seisean, seo, siad, sibh, sin, sinn, siúd, sé, sí, that, tusa, tú, é, í</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): a, an, aon, cad, cibé, cé, do, eile, gach, gach_uile, iomaí, leath, mo, na, s, seo, sin, siúd, uile, ár, úd</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): a, an, aon, cad, cibé, cé, do, eile, gach, gach_uile, iomaí, leath, mo, na, s, seo, sin, siúd, the, uile, ár, úd</li>
 </ul>
 
 <ul>
@@ -136,11 +136,10 @@ and is co-funded under the European Regional Development Fund.
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): ar, cad, cé, is, má, ní, seo, sin, sé</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): is</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ar</li>
 </ul>
 
 <ul>
@@ -150,7 +149,8 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Cop
   <ul>
-    <li>AUX: is, ba, gur, ní, nach, b', gurb, níor, ar, gurbh</li>
+    <li>ADP: ar</li>
+    <li>AUX: is, ba, gur, ní, b', nach, gurb, níor, gurbh, mba</li>
     <li>SCONJ: más, dar, ós, Sular, murab</li>
     <li>X: Caidé</li>
   </ul>
@@ -241,10 +241,11 @@ and is co-funded under the European Regional Development Fund.
   <li>Sing
     <ul>
       <li>ADJ: éigin, mór, chéanna, mhaith, mhór, óg, fada, beag, iomlán, ard</li>
-      <li>ADP: sa, ann, den, ina, air, san, leis, ón, don, á</li>
+      <li>ADP: sa, ann, den, ina, air, san, don, leis, ón, á</li>
       <li>AUX-Cop: Sé, Cén</li>
-      <li>DET: an, na, a, mo, do, m', a', 'n, cén, d'</li>
-      <li>NOUN: bith, níos, rud, duine, chuid, fear, féidir, lá, leith, oiread</li>
+      <li>DET: an, na, a, mo, do, m', a', 'n, cén, The</li>
+      <li>NOUN: bith, rud, duine, chuid, fear, féidir, lá, leith, oiread, chéile</li>
+      <li>PART: níos</li>
       <li>PRON: sé, é, sí, mé, í, tú, cén, mise, ea, seisean</li>
       <li>PROPN: Gaeilge, Átha, Bhaile, Seán, hÉireann, Éirinn, Ghaeilge, Mháire, nGaeilge, Éire</li>
       <li>VERB: féach, bíodh, déan, bhíos, cuir, rabhas, Tabhair, faigh, glacaim, leanas</li>
@@ -307,7 +308,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Def
     <ul>
-      <li>DET: an, na, gach, chuile, a', a, 'n, ngach, iomaí</li>
+      <li>DET: an, na, gach, chuile, a', a, 'n, ngach, iomaí, The</li>
       <li>NOUN: fear, bhliain, saol, leabhar, lá, hoíche, áit, bliana, chloig, méid</li>
       <li>NUM: dá, dhá</li>
       <li>PROPN: Gaeilge, hÉireann, Ghaeilge, hEorpa, Coileánach, Afraic, Bheilg, Breathnach, Ceallach, Chaitlín</li>
@@ -403,7 +404,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Int
     <ul>
-      <li>AUX-Cop: nach, an, Cén, cad, nár</li>
+      <li>AUX-Cop: an, nach, Cén, nár</li>
       <li>PART: nach</li>
     </ul>
   </li>
@@ -446,6 +447,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Pres
     <ul>
+      <li>ADP-Cop: ar</li>
       <li>AUX-Cop: is, gur, ní, nach, gurb, an, ar, sea</li>
       <li>VERB: tá, atá, bhfuil, níl, deir, bhaineann, dar, adeir, chuireann, cuirtear</li>
       <li>X: Bhraitheas</li>
@@ -477,9 +479,9 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Art
     <ul>
-      <li>ADP: sa, den, san, ón, don, faoin, sna, fén, ins</li>
+      <li>ADP: sa, den, san, don, ón, faoin, sna, fén, ins</li>
       <li>AUX-Cop: Cén</li>
-      <li>DET: an, na, a, a', 'n</li>
+      <li>DET: an, na, a, a', 'n, The, aon</li>
     </ul>
   </li>
 </ul>
@@ -488,8 +490,8 @@ and is co-funded under the European Regional Development Fund.
   <li>Dem
     <ul>
       <li>AUX-Cop: Seo, Sin</li>
-      <li>DET: seo, sin, eile, úd, s', siúd</li>
-      <li>PRON: sin, seo, siúd, shin, san, in, iúd, súd</li>
+      <li>DET: seo, sin, eile, san, úd, so, s', siúd</li>
+      <li>PRON: sin, seo, siúd, shin, san, in, iúd, súd, that</li>
       <li>X: san, so</li>
     </ul>
   </li>
@@ -516,7 +518,7 @@ and is co-funded under the European Regional Development Fund.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: conas, cá</li>
+      <li>ADV: conas, cá, Cad</li>
       <li>DET: cad, cén</li>
       <li>PRON: cad, cé, cén, céard</li>
     </ul>
@@ -550,7 +552,7 @@ and is co-funded under the European Regional Development Fund.
   <li>Card
     <ul>
       <li>NOUN: céad</li>
-      <li>NUM: dhá, trí, céad, seacht, aon, ceithre, fiche, sé, dá, cúig</li>
+      <li>NUM: dhá, trí, céad, seacht, ceithre, fiche, sé, aon, dá, cúig</li>
     </ul>
   </li>
 </ul>
@@ -641,9 +643,11 @@ and is co-funded under the European Regional Development Fund.
     <ul>
       <li>Yes
         <ul>
+          <li>ADV: KB, i.e.</li>
+          <li>NUM: 1A, 3B, A, S1067</li>
           <li>PROPN: UNDDSMS</li>
           <li>SYM: post@clubsult.com</li>
-          <li>X: Co., Uimh., A, FÁS, I.R., IO, J., P., RTÉ, SEIF</li>
+          <li>X: Co., Uimh., FÁS, A, I.R., IO, J., P., RTÉ, SEIF</li>
         </ul>
       </li>
     </ul>
@@ -660,8 +664,9 @@ and is co-funded under the European Regional Development Fund.
       </li>
       <li>Munster
         <ul>
+          <li>DET: san, so</li>
           <li>VERB: dhein</li>
-          <li>X: san, so, age, dein, des, dhein, fachta, Bhraitheas, chuireas, deineadh</li>
+          <li>X: age, dein, des, dhein, fachta, Bhraitheas, chuireas, deineadh, ná, san</li>
         </ul>
       </li>
       <li>Ulster
@@ -682,10 +687,11 @@ and is co-funded under the European Regional Development Fund.
           <li>ADJ: necessary, other, white</li>
           <li>ADJ-Part: white</li>
           <li>ADP: by</li>
+          <li>DET: The</li>
           <li>NOUN: Office, Regeneration, tasks, cheap</li>
           <li>PROPN: major</li>
           <li>VERB: deemed</li>
-          <li>X: -e, Comptroller-General, Cyrano, Forget, I, Love, May, September, The, TrueType</li>
+          <li>X: -e, Comptroller-General, Cyrano, Forget, I, Love, May, September, TrueType, You</li>
         </ul>
       </li>
     </ul>
@@ -797,8 +803,7 @@ and is co-funded under the European Regional Development Fund.
       <li>Comp
         <ul>
           <li>AUX-Cop: ba</li>
-          <li>NOUN: níos</li>
-          <li>PART: ní</li>
+          <li>PART: níos, ní</li>
         </ul>
       </li>
       <li>Cop
@@ -824,7 +829,7 @@ and is co-funded under the European Regional Development Fund.
       </li>
       <li>Pat
         <ul>
-          <li>PART: Ó, de, Mac, Uí, Nic, Ní, O', Mc, Mhic, O</li>
+          <li>PART: Ó, de, Mac, Uí, Ní, Nic, O', Mc, Mhic, O</li>
         </ul>
       </li>
       <li>Vb
@@ -860,7 +865,7 @@ and is co-funded under the European Regional Development Fund.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: is, má.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: is.</li>
 </ul>
 
 <ul>
@@ -873,12 +878,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (20)</li>
+      <li>VERB--NOUN (22)</li>
       <li>VERB--NOUN-Dat (2)</li>
-      <li>VERB--NOUN-Gen (11)</li>
-      <li>VERB--NOUN-NomAcc (606)</li>
+      <li>VERB--NOUN-Gen (6)</li>
+      <li>VERB--NOUN-NomAcc (610)</li>
       <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
-      <li>VERB--PRON (415)</li>
+      <li>VERB--PRON (416)</li>
     </ul>
   </li>
 </ul>
@@ -886,9 +891,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4)</li>
-      <li>VERB--NOUN-Gen (10)</li>
-      <li>VERB--NOUN-NomAcc (332)</li>
+      <li>VERB--NOUN (5)</li>
+      <li>VERB--NOUN-Gen (5)</li>
+      <li>VERB--NOUN-NomAcc (340)</li>
       <li>VERB--NOUN-NomAcc-ADP(as) (1)</li>
       <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
       <li>VERB--PRON (73)</li>

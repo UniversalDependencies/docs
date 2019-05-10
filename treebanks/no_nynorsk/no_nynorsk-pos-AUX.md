@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Norwegian-Nynorsk: POS Tags: `AUX`
 
-There are 10 `AUX` lemmas (0%), 41 `AUX` types (0%) and 16066 `AUX` tokens (5%).
+There are 11 `AUX` lemmas (0%), 44 `AUX` types (0%) and 16715 `AUX` tokens (6%).
 Out of 17 observed tags, the rank of `AUX` is: 15 in number of lemmas, 12 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>vere, ha, kunne, skulle, vilje, måtte, bli, få, burde, tore</em>
+The 10 most frequent `AUX` lemmas: <em>vere, ha, kunne, skulle, vilje, måtte, verte, bli, få, burde</em>
 
-The 10 most frequent `AUX` types:  <em>er, har, var, kan, skal, vil, må, vore, blir, vere</em>
+The 10 most frequent `AUX` types:  <em>er, har, var, kan, skal, vil, må, vart, vore, blir</em>
 
-The 10 most frequent ambiguous lemmas: <em>vere</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 7733, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 856, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 2), <em>ha</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 2737, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1765, <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>kunne</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1399, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 33), <em>skulle</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1193, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 66, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>vilje</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1063, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 79, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 32), <em>måtte</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 872, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 57), <em>bli</em> (<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 608, <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 572, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>få</em> (<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1206, <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 252, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 95, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>burde</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 244, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 8), <em>tore</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>vere</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 7733, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 856, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 2), <em>ha</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 2737, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1765, <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>kunne</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1399, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 33), <em>skulle</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1193, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 66, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>vilje</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1063, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 79, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 32), <em>måtte</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 872, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 57), <em>verte</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 649, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 403, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 12), <em>bli</em> (<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 608, <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 572, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>få</em> (<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1206, <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 252, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 95, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 1), <em>burde</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 244, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 8)
 
-The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 5259, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 559, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 12, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 1), <em>har</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 2197, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1050, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 7, <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>var</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1343, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 143, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 8, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1), <em>kan</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1023, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 19, <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> 10, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 4), <em>skal</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 919, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 51, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>vil</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 812, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>må</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 707, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 50, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 3), <em>vore</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 403, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 71), <em>blir</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 330, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 284), <em>vere</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 332, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 38)
+The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 5259, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 559, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 12, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 1), <em>har</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 2197, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 1050, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 7, <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> 1), <em>var</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1343, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 143, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 8, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1), <em>kan</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 1023, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 19, <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> 10, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 4), <em>skal</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 919, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 51, <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>vil</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 812, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 2), <em>må</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 707, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 50, <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 3), <em>vart</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 426, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 165, <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1), <em>vore</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 403, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 71), <em>blir</em> (<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 330, <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 284)
 
 
 * <em>er</em>
@@ -51,19 +51,20 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_nynorsk-pos-
   * <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 707: <em>Deigen <b>må</b> ikkje vere for fast , då vert brøda tunge og kjedelege .</em>
   * <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 50: <em>- Når eg sit der lyttar eg mykje , og det <b>må</b> ein jo .</em>
   * <tt><a href="no_nynorsk-pos-X.html">X</a></tt> 3: <em>« Annen kontakt mellom underliggende virksomhet og Stortinget ( for eksempel komitéfraksjoner og enkeltrepresentanter ) <b>må</b> eventuelt avklares med departementet » .</em>
+* <em>vart</em>
+  * <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 426: <em>Og kom representantar for makta på døra , <b>vart</b> dei betalte under bordet .</em>
+  * <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 165: <em>Føremålsparagrafen til foreininga <b>vart</b> lydande :</em>
+  * <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> 1: <em>Melodien til denne og dei seksten andre songane har Ragnar Bjerkreim komponert akkurat så <b>vart</b> og intimt som det høver seg til slike tekster som du mest kan pusta bort .</em>
 * <em>vore</em>
   * <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 403: <em>Du har <b>vore</b> her ei veke .</em>
   * <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 71: <em>Sidan 90-åra har det likevel <b>vore</b> nokre framsteg , meiner Seierstad .</em>
 * <em>blir</em>
   * <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 330: <em>Saka <b>blir</b> følgt opp</em>
   * <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 284: <em>Etter 31. mars <b>blir</b> det full fart i Gats-prosessen .</em>
-* <em>vere</em>
-  * <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> 332: <em>Deigen må ikkje <b>vere</b> for fast , då vert brøda tunge og kjedelege .</em>
-  * <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> 38: <em>Der må <b>vere</b> symmetri mellom medlemmene av granskarfellesskapet .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.100000 (the average of all parts of speech is 1.346565).
+The form / lemma ratio of `AUX` is 4.000000 (the average of all parts of speech is 1.346618).
 
 The 1st highest number of forms (7) was observed with the lemma “bli”: <em>ble, blei, bli, blir, blitt, vart, vorte</em>.
 
@@ -71,32 +72,30 @@ The 2nd highest number of forms (6) was observed with the lemma “vere”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “få”: <em>fekk, fengje, få, får, fått</em>.
 
-`AUX` occurs with 3 features: <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt> (16066; 100% instances), <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt> (14455; 90% instances), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt> (14449; 90% instances)
+`AUX` occurs with 3 features: <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt> (16715; 100% instances), <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt> (15046; 90% instances), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt> (15040; 90% instances)
 
 `AUX` occurs with 7 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 5 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (11692 tokens).
-Examples: <em>er, har, kan, skal, vil, må, blir, bør, får, hev</em>
+The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin` (11855 tokens).
+Examples: <em>er, har, kan, skal, vil, må, blir, vert, bør, får</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="no_nynorsk-dep-aux.html">aux</a></tt> (8486; 53% instances), <tt><a href="no_nynorsk-dep-cop.html">cop</a></tt> (7019; 44% instances), <tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt> (561; 3% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="no_nynorsk-dep-aux.html">aux</a></tt> (8500; 51% instances), <tt><a href="no_nynorsk-dep-cop.html">cop</a></tt> (7019; 42% instances), <tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt> (1196; 7% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (7140; 44% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4911; 31% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3027; 19% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (253; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (248; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (234; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (48; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (4; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (7140; 43% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (5559; 33% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3028; 18% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (253; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (248; 1% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (234; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (48; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (4; 0% instances)
 
-16060 (100%) `AUX` nodes are leaves.
+16692 (100%) `AUX` nodes are leaves.
 
-2 (0%) `AUX` nodes have one child.
+21 (0%) `AUX` nodes have one child.
 
-3 (0%) `AUX` nodes have two children.
+2 (0%) `AUX` nodes have two children.
 
-1 (0%) `AUX` nodes have three or more children.
+The highest child degree of a `AUX` node is 2.
 
-The highest child degree of a `AUX` node is 3.
+Children of `AUX` nodes are attached using 2 different relations: <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (18; 72% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (7; 28% instances)
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (7; 64% instances), <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (4; 36% instances)
-
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 27% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 27% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 9% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (18; 72% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 12% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 4% instances)
 

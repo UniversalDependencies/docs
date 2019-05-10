@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `appos`.
+21 nodes (0%) are attached to their parents as `appos`.
 
-16 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+21 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57142857142857.
 
-The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (3; 19% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (3; 19% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (8; 38% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 8 appos	color:blue
 1	以前	_	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No
-2	不	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	不	_	ADV	_	_	4	advmod	_	SpaceAfter=No
 3	是	_	AUX	_	_	4	cop	_	SpaceAfter=No
 4	這樣	_	PRON	_	_	0	root	_	SpaceAfter=No
 5	的	_	PART	_	_	4	discourse:sp	_	SpaceAfter=No

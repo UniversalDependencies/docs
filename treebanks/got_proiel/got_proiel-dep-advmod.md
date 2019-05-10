@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3841 nodes (7%) are attached to their parents as `advmod`.
+3782 nodes (7%) are attached to their parents as `advmod`.
 
-3120 instances of `advmod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88128091642801.
+3120 instances of `advmod` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90163934426229.
 
-The following 25 pairs of parts of speech are connected with `advmod`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (2726; 71% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (219; 6% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (184; 5% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (159; 4% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (130; 3% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (126; 3% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (98; 3% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (33; 1% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `advmod`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (2533; 67% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (333; 9% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (289; 8% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (175; 5% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (143; 4% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (119; 3% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (52; 1% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (33; 1% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="got_proiel-pos-DET.html">DET</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,13 +40,12 @@ The following 25 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	niu	niu	ADV	Du	PronType=Int	7	advmod	_	ref=MATT_5.46
-2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.46
-3	þai	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=MATT_5.46
-4	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=MATT_5.46
-5	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	ref=MATT_5.46
-6	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	obj	_	ref=MATT_5.46
-7	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.46
+1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	ref=MATT_5.47
+2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.47
+3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT_5.47
+4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	ref=MATT_5.47
+5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	ref=MATT_5.47
+6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.47
 
 ~~~
 
@@ -57,12 +56,13 @@ The following 25 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	niu	niu	ADV	Du	PronType=Int	6	advmod	_	ref=MATT_5.47
-2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.47
-3	motarjos	motareis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT_5.47
-4	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	5	det	_	ref=MATT_5.47
-5	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	obj	_	ref=MATT_5.47
-6	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.47
+1	niu	niu	ADV	Du	PronType=Int	7	advmod	_	ref=MATT_5.46
+2	jah	jah	ADV	Df	_	3	advmod	_	ref=MATT_5.46
+3	þai	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=MATT_5.46
+4	þiudo	þiuda	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=MATT_5.46
+5	þata	sa	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	ref=MATT_5.46
+6	samo	sama	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	obj	_	ref=MATT_5.46
+7	taujand	taujan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.46
 
 ~~~
 

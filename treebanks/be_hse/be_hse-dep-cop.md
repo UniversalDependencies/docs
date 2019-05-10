@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `cop`.
+28 nodes (0%) are attached to their parents as `cop`.
 
-19 instances of `cop` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.39130434782609.
+23 instances of `cop` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96428571428571.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (13; 57% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (5; 22% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (3; 13% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (12; 43% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (9; 32% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (5; 18% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	халодны	халодны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	красавік	красавік	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 4	у	у	ADP	IN	_	5	case	_	_
-5	Беларусі	беларусь	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
 6	быў	быць	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
 7	у	у	ADP	IN	_	9	case	_	_
 8	1955	1955	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_

@@ -9,45 +9,45 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-125 tokens (1%) have a non-empty value of `Foreign`.
-81 types (1%) occur at least once with a non-empty value of `Foreign`.
-79 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (50; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (40; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (31; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-### `PROPN`
-
-50 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (50; 100%).
-
-`PROPN` tokens may have the following values of `Foreign`:
-
-* `Yes` (50; 100% of non-empty `Foreign`): <em>ART, ForcePower, iPhone, playstation, Abracadabra, Aluminum, Apple, Bird, Born, Bravoavia</em>
-* `EMPTY` (750): <em>жириновский, ЛДПР, парнас, яблоко, @yabloko, России, @Zhirinovskiy, жириновского, Женя, Россия</em>
-
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (44) occur only with one value of `Foreign`.
+239 tokens (1%) have a non-empty value of `Foreign`.
+176 types (1%) occur at least once with a non-empty value of `Foreign`.
+176 lemmas (2%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_taiga-pos-X.html">X</a></tt> (136; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (63; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `X`
 
-40 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (17% of all `X` tokens) have a non-empty value of `Foreign`.
+136 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (29% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (40; 100% of non-empty `Foreign`): <em>*, Source, via, #art, #atlasweekend, #echo, #green_sun, #life, #performance, #relax</em>
-* `EMPTY` (198): <em>@xxxxxx, http://xxxxxx, https://xxxxxx, +79051950942, 16:00, @xxxxxxx, @yavlinsky, #bossa_nova, #easy_listening, #instrumental</em>
+* `Yes` (136; 100% of non-empty `Foreign`): <em>*, @screened-200, @screened-134, @screened-15, #astrakhan, #fishing, #gopro, #russia, #sochifornia, @screened-150</em>
+* `EMPTY` (341): <em>@xxxxxx, http://xxxxxx, https://xxxxxx, п, ы, #семейныйотдых, #астраханскаяобласть, #базавастрахани, #базанакалиновке, #базаотдыха</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (110) occur only with one value of `Foreign`.
+
+### `PROPN`
+
+63 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 100%).
+
+`PROPN` tokens may have the following values of `Foreign`:
+
+* `Yes` (63; 100% of non-empty `Foreign`): <em>ART, ForcePower, iPhone, playstation, :D, @screened-210, Abracadabra, Aluminum, Apple, Billy</em>
+* `EMPTY` (1236): <em>жириновский, ЛДПР, парнас, яблоко, России, @yabloko, Россия, Русь, кпрф, крым</em>
+
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (57) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
-31 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+33 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (31; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (33; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (31; 100% of non-empty `Foreign`): <em>RT</em>
-* `EMPTY` (4621): <em>раз, лет, день, человек, баба, детей, мл, партии, пропитка, воды</em>
+* `Yes` (33; 100% of non-empty `Foreign`): <em>RT, #hotel_grafit, крейзи</em>
+* `EMPTY` (9088): <em>лет, день, раз, время, люди, море, года, фото, человек, детей</em>
 
 ### `PART`
 
@@ -58,7 +58,25 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>PROFIT, ХАЙ, Хэллоу</em>
-* `EMPTY` (763): <em>не, и, же, бы, только, вот, да, даже, ни, это</em>
+* `EMPTY` (1364): <em>не, и, же, вот, только, да, это, даже, ну, ли</em>
+
+### `CCONJ`
+
+2 <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
+
+`CCONJ` tokens may have the following values of `Foreign`:
+
+* `Yes` (2; 100% of non-empty `Foreign`): <em>А</em>
+* `EMPTY` (1741): <em>и, а, но, или, да, ни, то, +, либо, зато</em>
+
+### `INTJ`
+
+1 <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Foreign`.
+
+`INTJ` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>Nice</em>
+* `EMPTY` (135): <em>о, ой, увы, спасибо, ура, эх, ааа, браво, гав, ох</em>
 
 ### `VERB`
 
@@ -69,15 +87,16 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>МАНДРУЕ</em>
-* `EMPTY` (2356): <em>есть, можно, может, нет, надо, было, стоит, быть, добавить, показать</em>
+* `EMPTY` (4750): <em>есть, нет, может, можно, надо, сказал, стоит, говорит, вижу, понимаю</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (11; 100%),
-<tt>X --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> X</tt> (8; 100%),
-<tt>X --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> X</tt> (6; 100%),
-<tt>X --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (3; 100%),
+<tt>PROPN --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (14; 100%),
+<tt>X --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> X</tt> (10; 100%),
+<tt>X --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (5; 100%),
+<tt>PROPN --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2; 67%),
+<tt>PROPN --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> X</tt> (1; 100%),
 <tt>X --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1; 100%).

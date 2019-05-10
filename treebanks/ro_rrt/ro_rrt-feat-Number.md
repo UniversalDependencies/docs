@@ -141,7 +141,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 5525 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4808; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4623; 84%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3975; 72%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4817; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4623; 84%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (3975; 72%).
 
 `NUM` tokens may have the following values of `Number`:
 

@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 5 nmod:tmod	color:blue
 1	Deci	deci	CCONJ	Ccssp	Polarity=Pos	9	cc	_	SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	1	punct	_	_
+2	,	,	PUNCT	COMMA	_	9	punct	_	_
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
 4	această	acest	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	5	det	_	_
 5	perioadă	perioadă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	9	nmod:tmod	_	SpaceAfter=No

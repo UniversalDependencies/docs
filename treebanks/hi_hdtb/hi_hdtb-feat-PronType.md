@@ -78,7 +78,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Dem` (4724; 64% of non-empty `PronType`): इस, यह, इन, उस, इसी, ये, ऐसे, जो, उन, जिस
 * `Ind` (2561; 35% of non-empty `PronType`): कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत
 * `Int` (70; 1% of non-empty `PronType`): क्या, किस, किन, कितने, कौन, कितना, कितनी, क्‍या
-* `EMPTY` (170): सारी, इतना, इतने, आधा, थोड़ी, सारे, इतनी, सारा, आधे, कितनी
+* `EMPTY` (170): सारी, इतना, इतने, थोड़ी, आधा, सारे, इतनी, सारा, आधे, कितनी
 
 <table>
   <tr><th>Paradigm <i>कौन</i></th><th><tt>Int</tt></th><th><tt>Dem</tt></th></tr>

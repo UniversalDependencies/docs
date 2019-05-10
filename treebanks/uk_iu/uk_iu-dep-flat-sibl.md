@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-flat.html">flat</a></tt>.
 There are also 6 other language-specific subtypes of `flat`: <tt><a href="uk_iu-dep-flat-abs.html">flat:abs</a></tt>, <tt><a href="uk_iu-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_iu-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_iu-dep-flat-repeat.html">flat:repeat</a></tt>, <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>.
 
-52 nodes (0%) are attached to their parents as `flat:sibl`.
+69 nodes (0%) are attached to their parents as `flat:sibl`.
 
-52 instances of `flat:sibl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.03846153846154.
+69 instances of `flat:sibl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.7536231884058.
 
-The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (15; 29% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (9; 17% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (20; 29% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (13; 19% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (10; 14% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (6; 9% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,6 +51,38 @@ The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a
 
 
 ~~~ conllu
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 21 flat:sibl	color:blue
+1	Людина	людина	NOUN	Ncfsny	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	Id=1f5c|LTranslit=ľudyna|Translit=Ľudyna
+2	живе	жити	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=1f5d|LTranslit=žyty|Translit=žyve
+3	наче	наче	PART	Q	_	6	discourse	6:discourse	Id=1f5e|LTranslit=nače|Translit=nače
+4	в	в	ADP	Spsl	Case=Loc	6	case	6:case	Id=1f5f|LTranslit=v|Translit=v
+5	іншому	інший	DET	Pi--m-sla	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	6	det	6:det	Id=1f5g|LTranslit=inšyj|Translit=inšomu
+6	світі	світ	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	2:obl	Id=1f5h|LTranslit=svit|SpaceAfter=No|Translit=sviti
+7	,	,	PUNCT	U	_	8	punct	8:punct	Id=1f5i|LTranslit=,|Translit=,
+8	з’являється	з’являтися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	Id=1f5j|LTranslit=zjavľаtyśа|Translit=zjavľаěťśа
+9	у	у	ADP	Spsg	Case=Gen	10	case	10:case	Id=1f5k|LTranslit=u|Translit=u
+10	неї	вона	PRON	Pp-3f-sgn	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	8:obl	Id=1f5l|LTranslit=vona|Translit=neji
+11	надзвичайна	надзвичайний	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	12	amod	12:amod	Id=1f5m|LTranslit=nadzvyčajnyj|Translit=nadzvyčajna
+12	вразливість	вразливість	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj|15:nsubj:rel	Id=1f5n|LTranslit=vrazlyvisť|SpaceAfter=No|Translit=vrazlyvisť
+13	,	,	PUNCT	U	_	15	punct	15:punct	Id=1f5o|LTranslit=,|Translit=,
+14	що	що	SCONJ	Css	_	15	mark	15:mark	Id=1f5p|LTranslit=ščo|Translit=ščo
+15	триває	тривати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	Id=1f5q|LTranslit=tryvaty|Translit=tryvaě
+16	дні	день	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	15:obj	Id=1f5r|LTranslit=deń|SpaceAfter=No|Translit=dni
+17	,	,	PUNCT	U	_	18	punct	18:punct	Id=1f5s|LTranslit=,|Translit=,
+18	тижні	тиждень	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	conj	15:obj|16:conj	Id=1f5t|LTranslit=tyždeń|SpaceAfter=No|Translit=tyžni
+19	,	,	PUNCT	U	_	20	punct	20:punct	Id=1f5u|LTranslit=,|Translit=,
+20	іноді	іноді	ADV	Pi------r	PronType=Ind	16	conj	15:obj|16:conj	Id=1f5v|LTranslit=inodi|Translit=inodi
+21	місяці	місяць	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	flat:sibl	20:flat:sibl	Id=1f5w|LTranslit=miśаć|SpaceAfter=No|Translit=miśаci
+22	.	.	PUNCT	U	_	8	punct	8:punct	Id=1f5x|LTranslit=.|Translit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
@@ -60,25 +92,6 @@ The following 14 pairs of parts of speech are connected with `flat:sibl`: <tt><a
 2	цілісні	цілісний	ADJ	Ao--pns	Case=Nom|Number=Plur	0	root	0:root	Id=2054|LTranslit=cilisnyj|Translit=cilisni
 3	лінійні	лінійний	ADJ	Ao--pns	Case=Nom|Number=Plur	2	flat:sibl	2:flat:sibl	Id=2055|LTranslit=linijnyj|SpaceAfter=No|Translit=linijni
 4	.	.	PUNCT	U	_	2	punct	2:punct	Id=2056|LTranslit=.|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 flat:sibl	color:blue
-1	Форма	форма	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	Id=0mtr|LTranslit=forma|Translit=Forma
-2	його	його	DET	Ppp3f-sga	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes	3	det	3:det	Id=0mts|LTranslit=joho|Translit=joho
-3	улоговини	улоговина	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod	Id=0mtt|LTranslit=ulohovyna|Translit=ulohovyny
-4	блюдцеподібна	блюдцеподібний	ADJ	Ao-fsns	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	Id=0mtu|LTranslit=bľudcepodibnyj|Translit=bľudcepodibna
-5	з	з	ADP	Spsi	Case=Ins	8	case	8:case	Id=0mtv|LTranslit=z|Translit=z
-6	рівним	рівний	ADJ	Afpnsif	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	amod	8:amod	Id=0mtw|LTranslit=rivnyj|Translit=rivnym
-7	плоским	плоский	ADJ	Afpnsif	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	amod	8:amod	Id=0mtx|LTranslit=ploskyj|Translit=ploskym
-8	дном	дно	NOUN	Ncnsin	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	flat:sibl	4:flat:sibl	Id=0mty|LTranslit=dno|SpaceAfter=No|Translit=dnom
-9	.	.	PUNCT	U	_	4	punct	4:punct	Id=0mtz|LTranslit=.|Translit=.
 
 ~~~
 

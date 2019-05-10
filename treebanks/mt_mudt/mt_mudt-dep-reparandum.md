@@ -46,8 +46,8 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 22	Viċi	_	ADJ	ADJ	_	24	amod	_	_
 23	Prim	_	ADJ	ADJ	_	24	amod	_	_
 24	Ministru	_	NOUN	NOUN	_	28	nsubj	_	_
-25	m'	_	PART	NEG	_	28	aux:neg	_	SpaceAfter=No
-26	huwiex	_	PART	PRON_PERS_NEG	_	28	aux:neg	_	_
+25	m'	_	PART	NEG	_	28	advmod:neg	_	SpaceAfter=No
+26	huwiex	_	AUX	PRON_PERS_NEG	_	28	aux:neg	_	_
 27	qed	_	AUX	PROG	_	28	aux:part	_	_
 28	jgħid	_	VERB	VERB	_	0	root	_	_
 29	li	_	SCONJ	COMP	_	36	mark	_	_
@@ -69,8 +69,8 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 45	kulħadd	_	PRON	PRON_INDEF	_	44	nmod:poss	_	SpaceAfter=No
 46	,	_	PUNCT	X_PUN	_	41	punct	_	_
 47	lanqas	_	ADV	FOC	_	52	discourse	_	_
-48	m'	_	PART	NEG	_	52	aux:neg	_	SpaceAfter=No
-49	hu	_	PRON	PRON_PERS	_	52	aux:neg	_	_
+48	m'	_	PART	NEG	_	52	advmod:neg	_	SpaceAfter=No
+49	hu	_	AUX	PRON_PERS	_	52	aux:neg	_	_
 50	qiegħed	_	AUX	PART_ACT	_	52	cop	_	_
 51	hawn	_	ADV	ADV	_	52	advmod	_	_
 52	preżenti	_	ADJ	ADJ	_	41	advcl	_	SpaceAfter=No

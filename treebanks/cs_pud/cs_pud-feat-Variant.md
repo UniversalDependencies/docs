@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-598 tokens (3%) have a non-empty value of `Variant`.
+599 tokens (3%) have a non-empty value of `Variant`.
 199 types (3%) occur at least once with a non-empty value of `Variant`.
 165 lemmas (3%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (378; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (220; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (379; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (220; 1% instances).
 
 ### `PRON`
 
-378 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Variant`.
+379 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (378; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (378; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (358; 95%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (348; 92%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (348; 92%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (348; 92%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (321; 85%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (379; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (379; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (359; 95%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (349; 92%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (349; 92%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (349; 92%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (322; 85%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (378; 100% of non-empty `Variant`): <em>se, si, ho, mu, mě, mi</em>
+* `Short` (379; 100% of non-empty `Variant`): <em>se, si, ho, mu, mě, mi</em>
 
 ### `ADJ`
 

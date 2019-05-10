@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-76648 tokens (16%) have a non-empty value of `Degree`.
+76545 tokens (15%) have a non-empty value of `Degree`.
 21375 types (34%) occur at least once with a non-empty value of `Degree`.
 8361 lemmas (29%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (65371; 13% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10705; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (572; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (65371; 13% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10602; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (572; 0% instances).
 
 ### `ADJ`
 
@@ -86,16 +86,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-10705 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (39% of all `ADV` tokens) have a non-empty value of `Degree`.
+10602 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10705; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10321; 96%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10602; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10218; 96%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1516; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
-* `Pos` (8740; 82% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, vlastně</em>
+* `Pos` (8637; 81% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</em>
 * `Sup` (449; 4% of non-empty `Degree`): <em>nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</em>
-* `EMPTY` (16785): <em>tak, také, jak, již, už, ještě, pak, kde, velmi, třeba</em>
+* `EMPTY` (16963): <em>tak, také, jak, již, už, ještě, pak, kde, velmi, třeba</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -113,7 +113,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (572; 100% of non-empty `Degree`): <em>každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</em>
-* `EMPTY` (19445): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19198): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ## Relations with Agreement in `Degree`
 

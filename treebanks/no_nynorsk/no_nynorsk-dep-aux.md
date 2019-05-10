@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt>.
 
-8486 nodes (3%) are attached to their parents as `aux`.
+8500 nodes (3%) are attached to their parents as `aux`.
 
-8451 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83478670751827.
+8465 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83352941176471.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (6762; 80% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (1325; 16% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (286; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (6762; 80% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (1338; 16% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (287; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	vere	vere	AUX	_	VerbForm=Inf	6	cop	_	_
 5	for	for	ADV	_	_	6	advmod	_	_
 6	fast	fast	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-7	,	$,	PUNCT	_	_	6	punct	_	_
+7	,	$,	PUNCT	_	_	9	punct	_	_
 8	då	då	ADV	_	_	9	advmod	_	_
 9	vert	verte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	brøda	brød	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	9	nsubj	_	_

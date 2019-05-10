@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (1%) are attached to their parents as `nummod`.
+153 nodes (1%) are attached to their parents as `nummod`.
 
 126 instances of `nummod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09090909090909.
+Average distance between parent and child is 1.08496732026144.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (142; 92% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (145; 95% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -70,24 +70,34 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	nummod	_	_
-2	semana	semana	NOUN	Scfs	Gender=Fem|Number=Sing	5	obl	_	_
-3	despois	despois	ADV	Wm	_	2	advmod	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	2	punct	_	_
-5	semella	semellar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	que	que	SCONJ	Cs	_	10	mark	_	_
-7	Pérez	pérez	PROPN	Sp00	_	10	nsubj	_	_
-8	Touriño	touriño	PROPN	Sp00	_	7	flat:name	_	_
-9	xa	xa	ADV	Wn	_	10	advmod	_	_
-10	tiña	ter	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
-11	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	estratexia	estratexia	NOUN	Scfs	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
-13	.	.	PUNCT	Q.	_	5	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 21 nummod	color:blue
+1	Comparte	compartir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	goberno	goberno	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
+3	municipal	municipal	ADJ	A0ms	Gender=Masc|Number=Sing	2	amod	_	_
+4	con	con	ADP	P	AdpType=Prep	6	case	_	_
+5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	Q,	_	6	punct	_	_
+8	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
+9	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+10	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	alcaldía	alcaldía	NOUN	Scfs	Gender=Fem|Number=Sing	9	obj	_	_
+12	de	de	ADP	P	AdpType=Prep	13	case	_	_
+13	Pontevedra	Pontevedra	PROPN	Sp00	_	11	nmod	_	_
+14	e	e	CCONJ	Cc	_	16	cc	_	_
+15	dez	dez	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	16	nummod	_	_
+16	concelleiros	concelleiro	NOUN	Scmp	Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Q,	_	16	punct	_	_
+18	fronte	fronte	NOUN	Scfs	Gender=Fem|Number=Sing	22	case	_	_
+19	a	a	ADP	P	AdpType=Prep	18	fixed	_	_
+20	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	cinco	cinco	NUM	Ncnmp	Gender=Masc|Number=Plur|NumType=Card	22	nummod	_	_
+22	socialistas	socialista	ADJ	A0mp	Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

@@ -68,7 +68,7 @@ Sentences in the W2C corpus are shuffled.
 
 ## Relations
 
-[acl](hsb_ufal-dep-acl.html) – [advcl](hsb_ufal-dep-advcl.html) – [advmod](hsb_ufal-dep-advmod.html) – [advmod:emph](hsb_ufal-dep-advmod-emph.html) – [amod](hsb_ufal-dep-amod.html) – [appos](hsb_ufal-dep-appos.html) – [aux](hsb_ufal-dep-aux.html) – [aux:pass](hsb_ufal-dep-aux-pass.html) – [case](hsb_ufal-dep-case.html) – [cc](hsb_ufal-dep-cc.html) – [ccomp](hsb_ufal-dep-ccomp.html) – [compound](hsb_ufal-dep-compound.html) – [conj](hsb_ufal-dep-conj.html) – [cop](hsb_ufal-dep-cop.html) – [csubj](hsb_ufal-dep-csubj.html) – [dep](hsb_ufal-dep-dep.html) – [det](hsb_ufal-dep-det.html) – [det:numgov](hsb_ufal-dep-det-numgov.html) – [discourse](hsb_ufal-dep-discourse.html) – [expl:pass](hsb_ufal-dep-expl-pass.html) – [expl:pv](hsb_ufal-dep-expl-pv.html) – [fixed](hsb_ufal-dep-fixed.html) – [flat](hsb_ufal-dep-flat.html) – [flat:foreign](hsb_ufal-dep-flat-foreign.html) – [goeswith](hsb_ufal-dep-goeswith.html) – [goeswith:alt](hsb_ufal-dep-goeswith-alt.html) – [iobj](hsb_ufal-dep-iobj.html) – [list](hsb_ufal-dep-list.html) – [mark](hsb_ufal-dep-mark.html) – [nmod](hsb_ufal-dep-nmod.html) – [nsubj](hsb_ufal-dep-nsubj.html) – [nsubj:pass](hsb_ufal-dep-nsubj-pass.html) – [nummod](hsb_ufal-dep-nummod.html) – [nummod:gov](hsb_ufal-dep-nummod-gov.html) – [obj](hsb_ufal-dep-obj.html) – [obl](hsb_ufal-dep-obl.html) – [orphan](hsb_ufal-dep-orphan.html) – [parataxis](hsb_ufal-dep-parataxis.html) – [punct](hsb_ufal-dep-punct.html) – [root](hsb_ufal-dep-root.html) – [xcomp](hsb_ufal-dep-xcomp.html)
+[acl](hsb_ufal-dep-acl.html) – [advcl](hsb_ufal-dep-advcl.html) – [advmod](hsb_ufal-dep-advmod.html) – [advmod:emph](hsb_ufal-dep-advmod-emph.html) – [amod](hsb_ufal-dep-amod.html) – [appos](hsb_ufal-dep-appos.html) – [aux](hsb_ufal-dep-aux.html) – [aux:pass](hsb_ufal-dep-aux-pass.html) – [case](hsb_ufal-dep-case.html) – [cc](hsb_ufal-dep-cc.html) – [ccomp](hsb_ufal-dep-ccomp.html) – [compound](hsb_ufal-dep-compound.html) – [conj](hsb_ufal-dep-conj.html) – [cop](hsb_ufal-dep-cop.html) – [csubj](hsb_ufal-dep-csubj.html) – [dep](hsb_ufal-dep-dep.html) – [dep:alt](hsb_ufal-dep-dep-alt.html) – [det](hsb_ufal-dep-det.html) – [det:numgov](hsb_ufal-dep-det-numgov.html) – [discourse](hsb_ufal-dep-discourse.html) – [expl:pass](hsb_ufal-dep-expl-pass.html) – [expl:pv](hsb_ufal-dep-expl-pv.html) – [fixed](hsb_ufal-dep-fixed.html) – [flat](hsb_ufal-dep-flat.html) – [flat:foreign](hsb_ufal-dep-flat-foreign.html) – [iobj](hsb_ufal-dep-iobj.html) – [list](hsb_ufal-dep-list.html) – [mark](hsb_ufal-dep-mark.html) – [nmod](hsb_ufal-dep-nmod.html) – [nsubj](hsb_ufal-dep-nsubj.html) – [nsubj:pass](hsb_ufal-dep-nsubj-pass.html) – [nummod](hsb_ufal-dep-nummod.html) – [nummod:gov](hsb_ufal-dep-nummod-gov.html) – [obj](hsb_ufal-dep-obj.html) – [obl](hsb_ufal-dep-obl.html) – [orphan](hsb_ufal-dep-orphan.html) – [parataxis](hsb_ufal-dep-parataxis.html) – [punct](hsb_ufal-dep-punct.html) – [root](hsb_ufal-dep-root.html) – [xcomp](hsb_ufal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -117,11 +117,11 @@ Sentences in the W2C corpus are shuffled.
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): być, posłužić</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): być</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: być, posłužić</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: być</li>
 </ul>
 
 <ul>
@@ -148,7 +148,7 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: być, posłužić</li>
+    <li>AUX: być</li>
     <li>VERB: nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</li>
   </ul>
   </li>
@@ -876,7 +876,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(wokoło) (1)</li>
       <li>VERB-Fin--NOUN-Nom (328)</li>
       <li>VERB-Fin--PRON-Nom (28)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Nom (27)</li>
     </ul>
@@ -889,7 +889,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (175)</li>
+      <li>VERB-Fin--NOUN-Acc (176)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (9)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(přez) (2)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
@@ -911,7 +911,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(k) (2)</li>
-      <li>VERB-Inf--NOUN-Gen (2)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
@@ -957,7 +957,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>goeswith:alt</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>dep:alt</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-3451 tokens (14%) have a non-empty value of `Definite`.
+3449 tokens (14%) have a non-empty value of `Definite`.
 18 types (0%) occur at least once with a non-empty value of `Definite`.
 2 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3450; 14% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3448; 13% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `DET`
 
-3450 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
+3448 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3450; 100%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2736; 79%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1829; 53%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3448; 100%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2734; 79%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1829; 53%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (2988; 87% of non-empty `Definite`): <em>o, a, os, as, lo, la, los, las</em>
-* `Ind` (462; 13% of non-empty `Definite`): <em>un, unha, uns, unhas</em>
+* `Ind` (460; 13% of non-empty `Definite`): <em>un, unha, uns, unhas</em>
 * `EMPTY` (670): <em>súa, seu, esta, este, seus, nosa, todo, súas, todos, ese</em>
 
 ### `PRON`
@@ -35,5 +35,5 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (1; 100% of non-empty `Definite`): <em>a</em>
-* `EMPTY` (1372): <em>que, se, o, lle, nos, a, me, iso, lo, quen</em>
+* `EMPTY` (1371): <em>que, se, o, lle, nos, a, me, iso, lo, quen</em>
 

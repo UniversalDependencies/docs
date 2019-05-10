@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
 26246 tokens (7%) have a non-empty value of `Aspect`.
-1021 types (5%) occur at least once with a non-empty value of `Aspect`.
-429 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+997 types (5%) occur at least once with a non-empty value of `Aspect`.
+421 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (16736; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (9502; 3% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (1147; 12% of non-empty `Aspect`): सकता, जाता, सकते, सकती, जाती, जाते, रहती, देते, रहता, पड़ता
+* `Imp` (1147; 12% of non-empty `Aspect`): सकता, जाता, सकते, सकती, जाती, जाते, रहती, देते, पड़ता, रहता
 * `Perf` (8355; 88% of non-empty `Aspect`): गया, गई, गए, हुए, दिया, रहे, रही, रहा, दी, लिया
 * `EMPTY` (16528): है, हैं, था, थी, जा, थे, जाने, चाहिए, जाएगा, जाएगी
 

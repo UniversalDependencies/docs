@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
 26103 tokens (7%) have a non-empty value of `Voice`.
-1564 types (8%) occur at least once with a non-empty value of `Voice`.
-492 lemmas (3%) occur at least once with a non-empty value of `Voice`.
+1543 types (8%) occur at least once with a non-empty value of `Voice`.
+483 lemmas (3%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 5 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (22582; 6% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (3516; 1% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`

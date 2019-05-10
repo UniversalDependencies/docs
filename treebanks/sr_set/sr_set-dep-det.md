@@ -9,79 +9,80 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="sr_set-dep-det-numgov.html">det:numgov</a></tt>.
 
-1463 nodes (2%) are attached to their parents as `det`.
+1749 nodes (2%) are attached to their parents as `det`.
 
-1460 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27477785372522.
+1745 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29331046312178.
 
-The following 16 pairs of parts of speech are connected with `det`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1387; 95% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
-2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
-4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
-5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
-8	među	među	ADP	_	Case=Ins	9	case	_	_
-9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	Gotovo	gotovo	ADV	_	Degree=Pos	2	advmod	_	_
-2	sve	sav	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	3	det	_	_
-3	zemlje	zemlja	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-4	ocenjene	oceniti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
-5	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
-6	sa	sa	ADP	_	Case=Ins	8	case	_	_
-7	između	između	ADP	_	Case=Gen	8	case	_	_
-8	4	4	NUM	_	NumType=Card	4	obl	_	_
-9	-	-	PUNCT	_	_	11	punct	_	_
-10	i	i	CCONJ	_	_	11	cc	_	_
-11	4	4	NUM	_	NumType=Card	8	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
+The following 23 pairs of parts of speech are connected with `det`: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1639; 94% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (52; 3% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 det	color:blue
-1	Međutim	međutim	ADV	_	Degree=Pos	4	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	Ulemek	Ulemek	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	negira	negirati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-5	bilo	bilo	PART	_	_	7	det	_	_
-6	kakvu	kakav	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	5	flat	_	_
-7	umešanost	umešanost	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
-8	u	u	ADP	_	Case=Acc	9	case	_	_
-9	ubistvo	ubistvo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
-10	ističući	isticati	ADV	_	VerbForm=Part	4	xcomp	_	_
-11	da	da	SCONJ	_	_	13	mark	_	_
-12	ga	on	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
-13	koriste	koristiti	VERB	_	Number=Plur|Person=3|Tense=Pres	10	ccomp	_	_
-14	kao	kao	SCONJ	_	_	16	case	_	_
-15	žrtvenog	žrtven	ADJ	_	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	jarca	jarac	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 det	color:blue
+1	Esat	Esat	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	Beriša	Beriša	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+3	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	jedan	jedan	NUM	Mlcmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	nummod	_	_
+5	takav	takav	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	primer	primer	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	Ali	ali	CCONJ	Cc	_	6	discourse	_	_
+2	u	u	ADP	Sl	Case=Loc	5	case	_	_
+3	samoj	sam	ADJ	Agpfsly	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	det	_	_
+4	njegovoj	njegov	DET	Ps3fsl	Case=Loc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	izjavi	izjava	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+6	vidimo	videti	VERB	Vmr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	srž	srž	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	problema	problem	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 22 det	color:blue
+1	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No
+2	[	[	PUNCT	Z	_	3	punct	_	SpaceAfter=No
+3	Monopoli	monopol	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+4	]	]	PUNCT	Z	_	3	punct	_	_
+5	direktno	direktno	ADV	Rgp	Degree=Pos	6	advmod	_	_
+6	podstiču	podsticati	VERB	Vmr3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	inflaciju	inflacija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	podižući	podizati	ADV	Rr	Tense=Pres|VerbForm=Conv	6	xcomp	_	_
+9	cene	cena	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_
+10	grejanja	grejanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	Z	_	14	punct	_	_
+14	usluga	usluga	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	10	conj	_	_
+15	odnošenja	odnošenje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	smeća	smeće	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+17	,	,	PUNCT	Z	_	9	punct	_	_
+18	a	a	CCONJ	Cc	_	20	cc	_	_
+19	indirektno	indirektno	ADV	Rgp	Degree=Pos	20	advmod	_	_
+20	povećanjem	povećanje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	8	conj	_	_
+21	plata	plata	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	20	obl	_	_
+22	svojih	svoj	DET	Px-mpg	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	23	det	_	_
+23	zaposlenih	zaposlen	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	Z	_	6	punct	_	_
 
 ~~~
 

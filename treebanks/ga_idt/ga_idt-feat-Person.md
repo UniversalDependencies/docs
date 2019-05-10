@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 * `1` (146; 19% of non-empty `Person`): <em>liom, agam, againn, dúinn, orm, dom, linn, chugainn, chugam, a'm</em>
 * `2` (38; 5% of non-empty `Person`): <em>leat, agat, duit, ort, agatsa, leatsa, uait, agaibh, asat, oraibh</em>
 * `3` (592; 76% of non-empty `Person`): <em>ann, ina, air, leis, acu, á, dá, aige, orthu, dó</em>
-* `EMPTY` (3038): <em>ar, i, ag, le, sa, de, leis, mar, in, chun</em>
+* `EMPTY` (3040): <em>ar, i, ag, le, sa, de, leis, mar, in, chun</em>
 
 <table>
   <tr><th>Paradigm <i>ar</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (43; 18% of non-empty `Person`): <em>mo, m', ár</em>
 * `2` (19; 8% of non-empty `Person`): <em>do, d'</em>
 * `3` (182; 75% of non-empty `Person`): <em>a</em>
-* `EMPTY` (1890): <em>an, na, seo, sin, aon, eile, gach, cibé, a, a'</em>
+* `EMPTY` (1917): <em>an, na, seo, sin, aon, eile, gach, san, so, cibé</em>
 
 ### `VERB`
 
@@ -101,16 +101,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `X`
 
-8 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Person`.
+8 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `X` tokens may have the following values of `Person`:
 
 * `1` (3; 38% of non-empty `Person`): <em>Bhraitheas, chuireas, domhsa</em>
 * `2` (2; 25% of non-empty `Person`): <em>dein</em>
 * `3` (3; 38% of non-empty `Person`): <em>fá</em>
-* `EMPTY` (257): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `EMPTY` (147): <em>Co., Uimh., FÁS, a, chan, m, Caidé, I.R., IO, J.</em>
 
 ### `AUX`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `AUX` tokens may have the following values of `Person`:
 
 * `3` (2; 100% of non-empty `Person`): <em>Sé</em>
-* `EMPTY` (393): <em>is, ba, gur, ní, nach, b', gurb, níor, ar, gurbh</em>
+* `EMPTY` (384): <em>is, ba, gur, ní, b', nach, gurb, níor, gurbh, mba</em>
 
 ## Relations with Agreement in `Person`
 

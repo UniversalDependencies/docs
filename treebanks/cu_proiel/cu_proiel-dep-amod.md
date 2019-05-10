@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1447 nodes (3%) are attached to their parents as `amod`.
+1366 nodes (2%) are attached to their parents as `amod`.
 
-1149 instances of `amod` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12992398064962.
+1082 instances of `amod` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12005856515373.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1298; 90% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (91; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1221; 89% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (90; 7% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (28; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.26
 2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.26
 3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	ref=MATT_5.26
-4	тѫдѣ	тѫдѣ	ADV	Df	_	3	flat	_	ref=MATT_5.26
+4	тѫдѣ	тѫдѣ	ADV	Df	_	3	fixed	_	ref=MATT_5.26
 5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	ref=MATT_5.26
 6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MATT_5.26
 7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	ref=MATT_5.26

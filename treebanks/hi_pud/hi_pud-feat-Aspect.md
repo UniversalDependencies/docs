@@ -40,8 +40,3 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 * `Prog` (66; 8% of non-empty `Aspect`): रहे, रहा, रही, हुए
 * `EMPTY` (914): है, हैं, था, हुए, हो, थी, थे, जा, जाने, दिया
 
-## Relations with Agreement in `Aspect`
-
-The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="hi_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).
-

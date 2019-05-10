@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `aux`: <tt><a href="mt_mudt-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="mt_mudt-dep-aux-part.html">aux:part</a></tt>, <tt><a href="mt_mudt-dep-aux-pass.html">aux:pass</a></tt>.
 
-647 nodes (1%) are attached to their parents as `aux`.
+642 nodes (1%) are attached to their parents as `aux`.
 
-646 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20865533230294.
+641 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21028037383178.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (619; 96% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (630; 98% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances).
 
 
 ~~~ conllu
@@ -32,27 +32,6 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	li	_	SCONJ	COMP	_	8	mark	_	_
 8	għaddiet	_	VERB	VERB	_	6	acl	_	SpaceAfter=No
 9	.	_	PUNCT	X_PUN	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 aux	color:blue
-1	Ma	_	PART	NEG	_	4	aux:neg	_	_
-2	tantx	_	VERB	VERB_PSEU	_	4	aux	_	_
-3	kien	_	AUX	KIEN	_	4	aux	_	_
-4	jinteressah	_	VERB	VERB	_	0	root	_	_
-5	jiċċettja	_	VERB	VERB	_	4	xcomp	_	_
-6	ma'	_	ADP	PREP	_	7	case	_	_
-7	nies	_	NOUN	NOUN	_	5	obl:arg	_	_
-8	li	_	SCONJ	COMP	_	10	mark	_	_
-9	ma	_	PART	NEG	_	10	aux:neg	_	_
-10	jafhomx	_	VERB	VERB	_	7	acl	_	SpaceAfter=No
-11	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 ~~~
 
@@ -91,6 +70,32 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 26	fil-	_	ADP	PREP_DEF	_	27	case:det	_	SpaceAfter=No
 27	Kamra	_	NOUN	NOUN	_	25	obl	_	SpaceAfter=No
 28	.	_	PUNCT	X_PUN	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 aux	color:blue
+1	Il-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	kuġina	_	NOUN	NOUN	_	4	nsubj	_	_
+3	kienet	_	AUX	KIEN	_	4	aux	_	_
+4	tiġi	_	VERB	VERB	_	0	root	_	_
+5	ta'	_	ADP	GEN	_	6	case	_	_
+6	spiss	_	ADV	ADV	_	4	advmod	_	_
+7	toqgħod	_	VERB	VERB	_	4	xcomp	_	_
+8	miegħi	_	PRON	PREP_PRON	_	7	obl	_	_
+9	meta	_	SCONJ	CONJ_SUB	_	13	mark	_	_
+10	ommi	_	NOUN	NOUN	_	13	nsubj	_	_
+11	kienet	_	AUX	KIEN	_	13	aux	_	_
+12	tkun	_	AUX	KIEN	_	13	cop	_	_
+13	xogħol	_	NOUN	NOUN	_	4	advcl	_	_
+14	ta'	_	ADP	GEN	_	15	case	_	_
+15	billejl	_	ADV	ADV	_	13	nmod:poss	_	SpaceAfter=No
+16	.	_	PUNCT	X_PUN	_	4	punct	_	_
 
 ~~~
 

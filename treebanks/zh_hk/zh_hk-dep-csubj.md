@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 6	令	_	VERB	_	_	0	root	_	SpaceAfter=No
 7	小朋友們	_	NOUN	_	_	6	obj	_	SpaceAfter=No
 8	都	_	ADV	_	_	10	advmod	_	SpaceAfter=No
-9	捱夜	_	VERB	_	_	10	advmod	_	SpaceAfter=No
+9	捱夜	_	VERB	_	_	10	advcl	_	SpaceAfter=No
 10	追	_	VERB	_	_	6	xcomp	_	SpaceAfter=No
 11	看	_	VERB	_	_	10	conj	_	SpaceAfter=No
 12	。	_	PUNCT	_	_	6	punct	_	SpaceAfter=No

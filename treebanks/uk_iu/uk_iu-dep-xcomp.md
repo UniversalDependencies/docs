@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `xcomp`: <tt><a href="uk_iu-dep-xcomp-sp.html">xcomp:sp</a></tt>.
 
-895 nodes (1%) are attached to their parents as `xcomp`.
+1030 nodes (1%) are attached to their parents as `xcomp`.
 
-865 instances of `xcomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65810055865922.
+991 instances of `xcomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.65145631067961.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (763; 85% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (69; 8% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (33; 4% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (16; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (892; 87% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (69; 7% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (36; 3% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	ми	ми	PRON	Pp-1-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Id=11uf|LTranslit=my|Translit=my
 5	вчили	вчити	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	Id=11ug|LTranslit=včyty|Translit=včyly
 6	літати	літати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	5	xcomp	5:xcomp	Id=11uh|LTranslit=litaty|Translit=litaty
-7	нашу	наш	DET	Ppp1f-saa	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	8:det	Id=11ui|LTranslit=naš|Translit=našu
+7	нашу	наш	DET	Pps1f-saa	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	8:det	Id=11ui|LTranslit=naš|Translit=našu
 8	ворону	ворона	NOUN	Ncfsay	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	5	obj	5:obj|6:nsubj:x	Id=11uj|LTranslit=vorona|Translit=voronu
 9	Галю	Галя	PROPN	Npfsay	Animacy=Anim|Case=Acc|Gender=Fem|NameType=Giv|Number=Sing	8	flat:title	8:flat:title	Id=11uk|LTranslit=Haľа|SpaceAfter=No|Translit=Haľu
 10	.	.	PUNCT	U	_	5	punct	5:punct	Id=11ul|LTranslit=.|Translit=.

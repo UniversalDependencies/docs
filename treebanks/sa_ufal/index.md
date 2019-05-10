@@ -83,7 +83,7 @@ analysis of the text.
 
 ## Relations
 
-[acl](sa_ufal-dep-acl.html) – [acl:relcl](sa_ufal-dep-acl-relcl.html) – [advcl](sa_ufal-dep-advcl.html) – [advmod](sa_ufal-dep-advmod.html) – [advmod:emph](sa_ufal-dep-advmod-emph.html) – [amod](sa_ufal-dep-amod.html) – [appos](sa_ufal-dep-appos.html) – [aux](sa_ufal-dep-aux.html) – [case](sa_ufal-dep-case.html) – [cc](sa_ufal-dep-cc.html) – [ccomp](sa_ufal-dep-ccomp.html) – [conj](sa_ufal-dep-conj.html) – [cop](sa_ufal-dep-cop.html) – [csubj](sa_ufal-dep-csubj.html) – [csubj:pass](sa_ufal-dep-csubj-pass.html) – [dep](sa_ufal-dep-dep.html) – [det](sa_ufal-dep-det.html) – [discourse](sa_ufal-dep-discourse.html) – [expl](sa_ufal-dep-expl.html) – [flat](sa_ufal-dep-flat.html) – [iobj](sa_ufal-dep-iobj.html) – [mark](sa_ufal-dep-mark.html) – [nmod](sa_ufal-dep-nmod.html) – [nmod:poss](sa_ufal-dep-nmod-poss.html) – [nsubj](sa_ufal-dep-nsubj.html) – [nsubj:cop](sa_ufal-dep-nsubj-cop.html) – [nsubj:pass](sa_ufal-dep-nsubj-pass.html) – [nummod](sa_ufal-dep-nummod.html) – [nummod:gov](sa_ufal-dep-nummod-gov.html) – [obj](sa_ufal-dep-obj.html) – [obl](sa_ufal-dep-obl.html) – [obl:agent](sa_ufal-dep-obl-agent.html) – [obl:arg](sa_ufal-dep-obl-arg.html) – [orphan](sa_ufal-dep-orphan.html) – [parataxis](sa_ufal-dep-parataxis.html) – [punct](sa_ufal-dep-punct.html) – [root](sa_ufal-dep-root.html) – [vocative](sa_ufal-dep-vocative.html) – [xcomp](sa_ufal-dep-xcomp.html)
+[acl](sa_ufal-dep-acl.html) – [acl:relcl](sa_ufal-dep-acl-relcl.html) – [advcl](sa_ufal-dep-advcl.html) – [advmod](sa_ufal-dep-advmod.html) – [advmod:emph](sa_ufal-dep-advmod-emph.html) – [amod](sa_ufal-dep-amod.html) – [appos](sa_ufal-dep-appos.html) – [aux](sa_ufal-dep-aux.html) – [case](sa_ufal-dep-case.html) – [cc](sa_ufal-dep-cc.html) – [ccomp](sa_ufal-dep-ccomp.html) – [conj](sa_ufal-dep-conj.html) – [cop](sa_ufal-dep-cop.html) – [csubj](sa_ufal-dep-csubj.html) – [csubj:pass](sa_ufal-dep-csubj-pass.html) – [dep](sa_ufal-dep-dep.html) – [det](sa_ufal-dep-det.html) – [discourse](sa_ufal-dep-discourse.html) – [flat](sa_ufal-dep-flat.html) – [iobj](sa_ufal-dep-iobj.html) – [mark](sa_ufal-dep-mark.html) – [nmod](sa_ufal-dep-nmod.html) – [nmod:poss](sa_ufal-dep-nmod-poss.html) – [nsubj](sa_ufal-dep-nsubj.html) – [nsubj:cop](sa_ufal-dep-nsubj-cop.html) – [nsubj:pass](sa_ufal-dep-nsubj-pass.html) – [nummod](sa_ufal-dep-nummod.html) – [nummod:gov](sa_ufal-dep-nummod-gov.html) – [obj](sa_ufal-dep-obj.html) – [obl](sa_ufal-dep-obl.html) – [obl:agent](sa_ufal-dep-obl-agent.html) – [obl:arg](sa_ufal-dep-obl-arg.html) – [orphan](sa_ufal-dep-orphan.html) – [parataxis](sa_ufal-dep-parataxis.html) – [punct](sa_ufal-dep-punct.html) – [root](sa_ufal-dep-root.html) – [vocative](sa_ufal-dep-vocative.html) – [xcomp](sa_ufal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -93,7 +93,7 @@ analysis of the text.
 </ul>
 
 <ul>
-<li>This corpus contains 187 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 186 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -160,7 +160,7 @@ analysis of the text.
   <ul>
     <li>ADJ: वह</li>
     <li>AUX: अस्ति, अस्तु, अस्मि, भवति, स्यात्</li>
-    <li>VERB: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, अस्ति, उवाच</li>
+    <li>VERB: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति</li>
   </ul>
   </li>
 </ul>
@@ -290,7 +290,7 @@ analysis of the text.
       <li>PART: किम्</li>
       <li>PRON: अहम्, तत्, तस्य, मम, किम्, स, सः, भवान्, एतत्, मया</li>
       <li>PROPN: दमनकः, पिङ्गलकः, करटकः, महिलारोप्यं, विष्णुशर्मा, सञ्जीवकस्य, अनन्तशक्तिश्, अमरशक्तिर्, अर्थशास्त्रं, आद्या</li>
-      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, अस्ति, उवाच</li>
+      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति</li>
       <li>VERB-Part: उक्तं, आरब्धम्, अभिहितम्, उक्ते, गतः, प्रस्थितः, अगतः, अगम्यम्, अधिरूढः, अनुगृहीता</li>
     </ul>
   </li>
@@ -491,7 +491,7 @@ analysis of the text.
   <li>Ind
     <ul>
       <li>AUX-Fin: अस्ति, अस्मि, भवति</li>
-      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अस्ति, उवाच, करिष्यति</li>
+      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, उवाच, करिष्यति, तिष्ठति</li>
       <li>VERB-Part: आरब्धौ</li>
     </ul>
   </li>
@@ -554,7 +554,7 @@ analysis of the text.
       <li>AUX-Fin: अस्ति, अस्मि, भवति</li>
       <li>AUX-Part: सत्त्वम्</li>
       <li>NOUN-Part: जीवति</li>
-      <li>VERB-Fin: भवति, उच्यते, करोमि, अस्ति, गृहाण, तिष्ठति, ब्रवीमि, श्रूयते, अधीते, अनुश्रूयते</li>
+      <li>VERB-Fin: भवति, उच्यते, करोमि, गृहाण, तिष्ठति, ब्रवीमि, श्रूयते, अधीते, अनुश्रूयते, अपनीयते</li>
       <li>VERB-Part: अप्रयुज्यमानः, पश्यतः, ब्रुवन्, भुञ्जानानां, मन्यमानः, रक्ष्यमाणः, व्रजता, संचीयमानः</li>
     </ul>
   </li>
@@ -571,7 +571,7 @@ analysis of the text.
       <li>AUX-Fin: अस्ति, अस्तु, अस्मि, भवति, स्यात्</li>
       <li>AUX-Part: सत्त्वम्</li>
       <li>NOUN-Part: जीवति</li>
-      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, करोमि, प्रोवाच, अस्ति, उवाच, करिष्यति, गृहाण</li>
+      <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, करोमि, प्रोवाच, उवाच, करिष्यति, गृहाण, तिष्ठति</li>
       <li>VERB-Part: पश्यतः, ब्रुवन्, व्रजता</li>
     </ul>
   </li>
@@ -765,7 +765,7 @@ analysis of the text.
       <li>AUX-Fin: अस्ति, अस्तु, भवति, स्यात्</li>
       <li>DET: एनम्, तत्, तया, तस्य</li>
       <li>PRON: तत्, भवान्, तस्य, एनम्, एनाम्, तौ, भवतः, भवत्, भवद्भिः, भवन्तम्</li>
-      <li>VERB-Fin: अब्रवीत्, आह, भवति, उच्यते, प्रोवाच, अनुष्ठीयताम्, अस्ति, उवाच, करिष्यति, तिष्ठति</li>
+      <li>VERB-Fin: अब्रवीत्, आह, भवति, उच्यते, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति, तिष्ठति, प्राह</li>
     </ul>
   </li>
 </ul>
@@ -885,5 +885,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

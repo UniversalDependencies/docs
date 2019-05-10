@@ -8,32 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-221 nodes (3%) are attached to their parents as `cc`.
+595 nodes (4%) are attached to their parents as `cc`.
 
-220 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17194570135747.
+594 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.87563025210084.
 
-The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (86; 39% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (67; 30% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (30; 14% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (20; 9% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (345; 58% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (109; 18% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (98; 16% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PART.html">PART</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 1 cc	color:blue
-1	А	а	CCONJ	CC	_	11	cc	_	_
-2	калі	калі	SCONJ	IN	_	7	mark	_	_
-3	беларусы	беларус	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-4	не	не	PART	UH	Polarity=Neg	7	advmod	_	_
-5	будуць	быць	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
-6	мяне	я	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
-7	разумець	разумець	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	11	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	7	punct	_	_
-9	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	_
-10	іх	іх	DET	PRP$	Poss=Yes|PronType=Prs	11	det	_	_
-11	праблема	праблема	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cc	color:blue
+1	Сiстэма	сiстэма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	органаў	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	і	і	CCONJ	_	_	4	cc	_	_
+4	падраздзяленняў	падраздзяленне	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	conj	_	_
+5	па	па	ADP	_	_	7	case	_	_
+6	надзвычайных	надзвычайны	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	сiтуацыях	сiтуацыя	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	_
 
 ~~~
 
@@ -45,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	fgColor:white
 # visual-style 11 10 cc	color:blue
 1	У	у	ADP	IN	_	2	case	_	_
-2	Рэчыцы	рэчыца	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+2	Рэчыцы	Рэчыца	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
 3	п'яны	п'яны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 4	мужчына	мужчына	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	гуляў	гуляць	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_

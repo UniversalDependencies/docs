@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-402 nodes (0%) are attached to their parents as `ccomp`.
+400 nodes (0%) are attached to their parents as `ccomp`.
 
-402 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.71890547263682.
+400 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.7175.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (272; 68% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (80; 20% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (47; 12% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (269; 67% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (81; 20% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (47; 12% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 16 ccomp	color:blue
-1	麺棒	麺棒	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
+1	麺棒	麺棒	NOUN	NN	_	16	dislocated	_	SpaceAfter=No
 2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
 3	直径	直径	PART	XPC	_	6	compound	_	SpaceAfter=No
 4	2	2	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 ccomp	color:blue
-1	治療	治療	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+1	治療	治療	NOUN	NN	_	7	dislocated	_	SpaceAfter=No
 2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
 3	ステロイド	ステロイド	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 4	の	の	ADP	PN	_	3	case	_	SpaceAfter=No
