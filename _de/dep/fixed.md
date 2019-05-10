@@ -29,6 +29,12 @@ fixed(so, gut)
 fixed(so, wie)
 ~~~
 
+~~~ sdparse
+ab und zu
+fixed(ab, und)
+fixed(ab, zu)
+~~~
+
 However, the flat annotation is broken when a fixed expression is interrupted by another word not be4longing to the expression. This is done to avoid non-projective structures.
 
 ~~~ sdparse
