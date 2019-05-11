@@ -118,7 +118,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <small><code style='color:lightgrey'>
 \# copy metadata to biblio ;
-rel="2.3" ;
+rel="2.4" ;
 path=$(pwd) ;
 cd /net/data ;
 tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz ;
