@@ -76,7 +76,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..</code>
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
-  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push</code><br />
+  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..</code><br />
   Note that the script updates the data files that are used in many MarkDown pages but it does not update the MarkDown pages directly.
   Jekyll thus will not notice that almost all documentation must be re-generated; it will update nothing, until a change happens
   directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
