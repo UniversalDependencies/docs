@@ -220,11 +220,16 @@ An example rule file converting (large parts of) the Hamburg Dependency Treebank
 The editor provides the following functionalities:
 
 * editing words (forms, lemmas, upos, xpos, features, enhanced dependencies)
-* editing dependency relations
+* editing basic dependency relations and enhanced dependency relations
+* autocompletion
 * join/split words (to correct tokenization errors)
 * join/split sentences (to correct tokenization errors)
+* search (also sequences)
 * undo/redo (partially)
+* run validatin scripts
 * git support
+
+
 * Category: manual annotation tool
 * Platform: Any
 * Implementation: Java, JavaScript
