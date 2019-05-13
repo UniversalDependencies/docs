@@ -59,7 +59,7 @@ Latin data from the _Index Thomisticus_ Treebank. Data are taken from the _Index
 <pre>
 @article{lait-ud,
 author = {Cecchini, Flavio Massimiliano and Passarotti, Marco and Marongiu, Paola and Zeman, Daniel},
-title = {{Challenges in Converting the \emph{Index Thomisticus} treebank into Universal Dependencies}},
+title = {{Challenges in Converting the Index Thomisticus treebank into Universal Dependencies}},
 journal = {Proceedings of the Universal Dependencies Workshop 2018 (UDW 2018)},
 year = {2018},
 address = {Brussels, Belgium}
