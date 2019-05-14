@@ -92,7 +92,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
-  they can be reached at lindat-help@ufal.mff.cuni.cz).
+  they can be reached at lindat-help@ufal.mff.cuni.cz).<br />
+  <code>( for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; grep -i license: README* ; cd .. ; echo ; done ) |&amp; less</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
