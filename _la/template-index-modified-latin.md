@@ -8,7 +8,7 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-# UD for Latin <span class="flagspan"><img class="flag" src="../../flags/svg/VA.svg" /></span>
+# UD for Latin <span class="flagspan"><img class="flag" src="https://github.com/UniversalDependencies/docs/blob/pages-source/flags/svg/VA.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
