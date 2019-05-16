@@ -118,17 +118,18 @@ See [here](release_checklist.html) for the checklist for data contributors.
   change on approval and you can save it; however, it will not be operational as a URL until the item is archived.
 * Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
+* Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
 
 <small><code style='color:lightgrey'>
-\# copy metadata to biblio ;
-rel="2.4" ;
-path=$(pwd) ;
-cd /net/data ;
-tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz ;
-mv ud-treebanks-v$rel universal-dependencies-$rel ;
-\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)
-cd $HAMLEDT ;
-perl ./populate_ud.pl $rel ;
-cd normalize ; make qpmltq ;
-\# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt) ;
+\# copy metadata to biblio<br />
+rel="2.4"<br />
+path=$(pwd)<br />
+cd /net/data<br />
+tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
+mv ud-treebanks-v$rel universal-dependencies-$rel<br />
+\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)<br />
+cd $HAMLEDT<br />
+perl ./populate_ud.pl $rel<br />
+cd normalize ; make qpmltq<br />
+\# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt)<br />
 </code></small>
