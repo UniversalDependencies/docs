@@ -29,13 +29,62 @@ The Russian UD treebanks do not contain multiword tokens.
 
 ### Tags
 
-TBD
+All corpora use the full range of UPOS tags. The XPOS column uses a version of the Penn Treebank tagset in GSD and Taiga treebanks, see [https://github.com/olesar/ruUD/blob/master/conversion/RussianUD_XPOSlist.md](https://github.com/olesar/ruUD/blob/master/conversion/RussianUD_XPOSlist.md).
 
 ### Features
 
-TBD
+Morphological features are included in all corpora. In GSD and Taiga, they are tagged manually, in Syntagrus, they are converted from the features manually tagged in the source treebank. In PUD, they are added automatically.  
+
+The following feature subtypes are used in Russian:  
+
+* [Variant]() distinguishes short and long forms of adjectives.
+
+The following universal features are not used in Russian: [Definite](), [Evident](), [NounClass](), [Polite](), [Clusivity]().
 
 ## Syntax
+
+### Core Arguments, Oblique Arguments and Adjuncts
+
+* Nominal subject ([nsubj]()) is prototypically a noun phrase in the nominative case, without preposition.
+  * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier. 
+    If this is the case, then the quantifier is attached using a special relation, either [nummod]() or [nummod:gov]().
+  * In distributive construction, the nominal subject is used in the dative case, to which the preposition _po_ is attached.   
+  * Under negation, the noun phrase is used in the genitive case.  
+* Clausal subjects ([csubj]()) are typically infinitival verbs or the head of subordinate clauses. These are mostly the case of predicative constructions or nominative copular constructions.  
+  * Note that verbal nouns as subjects are labeled `nsubj`.  
+* In passive clauses, the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively. The auxiliary verb in periphrastic passive is labelled [aux:pass]().
+  * If the semantic agent is present, it has the form of the instrumental case, and its relation is labelled [obl:agent]().  
+* Nominal direct objects are labeled [obj](). They usually occur in the accusative case (but not all bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.  
+* All other required dependents of verbs in the dative and instrumental case are indirect objects (iobj).
+* Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects ([csubj]()).
+* Open (“controlled”) clausal dependents are labeled [xcomp](); they are mostly infinitival complements of verbs such as _начать_ “begin”.  
+  * Instrumental/nominative nominal dependents of verbs such as _быть_ “be”, _стать_ “become”, _работать_ “work (as)”, _считать_ “consider (as)” are also labeled [xcomp]().  
+* Prepositional phrases are labeled [obl](). These include:  
+  * core arguments of verbs, adjectives and other predicates;  
+  * adjuncts (or, following the Russian grammar, adverbial modifiers realized as prepositional noun phrases).  
+* Temporal and other circumstantial modifiers as well as benefactives realized as bare noun phrases: _подумал минуту_ “he thought for a minute”, _сварила ему обед_ “she cooked (for) him a lunch” are also labeled [obl]().
+* In comparative constructions, genitive noun phrase that refers to the standard of comparison is labeled [obl]().
+
+### Copula Clauses
+
+* The copula verb _быть_ “be” is used in equational, attributional, locative, and benefactive nonverbal clauses.
+  Purely existential clauses use _быть_ as well but it is treated as the head of the clause and tagged [VERB]().
+  In possessive clauses, _быть_ is treated differently in different treebanks.  
+  Note that the copula verb is rarely used in the present tense in Russian.  
+
+### Expletives  
+
+* The particle _это_ “this” used in equational clauses with meaningful subject is labeled [expl](): _Государство - это я_ “The state is Me.” Pleonastic _это_ in clauses with overt nominative subject is also labeled [expl](): _Это Лена пришла_ “This (is) Lena came.”  
+  * If there is no other subject, _это_ “this” is treated as a subject and tagged [PRON]():
+    _Это Лена_ “This (is) Lena”, _Это еще к чему?_ “What purpose is it for?”
+    
+### Adjectival Clauses 
+
+* Relational clauses are labeled [acl:relcl]().  
+* Participle phrases are labeled [acl]().  
+  * Participles that do not have dependents are labeled [amod]().  
+* Floating quantifiers _сам_ “oneself”, _один_ “alone”, _весь_ “all”, _оба_ "both" are labeled [acl]().  
+* Secondary non-core arguments in depictive constructions are labeled [acl](): _Он пришел домой усталый_ “He came home tired.”     
 
 ### Relations Overview
 
@@ -50,7 +99,7 @@ TBD
   * [flat:foreign]() for non-first words in quoted foreign phrases
   * [flat:name]() for non-first words in multiword proper names
 
-* [clf]() is not used in Russians at all.
+* [clf]() is not used in Russian.
   
 
 ## Treebanks
