@@ -29,11 +29,13 @@ Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \n He buys himself
 
 nsubj(kauft-2, Er-1)
 det(Auto-6, ein-4)
+iobj(kauft-2, sich-3)
 amod(Auto-6, grünes-5)
 obj(kauft-2, Auto-6)
 conj(kauft-2, kauft-9)
 cc(kauft-9, und-7)
 nsubj(kauft-9, sie-8)
 obj(kauft-9, rotes-12)
+iobj(kauft-9, sich-10)
 det(rotes-12, ein-11)
 ~~~
