@@ -12,12 +12,28 @@ head gets elided) without having to postulate empty nodes in the basic represent
 
 ~~~ sdparse
 Ich kaufe das Essen und du die Getränke \n I buy the food and you the drinks
-orphan(du, Getränke)
+
+nsubj(kaufe-2, Ich-1)
+det(Essen-4, das-3)
+obj(kaufe-2, Essen-4)
+conj(kaufe-2, du-6)
+cc(du-6, und-5)
+det(Getränke-8, die-7)
+orphan(du-6, Getränke-8)
 ~~~
 
 If the head nominal is elided, we promote dependents in the following order: amod > nummod > det > nmod > case.
 
 ~~~ sdparse
-Er kauft sich ein grünes Auto und sie kauft sich ein rotes \n He buys himself a green car and she buys herself a red .
-obj(kauft, rotes)
+Er kauft sich ein grünes Auto und sie kauft sich ein rotes . \n He buys himself a green car and she buys herself a red .
+
+nsubj(kauft-2, Er-1)
+det(Auto-6, ein-4)
+amod(Auto-6, grünes-5)
+obj(kauft-2, Auto-6)
+conj(kauft-2, kauft-9)
+cc(kauft-9, und-7)
+nsubj(kauft-9, sie-8)
+obj(kauft-9, rotes-12)
+det(rotes-12, ein-11)
 ~~~
