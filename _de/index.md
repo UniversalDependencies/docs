@@ -164,4 +164,3 @@ There are [four](../../treebanks/de-comparison.html) German UD treebanks:
   * [German-HDT](../../treebanks/de_hdt/index.html)
   * [German-PUD](../../treebanks/de_pud/index.html)
   * [German-LIT](../../treebanks/de_lit/index.html)
-  *
