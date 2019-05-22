@@ -22,8 +22,20 @@ If the period overlaps with the end of sentence period then it is written only o
   * time expressions such as 20:55 are treated as a single token;
   * dates such as 20.04.2012 are treated as a single token;
   * email addresses, URLs, and tweet-style names are treated as a single token: {no@mail.ru}, {https://github.com}, {@anna_li};
+  * discoursive particles such as _-то_ and _-с_ are tokenised as separate tokens, e.g. _Вася-то_ is tokenized as 3 tokens. Exceptions: indefinite pronouns and adverbs, see below.
 
-The Russian UD treebanks do not contain multiword tokens.
+* **Pronouns and adverbs**
+  * Indefinite pronouns and adverbs like _кто-нибудь_, _кто-либо_, _кто-то_, _кое-кто_ “someone, somebody”, etc. are treated as a single token;
+  * In prepositional phrases, the pronouns with _кое-_ are treated as separate tokens: e.g. _кое к кому_ “to someone” is tokenized as 3 tokens;
+  * Negative pronouns, adverbs and adverbial predicatives are treated as a single token, e.g. _никто_ “no one”, _никакой_ “no, neither”, _нигде_ “nowhere”, _негде_ “there is no place”. 
+    However, in prepositional phrases, negative pronouns and predicatives are splitted into 3 tokens: e.g. _ни к кому_ “to no one”, _не от кого_ “from no one”.
+
+* **Verb forms, analytical grammatical forms, negation**
+  * reflexive verbs are treated as a single token (orthographic rule): _моется_ “wash oneself”;
+  * _не_ and _ни_ used as negation markers are tokenized according to the orthographic rules: e.g. _не реагируя_ “not reacting”, _ни в какую_ “in no way”, but _непоправимый_ “irrecoverable”, _назавершенный_ “unfinished”;
+  * _пол-_ and _полу-_ “half” are treated as single tokens: _поллитра_ “half a liter”, _пол-яблока_ “half an apple”.
+
+Russian UD treebanks do not contain multiword tokens.
 
 ## Morphology
 
@@ -33,13 +45,13 @@ All corpora use the full range of UPOS tags. The XPOS column uses a version of t
 
 ### Features
 
-Morphological features are included in all corpora. In GSD and Taiga, they are tagged manually, in Syntagrus, they are converted from the features manually tagged in the source treebank. In PUD, they are added automatically.  
+Morphological features are included in all corpora. In GSD and Taiga, they are tagged manually, in Syntagrus, they are converted from the features manually tagged in the source treebank. In PUD, they are added automatically and then manually checked.  
 
 The following feature subtypes are used in Russian:  
 
 * [Variant]() distinguishes short and long forms of adjectives.
 
-The following universal features are not used in Russian: [Definite](), [Evident](), [NounClass](), [Polite](), [Clusivity]().
+The following universal features are not used in Russian: [Clusivity](), [Definite](), [Evident](), [NounClass](), [Polite](),  [Poss](), [PronType]().
 
 ## Syntax
 
