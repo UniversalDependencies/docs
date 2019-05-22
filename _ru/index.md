@@ -57,25 +57,25 @@ The following universal features are not used in Russian: [Clusivity](), [Defini
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is prototypically a noun phrase in the nominative case, without preposition.
+* Nominal subject ([nsubj]()) is prototypically a noun phrase in the nominative case, without a preposition.
   * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier. 
     If this is the case, then the quantifier is attached using a special relation, either [nummod]() or [nummod:gov]().
-  * In distributive construction, the nominal subject is used in the dative case, to which the preposition _po_ is attached.   
+  * In distributive constructions, the nominal subject is used in the dative case, to which the preposition _po_ is attached.   
   * Under negation, the noun phrase is used in the genitive case.  
-* Clausal subjects ([csubj]()) are typically infinitival verbs or the head of subordinate clauses. These are mostly the case of predicative constructions or nominative copular constructions.  
+* Clausal subjects ([csubj]()) are typically infinitival verbs or the heads of subordinate clauses. This is mostly the case of predicative constructions or nominative copular constructions.  
   * Note that verbal nouns as subjects are labeled `nsubj`.  
-* In passive clauses, the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively. The auxiliary verb in periphrastic passive is labelled [aux:pass]().
-  * If the semantic agent is present, it has the form of the instrumental case, and its relation is labelled [obl:agent]().  
-* Nominal direct objects are labeled [obj](). They usually occur in the accusative case (but not all bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.  
-* All other required dependents of verbs in the dative and instrumental case are indirect objects (iobj).
+* In passive clauses, the subject is labelled with [nsubj:pass]() or [csubj:pass](). Auxiliary verbs in periphrastic passive are labelled [aux:pass]().
+  * If a semantic agent is present, it has the form of the instrumental case, and its relation is labelled [obl:agent]().  
+* Nominal direct objects are labeled [obj](). They usually occur in the accusative case (but not all bare accusative nominals are objects), but in some cases, instrumental and genitive nominals can be direct objects as well.  
+* All other required dependents of verbs in the dative and instrumental cases are indirect objects (iobj).
 * Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects ([csubj]()).
 * Open (“controlled”) clausal dependents are labeled [xcomp](); they are mostly infinitival complements of verbs such as _начать_ “begin”.  
   * Instrumental/nominative nominal dependents of verbs such as _быть_ “be”, _стать_ “become”, _работать_ “work (as)”, _считать_ “consider (as)” are also labeled [xcomp]().  
 * Prepositional phrases are labeled [obl](). These include:  
   * core arguments of verbs, adjectives and other predicates;  
   * adjuncts (or, following the Russian grammar, adverbial modifiers realized as prepositional noun phrases).  
-* Temporal and other circumstantial modifiers as well as benefactives realized as bare noun phrases: _подумал минуту_ “he thought for a minute”, _сварила ему обед_ “she cooked (for) him a lunch” are also labeled [obl]().
-* In comparative constructions, genitive noun phrase that refers to the standard of comparison is labeled [obl]().
+* Temporal and other circumstantial modifiers as well as benefactives realized as bare noun phrases: _подумал минуту_ “he thought for a minute”, _сварила ему обед_ “she cooked him a lunch” are also labeled [obl]().
+* In comparative constructions, the genitive noun phrase that refers to the standard of comparison is labeled [obl]().
 
 ### Copula Clauses
 
