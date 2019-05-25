@@ -37,7 +37,7 @@ Armenian has prepositions, postpositions and ambipositions, but not circumpositi
 
 ### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition
 
-This value marks dependent first or second part of a compound adposition. This word cannot occur alone. Not all compound prepositions contain words marked `Comadp`. Many compound prepositions consist of prepositions and a noun (e.g. _ի սեր_ “for the love of”, _ի պատիվ_ “in honor of” ). Sometimes there are just two words, the first one is normal postposition and the second one
+This value marks dependent first or second part of a compound adposition. This word cannot occur alone. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of prepositions and a noun (e.g. _ի սեր_ “for the love of”, _ի պատիվ_ “in honor of” ). Sometimes there are just two words, the first one is normal postposition and the second one
 is a secondary postposition (etymologically some other part of speech, but it has been frozen as
 a postposition) as in _դեմ հանդիման_ “in front of”.
 
