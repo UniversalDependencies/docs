@@ -2,6 +2,7 @@
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 The `cc` label marks the relation between the last conjunct of a coordinated phrase and its coordinating conjunction. In Irish, a coordinating conjunction takes the form of _agus_ "and", _nó_ "or", _ná_ "than".
