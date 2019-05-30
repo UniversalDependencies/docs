@@ -2,6 +2,7 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
 The `nmod` relation is used for nominal modifiers of nouns or clausal predicates. `nmod` is typically a noun functioning as a non-core (oblique) argument or adjunct, and often marked by a preposition using [case]().
