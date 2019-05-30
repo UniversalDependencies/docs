@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:prep'
 shortdef : 'prepositional pronouns'
+udver: '2'
 ---
 
 `nmod:prep`, used for prepositional pronouns, is a UD Irish subtype of the [nmod]() relation: 
