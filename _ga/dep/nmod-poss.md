@@ -2,6 +2,7 @@
 layout: relation
 title:  'nmod:poss'
 shortdef : 'possessive pronoun'
+udver: '2'
 ---
 
 Irish denotes possession through the use of possessive pronouns: 
