@@ -2,6 +2,7 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
 Possessive is a feature of prepositions and determiners in Irish. Possessive prepositions can inflect to show person and number. Possessive determiners cause morphological changes in the noun they are dependent on. 
