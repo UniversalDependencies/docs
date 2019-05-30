@@ -2,6 +2,7 @@
 layout: relation
 title:  'csubj:cop'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
 A *clausal copular subject* (`csubj:cop`) is a UD Irish subtype, used to label a clause that acts as the
