@@ -2,6 +2,7 @@
 layout: relation
 title: 'obj'
 shortdef: 'direct object'
+udver: '2'
 ---
 
 The `obj` label is used to mark the relationship between a verb and its direct object.
