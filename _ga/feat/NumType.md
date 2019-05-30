@@ -2,6 +2,7 @@
 layout: feature
 title: 'NumType'
 shortdef: 'numeral type'
+udver: '2'
 ---
 
 Irish numeral forms inflect to demonstrate different grammatical roles. 
