@@ -2,6 +2,7 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
 
 Number is an inflectional feature of nouns and other parts of speech (determiners, adjectives, prepositions, verbs, etc.) that mark agreement with nouns. Nouns may have different singular and plural forms in each case (see [Form]() for more on the noun declensions). 
