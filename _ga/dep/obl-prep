@@ -2,6 +2,7 @@
 layout: relation
 title:  'obl:prep'
 shortdef : 'prepositional pronouns'
+udver: '2'
 ---
 
 `obl:prep`, used for prepositional pronouns, is a UD Irish subtype of the [obl]() relation: 
