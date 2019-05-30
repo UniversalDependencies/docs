@@ -2,6 +2,7 @@
 layout: feature
 title: 'Dialect'
 shortdef: 'Dialect'
+udver: '2'
 ---
 
 In Irish, there are three main dialects, with certain grammatical and lexical variations between the dialects. Words or grammatical features in the treebank which were judged to belong to a particular dialect were marked with the Dialect feature.
