@@ -2,6 +2,7 @@
 layout: relation
 title: 'dislocated'
 shortdef: 'dislocated elements'
+udver: '2'
 ---
 
 The `dislocated` label has not been applied to Irish in this release of the treebank. No examples have been observed yet,
