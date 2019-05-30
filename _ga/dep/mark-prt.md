@@ -2,6 +2,7 @@
 layout: relation
 title:  'mark:prt'
 shortdef : 'particle'
+udver: '2'
 ---
 
 The UD Irish subtype `mark:prt' is used for the various particles in Irish, including:
