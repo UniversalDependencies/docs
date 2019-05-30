@@ -2,6 +2,7 @@
 layout: feature
 title: 'Form'
 shortdef: 'Form'
+udver: '2'
 ---
 One of the characteristics of Irish is its tendency for initial mutation to occur in certain circumstances. This is triggered by the preceding word and affects the spelling of nouns, adjectives and verbs. Nouns in Irish are divided into classes according to the way they are inflected to form the genitive singular. There are five such noun-classes or declensions. (The Christian Brothers, 1994)
 
