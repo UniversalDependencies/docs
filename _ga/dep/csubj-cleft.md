@@ -2,6 +2,7 @@
 layout: relation
 title:  'csubj:cleft'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
 Irish cleft constructions use a copula and are analysed in line with other copular construction: COP PRED SUBJ. 
