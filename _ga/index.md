@@ -298,14 +298,6 @@ Uí Dhonnchadha, E. 2009. Part-of-Speech Tagging and Partial Parsing for Irish u
 
 ## Treebanks
 
-There is one (../treebanks/LCODE-comparison.html) Irish UD treebank:
+There is one Irish UD treebank:
 
-  * [Irish-A](../treebanks/ga_a/index.html)
-
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Irish-IDT](../treebanks/ga_idt/index.html)
