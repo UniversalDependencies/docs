@@ -200,12 +200,6 @@ TODO
 * The copula verb _sum_, “to be” is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
   Purely existential clauses (without indicating location) use _sum_ as well but it is treated as the head of the clause and tagged [VERB]().
 
-
-
-**Perseus**
-
-TODO
-
 ### Relations Overview
 
 **_Index Thomisticus_ Treebank**
