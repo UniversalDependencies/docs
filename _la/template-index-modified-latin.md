@@ -241,7 +241,7 @@ TODO
 
 **Perseus**
 
-TODO
+No subtypes are used
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
