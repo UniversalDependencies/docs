@@ -22,7 +22,8 @@ udver: '2'
 
 ### PROIEL
 
-TODO
+* In general, words are delimited by whitespace characters. There is no punctuation in the syntactic trees. The exception is words that include enclitics _-que_, _-ve_ or _-ne_ are split into two tokens, namely one for the word without the enclitics and one for the enclitics. Example: the word _corporique_ (lit. “and to the body”) is split into two tokens: _corpori_ and _que_.
+
 
 ### Perseus
 
@@ -58,7 +59,10 @@ TODO
 
 **PROIEL**
 
-TODO
+* PROIEL uses 14 universal POS categories. Punctuation ([PUNCT]()), Particles ([PART]()) and Symbols ([SYM]()) are not used.
+* Among the traditional pronouns of Latin grammar, those that can occur adnominally are treated as detererminers [DET]().
+* The only intended auxiliary verb ([AUX]()) is _sum_ (“to be”), although in a few cases other verbs have ended up as auxiliaries due to errors in the conversion.
+
 
 **Perseus**
 
@@ -83,7 +87,7 @@ TODO
 
 **PROIEL**
 
-TODO
+* As for _Index Thomisticus_, except PROIEL does not recognize a locative case in Latin.
 
 **Perseus**
 
@@ -95,7 +99,7 @@ TODO
 
 **PROIEL**
 
-TODO
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()).
 
 **Perseus**
 
@@ -111,7 +115,9 @@ TODO
 
 **PROIEL**
 
-TODO
+* There are four values of [Tense](): `Past`, `Pres`, `Pqp` or `Fut`.
+* There are two values of [Aspect](): `Imp` and `Perf`.
+* Traditional categories like the imperfect and the future perfect are decomposed into [Tense]()=`Past`, [Aspect]()=`Imp` and [Tense]()=`Fut`, [Aspect]()=`Perf`.
 
 **Perseus**
 
@@ -127,8 +133,7 @@ TODO
 * [Person]() is a feature of finite verbs ([VERB]()) and auxiliaries ([AUX]()) and has three values, `1`, `2` and `3`.
 
 **PROIEL**
-
-TODO
+* [PronType]() is used with pronouns ([PRON]()) and relative and interrogative adverbs ([ADV]()).
 
 **Perseus**
 
@@ -144,9 +149,6 @@ TODO
   * [VerbForm](). For distinguishing finite, infinite, participial, gerundive and gerund forms of verbs. Five values: `Fin`, `Gdv`, `Ger`, `Inf`, `Part`
   * [VerbType](). For modals. One value: `Mod`. Example: _potest_, “it/she/he can”
 
-**PROIEL**
-
-TODO
 
 **Perseus**
 
@@ -161,7 +163,7 @@ TODO
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-**_Index Thomisticus_ Treebank**
+**_Index Thomisticus_ Treebank and PROIEL**
 * Nominal subject ([nsubj]()) is a noun phrase in the nominative, accusative or ablative case, without preposition.
   * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
   * A finite subordinate clause may serve as the subject and is labeled `csubj`.
@@ -187,9 +189,6 @@ TODO
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the denoted agent is present, it has the form of an ablative noun phrase or a prepositional phrase (usually introduced by preposition _ab_, “by”) and its relation is labeled [obl:arg]().
 
-**PROIEL**
-
-TODO
 
 **Perseus**
 
@@ -197,13 +196,11 @@ TODO
 
 ### Non-verbal Clauses
 
-**_Index Thomisticus_ Treebank**
+**_Index Thomisticus_ Treebank and PROIEL**
 * The copula verb _sum_, “to be” is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
   Purely existential clauses (without indicating location) use _sum_ as well but it is treated as the head of the clause and tagged [VERB]().
 
-**PROIEL**
 
-TODO
 
 **Perseus**
 
@@ -235,7 +232,12 @@ TODO
 
 **PROIEL**
 
-TODO
+ * [aux:pass]() for passive auxiliaries
+ * [csubj:pass]() for clausal subjects of passive verbs
+ * [flat:foreign]() for passages not in Latin (typically quoted passages in Greek)
+ * [flat:name]() for multi-token names
+ * [nsubj:pass]() for nominal subjects of passive verbs
+ * [obl:agent]() for the agent of passive verbs
 
 **Perseus**
 
