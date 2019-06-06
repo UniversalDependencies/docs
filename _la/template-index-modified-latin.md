@@ -27,7 +27,7 @@ udver: '2'
 
 ### Perseus
 
-* Tokenization is whitespace-based, with the enclitic _que_/_ve_/_ne_ being split from the preceding word.
+* Tokenization is whitespace-based, with the enclitic _-que_, _-ve_, and _-ne_ being split from the preceding word.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
