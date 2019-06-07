@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Mbyá Guaraní <span class="flagspan"><img class="flag" src="../../flags/svg/PY.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AR.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
-This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
+This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](https://www.gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
 
 These guidelines are very much a work in progress. They are meant to adapt [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
 
@@ -39,57 +39,51 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * The language specific tagset (XPOS) is mapped to universal POS categories as follows:
 
-| 	XPOS 		| 	UPOS	| XPOSDescription								|
-|---------------|-----------|-----------------------------------------------|
-| 	adj			| 	ADJ		| adjective										|
-|	aspprt		|	PART	| aspect particle								|
-|	coordconn	|	CCONJ	| coordinating conjunction						|
-|	defpro		|	PRON	| definite pronoun							|
-|	dem			|	PRON	| demonstrative pronoun							|
-|	demadv		|	ADV		| demonstrative adverb							|
-|	det			|	DET		| determiner									|
-|	discprt		|	PART	| discourse particle							|
-|	focprt		|	PART	| focus particle								|
-|	for			|	X		| foreign token (not code-switching or loan)	|
-|	illocprt	|	PART	| illocutionary particle						|
-|	indfpro		|	PRON	| indefinite pronoun							|
-|	interj		|	INTJ	| interjection									|
-|	interrog	|	PRON	| interrogative pro-form						|
-|	interadv	|	ADV		| interrogative adverb							|
-|	interpron	|	PRON	| interrogative pronoun							|
-|	intprt		|	PART	| interrogative particle						|
-|	modprt		|	PART	| modal particle								|
-|	negpro		|	PRON	| negative pronoun								|
-|	negprt		|	PART	| negative particle								|
-|	nmlzer		|	SCONJ	| nominalizer									|
-|	n			|	NOUN	| noun											|
-|	nprop		|	PROPN	| proper noun									|
-|	num			|	NUM		| numeral										|
-|	onom		|	INTJ	| onomatopeia									|
-|	ptcp		|	VERB	| participle									|
-|	prt			|	PART	| particle										|
-|	post		|	ADP		| postposition									|
-|	pro-form	|	PRON	| pro-form										|
-|	pro			|	PRON	| personal pronoun								|
-|	prov		|	VERB	| pro-verb										|
-|	qprt		|	PART	| quantificational particle						|
-|	quant		|	DET		| quantifier									|
-|	quantprt	|	PART	| quantificational particle						|
-|	rel			|	SCONJ	| relativizer									|
-|	subordconn	|	SCONJ	| subordinating conjunction						|
-|	tensprt		|	PART	| tense particle								|
-|	univpro		|	PRON	| universal pronoun								|
-|	v			|	VERB	| verb											|
-|	vi			|	VERB	| intransitive verb								|
-|	vi:a		|	VERB	| intransitive verb: active						|
-|	vi:i		|	VERB	| intransitive verb: inactive					|
-|	vt			|	VERB	| transitive verb								|
-|	vd			|	VERB	| ditransitive verb								|
-|	vd:a		|	VERB	| indirect transitive verb: active				|
-|	vd:i		|	VERB	| indirect transitive verb: inactive			|
-|	vpos		|	VERB	| postposed verb								|
-|	vs			|	VERB	| serial verb									|
-|	punct		|	PUNCT	| punctuation									|
+| 	XPOS 		| 	UPOS			| XPOSDescription								|
+|---------------|-------------------|-----------------------------------------------|
+|	aspprt		|	PART			| aspect particle								|
+|	coordconn	|	CCONJ/ADV		| coordinating conjunction						|
+|	dem			|	ADV/DET/PRON	| demonstrative									|
+|	discprt		|	PART			| discourse particle							|
+|	focprt		|	PART			| focus particle								|
+|	for			|	X				| foreign token (not code-switching or loan)	|
+|	illocprt	|	PART			| illocutionary particle						|
+|	indfpro		|	PRON			| indefinite pronoun							|
+|	interj		|	INTJ			| interjection									|
+|	interrog	|	PRON			| interrogative pro-form						|
+|	intermod	|	ADV				| interrogative modifier						|
+|	interpron	|	PRON			| interrogative pronoun							|
+|	intprt		|	PART			| interrogative particle						|
+|	mod			|	ADJ/ADV			| modifier										|
+|	modprt		|	PART			| modal particle								|
+|	n			|	NOUN			| noun											|
+|	negprt		|	PART			| negative particle								|
+|	nmlzer		|	SCONJ			| nominalizer									|
+|	nprop		|	PROPN			| proper noun									|
+|	num			|	NUM				| numeral										|
+|	onom		|	INTJ			| onomatopeia									|
+|	post		|	ADP/SCONJ		| postposition									|
+|	pro			|	PRON			| personal pronoun								|
+|	prov		|	VERB			| pro-verb										|
+|	ptcp		|	ADJ/VERB		| participle									|
+|	punct		|	PUNCT			| punctuation									|
+|	qprt		|	PART			| quantificational particle						|
+|	quant		|	ADV/DET/PRON	| quantifier									|
+|	quantprt	|	PART			| quantificational particle						|
+|	rel			|	SCONJ			| relativizer									|
+|	subordconn	|	SCONJ			| subordinating conjunction						|
+|	temprt		|	PART			| temporal particle								|
+|	univpro		|	PRON			| universal pronoun								|
+|	v			|	AUX/VERB		| verb											|
+|	vd			|	VERB			| ditransitive verb								|
+|	vd:a		|	VERB			| indirect transitive verb: active				|
+|	vd:i		|	VERB			| indirect transitive verb: inactive			|
+|	vi			|	ADJ/VERB/AUX	| intransitive verb								|
+|	vi:a		|	ADJ/VERB		| intransitive verb: active						|
+|	vi:i		|	ADJ/VERB/AUX	| intransitive verb: inactive					|
+|	vpos		|	VERB			| postposed verb								|
+|	vs			|	VERB			| serial verb									|
+|	vt			|	VERB			| transitive verb								|
 
 ### Features
 
@@ -102,9 +96,11 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 	* Clusivity has two possible values, In and Ex.
 	* Clusivity uses the layers subj and obj.
 
-* Verbs have a subcategorization feature Subcat with two possible values: Int and Tran.
+* Verbs have a subcategorization feature Subcat with two possible values: Ditran(sitive), Int(ransitive), IntInd(irect) and Tran(sitive).
 
-* Verbs have an optional form feature with four possible values: Part(iciple), Ser(ial), Post(posed verb), Prov(erb).
+* Verbs have a form feature with four possible values: Fin(ite), Inf(inite), Part(iciple), Post(posed verb), Prov(erb), Ser(ial).
+
+* Verbs have a mood feature with three possible values: Des(iderative), Ind(icative), Imp(erative).
 
 * Verbs have an optional Polarity feature with one possible value, Neg.
 
