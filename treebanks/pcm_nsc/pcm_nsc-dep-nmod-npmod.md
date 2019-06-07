@@ -34,12 +34,12 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 9	for	for	ADP	_	_	10	case	_	_
 10	dere	dere	ADV	_	_	8	obl	_	_
 11	<	<	PUNCT	_	_	2	punct	_	_
-12	na	na	PART	_	_	15	cop	_	_
+12	na	na	AUX	PART	_	15	cop	_	_
 13	{	{	PUNCT	_	_	15	punct	_	_
 14	only	only	ADJ	_	_	15	amod	_	_
 15	God	God	PROPN	_	_	0	root	_	_
 16	||	||	PUNCT	_	_	15	punct	_	_
-17	na	na	PART	_	_	19	cop	_	_
+17	na	na	AUX	PART	_	19	cop	_	_
 18	only	only	ADJ	_	_	19	amod	_	_
 19	God	God	PROPN	_	_	15	conj:dicto	_	_
 20	}	}	PUNCT	_	_	19	punct	_	_
@@ -68,8 +68,8 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 8	sey	sey	SCONJ	_	_	13	mark	_	_
 9	[	[	PUNCT	_	_	13	punct	_	_
 10	no	no	INTJ	_	_	13	parataxis:discourse	_	_
-11	o	o	PART	_	_	10	advmod:emph	_	_
-12	na	na	PART	_	_	13	cop	_	_
+11	o	o	ADV	PART	_	10	advmod:emph	_	_
+12	na	na	AUX	PART	_	13	cop	_	_
 13	me	me	PRON	_	_	7	parataxis:obj	_	_
 14	>+	>+	PUNCT	_	_	13	punct	_	_
 15	get	get	VERB	_	_	13	acl:cleft	_	_
@@ -97,7 +97,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 37	}	}	PUNCT	_	_	7	punct	_	_
 38	<+	<+	PUNCT	_	_	7	punct	_	_
 39	#	#	PUNCT	_	_	7	punct	_	_
-40	na	na	PART	_	_	41	cop	_	_
+40	na	na	AUX	PART	_	41	cop	_	_
 41	accident	accident	NOUN	_	_	0	root	_	_
 42	>+	>+	PUNCT	_	_	45	punct	_	_
 43	im	im	PRON	_	_	45	nsubj:expl	_	_
@@ -117,7 +117,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 # visual-style 35 37 nmod:npmod	color:blue
 1	#	#	PUNCT	_	_	35	punct	_	_
 2	as	as	SCONJ	_	_	5	case	_	_
-3	e	e	PRON	_	_	5	mark	_	_
+3	e	e	SCONJ	PRON	_	5	mark	_	_
 4	come	come	AUX	_	_	5	aux	_	_
 5	be	be	VERB	_	_	35	advcl	_	_
 6	sey	sey	SCONJ	_	_	10	mark	_	_
@@ -127,18 +127,18 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 10	try	try	VERB	_	_	5	csubj:quasi	_	_
 11	dem	dem	PRON	_	_	12	nmod:poss	_	_
 12	own	own	ADJ	_	_	10	obj	_	_
-13	o	o	PART	_	_	10	advmod:emph	_	_
+13	o	o	ADV	PART	_	10	advmod:emph	_	_
 14	|c	|c	PUNCT	_	_	19	punct	_	_
 15	and	and	CCONJ	_	_	19	cc	_	_
 16	we	we	PRON	_	_	19	nsubj	_	_
-17	sef	sef	PART	_	_	16	advmod	_	_
+17	sef	sef	ADV	PART	_	16	advmod	_	_
 18	don	don	AUX	_	_	19	aux	_	_
 19	see	see	VERB	_	_	10	conj:coord	_	_
 20	sey	sey	SCONJ	_	_	25	mark	_	_
 21	di	di	DET	_	_	22	det	_	_
 22	motor	motor	NOUN	_	_	25	nsubj	_	_
-23	dem	dem	PART	_	_	22	det	_	_
-24	no	no	PART	_	_	25	advmod	_	_
+23	dem	dem	DET	PART	_	22	det	_	_
+24	no	no	ADV	PART	_	25	advmod	_	_
 25	plenty	plenty	ADJ	_	_	19	ccomp	_	_
 26	reach	reach	VERB	_	_	25	compound:svc	_	_
 27	to	to	ADP	_	_	28	mark	_	_
@@ -147,7 +147,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 30	}	}	PUNCT	_	_	10	punct	_	_
 31	<+	<+	PUNCT	_	_	5	punct	_	_
 32	#	#	PUNCT	_	_	5	punct	_	_
-33	na	na	PART	_	_	35	cop	_	_
+33	na	na	AUX	PART	_	35	cop	_	_
 34	di	di	DET	_	_	35	det	_	_
 35	hand	hand	NOUN	_	_	0	root	_	_
 36	of	of	ADP	_	_	37	case	_	_
@@ -161,10 +161,10 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 44	>+	>+	PUNCT	_	_	48	punct	_	_
 45	di	di	DET	_	_	46	det	_	_
 46	thing	thing	NOUN	_	_	48	nsubj	_	_
-47	come	come	VERB	_	_	48	aux	_	_
+47	come	come	AUX	VERB	_	48	aux	_	_
 48	dey	dey	VERB	_	_	35	acl:cleft	_	_
 49	now	now	ADV	_	_	48	advmod	_	_
-50	o	o	PART	_	_	49	advmod:emph	_	_
+50	o	o	ADV	PART	_	49	advmod:emph	_	_
 51	//	//	PUNCT	_	_	35	punct	_	_
 
 ~~~

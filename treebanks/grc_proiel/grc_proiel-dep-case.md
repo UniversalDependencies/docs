@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15537 nodes (7%) are attached to their parents as `case`.
+15534 nodes (7%) are attached to their parents as `case`.
 
-15425 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58286670528416.
+15420 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58491051886185.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (8536; 55% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2593; 17% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2231; 14% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1570; 10% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (386; 2% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (86; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (8545; 55% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2594; 17% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2238; 14% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1571; 10% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (386; 2% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (86; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 7	ὡς	ὡς	ADV	Df	_	11	advcl	_	ref=1.112.3
 8	ἐξ	ἐκ	ADP	R-	_	9	case	_	ref=1.112.3
 9	ἡμέων	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	ref=1.112.3
-10	ἐόντα	εἰμί#1	AUX	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	cop	_	ref=1.112.3
+10	ἐόντα	εἰμί	AUX	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	cop	_	ref=1.112.3|LId=1
 11	τρέφωμεν	τρέφω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.112.3
 
 ~~~

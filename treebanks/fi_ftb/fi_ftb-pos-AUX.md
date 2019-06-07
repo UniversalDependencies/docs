@@ -6,76 +6,86 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `AUX`
 
-There are 20 `AUX` lemmas (0%), 184 `AUX` types (0%) and 3787 `AUX` tokens (2%).
-Out of 17 observed tags, the rank of `AUX` is: 14 in number of lemmas, 12 in number of types and 12 in number of tokens.
+There are 53 `AUX` lemmas (0%), 554 `AUX` types (1%) and 11161 `AUX` tokens (7%).
+Out of 17 observed tags, the rank of `AUX` is: 11 in number of lemmas, 8 in number of types and 4 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>olla, tulla, tehdä, ei, kasvaa, saada, kehittyä, kehkeytyä, odottaa, täyttää</em>
+The 10 most frequent `AUX` lemmas: <em>olla, ei, voida, pitää, saada, täytyä, tulla, alkaa, saattaa, kannattaa</em>
 
-The 10 most frequent `AUX` types:  <em>on, oli, ovat, ole, olla, ollut, olisi, olivat, olen, tuli</em>
+The 10 most frequent `AUX` types:  <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
 
-The 10 most frequent ambiguous lemmas: <em>olla</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 5791, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 3561), <em>tulla</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 940, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 146), <em>tehdä</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 574, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 30), <em>ei</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 3116, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 22), <em>kasvaa</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 68, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 5), <em>saada</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 730, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 4), <em>kehittyä</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 11, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 3), <em>odottaa</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 109, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2), <em>täyttää</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 29, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2), <em>alkaa</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 147, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>olla</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 6218, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 3134), <em>ei</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2908, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 230), <em>voida</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 652, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 22), <em>pitää</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 306, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 234), <em>saada</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 523, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 211), <em>täytyä</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 121, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 5), <em>tulla</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 976, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 109), <em>alkaa</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 93, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 55), <em>saattaa</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 93, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 9), <em>kannattaa</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 65, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 17)
 
-The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2131, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1538), <em>oli</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 824, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 462), <em>ovat</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 307, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 266), <em>ole</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 409, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 196), <em>olla</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 253, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 136), <em>ollut</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 215, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 103), <em>olisi</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 233, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 76), <em>olivat</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 80, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 79), <em>olen</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 97, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 48), <em>tuli</em> (<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 161, <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 44, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2578, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 1091), <em>ei</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1566, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 135), <em>oli</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 847, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 439), <em>ovat</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 475, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 98), <em>en</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 235, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 15), <em>ole</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 375, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 230), <em>voi</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 301, <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 7), <em>olisi</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 238, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 71), <em>olen</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 121, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 24), <em>eivät</em> (<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 183, <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 16)
 
 
 * <em>on</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 2131: <em>Se <b>on</b> tullunna harmmoopäeseks</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1538: <em>Vanhojen dna-näytteiden käsittely <b>on</b> äärimmäisen vaikeata .</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 2578: <em>Vanhojen dna-näytteiden käsittely <b>on</b> äärimmäisen vaikeata .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 1091: <em>Johtajaton Venäjä <b>on</b> sijaisten käsissä</em>
+* <em>ei</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 1566: <em><b>ei</b> voi ajatellakhaa varhmaan että ne ikinä olis vakinaisia .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 135: <em>Siis se oli mulle järkyttävä kokemus siis voi <b>ei</b></em>
 * <em>oli</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 824: <em>Kuusiston piispanlinnan Kustaa Vaasa <b>oli</b> revittänyt maan tasalle .</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 462: <em>Viime vuoden luku <b>oli</b> 2_400 ja tänä vuonna luku nousee noin 2:aan .</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 847: <em>Viime vuoden luku <b>oli</b> 2_400 ja tänä vuonna luku nousee noin 2:aan .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 439: <em>Hän <b>oli</b> viikon pukeutuneena toppatakkiin</em>
 * <em>ovat</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 307: <em>Sarkian loppusoinnut <b>ovat</b> yleensä briljeeraukseen asti täydelliset .</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 266: <em>Laitoksen tutkimusprojektit <b>ovat</b> olleet taloudellisesti kannattavia .</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 475: <em>Sarkian loppusoinnut <b>ovat</b> yleensä briljeeraukseen asti täydelliset .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 98: <em>Ne <b>ovat</b> vain mielen virkistykseksi .</em>
+* <em>en</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 235: <em><b>en</b> kertoisi</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 15: <em>Sun takias minä tätä puhun , <b>en</b> minä muuten .</em>
 * <em>ole</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 409: <em>ei <b>ole</b> ennää kymmenhiv vuossin</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 196: <em>Sinä et <b>ole</b> yhtään hänen näköisensä !</em>
-* <em>olla</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 253: <em>kahta keskenään erilaisempaa taloa tuskin voisi <b>olla</b></em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 136: <em>rohkeus <b>olla</b> oma itsensä</em>
-* <em>ollut</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 215: <em>Myynnissä <b>ollut</b> asunto ostettiin melkein siltä käymältä .</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 103: <em>Vintti on <b>ollut</b> talossa kattoparrujen alla oleva tuulelle avoin tila .</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 375: <em>Kertaakaan ei <b>ole</b> pyydetty lisäaikaa .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 230: <em>ei <b>ole</b> ennää kymmenhiv vuossin</em>
+* <em>voi</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 301: <em>ei <b>voi</b> ajatellakhaa varhmaan että ne ikinä olis vakinaisia .</em>
+  * <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> 16: <em>Siis se oli mulle järkyttävä kokemus siis <b>voi</b> ei</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 7: <em>Sen hän sentään tietää , että perhe on elossa ja <b>voi</b> hyvin .</em>
 * <em>olisi</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 233: <em>Mieleni <b>olisi</b> tehnyt rynnätä pois koko salista</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 76: <em>Duuman kuohunta <b>olisi</b> kiusallista , mutta ei vielä vaarallista .</em>
-* <em>olivat</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 80: <em>Hanskat <b>olivat</b> autolla</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 79: <em>Noiden aikojen kontratenorit <b>olivat</b> ilmeisesti voimassaan loisteliaita .</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 238: <em>Duuman kuohunta <b>olisi</b> kiusallista , mutta ei vielä vaarallista .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 71: <em>Karayalcin kiisti , että Turkissa <b>olisi</b> lainkaan kurdivähemmistöä .</em>
 * <em>olen</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 97: <em>Harry oli kai onnettomin ihminen , mitä minä <b>olen</b> koskaan tuntenut .</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 48: <em>Tottakai <b>olen</b> valmis tekemään kaikenlaisia töitä .</em>
-* <em>tuli</em>
-  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 161: <em>Yhtenä aamuna se <b>tuli</b> ihan peloissaan kouluun .</em>
-  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 44: <em>Minä lähden sinne rapakon taakse , <b>tuli</b> mitä <b>tuli</b> .</em>
-  * <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 2: <em>laittaa <b>tuli</b> palamaan</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 121: <em>Tottakai <b>olen</b> valmis tekemään kaikenlaisia töitä .</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 24: <em>Ja miksi <b>olen</b> kauttaaltaan jäässä ?</em>
+* <em>eivät</em>
+  * <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> 183: <em><b>eivät</b> ennee keittäneet</em>
+  * <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> 16: <em>Turhautuneisuus johtui siitä , ett <b>eivät</b> --</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.200000 (the average of all parts of speech is 2.048675).
+The form / lemma ratio of `AUX` is 10.452830 (the average of all parts of speech is 2.050767).
 
-The 1st highest number of forms (120) was observed with the lemma “olla”: <em>Lieneekö, Olihan, Olikos, Olinpa, Olipas, Olisinko, Olisitpa, Olisitte, Olkaamme, Ollaanhan, Ollaksesi, Ollos, Onkohan, Onpas, Ootte, liene, lienee, lienemme, lienevät, lienisi, o, ois, oisin, oisko, oj, ol, ole, oleen, olekaan, olekin, oleksä, olemaan, olemasta, olemme, olemmeko, olen, olenkin, olenko, olepa, olet, oletkin, oletko, oletpa, olette, oleva, olevan, olevani, olevansa, olevinaan, olevinasi, oli, olik, olikaan, olikin, oliko, oliks, olimme, olin, olinkin, olinko, olipa, olis, olisi, olisikaan, olisikin, olisiko, olisimme, olisin, olisit, olisivat, olisivatko, olisko, olit, olivat, olkaa, olkoon, olkoonkin, olkoonpa, olkoot, olla, ollaan, ollaanpas, ollakseen, ollapa, olleen, olleet, olleetkaan, ollen, ollessa, ollessaan, ollessani, ollu, olluh, ollut, ollutkaan, oltava, oltiin, oltti, oltu, oltuaan, ol´, olä, on, onhan, onk, onkaan, onkin, onko, onkoha, onks, onpa, oo, ook, oon, oot, ovat, ovathan, ovatkaan, ovatkin, ovatko</em>.
+The 1st highest number of forms (156) was observed with the lemma “olla”: <em>Liekö, Olenhan, Oletkohan, Oletkos, Olikos, Olinpa, Olipas, Olisihan, Olisikohan, Olisinko, Olisitpa, Olisitteko, Olitko, Olkaamme, Ollaanhan, Ollaksesi, Ollos, Oltiinhan, Oltiinkin, Onkohan, Onkos, Onpas, Ooksää, Oom, Oommä, Ootko, Ootsä, Ootte, Oottekste, Ous, lie, liene, lienee, lieneekään, lieneekö, lienemme, lienen, lienevät, lienisi, o, ois, oisi, oisin, oisko, oj, ol, ole, oleen, olekaan, olekin, oleksä, olemaan, olemasta, olemme, olemmeko, olen, olenk, olenkin, olenko, olepa, olet, oletkaan, oletkin, oletko, oletpa, olette, oletteko, oleva, olevan, olevani, olevansa, olevinaan, olevinasi, oli, olihan, olik, olikaan, olikin, oliko, oliks, olimme, olin, olinkin, olinko, olipa, olis, olisi, olisikaan, olisikin, olisiko, olisimme, olisin, olisit, olisitte, olisivat, olisivatko, olisko, olit, olitte, olivat, olkaa, olkoon, olkoonkin, olkoonpa, olkoot, olla, ollaa, ollaan, ollaanpas, ollakseen, ollapa, olleen, olleet, olleetkaan, ollen, ollessa, ollessaan, ollessani, ollu, olluh, ollukkaan, ollut, ollutkaan, olluv, oltais, oltaisi, oltas, oltava, oltiin, oltti, oltu, oltuaan, oltuk, ol´, olä, om, on, onhan, onk, onkaan, onkin, onko, onkoha, onks, onpa, oo, ook, oon, oot, ootteko, os, ovat, ovathan, ovatkaan, ovatkin, ovatko</em>.
 
-The 2nd highest number of forms (19) was observed with the lemma “tulla”: <em>Tuleeko, Tuliko, Tulisiko, tule, tulee, tuleen, tulemaan, tulemme, tuleva, tulevan, tuli, tulisi, tulla, tullee, tulleen, tullunna, tullut, tullutkaan, tuu</em>.
+The 2nd highest number of forms (55) was observed with the lemma “ei”: <em>Eikös, Eipähän, Eivätköhän, Eksää, Emmä, Enköhän, Enpä, Enpäs, Etsä, Ettekö, e, ei, eihä, eihän, eij, eiks, eiks', eikä, eikö, eiköhän, eipa, eipä, eipäs, eivat, eivät, eivätkä, eivätkö, eivätpä, eks, em, emme, emmekä, emminä, en, enhä, enhän, enkä, enkö, enkös, et, ethän, etkä, etkö, ette, ettekä, että, Älkääs, Älähän, Äläs, älkää, älkäämme, älköön, älkööt, älä, äläkä</em>.
 
-The 3rd highest number of forms (16) was observed with the lemma “tehdä”: <em>Tehkää, Teimme, teemme, tehdä, tehdään, tehnyt, tehtiin, tehtäisi, tehtäisiin, tekee, tekemässä, tekevät, teki, tekikin, tekisi, tekivät</em>.
+The 3rd highest number of forms (45) was observed with the lemma “voida”: <em>Voihan, Voinks, Voisikohan, Voisitteko, Voitko, Voitteko, voi, voida, voidaan, voidaanhan, voidaanko, voidakseen, voiko, voimme, voimmekin, voimmeko, voin, voinee, voineet, voinemme, voinko, voinu, voinut, voipa, vois, voisi, voisiko, voisimme, voisin, voisinko, voisitko, voisivat, voit, voitaisiin, voitaisiinko, voitaneen, voitas, voitavan, voitiin, voitte, voitu, voivan, voivani, voivansa, voivat</em>.
 
-`AUX` occurs with 15 features: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt> (3787; 100% instances), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt> (3787; 100% instances), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt> (3412; 90% instances), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt> (3323; 88% instances), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt> (3230; 85% instances), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt> (3112; 82% instances), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt> (353; 9% instances), <tt><a href="fi_ftb-feat-Connegative.html">Connegative</a></tt> (282; 7% instances), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt> (185; 5% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (176; 5% instances), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt> (168; 4% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (72; 2% instances), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt> (22; 1% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (12; 0% instances), <tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt> (5; 0% instances)
+`AUX` occurs with 15 features: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt> (11161; 100% instances), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt> (11161; 100% instances), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt> (10025; 90% instances), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt> (9615; 86% instances), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt> (7837; 70% instances), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt> (6907; 62% instances), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt> (2908; 26% instances), <tt><a href="fi_ftb-feat-Connegative.html">Connegative</a></tt> (876; 8% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (735; 7% instances), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt> (527; 5% instances), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt> (298; 3% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (281; 3% instances), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt> (229; 2% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (18; 0% instances), <tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt> (7; 0% instances)
 
-`AUX` occurs with 48 feature-value pairs: `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Lat`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Ko`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Connegative=Yes`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `PartForm=Past`, `PartForm=Pres`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Neg`, `Style=Coll`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 50 feature-value pairs: `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Lat`, `Case=Nom`, `Case=Par`, `Case=Tra`, `Clitic=Han`, `Clitic=Han,Ko`, `Clitic=Han,Pa`, `Clitic=Ka`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Connegative=Yes`, `InfForm=1`, `InfForm=2`, `InfForm=3`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `PartForm=Past`, `PartForm=Pres`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Neg`, `Style=Coll`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`AUX` occurs with 126 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (1656 tokens).
-Examples: <em>on, tulee, saa, tekee, Alkaa, muodostuu</em>
+`AUX` occurs with 211 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (3317 tokens).
+Examples: <em>on, voi, pitää, täytyy, saattaa, tulee, saa, kannattaa, alkaa, kuuluu</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 1 different relations: <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (3787; 100% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-aux.html">aux</a></tt> (7597; 68% instances), <tt><a href="fi_ftb-dep-cop.html">cop</a></tt> (3561; 32% instances), <tt><a href="fi_ftb-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1875; 50% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1462; 39% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (170; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (166; 4% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (62; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (34; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (7127; 64% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (2121; 19% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (1602; 14% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (178; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (66; 1% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (41; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (3; 0% instances),  (1; 0% instances)
 
-3787 (100%) `AUX` nodes are leaves.
+11148 (100%) `AUX` nodes are leaves.
 
-The highest child degree of a `AUX` node is 0.
+12 (0%) `AUX` nodes have one child.
+
+0 (0%) `AUX` nodes have two children.
+
+1 (0%) `AUX` nodes have three or more children.
+
+The highest child degree of a `AUX` node is 3.
+
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="fi_ftb-dep-punct.html">punct</a></tt> (13; 87% instances), <tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt> (1; 7% instances), <tt><a href="fi_ftb-dep-xcomp.html">xcomp</a></tt> (1; 7% instances)
+
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="fi_ftb-pos-PUNCT.html">PUNCT</a></tt> (13; 87% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (1; 7% instances)
 

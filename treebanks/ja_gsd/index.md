@@ -95,17 +95,17 @@ through discussion and validation with
 
 ## Relations
 
-[acl](ja_gsd-dep-acl.html) – [advcl](ja_gsd-dep-advcl.html) – [advmod](ja_gsd-dep-advmod.html) – [amod](ja_gsd-dep-amod.html) – [aux](ja_gsd-dep-aux.html) – [case](ja_gsd-dep-case.html) – [cc](ja_gsd-dep-cc.html) – [ccomp](ja_gsd-dep-ccomp.html) – [compound](ja_gsd-dep-compound.html) – [cop](ja_gsd-dep-cop.html) – [csubj](ja_gsd-dep-csubj.html) – [dep](ja_gsd-dep-dep.html) – [det](ja_gsd-dep-det.html) – [fixed](ja_gsd-dep-fixed.html) – [iobj](ja_gsd-dep-iobj.html) – [mark](ja_gsd-dep-mark.html) – [nmod](ja_gsd-dep-nmod.html) – [nsubj](ja_gsd-dep-nsubj.html) – [nummod](ja_gsd-dep-nummod.html) – [obj](ja_gsd-dep-obj.html) – [obl](ja_gsd-dep-obl.html) – [punct](ja_gsd-dep-punct.html) – [root](ja_gsd-dep-root.html)
+[acl](ja_gsd-dep-acl.html) – [advcl](ja_gsd-dep-advcl.html) – [advmod](ja_gsd-dep-advmod.html) – [amod](ja_gsd-dep-amod.html) – [aux](ja_gsd-dep-aux.html) – [case](ja_gsd-dep-case.html) – [cc](ja_gsd-dep-cc.html) – [ccomp](ja_gsd-dep-ccomp.html) – [compound](ja_gsd-dep-compound.html) – [cop](ja_gsd-dep-cop.html) – [csubj](ja_gsd-dep-csubj.html) – [dep](ja_gsd-dep-dep.html) – [det](ja_gsd-dep-det.html) – [discourse](ja_gsd-dep-discourse.html) – [dislocated](ja_gsd-dep-dislocated.html) – [fixed](ja_gsd-dep-fixed.html) – [iobj](ja_gsd-dep-iobj.html) – [mark](ja_gsd-dep-mark.html) – [nmod](ja_gsd-dep-nmod.html) – [nsubj](ja_gsd-dep-nsubj.html) – [nummod](ja_gsd-dep-nummod.html) – [obj](ja_gsd-dep-obj.html) – [obl](ja_gsd-dep-obl.html) – [punct](ja_gsd-dep-punct.html) – [root](ja_gsd-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 8195 sentences and 184348 tokens.</li>
+<li>This corpus contains 8186 sentences and 184118 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 183692 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 183469 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus contains 77 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, ら・むうん, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A&M, A.T, D.C.I, E.T, IT'SFRIDAY, J.Z, Jr., L'Arc, L'Orateurdu, L.E.D, O'Malley, PaulKantner's, S&P, ZYX-α, h​t​t​p​:​/​/​e​n​.​w​i​k​i​p​e​d​i​a​.​o​r​g​/​w​i​k​i​/​A​c​u​t​e​_​i​n​t​e​r​m​i​t​t​e​n​t​_​p​o​r​p​h​y​r​i​a, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, アテナ&ロビケロッツ, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン</li>
+<li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, ら・むうん, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A&M, A.T, D.C.I, E.T, IT'SFRIDAY, J.Z, Jr., L'Arc, L'Orateurdu, L.E.D, O'Malley, PaulKantner's, S&P, ZYX-α, ”する, ”に, 、で, 、といった, 、など, 、の, 、を, 」し, アテナ&ロビケロッツ, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン</li>
 </ul>
 
 <ul>
@@ -148,7 +148,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>Out of the above, 48 lemmas occurred sometimes as AUX and sometimes as VERB: あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, おく, おる, かける, きる, くださる, くれる, しまう, すぎる, する, せる, だす, つづける, できる, なさる, なる, はじめる, ます, みせる, みる, もらう, やる, ゆく, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 来る, 直す, 終わる, 続ける, 行く, 過ぎる, 頂く</li>
+<li>Out of the above, 49 lemmas occurred sometimes as AUX and sometimes as VERB: あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, おく, おる, かける, きる, くださる, くれる, こむ, しまう, すぎる, する, せる, だす, つづける, できる, なさる, なる, はじめる, ます, みせる, みる, もらう, やる, ゆく, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 来る, 直す, 終わる, 続ける, 行く, 過ぎる, 頂く</li>
 </ul>
 
 <ul>
@@ -212,7 +212,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus uses 117 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, れる, だ, ます, ない, こと, ようだ, られる, なる, おる, せる, う, 来る, できる, たい, しまう, くれる, いく, そうだ, ける, たら, もらう, みる, える, べし, なら, やすい, くださる, 続ける, いただく, らしい, める, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 頂く, ある, ちゃう, 込む, おく, なければ, もらえる.</li>
+<li>This corpus uses 116 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, れる, だ, ます, ない, ようだ, られる, なる, おる, せる, う, 来る, できる, たい, しまう, くれる, いく, そうだ, たら, ける, もらう, みる, える, べし, なら, やすい, くださる, 続ける, いただく, らしい, める, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 頂く, ある, ちゃう, 込む, おく, なければ, もらえる, させる.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -229,11 +229,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(など)-ADP(が) (35)</li>
       <li>VERB--NOUN-ADP(など)-ADP(は) (7)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(が) (1)</li>
-      <li>VERB--NOUN-ADP(は) (1882)</li>
+      <li>VERB--NOUN-ADP(は) (1756)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(が) (2)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
-      <li>VERB--PRON-ADP(が) (51)</li>
-      <li>VERB--PRON-ADP(は) (116)</li>
+      <li>VERB--PRON-ADP(が) (50)</li>
+      <li>VERB--PRON-ADP(は) (110)</li>
     </ul>
   </li>
 </ul>
@@ -251,12 +251,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (5)</li>
       <li>VERB--NOUN-ADP(ほど)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(を) (4504)</li>
+      <li>VERB--NOUN-ADP(を) (4498)</li>
       <li>VERB--NOUN-ADP(を)-ADP(と)-ADP(も) (2)</li>
       <li>VERB--NOUN-ADP(を)-ADP(はじめ) (4)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
       <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>
-      <li>VERB--PRON-ADP(を) (84)</li>
+      <li>VERB--PRON-ADP(を) (85)</li>
     </ul>
   </li>
 </ul>
@@ -271,15 +271,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(は) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(も) (3)</li>
       <li>VERB--NOUN-ADP(なり)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(に) (3530)</li>
+      <li>VERB--NOUN-ADP(に) (3525)</li>
       <li>VERB--NOUN-ADP(に)-ADP(しか) (2)</li>
       <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(で)-ADP(も) (1)</li>
       <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(は) (2)</li>
       <li>VERB--NOUN-ADP(に)-ADP(と) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(は) (393)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(は) (394)</li>
       <li>VERB--NOUN-ADP(に)-ADP(は)-ADP(と) (1)</li>
       <li>VERB--NOUN-ADP(に)-ADP(まで) (10)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(も) (107)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(も) (108)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(は)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(ほど)-ADP(に) (1)</li>
@@ -302,5 +302,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 14 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

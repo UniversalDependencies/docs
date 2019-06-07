@@ -9,85 +9,60 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3495 tokens (4%) have a non-empty value of `Person`.
-1049 types (4%) occur at least once with a non-empty value of `Person`.
-744 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2012; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (909; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (410; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (164; 0% instances).
+3055 tokens (3%) have a non-empty value of `Person`.
+992 types (3%) occur at least once with a non-empty value of `Person`.
+696 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2121; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (894; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (40; 0% instances).
 
 ### `VERB`
 
-2012 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Person`.
+2121 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2012; 100%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2012; 100%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2011; 100%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2011; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2011; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1977; 98%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1912; 95%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1889; 94%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1458; 72%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1367; 68%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2121; 100%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2121; 100%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2120; 100%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2120; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2120; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2099; 99%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2029; 96%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2011; 95%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1545; 73%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1361; 64%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (30; 1% of non-empty `Person`): <em>видим, знаем, очистим, рассмотрим, Must, Благодарю, Думаю, Наложим, Откроем, Покажем</em>
-* `2` (37; 2% of non-empty `Person`): <em>см., Come, Join, Create, Hide, Libera, Raise, Ram, Shoot, Stay</em>
-* `3` (1945; 97% of non-empty `Person`): <em>составляет, может, находится, входит, имеет, есть, занимает, могут, относится, работает</em>
-* `EMPTY` (6372): <em>получил, стал, можно, родился, начал, было, работал, окончил, стала, род.</em>
+* `1` (29; 1% of non-empty `Person`): <em>видим, знаем, очистим, рассмотрим, Благодарю, Думаю, Наложим, Откроем, Покажем, Предположим</em>
+* `2` (24; 1% of non-empty `Person`): <em>см., Будь, ПРосыпайся, Пощадите, Создай, Ср., балуетесь, балуйтесь, введи, выходите</em>
+* `3` (2068; 98% of non-empty `Person`): <em>является, составляет, может, находится, входит, имеет, есть, занимает, могут, являются</em>
+* `EMPTY` (6373): <em>стал, получил, можно, родился, начал, было, работал, стала, окончил, род.</em>
 
 <table>
-  <tr><th>Paradigm <i>ХОТЕТЬ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><th>Paradigm <i>хотеть</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>хочет</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>хотим</em></td><td><em>хотите</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 97% lemmas (691) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 97% lemmas (666) occur only with one value of `Person`.
 
 ### `PRON`
 
-909 <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `Person`.
+894 <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (909; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (683; 75%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (481; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (894; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (673; 75%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (473; 53%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (450; 50%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (71; 8% of non-empty `Person`): <em>я, мы, нам, нас, мне, меня, I, Ich, We, me</em>
-* `2` (20; 2% of non-empty `Person`): <em>вы, вам, Ye, тебе, You, ti, вас, тебя, тобою, ты</em>
-* `3` (818; 90% of non-empty `Person`): <em>он, она, они, его, ему, им, их, них, него, ним</em>
-* `EMPTY` (1016): <em>который, это, которые, что, того, которой, тем, которых, себя, которого</em>
-
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `Person`.
-
-### `DET`
-
-410 <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (410; 100%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (373; 91%), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (359; 88%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (359; 88%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (359; 88%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `1` (47; 11% of non-empty `Person`): <em>н., наших, наши, наше, нашей, моей, мой, моя, нашего, mia</em>
-* `2` (4; 1% of non-empty `Person`): <em>твоего, Твой</em>
-* `3` (359; 88% of non-empty `Person`): <em>его, её, их, ее</em>
-* `EMPTY` (1187): <em>этого, все, своей, этот, the, всех, том, то, это, свою</em>
+* `1` (63; 7% of non-empty `Person`): <em>я, мы, нам, нас, мне, меня, мной, нами</em>
+* `2` (16; 2% of non-empty `Person`): <em>вы, вам, тебе, вас, тебя, тобою, ты</em>
+* `3` (815; 91% of non-empty `Person`): <em>он, она, они, его, ему, им, их, них, него, ним</em>
+* `EMPTY` (1024): <em>который, это, которые, того, что, которой, тем, которых, себя, которого</em>
 
 ### `AUX`
 
-164 <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Person`.
+40 <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (164; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (164; 100%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (163; 99%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 77%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (126; 77%), <tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Mid</tt> (115; 70%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (40; 100%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 100%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (40; 100%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (38; 95%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 75%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (5; 3% of non-empty `Person`): <em>bin, Am, Don, re</em>
-* `3` (159; 97% of non-empty `Person`): <em>является, будет, являются, будут, есть, Has, est, бывают, могут, называется</em>
-* `EMPTY` (848): <em>был, была, были, было, быть, это, будучи, являлся, стал, стала</em>
-
-`Person` seems to be **lexical feature** of `AUX`. 100% lemmas (12) occur only with one value of `Person`.
+* `3` (40; 100% of non-empty `Person`): <em>будет, будут, есть</em>
+* `EMPTY` (768): <em>был, были, была, было, быть, будучи, бы, бывшего, бывшие, бывшим</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (173; 77%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 89%),
-<tt>AUX --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 75%),
-<tt>AUX --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),
-<tt>AUX --[<tt><a href="ru_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (2; 100%),
-<tt>AUX --[<tt><a href="ru_gsd-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ru_gsd-dep-case.html">case</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ru_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (190; 79%),
+<tt>VERB --[<tt><a href="ru_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (65; 51%),
 <tt>VERB --[<tt><a href="ru_gsd-dep-ccomp.html">ccomp</a></tt>]--> PRON</tt> (1; 100%).
 

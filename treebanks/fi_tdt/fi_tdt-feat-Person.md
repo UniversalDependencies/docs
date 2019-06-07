@@ -11,24 +11,24 @@ It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt>, <tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-24771 tokens (12%) have a non-empty value of `Person`.
-4721 types (9%) occur at least once with a non-empty value of `Person`.
-1658 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (12127; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (9862; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2782; 1% instances).
+24780 tokens (12%) have a non-empty value of `Person`.
+4688 types (9%) occur at least once with a non-empty value of `Person`.
+1650 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (11685; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10306; 5% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (2789; 1% instances).
 
 ### `VERB`
 
-12127 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
+11685 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12127; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (12127; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (12127; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (12127; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12127; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12127; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10712; 88%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9791; 81%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (11685; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11685; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10710; 92%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9410; 81%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `0` (410; 3% of non-empty `Person`): <em>on, saa, tulee, ei, tuli, tuntuu, sai, kannattaa, oli, tulisi</em>
-* `1` (2070; 17% of non-empty `Person`): <em>haluaisin, haluan, sain, enkä, huomasin, etten, toivon, ajattelin, näin, ostin</em>
-* `2` (584; 5% of non-empty `Person`): <em>lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</em>
-* `3` (9063; 75% of non-empty `Person`): <em>eikä, sai, tulee, ettei, tuli, sanoi, ottaa, on, kertoo, sanoo</em>
-* `EMPTY` (15667): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, saa, antaa</em>
+* `0` (407; 3% of non-empty `Person`): <em>on, saa, tulee, tuli, ei, tuntuu, sai, kannattaa, oli, tulisi</em>
+* `1` (1997; 17% of non-empty `Person`): <em>haluaisin, haluan, sain, huomasin, toivon, ajattelin, näin, ostin, sanoin, kävin</em>
+* `2` (576; 5% of non-empty `Person`): <em>lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</em>
+* `3` (8705; 74% of non-empty `Person`): <em>sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</em>
+* `EMPTY` (15683): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, saa, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -50,17 +50,17 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-9862 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Person`.
+10306 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9862; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9862; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8553; 87%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7920; 80%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7228; 73%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5621; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10306; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10306; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8937; 87%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7923; 77%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7230; 70%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5622; 55%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `0` (494; 5% of non-empty `Person`): <em>on, voi, pitäisi, pitää, olisi, oli, voisi, täytyy, piti, onkin</em>
-* `1` (769; 8% of non-empty `Person`): <em>en, olen, olin, olemme, emme, olisin, voimme, voin, enkä, voisin</em>
-* `2` (168; 2% of non-empty `Person`): <em>et, olet, älä, voit, olisit, voitte, älkää, ole, olette, ette</em>
-* `3` (8431; 85% of non-empty `Person`): <em>on, ei, oli, ovat, olisi, voi, eivät, olivat, voivat, onko</em>
-* `EMPTY` (1802): <em>ole, olla, ollut, voidaan, voi, olevan, olisi, olleet, voinut, voida</em>
+* `1` (842; 8% of non-empty `Person`): <em>en, olen, olin, olemme, emme, enkä, olisin, voimme, voin, voisin</em>
+* `2` (176; 2% of non-empty `Person`): <em>et, olet, älä, voit, olisit, voitte, älkää, ette, ole, olette</em>
+* `3` (8794; 85% of non-empty `Person`): <em>on, ei, oli, ovat, olisi, voi, eivät, eikä, olivat, voivat</em>
+* `EMPTY` (1804): <em>ole, olla, ollut, voidaan, voi, olevan, olisi, olleet, voinut, voida</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko,S</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>onkos</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td><em>Olisko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>olisiko</em></td><td><em>olisiko</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>oot</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Oonks</em></td><td><em>oot</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olinko</em></td><td></td><td><em>oliko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olenko</em></td><td><em>oletko</em></td><td><em>onko</em></td><td><em>onko</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ootteko</em></td><td><em>onko</em></td><td></td></tr>
@@ -120,21 +120,21 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-2782 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Person`.
+2789 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2782; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2046; 74%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2789; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2053; 74%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1040; 37% of non-empty `Person`): <em>minä, meidän, mä, me, minun, minua, meillä, minulla, minut, minulle</em>
-* `2` (253; 9% of non-empty `Person`): <em>sinä, sä, sinun, teitä, te, sinua, sinulle, teille, sinulla, sinut</em>
-* `3` (1489; 54% of non-empty `Person`): <em>hän, hänen, he, heidän, hänet, häntä, hänelle, hänellä, hänestä, heitä</em>
-* `EMPTY` (10681): <em>se, sen, joka, sitä, siitä, tämän, tämä, ne, jotka, mitä</em>
+* `1` (1046; 38% of non-empty `Person`): <em>minä, meidän, mä, me, minun, minua, meillä, minulla, minut, minulle</em>
+* `2` (254; 9% of non-empty `Person`): <em>sinä, sä, sinun, teitä, te, sinua, sinulle, teille, sinulla, sinut</em>
+* `3` (1489; 53% of non-empty `Person`): <em>hän, hänen, he, heidän, hänet, häntä, hänelle, hänellä, hänestä, heitä</em>
+* `EMPTY` (10694): <em>se, sen, joka, sitä, siitä, tämän, tämä, ne, jotka, kaikki</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1308; 63%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1307; 63%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (7; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),

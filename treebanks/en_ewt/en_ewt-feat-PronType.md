@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Art`, `Dem`, `Int`, `Prs`, `Rel`.
 
-41393 tokens (16%) have a non-empty value of `PronType`.
-133 types (1%) occur at least once with a non-empty value of `PronType`.
-54 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (21647; 8% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (17904; 7% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1842; 1% instances).
+41402 tokens (16%) have a non-empty value of `PronType`.
+137 types (1%) occur at least once with a non-empty value of `PronType`.
+55 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (21656; 8% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (17904; 7% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1842; 1% instances).
 
 ### `PRON`
 
-21647 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
+21656 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (17991; 83%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16832; 78%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11915; 55%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11769; 54%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (17999; 83%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16840; 78%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11916; 55%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11775; 54%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Art` (1; 0% of non-empty `PronType`): <em>The</em>
 * `Dem` (1002; 5% of non-empty `PronType`): <em>this, that, those, these</em>
 * `Int` (710; 3% of non-empty `PronType`): <em>what, which, who, whom, whatever, whose, who's, Wtf, ever, waht</em>
-* `Prs` (18650; 86% of non-empty `PronType`): <em>i, you, it, they, my, we, he, your, me, their</em>
+* `Prs` (18659; 86% of non-empty `PronType`): <em>i, you, it, they, my, we, he, your, me, their</em>
 * `Rel` (1284; 6% of non-empty `PronType`): <em>that, who, which, whom, what, whose</em>
-* `EMPTY` (1308): <em>there, anyone, something, anything, nothing, someone, everything, everyone, one, mine</em>
+* `EMPTY` (1300): <em>there, anyone, something, anything, nothing, someone, everything, everyone, one, mine</em>
 
 <table>
   <tr><th>Paradigm <i>that</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Dem` (775; 42% of non-empty `PronType`): <em>there, then, here, that</em>
 * `Int` (957; 52% of non-empty `PronType`): <em>when, how, why, where, whenever, ever, wherever, however, were, y</em>
 * `Rel` (110; 6% of non-empty `PronType`): <em>where, that, when, why, how, were, wherein</em>
-* `EMPTY` (11203): <em>so, just, very, also, now, even, only, as, back, well</em>
+* `EMPTY` (11202): <em>so, just, very, also, now, even, only, as, back, well</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -76,6 +76,5 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> PRON</tt> (28; 74%),
 <tt>PRON --[<tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> PRON</tt> (3; 100%),
 <tt>ADV --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="en_ewt-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).
 

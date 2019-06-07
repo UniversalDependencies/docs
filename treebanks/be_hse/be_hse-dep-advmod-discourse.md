@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="be_hse-dep-advmod.html">advmod</a></tt>.
 
-29 nodes (0%) are attached to their parents as `advmod:discourse`.
+31 nodes (0%) are attached to their parents as `advmod:discourse`.
 
-26 instances of `advmod:discourse` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93103448275862.
+28 instances of `advmod:discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96774193548387.
 
-The following 7 pairs of parts of speech are connected with `advmod:discourse`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (9; 31% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (6; 21% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (5; 17% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 14% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (3; 10% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="be_hse-pos-X.html">X</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `advmod:discourse`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (11; 35% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (6; 19% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (5; 16% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (4; 13% instances), <tt><a href="be_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (3; 10% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="be_hse-pos-SYM.html">SYM</a></tt>-<tt><a href="be_hse-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -28,8 +28,8 @@ The following 7 pairs of parts of speech are connected with `advmod:discourse`: 
 4	і	і	PART	UH	_	6	advmod:discourse	_	_
 5	аб	аб	ADP	IN	_	6	case	_	_
 6	пакаранні	пакаранне	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
-7	Дзмітрыя	дзмітрый	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	Канавалава	канавалаў	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	SpaceAfter=No
+7	Дзмітрыя	Дзмітрый	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	Канавалава	Канавалаў	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

@@ -95,11 +95,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 15808 tokens.</li>
+<li>This corpus contains 1000 sentences, 15807 tokens and 15813 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2351 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 2350 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -107,10 +107,12 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 290 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
+<li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
 </ul>
 
 <ul>
+<li>This corpus contains 6 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 5 types of multi-word tokens. Examples: ettei, ellei, etteivät, etten, miksei.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -126,7 +128,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as pronouns (PRON): ainoa, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jokunen, kaikki, koko, kuka, kukaan, kumpi, mikä, mikään, minä, molemmat, moni, monta, muu, muutama, sama, se, sinä, toinen, tuo, tämä, yksi</li>
+<li>This corpus contains 30 lemmas tagged as pronouns (PRON): ainoa, eräs, harva, hän, itse, joka, jokainen, jokin, joku, jokunen, kaikki, koko, kuka, kukaan, kumpi, mikä, mikään, minä, molemmat, moni, monta, muu, muutama, sama, se, sinä, toinen, tuo, tämä, yksi</li>
 </ul>
 
 <ul>
@@ -152,7 +154,7 @@ employ ten-fold cross-validation.
   <li>Fin
   <ul>
     <li>AUX: on, oli, ei, ovat, ole, voi, olivat, eivät, olisi, voisi</li>
-    <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
+    <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</li>
   </ul>
   </li>
 </ul>
@@ -204,7 +206,7 @@ employ ten-fold cross-validation.
   <li>Sing
     <ul>
       <li>ADJ: suurin, uuden, ensimmäinen, ensimmäisen, suuri, ensimmäistä, pienen, korkean, mahdollista, poliittisen</li>
-      <li>AUX-Fin: on, oli, ei, voi, voisi, olisi, täytyy, en, olen, pitäisi</li>
+      <li>AUX-Fin: on, oli, ei, voi, voisi, olisi, täytyy, eikä, en, olen</li>
       <li>AUX-Inf: olla, ollessa, Saattaa, Voidakseen, olemaan, ollakin</li>
       <li>AUX-Part: ollut, olevan, oltu, olevansa, aikonut, olleen, pitänyt, täytynyt, voinut</li>
       <li>NOUN: vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, osa, kertaa, sodan</li>
@@ -213,7 +215,7 @@ employ ten-fold cross-validation.
       <li>PROPN: of, Ranskan, Australian, Kiinan, Hong, Venäjän, de, the, Euroopan, Britannian</li>
       <li>PUNCT: ., ”</li>
       <li>SYM: %:lla, %:n</li>
-      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
+      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</li>
       <li>VERB-Inf: tehdä, liittyen, lukien, olemassa, johtaa, johtuen, käyttämällä, nähdä, palata, saadakseen</li>
       <li>VERB-Part: tullut, käytetty, oleva, saanut, tehty, halunnut, olevaa, päättänyt, tehnyt, alkanut</li>
     </ul>
@@ -310,7 +312,7 @@ employ ten-fold cross-validation.
       <li>NOUN: vuonna, aikana, päivänä, tuloksena, osana, tarkoituksena, tiistaina, vuosina, aamuna, kokonaisuutena</li>
       <li>NUM: seitsemänä</li>
       <li>PRON: tänä, samana, minään, muina, niinä, sinä, yhtenä</li>
-      <li>PROPN: Etelä-Kaukasiana, Pohjois-Carolina</li>
+      <li>PROPN: Etelä-Kaukasiana, Pohjois-Carolina, Pohjois-Kaukasiana</li>
       <li>VERB-Part: katsottuna, edustettuina, johtamina, kiinnitettynä, lämmittävänä, muotoiltuna, sanottuna, vaikuttavana, verrattuna, vierailevana</li>
     </ul>
   </li>
@@ -337,7 +339,7 @@ employ ten-fold cross-validation.
       <li>ADJ: useisiin, kansallisiin, pieniin, Kolmanteen, Thaimaalaisiin, Tämänhetkisiin, aseelliseen, digitaaliseen, epätavallisempiin, epätavanomaisiin</li>
       <li>AUX-Inf: olemaan</li>
       <li>NOUN: vuoteen, aikaan, käyttöön, kouluun, osaan, aikoihin, etelään, golf-turnaukseen, juutalaisuuteen, kapinaan</li>
-      <li>NUM: kahteen, 50:een, kolmeen, kuuteen, miljoonaan</li>
+      <li>NUM: kahteen, 50:een, kolmeen, kuuteen, miljoonaan, mrd., yhteen</li>
       <li>PRON: samaan, siihen, tähän, muihin, joihin, niihin, Kaikkiin, Tuohon, johon, moniin</li>
       <li>PROPN: Aasiaan, Adrianmereen, Agoraan, Albaniaan, Albanyyn, Amerikkoihin, Amurruun, Angelesiin, Belgradiin, Britanniaan</li>
       <li>VERB-Inf: hoitamaan, kilpailemaan, laittamaan, ottamaan, pitämään, tuottamaan, ajattelemaan, ansiojärjestelmään, asumaan, auttamaan</li>
@@ -355,7 +357,7 @@ employ ten-fold cross-validation.
       <li>NUM: kahdessa, yhdessä, kuudessa</li>
       <li>PRON: jossa, joissa, missä, Tässä, missään, näissä, siinä, Eräässä, hänessä, joissain</li>
       <li>PROPN: Isossa-Britanniassa, Saksassa, Ukrainassa, Aasiassa, Abbotsfordissa, Afrikassa, Alankomaissa, Alaskassa, Australiassa, Badarpurissa</li>
-      <li>VERB-Inf: olemassa, Puhuessaan, Viettäessään, antaessaan, eläessään, etsiessään, juhlimassa, katsomassa, kiirehtiessään, kuluessa</li>
+      <li>VERB-Inf: olemassa, tulossa, Puhuessaan, Viettäessään, antaessaan, eläessään, etsiessään, juhlimassa, katsomassa, kiirehtiessään</li>
       <li>VERB-Part: allekirjoitetussa, liittyvissä, hallittavissa, käytettävissä, käytettävissään, lisääntyvässä, löydettävissä, pullistavassa, sijaitsevassa, sijaitsevissa</li>
     </ul>
   </li>
@@ -392,7 +394,7 @@ employ ten-fold cross-validation.
       <li>ADJ: uusia, useita, ensimmäistä, lukuisia, erilaisia, mahdollista, suuria, uutta, mahtavaa, aikaista</li>
       <li>NOUN: kertaa, vuotta, ihmisiä, dollaria, puntaa, euroa, maata, mahdollisuutta, henkeä, lokakuuta</li>
       <li>NUM: miljoonaa, kahta, miljardia, kymmeniä, miljardeja, neljää, satoja, tuhansia, tuhatta, yhtäkään</li>
-      <li>PRON: sitä, mitä, jota, häntä, joita, monta, niitä, tätä, muuta, näitä</li>
+      <li>PRON: sitä, jota, mitä, häntä, joita, monta, niitä, tätä, muuta, näitä</li>
       <li>PROPN: Andya, Italiaa, Mongoliaa, Abakumovia, Antarktista, Brandsia, Chrisiä, Churchillia, Danevirkea, Etelä-Amerikkaa</li>
       <li>VERB-Part: olevaa, Palattuaan, Päätettyään, altistuneita, aseistettuja, asuttuaan, asuvaa, ehdotettuja, estettyä, hermostunutta</li>
     </ul>
@@ -458,8 +460,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: ei, eivät, en, emme, Eikö</li>
-      <li>VERB-Fin: eikä, ettei, ei, eivät, ellei, etteivät, etten, miksei</li>
+      <li>AUX-Fin: ei, eivät, eikä, en, emme, Eikö</li>
+      <li>VERB-Fin: ei, eivät</li>
     </ul>
   </li>
 </ul>
@@ -515,8 +517,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: on, ovat, ole, voi, täytyy, voivat, olemme, olen, onko, voidaan</li>
-      <li>VERB-Fin: tulee, sanoo, auttaa, pidetään, kuuluvat, pitää, toimii, alkaa, haluaa, kuuluu</li>
+      <li>AUX-Fin: on, ovat, ole, voi, täytyy, voivat, olemme, olen, onko, pitää</li>
+      <li>VERB-Fin: tulee, sanoo, auttaa, pidetään, kuuluvat, toimii, alkaa, haluaa, kuuluu, liittyy</li>
     </ul>
   </li>
 </ul>
@@ -531,8 +533,8 @@ employ ten-fold cross-validation.
       <li>AUX-Fin: on, oli, ei, ovat, olivat, voi, eivät, voisi, olisi, täytyy</li>
       <li>AUX-Inf: olla, ollessa, Saattaa, Voidakseen, olemaan, ollakin</li>
       <li>AUX-Part: ollut, olleet, olevan, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt, voineet</li>
-      <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</li>
-      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
+      <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, johti, sai, syntyi</li>
+      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</li>
       <li>VERB-Inf: tehdä, liittyen, lukien, olemassa, johtaa, johtuen, käyttämällä, nähdä, palata, saadakseen</li>
       <li>VERB-Part: tullut, oleva, olevat, saanut, halunnut, olevaa, päättänyt, tehnyt, alkanut, havaitsemaan</li>
     </ul>
@@ -614,7 +616,6 @@ employ ten-fold cross-validation.
 <ul>
   <li>Card
     <ul>
-      <li>ADJ: 2017, 1820, 1947</li>
       <li>NUM: kaksi, kolme, 10, 3, kahden, yksi, 1492, 2010, 2012, 2014</li>
       <li>PUNCT: -</li>
     </ul>
@@ -651,8 +652,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>0
     <ul>
-      <li>AUX-Fin: Voi</li>
-      <li>VERB-Fin: Vaikutti, haluaa, hämärtää, kävi, pääsee, saa, tulee, täytyy</li>
+      <li>AUX-Fin: Voi, täytyy</li>
+      <li>VERB-Fin: Vaikutti, haluaa, hämärtää, kävi, pääsee, saa, tulee</li>
     </ul>
   </li>
 </ul>
@@ -681,7 +682,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX-Fin: on, oli, ei, ovat, olivat, voi, eivät, voisi, olisi, täytyy</li>
       <li>PRON: hän, hänen, he, heidän, hänet, häntä, hänelle, heillä, hänellä, hänestä</li>
-      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
+      <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</li>
     </ul>
   </li>
 </ul>
@@ -720,6 +721,7 @@ employ ten-fold cross-validation.
       <li>Yes
         <ul>
           <li>NOUN: eKr., jKr., DNA:n, eaa., BBC, BBC:lle, USA:han, USA:n, VW:lle, VW:n</li>
+          <li>NUM: mrd.</li>
           <li>PROPN: YK:n, BBC:lle, BBC:n, CNN:n, EKP:n, EU:n, EU:sta, GCA, GCA:ssa, Jr.:lle</li>
         </ul>
       </li>
@@ -749,7 +751,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>Ka
         <ul>
-          <li>VERB-Fin: eikä</li>
+          <li>AUX-Fin: eikä</li>
         </ul>
       </li>
       <li>Kaan
@@ -936,7 +938,7 @@ employ ten-fold cross-validation.
       <li>3
         <ul>
           <li>AUX-Inf: olemaan</li>
-          <li>VERB-Inf: olemassa, käyttämällä, hoitamaan, kilpailemaan, laittamaan, osoittamasta, ottamaan, pitämään, tuottamaan, uskomasta</li>
+          <li>VERB-Inf: olemassa, käyttämällä, hoitamaan, kilpailemaan, laittamaan, osoittamasta, ottamaan, pitämään, tulossa, tuottamaan</li>
         </ul>
       </li>
     </ul>
@@ -986,8 +988,8 @@ employ ten-fold cross-validation.
       <li>3
         <ul>
           <li>ADJ: kaltaisensa, omansa, parastaan</li>
-          <li>ADP: kanssaan, haltuunsa, jälkeensä, mukanaan, välilleen</li>
-          <li>ADV: sisällään, mukanaan, päälleen, ympärillään</li>
+          <li>ADP: kanssaan, välilleen</li>
+          <li>ADV: sisällään, mukanaan, haltuunsa, jälkeensä, päälleen, ympärillään</li>
           <li>AUX-Inf: Voidakseen</li>
           <li>AUX-Part: olevansa</li>
           <li>NOUN: vaimonsa, elämänsä, kautensa, ikänsä, joukkonsa, paikkansa, terveydestään, tiensä, tyttärensä, veljensä</li>
@@ -1022,7 +1024,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voida, täytyä, pitää, saattaa, aikoa, täytyy.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voida, täytyä, pitää, saattaa, aikoa.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
 </ul>
 
@@ -1033,12 +1035,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Nom (355)</li>
+      <li>VERB-Fin--NOUN-Nom (357)</li>
       <li>VERB-Fin--NOUN-Par (14)</li>
       <li>VERB-Fin--PRON-Nom (260)</li>
       <li>VERB-Fin--PRON-Par (7)</li>
       <li>VERB-Inf--NOUN-Gen (9)</li>
-      <li>VERB-Inf--NOUN-Nom (31)</li>
+      <li>VERB-Inf--NOUN-Nom (33)</li>
       <li>VERB-Inf--NOUN-Par (10)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Gen (16)</li>
@@ -1048,7 +1050,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (53)</li>
       <li>VERB-Part--NOUN-Par (3)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
-      <li>VERB-Part--PRON-Nom (35)</li>
+      <li>VERB-Part--PRON-Nom (34)</li>
     </ul>
   </li>
 </ul>
@@ -1059,13 +1061,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ela (1)</li>
       <li>VERB-Fin--NOUN-Gen (127)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
-      <li>VERB-Fin--NOUN-Nom (78)</li>
+      <li>VERB-Fin--NOUN-Nom (79)</li>
       <li>VERB-Fin--NOUN-Par (219)</li>
       <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Gen (11)</li>
       <li>VERB-Fin--PRON-Nom (16)</li>
       <li>VERB-Fin--PRON-Par (48)</li>
-      <li>VERB-Inf--NOUN-Gen (42)</li>
+      <li>VERB-Inf--NOUN-Gen (43)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(kanssa) (1)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
       <li>VERB-Inf--NOUN-Par (100)</li>

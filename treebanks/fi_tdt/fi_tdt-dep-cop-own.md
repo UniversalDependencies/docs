@@ -22,12 +22,12 @@ The following 5 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop:own	color:blue
-1	Lapsina	lapsi	NOUN	N	Case=Ess|Number=Plur	2	obl	_	_
-2	meillä	minä	PRON	Pron	Case=Ade|Number=Plur|Person=1|PronType=Prs	0	root	_	_
-3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop:own	_	_
-4	maalla	maa	NOUN	N	Case=Ade|Number=Sing	2	obl	_	_
-5	satumetsä	satu#metsä	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	_	SpaceAfter=No
-6	.	.	PUNCT	Punct	_	2	punct	_	_
+1	Lapsina	lapsi	NOUN	N	Case=Ess|Number=Plur	2	obl	2:obl	_
+2	meillä	minä	PRON	Pron	Case=Ade|Number=Plur|Person=1|PronType=Prs	0	root	0:root	_
+3	oli	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop:own	2:cop:own	_
+4	maalla	maa	NOUN	N	Case=Ade|Number=Sing	2	obl	2:obl	_
+5	satumetsä	satu#metsä	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	2:nsubj:cop	SpaceAfter=No
+6	.	.	PUNCT	Punct	_	2	punct	2:punct	_
 
 ~~~
 
@@ -38,13 +38,13 @@ The following 5 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 cop:own	color:blue
-1	Kielenopiskelijoilla	kieli#opiskelija	NOUN	N	Case=Ade|Derivation=Ja|Number=Plur	0	root	_	_
-2	taas	taas	ADV	Adv	_	1	advmod	_	_
-3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop:own	_	_
-4	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	_
-5	erillistä	erillinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	6	amod	_	_
-6	järjestelmää	järjestelmä	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
-7	.	.	PUNCT	Punct	_	1	punct	_	_
+1	Kielenopiskelijoilla	kielen#opiskelija	NOUN	N	Case=Ade|Derivation=Ja|Number=Plur	0	root	0:root	_
+2	taas	taas	ADV	Adv	_	1	advmod	1:advmod	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop:own	1:cop:own	_
+4	kaksi	kaksi	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	6:nummod	_
+5	erillistä	erillinen	ADJ	A	Case=Par|Degree=Pos|Derivation=Llinen|Number=Sing	6	amod	6:amod	_
+6	järjestelmää	järjestelmä	NOUN	N	Case=Par|Number=Sing	1	nsubj:cop	1:nsubj:cop	SpaceAfter=No
+7	.	.	PUNCT	Punct	_	1	punct	1:punct	_
 
 ~~~
 
@@ -55,14 +55,14 @@ The following 5 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 cop:own	color:blue
-1	Herra	herra	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	_	_
-2	Rübigillä	Rübig	PROPN	N	Case=Ade|Number=Sing	0	root	_	_
-3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop:own	_	_
-4	puheenvuoro	puheen#vuoro	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	_	_
-5	eiliseen	eilinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	_	_
-6	pöytäkirjaan	pöytä#kirja	NOUN	N	Case=Ill|Number=Sing	7	obl	_	_
-7	liittyen	liittyä	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	Punct	_	2	punct	_	_
+1	Herra	herra	NOUN	N	Case=Nom|Number=Sing	2	compound:nn	2:compound:nn	_
+2	Rübigillä	Rübig	PROPN	N	Case=Ade|Number=Sing	0	root	0:root	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop:own	2:cop:own	_
+4	puheenvuoro	puheen#vuoro	NOUN	N	Case=Nom|Number=Sing	2	nsubj:cop	2:nsubj:cop	_
+5	eiliseen	eilinen	ADJ	A	Case=Ill|Degree=Pos|Derivation=Inen|Number=Sing	6	amod	6:amod	_
+6	pöytäkirjaan	pöytä#kirja	NOUN	N	Case=Ill|Number=Sing	7	obl	7:obl	_
+7	liittyen	liittyä	VERB	V	Case=Ins|InfForm=2|Number=Sing|VerbForm=Inf|Voice=Act	2	advcl	2:advcl	SpaceAfter=No
+8	.	.	PUNCT	Punct	_	2	punct	2:punct	_
 
 ~~~
 

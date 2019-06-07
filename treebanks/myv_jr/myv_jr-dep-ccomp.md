@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 7 4 ccomp	color:blue
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Конат	кона	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	GTtags=Pl,Nom,Indef|Gloss=the-ones
-3	а	а	PART	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg|Gloss=not
+3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg|Gloss=not
 4	молить	молемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	7	ccomp	_	GTtags=IV,Ind,Prs,ScPl3|Gloss=go
 5	мартонзо	марто	ADP	Adp	Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=COM,PxSg3|Gloss=with
 6	―	―	PUNCT	PUNCT	_	7	punct	_	_

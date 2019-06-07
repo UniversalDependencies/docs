@@ -17,18 +17,18 @@ The following 16 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cop	color:blue
-1	Siz	siz	PRON	Pers	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
-2	sektörde	sektör	NOUN	Noun	Case=Loc|Number=Sing|Person=3	5	nmod	_	_
-3	ki	ki	ADP	Rel	_	2	case	_	_
-4	tek	tek	ADJ	Adj	_	5	amod	_	_
-5	antropolog	antropolog	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	sunuz	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	5	cop	_	_
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 cop	color:blue
+1	Sanal	sanal	ADJ	Adj	_	2	amod	_	_
+2	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	6	csubj	_	_
+3	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+4	bunların	bu	PRON	Demons	Case=Gen|Number=Plur|Person=3|PronType=Dem	5	nmod:poss	_	_
+5	hiçbirini	hiçbiri	PRON	Quant	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	6	obj	_	_
+6	yapamazlar	yap	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

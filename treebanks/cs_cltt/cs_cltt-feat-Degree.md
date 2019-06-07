@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (73; 26% of non-empty `Degree`): <em>více, později, nejméně, nejpozději, výše, nejvýše, dále, méně, dříve, nejblíže</em>
 * `Pos` (204; 72% of non-empty `Degree`): <em>obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, výhradně</em>
 * `Sup` (8; 3% of non-empty `Degree`): <em>nejpozději, nejméně, nejdříve</em>
-* `EMPTY` (502): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
+* `EMPTY` (505): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
 
 <table>
   <tr><th>Paradigm <i>pozdě</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (18; 100% of non-empty `Degree`): <em>každou, každé, každého, každý, Každá</em>
-* `EMPTY` (1176): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+* `EMPTY` (1143): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `Degree`
 

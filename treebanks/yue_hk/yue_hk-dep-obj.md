@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obj`: <tt><a href="yue_hk-dep-obj-periph.html">obj:periph</a></tt>.
 
-434 nodes (7%) are attached to their parents as `obj`.
+907 nodes (7%) are attached to their parents as `obj`.
 
-432 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.85023041474654.
+906 instances of `obj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.50826901874311.
 
-The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (273; 63% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (113; 26% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (32; 7% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `obj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (631; 70% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (198; 22% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (37; 4% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,7 +67,7 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
 4	可	可	AUX	_	_	7	aux	_	SpaceAfter=No
 5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	可以	可以	AUX	_	_	4	aux	_	SpaceAfter=No
+6	可以	可以	AUX	_	_	4	conj	_	SpaceAfter=No
 7	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
 8	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-709 nodes (6%) are attached to their parents as `advmod`.
+710 nodes (6%) are attached to their parents as `advmod`.
 
-489 instances of `advmod` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.07475317348378.
+494 instances of `advmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16760563380282.
 
-The following 42 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (296; 42% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (166; 23% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (41; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (41; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (23; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (21; 3% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (15; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SYM.html">SYM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (488; 69% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (77; 11% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (69; 10% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (29; 4% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SYM.html">SYM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,12 +27,12 @@ The following 42 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	sotay	sotay	SCONJ	_	_	7	mark	_	_
 3	di	di	DET	_	_	4	det	_	_
 4	rain	rain	NOUN	_	_	7	nsubj	_	_
-5	sef	sef	PART	_	_	4	advmod:emph	_	_
+5	sef	sef	ADV	PART	_	4	advmod:emph	_	_
 6	kuku	kuku	ADV	_	_	7	advmod	_	_
 7	fall	fall	VERB	_	_	0	root	_	_
 8	some	some	DET	_	_	9	det	_	_
 9	house	house	NOUN	_	_	7	obj	_	_
-10	dem	dem	PART	_	_	9	det	_	_
+10	dem	dem	DET	PART	_	9	det	_	_
 11	down	down	ADP	_	_	7	compound:prt	_	_
 12	kpatakpata	kpatakpata	ADV	_	_	7	advmod	_	_
 13	//	//	PUNCT	_	_	7	punct	_	_
@@ -41,42 +41,43 @@ The following 42 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 advmod	color:blue
-1	#	#	PUNCT	_	_	11	punct	_	_
-2	and	and	CCONJ	_	_	11	cc	_	_
-3	even	even	ADV	_	_	11	advmod	_	_
-4	sef	sef	PART	_	_	3	advmod	_	_
-5	<	<	PUNCT	_	_	3	punct	_	_
-6	di	di	DET	_	_	7	det	_	_
-7	motor	motor	NOUN	_	_	11	nsubj	_	_
-8	sef	sef	PART	_	_	7	advmod	_	_
-9	no	no	PART	_	_	11	advmod	_	_
-10	come	come	AUX	_	_	11	aux	_	_
-11	reach	reach	VERB	_	_	0	root	_	_
-12	//	//	PUNCT	_	_	11	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 advmod	color:blue
+1	#	#	PUNCT	_	_	7	punct	_	_
+2	derefore	derefore	ADV	_	_	7	advmod	_	_
+3	<	<	PUNCT	_	_	2	punct	_	_
+4	#	#	PUNCT	_	_	2	punct	_	_
+5	na	na	AUX	PART	_	7	cop	_	_
+6	our	our	PRON	_	_	7	nmod:poss	_	_
+7	hand	hand	NOUN	_	_	0	root	_	_
+8	>+	>+	PUNCT	_	_	12	punct	_	_
+9	di	di	DET	_	_	10	det	_	_
+10	matter	matter	NOUN	_	_	12	nsubj	_	_
+11	come	come	AUX	_	_	12	aux	_	_
+12	dey	dey	VERB	_	_	7	acl:cleft	_	_
+13	now	now	ADV	_	_	12	advmod	_	_
+14	//	//	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 advmod	color:blue
-1	#	#	PUNCT	_	_	4	punct	_	_
-2	make	make	AUX	_	_	4	aux	_	_
-3	dem	dem	PRON	_	_	4	nsubj	_	_
-4	try	try	VERB	_	_	0	root	_	_
-5	buy	buy	VERB	_	_	4	xcomp	_	_
-6	motor	motor	NOUN	_	_	5	obj	_	_
-7	full	full	ADJ	_	_	5	compound:svc	_	_
-8	everywhere	everywhere	ADV	_	_	7	advmod	_	_
-9	//	//	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advmod	color:blue
+1	#	#	PUNCT	_	_	6	punct	_	_
+2	dis	dis	DET	_	_	3	det	_	_
+3	kind	kind	NOUN	_	_	6	nsubj	_	_
+4	thing	thing	NOUN	_	_	3	nmod	_	_
+5	no	no	ADV	PART	_	6	advmod	_	_
+6	good	good	ADJ	_	_	0	root	_	_
+7	o	o	ADV	PART	_	6	advmod:emph	_	_
+8	//	//	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

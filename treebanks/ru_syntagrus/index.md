@@ -57,7 +57,7 @@ belonging to texts from a variety of genres (contemporary fiction, popular
 science, newspaper and journal articles dated between 1960 and 2016, texts of
 online news etc.)
 
-The treebank is so far the only human-corrected corpus of Russian supplied
+SynTagRus is a human-corrected corpus of Russian supplied
 with comprehensive morphological annotation and syntactic annotation in the
 form of a complete dependency tree provided for every sentence. Additionally,
 the original version of SynTagRus contains other types of annotation, first of
@@ -75,6 +75,13 @@ For more details, see the recently published paper (in Russian):
 аннотированного корпуса текстов русского языка (СинТагРус) // Сборник
 «Национальный корпус русского языка: 10 лет проекту». Труды Института русского
 языка им. В.В. Виноградова. М., 2015. Вып. 6. С. 272-299.
+
+## References
+
+* Droganova, K., Lyashevskaya, O., & Zeman, D. (2018).
+Data Conversion and Consistency of Monolingual Corpora: Russian UD Treebanks.
+In Proceedings of the 17th International Workshop on Treebanks and Linguistic Theories (TLT 2018),
+December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping University Electronic Press.
 
 
 ## Acknowledgments
@@ -97,11 +104,11 @@ For more details, see the recently published paper (in Russian):
 
 
 <ul>
-<li>This corpus contains 61889 sentences and 1106290 tokens.</li>
+<li>This corpus contains 61889 sentences and 1106296 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 192495 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 192501 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -124,7 +131,7 @@ For more details, see the recently published paper (in Russian):
 </ul>
 
 <ul>
-<li>This corpus contains 94 word types tagged as particles (PART): Ага, Мол, Ну-у, Пущай, Увы, Что, а, абы, аж, аль, б, бен, бишь, будто, бы, было, ван, ведь, вон, вот, все, все-таки, всего, всё, всё-таки, да, даже, де, делла, дель, ди, душ, едва, единственно, ей-богу, еле, еле-еле, ж, же, зато, и, ибн, именно, ишь, ка, кое, ла, ладно, ли, лишь, минус, нате, не, невесть, нет, нет-нет, неужели, ни, ни-ни, ничего, нон, ну, о'кей, ох, плюс, попало, попросту, просто, просто-напросто, просто-таки, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, также, таки, там, то, тоже, только, только-только, точно, уж, фон, хотя, черт-те, чуть-чуть, эвон, эль, это</li>
+<li>This corpus contains 93 word types tagged as particles (PART): Ага, Мол, Ну-у, Пущай, Увы, Что, а, абы, аж, аль, бен, бишь, будто, бы, было, ван, ведь, вон, вот, все, все-таки, всего, всё, всё-таки, да, даже, де, делла, дель, ди, душ, едва, единственно, ей-богу, еле, еле-еле, ж, же, зато, и, ибн, именно, ишь, ка, кое, ла, ладно, ли, лишь, минус, нате, не, невесть, нет, нет-нет, неужели, ни, ни-ни, ничего, нон, ну, о'кей, ох, плюс, попало, попросту, просто, просто-напросто, просто-таки, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, также, таки, там, то, тоже, только, только-только, точно, уж, фон, хотя, черт-те, чуть-чуть, эвон, эль, это</li>
 </ul>
 
 <ul>
@@ -139,7 +146,7 @@ For more details, see the recently published paper (in Russian):
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): быть</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): бы, быть</li>
 </ul>
 
 <ul>
@@ -521,7 +528,7 @@ For more details, see the recently published paper (in Russian):
 <ul>
   <li>Cnd
     <ul>
-      <li>PART: бы, б</li>
+      <li>PART: бы</li>
       <li>SCONJ: чтобы, чтоб</li>
     </ul>
   </li>
@@ -718,7 +725,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(по) (11)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(порядка) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(свыше) (8)</li>
-      <li>VERB-Fin--NOUN-Nom (31109)</li>
+      <li>VERB-Fin--NOUN-Nom (31139)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(во) (5)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
@@ -732,12 +739,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (1)</li>
-      <li>VERB-Fin--PRON-Nom (15570)</li>
+      <li>VERB-Fin--PRON-Nom (15545)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (430)</li>
+      <li>VERB-Inf--NOUN-Nom (431)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (286)</li>
+      <li>VERB-Inf--PRON-Nom (285)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
       <li>VERB-Part--NOUN-Nom (10)</li>
       <li>VERB-Part--PRON-Nom (3)</li>
@@ -749,11 +756,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Acc (1464)</li>
+      <li>VERB-Conv--NOUN-Acc (1465)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(для) (1)</li>
       <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Conv--PRON-Acc (163)</li>
-      <li>VERB-Fin--NOUN-Acc (14695)</li>
+      <li>VERB-Fin--NOUN-Acc (14694)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(над) (2)</li>
@@ -761,12 +768,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (3585)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (9199)</li>
+      <li>VERB-Inf--NOUN-Acc (9200)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(в) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(над) (2)</li>
       <li>VERB-Inf--NOUN-Nom (12)</li>
-      <li>VERB-Inf--PRON-Acc (1875)</li>
+      <li>VERB-Inf--PRON-Acc (1874)</li>
       <li>VERB-Part--NOUN-Acc (1388)</li>
       <li>VERB-Part--NOUN-Acc-ADP(в) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>

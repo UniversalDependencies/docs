@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="it_pud-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (117; 100% of non-empty `Polarity`): <em>non, no</em>
-* `EMPTY` (718): <em>più, anche, Tuttavia, solo, ancora, inoltre, già, prima, così, circa</em>
+* `EMPTY` (732): <em>più, anche, Tuttavia, solo, ancora, inoltre, dove, già, prima, così</em>
 

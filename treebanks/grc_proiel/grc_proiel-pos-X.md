@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.435571).
+The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.443164).
 
 The 1st highest number of forms (2) was observed with the lemma “ἑλωΐ”: <em>ἑλωῒ, ἡλεὶ</em>.
 

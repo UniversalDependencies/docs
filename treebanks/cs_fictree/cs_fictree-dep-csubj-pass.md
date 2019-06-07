@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	vesnici	vesnice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	5:obl	_
 4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	_
 5	říká	říkat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	13	punct	13:punct|17:punct	_
+6	,	,	PUNCT	Z:-------------	_	13	punct	13:punct	_
 7	že	že	SCONJ	J,-------------	_	13	mark	13:mark	_
 8	některé	některý	DET	PZIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	10	det	10:det	_
 9	ty	ten	DET	PDIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	10	det	10:det	_

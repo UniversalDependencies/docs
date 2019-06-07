@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-cc.html">cc</a></tt>.
 
-111 nodes (0%) are attached to their parents as `cc:preconj`.
+135 nodes (0%) are attached to their parents as `cc:preconj`.
 
-111 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85585585585586.
+135 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80740740740741.
 
-The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (45; 41% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (43; 39% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (6; 5% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (58; 43% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (46; 34% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (9; 7% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><
 7	gunoiu	gunoi	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	ref=LUCA14.35|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	3	punct	_	ref=LUCA14.35
 9	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=LUCA14.35|SpaceAfter=No
-10	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	ref=LUCA14.35
+10	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	ref=LUCA14.35
 11	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=LUCA14.35|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	15	punct	_	ref=LUCA14.35
 13	afară	afară	ADV	Rg	_	15	advmod	_	ref=LUCA14.35

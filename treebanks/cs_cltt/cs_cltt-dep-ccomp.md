@@ -92,7 +92,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 13	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	22	case	_	LId=v-1
 15	vývoji	vývoj	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	_
-16	,	,	PUNCT	Z:-------------	_	24	punct	_	_
+16	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 17	kromě	kromě	ADP	RR--2----------	AdpType=Prep|Case=Gen	21	case	_	_
 18	oblasti	oblast	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	14	fixed	_	_
 19	činnosti	činnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	15	nmod	_	_
@@ -108,7 +108,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 29	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	33	case	_	LId=pro-1
 30	vývoje	vývoj	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	conj	_	SpaceAfter=No
 31	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	36	case	_	LId=po-1
-32	,	,	PUNCT	Z:-------------	_	56	punct	_	_
+32	,	,	PUNCT	Z:-------------	_	33	punct	_	_
 33	naplnění	naplnění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	25	obl	_	_
 34	rozvahovém	rozvahový	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	36	amod	_	_
 35	účelu	účel	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	33	nmod	_	_
@@ -135,7 +135,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 56	d)	d)	X	X@-------------	_	2	conj	_	_
 57	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	55	nummod	_	SpaceAfter=No
 58	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	56	case	_	LId=o-1
-59	,	,	PUNCT	Z:-------------	_	70	punct	_	_
+59	,	,	PUNCT	Z:-------------	_	60	punct	_	_
 60	aktivitách	aktivita	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	56	nmod	_	_
 61	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	63	case	_	LId=v-1
 62	oblasti	oblast	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	61	fixed	_	_

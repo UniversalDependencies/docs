@@ -32,16 +32,18 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>tipo</em>
-* `EMPTY` (4260): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
+* `EMPTY` (4261): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
 
 ### `X`
 
 1 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Foreign`.
 
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>mojorum</em>
-* `EMPTY` (30): <em>E, Multi, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Handels, Hey</em>
+* `EMPTY` (35): <em>E, Multi, t, Breaking, Bundes, Demografie, Don', Druck, Einzel, Ex</em>
 
 ## Relations with Agreement in `Foreign`
 

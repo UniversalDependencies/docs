@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-132 tokens (0%) have a non-empty value of `Typo`.
-121 types (0%) occur at least once with a non-empty value of `Typo`.
+133 tokens (0%) have a non-empty value of `Typo`.
+122 types (0%) occur at least once with a non-empty value of `Typo`.
 115 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 12 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -102,13 +102,13 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `AUX`
 
-1 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>niesme</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>niesme, so</em>
 
 ### `CCONJ`
 

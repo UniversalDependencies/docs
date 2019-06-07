@@ -14,17 +14,17 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 10195 tokens (48%) have a non-empty value of `Gender`.
 4443 types (68%) occur at least once with a non-empty value of `Gender`.
 3795 lemmas (71%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4145; 19% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2781; 13% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1164; 5% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1118; 5% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (983; 5% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4146; 19% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2781; 13% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1163; 5% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1118; 5% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (983; 5% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4145 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4146 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4145; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2958; 71%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (4146; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2959; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (1702; 41% of non-empty `Gender`): <em>Zeit, Regierung, Stadt, Geschichte, Welt, Armee, Frau, Millionen, Region, Reihe</em>
+* `Fem` (1703; 41% of non-empty `Gender`): <em>Zeit, Regierung, Stadt, Geschichte, Welt, Armee, Frau, Millionen, Region, Reihe</em>
 * `Masc` (1490; 36% of non-empty `Gender`): <em>Menschen, Oktober, Teil, Film, Kaiser, April, Fall, Krieg, Präsident, Tag</em>
 * `Neut` (953; 23% of non-empty `Gender`): <em>Jahr, Jahre, Jahren, Jahrhundert, Mal, Land, Leben, Meer, Ende, Reich</em>
 * `EMPTY` (116): <em>Leute, alle, Kosten, anderen, Investors, Konservativen, North, Roma, Strategy, Target</em>
@@ -66,14 +66,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-1164 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Gender`.
+1163 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1162; 100%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1113; 96%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (798; 69%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1161; 100%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1112; 96%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (798; 69%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (514; 44% of non-empty `Gender`): <em>neue, eigene, ersten, große, öffentliche, amerikanischen, guten, kleine, neuen, verschiedenen</em>
-* `Masc` (360; 31% of non-empty `Gender`): <em>ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</em>
+* `Masc` (359; 31% of non-empty `Gender`): <em>ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</em>
 * `Neut` (290; 25% of non-empty `Gender`): <em>letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</em>
 * `EMPTY` (223): <em>bekannt, möglich, groß, klar, sicher, unglaublich, verheiratet, alt, ausgerichtet, ausgesetzt</em>
 
@@ -147,23 +147,23 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Neut` (3; 100% of non-empty `Gender`): <em>z., z</em>
 * `EMPTY` (2040): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
-### `AUX`
+### `NUM`
 
-1 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`AUX` tokens may have the following values of `Gender`:
+`NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 100% of non-empty `Gender`): <em>Zeit</em>
-* `EMPTY` (949): <em>ist, wurde, war, werden, wird, wurden, sind, hatte, waren, hat</em>
+* `Masc` (1; 100% of non-empty `Gender`): <em>hunderte</em>
+* `EMPTY` (352): <em>zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2561; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1025; 100%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (222; 98%),
+<tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1027; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (222; 99%),
 <tt>PROPN --[<tt><a href="de_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (158; 100%),
 <tt>PROPN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (105; 100%),
 <tt>ADJ --[<tt><a href="de_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (93; 100%),

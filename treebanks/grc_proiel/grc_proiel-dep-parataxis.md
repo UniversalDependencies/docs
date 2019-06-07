@@ -28,7 +28,7 @@ The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	ὡς	ὡς	ADV	Df	_	6	advmod	_	ref=1.119.7
 5	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=1.119.7
 6	δοκέω	δοκέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=1.119.7
-7	ἁλίσας	ἁλίζω#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.119.7
+7	ἁλίσας	ἁλίζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.119.7|LId=1
 8	θάψειν	θάπτω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=1.119.7
 9	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	ref=1.119.7
 10	πάντα	πᾶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	ref=1.119.7

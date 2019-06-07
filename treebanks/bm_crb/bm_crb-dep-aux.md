@@ -50,20 +50,20 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
-1	Denkɛ	dénkɛ	NOUN	n	_	2	nsubj	_	Gloss=fils|Morf=fils,enfant,mâle
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=|SpaceAfter=No
+1	Denkɛ	dénkɛ	NOUN	n	_	2	nsubj	_	Gloss=fils|Morf=fils,enfant,mâle
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	“	“	PUNCT	_	_	7	punct	_	Gloss=“|SpaceAfter=No
-5	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
-6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
-7	bɛ	bɛ́	VERB	cop	_	2	parataxis:obj	_	Gloss=être
-8	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=2SG
+5	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	bɛ	bɛ́	VERB	cop	_	2	parataxis:obj	_	Gloss=être
+8	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=2SG
 9	ka	ka	ADP	pp	_	8	case	_	Gloss=POSS
-10	kunun	kúnun	NOUN	n	_	11	nmod:poss	_	Gloss=hier
+10	kunun	kúnun	NOUN	n	_	11	nmod:poss	_	Gloss=hier
 11	jiriba	jiriba	NOUN	n	_	7	obl	_	Gloss=arbre|Morf=arbre,AUGM
-12	in	ìn	DET	dtm	Definite=Def	11	det	_	Gloss=DEF
-13	de	dè	PART	prt	_	11	discourse	_	Gloss=FOC
-14	kan	kàn	ADP	pp	_	11	case	_	Gloss=sur|SpaceAfter=No
+12	in	ìn	DET	dtm	Definite=Def	11	det	_	Gloss=DEF
+13	de	dè	PART	prt	_	11	discourse	_	Gloss=FOC
+14	kan	kàn	ADP	pp	_	11	case	_	Gloss=sur|SpaceAfter=No
 15	”	”	PUNCT	_	_	7	punct	_	Gloss=”|SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -76,15 +76,15 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 aux	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
-3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
-5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
-6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
-8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
-9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
+3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
+4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
+5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
+6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
+7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
+8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
+9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 ~~~

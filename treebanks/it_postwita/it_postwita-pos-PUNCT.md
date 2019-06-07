@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="it_postwita-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.302943).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.303101).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>!, (, _</em>.
 
@@ -63,21 +63,19 @@ The 3rd highest number of forms (1) was observed with the lemma “!!”: <em>!!
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 13 different relations: <tt><a href="it_postwita-dep-punct.html">punct</a></tt> (14988; 100% instances), <tt><a href="it_postwita-dep-goeswith.html">goeswith</a></tt> (17; 0% instances), <tt><a href="it_postwita-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="it_postwita-dep-obl.html">obl</a></tt> (5; 0% instances), <tt><a href="it_postwita-dep-flat-name.html">flat:name</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="it_postwita-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="it_postwita-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="it_postwita-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="it_postwita-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="it_postwita-dep-punct.html">punct</a></tt> (15036; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (5344; 36% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (3965; 26% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1988; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1086; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (832; 6% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (466; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (383; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (381; 3% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (291; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (197; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (5331; 35% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (3980; 26% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1996; 13% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1087; 7% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (826; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (465; 3% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (383; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (382; 3% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (289; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (198; 1% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (35; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (31; 0% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances)
 
-14998 (100%) `PUNCT` nodes are leaves.
+15018 (100%) `PUNCT` nodes are leaves.
 
-13 (0%) `PUNCT` nodes have one child.
+1 (0%) `PUNCT` nodes have one child.
 
-23 (0%) `PUNCT` nodes have two children.
+17 (0%) `PUNCT` nodes have two children.
 
-2 (0%) `PUNCT` nodes have three or more children.
+The highest child degree of a `PUNCT` node is 2.
 
-The highest child degree of a `PUNCT` node is 3.
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="it_postwita-dep-punct.html">punct</a></tt> (35; 100% instances)
 
-Children of `PUNCT` nodes are attached using 13 different relations: <tt><a href="it_postwita-dep-punct.html">punct</a></tt> (36; 55% instances), <tt><a href="it_postwita-dep-det.html">det</a></tt> (8; 12% instances), <tt><a href="it_postwita-dep-case.html">case</a></tt> (7; 11% instances), <tt><a href="it_postwita-dep-cop.html">cop</a></tt> (3; 5% instances), <tt><a href="it_postwita-dep-goeswith.html">goeswith</a></tt> (3; 5% instances), <tt><a href="it_postwita-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
-
-Children of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (39; 60% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (8; 12% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (7; 11% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 2% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (35; 100% instances)
 

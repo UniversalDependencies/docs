@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (0%) are attached to their parents as `discourse`.
+62 nodes (0%) are attached to their parents as `discourse`.
 
-48 instances of `discourse` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.39344262295082.
+49 instances of `discourse` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.90322580645161.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (36; 59% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (7; 11% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (37; 60% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (7; 11% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (4; 6% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -11,42 +11,44 @@ It occurs with 2 different values: `Imp`, `Perf`.
 
 2487 tokens (11%) have a non-empty value of `Aspect`.
 1264 types (21%) occur at least once with a non-empty value of `Aspect`.
-1 lemmas (33%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (2220; 10% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (267; 1% instances).
+12 lemmas (67%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1768; 8% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (719; 3% instances).
 
 ### `VERB`
 
-2220 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Aspect`.
+1768 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1825; 82%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1576; 71%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1520; 68%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1192; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1768; 100%), <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1768; 100%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1510; 85%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1187; 67%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1149; 65%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (907; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1477; 67% of non-empty `Aspect`): <em>está, es, puede, tiene, hacer, tener, estaba, ser, hay, están</em>
-* `Perf` (743; 33% of non-empty `Aspect`): <em>ha, fue, había, dijo, han, fueron, habían, afirmó, convirtió, empezó</em>
-* `EMPTY` (390): <em>debido, hecho, sido, tenido, dado, dejado, escrito, dirigida, estado, visto</em>
+* `Imp` (1263; 71% of non-empty `Aspect`): <em>es, tiene, hacer, hay, está, hace, tener, tienen, ver, dice</em>
+* `Perf` (505; 29% of non-empty `Aspect`): <em>dijo, afirmó, convirtió, tuvo, declaró, hizo, fue, lanzó, llegaron, llegó</em>
+* `EMPTY` (375): <em>debido, hecho, dado, escrito, tenido, dejado, dirigida, visto, acusado, desarrollado</em>
+
+`Aspect` seems to be **lexical feature** of `VERB`. 92% lemmas (11) occur only with one value of `Aspect`.
 
 ### `AUX`
 
-267 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Aspect`.
+719 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (253; 95%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (242; 91%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (224; 84%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (202; 76%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (155; 58%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (719; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (631; 88%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (595; 83%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (568; 79%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 68%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (230; 86% of non-empty `Aspect`): <em>es, era, son, ser, está, siendo, sea, eran, sería, estaba</em>
-* `Perf` (37; 14% of non-empty `Aspect`): <em>fue, fueron, mantuvo, apareció, consideró, declaró, estuvieron, mostraron, nombró, salió</em>
-* `EMPTY` (22): <em>sido, llamados, hecho, llamada, consideradas, declarada, declarado, elegido, escrito, estado</em>
+* `Imp` (444; 62% of non-empty `Aspect`): <em>es, está, era, puede, son, ser, estaba, podría, pueden, estaban</em>
+* `Perf` (275; 38% of non-empty `Aspect`): <em>fue, ha, había, fueron, han, habían, haber, hayan, comenzó, empezaron</em>
+* `EMPTY` (37): <em>sido, estado, llamados, hecho, llamada, comenzado, consideradas, declarada, declarado, dejado</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (122; 72%),
 <tt>VERB --[<tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (99; 53%),
-<tt>VERB --[<tt><a href="es_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (42; 55%),
 <tt>VERB --[<tt><a href="es_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (41; 56%),
 <tt>VERB --[<tt><a href="es_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (9; 90%),
 <tt>VERB --[<tt><a href="es_pud-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (7; 64%),
+<tt>VERB --[<tt><a href="es_pud-dep-aux.html">aux</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%).

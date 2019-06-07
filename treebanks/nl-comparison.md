@@ -114,7 +114,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 79 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, da, dat, datgene, degene, deze, die, diegene, dien, dit, een, elk, elkaar, enig, enkele, ge, geen, gij, ginds, haar, haarzelf, hare, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, minder, mindere, minst, niemand, niets, niks, ons, onszelf, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
+      <li>This corpus contains 79 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, d'r, da, dat, datgene, degene, deze, die, diegene, dien, dit, een, elk, elkaar, enig, enkele, er, ge, geen, gij, ginds, haar, haarzelf, hare, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, minder, niemand, niets, niks, ons, onszelf, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -126,7 +126,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 35 lemmas tagged as determiners (DET): 's, al, andermans, beide, dat, de, den, der, des, deze, die, dien, dit, een, elk, elkaar, enig, enkel, enkele, geen, het, ieder, meerdere, menig, minder, niemand, sommig, teveel, veel, wat, weinig, welk, wie, zo'n, zulk</li>
+      <li>This corpus contains 46 lemmas tagged as determiners (DET): 's, al, allerlei, anderhalf, andermans, beide, dat, datzelfde, de, den, der, des, deze, dezelfde, die, dien, diezelfde, dit, een, eenzelfde, elk, elkaar, enig, enkel, enkele, ettelijk, geen, het, hetzelfde, ieder, meerdere, menig, mijne, minder, niemand, onvoldoende, sommig, teveel, veel, voldoende, wat, weinig, welk, wie, zo'n, zulk</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -764,7 +764,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: dat, dit, die, deze, zo'n, degenen, datgene, degene, zulke, dien</li>
+            <li>PRON: dat, dit, die, er, deze, zo'n, degenen, datgene, degene, zulke</li>
           </ul>
         </li>
       </ul>
@@ -784,7 +784,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>PRON: meer, veel, minder, weinig, iets, vele, niets, wat, meest, alles</li>
+            <li>PRON: meer, veel, iets, niets, wat, alles, minder, weinig, al, enige</li>
           </ul>
         </li>
       </ul>
@@ -1134,11 +1134,11 @@ udver: '2'
             <li>VERB-Fin--PRON (1687)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Nom (2576)</li>
-            <li>VERB-Inf--NOUN (602)</li>
+            <li>VERB-Inf--NOUN (604)</li>
             <li>VERB-Inf--PRON (303)</li>
             <li>VERB-Inf--PRON-Acc (2)</li>
             <li>VERB-Inf--PRON-Nom (551)</li>
-            <li>VERB-Part--NOUN (809)</li>
+            <li>VERB-Part--NOUN (811)</li>
             <li>VERB-Part--PRON (275)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Part--PRON-Nom (511)</li>
@@ -1226,7 +1226,7 @@ udver: '2'
             <li>VERB-Inf--PRON-ADP(aan) (1)</li>
             <li>VERB-Inf--PRON-Acc (41)</li>
             <li>VERB-Inf--PRON-Nom (5)</li>
-            <li>VERB-Part--NOUN (49)</li>
+            <li>VERB-Part--NOUN (50)</li>
             <li>VERB-Part--NOUN-ADP(aan) (2)</li>
             <li>VERB-Part--PRON (3)</li>
             <li>VERB-Part--PRON-ADP(aan) (2)</li>

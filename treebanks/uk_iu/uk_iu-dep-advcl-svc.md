@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="uk_iu-dep-advcl-sp.html">advcl:sp</a></tt>.
 
-43 nodes (0%) are attached to their parents as `advcl:svc`.
+47 nodes (0%) are attached to their parents as `advcl:svc`.
 
-41 instances of `advcl:svc` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.46511627906977.
+44 instances of `advcl:svc` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.36170212765957.
 
-The following 2 pairs of parts of speech are connected with `advcl:svc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (42; 98% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `advcl:svc`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (46; 98% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

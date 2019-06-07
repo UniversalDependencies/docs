@@ -34,9 +34,9 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 10	est	être	AUX	_	_	11	cop	_	_
 11	vrai	vrai	ADJ	_	_	8	discourse	_	_
 12	vous	vous	PRON	_	_	8	conj:dicto	_	_
-13	avez	avoir	VERB	_	_	14	aux	_	_
+13	avez	avoir	AUX	_	_	14	aux	_	_
 14	obtenu	obtenir	VERB	_	_	3	ccomp	_	_
-15	d'	de	ADP	_	_	17	det	_	_
+15	d'	de	ADP	_	_	17	case	_	_
 16	autres	autre	ADJ	_	_	17	amod	_	_
 17	succès	succès	NOUN	_	_	14	obj	_	_
 
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5 1 vocative	color:blue
 1	monsieur	Monsieur	NOUN	_	_	5	vocative	_	_
 2	Mitterrand	Mitterrand	PROPN	_	_	1	appos:nmod	_	_
-3	voulez	vouloir	VERB	_	_	5	aux	_	_
+3	voulez	vouloir	AUX	_	_	5	aux	_	_
 4	-vous	vous	PRON	_	_	5	nsubj	_	_
 5	continuer	continuer	VERB	_	_	0	root	_	_
 

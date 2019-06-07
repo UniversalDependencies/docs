@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 8 csubj:pass	color:blue
 1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
-2	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	été	_	VERB	VBN	Gender=Masc|Number=Sing	4	aux:pass	_	_
+2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+3	été	_	AUX	VBN	Gender=Masc|Number=Sing	4	aux:pass	_	_
 4	souligné	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 5	que	_	SCONJ	IN	_	8	mark	_	_
 6	nous	_	PRON	PRP	Number=Plur|Person=1	8	nsubj	_	_

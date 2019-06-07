@@ -41,10 +41,8 @@ The most frequent other feature values with which `ADV` and `AdpType` co-occurre
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADP</tt> (260; 97%),
-<tt>ADV --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADP</tt> (29; 73%),
-<tt>ADP --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADP</tt> (5; 83%),
-<tt>ADP --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> ADP</tt> (28; 74%),
+<tt>ADP --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> ADP</tt> (1; 100%),
 <tt>ADP --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
 <tt>ADV --[<tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt>]--> ADP</tt> (1; 100%),
 <tt>ADV --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> ADP</tt> (1; 100%),

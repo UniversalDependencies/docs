@@ -127,7 +127,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `EMPTY` (1226): ما، من، كيف، ماذا، كم، أين، متى، لماذا، هكذا، اين
 
 <table>
-  <tr><th>Paradigm <i>اَلَّذِي</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><th>Paradigm <i>اَلَّذِي</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>الذي, الذى</td><td>الذي, الذى</td><td>الذي, الذى</td></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>اللذان</td><td>اللذين</td><td>اللذين</td></tr>
   <tr><td><tt><tt><a href="ar_padt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_padt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>الذين</td><td>الذين</td><td>الذين</td></tr>
@@ -173,14 +173,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (26575; 70%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22241; 97%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (27181; 69%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22252; 97%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5247; 91%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3331; 62%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3546; 63%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-det.html">det</a></tt>]--> DET</tt> (1736; 87%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1195; 58%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1089; 56%),
-<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (842; 94%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (804; 59%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (483; 57%).
+<tt>ADJ --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1196; 59%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1102; 57%),
+<tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (841; 94%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (801; 59%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (344; 90%).
 

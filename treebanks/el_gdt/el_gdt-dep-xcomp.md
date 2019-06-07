@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	είπατε	λέγω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	να	να	PART	PART	_	6	aux	_	_
+5	να	να	AUX	AUX	_	6	aux	_	_
 6	κερδίσουμε	κερδίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	εμπιστοσύνη	εμπιστοσύνη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
@@ -46,10 +46,10 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Αυτό	αυτός	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	det	_	_
 2	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Κοινοβούλιο	κοινοβούλιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-5	να	να	PART	PART	_	6	aux	_	_
+4	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	να	να	AUX	AUX	_	6	aux	_	_
 6	εξακολουθήσει	εξακολουθώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
-7	να	να	PART	PART	_	9	aux	_	_
+7	να	να	AUX	AUX	_	9	aux	_	_
 8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	πολύγλωσσο	πολύγλωσσος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	6	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
 4	οφείλει	οφείλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	να	να	PART	PART	_	8	aux	_	_
+5	να	να	AUX	AUX	_	8	aux	_	_
 6	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	cop	_	_
 7	νομικά	νομικά	ADV	ADV	_	8	advmod	_	_
 8	εκτελεστός	εκτελεστός	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No

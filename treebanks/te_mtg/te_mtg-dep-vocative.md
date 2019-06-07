@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	ఇడుగోనండి	_	PRON	PRON	_	2	vocative	_	Translit=iḍugonaṁḍi|LTranslit=_
+1	ఇడుగోనండి	_	PRON	PRON	_	2	vocative	_	Translit=iḍugonaṁḍi|LTranslit=_
 2	అద్దె	_	NOUN	NOUN	_	0	root	_	Translit=addè|LTranslit=_
 3	!	_	PUNCT	PUNCT	_	2	punct	_	Translit=!|LTranslit=_
 

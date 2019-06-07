@@ -13,7 +13,7 @@ This relation is universal.
 213 instances of `nummod` (88%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.09876543209877.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (170; 70% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (33; 14% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (174; 72% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (33; 14% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 7% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Les	_	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
 2	sources	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	consultées	_	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
-4	ont	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+4	ont	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	_
 5	indiqué	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 6	que	_	SCONJ	IN	_	12	mark	_	_
 7	c’	_	PRON	PDEM	_	12	nsubj	_	OrigForm=c'|SpaceAfter=No
@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	via	_	ADP	IN	_	8	case	_	_
 7	le	_	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
 8	Danube	_	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
-9	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+9	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
 10	augmenté	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 11	de	_	ADP	IN	_	15	case	_	_
 12	près	_	ADV	RB	_	14	advmod	_	_

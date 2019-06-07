@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html
 
 5492 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4824; 88%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4760; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4638; 84%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4824; 88%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4769; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4638; 84%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

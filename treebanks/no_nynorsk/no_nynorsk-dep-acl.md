@@ -49,7 +49,7 @@ The following 32 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5 2 acl	color:blue
 1	Som	som	SCONJ	_	_	2	mark	_	_
 2	døme	døme	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	5	acl	_	_
-3	vart	verte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+3	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	nemnt	nemne	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
 5	tilhøvet	tilhøve	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
 6	mellom	mellom	ADP	_	_	7	case	_	_

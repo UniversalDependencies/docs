@@ -2,6 +2,7 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
 The name `xcomp` is borrowed from Lexical-Functional Grammar. 

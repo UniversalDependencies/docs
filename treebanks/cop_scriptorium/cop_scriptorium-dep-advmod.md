@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1162 nodes (5%) are attached to their parents as `advmod`.
+1346 nodes (5%) are attached to their parents as `advmod`.
 
-742 instances of `advmod` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.52065404475043.
+859 instances of `advmod` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.49925705794948.
 
-The following 31 pairs of parts of speech are connected with `advmod`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (559; 48% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (291; 25% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (132; 11% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (35; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (30; 3% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (19; 2% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `advmod`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (690; 51% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (370; 27% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (138; 10% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (37; 3% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,27 +61,29 @@ The following 31 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 advmod	color:blue
-1	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	6	mark	_	_
-2	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	_	6	aux	_	_
-3	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	6	nsubj	_	_
-4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
-5	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	_	3	nmod	_	_
-6	ϣⲟⲩϣⲟⲩ	ϣⲟⲩϣⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
-7	ⲙⲙⲟ	ⲛ	ADP	PREP	_	8	case	_	_
-8	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-9	ⲙ	ⲛ	ADP	PREP	_	11	case	_	_
-10	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	ⲙⲧⲟ	ⲙⲧⲟ	NOUN	N	_	6	obl	_	_
-12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	11	advmod	_	_
-13	ⲙ	ⲛ	ADP	PREP	_	15	case	_	_
-14	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	11	nmod	_	_
-16	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 18 advmod	color:blue
+1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
+2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	VerbForm=Fin	0	root	_	_
+4	ϩⲛ	ϩⲛ	ADP	PREP	_	6	case	_	_
+5	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	ⲙϩⲁⲟⲩ	ⲙϩⲁⲟⲩ	NOUN	N	_	3	obl	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	12	mark	_	_
+8	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	_
+9	ϣ	ϣ	AUX	V	VerbForm=Fin	12	aux	_	_
+10	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	12	nsubj	_	_
+11	ϭⲉ	ϭⲉ	PART	PTC	_	12	advmod	_	_
+12	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	VerbForm=Fin	3	advcl	_	_
+13	ⲉ	ⲉ	PART	PREP	_	14	mark	_	_
+14	ⲙⲟⲣ	ⲙⲟⲩⲣ	VERB	V	VerbForm=Inf	12	xcomp	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	_
+17	ϩⲁⲗⲩⲥⲓⲥ	ϩⲁⲗⲩⲥⲓⲥ	NOUN	N	_	14	obl	_	_
+18	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	_
 
 ~~~
 

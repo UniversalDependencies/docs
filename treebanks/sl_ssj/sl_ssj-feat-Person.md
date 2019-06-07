@@ -101,7 +101,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (227; 27% of non-empty `Person`): <em>naše, naših, naš, naša, moj, moje, naši, našo, moja, moji</em>
 * `2` (74; 9% of non-empty `Person`): <em>vaš, vaša, vaše, vašo, tvoje, vašega, vaši, tvoj, vaših, tvoja</em>
 * `3` (525; 64% of non-empty `Person`): <em>njegov, njegovo, njegove, njegova, njeno, njen, njihove, njegovem, njegovi, njene</em>
-* `EMPTY` (4426): <em>to, tem, vse, nekaj, ta, več, tega, svoje, te, veliko</em>
+* `EMPTY` (4428): <em>to, tem, vse, nekaj, ta, več, tega, svoje, te, veliko</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Person`.
 

@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 
 23513 tokens (12%) have a non-empty value of `Mood`.
-5584 types (10%) occur at least once with a non-empty value of `Mood`.
-1774 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (14639; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8874; 4% instances).
+5583 types (10%) occur at least once with a non-empty value of `Mood`.
+1772 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (14635; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8878; 4% instances).
 
 ### `VERB`
 
-14639 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
+14635 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14639; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14639; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (14639; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14639; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14639; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11602; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9335; 64%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8669; 59%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7770; 53%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14635; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14635; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11598; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9331; 64%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8667; 59%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7769; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (676; 5% of non-empty `Mood`): <em>haluaisin, tulisi, saisi, haluaisi, olisi, saisin, saisivat, tekisi, vaikuttaisi, kuuluisi</em>
-* `Imp` (377; 3% of non-empty `Mood`): <em>lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</em>
-* `Ind` (13559; 93% of non-empty `Mood`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
+* `Cnd` (675; 5% of non-empty `Mood`): <em>haluaisin, tulisi, saisi, haluaisi, olisi, saisin, saisivat, tekisi, vaikuttaisi, kuuluisi</em>
+* `Imp` (376; 3% of non-empty `Mood`): <em>lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</em>
+* `Ind` (13557; 93% of non-empty `Mood`): <em>tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</em>
 * `Pot` (27; 0% of non-empty `Mood`): <em>hypänne, kertone, luvanne, saanen, Palauttanet, Suonet, alkanevat, jatkunee, johtunee, käytäneen</em>
-* `EMPTY` (13155): <em>eikä, ettei, tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää</em>
+* `EMPTY` (12733): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -71,17 +71,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-8874 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
+8878 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8874; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8843; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7956; 90%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6886; 78%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6854; 77%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6439; 73%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8878; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8846; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7960; 90%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6890; 78%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6856; 77%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6440; 73%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (756; 9% of non-empty `Mood`): <em>olisi, pitäisi, voisi, olisin, olisivat, voitaisiin, voisivat, voisin, olisiko, olisimme</em>
-* `Imp` (40; 0% of non-empty `Mood`): <em>älä, älkää, ole, olkaa, älkäämme, älköön</em>
-* `Ind` (8055; 91% of non-empty `Mood`): <em>on, oli, ovat, ole, voi, olivat, voidaan, olen, olin, voivat</em>
+* `Cnd` (757; 9% of non-empty `Mood`): <em>olisi, pitäisi, voisi, olisin, olisivat, voitaisiin, voisivat, voisin, olisiko, olisimme</em>
+* `Imp` (41; 0% of non-empty `Mood`): <em>älä, älkää, ole, olkaa, älkäämme, älköön, äläkä</em>
+* `Ind` (8057; 91% of non-empty `Mood`): <em>on, oli, ovat, ole, voi, olivat, voidaan, olen, olin, voivat</em>
 * `Pot` (23; 0% of non-empty `Mood`): <em>lienee, liene, lie, lienevät, Voinen, joutunee, lien, lieneekään, voinee</em>
-* `EMPTY` (2790): <em>ei, olla, ollut, en, eivät, olevan, emme, et, olleet, voinut</em>
+* `EMPTY` (3232): <em>ei, olla, en, ollut, eivät, eikä, olevan, emme, et, enkä</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -117,6 +117,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko,S</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onkos</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>olisiko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oonks</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olinko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olenko</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oot</em></td><td></td><td></td><td></td></tr>

@@ -23,10 +23,10 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound:redup	color:blue
-1	పుట్టక	_	VERB	VERB	_	2	compound:redup	_	Translit=puṭṭaka|LTranslit=_
-2	పుట్టక	_	VERB	VERB	_	4	advcl	_	Translit=puṭṭaka|LTranslit=_
-3	కొడుకు	_	NOUN	NOUN	_	4	nsubj	_	Translit=kòḍuku|LTranslit=_
-4	పుట్టేడు	_	VERB	VERB	_	0	root	_	Translit=puṭṭeḍu|LTranslit=_
+1	పుట్టక	_	VERB	VERB	_	2	compound:redup	_	Translit=puṭṭaka|LTranslit=_
+2	పుట్టక	_	VERB	VERB	_	4	advcl	_	Translit=puṭṭaka|LTranslit=_
+3	కొడుకు	_	NOUN	NOUN	_	4	nsubj	_	Translit=kòḍuku|LTranslit=_
+4	పుట్టేడు	_	VERB	VERB	_	0	root	_	Translit=puṭṭeḍu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:redup	color:blue
 1	మాకూ	_	PRON	PRON	_	5	nsubj:nc	_	Translit=mākū|LTranslit=_
-2	వాళ్ళకూ	_	PRON	PRON	_	1	conj	_	Translit=vāḷḷakū|LTranslit=_
+2	వాళ్ళకూ	_	PRON	PRON	_	1	conj	_	Translit=vāḷḷakū|LTranslit=_
 3	ముగ్గురు	_	ADJ	ADJ	_	4	compound:redup	_	Translit=mugguru|LTranslit=_
 4	ముగ్గురు	_	ADJ	ADJ	_	5	amod	_	Translit=mugguru|LTranslit=_
 5	పిల్లలు	_	NOUN	NOUN	_	0	root	_	Translit=pillalu|LTranslit=_
@@ -57,8 +57,8 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 1	ఎవరెవరు	_	PRON	PRON	_	5	nsubj	_	Translit=èvarèvaru|LTranslit=_
 2	ఏ	_	DET	DET	_	3	compound:redup	_	Translit=e|LTranslit=_
 3	ఏ	_	DET	DET	_	4	det	_	Translit=e|LTranslit=_
-4	వేళల	_	NOUN	NOUN	_	5	obl:tmod	_	Translit=veḷala|LTranslit=_
-5	వెళ్తారో	_	VERB	VERB	_	9	ccomp	_	Translit=vèḷtāro|LTranslit=_
+4	వేళల	_	NOUN	NOUN	_	5	obl:tmod	_	Translit=veḷala|LTranslit=_
+5	వెళ్తారో	_	VERB	VERB	_	9	ccomp	_	Translit=vèḷtāro|LTranslit=_
 6	ఎస్	_	PROPN	PROPN	_	9	nsubj:nc	_	Translit=ès|LTranslit=_
 7	కి	_	ADP	ADP	_	6	case	_	Translit=ki|LTranslit=_
 8	బాగా	_	DET	DET	_	9	det	_	Translit=bāgā|LTranslit=_

@@ -23,16 +23,16 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 appos	color:blue
 1	También	_	ADV	RB	_	3	advmod	_	_
-2	me	_	PRON	SE	Number=Sing|Person=1	3	compound:prt	_	_
-3	pregunto	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+2	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
+3	pregunto	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	si	_	ADP	IN	_	8	mark	_	_
-5	la	_	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Copa	_	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	Proper=True
 7	Davis	_	PROPN	NNP	Number=Sing	6	appos	_	_
-8	tuvo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	ccomp	_	_
+8	tuvo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 9	algo	_	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
-10	que	_	PRON	REL	Gender=Masc|Number=Sing	11	obj	_	_
-11	ver	_	VERB	VB	Aspect=Imp|Voice=Act	9	acl:relcl	_	SpaceAfter=No
+10	que	_	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	11	obj	_	_
+11	ver	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	9	acl:relcl	_	SpaceAfter=No
 12	.	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -44,8 +44,8 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 appos	color:blue
-1	Son	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
-2	las	_	DET	DT	Gender=Fem|Number=Plur	3	det	_	_
+1	Son	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 4	,	_	PUNCT	,	_	5	punct	_	_
 5	por	_	ADP	IN	_	3	discourse	_	_
@@ -55,7 +55,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	"	_	PUNCT	``	_	10	punct	_	SpaceAfter=No
 10	Juego	_	NOUN	NN	Gender=Masc|Number=Sing	3	appos	_	Proper=True
 11	de	_	ADP	IN	_	12	case	_	Proper=True
-12	tronos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	Proper=True|SpaceAfter=No
+12	tronos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Proper=True
 13	"	_	PUNCT	''	_	10	punct	_	SpaceAfter=No
 14	.	_	PUNCT	.	_	3	punct	_	_
 
@@ -69,9 +69,9 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
 1	Día	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-2	tres	_	NUM	CD	Gender=Masc	1	appos	_	SpaceAfter=No
+2	tres	_	NUM	CD	Gender=Masc|NumType=Card	1	appos	_	SpaceAfter=No
 3	,	_	PUNCT	,	_	4	punct	_	_
-4	estaba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	parataxis	_	_
+4	estaba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 5	de	_	ADP	IN	_	6	case	_	_
 6	vuelta	_	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	en	_	ADP	IN	_	8	case	_	_

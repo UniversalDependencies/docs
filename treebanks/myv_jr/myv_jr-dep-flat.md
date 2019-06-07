@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>.
 
-19 nodes (0%) are attached to their parents as `flat`.
+16 nodes (0%) are attached to their parents as `flat`.
 
-19 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57894736842105.
+16 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5625.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 37% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 32% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (2; 11% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (7; 44% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 38% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -49,10 +49,10 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	«	«	PUNCT	CLB	_	7	punct	_	GTtags=|SpaceAfter=No
 7	Ни	ни	X	X	_	4	parataxis	_	_
 8	тебе	тебе	X	X	_	7	flat	_	GTtags=|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	7	flat	_	_
+9	,	,	PUNCT	CLB	_	7	punct	_	_
 10	ни	ни	X	X	_	7	flat	_	_
 11	мне	мне	X	X	_	7	flat	_	GTtags=|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	7	flat	_	_
+12	,	,	PUNCT	CLB	_	7	punct	_	_
 13	но	но	X	X	_	7	flat	_	_
 14	имени	имени	X	X	_	7	flat	_	_
 15	твоему	твоему	X	X	_	7	flat	_	GTtags=|SpaceAfter=No

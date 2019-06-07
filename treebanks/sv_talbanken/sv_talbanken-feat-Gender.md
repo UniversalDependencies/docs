@@ -12,7 +12,7 @@ It occurs with 4 different values: `Com`, `Fem`, `Masc`, `Neut`.
 33614 tokens (35%) have a non-empty value of `Gender`.
 10234 types (68%) occur at least once with a non-empty value of `Gender`.
 6850 lemmas (67%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22566; 23% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (4071; 4% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (3717; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (3141; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22566; 23% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (4071; 4% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (3718; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (3141; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (91; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
 
 ### `NOUN`
 
@@ -61,20 +61,21 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `DET`
 
-3717 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
+3718 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3717; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3222; 87%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2324; 63%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3718; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3222; 87%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2325; 63%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Com` (2579; 69% of non-empty `Gender`): <em>en, den, denna, någon, ingen, vilken, var, all, varannan, nån</em>
+* `Com` (2580; 69% of non-empty `Gender`): <em>en, den, denna, någon, ingen, vilken, var, all, varannan, nån</em>
 * `Neut` (1138; 31% of non-empty `Gender`): <em>ett, det, detta, något, allt, inget, vilket, vart, vartannat</em>
 * `EMPTY` (1236): <em>de, alla, varje, dessa, samma, några, vilka, inga, bägge, vardera</em>
 
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>det</em></td><td><em>den</em></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>ett</em></td><td><em>en</em></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>det</em></td><td><em>den</em></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>en</em></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ett</em></td><td><em>en</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -88,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Com` (1978; 63% of non-empty `Gender`): <em>stor, annan, själv, sådan, viss, egen, ny, hög, kristen, social</em>
 * `Masc` (46; 1% of non-empty `Gender`): <em>enskilde, andre, sjuke, ene, enskildes, lille, skattskyldige, unge, amerikanske, andres</em>
 * `Neut` (1117; 36% of non-empty `Gender`): <em>annat, svårt, nytt, möjligt, sådant, viktigt, eget, socialt, stort, övrigt</em>
-* `EMPTY` (5359): <em>olika, andra, nya, många, stora, större, första, vissa, hela, flera</em>
+* `EMPTY` (5358): <em>olika, andra, nya, många, stora, större, första, vissa, hela, flera</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -98,13 +99,13 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `NUM`
 
-92 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Gender`.
+91 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (92; 100%), <tt><a href="sv_talbanken-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (92; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (91; 100%), <tt><a href="sv_talbanken-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (91; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Com` (60; 65% of non-empty `Gender`): <em>en</em>
+* `Com` (59; 65% of non-empty `Gender`): <em>en</em>
 * `Neut` (32; 35% of non-empty `Gender`): <em>ett</em>
 * `EMPTY` (1649): <em>två, tre, 1, 20, 2, 1970, 3, 10, 1971, 7</em>
 
@@ -123,16 +124,16 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Com` (21; 78% of non-empty `Gender`): <em>vald, vänd, hörselskadad, accepterad, förstärkt, förändrad, ifylld, komplicerad, likställd, lämnad</em>
 * `Neut` (6; 22% of non-empty `Gender`): <em>förbjudet, opåverkat, reglerat, sysselsatt, tillgodosett, upplagt</em>
-* `EMPTY` (9939): <em>har, finns, är, blir, få, får, ha, gäller, ger, går</em>
+* `EMPTY` (9844): <em>har, finns, blir, få, får, ha, är, gäller, ger, går</em>
 
 `Gender` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Gender`.
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3462; 76%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3463; 76%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1576; 54%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1388; 67%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1387; 67%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (552; 60%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (339; 51%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (184; 64%),

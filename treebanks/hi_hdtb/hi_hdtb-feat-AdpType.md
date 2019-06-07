@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 1 different values: `Post`.
 
 74379 tokens (21%) have a non-empty value of `AdpType`.
-138 types (1%) occur at least once with a non-empty value of `AdpType`.
-135 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+136 types (1%) occur at least once with a non-empty value of `AdpType`.
+134 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (72950; 21% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1373; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (56; 0% instances).
 
 ### `ADP`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 
 * `Post` (72950; 100% of non-empty `AdpType`): के, में, को, ने, से, की, पर, लिए, का, तक
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (123) occur only with one value of `AdpType`.
+`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (122) occur only with one value of `AdpType`.
 
 ### `ADV`
 
@@ -53,14 +53,14 @@ The most frequent other feature values with which `NOUN` and `AdpType` co-occurr
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> ADP</tt> (294; 100%),
-<tt>ADV --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> ADP</tt> (248; 92%),
-<tt>ADP --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (24; 100%),
+<tt>ADV --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> ADP</tt> (234; 91%),
 <tt>ADP --[<tt><a href="hi_hdtb-dep-dislocated.html">dislocated</a></tt>]--> ADP</tt> (13; 93%),
 <tt>ADV --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> ADP</tt> (12; 100%),
-<tt>ADV --[<tt><a href="hi_hdtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (8; 100%),
 <tt>ADV --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> NOUN</tt> (6; 100%),
 <tt>ADV --[<tt><a href="hi_hdtb-dep-cc.html">cc</a></tt>]--> NOUN</tt> (5; 100%),
-<tt>ADP --[<tt><a href="hi_hdtb-dep-case.html">case</a></tt>]--> NOUN</tt> (4; 100%),
-<tt>ADP --[<tt><a href="hi_hdtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2; 100%).
+<tt>ADV --[<tt><a href="hi_hdtb-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
+<tt>ADV --[<tt><a href="hi_hdtb-dep-dep.html">dep</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>ADV --[<tt><a href="hi_hdtb-dep-mark.html">mark</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>ADV --[<tt><a href="hi_hdtb-dep-amod.html">amod</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="hi_hdtb-dep-punct.html">punct</a></tt>]--> NOUN</tt> (1; 100%).
 

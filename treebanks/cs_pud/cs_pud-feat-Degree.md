@@ -12,7 +12,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 2172 tokens (12%) have a non-empty value of `Degree`.
 1638 types (22%) occur at least once with a non-empty value of `Degree`.
 1060 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1883; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (289; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1883; 10% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (275; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (14; 0% instances).
 
 ### `ADJ`
 
@@ -57,16 +57,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-289 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (34% of all `ADV` tokens) have a non-empty value of `Degree`.
+275 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (33% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (281; 97%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (267; 97%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (59; 20% of non-empty `Degree`): <em>více, víc, později, dříve, méně, Přesněji, dál, lépe, raději, radši</em>
-* `Pos` (222; 77% of non-empty `Degree`): <em>stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</em>
+* `Cmp` (45; 16% of non-empty `Degree`): <em>více, později, víc, dříve, méně, Přesněji, dál, lépe, raději, radši</em>
+* `Pos` (222; 81% of non-empty `Degree`): <em>stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</em>
 * `Sup` (8; 3% of non-empty `Degree`): <em>nejlépe, nejvíce, nejméně, nejpozději, nejpravděpodobněji</em>
-* `EMPTY` (560): <em>tak, také, jak, poté, už, kde, pouze, ještě, velmi, zcela</em>
+* `EMPTY` (562): <em>tak, také, jak, poté, už, kde, pouze, ještě, velmi, zcela</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -75,12 +75,25 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (120) occur only with one value of `Degree`.
 
+### `DET`
+
+14 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (14; 100%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Cmp` (14; 100% of non-empty `Degree`): <em>více, víc, méně</em>
+* `EMPTY` (813): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (36; 86%),
-<tt>ADV --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 100%),
+<tt>ADV --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="cs_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="cs_pud-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_pud-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>DET --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
+<tt>DET --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

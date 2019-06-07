@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4521 nodes (13%) are attached to their parents as `punct`.
+4524 nodes (13%) are attached to their parents as `punct`.
 
-2851 instances of `punct` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.53063481530635.
+2853 instances of `punct` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.40406719717065.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1934; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1290; 29% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (618; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (526; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (87; 2% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (35; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1931; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1285; 28% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (655; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (523; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (84; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,9 +65,9 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	"	"	PUNCT	Z:-------------	_	7	punct	_	_
 7	+	"+"	X	X@-------------	_	5	nmod	_	_
 8	"	"	PUNCT	Z:-------------	_	7	punct	_	_
-9	a	a	CCONJ	J^-------------	_	10	cc	_	LId=a-1
+9	a	a	CCONJ	J^-------------	_	7	cc	_	LId=a-1
 10	"	"	PUNCT	Z:-------------	_	11	punct	_	_
-11	*	"*"	PUNCT	X@-------------	_	6	conj	_	_
+11	*	"*"	PUNCT	X@-------------	_	7	punct	_	_
 12	"	"	PUNCT	Z:-------------	_	11	punct	_	_
 13	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 

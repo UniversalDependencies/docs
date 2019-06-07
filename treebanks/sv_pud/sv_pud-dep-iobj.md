@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `iobj`.
+25 nodes (0%) are attached to their parents as `iobj`.
 
-24 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+25 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.48.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (16; 67% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (6; 25% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (2; 8% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 68% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (6; 24% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (2; 8% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 4	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	6	det	6:det	_
 5	högsta	hög	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	6	amod	6:amod	_
-6	bot	bot	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	10:obl	_
+6	bot	bot	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root|10:obl	_
 7	som	som	PRON	HP|-|-|-	PronType=Int,Rel	10	obj	6:ref	_
 8	RECO	RECO	PROPN	PM|NOM	Case=Nom	10	nsubj	10:nsubj	_
 9	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11611 nodes (3%) are attached to their parents as `aux`.
+11604 nodes (3%) are attached to their parents as `aux`.
 
-11026 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2594091809491.
+11017 instances of `aux` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2609445018959.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (10388; 89% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (491; 4% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (488; 4% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (113; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (74; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (33; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (10383; 89% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (494; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (491; 4% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (113; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (74; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,24 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 aux	color:blue
+1	Udmurdid	udmurt	NOUN	S	Case=Nom|Number=Plur	7	nsubj:cop	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+3	kogu	kogu	DET	A	PronType=Tot	4	det	_	_
+4	aeg	aeg	NOUN	S	Case=Nom|Number=Sing	7	obl	_	_
+5	olnud	olema	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	7	cop	_	_
+6	kuidagi	kuidagi	ADV	D	_	7	advmod	_	_
+7	varjus	vari	NOUN	S	Case=Ine|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 9	bgColor:blue
@@ -49,24 +67,6 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 8	lahti	lahti	ADV	D	_	9	advmod	_	_
 9	rääkimata	rääki=mata	ADJ	A	Case=Abe|Degree=Pos|VerbForm=Sup|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 aux	color:blue
-1	Udmurdid	udmurt	NOUN	S	Case=Nom|Number=Plur	7	nsubj:cop	_	_
-2	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-3	kogu	kogu	DET	A	PronType=Tot	4	det	_	_
-4	aeg	aeg	NOUN	S	Case=Nom|Number=Sing	7	obl	_	_
-5	olnud	olema	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	7	cop	_	_
-6	kuidagi	kuidagi	ADV	D	_	7	advmod	_	_
-7	varjus	vari	NOUN	S	Case=Ine|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

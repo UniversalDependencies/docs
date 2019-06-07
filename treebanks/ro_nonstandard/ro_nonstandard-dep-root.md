@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10069 nodes (5%) are attached to their parents as `root`.
+12248 nodes (5%) are attached to their parents as `root`.
 
-10069 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.05919157811103.
+12248 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.02106466361855.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (8480; 84% instances), -<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (902; 9% instances), -<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (208; 2% instances), -<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (158; 2% instances), -<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (116; 1% instances), -<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (104; 1% instances), -<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (42; 0% instances), -<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (30; 0% instances), -<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (15; 0% instances), -<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (7; 0% instances), -<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (10207; 83% instances), -<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1188; 10% instances), -<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (268; 2% instances), -<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (184; 2% instances), -<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (152; 1% instances), -<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (129; 1% instances), -<tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (43; 0% instances), -<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (41; 0% instances), -<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (24; 0% instances), -<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (8; 0% instances), -<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

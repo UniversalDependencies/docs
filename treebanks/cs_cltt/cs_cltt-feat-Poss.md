@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.htm
 
 ### `DET`
 
-240 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Poss`.
+240 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (219; 91%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (216; 90%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (189; 79%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (187; 78%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (180; 75%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (240; 100% of non-empty `Poss`): <em>jejich, jeho, její, jejichž, své, jejího, jehož, jejím, svého, svých</em>
-* `EMPTY` (954): <em>které, která, této, tohoto, který, to, těchto, tyto, tato, tento</em>
+* `EMPTY` (921): <em>které, která, této, tohoto, který, těchto, tyto, tato, tento, kterým</em>
 
 ### `ADJ`
 

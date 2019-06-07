@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>mj, r</em>
-* `EMPTY` (818): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (819): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 ### `SYM`
 

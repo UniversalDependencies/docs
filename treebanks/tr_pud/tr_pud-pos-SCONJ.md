@@ -13,19 +13,18 @@ The 10 most frequent `SCONJ` lemmas: <em>ki, eğer</em>
 
 The 10 most frequent `SCONJ` types:  <em>ki, eğer</em>
 
-The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 184, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 185, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 191, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 192, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10)
 
 
 * <em>ki</em>
-  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 191: <em>Aynı zamanda 2 yaşında <b>ki</b> kızını öldürmeye teşebbüsten suçlanıyordu .</em>
+  * <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 192: <em>Aynı zamanda 2 yaşında <b>ki</b> kızını öldürmeye teşebbüsten suçlanıyordu .</em>
   * <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Sinema o kadar değişti <b>ki</b> ; Hollywood aile izleyicisini kendinden uzaklaştırdı .</em>
-  * <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1: <em>Cadıcılık saati , örneğin 60'lı yıllarda Monster Mash'ı vurması örneğinde <b>ki</b> gibi en azından korkunç orgun çalındığı zaman başlar .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.493265).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.500000).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>eğer</em>.
 
@@ -36,9 +35,9 @@ The 2nd highest number of forms (1) was observed with the lemma “ki”: <em>ki
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="tr_pud-dep-advmod-emph.html">advmod:emph</a></tt> (6; 46% instances), <tt><a href="tr_pud-dep-mark.html">mark</a></tt> (6; 46% instances), <tt><a href="tr_pud-dep-fixed.html">fixed</a></tt> (1; 8% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="tr_pud-dep-mark.html">mark</a></tt> (8; 62% instances), <tt><a href="tr_pud-dep-fixed.html">fixed</a></tt> (5; 38% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (6; 46% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (4; 31% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (5; 38% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (4; 31% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances)
 
 11 (85%) `SCONJ` nodes are leaves.
 
@@ -46,7 +45,7 @@ Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="tr_
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-mark.html">mark</a></tt> (1; 50% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="tr_pud-dep-fixed.html">fixed</a></tt> (1; 50% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (1; 50% instances)
 
 Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
 

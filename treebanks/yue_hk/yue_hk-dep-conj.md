@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-330 nodes (5%) are attached to their parents as `conj`.
+548 nodes (4%) are attached to their parents as `conj`.
 
-330 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.82727272727273.
+548 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.92883211678832.
 
-The following 25 pairs of parts of speech are connected with `conj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (194; 59% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (28; 8% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (14; 4% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (13; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 32 pairs of parts of speech are connected with `conj`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (334; 61% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (53; 10% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (23; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (18; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,16 +58,26 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 conj	color:blue
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 conj	color:blue
 1	好	好	ADJ	_	_	0	root	_	SpaceAfter=No
-2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	收	收	VERB	_	_	1	conj	_	SpaceAfter=No
-4	到	到	VERB	_	_	3	compound:vv	_	SpaceAfter=No
-5	。	。	PUNCT	_	_	1	punct	_	SpaceAfter=No
+2	啦	喇	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	媽咪	媽咪	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+5	聽日	聽日	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No
+6	煮	煮	VERB	_	_	1	conj	_	SpaceAfter=No
+7	雞翼	雞翼	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	獎勵	獎勵	VERB	_	_	6	advcl	_	SpaceAfter=No
+9	你	你	PRON	_	_	8	obj	_	SpaceAfter=No
+10	啦	喇	PART	_	_	6	discourse:sp	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	好	好	ADJ	_	_	6	conj	_	SpaceAfter=No
+13	唔	唔	ADV	_	_	14	advmod	_	SpaceAfter=No
+14	好	好	ADJ	_	_	12	conj	_	SpaceAfter=No
+15	？	？	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

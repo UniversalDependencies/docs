@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Short`, `Uncontr`.
 
-54 tokens (0%) have a non-empty value of `Variant`.
+55 tokens (0%) have a non-empty value of `Variant`.
 19 types (0%) occur at least once with a non-empty value of `Variant`.
 18 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 3 part-of-speech tags: <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (31; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `DET`
 
-31 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
+32 <tt><a href="uk_iu-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (31; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (29; 94%), <tt><a href="uk_iu-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 52%), <tt><a href="uk_iu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 52%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="uk_iu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32; 100%), <tt><a href="uk_iu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 100%), <tt><a href="uk_iu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="uk_iu-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="uk_iu-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="uk_iu-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (30; 94%).
 
 `DET` tokens may have the following values of `Variant`:
 
-* `Short` (31; 100% of non-empty `Variant`): <em>кожен, жоден, всяк</em>
+* `Short` (32; 100% of non-empty `Variant`): <em>кожен, жоден, всяк</em>
 
 ### `ADJ`
 

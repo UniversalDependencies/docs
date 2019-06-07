@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-45009 tokens (8%) have a non-empty value of `Tense`.
-5572 types (17%) occur at least once with a non-empty value of `Tense`.
-1565 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (24105; 5% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (20904; 4% instances).
+45005 tokens (8%) have a non-empty value of `Tense`.
+5570 types (17%) occur at least once with a non-empty value of `Tense`.
+1563 lemmas (7%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (24885; 5% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (20120; 4% instances).
 
 ### `VERB`
 
-24105 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
+24885 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18990; 79%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17436; 72%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17414; 72%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (16650; 69%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15501; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19628; 79%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18118; 73%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18096; 73%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (17302; 70%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16128; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (2905; 12% of non-empty `Tense`): <em>farà, tindrà, haurà, celebrarà, presentarà, faran, permetrà, començarà, comptarà, oferirà</em>
-* `Imp` (1980; 8% of non-empty `Tense`): <em>tenia, havia, feia, tenien, deia, volia, estava, feien, sabia, demanava</em>
-* `Past` (6732; 28% of non-empty `Tense`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</em>
-* `Pres` (12488; 52% of non-empty `Tense`): <em>té, ha, tenen, fa, considera, cal, vol, tracta, demana, diu</em>
-* `EMPTY` (15809): <em>fer, tenir, dir, donar, arribar, aconseguir, passar, presentar, veure, anar</em>
+* `Fut` (2984; 12% of non-empty `Tense`): <em>farà, tindrà, haurà, celebrarà, presentarà, faran, permetrà, començarà, comptarà, oferirà</em>
+* `Imp` (2044; 8% of non-empty `Tense`): <em>tenia, havia, feia, volia, tenien, deia, feien, estava, sabia, demanava</em>
+* `Past` (6830; 27% of non-empty `Tense`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</em>
+* `Pres` (13027; 52% of non-empty `Tense`): <em>té, ha, fa, tenen, considera, cal, vol, tracta, demana, diu</em>
+* `EMPTY` (16697): <em>fer, tenir, dir, donar, arribar, aconseguir, passar, veure, presentar, deixar</em>
 
 <table>
   <tr><th>Paradigm <i>fer</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -39,23 +39,24 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fan</em></td><td><em>faran</em></td><td></td><td><em>feien</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>faci</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>faci</em></td><td></td><td></td><td><em>fes</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>feu</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>facin</em></td><td></td><td></td><td><em>fessin</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>fet</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-20904 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
+20120 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20106; 96%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (19537; 93%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19394; 93%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15962; 76%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19422; 97%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (18883; 94%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18765; 93%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15320; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (824; 4% of non-empty `Tense`): <em>serà, podrà, seran, haurà, podran, hauran, estarà, estaran, tornarà, continuarà</em>
-* `Imp` (1158; 6% of non-empty `Tense`): <em>havia, era, havien, estava, eren, podia, hagués, fos, estaven, podien</em>
-* `Past` (804; 4% of non-empty `Tense`): <em>estat, pogut, hagut, començat, volgut, anat, fet, tornat, deixat, arribat</em>
-* `Pres` (18118; 87% of non-empty `Tense`): <em>va, ha, és, van, han, són, està, pot, fa, estan</em>
-* `EMPTY` (3122): <em>ser, haver, hauria, poder, podria, fer, estar, tornar, seria, començar</em>
+* `Fut` (744; 4% of non-empty `Tense`): <em>serà, podrà, seran, haurà, podran, hauran, estarà, estaran, podrem, aniran</em>
+* `Imp` (1094; 5% of non-empty `Tense`): <em>havia, era, havien, estava, eren, podia, hagués, fos, estaven, podien</em>
+* `Past` (704; 3% of non-empty `Tense`): <em>estat, pogut, hagut, anat, sigut, fou, fet, sabut, adjudicats, confiscats</em>
+* `Pres` (17578; 87% of non-empty `Tense`): <em>va, ha, és, van, han, són, està, pot, estan, hem</em>
+* `EMPTY` (2234): <em>ser, haver, hauria, poder, podria, estar, seria, podrien, haurien, sent</em>
 
 <table>
   <tr><th>Paradigm <i>haver</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -75,8 +76,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (1384; 61%),
-<tt>AUX --[<tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (38; 53%),
+<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (1431; 62%),
+<tt>AUX --[<tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (39; 53%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> VERB</tt> (29; 73%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (4; 67%),
 <tt>AUX --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> AUX</tt> (2; 100%),

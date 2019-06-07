@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.427558).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.427665).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -46,7 +46,7 @@ Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="cs_pu
 
 The highest child degree of a `SYM` node is 4.
 
-Children of `SYM` nodes are attached using 7 different relations: <tt><a href="cs_pud-dep-case.html">case</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nummod-gov.html">nummod:gov</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-nummod.html">nummod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (3; 10% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (1; 3% instances)
+Children of `SYM` nodes are attached using 7 different relations: <tt><a href="cs_pud-dep-case.html">case</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nummod-gov.html">nummod:gov</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-nummod.html">nummod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (2; 6% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (1; 3% instances)
 
 Children of `SYM` nodes belong to 4 different parts of speech: <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (13; 42% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (7; 23% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 16% instances)
 

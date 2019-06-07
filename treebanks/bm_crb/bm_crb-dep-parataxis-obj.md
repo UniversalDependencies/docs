@@ -48,14 +48,14 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 parataxis:obj	color:blue
-1	dugumasa	dùgumasa	NOUN	n	_	4	nsubj	_	Gloss=roi|Morf=roi,terre,roi
+1	dugumasa	dùgumasa	NOUN	n	_	4	nsubj	_	Gloss=roi|Morf=roi,terre,roi
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
-4	kanto	kánto	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
+4	kanto	kánto	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
-7	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=
-8	yoo	yó	INTJ	intj	_	7	parataxis:obj	_	Gloss=salut|SpaceAfter=No
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+7	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=
+8	yoo	yó	INTJ	intj	_	7	parataxis:obj	_	Gloss=salut|SpaceAfter=No
 9	!	!	PUNCT	_	_	7	punct	_	Gloss=!
 
 ~~~

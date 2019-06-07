@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_gsd-dep-expl.html">expl</a></tt>.
 
-209 nodes (0%) are attached to their parents as `expl:pv`.
+211 nodes (0%) are attached to their parents as `expl:pv`.
 
-148 instances of `expl:pv` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.70813397129187.
+149 instances of `expl:pv` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.69668246445498.
 
-The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (209; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (211; 100% instances).
 
 
 ~~~ conllu

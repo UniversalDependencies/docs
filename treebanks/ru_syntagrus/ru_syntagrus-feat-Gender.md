@@ -152,7 +152,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `AUX`
 
-4141 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Gender`.
+4141 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4141; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4141; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4141; 100%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4141; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4141; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4138; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4138; 100%).
 
@@ -161,7 +161,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (927; 22% of non-empty `Gender`): <em>была</em>
 * `Masc` (1520; 37% of non-empty `Gender`): <em>был, бывший, бывшем</em>
 * `Neut` (1694; 41% of non-empty `Gender`): <em>было</em>
-* `EMPTY` (4004): <em>были, будет, быть, будут, есть, будем, буду, будучи, будь, будете</em>
+* `EMPTY` (5528): <em>бы, были, будет, быть, будут, есть, будем, буду, будучи, будь</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -197,13 +197,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (52763; 66%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (13952; 58%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (13954; 58%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5313; 99%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (3968; 50%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3517; 80%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3525; 80%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (3358; 53%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (3149; 63%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2886; 62%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2498; 94%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (3146; 63%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2888; 62%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2500; 94%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> VERB</tt> (2054; 60%).
 

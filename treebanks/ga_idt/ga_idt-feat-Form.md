@@ -138,7 +138,7 @@ The most frequent other feature values with which `AUX` and `Form` co-occurred: 
 
 ### `NUM`
 
-40 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (12% of all `NUM` tokens) have a non-empty value of `Form`.
+40 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Form`.
 
 The most frequent other feature values with which `NUM` and `Form` co-occurred: <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (24; 60%).
 
@@ -177,9 +177,9 @@ The most frequent other feature values with which `ADP` and `Form` co-occurred: 
 
 ### `X`
 
-4 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Form`.
+4 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `X` and `Form` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (3; 75%).
+The most frequent other feature values with which `X` and `Form` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (3; 75%).
 
 `X` tokens may have the following values of `Form`:
 

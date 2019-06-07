@@ -72,7 +72,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
 15	dále	dále	ADV	Db------------1	_	11	dep	_	LId=dále-3
-16	jen	jen	PART	TT-------------	_	17	advmod:emph	_	LId=jen-1
+16	jen	jen	PART	TT-------------	_	18	advmod:emph	_	LId=jen-1
 17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
 18	účetní_případy	"účetní_případy"	X	X@-------------	_	11	dep	_	_
 19	"	"	PUNCT	Z:-------------	_	18	punct	_	_
@@ -105,7 +105,7 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 13	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
 15	dále	dále	ADV	Db------------1	_	11	dep	_	LId=dále-3
-16	jen	jen	PART	TT-------------	_	17	advmod:emph	_	LId=jen-1
+16	jen	jen	PART	TT-------------	_	18	advmod:emph	_	LId=jen-1
 17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
 18	účetní_případy	"účetní_případy"	X	X@-------------	_	11	dep	_	_
 19	"	"	PUNCT	Z:-------------	_	18	punct	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `mark`: <tt><a href="zh_hk-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_hk-dep-mark-rel.html">mark:rel</a></tt>.
 
-89 nodes (1%) are attached to their parents as `mark`.
+117 nodes (1%) are attached to their parents as `mark`.
 
-65 instances of `mark` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.87640449438202.
+92 instances of `mark` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.00854700854701.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (38; 43% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (33; 37% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (7; 8% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (60; 51% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (40; 34% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (7; 6% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	我們	_	PRON	_	_	1	obj	_	SpaceAfter=No
 3	今天	_	NOUN	_	_	8	obl:tmod	_	SpaceAfter=No
 4	可以	_	AUX	_	_	8	ccomp	_	SpaceAfter=No
-5	有	_	VERB	_	_	8	advmod	_	SpaceAfter=No
+5	有	_	VERB	_	_	8	advcl	_	SpaceAfter=No
 6	秩序	_	NOUN	_	_	5	obj	_	SpaceAfter=No
 7	地	_	PART	_	_	5	mark	_	SpaceAfter=No
 8	進行	_	VERB	_	_	1	xcomp	_	SpaceAfter=No

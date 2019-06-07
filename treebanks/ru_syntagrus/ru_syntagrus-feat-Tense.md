@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 107011 tokens (10%) have a non-empty value of `Tense`.
 29081 types (25%) occur at least once with a non-empty value of `Tense`.
-7177 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+7175 lemmas (16%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (99614; 9% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7397; 1% instances).
 
 ### `VERB`
@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-7397 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Tense`.
+7397 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7397; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7397; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7346; 99%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7346; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5467; 74%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5342; 72%).
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (5296; 72% of non-empty `Tense`): <em>было, был, были, была, бывшие, бывший, бывшем</em>
 * `Pres` (2101; 28% of non-empty `Tense`): <em>будет, будут, есть, будем, буду, будучи, будете, будешь, суть</em>
-* `EMPTY` (748): <em>быть, будь, будьте</em>
+* `EMPTY` (2272): <em>бы, быть, будь, б, будьте</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -91,7 +91,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (11185; 85%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3607; 51%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1941; 72%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (53; 54%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (55; 53%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> VERB</tt> (23; 100%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> VERB</tt> (10; 100%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (7; 64%),

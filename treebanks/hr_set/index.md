@@ -44,55 +44,48 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Croatian UD treebank is based on the SETimes-HR corpus.
+The Croatian UD treebank is based on the extension of the SETimes-HR corpus, the [hr500k](http://hdl.handle.net/11356/1183) corpus.
 
 
 
 
 The sentences are partially parallel with the smaller Serbian UD treebank, which
-comes from the Serbian edition of SETimes. For the CoNLL 2018 shared task in parsing
-(and for UD release 2.2), the Croatian corpus was re-split so that corresponding
-sentences are in the same section (train/dev/test) in Croatian and Serbian.
-The re-split had to be done on the Croatian side because the Serbian corpus is smaller
-and most of it correspond to what used to be training data in Croatian.
+comes from the Serbian edition of SETimes. For the UD release 2.4, the Croatian and Serbian
+corpus were enriched with ```newdoc``` metadata and re-split so that the corresponding
+documents are in the same section (train/dev/test) in Croatian and Serbian.
 
-For the time being, sentence ids have not been changed although they contain references
-to train/dev/test. Therefore it is now possible that e.g. sentence id "train-s2852"
-occurs in the development data, not in training data. This may be changed in future
-releases.
-
-Also note that the following description of data split and sources refers to the _old_
-data split. Thus, sentences 0001-3557 of the "training set" have ids "train-s1" to
-"train-s3557" but some of them are now in the dev file and some in the test file.
+Sentence ids have also been changed to reflect the domain / source the data comes from,
+and not the dependence to one of the sections (train/dev/test), as was the case
+in previous releases.
 
 ### Training set.
 
-Contains 7,689 sentences (169,283 tokens) from three sources:
+Contains 6,844 sentences (151,226 tokens) from three sources:
 
-1. Sentences 0001-3557: Newspaper text from the [Southeast European Times](http://en.wikipedia.org/wiki/Southeast_European_Times) news website, obtained from the [SETimes parallel corpus](http://nlp.ffzg.hr/resources/corpora/setimes/). This part of the treebank is built on top of the [SETimes.HR dependency treebank of Croatian](https://github.com/ffnlp/sethr);
-2. Sentences 3558-5792: Text from various [Croatian web sources](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf).
-3. Sentences 5793-7689: Croatian news web sources.
+1. sentence ids ```set.hr*```: pseudorandom 80% of documents of newspaper text from the [Southeast European Times](http://en.wikipedia.org/wiki/Southeast_European_Times) news website, obtained from the [SETimes parallel corpus](http://nlp.ffzg.hr/resources/corpora/setimes/). This part of the treebank is built on top of the [SETimes.HR dependency treebank of Croatian](https://github.com/ffnlp/sethr);
+2. sentence ids ```news.hr*```: pseudorandom 80% of documents of Croatian news web sources.
+3. sentence ids ```web.hr*``` : pseudorandom 80% of sentences of [Croatian web sources](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf).
 
 ### Development set.
 
-Contains 600 sentences (14,533 tokens) from two sources:
+Contains 954 sentences (21,952 tokens) from three sources:
 
-1. 001-200: newspaper text from the Croatian SETimes,
-2. 201-600: Croatian news web sources.
+1. sentence ids ```set.hr*```: pseudorandom 10% of documents of newspaper text from the Southeast European Times.
+2. sentence ids ```news.hr*```: pseudorandom 10% of documents of Croatian news web sources.
+3. sentence ids ```web.hr*``` : pseudorandom 10% of sentences of Croatian web sources.
 
 ### Test set.
 
-Contains 600 sentences (13,228 tokens) from three sources:
+Contains 1214 sentences (26,263 tokens) from four sources:
 
-1. sentences 001-100: newspaper text,
-2. sentences 101-200: Wikipedia,
-3. sentences 201-297: web sources, and
-4. sentences 298-600: Croatian news web sources.
+1. sentence ids ```set.hr*```: pseudorandom 10% of documents of newspaper text from the Southeast European Times (+ the previous test set from the same source).
+2. sentence ids ```wiki.hr*```: old Wikipedia-based test set.
+2. sentence ids ```news.hr*```: pseudorandom 10% of documents of Croatian news web sources.
+3. sentence ids ```web.hr*``` : pseudorandom 10% of sentences of Croatian web sources.
 
 ### Details
 
-Sentence and word segmentation was manually checked. The treebank does not include multiword tokens. No language-specific features and relations were used. The POS tags and features were converted from [Multext East v4](http://nlp.ffzg.hr/data/tagging/msd-hr.html) and manually checked. The syntactic annotation was done manually.
-
+Sentence and word segmentation was manually checked. The treebank does not include multiword tokens. No language-specific features and relations were used. The POS tags and features were converted from [Multext East v6](http://nl.ijs.si/ME/V6/msd/html/msd-hbs.html) (present in the XPOS column) and manually checked. The syntactic annotation was done manually.
 
 ## Acknowledgments
 
@@ -116,17 +109,17 @@ See file LICENSE.txt for further licensing information.
 
 ## Relations
 
-[acl](hr_set-dep-acl.html) – [advcl](hr_set-dep-advcl.html) – [advmod](hr_set-dep-advmod.html) – [advmod:emph](hr_set-dep-advmod-emph.html) – [amod](hr_set-dep-amod.html) – [appos](hr_set-dep-appos.html) – [aux](hr_set-dep-aux.html) – [aux:pass](hr_set-dep-aux-pass.html) – [case](hr_set-dep-case.html) – [cc](hr_set-dep-cc.html) – [ccomp](hr_set-dep-ccomp.html) – [compound](hr_set-dep-compound.html) – [conj](hr_set-dep-conj.html) – [cop](hr_set-dep-cop.html) – [csubj](hr_set-dep-csubj.html) – [csubj:pass](hr_set-dep-csubj-pass.html) – [dep](hr_set-dep-dep.html) – [det](hr_set-dep-det.html) – [discourse](hr_set-dep-discourse.html) – [dislocated](hr_set-dep-dislocated.html) – [expl](hr_set-dep-expl.html) – [expl:pv](hr_set-dep-expl-pv.html) – [fixed](hr_set-dep-fixed.html) – [flat](hr_set-dep-flat.html) – [flat:foreign](hr_set-dep-flat-foreign.html) – [goeswith](hr_set-dep-goeswith.html) – [iobj](hr_set-dep-iobj.html) – [list](hr_set-dep-list.html) – [mark](hr_set-dep-mark.html) – [nmod](hr_set-dep-nmod.html) – [nsubj](hr_set-dep-nsubj.html) – [nsubj:pass](hr_set-dep-nsubj-pass.html) – [nummod](hr_set-dep-nummod.html) – [obj](hr_set-dep-obj.html) – [obl](hr_set-dep-obl.html) – [orphan](hr_set-dep-orphan.html) – [parataxis](hr_set-dep-parataxis.html) – [punct](hr_set-dep-punct.html) – [root](hr_set-dep-root.html) – [vocative](hr_set-dep-vocative.html) – [xcomp](hr_set-dep-xcomp.html)
+[acl](hr_set-dep-acl.html) – [advcl](hr_set-dep-advcl.html) – [advmod](hr_set-dep-advmod.html) – [advmod:emph](hr_set-dep-advmod-emph.html) – [amod](hr_set-dep-amod.html) – [appos](hr_set-dep-appos.html) – [aux](hr_set-dep-aux.html) – [aux:pass](hr_set-dep-aux-pass.html) – [case](hr_set-dep-case.html) – [cc](hr_set-dep-cc.html) – [ccomp](hr_set-dep-ccomp.html) – [compound](hr_set-dep-compound.html) – [conj](hr_set-dep-conj.html) – [cop](hr_set-dep-cop.html) – [csubj](hr_set-dep-csubj.html) – [csubj:pass](hr_set-dep-csubj-pass.html) – [dep](hr_set-dep-dep.html) – [det](hr_set-dep-det.html) – [det:numgov](hr_set-dep-det-numgov.html) – [discourse](hr_set-dep-discourse.html) – [dislocated](hr_set-dep-dislocated.html) – [expl](hr_set-dep-expl.html) – [expl:pv](hr_set-dep-expl-pv.html) – [fixed](hr_set-dep-fixed.html) – [flat](hr_set-dep-flat.html) – [flat:foreign](hr_set-dep-flat-foreign.html) – [goeswith](hr_set-dep-goeswith.html) – [iobj](hr_set-dep-iobj.html) – [list](hr_set-dep-list.html) – [mark](hr_set-dep-mark.html) – [nmod](hr_set-dep-nmod.html) – [nsubj](hr_set-dep-nsubj.html) – [nsubj:pass](hr_set-dep-nsubj-pass.html) – [nummod](hr_set-dep-nummod.html) – [nummod:gov](hr_set-dep-nummod-gov.html) – [obj](hr_set-dep-obj.html) – [obl](hr_set-dep-obl.html) – [orphan](hr_set-dep-orphan.html) – [parataxis](hr_set-dep-parataxis.html) – [punct](hr_set-dep-punct.html) – [root](hr_set-dep-root.html) – [vocative](hr_set-dep-vocative.html) – [xcomp](hr_set-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 8889 sentences and 197044 tokens.</li>
+<li>This corpus contains 9012 sentences and 199441 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23092 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 23425 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -134,7 +127,7 @@ See file LICENSE.txt for further licensing information.
 </ul>
 
 <ul>
-<li>This corpus contains 627 types of words that contain both letters and punctuation. Examples: UN-a, NATO-u, NATO-a, dr., OESS-a, EBRD-a, MMF-a, KFOR-a, tzv., BDP-a, UNMIK-a, prof., EU-a, HDZ-a, SAD-u, SAD-a, SDP-a, g., npr., Pop-Lazić, tj., Index.hr, sl., sv., ICTY-em, Izbori.net, Lukić-Nagy, OHR-a, r., web-stranica, Bukumirić-Katić, EP-a, MMF-om, Moody's, PDV-a, UN-ova, UNESCO-a, e-mail, engl., sc., EULEX-a, HAMAG-a, ICTY-a, KBC-u, NLO-ima, UN-ovog, on-line, st., Alpe-Adria, CiO-a</li>
+<li>This corpus contains 635 types of words that contain both letters and punctuation. Examples: UN-a, NATO-u, NATO-a, dr., OESS-a, EBRD-a, KFOR-a, MMF-a, tzv., BDP-a, UNMIK-a, prof., EU-a, HDZ-a, SAD-u, Pop-Lazić, SAD-a, SDP-a, g., npr., tj., Index.hr, sl., sv., ICTY-em, Izbori.net, Lukić-Nagy, OHR-a, UN-ova, r., web-stranica, Bukumirić-Katić, EP-a, EULEX-a, MMF-om, Moody's, PDV-a, UNESCO-a, e-mail, engl., mil., sc., st., HAMAG-a, ICTY-a, KBC-u, NLO-ima, UN-ovog, al-Qaede, on-line</li>
 </ul>
 
 <ul>
@@ -149,26 +142,27 @@ See file LICENSE.txt for further licensing information.
 </ul>
 
 <ul>
-<li>This corpus contains 31 word types tagged as particles (PART): Eto, ali, ama, bar, baš, bilo, da, dakle, evo, god, i, jedva, kako, li, ma, naime, ne, neka, nešto, ni, niti, ono, pak, samo, sve, tako, to, ustvari, više, zar, što</li>
+<li>This corpus contains 33 word types tagged as particles (PART): Eto, ali, ama, bar, barem, baš, bilo, da, evo, god, i, jedva, kako, li, ma, moguće, ne, neka, nešto, ni, niti, npr., ono, pak, sve, tako, tek, tj., to, ustvari, zar, čak, što</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as pronouns (PRON): ikakav, itko, ičiji, išta, ja, kakav-takav, mi, neki, netko, nečiji, nešto, nikoji, nitko, ništa, on, onakav, oni, ovakav, pokoji, sebe, svatko, svačiji, svašta, sve, ti, tko, tolik, vi, šta, što, štošta</li>
+<li>This corpus contains 21 lemmas tagged as pronouns (PRON): biti, itko, išta, ja, mi, netko, nešto, nitko, ništa, on, onaj, oni, sebe, svatko, svašta, taj, ti, tko, vi, što, štošta</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): kakav, koji, koliki, moj, naš, nekakav, nekoliko, nikakav, njegov, njen, njezin, njihov, onaj, ovaj, sav, svaki, svoj, taj, takav, toliko, tvoj, vaš, čiji</li>
+<li>This corpus contains 34 lemmas tagged as determiners (DET): ikakav, ičiji, kakav, kakav-takav, koji, koliki, moj, naš, nekakav, neki, nečiji, nikakav, ničiji, njegov, njen, njezin, njihov, onaj, onakav, ovaj, ovakav, pokoji, sav, svakakav, svaki, svačiji, sve, svoj, taj, takav, tolik, tvoj, vaš, čiji</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: onaj, taj</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): Ivan, autor, banka, bilo, biti, bivati, budeti, davati, gladovati, htjeti, moći, nakostriješiti, smjeti, susretati, težiti, za, željeti</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): banka, bilo, biti, htjeti, moći, nakostriješiti, susretati</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: bivati, budeti, davati, htjeti, moći, smjeti, susretati, težiti, željeti</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: htjeti, moći, susretati</li>
 </ul>
 
 <ul>
@@ -178,7 +172,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Conv
   <ul>
-    <li>ADV: zahvaljujući, uključujući, govoreći, Budući, dodavši, koristeći, sudeći, tražeći, Komentirajući, baveći</li>
+    <li>ADV: uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</li>
   </ul>
   </li>
 </ul>
@@ -204,9 +198,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, namijenjen, objavljen</li>
+    <li>ADJ: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</li>
     <li>AUX: bio, bilo, bila, bili, bile</li>
-    <li>VERB: izjavio, rekao, kazao, mogli, dodao, mogla, moglo, mogao, trebala, dobili</li>
+    <li>VERB: izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</li>
   </ul>
   </li>
 </ul>
@@ -221,15 +215,15 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: prošle, hrvatske, nove, europske, druge, prva, novu, nova, političke, srpske</li>
+      <li>ADJ: sve, prošle, hrvatske, druge, nove, europske, svih, prva, nova, novu</li>
       <li>ADJ-Part: održana, otvorena, povećana, smještene, uspostavljena, objavljena, provedena, završena, integrirane, izrečena</li>
       <li>AUX-Part: bila, bile</li>
-      <li>DET: koje, koja, ove, koju, kojoj, svoje, svoju, sve, te, ta</li>
-      <li>NOUN: godine, godina, zemlje, kuna, zemalja, stranke, vlada, država, strane, vlasti</li>
+      <li>DET: koje, koja, ove, koju, kojoj, svoje, svoju, te, ta, kojima</li>
+      <li>NOUN: godine, godina, zemlje, kuna, zemalja, stranke, država, strane, vlada, vlasti</li>
       <li>NUM: dvije, jedna, jednu, dviju, jedne, obje, jednoj, jednom, obiju, objema</li>
-      <li>PRON: ona, joj, neke, je, ju, neku, nekim, one, nje, njom</li>
-      <li>PROPN: EU, BiH, Hrvatskoj, Srbije, Hrvatska, Srbija, Hrvatske, Europe, Srbiji, Makedonija</li>
-      <li>VERB-Part: mogla, trebala, izjavila, dobila, priopćila, rekla, postala, kazala, imala, objavila</li>
+      <li>PRON: ona, joj, je, ju, one, nje, njom, nju, njoj, njome</li>
+      <li>PROPN: BiH, Hrvatskoj, Srbije, Hrvatska, Srbija, Hrvatske, Europe, Srbiji, Makedonija, Turske</li>
+      <li>VERB-Part: mogla, trebala, izjavila, dobila, priopćila, rekla, postala, imala, kazala, objavila</li>
     </ul>
   </li>
 </ul>
@@ -237,16 +231,14 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: novi, prvi, drugi, vanjskih, glavni, hrvatski, najveći, novog, bivši, prošlog</li>
-      <li>ADJ-Part: održan, otvoren, rođen, namijenjen, objavljen, postignut, uhićen, nazvan, osuđen, povećan</li>
-      <li>ADV: najviše</li>
-      <li>AUX-Fin: Ivan, autor</li>
+      <li>ADJ: novi, svi, prvi, drugi, vanjskih, glavni, hrvatski, sve, bivši, najveći</li>
+      <li>ADJ-Part: održan, otvoren, rođen, postignut, namijenjen, objavljen, osuđen, uhićen, izloženi, nazvan</li>
       <li>AUX-Part: bio, bili</li>
-      <li>DET: koji, svi, svoj, taj, koje, ovaj, ovog, kojem, kojim, sve</li>
-      <li>NOUN: milijuna, eura, ljudi, dana, predsjednik, način, poslova, dio, ministar, posto</li>
-      <li>NUM: jedan, jednog, jednom, dva, jednim, jedni, oba, dvaju, dvama, obaju</li>
-      <li>PRON: ga, mu, on, neki, oni, tko, nitko, njega, njemu, netko</li>
-      <li>PROPN: SETimes, UN-a, Windows, NATO-u, Beogradu, NATO-a, Zagrebu, Zagreb, Balkanu, EU</li>
+      <li>DET: koji, svoj, taj, neki, koje, ovaj, ovog, kojem, kojim, kojima</li>
+      <li>NOUN: milijuna, eura, ljudi, dana, predsjednik, poslova, način, ministar, dio, ponedjeljak</li>
+      <li>NUM: jedan, jednog, jednom, jednim, jedni, oba, dvaju, dvama, obaju, Dva</li>
+      <li>PRON: ga, mu, on, oni, tko, nitko, njega, njemu, netko, svatko</li>
+      <li>PROPN: EU, SETimes, UN-a, Windows, Beogradu, NATO-u, NATO-a, Bog, Zagrebu, Zagreb</li>
       <li>VERB-Part: izjavio, rekao, kazao, mogli, dodao, mogao, dobili, trebao, trebali, imali</li>
     </ul>
   </li>
@@ -255,15 +247,15 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: potrebno, moguće, važno, dobro, drugo, internetskog, prvo, ljudskih, pravo, radno</li>
-      <li>ADJ-Part: održano, objavljenom, objavljeno, omogućeno, predviđeno, pronađeno, utvrđeno, učinjeno, provedeno, uhićeno</li>
+      <li>ADJ: moguće, potrebno, važno, dobro, drugo, internetskog, prvo, ljudskih, sva, pravo</li>
+      <li>ADJ-Part: održano, objavljenom, objavljeno, omogućeno, pronađeno, utvrđeno, učinjeno, predviđeno, provedeno, uhićeno</li>
       <li>AUX-Part: bilo, bila</li>
-      <li>DET: to, toga, koje, tome, ovo, koja, svoje, time, tim, tom</li>
-      <li>NOUN: vrijeme, mjesto, prava, pitanje, mjesta, pitanja, rješenje, ulaganja, članstvo, području</li>
-      <li>NUM: jedno, dva, jednog, jednom, Dvoje, Oba, jednoga</li>
-      <li>PRON: što, sve, ništa, nešto, ono, čime, čega, čemu, svega, neka</li>
-      <li>PROPN: Kosova, Kosovo, Kosovu, Sarajevu, Skoplju, Kosovom, Skoplja, Skoplje, Sarajevo, Vetvendosje</li>
-      <li>VERB-Part: moglo, trebalo, došlo, pokazalo, dogodilo, omogućilo, dovelo, ostalo, počelo, prošlo</li>
+      <li>DET: to, toga, koje, tome, sve, ovo, koja, svoje, time, tim</li>
+      <li>NOUN: vrijeme, mjesto, prava, pitanje, mjesta, pitanja, ulaganja, rješenje, članstvo, području</li>
+      <li>NUM: jedno, jednog, jednom, Dvoje, Oba, dva, dvoja, jednoga</li>
+      <li>PRON: što, ništa, nešto, ono, čime, čega, čemu, ona, išta, nečemu</li>
+      <li>PROPN: Kosova, Kosovo, Kosovu, Sarajevu, Skoplju, Kosovom, Skoplja, Skoplje, Jarinje, Sarajevo</li>
+      <li>VERB-Part: moglo, trebalo, došlo, pokazalo, dogodilo, omogućilo, ostalo, dovelo, počelo, prošlo</li>
     </ul>
   </li>
 </ul>
@@ -275,13 +267,13 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: najboljeg, novog, bivšeg, drugog, drugoga, popularnog, britanskog, brži, dugogodišnjeg, gangsterskog</li>
-      <li>ADJ-Part: nagrađivani, nominiranog, organizirani, podređenog</li>
-      <li>DET: kojeg, svojeg, njegova, svog, svoga, kojega, svakog, onoga, mog, našeg</li>
-      <li>NOUN: predsjednika, kandidata, ministra, premijera, čovjeka, izvođača, sina, povjerenika, boga, ravnatelja</li>
+      <li>ADJ: bivšeg, najboljeg, novog, glavnog, drugog, drugoga, britanskog, kosovskog, optuženog, popularnog</li>
+      <li>ADJ-Part: optuženog, gonjenog, nagrađivani, nominiranog, organizirani, plaćenog, podređenog, predloženog, zaštićenog</li>
+      <li>DET: kojeg, svojeg, nekoga, njegova, svog, svoga, kojega, svakog, onoga, mog</li>
+      <li>NOUN: predsjednika, kandidata, ministra, premijera, čovjeka, izvođača, sina, povjerenika, ravnatelja, savjetnika</li>
       <li>NUM: jednog</li>
-      <li>PRON: tko, nitko, nekoga, netko, koga, nekog, nikoga, nikome, svatko</li>
-      <li>PROPN: Đinđića, Boga, Erdogana, Antu, Borisa, Burkaya, Gruevskog, Ivanova, Krasniqia, Krista</li>
+      <li>PRON: nikoga</li>
+      <li>PROPN: Boga, Đinđića, Erdogana, Antu, Borisa, Burkaya, Gruevskog, Ivanova, Krasniqia, Krista</li>
     </ul>
   </li>
 </ul>
@@ -289,13 +281,12 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: prvi, novi, veći, drugi, isti, velik, veliki, manji, najbolji, najveći</li>
-      <li>ADJ-Part: baziran, iskazan, isticani, ljubljeni, nazvan, obavljeni, odgođeni, održani, oročen, otisnuti</li>
-      <li>DET: svoj, koji, taj, ovaj, svaki, njihov, naš, njegov, takav, kakav</li>
-      <li>NOUN: način, ponedjeljak, petak, utorak, četvrtak, rad, posao, sustav, život, razvoj</li>
-      <li>NUM: jedan, dva, pedeseti, trideset</li>
-      <li>PRON: što, čime, ništa, nešto, neki, čega, čemu, ovakav, čim, nečemu</li>
-      <li>PROPN: SETimes, NATO, Windows, Balkan, Haag, Zagreb, Cipar, EU, Internet, Beograd</li>
+      <li>ADJ: prvi, novi, drugi, veći, veliki, gospodarski, velik, najbolji, isti, najveći</li>
+      <li>ADJ-Part: nazvan, očekivani, predloženi, baziran, iskazan, isticani, kategoriziran, ljubljeni, nadziran, obavljeni</li>
+      <li>DET: svoj, koji, taj, ovaj, njihov, svaki, neki, naš, takav, njegov</li>
+      <li>NOUN: način, ponedjeljak, utorak, petak, četvrtak, rad, posao, život, sustav, razvoj</li>
+      <li>NUM: jedan, pedeseti, trideset</li>
+      <li>PROPN: SETimes, EU, NATO, Windows, Balkan, Haag, Zagreb, Cipar, Beograd, Ferrari</li>
     </ul>
   </li>
 </ul>
@@ -307,18 +298,17 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: vanjskih, novih, drugih, mnogi, nove, unutarnjih, drugim, drugi, političkih, ostalih</li>
-      <li>ADJ-Part: smještene, izabrani, izloženi, usmjerene, korištene, podijeljeni, integrirane, održani, otkriveni, podignute</li>
-      <li>ADV: najviše</li>
+      <li>ADJ: sve, svi, svih, vanjskih, novih, svim, drugih, unutarnjih, mnogi, nove</li>
+      <li>ADJ-Part: izloženi, smještene, usmjerene, izabrani, korištene, podijeljeni, integrirane, održani, podignute, uključene</li>
       <li>AUX-Fin: su, smo, će, bi, nisu, ćete, ćemo, ste, biste, bismo</li>
       <li>AUX-Part: bili, bile, bila</li>
-      <li>DET: koji, koje, kojima, sve, svi, svoje, svih, koja, svim, tih</li>
-      <li>NOUN: milijuna, godina, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</li>
-      <li>NUM: tri, dva, dvije, dviju, pet, deset, šest, četiri, sedam, devet</li>
-      <li>PRON: ih, im, njih, mi, nam, vam, nas, neki, oni, neke</li>
-      <li>PROPN: Srbi, Srba, Albanaca, Albanci, Grka, Turaka, kg, Grci, Hrvata, Hrvati</li>
+      <li>DET: koji, koje, kojima, svoje, neki, koja, tih, svojim, oni, svojih</li>
+      <li>NOUN: godina, milijuna, eura, ljudi, kuna, zemalja, poslova, dana, zemlje, prava</li>
+      <li>NUM: dvije, dviju, triju, jedni, dvaju, četiriju, dva, dvama, trima, četirima</li>
+      <li>PRON: ih, im, njih, mi, nam, vam, nas, oni, njima, vas</li>
+      <li>PROPN: Srbi, Srba, Albanaca, Albanci, Grka, Turaka, Grci, Hrvata, Hrvati, Crnogorci</li>
       <li>VERB-Fin: mogu, možete, imaju, moraju, postoje, kažu, žele, možemo, rade, nalaze</li>
-      <li>VERB-Part: mogli, dobili, trebali, imali, uspjeli, potpisali, mogle, morali, odlučili, postigli</li>
+      <li>VERB-Part: mogli, dobili, trebali, imali, uspjeli, potpisali, morali, mogle, odlučili, postigli</li>
     </ul>
   </li>
 </ul>
@@ -326,17 +316,17 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: prvi, novi, glavni, prošle, drugi, novog, prošlog, bivši, potrebno, europske</li>
-      <li>ADJ-Part: održana, održan, otvorena, povećana, objavljenom, održano, otvoren, rođen, namijenjen, objavljen</li>
+      <li>ADJ: prvi, novi, glavni, prošle, drugi, novog, bivši, prošlog, potrebno, najveći</li>
+      <li>ADJ-Part: održana, održan, otvorena, objavljenom, povećana, održano, otvoren, rođen, postignut, namijenjen</li>
       <li>AUX-Fin: je, će, bi, nije, sam, neće, bude, jest, bih, nisam</li>
       <li>AUX-Part: bio, bilo, bila</li>
-      <li>DET: to, koji, koja, toga, koje, ove, koju, svoj, tome, taj</li>
-      <li>NOUN: godine, predsjednik, vrijeme, način, dio, ministar, posto, ponedjeljak, tjedna, vlada</li>
-      <li>NUM: jedan, jedna, jednog, jednom, jednu, jedno, jedne, jednim, jednoj, dva</li>
-      <li>PRON: ga, mu, on, sve, ona, mi, joj, ono, ja, je</li>
-      <li>PROPN: EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, Hrvatske</li>
+      <li>DET: to, koji, koja, toga, ove, koje, koju, svoj, tome, sve</li>
+      <li>NOUN: godine, predsjednik, vrijeme, način, ministar, dio, ponedjeljak, tjedna, premijer, broj</li>
+      <li>NUM: jedan, jedna, jednom, jednog, jednu, jedno, jedne, jednoj, jednim, jednoga</li>
+      <li>PRON: ga, mu, on, ona, mi, joj, ono, ja, je, njega</li>
+      <li>PROPN: EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, UN-a</li>
       <li>VERB-Fin: može, ima, kaže, treba, nema, mora, postoji, radi, očekuje, navodi</li>
-      <li>VERB-Part: izjavio, rekao, kazao, dodao, mogla, moglo, mogao, trebala, trebao, istaknuo</li>
+      <li>VERB-Part: izjavio, rekao, kazao, dodao, mogla, mogao, moglo, trebala, trebao, istaknuo</li>
     </ul>
   </li>
 </ul>
@@ -348,15 +338,14 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: prvi, novi, novu, nove, veliku, druge, ratne, brojne, drugi, političke</li>
-      <li>ADJ-Part: usmjerene, usmjerenu, dodanu, ispunjene, iznesene, izrečeno, optuženog, organizirani, oročene, oročenu</li>
-      <li>ADP: za, na, u, uz, kroz, po, pred, pod, među, nad</li>
-      <li>AUX-Fin: za</li>
-      <li>DET: to, koje, svoje, koju, svoj, sve, svoju, koji, taj, tu</li>
-      <li>NOUN: način, vrijeme, ponedjeljak, srijedu, godinu, petak, utorak, mjesto, pomoć, potporu</li>
-      <li>NUM: jedan, jednu, dvije, dva, jednog, jedno, tri, oba, obje, četiri</li>
-      <li>PRON: se, što, ga, ih, nas, sve, je, nešto, ništa, vas</li>
-      <li>PROPN: SETimes, EU, Kosovo, Hrvatsku, BiH, Srbiju, NATO, Tursku, Bugarsku, Europu</li>
+      <li>ADJ: sve, prvi, novi, novu, nove, druge, veliku, ratne, drugi, brojne</li>
+      <li>ADJ-Part: usmjerene, usmjerenu, dodanu, ispunjene, iznesene, izrečeno, nazvan, optuženog, oročene, oročenu</li>
+      <li>ADP: za, u, na, uz, kroz, po, pred, pod, među, nad</li>
+      <li>DET: to, koje, svoje, koju, svoj, svoju, koji, sve, taj, tu</li>
+      <li>NOUN: način, ponedjeljak, vrijeme, srijedu, godinu, utorak, petak, mjesto, četvrtak, pomoć</li>
+      <li>NUM: jedan, jednu, dvije, jednog, jedno, oba, obje, pedeseti, trideset</li>
+      <li>PRON: se, ga, ih, što, nas, je, ništa, vas, nešto, me</li>
+      <li>PROPN: SETimes, EU, Kosovo, Hrvatsku, BiH, Srbiju, Tursku, NATO, Bugarsku, Windows</li>
     </ul>
   </li>
 </ul>
@@ -364,14 +353,14 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: drugima, europskoj, međunarodnim, drugim, gospodarskom, bivšem, državnim, europskim, hrvatskim, mnogima</li>
+      <li>ADJ: svim, drugima, europskoj, međunarodnim, svima, drugim, gospodarskom, bivšem, državnim, europskim</li>
       <li>ADJ-Part: održanom, otežanim, podijeljenom, potpisanim, povećanim, priznatim, provedenim, ubijenom, uključenim, unesrećenome</li>
       <li>ADP: unatoč, ka, usprkos, k, nasuprot</li>
-      <li>DET: kojima, tome, svim, onima, svojim, svima, kojoj, svojoj, kojemu, kojem</li>
-      <li>NOUN: novinarima, zemlji, djeci, građanima, javnosti, integraciji, premijeru, uniji, članstvu, internetu</li>
-      <li>NUM: jednoj, trima, Dvjema, objema, četirima</li>
+      <li>DET: tome, kojima, onima, svojim, kojoj, svojoj, kojemu, kojem, toj, našim</li>
+      <li>NOUN: novinarima, zemlji, djeci, građanima, javnosti, integraciji, premijeru, uniji, zajednici, članstvu</li>
+      <li>NUM: jednoj, Dvjema, objema</li>
       <li>PRON: im, mu, nam, vam, mi, joj, si, ti, nikome, nama</li>
-      <li>PROPN: EU, NATO-u, Beogradu, Srbiji, Hrvatskoj, Europi, Kosovu, Turskoj, Bugarskoj, HDZ-u</li>
+      <li>PROPN: EU, NATO-u, Beogradu, Srbiji, Hrvatskoj, Europi, Kosovu, Vladi, Turskoj, Bogu</li>
     </ul>
   </li>
 </ul>
@@ -379,16 +368,14 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: vanjskih, novih, prošle, drugih, prošlog, novog, europske, unutarnjih, političkih, hrvatske</li>
-      <li>ADJ-Part: organizirane, financiranog, ispitanih, izabranih, iznesenih, nadređenih, najizoliranijih, namijenjenih, obnovljenih, odobrenog</li>
-      <li>ADP: od, iz, do, nakon, zbog, prije, protiv, tijekom, bez, između</li>
-      <li>ADV: najviše</li>
-      <li>DET: toga, ove, svih, ovog, tih, svojih, te, tog, kojih, svoje</li>
-      <li>NOUN: godine, milijuna, eura, godina, kuna, dana, zemalja, poslova, posto, ljudi</li>
+      <li>ADJ: svih, vanjskih, novih, prošle, drugih, prošlog, novog, unutarnjih, europske, hrvatske</li>
+      <li>ADJ-Part: organizirane, postavljenih, financiranog, ispitanih, izabranih, iznesenih, nadređenih, namijenjenih, obnovljenih, odobrenog</li>
+      <li>ADP: od, iz, do, nakon, zbog, tijekom, protiv, prije, bez, između</li>
+      <li>DET: toga, ove, ovog, tih, svojih, te, tog, kojih, svoje, onih</li>
+      <li>NOUN: godine, milijuna, eura, godina, kuna, dana, zemalja, poslova, ljudi, tjedna</li>
       <li>NUM: dviju, jednog, jedne, triju, dvaju, obiju, četiriju, obaju, desetaka, jednoga</li>
-      <li>PRON: njih, čega, njega, nekog, ih, nekih, svega, nas, sebe, neke</li>
-      <li>PROPN: EU, Kosova, Srbije, BiH, Hrvatske, UN-a, Europe, Turske, NATO-a, Crne</li>
-      <li>SYM: %</li>
+      <li>PRON: njih, čega, njega, ih, nas, sebe, nje, koga, nečeg, nečega</li>
+      <li>PROPN: EU, Kosova, Srbije, BiH, UN-a, Hrvatske, Europe, Turske, NATO-a, Crne</li>
     </ul>
   </li>
 </ul>
@@ -396,13 +383,13 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: drugim, ostalim, velikim, novim, političkim, brojnim, međunarodnim, samim, većim, najvećim</li>
-      <li>ADJ-Part: nadređenima, predviđenim, zaštićenim, Navedenim, Provedenom, dokazanom, kvalificiranim, najavljenim, najizoliranijom, nanesenom</li>
+      <li>ADJ: drugim, ostalim, velikim, svim, novim, političkim, brojnim, međunarodnim, samim, većim</li>
+      <li>ADJ-Part: nadređenima, zaštićenim, Navedenim, Provedenom, dokazanom, kvalificiranim, najavljenim, nanesenom, nominiranima, nošenim</li>
       <li>ADP: s, sa, među, pod, za, pred, nad, Preda, umjesto</li>
-      <li>DET: kojim, kojima, tim, time, svojim, kojom, svojom, svim, takvim, ovom</li>
-      <li>NOUN: obzirom, ljudima, zemljama, predsjednikom, nazivom, početkom, putem, godinama, sporazumom, kolegom</li>
-      <li>NUM: jednim, jednom</li>
-      <li>PRON: čime, njima, sobom, njim, njom, nama, nekim, njime, čim, kim</li>
+      <li>DET: kojim, kojima, tim, time, svojim, kojom, svojom, takvim, ovom, nekim</li>
+      <li>NOUN: obzirom, ljudima, predsjednikom, zemljama, nazivom, godinama, kolegom, sporazumom, pritiskom, zakonom</li>
+      <li>NUM: jednim, jednom, obje, trima</li>
+      <li>PRON: čime, njima, sobom, njim, njom, nama, njime, kim, kime, mnom</li>
       <li>PROPN: Srbijom, Crnom, Gorom, Grčkom, Kosovom, EU, Hrvatskom, ICTY-em, Makedonijom, Beogradom</li>
     </ul>
   </li>
@@ -411,14 +398,14 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: prvom, novom, drugom, drugim, prvoj, međunarodnim, hrvatskom, svjetskom, velikoj, bivšoj</li>
+      <li>ADJ: prvom, svim, drugom, drugim, novom, prvoj, hrvatskom, međunarodnim, svjetskom, tiskovnoj</li>
       <li>ADJ-Part: objavljenom, održanoj, održanom, pogođenim, danom, objavljenoj, postavljenoj, danim, danoj, dostavljenom</li>
-      <li>ADP: u, na, o, prema, po, pri, Nasuprot, ka, naspram, pred</li>
+      <li>ADP: u, na, o, prema, po, pri, ka, naspram, pred</li>
       <li>DET: kojoj, kojem, tome, tom, kojima, ovom, svojoj, ovoj, svojim, toj</li>
-      <li>NOUN: godini, zemlji, svijetu, području, mjestu, slučaju, odnosu, izvješću, priopćenju, regiji</li>
-      <li>NUM: jednom, jednoj, dvama, obje, objema, jednome, oba, četirima</li>
-      <li>PRON: njemu, sebi, čemu, nekim, njima, svemu, nama, nekom, nekoj, nekima</li>
-      <li>PROPN: Hrvatskoj, Kosovu, Srbiji, EU, Europi, Beogradu, BiH, Makedoniji, NATO-u, Zagrebu</li>
+      <li>NOUN: godini, zemlji, svijetu, području, mjestu, slučaju, odnosu, regiji, izvješću, priopćenju</li>
+      <li>NUM: jednom, jednoj, dvama, obje, objema, četirima, jednome, oba, trima</li>
+      <li>PRON: njemu, sebi, čemu, njima, nama, njoj, meni, nečemu, nečem, svačemu</li>
+      <li>PROPN: Hrvatskoj, Kosovu, Srbiji, Beogradu, EU, Europi, Makedoniji, BiH, NATO-u, Zagrebu</li>
     </ul>
   </li>
 </ul>
@@ -426,14 +413,13 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: drugi, novi, glavni, prvi, hrvatski, bivši, potrebno, mnogi, moguće, najveći</li>
-      <li>ADJ-Part: održana, otvorena, održan, povećana, održano, rođen, otvoren, namijenjen, objavljen, postignut</li>
-      <li>AUX-Fin: Ivan, autor</li>
-      <li>DET: koji, to, koja, koje, svi, ta, ovo, ovaj, sve, taj</li>
-      <li>NOUN: predsjednik, ministar, vlada, dio, premijer, zemlja, ljudi, broj, većina, zemlje</li>
-      <li>NUM: jedan, jedna, dvije, jedno, jedni, dva, obje, oba, deseci, Dvoje</li>
-      <li>PRON: što, on, mi, neki, ona, oni, tko, ono, sve, ja</li>
-      <li>PROPN: Hrvatska, Srbija, Kosovo, Makedonija, Bugarska, Turska, Windows, EU, Rusija, Albanija</li>
+      <li>ADJ: svi, drugi, novi, glavni, prvi, hrvatski, bivši, moguće, potrebno, mnogi</li>
+      <li>ADJ-Part: održana, otvorena, održan, povećana, održano, rođen, otvoren, postignut, namijenjen, objavljen</li>
+      <li>DET: koji, to, koja, koje, neki, ta, ovo, sve, taj, oni</li>
+      <li>NOUN: predsjednik, ministar, premijer, dio, vlada, zemlja, ljudi, broj, većina, zemlje</li>
+      <li>NUM: jedan, jedna, dvije, jedno, jedni, obje, oba, dva, Dvoje, dvoja</li>
+      <li>PRON: što, on, mi, ona, oni, tko, ono, ja, nitko, netko</li>
+      <li>PROPN: Hrvatska, Srbija, Kosovo, Makedonija, Bugarska, Turska, Windows, Vlada, EU, Bog</li>
     </ul>
   </li>
 </ul>
@@ -441,10 +427,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: Nespretni, Uzoriti, dobri, dragi, izviješteno, mala, prvi, svemogući</li>
-      <li>ADJ-Part: izviješteno</li>
-      <li>DET: moj, moja</li>
-      <li>NOUN: gospodine, G., akademiče, braćo, budale, gospodo, gradonačelniče, kurvo, mediji, ministre</li>
+      <li>ADJ: Najdraži, Nespretni, Uzoriti, dobri, dragi, mala, prvi, svemogući</li>
+      <li>DET: moj, moja, moji</li>
+      <li>NOUN: gospodine, akademiče, braćo, budale, gospodo, gradonačelniče, kurvo, mediji, ministre, pape</li>
       <li>PRON: ti</li>
       <li>PROPN: Bože, Isuse, Radoviću</li>
     </ul>
@@ -459,10 +444,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: novi, hrvatske, hrvatski, moguće, nove, novih, potrebno, najveći, sami, hrvatskog</li>
-      <li>ADJ-Part: održana, omogućeno, otvorena, povećana, smještene, objavljena, osnovana, predviđeno, pronađeno, uvršteni</li>
-      <li>ADV: najviše</li>
-      <li>DET: svi, sve, svih, svim, sva, svima, svu, svoj, svega, svime</li>
+      <li>ADJ: sve, novi, svi, svih, vanjskih, glavni, novih, nove, prošle, hrvatski</li>
+      <li>ADJ-Part: održana, otvorena, povećana, objavljenom, održano, usmjerene, izloženi, objavljena, smještene, uspostavljena</li>
     </ul>
   </li>
 </ul>
@@ -470,9 +453,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: velik, sam, dobar, novi, prvi, gospodarski, značajan, čitav, poznat, rođen</li>
-      <li>ADJ-Part: rođen, namijenjen, objavljen, nazvan, osuđen, predstavljen, uhićen, najavljen, napisan, napravljen</li>
-      <li>DET: sav</li>
+      <li>ADJ: velik, sam, dobar, važan, poznat, održan, otvoren, postignut, rođen, siguran</li>
+      <li>ADJ-Part: održan, otvoren, rođen, postignut, namijenjen, objavljen, osuđen, uhićen, nazvan, povećan</li>
     </ul>
   </li>
 </ul>
@@ -487,9 +469,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: veći, manji, veće, veća, veću, većeg, bolje, bolji, niže, većim</li>
-      <li>ADJ-Part: rašireniji, složenija, složenijem</li>
-      <li>ADV: više, dalje, kasnije, bolje, ranije, manje, brže, češće, lakše, dulje</li>
+      <li>ADJ: veći, veće, manji, veća, veću, većeg, bolje, bolji, niže, većim</li>
+      <li>ADV: više, dalje, manje, kasnije, bolje, ranije, brže, češće, lakše, dulje</li>
     </ul>
   </li>
 </ul>
@@ -497,9 +478,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: novi, vanjskih, glavni, novih, nove, prošle, hrvatski, novog, hrvatske, moguće</li>
-      <li>ADJ-Part: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, namijenjen, objavljen</li>
-      <li>ADV: samo, još, također, već, međutim, posto, oko, danas, kada, ipak</li>
+      <li>ADJ: sve, novi, svi, prvi, drugi, svih, vanjskih, glavni, novih, nove</li>
+      <li>ADJ-Part: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</li>
+      <li>ADV: samo, još, također, posto, već, međutim, oko, vrlo, danas, kada</li>
     </ul>
   </li>
 </ul>
@@ -507,9 +488,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: najveći, najbolji, najveća, najveće, najvećih, najbolje, najboljeg, najvažnije, najvećim, najviši</li>
-      <li>ADJ-Part: najizoliranijih, najcjenjenijih, najistaknutiji, najistaknutijih, najizoliranijom, najprodavanije, najtraženijih, najčuvanijih</li>
-      <li>ADV: uključujući, najviše, najbolje, najčešće, ističući, dodajući, govoreći, najmanje, ukazujući, najvjerojatnije</li>
+      <li>ADJ: najveći, najbolji, najveća, najveće, najvećih, najbolje, najboljeg, najvažnije, najvećim, najvećem</li>
+      <li>ADV: najviše, najmanje, najbolje, najčešće, najvjerojatnije, najradije, najgore, najteže, Najdalje, najbrže</li>
     </ul>
   </li>
 </ul>
@@ -521,12 +501,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Neg
     <ul>
-      <li>ADP: osim</li>
-      <li>AUX-Fin: nije, neće, nisu, nisam, nismo, nećemo, neću, niste</li>
-      <li>CCONJ: ni, niti</li>
-      <li>NOUN: godine, investicije, isporuka, kvartalu, ljudi, mlijeka, rada, rasponu, regiji, svijeta</li>
-      <li>PART: ne, ni, niti</li>
-      <li>PROPN: Department, Grka, Yalcinkaya</li>
+      <li>AUX-Fin: nije, neće, nisu, nismo, nisam, nećemo, niste, nećete, neću, nećeš</li>
+      <li>PART: ne, niti, ni</li>
     </ul>
   </li>
 </ul>
@@ -551,7 +527,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: bi, biste, bih, bismo</li>
+      <li>AUX-Fin: bi, biste, bismo, bih</li>
     </ul>
   </li>
 </ul>
@@ -560,7 +536,7 @@ See file LICENSE.txt for further licensing information.
   <li>Imp
     <ul>
       <li>AUX-Fin: budite</li>
-      <li>VERB-Fin: kliknite, recimo, izbjegavajte, koristite, potražite, pročitajte, čuvajte, daj, odaberite, otiđite</li>
+      <li>VERB-Fin: kliknite, recimo, izbjegavajte, koristite, potražite, pročitajte, čuvajte, daj, nemojte, odaberite</li>
     </ul>
   </li>
 </ul>
@@ -589,11 +565,11 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Past
     <ul>
-      <li>ADV-Conv: dodavši, rekavši, Izrazivši, Upucavši, darovavši, došavši, iskusivši, ispričavši, istaknuvši, nadmašivši</li>
-      <li>AUX-Fin: bi, biste, bih, bismo</li>
+      <li>ADV-Conv: dodavši, rekavši, kazavši, pobijedivši, završivši, dosegnuvši, naglasivši, primijetivši, Izrazivši, Napomenuvši</li>
+      <li>AUX-Fin: bi, biste, bismo, bih</li>
       <li>AUX-Part: bio, bilo, bila, bili, bile</li>
       <li>VERB-Fin: može, dogodi, hoće, iznosi, osigura, pobuni</li>
-      <li>VERB-Part: izjavio, rekao, kazao, mogli, dodao, mogla, moglo, mogao, trebala, dobili</li>
+      <li>VERB-Part: izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</li>
     </ul>
   </li>
 </ul>
@@ -601,7 +577,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Pres
     <ul>
-      <li>ADV-Conv: zahvaljujući, uključujući, govoreći, Budući, koristeći, sudeći, tražeći, Komentirajući, baveći, dodajući</li>
+      <li>ADV-Conv: uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sudeći</li>
       <li>AUX-Fin: je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</li>
       <li>VERB-Fin: može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</li>
     </ul>
@@ -616,7 +592,7 @@ See file LICENSE.txt for further licensing information.
   <li>Act
     <ul>
       <li>AUX-Part: bio, bilo, bila, bili, bile</li>
-      <li>VERB-Part: izjavio, rekao, kazao, mogli, dodao, mogla, moglo, mogao, trebala, dobili</li>
+      <li>VERB-Part: izjavio, rekao, kazao, mogli, mogla, dodao, mogao, moglo, trebala, dobili</li>
     </ul>
   </li>
 </ul>
@@ -624,7 +600,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: održana, otvorena, održano, otvoren, postignut, povećana, ubijen, pronađeno, provedena, uhićen</li>
+      <li>ADJ-Part: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</li>
     </ul>
   </li>
 </ul>
@@ -640,9 +616,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: sada, tako, tada, onda, tu, ovdje, toliko, stoga, tamo, ondje</li>
+      <li>ADV: sada, tako, tada, onda, tu, ovdje, zato, toliko, stoga, tamo</li>
       <li>DET: to, ove, toga, tome, taj, te, ovog, tom, ovaj, ovo</li>
-      <li>PRON: ovakav, ovakve, ovakvih, ovakvim, ovakva, ovakvi, ovakvo, ovakvom, onakve, onakvi</li>
     </ul>
   </li>
 </ul>
@@ -650,17 +625,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: više, vrlo, manje, malo, mnogo, najviše, najmanje, dosta, ponekad, nekada</li>
-      <li>DET: nekoliko, nekakav, nekakve, nekakvim</li>
-      <li>PRON: neki, neke, nešto, nekim, neka, nekog, netko, nekih, neku, nekoga</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Int
-    <ul>
-      <li>DET: Koji, Kakav, Kakva, Kakvi, Kakvu, Koje</li>
+      <li>ADV: nekoliko, ponekad, ikad, nekada, negdje, ikada, nekad, nekako, odnekud</li>
+      <li>DET: neki, neke, nekim, neka, nekog, nekih, neku, neko, nekoga, nekom</li>
+      <li>PRON: nešto, netko, itko, išta, nečemu, nekome, nečeg, nečega, nekog, nečem</li>
     </ul>
   </li>
 </ul>
@@ -668,9 +635,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADV: kada, kad, kako, gdje, koliko, zašto, odakle</li>
+      <li>ADV: kada, kad, gdje, koliko, kako, zašto, odakle</li>
       <li>DET: koji, koje, koja, kojima, koju, kojoj, kojem, kojim, kojeg, kojih</li>
-      <li>PRON: što, tko, čime, čega, čemu, koga, čim, kim, kome, kime</li>
+      <li>PRON: što, tko, čime, čega, čemu, koga, kim, kome, kime, čim</li>
     </ul>
   </li>
 </ul>
@@ -678,8 +645,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: nikako, nigdje, ikad</li>
-      <li>DET: nikakve, nikakvu, nikakvih, nikakvi, Nikakva, nikakav, nikakvo</li>
+      <li>ADV: nikad, nikada, nikako, nigdje</li>
+      <li>DET: nikakve, nikakvu, nikakvih, nikakvo, nikakvi, Nikakva, nikakav, ničiju</li>
       <li>PRON: ništa, nitko, nikome, nikoga, ničeg, NIKOG</li>
     </ul>
   </li>
@@ -688,7 +655,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: svoje, svoj, svoju, svojim, njegova, svojih, njegov, naše, svojoj, njihov</li>
+      <li>DET: svoje, svoj, svoju, svojim, njegova, svojih, njegov, njihov, naše, svojoj</li>
       <li>PRON: se, ih, mi, ga, im, mu, on, njih, nam, vam</li>
     </ul>
   </li>
@@ -697,9 +664,9 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: uvijek, svakako, svuda</li>
-      <li>DET: sve, svi, svih, svim, svaki, svaka, sva, svakog, svake, svakom</li>
-      <li>PRON: sve, svega, svatko, svemu</li>
+      <li>ADV: uvijek, svakako, svuda, svugdje, posvuda</li>
+      <li>DET: sve, svaki, svaka, svakog, svega, svake, svakom, svemu, svako, svaku</li>
+      <li>PRON: svatko, svačemu, svašta</li>
     </ul>
   </li>
 </ul>
@@ -711,9 +678,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Card
     <ul>
-      <li>ADV: više, vrlo, manje, koliko, malo, mnogo, najviše, toliko, najmanje, dosta</li>
-      <li>DET: nekoliko, tolikoj</li>
-      <li>NUM: tri, dva, jedan, 20, pet, 10, četiri, dvije, 15, 2</li>
+      <li>NUM: tri, dva, jedan, pet, četiri, 20, 10, šest, dvije, deset</li>
     </ul>
   </li>
 </ul>
@@ -721,8 +686,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Mult
     <ul>
-      <li>NUM: desetak, oba, obje, stotinjak, obiju, dvadesetak, tridesetak, dvoje, 17:00, 3:00</li>
-      <li>SYM: 50%, 20%, 30%, 9%, 13%, 14%, 16%, 40%, 45%, 60%</li>
+      <li>NUM: desetak, oba, dvoje, obje, dvadesetak, stotinjak, troje, obiju, 6-4, tridesetak</li>
+      <li>SYM: 50%, 20%, 30%, 13%, 14%, 16%, 40%, 45%, 60%, 66%</li>
     </ul>
   </li>
 </ul>
@@ -730,7 +695,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 1., 2004., 2009., 2008., prvi, 2007., 2., 2005., 2006., 2010.</li>
+      <li>ADJ: 1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</li>
     </ul>
   </li>
 </ul>
@@ -743,7 +708,7 @@ See file LICENSE.txt for further licensing information.
   <li>Yes
     <ul>
       <li>ADJ: nevladinih, nevladine, UN-ova, vladinih, Appleovih, Ashdownov, Božju, UN-ovog, vladini, Appleov</li>
-      <li>DET: svoje, svoj, svoju, svojim, njegova, svojih, njegov, naše, svojoj, njihov</li>
+      <li>DET: svoje, svoj, svoju, svojim, njegova, svojih, njegov, njihov, naše, svojoj</li>
     </ul>
   </li>
 </ul>
@@ -768,10 +733,10 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: smo, sam, ćemo, bih, bismo, nismo, nisam, ću, nećemo, neću</li>
-      <li>DET: naše, naš, naša, naših, našim, moj, moja, našeg, naši, našu</li>
+      <li>AUX-Fin: smo, sam, ćemo, bismo, nismo, bih, nisam, ću, nećemo, neću</li>
+      <li>DET: naše, naš, naša, našim, naših, moj, moja, našeg, naši, našu</li>
       <li>PRON: mi, nam, nas, ja, me, nama, mene, meni, mnom</li>
-      <li>VERB-Fin: možemo, mislim, imamo, moramo, želimo, mogu, vjerujem, nadamo, znam, imam</li>
+      <li>VERB-Fin: možemo, mislim, imamo, moramo, želimo, mogu, nadamo, vjerujem, nadam, znam</li>
     </ul>
   </li>
 </ul>
@@ -779,8 +744,8 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: ćete, ste, biste, niste, Jeste, bi, nećete, si, ćeš, budite</li>
-      <li>DET: vaš, vaša, vaše, vašem, vašim, vašeg, Tvoji, tvoja, tvoje, tvojim</li>
+      <li>AUX-Fin: ćete, ste, biste, bi, niste, Jeste, nećete, si, ćeš, budite</li>
+      <li>DET: vaše, vašem, vaš, vaša, vašim, vašeg, tvoj, Tvoji, tvoja, tvoje</li>
       <li>PRON: vam, vas, ti, vi, vama, te, tebe, tebi</li>
       <li>VERB-Fin: možete, želite, kliknite, imate, morate, nemojte, koristite, nemate, očekujete, tražite</li>
     </ul>
@@ -792,7 +757,7 @@ See file LICENSE.txt for further licensing information.
     <ul>
       <li>AUX-Fin: je, su, će, bi, nije, neće, nisu, bude, jest, budu</li>
       <li>DET: njegova, njegov, njihov, njihova, njegove, njihove, njegovu, njihovu, njezina, njihovo</li>
-      <li>PRON: ih, ga, im, mu, on, njih, ona, ništa, joj, oni</li>
+      <li>PRON: ih, ga, im, mu, on, njih, ona, joj, oni, ono</li>
       <li>VERB-Fin: može, ima, kaže, treba, mogu, nema, mora, postoji, imaju, radi</li>
     </ul>
   </li>
@@ -806,7 +771,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Fem
     <ul>
-      <li>DET: njezina, njezine, njezin, njen, njezinu, njezinih, njezino, njene, njena, njezinim</li>
+      <li>DET: njezina, njezine, njezin, njen, njezinu, njezinih, njene, njezino, njezinom, njena</li>
     </ul>
   </li>
 </ul>
@@ -814,7 +779,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Masc,Neut
     <ul>
-      <li>DET: njegova, njegov, njegove, njegovu, njegovim, njegovoj, njegovog, njegovih, njegovo, njegovom</li>
+      <li>DET: njegova, njegov, njegove, njegovu, njegovim, njegovoj, njegovog, njegovo, njegovih, njegovom</li>
     </ul>
   </li>
 </ul>
@@ -826,7 +791,7 @@ See file LICENSE.txt for further licensing information.
 <ul>
   <li>Plur
     <ul>
-      <li>DET: naše, njihov, njihova, naš, njihove, naša, njihovu, naših, našim, njihovo</li>
+      <li>DET: njihov, naše, njihova, naš, njihove, naša, njihovu, našim, naših, njihovo</li>
     </ul>
   </li>
 </ul>
@@ -851,7 +816,7 @@ See file LICENSE.txt for further licensing information.
 </ul>
 
 <ul>
-<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: biti, htjeti, sebe, li, neka, on, u, od, taj, za, Dimitar, bilo, državni, isto, iz, na, o, ploviti, prav, protiv, s, svaki, svečan.</li>
+<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: biti, htjeti, sebe, li, neka, on, u, od, taj, za, Dimitar, bilo, državni, isto, iz, na, o, ploviti, prav, protiv, sa, svaki, svečan.</li>
 <li>This corpus uses 9 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: biti, sebe, htjeti, dozvoliti, ja, na, po, također, u.</li>
 </ul>
 
@@ -862,38 +827,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (7)</li>
-      <li>VERB-Fin--NOUN-Acc (26)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(od) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (22)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
-      <li>VERB-Fin--NOUN-Gen (115)</li>
+      <li>VERB-Fin--NOUN-Gen (104)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (13)</li>
-      <li>VERB-Fin--NOUN-Nom (2489)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (14)</li>
+      <li>VERB-Fin--NOUN-Nom (2533)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Nom (348)</li>
-      <li>VERB-Inf--NOUN-Acc (8)</li>
-      <li>VERB-Inf--NOUN-Gen (13)</li>
+      <li>VERB-Fin--PRON-Nom (323)</li>
+      <li>VERB-Inf--NOUN-Acc (7)</li>
+      <li>VERB-Inf--NOUN-Gen (14)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Inf--NOUN-Nom (427)</li>
+      <li>VERB-Inf--NOUN-Nom (432)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Nom (55)</li>
-      <li>VERB-Part--NOUN (7)</li>
-      <li>VERB-Part--NOUN-Acc (11)</li>
+      <li>VERB-Inf--PRON-Nom (53)</li>
+      <li>VERB-Part--NOUN (6)</li>
+      <li>VERB-Part--NOUN-Acc (9)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen (77)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(između) (1)</li>
+      <li>VERB-Part--NOUN-Gen (75)</li>
       <li>VERB-Part--NOUN-Gen-ADP(od) (20)</li>
       <li>VERB-Part--NOUN-Gen-ADP(oko) (1)</li>
-      <li>VERB-Part--NOUN-Nom (2193)</li>
+      <li>VERB-Part--NOUN-Nom (2240)</li>
+      <li>VERB-Part--NOUN-Nom-ADP(između) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(nevladin) (1)</li>
-      <li>VERB-Part--PRON-Acc (2)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Gen (5)</li>
       <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--PRON-Nom (204)</li>
+      <li>VERB-Part--PRON-Nom (188)</li>
     </ul>
   </li>
 </ul>
@@ -901,32 +865,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--NOUN-Acc (1881)</li>
+      <li>VERB-Fin--NOUN (7)</li>
+      <li>VERB-Fin--NOUN-Acc (1911)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(od) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(velik) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (118)</li>
-      <li>VERB-Fin--NOUN-Gen (216)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (11)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(po) (1)</li>
+      <li>VERB-Fin--NOUN-Dat (121)</li>
+      <li>VERB-Fin--NOUN-Gen (204)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (12)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
       <li>VERB-Fin--NOUN-Ins (31)</li>
-      <li>VERB-Fin--NOUN-Loc (7)</li>
+      <li>VERB-Fin--NOUN-Loc (5)</li>
       <li>VERB-Fin--NOUN-Nom (45)</li>
-      <li>VERB-Fin--PRON-Acc (507)</li>
+      <li>VERB-Fin--PRON-Acc (497)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (3)</li>
-      <li>VERB-Fin--PRON-Dat (75)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Dat (73)</li>
+      <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--PRON-Ins (3)</li>
       <li>VERB-Fin--PRON-Loc (1)</li>
       <li>VERB-Fin--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (1236)</li>
+      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Inf--NOUN-Acc (1255)</li>
       <li>VERB-Inf--NOUN-Dat (42)</li>
-      <li>VERB-Inf--NOUN-Gen (98)</li>
+      <li>VERB-Inf--NOUN-Gen (95)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(do) (2)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(između) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
@@ -934,25 +897,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Ins (15)</li>
       <li>VERB-Inf--NOUN-Loc (1)</li>
       <li>VERB-Inf--NOUN-Loc-ADP(u) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (23)</li>
-      <li>VERB-Inf--PRON-Acc (175)</li>
+      <li>VERB-Inf--NOUN-Nom (17)</li>
+      <li>VERB-Inf--PRON-Acc (162)</li>
       <li>VERB-Inf--PRON-Dat (20)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (1784)</li>
+      <li>VERB-Part--NOUN-Acc (1819)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(po) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Dat (111)</li>
-      <li>VERB-Part--NOUN-Gen (163)</li>
+      <li>VERB-Part--NOUN-Dat (110)</li>
+      <li>VERB-Part--NOUN-Gen (167)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(od) (6)</li>
-      <li>VERB-Part--NOUN-Ins (25)</li>
-      <li>VERB-Part--NOUN-Loc (14)</li>
+      <li>VERB-Part--NOUN-Ins (26)</li>
+      <li>VERB-Part--NOUN-Loc (13)</li>
       <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Nom (40)</li>
-      <li>VERB-Part--PRON-Acc (316)</li>
+      <li>VERB-Part--NOUN-Nom (36)</li>
+      <li>VERB-Part--PRON-Acc (311)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(za) (3)</li>
       <li>VERB-Part--PRON-Dat (36)</li>
@@ -968,23 +931,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Dat (78)</li>
+      <li>VERB-Fin--NOUN-Dat (84)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
       <li>VERB-Fin--NOUN-Ins (18)</li>
-      <li>VERB-Fin--NOUN-Loc (6)</li>
-      <li>VERB-Fin--PRON-Dat (107)</li>
+      <li>VERB-Fin--NOUN-Loc (4)</li>
+      <li>VERB-Fin--PRON-Dat (106)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Dat (59)</li>
+      <li>VERB-Inf--NOUN-Dat (60)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Ins (15)</li>
       <li>VERB-Inf--NOUN-Loc (2)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Dat (44)</li>
       <li>VERB-Inf--PRON-Loc (1)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Dat (92)</li>
-      <li>VERB-Part--NOUN-Gen (3)</li>
+      <li>VERB-Part--NOUN-Dat (94)</li>
+      <li>VERB-Part--NOUN-Gen (4)</li>
       <li>VERB-Part--NOUN-Ins (14)</li>
       <li>VERB-Part--NOUN-Ins-ADP(sa) (1)</li>
       <li>VERB-Part--NOUN-Loc (5)</li>
@@ -1008,13 +970,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 260 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: baviti se, nalaziti se, vratiti se, kretati se, moći se, nadati se, pojaviti se, boriti se, odlučiti se, trebati se, činiti se, dogoditi se, odnositi se, osjećati se, pridružiti se, priključiti se, vraćati se, zalagati se, događati se, grijati se, okladiti se, očitovati se, pokazati se, pripremati se, raditi se, sastati se, sastojati se, uvjeriti se, dizati se, morati se, naći se, obratiti se, okupljati se, pitati se, probuditi se, razvijati se, služiti se, suočiti se, temeljiti se, upoznati se, širiti se, aktivirati se, brinuti se, fokusirati se, gaditi se, izjasniti se, javiti se, mijenjati se, odlučivati se, odreći se</li>
     <ul>
-      <li>Out of those, 13 lemmas occurred more than once, but never without a reflexive dependent. Examples: boriti, zalagati, grijati, okladiti, probuditi, fokusirati, gaditi, izjasniti, oslanjati, požaliti, pridruživati, spojiti, zaduživati</li>
+      <li>Out of those, 11 lemmas occurred more than once, but never without a reflexive dependent. Examples: boriti, zalagati, grijati, okladiti, probuditi, fokusirati, gaditi, izjasniti, požaliti, pridruživati, zaduživati</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

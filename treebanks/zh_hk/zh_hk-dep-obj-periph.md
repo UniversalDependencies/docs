@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-obj.html">obj</a></tt>.
 
-25 nodes (0%) are attached to their parents as `obj:periph`.
+27 nodes (0%) are attached to their parents as `obj:periph`.
 
-25 instances of `obj:periph` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.48.
+27 instances of `obj:periph` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.51851851851852.
 
-The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (22; 88% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (24; 89% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

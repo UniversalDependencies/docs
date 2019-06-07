@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: POS Tags: `DET`
 
 There are 51 `DET` lemmas (0%), 551 `DET` types (1%) and 4109 `DET` tokens (3%).
-Out of 17 observed tags, the rank of `DET` is: 11 in number of lemmas, 8 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>se, tämä, kaikki, jokin, mikään, muu, mikä, ne, moni, hän</em>
 
 The 10 most frequent `DET` types:  <em>se, sen, hänen, kaikki, mitään, tämä, joka, sitä, joku, tällä</em>
 
-The 10 most frequent ambiguous lemmas: <em>se</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 2295, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 560, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 2), <em>tämä</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 482, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 370), <em>kaikki</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 262, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 253), <em>jokin</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 192, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 91), <em>mikään</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 169, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 119), <em>muu</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 163, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 143), <em>mikä</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 564, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 153), <em>ne</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 394, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 148), <em>moni</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 136, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 67), <em>hän</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 1460, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 135)
+The 10 most frequent ambiguous lemmas: <em>se</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 2295, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 560, <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> 2), <em>tämä</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 482, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 370), <em>kaikki</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 262, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 253), <em>jokin</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 192, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 91), <em>mikään</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 169, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 119), <em>muu</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 163, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 143), <em>mikä</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 563, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 153), <em>ne</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 394, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 148), <em>moni</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 136, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 67), <em>hän</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 1460, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 135)
 
 The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 877, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 152), <em>sen</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 282, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 155, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 3), <em>hänen</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 107, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 86), <em>kaikki</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 107, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 100), <em>mitään</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 95, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 87, <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> 1), <em>tämä</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 66, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 50), <em>joka</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 269, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 62), <em>sitä</em> (<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 265, <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 72, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 30), <em>joku</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 65, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 41, <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> 1), <em>tällä</em> (<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> 58, <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> 2)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="fi_ftb-pos-PRON
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 10.803922 (the average of all parts of speech is 2.048675).
+The form / lemma ratio of `DET` is 10.803922 (the average of all parts of speech is 2.050767).
 
 The 1st highest number of forms (30) was observed with the lemma “jokin”: <em>Joillakin, Jollekin, Jossaki, johonki, johonkin, joidenkin, joihinkin, joillekin, joissakin, joistakin, joitain, joitaki, joitakin, jokin, jollain, jollakin, joltakin, jonain, jonakin, jonkin, jossai, jossain, jossakin, jostain, jostakin, jotai, jotain, jotaki, jotakin, jottais</em>.
 
@@ -76,13 +76,13 @@ Examples: <em>se, tämä, tuo, sellainen, semmoinen, tällainen, tuollainen, tä
 
 `DET` nodes are attached to their parents using 4 different relations: <tt><a href="fi_ftb-dep-det.html">det</a></tt> (3859; 94% instances), <tt><a href="fi_ftb-dep-amod.html">amod</a></tt> (238; 6% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (3; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3475; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (259; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (68; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (3476; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (258; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (68; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (35; 1% instances), <tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
-3861 (94%) `DET` nodes are leaves.
+3860 (94%) `DET` nodes are leaves.
 
-227 (6%) `DET` nodes have one child.
+229 (6%) `DET` nodes have one child.
 
-21 (1%) `DET` nodes have two children.
+20 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 

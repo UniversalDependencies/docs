@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 6	пек	пек	ADV	Adv	AdvType=Deg	7	advmod	_	GTtags=Degree
 7	мазы	мазы	ADJ	A	_	0	root	_	_
 8	_	оль	AUX	Cop	Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	cop	_	GTtags=Prs,ScSg3
-9	,	,	PUNCT	CLB	_	13	punct	_	_
+9	,	,	PUNCT	CLB	_	7	punct	_	_
 10	эли	эли	CCONJ	CC	_	13	cc	_	_
 11	пек	пек	ADV	Adv	AdvType=Deg	12	advmod	_	GTtags=Degree
 12	вадря	вадря	ADJ	A	_	7	conj	_	_
@@ -55,10 +55,10 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 14	он	он	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	15	obj	_	GTtags=Sg,Nom,Indef
 15	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	7	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
 16	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	15	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
-17	,	,	PUNCT	CLB	_	23	punct	_	_
+17	,	,	PUNCT	CLB	_	16	punct	_	_
 18	эли	эли	CCONJ	CC	_	23	cc	_	_
-19	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	24	obl	_	GTtags=Indef,SP,Gen,Indef
-20	кувалт	кувалт	ADP	Adp	_	17	case	_	_
+19	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	23	obl	_	GTtags=Indef,SP,Gen,Indef
+20	кувалт	кувалт	ADP	Adp	_	19	case	_	_
 21	как	гак	PART	PART	Derivation=PronGak	19	fixed	_	GTtags=Der/Indef_Гак
 22	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	23	nsubj	_	GTtags=Sg,Nom,PxSg3
 23	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
@@ -80,8 +80,8 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	то	то	ADV	Adv	AdvType=Tim	9	cc	_	GTtags=Sem/Time
 7	истямо	истямо	PRON	Pron	PronType=Dem	9	det	_	GTtags=Dem,Attr
-8	кедь	кедь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	GTtags=Sg,Nom,Indef
-9	ёнкс	ёнкс	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	goeswith	_	GTtags=Sem/Plc,Sg,Nom,Indef|SpaceAfter=No
+8	кедь	кедь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	compound	_	GTtags=Sg,Nom,Indef
+9	ёнкс	ёнкс	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	GTtags=Sem/Plc,Sg,Nom,Indef|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	кона	кона	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	13	obl	_	GTtags=Rel,Sel,Sg,Nom,Indef
 12	марто	марто	ADP	Adp	_	11	case	_	GTtags=COM

@@ -11,43 +11,52 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt>, <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-44 tokens (4%) have a non-empty value of `Number[psor]`.
-37 types (7%) occur at least once with a non-empty value of `Number[psor]`.
-33 lemmas (8%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 4 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (39; 4% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+73 tokens (6%) have a non-empty value of `Number[psor]`.
+60 types (10%) occur at least once with a non-empty value of `Number[psor]`.
+49 lemmas (10%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 5 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (64; 5% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-39 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+64 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (24% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 87%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (26; 67%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (21; 54%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 89%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (49; 77%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (28) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `Number[psor]`.
 
 ### `ADP`
 
-3 <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+4 <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> tokens (8% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ill</tt> (2; 67%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
 
-### `PRON`
+### `VERB`
 
-1 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+3 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (3; 100%).
 
-`PRON` tokens may have the following values of `Number[psor]`:
+`VERB` tokens may have the following values of `Number[psor]`:
+
+
+### `DET`
+
+1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Number[psor]`:
 
 
 ### `PROPN`
 
-1 <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
+1 <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 

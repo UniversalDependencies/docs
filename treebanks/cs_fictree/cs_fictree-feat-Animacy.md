@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (7753; 90% of non-empty `Animacy`): <em>řekl, měl, chtěl, mohl, viděl, byl, vzal, zeptal, měli, přišel</em>
 * `Inan` (830; 10% of non-empty `Animacy`): <em>byl, stál, nebyl, mohl, měl, ozval, začal, zdál, byly, ujel</em>
-* `EMPTY` (16413): <em>je, má, mám, bylo, měla, řekla, byla, může, nevím, chtěla</em>
+* `EMPTY` (16366): <em>je, má, mám, bylo, měla, řekla, byla, může, nevím, chtěla</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -184,7 +184,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 * `Anim` (333; 70% of non-empty `Animacy`): <em>byl, byli, nebyl, býval, nebyli, bývali</em>
 * `Inan` (142; 30% of non-empty `Animacy`): <em>byl, byly, nebyl, nebyly, býval</em>
-* `EMPTY` (6043): <em>jsem, by, je, bych, jsme, byla, bylo, bude, jsou, jste</em>
+* `EMPTY` (6090): <em>jsem, by, je, bych, jsme, byla, bylo, jsi, bude, jsou</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	επιτρέψτε	επιτρέπω	VERB	VERB	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
 5	μου	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
-6	να	να	PART	PART	_	7	aux	_	_
+6	να	να	AUX	AUX	_	7	aux	_	_
 7	κλείσω	κλείνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	4	ccomp	_	_
 8	με	με	ADP	ADP	_	10	case	_	_
 9	μία	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -89,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	μας	εγώ	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
 10	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	cop	_	_
 11	δύσκολο	δύσκολος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-12	να	να	PART	PART	_	13	aux	_	_
+12	να	να	AUX	AUX	_	13	aux	_	_
 13	δεχτούμε	δέχομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	11	csubj	_	_
 14	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	τρόπο	τρόπος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_

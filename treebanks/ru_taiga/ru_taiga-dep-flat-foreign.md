@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>.
 
-48 nodes (0%) are attached to their parents as `flat:foreign`.
+56 nodes (0%) are attached to their parents as `flat:foreign`.
 
-48 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.125.
+56 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16071428571429.
 
-The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (25; 52% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (11; 23% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (6; 13% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (2; 4% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (25; 45% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (18; 32% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (8; 14% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,43 +31,37 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:foreign	color:blue
-1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	_
-3	Игровая	игровой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
-4	приставка	приставка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	_
-5	Sony	Sony	PROPN	_	Foreign=Yes	4	appos	_	_
-6	PlayStation	Playstation	PROPN	_	Foreign=Yes	5	flat:foreign	_	_
-7	4	4	NUM	_	_	5	nummod:entity	_	_
-8	500	500	NUM	_	_	9	nummod:gov	_	SpaceAfter=No
-9	GB	GB	PROPN	_	Foreign=Yes	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	@xxxxxx	@xxxxxx	X	_	_	6	nsubj	_	_
-2	@xxxxxx	@xxxxxx	X	_	_	1	flat:foreign	_	_
-3	@xxxxxx	@xxxxxx	X	_	_	2	flat:foreign	_	_
-4	у	у	ADP	_	_	5	case	_	_
-5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-6	ворье	ворье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-7	и	и	CCONJ	_	_	8	cc	_	_
-8	предатели	предатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	conj	_	_
-9	в	в	ADP	_	_	10	case	_	_
-10	родстве	родство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
-11	...	...	PUNCT	_	_	10	punct	_	SpaceAfter=No
-12	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+1	P.	p.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	S.	S.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:foreign	_	_
+3	А	а	CCONJ	_	_	5	cc	_	_
+4	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+5	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	снежного	снежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	воробья	воробей	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	фото	фото	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:foreign	color:blue
+1	Fantastic	Fantastic	ADP	_	_	0	root	_	_
+2	💯	💯	SYM	_	_	1	discourse	_	_
+3	keep	keep	X	_	Foreign=Yes	1	parataxis	_	_
+4	it	it	X	_	Foreign=Yes	3	flat:foreign	_	_
+5	up	up	X	_	Foreign=Yes	3	flat:foreign	_	_
+6	✌️	✌️	SYM	_	_	3	discourse	_	_
 
 ~~~
 

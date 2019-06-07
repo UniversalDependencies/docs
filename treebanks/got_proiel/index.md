@@ -69,7 +69,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Relations
 
-[acl](got_proiel-dep-acl.html) – [advcl](got_proiel-dep-advcl.html) – [advmod](got_proiel-dep-advmod.html) – [amod](got_proiel-dep-amod.html) – [appos](got_proiel-dep-appos.html) – [aux](got_proiel-dep-aux.html) – [aux:pass](got_proiel-dep-aux-pass.html) – [case](got_proiel-dep-case.html) – [cc](got_proiel-dep-cc.html) – [ccomp](got_proiel-dep-ccomp.html) – [conj](got_proiel-dep-conj.html) – [csubj:pass](got_proiel-dep-csubj-pass.html) – [dep](got_proiel-dep-dep.html) – [det](got_proiel-dep-det.html) – [discourse](got_proiel-dep-discourse.html) – [fixed](got_proiel-dep-fixed.html) – [flat](got_proiel-dep-flat.html) – [flat:name](got_proiel-dep-flat-name.html) – [iobj](got_proiel-dep-iobj.html) – [mark](got_proiel-dep-mark.html) – [nmod](got_proiel-dep-nmod.html) – [nsubj](got_proiel-dep-nsubj.html) – [nsubj:pass](got_proiel-dep-nsubj-pass.html) – [nummod](got_proiel-dep-nummod.html) – [obj](got_proiel-dep-obj.html) – [obl](got_proiel-dep-obl.html) – [obl:agent](got_proiel-dep-obl-agent.html) – [orphan](got_proiel-dep-orphan.html) – [parataxis](got_proiel-dep-parataxis.html) – [root](got_proiel-dep-root.html) – [vocative](got_proiel-dep-vocative.html) – [xcomp](got_proiel-dep-xcomp.html)
+[acl](got_proiel-dep-acl.html) – [advcl](got_proiel-dep-advcl.html) – [advmod](got_proiel-dep-advmod.html) – [amod](got_proiel-dep-amod.html) – [appos](got_proiel-dep-appos.html) – [case](got_proiel-dep-case.html) – [cc](got_proiel-dep-cc.html) – [ccomp](got_proiel-dep-ccomp.html) – [conj](got_proiel-dep-conj.html) – [cop](got_proiel-dep-cop.html) – [csubj:pass](got_proiel-dep-csubj-pass.html) – [dep](got_proiel-dep-dep.html) – [det](got_proiel-dep-det.html) – [discourse](got_proiel-dep-discourse.html) – [dislocated](got_proiel-dep-dislocated.html) – [expl](got_proiel-dep-expl.html) – [fixed](got_proiel-dep-fixed.html) – [flat:name](got_proiel-dep-flat-name.html) – [iobj](got_proiel-dep-iobj.html) – [mark](got_proiel-dep-mark.html) – [nmod](got_proiel-dep-nmod.html) – [nsubj](got_proiel-dep-nsubj.html) – [nsubj:pass](got_proiel-dep-nsubj-pass.html) – [nummod](got_proiel-dep-nummod.html) – [obj](got_proiel-dep-obj.html) – [obl](got_proiel-dep-obl.html) – [obl:agent](got_proiel-dep-obl-agent.html) – [orphan](got_proiel-dep-orphan.html) – [parataxis](got_proiel-dep-parataxis.html) – [root](got_proiel-dep-root.html) – [vocative](got_proiel-dep-vocative.html) – [xcomp](got_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -118,10 +118,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): sik, silba</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): wisan</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: wisan</li>
 </ul>
 
 <ul>
@@ -131,7 +132,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</li>
+    <li>AUX: ist, was, sind, im, sijuþ, sijai, wesun, is, wesi, sijum</li>
+    <li>VERB: qaþ, warþ, qeþun, qiþa, wairþiþ, qam, qiþiþ, habaiþ, nist, galaiþ</li>
   </ul>
   </li>
 </ul>
@@ -139,7 +141,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: wisan, taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban</li>
+    <li>AUX: wisan</li>
+    <li>VERB: taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban, matjan</li>
   </ul>
   </li>
 </ul>
@@ -147,7 +150,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Part
   <ul>
-    <li>VERB: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, habandans, wisands, habands, wisandans</li>
+    <li>AUX: wisands, wisandans, wisandam, wisandin, wisandein, wisandan, wisandei, wisandins, wisando, wisan</li>
+    <li>VERB: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, habandans, habands, gasaiƕandans, gahausjands</li>
   </ul>
   </li>
 </ul>
@@ -163,13 +167,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Fem
     <ul>
       <li>ADJ: meina, þeina, þo, izwara, seinai, seina, anþara, meinai, unsara, þeinai</li>
-      <li>AUX: sik, sis</li>
+      <li>AUX-Part: wisandein, wisandei, wisandeim, wisandin</li>
       <li>DET: so, þo, þizai, allai, alla, þizos, þos, allos, allaizos, jainai</li>
       <li>NOUN: managein, sunjai, manageins, galaubeinai, managei, galaubein, marein, airþai, baurg, alh</li>
       <li>NUM: aina, twos, þusundjos, ainaizos, þusundjom, ainai, þusundjo</li>
-      <li>PRON: izai, sei, izos, þoei, þizaiei, ƕo, þizozei, þozei, ija, si</li>
+      <li>PRON: izai, sei, izos, þoei, þizaiei, sik, ƕo, þizozei, þozei, ija</li>
       <li>PROPN: Marja, Galeilaia, Galeilaias, Magdalene, Galeilaian, Iudaia, Iudaias, Marþa, Aifaison, Iudaian</li>
-      <li>VERB-Part: qiþandei, gasaiƕandei, gahausjandei, habandei, wisandein, atgaggandei, atgibana, gibana, qimandei, qiþandeins</li>
+      <li>VERB-Part: qiþandei, gasaiƕandei, gahausjandei, habandei, atgaggandei, atgibana, gibana, qimandei, qiþandeins, þiuþido</li>
     </ul>
   </li>
 </ul>
@@ -178,11 +182,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Fem,Masc
     <ul>
       <li>ADJ: izwaris, meinaim, seinos, sunjeins, þeinaim, þlaqus</li>
-      <li>AUX: sik</li>
       <li>DET: allaim</li>
       <li>NOUN: nidwa, ulbandau, ahak, ahakim, ahaks, frastim, grets, krusts, maiþms, ulbandaus</li>
       <li>NUM: þrins, tiguns, tigum, tigiwe</li>
-      <li>PRON: izwis, jus, izwara, uns, unsis, weis, ik, mik, þu, mis</li>
+      <li>PRON: izwis, jus, izwara, uns, unsis, weis, ik, sik, mik, þu</li>
     </ul>
   </li>
 </ul>
@@ -200,13 +203,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Masc
     <ul>
       <li>ADJ: sa, ƕas, sumai, managai, allai, þai, meins, ainshun, þamma, silba</li>
-      <li>AUX: sik, sis</li>
+      <li>AUX-Part: wisands, wisandans, wisandam, wisandin, wisandan, wisan, wisandins</li>
       <li>DET: sa, þai, þamma, þana, þans, þaim, þize, þis, allai, allans</li>
       <li>NOUN: gudis, guþ, frauja, guda, fraujins, fraujin, manna, sunus, atta, sunaus</li>
       <li>NUM: ains, ainana, twans, ainamma, twai, ainai, ainans, ainis, twaim, twalibe</li>
       <li>PRON: imma, ina, izwis, is, im, mis, ik, saei, mik, þus</li>
       <li>PROPN: Iesus, Iesu, Xristaus, Xristau, Xristus, Iesuis, Xristu, Iesua, Paitrus, Peilatus</li>
-      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
+      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, habands, gasaiƕandans, gahausjands, gahausjandans</li>
     </ul>
   </li>
 </ul>
@@ -215,13 +218,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Masc,Neut
     <ul>
       <li>ADJ: unsaris, seinamma, meinamma, unsar, unsaramma, þeinamma, izwaramma, seinis, izwaris, godaize</li>
-      <li>AUX: silbin</li>
+      <li>AUX-Part: wisandam, wisandins</li>
       <li>DET: þamma, þis, þize, allaize, jainamma, allamma, þizei, ƕammeh, sumaize, þaim</li>
       <li>NOUN: skufta, anza, faihuþraihna, gramsta, lew, skauta, plat, sinapis, staþa, stomin</li>
       <li>NUM: ainamma, þrim, ainis, twaddje, þrije, niuntehundis</li>
       <li>PRON: silbin, silbam, þammei</li>
       <li>PROPN: Siloamis, Aþeinim</li>
-      <li>VERB-Part: libandins, andhulidamma, wisandam, afwandjandane, bimaitanaize, faursniwandam, frawardidaize, gabairhtjandin, gafriþondin, gahulidamma</li>
+      <li>VERB-Part: libandins, andhulidamma, afwandjandane, bimaitanaize, faursniwandam, frawardidaize, gabairhtjandin, gafriþondin, gahulidamma, galaubjandam</li>
     </ul>
   </li>
 </ul>
@@ -230,7 +233,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Neut
     <ul>
       <li>ADJ: þata, all, mein, þo, alla, ƕa, allamma, allata, leitil, þat</li>
-      <li>AUX: sik</li>
+      <li>AUX-Part: wisando, wisandin, wisandona</li>
       <li>DET: þata, þo, þamma, all, alla, allata, þis, þize, þaim, allamma</li>
       <li>NOUN: waurd, leika, andwairþja, leik, waurda, waiht, namin, witoda, witoþ, gawairþi</li>
       <li>NUM: ain, twa, ainis, ainamma, hunda, ainata, bajoþum, fidwor, hundam, tiguns</li>
@@ -249,8 +252,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Dual
     <ul>
+      <li>AUX-Fin: siju</li>
       <li>PRON: iggqis, igqis, uggkis, ugkis, wit, inqis</li>
-      <li>VERB-Fin: gaggats, qiþaits, bigitats, siju, taujats, andbindats, attiuhats, bidjats, bidjos, driggkats</li>
+      <li>VERB-Fin: gaggats, qiþaits, bigitats, taujats, andbindats, attiuhats, bidjats, bidjos, driggkats, ga-laubjats</li>
     </ul>
   </li>
 </ul>
@@ -259,14 +263,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Plur
     <ul>
       <li>ADJ: sumai, managai, seinaim, allai, allaim, þai, þo, alla, þaim, dauþaim</li>
-      <li>AUX: sik, sis</li>
+      <li>AUX-Fin: sind, sijuþ, wesun, sijum, sijaiþ, sijaina, sium, wesum, sijaima, siuþ</li>
+      <li>AUX-Part: wisandans, wisandam, wisandeim, wisandona</li>
       <li>DET: þai, þaim, þans, þize, þo, allaim, þos, allai, allaize, allans</li>
       <li>NOUN: broþrjus, siponjos, manne, siponjam, barna, mannam, augona, Fareisaieis, waurda, himinam</li>
       <li>NUM: twans, þrins, twaim, tiguns, twai, twos, þrim, twa, twalibe, ainai</li>
-      <li>PRON: izwis, im, jus, uns, ize, ins, weis, unsis, þaiei, eis</li>
+      <li>PRON: izwis, im, jus, uns, ize, ins, weis, sis, unsis, þaiei</li>
       <li>PROPN: Seidone, Twre, Gaddarene, Galeilaie, Þaissalauneikaium, Rumonim, Saudaumjam, Akaje, Akaïje, Aþeinim</li>
-      <li>VERB-Fin: qeþun, sind, sijuþ, wesun, qemun, waurþun, habaiþ, sijum, wituþ, galiþun</li>
-      <li>VERB-Part: qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, bidjandans</li>
+      <li>VERB-Fin: qeþun, qemun, waurþun, habaiþ, wituþ, galiþun, qiþiþ, saiƕiþ, qiþand, wairþaiþ</li>
+      <li>VERB-Part: qiþandans, habandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, bidjandans, galaubjandam</li>
     </ul>
   </li>
 </ul>
@@ -275,14 +280,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Sing
     <ul>
       <li>ADJ: þata, sa, ƕas, all, seinamma, meinamma, þamma, þeinamma, meina, izwar</li>
-      <li>AUX: sik, sis, silbin</li>
+      <li>AUX-Fin: ist, was, im, sijai, is, wesi, sijais, sijau, wast, siai</li>
+      <li>AUX-Part: wisands, wisandin, wisandein, wisandan, wisandei, wisandins, wisando, wisan</li>
       <li>DET: sa, þamma, þata, þana, so, þis, þo, þizai, allai, alla</li>
       <li>NOUN: gudis, guþ, frauja, guda, fraujins, fraujin, manna, sunus, waurd, atta</li>
       <li>NUM: ains, ain, ainamma, ainana, aina, ainis, ainaizos, ainai, ainata, ainz</li>
       <li>PRON: imma, ina, is, mis, ik, saei, mik, þatei, ƕa, þus</li>
       <li>PROPN: Iesus, Iesu, Xristaus, Xristau, Xristus, Iesuis, Xristu, Iesua, Paitrus, Peilatus</li>
-      <li>VERB-Fin: ist, qaþ, was, warþ, qiþa, im, qam, wairþiþ, sijai, nist</li>
-      <li>VERB-Part: qiþands, andhafjands, gameliþ, gasaiƕands, qimands, wisands, habands, gahausjands, skuld, usstandands</li>
+      <li>VERB-Fin: qaþ, warþ, qiþa, qam, wairþiþ, nist, galaiþ, andhof, qiþiþ, mag</li>
+      <li>VERB-Part: qiþands, andhafjands, gameliþ, gasaiƕands, qimands, habands, gahausjands, skuld, usstandands, athaitands</li>
     </ul>
   </li>
 </ul>
@@ -295,11 +301,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Acc
     <ul>
       <li>ADJ: þata, þo, seina, all, izwara, silban, þeinana, þana, ƕa, meinana</li>
-      <li>AUX: sik</li>
+      <li>AUX-Part: wisandans, wisandan, wisando, wisan</li>
       <li>DET: þo, þana, þata, þans, alla, allans, þos, allos, all, allana</li>
       <li>NOUN: waurd, attan, guþ, waiht, galaubein, mannan, ahman, fraujan, gard, akran</li>
       <li>NUM: ainana, twans, ain, þrins, tiguns, aina, twa, twos, ainans, hunda</li>
-      <li>PRON: ina, mik, izwis, þuk, þatei, ƕa, ins, uns, þanei, sik</li>
+      <li>PRON: ina, mik, izwis, sik, þuk, þatei, ƕa, ins, uns, þanei</li>
       <li>PROPN: Iesu, Xristu, Iohannen, Iakobu, Paitru, Galeilaian, Barabban, Iairusaulwma, Abraham, Iudan</li>
       <li>VERB-Part: habandans, sitandan, qimandan, sandjandan, hausjandona, waurþanana, gabundanana, gawalidans, gawasidana, habandan</li>
     </ul>
@@ -310,13 +316,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Dat
     <ul>
       <li>ADJ: seinamma, meinamma, seinaim, þamma, þeinamma, allaim, seinai, þaim, allamma, dauþaim</li>
-      <li>AUX: sis, silbin</li>
+      <li>AUX-Part: wisandam, wisandin, wisandein, wisandeim</li>
       <li>DET: þamma, þaim, þizai, allaim, allai, jainamma, allamma, himma, jainai, jainaim</li>
       <li>NOUN: guda, fraujin, daga, leika, andwairþja, attin, ahmin, garda, namin, sunjai</li>
       <li>NUM: ainamma, twaim, þrim, twalibim, þusundjom, ainai, ainaim, ainlibim, tigum, bajoþum</li>
       <li>PRON: imma, izwis, im, mis, þus, sis, þammei, izai, unsis, uns</li>
       <li>PROPN: Xristau, Iesu, Iesua, Israela, Galeilaia, Mose, Paitrau, Iairusaulwmai, Iohanne, Peilatau</li>
-      <li>VERB-Part: galaubjandam, wisandam, habandin, sandjandin, wisandin, gaggandam, qimandin, rodjandin, ungalaubjandam, usgaggandin</li>
+      <li>VERB-Part: galaubjandam, habandin, sandjandin, gaggandam, qimandin, rodjandin, ungalaubjandam, usgaggandin, waurþanamma, atgaggandin</li>
     </ul>
   </li>
 </ul>
@@ -325,6 +331,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Gen
     <ul>
       <li>ADJ: unsaris, þis, meinis, seinis, izwaraizos, seinaizos, þize, izwaris, meinaizos, seinaize</li>
+      <li>AUX-Part: wisandins</li>
       <li>DET: þis, þize, þizos, allaize, allaizos, allaizo, jainaize, jainis, þizo, þizei</li>
       <li>NOUN: gudis, fraujins, sunaus, mans, manne, leikis, attins, ahmins, Iudaie, galaubeinais</li>
       <li>NUM: ainis, twalibe, ainaizos, twaddje, þrije, niune, niuntehundis, tigiwe, þusundjo</li>
@@ -339,12 +346,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Nom
     <ul>
       <li>ADJ: sa, ƕas, sumai, managai, allai, þai, meins, ainshun, þata, meina</li>
+      <li>AUX-Part: wisands, wisandans, wisandei, wisandona</li>
       <li>DET: sa, þai, so, þata, allai, þo, alla, þos, sums, all</li>
       <li>NOUN: guþ, manna, sunus, frauja, atta, siponjos, waurd, managei, Fareisaieis, leik</li>
       <li>NUM: ains, ain, twai, aina, ainai, þusundjos, twos, bajoþs, twa, ainata</li>
       <li>PRON: ik, saei, jus, is, þu, weis, ƕas, þatei, þaiei, eis</li>
       <li>PROPN: Iesus, Xristus, Paitrus, Peilatus, Iohannes, Moses, Marja, Pawlus, Helias, Seimon</li>
-      <li>VERB-Part: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, wisands, habands, gasaiƕandans, gahausjands</li>
+      <li>VERB-Part: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, habands, gasaiƕandans, gahausjands, habandans</li>
     </ul>
   </li>
 </ul>
@@ -421,6 +429,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Perf
     <ul>
+      <li>AUX-Part: wisan</li>
       <li>VERB-Fin: driggka, lagjid</li>
       <li>VERB-Inf: afaikan, gaswiltan, haitan, swaran</li>
       <li>VERB-Part: gameliþ, skuld, gamelido, qiþan, atgiban, gabaurans, gamelid, daupidai, haitans, bigitans</li>
@@ -443,7 +452,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Ind
     <ul>
-      <li>VERB-Fin: ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</li>
+      <li>AUX-Fin: ist, was, sind, im, sijuþ, wesun, is, sijum, sium, wesum</li>
+      <li>VERB-Fin: qaþ, warþ, qeþun, qiþa, wairþiþ, qam, qiþiþ, habaiþ, nist, galaiþ</li>
     </ul>
   </li>
 </ul>
@@ -451,7 +461,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: sijai, wesi, wairþai, sijaiþ, wairþaiþ, sijaina, sijais, taujaiþ, habai, gaggaiþ</li>
+      <li>AUX-Fin: sijai, wesi, sijaiþ, sijaina, sijais, sijaima, sijau, weseina, weseiþ, siai</li>
+      <li>VERB-Fin: wairþai, wairþaiþ, taujaiþ, habai, gaggaiþ, gibai, taujau, qimai, qiþai, bidjaiþ</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +474,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Past
     <ul>
-      <li>VERB-Fin: qaþ, was, warþ, qeþun, qam, galaiþ, wesun, andhof, rodida, gatawida</li>
+      <li>AUX-Fin: was, wesun, wesi, wesum, weseina, wesuþ, weseiþ, wast, weseima, weiseis</li>
+      <li>AUX-Part: wisan</li>
+      <li>VERB-Fin: qaþ, warþ, qeþun, qam, galaiþ, andhof, rodida, gatawida, insandida, qemun</li>
       <li>VERB-Inf: afaikan, gaswiltan, haitan, swaran</li>
       <li>VERB-Part: gameliþ, skuld, gamelido, qiþan, atgiban, gabaurans, gamelid, daupidai, haitans, bigitans</li>
     </ul>
@@ -473,9 +486,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pres
     <ul>
-      <li>VERB-Fin: ist, qiþa, sind, im, wairþiþ, qiþiþ, habaiþ, sijuþ, sijai, nist</li>
-      <li>VERB-Inf: wisan, taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban</li>
-      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
+      <li>AUX-Fin: ist, sind, im, sijuþ, sijai, is, sijum, sijaiþ, sijaina, sijais</li>
+      <li>AUX-Inf: wisan</li>
+      <li>AUX-Part: wisands, wisandans, wisandam, wisandin, wisandein, wisandan, wisandei, wisandins, wisando, wisandeim</li>
+      <li>VERB-Fin: qiþa, wairþiþ, qiþiþ, habaiþ, nist, mag, qimiþ, taujiþ, saiƕiþ, wait</li>
+      <li>VERB-Inf: taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban, matjan</li>
+      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, habands, gasaiƕandans, gahausjands, gahausjandans</li>
     </ul>
   </li>
 </ul>
@@ -487,9 +503,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Act
     <ul>
-      <li>VERB-Fin: ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</li>
-      <li>VERB-Inf: wisan, taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban</li>
-      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
+      <li>AUX-Fin: ist, was, sind, im, sijuþ, sijai, wesun, is, wesi, sijum</li>
+      <li>AUX-Inf: wisan</li>
+      <li>AUX-Part: wisands, wisandans, wisandam, wisandin, wisandein, wisandan, wisandei, wisandins, wisando, wisandeim</li>
+      <li>VERB-Fin: qaþ, warþ, qeþun, qiþa, wairþiþ, qam, qiþiþ, habaiþ, nist, galaiþ</li>
+      <li>VERB-Inf: taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban, matjan</li>
+      <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, habands, gasaiƕandans, gahausjands, gahausjandans</li>
     </ul>
   </li>
 </ul>
@@ -497,6 +516,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pass
     <ul>
+      <li>AUX-Part: wisan</li>
       <li>VERB-Fin: haitada, afletanda, afnimada, atgibada, gibada, haitaidau, merjada, usfulljada, bigitaidau, frijoda</li>
       <li>VERB-Inf: afaikan, swaran</li>
       <li>VERB-Part: gameliþ, skuld, gamelido, qiþan, atgiban, gabaurans, gamelid, daupidai, haitans, bigitans</li>
@@ -524,7 +544,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: izwis, imma, ina, is, im, mis, ik, mik, jus, þus</li>
+      <li>PRON: izwis, imma, ina, is, im, mis, ik, mik, jus, sik</li>
     </ul>
   </li>
 </ul>
@@ -567,7 +587,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Yes
     <ul>
       <li>ADJ: seinamma, seinaim, seina, seinai, seinana, seinis, seinans, sein, seinaizos, seinos</li>
-      <li>PRON: sis, sik, silban, silbin, silbans, silba, silbins, silbam, seina</li>
+      <li>PRON: sik, sis, silban, silbin, silbans, silba, silbins, silbam, seina</li>
     </ul>
   </li>
 </ul>
@@ -580,8 +600,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>1
     <ul>
       <li>ADJ: meina, meinamma, meinai, unsaris, meins, mein, meinana, unsar, unsaramma, unsara</li>
+      <li>AUX-Fin: im, sijum, was, sium, wesum, sijaima, sijau, weseima, siju, siau</li>
       <li>PRON: mis, ik, mik, uns, weis, unsis, meina, unsara, uggkis, ugkis</li>
-      <li>VERB-Fin: qiþa, im, qaþ, sijum, wiljau, bidja, gagga, was, qam, tauja</li>
+      <li>VERB-Fin: qiþa, qaþ, wiljau, bidja, gagga, qam, tauja, wait, rodida, kann</li>
     </ul>
   </li>
 </ul>
@@ -590,8 +611,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>2
     <ul>
       <li>ADJ: izwara, þeinamma, þeina, izwar, þeinai, þeinana, þeins, þein, izwaraim, izwaraizos</li>
+      <li>AUX-Fin: sijuþ, is, sijaiþ, sijais, siuþ, wesuþ, weseiþ, wast, sijaid, siais</li>
       <li>PRON: izwis, jus, þus, þuk, þu, izwara, þeina, iggqis, igqis, iggqara</li>
-      <li>VERB-Fin: sijuþ, is, gagg, habaiþ, wituþ, qiþiþ, saiƕiþ, sijaiþ, wairþaiþ, galaubeiþ</li>
+      <li>VERB-Fin: gagg, habaiþ, wituþ, qiþiþ, saiƕiþ, wairþaiþ, galaubeiþ, qiþis, maguþ, sokeiþ</li>
     </ul>
   </li>
 </ul>
@@ -600,9 +622,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>3
     <ul>
       <li>ADJ: seinamma, seinaim, seina, seinai, seinana, seinis, seinans, sein, seinaizos, seinos</li>
-      <li>AUX: sik, sis, silbin</li>
-      <li>PRON: imma, ina, is, im, ize, sis, ins, eis, sik, izai</li>
-      <li>VERB-Fin: ist, qaþ, was, warþ, qeþun, sind, wairþiþ, sijai, nist, wesun</li>
+      <li>AUX-Fin: ist, was, sind, sijai, wesun, wesi, sijaina, weseina, siai</li>
+      <li>PRON: imma, ina, is, im, sik, sis, ize, ins, eis, izai</li>
+      <li>VERB-Fin: qaþ, warþ, qeþun, wairþiþ, nist, andhof, galaiþ, qam, qiþiþ, qimiþ</li>
     </ul>
   </li>
 </ul>
@@ -619,13 +641,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>Strong
         <ul>
           <li>ADJ: managai, anþar, dauþaim, anþara, leitil, goþ, anþaramma, manag, managans, ubil</li>
-          <li>VERB-Part: qiþands, andhafjands, gameliþ, gasaiƕands, qimands, wisands, habands, gahausjands, skuld, usstandands</li>
+          <li>AUX-Part: wisands, wisan</li>
+          <li>VERB-Part: qiþands, andhafjands, gameliþ, gasaiƕands, qimands, habands, gahausjands, skuld, usstandands, athaitands</li>
         </ul>
       </li>
       <li>Weak
         <ul>
           <li>ADJ: silba, silban, silbans, samo, aiweinon, auhumistans, weiham, managizo, dauþans, taihswon</li>
-          <li>VERB-Part: qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, gamelido</li>
+          <li>AUX-Part: wisandans, wisandam, wisandin, wisandein, wisandan, wisandei, wisandins, wisando, wisandeim, wisandona</li>
+          <li>VERB-Part: qiþandans, habandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, gamelido, bidjandans</li>
         </ul>
       </li>
     </ul>
@@ -637,12 +661,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus does not contain copulas.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: wisan.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: sik, ga-siggqan, qiþan, silba.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: wisan#1.</li>
+<li>This corpus does not contain auxiliaries.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -651,32 +674,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(wiþra) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(ana) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(du) (10)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(ana) (2)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(bi) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(du) (7)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(fram) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(us) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (1364)</li>
-      <li>VERB-Fin--PRON-Acc (12)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(in) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(us) (3)</li>
+      <li>VERB-Fin--NOUN-Nom (1085)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(bi) (1)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Fin--PRON-Nom (1190)</li>
-      <li>VERB-Inf--NOUN-Acc (17)</li>
+      <li>VERB-Fin--PRON-Nom (893)</li>
+      <li>VERB-Inf--NOUN-Acc (12)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--PRON-Acc (31)</li>
-      <li>VERB-Inf--PRON-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Inf--PRON-Acc (18)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Dat (14)</li>
+      <li>VERB-Part--NOUN-Dat (12)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
-      <li>VERB-Part--PRON-Dat (36)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN-Nom (18)</li>
+      <li>VERB-Part--PRON-Acc (4)</li>
+      <li>VERB-Part--PRON-Dat (34)</li>
+      <li>VERB-Part--PRON-Nom (17)</li>
     </ul>
   </li>
 </ul>
@@ -692,10 +713,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(bi) (2)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(du) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(uf) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (14)</li>
-      <li>VERB-Fin--NOUN-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Gen (15)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (1011)</li>
+      <li>VERB-Fin--PRON-Acc (1010)</li>
       <li>VERB-Fin--PRON-Dat (8)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
       <li>VERB-Inf--NOUN-Acc (166)</li>
@@ -706,6 +726,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc (300)</li>
       <li>VERB-Part--NOUN-Dat-ADP(us) (1)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (157)</li>
       <li>VERB-Part--PRON-Dat-ADP(at) (1)</li>
     </ul>
@@ -716,11 +737,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Dat (252)</li>
+      <li>VERB-Fin--NOUN-Dat (246)</li>
       <li>VERB-Fin--NOUN-Gen (48)</li>
       <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Dat (758)</li>
-      <li>VERB-Fin--PRON-Gen (18)</li>
+      <li>VERB-Fin--PRON-Dat (738)</li>
+      <li>VERB-Fin--PRON-Gen (19)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Dat (44)</li>
       <li>VERB-Inf--NOUN-Gen (10)</li>
@@ -746,7 +767,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>This corpus uses 4 relation subtypes: <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>aux</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

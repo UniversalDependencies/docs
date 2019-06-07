@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1029 tokens (2%) have a non-empty value of `NumType`.
-316 types (4%) occur at least once with a non-empty value of `NumType`.
-288 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (810; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (195; 0% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (24; 0% instances).
+1027 tokens (2%) have a non-empty value of `NumType`.
+315 types (4%) occur at least once with a non-empty value of `NumType`.
+287 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (810; 1% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (193; 0% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (24; 0% instances).
 
 ### `NUM`
 
@@ -26,16 +26,16 @@ The feature is used with 3 part-of-speech tags: <tt><a href="it_partut-pos-NUM.h
 
 ### `ADJ`
 
-195 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
+193 <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 75%), <tt><a href="it_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (99; 51%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="it_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 76%), <tt><a href="it_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (99; 51%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (195; 100% of non-empty `NumType`): <em>primo, prima, ultimi, prime, seconda, ultime, primi, secondo, terzo, ultima</em>
+* `Ord` (193; 100% of non-empty `NumType`): <em>primo, prima, ultimi, prime, seconda, ultime, primi, secondo, terzo, ultima</em>
 * `EMPTY` (4012): <em>presente, altri, europeo, sociale, importante, nuovo, stesso, economica, finanziario, maggiore</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (21) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `NumType`.
 
 ### `PRON`
 
@@ -52,9 +52,8 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="it_partut-dep-flat.html">flat</a></tt>]--> NUM</tt> (47; 100%),
-<tt>NUM --[<tt><a href="it_partut-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (37; 100%),
+<tt>NUM --[<tt><a href="it_partut-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (38; 100%),
 <tt>NUM --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NUM</tt> (32; 100%),
 <tt>NUM --[<tt><a href="it_partut-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="it_partut-dep-goeswith.html">goeswith</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%).
 

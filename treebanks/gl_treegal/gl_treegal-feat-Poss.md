@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (230; 100% of non-empty `Poss`): <em>súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</em>
-* `EMPTY` (3890): <em>o, a, os, as, un, unha, lo, esta, este, la</em>
+* `EMPTY` (3888): <em>o, a, os, as, un, unha, lo, esta, este, la</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (3; 100% of non-empty `Poss`): <em>seu, nosa</em>
-* `EMPTY` (1370): <em>que, se, o, lle, nos, a, me, iso, lo, quen</em>
+* `EMPTY` (1369): <em>que, se, o, lle, nos, a, me, iso, lo, quen</em>
 

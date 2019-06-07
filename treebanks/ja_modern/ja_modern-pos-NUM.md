@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-Modern: POS Tags: `NUM`
 
 There are 30 `NUM` lemmas (1%), 30 `NUM` types (1%) and 213 `NUM` tokens (1%).
-Out of 17 observed tags, the rank of `NUM` is: 9 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `NUM` is: 9 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: 一, 三, 二, 十, 七, 百, 六, 五十, 四, 數
 

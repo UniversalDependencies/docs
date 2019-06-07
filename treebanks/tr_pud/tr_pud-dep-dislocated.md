@@ -27,11 +27,11 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	yas	yas	NOUN	NN	Number=Sing	4	obj	_	_
 4	tutan	tut	ADJ	VJ	Number=Sing|Polarity=Pos	5	acl:relcl	_	_
 5	yorumlardan	yorum	NOUN	NN	Case=Abl|Number=Plur	6	compound	_	_
-6	birinde	bir	PRON	PRI	Case=Loc|Number=Sing|Polarity=Pos	13	advmod	_	_
-7	Chris'in	Chris	PROPN	PROPN	Case=Gen|Number=Sing	9	nmod:poss	_	Proper=True
-8	çok	çok	ADV	RB	_	9	advmod	_	_
-9	hoşuna	hoşuna	NOUN	NN	Case=Dat|Number=Sing	12	acl:relcl	_	_
-10	gidecek	git	AUX	VJ	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	9	cop	_	_
+6	birinde	bir	PRON	PRI	Case=Loc|Number=Sing|Polarity=Pos	13	nmod	_	_
+7	Chris'in	Chris	PROPN	PROPN	Case=Gen|Number=Sing	10	nmod:poss	_	Proper=True
+8	çok	çok	ADV	RB	_	10	advmod	_	_
+9	hoşuna	hoşuna	NOUN	NN	Case=Dat|Number=Sing	10	compound	_	_
+10	gidecek	git	AUX	VJ	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	12	acl:relcl	_	_
 11	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	12	det	_	_
 12	satır	satır	NOUN	NN	Case=Nom|Number=Sing	13	nsubj	_	_
 13	var	_	ADJ	JJ	Polarity=Pos	0	root	_	_
@@ -65,10 +65,10 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	ya	ya	ADV	RB	_	16	advmod	_	_
 10	şok	şok	NOUN	NN	Number=Sing	11	compound	_	_
 11	dalgalarını	dalga	NOUN	NN	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obj	_	_
-12	tetikleyecek	tetikley	NOUN	VN	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	14	xcomp	_	_
+12	tetikleyecek	tetikley	NOUN	VN	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	15	xcomp	_	_
 13	kadar	kadar	ADP	IN	_	12	case	_	_
-14	gür	gür	ADJ	JJ	Number=Sing	16	acl:relcl	_	_
-15	çıkan	çık	AUX	VJ	Number=Sing|Polarity=Pos	14	cop	_	_
+14	gür	gür	ADJ	JJ	Number=Sing	15	xcomp	_	_
+15	çıkan	çık	AUX	VJ	Number=Sing|Polarity=Pos	16	acl:relcl	_	_
 16	sesinin	ses	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	dislocated	_	SpaceAfter=No
 17	?	?	PUNCT	.	_	16	punct	_	_
 

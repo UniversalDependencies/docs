@@ -2,6 +2,7 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
 
 Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. Verbs in Irish can be regular and irregular (e.g. _bí_ "to be"). Regular verbs fall into two conjugation patterns; one for short verbs (e.g. _tit, fan_) and one for long verbs (e.g. _tosaigh_). Verb endings vary depending on if the stem is broad or slender (see [NounType]()).

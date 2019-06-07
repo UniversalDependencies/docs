@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 10	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	libro	libro	NOUN	Scms	Gender=Masc|Number=Sing	8	obj	_	_
 12	Discurso	discurso	PROPN	Sp00	_	11	nmod	_	_
-13	e	e	PROPN	Sp00	_	14	cc	_	_
+13	e	e	CCONJ	Cc	_	14	cc	_	_
 14	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	12	punct	_	_
 16	En	en	ADP	P	AdpType=Prep	18	case	_	_
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 26	Nosa	noso	DET	Md1pfs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
 27	Terra	terra	PROPN	Sp00	_	12	nmod	_	SpaceAfter=No
 28	)	)	PUNCT	Q)	_	27	punct	_	SpaceAfter=No
-29	,	,	PUNCT	Q,	_	8	punct	_	_
+29	,	,	PUNCT	Q,	_	33	punct	_	_
 30	en	en	ADP	P	AdpType=Prep	32	case	_	_
 31	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	33	nsubj	_	_
@@ -122,11 +122,11 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 14	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	desenvolvemento	desenvolvemento	NOUN	Scms	Gender=Masc|Number=Sing	11	conj	_	_
 16	substentábel	substentábel	ADJ	A0ms	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
-17	)	)	PUNCT	Q)	_	11	punct	_	SpaceAfter=No
-18	,	,	PUNCT	Q,	_	2	punct	_	_
+17	)	)	PUNCT	Q)	_	16	punct	_	SpaceAfter=No
+18	,	,	PUNCT	Q,	_	20	punct	_	_
 19	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	XIV	XIV	NUM	Ncnfs	Gender=Fem|Number=Sing|NumType=Card	8	conj	_	_
-21	(	(	PUNCT	Q(	_	16	punct	_	SpaceAfter=No
+21	(	(	PUNCT	Q(	_	23	punct	_	SpaceAfter=No
 22	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	financiamento	financiamento	NOUN	Scms	Gender=Masc|Number=Sing	20	appos	_	_
 24	público	público	ADJ	A0ms	Gender=Masc|Number=Sing	23	amod	_	_

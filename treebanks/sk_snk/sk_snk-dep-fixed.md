@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-185 nodes (0%) are attached to their parents as `fixed`.
+189 nodes (0%) are attached to their parents as `fixed`.
 
-185 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12972972972973.
+189 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12698412698413.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (58; 31% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (45; 24% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (31; 17% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (19; 10% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (15; 8% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (58; 31% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (45; 24% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (31; 16% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (19; 10% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (15; 8% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

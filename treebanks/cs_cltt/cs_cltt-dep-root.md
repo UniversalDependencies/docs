@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 6	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
 7	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	6	amod	_	_
 8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	LId=v-1
-9	§_20_odst._2	§_20_odst._2	X	X@-------------	_	7	advmod	_	SpaceAfter=No
+9	§_20_odst._2	§_20_odst._2	X	X@-------------	_	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~

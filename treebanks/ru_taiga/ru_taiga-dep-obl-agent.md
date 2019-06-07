@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-obl.html">obl</a></tt>.
 
-13 nodes (0%) are attached to their parents as `obl:agent`.
+23 nodes (0%) are attached to their parents as `obl:agent`.
 
-11 instances of `obl:agent` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.53846153846154.
+16 instances of `obl:agent` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91304347826087.
 
-The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (8; 62% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (3; 23% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (13; 57% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (5; 22% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 13% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -38,76 +38,43 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 obl:agent	color:blue
-1	Приведенные	привести	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
-2	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	1	obl:agent	_	_
-3	артикуляционные	артикуляционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
-4	упражнения	упражнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	_
-5	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-6	логопедами	логопед	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	obl:agent	_	_
-7	для	для	ADP	_	_	8	case	_	_
-8	стимуляции	стимуляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
-9	речевой	речевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-10	активности	активность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
-11	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obl:agent	color:blue
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	_
+2	вот	вот	PART	_	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	встреченный	встречить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+5	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	4	obl:agent	_	_
+6	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
+8	удивлялся	удивляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 23 obl:agent	color:blue
-1	Эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
-2	концовка	концовка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
-3	НИКАК	никак	ADV	_	Degree=Pos	6	advmod	_	_
-4	не	не	PART	_	Polarity=Neg	6	advmod	_	_
-5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
-6	увязана	увязать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-7	с	с	ADP	_	_	8	case	_	_
-8	содержанием	содержание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
-9	романа	роман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	его	его	DET	_	_	12	det	_	_
-12	фабулой	фабула	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	смыслом	смысл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	19	punct	_	_
-16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	_
-17	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
-18	абсолютно	абсолютно	ADV	_	Degree=Pos	19	advmod	_	_
-19	ненужной	ненужный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	_
-21	никчемушной	никчемушный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No
-22	,	,	PUNCT	_	_	25	punct	_	_
-23	ничем	ничто	PRON	_	Case=Ins	25	obl:agent	_	_
-24	не	не	PART	_	Polarity=Neg	25	advmod	_	_
-25	оправданной	оправданный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No
-26	,	,	PUNCT	_	_	25	punct	_	_
-27	-	-	PUNCT	_	_	29	punct	_	_
-28	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
-29	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	33	parataxis	_	SpaceAfter=No
-30	,	,	PUNCT	_	_	29	punct	_	_
-31	ни	ни	CCONJ	_	Polarity=Neg	33	cc	_	_
-32	в	в	ADP	_	_	33	case	_	_
-33	тын	тын	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
-34	,	,	PUNCT	_	_	38	punct	_	_
-35	ни	ни	CCONJ	_	Polarity=Neg	38	cc	_	_
-36	в	в	ADP	_	_	38	case	_	_
-37	Красную	красный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
-38	армию	армия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	conj	_	SpaceAfter=No
-39	,	,	PUNCT	_	_	40	punct	_	_
-40	пришей	пришить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	33	conj	_	_
-41	кобыле	кобыла	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	40	iobj	_	_
-42	хвост	хвост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	obj	_	SpaceAfter=No
-43	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 obl:agent	color:blue
+1	Все	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur	2	det	_	_
+2	Законы	Закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+3	принятые	принять	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	за	за	ADP	_	_	7	case	_	_
+5	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	16	16	NUM	_	_	7	nummod:gov	_	_
+7	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	_
+8	ГД	ГД	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl:agent	_	_
+9	Путин	Путин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	подписывал	подписывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	))))	))))	SYM	_	_	11	discourse	_	SpaceAfter=No
 
 ~~~
 

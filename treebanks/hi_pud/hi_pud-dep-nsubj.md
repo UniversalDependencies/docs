@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `nsubj`: <tt><a href="hi_pud-dep-nsubj
 
 1133 nodes (5%) are attached to their parents as `nsubj`.
 
-1123 instances of `nsubj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.90644307149161.
+1121 instances of `nsubj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.91703442188879.
 
-The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (369; 33% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (328; 29% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (214; 19% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (66; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (63; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `nsubj`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (368; 32% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (328; 29% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (215; 19% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (65; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (64; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6 5 nsubj	color:blue
 1	आज	_	NOUN	NST	_	6	obl:tmod	_	SpaceAfter=No|Translit=āja
 2	,	_	PUNCT	,	_	1	punct	_	Translit=,
-3	खांजिर	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=khāṁjira
+3	खांजिर	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	obj	_	Translit=khāṁjira
 4	अकेला	_	DET	QF	_	3	det	_	Translit=akelā
 5	सुअर	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=suara
 6	हो	_	VERB	VB	_	0	root	_	Translit=ho
@@ -56,7 +56,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 11	वह	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Translit=vaha
 12	हमेशा	_	ADV	RB	_	13	advmod	_	Translit=hameśā
 13	अकेला	_	ADJ	JJ	_	6	conj	_	Translit=akelā
-14	नहीं	_	PART	NEG	Polarity=Neg	13	advmod	_	Translit=nahīṁ
+14	नहीं	_	PART	NEG	Polarity=Neg	13	advmod	_	Translit=nahīṁ
 15	है	_	AUX	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	SpaceAfter=No|Translit=hai
 16	।	_	PUNCT	.	_	6	punct	_	Translit=.
 
@@ -78,7 +78,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 7	सचमुच	_	ADV	RB	_	11	advmod	_	Translit=sacamuca
 8	दुनिया	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	obl	_	Translit=duniyā
 9	भर	_	PART	PRT	_	8	discourse	_	Translit=bhara
-10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
+10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
 11	फैल	_	VERB	VB	_	3	ccomp	_	Translit=phaila
 12	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	11	aux	_	SpaceAfter=No|Translit=gayī
 13	।	_	PUNCT	.	_	3	punct	_	Translit=.

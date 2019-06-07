@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -65,8 +65,8 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	Toda	toda	CCONJ	Cc	_	4	cc	_	Dep=3|Rel=Conj
 2	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	Dep=3|Rel=Sb
 3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Dep=0|Rel=Root
-4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|Dep=3|Rel=Atr
-5	"	"	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+4	energija	energija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Dep=3|Rel=Atr
+5	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No|Dep=4|Rel=Atr
 7	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 8	?	?	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root

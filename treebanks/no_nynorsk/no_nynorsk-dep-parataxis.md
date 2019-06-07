@@ -27,7 +27,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	ikkje	ikkje	PART	_	Polarity=Neg	2	advmod	_	_
 4	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 5	brødbakemaskin	brødbakemaskin	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	2	punct	_	_
+6	,	$,	PUNCT	_	_	7	punct	_	_
 7	tenker	tenke	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 8	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
 9	kanskje	kanskje	ADV	_	_	7	advmod	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	skitnervøs	skitnervøs	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-5	,	$,	PUNCT	_	_	4	punct	_	_
+5	,	$,	PUNCT	_	_	6	punct	_	_
 6	seier	seie	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 7	Tone	Tone	NOUN	_	Gender=Fem	6	nsubj	_	_
 8	Damli	Damli	PROPN	_	_	7	flat:name	_	_
@@ -67,7 +67,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Heller	heller	ADV	_	_	2	advmod	_	_
 2	ikkje	ikkje	PART	_	Polarity=Neg	3	nmod	_	_
 3	nynorsk	nynorsk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-4	,	$,	PUNCT	_	_	3	punct	_	_
+4	,	$,	PUNCT	_	_	5	punct	_	_
 5	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 6	Viken	Viken	PROPN	_	_	5	nsubj	_	SpaceAfter=No
 7	.	$.	PUNCT	_	_	3	punct	_	_

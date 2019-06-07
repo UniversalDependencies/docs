@@ -77,13 +77,13 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## Relations
 
-[acl](pcm_nsc-dep-acl.html) – [acl:cleft](pcm_nsc-dep-acl-cleft.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:periph](pcm_nsc-dep-advcl-periph.html) – [advmod](pcm_nsc-dep-advmod.html) – [advmod:emph](pcm_nsc-dep-advmod-emph.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [aux:pass](pcm_nsc-dep-aux-pass.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [ccomp:cleft](pcm_nsc-dep-ccomp-cleft.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [conj:appos](pcm_nsc-dep-conj-appos.html) – [conj:coord](pcm_nsc-dep-conj-coord.html) – [conj:dicto](pcm_nsc-dep-conj-dicto.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:quasi](pcm_nsc-dep-csubj-quasi.html) – [det](pcm_nsc-dep-det.html) – [det:predet](pcm_nsc-dep-det-predet.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl](pcm_nsc-dep-expl.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [goeswith](pcm_nsc-dep-goeswith.html) – [iobj](pcm_nsc-dep-iobj.html) – [list](pcm_nsc-dep-list.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:npmod](pcm_nsc-dep-nmod-npmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:expl](pcm_nsc-dep-nsubj-expl.html) – [nsubj:pass](pcm_nsc-dep-nsubj-pass.html) – [nsubj:quasi](pcm_nsc-dep-nsubj-quasi.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obl](pcm_nsc-dep-obl.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [obl:periph](pcm_nsc-dep-obl-periph.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:obj](pcm_nsc-dep-parataxis-obj.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [punct](pcm_nsc-dep-punct.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
+[acl](pcm_nsc-dep-acl.html) – [acl:cleft](pcm_nsc-dep-acl-cleft.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:periph](pcm_nsc-dep-advcl-periph.html) – [advmod](pcm_nsc-dep-advmod.html) – [advmod:emph](pcm_nsc-dep-advmod-emph.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [aux:pass](pcm_nsc-dep-aux-pass.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [ccomp:cleft](pcm_nsc-dep-ccomp-cleft.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [conj:appos](pcm_nsc-dep-conj-appos.html) – [conj:coord](pcm_nsc-dep-conj-coord.html) – [conj:dicto](pcm_nsc-dep-conj-dicto.html) – [conj:redup](pcm_nsc-dep-conj-redup.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:quasi](pcm_nsc-dep-csubj-quasi.html) – [det](pcm_nsc-dep-det.html) – [det:predet](pcm_nsc-dep-det-predet.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl](pcm_nsc-dep-expl.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [goeswith](pcm_nsc-dep-goeswith.html) – [iobj](pcm_nsc-dep-iobj.html) – [list](pcm_nsc-dep-list.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:npmod](pcm_nsc-dep-nmod-npmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:expl](pcm_nsc-dep-nsubj-expl.html) – [nsubj:pass](pcm_nsc-dep-nsubj-pass.html) – [nsubj:quasi](pcm_nsc-dep-nsubj-quasi.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obl](pcm_nsc-dep-obl.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [obl:periph](pcm_nsc-dep-obl-periph.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:obj](pcm_nsc-dep-parataxis-obj.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [punct](pcm_nsc-dep-punct.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 948 sentences and 12861 tokens.</li>
+<li>This corpus contains 948 sentences and 12863 tokens.</li>
 </ul>
 
 <ul>
@@ -110,27 +110,27 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus contains 16 word types tagged as particles (PART): be, dem, dey, ma, na, naim, no, not, now, n~, o, oya, sef, sey, sha, to</li>
+<li>This corpus contains 9 word types tagged as particles (PART): be, dem, na, naim, no, n~, oya, sey, to</li>
 </ul>
 
 <ul>
-<li>This corpus contains 36 lemmas tagged as pronouns (PRON): I, am, anyone, dat, de, deir, dem, dis, dose, e, each, everything, her, if, im, imself, it, ma, me, naim, one, our, own, she, some, something, una, unasef, us, we, wetin, which, who, you, your, yourself</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): I, am, anyone, dat, de, deir, dem, dis, dose, e, each, everything, her, im, imself, it, ma, me, one, our, own, she, some, something, una, unasef, us, we, wetin, which, who, you, your, yourself</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as determiners (DET): a, all, anoder, any, dat, dese, di, dis, dose, every, one, some, which</li>
+<li>This corpus contains 16 lemmas tagged as determiners (DET): a, all, anoder, any, dat, dem, dese, di, dis, dose, do~, every, half, one, some, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: dat, dis, dose, one, some, which</li>
+<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: dat, dem, dis, dose, one, some, which</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): come, de, dey, don, fit, for, go, make, neva, will</li>
+<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): I, be, come, de, dey, do, don, fit, for, go, make, na, neva, will</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: come, dey, go, make</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: be, come, dey, do, go, make, na</li>
 </ul>
 
 <ul>
@@ -179,7 +179,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: na, be, dey, is.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: na, be.</li>
 </ul>
 
 <ul>
@@ -225,7 +225,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 27 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:periph</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>ccomp:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>conj:appos</a>, <a>conj:coord</a>, <a>conj:dicto</a>, <a>csubj:quasi</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>nsubj:quasi</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>obl:periph</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:obj</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 27 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:periph</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>ccomp:cleft</a>, <a>compound:prt</a>, <a>compound:svc</a>, <a>conj:appos</a>, <a>conj:coord</a>, <a>conj:dicto</a>, <a>conj:redup</a>, <a>csubj:quasi</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>nsubj:quasi</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>obl:periph</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:obj</a>, <a>parataxis:parenth</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>parataxis</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
 </ul>

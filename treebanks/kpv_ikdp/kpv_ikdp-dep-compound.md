@@ -44,16 +44,16 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
 1	Маме	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	Lang=Mixed|Note=CheckAll
-2	вед	вед	PART	Pcle	_	1	discourse	_	_
+2	вед	вед	PART	Pcle	_	1	advmod	_	_
 3	сэчем	сэчем	ADV	Adv	_	6	advmod	_	_
-4	же	же	PART	Pcle	_	3	discourse	_	Lang=Mixed
+4	же	жӧ	PART	Pcle	_	3	advmod	_	Lang=Mixed
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	6	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod	_	_
-11	уна	уна	ADV	Adv	Case=Nom|Number=Sing	12	advmod	_	_
+11	уна	уна	ADV	Adv	_	12	advmod	_	_
 12	мыйке	мыйке	PRON	Pron	_	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_

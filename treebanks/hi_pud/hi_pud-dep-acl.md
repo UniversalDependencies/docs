@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="hi_pud-dep-acl-rel
 339 nodes (1%) are attached to their parents as `acl`.
 
 259 instances of `acl` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.90265486725664.
+Average distance between parent and child is 5.92625368731563.
 
-The following 21 pairs of parts of speech are connected with `acl`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (171; 50% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (83; 24% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (29; 9% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (14; 4% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (14; 4% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `acl`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (174; 51% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (83; 24% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (30; 9% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (14; 4% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (14; 4% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 12 acl	color:blue
-1	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Translit=varṣa
+1	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Translit=varṣa
 2	2016	_	NUM	CD	NumType=Card	5	nsubj	_	Translit=2016
-3	तेजी	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	advmod	_	Translit=tejī
+3	तेजी	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	_	Translit=tejī
 4	से	_	ADP	IN	Case=Acc	3	case	_	Translit=se
 5	बीत	_	VERB	VB	_	0	root	_	Translit=bīta
 6	रहा	_	AUX	VXH	Aspect=Prog|Gender=Masc|Mood=Ind|Number=Sing|Person=3	5	aux	_	Translit=rahā
@@ -50,16 +50,16 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 14	fgColor:white
 # visual-style 14 11 acl	color:blue
 1	इस	_	DET	DT	Definite=Def|Number=Sing	2	det	_	Translit=isa
-2	क्षेत्र	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	Translit=kṣetra
-3	में	_	ADP	IN	Case=Loc	2	case	_	Translit=meṁ
+2	क्षेत्र	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	Translit=kṣetra
+3	में	_	ADP	IN	Case=Loc	2	case	_	Translit=meṁ
 4	निवेश	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Translit=niveśa
-5	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=varṣa
+5	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=varṣa
 6	2015	_	NUM	CD	NumType=Card	14	obl:tmod	_	Translit=2015
-7	में	_	ADP	IN	Case=Loc	6	case	_	Translit=meṁ
+7	में	_	ADP	IN	Case=Loc	6	case	_	Translit=meṁ
 8	6	_	NUM	CD	NumType=Card	11	obl	_	SpaceAfter=No|Translit=6
 9	%	_	SYM	SYM	_	8	discourse	_	Translit=%
 10	तक	_	ADP	IN	_	8	case	_	Translit=taka
-11	बढ़कर	_	VERB	VB	_	14	acl	_	Translit=baṛhakara
+11	बढ़कर	_	VERB	VB	_	14	acl	_	Translit=baṛhakara
 12	$221	_	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=$221
 13	bn	_	NUM	CD	NumType=Card	14	obj	_	Translit=bn
 14	हो	_	VERB	VB	_	0	root	_	Translit=ho
@@ -77,10 +77,10 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 2 acl	color:blue
 1	मुझे	_	PRON	PRP	Animacy=Anim|Case=Acc|Number=Sing|Person=1	2	obj	_	Translit=mujhe
-2	छोड़कर	_	VERB	VB	_	7	acl	_	Translit=choṛakara
+2	छोड़कर	_	VERB	VB	_	7	acl	_	Translit=choṛakara
 3	सभी	_	DET	QF	_	4	det	_	Translit=sabhī
 4	चिकित्सक	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	7	nsubj	_	Translit=cikitsaka
-5	हथियारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Translit=hathiyāroṁ
+5	हथियारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Translit=hathiyāroṁ
 6	से	_	ADP	IN	Case=Acc	5	case	_	Translit=se
 7	लैस	_	ADJ	JJ	_	0	root	_	Translit=laisa
 8	थे	_	AUX	VBI	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	7	cop	_	SpaceAfter=No|Translit=the

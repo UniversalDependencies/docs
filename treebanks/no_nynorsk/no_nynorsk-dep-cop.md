@@ -29,7 +29,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 5	av	av	ADP	_	_	6	case	_	_
 6	søstra	søster	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
 7	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
-8	,	$,	PUNCT	_	_	4	punct	_	_
+8	,	$,	PUNCT	_	_	13	punct	_	_
 9	og	og	CCONJ	_	_	13	cc	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	ofte	ofte	ADJ	_	Degree=Pos	5	advmod	_	_
 4	på	på	ADP	_	_	5	case	_	_
 5	tilbod	tilbod	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	5	punct	_	_
+6	,	$,	PUNCT	_	_	12	punct	_	_
 7	og	og	CCONJ	_	_	12	cc	_	_
 8	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	_
 9	proteinrik	proteinrik	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	_

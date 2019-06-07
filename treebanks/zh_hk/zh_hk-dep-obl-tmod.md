@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="zh_hk-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="zh_hk-dep-obl-patient.html">obl:patient</a></tt>.
 
-93 nodes (1%) are attached to their parents as `obl:tmod`.
+100 nodes (1%) are attached to their parents as `obl:tmod`.
 
-92 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.73118279569892.
+99 instances of `obl:tmod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.78.
 
-The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (78; 84% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (85; 85% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-137 nodes (2%) are attached to their parents as `nmod`.
+167 nodes (2%) are attached to their parents as `nmod`.
 
-137 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43795620437956.
+167 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.37724550898204.
 
-The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (58; 42% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (52; 38% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (20; 15% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (74; 44% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (66; 40% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (20; 12% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 nmod	color:blue
-1	都	_	ADV	_	_	2	advmod	_	SpaceAfter=No
+1	都	_	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	是	_	AUX	_	_	5	cop	_	SpaceAfter=No
 3	無線電視	_	PROPN	_	_	5	nmod	_	SpaceAfter=No
 4	的	_	PART	_	_	3	case	_	SpaceAfter=No

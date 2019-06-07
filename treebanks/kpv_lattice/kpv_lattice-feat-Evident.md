@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (16; 100% of non-empty `Evident`): <em>идралӧма, Чеглалӧма, вайӧма, вартӧма, воӧмаӧсь, вунӧдӧма, домавлӧмаӧсь, майшассьӧма, пуктӧма, пӧртӧма</em>
-* `EMPTY` (356): <em>идралӧм, колӧ, лоны, вермы, идралӧмын, кутіс, воис, лои, вешйис, восьлавны</em>
+* `EMPTY` (353): <em>идралӧм, колӧ, лоны, вермы, идралӧмын, кутіс, воис, лои, вешйис, восьлавны</em>
 
 `Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (14) occur only with one value of `Evident`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 `AUX` tokens may have the following values of `Evident`:
 
 * `Nfh` (1; 100% of non-empty `Evident`): <em>вӧлӧма</em>
-* `EMPTY` (59): <em>эз, оз, вӧлі, ог, он, эг, лоас, вӧв, вӧвны, лоис</em>
+* `EMPTY` (61): <em>эз, оз, вӧлі, ог, он, эг, лоас, абу, абуӧсь, вӧв</em>
 
 ## Relations with Agreement in `Evident`
 

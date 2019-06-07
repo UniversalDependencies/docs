@@ -8,12 +8,78 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `dislocated`.
+15 nodes (0%) are attached to their parents as `dislocated`.
 
-5 instances of `dislocated` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.
+12 instances of `dislocated` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.9333333333333.
 
-The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 33% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 17% instances).
+The following 10 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 20% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 1 dislocated	color:blue
+1	One	One	NUM	CD	NumType=Card	17	dislocated	_	_
+2	of	of	ADP	IN	_	7	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+4	most	most	ADV	RBS	_	6	advmod	_	_
+5	scenicly	scenicly	ADV	RB	_	6	advmod	_	_
+6	attractive	attractive	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	ports	port	NOUN	NNS	Number=Plur	1	nmod	_	_
+8	in	in	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	whole	whole	NOUN	NN	Number=Sing	7	nmod	_	_
+11	of	of	ADP	IN	_	13	case	_	_
+12	New	New	PROPN	NNP	Number=Sing	13	amod	_	_
+13	Zealand	Zealand	PROPN	NNP	Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	1	punct	_	_
+15	Port	Port	PROPN	NNP	Number=Sing	16	compound	_	_
+16	Hutt	Hutt	PROPN	NNP	Number=Sing	17	nsubj	_	_
+17	boasts	boast	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	an	an	DET	DT	Definite=Ind|PronType=Art	22	det	_	_
+19	incredibly	incredibly	ADV	RB	_	20	advmod	_	_
+20	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	_	_
+21	little	little	ADJ	JJ	Degree=Pos	22	amod	_	_
+22	harbour	harbour	NOUN	NN	Number=Sing	17	obj	_	SpaceAfter=No
+23	,	,	PUNCT	,	_	26	punct	_	_
+24	with	with	ADP	IN	_	26	case	_	_
+25	picturesque	picturesque	ADJ	JJ	Degree=Pos	26	amod	_	_
+26	views	view	NOUN	NNS	Number=Plur	1	nmod	_	_
+27	and	and	CCONJ	CC	_	29	cc	_	_
+28	safe	safe	ADJ	JJ	Degree=Pos	29	amod	_	_
+29	anchorage	anchorage	NOUN	NN	Number=Sing	26	conj	_	_
+30	in	in	ADP	IN	_	32	case	_	_
+31	all	all	DET	DT	_	32	det	_	_
+32	weather	weather	NOUN	NN	Number=Sing	29	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	.	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 dislocated	color:blue
+1	"	''	PUNCT	``	_	8	punct	_	SpaceAfter=No
+2	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+3	father	father	NOUN	NN	Number=Sing	8	dislocated	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	an	an	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
+8	anthropologist	anthropologist	NOUN	NN	Number=Sing	12	ccomp	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
+10	"	''	PUNCT	''	_	8	punct	_	_
+11	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -47,7 +113,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 23	Russia	Russia	PROPN	NNP	Number=Sing	22	obj	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	_
 25	twice	twice	ADV	RB	NumType=Mult	22	advmod	_	SpaceAfter=No
-26	,	,	PUNCT	,	_	50	punct	_	_
+26	,	,	PUNCT	,	_	27	punct	_	_
 27	and	and	CCONJ	CC	_	50	cc	_	_
 28	Germany	Germany	PROPN	NNP	Number=Sing	50	dislocated	_	_
 29	backed	back	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28	acl	_	_
@@ -73,97 +139,6 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 49	real	real	ADJ	JJ	Degree=Pos	50	amod	_	_
 50	threat	threat	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No
 51	.	.	PUNCT	.	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 35	bgColor:blue
-# visual-style 35	fgColor:white
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 39 35 dislocated	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	34	ccomp	_	_
-3	by	by	SCONJ	IN	_	4	mark	_	_
-4	using	use	VERB	VBG	VerbForm=Ger	2	advcl	_	_
-5	emails	emails	NOUN	NNS	Number=Plur	4	obj	_	_
-6	on	on	ADP	IN	_	9	case	_	_
-7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
-8	one	one	NUM	CD	NumType=Card	9	nummod	_	_
-9	hand	hand	NOUN	NN	Number=Sing	5	nmod	_	_
-10	which	which	PRON	WDT	PronType=Rel	14	nsubj	_	_
-11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	_
-12	more	more	ADV	RBR	_	14	advmod	_	_
-13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
-14	voice	voice	NOUN	NN	Number=Sing	5	acl:relcl	_	_
-15	of	of	ADP	IN	_	18	case	_	_
-16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
-17	woman	woman	NOUN	NN	Number=Sing	18	compound	_	_
-18	Eva	Eva	PROPN	NNP	Number=Sing	14	nmod	_	_
-19	and	and	CCONJ	CC	_	20	cc	_	_
-20	narrative	narrative	NOUN	NN	Number=Sing	14	conj	_	_
-21	which	which	PRON	WDT	PronType=Rel	25	nsubj	_	_
-22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
-23	more	more	ADV	RBR	_	25	advmod	_	_
-24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	_
-25	perspective	perspective	NOUN	NN	Number=Sing	20	acl:relcl	_	_
-26	of	of	ADP	IN	_	29	case	_	_
-27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	_
-28	man	man	NOUN	NN	Number=Sing	29	compound	_	_
-29	Adam	Adam	PROPN	NNP	Number=Sing	25	nmod	_	SpaceAfter=No
-30	,	,	PUNCT	,	_	2	punct	_	_
-31	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
-32	kind	kind	NOUN	NN	Number=Sing	33	dep	_	_
-33	of	of	ADP	IN	_	34	advmod	_	_
-34	confront	confront	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-35	them	them	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	39	dislocated	_	SpaceAfter=No
-36	,	,	PUNCT	,	_	35	punct	_	_
-37	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	39	nmod:poss	_	_
-38	different	different	ADJ	JJ	Degree=Pos	39	amod	_	_
-39	perspective	perspective	NOUN	NN	Number=Sing	34	dep	_	_
-40	and	and	CCONJ	CC	_	46	cc	_	_
-41	then	then	ADV	RB	PronType=Dem	46	advmod	_	_
-42	kind	kind	NOUN	NN	Number=Sing	41	dep	_	_
-43	somehow	somehow	ADV	RB	_	46	advmod	_	_
-44	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	46	nsubj	_	_
-45	can	can	AUX	MD	VerbForm=Fin	46	aux	_	_
-46	see	see	VERB	VB	VerbForm=Inf	39	conj	_	_
-47	the	the	DET	DT	Definite=Def|PronType=Art	48	det	_	_
-48	distortions	distortion	NOUN	NNS	Number=Plur	46	obj	_	_
-49	in	in	ADP	IN	_	51	case	_	_
-50	the	the	DET	DT	Definite=Def|PronType=Art	51	det	_	_
-51	way	way	NOUN	NN	Number=Sing	46	obl	_	_
-52	the	the	DET	DT	Definite=Def|PronType=Art	53	det	_	_
-53	story	story	NOUN	NN	Number=Sing	55	nsubj:pass	_	_
-54	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55	aux:pass	_	_
-55	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	51	acl:relcl	_	SpaceAfter=No
-56	.	.	PUNCT	.	_	34	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 2 dislocated	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
-2	land	land	NOUN	NN	Number=Sing	13	dislocated	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	6	punct	_	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
-5	natural	natural	ADJ	JJ	Degree=Pos	6	amod	_	_
-6	resources	resource	NOUN	NNS	Number=Plur	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	,	_	9	punct	_	_
-8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
-9	markets	market	NOUN	NNS	Number=Plur	2	conj	_	SpaceAfter=No
-10	,	,	PUNCT	,	_	2	punct	_	_
-11	all	all	PRON	PDT	_	12	det:predet	_	_
-12	these	these	PRON	DT	Number=Plur|PronType=Dem	13	nsubj	_	_
-13	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-14	together	together	ADV	RB	_	13	advmod	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	13	punct	_	_
 
 ~~~
 

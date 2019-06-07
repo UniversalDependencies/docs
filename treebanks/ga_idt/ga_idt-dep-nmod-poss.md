@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ga_idt-dep-nmod.htm
 234 nodes (1%) are attached to their parents as `nmod:poss`.
 
 234 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08547008547009.
+Average distance between parent and child is 1.05128205128205.
 
 The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (228; 97% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 26	le	le	ADP	Simp	_	27	case	_	_
 27	scrúduithe	scrúdú	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	25	nmod	_	_
 28	agus	agus	CCONJ	Coord	_	30	cc	_	_
-29	le	le	ADP	Simp	_	28	case	_	_
+29	le	le	ADP	Simp	_	30	case	_	_
 30	trialacha	triail	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	27	conj	_	_
 31	cainte	caint	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	30	compound	_	_
 32	agus	agus	CCONJ	Coord	_	33	cc	_	_
@@ -94,7 +94,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 34	,	,	PUNCT	Punct	_	35	punct	_	_
 35	agus	agus	CCONJ	Coord	_	39	cc	_	_
 36	go	go	PART	Ad	PartType=Ad	37	mark:prt	_	_
-37	háirithe	áirithe	ADJ	Adj	Degree=Pos	35	advmod	_	_
+37	háirithe	áirithe	ADJ	Adj	Degree=Pos	39	advmod	_	_
 38	le	le	ADP	Simp	_	39	case	_	_
 39	cuidiú	cuidiú	NOUN	Noun	VerbForm=Inf	15	conj	_	_
 40	le	le	ADP	Simp	_	41	case	_	_
@@ -115,7 +115,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 55	ilbhéascnach	ilbhéascnach	ADJ	Adj	_	53	amod	_	SpaceAfter=No
 56	,	,	PUNCT	Punct	_	58	punct	_	_
 57	a	a	PART	Inf	PartType=Inf	58	mark	_	_
-58	chothú	cothú	NOUN	Noun	Form=Len|VerbForm=Inf	38	xcomp	_	_
+58	chothú	cothú	NOUN	Noun	Form=Len|VerbForm=Inf	50	xcomp	_	_
 59	agus	agus	CCONJ	Coord	_	61	cc	_	_
 60	a	a	PART	Inf	PartType=Inf	61	mark	_	_
 61	bhuanú	buanú	NOUN	Noun	Form=Len|VerbForm=Inf	58	conj	_	SpaceAfter=No

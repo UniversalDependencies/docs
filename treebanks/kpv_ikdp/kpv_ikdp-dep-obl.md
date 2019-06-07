@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83 nodes (8%) are attached to their parents as `obl`.
+129 nodes (10%) are attached to their parents as `obl`.
 
-45 instances of `obl` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.28915662650602.
+79 instances of `obl` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.16279069767442.
 
-The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (64; 77% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (100; 78% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,24 +50,21 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 obl	color:blue
-1	Только	только	ADV	Adv	_	4	advmod	_	Lang=Rus
-2	вот	вот	PART	Pcle	_	4	discourse	_	Lang=Rus
-3	сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
-4	мында	мында	NOUN	N	Case=Nom|Number=Sing	9	advcl	_	_
-5	и	и	CCONJ	CC	_	4	cc	_	Lang=Mixed
-6	мыйке	мыйкӧ	PRON	Pron	Case=Nom	4	appos	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	6	punct	_	_
-8	такое	такой	DET	Det	Case=Nom|Number=Sing	9	det	_	Lang=Rus
-9	детство	детство	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Rus
-10	у	у	ADP	Pr	_	11	case	_	Lang=Rus
-11	нас	мы	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=Rus
-12	было	быть	AUX	V	Number=Sing	9	cop	_	Lang=Rus|SpaceAfter=No
-13	.	.	PUNCT	CLB	_	9	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 obl	color:blue
+1	А	а	CCONJ	CC	_	6	cc	_	Lang=Mixed
+2	мамыслӧн	мам	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	Lang=Mixed|GTtags=Sg,Gen,PxSg3
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	GTtags=Ind,Prt1,Sg3
+4	потанын	потан	NOUN	N	Case=Ine|Number=Sing	6	obl	_	GTtags=Sg,Ine
+5	пони	пони	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Sg,Nom
+6	тятей	тятей	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	_
+8	туплялӧма	туплявны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	GTtags=TV,Ind,Prt2,Sg3
+9	ротӧн	рот	NOUN	N	Case=Ins|Number=Sing	8	obl	_	GTtags=Sg,Ins|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

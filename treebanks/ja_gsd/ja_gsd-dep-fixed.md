@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-322 nodes (0%) are attached to their parents as `fixed`.
+321 nodes (0%) are attached to their parents as `fixed`.
 
-322 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.05590062111801.
+321 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06230529595016.
 
-The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (96; 30% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (80; 25% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (59; 18% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (48; 15% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (38; 12% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (96; 30% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (79; 25% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (58; 18% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (48; 15% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (39; 12% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,13 +27,13 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	が	が	ADP	PS	_	2	case	_	SpaceAfter=No
 4	有界	有界	NOUN	NN	_	9	advcl	_	SpaceAfter=No
 5	である	だ	AUX	AV	_	4	cop	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	4	aux	_	SpaceAfter=No
+6	こと	こと	SCONJ	PNB	_	4	mark	_	SpaceAfter=No
 7	と	と	ADP	PS	_	4	case	_	SpaceAfter=No
 8	、	、	PUNCT	SYM	_	4	punct	_	SpaceAfter=No
 9	連続	連続	ADJ	JN	_	15	csubj	_	SpaceAfter=No
 10	で	だ	AUX	XV	_	9	aux	_	SpaceAfter=No
 11	ある	ある	AUX	XA	_	9	fixed	_	SpaceAfter=No
-12	こと	こと	NOUN	NB	_	9	aux	_	SpaceAfter=No
+12	こと	こと	SCONJ	PNB	_	9	mark	_	SpaceAfter=No
 13	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
 14	必要	必要	ADJ	JN	_	15	amod	_	SpaceAfter=No
 15	十分	十分	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 13	に	に	ADP	PS	_	12	case	_	SpaceAfter=No
 14	参加	参加	VERB	VV	_	0	root	_	SpaceAfter=No
 15	する	する	AUX	XV	_	14	aux	_	SpaceAfter=No
-16	こと	こと	NOUN	NB	_	14	aux	_	SpaceAfter=No
+16	こと	こと	SCONJ	PNB	_	14	mark	_	SpaceAfter=No
 17	に	に	ADP	PS	_	16	fixed	_	SpaceAfter=No
 18	なっ	なる	VERB	VV	_	16	fixed	_	SpaceAfter=No
 19	た	た	AUX	AV	_	14	aux	_	SpaceAfter=No
@@ -94,7 +94,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 13	に	に	ADP	PS	_	12	case	_	SpaceAfter=No
 14	参加	参加	VERB	VV	_	0	root	_	SpaceAfter=No
 15	する	する	AUX	XV	_	14	aux	_	SpaceAfter=No
-16	こと	こと	NOUN	NB	_	14	aux	_	SpaceAfter=No
+16	こと	こと	SCONJ	PNB	_	14	mark	_	SpaceAfter=No
 17	に	に	ADP	PS	_	16	fixed	_	SpaceAfter=No
 18	なっ	なる	VERB	VV	_	16	fixed	_	SpaceAfter=No
 19	た	た	AUX	AV	_	14	aux	_	SpaceAfter=No

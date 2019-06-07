@@ -7,106 +7,84 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-GSD: Relations: `flat:foreign`
 
 This relation is a language-specific subtype of <tt><a href="ru_gsd-dep-flat.html">flat</a></tt>.
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-18 nodes (0%) are attached to their parents as `flat:foreign`.
+756 nodes (1%) are attached to their parents as `flat:foreign`.
 
-18 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16666666666667.
+756 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.23015873015873.
 
-The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (12; 67% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (3; 17% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 17 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (619; 82% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (60; 8% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (19; 3% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 flat:foreign	color:blue
-1	Таинственная	ТАИНСТВЕННЫЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	игра	ИГРА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
-3	(	(	PUNCT	(	_	4	punct	_	SpaceAfter=No
-4	фусиги	ФУСИГИ	ADV	FW	_	2	appos	_	_
-5	ю	Ю	ADV	FW	_	4	flat:foreign	_	SpaceAfter=No
-6	:	:	PUNCT	:	_	4	punct	_	_
-7	ги	ГИ	ADV	FW	_	4	flat:foreign	_	SpaceAfter=No
-8	)	)	PUNCT	)	_	4	punct	_	_
-9	--	--	PUNCT	--	_	10	punct	_	_
-10	сёдзё	СЕДЗЕ	ADV	AFX	_	0	root	_	_
-11	-	-	PUNCT	-	_	10	goeswith	_	_
-12	манга	МАНГА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	goeswith	_	_
-13	авторства	АВТОРСТВО	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
-14	Юу	ЮУ	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
-15	Ватасэ	ВАТАСЭ	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	14	flat	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	10	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat:foreign	color:blue
+1	В	в	ADP	IN	_	3	case	_	_
+2	1979	1979	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	году	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	Франке	Франке	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	основал	основать	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	Ars	Ars	X	FW	Foreign=Yes	5	obj	_	_
+7	Electronica	Electronica	X	FW	Foreign=Yes	6	flat:foreign	_	_
+8	в	в	ADP	IN	_	9	case	_	_
+9	Линце	Линц	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	Австрия	Австрия	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	list	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 flat:foreign	color:blue
-1	Назван	НАЗВАТЬ	VERB	VBNH	Animacy=Anim|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-2	архипресвитером	АРХИПРЕСВИТЕР	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	xcomp	_	_
-3	папской	ПАПСКИЙ	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
-4	базилики	БАЗИЛИКА	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-5	Сан	САН	ADV	AFX	_	4	appos	_	_
-6	-	-	PUNCT	-	_	5	goeswith	_	_
-7	Паоло	ПАОЛО	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	goeswith	_	_
-8	фуори	ФУОРИ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	flat:foreign	_	_
-9	Ле	ЛЕ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	flat:foreign	_	_
-10	Мура	МУРА	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	flat:foreign	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	5	punct	_	_
-12	Рим	РИМ	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	list	_	SpaceAfter=No
-13	,	,	PUNCT	,	_	5	punct	_	_
-14	31	31	ADJ	ORD	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	amod	_	_
-15	мая	МАЙ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	list	_	_
-16	2005	2005	ADJ	ORD	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
-17	года	ГОД	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 flat:foreign	color:blue
+1	Сено	Сено	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	(	(	PUNCT	(	_	1	punct	_	SpaceAfter=No
+3	)	)	PUNCT	)	_	1	punct	_	_
+4	--	--	PUNCT	--	_	5	punct	_	_
+5	одна	один	NUM	CD	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|NumType=Card	0	root	_	_
+6	из	из	ADP	IN	_	8	case	_	_
+7	45	45	NUM	CD	Case=Gen|NumType=Card	8	nummod	_	_
+8	провинций	провинция	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+9	Буркина	Буркина	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	-	-	PUNCT	-	_	9	punct	_	SpaceAfter=No
+11	Фасо	Фасо	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 16 flat:foreign	color:blue
+1	Расположен	расположить	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+2	на	на	ADP	IN	_	3	case	_	_
+3	границе	граница	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+4	коммун	коммуна	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
+6	департамент	департамент	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+7	Коррез	Коррез	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+8	)	)	PUNCT	)	_	11	punct	_	_
+9	и	и	CCONJ	CC	_	11	cc	_	_
+10	(	(	PUNCT	(	_	11	punct	_	SpaceAfter=No
+11	департамент	департамент	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+12	Пюи	пюи	X	FW	Foreign=Yes	11	appos	_	SpaceAfter=No
+13	-	-	PUNCT	-	_	14	punct	_	SpaceAfter=No
+14	де	де	X	FW	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
+15	-	-	PUNCT	-	_	16	punct	_	SpaceAfter=No
+16	Дом	Дом	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	flat:foreign	_	SpaceAfter=No
+17	)	)	PUNCT	)	_	11	punct	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 30 flat:foreign	color:blue
-1	Музыкальный	МУЗЫКАЛЬНЫЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-2	стиль	СТИЛЬ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Unsane	UNSANE	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
-4	сложился	СЛОЖИТЬСЯ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-5	под	ПОД	ADP	IN	_	6	case	_	_
-6	влиянием	ВЛИЯНИЕ	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
-7	Throbbing	THROBBING	VERB	VBNL	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
-8	Gristle	GRISTLE	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	10	punct	_	_
-10	SPK	SPK	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	12	punct	_	_
-12	Flipper	FLIPPER	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	conj	_	_
-13	и	И	CCONJ	CC	_	15	cc	_	_
-14	The	THE	DET	DT	Animacy=Inan|Case=Gen|Number=Plur	15	det	_	_
-15	Stooges	STOOGES	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	conj	_	SpaceAfter=No
-16	;	;	PUNCT	:	_	4	punct	_	_
-17	Карран	КАРРАН	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
-18	отмечает	ОТМЕЧАТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
-19	,	,	PUNCT	,	_	25	punct	_	_
-20	что	ЧТО	SCONJ	IN	_	25	mark	_	_
-21	для	ДЛЯ	ADP	IN	_	22	case	_	_
-22	него	ОН	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	25	nmod	_	_
-23	ключевым	КЛЮЧЕВОЙ	ADJ	JJL	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	amod	_	_
-24	музыкальным	МУЗЫКАЛЬНЫЙ	ADJ	JJL	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	amod	_	_
-25	впечатлением	ВПЕЧАТЛЕНИЕ	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	ccomp	_	_
-26	была	БЫТЬ	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	25	cop	_	_
-27	группа	ГРУППА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
-28	AC	AC	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	appos	_	_
-29	/	/	PUNCT	/	_	28	punct	_	_
-30	DC	DC	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	flat:foreign	_	SpaceAfter=No
-31	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

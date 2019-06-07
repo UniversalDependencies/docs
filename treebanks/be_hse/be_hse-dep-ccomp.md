@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-93 nodes (1%) are attached to their parents as `ccomp`.
+62 nodes (0%) are attached to their parents as `ccomp`.
 
-56 instances of `ccomp` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.35483870967742.
+61 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.40322580645161.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (70; 75% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (12; 13% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (48; 77% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -41,12 +41,12 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2 14 ccomp	color:blue
 1	Раптам	раптам	ADV	RB	Degree=Pos	2	advmod	_	_
 2	аказалася	аказацца	VERB	VBC	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	8	punct	_	_
+3	,	,	PUNCT	PUNCT	_	14	punct	_	_
 4	што	што	SCONJ	IN	_	14	mark	_	_
 5	“	“	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 6	мёртвая	мёртвы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 7	”	”	PUNCT	PUNCT	_	6	punct	_	_
-8	мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+8	мова	мова	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
 9	зусім	зусім	ADV	RB	Degree=Pos	10	advmod	_	_
 10	не	не	PART	UH	Polarity=Neg	11	advmod	_	_
 11	такая	такi	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_

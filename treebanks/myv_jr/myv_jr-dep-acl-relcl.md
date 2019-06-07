@@ -78,7 +78,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	савкшнокшность	савкшномс	AUX	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	5	acl:relcl	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScPl3
 9	партизантнэ	партизан	NOUN	N	Case=Nom|Definite=Def|Number=Plur	8	nsubj	_	GTtags=Pl,Nom,Def
 10	ютась	ютазь	VERB	V	Valency=2|VerbForm=Conv	11	acl	_	GTtags=TV,Ger
-11	шкасто	шка	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	12	advmod	_	GTtags=SP,Ela,Indef
+11	шкасто	шка	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	12	obl	_	GTtags=SP,Ela,Indef
 12	оймсеме	оймсемс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	8	xcomp	_	GTtags=IV,Inf,Loc|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	1	punct	_	_
 

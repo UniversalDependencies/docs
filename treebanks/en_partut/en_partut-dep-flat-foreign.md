@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-flat.html">flat</a></tt>.
 
-69 nodes (0%) are attached to their parents as `flat:foreign`.
+73 nodes (0%) are attached to their parents as `flat:foreign`.
 
-69 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.71014492753623.
+73 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75342465753425.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (69; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (73; 100% instances).
 
 
 ~~~ conllu

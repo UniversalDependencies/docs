@@ -9,33 +9,26 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-1151 nodes (1%) are attached to their parents as `flat:name`.
+1790 nodes (1%) are attached to their parents as `flat:name`.
 
-1151 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21980886185925.
+1790 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18659217877095.
 
-The following 28 pairs of parts of speech are connected with `flat:name`: <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (819; 71% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (107; 9% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (36; 3% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (29; 3% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (28; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (19; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `flat:name`: <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1335; 75% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (224; 13% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (37; 2% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (37; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (19; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (14; 1% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (10; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat:name	color:blue
-1	Ieguvēji	ieguvējs	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	5	ccomp	5:ccomp	LvtbNodeId=a-p1309-p9s1w1
-2	būs	būt	AUX	vcnifii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	1	cop	1:cop	LvtbNodeId=a-p1309-p9s1w2
-3	lasītāji	lasītājs	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	LvtbNodeId=a-p1309-p9s1w3|SpaceAfter=No
-4	,	,	PUNCT	zc	_	1	punct	1:punct	LvtbNodeId=a-p1309-p9s1w4
-5	sola	solīt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p1309-p9s1w5
-6	gan	gan	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-p1309-p9s1w6
-7	J.	j.	PROPN	yp	Abbr=Yes	5	nsubj	5:nsubj	LvtbNodeId=a-p1309-p9s1w7|SpaceAfter=No
-8	Visockis	Visockis	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	7:flat:name	LvtbNodeId=a-p1309-p9s1w8|SpaceAfter=No
-9	,	,	PUNCT	zc	_	11	punct	11:punct	LvtbNodeId=a-p1309-p9s1w9
-10	gan	gan	CCONJ	cc	_	11	cc	11:cc	LvtbNodeId=a-p1309-p9s1w10
-11	V.	v.	PROPN	yp	Abbr=Yes	7	conj	7:conj	LvtbNodeId=a-p1309-p9s1w11|SpaceAfter=No
-12	Gobzeme	Gobzeme	PROPN	npfsn5	Case=Nom|Gender=Fem|Number=Sing	11	flat:name	11:flat:name	LvtbNodeId=a-p1309-p9s1w12|SpaceAfter=No
-13	.	.	PUNCT	zs	_	5	punct	5:punct	LvtbNodeId=a-p1309-p9s1w13
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat:name	color:blue
+1	/	/	PUNCT	zx	_	0	root	0:root	LvtbNodeId=a-p10100-p25s2w1|SpaceAfter=No
+2	A.	A.	PROPN	yp	Abbr=Yes	1	dep	1:dep	LvtbNodeId=a-p10100-p25s2w2
+3	L.	L.	PROPN	yp	Abbr=Yes	2	flat:name	2:flat:name	LvtbNodeId=a-p10100-p25s2w3
+4	Puškaitis	Puškaitis	PROPN	npmsn2	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	2:flat:name	LvtbNodeId=a-p10100-p25s2w4|SpaceAfter=No
+5	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-p10100-p25s2w5|SpaceAfter=No
+6	/	/	PUNCT	zx	_	1	punct	1:punct	LvtbNodeId=a-p10100-p25s2w6
 
 ~~~
 
@@ -55,32 +48,27 @@ The following 28 pairs of parts of speech are connected with `flat:name`: <tt><a
 7	tieši	tieši	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d21-p15s4w7
 8	tāpēc	tāpēc	ADV	r0c	_	12	advmod	12:advmod	LvtbNodeId=a-d21-p15s4w8
 9	līdz	līdz	ADP	spsd	_	10	case	10:case	LvtbNodeId=a-d21-p15s4w9
-10	Latvijai	Latvija	PROPN	npfsd4	Case=Dat|Gender=Fem|Number=Sing	12	obl	12:obl:līdz	LvtbNodeId=a-d21-p15s4w10
+10	Latvijai	Latvija	PROPN	npfsd4	Case=Dat|Gender=Fem|Number=Sing	12	obl	12:obl	LvtbNodeId=a-d21-p15s4w10
 11	neesot	būt	AUX	vcnrpii00ay	Evident=Nfh|Mood=Qot|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	LvtbNodeId=a-d21-p15s4w11
-12	tikuši	tikt	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	LvtbNodeId=a-d21-p15s4w12|SpaceAfter=No
+12	tikuši	tikt	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	LvtbNodeId=a-d21-p15s4w12|SpaceAfter=No
 13	.	.	PUNCT	zs	_	12	punct	12:punct	LvtbNodeId=a-d21-p15s4w13
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 flat:name	color:blue
-1	[	[	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-n136-p95s1w1|SpaceAfter=No
-2	1	1	NUM	xn	NumType=Card	4	discourse	4:discourse	LvtbNodeId=a-n136-p95s1w2|SpaceAfter=No
-3	]	]	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-n136-p95s1w3
-4	OV	OV	SYM	xx	_	0	root	0:root	LvtbNodeId=a-n136-p95s1w4
-5	C	C	SYM	xx	_	4	flat:name	4:flat:name	LvtbNodeId=a-n136-p95s1w5
-6	154	154	NUM	xn	NumType=Card	4	flat:name	4:flat:name	LvtbNodeId=a-n136-p95s1w6
-7	E	E	SYM	xx	_	4	flat:name	4:flat:name	LvtbNodeId=a-n136-p95s1w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	9	punct	9:punct	LvtbNodeId=a-n136-p95s1w8
-9	29.5.2001.	29.5.2001.	SYM	xx	_	4	parataxis	4:parataxis	LvtbNodeId=a-n136-p95s1w9|SpaceAfter=No
-10	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-n136-p95s1w10
-11	109.	109.	ADJ	xo	NumType=Ord	12	amod	12:amod	LvtbNodeId=a-n136-p95s1w11
-12	lpp.	lpp.	NOUN	yn	Abbr=Yes	4	parataxis	4:parataxis	LvtbNodeId=a-n136-p95s1w12
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat:name	color:blue
+1	Eiropas	Eiropa	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-n136-p89s1w1
+2	Parlamenta	parlaments	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	LvtbNodeId=a-n136-p89s1w2
+3	vārdā	vārds	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	6	orphan	4.1:obl:loc	LvtbNodeId=a-n136-p89s1w3
+4	—	—	PUNCT	zd	_	6	punct	4.1:punct	LvtbNodeId=a-n136-p89s1w4
+5	priekšsēdētājs	priekšsēdētājs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nmod	6:nmod	LvtbNodeId=a-n136-p89s1w5|NewPar=Yes
+6	P.	p.	PROPN	yp	Abbr=Yes	0	root	4.1:nsubj	LvtbNodeId=a-n136-p89s1w6|NewPar=Yes
+7	Cox	Cox	X	xf	Foreign=Yes	6	flat:name	6:flat:name	LvtbNodeId=a-n136-p89s1w7
 
 ~~~
 

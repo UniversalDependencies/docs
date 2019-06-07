@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-aux.html">aux</a></tt>.
 
-827 nodes (1%) are attached to their parents as `aux:pass`.
+1202 nodes (1%) are attached to their parents as `aux:pass`.
 
-817 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14147521160822.
+1185 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12895174708819.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (822; 99% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1198; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,30 +24,35 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3 2 aux:pass	color:blue
 1	Viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-d197-p78s6w1
 2	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	LvtbNodeId=a-d197-p78s6w2
-3	precēta	precēt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	LvtbNodeId=a-d197-p78s6w3|SpaceAfter=No
+3	precēta	precēt	VERB	vmnpdfsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d197-p78s6w3|SpaceAfter=No
 4	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d197-p78s6w4
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 aux:pass	color:blue
-1	Režisora	režisors	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-p13835-p21s7w1
-2	vēstījums	vēstījums	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	LvtbNodeId=a-p13835-p21s7w2
-3	šķiet	šķist	VERB	vtnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p13835-p21s7w3
-4	nepārprotams	nepārprast	VERB	vmnpdmsnapnpn	Aspect=Imp|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	3	xcomp	3:xcomp	LvtbNodeId=a-p13835-p21s7w4
-5	–	–	PUNCT	zd	_	7	punct	7:punct	LvtbNodeId=a-p13835-p21s7w5
-6	cilvēks	cilvēks	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	LvtbNodeId=a-p13835-p21s7w6
-7	domājas	domāties	VERB	vmyipi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	LvtbNodeId=a-p13835-p21s7w7
-8	esam	būt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	9	aux:pass	9:aux:pass	LvtbNodeId=a-p13835-p21s7w8
-9	ieslodzīts	ieslodzīt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	7	advcl	7:advcl	LvtbNodeId=a-p13835-p21s7w9
-10	savā	sava	DET	ps0fsln	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	11:det	LvtbNodeId=a-p13835-p21s7w10
-11	vientulībā	vientulība	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	9	obl	9:obl:loc	LvtbNodeId=a-p13835-p21s7w11|SpaceAfter=No
-12	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p13835-p21s7w12
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:pass	color:blue
+1	Tā	tā	ADV	r0m	PronType=Dem	4	advmod	4:advmod	LvtbNodeId=a-p10683-p20s6w1
+2	jau	jau	ADV	r0t	_	4	advmod	4:advmod	LvtbNodeId=a-p10683-p20s6w2
+3	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux:pass	4:aux:pass	LvtbNodeId=a-p10683-p20s6w3
+4	noiets	noiets	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-p10683-p20s6w4
+5	etaps	etaps	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	4:nsubj:pass	LvtbNodeId=a-p10683-p20s6w5|SpaceAfter=No
+6	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-p10683-p20s6w6
+7	kad	kad	ADV	r0t	PronType=Int	8	advmod	8:advmod	LvtbNodeId=a-p10683-p20s6w7
+8	varu	varēt	VERB	vonipi31san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	5:acl	LvtbNodeId=a-p10683-p20s6w8
+9	rādīt	rādīt	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	8	xcomp	8:xcomp	LvtbNodeId=a-p10683-p20s6w9
+10	cilvēkiem	cilvēks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	9	iobj	9:iobj	LvtbNodeId=a-p10683-p20s6w10|SpaceAfter=No
+11	:	:	PUNCT	zo	_	15	punct	15:punct	LvtbNodeId=a-p10683-p20s6w11
+12	vairāk	vairāk	ADV	r0q	_	15	advmod	15:advmod	LvtbNodeId=a-p10683-p20s6w12
+13	par	par	ADP	spsa	_	15	case	15:case	LvtbNodeId=a-p10683-p20s6w13
+14	šo	šī	DET	pd3fsan	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	det	15:det	LvtbNodeId=a-p10683-p20s6w14
+15	tēmu	tēma	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	4	conj	4:conj	LvtbNodeId=a-p10683-p20s6w15
+16	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	15	cop	15:cop	LvtbNodeId=a-p10683-p20s6w16|SpaceAfter=No
+17	!	!	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p10683-p20s6w17
 
 ~~~
 

@@ -10,10 +10,10 @@ This relation is universal.
 
 220 nodes (1%) are attached to their parents as `advcl`.
 
-157 instances of `advcl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.3909090909091.
+156 instances of `advcl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.2545454545455.
 
-The following 13 pairs of parts of speech are connected with `advcl`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (154; 70% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (22; 10% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (11; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (160; 73% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (22; 10% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (12; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,30 +61,27 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 17 advcl	color:blue
-1	Reagan	Reagan	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-2	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	_
-3	überzeugt	überzeugt	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	9	punct	_	_
-5	dass	daß	SCONJ	CC	_	9	mark	_	_
-6	Gott	Gott	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
-7	sein	sein	PRON	DTP$	Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs	8	nmod:poss	_	_
-8	Leben	Leben	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	9	obj	_	_
-9	gerettet	retten	VERB	VBN	Tense=Past	3	ccomp	_	_
-10	hatte	haben	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	17	punct	_	_
-12	weil	weil	SCONJ	CC	_	17	mark	_	_
-13	er	er	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj	_	_
-14	noch	noch	ADV	RB	Degree=Pos	17	advmod	_	_
-15	zu	zu	ADP	IN	_	16	case	_	_
-16	Höherem	Höhere	NOUN	NNA	Case=Dat|Gender=Neut|Number=Sing|Person=3	17	obl	_	InflectionType=Strong
-17	berufen	berufen	ADJ	JJ	Degree=Pos	9	advcl	_	_
-18	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	cop	_	SpaceAfter=No
-19	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 8 advcl	color:blue
+1	Wenn	wenn	SCONJ	CC	_	8	mark	_	_
+2	Menschen	Mensch	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
+3	in	in	ADP	IN	_	4	case	_	_
+4	Indien	Indien	PROPN	NNP	Case=Dat|Gender=Neut|Number=Sing|Person=3	8	obl	_	_
+5	in	in	ADP	IN	_	7	case	_	_
+6	hohem	hoch	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Person=3	7	amod	_	InflectionType=Strong
+7	Alter	Alter	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	8	obl	_	_
+8	sterben	sterben	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	8	punct	_	_
+10	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+11	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	12	nsubj	_	_
+12	Anlass	Anlaß	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+13	für	für	ADP	IN	_	15	case	_	_
+14	ein	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|Person=3	15	det	_	_
+15	Fest	Fest	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 

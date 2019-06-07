@@ -44,12 +44,12 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 13 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (13; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (13; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (13; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 85%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (13; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (13; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (13; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (13; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 85%).
 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>n</em>
-* `EMPTY` (800): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (814): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ### `ADP`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (11; 100% of non-empty `Abbr`): <em>př</em>
-* `EMPTY` (1832): <em>v, na, z, s, do, ve, o, k, pro, za</em>
+* `EMPTY` (1831): <em>v, na, z, s, do, ve, o, k, pro, za</em>
 
 ### `ADJ`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>cca</em>
-* `EMPTY` (848): <em>tak, také, jak, více, poté, už, kde, pouze, stejně, ještě</em>
+* `EMPTY` (836): <em>tak, také, jak, poté, už, kde, více, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Abbr`
 

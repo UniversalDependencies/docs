@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6801 nodes (6%) are attached to their parents as `root`.
+7060 nodes (6%) are attached to their parents as `root`.
 
-6801 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.14439053080429.
+7060 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.1671388101983.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (4925; 72% instances), -<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (733; 11% instances), -<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (414; 6% instances), -<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (395; 6% instances), -<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (97; 1% instances), -<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (61; 1% instances), -<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (52; 1% instances), -<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (46; 1% instances), -<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (31; 0% instances), -<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (22; 0% instances), -<tt><a href="uk_iu-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5096; 72% instances), -<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (768; 11% instances), -<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (430; 6% instances), -<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (421; 6% instances), -<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (97; 1% instances), -<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (62; 1% instances), -<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), -<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (51; 1% instances), -<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="uk_iu-pos-X.html">X</a></tt> (16; 0% instances), -<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

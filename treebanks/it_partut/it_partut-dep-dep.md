@@ -8,12 +8,52 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `dep`.
+6 nodes (0%) are attached to their parents as `dep`.
 
-3 instances of `dep` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+4 instances of `dep` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="it_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (2; 40% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (2; 33% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 17% instances).
+
+
+~~~ conllu
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 27 dep	color:blue
+1	Se	se	SCONJ	CS	_	5	mark	_	_
+2	tale	tale	DET	DD	Number=Sing|PronType=Dem	3	det	_	_
+3	decisione	decisione	NOUN	S	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
+5	adottata	adottare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	advcl	_	_
+6	in	in	ADP	E	_	8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	confronti	confronto	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	8	nmod	_	_
+11	solo	solo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+12	di	di	ADP	E	_	14	case	_	_
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	stati	stato	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+15	aderenti	aderire	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	14	acl	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+17	presente	presente	ADJ	A	Number=Sing	18	amod	_	_
+18	trattato	trattato	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	_
+19	entra	entrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	vigore	vigore	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+22	per	per	ADP	E	_	24	case	_	_
+23	tale	tale	DET	DD	Number=Sing|PronType=Dem	24	det	_	_
+24	stato	stato	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+26	1	1	ADJ	NO	NumType=Ord	28	amod	_	SpaceAfter=No
+27	°	°	X	X	_	26	dep	_	_
+28	gennaio	gennaio	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	_
+29	2008	2008	NUM	N	NumType=Card	28	flat	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	19	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -60,77 +100,6 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 36	inizia	iniziare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 37	con	con	ADP	E	_	36	dep	_	SpaceAfter=No
 38	:	:	PUNCT	FC	_	21	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 dep	color:blue
-1	Quando	quando	SCONJ	CS	_	7	mark	_	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	_
-4	presenza	presenza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
-5	su	su	ADP	E	_	6	case	_	_
-6	Facebook	Facebook	PROPN	SP	_	4	nmod	_	_
-7	aumenta	aumentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
-8	grazie	grazie	ADP	E	_	15	case	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	8	punct	_	_
-10	ad	a	ADP	E	_	11	case	_	_
-11	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	8	dep	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	11	punct	_	_
-13	a	a	ADP	E	_	8	fixed	_	_
-14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	combinazione	combinazione	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
-16	di	di	ADP	E	_	17	case	_	_
-17	Pagine	Pagine	PROPN	SP	_	15	nmod	_	_
-18	o	o	CCONJ	CC	_	19	cc	_	_
-19	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	_
-20	Facebook	Facebook	PROPN	SP	_	19	nmod	_	_
-21	e	e	CCONJ	CC	_	22	cc	_	_
-22	inserzioni	inserzione	NOUN	S	Gender=Fem|Number=Plur	17	conj	_	SpaceAfter=No
-23	,	,	PUNCT	FF	_	7	punct	_	_
-24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	_
-26	messaggio	messaggio	NOUN	S	Gender=Masc|Number=Sing	29	nsubj	_	_
-27	pubblicitario	pubblicitario	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	_
-28	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
-29	trasformar	trasformare	VERB	V	VerbForm=Inf	0	root	_	_
-30	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	29	expl	_	_
-31	in	in	ADP	E	_	36	case	_	_
-32	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
-33	vero	vero	ADJ	A	Gender=Masc|Number=Sing	36	amod	_	_
-34	e	e	CCONJ	CC	_	35	cc	_	_
-35	proprio	proprio	ADJ	A	Gender=Masc|Number=Sing	33	conj	_	_
-36	passa-parola	passa-parola	NOUN	S	Gender=Masc	29	obl	_	SpaceAfter=No
-37	,	,	PUNCT	FF	_	29	punct	_	_
-38	da	da	ADP	E	_	40	case	_	_
-39	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	momento	momento	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	_
-41	che	che	SCONJ	CS	_	57	mark	_	_
-42	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	_	_
-43	amici	amico	NOUN	S	Gender=Masc|Number=Plur	57	nsubj	_	_
-44	di	di	ADP	E	_	46	case	_	_
-45	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	46	det	_	_
-46	utenti	utente	NOUN	S	Number=Plur	43	nmod	_	_
-47	che	che	PRON	PR	PronType=Rel	50	nsubj	_	_
-48	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	aux	_	_
-49	già	già	ADV	B	_	50	advmod	_	_
-50	stabilito	stabilire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	46	acl:relcl	_	_
-51	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
-52	connessione	connessione	NOUN	S	Gender=Fem|Number=Sing	50	obj	_	_
-53	con	con	ADP	E	_	56	case	_	_
-54	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	56	det	_	_
-55	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	56	det:poss	_	_
-56	prodotti	prodotto	NOUN	S	Gender=Masc|Number=Plur	52	nmod	_	_
-57	visualizzeranno	visualizzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	40	acl	_	_
-58	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	60	det	_	_
-59	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	60	det:poss	_	_
-60	contenuti	contenuto	NOUN	S	Gender=Masc|Number=Plur	57	obj	_	SpaceAfter=No
-61	.	.	PUNCT	FS	_	29	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-370 nodes (2%) are attached to their parents as `aux`.
+369 nodes (2%) are attached to their parents as `aux`.
 
-368 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.95135135135135.
+367 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.95663956639566.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (300; 81% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (31; 8% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (332; 90% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (21; 6% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,29 +40,6 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 2 aux	color:blue
-1	Röstning	röstning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	8	nsubj	8:nsubj|12:nsubj	_
-2	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	SpaceAfter=No
-3	,	,	PUNCT	MID	_	6	punct	6:punct	_
-4	i	i	ADP	PP	_	6	case	6:case	_
-5	terrorns	terror	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	6	nmod:poss	6:nmod:poss	_
-6	jargong	jargong	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	8	obl	8:obl:i	SpaceAfter=No
-7	,	,	PUNCT	MID	_	6	punct	6:punct	_
-8	blivit	bliva	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	0	root	0:root	_
-9	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing	12	det	12:det	_
-10	nya	ny	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	12	amod	12:amod	_
-11	mjuka	mjuk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	12	amod	12:amod	_
-12	målet	mål	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	8	xcomp	8:xcomp	SpaceAfter=No
-13	.	.	PUNCT	MAD	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 8	bgColor:blue
@@ -77,6 +54,27 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 7	varit	vara	AUX	VB|SUP|AKT	VerbForm=Sup|Voice=Act	8	cop	8:cop	_
 8	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	8	punct	8:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 6 aux	color:blue
+1	Dess	dess	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	2	nmod:poss	2:nmod:poss	_
+2	ledning	ledning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
+3	,	,	PUNCT	MID	_	4	punct	4:punct	_
+4	däremot	däremot	ADV	AB	_	10	advmod	10:advmod	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	4:punct	_
+6	har	ha	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
+7	inte	inte	PART	AB	Polarity=Neg	10	advmod	10:advmod	_
+8	varit	vara	AUX	VB|SUP|AKT	VerbForm=Sup|Voice=Act	10	cop	10:cop	_
+9	utan	utan	ADP	PP	_	10	case	10:case	_
+10	kritik	kritik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	MAD	_	10	punct	10:punct	_
 
 ~~~
 

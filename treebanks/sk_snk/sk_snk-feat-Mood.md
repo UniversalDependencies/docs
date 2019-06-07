@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-6667 tokens (6%) have a non-empty value of `Mood`.
-1930 types (7%) occur at least once with a non-empty value of `Mood`.
-1037 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (3470; 3% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (2922; 3% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (262; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (13; 0% instances).
+6687 tokens (6%) have a non-empty value of `Mood`.
+1936 types (7%) occur at least once with a non-empty value of `Mood`.
+1038 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (3478; 3% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (2934; 3% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (262; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (13; 0% instances).
 
 ### `VERB`
 
-3470 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Mood`.
+3478 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3470; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3470; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3469; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3158; 91%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3026; 87%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2598; 75%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2502; 72%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt> (2139; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3478; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3478; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3477; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3166; 91%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3033; 87%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2601; 75%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2510; 72%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt> (2147; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (273; 8% of non-empty `Mood`): <em>pozri, poď, počkajte, počkaj, Prestaň, daj, nerob, pustite, čujte, Dotkni</em>
-* `Ind` (3197; 92% of non-empty `Mood`): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
-* `EMPTY` (10589): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
+* `Ind` (3205; 92% of non-empty `Mood`): <em>je, má, ide, môže, mám, majú, musí, musím, sú, chcem</em>
+* `EMPTY` (10590): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
 
 <table>
   <tr><th>Paradigm <i>mať</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -43,29 +43,29 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>majú</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (950) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (952) occur only with one value of `Mood`.
 
 ### `AUX`
 
-2922 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Mood`.
+2934 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2922; 100%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2737; 94%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2737; 94%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2651; 91%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2541; 87%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2292; 78%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt> (1733; 59%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2934; 100%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2749; 94%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 94%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2664; 91%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 87%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2305; 79%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt> (1734; 59%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (185; 6% of non-empty `Mood`): <em>by</em>
 * `Imp` (4; 0% of non-empty `Mood`): <em>buďte, Buďme, Nebuď</em>
-* `Ind` (2733; 94% of non-empty `Mood`): <em>som, je, sme, sú, bude, si, ste, budú, nebude, budeme</em>
-* `EMPTY` (790): <em>bol, bola, bolo, boli, byť, nebola, nebolo, nebol, neboli, býval</em>
+* `Ind` (2745; 94% of non-empty `Mood`): <em>som, je, sme, sú, bude, si, ste, budú, nebude, budeme</em>
+* `EMPTY` (789): <em>bol, bola, bolo, boli, byť, nebola, nebolo, nebol, neboli, býval</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>nebudem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>som</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>budem</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>so</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>som</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>nebudeš</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>si</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Nebuď</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>budeš</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>si</em></td><td></td></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (262; 100% of non-empty `Mood`): <em>aby, keby, akoby</em>
-* `EMPTY` (1626): <em>že, keď, ako, ak, kým, čo, pretože, hoci, než, keďže</em>
+* `EMPTY` (1603): <em>že, keď, ako, ak, kým, čo, pretože, hoci, než, keďže</em>
 
 ### `PART`
 

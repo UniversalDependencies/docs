@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Maltese-MUDT: Relations: `advmod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advmod`: <tt><a href="mt_mudt-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-1397 nodes (3%) are attached to their parents as `advmod`.
+1390 nodes (3%) are attached to their parents as `advmod`.
 
-977 instances of `advmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.21331424481031.
+974 instances of `advmod` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.21510791366906.
 
-The following 32 pairs of parts of speech are connected with `advmod`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (788; 56% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (225; 16% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (133; 10% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (111; 8% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (22; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (20; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PART.html">PART</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advmod`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1030; 74% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (147; 11% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (127; 9% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (29; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,45 +36,41 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 advmod	color:blue
-1	U	_	CCONJ	CONJ_CORD	_	6	cc	_	_
-2	l-	_	DET	DEF	_	3	det	_	SpaceAfter=No
-3	morali	_	NOUN	NOUN	_	6	nsubj	_	_
-4	hija	_	PRON	PRON_PERS	_	6	cop	_	_
-5	bilfors	_	ADV	ADV	_	6	advmod	_	_
-6	waħda	_	NUM	NUM_WHD	_	0	root	_	SpaceAfter=No
-7	,	_	PUNCT	X_PUN	_	6	punct	_	_
-8	jiġifieri	_	VERB	VERB	_	10	discourse	_	_
-9	kif	_	PRON	PRON_INT	_	10	advmod	_	_
-10	jaraha	_	VERB	VERB	_	6	parataxis	_	_
-11	hu	_	PRON	PRON_PERS	_	10	nsubj	_	SpaceAfter=No
-12	.	_	PUNCT	X_PUN	_	6	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 advmod	color:blue
+1	"	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+2	Issa	_	ADV	ADV	_	5	advmod	_	_
+3	ta	_	INTJ	INT	_	5	discourse	_	SpaceAfter=No
+4	,	_	PUNCT	X_PUN	_	3	punct	_	_
+5	immur	_	VERB	VERB	_	0	root	_	_
+6	nitqaħħab	_	VERB	VERB	_	5	xcomp	_	_
+7	u	_	CCONJ	CONJ_CORD	_	8	cc	_	_
+8	noħbol	_	VERB	VERB	_	6	conj	_	_
+9	u	_	CCONJ	CONJ_CORD	_	10	cc	_	_
+10	taraw	_	VERB	VERB	_	6	conj	_	_
+11	kemm	_	ADV	PRON_INT	_	13	advmod	_	_
+12	jien	_	PRON	PRON_PERS	_	13	nsubj	_	_
+13	normali	_	ADJ	ADJ	_	10	ccomp	_	SpaceAfter=No
+14	!	_	PUNCT	X_PUN	_	5	punct	_	SpaceAfter=No
+15	"	_	PUNCT	X_PUN	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 advmod	color:blue
-1	"	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
-2	Eħe	_	INTJ	INT	_	0	root	_	SpaceAfter=No
-3	,	_	PUNCT	X_PUN	_	2	punct	_	SpaceAfter=No
-4	"	_	PUNCT	X_PUN	_	2	punct	_	_
-5	tkun	_	AUX	KIEN	_	2	cop	_	_
-6	it-	_	DET	DEF	_	7	det	_	SpaceAfter=No
-7	tweġiba	_	NOUN	NOUN	_	2	nsubj	_	_
-8	għall-	_	ADP	PREP_DEF	_	9	case:det	_	SpaceAfter=No
-9	ewwel	_	NUM	NUM_ORD	_	11	nmod	_	_
-10	ftit	_	ADV	ADV	_	11	advmod	_	_
-11	xotta	_	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
-12	.	_	PUNCT	X_PUN	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod	color:blue
+1	Lura	_	ADV	ADV	_	4	advmod	_	_
+2	lejn	_	ADP	PREP	_	4	case	_	_
+3	is-	_	DET	DEF	_	4	det	_	SpaceAfter=No
+4	snin	_	NOUN	NOUN	_	0	root	_	_
+5	tmenin	_	NUM	NUM_CRD	_	4	nummod	_	_
 
 ~~~
 

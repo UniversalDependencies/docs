@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>καὶ</em> (<tt><a href="grc_perseu
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.588235 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `CCONJ` is 1.588235 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (7) was observed with the lemma “ἐπεί”: <em>κἀπεί, ἐπεί, ἐπείτε, ἐπειδή, ἐπειδήπερ, ἐπειδὴ, ἐπεὶ</em>.
 

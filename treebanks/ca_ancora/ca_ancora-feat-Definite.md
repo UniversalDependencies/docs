@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (48972; 100% of non-empty `Definite`): <em>la, el, l', les, els</em>
 * `Ind` (16; 0% of non-empty `Definite`): <em>en, l', al, col·laboració, la, sa, ses, suficient</em>
-* `EMPTY` (23608): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
+* `EMPTY` (23616): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
 
 ## Relations with Agreement in `Definite`
 

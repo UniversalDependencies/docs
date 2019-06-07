@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Gothic-PROIEL: POS Tags: `SCONJ`
 
-There are 27 `SCONJ` lemmas (1%), 36 `SCONJ` types (0%) and 1674 `SCONJ` tokens (3%).
-Out of 14 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 10 in number of tokens.
+There are 27 `SCONJ` lemmas (1%), 36 `SCONJ` types (0%) and 1670 `SCONJ` tokens (3%).
+Out of 14 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ei, þatei, jabai, unte, þan, biþe, miþþanei, nibai, ibai, swaswe</em>
 
 The 10 most frequent `SCONJ` types:  <em>ei, þatei, jabai, unte, þan, biþe, miþþanei, ibai, swaswe, niba</em>
 
-The 10 most frequent ambiguous lemmas: <em>ei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 488, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 12), <em>þatei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 391, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2), <em>jabai</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 265, <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 1), <em>unte</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 206, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 155), <em>þan</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 491, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 71), <em>biþe</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 6), <em>ibai</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 40, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 21), <em>swaswe</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 148, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 18), <em>þande</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2), <em>þei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 13)
+The 10 most frequent ambiguous lemmas: <em>ei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 488, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 12), <em>þatei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 391, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2), <em>jabai</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 265, <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 1), <em>unte</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 206, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 155), <em>þan</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 491, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 71), <em>biþe</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 6), <em>nibai</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 30, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 22), <em>ibai</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 40, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 21), <em>swaswe</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 150, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 16), <em>þande</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>ei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 488, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 11), <em>þatei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 376, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 175, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2), <em>jabai</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 263, <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 1), <em>unte</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 205, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 154), <em>þan</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 491, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 71), <em>biþe</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 56, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 5), <em>ibai</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 39, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 20), <em>swaswe</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 148, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 18), <em>niba</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 23, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 15), <em>þammei</em> (<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 69, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 14)
+The 10 most frequent ambiguous types:  <em>ei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 488, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 11), <em>þatei</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 376, <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 175, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 2), <em>jabai</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 263, <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 1), <em>unte</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 205, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 154), <em>þan</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 491, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 71), <em>biþe</em> (<tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 56, <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 5), <em>ibai</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 39, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 20), <em>swaswe</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 150, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 16), <em>niba</em> (<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 23, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 15), <em>þammei</em> (<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> 69, <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 14)
 
 
 * <em>ei</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>ei</em> (<tt><a href="got_proiel-pos-
   * <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 39: <em><b>ibai</b> mag unhulþo blindaim augona uslukan</em>
   * <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 20: <em>iþ sundro þaimei þuhta <b>ibai</b> sware rinnau aiþþau runnjau</em>
 * <em>swaswe</em>
-  * <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 148: <em>sijaiþ nu jus fullatojai <b>swaswe</b> atta izwar sa in himinam fullatojis ist</em>
-  * <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 18: <em>iþ Iesus þanamais waiht ni andhof <b>swaswe</b> sildaleikida Peilatus</em>
+  * <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 150: <em>sijaiþ nu jus fullatojai <b>swaswe</b> atta izwar sa in himinam fullatojis ist</em>
+  * <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 16: <em>iþ Iesus þanamais waiht ni andhof <b>swaswe</b> sildaleikida Peilatus</em>
 * <em>niba</em>
   * <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> 23: <em>ni ainshun þiuþeigs <b>niba</b> ains guþ</em>
   * <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> 15: <em><b>niba</b> taujau waurstwa attins meinis ni galaubeiþ mis</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ei</em> (<tt><a href="got_proiel-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 2.624779).
+The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 2.637304).
 
 The 1st highest number of forms (3) was observed with the lemma “þatei”: <em>þammei, þatei, þizei</em>.
 
@@ -66,21 +66,19 @@ The 3rd highest number of forms (2) was observed with the lemma “duþe”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (1597; 95% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (48; 3% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (15; 1% instances), <tt><a href="got_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (7; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (2; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (1608; 96% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (48; 3% instances), <tt><a href="got_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (7; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1607; 96% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (26; 2% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1396; 84% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (99; 6% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (78; 5% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (33; 2% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-1621 (97%) `SCONJ` nodes are leaves.
+1665 (100%) `SCONJ` nodes are leaves.
 
-25 (1%) `SCONJ` nodes have one child.
+3 (0%) `SCONJ` nodes have one child.
 
-15 (1%) `SCONJ` nodes have two children.
+2 (0%) `SCONJ` nodes have two children.
 
-13 (1%) `SCONJ` nodes have three or more children.
+The highest child degree of a `SCONJ` node is 2.
 
-The highest child degree of a `SCONJ` node is 6.
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (3; 43% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (2; 29% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (2; 29% instances)
 
-Children of `SCONJ` nodes are attached using 12 different relations: <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (28; 28% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (26; 26% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (26; 26% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (4; 4% instances), <tt><a href="got_proiel-dep-discourse.html">discourse</a></tt> (3; 3% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (3; 3% instances), <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="got_proiel-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="got_proiel-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="got_proiel-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
-
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (26; 26% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (24; 24% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (22; 22% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (11; 11% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (6; 6% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (3; 43% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 29% instances)
 

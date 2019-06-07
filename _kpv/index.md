@@ -16,7 +16,7 @@ udver: '2'
 
 ### Tags
 
-* Komi-Zyrian uses all 17 universal POS categories. Some of the particles should probably be tagged as adverbs, but the exact analysis is still being worked out.
+* Komi-Zyrian uses all 17 universal POS categories. 
 * There are two copulas лоны and вӧвны, both meaning “to be”. Besides these there are also frequentative forms such as вӧвлыны and лолыны.
 * Verbs with modal meaning are not considered auxiliary in Komi-Zyrian.
 
@@ -25,20 +25,25 @@ udver: '2'
 
 #### Nominal features
 
-* Case has 17 possible values: Nom, Gen, Acc, Abl, Dat, Ins, Com, Car, Cau, Ine, Ill, Ela, Tra, Prl, Ter, Apr, Egr. They occur with following word POS: NOUN, PROPN, PRON, ADJ and ADP.
+* Case has 17 possible values: Nom, Gen, Acc, Abl, Dat, Ins, Com, Car, Cau, Ine, Ill, Ela, Tra, Prl, Ter, Apr, Egr. They occur with following word POS: NOUN, PROPN, PRON, ADJ, ADV and ADP. There are also complex compound-cases in Komi, but as they don't yet occur in the treebanks, they have not been included into documentation or annotation conventions.
 
-* Besides nouns the cases are widely used with adpositions and adverbs, which are also tagged separately for case. 
+* The cases are widely used with adpositions and adverbs, which are also tagged separately for case. This is not a common solution with UD treebanks, but keeping this information seems important with Uralic languages where the case marking is such an important aspect of adpositions.
+
+* Komi-Zyrian does not have Gender feature
+
+* Number feature has two possible values: Sing and Plur
 
 #### Degree and Polarity
 
 * [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of two possible values: `Pos` and `Cmp`. The superlative is formed with adverb медся 'most'. In Komi-Zyrian the comparative suffix -джык can also connect to untypical parts of speech, i.e. to verbs, but such behaviour is not yet attested in the current treebanks.
 
+* Connegative has only value Yes and applies to verbs which have been negated by negation verb ‘оз’
 
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case.
 
 * Objects are either in nominative or accusative case. Komi-Zyrian encodes focus and topic into different accusative forms, but these distinctions are currently not being directly annotated, but can be still distinguished from different forms that correspond to possessive forms that are marked in feats-column.
 
@@ -53,10 +58,6 @@ udver: '2'
 ## Treebanks
 
 There are two Komi-Zyrian UD treebanks:
-
-- Komi-Zyrian Lattice
-- Komi-Zyrian IKDP
-
 
   * [Komi_Zyrian-Lattice](../treebanks/kpv_lattice/index.html)
   * [Komi_Zyrian-IKDP](../treebanks/kpv_ikdp/index.html)

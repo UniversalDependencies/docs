@@ -10,10 +10,10 @@ This relation is universal.
 
 25820 nodes (20%) are attached to their parents as `punct`.
 
-19368 instances of `punct` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.05391169635941.
+19366 instances of `punct` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.05185902401239.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="pl_lfg-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (23203; 90% instances), <tt><a href="pl_lfg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (1185; 5% instances), <tt><a href="pl_lfg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (945; 4% instances), <tt><a href="pl_lfg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (179; 1% instances), <tt><a href="pl_lfg-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (127; 0% instances), <tt><a href="pl_lfg-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (87; 0% instances), <tt><a href="pl_lfg-pos-DET.html">DET</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (85; 0% instances), <tt><a href="pl_lfg-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="pl_lfg-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (23184; 90% instances), <tt><a href="pl_lfg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (1202; 5% instances), <tt><a href="pl_lfg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (945; 4% instances), <tt><a href="pl_lfg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (179; 1% instances), <tt><a href="pl_lfg-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (129; 0% instances), <tt><a href="pl_lfg-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (87; 0% instances), <tt><a href="pl_lfg-pos-DET.html">DET</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (85; 0% instances), <tt><a href="pl_lfg-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_lfg-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances).
 
 
 ~~~ conllu

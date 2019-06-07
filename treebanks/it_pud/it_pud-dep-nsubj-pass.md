@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nsubj:pass	color:blue
-1	Furono	essere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	2	aux:pass	_	_
+1	Furono	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	2	aux:pass	_	_
 2	uccise	uccidere	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past	0	root	_	_
 3	molte	molto	DET	DT	Gender=Fem|Number=Plur	4	det	_	_
 4	persone	persona	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj:pass	_	SpaceAfter=No
@@ -38,7 +38,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
 1	Weiss	Weiss	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
-2	venne	venire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
+2	venne	venire	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
 3	onorato	onorare	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
 4	con	con	ADP	IN	_	5	case	_	_
 5	premi	premio	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
 1	Questo	questo	PRON	PRP	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
-2	fu	essere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
+2	fu	essere	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	aux:pass	_	_
 3	fatto	fatto	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past	0	root	_	_
 4	in	in	ADP	IN	_	5	case	_	_
 5	nave	nave	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_

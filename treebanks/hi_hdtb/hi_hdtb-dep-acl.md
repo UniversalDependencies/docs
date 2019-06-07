@@ -24,15 +24,15 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 4 acl	color:blue
 1	सफेद	सफेद	ADJ	JJ	Case=Acc	2	amod	_	ChunkId=NP|ChunkType=child|Translit=sapheda
-2	पत्‍थरों	पत्थर	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	4	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=pattharoṁ
+2	पत्‍थरों	पत्थर	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	4	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=pattharoṁ
 3	से	से	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=se
 4	बने	बन	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	Vib=या|Tam=yA|ChunkId=VGNF|ChunkType=head|Translit=bane
 5	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	6	det	_	ChunkId=NP2|ChunkType=child|Translit=isa
-6	मंदिर	मंदिर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	Vib=0_का|Tam=0|ChunkId=NP2|ChunkType=head|Translit=maṁdira
+6	मंदिर	मंदिर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	Vib=0_का|Tam=0|ChunkId=NP2|ChunkType=head|Translit=maṁdira
 7	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	6	case	_	ChunkId=NP2|ChunkType=child|Translit=ke
 8	दो	दो	NUM	QC	NumType=Card	9	nummod	_	ChunkId=NP3|ChunkType=child|Translit=do
 9	तल	तल	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=tala
-10	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=haiṁ
+10	हैं	है	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=haiṁ
 11	।	।	PUNCT	SYM	_	9	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -52,9 +52,9 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	था	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=thā
 7	कि	कि	SCONJ	CC	_	12	mark	_	AltTag=SCONJ-CONJ|ChunkId=CCP|ChunkType=head|Translit=ki
 8	किसने	कौन	PRON	WQ	Case=Acc,Erg|Number=Sing|Person=3|PronType=Int	12	nsubj	_	Vib=ने|Tam=ne|ChunkId=NP4|ChunkType=head|Translit=kisane
-9	पत्रकारों	पत्रकार	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nmod	_	Vib=0_का|Tam=0|ChunkId=NP5|ChunkType=head|Translit=patrakāroṁ
+9	पत्रकारों	पत्रकार	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	nmod	_	Vib=0_का|Tam=0|ChunkId=NP5|ChunkType=head|Translit=patrakāroṁ
 10	की	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	9	case	_	ChunkId=NP5|ChunkType=child|Translit=kī
-11	पिटाई	पिटाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head|Translit=piṭāī
+11	पिटाई	पिटाई	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head|Translit=piṭāī
 12	की	कर	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	acl	_	Vib=या|Tam=yA|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=kī
 13	।	।	PUNCT	SYM	_	6	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 

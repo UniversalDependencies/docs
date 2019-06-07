@@ -56,7 +56,7 @@ The dependencies in the corpus were originally annotated using Stanford Typed De
 
 GUM annotation team (so far - thanks for participating!)
 
-Adrienne Isaac, Akitaka Yamada, Amani Aloufi, Amelia Becker, Andrea Price, Andrew O'Brien, Anna Runova, Anne Butler, Arianna Janoff, Ayan Mandal, Brandon Tullock, Brent Laing, Candice Penelton, Chenyue Guo, Colleen Diamond, Connor O'Dwyer, Dan Simonson, Didem Ikizoglu, Edwin Ko, Emily Pace, Emma Manning, Ethan Beaman, Han Bu, Hang Jiang, Hanwool Choe, Hassan Munshi, Ho Fai Cheng, Jakob Prange, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Katarina Starcevic, Katherine Vadella, Lara Bryfonski, Lindley Winchester, Logan Peng, Lucia Donatelli, Margaret Anne Rowe, Margaret Borowczyk, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Michaela Harrington, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Nicholas Workman, Nicole Steinberg, Rachel Thorson, Rebecca Childress, Ruizhong Li, Ryan Murphy, Sakol Suethanapornkul, Sean Macavaney, Sean Simpson, Shannon Mooney, Siddharth Singh, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Timothy Ingrassia, Wenxi Yang, Xiaopei Wu, Yang Liu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yushi Zhao, Zhuxin Wang, Amir Zeldes
+Adrienne Isaac, Akitaka Yamada, Amani Aloufi, Amelia Becker, Andrea Price, Andrew O\'Brien, Anna Runova, Anne Butler, Arianna Janoff, Ayan Mandal, Aysenur Sagdic, Bertille Baron, Bradford Salen, Brandon Tullock, Brent Laing, Candice Penelton, Chenyue Guo, Colleen Diamond, Connor O\'Dwyer, Dan Simonson, Didem Ikizoglu, Edwin Ko, Emily Pace, Emma Manning, Ethan Beaman, Felipe De Jesus, Han Bu, Hana Altalhi, Hang Jiang, Hanwool Choe, Hassan Munshi, Ho Fai Cheng, Jakob Prange, James Maguire, Janine Karo, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Jessica Kotfila, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Katarina Starcevic, Katelyn MacDougald, Katherine Vadella, Lara Bryfonski, Lindley Winchester, Logan Peng, Lucia Donatelli, Luke Gessler, Mackenzie Gong, Margaret Anne Rowe, Margaret Borowczyk, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Michael Kranzlein, Michaela Harrington, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Nicholas Workman, Nicole Steinberg, Rachel Thorson, Rebecca Childress, Rebecca Farkas, Rima Elabdali, Robert Maloney, Ruizhong Li, Ryan Murphy, Sakol Suethanapornkul, Sasha Slone, Sean Macavaney, Sean Simpson, Shannon Mooney, Shelby Lake, Siddharth Singh, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Timothy Ingrassia, Trevor Adriaanse, Wenxi Yang, Xiaopei Wu, Yang Liu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yu-Tzu Chang, Yuhang Hu, Yushi Zhao, Zhuxin Wang, Amir Zeldes
 
 ... and other annotators who wish to remain anonymous!
 
@@ -66,6 +66,18 @@ As a scholarly citation for the corpus in articles, please use this paper:
 
 * Zeldes, Amir (2017) "The GUM Corpus: Creating Multilayer Resources in the Classroom". Language Resources and Evaluation 51(3), 581–612.
 
+```
+@Article{Zeldes2017,
+author = {Amir Zeldes},
+title = {The {GUM} Corpus: Creating Multilayer Resources in the Classroom},
+journal = {Language Resources and Evaluation},
+year = {2017},
+volume = {51},
+number = {3},
+pages = {581--612},
+doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
+}
+```
 
 
 # Statistics of UD English GUM
@@ -86,11 +98,11 @@ As a scholarly citation for the corpus in articles, please use this paper:
 
 
 <ul>
-<li>This corpus contains 4399 sentences and 80176 tokens.</li>
+<li>This corpus contains 5231 sentences and 97697 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10536 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 13338 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,7 +110,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 </ul>
 
 <ul>
-<li>This corpus contains 539 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., L'Enfant, ’re, e.g., 'd, ’ve, pro-Beijing, ’ll, 'm, al., i.e., Naqsh-e, how-to, pan-democracy, ’d, St., etc., eye-tracking, north-south, t-shirt, Vava'u, adult-like, anti-establishment, c., e-mail, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, Mr., U.S, co-founder, east-west, eco-tourism, follow-up, s/he, to-do, well-known, ’m, Cheuk-yan, Chi-wai</li>
+<li>This corpus contains 632 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., ’re, 'd, L'Enfant, ’ve, al., e.g., ’ll, ’d, ’m, Mof-Ávvi, St., pro-Beijing, 'm, i.e., Naqsh-e, how-to, pan-democracy, c., etc., eye-tracking, north-south, t-shirt, Vava'u, W., adult-like, anti-establishment, e-mail, native-like, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, L., Morgan-Short, Mr., Triple-A, U.S, all-district, co-founder, east-west</li>
 </ul>
 
 <ul>
@@ -113,27 +125,27 @@ As a scholarly citation for the corpus in articles, please use this paper:
 </ul>
 
 <ul>
-<li>This corpus contains 11 word types tagged as particles (PART): ', 's, -, n't, n`t, not, n’t, to, ’, ’s, ’t</li>
+<li>This corpus contains 11 word types tagged as particles (PART): ', 's, n't, n`t, not, n’t, s, to, ’, ’s, ’t</li>
 </ul>
 
 <ul>
-<li>This corpus contains 54 lemmas tagged as pronouns (PRON): I, PRP, a, all, another, any, both, each, either, every, half, he, her, herself, him, himself, his, it, its, itself, me, my, myself, one, our, quite, s/he, she, some, such, that, the, their, theirs, them, themselves, there, these, they, this, those, us, we, what, whatever, which, who, whoever, whom, whose, you, your, yours, yourself</li>
+<li>This corpus contains 56 lemmas tagged as pronouns (PRON): I, a, all, another, any, be, both, each, either, every, half, he, her, herself, him, himself, his, it, its, itself, me, mine, my, myself, no, one, our, quite, s/he, she, some, such, that, the, their, theirs, them, themselves, there, these, they, this, those, us, we, what, whatever, which, who, whoever, whom, whose, you, your, yours, yourself</li>
 </ul>
 
 <ul>
-<li>This corpus contains 24 lemmas tagged as determiners (DET): 6, Une, a, all, an, another, any, both, each, either, every, no, other, some, such, that, the, these, this, those, what, whatever, which, you</li>
+<li>This corpus contains 26 lemmas tagged as determiners (DET): 6, Mat, Une, a, all, an, another, any, both, each, either, every, no, one, other, some, such, that, the, these, this, those, what, whatever, which, you</li>
 </ul>
 
 <ul>
-<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, every, some, such, that, the, these, this, those, what, whatever, which, you</li>
+<li>Out of the above, 21 lemmas occurred sometimes as PRON and sometimes as DET: a, all, another, any, both, each, either, every, no, one, some, such, that, the, these, this, those, what, whatever, which, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as auxiliaries (AUX): 's, able, be, become, ca, can, could, do, get, have, may, might, must, shall, should, will, wo, would</li>
+<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: be, become, do, get, have, will</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
 </ul>
 
 <ul>
@@ -143,8 +155,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, can, was, will, are, would, should, may, were, do</li>
-    <li>VERB: have, are, said, is, has, want, think, had, was, says</li>
+    <li>AUX: is, was, can, will, are, would, should, may, were, do</li>
+    <li>VERB: have, said, are, is, has, had, think, want, get, says</li>
   </ul>
   </li>
 </ul>
@@ -152,9 +164,9 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: being, having</li>
+    <li>AUX: being, having, getting</li>
     <li>SCONJ: according, depending, including, regarding</li>
-    <li>VERB: using, including, following, making, doing, having, going, living, growing, writing</li>
+    <li>VERB: using, making, following, including, having, doing, going, writing, growing, living</li>
   </ul>
   </li>
 </ul>
@@ -162,8 +174,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, do, have, get</li>
-    <li>VERB: make, have, get, see, do, take, use, know, find, go</li>
+    <li>AUX: be, do, have, get, a</li>
+    <li>VERB: make, have, see, do, get, take, know, find, go, use</li>
   </ul>
   </li>
 </ul>
@@ -172,8 +184,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Part
   <ul>
     <li>AUX: been</li>
-    <li>SCONJ: based, compared, given, got</li>
-    <li>VERB: called, used, known, made, found, given, done, based, elected, seen</li>
+    <li>SCONJ: given, based, compared, got</li>
+    <li>VERB: used, known, called, given, made, found, done, based, elected, published</li>
   </ul>
   </li>
 </ul>
@@ -188,7 +200,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Fem
     <ul>
-      <li>PRON: her, she, herself</li>
+      <li>PRON: she, her, herself</li>
     </ul>
   </li>
 </ul>
@@ -196,7 +208,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Masc
     <ul>
-      <li>PRON: he, his, him, himself</li>
+      <li>PRON: his, he, him, himself</li>
     </ul>
   </li>
 </ul>
@@ -218,9 +230,9 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Plur
     <ul>
       <li>DET: these, those</li>
-      <li>NOUN: people, years, things, days, minutes, ants, hours, children, mice, friends</li>
-      <li>PRON: they, we, their, them, our, us, those, themselves, these</li>
-      <li>PROPN: States, skittles, Chathams, Mets, Paralympics, Thais, Americans, Games, Netherlands, Thrones</li>
+      <li>NOUN: people, years, things, studies, days, minutes, children, ants, games, hours</li>
+      <li>PRON: we, they, their, them, our, us, those, themselves, these</li>
+      <li>PROPN: States, skittles, Chathams, Sox, Mets, Thais, Americans, Games, Netherlands, Thrones</li>
       <li>SCONJ: points</li>
     </ul>
   </li>
@@ -229,15 +241,16 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: is, was, has, 's, ’s, does, am, s, Be, isn</li>
-      <li>AUX-Fin: is, was, has, 's, ’s, does, am, s, isn</li>
-      <li>DET: this, that, The, Une</li>
-      <li>NOUN: city, time, way, world, day, language, year, image, something, history</li>
-      <li>PRON: it, i, he, her, she, his, this, my, its, that</li>
-      <li>PROPN: New, United, Scientology, University, Warhol, York, lee, Party, fort, Wikinews</li>
-      <li>SCONJ: suffix</li>
+      <li>ADV: How, Loud, Mandel, Out</li>
+      <li>AUX: is, was, has, 's, ’s, does, am, s, Be, S’</li>
+      <li>AUX-Fin: is, was, has, 's, ’s, does, am, s, S’, isn</li>
+      <li>DET: this, that, The</li>
+      <li>NOUN: time, city, way, language, world, something, research, work, area, day</li>
+      <li>NUM: I, half, II, XV, pm</li>
+      <li>PRON: it, i, his, he, she, her, my, this, its, that</li>
+      <li>PROPN: New, United, University, Scientology, York, lee, Party, fort, September, Galois</li>
       <li>SYM: %</li>
-      <li>VERB-Fin: is, has, was, says, 's, comes, ’s, makes, means, takes</li>
+      <li>VERB-Fin: is, has, says, was, 's, comes, ’s, makes, means, takes</li>
     </ul>
   </li>
 </ul>
@@ -249,7 +262,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: it, them, me, her, you, him, us, yourself, themselves, himself</li>
+      <li>PRON: it, them, me, him, her, you, us, yourself, himself, themselves</li>
     </ul>
   </li>
 </ul>
@@ -258,7 +271,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Nom
     <ul>
       <li>DET: you</li>
-      <li>PRON: you, it, i, they, we, he, she</li>
+      <li>PRON: you, it, i, he, we, they, she</li>
     </ul>
   </li>
 </ul>
@@ -296,8 +309,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: more, better, larger, greater, easier, further, smaller, less, later, higher</li>
-      <li>ADV: less, earlier, later, longer, further, better, sooner, worse</li>
+      <li>ADJ: more, better, larger, greater, further, easier, higher, younger, smaller, later</li>
+      <li>ADV: less, later, earlier, longer, further, better, sooner, worse</li>
     </ul>
   </li>
 </ul>
@@ -305,10 +318,9 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: many, other, new, good, important, own, first, last, different, large</li>
-      <li>ADV: well, far, long, soon, little, badly, early, fast, late, close</li>
-      <li>AUX: able</li>
-      <li>DET: other</li>
+      <li>ADJ: other, many, new, good, first, such, own, different, last, important</li>
+      <li>ADV: well, far, long, soon, little, early, hard, badly, close, fast</li>
+      <li>DET: other, such</li>
       <li>SCONJ: such</li>
     </ul>
   </li>
@@ -317,8 +329,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: most, best, least, largest, highest, latest, greatest, biggest, hardest, hottest</li>
-      <li>ADV: best, fastest, highest, least</li>
+      <li>ADJ: most, best, least, largest, highest, greatest, latest, worst, biggest, hardest</li>
+      <li>ADV: best, least, fastest, longest</li>
     </ul>
   </li>
 </ul>
@@ -330,9 +342,16 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: never, no</li>
+      <li>ADJ: unlikely, unknown, impossible, unable, unprecedented, incomprehensible, inevitable, unfamiliar, inadequate, non-profit</li>
+      <li>ADV: never, no, Unfortunately, nowhere, indirectly, Ne, pas, unambiguously, unawares, uncomprehendingly</li>
       <li>DET: no</li>
+      <li>NOUN: nothing, involvement, disadvantages, discomfort, dislikes, disrespect, dysphoria, inadequacies, intolerance, involvements</li>
       <li>PART: not, n't, n’t, ’t</li>
+      <li>PROPN: Immortals</li>
+      <li>VERB-Fin: involve, involved, disliked, dismounted, disintegrated, dislike, involves, unclenched</li>
+      <li>VERB-Ger: involving</li>
+      <li>VERB-Inf: undo, Uncover, disentangle, dislike</li>
+      <li>VERB-Part: involved, disbanded, immortalized, non-fixed, uncovered</li>
     </ul>
   </li>
 </ul>
@@ -347,10 +366,18 @@ As a scholarly citation for the corpus in articles, please use this paper:
 </ul>
 
 <ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: make, use, get, place, try, Understand, add, take, See, keep</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, did</li>
-      <li>VERB-Fin: have, are, said, is, has, want, think, had, was, says</li>
+      <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, ’s</li>
+      <li>VERB-Fin: have, said, are, is, has, had, want, think, says, came</li>
     </ul>
   </li>
 </ul>
@@ -362,11 +389,11 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: was, were, had, did, ’d, 'd, became, got, where</li>
+      <li>AUX-Fin: was, were, had, did, 'd, ’d, got, where</li>
       <li>AUX-Part: been</li>
-      <li>SCONJ-Part: based, compared, given, got</li>
-      <li>VERB-Fin: said, had, was, came, took, wanted, became, made, started, used</li>
-      <li>VERB-Part: called, used, known, made, found, given, done, based, elected, seen</li>
+      <li>SCONJ-Part: given, based, compared, got</li>
+      <li>VERB-Fin: said, had, came, was, took, became, wanted, started, made, wrote</li>
+      <li>VERB-Part: used, known, called, given, made, found, done, based, elected, published</li>
     </ul>
   </li>
 </ul>
@@ -374,9 +401,9 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, are, do, has, 's, have, 're, ’s, does, 've</li>
-      <li>VERB-Fin: have, are, is, has, want, think, says, 's, know, comes</li>
-      <li>VERB-Part: going, doing, looking, trying, getting, taking, making, working, moving, talking</li>
+      <li>AUX-Fin: is, are, do, has, 's, have, ’s, 're, does, 've</li>
+      <li>VERB-Fin: have, are, is, has, want, think, says, know, say, get</li>
+      <li>VERB-Part: going, coming, doing, trying, looking, getting, taking, working, making, becoming</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +421,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Art
     <ul>
       <li>DET: the, a, an</li>
-      <li>PRON: a, the</li>
+      <li>PRON: the, a</li>
     </ul>
   </li>
 </ul>
@@ -405,6 +432,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
       <li>ADV: then, there, here</li>
       <li>DET: this, these, that, those</li>
       <li>PRON: this, that, those, these</li>
+      <li>SCONJ: that</li>
     </ul>
   </li>
 </ul>
@@ -413,8 +441,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Int
     <ul>
       <li>DET: what, which, whatever</li>
-      <li>PRON: what, which, who, whatever, whose, whoever, whom</li>
-      <li>SCONJ: when, how, why, where, wherever, Whenever, While</li>
+      <li>PRON: what, which, who, whatever, whose, whom, whoever</li>
+      <li>SCONJ: when, how, where, why, wherever, Whenever, While</li>
     </ul>
   </li>
 </ul>
@@ -423,7 +451,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
   <li>Prs
     <ul>
       <li>DET: you</li>
-      <li>PRON: you, it, i, your, they, we, he, her, she, his</li>
+      <li>PRON: you, it, i, his, he, we, they, your, she, her</li>
     </ul>
   </li>
 </ul>
@@ -433,7 +461,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
     <ul>
       <li>DET: that</li>
       <li>PRON: that, which, who, what, whom</li>
-      <li>SCONJ: where, when, why</li>
+      <li>SCONJ: where, that, when, why</li>
     </ul>
   </li>
 </ul>
@@ -445,8 +473,8 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Card
     <ul>
-      <li>DET: 6</li>
-      <li>NUM: one, two, 1, 2, 3, 15, 4, four, 10, 5</li>
+      <li>DET: 6, one</li>
+      <li>NUM: one, two, 1, 2, 3, 15, 4, 24, 6, 5</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +491,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: first, second, third, 19th, fourth, 20th, 10th, 30th, 135th, 164th</li>
+      <li>ADJ: first, second, third, 19th, fourth, 20th, 10th, 30th, ninth, 135th</li>
     </ul>
   </li>
 </ul>
@@ -475,7 +503,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: your, his, their, my, her, its, our, whose, yours</li>
+      <li>PRON: his, your, my, their, its, her, our, whose, yours</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +515,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: yourself, themselves, himself, itself, myself, herself</li>
+      <li>PRON: yourself, himself, themselves, itself, myself, herself</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +529,7 @@ As a scholarly citation for the corpus in articles, please use this paper:
     <ul>
       <li>AUX-Fin: am, was</li>
       <li>PRON: i, we, my, me, our, us, myself</li>
-      <li>VERB-Fin: was</li>
+      <li>VERB-Fin: was, am</li>
     </ul>
   </li>
 </ul>
@@ -518,9 +546,9 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, has, 's, ’s, does, s, isn</li>
-      <li>PRON: it, they, he, her, she, his, their, them, its, him</li>
-      <li>VERB-Fin: is, has, says, 's, was, comes, ’s, makes, means, takes</li>
+      <li>AUX-Fin: is, was, has, 's, ’s, does, s, S’, isn</li>
+      <li>PRON: it, his, he, they, she, her, their, them, its, him</li>
+      <li>VERB-Fin: is, has, says, was, 's, comes, ’s, makes, means, takes</li>
     </ul>
   </li>
 </ul>
@@ -536,11 +564,11 @@ As a scholarly citation for the corpus in articles, please use this paper:
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: be, 's, able, become.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: have, do, will, can, be, would, should, may, could, might, wo, ca, must, shall.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, do, will, can, be, would, should, may, could, might, must, shall.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
 </ul>
 
@@ -550,23 +578,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (876)</li>
-      <li>VERB-Fin--PRON (269)</li>
+      <li>VERB-Fin--NOUN (1074)</li>
+      <li>VERB-Fin--PRON (327)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (1095)</li>
-      <li>VERB-Ger--NOUN (24)</li>
-      <li>VERB-Ger--PRON (5)</li>
+      <li>VERB-Fin--PRON-Nom (1420)</li>
+      <li>VERB-Ger--NOUN (37)</li>
+      <li>VERB-Ger--PRON (7)</li>
       <li>VERB-Ger--PRON-Acc (3)</li>
-      <li>VERB-Ger--PRON-Nom (15)</li>
-      <li>VERB-Inf--NOUN (261)</li>
-      <li>VERB-Inf--PRON (75)</li>
-      <li>VERB-Inf--PRON-ADP(of) (1)</li>
+      <li>VERB-Ger--PRON-Nom (26)</li>
+      <li>VERB-Inf--NOUN (288)</li>
+      <li>VERB-Inf--PRON (94)</li>
       <li>VERB-Inf--PRON-Acc (11)</li>
-      <li>VERB-Inf--PRON-Nom (565)</li>
-      <li>VERB-Part--NOUN (162)</li>
-      <li>VERB-Part--PRON (29)</li>
+      <li>VERB-Inf--PRON-Nom (617)</li>
+      <li>VERB-Part--NOUN (186)</li>
+      <li>VERB-Part--PRON (34)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (211)</li>
+      <li>VERB-Part--PRON-Nom (255)</li>
     </ul>
   </li>
 </ul>
@@ -574,21 +601,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1007)</li>
-      <li>VERB-Fin--PRON (55)</li>
-      <li>VERB-Fin--PRON-Acc (130)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Ger--NOUN (430)</li>
-      <li>VERB-Ger--PRON (10)</li>
-      <li>VERB-Ger--PRON-Acc (35)</li>
+      <li>VERB-Fin--NOUN (1526)</li>
+      <li>VERB-Fin--PRON (77)</li>
+      <li>VERB-Fin--PRON-Acc (205)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Ger--NOUN (558)</li>
+      <li>VERB-Ger--PRON (12)</li>
+      <li>VERB-Ger--PRON-Acc (47)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (1262)</li>
-      <li>VERB-Inf--PRON (62)</li>
-      <li>VERB-Inf--PRON-Acc (178)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN (181)</li>
-      <li>VERB-Part--PRON (18)</li>
-      <li>VERB-Part--PRON-Acc (24)</li>
+      <li>VERB-Inf--NOUN (1118)</li>
+      <li>VERB-Inf--PRON (66)</li>
+      <li>VERB-Inf--PRON-Acc (193)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN (212)</li>
+      <li>VERB-Part--PRON (23)</li>
+      <li>VERB-Part--PRON-Acc (29)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -597,12 +624,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (9)</li>
-      <li>VERB-Fin--PRON-Acc (19)</li>
+      <li>VERB-Fin--NOUN (11)</li>
+      <li>VERB-Fin--PRON-Acc (31)</li>
       <li>VERB-Ger--NOUN (6)</li>
-      <li>VERB-Ger--PRON-Acc (5)</li>
-      <li>VERB-Inf--NOUN (13)</li>
-      <li>VERB-Inf--PRON-Acc (14)</li>
+      <li>VERB-Ger--PRON-Acc (6)</li>
+      <li>VERB-Inf--NOUN (11)</li>
+      <li>VERB-Inf--PRON-Acc (18)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
@@ -614,7 +641,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 29 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: call themselves, force yourself, give yourself, proclaim himself, Declare himself, ask yourself, attach itself, call myself, coin myself, comfort yourself, declare myself, expose yourself, find yourself, fling themselves, give themselves, go yourself, infect themselves, introduce themselves, make herself, make yourself, prepare yourself, prove itself, redesign itself, remind yourself, reposition itself, support himself, teach himself, tell yourself, turn himself</li>
+  <li>This corpus contains 39 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: call themselves, find himself, force yourself, give yourself, proclaim himself, Declare himself, ask yourself, assert himself, attach itself, buy myself, call myself, coin myself, comfort yourself, declare myself, distinguish himself, expose yourself, find themselves, find yourself, fling themselves, give themselves, go yourself, haul themselves, infect themselves, introduce themselves, maintain himself, make herself, make themselves, make yourself, prepare yourself, prove itself, redesign itself, remind yourself, reposition itself, restrain himself, support himself, teach himself, tell yourself, turn himself, wrap itself</li>
 </ul>
 
 <h3>Relations Overview</h3>

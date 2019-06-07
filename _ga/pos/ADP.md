@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADP'
 shortdef: 'adposition'
+udver: '2'
 ---
 
 Adpositions is a term that covers both prepositions and postpositions. Irish only has prepositions.

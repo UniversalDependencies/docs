@@ -17,17 +17,18 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 amod	color:blue
-1	Daha	daha	ADV	Adverb	_	2	advmod:emph	_	_
-2	etkin	etkin	ADJ	Adj	_	4	amod	_	_
-3	bir	bir	NUM	ANum	NumType=Card	4	det	_	_
-4	denetim	denetim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-5	yapacağız	yap	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut	4	compound:lvc	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 2 1 amod	color:blue
+1	Sanal	sanal	ADJ	Adj	_	2	amod	_	_
+2	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	6	csubj	_	_
+3	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+4	bunların	bu	PRON	Demons	Case=Gen|Number=Plur|Person=3|PronType=Dem	5	nmod:poss	_	_
+5	hiçbirini	hiçbiri	PRON	Quant	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	6	obj	_	_
+6	yapamazlar	yap	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

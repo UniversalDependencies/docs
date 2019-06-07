@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt>.
 There are also 2 other language-specific subtypes of `parataxis`: <tt><a href="uk_iu-dep-parataxis-newsent.html">parataxis:newsent</a></tt>, <tt><a href="uk_iu-dep-parataxis-rel.html">parataxis:rel</a></tt>.
 
-192 nodes (0%) are attached to their parents as `parataxis:discourse`.
+223 nodes (0%) are attached to their parents as `parataxis:discourse`.
 
-169 instances of `parataxis:discourse` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.95833333333333.
+196 instances of `parataxis:discourse` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.04035874439462.
 
-The following 22 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (66; 34% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (41; 21% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (18; 9% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (15; 8% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 24 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (73; 33% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (47; 21% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (21; 9% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (15; 7% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (15; 7% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,29 +60,23 @@ The following 22 pairs of parts of speech are connected with `parataxis:discours
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 parataxis:discourse	color:blue
-1	Він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	Id=089v|LTranslit=vin|Translit=Vin
-2	не	не	PART	Q	Polarity=Neg	3	advmod	3:advmod	Id=089w|LTranslit=ne|Translit=ne
-3	зробив	зробити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=089x|LTranslit=zrobyty|Translit=zrobyv
-4	цього	це	PRON	Pd--nnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obj	3:obj	Id=089y|LTranslit=ce|SpaceAfter=No|Translit=ćoho
-5	,	,	PUNCT	U	_	8	punct	8:punct	Id=089z|LTranslit=,|Translit=,
-6	хай	хай	PART	Q	_	8	discourse	8:discourse	Id=08a0|LTranslit=chaj|Translit=chaj
-7	там	там	ADV	Pd------r	PronType=Dem	8	advmod	8:advmod	Id=08a1|LTranslit=tam|Promoted=Yes|Translit=tam
-8	як	як	ADV	Pi------r	PronType=Ind	3	parataxis:discourse	3:parataxis:discourse	Id=08a2|LTranslit=jak|SpaceAfter=No|Translit=jak
-9	,	,	PUNCT	U	_	8	punct	8:punct	Id=08a3|LTranslit=,|Translit=,
-10	тому	тому	ADV	Pd------r	PronType=Dem	13	advmod	13:advmod	Id=08a4|LTranslit=tomu|Translit=tomu
-11	що	що	SCONJ	Css	_	10	fixed	10:fixed	Id=08a5|LTranslit=ščo|Translit=ščo
-12	він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	Id=08a6|LTranslit=vin|Translit=vin
-13	знав	знати	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	advcl	3:advcl	Id=08a7|LTranslit=znaty|Translit=znav
-14	що	що	SCONJ	Css	_	16	mark	16:mark	Id=08a8|LTranslit=ščo|Translit=ščo
-15	це	це	PRON	Pd--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	17	obj	17:obj	Id=08a9|LTranslit=ce|Translit=ce
-16	марно	марно	ADV	R	_	13	ccomp	13:ccomp	Id=08aa|LTranslit=marno|Translit=marno
-17	робити	робити	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	16	csubj	16:csubj	Id=08ab|LTranslit=robyty|SpaceAfter=No|Translit=robyty
-18	.	.	PUNCT	U	_	3	punct	3:punct	Id=08ac|LTranslit=.|Translit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 parataxis:discourse	color:blue
+1	Врешті	врешті	ADV	R	_	4	discourse	4:discourse	Id=31xh|LTranslit=vrešti|SpaceAfter=No|Translit=Vrešti
+2	,	,	PUNCT	U	_	1	punct	1:punct	Id=31xi|LTranslit=,|Translit=,
+3	ми	ми	PRON	Pp-1-ypnn	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Id=31xj|LTranslit=my|Translit=my
+4	робимо	робити	VERB	Vmpip1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=31xk|LTranslit=robyty|SpaceAfter=No|Translit=robymo
+5	,	,	PUNCT	U	_	6	punct	6:punct	Id=31xl|LTranslit=,|Translit=,
+6	перш	перш	ADV	R	_	4	parataxis:discourse	4:parataxis:discourse	Id=31xm|LTranslit=perš|Translit=perš
+7	за	за	ADP	Spsa	Case=Acc	8	case	8:case	Id=31xn|LTranslit=za|Translit=za
+8	все	все	PRON	Pg--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	6	obl	6:obl	Id=31xo|LTranslit=vse|SpaceAfter=No|Translit=vse
+9	,	,	PUNCT	U	_	6	punct	6:punct	Id=31xp|LTranslit=,|Translit=,
+10	для	для	ADP	Spsg	Case=Gen	11	case	11:case	Id=31xq|LTranslit=dľа|Translit=dľа
+11	себе	себе	PRON	Px-----gn	Case=Gen|PronType=Prs|Reflex=Yes	4	obl	4:obl	Id=31xr|LTranslit=sebe|SpaceAfter=No|Translit=sebe
+12	...	...	PUNCT	U	_	4	punct	4:punct	Id=31xs|LTranslit=...|Translit=...
 
 ~~~
 

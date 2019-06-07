@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-150284 tokens (70%) have a non-empty value of `Number`.
+150274 tokens (70%) have a non-empty value of `Number`.
 30205 types (93%) occur at least once with a non-empty value of `Number`.
-8546 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35745; 17% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (35479; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31947; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17844; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16828; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3516; 2% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (825; 0% instances).
+8528 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35742; 17% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (35474; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31942; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17842; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16830; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3518; 2% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (826; 0% instances).
 
 ### `NOUN`
 
-35745 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+35742 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (10830; 30% of non-empty `Number`): <em>ἀνθρώπων, ἀδελφοί, ἄνδρες, μαθηταὶ, Περσέων, ἡμέρας, νέας, Ἑλλήνων, ἀνδρῶν, Πέρσαι</em>
-* `Sing` (24915; 70% of non-empty `Number`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, πόλιν, γῆς, κύριος, πνεῦμα, ἀνθρώπου</em>
+* `Plur` (10828; 30% of non-empty `Number`): <em>ἀνθρώπων, ἀδελφοί, ἄνδρες, μαθηταὶ, Περσέων, ἡμέρας, νέας, Ἑλλήνων, ἀνδρῶν, Πέρσαι</em>
+* `Sing` (24914; 70% of non-empty `Number`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, πόλιν, γῆς, κύριος, πνεῦμα, ἀνθρώπου</em>
 * `EMPTY` (68): <em>πάσχα, ῥαββεί, μάννα, οὐαὶ, ω, ἀββᾶ, ἄλφα, ῥαββουνί, Μαδιάμ, Χερουβεὶν</em>
 
 <table>
@@ -39,15 +39,15 @@ The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN
 
 ### `VERB`
 
-35479 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+35474 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23953; 68%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23937; 67%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23923; 67%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23923; 67%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20275; 57%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19890; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23949; 68%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23932; 67%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23918; 67%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23918; 67%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20271; 57%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19886; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (13059; 37% of non-empty `Number`): <em>λέγοντες, εἶπαν, εἶχον, λέγουσι, ἔλεγον, ἔχοντες, ἀκούσαντες, λέγουσιν, οἴδατε, ἦλθον</em>
-* `Sing` (22420; 63% of non-empty `Number`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, λέγων, ἔχει, ἔχων, δεῖ, ἀποκριθεὶς, ἦλθεν</em>
-* `EMPTY` (4194): <em>γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</em>
+* `Plur` (13056; 37% of non-empty `Number`): <em>λέγοντες, εἶπαν, εἶχον, λέγουσι, ἔλεγον, ἔχοντες, ἀκούσαντες, λέγουσιν, οἴδατε, ἦλθον</em>
+* `Sing` (22418; 63% of non-empty `Number`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, λέγων, ἔχει, ἔχων, δεῖ, ἀποκριθεὶς, ἦλθεν</em>
+* `EMPTY` (4192): <em>γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -128,14 +128,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-31947 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+31942 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28426; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28426; 89%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28423; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28423; 89%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (9763; 31% of non-empty `Number`): <em>τῶν, οἱ, τὰ, τοὺς, τὰς, τοῖς, τοῖσι, αἱ, ταῖς, πάντα</em>
-* `Sing` (22184; 69% of non-empty `Number`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῆς, τῷ, ἡ, τῇ, τι</em>
+* `Plur` (9759; 31% of non-empty `Number`): <em>τῶν, οἱ, τὰ, τοὺς, τὰς, τοῖς, τοῖσι, αἱ, ταῖς, πάντα</em>
+* `Sing` (22183; 69% of non-empty `Number`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῆς, τῷ, ἡ, τῇ, τι</em>
 
 <table>
   <tr><th>Paradigm <i>ὁ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -160,13 +160,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-17844 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+17842 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14365; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12856; 72%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14364; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12854; 72%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (6705; 38% of non-empty `Number`): <em>αὐτῶν, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς, οἳ</em>
+* `Plur` (6703; 38% of non-empty `Number`): <em>αὐτῶν, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς, οἳ</em>
 * `Sing` (11139; 62% of non-empty `Number`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, μου, σου, ἐγὼ, τί, με, μοι, αὐτόν</em>
 
 <table>
@@ -187,13 +187,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-16828 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+16830 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10335; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (7795; 46% of non-empty `Number`): <em>ταῦτα, πάντα, τούτων, οὗτοι, τάδε, πάντες, πολλοὶ, πολλὰ, πάντων, νεκρῶν</em>
+* `Plur` (7797; 46% of non-empty `Number`): <em>ταῦτα, πάντα, τούτων, οὗτοι, τάδε, πάντες, πολλοὶ, πολλὰ, πάντων, νεκρῶν</em>
 * `Sing` (9033; 54% of non-empty `Number`): <em>τοῦτο, τις, οὗτος, πρότερον, οὐδεὶς, αὐτὸς, οὐδὲν, πρῶτον, τι, τούτου</em>
 * `EMPTY` (5): <em>ἀγχοῦ, ἔμπαλιν, δεῖνα</em>
 
@@ -235,22 +235,22 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>Ἱεροσόλυμα</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (1235) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (1234) occur only with one value of `Number`.
 
 ### `AUX`
 
-3516 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
+3518 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3279; 93%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2948; 84%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2948; 84%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2948; 84%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2742; 78%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2723; 77%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2507; 71%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2452; 70%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3281; 93%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2950; 84%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2950; 84%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2950; 84%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2743; 78%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2724; 77%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2508; 71%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2454; 70%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (916; 26% of non-empty `Number`): <em>ἦσαν, εἰσὶ, εἰσιν, ἐστε, ἐόντες, εἰσίν, εἰσὶν, ἔσονται, ἐόντας, ἐσμεν</em>
-* `Sing` (2600; 74% of non-empty `Number`): <em>ἦν, ἐστιν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
-* `EMPTY` (421): <em>εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</em>
+* `Plur` (917; 26% of non-empty `Number`): <em>ἦσαν, εἰσὶ, εἰσιν, ἐστε, ἐόντες, εἰσίν, εἰσὶν, ἔσονται, ἐόντας, ἐσμεν</em>
+* `Sing` (2601; 74% of non-empty `Number`): <em>ἦν, ἐστιν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
+* `EMPTY` (423): <em>εἶναι, ἔσεσθαι, εἶναί, πωλῆσαι, ἀγοράσαι, ἔσεσθαί</em>
 
 <table>
-  <tr><th>Paradigm <i>εἰμί#1</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ἦμεν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἤμην</em></td><td><em>ἤμεθα</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἦς, ἔας</em></td><td><em>ἦτε, ἔατε</em></td></tr>
@@ -292,12 +292,12 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `NUM`
 
-825 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
+826 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (411; 50% of non-empty `Number`): <em>τρεῖς, τριῶν, τρία, τέσσερας, τεσσάρων, χίλιοι, τέσσερα, τέσσαρες, τριηκοσίας, καὶ</em>
-* `Sing` (414; 50% of non-empty `Number`): <em>εἷς, ἓν, ἕνα, μίαν, ἑνὸς, ἑνὶ, μία, μιᾷ, ἕν, μιᾶς</em>
+* `Sing` (415; 50% of non-empty `Number`): <em>εἷς, ἓν, ἕνα, μίαν, ἑνὸς, ἑνὶ, μία, μιᾷ, ἕν, μιᾶς</em>
 * `EMPTY` (811): <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
 
 <table>
@@ -316,14 +316,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (21191; 99%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7058; 77%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3946; 53%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3942; 87%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3494; 88%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3494; 52%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3286; 99%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3213; 93%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3036; 97%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2864; 72%).
+<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (21291; 99%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7057; 77%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3981; 87%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3948; 53%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3497; 52%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3492; 88%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3314; 98%),
+<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3257; 90%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3035; 97%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2866; 72%).
 

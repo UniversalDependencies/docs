@@ -51,18 +51,18 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 parataxis	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
-4	siri	sìri	VERB	v	_	0	root	_	Gloss=lier
-5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
-6	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
+4	siri	sìri	VERB	v	_	0	root	_	Gloss=lier
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
+6	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=|SpaceAfter=No
 7	:	:	PUNCT	_	_	6	punct	_	Gloss=:
 8	Bilali	Bilali	PROPN	n.prop	_	6	parataxis:obj	_	Gloss=NOM.M
-9	yo	yó	PART	prt	_	8	discourse	_	Gloss=salut|SpaceAfter=No
+9	yo	yó	PART	prt	_	8	discourse	_	Gloss=salut|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 11	Bilali	Bilali	PROPN	n.prop	_	8	parataxis	_	Gloss=NOM.M
-12	yo	yó	PART	prt	_	11	discourse	_	Gloss=salut|SpaceAfter=No
+12	yo	yó	PART	prt	_	11	discourse	_	Gloss=salut|SpaceAfter=No
 13	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
 ~~~
@@ -74,19 +74,19 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 parataxis	color:blue
-1	jòni	jɔ́nì	PRON	prn	_	5	nsubj	_	Gloss=qui
+1	jòni	jɔ́nì	PRON	prn	_	5	nsubj	_	Gloss=qui
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
-3	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Gloss=1SG
-4	tògò	tɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=nom
-5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
-6	jeli	jèli	NOUN	n	_	5	obl	_	Gloss=griot
-7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
+3	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Gloss=1SG
+4	tògò	tɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=nom
+5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+6	jeli	jèli	NOUN	n	_	5	obl	_	Gloss=griot
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-9	ko	kó	PART	cop	_	11	discourse	_	Gloss=
-10	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	nmod:poss	_	Gloss=1SG
-11	tògò	tɔ́gɔ	NOUN	n	_	5	parataxis	_	Gloss=nom
-12	ko	kó	VERB	cop	_	13	discourse	_	Gloss=
-13	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	11	orphan	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine|SpaceAfter=No
+9	ko	kó	PART	cop	_	11	discourse	_	Gloss=
+10	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	nmod:poss	_	Gloss=1SG
+11	tògò	tɔ́gɔ	NOUN	n	_	5	parataxis	_	Gloss=nom
+12	ko	kó	VERB	cop	_	13	discourse	_	Gloss=
+13	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	11	orphan	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine|SpaceAfter=No
 14	?	?	PUNCT	_	_	5	punct	_	Gloss=?
 
 ~~~

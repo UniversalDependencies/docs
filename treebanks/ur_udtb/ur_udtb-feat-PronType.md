@@ -11,7 +11,7 @@ It occurs with 5 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`.
 
 8571 tokens (6%) have a non-empty value of `PronType`.
 149 types (1%) occur at least once with a non-empty value of `PronType`.
-139 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+138 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5376; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (2388; 2% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (807; 1% instances).
 
 ### `PRON`
@@ -63,7 +63,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>انہیں</td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 90% lemmas (83) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 90% lemmas (82) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -108,10 +108,10 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> PRON</tt> (13; 72%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 92%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (9; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PRON</tt> (8; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6; 67%),
-<tt>PRON --[<tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (4; 80%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-mark.html">mark</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="ur_udtb-dep-obl.html">obl</a></tt>]--> PRON</tt> (4; 80%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
 <tt>DET --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="ur_udtb-dep-aux.html">aux</a></tt>]--> PRON</tt> (2; 67%),

@@ -38,8 +38,8 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 14	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
 15	_	_	AUX	_	Polarity=Neg	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
 16	_	_	CCONJ	_	_	14	cc	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=18|SpaceAfter=No
-17	_	_	PUNCT	_	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
-18	_	_	PUNCT	_	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+17	_	_	SYM	_	_	14	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+18	_	_	SYM	_	_	14	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
 19	_	_	PUNCT	_	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
 
 ~~~
@@ -51,19 +51,19 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 reparandum	color:blue
-1	_	_	PUNCT	_	_	6	dep	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
-2	_	_	PUNCT	_	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+1	_	_	SYM	_	_	6	dep	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+2	_	_	SYM	_	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
 3	_	_	X	_	_	4	reparandum	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=41|SpaceAfter=No
-4	_	_	PRON	_	_	6	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=23|SpaceAfter=No
-5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=5|SpaceAfter=No
-6	_	_	PRON	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=23|SpaceAfter=No
-7	_	_	AUX	_	_	6	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
-8	_	_	SCONJ	_	_	6	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
-9	_	_	AUX	_	_	6	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=10|SpaceAfter=No
-10	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
-11	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-12	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-13	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+4	_	_	PRON	_	_	6	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+5	_	_	ADP	_	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
+6	_	_	PRON	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+7	_	_	AUX	_	_	6	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=4|SpaceAfter=No
+8	_	_	SCONJ	_	_	6	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=4|SpaceAfter=No
+9	_	_	AUX	_	_	6	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=4|SpaceAfter=No
+10	_	_	SYM	_	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=11|SpaceAfter=No
+11	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=16|SpaceAfter=No
+12	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=16|SpaceAfter=No
+13	_	_	PUNCT	_	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=16|SpaceAfter=No
 
 ~~~
 
@@ -74,17 +74,17 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 reparandum	color:blue
-1	_	_	X	_	_	5	reparandum	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=41|SpaceAfter=No
+1	_	_	X	_	_	5	reparandum	_	BunsetuBILabel=B|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=36|SpaceAfter=No
 2	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 3	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 4	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=NO_HEAD|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-5	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
-6	_	_	AUX	_	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
-7	_	_	PART	_	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=29|SpaceAfter=No
+5	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
+6	_	_	AUX	_	_	5	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
+7	_	_	PART	_	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
 8	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 9	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 10	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
-11	_	_	SYM	_	_	5	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=39|SpaceAfter=No
+11	_	_	SYM	_	_	5	discourse	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=42|SpaceAfter=No
 
 ~~~
 

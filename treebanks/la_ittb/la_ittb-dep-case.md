@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29068 nodes (8%) are attached to their parents as `case`.
+29076 nodes (8%) are attached to their parents as `case`.
 
-28863 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20668776661621.
+28870 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20577108267987.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (19567; 67% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (6429; 22% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1373; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (823; 3% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (462; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (176; 1% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (146; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (82; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (19710; 68% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (6429; 22% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1385; 5% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (823; 3% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (463; 2% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (261; 1% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

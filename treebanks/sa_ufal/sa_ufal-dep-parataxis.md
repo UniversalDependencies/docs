@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 10	वः	युष्मद्	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	iobj	_	Translit=vaḥ|LTranslit=yuṣmad|Gloss=you
 11	च	च	CCONJ	_	_	9	cc	_	Translit=ca|LTranslit=ca|Gloss=and
 12	विघ्नाः	विघ्न	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=vighnāḥ|LTranslit=vighna|Gloss=obstacles
-13	।	।	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|Gloss=.
+13	।	।	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.|Gloss=.
 14	सारं	सार	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj:cop	_	Translit=sāraṁ|LTranslit=sāra|Gloss=core
 15	ततो	तद्	ADV	_	PronType=Dem	16	advmod	_	Translit=tato|LTranslit=tad|Gloss=so
 16	ग्राह्यम्	ग्रह्	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	1	parataxis	_	Translit=grāhyam|LTranslit=grah|Gloss=to-be-taken
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 23	इव	इव	ADV	_	_	22	orphan	_	Translit=iva|LTranslit=iva|Gloss=how
 24	अम्बु	अम्बु	NOUN	_	Compound=Yes	25	nmod	_	Translit=ambu|LTranslit=ambu|Gloss=water
 25	मध्यात्	मध्य	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	22	orphan	_	Translit=madhyāt|LTranslit=madhya|Gloss=middle
-26	॥	॥	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:|Gloss=.
+26	॥	॥	PUNCT	_	_	16	punct	_	Translit=:|LTranslit=:|Gloss=.
 
 ~~~
 

@@ -123,7 +123,7 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 6 word types tagged as particles (PART): až, brutto, jen, ne, netto, nikoliv</li>
+<li>This corpus contains 7 word types tagged as particles (PART): až, brutto, jen, ne, netto, nikoliv, to</li>
 </ul>
 
 <ul>
@@ -261,7 +261,7 @@ http://hdl.handle.net/11234/1-1516.
       <li>ADJ: účetního, účetní, účetním, obsahové, jiných, stanoveno, technické, účetních, minulé, účinném</li>
       <li>ADJ-Part: stanoveno, následujícího, předcházejícímu, předcházejícího, následujícím, týkající, počínajících, předcházející, vztahující, účtováno</li>
       <li>AUX-Part: bylo</li>
-      <li>DET: to, které, která, toto, všechna, její, některá, každé, samo, takové</li>
+      <li>DET: které, to, která, toto, všechna, její, některá, každé, samo, takové</li>
       <li>NOUN: období, ocenění, účetnictví, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření</li>
       <li>NUM: jedno</li>
       <li>PRON: veškeré</li>
@@ -340,7 +340,7 @@ http://hdl.handle.net/11234/1-1516.
       <li>ADJ-Part: konsolidující, stanoveno, zanikající, následujícího, předcházejícímu, přejímající, následujícímu, vztahující, odpovídající, oprávněn</li>
       <li>AUX-Fin: je, není, bude</li>
       <li>AUX-Part: byl, bylo, nebyl</li>
-      <li>DET: této, která, tohoto, který, to, které, tato, tento, kterém, kterému</li>
+      <li>DET: této, která, tohoto, který, které, tato, tento, kterém, kterému, to</li>
       <li>NOUN: jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, jednotky, společnosti</li>
       <li>NUM: jeden, jedné, dvanáct, jedno, jednoho, jednou, pět, deset, jednom, jednomu</li>
       <li>PRON: němž, jej, němuž, jí, jehož, ji, ní, níž, nějž, jenž</li>
@@ -361,7 +361,7 @@ http://hdl.handle.net/11234/1-1516.
       <li>ADJ: účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</li>
       <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, nesoucí, následující</li>
       <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
-      <li>DET: to, které, tuto, kterou, tyto, všechny, který, její, každou, tento</li>
+      <li>DET: které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</li>
       <li>NOUN: závěrku, závazky, období, účetnictví, informace, položky, účely, ocenění, majetek, dobu</li>
       <li>NUM: jeden, dvanáct, jedno, pět, dva, jednu, obě, čtyři</li>
       <li>PRON: se, jej, je, ji, nějž, ně, veškeré, něj, ho, jež</li>
@@ -654,7 +654,7 @@ http://hdl.handle.net/11234/1-1516.
   <li>Dem
     <ul>
       <li>ADV: tak, dosud, tehdy, Tam, zde</li>
-      <li>DET: této, tohoto, to, těchto, tyto, tato, tento, tomto, tímto, tuto</li>
+      <li>DET: této, tohoto, těchto, tyto, tato, tento, to, tomto, tímto, tuto</li>
     </ul>
   </li>
 </ul>
@@ -705,6 +705,7 @@ http://hdl.handle.net/11234/1-1516.
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: přičemž</li>
       <li>DET: jejichž, jehož, jejímž, jejíž</li>
       <li>PRON: nichž, němž, němuž, jimiž, jehož, níž, nějž, jenž, jež, jímž</li>
     </ul>
@@ -963,7 +964,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (627)</li>
+      <li>VERB-Fin--NOUN-Nom (628)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>

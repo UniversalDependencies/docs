@@ -8,12 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `flat`.
+27 nodes (0%) are attached to their parents as `flat`.
 
-3 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+27 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03703703703704.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (24; 89% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 23 flat	color:blue
+1	誒	_	INTJ	_	_	3	discourse	_	SpaceAfter=No
+2	……	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
+4	，	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	而家	_	NOUN	_	_	22	obl:tmod	_	SpaceAfter=No
+6	呢	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+7	，	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	喺	_	ADP	_	_	13	case	_	SpaceAfter=No
+9	秘書	_	NOUN	_	_	10	nsubj	_	SpaceAfter=No
+10	畀	_	VERB	_	_	13	acl	_	SpaceAfter=No
+11	我	_	PRON	_	_	10	obj	_	SpaceAfter=No
+12	嘅	_	PART	_	_	10	mark:rel	_	SpaceAfter=No
+13	名單	_	NOUN	_	_	22	obl	_	SpaceAfter=No
+14	裏便	_	NOUN	_	_	13	case:loc	_	SpaceAfter=No
+15	呢	_	PART	_	_	13	discourse:sp	_	SpaceAfter=No
+16	，	_	PUNCT	_	_	22	punct	_	SpaceAfter=No
+17	第一	_	ADJ	_	_	19	amod	_	SpaceAfter=No
+18	位	_	NOUN	_	NounType=Clf	22	nsubj	_	SpaceAfter=No
+19	就	_	ADV	_	_	22	advmod	_	SpaceAfter=No
+20	係	_	AUX	_	_	22	cop	_	SpaceAfter=No
+21	阿	_	PART	_	_	22	compound	_	SpaceAfter=No
+22	毛孟靜	_	PROPN	_	_	3	parataxis	_	SpaceAfter=No
+23	議員	_	NOUN	_	_	22	flat	_	SpaceAfter=No
+24	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu

@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (6%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 14.11.
+Average distance between parent and child is 14.12.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (677; 68% instances), -<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (202; 20% instances), -<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (96; 10% instances), -<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), -<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), -<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (678; 68% instances), -<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (193; 19% instances), -<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (84; 8% instances), -<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (20; 2% instances), -<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), -<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), -<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), -<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 3	Clinton'un	Clinton	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
 4	kabarık	kabarık	ADJ	JJ	Number=Sing	6	amod	_	_
 5	banka	banka	NOUN	NN	Number=Sing	6	compound	_	_
-6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
+6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 7	sağlanıyor	sağla	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Yine	yine	ADV	RB	_	7	advmod	_	_
 2	de	de	ADV	RB	_	1	advmod:emph	_	_
 3	hâlâ	hâlâ	ADV	RB	_	4	advmod	_	_
-4	cevaplanamamış	cevaplanama	ADJ	VJ	Aspect=Perf|Evident=Nfh|Mood=Abil|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass	6	acl:relcl	_	_
+4	cevaplanamamış	cevaplanama	ADJ	VJ	Aspect=Perf|Evident=Nfh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass	6	acl:relcl	_	_
 5	bazı	bazı	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	6	det	_	_
 6	sorular	soru	NOUN	NN	Case=Nom|Number=Plur	7	nsubj	_	_
 7	var	var	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No

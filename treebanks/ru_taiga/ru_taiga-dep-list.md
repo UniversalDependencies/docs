@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `list`.
+23 nodes (0%) are attached to their parents as `list`.
 
-14 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.
+23 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.04347826086957.
 
-The following 7 pairs of parts of speech are connected with `list`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (8; 57% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
+The following 9 pairs of parts of speech are connected with `list`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (12; 52% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (2; 9% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -42,56 +42,56 @@ The following 7 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 list	color:blue
-1	RT	rt	NOUN	_	Foreign=Yes	0	root	_	_
-2	@xxxxxx	@xxxxxx	X	_	_	1	flat:foreign	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	12	punct	_	_
-4	Незаконное	незаконный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
-5	строительство	строительство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
-6	магазина	магазин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-7	на	на	ADP	_	_	8	case	_	_
-8	пр.	проспект	NOUN	_	Abbr=Yes	6	nmod	_	_
-9	Художников	художник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	8	punct	_	_
-11	26	26	NUM	_	_	8	list	_	_
-12	прекращено	прекратить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	parataxis	_	SpaceAfter=No
-13	!	!	PUNCT	_	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 list	color:blue
+1	Ференц	Ференц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Лист	Лист	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	-	-	PUNCT	_	_	1	punct	_	_
+4	Транскрипции	транскрипция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	list	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	фортепиано	фортепиано	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 15 list	color:blue
-1	Голод	голод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	в	в	ADP	_	_	3	case	_	_
-3	семье	семья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
-4	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
-5	с	с	ADP	_	_	6	case	_	_
-6	финансами	финансы	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	_
-7	Дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	list	_	SpaceAfter=No
-8	:	:	PUNCT	_	_	7	punct	_	_
-9	11	11	ADJ	_	_	10	amod	_	_
-10	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	appos	_	_
-11	2016	2016	ADJ	_	_	10	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	22:16	22:16	X	_	_	7	conj	_	_
-14	От	от	ADP	_	_	15	case	_	_
-15	кого	кто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	list	_	SpaceAfter=No
-16	:	:	PUNCT	_	_	15	punct	_	_
-17	Мария	Мария	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	15	appos	_	_
-18	Город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	list	_	SpaceAfter=No
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 18 list	color:blue
+1	...	...	PUNCT	_	_	3	punct	_	_
+2	Музыкальный	музыкальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	Сборник	сборник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	-	-	PUNCT	_	_	6	punct	_	_
+5	Вечерние	вечерний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	Мелодии	Мелодия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	list	_	_
+9	Вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	12	punct	_	_
+11	Инструментальные	инструментальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	Песни	песня	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	appos	_	_
+13	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	Сборник	сборник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+15	составил	составить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+16	ЙЕТЯ	Йетя	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	СССР	СССР	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	list	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
-20	страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
-21	:	:	PUNCT	_	_	18	punct	_	_
-22	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	appos	_	_
+20	2017	2017	NUM	_	_	16	list	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	15	punct	_	_
+22	...	...	PUNCT	_	_	3	punct	_	_
+23	#soviet	#soviet	X	_	_	3	parataxis	_	_
+24	#jazz	#jazz	X	_	_	23	conj	_	_
+25	#instrumental	#instrumental	X	_	_	23	conj	_	_
+26	#bossa_nova	#bossa_nova	X	_	_	23	conj	_	_
+27	#easy_listening	#easy_listening	X	_	_	23	conj	_	_
+28	#soviet_grooves	#soviet_grooves	X	_	_	23	conj	_	_
+29	#йетя	#йетя	X	_	_	23	conj	_	_
 
 ~~~
 

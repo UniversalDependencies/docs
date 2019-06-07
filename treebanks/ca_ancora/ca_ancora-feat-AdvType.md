@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 1 <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt> (1; 100%), <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
@@ -49,5 +49,5 @@ The most frequent other feature values with which `SYM` and `AdvType` co-occurre
 ## Relations with Agreement in `AdvType`
 
 The 10 most frequent relations where parent and child node agree in `AdvType`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 59%).
+<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 60%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (2%) are attached to their parents as `mark`.
+15 nodes (1%) are attached to their parents as `mark`.
 
-17 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.64705882352941.
+14 instances of `mark` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.53333333333333.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (4; 24% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 18% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (2; 12% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (2; 12% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (4; 27% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (4; 27% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-SCONJ.html">SCONJ</a></tt> (3; 20% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -29,30 +29,6 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	ортсасьны	ортсасьны	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	аелы	ай	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 10 mark	color:blue
-1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	гашке	гашкӧ	ADV	Adv	_	6	discourse	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
-7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
-8	глаза	глаз	NOUN	N	Case=Acc|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=Rus
-11	что	что	SCONJ	CS	_	10	fixed	_	Lang=Rus
-12	уна	уна	ADV	Adv	_	13	advmod	_	_
-13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
-14	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 
@@ -74,11 +50,35 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 9	жугедэді	жыгӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
 11	сідз	сідз	ADV	Adv	_	13	mark	_	_
-12	и	и	PART	Pcle	_	13	discourse	_	Lang=Mixed
+12	и	и	PART	Pcle	_	13	advmod	_	Lang=Mixed
 13	смыло	смыть	VERB	V	_	9	conj	_	Lang=Rus
 14	всю	весь	DET	Det	Case=Acc|Number=Sing	15	det	_	Lang=Rus
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=Rus|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 10 mark	color:blue
+1	Сыысь	сійӧ	PRON	Pron	Case=Ela|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	гашке	гашкӧ	ADV	Adv	_	6	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed
+7	в	в	ADP	Pr	_	8	case	_	Lang=Rus
+8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=Rus|SpaceAfter=No
+9	,	,	PUNCT	CLB	_	10	punct	_	_
+10	потому	потому	SCONJ	CS	_	13	mark	_	Lang=Rus
+11	что	что	SCONJ	CS	_	10	fixed	_	Lang=Rus
+12	уна	уна	ADV	Adv	_	13	advmod	_	_
+13	йӧз	йӧз	NOUN	N	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

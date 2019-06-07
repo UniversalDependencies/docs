@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1257; 100% of non-empty `Poss`): <em>jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</em>
-* `EMPTY` (3150): <em>to, ktoré, ktorý, ten, ktorá, tom, toho, všetko, tomu, všetky</em>
+* `EMPTY` (3147): <em>to, ktoré, ktorý, ten, ktorá, tom, toho, všetko, tomu, všetky</em>
 

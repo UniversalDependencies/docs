@@ -73,7 +73,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>La, das, des, non, Le, el, quo, Al</em>
-* `EMPTY` (3147): <em>jen, li, až, nejen, asi, ovšem, ne, jenom, ať, prý</em>
+* `EMPTY` (3396): <em>jen, li, až, nejen, to, asi, ovšem, ne, jenom, ať</em>
 
 ### `ADV`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</em>
-* `EMPTY` (27477): <em>tak, také, jak, již, už, ještě, pak, kde, tedy, velmi</em>
+* `EMPTY` (27552): <em>tak, také, jak, již, už, ještě, pak, kde, tedy, velmi</em>
 
 ### `PRON`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>are, formo, movere, savoir, singen, singt, vivre</em>
-* `EMPTY` (40584): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (40598): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 ### `DET`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>sui, hoc, quem</em>
-* `EMPTY` (20012): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19765): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `CCONJ`
 

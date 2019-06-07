@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5012 nodes (9%) are attached to their parents as `cc`.
+5017 nodes (9%) are attached to their parents as `cc`.
 
-3096 instances of `cc` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.591580207502.
+3084 instances of `cc` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.58580825194339.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (3772; 75% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (759; 15% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (164; 3% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (129; 3% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (74; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (41; 1% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (26; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances).
+The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (3516; 70% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (863; 17% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (249; 5% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (139; 3% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (99; 2% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (51; 1% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (50; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (25; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,17 +52,17 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 cc	color:blue
-1	iþ	iþ	CCONJ	C-	_	6	cc	_	ref=PHILEM_1.11
-2	nu	nu	ADV	Df	_	6	advmod	_	ref=PHILEM_1.11
-3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	iobj	_	ref=PHILEM_1.11
-4	jah	jah	CCONJ	C-	_	3	cc	_	ref=PHILEM_1.11
-5	mis	ik	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	conj	_	ref=PHILEM_1.11
-6	bruks	brūks	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	appos	_	ref=PHILEM_1.11
-7	þanuh	sah	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	ref=PHILEM_1.11
-8	insandida	in-sandjan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=PHILEM_1.11
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 cc	color:blue
+1	iþ	iþ	CCONJ	C-	_	7	cc	_	ref=MATT_5.37
+2	þata	sa	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=MATT_5.37
+3	managizo	manags	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	7	nsubj	_	ref=MATT_5.37
+4	þaim	sa	ADJ	Pd	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.37
+5	us	us	ADP	R-	_	7	case	_	ref=MATT_5.37
+6	þamma	sa	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	7	det	_	ref=MATT_5.37
+7	ubilin	ubils	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	0	root	_	ref=MATT_5.37
+8	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.37|LId=1
 
 ~~~
 

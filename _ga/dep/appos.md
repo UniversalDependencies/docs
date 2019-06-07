@@ -2,6 +2,7 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier of an NP is an NP immediately to the right of the first NP that serves to define or modify that NP. It also includes parenthesized examples.

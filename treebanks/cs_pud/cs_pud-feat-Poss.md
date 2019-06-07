@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-DET.html
 
 ### `DET`
 
-226 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (28% of all `DET` tokens) have a non-empty value of `Poss`.
+226 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (218; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (209; 92%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (144; 64%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (139; 62%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (218; 96%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (209; 92%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (139; 62%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (226; 100% of non-empty `Poss`): <em>jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</em>
-* `EMPTY` (587): <em>to, který, které, která, mnoho, toho, kteří, tím, tento, tohoto</em>
+* `EMPTY` (601): <em>to, který, které, která, mnoho, toho, kteří, tím, tento, tohoto</em>
 
 ### `ADJ`
 

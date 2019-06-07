@@ -134,17 +134,17 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 
 ## Relations
 
-[acl](pt_bosque-dep-acl.html) – [acl:relcl](pt_bosque-dep-acl-relcl.html) – [advcl](pt_bosque-dep-advcl.html) – [advmod](pt_bosque-dep-advmod.html) – [amod](pt_bosque-dep-amod.html) – [appos](pt_bosque-dep-appos.html) – [aux](pt_bosque-dep-aux.html) – [aux:pass](pt_bosque-dep-aux-pass.html) – [case](pt_bosque-dep-case.html) – [cc](pt_bosque-dep-cc.html) – [ccomp](pt_bosque-dep-ccomp.html) – [compound](pt_bosque-dep-compound.html) – [conj](pt_bosque-dep-conj.html) – [cop](pt_bosque-dep-cop.html) – [csubj](pt_bosque-dep-csubj.html) – [dep](pt_bosque-dep-dep.html) – [det](pt_bosque-dep-det.html) – [discourse](pt_bosque-dep-discourse.html) – [dislocated](pt_bosque-dep-dislocated.html) – [expl](pt_bosque-dep-expl.html) – [fixed](pt_bosque-dep-fixed.html) – [flat](pt_bosque-dep-flat.html) – [flat:foreign](pt_bosque-dep-flat-foreign.html) – [flat:name](pt_bosque-dep-flat-name.html) – [goeswith](pt_bosque-dep-goeswith.html) – [iobj](pt_bosque-dep-iobj.html) – [mark](pt_bosque-dep-mark.html) – [nmod](pt_bosque-dep-nmod.html) – [nmod:npmod](pt_bosque-dep-nmod-npmod.html) – [nmod:tmod](pt_bosque-dep-nmod-tmod.html) – [nsubj](pt_bosque-dep-nsubj.html) – [nsubj:pass](pt_bosque-dep-nsubj-pass.html) – [nummod](pt_bosque-dep-nummod.html) – [obj](pt_bosque-dep-obj.html) – [obl](pt_bosque-dep-obl.html) – [obl:agent](pt_bosque-dep-obl-agent.html) – [orphan](pt_bosque-dep-orphan.html) – [parataxis](pt_bosque-dep-parataxis.html) – [punct](pt_bosque-dep-punct.html) – [reparandum](pt_bosque-dep-reparandum.html) – [root](pt_bosque-dep-root.html) – [vocative](pt_bosque-dep-vocative.html) – [xcomp](pt_bosque-dep-xcomp.html)
+[acl](pt_bosque-dep-acl.html) – [acl:relcl](pt_bosque-dep-acl-relcl.html) – [advcl](pt_bosque-dep-advcl.html) – [advmod](pt_bosque-dep-advmod.html) – [amod](pt_bosque-dep-amod.html) – [appos](pt_bosque-dep-appos.html) – [aux](pt_bosque-dep-aux.html) – [aux:pass](pt_bosque-dep-aux-pass.html) – [case](pt_bosque-dep-case.html) – [cc](pt_bosque-dep-cc.html) – [ccomp](pt_bosque-dep-ccomp.html) – [compound](pt_bosque-dep-compound.html) – [conj](pt_bosque-dep-conj.html) – [cop](pt_bosque-dep-cop.html) – [csubj](pt_bosque-dep-csubj.html) – [dep](pt_bosque-dep-dep.html) – [det](pt_bosque-dep-det.html) – [discourse](pt_bosque-dep-discourse.html) – [dislocated](pt_bosque-dep-dislocated.html) – [expl](pt_bosque-dep-expl.html) – [fixed](pt_bosque-dep-fixed.html) – [flat](pt_bosque-dep-flat.html) – [flat:foreign](pt_bosque-dep-flat-foreign.html) – [flat:name](pt_bosque-dep-flat-name.html) – [goeswith](pt_bosque-dep-goeswith.html) – [iobj](pt_bosque-dep-iobj.html) – [mark](pt_bosque-dep-mark.html) – [nmod](pt_bosque-dep-nmod.html) – [nsubj](pt_bosque-dep-nsubj.html) – [nsubj:pass](pt_bosque-dep-nsubj-pass.html) – [nummod](pt_bosque-dep-nummod.html) – [obj](pt_bosque-dep-obj.html) – [obl](pt_bosque-dep-obl.html) – [obl:agent](pt_bosque-dep-obl-agent.html) – [orphan](pt_bosque-dep-orphan.html) – [parataxis](pt_bosque-dep-parataxis.html) – [punct](pt_bosque-dep-punct.html) – [reparandum](pt_bosque-dep-reparandum.html) – [root](pt_bosque-dep-root.html) – [vocative](pt_bosque-dep-vocative.html) – [xcomp](pt_bosque-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9365 sentences, 210960 tokens and 227794 syntactic words.</li>
+<li>This corpus contains 9365 sentences, 210961 tokens and 227799 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29566 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 29567 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -152,11 +152,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 786 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, etc., ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
+<li>This corpus contains 785 types of words that contain both letters and punctuation. Examples: sexta-feira, norte-americano, p., segunda-feira, R., primeiro-ministro, norte-americana, terça-feira, quarta-feira, quinta-feira, S., ex-presidente, vice-presidente, porta-voz, Grã-Bretanha, cessar-fogo, etc., ex-ministro, fim-de-semana, norte-americanos, secretário-geral, d., art., dr., meio-campo, tel., av., director-geral, mão-de-obra, pára-quedas, sr., Guiné-Bissau, Jr., dia-a-dia, ex-jogador, pág., social-democrata, A., CD-ROM, Timor-Leste, co-produção, d', ex-governador, IPC-r, Jean-Pierre, auto-estrada, dom., ed., ex-secretário, infra-estrutura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16834 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 16838 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 743 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
 </ul>
 
@@ -173,23 +173,23 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus contains 61 lemmas tagged as pronouns (PRON): _, a, algo, algum, alguém, ambos, aquele, aquilo, cada, certo, cujo, demais, dezena, diferentes, ela, elas, ele, ele/ela, eles, eles/elas, esse, este, eu, gente, isso, isto, mais, mesmo, meu, muito, mundo, nada, nenhum, ninguém, nosso, nós, o, onde, outrem, outro, pouco, qual, qualquer, quanto, que, quem, quê, se, seu, si, tal, tanto, todas, todo, tu, tudo, um, você, várias, vários, vós</li>
+<li>This corpus contains 60 lemmas tagged as pronouns (PRON): a, algo, algum, alguém, ambos, aquele, aquilo, cada, certo, cujo, demais, dezena, diferentes, ela, elas, ele, ele/ela, eles, eles/elas, esse, este, eu, gente, isso, isto, mais, mesmo, meu, muito, mundo, nada, nenhum, ninguém, nosso, nós, o, onde, outrem, outro, pouco, qual, qualquer, quanto, que, quem, quê, se, seu, si, tal, tanto, todas, todo, tu, tudo, um, você, várias, vários, vós</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): $2e, _, a, algum, ambos, aquele, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diferentes, diversos, esse, este, la, menos, meu, muitas, muito, muitíssimo, nada, nenhum, nosso, o, outro, pouco, próprio, qual, qualquer, qualquier, quando, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, umo, uns, vosso, várias, vários</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): $2e, a, algum, ambos, aquele, as, bastante, cada, certo, certos, cujo, demais, dezena, dezenas, diferentes, diversos, esse, este, la, mais, menos, meu, muita, muito, muitíssimo, nada, nenhum, nosso, o, os, outro, pouco, próprio, qual, qualquer, qualquier, quanto, que, semelhante, seu, tal, tanto, teu, toda, todo, tudo, tão, um, uma, umo, uns, vosso, várias, vários</li>
 </ul>
 
 <ul>
-<li>Out of the above, 33 lemmas occurred sometimes as PRON and sometimes as DET: _, a, algum, ambos, aquele, cada, certo, cujo, demais, dezena, diferentes, esse, este, meu, muito, nada, nenhum, nosso, o, outro, pouco, qual, qualquer, quanto, que, seu, tal, tanto, todo, tudo, um, várias, vários</li>
+<li>Out of the above, 33 lemmas occurred sometimes as PRON and sometimes as DET: a, algum, ambos, aquele, cada, certo, cujo, demais, dezena, diferentes, esse, este, mais, meu, muito, nada, nenhum, nosso, o, outro, pouco, qual, qualquer, quanto, que, seu, tal, tanto, todo, tudo, um, várias, vários</li>
 </ul>
 
 <ul>
-<li>This corpus contains 47 lemmas tagged as auxiliaries (AUX): _, abster, acabar, aceitar, agredir, ameaçar, andar, atualizar, chegar, comedir, começar, continuar, converter, costumar, deixar, deslocar, dever, discutir, encaminhar, envergonhar, estar, fazer, ferir, ficar, foi, haver, interpelar, ir, parar, parecer, passar, perdoar, permitir, poder, procurar, proibir, recomeçar, rejeitar, reunir, ser, tender, ter, tomar, tornar, vir, voltar, é</li>
+<li>This corpus contains 26 lemmas tagged as auxiliaries (AUX): acabar, ameaçar, andar, chegar, começar, continuar, costumar, deixar, dever, estar, ficar, haver, ir, parar, parecer, passar, permitir, poder, procurar, quer, ser, tender, ter, tornar, vir, voltar</li>
 </ul>
 
 <ul>
-<li>Out of the above, 43 lemmas occurred sometimes as AUX and sometimes as VERB: _, abster, acabar, aceitar, agredir, ameaçar, andar, atualizar, chegar, comedir, começar, continuar, converter, deixar, deslocar, dever, discutir, encaminhar, envergonhar, estar, fazer, ferir, ficar, haver, ir, parar, parecer, passar, perdoar, permitir, poder, procurar, proibir, recomeçar, rejeitar, reunir, ser, tender, ter, tomar, tornar, vir, voltar</li>
+<li>Out of the above, 24 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, ameaçar, andar, chegar, começar, continuar, deixar, dever, estar, ficar, haver, ir, parar, parecer, passar, permitir, poder, procurar, ser, tender, ter, tornar, vir, voltar</li>
 </ul>
 
 <ul>
@@ -199,9 +199,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
+    <li>AUX: é, foi, são, está, foram, vai, pode, era, estão, tem</li>
     <li>INTJ: viu</li>
-    <li>NOUN: garante</li>
     <li>VERB: há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</li>
   </ul>
   </li>
@@ -221,7 +220,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Inf
   <ul>
     <li>AUX: ser, ter, estar, vir, continuar, serem, poder, ir, terem, passar</li>
-    <li>NOUN: bafejar, decorrer, entardecer, entender, quebrar, Olhar, distender, fumar</li>
+    <li>NOUN: distender, entender</li>
     <li>VERB: fazer, ter, ver, dar, dizer, falar, manter, saber, ir, passar</li>
   </ul>
   </li>
@@ -230,11 +229,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: eleito, Animado, achado, acirrada, animada, apropriados, atacados, coloridas, cotados, definidas</li>
-    <li>AUX: sido, vindo, estado, acabado, agredido, ido, permitido, Acabadinho, acabados, aceite</li>
-    <li>NOUN: feridos, arguido, chibatadas, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido</li>
-    <li>PROPN: visto, Dado</li>
-    <li>VERB: feito, feita, feitas, dito, tido, eleito, passado, visto, aberto, considerado</li>
+    <li>ADJ: passado, cotados, fragilizado, sentidos, verificada</li>
+    <li>AUX: sido, vindo, estado, acabado, ido, permitido, Acabadinho, acabados, volta</li>
+    <li>NOUN: RECOMENDADOS, classificado, obcecados, preservada, procurados</li>
+    <li>PROPN: visto</li>
+    <li>VERB: feito, feita, feitas, dito, tido, eleito, visto, aberto, considerado, dado</li>
   </ul>
   </li>
 </ul>
@@ -249,21 +248,21 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: primeira, nova, maior, grande, última, mesma, segunda, boa, política, novas</li>
-      <li>ADJ-Part: acirrada, animada, coloridas, definidas, drogada, estimada, existente, mista, orquestrada, pesada</li>
+      <li>ADJ: primeira, nova, maior, grande, última, mesma, segunda, boa, passada, política</li>
+      <li>ADJ-Part: verificada</li>
       <li>ADP: da</li>
-      <li>ADV: mais, bastante</li>
-      <li>AUX-Part: convertidas, discutidas, feridas, rejeitada</li>
+      <li>ADV: as, a, cada, mais, outras, quanto, só, tal</li>
+      <li>AUX-Part: volta</li>
       <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
       <li>INTJ: Obrigada, rua</li>
       <li>NOUN: pessoas, parte, semana, empresa, empresas, forma, cidade, casa, vida, vezes</li>
-      <li>NOUN-Part: chibatadas, verificada, apresentada, cochilada, compostas, destinadas, enterradas, largada, organizadas, participada</li>
-      <li>NUM: meia</li>
-      <li>PRON: que, se, ela, a, as, elas, lhe, esta, eu, qual</li>
+      <li>NOUN-Part: preservada</li>
+      <li>NUM: 4ª, dezenas, meia</li>
+      <li>PRON: que, se, a, ela, as, elas, lhe, esta, eu, qual</li>
       <li>PROPN: Lisboa, Folha, Alemanha, França, Comissão, Espanha, Europa, Câmara, Rússia, Associação</li>
-      <li>SCONJ: se</li>
-      <li>VERB: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
-      <li>VERB-Part: feita, feitas, considerada, criada, realizada, dada, passada, utilizada, apresentada, marcada</li>
+      <li>SCONJ: que, se</li>
+      <li>VERB: feita, feitas, considerada, criada, realizada, apresentada, dada, utilizada, marcada, aprovada</li>
+      <li>VERB-Part: feita, feitas, considerada, criada, realizada, apresentada, dada, utilizada, marcada, aprovada</li>
       <li>X: made, Body, morcilla, natura</li>
     </ul>
   </li>
@@ -272,28 +271,26 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: primeiro, novo, mesmo, último, passado, segundo, últimos, bom, maior, grande</li>
-      <li>ADJ-Part: eleito, Animado, achado, apropriados, atacados, cotados, detalhados, errado, ferido, fragilizado</li>
+      <li>ADJ: primeiro, novo, mesmo, passado, último, segundo, últimos, bom, maior, grande</li>
+      <li>ADJ-Part: passado, cotados, fragilizado, sentidos</li>
       <li>ADP: por, como, a</li>
-      <li>ADV: não, menos, mais, bom, claro, forte, mal, muito, novo, quanto</li>
-      <li>AUX-Part: sido, Acabadinho, acabados, aceite, atualizados, deslocado, interpelado, perdoados, proibido</li>
-      <li>CCONJ: entanto, mesmo</li>
+      <li>ADV: não, um, muito, mais, menos, pouco, quanto, como, bom, claro</li>
+      <li>AUX-Part: sido, Acabadinho, acabados</li>
+      <li>CCONJ: e/ou, entanto, mesmo</li>
       <li>DET: o, os, um, seu, este, seus, esse, todos, outros, outro</li>
       <li>INTJ: Adeus</li>
-      <li>NOUN: anos, milhões, ano, presidente, dia, país, contos, tempo, grupo, governo</li>
-      <li>NOUN-Inf: Olhar</li>
-      <li>NOUN-Part: feridos, arguido, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido, previsto</li>
-      <li>NUM: cento, meia, dúzia, um, 185/60, XVII</li>
+      <li>NOUN: anos, ano, presidente, dia, país, contos, tempo, grupo, governo, dias</li>
+      <li>NOUN-Part: RECOMENDADOS, classificado, obcecados, procurados</li>
+      <li>NUM: cento, meia, milhões, dúzia, milhares, um, 1., 185/60, XVII, bilhões</li>
       <li>PART: pós</li>
-      <li>PRON: que, se, o, ele, isso, tudo, eles, lhe, os, isto</li>
+      <li>PRON: que, se, o, ele, isso, tudo, eles, os, lhe, isto</li>
       <li>PROPN: São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</li>
-      <li>PROPN-Part: visto, Dado</li>
+      <li>PROPN-Part: visto</li>
       <li>SCONJ: que, como</li>
-      <li>SYM: %, US$, R$, CR$</li>
       <li>VERB: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
       <li>VERB-Fin: considerara</li>
       <li>VERB-Part: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
-      <li>X: Dream, MacMillan, consejero, dolce, godfather, kebab, killer, line, primitive, prélude</li>
+      <li>X: Dream, Insight, MacMillan, consejero, dolce, godfather, kebab, killer, line, primitive</li>
     </ul>
   </li>
 </ul>
@@ -301,13 +298,14 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Unsp
     <ul>
-      <li>ADJ: melhor, capaz, especial, favorável, inconvenientes, jovens, mole, 2., I, II</li>
-      <li>DET: mais, cada, qual, qualquer, Que, tal</li>
+      <li>ADJ: melhor, capaz, especial, favorável, inconvenientes, jovens, mole, II, Independente, Medíocre</li>
+      <li>ADV: mais, Que, tal</li>
+      <li>DET: cada, qual, qualquer, mais</li>
       <li>NOUN: especialistas, representantes, jornalistas, jovens, habitantes, visitantes, Presidente, artistas, clientes, especial</li>
+      <li>NUM: 2., I</li>
       <li>PRON: se, quem, me, nos, eu, você, nós, que, lhe, mim</li>
       <li>PRON-Ger: se</li>
       <li>PROPN: Coimbra, Alvalade, Maastricht, Barcelos, Braga, Ermesinde, Aveiro, Drosnin, Frankfurt, Jacarta</li>
-      <li>SCONJ: se</li>
     </ul>
   </li>
 </ul>
@@ -321,21 +319,22 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Plur
     <ul>
       <li>ADJ: grandes, últimos, novos, novas, primeiros, principais, melhores, internacionais, maiores, públicos</li>
-      <li>ADJ-Part: apropriados, atacados, coloridas, cotados, definidas, detalhados, pegos, pretendidas, privilegiados, restritas</li>
-      <li>ADV: menos, mais</li>
+      <li>ADJ-Part: cotados, sentidos</li>
+      <li>ADV: as, mais, menos, juntos, outras, outros</li>
       <li>AUX: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
       <li>AUX-Fin: são, foram, estão, podem, vão, têm, serão, devem, eram, estavam</li>
       <li>AUX-Inf: serem, terem, estarem, estarmos, haverem, passarem, poderem, continuarem, irem, podermos</li>
-      <li>AUX-Part: acabados, atualizados, convertidas, discutidas, feridas, perdoados</li>
+      <li>AUX-Part: acabados</li>
       <li>DET: os, as, seus, suas, todos, outros, outras, alguns, algumas, todas</li>
-      <li>NOUN: anos, milhões, pessoas, contos, dias, pontos, empresas, meses, países, vezes</li>
-      <li>NOUN-Part: feridos, chibatadas, colocados, culpados, envolvidos, recomendados, usados, visitados, afectados, blindados</li>
-      <li>PRON: que, se, eles, os, nos, todos, outros, as, elas, nós</li>
+      <li>NOUN: anos, pessoas, contos, dias, pontos, empresas, meses, países, vezes, problemas</li>
+      <li>NOUN-Part: RECOMENDADOS, obcecados, procurados</li>
+      <li>NUM: milhões, milhares, 24, bilhões, dezenas</li>
+      <li>PRON: que, se, eles, os, nos, as, outros, todos, elas, nós</li>
       <li>PROPN: EUA, Estados, Assuntos, Nações, Antas, Açores, Comandos, Encontros, Forças, Misericórdias</li>
-      <li>SYM: %, US$, R$, CR$</li>
-      <li>VERB-Fin: têm, existem, fizeram, dizem, querem, dão, fazem, temos, chegaram, conseguiram</li>
+      <li>VERB: têm, existem, fizeram, dizem, feitas, querem, dão, fazem, temos, chegaram</li>
+      <li>VERB-Fin: têm, existem, fizeram, dizem, querem, dão, fazem, temos, chegaram, estão</li>
       <li>VERB-Inf: terem, ficarem, aceitarem, chegarem, exigirem, fazerem, fornecerem, funcionarem, manterem, mostrarem</li>
-      <li>VERB-Part: feitas, ligados, feitos, acusados, realizados, chamados, colocados, apresentadas, envolvidos, realizadas</li>
+      <li>VERB-Part: feitas, ligados, feitos, acusados, realizados, chamados, colocados, apresentadas, envolvidos, ligadas</li>
       <li>X: made</li>
     </ul>
   </li>
@@ -344,35 +343,32 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: primeiro, maior, primeira, novo, grande, nova, mesmo, melhor, último, nacional</li>
-      <li>ADJ-Part: eleito, Animado, achado, acirrada, animada, drogada, errado, estimada, existente, ferido</li>
-      <li>ADP: por, da, como, sobre, a</li>
-      <li>ADV: não, mais, bem, menos, bastante, bom, claro, forte, mal, muito</li>
+      <li>ADJ: maior, primeiro, grande, primeira, novo, nova, mesmo, melhor, passado, último</li>
+      <li>ADJ-Part: passado, fragilizado, verificada</li>
+      <li>ADP: por, a, da, como, sobre</li>
+      <li>ADV: não, um, muito, mais, quanto, pouco, menos, como, bem, bom</li>
       <li>AUX-Fin: é, foi, está, vai, pode, era, tem, será, deve, estava</li>
       <li>AUX-Inf: ser, ter, estar, ir, começar, haver, poder, vir</li>
-      <li>AUX-Part: sido, Acabadinho, aceite, deslocado, interpelado, proibido, rejeitada</li>
-      <li>CCONJ: e, entanto, mesmo</li>
+      <li>AUX-Part: sido, Acabadinho, volta</li>
+      <li>CCONJ: e, e/ou, entanto, mesmo</li>
       <li>DET: o, a, um, uma, sua, seu, este, esta, esse, qualquer</li>
       <li>INTJ: Adeus, Obrigada, rua, viu</li>
       <li>INTJ-Fin: viu</li>
       <li>NOUN: presidente, ano, dia, país, tempo, grupo, governo, estado, parte, acordo</li>
-      <li>NOUN-Fin: garante</li>
-      <li>NOUN-Inf: Olhar, distender, fumar</li>
-      <li>NOUN-Part: arguido, classificado, colocado, esperado, ocorrido, previsto, verificada, acumulado, amassado, apresentada</li>
-      <li>NUM: cento, meia, 3, dúzia, 14, 2, 4, 94, um, 185/60</li>
+      <li>NOUN-Part: classificado, preservada</li>
+      <li>NUM: cento, meia, dúzia, 14, 2, 3, 94, um, 1., 185/60</li>
       <li>PART: pós</li>
-      <li>PRON: que, se, o, ele, isso, lhe, quem, tudo, eu, ela</li>
+      <li>PRON: que, se, o, ele, isso, lhe, quem, tudo, eu, a</li>
       <li>PRON-Ger: se</li>
       <li>PROPN: Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</li>
-      <li>PROPN-Part: visto, Dado</li>
-      <li>PUNCT: ?</li>
+      <li>PROPN-Part: visto</li>
+      <li>PUNCT: ,, ?</li>
       <li>SCONJ: que, como, se</li>
-      <li>SYM: R$, US$</li>
       <li>VERB: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
       <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, faz, teve</li>
       <li>VERB-Inf: ter, dar, haver, retirar, saber, ver, aprovar, atingir, cair, chegar</li>
       <li>VERB-Part: feita, feito, eleito, aberto, considerado, considerada, realizado, acusado, criada, divulgado</li>
-      <li>X: for, jet, ski, Burgos, Children, Dictionary, Sure, Team, non-mesuré, Body</li>
+      <li>X: for, jet, ski, Burgos, Children, Dictionary, Manager, Sure, Team, non-mesuré</li>
     </ul>
   </li>
 </ul>
@@ -380,7 +376,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Unsp
     <ul>
-      <li>DET: mais, Que, o(s)</li>
+      <li>ADV: mais, Que</li>
+      <li>DET: o(s)</li>
       <li>NOUN: tratamento(s)</li>
       <li>PRON: mais, quem, que, menos, aquilo, mundo</li>
     </ul>
@@ -426,7 +423,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Def
     <ul>
       <li>ADP: da</li>
-      <li>DET: o, a, os, as, esta, o(s), um</li>
+      <li>DET: o, a, os, as, esta, o(s), um, uma</li>
       <li>PRON: o, os, a, as, que</li>
     </ul>
   </li>
@@ -435,6 +432,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Ind
     <ul>
+      <li>ADV: um</li>
       <li>DET: um, uma, outra, Nada, o, uns</li>
       <li>NUM: um</li>
       <li>PRON: um</li>
@@ -455,7 +453,6 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Neg
     <ul>
       <li>ADV: não, nada</li>
-      <li>INTJ: não</li>
     </ul>
   </li>
 </ul>
@@ -490,9 +487,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
+      <li>AUX-Fin: é, foi, são, está, foram, vai, pode, era, estão, tem</li>
       <li>INTJ-Fin: viu</li>
-      <li>NOUN-Fin: garante</li>
       <li>VERB-Fin: há, disse, tem, diz, é, fez, afirmou, foi, têm, faz</li>
     </ul>
   </li>
@@ -501,7 +497,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: seja, for, tenha, fosse, possa, sejam, esteja, estejam, possam, estivesse</li>
+      <li>AUX-Fin: seja, for, tenha, fosse, possa, sejam, esteja, estejam, possam, fossem</li>
       <li>VERB-Fin: seja, tenha, quiser, leia, recorde, haja, houver, pense, veja, for</li>
     </ul>
   </li>
@@ -515,7 +511,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Fut
     <ul>
       <li>AUX-Fin: será, poderá, deverá, serão, terá, for, irá, estará, deverão, poderão</li>
-      <li>VERB-Fin: terá, terão, haverá, será, quiser, ficará, houver, fará, for, permitirá</li>
+      <li>VERB-Fin: terá, haverá, será, terão, quiser, ficará, houver, fará, for, permitirá</li>
     </ul>
   </li>
 </ul>
@@ -552,8 +548,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: é, está, são, vai, pode, estão, tem, deve, podem, seja</li>
-      <li>NOUN-Fin: garante</li>
+      <li>AUX-Fin: é, são, está, vai, pode, estão, tem, deve, podem, seja</li>
       <li>VERB-Fin: há, tem, diz, é, têm, faz, afirma, dá, quer, trata</li>
     </ul>
   </li>
@@ -566,11 +561,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: pegos</li>
-      <li>NOUN-Part: afectados, apresentada, compostas, denunciados, estimado, recomendados, requeridas</li>
       <li>VERB-Fin: fez, Esperam, Sustêm, Trata, Vejam, avaliam, citem, confirmou, conhecem, descobriram</li>
       <li>VERB-Inf: anunciar, aprovar, candidatar, contrair, divulgar, dizer, elaborar, entender, evitar, pagar</li>
-      <li>VERB-Part: feita, feito, feitas, considerado, considerada, aprovada, lançado, acompanhado, tomada, apresentada</li>
+      <li>VERB-Part: feita, feito, feitas, considerado, considerada, aprovada, lançado, acompanhado, apresentada, tomada</li>
     </ul>
   </li>
 </ul>
@@ -586,6 +579,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Art
     <ul>
+      <li>ADV: um, a</li>
       <li>DET: o, a, os, as, um, uma, uns, esta, umas, outra</li>
       <li>NUM: um</li>
       <li>PRON: o, os, a, as, que, um</li>
@@ -597,8 +591,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Dem
     <ul>
-      <li>DET: este, esta, esse, essa, estes, estas, esses, aquele, essas, o</li>
-      <li>NOUN: aquele</li>
+      <li>ADV: as</li>
+      <li>DET: este, esta, esse, essa, estes, estas, esses, aquele, essas, aquela</li>
       <li>PRON: o, isso, isto, os, a, este, esta, as, mesmo, aquilo</li>
     </ul>
   </li>
@@ -607,7 +601,6 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Emp
     <ul>
-      <li>ADJ: próprio, própria, próprias</li>
       <li>DET: próprio, própria, próprios, próprias</li>
     </ul>
   </li>
@@ -616,12 +609,12 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: diferentes, outra</li>
-      <li>ADV: mais, bastante, menos, muito</li>
+      <li>ADJ: outra</li>
+      <li>ADV: muito, mais, pouco, tal, menos, outras, outros, tanto</li>
       <li>DET: qualquer, outros, outro, mais, outras, alguns, algumas, outra, muitos, vários</li>
-      <li>NOUN: outros</li>
-      <li>PRON: tudo, nada, outros, ninguém, que, outro, algo, alguns, mais, alguém</li>
+      <li>PRON: tudo, nada, outros, ninguém, que, outro, algo, alguns, alguém, mais</li>
       <li>PROPN: que</li>
+      <li>SCONJ: Que</li>
     </ul>
   </li>
 </ul>
@@ -629,10 +622,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Int
     <ul>
-      <li>ADV: quanto</li>
-      <li>DET: que, quanto, quais, qual, Quantos, Quantas, quando</li>
+      <li>ADV: quanto, Que</li>
+      <li>DET: que, qual, quais, Quantos, quanto, Quantas</li>
       <li>PRON: que, quem, qual, quais, quanto, quantos, quê</li>
-      <li>SCONJ: que</li>
     </ul>
   </li>
 </ul>
@@ -661,8 +653,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Rel
     <ul>
       <li>ADP: segundo, enquanto, como, quando, apenas, conforme</li>
-      <li>DET: cujo, cuja, cujas, qual, cujos, quais, quanto, Quantos</li>
-      <li>PRON: que, quem, qual, quais, tudo, quanto, cuja, quantos, Nada, qu</li>
+      <li>ADV: quando, quanto</li>
+      <li>DET: cujo, cuja, cujas, cujos, qual, quais, Quantos, quanto</li>
+      <li>PRON: que, quem, qual, quais, tudo, onde, o, os, quanto, cuja</li>
       <li>SCONJ: que</li>
     </ul>
   </li>
@@ -671,8 +664,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Tot
     <ul>
+      <li>ADV: cada</li>
       <li>DET: todos, cada, toda, todo, todas, ambos, ambas, tudo</li>
-      <li>PRON: todos, ambos, todas, todo, cada, Ambas, tudo</li>
+      <li>PRON: todos, ambos, todas, todo, cada, Ambas</li>
     </ul>
   </li>
 </ul>
@@ -684,10 +678,10 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Card
     <ul>
-      <li>DET: um, uma</li>
-      <li>NOUN: um, 11, 1200, 156.942, 86.871, onze, quatro, três</li>
-      <li>NUM: um, dois, três, mil, uma, duas, quatro, cinco, 15, 30</li>
-      <li>PROPN: 1.560, 1.565, Doze</li>
+      <li>DET: um</li>
+      <li>NOUN: um, 11, 1200, 156.942, 86.871, centenas, onze, quatro, três</li>
+      <li>NUM: um, dois, três, milhões, mil, uma, duas, quatro, cinco, 15</li>
+      <li>PROPN: 1.565, Doze</li>
     </ul>
   </li>
 </ul>
@@ -695,7 +689,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>Frac
     <ul>
-      <li>NUM: meia</li>
+      <li>NUM: meia, meio</li>
     </ul>
   </li>
 </ul>
@@ -712,7 +706,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Ord
     <ul>
       <li>ADJ: primeiro, primeira, último, última, segundo, últimos, segunda, primeiros, terceiro, terceira</li>
-      <li>NUM: quinta, XVII</li>
+      <li>NOUN: primeiro</li>
+      <li>NUM: IX, quinta, 1., 2., 4ª, I, XVII</li>
     </ul>
   </li>
 </ul>
@@ -742,8 +737,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>1
     <ul>
-      <li>AUX: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
-      <li>AUX-Fin: estamos, estou, fui, vamos, podemos, somos, vou, sou, tenho, temos</li>
+      <li>AUX: estamos, estou, fui, vamos, podemos, somos, sou, vou, tenho, temos</li>
+      <li>AUX-Fin: estamos, estou, fui, vamos, podemos, somos, sou, vou, tenho, temos</li>
       <li>AUX-Inf: estarmos, podermos, sermos</li>
       <li>PRON: eu, me, nos, nós, mim, nosco</li>
       <li>VERB-Fin: sei, tenho, acho, temos, espero, penso, queremos, quero, acredito, creio</li>
@@ -765,11 +760,9 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: é, foi, está, são, foram, vai, pode, era, estão, tem</li>
+      <li>AUX-Fin: é, foi, são, está, foram, vai, pode, era, estão, tem</li>
       <li>AUX-Inf: serem, ser, ter, terem, estarem, estar, haverem, ir, passarem, poderem</li>
       <li>INTJ-Fin: viu</li>
-      <li>NOUN-Fin: garante</li>
-      <li>NOUN-Inf: distender, fumar</li>
       <li>PRON: se, ele, lhe, o, eles, ela, a, elas, você, lo</li>
       <li>PRON-Ger: se</li>
       <li>SCONJ: se</li>
@@ -823,8 +816,8 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
 </ul>
 
 <ul>
-<li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: ter, poder, ir, dever, estar, vir, continuar, começar, acabar, ser, passar, haver, voltar, deixar, parecer, chegar, ficar, costumar, andar, parar, abster, aceitar, agredir, ameaçar, atualizar, comedir, converter, deslocar, discutir, encaminhar, envergonhar, fazer, ferir, interpelar, perdoar, permitir, procurar, proibir, recomeçar, rejeitar, reunir, sujar, tender, tomar, tornar.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, _, ficar.</li>
+<li>This corpus uses 24 lemmas as auxiliaries (<a>aux</a>). Examples: ter, poder, ir, estar, dever, vir, continuar, começar, acabar, ser, passar, haver, voltar, deixar, parecer, chegar, costumar, ficar, andar, parar, procurar, quer, tender, tornar.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, ficar.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -833,26 +826,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN (5)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (3469)</li>
+      <li>VERB-Fin--NOUN (3463)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
-      <li>VERB-Fin--PRON (1702)</li>
-      <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-Acc (219)</li>
-      <li>VERB-Fin--PRON-Nom (332)</li>
-      <li>VERB-Ger--NOUN (72)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (4)</li>
+      <li>VERB-Fin--NOUN-ADP(sem) (1)</li>
+      <li>VERB-Fin--PRON (1708)</li>
+      <li>VERB-Fin--PRON-ADP(contra) (1)</li>
+      <li>VERB-Fin--PRON-ADP(de) (2)</li>
+      <li>VERB-Fin--PRON-ADP(em) (2)</li>
+      <li>VERB-Fin--PRON-Acc (214)</li>
+      <li>VERB-Fin--PRON-Nom (330)</li>
+      <li>VERB-Ger--NOUN (74)</li>
       <li>VERB-Ger--PRON (27)</li>
       <li>VERB-Ger--PRON-Acc (15)</li>
-      <li>VERB-Ger--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN (598)</li>
-      <li>VERB-Inf--PRON (183)</li>
+      <li>VERB-Ger--PRON-Nom (8)</li>
+      <li>VERB-Inf--NOUN (597)</li>
+      <li>VERB-Inf--PRON (182)</li>
       <li>VERB-Inf--PRON-Acc (77)</li>
-      <li>VERB-Inf--PRON-Nom (55)</li>
-      <li>VERB-Part--NOUN (213)</li>
-      <li>VERB-Part--PRON (58)</li>
+      <li>VERB-Inf--PRON-Nom (56)</li>
+      <li>VERB-Part--NOUN (222)</li>
+      <li>VERB-Part--NOUN-ADP(de) (8)</li>
+      <li>VERB-Part--PRON (59)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
-      <li>VERB-Part--PRON-Nom (13)</li>
+      <li>VERB-Part--PRON-Nom (12)</li>
+      <li>VERB-Part--PRON-Nom-ADP(de) (1)</li>
     </ul>
   </li>
 </ul>
@@ -860,31 +859,77 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN-ADP(a) (2)</li>
+      <li>VERB--NOUN-ADP(com) (1)</li>
       <li>VERB--PRON (2)</li>
-      <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (3747)</li>
-      <li>VERB-Fin--NOUN-ADP(com) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
-      <li>VERB-Fin--PRON (445)</li>
+      <li>VERB-Fin--NOUN (3728)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (207)</li>
+      <li>VERB-Fin--NOUN-ADP(com) (91)</li>
+      <li>VERB-Fin--NOUN-ADP(contra) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (232)</li>
+      <li>VERB-Fin--NOUN-ADP(em) (104)</li>
+      <li>VERB-Fin--NOUN-ADP(para) (32)</li>
+      <li>VERB-Fin--NOUN-ADP(por) (29)</li>
+      <li>VERB-Fin--NOUN-ADP(sobre) (8)</li>
+      <li>VERB-Fin--PRON (463)</li>
+      <li>VERB-Fin--PRON-ADP(a) (20)</li>
+      <li>VERB-Fin--PRON-ADP(com) (4)</li>
+      <li>VERB-Fin--PRON-ADP(de) (19)</li>
+      <li>VERB-Fin--PRON-ADP(em) (8)</li>
+      <li>VERB-Fin--PRON-ADP(para) (3)</li>
+      <li>VERB-Fin--PRON-ADP(por) (2)</li>
+      <li>VERB-Fin--PRON-ADP(sobre) (3)</li>
       <li>VERB-Fin--PRON-Acc (335)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(tal) (1)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Ger--NOUN (386)</li>
-      <li>VERB-Ger--NOUN-ADP(com) (1)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (1)</li>
-      <li>VERB-Ger--PRON (13)</li>
-      <li>VERB-Ger--PRON-Acc (23)</li>
+      <li>VERB-Ger--NOUN (381)</li>
+      <li>VERB-Ger--NOUN-ADP(a) (18)</li>
+      <li>VERB-Ger--NOUN-ADP(até) (1)</li>
+      <li>VERB-Ger--NOUN-ADP(com) (8)</li>
+      <li>VERB-Ger--NOUN-ADP(de) (22)</li>
+      <li>VERB-Ger--NOUN-ADP(em) (4)</li>
+      <li>VERB-Ger--NOUN-ADP(para) (3)</li>
+      <li>VERB-Ger--NOUN-ADP(por) (5)</li>
+      <li>VERB-Ger--PRON (15)</li>
+      <li>VERB-Ger--PRON-ADP(por) (1)</li>
+      <li>VERB-Ger--PRON-Acc (24)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN (2109)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (12)</li>
+      <li>VERB-Inf--NOUN (2102)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (73)</li>
+      <li>VERB-Inf--NOUN-ADP(a)-ADP(de) (2)</li>
+      <li>VERB-Inf--NOUN-ADP(com) (39)</li>
       <li>VERB-Inf--NOUN-ADP(como) (1)</li>
-      <li>VERB-Inf--PRON (121)</li>
-      <li>VERB-Inf--PRON-Acc (131)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (65)</li>
+      <li>VERB-Inf--NOUN-ADP(em) (47)</li>
+      <li>VERB-Inf--NOUN-ADP(para) (11)</li>
+      <li>VERB-Inf--NOUN-ADP(por) (12)</li>
+      <li>VERB-Inf--NOUN-ADP(sobre) (5)</li>
+      <li>VERB-Inf--PRON (138)</li>
+      <li>VERB-Inf--PRON-ADP(a) (5)</li>
+      <li>VERB-Inf--PRON-ADP(com) (3)</li>
+      <li>VERB-Inf--PRON-ADP(de) (2)</li>
+      <li>VERB-Inf--PRON-ADP(em) (4)</li>
+      <li>VERB-Inf--PRON-ADP(por) (1)</li>
+      <li>VERB-Inf--PRON-ADP(sobre) (1)</li>
+      <li>VERB-Inf--PRON-Acc (130)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN (182)</li>
-      <li>VERB-Part--NOUN-ADP(por) (1)</li>
-      <li>VERB-Part--PRON (30)</li>
+      <li>VERB-Part--NOUN (181)</li>
+      <li>VERB-Part--NOUN-ADP(a) (140)</li>
+      <li>VERB-Part--NOUN-ADP(com) (29)</li>
+      <li>VERB-Part--NOUN-ADP(de) (70)</li>
+      <li>VERB-Part--NOUN-ADP(em) (55)</li>
+      <li>VERB-Part--NOUN-ADP(em)-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN-ADP(para) (12)</li>
+      <li>VERB-Part--NOUN-ADP(por) (11)</li>
+      <li>VERB-Part--NOUN-ADP(sobre) (4)</li>
+      <li>VERB-Part--PRON (29)</li>
+      <li>VERB-Part--PRON-ADP(a) (8)</li>
+      <li>VERB-Part--PRON-ADP(com) (1)</li>
+      <li>VERB-Part--PRON-ADP(de) (3)</li>
+      <li>VERB-Part--PRON-ADP(em) (2)</li>
+      <li>VERB-Part--PRON-ADP(por) (4)</li>
       <li>VERB-Part--PRON-Acc (13)</li>
     </ul>
   </li>
@@ -893,14 +938,42 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-ADP(a) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(em) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(para) (1)</li>
-      <li>VERB-Fin--PRON-Acc (7)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (133)</li>
+      <li>VERB-Fin--NOUN-ADP(com) (14)</li>
+      <li>VERB-Fin--NOUN-ADP(contra) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (40)</li>
+      <li>VERB-Fin--NOUN-ADP(em) (19)</li>
+      <li>VERB-Fin--NOUN-ADP(para) (9)</li>
+      <li>VERB-Fin--NOUN-ADP(por) (8)</li>
+      <li>VERB-Fin--NOUN-ADP(sobre) (2)</li>
+      <li>VERB-Fin--PRON-ADP(a) (20)</li>
+      <li>VERB-Fin--PRON-ADP(com) (1)</li>
+      <li>VERB-Fin--PRON-ADP(de) (6)</li>
+      <li>VERB-Fin--PRON-ADP(em) (1)</li>
+      <li>VERB-Fin--PRON-ADP(para) (2)</li>
+      <li>VERB-Fin--PRON-ADP(por) (2)</li>
+      <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Fin--PRON-Dat (157)</li>
+      <li>VERB-Ger--NOUN-ADP(a) (12)</li>
+      <li>VERB-Ger--NOUN-ADP(de) (5)</li>
+      <li>VERB-Ger--NOUN-ADP(em) (4)</li>
+      <li>VERB-Ger--NOUN-ADP(por) (3)</li>
+      <li>VERB-Ger--PRON-ADP(a) (2)</li>
       <li>VERB-Ger--PRON-Dat (8)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (67)</li>
+      <li>VERB-Inf--NOUN-ADP(com) (3)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (19)</li>
+      <li>VERB-Inf--NOUN-ADP(em) (11)</li>
+      <li>VERB-Inf--NOUN-ADP(para) (6)</li>
+      <li>VERB-Inf--NOUN-ADP(por) (2)</li>
+      <li>VERB-Inf--NOUN-ADP(sobre) (2)</li>
+      <li>VERB-Inf--PRON-ADP(a) (6)</li>
+      <li>VERB-Inf--PRON-ADP(de) (4)</li>
       <li>VERB-Inf--PRON-Dat (39)</li>
+      <li>VERB-Part--NOUN-ADP(a) (7)</li>
+      <li>VERB-Part--NOUN-ADP(com) (1)</li>
+      <li>VERB-Part--NOUN-ADP(de) (3)</li>
+      <li>VERB-Part--PRON-ADP(para) (1)</li>
       <li>VERB-Part--PRON-Dat (14)</li>
     </ul>
   </li>
@@ -912,6 +985,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:npmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

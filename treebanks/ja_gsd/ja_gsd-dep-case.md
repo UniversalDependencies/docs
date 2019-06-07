@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41128 nodes (22%) are attached to their parents as `case`.
+41084 nodes (22%) are attached to their parents as `case`.
 
-41128 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22327854503015.
+41084 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22295784246909.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (32485; 79% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4342; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (2418; 6% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1051; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (466; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (187; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (32449; 79% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4346; 11% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (2408; 6% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (1049; 3% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (467; 1% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (187; 0% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 0% instances), <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No

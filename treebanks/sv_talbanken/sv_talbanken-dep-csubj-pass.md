@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	ju	ju	ADV	AB	_	3	advmod	3:advmod	_
 5	att	att	SCONJ	SN	_	9	mark	9:mark	_
 6	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	9	expl	9:expl	_
-7	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
+7	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
 8	under	under	ADP	PP	_	9	case	9:case	_
 9	tiden	tid	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	csubj:pass	3:csubj:pass	_
 10	efter	efter	ADP	PP	_	11	case	11:case	_

@@ -16,7 +16,7 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe.
+The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud22)<br />
@@ -29,7 +29,7 @@ Genre: news, wiki
 Questions, comments?
 General annotation questions (either French-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_French-PUD/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [bruno&nbsp;•&nbsp;guillaume&nbsp;(æt)&nbsp;inria&nbsp;•&nbsp;fr].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -96,11 +96,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 24138 tokens and 24734 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 24137 tokens and 24734 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3446 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 3445 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -112,7 +112,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 596 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 597 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 5 types of multi-word tokens. Examples: du, des, au, aux, desquelles.</li>
 </ul>
 
@@ -156,8 +156,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: devenant, laissant, appelée, rendue, été</li>
-    <li>VERB: concernant, ayant, permettant, pouvant, dépassant, faisant, provenant, représentant, dirigée, réalisé</li>
+    <li>AUX: été</li>
+    <li>VERB: concernant, ayant, permettant, pouvant, dépassant, faisant, laissant, provenant, représentant, dirigée</li>
   </ul>
   </li>
 </ul>
@@ -174,13 +174,12 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: première, grande, nouvelle, plusieurs, dernière, dernières, nombreuses, nouvelles, autres, deuxième</li>
       <li>ADP: dont</li>
-      <li>AUX: devenue, appelée, déclarée, montrée, nommée, proclamée, rendue</li>
-      <li>AUX-Part: appelée, rendue</li>
       <li>DET: la, les, une, l', l’, des, cette, de, toute, ces</li>
       <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
       <li>PRON: sa, qui, elle, leur, se, ses, leurs, s', son, elles</li>
       <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Grande-Bretagne, Méditerranée</li>
-      <li>VERB: composée, dirigée, apparue, utilisée, considérée, considérées, déroulée, détruite, faite, formée</li>
+      <li>SCONJ: que</li>
+      <li>VERB: composée, dirigée, apparue, devenue, utilisée, considérée, considérées, déroulée, détruite, faite</li>
       <li>VERB-Part: dirigée, menée, suivies, Financées, Formée, Reconnue, accumulées, accusées, adoptée, animée</li>
     </ul>
   </li>
@@ -189,15 +188,16 @@ employ ten-fold cross-validation.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: autres, grand, général, nouveaux, plusieurs, certains, nouveau, premier, chaque, dernier</li>
+      <li>ADJ: autres, grand, général, nouveaux, plusieurs, certains, nouveau, chaque, dernier, nombreux</li>
       <li>ADP: dont, au-delà</li>
-      <li>AUX: été, devenu, apparu, appelé, connu, resté, restés</li>
+      <li>AUX: été</li>
       <li>AUX-Part: été</li>
       <li>DET: le, les, un, l', des, l’, ce, ces, de, tout</li>
       <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
+      <li>NUM: 1er, premier</li>
       <li>PRON: il, qui, son, ils, se, s', ses, leur, lui, le</li>
       <li>PROPN: Trump, J.-C., États-Unis, Joseph, Donald, Gerry, Cameroun, Disney, Edgar, Mexique</li>
-      <li>VERB: été, eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé</li>
+      <li>VERB: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
       <li>VERB-Part: réalisé, dirigés, fondé, inscrits, passé, situé, Conçu, Enterré, abandonné, accompagné</li>
     </ul>
   </li>
@@ -213,12 +213,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: autres, plusieurs, nouveaux, certains, dernières, nombreuses, nouvelles, nombreux, quelques, telles</li>
       <li>ADP: dont</li>
-      <li>AUX: sont, étaient, sommes, baptisèrent, furent, fussent, laissaient, rendent, restaient, restent</li>
+      <li>AUX: ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</li>
       <li>DET: les, des, ces, de, d', tous, d’, toutes, The, e</li>
       <li>NOUN: années, ans, personnes, entreprises, dollars, jours, euros, femmes, gens, mois</li>
       <li>PRON: qui, ils, ses, nous, se, leurs, vous, eux, elles, s'</li>
       <li>PROPN: États-Unis, Caraïbes, Alpes, Andes, Antilles, Balkans, Boeing, Forums, Humblebums, News</li>
-      <li>VERB: ont, sont, avaient, peuvent, étaient, pourraient, aient, furent, auraient, avons</li>
+      <li>SCONJ: que</li>
+      <li>VERB: peuvent, sont, ont, pourraient, étaient, font, devons, avaient, commencent, devraient</li>
       <li>VERB-Part: dirigés, inscrits, suivies, Financées, accompagnés, accumulées, accusées, appliquées, choisies, clos</li>
     </ul>
   </li>
@@ -229,13 +230,14 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: première, chaque, grand, grande, nouvelle, britannique, autre, général, même, deuxième</li>
       <li>ADP: dont, au-delà</li>
-      <li>AUX: est, était, été, fut, devint, appelle, devenu, serait, soit, devenue</li>
-      <li>AUX-Part: appelée, rendue, été</li>
+      <li>AUX: a, est, été, était, avait, fut, ai, soit, aurait, serait</li>
+      <li>AUX-Part: été</li>
       <li>DET: le, la, l', un, une, l’, cette, ce, the, de</li>
       <li>NOUN: guerre, partie, ville, nord, année, état, sud, gouvernement, mer, siècle</li>
+      <li>NUM: 1er, premier</li>
       <li>PRON: il, qui, son, sa, elle, leur, se, on, je, s'</li>
       <li>PROPN: Chine, Hong, Kong, Paris, Trump, Pékin, J.-C., Amérique, Europe, Londres</li>
-      <li>VERB: a, est, été, avait, était, fut, peut, dit, fait, eu</li>
+      <li>VERB: a, est, peut, dit, fait, eu, déclaré, avait, était, pourrait</li>
       <li>VERB-Part: dirigée, réalisé, fondé, menée, passé, situé, Conçu, Enterré, Formée, Reconnue</li>
     </ul>
   </li>
@@ -272,8 +274,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: serait, rendrait, serais</li>
-      <li>VERB: pourrait, aurait, pourraient, devrait, auraient, serait, devraient, irait, aiderait, autoriserait</li>
+      <li>AUX: auraient, aurait, serait, pourrait, serais</li>
+      <li>VERB: pourrait, pourraient, devrait, aurait, devraient, serait, irait, aiderait, autoriserait, choisirait</li>
     </ul>
   </li>
 </ul>
@@ -289,8 +291,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: est, était, sont, étaient, fut, devint, appelle, sera, sommes, a</li>
-      <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, peuvent</li>
+      <li>AUX: a, est, ont, sont, était, avait, fut, avaient, étaient, ai</li>
+      <li>VERB: a, est, peut, avait, était, peuvent, sont, ont, va, étaient</li>
     </ul>
   </li>
 </ul>
@@ -298,8 +300,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: soit, fussent</li>
-      <li>VERB: aient, ait, puisse, soient, soit, aperçoive, chante, donne, décide, fasse</li>
+      <li>AUX: aient, soit, soient, ait, fussent</li>
+      <li>VERB: puisse, ait, aperçoive, chante, donne, décide, fasse, finisse, fût</li>
     </ul>
   </li>
 </ul>
@@ -311,8 +313,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: sera, deviendra, seront</li>
-      <li>VERB: aura, sera, devra, pourront, accueillera, assisteront, augmentera, commercialiseront, concentrerons, continuera</li>
+      <li>AUX: sera, seront</li>
+      <li>VERB: aura, devra, pourront, sera, accueillera, assisteront, augmentera, commercialiseront, concentrerons, continuera</li>
     </ul>
   </li>
 </ul>
@@ -320,8 +322,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: était, étaient, déclarait, faisait, laissaient, pensait, restaient, restait, étais, étions</li>
-      <li>VERB: avait, était, avaient, étaient, pouvait, comprenait, considérait, faisait, pensait, allait</li>
+      <li>AUX: était, avait, avaient, étaient, avais, étais, étions</li>
+      <li>VERB: avait, était, étaient, pouvait, comprenait, faisait, pensait, avaient, considérait, allait</li>
     </ul>
   </li>
 </ul>
@@ -329,8 +331,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: fut, devint, baptisèrent, furent, tomba</li>
-      <li>VERB: fut, furent, prit, eut, commença, dura, permit, put, retourna, retrouva</li>
+      <li>AUX: fut, furent, eut, Didn'</li>
+      <li>VERB: devint, prit, fut, commença, dura, permit, put, retourna, retrouva, tomba</li>
     </ul>
   </li>
 </ul>
@@ -338,8 +340,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: est, sont, appelle, serait, soit, sommes, a, apparaît, constitue, devient</li>
-      <li>VERB: a, ont, est, sont, peut, pourrait, peuvent, ai, aurait, pourraient</li>
+      <li>AUX: a, est, ont, sont, ai, aient, soit, auraient, aurait, serait</li>
+      <li>VERB: a, est, peut, peuvent, pourrait, sont, ont, pourraient, va, devrait</li>
     </ul>
   </li>
 </ul>
@@ -371,9 +373,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>1
     <ul>
-      <li>AUX: sommes, serais, suis, étais, étions</li>
+      <li>AUX: ai, avons, sommes, suis, avais, serais, étais, étions</li>
       <li>PRON: je, nous, notre, nos, j’, j', me, mon, m’, My</li>
-      <li>VERB: ai, avons, devons, suis, Disons, allons, comprends, pense, pensons, pouvons</li>
+      <li>VERB: devons, Disons, allons, comprends, pense, pensons, pouvons, Love, Thought, adorais</li>
     </ul>
   </li>
 </ul>
@@ -381,8 +383,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>2
     <ul>
+      <li>AUX: avez</li>
       <li>PRON: vous, votre, You, toi, 'Ya, se, vos</li>
-      <li>VERB: avez, devez, Buck, Don’t, Knew, Knuck, Laisse, Tiens, Voilà, disputez</li>
+      <li>VERB: devez, Buck, Don’t, Knew, Knuck, Laisse, Tiens, Voilà, avez, disputez</li>
     </ul>
   </li>
 </ul>
@@ -390,9 +393,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>AUX: est, était, sont, étaient, fut, devint, appelle, serait, soit, sera</li>
+      <li>AUX: a, est, ont, sont, était, avait, fut, avaient, étaient, furent</li>
       <li>PRON: il, y, se, son, sa, elle, ils, ses, leur, s'</li>
-      <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, pourrait</li>
+      <li>VERB: a, est, peut, avait, était, peuvent, pourrait, sont, ont, pourraient</li>
     </ul>
   </li>
 </ul>
@@ -453,9 +456,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (547)</li>
-      <li>VERB--PRON (455)</li>
-      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB--NOUN (561)</li>
+      <li>VERB--PRON (469)</li>
+      <li>VERB-Part--NOUN (2)</li>
     </ul>
   </li>
 </ul>
@@ -463,10 +466,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (767)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--PRON (207)</li>
-      <li>VERB-Part--NOUN (38)</li>
+      <li>VERB--NOUN (770)</li>
+      <li>VERB--PRON (219)</li>
+      <li>VERB-Part--NOUN (39)</li>
       <li>VERB-Part--PRON (2)</li>
     </ul>
   </li>

@@ -9,7 +9,7 @@ udver: '2'
 There are 19 `X` lemmas (0%), 24 `X` types (0%) and 41 `X` tokens (0%).
 Out of 14 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>τίς, ἐυ, τέκμαρ, δυώδεκα, χρεών, Λάιος, Μηκιστηι, Πευκεί, ἠ, πολυ</em>
+The 10 most frequent `X` lemmas: <em>τίς, ἐυ, τέκμαρ, δυώδεκα, χρεών, Λάιος, Μηκιστηι, Πευκεί, πολυ, σπάκα</em>
 
 The 10 most frequent `X` types:  <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, τοῖσι, χρεὼν, ἐϋκνήμιδας, Λάϊον, Μηκιστηϊάδης, Πευκεΐδας</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>τί</em> (<tt><a href="grc_perseus-p
   * <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> 2: <em>καὶ δ̓ ἂν τοῖς ἄλλοισιν ἔφη παραμυθήσασθαι οἴκαδ̓ ἀποπλείειν , ἐπεὶ οὐκέτι δήετε <b>τέκμωρ</b> Ἰλίου αἰπεινῆς ·</em>
   * <tt><a href="grc_perseus-pos-X.html">X</a></tt> 2: <em>τοῖο μὲν Αὐτομέδων δουρικλυτὸς εὕρετο <b>τέκμωρ</b> ·</em>
 * <em>τοῖσι</em>
-  * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 71: <em><b>τοῖσι</b> δὲ μαρναμένοισιν ὅδ̓ ἦν νόος ·</em>
+  * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 71: <em>ἐγὼ δέ γ̓ ἄνδῤ ὄπωπα μωρίας πλέων , ὃς ἐν κακοῖς ὕβριζε <b>τοῖσι</b> τῶν πέλας .</em>
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 63: <em>παρὰ <b>τοῖσι</b> βροτῶν κεῖμαι πεπονημένος ἀλλήκτοις ὀδύναις ;</em>
   * <tt><a href="grc_perseus-pos-X.html">X</a></tt> 2: <em>ἀπικομένοισι δὲ <b>τοῖσι</b> θεοπρόποισι καὶ μαθοῦσι πρὸς Τελμησσέων τὸ θέλει σημαίνειν τὸ τέρας , οὐκ ἐξεγένετο Κροίσῳ ἀπαγγεῖλαι ·</em>
 * <em>ἐϋκνήμιδας</em>
@@ -50,13 +50,13 @@ The 10 most frequent ambiguous types:  <em>τί</em> (<tt><a href="grc_perseus-p
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 77: <em>βούλομαι δ̓ ἐνιαυτὸν ἐπισχὼν αὐτός <b>σοι</b> περὶ ὧν ἥκω δηλῶσαι .</em>
   * <tt><a href="grc_perseus-pos-X.html">X</a></tt> 1: <em>κἀμοὶ πόλεως μέτεστιν , οὐχί <b>σοι</b> μόνῳ .</em>
 * <em>τάς</em>
-  * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 4: <em>καὶ <b>τάς</b> τε δίκας γράφοντες ἔσω παῤ ἐκεῖνον ἐσπέμπεσκον , καὶ ἐκεῖνος διακρίνων τὰς ἐσφερομένας ἐκπέμπεσκε .</em>
+  * <tt><a href="grc_perseus-pos-DET.html">DET</a></tt> 4: <em>καὶ <b>τάς</b> τε δίκας γράφοντες ἔσω παῤ ἐκεῖνον ἐσπέμπεσκον , καὶ ἐκεῖνος διακρίνων τὰς ἐσφερομένας ἐκπέμπεσκε .</em>
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 2: <em>χἠμεῖς ἰδόντες ἱέμεσθα , σὺν δέ νιν θηρώμεθ̓ εὐθὺς οὐδὲν ἐκπεπληγμένην , καὶ <b>τάς</b> τε πρόσθεν τάς τε νῦν ἠλέγχομεν πράξεις ·</em>
   * <tt><a href="grc_perseus-pos-X.html">X</a></tt> 1: <em>χἠμεῖς ἰδόντες ἱέμεσθα , σὺν δέ νιν θηρώμεθ̓ εὐθὺς οὐδὲν ἐκπεπληγμένην , καὶ τάς τε πρόσθεν <b>τάς</b> τε νῦν ἠλέγχομεν πράξεις ·</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.263158 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `X` is 1.263158 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (4) was observed with the lemma “τίς”: <em>τί, τίς, τοῖσι, τὰ</em>.
 
@@ -70,7 +70,7 @@ The 3rd highest number of forms (2) was observed with the lemma “ἐυ”: <em
 
 `X` occurs with 9 feature combinations.
 The most frequent feature combination is `_` (30 tokens).
-Examples: <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ἠ, πολυάϊκος</em>
+Examples: <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, πολυάϊκος, σοι</em>
 
 
 ## Relations

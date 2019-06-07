@@ -90,17 +90,17 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](ja_pud-dep-acl.html) – [advcl](ja_pud-dep-advcl.html) – [advmod](ja_pud-dep-advmod.html) – [amod](ja_pud-dep-amod.html) – [appos](ja_pud-dep-appos.html) – [aux](ja_pud-dep-aux.html) – [case](ja_pud-dep-case.html) – [cc](ja_pud-dep-cc.html) – [ccomp](ja_pud-dep-ccomp.html) – [compound](ja_pud-dep-compound.html) – [cop](ja_pud-dep-cop.html) – [csubj](ja_pud-dep-csubj.html) – [dep](ja_pud-dep-dep.html) – [det](ja_pud-dep-det.html) – [fixed](ja_pud-dep-fixed.html) – [iobj](ja_pud-dep-iobj.html) – [mark](ja_pud-dep-mark.html) – [nmod](ja_pud-dep-nmod.html) – [nsubj](ja_pud-dep-nsubj.html) – [nummod](ja_pud-dep-nummod.html) – [obj](ja_pud-dep-obj.html) – [obl](ja_pud-dep-obl.html) – [punct](ja_pud-dep-punct.html) – [root](ja_pud-dep-root.html)
+[acl](ja_pud-dep-acl.html) – [advcl](ja_pud-dep-advcl.html) – [advmod](ja_pud-dep-advmod.html) – [amod](ja_pud-dep-amod.html) – [appos](ja_pud-dep-appos.html) – [aux](ja_pud-dep-aux.html) – [case](ja_pud-dep-case.html) – [cc](ja_pud-dep-cc.html) – [ccomp](ja_pud-dep-ccomp.html) – [compound](ja_pud-dep-compound.html) – [cop](ja_pud-dep-cop.html) – [csubj](ja_pud-dep-csubj.html) – [dep](ja_pud-dep-dep.html) – [det](ja_pud-dep-det.html) – [dislocated](ja_pud-dep-dislocated.html) – [fixed](ja_pud-dep-fixed.html) – [iobj](ja_pud-dep-iobj.html) – [mark](ja_pud-dep-mark.html) – [nmod](ja_pud-dep-nmod.html) – [nsubj](ja_pud-dep-nsubj.html) – [nummod](ja_pud-dep-nummod.html) – [obj](ja_pud-dep-obj.html) – [obl](ja_pud-dep-obl.html) – [punct](ja_pud-dep-punct.html) – [root](ja_pud-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 26709 tokens.</li>
+<li>This corpus contains 1000 sentences and 26707 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26701 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 26699 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,7 +108,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 37 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, HerFatherDidn't, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, 、という, 、を, B.C, B.C., G.D.P, HerFatherDidn't, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
 </ul>
 
 <ul>
@@ -207,7 +207,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus uses 46 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, こと, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, しまう, なければ, 続ける, すぎる, える, たら, いく, かける, くれる, させる, そうだ, でした, 出す, 化, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, らす, 終える, 良い, 行く.</li>
+<li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, しまう, なければ, 続ける, すぎる, える, たら, いく, かける, くれる, させる, そうだ, でした, 出す, 化, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, らす, 終える, 良い, 行く.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -220,10 +220,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(だけ)-ADP(が) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(が) (3)</li>
       <li>VERB--NOUN-ADP(の)-ADP(が) (2)</li>
-      <li>VERB--NOUN-ADP(は) (388)</li>
+      <li>VERB--NOUN-ADP(は) (371)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
       <li>VERB--PRON-ADP(が) (30)</li>
-      <li>VERB--PRON-ADP(は) (143)</li>
+      <li>VERB--PRON-ADP(は) (135)</li>
       <li>VERB--PRON-ADP(も)-ADP(が) (1)</li>
     </ul>
   </li>
@@ -235,10 +235,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(だけ)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(の)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (701)</li>
+      <li>VERB--NOUN-ADP(を) (700)</li>
       <li>VERB--NOUN-ADP(を)-ADP(はじめ) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--PRON-ADP(を) (18)</li>
+      <li>VERB--PRON-ADP(を) (21)</li>
     </ul>
   </li>
 </ul>
@@ -247,7 +247,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN-ADP(だけ)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(に) (497)</li>
+      <li>VERB--NOUN-ADP(に) (499)</li>
       <li>VERB--NOUN-ADP(に)-ADP(しか) (1)</li>
       <li>VERB--NOUN-ADP(に)-ADP(は) (68)</li>
       <li>VERB--NOUN-ADP(に)-ADP(も) (7)</li>
@@ -268,5 +268,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>discourse</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

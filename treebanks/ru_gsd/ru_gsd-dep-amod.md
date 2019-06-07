@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10931 nodes (11%) are attached to their parents as `amod`.
+10411 nodes (11%) are attached to their parents as `amod`.
 
-10611 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32732595370963.
+10125 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25511478244165.
 
-The following 31 pairs of parts of speech are connected with `amod`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9880; 90% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (346; 3% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (343; 3% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (131; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (62; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `amod`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9779; 94% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (346; 3% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (82; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (68; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 31 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
-1	Барыкина	БАРЫКИН	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
-2	иногда	ИНОГДА	ADV	RB	_	3	advmod	_	_
-3	называют	НАЗЫВАТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Барыкина	Барыкин	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+2	иногда	иногда	ADV	RB	Degree=Pos	3	advmod	_	_
+3	называют	называть	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	``	``	PUNCT	``	_	5	punct	_	SpaceAfter=No
-5	отцом	ОТЕЦ	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	xcomp	_	_
-6	русского	РУССКИЙ	ADJ	JJL	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	amod	_	_
-7	регги	РЕГГИ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+5	отцом	отец	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	xcomp	_	_
+6	русского	русский	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	регги	регги	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 8	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	5	punct	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -36,42 +36,38 @@ The following 31 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 amod	color:blue
-1	Карл	КАРЛ	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	XIV	XIV	ADJ	ORD	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	amod	_	_
-3	Юхан	ЮХАН	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
-4	умер	УМЕРЕТЬ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-5	8	8	ADJ	ORD	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
-6	марта	МАРТ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
-7	1844	1844	ADJ	ORD	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	amod	_	_
-8	года	ГОД	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	Подчиняется	подчиняться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	административному	административный	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	округу	округ	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	_
+4	Нижняя	нижний	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	Бавария	Бавария	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 amod	color:blue
-1	В	В	ADP	IN	_	5	case	_	_
-2	1470	1470	ADV	AFX	_	5	amod	_	_
-3	-	-	PUNCT	-	_	2	goeswith	_	_
-4	х	Й	ADJ	ORD	Animacy=Inan|Case=Loc|Number=Plur	2	goeswith	_	_
-5	годах	ГОД	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
-6	он	ОН	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
-7	воевал	ВОЕВАТЬ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-8	против	ПРОТИВ	ADP	IN	_	9	case	_	_
-9	турок	ТУРОК	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
-10	в	В	ADP	IN	_	11	case	_	_
-11	Крыму	КРЫМ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 2 1 amod	color:blue
+1	Некоторые	некоторый	DET	DT	Case=Nom|Number=Plur	2	amod	_	_
+2	виды	вид	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	имеют	иметь	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	плоды	плод	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	полностью	полностью	ADV	RB	Degree=Pos	7	advmod	_	_
+7	скрытые	скрыть	VERB	VBNL	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+8	в	в	ADP	IN	_	9	case	_	_
+9	стебле	стебель	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+10	растения	растение	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

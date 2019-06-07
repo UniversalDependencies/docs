@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5 4 orphan	color:blue
 1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru|LTranslit=_
 2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku|LTranslit=_
-3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
+3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
 4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu|LTranslit=_
 5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
@@ -38,12 +38,12 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 orphan	color:blue
-1	నీళ్ళు	_	NOUN	NOUN	_	2	obj	_	Translit=nīḷḷu|LTranslit=_
-2	తోడే	_	VERB	VERB	_	3	acl:relcl	_	Translit=toḍe|LTranslit=_
+1	నీళ్ళు	_	NOUN	NOUN	_	2	obj	_	Translit=nīḷḷu|LTranslit=_
+2	తోడే	_	VERB	VERB	_	3	acl:relcl	_	Translit=toḍe|LTranslit=_
 3	బావులు	_	NOUN	NOUN	_	7	nsubj	_	Translit=bāvulu|LTranslit=_
 4	మా	_	PRON	PRON	_	5	nmod	_	Translit=mā|LTranslit=_
-5	ఊళ్ళో	_	NOUN	NOUN	_	7	obl	_	Translit=ūḷḷo|LTranslit=_
-6	మూడు	_	NUM	NUM	NumType=Card	3	orphan	_	Translit=mūḍu|LTranslit=_
+5	ఊళ్ళో	_	NOUN	NOUN	_	7	obl	_	Translit=ūḷḷo|LTranslit=_
+6	మూడు	_	NUM	NUM	NumType=Card	3	orphan	_	Translit=mūḍu|LTranslit=_
 7	ఉన్నాయి	_	VERB	VERB	_	0	root	_	Translit=unnāyi|LTranslit=_
 8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
 
@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5 2 orphan	color:blue
 1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru|LTranslit=_
 2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku|LTranslit=_
-3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
+3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
 4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu|LTranslit=_
 5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_

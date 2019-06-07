@@ -70,14 +70,14 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	louka	louka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
 3	:	:	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	Máj	máj	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	appos	2:appos	_
-5	(	(	PUNCT	Z:-------------	_	7	punct	7:punct|10:punct	SpaceAfter=No
+5	(	(	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
 6	Ó	ó	INTJ	II-------------	_	7	dep	7:dep|10:dep	LId=ó-1
 7	králi	král	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	vocative	2:vocative	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
 9	dobrou	dobrý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	10:amod	_
 10	noc	noc	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	conj	2:vocative|7:conj	SpaceAfter=No
-11	!	!	PUNCT	Z:-------------	_	7	punct	7:punct|10:punct	SpaceAfter=No
-12	)	)	PUNCT	Z:-------------	_	7	punct	7:punct|10:punct	_
+11	!	!	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
+12	)	)	PUNCT	Z:-------------	_	7	punct	7:punct	_
 
 ~~~
 

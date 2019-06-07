@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `vocative`.
+48 nodes (0%) are attached to their parents as `vocative`.
 
-30 instances of `vocative` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.84848484848485.
+43 instances of `vocative` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.83333333333333.
 
-The following 3 pairs of parts of speech are connected with `vocative`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (30; 91% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `vocative`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (37; 77% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (7; 15% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
 7	毛孟靜	_	PROPN	_	_	4	vocative	_	SpaceAfter=No
 8	議員	_	NOUN	_	_	7	flat	_	SpaceAfter=No
-9	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -63,12 +63,11 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	爺爺	_	NOUN	_	_	4	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	很	_	ADV	_	_	4	advmod	_	SpaceAfter=No
-4	精彩	_	ADJ	_	_	0	root	_	SpaceAfter=No
-5	的	_	PART	_	_	4	discourse:sp	_	SpaceAfter=No
-6	！	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	主席	_	NOUN	_	_	4	vocative	_	SpaceAfter=No
+2	，	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	規程	_	NOUN	_	_	4	compound	_	SpaceAfter=No
+4	問題	_	NOUN	_	_	0	root	_	SpaceAfter=No
+5	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-261 tokens (0%) have a non-empty value of `Foreign`.
-216 types (0%) occur at least once with a non-empty value of `Foreign`.
-215 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fi_tdt-pos-X.html">X</a></tt> (261; 0% instances).
+262 tokens (0%) have a non-empty value of `Foreign`.
+217 types (0%) occur at least once with a non-empty value of `Foreign`.
+216 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="fi_tdt-pos-X.html">X</a></tt> (262; 0% instances).
 
 ### `X`
 
-261 <tt><a href="fi_tdt-pos-X.html">X</a></tt> tokens (97% of all `X` tokens) have a non-empty value of `Foreign`.
+262 <tt><a href="fi_tdt-pos-X.html">X</a></tt> tokens (97% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (261; 100% of non-empty `Foreign`): <em>metal, common, death, a, and, be, fun, it, pic, DIY</em>
+* `Yes` (262; 100% of non-empty `Foreign`): <em>metal, common, death, a, and, be, fun, it, pic, DIY</em>
 * `EMPTY` (9): <em>brrrrz, brrrrzzzz, brrrzzzt, krrrz, tsrrrkhh, tsrtssrrr, tssihhhh, tssssrrr, zzzztsts</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (215) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (216) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

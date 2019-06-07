@@ -2,6 +2,7 @@
 layout: relation
 title:  'acl:relcl'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
 A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause.  The head of the relative clause is usually a verb. 

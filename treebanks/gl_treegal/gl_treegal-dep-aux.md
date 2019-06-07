@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="gl_treegal-dep-aux-pass.html">aux:pass</a></tt>.
 
-195 nodes (1%) are attached to their parents as `aux`.
+177 nodes (1%) are attached to their parents as `aux`.
 
-194 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4974358974359.
+176 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48587570621469.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (176; 90% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (12; 6% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (160; 90% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (13; 7% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -73,16 +73,36 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 aux	color:blue
-1	Sigo	seguir	AUX	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
-2	a	a	ADP	P	AdpType=Prep	4	mark	_	_
-3	ser	ser	AUX	V0f000	VerbForm=Inf	4	cop	_	_
-4	lo	o	PRON	Raa3ms	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-5	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 20 aux	color:blue
+1	Pois	pois	ADV	Wn	_	8	mark	_	_
+2	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	garantía	garantía	NOUN	Scfs	Gender=Fem|Number=Sing	8	nsubj	_	_
+4	debe	deber	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+5	ser	ser	AUX	V0f000	VerbForm=Inf	8	cop	_	_
+6	para	para	ADP	P	AdpType=Prep	8	case	_	_
+7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	totalidade	totalidade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+9	de	de	ADP	P	AdpType=Prep	11	case	_	_
+10	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	traballadores	traballador	NOUN	Scmp	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Q,	_	17	punct	_	_
+13	e	e	CCONJ	Cc	_	17	cc	_	_
+14	non	non	ADV	Wn	Polarity=Neg	17	advmod	_	_
+15	para	para	ADP	P	AdpType=Prep	17	case	_	_
+16	uns	un	DET	Dimp	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	cantos	canto	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	8	conj	_	_
+18	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	22	nsubj	_	_
+19	lle	lle	PRON	Rad3as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs	22	expl	_	_
+20	puideran	poder	AUX	Ves30p	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
+21	ser	ser	AUX	V0f000	VerbForm=Inf	22	cop	_	_
+22	afíns	afín	ADJ	A0mp	Gender=Masc|Number=Plur	17	acl	_	_
+23	a	a	ADP	P	AdpType=Prep	24	case	_	_
+24	CCOO	CCOO	PROPN	Zg00	_	22	iobj	_	SpaceAfter=No
+25	.	.	PUNCT	Q.	_	22	punct	_	_
 
 ~~~
 

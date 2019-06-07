@@ -14,7 +14,7 @@ The Italian section of Universal Dependencies currently comprises four resources
 * UD_Italian-PoSTWITA (available since UD v.2.1)
 * UD_Italian-VIT (available since UD v.2.4)
 
-## UD_Italian 
+## UD_Italian-ISDT 
 
 It was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).
 

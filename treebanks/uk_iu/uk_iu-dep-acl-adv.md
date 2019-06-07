@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-acl.html">acl</a></tt>.
 There are also 1 other language-specific subtypes of `acl`: <tt><a href="uk_iu-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-26 nodes (0%) are attached to their parents as `acl:adv`.
+28 nodes (0%) are attached to their parents as `acl:adv`.
 
-26 instances of `acl:adv` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26923076923077.
+28 instances of `acl:adv` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35714285714286.
 
-The following 5 pairs of parts of speech are connected with `acl:adv`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (20; 77% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `acl:adv`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (20; 71% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

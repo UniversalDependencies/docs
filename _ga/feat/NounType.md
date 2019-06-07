@@ -2,6 +2,7 @@
 layout: feature
 title: 'NounType'
 shortdef: 'NounType'
+udver: '2'
 ---
 
 In Irish, noun forms fall into certain groups or declentions (see [Form]()). These nouns follow patterns of inflection depending on gender, number and case. The noun type feature affects the form of modifying adjectives, and so is a feature of both parts of speech.

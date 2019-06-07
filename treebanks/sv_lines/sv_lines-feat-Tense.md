@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-9036 tokens (11%) have a non-empty value of `Tense`.
+9035 tokens (11%) have a non-empty value of `Tense`.
 1473 types (11%) occur at least once with a non-empty value of `Tense`.
 999 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (5869; 7% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (3061; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (106; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (5846; 7% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (3083; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (106; 0% instances).
 
 ### `VERB`
 
-5869 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
+5846 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5869; 100%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5859; 100%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5313; 91%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5846; 100%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5837; 100%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5290; 90%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (3745; 64% of non-empty `Tense`): <em>var, sa, hade, gick, såg, kom, sade, fick, tog, stod</em>
-* `Pres` (2124; 36% of non-empty `Tense`): <em>har, är, vet, finns, kommer, säger, ser, tror, visas, gör</em>
-* `EMPTY` (4182): <em>ta, göra, se, gå, använda, få, komma, bli, ha, säga</em>
+* `Past` (3737; 64% of non-empty `Tense`): <em>var, sa, hade, gick, såg, kom, sade, fick, tog, stod</em>
+* `Pres` (2109; 36% of non-empty `Tense`): <em>har, är, vet, finns, kommer, säger, ser, tror, visas, gör</em>
+* `EMPTY` (4175): <em>ta, göra, se, gå, använda, få, komma, bli, ha, säga</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -34,15 +34,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3061 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
+3083 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3061; 100%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3061; 100%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3046; 100%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3083; 100%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3083; 100%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3068; 100%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (1428; 47% of non-empty `Tense`): <em>var, hade, skulle, kunde, ville, borde, fick, vore, blev, kom</em>
-* `Pres` (1633; 53% of non-empty `Tense`): <em>är, kan, har, måste, vill, ska, kommer, skall, får, bör</em>
-* `EMPTY` (380): <em>vara, ha, varit, kunna, få, vilja, bli, kunnat, fått, var</em>
+* `Past` (1435; 47% of non-empty `Tense`): <em>var, hade, skulle, kunde, ville, borde, fick, vore, blev, kom</em>
+* `Pres` (1648; 53% of non-empty `Tense`): <em>är, kan, har, måste, vill, ska, kommer, skall, får, bör</em>
+* `EMPTY` (381): <em>vara, ha, varit, kunna, få, bli, vilja, kunnat, fått, blivit</em>
 
 <table>
   <tr><th>Paradigm <i>vara</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -60,21 +60,19 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (41; 39% of non-empty `Tense`): <em>särskilt, beredd, dolda, intresserad, bestämd, gift, komplicerad, särskild, ökad, begränsad</em>
 * `Pres` (65; 61% of non-empty `Tense`): <em>följande, motsvarande, nuvarande, grundläggande, liknande, omfattande, växande, betydande, framträdande, oberoende</em>
-* `EMPTY` (5435): <em>andra, själv, hela, samma, annat, första, flera, många, nya, stor</em>
+* `EMPTY` (5442): <em>andra, själv, hela, samma, annat, första, flera, många, nya, stor</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (36) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (960; 81%),
-<tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (11; 55%),
-<tt>VERB --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (5; 63%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (944; 81%),
+<tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (10; 56%),
+<tt>VERB --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (5; 63%),
-<tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 80%),
-<tt>AUX --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 75%),
+<tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sv_lines-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -40,14 +40,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-216 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Person`.
+216 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (19% of all `DET` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (216; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (195; 90%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (189; 88%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (184; 85%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (180; 83%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (111; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `3` (216; 100% of non-empty `Person`): <em>jejich, jeho, její, jejichž, jejího, jehož, jejím, jejímž, jejích, jejími</em>
-* `EMPTY` (978): <em>které, která, této, tohoto, který, to, těchto, tyto, tato, tento</em>
+* `EMPTY` (945): <em>které, která, této, tohoto, který, těchto, tyto, tato, tento, kterým</em>
 
 ### `PRON`
 

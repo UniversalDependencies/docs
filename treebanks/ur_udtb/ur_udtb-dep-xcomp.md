@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	1	case	_	ChunkId=NP|ChunkType=child
 3	رشوت_ستانی	رشوت_ستانی	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 4	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	ChunkId=NP2|ChunkType=child
-5	دور	دور	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	advmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+5	دور	دور	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 6	مےں	مےں	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child
 7	اس	یہ	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	det	_	ChunkId=NP4|ChunkType=child
 8	طرح	طرح	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
@@ -75,7 +75,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	ہمدرد	ہمدرد	PRON	PRP	_	10	xcomp	_	ChunkId=NP4|ChunkType=head
 10	ہو	ہو	VERB	VM	Voice=Act	4	obj	_	Vib=0|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative
 11	سکتے	سک	AUX	VAUX	Aspect=Imp|Number=Plur|VerbForm=Part	10	aux	_	Vib=تا|Tam=wA|ChunkId=VGF2|ChunkType=child
-12	ہیں	ہے	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
+12	ہیں	ہے	AUX	VAUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
 13	۔	۔	PUNCT	SYM	_	10	punct	_	ChunkId=VGF2|ChunkType=child
 
 ~~~

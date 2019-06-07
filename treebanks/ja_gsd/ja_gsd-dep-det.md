@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-814 nodes (0%) are attached to their parents as `det`.
+811 nodes (0%) are attached to their parents as `det`.
 
-814 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21130221130221.
+811 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21208384710234.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (792; 97% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (789; 97% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

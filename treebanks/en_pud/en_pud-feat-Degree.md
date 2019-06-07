@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (16; 26% of non-empty `Degree`): <em>longer, earlier, less, better, closer, further</em>
 * `Pos` (37; 60% of non-empty `Degree`): <em>well, far, late, soon, close, early, hard, long, Fast</em>
 * `Sup` (9; 15% of non-empty `Degree`): <em>least, best</em>
-* `EMPTY` (781): <em>also, when, so, only, more, not, where, however, most, as</em>
+* `EMPTY` (786): <em>also, when, so, only, more, not, where, however, most, as</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Degree`.
 

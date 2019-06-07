@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	tal-	_	ADP	GEN_DEF	_	4	case:det	_	SpaceAfter=No
 4	bidla	_	NOUN	NOUN	_	2	nmod:poss	_	_
 5	fuqu	_	PRON	PREP_PRON	_	2	nmod	_	_
-6	ma	_	PART	NEG	_	8	aux:neg	_	_
+6	ma	_	PART	NEG	_	8	advmod:neg	_	_
 7	kienx	_	AUX	KIEN	_	8	cop	_	_
 8	dak	_	PRON	PRON_DEM	_	0	root	_	_
 9	mistenni	_	VERB	PART_PASS	_	8	acl	_	_
@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 21	fgColor:white
 # visual-style 21 22 obl:agent	color:blue
 1	Qatt	_	ADV	ADV	_	3	advmod	_	_
-2	ma	_	PART	NEG	_	3	aux:neg	_	_
+2	ma	_	PART	NEG	_	3	advmod:neg	_	_
 3	basret	_	VERB	VERB	_	0	root	_	_
 4	li	_	SCONJ	COMP	_	5	mark	_	_
 5	setgħet	_	VERB	VERB	_	3	xcomp	_	_

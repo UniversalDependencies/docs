@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	||	||	PUNCT	_	_	8	punct	_	_
 4	wheder	wheder	CCONJ	_	_	8	mark	_	_
 5	if	if	SCONJ	_	_	4	fixed	_	_
-6	}	}	PUNCT	_	_	2	punct	_	_
+6	}	}	PUNCT	_	_	8	punct	_	_
 7	I	I	PRON	_	_	8	nsubj	_	_
 8	comot	comot	VERB	_	_	2	conj:dicto	_	_
 9	for	for	ADP	_	_	10	case	_	_
@@ -79,8 +79,8 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 4	sey	sey	SCONJ	_	_	10	mark	_	_
 5	di	di	DET	_	_	6	det	_	_
 6	money	money	NOUN	_	_	10	nsubj	_	_
-7	sef	sef	PART	_	_	6	advmod	_	_
-8	no	no	PART	_	_	10	advmod	_	_
+7	sef	sef	ADV	PART	_	6	advmod	_	_
+8	no	no	ADV	PART	_	10	advmod	_	_
 9	too	too	ADV	_	_	10	advmod	_	_
 10	plenty	plenty	ADJ	_	_	3	ccomp	_	_
 11	for	for	ADP	_	_	13	case	_	_
@@ -117,7 +117,7 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 42	dat	dat	SCONJ	_	_	41	fixed	_	_
 43	di	di	DET	_	_	44	det	_	_
 44	load	load	NOUN	_	_	48	nsubj	_	_
-45	no	no	PART	_	_	48	advmod	_	_
+45	no	no	ADV	PART	_	48	advmod	_	_
 46	go	go	AUX	_	_	48	aux	_	_
 47	too	too	ADV	_	_	48	advmod	_	_
 48	much	much	ADV	_	_	28	advcl	_	_

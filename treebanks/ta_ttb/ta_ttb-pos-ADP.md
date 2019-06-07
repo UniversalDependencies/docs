@@ -74,9 +74,9 @@ Examples: ஆக, உடன், இலிருந்து, குறித்�
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ta_ttb-dep-case.html">case</a></tt> (263; 91% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (19; 7% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 2% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="ta_ttb-dep-case.html">case</a></tt> (263; 91% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (19; 7% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (179; 62% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (58; 20% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (22; 8% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (178; 62% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (59; 20% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (22; 8% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 282 (98%) `ADP` nodes are leaves.
 

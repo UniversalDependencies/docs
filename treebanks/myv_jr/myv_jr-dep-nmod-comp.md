@@ -59,8 +59,8 @@ The following 6 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 14	менеме	менемс	VERB	V	Case=Loc|VerbForm=Inf	13	xcomp	_	GTtags=Inf,Loc|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	20	punct	_	_
 16	ды	ды	CCONJ	CC	_	20	cc	_	_
-17	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing	20	advcl	_	GTtags=Sg,Nom,Indef
-18	омбоце	омбоце	ADJ	Num	Case=Nom|Definite=Ind|Number=Sing	17	fixed	_	GTtags=Ord,Sg,Nom,Indef
+17	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing	18	compound	_	GTtags=Sg,Nom,Indef
+18	омбоце	омбоце	ADJ	Num	Case=Nom|Definite=Ind|Number=Sing	20	advcl	_	GTtags=Ord,Sg,Nom,Indef
 19	мельга	мельга	ADP	Adp	AdpType=Post	18	case	_	GTtags=Po
 20	пуромить	пуромомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	13	conj	_	GTtags=Ind,Prs,ScPl3
 21	тей	тей	ADV	Adv	AdvType=Loc|Case=Lat	20	obl	_	GTtags=Spat,Lat|SpaceAfter=No
@@ -78,15 +78,15 @@ The following 6 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 14 nmod:comp	color:blue
-1	Кадык	кадомс	VERB	V	Mood=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	6	advmod	_	GTtags=TV,Imprt,ScSg2,OcSg3
-2	аволь	аволь	PART	Pcle	PartType=Emp|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Intensive
+1	Кадык	кадык	AUX	Aux	Mood=Imp	5	aux	_	GTtags=TV,Imprt,ScSg2,OcSg3
+2	аволь	аволь	AUX	Pcle	PartType=Emp|Polarity=Neg	3	aux:neg	_	GTtags=Neg,Intensive
 3	свал	свал	ADV	Adv	AdvType=Tim|PronType=Tot	6	advmod	_	GTtags=Sem/Time
 4	те	те	DET	Det	Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg
 5	ёнкссонть	ёнкс	NOUN	N	Case=Ine|Definite=Def|Number=Sing	18	advcl	_	GTtags=Sem/Plc,Sg,Ine,Def
 6	тундо	тундо	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
-8	кадык	кадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Prt1|Valency=2	10	advmod	_	GTtags=TV,Ind,Prt1,ScSg2,OcSg3
-9	а	а	PART	Pcle	Polarity=Neg	10	aux:neg	_	GTtags=Neg
+8	кадык	кадык	AUX	V	Mood=Imp	10	aux	_	GTtags=TV,Ind,Prt1,ScSg2,OcSg3
+9	а	а	AUX	Pcle	Polarity=Neg	10	aux:neg	_	GTtags=Neg
 10	лымби	лымбамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	18	advcl	_	GTtags=IV,Ind,Prs,ScSg3
 11	маласонзо	маласо	ADP	Adp	AdvType=Loc|Case=Ine|Number[psor]=Sing|Person[psor]=3	12	amod	_	GTtags=Spat,Ine,PxSg3
 12	иневедь	иневедь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nsubj	_	GTtags=Sem/Plc,Sg,Nom,Indef|SpaceAfter=No
@@ -94,7 +94,7 @@ The following 6 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 14	сондензэ	сон	PRON	Pron	Case=Abl|Number=Sing|Person=3|PronType=Prs	15	nmod:comp	_	GTtags=Pers,Sg3,Abl
 15	мазый	мазый	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	18	obj	_	GTtags=Der/MWN,N,Sg,Nom,Indef
 16	ялатеке	ялатеке	ADV	Adv	_	18	advmod	_	_
-17	а	а	PART	Pcle	Polarity=Neg	18	aux:neg	_	GTtags=Neg
+17	а	а	AUX	Pcle	Polarity=Neg	18	aux:neg	_	GTtags=Neg
 18	муят	муемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg2|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	18	punct	_	_
 

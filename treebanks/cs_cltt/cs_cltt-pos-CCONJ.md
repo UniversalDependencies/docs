@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -43,9 +43,15 @@ The 3rd highest number of forms (1) was observed with the lemma “anebo”: <em
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (1805; 96% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (64; 3% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1321; 70% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (228; 12% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (174; 9% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (34; 2% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (26; 1% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1349; 72% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (228; 12% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (174; 9% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (50; 3% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (37; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-1875 (100%) `CCONJ` nodes are leaves.
+1841 (98%) `CCONJ` nodes are leaves.
 
-The highest child degree of a `CCONJ` node is 0.
+34 (2%) `CCONJ` nodes have one child.
+
+The highest child degree of a `CCONJ` node is 1.
+
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (33; 97% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (1; 3% instances)
+
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (33; 97% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 3% instances)
 

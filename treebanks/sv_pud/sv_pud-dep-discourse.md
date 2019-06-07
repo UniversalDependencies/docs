@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	hos	hos	ADP	PP	_	7	case	7:case	_
 7	Sony	Sony	PROPN	PM|NOM	Case=Nom	5	nmod	5:nmod:hos	_
 8	Australien	Australien	PROPN	PM|NOM	Case=Nom	7	flat:name	7:flat:name	_
-9	typ	typ	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	advmod	4:advmod	_
+9	typ	typ	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	obl	4:obl	_
 10	”	”	PUNCT	MID	_	15	punct	15:punct	SpaceAfter=No
 11	Jo	jo	INTJ	IN	_	15	discourse	15:discourse	SpaceAfter=No
 12	,	,	PUNCT	MID	_	15	punct	15:punct	_

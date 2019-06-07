@@ -119,7 +119,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 24	som	som	ADP	_	_	26	case	_	_
 25	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	26	det	_	_
 26	buddha	buddha	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	23	obl	_	SpaceAfter=No
-27	,	,	PUNCT	Comma	_	8	punct	_	_
+27	,	,	PUNCT	Comma	_	28	punct	_	_
 28	predikande	predika	VERB	NDE	Mood=Ind|VerbForm=Part|Voice=Act	23	advcl	_	_
 29	i	i	ADP	_	_	31	case	_	_
 30	europeiska	europeisk	ADJ	POS-PL-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	31	amod	_	_

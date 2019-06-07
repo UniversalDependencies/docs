@@ -11,10 +11,10 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_fic
 
 4577 nodes (3%) are attached to their parents as `expl:pv`.
 
-3040 instances of `expl:pv` (66%) are right-to-left (child precedes parent).
+3039 instances of `expl:pv` (66%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.81275944942102.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (4524; 99% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (51; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (4525; 99% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

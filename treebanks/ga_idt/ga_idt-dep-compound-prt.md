@@ -60,9 +60,9 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 16	ar	ar	ADP	Simp	_	18	case	_	_
 17	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	daltaí	dalta	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	_
-19	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	21	nmod:poss	_	_
-20	gcuid	cuid	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	21	advmod	_	_
-21	teangacha	teanga	NOUN	Noun	Case=Gen|Gender=Fem|NounType=Strong|Number=Plur	23	obj	_	_
+19	a	a	DET	Det	Number=Plur|Person=3|Poss=Yes	20	nmod:poss	_	_
+20	gcuid	cuid	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Sing	23	obj	_	_
+21	teangacha	teanga	NOUN	Noun	Case=Gen|Gender=Fem|NounType=Strong|Number=Plur	20	nmod	_	_
 22	a	a	PART	Inf	PartType=Inf	23	mark	_	_
 23	thabhairt	tabhairt	NOUN	Noun	Form=Len|VerbForm=Inf	15	xcomp	_	_
 24	suas	suas	ADV	Dir	_	23	compound:prt	_	SpaceAfter=No

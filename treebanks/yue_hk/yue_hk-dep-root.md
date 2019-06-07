@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-650 nodes (10%) are attached to their parents as `root`.
+1004 nodes (7%) are attached to their parents as `root`.
 
-650 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.68769230769231.
+1004 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.52988047808765.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (487; 75% instances), -<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (52; 8% instances), -<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (52; 8% instances), -<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), -<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (14; 2% instances), -<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (11; 2% instances), -<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (783; 78% instances), -<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (75; 7% instances), -<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (74; 7% instances), -<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), -<tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> (15; 1% instances), -<tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> (11; 1% instances), -<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (8; 1% instances), -<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -33,6 +33,20 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	超級	超級	ADJ	_	_	3	amod	_	SpaceAfter=No
+2	撒亞	撒亞	PROPN	_	_	3	compound	_	SpaceAfter=No
+3	人	人	NOUN	_	_	0	root	_	SpaceAfter=No
+4	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
@@ -47,20 +61,6 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 7	㗎	㗎	PART	_	_	6	discourse:sp	_	SpaceAfter=No
 8	喇	嘑	PART	_	_	6	discourse:sp	_	SpaceAfter=No
 9	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	超級	超級	ADJ	_	_	3	amod	_	SpaceAfter=No
-2	撒亞	撒亞	PROPN	_	_	3	compound	_	SpaceAfter=No
-3	人	人	NOUN	_	_	0	root	_	SpaceAfter=No
-4	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

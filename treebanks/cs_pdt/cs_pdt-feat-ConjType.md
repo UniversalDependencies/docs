@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Oper`.
 
-170 tokens (0%) have a non-empty value of `ConjType`.
-5 types (0%) occur at least once with a non-empty value of `ConjType`.
-4 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (120; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (50; 0% instances).
+207 tokens (0%) have a non-empty value of `ConjType`.
+12 types (0%) occur at least once with a non-empty value of `ConjType`.
+10 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (151; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (56; 0% instances).
 
 ### `SYM`
 
-120 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (10% of all `SYM` tokens) have a non-empty value of `ConjType`.
+151 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (11% of all `SYM` tokens) have a non-empty value of `ConjType`.
 
 `SYM` tokens may have the following values of `ConjType`:
 
-* `Oper` (120; 100% of non-empty `ConjType`): <em>x</em>
+* `Oper` (151; 100% of non-empty `ConjType`): <em>x, +, >, :, <, -, .</em>
 
 ### `CCONJ`
 
-50 <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
+56 <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
 
 `CCONJ` tokens may have the following values of `ConjType`:
 
-* `Oper` (50; 100% of non-empty `ConjType`): <em>krát, plus, minus, kráte</em>
+* `Oper` (56; 100% of non-empty `ConjType`): <em>krát, plus, minus, kráte</em>
 
 ## Relations with Agreement in `ConjType`
 

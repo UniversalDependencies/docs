@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	je	je	PRON	_	_	27	nsubj	_	_
 21	si	si	SCONJ	_	_	24	mark	_	_
 22	je	je	PRON	_	_	24	nsubj	_	_
-23	puis	pouvoir	VERB	_	_	24	aux	_	_
+23	puis	pouvoir	AUX	_	_	24	aux	_	_
 24	dire	dire	VERB	DISCOURSE	_	20	parataxis:discourse	_	_
 25	je	je	PRON	conj:reform	_	20	conj:dicto	_	_
 26	je	je	PRON	conj:reform	_	20	conj:dicto	_	_

@@ -59,11 +59,11 @@ The 10 most frequent ambiguous types:  <em>δ̓</em> (<tt><a href="grc_perseus-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.400000 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `PART` is 2.400000 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (11) was observed with the lemma “ἄν”: <em>κ̓, κέ, κέν, κε, κεν, κἂν, τἂν, χ̓, ἂν, ἃν, ἄν</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “ἄρα”: <em>τἄῤ, τἄρα, τὰρ, ἂρ, ἄρ, ἄῤ, ἄρά, ἄρα, ῥ̓, ῥά, ῥα</em>.
+The 2nd highest number of forms (11) was observed with the lemma “ἄρα”: <em>τἄρα, τἄῤ, τὰρ, ἂρ, ἄρ, ἄρά, ἄρα, ἄῤ, ῥ̓, ῥά, ῥα</em>.
 
 The 3rd highest number of forms (6) was observed with the lemma “οὐδέ”: <em>δ̓, δέ, δὲ, κοὐδ̓, οὐ, οὐδὲ</em>.
 

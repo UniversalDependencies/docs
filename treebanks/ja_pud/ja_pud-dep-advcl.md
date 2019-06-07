@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1127 nodes (4%) are attached to their parents as `advcl`.
+1124 nodes (4%) are attached to their parents as `advcl`.
 
-1127 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.26264418811003.
+1124 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.28024911032028.
 
-The following 23 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (719; 64% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (195; 17% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (55; 5% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (48; 4% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (41; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (30; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `advcl`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (717; 64% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (194; 17% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (55; 5% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (50; 4% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (41; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (30; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,13 +27,13 @@ The following 23 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	言っ	言う	VERB	VV	_	9	advcl	_	SpaceAfter=No
 4	て	て	SCONJ	PC	_	3	mark	_	SpaceAfter=No
 5	いる	いる	AUX	AV	_	3	aux	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	3	aux	_	SpaceAfter=No
+6	こと	こと	SCONJ	PNB	_	3	mark	_	SpaceAfter=No
 7	と	と	ADP	PS	_	3	case	_	SpaceAfter=No
 8	、	、	PUNCT	SYM	_	3	punct	_	SpaceAfter=No
 9	やっ	やる	VERB	VV	_	18	csubj	_	SpaceAfter=No
 10	て	て	SCONJ	PC	_	9	mark	_	SpaceAfter=No
 11	いる	いる	AUX	AV	_	9	aux	_	SpaceAfter=No
-12	こと	こと	NOUN	NB	_	9	aux	_	SpaceAfter=No
+12	こと	こと	SCONJ	PNB	_	9	mark	_	SpaceAfter=No
 13	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
 14	、	、	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
 15	実際	実際	NOUN	NN	_	18	iobj	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 23 pairs of parts of speech are connected with `advcl`: <tt><a hre
 18	信じ	信じる	VERB	VV	_	0	root	_	SpaceAfter=No
 19	られ	られる	AUX	AV	_	18	aux	_	SpaceAfter=No
 20	ない	ない	AUX	AV	_	18	aux	_	SpaceAfter=No
-21	こと	こと	NOUN	NB	_	18	aux	_	SpaceAfter=No
+21	こと	こと	SCONJ	PNB	_	18	mark	_	SpaceAfter=No
 22	だ	だ	AUX	AV	_	18	cop	_	SpaceAfter=No
 23	。	。	PUNCT	SYM	_	18	punct	_	SpaceAfter=No
 

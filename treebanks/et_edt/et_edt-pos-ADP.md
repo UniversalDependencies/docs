@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `ADP`
 
-There are 189 `ADP` lemmas (0%), 187 `ADP` types (0%) and 9177 `ADP` tokens (2%).
+There are 189 `ADP` lemmas (0%), 187 `ADP` types (0%) and 9174 `ADP` tokens (2%).
 Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>eest, üle, pärast, kohta, vastu, vahel, peale, järgi, jooksul, korral</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>eest</em> (<tt><a href="et_edt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.989418 (the average of all parts of speech is 1.911857).
+The form / lemma ratio of `ADP` is 0.989418 (the average of all parts of speech is 1.912003).
 
 The 1st highest number of forms (2) was observed with the lemma “alates”: <em>alates, kuni</em>.
 
@@ -63,30 +63,30 @@ The 2nd highest number of forms (2) was observed with the lemma “alla”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “jooksul”: <em>jooksu, jooksul</em>.
 
-`ADP` occurs with 3 features: <tt><a href="et_edt-feat-AdpType.html">AdpType</a></tt> (9134; 100% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (1; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="et_edt-feat-AdpType.html">AdpType</a></tt> (9131; 100% instances), <tt><a href="et_edt-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (1; 0% instances)
 
 `ADP` occurs with 4 feature-value pairs: `AdpType=Post`, `AdpType=Prep`, `Case=Gen`, `Hyph=Yes`
 
 `ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `AdpType=Post` (7193 tokens).
+The most frequent feature combination is `AdpType=Post` (7189 tokens).
 Examples: <em>eest, kohta, vahel, järgi, jooksul, vastu, korral, puhul, all, pärast</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="et_edt-dep-case.html">case</a></tt> (9148; 100% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (13; 0% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="et_edt-dep-case.html">case</a></tt> (9146; 100% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (12; 0% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7427; 81% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (959; 10% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (499; 5% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (167; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7423; 81% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (959; 10% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (499; 5% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (168; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-9150 (100%) `ADP` nodes are leaves.
+9155 (100%) `ADP` nodes are leaves.
 
-24 (0%) `ADP` nodes have one child.
+17 (0%) `ADP` nodes have one child.
 
-3 (0%) `ADP` nodes have two children.
+2 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 4 different relations: <tt><a href="et_edt-dep-conj.html">conj</a></tt> (12; 40% instances), <tt><a href="et_edt-dep-advmod.html">advmod</a></tt> (8; 27% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (6; 20% instances), <tt><a href="et_edt-dep-punct.html">punct</a></tt> (4; 13% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="et_edt-dep-conj.html">conj</a></tt> (11; 52% instances), <tt><a href="et_edt-dep-cc.html">cc</a></tt> (6; 29% instances), <tt><a href="et_edt-dep-punct.html">punct</a></tt> (4; 19% instances)
 
-Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (8; 27% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 20% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6; 20% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (5; 17% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (4; 13% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (6; 29% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (5; 24% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> (4; 19% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 7	ότι	ότι	SCONJ	SCONJ	_	9	mark	_	_
 8	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	cop	_	_
 9	έτοιμο	έτοιμος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	6	ccomp	_	_
-10	να	να	PART	PART	_	11	aux	_	_
+10	να	να	AUX	AUX	_	11	aux	_	_
 11	αναχαιτίσει	αναχαιτίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	acl	_	_
 12	πύραυλο	πύραυλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
 13	-	-	PUNCT	PUNCT	_	14	punct	_	_
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 20	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	οποίος	οποίος	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	nsubj:pass	_	_
 22	αναμένεται	αναμένω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl:relcl	_	_
-23	να	να	PART	PART	_	24	aux	_	_
+23	να	να	AUX	AUX	_	24	aux	_	_
 24	εκτοξευτεί	εκτοξεύω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	22	csubj:pass	_	_
 25	σ	σε	ADP	AsPpSp	_	27	case	_	_
 26	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	27	det	_	_

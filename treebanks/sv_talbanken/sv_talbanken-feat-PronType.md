@@ -55,6 +55,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Neg` (62; 1% of non-empty `PronType`): <em>ingen, inget, inga, någon, samma</em>
 * `Prs` (48; 1% of non-empty `PronType`): <em>det, de, den, varje, alla, detta, någon, all, dom, samma</em>
 * `Tot` (321; 6% of non-empty `PronType`): <em>alla, varje, allt, all, var, bägge, vardera, varenda, vart, vilka</em>
+* `EMPTY` (1): <em>en</em>
 
 <table>
   <tr><th>Paradigm <i>någon</i></th><th><tt>Prs</tt></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th></tr>

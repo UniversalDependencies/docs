@@ -22,15 +22,15 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
-3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
-5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
-6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
-8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
-9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
+3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
+4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
+5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
+6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
+7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
+8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
+9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 ~~~
@@ -42,15 +42,15 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
-3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
-5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
-6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
-8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
-9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
+3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
+4	ka	kà	AUX	pm	_	3	fixed	_	Gloss=INF
+5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
+6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
+7	ka	kà	AUX	pm	_	6	case	_	Gloss=INF
+8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
+9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 ~~~

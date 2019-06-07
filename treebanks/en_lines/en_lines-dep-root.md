@@ -11,9 +11,9 @@ This relation is universal.
 4564 nodes (6%) are attached to their parents as `root`.
 
 4564 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33829973707274.
+Average distance between parent and child is 5.29272567922875.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (3554; 78% instances), -<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (513; 11% instances), -<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (290; 6% instances), -<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (62; 1% instances), -<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (49; 1% instances), -<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (33; 1% instances), -<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (31; 1% instances), -<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), -<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), -<tt><a href="en_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (3549; 78% instances), -<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (507; 11% instances), -<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (303; 7% instances), -<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (60; 1% instances), -<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (52; 1% instances), -<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (34; 1% instances), -<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (29; 1% instances), -<tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances), -<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), -<tt><a href="en_lines-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

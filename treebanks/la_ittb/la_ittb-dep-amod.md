@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `amod`: <tt><a href="la_ittb-dep-amod-advmod.html">amod:advmod</a></tt>.
 
-15157 nodes (4%) are attached to their parents as `amod`.
+15437 nodes (4%) are attached to their parents as `amod`.
 
-7615 instances of `amod` (50%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14455367157089.
+7804 instances of `amod` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14426378182289.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (14303; 94% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (363; 2% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (215; 1% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (184; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (65; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `amod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (14455; 94% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (370; 2% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (273; 2% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (189; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (66; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (50; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,22 +37,21 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 amod	color:blue
-1	uno	unus	NUM	F1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	2	nummod	_	_
-2	modo	modus	NOUN	B1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	10	punct	_	_
-4	ita	ita	ADV	O4	_	10	mark	_	_
-5	quod	quod	SCONJ	O4	_	4	fixed	_	_
-6	illud	ille	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
-7	primum	primus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	6	amod	_	_
-8	sit	sum	AUX	N3|modB|tem1|gen6	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-9	penitus	penitus	ADV	O4	_	10	advmod	_	_
-10	immobile	immobilis	ADJ	C1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	advcl	_	SpaceAfter=No
-11	.	.	PUNCT	Punc	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 amod	color:blue
+1	et	et	CCONJ	O4	_	5	cc	_	_
+2	sic	sic	ADV	O4	_	5	advmod	_	_
+3	nihil	nihil	PRON	G1|casA|gen3|vgr1	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	5	nsubj	_	_
+4	inconveniens	inconveniens	ADJ	C1|grn1|casA|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+5	accidit	accido	VERB	L3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	cado
+6	ponentibus	pono	VERB	L2|modD|tem1|grp1|casL|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	ccomp	_	_
+7	deum	deus	PROPN	F1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	non	non	ADV	O4	_	9	advmod	_	_
+9	esse	sum	VERB	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	6	ccomp	_	SpaceAfter=No
+10	:	:	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 

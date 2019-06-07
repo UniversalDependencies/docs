@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (34; 100% of non-empty `Polarity`): <em>not, no, n’t, never, n't</em>
-* `EMPTY` (809): <em>also, when, so, only, more, where, however, most, well, as</em>
+* `EMPTY` (814): <em>also, when, so, only, more, where, however, most, well, as</em>
 
 ### `DET`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (10; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (2079): <em>the, a, an, this, all, that, some, these, each, both</em>
+* `EMPTY` (2076): <em>the, a, an, this, all, that, some, these, each, both</em>
 

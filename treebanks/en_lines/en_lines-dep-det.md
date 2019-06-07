@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7788 nodes (9%) are attached to their parents as `det`.
+7858 nodes (9%) are attached to their parents as `det`.
 
-7787 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.52041602465331.
+7858 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51501654364978.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (7298; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (151; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (146; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (7381; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (155; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (148; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (62; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,15 +50,15 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 3	some	some	DET	IND	_	5	det	_	_
 4	more	much	ADJ	CMP	Degree=Cmp	5	amod	_	_
 5	books	book	NOUN	PL-NOM	Number=Plur	1	obj	_	SpaceAfter=No
-6	.	.	PUNCT	Period	_	5	punct	_	_
+6	.	.	PUNCT	Period	_	1	punct	_	_
 7	Or	or	CCONJ	_	_	10	cc	_	_
 8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
 9	few	few	ADJ	IND-PL	Degree=Pos	10	amod	_	_
-10	toys	toy	NOUN	PL-NOM	Number=Plur	5	conj	_	_
+10	toys	toy	NOUN	PL-NOM	Number=Plur	1	conj	_	_
 11	for	for	ADP	_	_	13	case	_	_
 12	your	you	PRON	P2-GEN	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 13	kid	kid	NOUN	SG-NOM	Number=Sing	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	Period	_	7	punct	_	_
+14	.	.	PUNCT	Period	_	10	punct	_	_
 
 ~~~
 

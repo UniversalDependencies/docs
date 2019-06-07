@@ -23,21 +23,21 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 10 dep	color:blue
 1	यूरोपीय	_	ADJ	JJ	_	2	amod	_	Translit=yūropīya
-2	बाजारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obl	_	Translit=bājāroṁ
+2	बाजारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obl	_	Translit=bājāroṁ
 3	के	_	ADP	IN	_	2	case	_	Translit=ke
 4	साथ	_	ADP	IN	_	3	fixed	_	Translit=sātha
 5	अमेरिकी	_	ADJ	JJ	_	8	amod	_	Translit=amerikī
 6	वायदा	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	compound	_	Translit=vāyadā
-7	सट्टा	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	compound	_	Translit=saṭṭā
+7	सट्टा	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	compound	_	Translit=saṭṭā
 8	बाजार	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Translit=bājāra
 9	1	_	NUM	CD	NumType=Card	14	obl	_	SpaceAfter=No|Translit=1
 10	%	_	SYM	SYM	_	9	dep	_	Translit=%
 11	से	_	ADP	IN	_	9	case	_	Translit=se
 12	अधिक	_	ADP	IN	_	11	fixed	_	Translit=adhika
 13	तक	_	ADP	IN	_	9	case	_	Translit=taka
-14	बढ़	_	VERB	VB	_	0	root	_	Translit=baṛha
+14	बढ़	_	VERB	VB	_	0	root	_	Translit=baṛha
 15	रहे	_	AUX	VXH	Aspect=Prog|Gender=Masc|Mood=Ind|Number=Plur|Person=3	14	aux	_	Translit=rahe
-16	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No|Translit=haiṁ
+16	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No|Translit=haiṁ
 17	।	_	PUNCT	.	_	14	punct	_	Translit=.
 
 ~~~
@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 dep	color:blue
 1	और	_	CCONJ	CC	_	6	cc	_	Translit=aura
-2	आस्ट्रेलिया	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	nmod:poss	_	Translit=āsṭreliyā
+2	आस्ट्रेलिया	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	nmod:poss	_	Translit=āsṭreliyā
 3	की	_	ADP	IN	Case=Gen|Gender=Fem	2	case	_	Translit=kī
 4	स्थिति	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	obj	_	Translit=sthiti
 5	क्या	_	PRON	WP	_	6	dep	_	Translit=kyā
@@ -69,7 +69,7 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	फिर	_	ADP	IN	_	4	dep	_	Translit=phira
 2	वह	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=vaha
 3	किरीमुइर	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	case	_	Translit=kirīmuira
-4	लौट	_	VERB	VB	_	0	root	_	Translit=lauṭa
+4	लौट	_	VERB	VB	_	0	root	_	Translit=lauṭa
 5	गया	_	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	SpaceAfter=No|Translit=gayā
 6	।	_	PUNCT	.	_	4	punct	_	Translit=.
 

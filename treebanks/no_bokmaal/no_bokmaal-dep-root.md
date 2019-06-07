@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20045 nodes (6%) are attached to their parents as `root`.
+20044 nodes (6%) are attached to their parents as `root`.
 
-20045 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72726365677226.
+20044 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.72739972061465.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (13780; 69% instances), -<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2918; 15% instances), -<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (2071; 10% instances), -<tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (520; 3% instances), -<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (243; 1% instances), -<tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (164; 1% instances), -<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (79; 0% instances), -<tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (75; 0% instances), -<tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (75; 0% instances), -<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (54; 0% instances), -<tt><a href="no_bokmaal-pos-X.html">X</a></tt> (51; 0% instances), -<tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (5; 0% instances), -<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (4; 0% instances), -<tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (13780; 69% instances), -<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2918; 15% instances), -<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (2071; 10% instances), -<tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (520; 3% instances), -<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (243; 1% instances), -<tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (164; 1% instances), -<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (79; 0% instances), -<tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (75; 0% instances), -<tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (75; 0% instances), -<tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (54; 0% instances), -<tt><a href="no_bokmaal-pos-X.html">X</a></tt> (51; 0% instances), -<tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (5; 0% instances), -<tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

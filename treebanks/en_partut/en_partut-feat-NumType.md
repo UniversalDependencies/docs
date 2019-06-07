@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (139; 100% of non-empty `NumType`): <em>first, last, second, third, II, III, sixth, I, IV, VI</em>
-* `EMPTY` (3705): <em>other, new, European, economic, financial, social, many, important, own, same</em>
+* `EMPTY` (3703): <em>other, new, European, economic, financial, social, many, important, own, same</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `NumType`.
 
@@ -46,14 +46,13 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Ord` (6; 100% of non-empty `NumType`): <em>first, third, latter, second</em>
-* `EMPTY` (1987): <em>it, I, we, that, which, he, you, they, this, who</em>
+* `EMPTY` (2049): <em>it, I, we, that, which, he, you, they, this, there</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="en_partut-dep-flat.html">flat</a></tt>]--> NUM</tt> (56; 100%),
+<tt>NUM --[<tt><a href="en_partut-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (40; 100%),
 <tt>NUM --[<tt><a href="en_partut-dep-conj.html">conj</a></tt>]--> NUM</tt> (34; 100%),
-<tt>NUM --[<tt><a href="en_partut-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (34; 100%),
-<tt>NUM --[<tt><a href="en_partut-dep-compound.html">compound</a></tt>]--> NUM</tt> (16; 100%),
-<tt>NUM --[<tt><a href="en_partut-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="en_partut-dep-compound.html">compound</a></tt>]--> NUM</tt> (16; 100%).
 

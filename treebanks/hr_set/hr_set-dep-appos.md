@@ -8,25 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-2894 nodes (1%) are attached to their parents as `appos`.
+2963 nodes (1%) are attached to their parents as `appos`.
 
-2862 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41914305459572.
+2932 instances of `appos` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41410732365845.
 
-The following 46 pairs of parts of speech are connected with `appos`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1738; 60% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (530; 18% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (268; 9% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (80; 3% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (80; 3% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (34; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (1; 0% instances).
+The following 42 pairs of parts of speech are connected with `appos`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1794; 61% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (542; 18% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (274; 9% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (117; 4% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (66; 2% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (30; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 appos	color:blue
-1	Crnogorski	crnogorski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	vodenkonj	vodenkonj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
-4	ide	ići	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	kući	kuća	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 appos	color:blue
+1	Kraj	kraj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	vladavine	vladavina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+4	kralja	kralj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Otta	Otto	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+6	"	"	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 
@@ -34,36 +35,37 @@ The following 46 pairs of parts of speech are connected with `appos`: <tt><a hre
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 appos	color:blue
-1	Takve	takav	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
-2	ideje	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
-3	izazvale	izazvati	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	su	biti	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-5	kritike	kritika	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
-6	ostalih	ostao	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
-7	zemalja	zemlja	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
-8	članica	članica	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	appos	_	_
-9	eurozone	eurozona	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 appos	color:blue
+1	Nagradu	nagrada	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	dobio	dobiti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	za	za	ADP	Sa	Case=Acc	5	case	_	_
+5	roman	roman	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+6	"	"	PUNCT	Z	_	8	punct	_	SpaceAfter=No
+7	Pogrešna	pogrešan	ADJ	Agpfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	večera	večera	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+9	"	"	PUNCT	Z	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 appos	color:blue
-1	EXIT	EXIT	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	festival	festival	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
-3	uspješan	uspješan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-4	unatoč	unatoč	ADP	_	Case=Dat	5	case	_	_
-5	kiši	kiša	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
-6	i	i	CCONJ	_	_	7	cc	_	_
-7	prijetnjama	prijetnja	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	conj	_	_
+# visual-style 1 4 appos	color:blue
+1	Naim	Naim	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Huruglica	Huruglica	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	SpaceAfter=No
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	ravnatelj	ravnatelj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	Kosovske	kosovski	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	carinske	carinski	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	službe	služba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

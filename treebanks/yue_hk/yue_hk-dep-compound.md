@@ -9,26 +9,12 @@ udver: '2'
 This relation is universal.
 There are 5 language-specific subtypes of `compound`: <tt><a href="yue_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="yue_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="yue_hk-dep-compound-quant.html">compound:quant</a></tt>, <tt><a href="yue_hk-dep-compound-vo.html">compound:vo</a></tt>, <tt><a href="yue_hk-dep-compound-vv.html">compound:vv</a></tt>.
 
-20 nodes (0%) are attached to their parents as `compound`.
+177 nodes (1%) are attached to their parents as `compound`.
 
-16 instances of `compound` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3.
+174 instances of `compound` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83050847457627.
 
-The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (7; 35% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 25% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (3; 15% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	超級	超級	ADJ	_	_	3	amod	_	SpaceAfter=No
-2	撒亞	撒亞	PROPN	_	_	3	compound	_	SpaceAfter=No
-3	人	人	NOUN	_	_	0	root	_	SpaceAfter=No
-4	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-~~~
+The following 17 pairs of parts of speech are connected with `compound`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (106; 60% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (22; 12% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (14; 8% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 5% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -48,6 +34,20 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 9	啲	啲	NOUN	_	NounType=Clf	10	det	_	SpaceAfter=No
 10	七十一	七十一	PROPN	_	_	6	obl	_	SpaceAfter=No
 11	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	超級	超級	ADJ	_	_	3	amod	_	SpaceAfter=No
+2	撒亞	撒亞	PROPN	_	_	3	compound	_	SpaceAfter=No
+3	人	人	NOUN	_	_	0	root	_	SpaceAfter=No
+4	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

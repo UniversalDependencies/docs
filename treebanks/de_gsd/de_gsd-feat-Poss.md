@@ -11,19 +11,19 @@ It occurs with 1 different values: `Yes`.
 
 2398 tokens (1%) have a non-empty value of `Poss`.
 51 types (0%) occur at least once with a non-empty value of `Poss`.
-12 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 6 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1797; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (583; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+11 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 4 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (1800; 1% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (583; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `DET`
 
-1797 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
+1800 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1797; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1797; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1417; 79%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1800; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1799; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1420; 79%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1797; 100% of non-empty `Poss`): <em>seine, seiner, sein, ihre, seinen, seinem, ihrer, ihren, ihr, seines</em>
-* `EMPTY` (35063): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
+* `Yes` (1800; 100% of non-empty `Poss`): <em>seine, seiner, sein, ihre, seinen, seinem, ihrer, ihren, ihr, seines</em>
+* `EMPTY` (34996): <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (583; 100% of non-empty `Poss`): <em>meine, seine, unsere, ihre, mein, ihren, meiner, seiner, sein, meinem</em>
-* `EMPTY` (14511): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
+* `EMPTY` (14458): <em>er, sich, sie, es, die, ich, der, man, diese, das</em>
 
 ### `PROPN`
 
@@ -45,18 +45,7 @@ The most frequent other feature values with which `PROPN` and `Poss` co-occurred
 `PROPN` tokens may have the following values of `Poss`:
 
 * `Yes` (13; 100% of non-empty `Poss`): <em>mein, Unser, dein, Meine, SC, SYNODUS, Seine, unserer</em>
-* `EMPTY` (31171): <em>von, Deutschland, de, of, US, Berlin, the, SPD, St., für</em>
-
-### `ADJ`
-
-2 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
-
-`ADJ` tokens may have the following values of `Poss`:
-
-* `Yes` (2; 100% of non-empty `Poss`): <em>Ihres, deinen</em>
-* `EMPTY` (20571): <em>ersten, später, erste, weitere, anderen, neue, bekannt, neuen, großen, große</em>
+* `EMPTY` (30844): <em>Deutschland, de, of, US, Berlin, the, SPD, St., new, Oktober</em>
 
 ### `NOUN`
 
@@ -67,16 +56,5 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): <em>Meinen, seiner</em>
-* `EMPTY` (52220): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
-
-### `VERB`
-
-1 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `VERB` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Poss`:
-
-* `Yes` (1; 100% of non-empty `Poss`): <em>meinen</em>
-* `EMPTY` (19921): <em>gibt, hat, kam, liegt, hatte, gab, war, erhielt, befindet, ist</em>
+* `EMPTY` (52200): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 

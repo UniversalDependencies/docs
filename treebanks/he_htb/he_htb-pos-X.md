@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  ה (<tt><a href="he_htb-pos-DET.html">DET
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.965517 (the average of all parts of speech is 1.698519).
+The form / lemma ratio of `X` is 2.965517 (the average of all parts of speech is 1.701251).
 
 The 1st highest number of forms (60) was observed with the lemma “_”: 71פעל, אולדהאם, אחד, אמריקאים, באפסיס, בית, גרעון, דק, ה_, היה, הסתדרות, העדת, הערב, הרבה, הרים, התאחדות, וקפכות, זאתו, חוקרים, חצי, יחסים, ימים, כי, לאנשי, לראשונה, מארק, מהלכים, מהשך, מועמדי, מחצית, מטבע, מילואה, מלך, ממשלתו, מנכ"ל, מקורות, מקסים, מקרים, משחק, משמעות, סוף, סניף, עיתון, פועלים, פחות, קולת, קפידבין, קפכות, קפספבין, קפתמונה1, רצועה, ש22חת, שבועיים, שביתת, של, תובעת, תוך, תוכנית, תומכיו, תח22שאחדים.
 

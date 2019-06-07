@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-526 nodes (2%) are attached to their parents as `nummod`.
+529 nodes (2%) are attached to their parents as `nummod`.
 
-526 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25095057034221.
+529 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25141776937618.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (522; 99% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (526; 99% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6 5 nummod	color:blue
 1	ゴールデンゲートパーク	ゴールデンゲートパーク	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	の	の	ADP	PN	_	1	case	_	SpaceAfter=No
-3	全長	全長	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+3	全長	全長	NOUN	NN	_	19	dislocated	_	SpaceAfter=No
 4	は	は	ADP	PK	_	3	case	_	SpaceAfter=No
 5	4	4	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	km	km	PROPN	NNP	_	19	obj	_	SpaceAfter=No

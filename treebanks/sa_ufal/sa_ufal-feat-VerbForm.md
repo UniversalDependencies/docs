@@ -12,18 +12,18 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 342 tokens (19%) have a non-empty value of `VerbForm`.
 259 types (24%) occur at least once with a non-empty value of `VerbForm`.
 165 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (315; 17% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (314; 17% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-315 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+314 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 72%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (217; 69%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (217; 69%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (227; 72%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (216; 69%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (216; 69%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (35; 11% of non-empty `VerbForm`): गत्वा, श्रुत्वा, आदाय, आलोक्य, आहूय, समालोक्य, अवधार्य, अस्य, आकर्ण्य, आरुह्य
-* `Fin` (163; 52% of non-empty `VerbForm`): अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, अस्ति, उवाच
+* `Fin` (162; 52% of non-empty `VerbForm`): अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति
 * `Inf` (6; 2% of non-empty `VerbForm`): कर्तुम्, अनुएष्टुम्, क्रीडितुम्, वक्तु, संदर्शयितुम्
 * `Part` (111; 35% of non-empty `VerbForm`): उक्तं, आरब्धम्, अभिहितम्, उक्ते, कृत, गतः, प्रस्थितः, मृत, अगतः, अगम्यम्
 
@@ -49,14 +49,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-15 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+16 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 87%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 87%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 80%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 88%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14; 88%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 81%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (14; 93% of non-empty `VerbForm`): अस्ति, अस्तु, अस्मि, भवति, स्यात्
-* `Part` (1; 7% of non-empty `VerbForm`): सत्त्वम्
+* `Fin` (15; 94% of non-empty `VerbForm`): अस्ति, अस्तु, अस्मि, भवति, स्यात्
+* `Part` (1; 6% of non-empty `VerbForm`): सत्त्वम्
 
 <table>
   <tr><th>Paradigm <i>अस्</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -94,8 +94,9 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (10; 77%),
+<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (9; 75%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-obj.html">obj</a></tt>]--> VERB</tt> (1; 100%).
 

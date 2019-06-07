@@ -79,7 +79,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 
 
 <ul>
-<li>This corpus contains 6713 sentences, 119272 tokens and 124444 syntactic words.</li>
+<li>This corpus contains 6713 sentences, 119272 tokens and 124445 syntactic words.</li>
 </ul>
 
 <ul>
@@ -95,7 +95,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 5144 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>This corpus contains 5145 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
 <li>There are 459 types of multi-word tokens. Examples: del, della, al, alla, dei, nel, sul, dal, dell', all', alle, ai, delle, sulla, nella, dalla, degli, sui, nei, sulle, agli, dai, col, dall', nell', dalle, sull', allo, dello, nelle, seguimi, farlo, farsi, negli, dagli, farci, coi, ditemi, glielo, dirlo, nello, parlarne, spararsi, dallo, dargli, dirla, farla, farmi, fatemi, permettersi.</li>
 </ul>
 
@@ -116,7 +116,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 41 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, uno, vario, vostro, ‎lo</li>
+<li>This corpus contains 42 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, l', lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, uno, vario, vostro, ‎lo</li>
 </ul>
 
 <ul>
@@ -124,11 +124,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, essere, potere, sapere, stare, venire, volere</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): andare, avere, dovere, essere, potere, sapere, venire, volere</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: andare, avere, dovere, essere, potere, sapere, stare, venire, volere</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: andare, avere, dovere, essere, potere, sapere, venire, volere</li>
 </ul>
 
 <ul>
@@ -165,7 +165,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Part
   <ul>
-    <li>AUX: stato, stata, stati, state, potuto, dovuto, dovuta</li>
+    <li>AUX: stato, stata, stati, state, potuto, dovuto, dovuta, ststa</li>
     <li>VERB: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
   </ul>
   </li>
@@ -182,11 +182,11 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Fem
     <ul>
       <li>ADJ: bella, buona, nuova, prima, politica, italiana, unica, vera, prime, economica</li>
-      <li>AUX-Part: stata, state, dovuta</li>
+      <li>AUX-Part: stata, state, dovuta, ststa</li>
       <li>DET: la, le, una, mia, questa, un', sua, tua, nostra, sue</li>
       <li>NOUN: crisi, politica, manovra, vita, tv, foto, cosa, fiducia, gente, fine</li>
       <li>PRON: la, le, lei, quella, questa, tutte, quelle, una, tua, sua</li>
-      <li>VERB-Part: fatta, finita, stata, chiamata, fatte, andata, varata, arrivata, dedicata, morta</li>
+      <li>VERB-Part: fatta, finita, chiamata, fatte, andata, stata, varata, arrivata, dedicata, morta</li>
     </ul>
   </li>
 </ul>
@@ -221,7 +221,7 @@ The treebank development has also been possible thanks to the contribution of Fa
       <li>NOUN: anni, partiti, italiani, politici, cose, ministri, giorni, elezioni, parole, voti</li>
       <li>PRON: ci, tutti, c', noi, vi, li, ce, voi, loro, altri</li>
       <li>VERB-Fin: fanno, speriamo, hanno, sono, fate, dicono, abbiamo, parlano, vediamo, dite</li>
-      <li>VERB-Part: fatte, stati, costretti, messi, morti, nati, visti, abituati, ammessi, dati</li>
+      <li>VERB-Part: fatte, costretti, messi, morti, nati, visti, abituati, ammessi, dati, diventati</li>
     </ul>
   </li>
 </ul>
@@ -231,7 +231,7 @@ The treebank development has also been possible thanks to the contribution of Fa
     <ul>
       <li>ADJ: nuovo, bella, buon, possibile, facile, buona, primo, forte, migliore, sociale</li>
       <li>AUX-Fin: è, ha, sono, ho, e', sei, può, sarà, sia, sta</li>
-      <li>AUX-Part: stato, stata, potuto, dovuto, dovuta, state</li>
+      <li>AUX-Part: stato, stata, potuto, dovuto, dovuta, state, ststa</li>
       <li>DET: il, la, l', un, una, lo, questo, mio, mia, questa</li>
       <li>NOUN: governo, politica, manovra, vita, presidente, lavoro, cosa, fiducia, paese, gente</li>
       <li>PRON: mi, lo, ti, io, tutto, me, la, quello, te, tu</li>
@@ -324,7 +324,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Sub
     <ul>
       <li>AUX-Fin: sia, fosse, siano, abbia, possa, stia, fossi, avesse, dobbiamo, fossero</li>
-      <li>VERB-Fin: faccia, sia, vada, dica, abbia, dia, fosse, arrivi, duri, facciano</li>
+      <li>VERB-Fin: faccia, sia, vada, dica, abbia, fosse, dia, arrivi, duri, facciano</li>
     </ul>
   </li>
 </ul>
@@ -336,8 +336,8 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: sarà, saranno, avrà, saremo, dovrà, sarò, verrà, sarai, dovrò, potrai</li>
-      <li>VERB-Fin: farà, sarà, andrà, faremo, avrà, sara', arriverà, toccherà, andremo, durerà</li>
+      <li>AUX-Fin: sarà, saranno, avrà, saremo, dovrà, sarò, verrà, sara', sarai, dovrò</li>
+      <li>VERB-Fin: farà, sarà, andrà, faremo, avrà, arriverà, sara', toccherà, andremo, durerà</li>
     </ul>
   </li>
 </ul>
@@ -346,7 +346,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Imp
     <ul>
       <li>AUX-Fin: era, fosse, avevo, erano, ero, poteva, aveva, fossi, voleva, doveva</li>
-      <li>VERB-Fin: era, aveva, faceva, erano, fosse, pensavo, avevo, diceva, facesse, stavo</li>
+      <li>VERB-Fin: era, aveva, faceva, fosse, erano, pensavo, avevo, diceva, facesse, stavo</li>
     </ul>
   </li>
 </ul>
@@ -355,7 +355,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Past
     <ul>
       <li>AUX-Fin: fu, venne, dovette, voleste</li>
-      <li>AUX-Part: stato, stata, stati, state, potuto, dovuto, dovuta</li>
+      <li>AUX-Part: stato, stata, stati, state, potuto, dovuto, dovuta, ststa</li>
       <li>VERB-Fin: disse, evasi, appesi, compresi, dette, divenne, multò, nacque, por, prese</li>
       <li>VERB-Part: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
     </ul>
@@ -394,7 +394,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Dem
     <ul>
-      <li>DET: questo, questa, quel, sto, sta, questi, stesso, quei, stessa, ste</li>
+      <li>DET: questo, questa, quel, sto, sta, questi, stesso, quei, ste, stessa</li>
       <li>PRON: quello, questo, quelli, ciò, quella, questa, questi, stesso, quelle, quel</li>
     </ul>
   </li>
@@ -411,7 +411,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Ind
     <ul>
-      <li>DET: tutti, tutto, ogni, tutta, qualche, tutte, altro, tanti, nessun, altri</li>
+      <li>DET: tutti, tutto, ogni, qualche, tutta, tutte, altro, tanti, nessun, altri</li>
       <li>PRON: tutti, tutto, niente, nulla, uno, qualcosa, nessuno, qualcuno, altro, altri</li>
     </ul>
   </li>
@@ -456,7 +456,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Tot
     <ul>
-      <li>DET: tutti, tutto, Tutta, tutte</li>
+      <li>DET: tutti, tutto, tutta, tutte</li>
     </ul>
   </li>
 </ul>
@@ -556,12 +556,12 @@ The treebank development has also been possible thanks to the contribution of Fa
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: essere, stare, c, c’è, ok.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essere.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, andare, sapere, venire, s’è.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare, stare.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, andare, sapere, venire.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -573,7 +573,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1164)</li>
       <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (906)</li>
+      <li>VERB-Fin--PRON (908)</li>
       <li>VERB-Fin--PRON-ADP(a) (1)</li>
       <li>VERB-Fin--PRON-ADP(in) (1)</li>
       <li>VERB-Ger--NOUN (28)</li>
@@ -581,7 +581,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (92)</li>
       <li>VERB-Inf--PRON (72)</li>
       <li>VERB-Inf--PRON-ADP(per) (1)</li>
-      <li>VERB-Part--NOUN (176)</li>
+      <li>VERB-Part--NOUN (177)</li>
       <li>VERB-Part--NOUN-ADP(oltre) (1)</li>
       <li>VERB-Part--PRON (150)</li>
     </ul>
@@ -591,18 +591,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1663)</li>
+      <li>VERB-Fin--NOUN (1662)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>
-      <li>VERB-Fin--PRON (949)</li>
+      <li>VERB-Fin--PRON (950)</li>
       <li>VERB-Fin--PRON-ADP(contro) (1)</li>
       <li>VERB-Ger--NOUN (77)</li>
       <li>VERB-Ger--PRON (28)</li>
       <li>VERB-Inf--NOUN (812)</li>
       <li>VERB-Inf--PRON (344)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN (351)</li>
+      <li>VERB-Part--NOUN (350)</li>
       <li>VERB-Part--PRON (150)</li>
     </ul>
   </li>
@@ -611,7 +611,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (682)</li>
+      <li>VERB-Fin--PRON (681)</li>
       <li>VERB-Fin--PRON-ADP(a) (3)</li>
       <li>VERB-Ger--PRON (12)</li>
       <li>VERB-Inf--NOUN-ADP(a) (1)</li>

@@ -13,17 +13,17 @@ Some words have combined values of the feature; 2 combinations have been observe
 298 tokens (16%) have a non-empty value of `Voice`.
 228 types (21%) occur at least once with a non-empty value of `Voice`.
 141 lemmas (18%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (272; 15% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (271; 15% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-272 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Voice`.
+271 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (227; 83%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (176; 65%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (176; 65%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (162; 60%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 83%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (175; 65%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (175; 65%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (161; 59%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (117; 43% of non-empty `Voice`): अब्रवीत्, आह, भवति, करिष्यामि, करोमि, प्रोवाच, अस्ति, उवाच, करिष्यति, गृहाण
+* `Act` (116; 43% of non-empty `Voice`): अब्रवीत्, आह, भवति, करिष्यामि, करोमि, प्रोवाच, उवाच, करिष्यति, गृहाण, तिष्ठति
 * `Act,Cau` (6; 2% of non-empty `Voice`): व्यापादयिष्यति, नियोजयिष्यामि, पाचयति, विवाहयामि, समर्पय
 * `Cau` (2; 1% of non-empty `Voice`): प्रसाधयेत्, संदर्शयितुम्
 * `Cau,Pass` (6; 2% of non-empty `Voice`): दर्शितः, निवेदितम्, पाठिताः, विज्ञप्यम्, विनाशितः, समर्प्य
@@ -51,13 +51,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-15 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+16 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 93%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 87%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 87%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 80%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 94%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 88%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14; 88%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 81%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (15; 100% of non-empty `Voice`): अस्ति, अस्तु, अस्मि, भवति, सत्त्वम्, स्यात्
+* `Act` (16; 100% of non-empty `Voice`): अस्ति, अस्तु, अस्मि, भवति, सत्त्वम्, स्यात्
 
 ### `ADJ`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 55%),
+<tt>VERB --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 60%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
 

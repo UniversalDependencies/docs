@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_lines-dep-compound.html">compound</a></tt>.
 
-375 nodes (0%) are attached to their parents as `compound:prt`.
+379 nodes (0%) are attached to their parents as `compound:prt`.
 
-374 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17333333333333.
+378 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1688654353562.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (350; 93% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (11; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (355; 94% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (11; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -70,12 +70,12 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 8 9 compound:prt	color:blue
 1	You	you	PRON	PERS-P2	_	2	nsubj	_	_
 2	mean	mean	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	Edward	Edward	PROPN	SG-NOM	Number=Sing	8	nsubj	_	SpaceAfter=No
-4	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-5	not	not	PART	NEG	_	8	advmod	_	_
-6	going	go	VERB	ING	Tense=Pres|VerbForm=Part	8	aux	_	_
+3	Edward	Edward	PROPN	SG-NOM	Number=Sing	6	nsubj	_	SpaceAfter=No
+4	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	not	not	PART	NEG	_	6	advmod	_	_
+6	going	go	VERB	ING	Tense=Pres|VerbForm=Part	2	ccomp	_	_
 7	to	to	PART	_	_	8	mark	_	_
-8	take	take	VERB	INF	VerbForm=Inf	2	xcomp	_	_
+8	take	take	VERB	INF	VerbForm=Inf	6	xcomp	_	_
 9	part	part	NOUN	SG-NOM	Number=Sing	8	compound:prt	_	_
 10	in	in	ADP	_	_	12	case	_	_
 11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_

@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 17	zu	zu	ADP	IN	_	18	case	_	_
 18	Lebzeiten	Lebzeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur|Person=3	12	conj	_	_
 19	als	als	CCONJ	CC	_	21	cc	_	_
-20	auch	auch	ADV	RB	Degree=Pos	19	advmod	_	_
+20	auch	auch	ADV	RB	Degree=Pos	21	advmod	_	_
 21	posthum	posthum	ADV	RB	Degree=Pos	18	conj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -61,19 +61,19 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	unerwünschten	unerwünscht	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Person=3	6	amod	_	InflectionType=Weak
 6	Meinungsäußerungen	Meinungsäußerung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	3	obj	_	_
 7	aus	aus	VERB	DC	_	3	compound:prt	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	19	punct	_	_
+8	,	,	PUNCT	,	_	20	punct	_	_
 9	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	10	det	_	_
-10	Teilnahme	Teilnahme	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	_
+10	Teilnahme	Teilnahme	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	nsubj	_	_
 11	an	an	ADP	APPR	_	14	case	_	_
 12	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|Person=3	14	det	_	_
 13	öffentlichen	öffentlich	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Person=3	14	amod	_	InflectionType=Weak
 14	Leben	Leben	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	10	nmod	_	_
-15	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	_
-16	so	so	ADV	RB	Degree=Pos	19	advmod	_	_
+15	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	_
+16	so	so	ADV	RB	Degree=Pos	20	advmod	_	_
 17	gut	gut	ADV	RB	Degree=Pos	16	fixed	_	_
 18	wie	wie	CCONJ	CC	_	16	fixed	_	_
-19	unmöglich	unmöglich	ADJ	JJ	Degree=Pos	3	parataxis	_	_
-20	geworden	werden	AUX	VBN	Tense=Past	19	cop	_	SpaceAfter=No
+19	unmöglich	unmöglich	ADJ	JJ	Degree=Pos	20	xcomp	_	_
+20	geworden	werden	VERB	VBN	Tense=Past	3	parataxis	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -92,19 +92,19 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	unerwünschten	unerwünscht	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Person=3	6	amod	_	InflectionType=Weak
 6	Meinungsäußerungen	Meinungsäußerung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	3	obj	_	_
 7	aus	aus	VERB	DC	_	3	compound:prt	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	19	punct	_	_
+8	,	,	PUNCT	,	_	20	punct	_	_
 9	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	10	det	_	_
-10	Teilnahme	Teilnahme	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	_
+10	Teilnahme	Teilnahme	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	nsubj	_	_
 11	an	an	ADP	APPR	_	14	case	_	_
 12	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|Person=3	14	det	_	_
 13	öffentlichen	öffentlich	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Person=3	14	amod	_	InflectionType=Weak
 14	Leben	Leben	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	10	nmod	_	_
-15	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	_
-16	so	so	ADV	RB	Degree=Pos	19	advmod	_	_
+15	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	_
+16	so	so	ADV	RB	Degree=Pos	20	advmod	_	_
 17	gut	gut	ADV	RB	Degree=Pos	16	fixed	_	_
 18	wie	wie	CCONJ	CC	_	16	fixed	_	_
-19	unmöglich	unmöglich	ADJ	JJ	Degree=Pos	3	parataxis	_	_
-20	geworden	werden	AUX	VBN	Tense=Past	19	cop	_	SpaceAfter=No
+19	unmöglich	unmöglich	ADJ	JJ	Degree=Pos	20	xcomp	_	_
+20	geworden	werden	VERB	VBN	Tense=Past	3	parataxis	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

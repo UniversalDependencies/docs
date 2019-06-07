@@ -152,11 +152,11 @@ Department of Linguistics.
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): behöva, bli, bruka, böra, dra, få, ha, komma, kunna, lär, må, måste, skola, torde, vara, vilja</li>
+<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): behöva, bli, böra, få, ha, komma, kunna, lär, må, måste, skola, torde, vara, vilja</li>
 </ul>
 
 <ul>
-<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, bruka, böra, dra, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
+<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, böra, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
 </ul>
 
 <ul>
@@ -167,7 +167,7 @@ Department of Linguistics.
   <li>Fin
   <ul>
     <li>AUX: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-    <li>VERB: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+    <li>VERB: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
   </ul>
   </li>
 </ul>
@@ -175,8 +175,8 @@ Department of Linguistics.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: vara, kunna, få, ha, bli, behöva, vilja, komma, dra</li>
-    <li>VERB: få, ha, bli, göra, ge, ta, komma, gå, se, vara</li>
+    <li>AUX: vara, kunna, få, ha, bli, behöva, vilja, komma</li>
+    <li>VERB: få, ha, bli, göra, ge, ta, komma, gå, se, finnas</li>
   </ul>
   </li>
 </ul>
@@ -323,7 +323,7 @@ Department of Linguistics.
       <li>ADJ: olika, andra, första, nya, många, stora, stor, större, vissa, hela</li>
       <li>ADJ-Part: följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</li>
       <li>NOUN: år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</li>
-      <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
+      <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
       <li>PRON: man, de, vi, du, han, jag, hon, ni, bägge, en</li>
       <li>PROPN: Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</li>
       <li>VERB-Part: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
@@ -433,7 +433,7 @@ Department of Linguistics.
   <li>Ind
     <ul>
       <li>AUX-Fin: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-      <li>VERB-Fin: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+      <li>VERB-Fin: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
     </ul>
   </li>
 </ul>
@@ -456,7 +456,7 @@ Department of Linguistics.
     <ul>
       <li>ADJ-Part: särskild, särskilda, ökad, ökade, gifta, sett, taget, handikappade, beredd, bestämda</li>
       <li>AUX-Fin: skulle, var, kunde, hade, borde, ville, fick, torde, vore, blev</li>
-      <li>VERB-Fin: blev, fick, hade, var, började, gjorde, kom, gick, fanns, gav</li>
+      <li>VERB-Fin: blev, fick, hade, började, gjorde, kom, gick, fanns, gav, var</li>
       <li>VERB-Part: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
     </ul>
   </li>
@@ -467,7 +467,7 @@ Department of Linguistics.
     <ul>
       <li>ADJ-Part: följande, beroende, motsvarande, liknande, nuvarande, omfattande, pensionsgrundande, avgörande, krävande, oberoende</li>
       <li>AUX-Fin: är, kan, har, måste, skall, ska, kommer, får, bör, vill</li>
-      <li>VERB-Fin: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+      <li>VERB-Fin: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
     </ul>
   </li>
 </ul>
@@ -480,10 +480,10 @@ Department of Linguistics.
   <li>Act
     <ul>
       <li>AUX-Fin: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-      <li>AUX-Inf: vara, kunna, få, ha, bli, behöva, vilja, komma, dra</li>
+      <li>AUX-Inf: vara, kunna, få, ha, bli, behöva, vilja, komma</li>
       <li>AUX-Sup: varit, kunnat, fått, kommit, blivit, velat</li>
-      <li>VERB-Fin: har, är, blir, får, gäller, ger, går, kommer, gör, visar</li>
-      <li>VERB-Inf: få, ha, bli, göra, ge, ta, komma, gå, se, vara</li>
+      <li>VERB-Fin: har, blir, får, är, gäller, ger, går, kommer, gör, visar</li>
+      <li>VERB-Inf: få, ha, bli, göra, ge, ta, komma, gå, se, hålla</li>
       <li>VERB-Sup: fått, blivit, haft, gjort, ökat, kommit, gått, visat, börjat, skett</li>
     </ul>
   </li>
@@ -593,7 +593,7 @@ Department of Linguistics.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
+      <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
     </ul>
   </li>
 </ul>
@@ -659,7 +659,7 @@ Department of Linguistics.
 </ul>
 
 <ul>
-<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, vilja, böra, behöva, torde, må, lär, bruka, dra.</li>
+<li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, böra, vilja, behöva, torde, må, lär.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
 
@@ -671,11 +671,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (13)</li>
       <li>VERB-Fin--NOUN-Nom (2075)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
       <li>VERB-Fin--PRON (1023)</li>
       <li>VERB-Fin--PRON-Nom (1021)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (498)</li>
+      <li>VERB-Inf--NOUN-Nom (497)</li>
       <li>VERB-Inf--PRON (197)</li>
       <li>VERB-Inf--PRON-Nom (521)</li>
       <li>VERB-Sup--NOUN (3)</li>
@@ -692,13 +692,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (34)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1762)</li>
+      <li>VERB-Fin--NOUN-Nom (1763)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
       <li>VERB-Fin--PRON (160)</li>
       <li>VERB-Fin--PRON-Acc (230)</li>
       <li>VERB-Inf--NOUN (10)</li>
-      <li>VERB-Inf--NOUN-Nom (1290)</li>
+      <li>VERB-Inf--NOUN-Nom (1292)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Inf--PRON (118)</li>
       <li>VERB-Inf--PRON-Acc (149)</li>

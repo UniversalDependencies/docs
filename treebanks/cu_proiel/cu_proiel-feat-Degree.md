@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (63; 36% of non-empty `Degree`): <em>паче, отърадьнѣе, вѧште, вꙑше, поздѣ, мъножѣе, боле, дале, лише, мьножѣе</em>
 * `Pos` (114; 64% of non-empty `Degree`): <em>мъного, мало, далече, добрѣ, поздѣ, не, ѩдро, оудобь, зълѣ, лютѣ</em>
-* `EMPTY` (5819): <em>же, не, бо, ли, и, егда, оубо, ѣко, ѣкоже, пакꙑ</em>
+* `EMPTY` (5821): <em>же, не, бо, ли, и, егда, оубо, ѣко, ѣкоже, пакꙑ</em>
 
 <table>
   <tr><th>Paradigm <i>мъного</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -87,11 +87,13 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cu_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (85; 93%),
-<tt>ADJ --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (70; 95%),
-<tt>ADJ --[<tt><a href="cu_proiel-dep-flat.html">flat</a></tt>]--> ADJ</tt> (13; 100%),
-<tt>ADJ --[<tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (9; 100%),
-<tt>ADV --[<tt><a href="cu_proiel-dep-flat.html">flat</a></tt>]--> ADV</tt> (5; 100%),
-<tt>ADJ --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (84; 93%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (82; 92%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (14; 100%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (13; 100%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (8; 73%),
+<tt>ADV --[<tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (5; 100%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 80%),
+<tt>ADJ --[<tt><a href="cu_proiel-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="cu_proiel-dep-obj.html">obj</a></tt>]--> ADJ</tt> (1; 100%).
 

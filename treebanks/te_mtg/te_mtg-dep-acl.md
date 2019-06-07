@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	వచ్చీ	_	VERB	VERB	_	2	compound:svc	_	Translit=vaccī|LTranslit=_
 2	రాని	_	VERB	VERB	_	3	acl	_	Translit=rāni|LTranslit=_
 3	తెలుగు	_	NOUN	NOUN	_	4	obj	_	Translit=tèlugu|LTranslit=_
-4	మాట్లాడుతున్నాడు	_	VERB	VERB	_	0	root	_	Translit=māṭlāḍutunnāḍu|LTranslit=_
+4	మాట్లాడుతున్నాడు	_	VERB	VERB	_	0	root	_	Translit=māṭlāḍutunnāḍu|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -40,8 +40,8 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5 4 acl	color:blue
 1	నిన్న	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=ninna|LTranslit=_
 2	కమలకు	_	PROPN	PROPN	_	4	obj	_	Translit=kamalaku|LTranslit=_
-3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	Translit=pustakaṁ|LTranslit=_
-4	ఇచ్చింది	_	VERB	VERB	_	5	acl	_	Translit=icciṁdi|LTranslit=_
+3	పుస్తకం	_	NOUN	NOUN	_	4	obj	_	Translit=pustakaṁ|LTranslit=_
+4	ఇచ్చింది	_	VERB	VERB	_	5	acl	_	Translit=icciṁdi|LTranslit=_
 5	రాము	_	PROPN	PROPN	_	0	root	_	Translit=rāmu|LTranslit=_
 6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
 
@@ -54,13 +54,13 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 acl	color:blue
-1	బలపంతో	_	NOUN	NOUN	_	7	obl	_	Translit=balapaṁto|LTranslit=_
+1	బలపంతో	_	NOUN	NOUN	_	7	obl	_	Translit=balapaṁto|LTranslit=_
 2	ఇ	_	NOUN	NOUN	_	3	compound	_	Translit=i|LTranslit=_
 3	ఈ	_	NOUN	NOUN	_	6	acl	_	Translit=ī|LTranslit=_
 4	అనే	_	SCONJ	SCONJ	_	3	mark	_	Translit=ane|LTranslit=_
-5	రెండు	_	NUM	NUM	NumType=Card	6	nummod	_	Translit=rèṁḍu|LTranslit=_
-6	అక్షరాలు	_	NOUN	NOUN	_	7	obj	_	Translit=akṣarālu|LTranslit=_
-7	రాసింది	_	VERB	VERB	_	0	root	_	Translit=rāsiṁdi|LTranslit=_
+5	రెండు	_	NUM	NUM	NumType=Card	6	nummod	_	Translit=rèṁḍu|LTranslit=_
+6	అక్షరాలు	_	NOUN	NOUN	_	7	obj	_	Translit=akṣarālu|LTranslit=_
+7	రాసింది	_	VERB	VERB	_	0	root	_	Translit=rāsiṁdi|LTranslit=_
 8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
 
 ~~~

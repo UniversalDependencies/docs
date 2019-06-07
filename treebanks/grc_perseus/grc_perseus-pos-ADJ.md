@@ -29,10 +29,10 @@ The 10 most frequent ambiguous types:  <em>μέγα</em> (<tt><a href="grc_perse
   * <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> 65: <em>τεκμήριον δὲ μέγιστον <b>αὐτὸς</b> ἐποίησεν ·</em>
 * <em>πολλὰ</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 126: <em>τότε δὲ τὰ <b>πολλὰ</b> τῶν πολιτικῶν οἱ ἐννέα ἄρχοντες ἔπρασσον .</em>
-  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 2: <em><b>πολλὰ</b> δ̓ ἄῤ ἀμφαγάπησε κόρην Δημήτερος ἁγνήν ·</em>
+  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 2: <em><b>πολλὰ</b> δ̓ ἄῤ ἀμφαγάπησε κόρην Δημήτερος ἁγνήν ·</em>
 * <em>πρῶτον</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 115: <em>οὕτως ἀπάρας <b>πρῶτον</b> μὲν εἰς Κρήτην ἀφίκετο ·</em>
-  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 1: <em>Ἶριν δὲ <b>πρῶτον</b> χρυσόπτερον ὦρσε καλέσσαι Δήμητῤ ἠύκομον , πολυήρατον εἶδος ἔχουσαν .</em>
+  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 1: <em>Ἶριν δὲ <b>πρῶτον</b> χρυσόπτερον ὦρσε καλέσσαι Δήμητῤ ἠύκομον , πολυήρατον εἶδος ἔχουσαν .</em>
 * <em>φίλον</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 90: <em>εἰ δὲ μή ̓ στί σοι <b>φίλον</b> πράσσειν τάδ̓ ἡμᾶς , εἶμ̓ ἐπαινέσας τὸ σόν .</em>
   * <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> 2: <em>εἶτ̓ ἐκείνους μὲν οὐκ ἔπεισε φίλος ὢν Βοιωτοῖς μὴ συνόμνυσθαι μηδὲ Κορινθίοις , Ἀθηναίοις δὲ κωλύει τὸν βουλόμενον τῶν Ἑλλήνων <b>φίλον</b> εἶναι καὶ σύμμαχον , εἰ μὴ δόξειε Λακεδαιμονίοις .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>μέγα</em> (<tt><a href="grc_perse
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.522317 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `ADJ` is 2.522317 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (59) was observed with the lemma “μέγας”: <em>μέγ̓, μέγα, μέγαν, μέγας, μέγιστ̓, μέγιστα, μέγισται, μέγιστε, μέγιστοι, μέγιστον, μέγιστος, μέγιστόν, μέζονας, μέζω, μέζων, μείζον̓, μείζονα, μείζονας, μείζονες, μείζονι, μείζονος, μείζοσιν, μείζους, μείζω, μείζων, μεγάλ̓, μεγάλα, μεγάλαι, μεγάλαις, μεγάλαισιν, μεγάλαν, μεγάλας, μεγάλη, μεγάλην, μεγάλης, μεγάλοι, μεγάλοιο, μεγάλοις, μεγάλοισί, μεγάλοισι, μεγάλου, μεγάλους, μεγάλων, μεγάλῃ, μεγάλῃσι, μεγάλῳ, μεγίστας, μεγίστη, μεγίστην, μεγίστης, μεγίστοις, μεγίστου, μεγίστους, μεγίστων, μεγίστῃ, μεγίστῳ, μεῖζον, μεῖζόν, στέγας</em>.
 

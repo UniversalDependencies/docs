@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-34731 tokens (55%) have a non-empty value of `Gender`.
+34730 tokens (55%) have a non-empty value of `Gender`.
 7642 types (67%) occur at least once with a non-empty value of `Gender`.
 4106 lemmas (65%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11514; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2900; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (514; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (12947; 20% instances), <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (11513; 18% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (4920; 8% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2899; 5% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (1811; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (515; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="el_gdt-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (6967; 54% of non-empty `Gender`): <em>επιτροπή, χώρες, ένωση, επιτροπής, έκθεση, κυβέρνηση, χώρα, ένωσης, περιοχή, θέση</em>
 * `Masc` (2438; 19% of non-empty `Gender`): <em>κύριε, Πρόεδρε, τομέα, πρόεδρος, λόγο, υπουργός, βουλευτές, χρόνο, πολιτών, τρόπο</em>
 * `Neut` (3542; 27% of non-empty `Gender`): <em>κοινοβούλιο, Συμβούλιο, μέλη, ευρώ, χρόνια, πλαίσιο, πρόγραμμα, κοινοβουλίου, ζήτημα, κράτη</em>
-* `EMPTY` (619): <em>ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, π.χ., ΕΛΑΣ, 2004, ΕΑΜ, Ν.</em>
+* `EMPTY` (616): <em>ΗΠΑ, κ., ΕΕ, χλμ., ΟΗΕ, ΕΛΑΣ, π.Χ., 2004, ΕΑΜ, Ν.</em>
 
 <table>
   <tr><th>Paradigm <i>δορυφόρος</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-11514 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+11513 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9846; 86%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9378; 81%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8770; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9845; 86%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9378; 81%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8769; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (6271; 54% of non-empty `Gender`): <em>την, της, η, τη, τις, των, οι, μια, μία, μιας</em>
 * `Masc` (2267; 20% of non-empty `Gender`): <em>ο, τον, του, τους, οι, των, το, ένας, έναν, ένα</em>
-* `Neut` (2976; 26% of non-empty `Gender`): <em>το, τα, του, των, ένα, ενός, τω</em>
+* `Neut` (2975; 26% of non-empty `Gender`): <em>το, τα, του, των, ένα, ενός, τω</em>
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -85,13 +85,13 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-2900 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
+2899 <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2522; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2264; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1716; 59%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (2521; 87%), <tt><a href="el_gdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2263; 78%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1715; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (1000; 34% of non-empty `Gender`): <em>που, αυτή, της, οποία, αυτές, οποίες, αυτής, τους, την, άλλες</em>
+* `Fem` (999; 34% of non-empty `Gender`): <em>που, αυτή, της, οποία, αυτές, οποίες, αυτής, τους, την, άλλες</em>
 * `Masc` (1041; 36% of non-empty `Gender`): <em>μας, τους, που, του, σας, μου, οποίος, αυτό, εμείς, αυτόν</em>
 * `Neut` (859; 30% of non-empty `Gender`): <em>που, αυτό, οποίο, αυτά, το, του, κάτι, αυτού, οποία, άλλα</em>
 
@@ -127,15 +127,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `NUM`
 
-514 <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> tokens (53% of all `NUM` tokens) have a non-empty value of `Gender`.
+515 <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> tokens (53% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="el_gdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (308; 60%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (289; 56%), <tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (268; 52%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="el_gdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (309; 60%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (289; 56%), <tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (269; 52%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (221; 43% of non-empty `Gender`): <em>δύο, πρώτη, τρεις, μία, δεύτερη, μια, δεκάδες, τρίτη, πρώτες, πρώτης</em>
 * `Masc` (132; 26% of non-empty `Gender`): <em>δύο, τρεις, πέντε, ένας, πρώτος, έναν, δεύτερος, έξι, ενάμισι, πρώτο</em>
-* `Neut` (161; 31% of non-empty `Gender`): <em>δύο, ένα, πρώτο, τρία, δεύτερο, πέντε, Β', δέκα, εκατοστά, δεκαπέντε</em>
+* `Neut` (162; 31% of non-empty `Gender`): <em>δύο, ένα, πρώτο, τρία, δεύτερο, πέντε, Β', δέκα, εκατοστά, δεκαπέντε</em>
 * `EMPTY` (465): <em>1, 15, 100, 20, 3, 30, 80, 16, 2, 10</em>
 
 <table>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (58; 47% of non-empty `Gender`): <em>χτισμένη, περιορισμένη, συμπεριλαμβανομένης, αποτυχημένη, αυξημένη, ολοκληρωμένη, συμπεριλαμβανομένων, συντονισμένη, αιτιολογημένη, απασχολημένες</em>
 * `Masc` (28; 23% of non-empty `Gender`): <em>εκλεγμένος, ευνοημένων, ικανοποιημένοι, συμπεριλαμβανομένου, υποχρεωμένοι, ακροβολισμένοι, αυτοαπασχολούμενους, αυτοαπασχολούμενων, διατεθειμένοι, εκλεγμένων</em>
 * `Neut` (37; 30% of non-empty `Gender`): <em>χτισμένο, δομημένο, κτισμένο, απηρχαιωμένο, αποκεντρωμένα, αποκεντρωμένο, αποτυπωμένο, αποτυχημένο, ασβεστωμένα, γκρεμισμένα</em>
-* `EMPTY` (6210): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
+* `EMPTY` (5744): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</em>
 
 <table>
   <tr><th>Paradigm <i>χτίζω</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -193,7 +193,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (525; 59%),
 <tt>PRON --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (364; 98%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-det.html">det</a></tt>]--> DET</tt> (230; 98%),
-<tt>NOUN --[<tt><a href="el_gdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (219; 55%),
+<tt>NOUN --[<tt><a href="el_gdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (220; 55%),
 <tt>PROPN --[<tt><a href="el_gdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (177; 99%),
 <tt>ADJ --[<tt><a href="el_gdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (141; 99%).
 

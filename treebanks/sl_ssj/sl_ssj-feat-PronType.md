@@ -46,6 +46,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Prs` (1306; 25% of non-empty `PronType`): <em>svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</em>
 * `Rel` (30; 1% of non-empty `PronType`): <em>kakršen, kakršnokoli, kakršna, kakršnih, kakršno, kakršni, kakršenkoli, kakršne, kakršnega, kakršnegakoli</em>
 * `Tot` (705; 13% of non-empty `PronType`): <em>vse, vseh, vsi, vsak, vsem, ves, vsako, oba, obeh, vsega</em>
+* `EMPTY` (2): <em>obilo</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (65) occur only with one value of `PronType`.
 

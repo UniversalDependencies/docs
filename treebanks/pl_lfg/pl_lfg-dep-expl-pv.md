@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	wyraźnie	wyraźnie	ADV	adv:pos	Degree=Pos	1	advmod	1:advmod	_
 4	drobne	drobny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	amod	5:amod	_
 5	krople	kropla	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	1	obj	1:obj	SpaceAfter=No
-6	,	,	PUNCT	interp	PunctType=Comm	1	punct	1:punct	_
+6	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
 7	wolno	wolno	ADV	adv:pos	Degree=Pos	8	advmod	8:advmod	_
 8	toczące	toczyć	ADJ	pact:pl:acc:f:imperf:aff	Aspect=Imp|Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	5	acl	5:acl	_
 9	się	się	PRON	qub	PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	_

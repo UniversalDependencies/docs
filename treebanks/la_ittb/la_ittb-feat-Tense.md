@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-63149 tokens (18%) have a non-empty value of `Tense`.
-7137 types (44%) occur at least once with a non-empty value of `Tense`.
+63104 tokens (18%) have a non-empty value of `Tense`.
+7136 types (44%) occur at least once with a non-empty value of `Tense`.
 1241 lemmas (27%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (50005; 14% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (13143; 4% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (50133; 14% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (12970; 4% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-50005 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
+50133 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (40250; 80%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (39377; 79%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39364; 79%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39364; 79%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33825; 68%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33221; 66%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (31863; 64%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31440; 63%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27126; 54%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (40370; 81%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (39501; 79%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39488; 79%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39488; 79%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33901; 68%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33333; 66%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (32012; 64%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31418; 63%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27249; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (917; 2% of non-empty `Tense`): <em>erit, poterit, sequetur, oportebit, dicetur, habebit, ostendetur, erunt, apparebit, remanebit</em>
-* `Imp` (1591; 3% of non-empty `Tense`): <em>esset, posset, sequeretur, dicebant, oporteret, haberet, essent, erat, cognosceret, fieret</em>
-* `Past` (8035; 16% of non-empty `Tense`): <em>ostensum, dictum, separatae, probatum, separata, dictis, separatas, praemissis, praedicta, intellecta</em>
+* `Fut` (922; 2% of non-empty `Tense`): <em>erit, poterit, sequetur, oportebit, dicetur, habebit, ostendetur, erunt, remanebit, apparebit</em>
+* `Imp` (1595; 3% of non-empty `Tense`): <em>esset, posset, sequeretur, dicebant, oporteret, haberet, essent, erat, cognosceret, fieret</em>
+* `Past` (8039; 16% of non-empty `Tense`): <em>ostensum, dictum, separatae, probatum, separata, dictis, separatas, praemissis, praedicta, intellecta</em>
 * `Pqp` (71; 0% of non-empty `Tense`): <em>fecerat, dixerat, fuisset, accepisset, dixisset, habuisset, patrarat, assumpsissent, confirmasset, declinaverat</em>
-* `Pres` (39391; 79% of non-empty `Tense`): <em>est, potest, esse, oportet, habet, dicitur, sunt, patet, sit, dicit</em>
+* `Pres` (39506; 79% of non-empty `Tense`): <em>est, potest, esse, oportet, habet, dicitur, sunt, patet, sit, dicit</em>
 * `EMPTY` (2242): <em>dicendum, essendi, agendo, cognoscendo, intelligendo, considerandum, sciendum, intelligendum, vivendi, agendum</em>
 
 <table>
@@ -67,17 +67,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-13143 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
+12970 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12983; 99%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11758; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11713; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10093; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9729; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12967; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11608; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11564; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9972; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9606; 74%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (235; 2% of non-empty `Tense`): <em>erit, fuerit, erunt, estote, fore, fuerint, remanebit, cognoscetur, dicetur, erimus</em>
-* `Imp` (338; 3% of non-empty `Tense`): <em>esset, essent, erat, erant, eratis, foret, manebat, poneretur, remanerent, videbatur</em>
-* `Past` (153; 1% of non-empty `Tense`): <em>fuit, fuerit, fuisse, fuerunt, fuerint, facta, factae, cognitum, factas, institutus</em>
+* `Fut` (230; 2% of non-empty `Tense`): <em>erit, fuerit, erunt, estote, fore, fuerint, erimus, ero, esto, fuerimus</em>
+* `Imp` (334; 3% of non-empty `Tense`): <em>esset, essent, erat, erant, eratis, foret</em>
+* `Past` (142; 1% of non-empty `Tense`): <em>fuit, fuerit, fuisse, fuerunt, fuerint</em>
 * `Pqp` (24; 0% of non-empty `Tense`): <em>fuisset, fuerat, fuissent, fuerant</em>
-* `Pres` (12393; 94% of non-empty `Tense`): <em>est, sit, esse, sunt, sint, dicitur, videtur, fit, sum, dici</em>
+* `Pres` (12240; 94% of non-empty `Tense`): <em>est, sit, esse, sunt, sint, sum, sumus, es, estis, simus</em>
 * `EMPTY` (1): <em>essendi</em>
 
 <table>
@@ -121,14 +121,14 @@ The most frequent other feature values with which `NUM` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4743; 60%),
-<tt>VERB --[<tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3057; 85%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2448; 85%),
-<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2260; 84%),
-<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1172; 60%),
-<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (107; 61%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (36; 80%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-appos.html">advcl:appos</a></tt>]--> VERB</tt> (12; 67%),
-<tt>VERB --[<tt><a href="la_ittb-dep-mark.html">mark</a></tt>]--> VERB</tt> (11; 61%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 86%).
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4776; 61%),
+<tt>VERB --[<tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (3137; 83%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2469; 86%),
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2262; 84%),
+<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1169; 60%),
+<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (105; 61%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (37; 80%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-appos.html">advcl:appos</a></tt>]--> VERB</tt> (10; 83%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

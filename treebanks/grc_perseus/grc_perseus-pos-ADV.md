@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>καὶ</em> (<tt><a href="grc_perseu
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 541: <em>πρὸ <b>γὰρ</b> τῶν Τρωικῶν οὐδὲν φαίνεται πρότερον κοινῇ ἐργασαμένη ἡ Ἑλλάς ·</em>
 * <em>ὣς</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 514: <em>εἶτα φοινίας ἐχθρᾶς ἐχίδνης ἰὸς <b>ὣς</b> ἐδαίνυτο .</em>
-  * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 19: <em><b>ὣς</b> ἄῤ ἔφη Ἑκάτη ·</em>
+  * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 19: <em><b>ὣς</b> ἄῤ ἔφη Ἑκάτη ·</em>
 * <em>δ̓</em>
   * <tt><a href="grc_perseus-pos-PART.html">PART</a></tt> 3496: <em>σχεδὸν <b>δ̓</b> ἐπίσταμαί τι πῆμ̓ ἔχοντά νιν ·</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 483: <em>ὁ <b>δ̓</b> αὐτοῖς ἀνεῖλε παραδοῦναι καὶ ἡγεμόνας ποιεῖσθαι .</em>
@@ -50,14 +50,14 @@ The 10 most frequent ambiguous types:  <em>καὶ</em> (<tt><a href="grc_perseu
   * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 451: <em><b>ὡς</b> δὲ ἠδίκουν σαφές ἐστιν ·</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 288: <em>αἰεὶ δὲ <b>ὡς</b> πρὸς εὖ βουλευομένους τοὺς ἐναντίους ἔργῳ παρασκευαζόμεθα ·</em>
   * <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> 6: <em>ὦ Πέλοπος ἁ πρόσθεν πολύπονος ἱππεία , <b>ὡς</b> ἔμολες αἰανὴς τᾷδε γᾷ .</em>
-  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 5: <em>δεῦῤ ἴτ̓ , ἔλθετε <b>ὡς</b> τὰς ἀδελφὰς τάσδε τὰς ἐμὰς χέρας , αἳ τοῦ φυτουργοῦ πατρὸς ὑμὶν ὧδ̓ ὁρᾶν τὰ πρόσθε λαμπρὰ προυξένησαν ὄμματα ·</em>
+  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 5: <em>δεῦῤ ἴτ̓ , ἔλθετε <b>ὡς</b> τὰς ἀδελφὰς τάσδε τὰς ἐμὰς χέρας , αἳ τοῦ φυτουργοῦ πατρὸς ὑμὶν ὧδ̓ ὁρᾶν τὰ πρόσθε λαμπρὰ προυξένησαν ὄμματα ·</em>
 * <em>ἀλλ̓</em>
   * <tt><a href="grc_perseus-pos-CCONJ.html">CCONJ</a></tt> 324: <em>οἱ δὲ Κερκυραῖοι τὴν ἱκετείαν οὐκ ἐδέξαντο , <b>ἀλλ̓</b> ἀπράκτους ἀπέπεμψαν .</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 285: <em><b>ἀλλ̓</b> ἥσσους ἐσμέν ·</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.337196 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `ADV` is 1.337196 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (12) was observed with the lemma “οὐ”: <em>κοὐ, κοὐκ, κοὐχ, οὐ, οὐκ, οὐκὶ, οὐχ, οὐχί, οὐχὶ, οὒ, οὔ, οὔκ</em>.
 

@@ -131,7 +131,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (1392; 31% of non-empty `Gender`): <em>svojo, te, svoje, ta, to, vse, svoji, tej, vseh, njegove</em>
 * `Masc` (1661; 37% of non-empty `Gender`): <em>ta, tem, vsi, vsak, svoj, katerem, vse, njegov, tega, ves</em>
 * `Neut` (1417; 32% of non-empty `Gender`): <em>to, tem, tega, vse, svoje, temu, njegovo, tisto, katerem, vsega</em>
-* `EMPTY` (782): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
+* `EMPTY` (784): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
 
 <table>
   <tr><th>Paradigm <i>ta</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

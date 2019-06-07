@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 24141 tokens (43%) have a non-empty value of `Gender`.
 4787 types (57%) occur at least once with a non-empty value of `Gender`.
-3451 lemmas (60%) occur at least once with a non-empty value of `Gender`.
+3451 lemmas (61%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (11176; 20% instances), <tt><a href="it_partut-pos-DET.html">DET</a></tt> (8169; 15% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2537; 5% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1448; 3% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (652; 1% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (157; 0% instances), <tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (1136; 45% of non-empty `Gender`): <em>economica, prima, relative, altre, pericolose, stessa, nuova, nuove, altra, direttrici</em>
 * `Masc` (1401; 55% of non-empty `Gender`): <em>altri, europeo, primo, nuovo, stesso, finanziario, altro, nuovi, necessario, relativi</em>
-* `EMPTY` (1670): <em>presente, sociale, importante, maggiore, possibile, grande, strutturali, intellettuale, principali, teatrali</em>
+* `EMPTY` (1668): <em>presente, sociale, importante, maggiore, possibile, grande, strutturali, intellettuale, principali, teatrali</em>
 
 <table>
   <tr><th>Paradigm <i>altro</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -138,7 +138,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>hye</em>
-* `EMPTY` (2035): <em>Shakespeare, Balzac, Facebook, Europa, Ucraina, Pericle, Stati, Uniti, Europea, Unione</em>
+* `EMPTY` (2033): <em>Shakespeare, Balzac, Facebook, Europa, Ucraina, Pericle, Stati, Uniti, Europea, Unione</em>
 
 ## Relations with Agreement in `Gender`
 

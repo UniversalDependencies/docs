@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-det.htm
 18 instances of `det:predet` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.94444444444444.
 
-The following 8 pairs of parts of speech are connected with `det:predet`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (8; 44% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (3; 17% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (9; 50% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (4; 22% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (2; 11% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `det:predet`: <tt><a
 8	dey	dey	AUX	_	_	9	aux	_	_
 9	see	see	VERB	_	_	5	acl:relcl	_	_
 10	<	<	PUNCT	_	_	12	punct	_	_
-11	na	na	PART	_	_	12	cop	_	_
+11	na	na	AUX	PART	_	12	cop	_	_
 12	tutorial	tutorial	NOUN	_	_	0	root	_	_
 13	//	//	PUNCT	_	_	12	punct	_	_
 
@@ -40,28 +40,32 @@ The following 8 pairs of parts of speech are connected with `det:predet`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det:predet	color:blue
-1	#	#	PUNCT	_	_	14	punct	_	_
-2	all	all	DET	_	_	3	det:predet	_	_
-3	dose	dose	DET	_	_	6	det	_	_
-4	fine	fine	ADJ	_	_	6	amod	_	_
-5	fine	fine	ADJ	_	_	4	compound:redup	_	_
-6	road	road	NOUN	_	_	14	dislocated	_	_
-7	dem	dem	PART	_	_	6	det	_	_
-8	of	of	ADP	_	_	9	case	_	_
-9	before	before	ADP	_	_	6	obl:mod	_	_
-10	before	before	ADP	_	_	9	compound:redup	_	_
-11	<	<	PUNCT	_	_	14	punct	_	_
-12	dem	dem	PRON	_	_	14	nsubj	_	_
-13	don	don	AUX	_	_	14	aux	_	_
-14	turn	turn	VERB	_	_	0	root	_	_
-15	to	to	ADP	_	_	16	case	_	_
-16	gutter	gutter	NOUN	_	_	14	obl:arg	_	_
-17	//	//	PUNCT	_	_	14	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 det:predet	color:blue
+1	I	I	PRON	_	_	3	nsubj	_	_
+2	don	don	AUX	_	_	3	aux	_	_
+3	tell	tell	VERB	_	_	0	root	_	_
+4	you	you	PRON	_	_	3	iobj	_	_
+5	sey	sey	SCONJ	_	_	10	mark	_	_
+6	[	[	PUNCT	_	_	10	punct	_	_
+7	I	I	PRON	_	_	10	nsubj	_	_
+8	no	no	ADV	PART	_	10	advmod	_	_
+9	dey	be	AUX	VERB	_	10	cop	_	_
+10	interested	interested	ADJ	_	_	3	parataxis:obj	_	_
+11	in	in	ADP	_	_	14	case	_	_
+12	all	all	DET	ADV	_	13	det:predet	_	_
+13	dose	dose	DET	_	_	14	det	_	_
+14	wahala	wahala	NOUN	_	_	10	obl:arg	_	_
+15	wey	wey	SCONJ	_	_	18	mark	_	_
+16	you	you	PRON	_	_	18	nsubj	_	_
+17	dey	dey	AUX	_	_	18	aux	_	_
+18	talk	talk	VERB	_	_	14	acl:relcl	_	_
+19	//	//	PUNCT	_	_	10	punct	_	_
+20	]	]	PUNCT	_	_	10	punct	_	_
+21	//	//	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -77,10 +81,10 @@ The following 8 pairs of parts of speech are connected with `det:predet`: <tt><a
 3	how	how	ADV	_	_	5	advmod	_	_
 4	you	you	PRON	_	_	5	nsubj	_	_
 5	see	see	VERB	_	_	0	root	_	_
-6	all	all	ADV	_	_	8	det:predet	_	_
+6	all	all	DET	ADV	_	8	det:predet	_	_
 7	dis	dis	DET	_	_	8	det	_	_
 8	NEPA	NEPA	PROPN	_	_	5	obj	_	_
-9	sef	sef	PART	_	_	8	advmod	_	_
+9	sef	sef	ADV	PART	_	8	advmod	_	_
 10	//	//	PUNCT	_	_	5	punct	_	_
 
 ~~~

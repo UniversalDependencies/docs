@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-61613 tokens (30%) have a non-empty value of `Number`.
-17143 types (63%) occur at least once with a non-empty value of `Number`.
-14224 lemmas (64%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (35613; 17% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (10057; 5% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9288; 4% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (6655; 3% instances).
+61601 tokens (30%) have a non-empty value of `Number`.
+17136 types (63%) occur at least once with a non-empty value of `Number`.
+14220 lemmas (64%) occur at least once with a non-empty value of `Number`.
+The feature is used with 4 part-of-speech tags: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (35601; 17% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (10057; 5% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9288; 4% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (6655; 3% instances).
 
 ### `NOUN`
 
-35613 <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+35601 <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nl_alpino-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (18567; 52%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nl_alpino-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (18563; 52%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (8114; 23% of non-empty `Number`): <em>mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</em>
-* `Sing` (27499; 77% of non-empty `Number`): <em>jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</em>
+* `Plur` (8108; 23% of non-empty `Number`): <em>mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</em>
+* `Sing` (27493; 77% of non-empty `Number`): <em>jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</em>
 
 <table>
   <tr><th>Paradigm <i>jaar</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (2177; 22% of non-empty `Number`): <em>hebben, zijn, gaan, willen, komen, kwamen, hadden, krijgen, waren, konden</em>
 * `Sing` (7880; 78% of non-empty `Number`): <em>heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, staat</em>
-* `EMPTY` (10884): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
+* `EMPTY` (10897): <em>komen, gaan, maken, zien, doen, gemaakt, gehouden, genoemd, nemen, laten</em>
 
 <table>
   <tr><th>Paradigm <i>komen</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -88,14 +88,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3922; 67%),
+<tt>NOUN --[<tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3920; 67%),
 <tt>VERB --[<tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3381; 69%),
 <tt>NOUN --[<tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1337; 61%),
-<tt>NOUN --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1246; 79%),
+<tt>NOUN --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1247; 79%),
 <tt>NOUN --[<tt><a href="nl_alpino-dep-cop.html">cop</a></tt>]--> AUX</tt> (964; 83%),
 <tt>VERB --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> VERB</tt> (410; 56%),
 <tt>PROPN --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> PROPN</tt> (398; 79%),
-<tt>NOUN --[<tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (301; 86%),
+<tt>NOUN --[<tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (305; 85%),
 <tt>NOUN --[<tt><a href="nl_alpino-dep-appos.html">appos</a></tt>]--> NOUN</tt> (262; 86%),
 <tt>NOUN --[<tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (133; 80%).
 

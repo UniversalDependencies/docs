@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (4%) are attached to their parents as `nummod`.
+44 nodes (3%) are attached to their parents as `nummod`.
 
-38 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07692307692308.
+43 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06818181818182.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (27; 69% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (4; 10% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (36; 82% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (6; 14% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -32,22 +32,20 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчылі	рӧдитчывны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
-3	одиннадцатого	одиннадцать	ADJ	A	Case=Gen|Number=Sing	4	amod	_	Lang=Rus
-4	мая	мая	NOUN	N	Case=Gen|Number=Sing	2	obl	_	Lang=Rus
-5	тысяча	тысяча	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	Lang=Rus|Note=Check
-6	девятьсот	девятьсот	NUM	Num	NumType=Card	7	compound	_	Lang=Rus
-7	шестьдесят	шестьдесят	NUM	Num	NumType=Card	8	compound	_	Lang=Rus
-8	второй	второй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Rus
-9	год	год	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	Lang=Mixed
-10	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	9	case	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Lang=Mixed
+2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	шейсят	шейсят	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	Lang=Rus
+4	четвёртэй	четвёртэй	NUM	Num	Case=Nom|Number=Sing|NumType=Ord	5	nummod	_	Lang=Rus
+5	годын	год	NOUN	N	Case=Ine|Number=Sing	1	obl	_	Lang=Mixed
+6	октяб	октяб	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	Lang=Mixed
+7	тӧлысе	тӧлысь	NOUN	N	Case=Ill|Number=Sing	1	obl	_	_
+8	тундраын	тундра	NOUN	N	Case=Ine|Number=Sing	1	obl	_	Lang=Mixed|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 

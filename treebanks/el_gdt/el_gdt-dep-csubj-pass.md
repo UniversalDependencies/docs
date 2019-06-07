@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 3 csubj:pass	color:blue
 1	Απαιτείται	απαιτώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	να	να	PART	PART	_	3	aux	_	_
+2	να	να	AUX	AUX	_	3	aux	_	_
 3	επέμβει	επεμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	csubj:pass	_	_
 4	επειγόντως	επειγόντως	ADV	ADV	_	3	advmod	_	_
 5	σ	σε	ADP	AsPpSp	_	7	case	_	_
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Δεν	δεν	PART	PART	_	2	advmod	_	_
 2	κατέστη	καθίσταμαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	εφικτό	εφικτός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	2	xcomp	_	_
-4	να	να	PART	PART	_	7	aux	_	_
+4	να	να	AUX	AUX	_	7	aux	_	_
 5	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
 6	τόσο	τόσο	ADV	ADV	_	7	advmod	_	_
 7	επακριβείς	επακριβής	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	2	csubj:pass	_	_
@@ -74,17 +74,17 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 34 47 csubj:pass	color:blue
 1	Προβλέπει	προβλέπω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ότι	ότι	SCONJ	SCONJ	_	6	mark	_	_
-3	θα	θα	PART	PART	_	6	aux	_	_
-4	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-5	να	να	PART	PART	_	6	aux	_	_
+3	θα	θα	AUX	AUX	_	6	aux	_	_
+4	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	να	να	AUX	AUX	_	6	aux	_	_
 6	τηρούνται	τηρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	_
 7	πάντα	πάντα	ADV	ADV	_	6	advmod	_	_
 8	ορισμένα	ορισμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	9	amod	_	_
 9	κριτήρια	κριτήριο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	6	nsubj:pass	_	_
 10	και	και	CCONJ	CCONJ	_	24	cc	_	_
 11	προπάντων	προπάντων	ADV	ADV	_	24	advmod	_	_
-12	θα	θα	PART	PART	_	24	aux	_	_
-13	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	_
+12	θα	θα	AUX	AUX	_	24	aux	_	_
+13	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	_
 14	από	από	ADP	ADP	_	17	case	_	_
 15	ένα	ένας	DET	DET	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
 16	ορισμένο	ορισμένος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	17	amod	_	_
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	χρεών	χρέος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
 21	και	και	CCONJ	CCONJ	_	22	cc	_	_
 22	πάνω	πάνω	ADV	ADV	_	17	conj	_	_
-23	να	να	PART	PART	_	24	aux	_	_
+23	να	να	AUX	AUX	_	24	aux	_	_
 24	αποφασίζει	αποφασίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 25	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
@@ -104,7 +104,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 30	,	,	PUNCT	PUNCT	_	34	punct	_	_
 31	έτσι	έτσι	ADV	ADV	_	34	mark	_	_
 32	ώστε	ώστε	SCONJ	SCONJ	_	31	fixed	_	_
-33	να	να	PART	PART	_	34	aux	_	_
+33	να	να	AUX	AUX	_	34	aux	_	_
 34	καθίσταται	καθίσταμαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	advcl	_	_
 35	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	34	xcomp	_	_
 36	πως	πως	SCONJ	SCONJ	_	47	mark	_	_
@@ -112,9 +112,9 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 38	ευθύνη	ευθύνη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	47	nsubj	_	_
 39	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	οποία	οποίος	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Rel	42	obj	_	_
-41	θα	θα	PART	PART	_	42	aux	_	_
+41	θα	θα	AUX	AUX	_	42	aux	_	_
 42	επωμισθούμε	επωμίζομαι	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Pass	38	acl:relcl	_	_
-43	θα	θα	PART	PART	_	47	aux	_	_
+43	θα	θα	AUX	AUX	_	47	aux	_	_
 44	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	47	cop	_	_
 45	μια	ένας	DET	DET	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
 46	πολιτική	πολιτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	47	amod	_	_

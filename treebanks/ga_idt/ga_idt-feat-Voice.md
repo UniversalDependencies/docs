@@ -29,14 +29,14 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `X`
 
-1 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Voice`.
+1 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `X` and `Voice` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (1; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Voice` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Munster</tt> (1; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Voice`:
 
 * `Auto` (1; 100% of non-empty `Voice`): <em>deineadh</em>
-* `EMPTY` (264): <em>san, (2), (a), (b), so, (1), (c), (3), (4), Co.</em>
+* `EMPTY` (154): <em>Co., Uimh., FÁS, a, chan, fá, m, Caidé, I.R., IO</em>
 
 ## Relations with Agreement in `Voice`
 

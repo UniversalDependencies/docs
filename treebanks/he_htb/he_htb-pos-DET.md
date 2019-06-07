@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ה (<tt><a href="he_htb-pos-DET.html">DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.300000 (the average of all parts of speech is 1.698519).
+The form / lemma ratio of `DET` is 1.300000 (the average of all parts of speech is 1.701251).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: אילו, ה_, מחצית, מירב, מרבה.
 

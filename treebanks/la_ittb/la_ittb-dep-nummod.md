@@ -8,37 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-1404 nodes (0%) are attached to their parents as `nummod`.
+1347 nodes (0%) are attached to their parents as `nummod`.
 
-814 instances of `nummod` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13247863247863.
+759 instances of `nummod` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13882702301411.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (760; 54% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (509; 36% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (53; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (47; 3% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1163; 86% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (54; 4% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (50; 4% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (47; 3% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 nummod	color:blue
-1	et	et	CCONJ	O4	_	2	cc	_	_
-2	isaiae	isaia	NOUN	A1|grn1|casB|gen1|vgr1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-3	54-13	num._arab.	NUM	G5	NumForm=Digit	2	nummod	_	SpaceAfter=No
-4	:	:	PUNCT	Punc	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 nummod	color:blue
-1	prov.	vox_breviata	X	5	Abbr=Yes	0	root	_	_
-2	8-7	num._arab.	NUM	G5	NumForm=Digit	1	nummod	_	SpaceAfter=No
-3	.	.	PUNCT	Punc	_	1	punct	_	_
+# visual-style 3 2 nummod	color:blue
+1	et	et	CCONJ	O4	_	3	cc	_	_
+2	1	num._arab.	NUM	G5	NumForm=Digit	3	nummod	_	_
+3	cor.	cor.	NOUN	5	Abbr=Yes	0	root	_	_
+4	13-9	num._arab.	NUM	G5	NumForm=Digit	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -60,6 +48,19 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	nomine	nomen	NOUN	C1|grn1|casF|gen3|comH	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	8	obl	_	_
 10	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nummod	color:blue
+1	prov.	vox_breviata	X	5	Abbr=Yes	0	root	_	_
+2	8-7	num._arab.	NUM	G5	NumForm=Digit	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 

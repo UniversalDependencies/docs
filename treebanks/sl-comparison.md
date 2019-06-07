@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 20488 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 18508 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -128,7 +128,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 65 lemmas tagged as determiners (DET): dosti, dovolj, enak, isti, kak, kakršen, kakršenkoli, kakšen, kateri, katerikoli, koliko, kolikšen, malo, malokateri, manj, marsikateri, mnog, mnogo, moj, najin, največ, naš, nek, nekaj, nekak, nekakšen, nekateri, neki, nešteto, nikakršen, njegov, njen, njihov, njun, noben, oba, oboj, ogromno, oni, par, pol, premnog, prenekateri, preveč, svoj, ta, tak, takšen, tale, tisti, tolik, toliko, tolikšen, tvoj, vajin, vaš, veliko, ves, več, vsak, vsakršen, četrt, čigar, čigav, čimveč</li>
+      <li>This corpus contains 66 lemmas tagged as determiners (DET): dosti, dovolj, enak, isti, kak, kakršen, kakršenkoli, kakšen, kateri, katerikoli, koliko, kolikšen, malo, malokateri, manj, marsikateri, mnog, mnogo, moj, najin, največ, naš, nek, nekaj, nekak, nekakšen, nekateri, neki, nešteto, nikakršen, njegov, njen, njihov, njun, noben, oba, obilo, oboj, ogromno, oni, par, pol, premnog, prenekateri, preveč, svoj, ta, tak, takšen, tale, tisti, tolik, toliko, tolikšen, tvoj, vajin, vaš, veliko, ves, več, vsak, vsakršen, četrt, čigar, čigav, čimveč</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -935,6 +935,7 @@ udver: '2'
             <li>ADJ: mogoče, sam, novo, nove, različnih, veliko, slovenski, velika, veliki, novega</li>
             <li>ADJ-Part: znani, prepričan, znano, določene, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet</li>
             <li>ADV: lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</li>
+            <li>DET: obilo</li>
           </ul>
         </li>
       </ul>

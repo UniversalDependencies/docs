@@ -11,10 +11,10 @@ There are 1 language-specific subtypes of `det`: <tt><a href="hi_pud-dep-det-pre
 
 793 nodes (3%) are attached to their parents as `det`.
 
-790 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46910466582598.
+788 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50063051702396.
 
-The following 18 pairs of parts of speech are connected with `det`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (701; 88% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (32; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `det`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (701; 88% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (32; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (20; 3% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 18 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 det	color:blue
-1	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Translit=varṣa
+1	वर्ष	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	compound	_	Translit=varṣa
 2	1563	_	NUM	CD	NumType=Card	10	obl:tmod	_	Translit=1563
 3	तक	_	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=taka
 4	,	_	PUNCT	,	_	2	punct	_	Translit=,
@@ -61,26 +61,26 @@ The following 18 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 det	color:blue
-1	मैं	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1	5	nsubj	_	Translit=maiṁ
-2	किसी	_	DET	DTI	_	4	det	_	Translit=kisī
-3	भी	_	PART	EMPH	_	2	discourse	_	Translit=bhī
-4	तरह	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	advmod	_	Translit=taraha
-5	जेल	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=jela
-6	जा	_	AUX	VB	_	5	aux	_	Translit=jā
-7	रहा	_	AUX	VXH	Aspect=Prog|Gender=Masc|Mood=Ind|Number=Sing|Person=3	5	aux	_	Translit=rahā
-8	हूं	_	AUX	VXH	Gender=Masc|Number=Sing|Person=1|Tense=Pres	5	aux	_	SpaceAfter=No|Translit=hūṁ
-9	,	_	PUNCT	,	_	13	punct	_	Translit=,
-10	शायद	_	ADV	RB	_	13	advmod	_	Translit=śāyada
-11	यह	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Bug=aux-child|Translit=yaha
-12	इसी	_	DET	DT	Definite=Def|Number=Sing	13	det	_	Bug=aux-child|Translit=isī
-13	लायक	_	ADJ	JJ	_	5	aux	_	Translit=lāyaka
-14	था	_	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	13	cop	_	Bug=aux-child|SpaceAfter=No|Translit=thā
-15	।	_	PUNCT	.	_	5	punct	_	Translit=.
+# visual-style 12 10 det	color:blue
+1	दो	_	NUM	CD	NumType=Card	2	nummod	_	Translit=do
+2	साल	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	obl:tmod	_	Translit=sāla
+3	बाद	_	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=bāda
+4	,	_	PUNCT	,	_	2	punct	_	Translit=,
+5	हांगकांग	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	6	compound	_	Translit=hāṁgakāṁga
+6	हाईकोर्ट	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	Proper=True|Translit=hāīkorṭa
+7	में	_	ADP	IN	Case=Loc	6	case	_	SpaceAfter=No|Translit=meṁ
+8	,	_	PUNCT	,	_	6	punct	_	Translit=,
+9	जटिंग	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Translit=jaṭiṁga
+10	बहुत	_	DET	QF	_	12	det	_	Translit=bahuta
+11	ही	_	PART	EMPH	_	10	discourse	_	Translit=hī
+12	शान्त	_	ADJ	JJ	_	0	root	_	Translit=śānta
+13	नजर	_	NOUN	NN	Gender=Fem|Number=Sing	12	compound:conjv	_	Translit=najara
+14	आया	_	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	SpaceAfter=No|Translit=āyā
+15	।	_	PUNCT	.	_	12	punct	_	Translit=.
 
 ~~~
 

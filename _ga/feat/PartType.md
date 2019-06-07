@@ -2,6 +2,7 @@
 layout: feature
 title: 'PartType'
 shortdef: 'PartType'
+udver: '2'
 ---
 
 Irish makes use of a broad range of particles. Many of these particles have the same form but perform different functions.

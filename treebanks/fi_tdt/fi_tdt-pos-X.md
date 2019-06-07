@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-TDT: POS Tags: `X`
 
-There are 219 `X` lemmas (1%), 220 `X` types (0%) and 270 `X` tokens (0%).
+There are 220 `X` lemmas (1%), 221 `X` types (0%) and 271 `X` tokens (0%).
 Out of 15 observed tags, the rank of `X` is: 7 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>metal, common, death, a, and, be, fun, it, pic, DIY</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fi_tdt-pos-NOUN.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.004566 (the average of all parts of speech is 2.060628).
+The form / lemma ratio of `X` is 1.004545 (the average of all parts of speech is 2.067586).
 
 The 1st highest number of forms (1) was observed with the lemma “#hashtag”: <em>#hashtag</em>.
 
@@ -63,20 +63,20 @@ The 2nd highest number of forms (1) was observed with the lemma “Ağrı”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “Aεροδρόμιο”: <em>Aεροδρόμιο</em>.
 
-`X` occurs with 1 features: <tt><a href="fi_tdt-feat-Foreign.html">Foreign</a></tt> (261; 97% instances)
+`X` occurs with 1 features: <tt><a href="fi_tdt-feat-Foreign.html">Foreign</a></tt> (262; 97% instances)
 
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (261 tokens).
+The most frequent feature combination is `Foreign=Yes` (262 tokens).
 Examples: <em>metal, common, death, a, and, be, fun, it, pic, DIY</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 19 different relations: <tt><a href="fi_tdt-dep-flat-foreign.html">flat:foreign</a></tt> (80; 30% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (52; 19% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (43; 16% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (33; 12% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (13; 5% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (12; 4% instances), <tt><a href="fi_tdt-dep-discourse.html">discourse</a></tt> (10; 4% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (7; 3% instances), <tt><a href="fi_tdt-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-csubj-cop.html">csubj:cop</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-obl.html">obl</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 18 different relations: <tt><a href="fi_tdt-dep-flat-foreign.html">flat:foreign</a></tt> (80; 30% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (53; 20% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (43; 16% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (33; 12% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (13; 5% instances), <tt><a href="fi_tdt-dep-root.html">root</a></tt> (12; 4% instances), <tt><a href="fi_tdt-dep-discourse.html">discourse</a></tt> (10; 4% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (9; 3% instances), <tt><a href="fi_tdt-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-csubj-cop.html">csubj:cop</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="fi_tdt-pos-X.html">X</a></tt> (131; 49% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (80; 30% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (23; 9% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (19; 7% instances),  (12; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="fi_tdt-pos-X.html">X</a></tt> (131; 48% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (81; 30% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (23; 8% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (19; 7% instances),  (12; 4% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (5; 2% instances)
 
 149 (55%) `X` nodes are leaves.
 
@@ -84,11 +84,11 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="fi_tdt-
 
 24 (9%) `X` nodes have two children.
 
-66 (24%) `X` nodes have three or more children.
+67 (25%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 15.
 
-Children of `X` nodes are attached using 22 different relations: <tt><a href="fi_tdt-dep-punct.html">punct</a></tt> (127; 35% instances), <tt><a href="fi_tdt-dep-flat-foreign.html">flat:foreign</a></tt> (92; 25% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (57; 16% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (22; 6% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (22; 6% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (13; 4% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (6; 2% instances), <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (6; 2% instances), <tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 22 different relations: <tt><a href="fi_tdt-dep-punct.html">punct</a></tt> (138; 37% instances), <tt><a href="fi_tdt-dep-flat-foreign.html">flat:foreign</a></tt> (92; 25% instances), <tt><a href="fi_tdt-dep-flat-name.html">flat:name</a></tt> (48; 13% instances), <tt><a href="fi_tdt-dep-nmod.html">nmod</a></tt> (23; 6% instances), <tt><a href="fi_tdt-dep-conj.html">conj</a></tt> (22; 6% instances), <tt><a href="fi_tdt-dep-appos.html">appos</a></tt> (13; 4% instances), <tt><a href="fi_tdt-dep-amod.html">amod</a></tt> (6; 2% instances), <tt><a href="fi_tdt-dep-cc.html">cc</a></tt> (6; 2% instances), <tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="fi_tdt-dep-compound-nn.html">compound:nn</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="fi_tdt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fi_tdt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 11 different parts of speech: <tt><a href="fi_tdt-pos-PUNCT.html">PUNCT</a></tt> (136; 37% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (131; 36% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (58; 16% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 11 different parts of speech: <tt><a href="fi_tdt-pos-PUNCT.html">PUNCT</a></tt> (138; 37% instances), <tt><a href="fi_tdt-pos-X.html">X</a></tt> (131; 35% instances), <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (59; 16% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fi_tdt-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

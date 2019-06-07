@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fr_spoken-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-166 nodes (0%) are attached to their parents as `acl`.
+167 nodes (0%) are attached to their parents as `acl`.
 
 160 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.84939759036145.
+Average distance between parent and child is 2.87425149700599.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (152; 92% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (152; 91% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 10	vivre	vivre	VERB	_	_	8	acl	_	_
 11	c'	ce	PRON	_	_	12	nsubj	_	_
 12	est	être	AUX	_	_	0	root	_	_
-13	le	le	DET	_	_	12	advmod	_	_
+13	le	le	DET	_	_	12	dep	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 7	ils	il	PRON	_	_	8	nsubj	_	_
 8	sont	être	AUX	_	_	5	acl	_	_
 9	vous	vous	PRON	_	_	12	nsubj:pass	_	_
-10	avez	avoir	VERB	_	_	12	aux	_	_
+10	avez	avoir	AUX	_	_	12	aux	_	_
 11	été	être	AUX	DoubleAux	_	12	aux:pass	_	_
 12	ruinée	ruiner	VERB	DoubleAux	_	0	root	_	_
 

@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	Κουριέες	Κουριεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=5.113.1
 4	οὗτοι	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	3	det	_	ref=5.113.1
 5	λέγονται	λέγω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=5.113.1
-6	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	ref=5.113.1
+6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	ref=5.113.1|LId=1
 7	Ἀργείων	Ἀργεῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	8	iobj	_	ref=5.113.1
 8	ἄποικοι	ἄποικος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	csubj:pass	_	ref=5.113.1
 

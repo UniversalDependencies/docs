@@ -9,63 +9,51 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nummod`: <tt><a href="ru_taiga-dep-nummod-entity.html">nummod:entity</a></tt>, <tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-120 nodes (1%) are attached to their parents as `nummod`.
+155 nodes (0%) are attached to their parents as `nummod`.
 
-116 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.275.
+148 instances of `nummod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23225806451613.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (114; 95% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (145; 94% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 3 nummod	color:blue
-1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
-2	памятник	памятник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-3	82	82	NUM	_	_	5	nummod	_	_
-4	уничтоженным	уничтожить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
-5	детям	ребенок	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
-6	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-7	в	в	ADP	_	_	9	case	_	_
-8	натуральную	натуральный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	величину	величина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
-10	.)	.)	PUNCT	_	_	9	punct	_	_
+# visual-style 5 4 nummod	color:blue
+1	Этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	2	det	_	_
+2	моторчику	моторчик	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
+3	сегодня	сегодня	ADV	_	Degree=Pos	5	advmod	_	_
+4	1	1	NUM	_	_	5	nummod	_	_
+5	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	6	6	NUM	_	_	8	nummod:gov	_	_
+8	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+9	🥰	🥰	SYM	_	_	5	discourse	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 17 nummod	color:blue
-1	Поголовье	поголовье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
-2	коров	корова	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	после	после	ADP	_	_	5	case	_	_
-5	сокращения	сокращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	_
-6	в	в	ADP	_	_	8	case	_	_
-7	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	8	nummod:gov	_	_
-8	раза	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	13	punct	_	_
-10	с	с	ADP	_	_	13	case	_	_
-11	20	20	NUM	_	_	12	compound	_	_
-12	млн.	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nummod	_	_
-13	голов	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	18	punct	_	_
-15	до	до	ADP	_	_	18	case	_	_
-16	8	8	NUM	_	_	17	compound	_	_
-17	млн.	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nummod	_	_
-18	голов	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	5	punct	_	_
-20	практически	практически	ADV	_	Degree=Pos	21	advmod	_	_
-21	не	не	PART	_	Polarity=Neg	22	advmod	_	_
-22	прирастает	прирастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	22	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod	color:blue
+1	Ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	obj	_	_
+2	подписали	подписать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	уже	уже	ADV	_	Degree=Pos	6	advmod	_	_
+4	более	более	ADV	_	Degree=Cmp	6	advmod	_	_
+5	1,5	1,5	NUM	_	_	6	nummod	_	_
+6	млн	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nummod	_	_
+7	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	_
+8	за	за	ADP	_	_	10	case	_	_
+9	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	10	nummod:gov	_	_
+10	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	2	punct	_	_
+12	https://chn.ge/2JRea20	https://chn.ge/2JRea20	X	_	_	2	parataxis	_	_
 
 ~~~
 

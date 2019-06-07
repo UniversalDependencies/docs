@@ -138,7 +138,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (9; 3% of non-empty `Polarity`): <em>nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</em>
 * `Pos` (276; 97% of non-empty `Polarity`): <em>více, obdobně, případně, nejméně, později, nejpozději, samostatně, bezprostředně, přímo, odděleně</em>
-* `EMPTY` (502): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
+* `EMPTY` (505): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
 
 <table>
   <tr><th>Paradigm <i>přímo</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -156,18 +156,18 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (18; 100% of non-empty `Polarity`): <em>každou, každé, každého, každý, Každá</em>
-* `EMPTY` (1176): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+* `EMPTY` (1143): <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5962; 98%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4098; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4112; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1809; 100%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (839; 91%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (841; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (777; 90%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (606; 87%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (572; 96%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (607; 87%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (571; 96%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> VERB</tt> (376; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (269; 90%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (228; 87%).

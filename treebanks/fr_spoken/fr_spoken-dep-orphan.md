@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `orphan`.
+7 nodes (0%) are attached to their parents as `orphan`.
 
-8 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75.
+7 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85714285714286.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-X.html">X</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-X.html">X</a></tt> (1; 13% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-X.html">X</a></tt> (1; 14% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -95,24 +95,61 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 orphan	color:blue
-1	mais	mais	CCONJ	_	_	12	cc	_	_
-2	b~	b~	X	_	_	1	orphan	_	_
-3	en	en	ADP	_	_	5	case	_	_
-4	tout	tout	ADV	_	_	5	det	_	_
-5	cas	cas	NOUN	_	_	12	obl:periph	_	_
-6	pour	pour	ADP	_	_	7	case	_	_
-7	lui	lui	PRON	_	_	12	nmod	_	_
-8	c'	ce	PRON	_	_	12	nsubj	_	_
-9	est	être	AUX	_	_	12	cop	_	_
-10	plutôt	plutôt	ADV	_	_	12	advmod	_	_
-11	un	un	DET	_	_	12	det	_	_
-12	jeu	jeu	NOUN	_	_	0	root	_	_
-13	hein	hein	INTJ	_	_	12	discourse	_	_
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 26 orphan	color:blue
+1	ça	ça	PRON	_	_	3	nsubj	_	_
+2	veut	vouloir	AUX	_	_	3	aux	_	_
+3	dire	dire	VERB	_	_	0	root	_	_
+4	que	que	SCONJ	_	_	44	mark	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	général	général	NOUN	_	_	44	obl:periph	_	_
+7	et	et	CCONJ	_	_	10	cc	_	_
+8	je	je	PRON	_	_	10	nsubj	_	_
+9	les	le	PRON	_	_	10	obj	_	_
+10	vois	voir	VERB	_	_	6	parataxis:parenth	_	_
+11	pas	pas	PART	_	_	10	advmod	_	_
+12	avant	avant	ADP	_	_	14	case	_	_
+13	vingt	vingt	NUM	_	_	14	nummod	_	_
+14	heures	heure	NOUN	_	_	10	obl:mod	_	_
+15	quinze	quinze	NUM	_	_	14	nummod	_	_
+16	hein	hein	INTJ	_	_	15	discourse	_	_
+17	c'	ce	PRON	_	_	25	nsubj	_	_
+18	est	être	AUX	_	_	25	cop	_	_
+19	à	à	ADP	_	_	20	case	_	_
+20	peu	peu	NOUN	_	_	25	obl:mod	_	_
+21	près	près	ADV	_	_	20	advmod	_	_
+22	l~	l~	DET	_	_	25	det	_	_
+23	l~	l~	DET	conj:reform	_	22	conj:dicto	_	_
+24	leurs	son	DET	_	_	23	conj:dicto	_	_
+25	heures	heure	NOUN	_	_	10	parataxis:parenth	_	_
+26	de	de	ADP	_	_	25	orphan	_	_
+27	si	si	SCONJ	_	_	30	mark	_	_
+28	je	je	PRON	_	_	30	nsubj	_	_
+29	les	le	PRON	_	_	30	obj	_	_
+30	vois	voir	VERB	_	_	44	advcl:periph	_	_
+31	euh	euh	INTJ	_	_	30	discourse	_	_
+32	si	si	SCONJ	_	_	35	mark	_	_
+33	je	je	PRON	_	_	35	nsubj	_	_
+34	les	le	PRON	_	_	35	obj	_	_
+35	vois	voir	VERB	_	_	30	conj:dicto	_	_
+36	vers	vers	ADP	_	_	38	case	_	_
+37	vingt	vingt	NUM	_	_	38	nummod	_	_
+38	heures	heure	NOUN	_	_	35	obl:mod	_	_
+39	ou	ou	CCONJ	_	_	41	cc	_	_
+40	dix-neuf	dix-neuf	NUM	_	_	41	nummod	_	_
+41	heures	heure	NOUN	_	_	38	conj:coord	_	_
+42	trente	trente	NUM	_	_	41	nummod	_	_
+43	c'	ce	PRON	_	_	44	nsubj	_	_
+44	est	être	AUX	_	_	3	obj	_	_
+45	qu'	que	SCONJ	_	_	48	mark	_	_
+46	ils	il	PRON	_	_	48	nsubj	_	_
+47	sont	être	AUX	_	_	48	aux	_	_
+48	partis	partir	VERB	ETRE	_	44	ccomp	_	_
+49	plus	plus	ADV	_	_	50	advmod	_	_
+50	tôt	tôt	ADV	_	_	48	advmod	_	_
 
 ~~~
 

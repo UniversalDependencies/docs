@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 28	特別	_	ADV	_	_	29	advmod	_	SpaceAfter=No
 29	安排	_	VERB	_	_	4	ccomp	_	SpaceAfter=No
 30	時間	_	NOUN	_	_	29	obj	_	SpaceAfter=No
-31	，	_	PUNCT	_	_	28	punct	_	SpaceAfter=No
+31	，	_	PUNCT	_	_	29	punct	_	SpaceAfter=No
 32	讓	_	VERB	_	_	28	advcl	_	SpaceAfter=No
 33	梁	_	PROPN	_	_	32	obj	_	SpaceAfter=No
 34	議員	_	NOUN	_	_	33	flat	_	SpaceAfter=No

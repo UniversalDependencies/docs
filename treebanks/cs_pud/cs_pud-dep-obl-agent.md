@@ -84,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	tomto	tento	DET	PDZS6----------	Case=Loc|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	_
 10	území	území	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	7	nmod	_	_
 11	nikým	nikdo	PRON	PWM-7----------	Animacy=Anim|Case=Ins|Gender=Masc|PronType=Neg	12	obl:agent	_	_
-12	zpochybňována	zpochybňovaný	ADJ	VsQW---XX-AP---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	LDeriv=zpochybňovat|SpaceAfter=No
+12	zpochybňována	zpochybňovaný	ADJ	VsQW---XX-AP---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|LDeriv=zpochybňovat
 13	.	.	PUNCT	Z:-------------	_	12	punct	_	_
 
 ~~~

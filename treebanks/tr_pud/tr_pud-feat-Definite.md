@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (210; 31% of non-empty `Definite`): <em>bu, her, diğer, tüm, o, şu, hangi</em>
 * `Ind` (469; 69% of non-empty `Definite`): <em>bir, birçok, bazı, birkaç, herhangi, hiçbir, Birtakım, çoğu</em>
-* `EMPTY` (6): <em>çoğu, hemen, kaç, ne, Öte</em>
+* `EMPTY` (7): <em>çoğu, başka, hemen, kaç, ne, Öte</em>
 
 `Definite` seems to be **lexical feature** of `DET`. 100% lemmas (15) occur only with one value of `Definite`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (40; 100% of non-empty `Definite`): <em>bu, o</em>
-* `EMPTY` (267): <em>kendi, Bununla, biri, bunu, bunun, onu, bunlar, ne, buna, orada</em>
+* `EMPTY` (266): <em>kendi, Bununla, biri, bunu, bunun, onu, bunlar, ne, buna, orada</em>
 
 ### `NUM`
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (2; 100% of non-empty `Definite`): <em>bir</em>
-* `EMPTY` (849): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
+* `EMPTY` (851): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
 
 ### `X`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-53301 nodes (4%) are attached to their parents as `nummod`.
+53859 nodes (4%) are attached to their parents as `nummod`.
 
-52033 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.29671113112324.
+52537 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.36240925379231.
 
-The following 13 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (43092; 81% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (7889; 15% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1060; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (460; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (346; 1% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (210; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (112; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (43541; 81% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (7937; 15% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1101; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (460; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (358; 1% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (121; 0% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (80; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 5 2 nummod	color:blue
 1	_	_	NOUN	_	_	5	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 2	_	_	NUM	_	_	5	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
-3	_	_	PUNCT	_	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
+3	_	_	SYM	_	_	5	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=19|SpaceAfter=No
 4	_	_	NUM	_	_	5	nummod	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=3|SpaceAfter=No
 5	_	_	NUM	_	_	22	dep	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|LUWBILabel=I|LUWPOS=3|SpaceAfter=Yes
 6	_	_	NOUN	_	_	9	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 8	_	_	NOUN	_	_	9	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 9	_	_	NOUN	_	_	17	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 10	_	_	ADP	_	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-11	_	_	VERB	_	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+11	_	_	VERB	_	_	9	compound	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 12	_	_	NOUN	_	_	13	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=9|SpaceAfter=No
 13	_	_	NOUN	_	_	15	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=9|SpaceAfter=No
 14	_	_	AUX	_	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
@@ -94,10 +94,10 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 16	_	_	NOUN	_	_	17	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 17	_	_	NOUN	_	_	21	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
 18	_	_	ADP	_	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-19	_	_	PUNCT	_	_	21	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
+19	_	_	SYM	_	_	21	dep	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=12|SpaceAfter=No
 20	_	_	NOUN	_	_	21	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 21	_	_	NOUN	_	_	24	obj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=0|SpaceAfter=No
-22	_	_	PUNCT	_	_	21	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
+22	_	_	SYM	_	_	21	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=13|SpaceAfter=No
 23	_	_	ADP	_	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
 24	_	_	VERB	_	_	27	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
 25	_	_	AUX	_	_	24	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=2|SpaceAfter=No

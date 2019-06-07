@@ -8,27 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (3%) are attached to their parents as `cc`.
+50 nodes (4%) are attached to their parents as `cc`.
 
-35 instances of `cc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.88888888888889.
+49 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.84.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (18; 50% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (8; 22% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (3; 8% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (31; 62% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (11; 22% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (3; 6% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	И	и	CCONJ	CC	_	5	cc	_	Lang=Mixed
-2	ӧні	ӧні	ADV	Adv	_	5	advmod	_	_
-3	бара	бара	ADV	Adv	_	5	advmod	_	_
-4	же	же	PART	Pcle	_	3	goeswith	_	Lang=Mixed
-5	мӧдісныс	мӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	вӧрзёоны	вӧрзьыны	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	А	а	CCONJ	CC	_	4	cc	_	Lang=Mixed
+2	ӧні	ӧні	ADV	Adv	_	4	advmod	_	_
+3	ачум	ас	PRON	_	Case=Nom|Number=Sing|Reflex=Yes	4	nmod	_	_
+4	велӧдча	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -61,8 +59,8 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 13 6 cc	color:blue
 1	Пока	пока	ADV	Adv	_	2	advmod	_	_
 2	лёк	лёк	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-3	из	oз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	4	aux	_	_
-4	ло	лоны	AUX	V	_	2	aux	_	SpaceAfter=No
+3	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	_
+4	ло	лоны	AUX	V	Connegative=Yes|Number=Sing	2	aux	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	CCONJ	CC	_	13	cc	_	Lang=Mixed|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_

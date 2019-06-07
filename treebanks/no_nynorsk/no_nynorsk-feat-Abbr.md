@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (109; 100% of non-empty `Abbr`): <em>etc, ca., etc., t.v., dvs., f.v., ca, t.d., f.eks., t.h.</em>
-* `EMPTY` (8976): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
+* `EMPTY` (8968): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (37; 100% of non-empty `Abbr`): <em>jf., e.</em>
-* `EMPTY` (29392): <em>har, seier, vart, er, få, kjem, får, meiner, ha, går</em>
+* `EMPTY` (28743): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
 
 ### `ADJ`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>d.</em>
-* `EMPTY` (22787): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
+* `EMPTY` (22795): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
 
 ### `CCONJ`
 

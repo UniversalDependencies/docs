@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (1476; 100% of non-empty `Definite`): <em>il, la, l', i, le, gli, lo</em>
-* `EMPTY` (2310): <em>il, la, un, l', i, le, una, gli, un', lo</em>
+* `EMPTY` (2309): <em>il, la, un, l', i, le, una, gli, un', lo</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (0%) are attached to their parents as `orphan`.
+38 nodes (0%) are attached to their parents as `orphan`.
 
-33 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66666666666667.
+37 instances of `orphan` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.26315789473684.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (22; 67% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (8; 24% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (23; 61% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (8; 21% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	lucidez	lucidez	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
 6	espectáculo	espectáculo	NOUN	NOUN	Gender=Masc|Number=Sing	4	orphan	_	_
-7	al	al	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	6	advmod	_	MWE=al_fin|MWEPOS=ADV
+7	al	al	ADP	ADP	AdpType=Preppron	6	advmod	_	MWE=al_fin|MWEPOS=ADV
 8	fin	fin	NOUN	NOUN	_	7	fixed	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
@@ -52,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 9	Djukic	Djukic	PROPN	PROPN	_	3	orphan	_	SpaceAfter=No
 10	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
 11	Mauro	Mauro	PROPN	PROPN	_	3	orphan	_	MWE=Mauro_Silva|MWEPOS=PROPN
-12	Silva	Silva	PROPN	PROPN	_	11	flat	_	_
+12	Silva	Silva	PROPN	PROPN	_	11	flat	_	SpaceAfter=No
 13	...	...	PUNCT	PUNCT	PunctType=Comm	1	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	ni	ni	CCONJ	CCONJ	_	4	cc	_	_
 4	comisiones	comisión	NOUN	NOUN	Gender=Fem|Number=Plur	2	conj	_	_
 5	ni	ni	CCONJ	CCONJ	_	4	cc	_	_
-6	nada	nada	PRON	PRON	Number=Sing|PronType=Ind	4	orphan	_	SpaceAfter=No
+6	nada	nada	PRON	PRON	Number=Sing|PronType=Neg	4	orphan	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
 ~~~

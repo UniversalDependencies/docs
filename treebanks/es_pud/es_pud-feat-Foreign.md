@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 1 tokens (0%) have a non-empty value of `Foreign`.
 1 types (0%) occur at least once with a non-empty value of `Foreign`.
-1 lemmas (33%) occur at least once with a non-empty value of `Foreign`.
+1 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `X`

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Gdv` are language-specific.
 It occurs with 5 different values: `Fin`, `Gdv`, `Ger`, `Inf`, `Part`.
 
-65374 tokens (19%) have a non-empty value of `VerbForm`.
-7745 types (47%) occur at least once with a non-empty value of `VerbForm`.
-1265 lemmas (28%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (52230; 15% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (13144; 4% instances).
+65329 tokens (19%) have a non-empty value of `VerbForm`.
+7744 types (47%) occur at least once with a non-empty value of `VerbForm`.
+1265 lemmas (27%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (52358; 15% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (12971; 4% instances).
 
 ### `VERB`
 
-52230 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+52358 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42475; 81%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40654; 78%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (39391; 75%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39364; 75%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39364; 75%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35897; 69%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32606; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (31863; 61%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27126; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42595; 81%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40778; 78%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (39506; 75%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39488; 75%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39488; 75%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35973; 69%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32584; 62%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (32012; 61%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27249; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (33221; 64% of non-empty `VerbForm`): <em>est, potest, oportet, habet, dicitur, sunt, patet, sit, dicit, videtur</em>
+* `Fin` (33333; 64% of non-empty `VerbForm`): <em>est, potest, oportet, habet, dicitur, sunt, patet, sit, dicit, videtur</em>
 * `Gdv` (944; 2% of non-empty `VerbForm`): <em>dicendum, considerandum, sciendum, ostendendum, intelligendum, consideranda, ponenda, intelligendas, inquirendum, exhibendus</em>
 * `Ger` (1280; 2% of non-empty `VerbForm`): <em>essendi, agendo, cognoscendo, intelligendo, vivendi, agendum, intelligendum, recipiendum, intelligendi, movendo</em>
-* `Inf` (6143; 12% of non-empty `VerbForm`): <em>esse, intelligere, fieri, habere, dici, facere, velle, dicere, agere, moveri</em>
-* `Part` (10642; 20% of non-empty `VerbForm`): <em>ostensum, dictum, movens, separatae, agens, probatum, separata, dictis, consequens, separatas</em>
+* `Inf` (6155; 12% of non-empty `VerbForm`): <em>esse, intelligere, fieri, habere, dici, facere, velle, dicere, agere, moveri</em>
+* `Part` (10646; 20% of non-empty `VerbForm`): <em>ostensum, dictum, movens, separatae, agens, probatum, separata, dictis, consequens, separatas</em>
 * `EMPTY` (17): <em>esse, accidens, agens, agente, agentia, debitum, dicta, inhaerens, patiens, perfectas</em>
 
 <table>
@@ -115,16 +115,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-13144 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+12971 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12984; 99%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12393; 94%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11713; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10094; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9729; 74%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12968; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12240; 94%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11564; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9973; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9606; 74%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (11758; 89% of non-empty `VerbForm`): <em>est, sit, sunt, esset, sint, erit, fuit, essent, fuerit, dicitur</em>
+* `Fin` (11608; 89% of non-empty `VerbForm`): <em>est, sit, sunt, esset, sint, erit, fuit, essent, fuerit, erat</em>
 * `Ger` (1; 0% of non-empty `VerbForm`): <em>essendi</em>
-* `Inf` (1374; 10% of non-empty `VerbForm`): <em>esse, fuisse, dici, fore, existere</em>
-* `Part` (11; 0% of non-empty `VerbForm`): <em>facta, factae, cognitum, factas, institutus</em>
+* `Inf` (1362; 11% of non-empty `VerbForm`): <em>esse, fuisse, fore</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Ger</tt></th></tr>
@@ -168,14 +167,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4729; 60%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2674; 91%),
-<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1504; 56%),
-<tt>VERB --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (52; 61%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (41; 91%),
-<tt>VERB --[<tt><a href="la_ittb-dep-mark.html">mark</a></tt>]--> VERB</tt> (12; 67%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4769; 60%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2697; 91%),
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1509; 56%),
+<tt>VERB --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (47; 59%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (42; 91%),
 <tt>VERB --[<tt><a href="la_ittb-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (10; 67%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-appos.html">advcl:appos</a></tt>]--> VERB</tt> (7; 54%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%),
 <tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

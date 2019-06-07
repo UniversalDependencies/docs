@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 14	Büyük	büyük	ADJ	JJ	Number=Sing	16	amod	_	Proper=True
 15	Moravya	Moravya	PROPN	PROPN	Number=Sing	16	compound	_	Proper=True
 16	devleti	devlet	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	17	compound	_	Proper=True
-17	haline	hal	NOUN	NN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	advmod	_	_
+17	haline	hal	NOUN	NN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	obl	_	_
 18	gelmiştir	gel	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	18	punct	_	_
 
@@ -86,7 +86,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	Morgan	Morgan	PROPN	PROPN	Number=Sing	7	flat:name	_	Proper=True|SpaceAfter=No
 10	)	)	PUNCT	)	_	7	punct	_	_
 11	bazı	bazı	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	12	det	_	_
-12	özgürlüklere	özgürlük	NOUN	NN	Case=Dat|Number=Plur	13	advmod	_	_
+12	özgürlüklere	özgürlük	NOUN	NN	Case=Dat|Number=Plur	13	obl	_	_
 13	sahip	sah	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 

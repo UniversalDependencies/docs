@@ -60,12 +60,12 @@ The 2nd highest number of forms (2) was observed with the lemma “naj”: <em>n
 
 The 3rd highest number of forms (2) was observed with the lemma “tudi”: <em>tud, tudi</em>.
 
-`PART` occurs with 1 features: <tt><a href="sl_ssj-feat-Polarity.html">Polarity</a></tt> (673; 16% instances)
+`PART` occurs with 1 features: <tt><a href="sl_ssj-feat-Polarity.html">Polarity</a></tt> (743; 18% instances)
 
 `PART` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3426 tokens).
+The most frequent feature combination is `_` (3356 tokens).
 Examples: <em>tudi, še, že, le, naj, prav, samo, seveda, sicer, več</em>
 
 

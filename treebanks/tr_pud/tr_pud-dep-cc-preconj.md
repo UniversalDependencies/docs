@@ -22,14 +22,14 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 cc:preconj	color:blue
-1	Avrupa'da	Avrupa	PROPN	PROPN	Case=Loc|Number=Sing	13	advmod	_	Proper=True
+1	Avrupa'da	Avrupa	PROPN	PROPN	Case=Loc|Number=Sing	13	obl	_	Proper=True
 2	savaş	savaş	NOUN	NN	Number=Sing	3	compound	_	_
 3	öncesi	önce	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl:tmod	_	_
 4	Müttefikler	Müttefik	NOUN	NN	Case=Nom|Number=Plur	13	nsubj	_	Proper=True
 5	hem	hem	CCONJ	CCONJ	_	9	cc:preconj	_	_
 6	nüfus	nüfus	NOUN	NN	Number=Sing	10	compound	_	_
 7	hem	hem	CCONJ	CCONJ	_	9	cc	_	_
-8	de	de	ADV	RB	_	7	advmod:emph	_	_
+8	de	de	ADV	RB	_	7	fixed	_	_
 9	ekonomi	ekonomi	NOUN	NN	Number=Sing	6	conj	_	_
 10	açısından	açı	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nmod:arg	_	ToDo=nmod
 11	önemli	_	ADJ	JJ	Number=Sing	12	amod	_	_
@@ -58,14 +58,14 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	hem	hem	CCONJ	CCONJ	_	11	cc	_	_
 10	kamuya	kamu	NOUN	NN	Case=Dat|Number=Sing	11	nmod:arg	_	ToDo=nmod
 11	açık	açık	ADJ	JJ	Number=Sing	8	conj	_	_
-12	şekilde	şekil	NOUN	NN	Case=Loc|Number=Sing	14	advmod	_	_
-13	gayretle	gayretle	NOUN	NN	Case=Ins|Number=Sing	14	advmod	_	_
+12	şekilde	şekil	NOUN	NN	Case=Loc|Number=Sing	14	obl	_	_
+13	gayretle	gayretle	NOUN	NN	Case=Ins|Number=Sing	14	obl	_	_
 14	çalıştı	çalış	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 15	ve	ve	CCONJ	CCONJ	_	20	cc	_	_
 16	İsrail'i	İsrail	PROPN	PROPN	Case=Acc|Number=Sing	20	obj	_	Proper=True
 17	pek	pek	ADV	RB	_	18	advmod	_	_
 18	çok	çok	ADV	RB	_	19	advmod	_	_
-19	kez	kez	NOUN	NN	Number=Sing	20	advmod	_	_
+19	kez	kez	NOUN	NN	Number=Sing	20	obl	_	_
 20	ziyaret	ziyaret	NOUN	NN	Number=Sing	14	conj	_	_
 21	etti	et	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	20	fixed	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	20	punct	_	_
@@ -85,15 +85,15 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	hem	hem	CCONJ	CCONJ	_	8	cc:preconj	_	_
 5	Moğolistan'ın	Moğolistan	PROPN	PROPN	Case=Gen|Number=Sing	10	nmod:poss	_	Proper=True
 6	hem	hem	CCONJ	CCONJ	_	8	cc	_	_
-7	de	de	ADV	RB	_	6	advmod:emph	_	_
+7	de	de	ADV	RB	_	6	fixed	_	_
 8	Çin'in	Çin	PROPN	PROPN	Case=Gen|Number=Sing	5	conj	_	Proper=True
 9	Çing	Çing	PROPN	PROPN	Number=Sing	10	compound	_	Proper=True
-10	döneminde	dönem	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	advmod	_	_
+10	döneminde	dönem	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	_
 11	Mançu	Mançu	PROPN	PROPN	Number=Sing	12	compound	_	Proper=True
-12	tarafından	taraf	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	advmod	_	_
+12	tarafından	taraf	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	_
 13	yönetildiğini	yönetil	NOUN	VN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	29	xcomp	_	_
 14	ve	ve	CCONJ	CCONJ	_	28	cc	_	_
-15	de	de	ADV	RB	_	14	advmod:emph	_	_
+15	de	de	ADV	RB	_	14	fixed	_	_
 16	Çing	Çing	PROPN	PROPN	Number=Sing	17	compound	_	Proper=True
 17	hanedanının	hanedan	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	nmod:poss	_	Proper=True
 18	1911'de	1911	NOUN	NN	Case=Loc|Number=Sing	19	obl:tmod	_	_
@@ -104,8 +104,8 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 23	Mançu'ya	Mançu	PROPN	PROPN	Case=Dat|Number=Sing	24	nmod:arg	_	Proper=True
 24	teslim	teslim	NOUN	NN	Number=Sing	25	compound	_	_
 25	sözleşmesinin	sözleşme	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	28	nmod:poss	_	_
-26	geçersiz	geçersiz	ADJ	JJ	Number=Sing	28	advmod	_	_
-27	hale	hal	AUX	NN	Case=Dat|Number=Sing	26	cop	_	_
+26	geçersiz	geçersiz	ADJ	JJ	Number=Sing	27	amod	_	_
+27	hale	hal	AUX	NN	Case=Dat|Number=Sing	28	obl	_	_
 28	geldiğini	gel	NOUN	VN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	13	conj	_	_
 29	söyledi	söyle	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	29	punct	_	_

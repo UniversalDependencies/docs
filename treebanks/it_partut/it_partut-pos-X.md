@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-ParTUT: POS Tags: `X`
 
-There are 67 `X` lemmas (1%), 67 `X` types (1%) and 131 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 8 in number of lemmas, 11 in number of types and 14 in number of tokens.
+There are 69 `X` lemmas (1%), 69 `X` types (1%) and 134 `X` tokens (0%).
+Out of 15 observed tags, the rank of `X` is: 7 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>la, King's, Men, Humaine, Le, Comédie, Illusions, perdues, Chagrin, Peau</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_partut-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.487817).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.488064).
 
 The 1st highest number of forms (1) was observed with the lemma “Ardennes”: <em>Ardennes</em>.
 
@@ -63,7 +63,7 @@ The 2nd highest number of forms (1) was observed with the lemma “Aux”: <em>A
 
 The 3rd highest number of forms (1) was observed with the lemma “Bette”: <em>Bette</em>.
 
-`X` occurs with 1 features: <tt><a href="it_partut-feat-Foreign.html">Foreign</a></tt> (122; 93% instances)
+`X` occurs with 1 features: <tt><a href="it_partut-feat-Foreign.html">Foreign</a></tt> (122; 91% instances)
 
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
@@ -74,17 +74,17 @@ Examples: <em>la, King's, Men, Humaine, Le, Comédie, Illusions, perdues, Chagri
 
 ## Relations
 
-`X` nodes are attached to their parents using 12 different relations: <tt><a href="it_partut-dep-flat-foreign.html">flat:foreign</a></tt> (65; 50% instances), <tt><a href="it_partut-dep-nmod.html">nmod</a></tt> (17; 13% instances), <tt><a href="it_partut-dep-flat.html">flat</a></tt> (14; 11% instances), <tt><a href="it_partut-dep-obl.html">obl</a></tt> (12; 9% instances), <tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt> (8; 6% instances), <tt><a href="it_partut-dep-fixed.html">fixed</a></tt> (6; 5% instances), <tt><a href="it_partut-dep-xcomp.html">xcomp</a></tt> (3; 2% instances), <tt><a href="it_partut-dep-obj.html">obj</a></tt> (2; 2% instances), <tt><a href="it_partut-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="it_partut-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="it_partut-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 12 different relations: <tt><a href="it_partut-dep-flat-foreign.html">flat:foreign</a></tt> (65; 49% instances), <tt><a href="it_partut-dep-nmod.html">nmod</a></tt> (18; 13% instances), <tt><a href="it_partut-dep-flat.html">flat</a></tt> (14; 10% instances), <tt><a href="it_partut-dep-obl.html">obl</a></tt> (13; 10% instances), <tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt> (8; 6% instances), <tt><a href="it_partut-dep-fixed.html">fixed</a></tt> (6; 4% instances), <tt><a href="it_partut-dep-xcomp.html">xcomp</a></tt> (3; 2% instances), <tt><a href="it_partut-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="it_partut-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="it_partut-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="it_partut-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 5 different parts of speech: <tt><a href="it_partut-pos-X.html">X</a></tt> (79; 60% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (24; 18% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (21; 16% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="it_partut-pos-X.html">X</a></tt> (79; 59% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (24; 18% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (21; 16% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances)
 
-84 (64%) `X` nodes are leaves.
+88 (66%) `X` nodes are leaves.
 
-6 (5%) `X` nodes have one child.
+5 (4%) `X` nodes have one child.
 
-6 (5%) `X` nodes have two children.
+6 (4%) `X` nodes have two children.
 
-35 (27%) `X` nodes have three or more children.
+35 (26%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 9.
 

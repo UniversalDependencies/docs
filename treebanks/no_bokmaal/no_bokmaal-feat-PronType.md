@@ -10,16 +10,16 @@ This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 5 combinations have been observed: `Art|Prs`, `Dem|Ind`, `Ind|Prs`, `Neg|Prs`, `Prs|Tot`.
 
-40335 tokens (13%) have a non-empty value of `PronType`.
-180 types (1%) occur at least once with a non-empty value of `PronType`.
-74 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (25955; 8% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (14380; 5% instances).
+40342 tokens (13%) have a non-empty value of `PronType`.
+181 types (1%) occur at least once with a non-empty value of `PronType`.
+75 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (25962; 8% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (14380; 5% instances).
 
 ### `PRON`
 
-25955 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+25962 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16210; 62%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15997; 62%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14157; 55%), <tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13569; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16217; 62%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15997; 62%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14164; 55%), <tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13576; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -28,12 +28,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (487; 2% of non-empty `PronType`): <em>hva, hvem, hvis, hvilket</em>
 * `Neg` (47; 0% of non-empty `PronType`): <em>ingenting</em>
 * `Neg,Prs` (104; 0% of non-empty `PronType`): <em>ingen</em>
-* `Prs` (21218; 82% of non-empty `PronType`): <em>det, jeg, han, vi, de, seg, hun, du, dette, man</em>
+* `Prs` (21225; 82% of non-empty `PronType`): <em>det, jeg, han, vi, de, seg, hun, du, dette, man</em>
 * `Prs,Tot` (203; 1% of non-empty `PronType`): <em>alle, begge, enhver, samtlige, alles</em>
 * `Rcp` (73; 0% of non-empty `PronType`): <em>hverandre, hverandres</em>
 * `Rel` (3317; 13% of non-empty `PronType`): <em>som</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (51) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (52) occur only with one value of `PronType`.
 
 ### `DET`
 

@@ -23,16 +23,16 @@ The following 21 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 5 iobj	color:blue
 1	اس	یہ	DET	DEM	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	det	_	ChunkId=NP|ChunkType=child
-2	سلسلے	سلسلہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	advmod	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head
+2	سلسلے	سلسلہ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obl	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head
 3	مےں	مےں	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child
 4	دو	دو	NUM	QC	NumType=Card	5	nummod	_	ChunkId=NP2|ChunkType=child
 5	افراد	فرد	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	9	iobj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 6	کو	کو	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP2|ChunkType=child
-7	حراست	حراست	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	advmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+7	حراست	حراست	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	مےں	مےں	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child
 9	لیا	لے	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Vib=یا|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative
 10	گیا	جا	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	aux	_	Vib=1یا|Tam=yA1|ChunkId=VGF|ChunkType=child
-11	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=child
+11	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=child
 12	۔	۔	PUNCT	SYM	_	9	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
@@ -58,7 +58,7 @@ The following 21 pairs of parts of speech are connected with `iobj`: <tt><a href
 12	واقف	واقف	ADJ	JJ	_	13	compound	_	ChunkId=JJP|ChunkType=head
 13	کروا	کروا	VERB	VM	Voice=Act	0	root	_	Vib=0|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative
 14	دیا	دے	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	13	aux	_	Vib=یا|Tam=yA|ChunkId=VGF|ChunkType=child
-15	تھا	تھا	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	SpaceAfter=No|Vib=تھا|Tam=WA|ChunkId=VGF|ChunkType=child
+15	تھا	تھا	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No|Vib=تھا|Tam=WA|ChunkId=VGF|ChunkType=child
 16	۔	۔	PUNCT	SYM	_	13	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
@@ -73,7 +73,7 @@ The following 21 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	ڈاکٹروں	ڈاکٹر	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head
 2	نے	نے	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child
 3	انہیں	وہ	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	iobj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
-4	حیدرآباد	حیدرآباد	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	advmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+4	حیدرآباد	حیدرآباد	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 5	جانے	جا	VERB	VM	Aspect=Perf|Case=Acc|VerbForm=Part	7	nmod	_	Vib=یا|Tam=yA|ChunkId=VGNN|ChunkType=head
 6	کا	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	5	mark	_	ChunkId=VGNN|ChunkType=child
 7	مشورہ	مشورہ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head

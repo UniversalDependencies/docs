@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `compound:conjv`: <t
 3	खत्म	_	ADJ	JJ	_	4	compound:conjv	_	Translit=khatma
 4	हो	_	VERB	VB	_	0	root	_	Translit=ho
 5	जाते	_	AUX	VXH	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3	4	aux	_	Translit=jāte
-6	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	4	aux	_	SpaceAfter=No|Translit=haiṁ
+6	हैं	_	AUX	VXH	Gender=Masc|Number=Plur|Person=3|Tense=Pres	4	aux	_	SpaceAfter=No|Translit=haiṁ
 7	।	_	PUNCT	.	_	4	punct	_	Translit=.
 
 ~~~
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `compound:conjv`: <t
 5	ने	_	ADP	IN	Case=Erg	4	case	_	Translit=ne
 6	रोना	_	VERB	VINF	VerbForm=Inf	8	xcomp	_	Translit=ronā
 7	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	8	compound:conjv	_	Translit=śurū
-8	किया	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Bug=multi-subj|SpaceAfter=No|Translit=kiyā
+8	किया	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Bug=multi-subj|Translit=kiyā
 9	,	_	PUNCT	,	_	10	punct	_	Translit=,
 10	फिर	_	ADV	RB	_	8	advmod	_	Translit=phira
 11	उसकी	_	PRON	PRP$	Animacy=Anim|Case=Nom|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	13	nmod:poss	_	Translit=usakī
@@ -65,12 +65,12 @@ The following 7 pairs of parts of speech are connected with `compound:conjv`: <t
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 22 compound:conjv	color:blue
-1	पुरुष	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	compound	_	Translit=puruṣa
+1	पुरुष	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	compound	_	Translit=puruṣa
 2	माध्यमिक	_	ADJ	JJ	_	3	amod	_	Translit=mādhyamika
-3	स्कूलों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	obl	_	Translit=skūloṁ
-4	में	_	ADP	IN	Case=Loc	3	case	_	Translit=meṁ
+3	स्कूलों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	obl	_	Translit=skūloṁ
+4	में	_	ADP	IN	Case=Loc	3	case	_	Translit=meṁ
 5	अधिक	_	DET	QF	_	6	det	_	Translit=adhika
-6	नामांकन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nmod:poss	_	SpaceAfter=No|Translit=nāmāṁkana
+6	नामांकन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nmod:poss	_	SpaceAfter=No|Translit=nāmāṁkana
 7	,	_	PUNCT	,	_	10	punct	_	Translit=,
 8	प्रति	_	DET	QF	_	9	det	_	Translit=prati
 9	व्यक्ति	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=vyakti
@@ -85,13 +85,13 @@ The following 7 pairs of parts of speech are connected with `compound:conjv`: <t
 18	का	_	ADP	IN	Case=Gen|Gender=Masc|Number=Sing	6	case	_	Translit=kā
 19	गृहयुद्ध	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	nmod:poss	_	Translit=gr̥hayuddha
 20	की	_	ADP	IN	Case=Gen|Gender=Fem	19	case	_	Translit=kī
-21	संभावना	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	obj	_	Translit=saṁbhāvanā
+21	संभावना	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	obj	_	Translit=saṁbhāvanā
 22	कम	_	DET	QF	_	23	compound:conjv	_	Translit=kama
 23	करने	_	VERB	VINF	VerbForm=Inf	27	xcomp	_	Translit=karane
 24	पर	_	ADP	IN	Case=Acc	23	case	_	Translit=para
-25	महत्वपूर्ण	_	ADJ	JJ	_	26	amod	_	Translit=mahatvapūrṇa
+25	महत्वपूर्ण	_	ADJ	JJ	_	26	amod	_	Translit=mahatvapūrṇa
 26	प्रभाव	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	obj	_	Translit=prabhāva
-27	पड़ा	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=paṛā
+27	पड़ा	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=paṛā
 28	।	_	PUNCT	.	_	27	punct	_	Translit=.
 
 ~~~

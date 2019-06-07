@@ -2,6 +2,7 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
 All clausal subjects in the current version of the treebank are subjects of the copula _is_. 

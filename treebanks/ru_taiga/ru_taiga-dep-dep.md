@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `dep`.
+9 nodes (0%) are attached to their parents as `dep`.
 
-3 instances of `dep` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4.
+5 instances of `dep` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.22222222222222.
 
-The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 20% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 20% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 20% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 11% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 11% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 dep	color:blue
+1	Зарплату	зарплата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+2	обещанную	обещать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	amod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	платят	платить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	пьяницами	пьяница	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	4	dep	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -53,26 +71,6 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	представлял	представлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 11	хач	хач	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 dep	color:blue
-1	мороженька	мороженька	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	от	от	ADP	_	_	4	case	_	_
-3	Жириновского	Жириновский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-4	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	dep	_	_
-5	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1	nmod	_	_
-6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	любимой	любимый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	прессе	пресса	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-9	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	)))	)))	SYM	_	_	8	discourse	_	_
 
 ~~~
 

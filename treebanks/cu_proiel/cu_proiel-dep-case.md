@@ -11,9 +11,9 @@ This relation is universal.
 4654 nodes (8%) are attached to their parents as `case`.
 
 4577 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09239363987967.
+Average distance between parent and child is 1.09260850880963.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (2749; 59% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1181; 25% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (296; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (268; 6% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (111; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (38; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (2748; 59% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1181; 25% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (296; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (269; 6% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (111; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (36; 1% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_5.33
 3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=MATT_5.33
 4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
-5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=MATT_5.33
+5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=MATT_5.33
 
 ~~~
 

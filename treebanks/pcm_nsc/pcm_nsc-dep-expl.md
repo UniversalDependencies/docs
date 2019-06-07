@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 9	repair	repair	VERB	_	_	7	xcomp	_	_
 10	di	di	DET	_	_	11	det	_	_
 11	road	road	NOUN	_	_	9	obj	_	_
-12	dem	dem	PART	_	_	11	det	_	_
+12	dem	dem	DET	PART	_	11	det	_	_
 13	#	#	PUNCT	_	_	15	punct	_	_
 14	wey	wey	SCONJ	_	_	15	mark	_	_
 15	pass	pass	VERB	_	_	9	advcl	_	_
@@ -52,12 +52,12 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 28	accident	accident	NOUN	_	_	30	nsubj	_	_
 29	go	go	AUX	_	_	30	aux	_	_
 30	stop	stop	VERB	_	_	9	advcl	_	_
-31	small	small	ADJ	_	_	30	advmod	_	_
+31	small	small	ADV	ADJ	_	30	advmod	_	_
 32	on	on	ADP	_	_	33	case	_	_
 33	top	top	NOUN	_	_	30	obl:mod	_	_
 34	di	di	DET	_	_	35	det	_	_
 35	bridge	bridge	NOUN	_	_	33	nmod	_	_
-36	dem	dem	PART	_	_	35	det	_	_
+36	dem	dem	DET	PART	_	35	det	_	_
 37	//	//	PUNCT	_	_	3	punct	_	_
 
 ~~~

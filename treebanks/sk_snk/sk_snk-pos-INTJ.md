@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>pozor</em> (<tt><a href="sk_snk-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 1.800669).
+The form / lemma ratio of `INTJ` is 1.027027 (the average of all parts of speech is 1.801856).
 
 The 1st highest number of forms (2) was observed with the lemma “bum”: <em>BUM, Bum</em>.
 
@@ -43,7 +43,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>a
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="sk_snk-dep-root.html">root</a></tt> (33; 50% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (27; 41% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (3; 5% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="sk_snk-dep-root.html">root</a></tt> (33; 50% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (27; 41% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (3; 5% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="sk_snk-dep-discourse.html">discourse</a></tt> (1; 2% instances)
 
 Parents of `INTJ` nodes belong to 6 different parts of speech:  (33; 50% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (27; 41% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (3; 5% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
@@ -57,7 +57,7 @@ Parents of `INTJ` nodes belong to 6 different parts of speech:  (33; 50% instanc
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (69; 83% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (7; 8% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (3; 4% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (71; 84% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (7; 8% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (3; 4% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (69; 83% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (7; 8% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (71; 84% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (7; 8% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 1% instances)
 

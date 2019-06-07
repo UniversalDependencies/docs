@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="it_isdt-dep-det-poss.html">det:poss</a></tt>, <tt><a href="it_isdt-dep-det-predet.html">det:predet</a></tt>.
 
-46348 nodes (16%) are attached to their parents as `det`.
+46345 nodes (16%) are attached to their parents as `det`.
 
-46334 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14369552084232.
+46331 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14394217283418.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (40822; 88% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (3184; 7% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1101; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (569; 1% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (304; 1% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (155; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (97; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (83; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (40828; 88% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (3182; 7% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (1101; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (569; 1% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (302; 1% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (157; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (98; 0% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (83; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt>-<tt><a href="it_isdt-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

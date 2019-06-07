@@ -10,10 +10,10 @@ This relation is universal.
 
 33455 nodes (11%) are attached to their parents as `punct`.
 
-29753 instances of `punct` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.66584964878195.
+21054 instances of `punct` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.03497235091915.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (16926; 51% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (7693; 23% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (4813; 14% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (1723; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (482; 1% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (465; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (433; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (303; 1% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (244; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (172; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (154; 0% instances), <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (17421; 52% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (7300; 22% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (4590; 14% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (1579; 5% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (537; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (533; 2% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (520; 2% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (308; 1% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (235; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (179; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (177; 1% instances), <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt>-<tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
 
 
 ~~~ conllu
@@ -39,15 +39,15 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 punct	color:blue
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 punct	color:blue
 1	Kyllingkjøtdeig	kyllingkjøtdeig	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	ofte	ofte	ADJ	_	Degree=Pos	5	advmod	_	_
 4	på	på	ADP	_	_	5	case	_	_
 5	tilbod	tilbod	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	5	punct	_	_
+6	,	$,	PUNCT	_	_	12	punct	_	_
 7	og	og	CCONJ	_	_	12	cc	_	_
 8	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	_
 9	proteinrik	proteinrik	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	_
@@ -60,24 +60,24 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 14 punct	color:blue
-1	Då	då	ADV	_	_	4	advmod	_	_
-2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-4	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-5	å	å	PART	_	_	6	mark	_	_
-6	ha	ha	VERB	_	VerbForm=Inf	4	csubj	_	_
-7	eit	ein	DET	_	Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-8	godt	god	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
-9	brød	brød	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	6	obj	_	_
-10	å	å	PART	_	_	11	mark	_	_
-11	smøre	smøre	VERB	_	VerbForm=Inf	9	acl	_	_
-12	matpakke	matpakke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
-13	av	av	ADP	_	_	12	nmod	_	SpaceAfter=No
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 8 punct	color:blue
+1	Dette	dette	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+2	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	lært	lære	VERB	_	VerbForm=Part	0	root	_	_
+5	av	av	ADP	_	_	6	case	_	_
+6	søstra	søster	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
+7	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
+8	,	$,	PUNCT	_	_	13	punct	_	_
+9	og	og	CCONJ	_	_	13	cc	_	_
+10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	heilt	heil	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	13	advmod	_	_
+13	genialt	genial	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
 14	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~

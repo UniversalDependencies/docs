@@ -65,19 +65,11 @@ The 3rd highest number of forms (1) was observed with the lemma “とも”: �
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ja_modern-dep-cc.html">cc</a></tt> (424; 89% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (55; 11% instances)
+`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_modern-dep-cc.html">cc</a></tt> (479; 100% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (336; 70% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (111; 23% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (16; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (336; 70% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (112; 23% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt> (16; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt> (1; 0% instances)
 
-468 (98%) `CCONJ` nodes are leaves.
+479 (100%) `CCONJ` nodes are leaves.
 
-9 (2%) `CCONJ` nodes have one child.
-
-2 (0%) `CCONJ` nodes have two children.
-
-The highest child degree of a `CCONJ` node is 2.
-
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="ja_modern-dep-case.html">case</a></tt> (5; 38% instances), <tt><a href="ja_modern-dep-nmod.html">nmod</a></tt> (4; 31% instances), <tt><a href="ja_modern-dep-aux.html">aux</a></tt> (2; 15% instances), <tt><a href="ja_modern-dep-dep.html">dep</a></tt> (2; 15% instances)
-
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="ja_modern-pos-ADP.html">ADP</a></tt> (5; 38% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt> (4; 31% instances)
+The highest child degree of a `CCONJ` node is 0.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-278 nodes (0%) are attached to their parents as `acl`.
+279 nodes (0%) are attached to their parents as `acl`.
 
-268 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.36690647482014.
+269 instances of `acl` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3584229390681.
 
-The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (220; 79% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (221; 79% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	τότε	τότε	ADV	ADV	_	7	advmod	_	_
 5	δεν	δεν	PART	PART	_	7	advmod	_	_
-6	θα	θα	PART	PART	_	7	aux	_	_
+6	θα	θα	AUX	AUX	_	7	aux	_	_
 7	είχαμε	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	χρόνο	χρόνος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
-9	να	να	PART	PART	_	10	aux	_	_
+9	να	να	AUX	AUX	_	10	aux	_	_
 10	υπηρετήσουμε	υπηρετώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	8	acl	_	_
 11	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	λαό	λαός	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
@@ -86,7 +86,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 13	ότι	ότι	SCONJ	SCONJ	_	17	mark	_	_
 14	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Ένωση	ένωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
-16	θα	θα	PART	PART	_	17	aux	_	_
+16	θα	θα	AUX	AUX	_	17	aux	_	_
 17	είχε	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	_
 18	καλές	καλός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Plur	19	amod	_	_
 19	επιδόσεις	επίδοση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No

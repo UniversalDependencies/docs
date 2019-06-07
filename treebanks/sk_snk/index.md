@@ -98,7 +98,7 @@ vol. 68, no. 2, pp. 385-395
 
 ## Features
 
-[Abbr](sk_snk-feat-Abbr.html) – [AdpType](sk_snk-feat-AdpType.html) – [Animacy](sk_snk-feat-Animacy.html) – [Aspect](sk_snk-feat-Aspect.html) – [Case](sk_snk-feat-Case.html) – [Degree](sk_snk-feat-Degree.html) – [Foreign](sk_snk-feat-Foreign.html) – [Gender](sk_snk-feat-Gender.html) – [Gender[psor]](sk_snk-feat-Gender-psor.html) – [Hyph](sk_snk-feat-Hyph.html) – [Mood](sk_snk-feat-Mood.html) – [Number](sk_snk-feat-Number.html) – [Number[psor]](sk_snk-feat-Number-psor.html) – [NumForm](sk_snk-feat-NumForm.html) – [NumType](sk_snk-feat-NumType.html) – [Person](sk_snk-feat-Person.html) – [Polarity](sk_snk-feat-Polarity.html) – [Poss](sk_snk-feat-Poss.html) – [PronType](sk_snk-feat-PronType.html) – [Reflex](sk_snk-feat-Reflex.html) – [Tense](sk_snk-feat-Tense.html) – [Typo](sk_snk-feat-Typo.html) – [VerbForm](sk_snk-feat-VerbForm.html) – [Voice](sk_snk-feat-Voice.html)
+[Abbr](sk_snk-feat-Abbr.html) – [AdpType](sk_snk-feat-AdpType.html) – [Animacy](sk_snk-feat-Animacy.html) – [Aspect](sk_snk-feat-Aspect.html) – [Case](sk_snk-feat-Case.html) – [ConjType](sk_snk-feat-ConjType.html) – [Degree](sk_snk-feat-Degree.html) – [Foreign](sk_snk-feat-Foreign.html) – [Gender](sk_snk-feat-Gender.html) – [Gender[psor]](sk_snk-feat-Gender-psor.html) – [Hyph](sk_snk-feat-Hyph.html) – [Mood](sk_snk-feat-Mood.html) – [Number](sk_snk-feat-Number.html) – [Number[psor]](sk_snk-feat-Number-psor.html) – [NumForm](sk_snk-feat-NumForm.html) – [NumType](sk_snk-feat-NumType.html) – [Person](sk_snk-feat-Person.html) – [Polarity](sk_snk-feat-Polarity.html) – [Poss](sk_snk-feat-Poss.html) – [PronType](sk_snk-feat-PronType.html) – [Reflex](sk_snk-feat-Reflex.html) – [Tense](sk_snk-feat-Tense.html) – [Typo](sk_snk-feat-Typo.html) – [VerbForm](sk_snk-feat-VerbForm.html) – [Voice](sk_snk-feat-Voice.html)
 
 ## Relations
 
@@ -150,11 +150,11 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): by, byť, bývať, mať, sa, stať, sto</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): by, byť, bývať</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: byť, bývať, mať, sa, stať</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: byť, bývať</li>
 </ul>
 
 <ul>
@@ -173,7 +173,7 @@ vol. 68, no. 2, pp. 385-395
   <li>Fin
   <ul>
     <li>AUX: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
-    <li>VERB: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+    <li>VERB: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
   </ul>
   </li>
 </ul>
@@ -227,15 +227,14 @@ vol. 68, no. 2, pp. 385-395
       <li>ADJ: celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</li>
       <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravený, zatajeným, zhrozený, nasledujúcich, obkľúčený, očakávaný, spojených</li>
       <li>ADV: raz, ráz, razy</li>
-      <li>AUX-Part: bol, boli, nebol, neboli, býval, bývali, stal</li>
+      <li>AUX-Part: bol, boli, nebol, neboli, býval, bývali</li>
       <li>DET: ktorý, jeho, ten, jej, môj, tento, každý, ktoré, všetci, ktorí</li>
       <li>NOUN: roku, deň, rokov, ľudí, život, života, rokoch, čas, človek, pocit</li>
       <li>NUM: jeden, dva, jedného, obaja, tri, dvoch, jedným, štyri, dvaja, jednom</li>
       <li>PRON: ho, mu, ich, im, kto, nich, ním, nikto, on, naňho</li>
       <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
-      <li>VERB: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
-      <li>VERB-Part: mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</li>
-      <li>X: VB</li>
+      <li>VERB: mal, povedal, bol, odvetil, spýtal, začal, stal, chcel, prišiel, vedel</li>
+      <li>VERB-Part: mal, povedal, bol, odvetil, spýtal, začal, stal, chcel, prišiel, vedel</li>
     </ul>
   </li>
 </ul>
@@ -265,14 +264,13 @@ vol. 68, no. 2, pp. 385-395
     <ul>
       <li>ADJ: prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</li>
       <li>ADJ-Part: zmätený, Zhlúpnutý, zhrozený, pripravený, spomínaní, zvyknutí, Zamilovaný, inaugurovaný, nezaradených, oblečený</li>
-      <li>AUX-Part: bol, boli, nebol, býval, neboli, stal</li>
+      <li>AUX-Part: bol, boli, nebol, býval, neboli</li>
       <li>DET: ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</li>
       <li>NOUN: ľudí, človek, otec, ľudia, muž, kráľ, sultán, otca, človeka, cisár</li>
       <li>NUM: obaja, jeden, dvaja, dvoch, mnohí, obidvoch, jedným, troch, jedného, jednému</li>
       <li>PRON: ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</li>
       <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
       <li>VERB-Part: mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</li>
-      <li>X: VB</li>
     </ul>
   </li>
 </ul>
@@ -305,7 +303,7 @@ vol. 68, no. 2, pp. 385-395
       <li>ADJ: ďalšie, verejných, nové, rôznych, nových, veľké, ďalších, hlavných, jednotlivých, legislatívne</li>
       <li>ADJ-Part: nasledujúcich, ozbrojených, sledovaných, nájdené, uvedených, chránených, odložené, spojených, spomínaní, týkajúcich</li>
       <li>ADV: ráz, razy</li>
-      <li>AUX-Fin: sme, sú, ste, budú, budeme, budete, buďte, Buďme, Nebudete, majú</li>
+      <li>AUX-Fin: sme, sú, ste, budú, budeme, budete, buďte, Buďme, Nebudete, nebudeme</li>
       <li>AUX-Part: boli, neboli, bývali</li>
       <li>DET: ktoré, jeho, všetky, všetci, všetkých, tieto, ktorí, svojich, ich, tie</li>
       <li>NOUN: oči, rokov, ľudí, rokoch, deti, dvere, ľudia, slová, nohy, podmienky</li>
@@ -324,8 +322,8 @@ vol. 68, no. 2, pp. 385-395
       <li>ADJ: celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</li>
       <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravená, pripravený, zatajeným, zhrozený, nasledujúcej, nazývaného, obkľúčený</li>
       <li>ADV: raz</li>
-      <li>AUX-Fin: som, je, bude, si, nebude, budem, budeš, nebudem, má, Nebuď</li>
-      <li>AUX-Part: bol, bola, bolo, nebola, nebolo, nebol, býval, bývala, stal</li>
+      <li>AUX-Fin: som, je, bude, si, nebude, budem, budeš, nebudem, Nebuď, býva</li>
+      <li>AUX-Part: bol, bola, bolo, nebola, nebolo, nebol, býval, bývala</li>
       <li>DET: to, jeho, ktorý, jej, ten, ktorá, tom, toho, ich, všetko</li>
       <li>NOUN: roku, vláda, chvíľu, deň, mama, tvár, život, života, storočia, chvíli</li>
       <li>NUM: jeden, jedného, jednej, veľa, jedna, jedno, mnoho, jednou, jednu, jedným</li>
@@ -333,7 +331,6 @@ vol. 68, no. 2, pp. 385-395
       <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</li>
       <li>VERB-Fin: je, má, ide, môže, mám, musí, musím, chcem, neviem, znamená</li>
       <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
-      <li>X: VB</li>
     </ul>
   </li>
 </ul>
@@ -430,7 +427,6 @@ vol. 68, no. 2, pp. 385-395
       <li>NUM: jeden, jedna, obaja, tri, veľa, dvaja, dve, štyri, dva, jedno</li>
       <li>PRON: ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</li>
       <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Jazmína, Vilko, Herkules, Abu, Bush</li>
-      <li>X: VB</li>
     </ul>
   </li>
 </ul>
@@ -490,7 +486,7 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, Nestoja, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným</li>
+      <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným, neplánovaný</li>
       <li>AUX-Fin: je, nebude, sú, nebudem, som, Nebudete, Nebuď, nebudeme, nebudeš, nebudú</li>
       <li>AUX-Part: nebola, nebolo, nebol, neboli</li>
       <li>VERB-Conv: Nehovoriac</li>
@@ -507,10 +503,10 @@ vol. 68, no. 2, pp. 385-395
       <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
       <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, budeme, budem</li>
       <li>AUX-Inf: byť</li>
-      <li>AUX-Part: bol, bola, bolo, boli, býval, bývali, bývala, stal</li>
+      <li>AUX-Part: bol, bola, bolo, boli, býval, bývali, bývala</li>
       <li>VERB: mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</li>
       <li>VERB-Conv: cítiac, Hľadajúc, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc, odhliadnuc</li>
-      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
       <li>VERB-Inf: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
       <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
     </ul>
@@ -528,13 +524,12 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
       <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
       <li>AUX-Inf: byť</li>
       <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
       <li>VERB: mal, je, má, mala, bol, bolo, ide, bola, môže, mali</li>
       <li>VERB-Conv: cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</li>
-      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
       <li>VERB-Inf: mať, ísť, podporovať, robiť, pokračovať, hľadať, stáť, veriť, byť, spať</li>
       <li>VERB-Part: mal, mala, bol, bolo, bola, mali, chcel, vedel, chcela, mohol</li>
     </ul>
@@ -554,11 +549,10 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Part: stal</li>
       <li>VERB-Conv: odhliadnuc, povediac, vyhovejúc, využijúc</li>
       <li>VERB-Fin: pripraví, vytvorí, pozri, zabezpečí, počkajte, prijme, príde, vyparia, podporí, počkaj</li>
       <li>VERB-Inf: povedať, stať, odísť, ostať, prísť, vysvetliť, vytvoriť, pomôcť, urobiť, zastaviť</li>
-      <li>VERB-Part: povedal, povedala, odvetil, spýtal, odvetila, zvolala, začal, prišiel, stal, spýtala</li>
+      <li>VERB-Part: povedal, povedala, odvetil, spýtal, odvetila, zvolala, začal, stal, prišiel, spýtala</li>
     </ul>
   </li>
 </ul>
@@ -590,7 +584,7 @@ vol. 68, no. 2, pp. 385-395
   <li>Ind
     <ul>
       <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
-      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
     </ul>
   </li>
 </ul>
@@ -611,7 +605,6 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
       <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
       <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
     </ul>
@@ -621,8 +614,8 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: som, je, sme, sú, si, ste, má, býva, majú, nebýva</li>
-      <li>VERB-Fin: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
+      <li>AUX-Fin: som, je, sme, sú, si, ste, býva, nebýva, niesme, so</li>
+      <li>VERB-Fin: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
     </ul>
   </li>
 </ul>
@@ -685,7 +678,7 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, Kamže, kadiaľ, kdeby</li>
+      <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, čím, Kamže, kadiaľ</li>
       <li>DET: ktoré, ktorý, ktorá, ktorí, ktorú, ktorého, ktorej, ktorých, ktorom, aké</li>
       <li>PRON: čo, kto, čím, čom, koho, Čože, čomu, komu, ktože, čoho</li>
     </ul>
@@ -782,7 +775,7 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
+      <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme, so</li>
       <li>DET: môj, moja, moje, môjho, mojich, naše, náš, našej, mojej, moju</li>
       <li>PRON: mi, ma, ja, mňa, nás, mne, mnou, nám, my, nami</li>
       <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
@@ -804,10 +797,10 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
+      <li>AUX-Fin: je, sú, bude, budú, nebude, býva, nebudú, nebýva</li>
       <li>DET: jeho, jej, ich</li>
       <li>PRON: ho, mu, ju, jej, ich, nich, im, nej, ním, ona</li>
-      <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
+      <li>VERB-Fin: je, má, ide, môže, majú, musí, sú, znamená, pripraví, vytvorí</li>
     </ul>
   </li>
 </ul>
@@ -861,7 +854,9 @@ vol. 68, no. 2, pp. 385-395
     <ul>
       <li>Yes
         <ul>
-          <li>X: j, tzv, sv, SR, USA, EÚ, P, c, r, A</li>
+          <li>ADV: napr, resp, cca</li>
+          <li>PROPN: J, SR, USA, EÚ, P, A, N, V, B, C</li>
+          <li>X: tzv, sv, km, r, c, č, kr, PhDr, prof, Dr</li>
         </ul>
       </li>
     </ul>
@@ -891,6 +886,18 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
+  <li><a>ConjType</a>
+    <ul>
+      <li>Oper
+        <ul>
+          <li>SYM: +</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -907,6 +914,7 @@ vol. 68, no. 2, pp. 385-395
     <ul>
       <li>Yes
         <ul>
+          <li>ADV: mozno</li>
           <li>X: O, po, česko, San, rostovsko, v, KLIP, El, a, al</li>
         </ul>
       </li>
@@ -935,7 +943,7 @@ vol. 68, no. 2, pp. 385-395
           <li>ADJ-Part: napísane, pomenována, vládnúcej, vylučené, zachytený</li>
           <li>ADP: s, zo, AN, Po, ma, o, pomocu</li>
           <li>ADV: definitivne, jednostranné, natešne, neustála, niekdy, sebe, uz, vslatne</li>
-          <li>AUX-Fin: niesme</li>
+          <li>AUX-Fin: niesme, so</li>
           <li>CCONJ: sice</li>
           <li>DET: svojim, ktorý, Ake, akí, do, ktorí, niekolko, svojím, tuto</li>
           <li>NOUN: básni, kliniec, koalícia, Odhlásenia, Princezny, Východiska, girladnami, grímasu, hierarcha, hlainy</li>
@@ -957,11 +965,11 @@ vol. 68, no. 2, pp. 385-395
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: byť, sa, bývať, sto, mať, si, stať.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: byť, bývať.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: byť, by, sa, si, sto, so.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: byť, by.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: byť, bývať.</li>
 </ul>
 
@@ -973,9 +981,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (8)</li>
-      <li>VERB-Fin--NOUN-Nom (899)</li>
+      <li>VERB-Fin--NOUN-Nom (902)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (183)</li>
+      <li>VERB-Fin--PRON-Nom (184)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (58)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
@@ -994,14 +1002,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--NOUN-Acc (4)</li>
       <li>VERB-Conv--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Acc (828)</li>
+      <li>VERB-Fin--NOUN-Acc (829)</li>
       <li>VERB-Fin--NOUN-Dat (35)</li>
       <li>VERB-Fin--NOUN-Gen (25)</li>
       <li>VERB-Fin--NOUN-Ins (21)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (303)</li>
-      <li>VERB-Fin--PRON-Dat (97)</li>
+      <li>VERB-Fin--PRON-Dat (98)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
@@ -1064,7 +1072,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 711 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stať sa, spýtať sa, vrátiť sa, usmiať sa, volať sa, zjaviť sa, snažiť sa, zasmiať sa, báť sa, pomyslieť si, páčiť sa, sadnúť si, všimnúť si, zdať sa, dostať sa, rozhodnúť sa, narodiť sa, objaviť sa, dozvedieť sa, myslieť si, otočiť sa, spomenúť si, stretnúť sa, venovať sa, zmocniť sa, nachádzať sa, pokúšať sa, uvedomiť si, podariť sa, pýtať sa, dať sa, obrátiť sa, tváriť sa, ocitnúť sa, vypytovať sa, dívať sa, ozvať sa, skončiť sa, smiať sa, zaoberať sa, diať sa, správať sa, stávať sa, vzdať sa, začať sa, želať si, dotknúť sa, konať sa, odvážiť sa, ozývať sa</li>
+  <li>This corpus contains 710 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stať sa, spýtať sa, vrátiť sa, usmiať sa, volať sa, zjaviť sa, snažiť sa, zasmiať sa, báť sa, pomyslieť si, páčiť sa, sadnúť si, všimnúť si, zdať sa, dostať sa, rozhodnúť sa, narodiť sa, objaviť sa, dozvedieť sa, myslieť si, otočiť sa, spomenúť si, stretnúť sa, venovať sa, zmocniť sa, nachádzať sa, pokúšať sa, uvedomiť si, podariť sa, pýtať sa, dať sa, obrátiť sa, tváriť sa, ocitnúť sa, vypytovať sa, dívať sa, ozvať sa, skončiť sa, smiať sa, zaoberať sa, diať sa, správať sa, stávať sa, vzdať sa, začať sa, želať si, dotknúť sa, konať sa, odvážiť sa, ozývať sa</li>
 </ul>
 
 <h3>Reflexive Passive</h3>

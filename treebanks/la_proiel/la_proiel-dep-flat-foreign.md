@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-PROIEL: Relations: `flat:foreign`
 
-This relation is a language-specific subtype of <tt><a href="la_proiel-dep-flat.html">flat</a></tt>.
+This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>.
 
 64 nodes (0%) are attached to their parents as `flat:foreign`.

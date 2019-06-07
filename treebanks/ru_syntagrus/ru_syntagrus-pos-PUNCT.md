@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-SynTagRus: POS Tags: `PUNCT`
 
-There are 19 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 202063 `PUNCT` tokens (18%).
+There are 19 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 202069 `PUNCT` tokens (18%).
 Out of 17 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 15 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, :, ), (, ?, !, …</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="ru_syntagrus-pos
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.589298).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.589377).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -43,11 +43,11 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (202062; 100% instances), <tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (202068; 100% instances), <tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (103725; 51% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (51035; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (18198; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (12174; 6% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (7591; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3260; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2447; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1187; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (765; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (536; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (270; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (254; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (245; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (183; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (110; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (47; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (103549; 51% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (51694; 26% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (18291; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (10381; 5% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (7738; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3867; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (2494; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1231; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (819; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (424; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (405; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (392; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (273; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (256; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (112; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (107; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances)
 
-202045 (100%) `PUNCT` nodes are leaves.
+202051 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 

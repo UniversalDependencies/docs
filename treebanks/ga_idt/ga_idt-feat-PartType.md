@@ -9,28 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 10 different values: `Ad`, `Cmpl`, `Comp`, `Cop`, `Deg`, `Inf`, `Num`, `Pat`, `Vb`, `Voc`.
 
-1526 tokens (6%) have a non-empty value of `PartType`.
+1528 tokens (6%) have a non-empty value of `PartType`.
 51 types (1%) occur at least once with a non-empty value of `PartType`.
 32 lemmas (1%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1473; 6% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (40; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (1515; 6% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `PART`
 
-1473 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (96% of all `PART` tokens) have a non-empty value of `PartType`.
+1515 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (96% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (890; 60%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (931; 61%).
 
 `PART` tokens may have the following values of `PartType`:
 
 * `Ad` (100; 7% of non-empty `PartType`): <em>go, le</em>
 * `Cmpl` (179; 12% of non-empty `PartType`): <em>go, nach, nár, ná</em>
-* `Comp` (1; 0% of non-empty `PartType`): <em>ní</em>
+* `Comp` (41; 3% of non-empty `PartType`): <em>níos, ní</em>
 * `Cop` (1; 0% of non-empty `PartType`): <em>a</em>
 * `Deg` (3; 0% of non-empty `PartType`): <em>a</em>
-* `Inf` (292; 20% of non-empty `PartType`): <em>a, do, trasna, a'</em>
+* `Inf` (292; 19% of non-empty `PartType`): <em>a, do, trasna, a'</em>
 * `Num` (10; 1% of non-empty `PartType`): <em>a</em>
-* `Pat` (64; 4% of non-empty `PartType`): <em>Ó, de, Mac, Uí, Nic, Ní, O', Mc, Mhic, O</em>
-* `Vb` (802; 54% of non-empty `PartType`): <em>a, d', ní, gur, do, nach, níor, ar, an, ná</em>
+* `Pat` (65; 4% of non-empty `PartType`): <em>Ó, de, Mac, Uí, Ní, Nic, O', Mc, Mhic, O</em>
+* `Vb` (803; 53% of non-empty `PartType`): <em>a, d', ní, gur, do, nach, níor, ar, an, ná</em>
 * `Voc` (21; 1% of non-empty `PartType`): <em>a</em>
 
 <table>
@@ -40,21 +40,11 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
   <tr><td><tt><tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>a</em></td><td></td><td></td><td></td><td><em>a, n-a</em></td><td></td></tr>
 </table>
 
-### `NOUN`
-
-40 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `PartType`.
-
-The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 100%), <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (40; 100%).
-
-`NOUN` tokens may have the following values of `PartType`:
-
-* `Comp` (40; 100% of non-empty `PartType`): <em>níos</em>
-
 ### `X`
 
-6 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `PartType`.
+6 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `X` and `PartType` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Ulster</tt> (5; 83%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 83%).
+The most frequent other feature values with which `X` and `PartType` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt><tt>=Ulster</tt> (5; 83%).
 
 `X` tokens may have the following values of `PartType`:
 

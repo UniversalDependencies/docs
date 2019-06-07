@@ -81,7 +81,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (6; 6% of non-empty `Gender`): अनुगृहीता, असंभाव्यां, करणीया, जनिता, परिणीता, समुत्पन्ना
 * `Masc` (59; 60% of non-empty `Gender`): गतः, प्रस्थितः, अगतः, अधिरूढः, अनुज्ञातः, अनुमतः, अन्वितः, अपृष्टः, अप्रयुज्यमानः, अभीष्ट
 * `Neut` (33; 34% of non-empty `Gender`): उक्तं, आरब्धम्, अभिहितम्, उक्ते, अगम्यम्, अभिहितं, आलम्बितम्, कर्तव्यम्, कार्यम्, कृतम्
-* `EMPTY` (217): अब्रवीत्, आह, भवति, गत्वा, करिष्यामि, श्रुत्वा, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
+* `EMPTY` (216): अब्रवीत्, आह, भवति, गत्वा, करिष्यामि, श्रुत्वा, उच्यते, करोमि, प्रोवाच, अनुष्ठीयताम्
 
 <table>
   <tr><th>Paradigm <i>कृ</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -183,14 +183,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `AUX`
 
-1 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): सत्त्वम्
-* `EMPTY` (14): अस्ति, अस्तु, अस्मि, भवति, स्यात्
+* `EMPTY` (15): अस्ति, अस्तु, अस्मि, भवति, स्यात्
 
 ### `PART`
 

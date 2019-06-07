@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	بااعتماد	بااعتماد	ADJ	JJ	Case=Nom	5	amod	_	ChunkId=NP2|ChunkType=child
 5	قائد	قائد	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 6	ہےں	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
-7	۔	۔	PUNCT	SYM	_	6	punct	_	ChunkId=VGF|ChunkType=child
+7	۔	۔	PUNCT	SYM	_	5	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 
@@ -47,11 +47,11 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	مقدمہ	مقدمہ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 7	بنگلور	بنگلور	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	کی	کا	ADP	PSP	AdpType=Post|Case=Nom|Gender=Fem|Number=Sing	7	case	_	ChunkId=NP3|ChunkType=child
-9	عدالت	عدالت	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	advmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
+9	عدالت	عدالت	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 10	مےں	مےں	ADP	PSP	_	9	case	_	ChunkId=NP4|ChunkType=child
 11	جاری	جاری	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head
 12	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
-13	۔	۔	PUNCT	SYM	_	12	punct	_	ChunkId=VGF|ChunkType=child
+13	۔	۔	PUNCT	SYM	_	11	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
 7	جو	جو	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	اپنے	اپنا	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
-9	نفس	نفس	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	advmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
+9	نفس	نفس	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 10	پر	پر	ADP	PSP	AdpType=Post	9	case	_	ChunkId=NP5|ChunkType=child
 11	کنٹرول	کنٹرول	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	Vib=0|Tam=0|ChunkId=NP6|ChunkType=head
 12	و	و	CCONJ	CC	_	13	cc	_	ChunkId=CCP|ChunkType=head

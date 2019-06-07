@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SSJ: POS Tags: `DET`
 
-There are 65 `DET` lemmas (0%), 321 `DET` types (1%) and 5252 `DET` tokens (4%).
+There are 66 `DET` lemmas (0%), 322 `DET` types (1%) and 5254 `DET` tokens (4%).
 Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ta, ves, svoj, kateri, njegov, nekaj, več, naš, njen, vsak</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>tem</em> (<tt><a href="sl_ssj-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.938462 (the average of all parts of speech is 1.892155).
+The form / lemma ratio of `DET` is 4.878788 (the average of all parts of speech is 1.892155).
 
 The 1st highest number of forms (12) was observed with the lemma “svoj”: <em>svoj, svoja, svoje, svojega, svojem, svojemu, svoji, svojih, svojim, svojimi, svojmu, svojo</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (12) was observed with the lemma “tisti”: <e
 
 The 3rd highest number of forms (11) was observed with the lemma “kakšen”: <em>kakšen, kakšenmu, kakšna, kakšne, kakšnega, kakšnem, kakšni, kakšnih, kakšnim, kakšnimi, kakšno</em>.
 
-`DET` occurs with 9 features: <tt><a href="sl_ssj-feat-PronType.html">PronType</a></tt> (5252; 100% instances), <tt><a href="sl_ssj-feat-Case.html">Case</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Poss.html">Poss</a></tt> (1306; 25% instances), <tt><a href="sl_ssj-feat-Number-psor.html">Number[psor]</a></tt> (827; 16% instances), <tt><a href="sl_ssj-feat-Person.html">Person</a></tt> (826; 16% instances), <tt><a href="sl_ssj-feat-Reflex.html">Reflex</a></tt> (480; 9% instances), <tt><a href="sl_ssj-feat-Gender-psor.html">Gender[psor]</a></tt> (387; 7% instances)
+`DET` occurs with 10 features: <tt><a href="sl_ssj-feat-PronType.html">PronType</a></tt> (5252; 100% instances), <tt><a href="sl_ssj-feat-Case.html">Case</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt> (4470; 85% instances), <tt><a href="sl_ssj-feat-Poss.html">Poss</a></tt> (1306; 25% instances), <tt><a href="sl_ssj-feat-Number-psor.html">Number[psor]</a></tt> (827; 16% instances), <tt><a href="sl_ssj-feat-Person.html">Person</a></tt> (826; 16% instances), <tt><a href="sl_ssj-feat-Reflex.html">Reflex</a></tt> (480; 9% instances), <tt><a href="sl_ssj-feat-Gender-psor.html">Gender[psor]</a></tt> (387; 7% instances), <tt><a href="sl_ssj-feat-Degree.html">Degree</a></tt> (2; 0% instances)
 
-`DET` occurs with 30 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc`, `Gender[psor]=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Dual`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
+`DET` occurs with 31 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc`, `Gender[psor]=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Dual`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`DET` occurs with 417 feature combinations.
+`DET` occurs with 418 feature combinations.
 The most frequent feature combination is `PronType=Ind` (730 tokens).
 Examples: <em>nekaj, več, veliko, manj, dovolj, malo, pol, preveč, največ, nekatere</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 16 different relations: <tt><a href="sl_ssj-dep-det.html">det</a></tt> (3311; 63% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (616; 12% instances), <tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt> (504; 10% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (345; 7% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (198; 4% instances), <tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt> (162; 3% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (39; 1% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="sl_ssj-dep-iobj.html">iobj</a></tt> (11; 0% instances), <tt><a href="sl_ssj-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="sl_ssj-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 16 different relations: <tt><a href="sl_ssj-dep-det.html">det</a></tt> (3311; 63% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (616; 12% instances), <tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt> (504; 10% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (347; 7% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (198; 4% instances), <tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt> (162; 3% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (39; 1% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="sl_ssj-dep-iobj.html">iobj</a></tt> (11; 0% instances), <tt><a href="sl_ssj-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="sl_ssj-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3562; 68% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1212; 23% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (269; 5% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (31; 1% instances),  (31; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (28; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3564; 68% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1212; 23% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (269; 5% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (54; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (31; 1% instances),  (31; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (28; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances)
 
-4186 (80%) `DET` nodes are leaves.
+4188 (80%) `DET` nodes are leaves.
 
 848 (16%) `DET` nodes have one child.
 

@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `advmod:df`: <tt><a 
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No
 2	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
 3	中	中	VERB	_	_	2	compound:vv	_	SpaceAfter=No
-4	呢	呢	PART	_	_	6	det	_	SpaceAfter=No
+4	呢	呢	DET	_	_	6	det	_	SpaceAfter=No
 5	個	個	NOUN	_	NounType=Clf	4	clf	_	SpaceAfter=No
 6	老世	老世	NOUN	_	_	7	nsubj	_	SpaceAfter=No
 7	做	做	VERB	_	_	2	ccomp	_	SpaceAfter=No

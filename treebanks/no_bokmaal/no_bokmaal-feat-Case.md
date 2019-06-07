@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (3; 0% of non-empty `Case`): <em>alles, ens</em>
 * `Gen,Nom` (2; 0% of non-empty `Case`): <em>ens</em>
 * `Nom` (9529; 77% of non-empty `Case`): <em>jeg, han, vi, de, hun, du, man, dere, Eg, mann</em>
-* `EMPTY` (13569): <em>det, som, dette, sin, den, hva, noe, sine, hans, sitt</em>
+* `EMPTY` (13576): <em>det, som, dette, sin, den, hva, noe, sine, hans, sitt</em>
 
 <table>
   <tr><th>Paradigm <i>jeg</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

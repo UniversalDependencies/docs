@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 parataxis	color:blue
-1	χαῖῤ	χαίρω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+1	χαῖῤ	χαίρω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	5	punct	_	_
 3	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
 4	διαπόντιον	διαπόντιος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	nmod	_	_

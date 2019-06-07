@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (598; 100% of non-empty `Poss`): <em>mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</em>
-* `EMPTY` (13844): <em>il, la, i, l', un, le, una, gli, lo, che</em>
+* `EMPTY` (13840): <em>il, la, i, l', un, le, una, gli, lo, che</em>
 
 ### `PRON`
 

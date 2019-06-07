@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1565 nodes (1%) are attached to their parents as `ccomp`.
+1328 nodes (1%) are attached to their parents as `ccomp`.
 
-1219 instances of `ccomp` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.77507987220447.
+1237 instances of `ccomp` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.69578313253012.
 
-The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1192; 76% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (142; 9% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (142; 9% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-X.html">X</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (997; 75% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (125; 9% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (125; 9% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (22; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,22 +58,20 @@ The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 3 ccomp	color:blue
-1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	situação	situação	NOUN	_	Gender=Fem|Number=Sing	7	ccomp	_	_
-4	absurda	absurdo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
-5	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	3	punct	_	_
-7	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	Taylor	Taylor	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	49	49	NUM	_	NumType=Card	8	appos	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 ccomp	color:blue
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	deputado	deputado	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	não	não	ADV	_	Polarity=Neg	7	advmod	_	_
+5	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
+6	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	homem	homem	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	_
+8	rico	rico	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

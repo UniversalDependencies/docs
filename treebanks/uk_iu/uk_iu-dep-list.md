@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `list`.
+18 nodes (0%) are attached to their parents as `list`.
 
-15 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.26666666666667.
+18 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 6 pairs of parts of speech are connected with `list`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (4; 27% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (3; 20% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (3; 20% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 13% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 7% instances).
+The following 7 pairs of parts of speech are connected with `list`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 22% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (3; 17% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 11% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -58,39 +58,21 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 27 list	color:blue
-1	У	у	ADP	Spsl	Case=Loc	2	case	2:case	Id=38x4|LTranslit=u|Translit=U
-2	місті	місто	NOUN	Ncnsln	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	7:obl	Id=38x5|LTranslit=misto|Translit=misti
-3	Київ	Київ	PROPN	Npmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	flat:title	2:flat:title	Id=38x6|LTranslit=Kyjiv|Translit=Kyjiv
-4	з	з	ADP	Spsg	Case=Gen	6	case	6:case	Id=38x7|LTranslit=z|Translit=z
-5	2009	2009	ADJ	Mlomsg	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord|Uninflect=Yes	6	amod	6:amod	Id=38x8|LTranslit=2009|Translit=2009
-6	року	рік	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	7:obl	Id=38x9|LTranslit=rik|Translit=roku
-7	працює	працювати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=38xa|LTranslit=praćuvaty|Translit=praćuě
-8	дельфінарій	дельфінарій	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	Id=38xb|LTranslit=deľfinarij|Translit=deľfinarij
-9	"	"	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=38xc|LTranslit="|SpaceAfter=No|Translit="
-10	НЕМО	Немо	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Uninflect=Yes	8	flat:title	8:flat:title	Id=38xd|LTranslit=Nemo|SpaceAfter=No|Translit=NEMO
-11	"	"	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=38xe|LTranslit="|Translit="
-12	ТОВ	ТОВ	NOUN	Y	Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|Uninflect=Yes	8	nmod	8:nmod	Id=38xf|LTranslit=TOV|Translit=TOV
-13	"	"	PUNCT	U	PunctType=Quot	14	punct	14:punct	Id=38xg|LTranslit="|Translit="
-14	Нерум	Нерум	PROPN	Npmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	flat:title	12:flat:title	Id=38xh|LTranslit=Nerum|Translit=Nerum
-15	"	"	PUNCT	U	PunctType=Quot	14	punct	14:punct	Id=38xi|LTranslit="|SpaceAfter=No|Translit="
-16	,	,	PUNCT	U	_	17	punct	17:punct	Id=38xj|LTranslit=,|Translit=,
-17	розташований	розташований	ADJ	Ap-msnf-ep	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	amod	8:amod	Id=38xk|LTranslit=roztašovanyj|Translit=roztašovanyj
-18	у	у	ADP	Spsl	Case=Loc	20	case	20:case	Id=38xl|LTranslit=u|Translit=u
-19	Голосіївському	голосіївський	ADJ	Ao-mslf	Case=Loc|Gender=Masc|Number=Sing	20	amod	20:amod	Id=38xm|LTranslit=holosijivśkyj|Translit=Holosijivśkomu
-20	районі	район	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	17:obl	Id=38xn|LTranslit=rajon|Translit=rajoni
-21	за	за	ADP	Spsi	Case=Ins	22	case	22:case	Id=38xo|LTranslit=za|Translit=za
-22	адресою	адреса	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	17:obl	Id=38xp|LTranslit=adresa|Translit=adresoju
-23	проспект	проспект	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	flat:title	22:flat:title	Id=38xq|LTranslit=prospekt|Translit=prospekt
-24	Академіка	академік	NOUN	Ncmsgy	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	23	nmod	23:nmod	Id=38xr|LTranslit=akademik|Translit=Akademika
-25	Глушкова	Глушков	PROPN	Npmsgy	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	24	flat:title	24:flat:title	Id=38xs|LTranslit=Hluškov|SpaceAfter=No|Translit=Hluškova
-26	,	,	PUNCT	U	_	27	punct	27:punct	Id=38xt|LTranslit=,|Translit=,
-27	9	9	NUM	Mlc-n	Case=Nom|NumType=Card|Uninflect=Yes	23	list	23:list	Id=38xu|LTranslit=9|SpaceAfter=No|Translit=9
-28	.	.	PUNCT	U	_	7	punct	7:punct	Id=38xv|LTranslit=.|Translit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 list	color:blue
+1	“	“	PUNCT	U	PunctType=Quot	2	punct	2:punct	Id=1n1n|LTranslit=“|SpaceAfter=No|Translit=“
+2	ПриватБанк	ПриватБанк	PROPN	Npmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Id=1n1o|LTranslit=PryvatBank|SpaceAfter=No|Translit=PryvatBank
+3	”	”	PUNCT	U	PunctType=Quot	2	punct	2:punct	Id=1n1p|LTranslit=”|Translit=”
+4	на	на	ADP	Spsl	Case=Loc	5	case	5:case	Id=1n1q|LTranslit=na|Translit=na
+5	вул	вул.	NOUN	Y	Abbr=Yes|Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing|Uninflect=Yes	2	acl:adv	2:acl:adv	Id=1n1r|LTranslit=vul.|SpaceAfter=No|Translit=vul
+6	.	.	PUNCT	U	_	5	punct	5:punct	Id=1n1s|LTranslit=.|SpaceAfter=No|Translit=.
+7	Чупринки	Чупринка	PROPN	Npmsgy	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	5	nmod	5:nmod	Id=1n1t|LTranslit=Čuprynka|SpaceAfter=No|Translit=Čuprynky
+8	,	,	PUNCT	U	_	9	punct	9:punct	Id=1n1u|LTranslit=,|Translit=,
+9	71	71	NUM	Mlcmsn	Case=Nom|Gender=Masc|NumType=Card|Uninflect=Yes	5	list	5:list	Id=1n1v|LTranslit=71|Promoted=Yes|SpaceAfter=No|Translit=71
+10	.	.	PUNCT	U	_	2	punct	2:punct	Id=1n1w|LTranslit=.|Translit=.
 
 ~~~
 

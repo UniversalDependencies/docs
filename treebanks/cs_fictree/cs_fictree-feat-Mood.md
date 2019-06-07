@@ -12,19 +12,19 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 12757 tokens (8%) have a non-empty value of `Mood`.
 3113 types (11%) occur at least once with a non-empty value of `Mood`.
 1520 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (7356; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5401; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (7309; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5448; 3% instances).
 
 ### `VERB`
 
-7356 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Mood`.
+7309 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7356; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7356; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7356; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6868; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6768; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6230; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5779; 79%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (4146; 56%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7309; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7309; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7309; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6822; 93%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6722; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6184; 85%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5733; 78%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (4146; 57%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (11; 0% of non-empty `Mood`): <em>by, bych, bys</em>
-* `Imp` (477; 6% of non-empty `Mood`): <em>řekni, dej, nech, pojď, podívej, počkej, neboj, vezmi, vrať, vzpomeňte</em>
-* `Ind` (6868; 93% of non-empty `Mood`): <em>je, má, mám, může, nevím, jsi, musí, není, mají, musím</em>
+* `Cnd` (10; 0% of non-empty `Mood`): <em>by, bych, bys</em>
+* `Imp` (477; 7% of non-empty `Mood`): <em>řekni, dej, nech, pojď, podívej, počkej, neboj, vezmi, vrať, vzpomeňte</em>
+* `Ind` (6822; 93% of non-empty `Mood`): <em>je, má, mám, může, nevím, musí, není, mají, musím, vím</em>
 * `EMPTY` (17640): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
 
 <table>
@@ -49,15 +49,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-5401 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
+5448 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5401; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5401; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4130; 76%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3953; 73%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3889; 72%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3823; 71%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (3023; 56%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5448; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5448; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4176; 77%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3999; 73%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3935; 72%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3869; 71%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (3023; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (1265; 23% of non-empty `Mood`): <em>by, bych, byste, bys, bychom, bysme</em>
+* `Cnd` (1266; 23% of non-empty `Mood`): <em>by, bych, byste, bys, bychom, bysme</em>
 * `Imp` (6; 0% of non-empty `Mood`): <em>buď, buďte, Buďme, Nebuď</em>
-* `Ind` (4130; 76% of non-empty `Mood`): <em>jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</em>
+* `Ind` (4176; 77% of non-empty `Mood`): <em>jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</em>
 * `EMPTY` (1117): <em>byl, byla, bylo, být, byly, byli, nebyl, nebylo, nebyla, býval</em>
 
 <table>

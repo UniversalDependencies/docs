@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2744 nodes (1%) are attached to their parents as `cop`.
+2726 nodes (1%) are attached to their parents as `cop`.
 
-2659 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84037900874636.
+2641 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85289801907557.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1139; 42% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1055; 38% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (178; 6% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (135; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (86; 3% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1141; 42% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1034; 38% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (177; 6% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (137; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (87; 3% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (59; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (55; 2% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -42,7 +42,7 @@ Examples: <em>.</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pl_lfg-dep-punct.html">punct</a></tt> (25820; 100% instances)
 
-Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="pl_lfg-pos-VERB.html">VERB</a></tt> (23203; 90% instances), <tt><a href="pl_lfg-pos-ADJ.html">ADJ</a></tt> (1185; 5% instances), <tt><a href="pl_lfg-pos-NOUN.html">NOUN</a></tt> (945; 4% instances), <tt><a href="pl_lfg-pos-PROPN.html">PROPN</a></tt> (179; 1% instances), <tt><a href="pl_lfg-pos-ADV.html">ADV</a></tt> (127; 0% instances), <tt><a href="pl_lfg-pos-PRON.html">PRON</a></tt> (87; 0% instances), <tt><a href="pl_lfg-pos-DET.html">DET</a></tt> (85; 0% instances), <tt><a href="pl_lfg-pos-NUM.html">NUM</a></tt> (9; 0% instances)
+Parents of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="pl_lfg-pos-VERB.html">VERB</a></tt> (23184; 90% instances), <tt><a href="pl_lfg-pos-ADJ.html">ADJ</a></tt> (1202; 5% instances), <tt><a href="pl_lfg-pos-NOUN.html">NOUN</a></tt> (945; 4% instances), <tt><a href="pl_lfg-pos-PROPN.html">PROPN</a></tt> (179; 1% instances), <tt><a href="pl_lfg-pos-ADV.html">ADV</a></tt> (129; 0% instances), <tt><a href="pl_lfg-pos-PRON.html">PRON</a></tt> (87; 0% instances), <tt><a href="pl_lfg-pos-DET.html">DET</a></tt> (85; 0% instances), <tt><a href="pl_lfg-pos-NUM.html">NUM</a></tt> (9; 0% instances)
 
 25820 (100%) `PUNCT` nodes are leaves.
 

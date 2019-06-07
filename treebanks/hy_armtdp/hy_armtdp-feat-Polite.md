@@ -9,31 +9,31 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Form`, `Infm`.
 
-19 tokens (0%) have a non-empty value of `Polite`.
-11 types (0%) occur at least once with a non-empty value of `Polite`.
-3 lemmas (0%) occur at least once with a non-empty value of `Polite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (8; 0% instances).
+76 tokens (0%) have a non-empty value of `Polite`.
+17 types (0%) occur at least once with a non-empty value of `Polite`.
+4 lemmas (0%) occur at least once with a non-empty value of `Polite`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (28; 0% instances).
 
 ### `PRON`
 
-11 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Polite`.
+48 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (11; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 91%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 55%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (48; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (47; 98%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 79%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (26; 54%).
 
 `PRON` tokens may have the following values of `Polite`:
 
-* `Form` (5; 45% of non-empty `Polite`): <em>Ձեզ, Դուք, Ձեր</em>
-* `Infm` (6; 55% of non-empty `Polite`): <em>դու, ձեզ</em>
-* `EMPTY` (815): <em>մենք, նա, նրանք, ինչ, այն, դա, որը, նրան, նրանց, մեզ</em>
+* `Form` (5; 10% of non-empty `Polite`): <em>Ձեզ, Դուք, Ձեր</em>
+* `Infm` (43; 90% of non-empty `Polite`): <em>դու, քեզ, ձեզ, դուք, Քոնը, քոնից, քոնոնք</em>
+* `EMPTY` (1334): <em>նա, մենք, ես, դա, ինչ, այն, նրանք, ինձ, որը, նրան</em>
 
 ### `DET`
 
-8 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Polite`.
+28 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (8; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (7; 88%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (7; 88%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 75%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (28; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (28; 100%), <tt><a href="hy_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (27; 96%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (27; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 75%).
 
 `DET` tokens may have the following values of `Polite`:
 
-* `Infm` (8; 100% of non-empty `Polite`): <em>քո, Ձեզնից, ձեր, քու</em>
-* `EMPTY` (925): <em>այդ, մի, իր, մեր, այս, այն, նրա, ինչ, այլ, նրանց</em>
+* `Infm` (28; 100% of non-empty `Polite`): <em>քո, ձեր, Ձեզնից, քու</em>
+* `EMPTY` (1417): <em>այդ, մի, մեր, իր, այս, նրա, այն, ամեն, ինչ, իրենց</em>
 

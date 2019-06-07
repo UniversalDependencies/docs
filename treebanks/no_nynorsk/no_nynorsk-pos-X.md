@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.346565).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.346618).
 
 The 1st highest number of forms (1) was observed with the lemma “-e-”: <em>-e-</em>.
 
@@ -86,17 +86,17 @@ The 3rd highest number of forms (1) was observed with the lemma “09.00”: <em
 
 Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (792; 67% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (245; 21% instances),  (73; 6% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (36; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (33; 3% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances)
 
-1052 (89%) `X` nodes are leaves.
+1006 (85%) `X` nodes are leaves.
 
-18 (2%) `X` nodes have one child.
+63 (5%) `X` nodes have one child.
 
-10 (1%) `X` nodes have two children.
+11 (1%) `X` nodes have two children.
 
 105 (9%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 42.
+The highest child degree of a `X` node is 40.
 
-Children of `X` nodes are attached using 17 different relations: <tt><a href="no_nynorsk-dep-flat-foreign.html">flat:foreign</a></tt> (793; 67% instances), <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (303; 26% instances), <tt><a href="no_nynorsk-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="no_nynorsk-dep-mark.html">mark</a></tt> (15; 1% instances), <tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt> (14; 1% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 17 different relations: <tt><a href="no_nynorsk-dep-flat-foreign.html">flat:foreign</a></tt> (793; 67% instances), <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (308; 26% instances), <tt><a href="no_nynorsk-dep-case.html">case</a></tt> (19; 2% instances), <tt><a href="no_nynorsk-dep-mark.html">mark</a></tt> (15; 1% instances), <tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt> (14; 1% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 14 different parts of speech: <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (792; 67% instances), <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (303; 26% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 14 different parts of speech: <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (792; 67% instances), <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (308; 26% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (20; 2% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

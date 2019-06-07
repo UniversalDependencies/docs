@@ -13,9 +13,9 @@ The 10 most frequent `PART` lemmas: <em>to, 's, not, ’s, ', n’t, up</em>
 
 The 10 most frequent `PART` types:  <em>to, 's, not, n't, ’s, ', n’t, up</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 264, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 213, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 55, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 264, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 213, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 55, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 261, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 212, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 81, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 14, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 39, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>n't</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 261, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 212, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 81, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 16, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 3), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 39, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>n't</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>to</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART
   * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>In the Netherlands , authorities have taken a lower - tech approach <b>to</b> tracking drones .</em>
 * <em>'s</em>
   * <tt><a href="en_pud-pos-PART.html">PART</a></tt> 81: <em>It 's most obvious when a celebrity <b>'s</b> name is initially quite rare .</em>
-  * <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 14: <em>It <b>'s</b> most obvious when a celebrity 's name is initially quite rare .</em>
-  * <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5: <em>That <b>'s</b> not what we need in our country , folks .</em>
+  * <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 16: <em>It <b>'s</b> most obvious when a celebrity 's name is initially quite rare .</em>
+  * <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 3: <em>That <b>'s</b> not what we need in our country , folks .</em>
 * <em>not</em>
   * <tt><a href="en_pud-pos-PART.html">PART</a></tt> 39: <em>That 's <b>not</b> what we need in our country , folks .</em>
   * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15: <em>Each map in the exhibition tells its own story , <b>not</b> all factual .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.142857 (the average of all parts of speech is 1.136613).
+The form / lemma ratio of `PART` is 1.142857 (the average of all parts of speech is 1.138338).
 
 The 1st highest number of forms (2) was observed with the lemma “not”: <em>n't, not</em>.
 
@@ -71,9 +71,9 @@ Examples: <em>to, 's, ’s, ', not, up</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (260; 61% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (104; 24% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (57; 13% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="en_pud-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (261; 61% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (104; 24% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (57; 13% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="en_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (292; 69% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (68; 16% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (47; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (293; 69% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (68; 16% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (47; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 426 (100%) `PART` nodes are leaves.
 

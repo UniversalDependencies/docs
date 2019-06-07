@@ -2,6 +2,7 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
 
 The `discourse` label is used to connect interjections and other discourse particles to a clause.

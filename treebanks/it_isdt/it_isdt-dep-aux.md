@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="it_isdt-dep-aux-pa
 6036 nodes (2%) are attached to their parents as `aux`.
 
 6025 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38303512259775.
+Average distance between parent and child is 1.38270377733598.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (5778; 96% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (96; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (5777; 96% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (124; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (96; 2% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

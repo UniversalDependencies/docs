@@ -44,7 +44,7 @@ The following 41 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6 10 acl:relcl	color:blue
 1	И	и	CCONJ	_	_	6	cc	6:cc	_
 2	уж	уж	PART	_	_	6	advmod	6:advmod	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	4:punct	_
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	конечно	конечно	ADV	_	Degree=Pos	6	parataxis	6:parataxis	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	тем	тот	DET	_	Case=Dat|Number=Plur	0	root	0:root	SpaceAfter=No

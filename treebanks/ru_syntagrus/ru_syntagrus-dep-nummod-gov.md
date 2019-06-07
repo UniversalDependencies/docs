@@ -27,7 +27,7 @@ The following 20 pairs of parts of speech are connected with `nummod:gov`: <tt><
 2	уход	уход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	10:nsubj	_
 3	под	под	ADP	_	_	4	case	4:case	_
 4	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	7:punct	_
+5	,	,	PUNCT	_	_	2	punct	2:punct	_
 6	как	как	SCONJ	_	_	7	mark	7:mark	_
 7	полагал	полагать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	10:parataxis	_
 8	Жиров	Жиров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No

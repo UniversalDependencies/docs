@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `dep`.
+9 nodes (0%) are attached to their parents as `dep`.
 
-7 instances of `dep` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+6 instances of `dep` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22222222222222.
 
-The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 20% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 20% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 10% instances).
+The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (2; 22% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 22% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

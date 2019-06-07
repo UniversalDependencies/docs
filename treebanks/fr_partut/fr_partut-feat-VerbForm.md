@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-3584 tokens (13%) have a non-empty value of `VerbForm`.
-1356 types (33%) occur at least once with a non-empty value of `VerbForm`.
-645 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2487; 9% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1097; 4% instances).
+3582 tokens (13%) have a non-empty value of `VerbForm`.
+1354 types (33%) occur at least once with a non-empty value of `VerbForm`.
+642 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2474; 9% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1108; 4% instances).
 
 ### `VERB`
 
-2487 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2474 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1746; 70%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1593; 64%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1590; 64%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1731; 70%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1588; 64%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1585; 64%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (897; 36% of non-empty `VerbForm`): <em>a, est, convient, fait, ont, concerne, pense, font, faut, agit</em>
-* `Ger` (63; 3% of non-empty `VerbForm`): <em>Considérant, concernant, établissant, attendant, faisant, sachant, tenant, utilisant, affirmant, agissant</em>
-* `Inf` (691; 28% of non-empty `VerbForm`): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
-* `Part` (836; 34% of non-empty `VerbForm`): <em>dite, fait, tenu, concernant, compris, donné, soumis, mis, visant, dit</em>
+* `Fin` (889; 36% of non-empty `VerbForm`): <em>a, est, convient, ont, fait, concerne, pense, font, faut, agit</em>
+* `Ger` (62; 3% of non-empty `VerbForm`): <em>Considérant, concernant, établissant, attendant, sachant, tenant, utilisant, affirmant, agissant, aidant</em>
+* `Inf` (685; 28% of non-empty `VerbForm`): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
+* `Part` (838; 34% of non-empty `VerbForm`): <em>dite, fait, tenu, concernant, compris, donné, mis, soumis, dit, visant</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -49,16 +49,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-1097 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1108 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (853; 78%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (776; 71%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (766; 70%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (672; 61%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (854; 77%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (777; 70%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (767; 69%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (673; 61%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (927; 85% of non-empty `VerbForm`): <em>est, a, sont, ont, peut, voudrais, doit, devrait, sera, peuvent</em>
-* `Ger` (12; 1% of non-empty `VerbForm`): <em>étant, ayant</em>
-* `Inf` (83; 8% of non-empty `VerbForm`): <em>être, avoir, pouvoir, aller</em>
-* `Part` (75; 7% of non-empty `VerbForm`): <em>été, pu, ayant, dû, étant</em>
+* `Fin` (929; 84% of non-empty `VerbForm`): <em>est, a, sont, ont, peut, voudrais, doit, devrait, sera, peuvent</em>
+* `Ger` (13; 1% of non-empty `VerbForm`): <em>étant, ayant, faisant</em>
+* `Inf` (90; 8% of non-empty `VerbForm`): <em>être, faire, avoir, pouvoir, aller</em>
+* `Part` (76; 7% of non-empty `VerbForm`): <em>été, pu, ayant, dû, fait, étant</em>
 * `EMPTY` (2): <em>soit, va</em>
 
 <table>
@@ -88,8 +88,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> VERB</tt> (199; 81%),
-<tt>VERB --[<tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt>]--> VERB</tt> (7; 54%),
-<tt>VERB --[<tt><a href="fr_partut-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt>]--> AUX</tt> (7; 54%),
 <tt>VERB --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="fr_partut-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

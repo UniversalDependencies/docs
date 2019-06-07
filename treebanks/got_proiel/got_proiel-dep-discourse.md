@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1158 nodes (2%) are attached to their parents as `discourse`.
+1159 nodes (2%) are attached to their parents as `discourse`.
 
-808 instances of `discourse` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.05181347150259.
+832 instances of `discourse` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.05090595340811.
 
-The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1093; 94% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (20; 2% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `discourse`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (944; 81% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (70; 6% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (67; 6% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (25; 2% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (23; 2% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,16 +31,15 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 discourse	color:blue
-1	sumai	sums	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=MARK_8.28
-2	h	-uh	ADV	Df	_	1	advmod	_	ref=MARK_8.28
-3	þan	þan	ADV	Df	_	1	discourse	_	ref=MARK_8.28
-4	ainana	ains	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	ref=MARK_8.28
-5	praufete	praufetes	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=MARK_8.28
+# visual-style 3 2 discourse	color:blue
+1	was	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MARK_5.42|LId=1
+2	auk	auk	ADV	Df	_	3	discourse	_	ref=MARK_5.42
+3	jere	jer	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	0	root	_	ref=MARK_5.42
+4	twalibe	twalif	NUM	Ma	Case=Gen|Number=Plur	3	nummod	_	ref=MARK_5.42
 
 ~~~
 
@@ -48,15 +47,19 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	unte	unte	ADV	Df	_	4	discourse	_	ref=ROM_8.7
-2	fraþi	fraþi	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=ROM_8.7
-3	leikis	leik	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	ref=ROM_8.7
-4	fijands	fijands	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=ROM_8.7
-5	du	du	ADP	R-	_	6	case	_	ref=ROM_8.7
-6	guda	guþ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	ref=ROM_8.7
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	unte	unte	ADV	Df	_	2	discourse	_	ref=MATT_6.13
+2	þeina	þeins	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	0	root	_	ref=MATT_6.13
+3	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=MATT_6.13|LId=1
+4	þiudangardi	þiudangardi	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT_6.13
+5	jah	jah	CCONJ	C-	_	4	cc	_	ref=MATT_6.13
+6	mahts	mahts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	ref=MATT_6.13
+7	jah	jah	CCONJ	C-	_	4	cc	_	ref=MATT_6.13
+8	wulþus	wulþus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=MATT_6.13
+9	in	in	ADP	R-	_	10	case	_	ref=MATT_6.13
+10	aiwins	aiws	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	ref=MATT_6.13
 
 ~~~
 

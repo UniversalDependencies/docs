@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2857 nodes (1%) are attached to their parents as `nummod`.
+2744 nodes (1%) are attached to their parents as `nummod`.
 
-2490 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13160658032902.
+2258 instances of `nummod` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26895043731778.
 
-The following 13 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2291; 80% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (312; 11% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (133; 5% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (54; 2% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (43; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (2122; 77% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (414; 15% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (133; 5% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (41; 1% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	ter	ter	VERB	_	VerbForm=Inf	0	root	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	30	30	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
-7	%	%	SYM	_	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+7	%	%	SYM	_	_	4	obl	_	SpaceAfter=No
 8	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 

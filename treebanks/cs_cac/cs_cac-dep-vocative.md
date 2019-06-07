@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2 4 vocative	color:blue
 1	Je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
 2	krásná	krásný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
+3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	děvenko	děvenka	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	2	vocative	2:vocative|8:vocative	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	máma	máma	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_

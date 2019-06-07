@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="ru_syntagru
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.031250 (the average of all parts of speech is 2.589298).
+The form / lemma ratio of `SCONJ` is 1.031250 (the average of all parts of speech is 2.589377).
 
 The 1st highest number of forms (2) was observed with the lemma “коли”: <em>коли, коль</em>.
 
@@ -79,17 +79,17 @@ Examples: <em>что, как, если, когда, то, чем, хотя, по
 
 Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (12936; 63% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (3294; 16% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1890; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1598; 8% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (261; 1% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (180; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (114; 1% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (96; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (59; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances)
 
-19929 (97%) `SCONJ` nodes are leaves.
+19740 (96%) `SCONJ` nodes are leaves.
 
-552 (3%) `SCONJ` nodes have one child.
+742 (4%) `SCONJ` nodes have one child.
 
-25 (0%) `SCONJ` nodes have two children.
+33 (0%) `SCONJ` nodes have two children.
 
-19 (0%) `SCONJ` nodes have three or more children.
+10 (0%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 5.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt> (337; 50% instances), <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (245; 36% instances), <tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt> (78; 11% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-dep-mark.html">mark</a></tt> (5; 1% instances), <tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-dep-orphan.html">orphan</a></tt> (2; 0% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (424; 49% instances), <tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt> (337; 39% instances), <tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt> (78; 9% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-dep-mark.html">mark</a></tt> (5; 1% instances), <tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-dep-orphan.html">orphan</a></tt> (2; 0% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (245; 36% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (201; 30% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (184; 27% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (424; 49% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (201; 23% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (184; 21% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (1; 0% instances)
 

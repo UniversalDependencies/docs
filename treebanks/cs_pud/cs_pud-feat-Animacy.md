@@ -97,7 +97,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (109; 58% of non-empty `Animacy`): <em>mohli, měli, rozhodli, bavili, dostali, neměli, potřebovali, požádali, stáli, tvořili</em>
 * `Inan` (79; 42% of non-empty `Animacy`): <em>měly, vypadaly, začaly, mohly, používaly, umožnily, vedly, vyvíjely, Následovaly, Podávaly</em>
-* `EMPTY` (1567): <em>řekl, má, je, může, říká, mohou, mají, mohl, měl, stal</em>
+* `EMPTY` (1564): <em>řekl, má, je, může, říká, mohou, mají, mohl, měl, stal</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -108,15 +108,15 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 ### `DET`
 
-86 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
+86 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (86; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (84; 98%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (74; 86%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (69; 80%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (53; 62%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 57%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (86; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (81; 94%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (74; 86%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (69; 80%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (53; 62%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 57%).
 
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (29; 34% of non-empty `Animacy`): <em>kteří, někteří, všichni, kterého, sami, svého, ty</em>
 * `Inan` (57; 66% of non-empty `Animacy`): <em>které, svůj, který, tento, tyto, ty, její, každý, naše, náš</em>
-* `EMPTY` (727): <em>to, jeho, který, která, které, jejich, své, mnoho, toho, její</em>
+* `EMPTY` (741): <em>to, jeho, který, která, které, jejich, své, mnoho, toho, její</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -135,7 +135,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 * `Anim` (13; 25% of non-empty `Animacy`): <em>byli</em>
 * `Inan` (38; 75% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (597): <em>je, by, byl, bylo, byla, jsou, bude, jsem, být, není</em>
+* `EMPTY` (599): <em>je, by, byl, bylo, byla, jsou, bude, jsem, být, není</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -154,7 +154,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (17; 47% of non-empty `Animacy`): <em>kdo, někdo, kdokoli, kdokoliv, koho, nikdo, nikoho, nikým, někoho, oni</em>
 * `Inan` (19; 53% of non-empty `Animacy`): <em>co, samý, čím</em>
-* `EMPTY` (542): <em>se, si, což, ho, nich, ní, jí, mu, mě, ji</em>
+* `EMPTY` (543): <em>se, si, což, ho, nich, ní, jí, mu, mě, ji</em>
 
 ## Relations with Agreement in `Animacy`
 

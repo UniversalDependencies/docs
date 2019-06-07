@@ -26,8 +26,8 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	et	et	CCONJ	_	_	6	cc	_	_
 2	ça	ça	PRON	_	_	6	nsubj:caus	_	_
 3	m'	me	PRON	_	_	6	iobj	_	_
-4	a	avoir	VERB	_	_	6	aux	_	_
-5	fait	faire	VERB	DoubleAux	_	6	aux:caus	_	_
+4	a	avoir	AUX	_	_	6	aux	_	_
+5	fait	faire	AUX	DoubleAux	_	6	aux:caus	_	_
 6	voir	voir	VERB	CAUSATIVE	_	0	root	_	_
 
 ~~~
@@ -39,12 +39,12 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 nsubj:caus	color:blue
-1	alors	alors	ADV	_	_	6	advmod:periph	_	_
+1	alors	alors	ADV	_	_	8	advmod:periph	_	_
 2	les	le	DET	_	_	3	det	_	_
 3	la	le	DET	_	_	4	det	_	_
 4	probabilité	probabilité	NOUN	_	_	8	nsubj:caus	_	_
-5	ne	ne	PART	_	_	6	advmod	_	_
-6	fait	faire	VERB	_	_	8	aux:caus	_	_
+5	ne	ne	PART	_	_	8	advmod	_	_
+6	fait	faire	AUX	_	_	8	aux:caus	_	_
 7	qu'	que	SCONJ	_	_	8	advcl	_	_
 8	augmenter	augmenter	VERB	CAUSATIVE	_	0	root	_	_
 9	avec	avec	ADP	_	_	11	case	_	_

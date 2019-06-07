@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-373 nodes (2%) are attached to their parents as `cop`.
+379 nodes (2%) are attached to their parents as `cop`.
 
-368 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23592493297587.
+374 instances of `cop` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26121372031662.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (144; 39% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (129; 35% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (47; 13% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (35; 9% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (156; 41% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (129; 34% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (43; 11% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (34; 9% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

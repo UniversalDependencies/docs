@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `flat`.
+45 nodes (0%) are attached to their parents as `flat`.
 
-36 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13888888888889.
+45 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11111111111111.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (30; 83% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (39; 87% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

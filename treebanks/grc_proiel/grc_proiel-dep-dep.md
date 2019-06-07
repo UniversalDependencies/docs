@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 6 4 dep	color:blue
 1	ἄποινα	ἄποινα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	ref=6.79.1
 2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=6.79.1
-3	ἐστὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=6.79.1
+3	ἐστὶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=6.79.1|LId=1
 4	Πελοποννησίοισι	Πελοποννήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	dep	_	ref=6.79.1
 5	δύο	δύο	NUM	Ma	_	6	nummod	_	ref=6.79.1
 6	μνέαι	μνᾶ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	ref=6.79.1

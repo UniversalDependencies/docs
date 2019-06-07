@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381975).
+The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381919).
 
 The 1st highest number of forms (7) was observed with the lemma “være”: <em>e, er, var, vær, være, vært, vøre</em>.
 
@@ -80,17 +80,17 @@ Examples: <em>er, har, kan, vil, skal, må, blir, bør, får, tør</em>
 
 Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (9616; 56% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3612; 21% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2896; 17% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (293; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (235; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (171; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (60; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-17171 (100%) `AUX` nodes are leaves.
+17145 (100%) `AUX` nodes are leaves.
 
-5 (0%) `AUX` nodes have one child.
+34 (0%) `AUX` nodes have one child.
 
-3 (0%) `AUX` nodes have two children.
+0 (0%) `AUX` nodes have two children.
 
 2 (0%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 4.
+The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 4 different relations: <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (12; 63% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (5; 26% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 5% instances)
+Children of `AUX` nodes are attached using 4 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (26; 65% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (12; 30% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 3% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (11; 58% instances), <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (5; 26% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 5% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (26; 65% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (11; 28% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 3% instances)
 

@@ -45,8 +45,8 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (377; 71%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (201; 95%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (380; 71%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (203; 95%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (151; 99%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (26; 100%),
 <tt>VERB --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> VERB</tt> (18; 100%),

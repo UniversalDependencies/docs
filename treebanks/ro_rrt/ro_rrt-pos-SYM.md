@@ -44,17 +44,17 @@ Examples: <em>/, *</em>
 
 Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (282; 58% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (94; 19% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (60; 12% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (18; 4% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (17; 4% instances), <tt><a href="ro_rrt-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-465 (96%) `SYM` nodes are leaves.
+471 (97%) `SYM` nodes are leaves.
 
-13 (3%) `SYM` nodes have one child.
+11 (2%) `SYM` nodes have one child.
 
-4 (1%) `SYM` nodes have two children.
+0 (0%) `SYM` nodes have two children.
 
 2 (0%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 3.
 
-Children of `SYM` nodes are attached using 9 different relations: <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (16; 59% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (3; 11% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (1; 4% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 4% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="ro_rrt-dep-cop.html">cop</a></tt> (1; 4% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (1; 4% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (1; 4% instances)
+Children of `SYM` nodes are attached using 9 different relations: <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (6; 35% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (3; 18% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 12% instances), <tt><a href="ro_rrt-dep-appos.html">appos</a></tt> (1; 6% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="ro_rrt-dep-cop.html">cop</a></tt> (1; 6% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (1; 6% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (1; 6% instances)
 
-Children of `SYM` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (11; 41% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 19% instances), <tt><a href="ro_rrt-pos-SYM.html">SYM</a></tt> (5; 19% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
+Children of `SYM` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="ro_rrt-pos-SYM.html">SYM</a></tt> (5; 29% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 12% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1; 6% instances)
 

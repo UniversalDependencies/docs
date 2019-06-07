@@ -12,7 +12,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 20992 tokens (15%) have a non-empty value of `Degree`.
 9576 types (30%) occur at least once with a non-empty value of `Degree`.
 4694 lemmas (28%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (14379; 10% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (6613; 5% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (14379; 10% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (6611; 5% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
@@ -71,12 +71,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-6613 <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+6611 <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (346; 5% of non-empty `Degree`): <em>bolj, prej, večkrat, bolje, pozneje, raje, kasneje, dlje, hitreje, laže</em>
-* `Pos` (6089; 92% of non-empty `Degree`): <em>lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</em>
+* `Pos` (6087; 92% of non-empty `Degree`): <em>lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</em>
 * `Sup` (178; 3% of non-empty `Degree`): <em>najbolj, najprej, najmanj, najbolje, najpogosteje, največkrat, najverjetneje, Najhuje, najdlje, najkasneje</em>
 * `EMPTY` (18): <em>rekoč, sodeč, Molče, hote, nehote, neupoštevaje, nevede, sklicujoč, stoje, upoštevaje</em>
 
@@ -85,7 +85,18 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>dobro, dobr</em></td><td><em>bolje</em></td><td><em>najbolje</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (811) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (810) occur only with one value of `Degree`.
+
+### `DET`
+
+2 <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="sl_ssj-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sl_ssj-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (2; 100% of non-empty `Degree`): <em>obilo</em>
+* `EMPTY` (5252): <em>to, tem, vse, nekaj, ta, več, tega, svoje, te, veliko</em>
 
 ## Relations with Agreement in `Degree`
 

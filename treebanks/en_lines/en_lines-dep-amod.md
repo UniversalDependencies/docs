@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4188 nodes (5%) are attached to their parents as `amod`.
+4087 nodes (5%) are attached to their parents as `amod`.
 
-3979 instances of `amod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33882521489971.
+3877 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32468803523367.
 
-The following 33 pairs of parts of speech are connected with `amod`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3801; 91% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (133; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (63; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (61; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (38; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `amod`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3826; 94% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (63; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (60; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (36; 1% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (30; 1% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,28 +39,6 @@ The following 33 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 amod	color:blue
-1	Once	once	ADV	_	NumType=Mult	2	advmod	_	_
-2	again	again	ADV	_	_	9	advmod	_	SpaceAfter=No
-3	,	,	PUNCT	Comma	_	2	punct	_	_
-4	however	however	ADV	_	_	9	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	Comma	_	4	punct	_	_
-6	Stillman	Stillman	PROPN	SG	Number=Sing	8	amod	_	SpaceAfter=No
-7	's	's	PART	GEN	_	6	case	_	_
-8	face	face	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
-9	told	tell	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-10	him	he	PRON	PERS-P3SG-ACC	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
-11	nothing	nothing	PRON	NEG-SG	Number=Sing	9	obj	_	SpaceAfter=No
-12	.	.	PUNCT	Period	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
@@ -77,6 +55,24 @@ The following 33 pairs of parts of speech are connected with `amod`: <tt><a href
 9	Paul	Paul	PROPN	SG-NOM	Number=Sing	6	obj	_	_
 10	Auster	Auster	PROPN	SG-NOM	Number=Sing	9	flat	_	SpaceAfter=No
 11	.	.	PUNCT	Period	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	old	old	ADJ	POS	Degree=Pos	3	amod	_	_
+3	one	one	PRON	IND-P3SG	_	4	nsubj	_	_
+4	sat	sit	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	on	on	ADP	_	_	7	case	_	_
+6	her	she	PRON	P3SG-GEN	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
+7	chair	chair	NOUN	SG-NOM	Number=Sing	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 

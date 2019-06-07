@@ -119,7 +119,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Conv` (18; 100% of non-empty `VerbForm`): <em>rekoč, sodeč, Molče, hote, nehote, neupoštevaje, nevede, sklicujoč, stoje, upoštevaje</em>
-* `EMPTY` (6613): <em>lahko, tako, zelo, kako, bolj, vedno, potem, kar, zdaj, treba</em>
+* `EMPTY` (6611): <em>lahko, tako, zelo, kako, bolj, vedno, potem, kar, zdaj, treba</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `VerbForm`.
 

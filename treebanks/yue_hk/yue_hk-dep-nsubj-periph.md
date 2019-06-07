@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Cantonese-HK: Relations: `nsubj:periph`
 
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="yue_hk-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 13 nodes (0%) are attached to their parents as `nsubj:periph`.
 

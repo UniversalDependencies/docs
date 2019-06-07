@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-424 nodes (3%) are attached to their parents as `cc`.
+479 nodes (3%) are attached to their parents as `cc`.
 
-263 instances of `cc` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.77122641509434.
+271 instances of `cc` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.91649269311065.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (292; 69% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (103; 24% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (14; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-PART.html">PART</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (336; 70% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (112; 23% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (16; 3% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-X.html">X</a></tt>-<tt><a href="ja_modern-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

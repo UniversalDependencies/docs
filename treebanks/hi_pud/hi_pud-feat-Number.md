@@ -117,10 +117,10 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (616; 53%),
 <tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (590; 57%),
+<tt>VERB --[<tt><a href="hi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (569; 52%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (540; 70%),
-<tt>VERB --[<tt><a href="hi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (505; 53%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-det.html">det</a></tt>]--> DET</tt> (412; 59%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (336; 85%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-det.html">det</a></tt>]--> DET</tt> (413; 59%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (335; 85%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (244; 77%),
 <tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (205; 100%),
 <tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (190; 56%),

@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 3 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

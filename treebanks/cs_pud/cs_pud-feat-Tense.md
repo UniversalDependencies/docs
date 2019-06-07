@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2052 tokens (11%) have a non-empty value of `Tense`.
-1110 types (15%) occur at least once with a non-empty value of `Tense`.
-675 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1460; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (529; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (63; 0% instances).
+2051 tokens (11%) have a non-empty value of `Tense`.
+1109 types (15%) occur at least once with a non-empty value of `Tense`.
+674 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1458; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (530; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (63; 0% instances).
 
 ### `VERB`
 
-1460 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
+1458 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1460; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1367; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1272; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (889; 61%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (889; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (886; 61%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (884; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1458; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1365; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1270; 87%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (888; 61%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (888; 61%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (885; 61%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (883; 61%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (6; 0% of non-empty `Tense`): <em>nebude, půjde, bude, neporoste</em>
-* `Past` (887; 61% of non-empty `Tense`): <em>řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</em>
-* `Pres` (567; 39% of non-empty `Tense`): <em>má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</em>
-* `EMPTY` (295): <em>mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</em>
+* `Past` (886; 61% of non-empty `Tense`): <em>řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</em>
+* `Pres` (566; 39% of non-empty `Tense`): <em>má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</em>
+* `EMPTY` (294): <em>mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -39,16 +39,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-529 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
+530 <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (529; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (487; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 69%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (278; 53%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 53%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (278; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (530; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (488; 92%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (367; 69%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (278; 52%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (278; 52%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (278; 52%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (43; 8% of non-empty `Tense`): <em>bude, budou, nebude, budeme, budu, nebudou, nebudu</em>
-* `Past` (251; 47% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</em>
+* `Past` (252; 48% of non-empty `Tense`): <em>byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</em>
 * `Pres` (235; 44% of non-empty `Tense`): <em>je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</em>
-* `EMPTY` (119): <em>by, být, bych, bychom, byste</em>
+* `EMPTY` (120): <em>by, být, bych, bychom, byste</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

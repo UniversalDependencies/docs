@@ -79,11 +79,11 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 
 <ul>
-<li>This corpus contains 14167 sentences, 278429 tokens and 298344 syntactic words.</li>
+<li>This corpus contains 14167 sentences, 278429 tokens and 298343 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39877 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 39876 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,11 +91,11 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 210 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al.</li>
+<li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19889 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 19888 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 810 types of multi-word tokens. Examples: del, della, dei, al, nel, dell', delle, alla, dal, all', nella, degli, dalla, ai, alle, nei, sul, nell', nelle, sulla, dall', dalle, dello, dai, negli, sulle, dell’, sull', agli, sui, dagli, allo, nello, col, sugli, dallo, all’, sullo, farsi, farlo, esserci, essersi, nell’, dall’, farne, coi, muoversi, osservarsi, renderlo, servirsi.</li>
 </ul>
 
@@ -116,7 +116,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 80 lemmas tagged as determiners (DET): Every, Les, Ma, Una, Une, a, abbastanza, alcun, alcuno, altrettanto, altro, altrui, ambedue, certo, che, ciascun, ciascuno, cui, da, de, dei, del, della, determinato, di, diverso, entrambi, equale, i, il, l', la, le, lo, loro, mio, moltissimi, molto, my, nessun, nessuna, nessuno, niente, nostro, numeroso, ogni, parecchio, più, poco, proprio, qualche, qualcuno, quale, quali, qualsiasi, qualsivoglia, qualunque, quanta, quanto, quelle, quello, quest', questo, suo, svariato, tale, taluna, taluno, tanto, the, troppo, tuo, tutta, tutti, tutto, un, uno, vario, veruno, vostro</li>
+<li>This corpus contains 79 lemmas tagged as determiners (DET): Every, Les, Ma, Una, Une, a, abbastanza, alcun, alcuno, altrettanto, altro, altrui, ambedue, certo, che, ciascun, ciascuno, cui, de, dei, del, della, determinato, di, diverso, entrambi, equale, i, il, l', la, le, lo, loro, mio, moltissimi, molto, my, nessun, nessuna, nessuno, niente, nostro, numeroso, ogni, parecchio, più, poco, proprio, qualche, qualcuno, quale, quali, qualsiasi, qualsivoglia, qualunque, quanta, quanto, quelle, quello, quest', questo, suo, svariato, tale, taluna, taluno, tanto, the, troppo, tuo, tutta, tutti, tutto, un, uno, vario, veruno, vostro</li>
 </ul>
 
 <ul>
@@ -198,7 +198,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Masc
     <ul>
       <li>ADJ: primo, nuovo, altri, altro, stesso, vero, secondo, terzo, europeo, italiani</li>
-      <li>ADP: del, du</li>
+      <li>ADP: du</li>
       <li>ADV: pochissimo</li>
       <li>AUX-Part: stato, stati, potuto, dovuto, voluto, andato, fatto, potuti</li>
       <li>DET: il, i, un, gli, lo, suo, questo, tutti, suoi, alcuni</li>
@@ -239,7 +239,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Sing
     <ul>
       <li>ADJ: grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</li>
-      <li>ADP: del, du</li>
+      <li>ADP: du</li>
       <li>ADV: pochissimo</li>
       <li>AUX-Fin: è, ha, può, era, deve, sia, fu, viene, aveva, venne</li>
       <li>AUX-Part: stato, stata, potuto, dovuto, voluto, andato, potuta, andata, fatta, fatto</li>
@@ -487,6 +487,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
     <ul>
       <li>DET: cui, quali</li>
       <li>PRON: che, cui, chi, quale, quanto, quali, dove, chiunque, quando, quanti</li>
+      <li>SCONJ: che</li>
     </ul>
   </li>
 </ul>
@@ -604,7 +605,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
         <ul>
           <li>NOUN: Award</li>
           <li>PROPN: Les, Nobody, barbares, knows</li>
-          <li>X: de, Illusions, perdues, ad, home, la, the, Come, Damage, Ecce</li>
+          <li>X: de, Illusions, perdues, la, ad, home, the, Come, Damage, Ecce</li>
         </ul>
       </li>
     </ul>
@@ -616,7 +617,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: essere, sono, stare.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essere.</li>
 </ul>
 
 <ul>
@@ -631,10 +632,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (3774)</li>
-      <li>VERB-Fin--PRON (1881)</li>
+      <li>VERB-Fin--PRON (1880)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Inf--NOUN (610)</li>
+      <li>VERB-Inf--NOUN (611)</li>
       <li>VERB-Inf--PRON (187)</li>
       <li>VERB-Part--NOUN (1300)</li>
       <li>VERB-Part--NOUN-ADP(di) (2)</li>
@@ -646,15 +647,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3541)</li>
+      <li>VERB-Fin--NOUN (3542)</li>
       <li>VERB-Fin--PRON (767)</li>
       <li>VERB-Ger--NOUN (360)</li>
       <li>VERB-Ger--PRON (53)</li>
-      <li>VERB-Inf--NOUN (2883)</li>
+      <li>VERB-Inf--NOUN (2882)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
       <li>VERB-Inf--PRON (447)</li>
       <li>VERB-Part--NOUN (1334)</li>
-      <li>VERB-Part--PRON (316)</li>
+      <li>VERB-Part--PRON (317)</li>
     </ul>
   </li>
 </ul>
@@ -665,7 +666,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (315)</li>
       <li>VERB-Ger--PRON (26)</li>
       <li>VERB-Inf--PRON (172)</li>
-      <li>VERB-Part--PRON (158)</li>
+      <li>VERB-Part--PRON (159)</li>
     </ul>
   </li>
 </ul>

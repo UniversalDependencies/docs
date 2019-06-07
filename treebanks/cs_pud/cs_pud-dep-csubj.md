@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 6	že	že	SCONJ	J,-------------	_	8	mark	_	LId=že-1
 7	Itálie	Itálie	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nsubj	_	_
 8	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
-9	méně	málo	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	10	det:numgov	_	LId=málo-3
+9	méně	málo	DET	Dg-------2A----	Degree=Cmp|Polarity=Pos	10	det:numgov	_	LId=málo-3
 10	km	km`kilometr	NOUN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|Polarity=Pos	8	obj	_	LId=km`kilometr-1
 11	podzemní	podzemní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	12	amod	_	_
 12	dráhy	dráha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	_	_

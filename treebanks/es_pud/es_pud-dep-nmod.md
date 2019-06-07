@@ -22,12 +22,12 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 nmod	color:blue
-1	El	_	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	_	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing	2	acl	_	_
-4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
+3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	2	acl	_	_
+4	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	de	_	ADP	IN	_	7	case	_	_
-6	5 000	_	NUM	CD	Gender=Masc	7	nummod	_	OrigForm=5000
+6	5 000	_	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	OrigForm=5000
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	_	ADP	IN	_	9	case	_	_
 9	persona	_	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -44,9 +44,9 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6 8 nmod	color:blue
 1	¿	_	PUNCT	.	_	6	punct	_	SpaceAfter=No
 2	Y	_	CCONJ	CC	_	6	discourse	_	_
-3	cuál	_	PRON	WP	Number=Sing	6	nsubj	_	_
-4	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	cop	_	_
-5	la	_	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
+3	cuál	_	PRON	WP	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+4	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	postura	_	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 7	de	_	ADP	IN	_	8	case	_	_
 8	Australia	_	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
@@ -66,12 +66,12 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	a	_	ADP	IN	_	4	case	_	_
 4	agosto	_	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	INDT	_	7	case	_	_
-6	el	el	DET	_	Gender=Masc|Number=Sing	7	det	_	_
-7	2010	_	NUM	CD	Gender=Masc	2	nmod	_	_
-8	la	_	DET	DT	Gender=Fem|Number=Sing	9	det	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	2010	_	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	hambruna	_	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
-10	se	_	PRON	SE	Number=Sing|Person=3	11	compound:prt	_	_
-11	impuso	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
+10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
+11	impuso	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 12	en	_	ADP	IN	_	13	case	_	_
 13	Sahel	_	PROPN	NNP	Number=Sing	11	obl	_	SpaceAfter=No
 14	.	_	PUNCT	.	_	11	punct	_	_

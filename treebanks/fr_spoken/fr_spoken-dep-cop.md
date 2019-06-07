@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-911 nodes (3%) are attached to their parents as `cop`.
+924 nodes (3%) are attached to their parents as `cop`.
 
-879 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.29198682766191.
+884 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2965367965368.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (435; 48% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (304; 33% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (97; 11% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (45; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (437; 47% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (306; 33% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (107; 12% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (45; 5% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,12 +41,12 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 8 cop	color:blue
 1	et	et	CCONJ	_	_	4	cc	_	_
-2	euh	euh	INTJ	_	_	1	discourse	_	_
+2	euh	euh	INTJ	_	_	4	discourse	_	_
 3	je	je	PRON	_	_	4	nsubj	_	_
 4	pense	penser	VERB	_	_	0	root	_	_
 5	que	que	SCONJ	_	_	10	mark	_	_
 6	ça	ça	PRON	_	_	10	nsubj	_	_
-7	a	avoir	VERB	_	_	8	aux	_	_
+7	a	avoir	AUX	_	_	10	aux	_	_
 8	été	être	AUX	_	_	10	cop	_	_
 9	très	très	ADV	_	_	10	advmod	_	_
 10	bénéfique	bénéfique	ADJ	_	_	4	ccomp	_	_
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	moi	lui	PRON	_	_	0	root	_	_
 5	qui	qui	PRON	_	_	8	nsubj	_	_
 6	les	le	PRON	_	_	8	obj	_	_
-7	ai	avoir	VERB	_	_	8	aux	_	_
+7	ai	avoir	AUX	_	_	8	aux	_	_
 8	payés	payer	VERB	_	_	4	advcl:cleft	_	_
 
 ~~~

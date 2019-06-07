@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 14	novela	novela	NOUN	Scfs	Gender=Fem|Number=Sing	10	obl	_	_
 15	de	de	ADP	P	AdpType=Prep	16	case	_	_
 16	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
-17	,	,	PUNCT	Q,	_	20	punct	_	_
+17	,	,	PUNCT	Q,	_	14	punct	_	_
 18	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	14	nmod	_	_
 19	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	20	obj	_	_
 20	ratifican	ratificar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
@@ -59,7 +59,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 35	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36	holocausto	holocausto	NOUN	Scms	Gender=Masc|Number=Sing	33	nmod	_	_
 37	español	español	ADJ	A0ms	Gender=Masc|Number=Sing	36	amod	_	SpaceAfter=No
-38	,	,	PUNCT	Q,	_	32	punct	_	_
+38	,	,	PUNCT	Q,	_	36	punct	_	_
 39	particularmente	particularmente	ADV	Wm	_	40	advmod	_	_
 40	cruento	cruento	ADJ	A0ms	Gender=Masc|Number=Sing	36	amod	_	_
 41	en	en	ADP	P	AdpType=Prep	43	case	_	_
@@ -105,7 +105,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 81	familiar	familiar	ADJ	A0ms	Gender=Masc|Number=Sing	80	amod	_	_
 82	ou	ou	CCONJ	Cc	_	83	cc	_	_
 83	persoal	persoal	ADJ	A0ms	Gender=Masc|Number=Sing	81	conj	_	SpaceAfter=No
-84	"	"	PUNCT	Q"	_	72	punct	_	_
+84	"	"	PUNCT	Q"	_	78	punct	_	_
 85	(	(	PUNCT	Q(	_	86	punct	_	SpaceAfter=No
 86	8	8	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	78	dep	_	SpaceAfter=No
 87	)	)	PUNCT	Q)	_	86	punct	_	SpaceAfter=No

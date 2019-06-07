@@ -11,9 +11,9 @@ This relation is universal.
 21011 nodes (6%) are attached to their parents as `root`.
 
 21011 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.08486031126553.
+Average distance between parent and child is 6.06287182904193.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (14891; 71% instances), -<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2523; 12% instances), -<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1968; 9% instances), -<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1144; 5% instances), -<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (277; 1% instances), -<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (80; 0% instances), -<tt><a href="la_ittb-pos-X.html">X</a></tt> (43; 0% instances), -<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (35; 0% instances), -<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (29; 0% instances), -<tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), -<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (14894; 71% instances), -<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2525; 12% instances), -<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1975; 9% instances), -<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1173; 6% instances), -<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (278; 1% instances), -<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (81; 0% instances), -<tt><a href="la_ittb-pos-X.html">X</a></tt> (39; 0% instances), -<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (36; 0% instances), -<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-509 nodes (1%) are attached to their parents as `expl`.
+512 nodes (1%) are attached to their parents as `expl`.
 
-433 instances of `expl` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.95088408644401.
+436 instances of `expl` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.935546875.
 
-The following 9 pairs of parts of speech are connected with `expl`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (310; 61% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (80; 16% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (61; 12% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (35; 7% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `expl`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (317; 62% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (80; 16% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (59; 12% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (33; 6% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

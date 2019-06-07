@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (11; 50% of non-empty `Animacy`): <em>přewzali, ilustrował, mjenował, poznamjenili, přinošował, přišli, wotkryłoj, wužiwali, zawjedowali, zhonił</em>
 * `Inan` (11; 50% of non-empty `Animacy`): <em>jewjetej, mał, móžetej, poradźił, priwatizowali, předstaja, přidźělitej, wotměł, wunamakował, započał</em>
-* `EMPTY` (799): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (800): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (21) occur only with one value of `Animacy`.
 

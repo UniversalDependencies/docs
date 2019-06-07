@@ -180,14 +180,14 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (62758; 83%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18203; 95%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (6220; 60%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (62759; 83%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18217; 95%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (6219; 60%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (5333; 99%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3945; 89%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (2502; 87%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2437; 90%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3950; 89%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (2503; 87%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2441; 90%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2190; 88%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2055; 97%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1406; 65%).
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2058; 97%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1404; 65%).
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.418721).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.417416).
 
 The 1st highest number of forms (1) was observed with the lemma “anti”: <em>anti</em>.
 
@@ -40,21 +40,21 @@ Examples: <em>ex, anti, pré-</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="pt_bosque-dep-dep.html">dep</a></tt> (5; 100% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="pt_bosque-dep-dep.html">dep</a></tt> (4; 80% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (1; 20% instances)
 
 Parents of `PART` nodes belong to 3 different parts of speech: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (1; 20% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (1; 20% instances)
 
-3 (60%) `PART` nodes are leaves.
+2 (40%) `PART` nodes are leaves.
 
 0 (0%) `PART` nodes have one child.
 
-0 (0%) `PART` nodes have two children.
+1 (20%) `PART` nodes have two children.
 
 2 (40%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 4 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (1; 17% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (1; 17% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (1; 17% instances)
+Children of `PART` nodes are attached using 6 different relations: <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (3; 38% instances), <tt><a href="pt_bosque-dep-amod.html">amod</a></tt> (1; 13% instances), <tt><a href="pt_bosque-dep-case.html">case</a></tt> (1; 13% instances), <tt><a href="pt_bosque-dep-compound.html">compound</a></tt> (1; 13% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (1; 13% instances), <tt><a href="pt_bosque-dep-det.html">det</a></tt> (1; 13% instances)
 
-Children of `PART` nodes belong to 4 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (3; 50% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 17% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 17% instances)
+Children of `PART` nodes belong to 5 different parts of speech: <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (3; 38% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (1; 13% instances)
 

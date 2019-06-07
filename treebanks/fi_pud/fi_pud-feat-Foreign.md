@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>bjórria</em>
-* `EMPTY` (4228): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, eKr., osa, kertaa</em>
+* `EMPTY` (4222): <em>vuonna, aikana, vuoden, vuoteen, aikaan, kaupungin, alueen, eKr., osa, kertaa</em>
 
 ## Relations with Agreement in `Foreign`
 

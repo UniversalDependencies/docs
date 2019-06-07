@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (50; 98% of non-empty `Voice`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
 * `Pass` (1; 2% of non-empty `Voice`): <em>bu</em>
-* `EMPTY` (770): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
+* `EMPTY` (771): <em>ma, leži, móže, wobsahuje, móžeš, su, hlej, maja, rěči, běchu</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (42) occur only with one value of `Voice`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (2; 4% of non-empty `Voice`): <em>był, była</em>
 * `Pass` (43; 96% of non-empty `Voice`): <em>bu, buchu, buštej</em>
-* `EMPTY` (245): <em>je, su, bě, by, njeje, njejsu, běchu, stej, bu, bychu</em>
+* `EMPTY` (244): <em>je, su, bě, by, njeje, njejsu, běchu, stej, bu, bychu</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

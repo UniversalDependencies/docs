@@ -139,11 +139,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): být, bývat, jít, stát</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, jít, stát</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
 </ul>
 
 <ul>
@@ -162,8 +162,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</li>
-    <li>VERB: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
+    <li>AUX: jsem, by, je, bych, jsme, jsi, bude, jsou, jste, není</li>
+    <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
   </ul>
   </li>
 </ul>
@@ -171,7 +171,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: být, nebýt, stát</li>
+    <li>AUX: být, nebýt</li>
     <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
   </ul>
   </li>
@@ -234,7 +234,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ: jiného, jasné, možné, jiná, malé, celé, první, druhé, lepší, těžké</li>
       <li>ADJ-Part: řečeno, napsáno, zakázáno, ztraceno, Rozhodující, blížícího, bušícím, dovoleno, míněno, namířeno</li>
-      <li>AUX-Part: bylo, nebylo, byla, bývalo, nebyla, nebývalo, šlo</li>
+      <li>AUX-Part: bylo, nebylo, byla, bývalo, nebyla, nebývalo</li>
       <li>DET: to, všechno, tom, tím, toho, tomu, tohle, které, jeho, své</li>
       <li>NOUN: dítě, let, slova, září, místo, tělo, srdce, okna, štěstí, léta</li>
       <li>NUM: jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</li>
@@ -324,7 +324,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
       <li>ADJ-Part: přesvědčen, řečeno, oblečena, rozhodující, napsáno, nastávající, následující, obklopen, poslán, povznášející</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, bych, bude, jsi, není, bys, budu, budeš, nebude</li>
+      <li>AUX-Fin: jsem, je, bych, jsi, bude, není, bys, budu, budeš, nebude</li>
       <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
       <li>DET: to, jeho, který, ten, tom, všechno, která, toho, tím, té</li>
       <li>NOUN: chvíli, život, dítě, den, člověk, plod, dívka, profesor, mistr, paní</li>
@@ -332,7 +332,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, jsi, není, musí, musím, vím</li>
+      <li>VERB-Fin: je, má, mám, může, nevím, není, musí, musím, vím, nemám</li>
       <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
     </ul>
   </li>
@@ -531,14 +531,14 @@ http://ceur-ws.org/Vol-1885/181.pdf
       <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
       <li>ADV: vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, budu, budeš, budou</li>
-      <li>AUX-Inf: být, stát</li>
-      <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývali, bývalo, šlo</li>
+      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, budu, budeš, budou</li>
+      <li>AUX-Inf: být</li>
+      <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývali, bývalo</li>
       <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
       <li>NOUN: chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</li>
       <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       <li>VERB-Conv: chtěje, hledajíc, Divě, Jda, Opíraje, Pronášejíc, Třesouc, domnívajíc, doufajíce, drže</li>
-      <li>VERB-Fin: je, má, mám, může, jsi, musí, mají, musím, vím, stojí</li>
+      <li>VERB-Fin: je, má, mám, může, musí, mají, musím, vím, stojí, jde</li>
       <li>VERB-Inf: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
       <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
     </ul>
@@ -609,8 +609,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
+      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
+      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
     </ul>
   </li>
 </ul>
@@ -643,9 +643,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, jsou, jste, jsi, není, nejsem, nejsou, bývá</li>
+      <li>AUX-Fin: jsem, je, jsme, jsi, jsou, jste, není, nejsem, nejsou, bývá</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
+      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
     </ul>
   </li>
 </ul>
@@ -659,10 +659,10 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <ul>
       <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</li>
+      <li>AUX-Fin: jsem, je, jsme, jsi, bude, jsou, jste, není, budu, budeš</li>
       <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
       <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-      <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
+      <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
       <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
     </ul>
   </li>
@@ -751,6 +751,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: zato, přičemž</li>
       <li>DET: jehož, jejichž, jejíž, jejímž</li>
       <li>PRON: což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</li>
     </ul>
@@ -865,10 +866,10 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: jste, jsi, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
+      <li>AUX-Fin: jsi, jste, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
       <li>DET: vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</li>
       <li>PRON: ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</li>
-      <li>VERB-Fin: jsi, víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš</li>
+      <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
     </ul>
   </li>
 </ul>
@@ -1098,11 +1099,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
 
@@ -1123,7 +1124,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (26)</li>
       <li>VERB-Part--NOUN-Gen (65)</li>
-      <li>VERB-Part--NOUN-Nom (3213)</li>
+      <li>VERB-Part--NOUN-Nom (3212)</li>
       <li>VERB-Part--PRON (10)</li>
       <li>VERB-Part--PRON-Gen (9)</li>
       <li>VERB-Part--PRON-Nom (708)</li>
@@ -1170,7 +1171,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Loc (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-Acc (1314)</li>
+      <li>VERB-Part--PRON-Acc (1316)</li>
       <li>VERB-Part--PRON-Dat (449)</li>
       <li>VERB-Part--PRON-Gen (48)</li>
       <li>VERB-Part--PRON-Ins (17)</li>
@@ -1214,13 +1215,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1009 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, všimnout si, myslet si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, starat se, vydat se, představit si, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, těšit se, dít se, otočit se, jmenovat se, otázat se, stěžovat si, přát si, vzít si, bránit se, pustit se, stávat se, blížit se, dozvědět se</li>
+  <li>This corpus contains 1008 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, všimnout si, myslet si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, starat se, vydat se, představit si, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, těšit se, dít se, otočit se, jmenovat se, otázat se, stěžovat si, přát si, vzít si, bránit se, pustit se, stávat se, blížit se, dozvědět se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 201 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
+  <li>This corpus contains 200 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

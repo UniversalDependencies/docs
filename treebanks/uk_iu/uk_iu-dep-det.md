@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="uk_iu-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="uk_iu-dep-det-nummod.html">det:nummod</a></tt>.
 
-3022 nodes (3%) are attached to their parents as `det`.
+3186 nodes (3%) are attached to their parents as `det`.
 
-2935 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31105228325612.
+3097 instances of `det` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31858129315756.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2883; 95% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (77; 3% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3040; 95% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (81; 3% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	Його	його	DET	Ppp3m-sna	Case=Nom|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes	2	det	2:det	Id=1zua|LTranslit=joho|Translit=Joho
+1	Його	його	DET	Pps3m-sna	Case=Nom|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes	2	det	2:det	Id=1zua|LTranslit=joho|Translit=Joho
 2	Ілля	Ілля	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	4:nsubj	Id=1zub|LTranslit=Ilľа|Translit=Ilľа
 3	Муромець	Муромець	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	flat:name	2:flat:name	Id=1zuc|LTranslit=Muromeć|Translit=Muromeć
 4	стоїть	стояти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=1zud|LTranslit=stojaty|Translit=stojiť

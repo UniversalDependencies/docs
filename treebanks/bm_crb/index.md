@@ -48,6 +48,7 @@ The UD Bambara treebank is a section of the Corpus Référence du Bambara annota
 
 
 
+
 Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group (Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
 of these, around four million are L1 speakers. Development of the [Bambara Reference Corpus](http://cormand.huma-num.fr/) was started in April 2012 (Vydrin 2013, Maslinsky 2014).
 The corpus includes a non-disambiguated sub-corpus and a disambiguated one. At present, the whole corpus contains about nine million tokens.
@@ -116,27 +117,27 @@ to base this on their work.
 </ul>
 
 <ul>
-<li>This corpus contains 20 word types tagged as particles (PART): bada, bani, bilen, de, dennin, dè, dun, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, tun, wa, wo, yo</li>
+<li>This corpus contains 20 word types tagged as particles (PART): bada, bani, bilen, de, dennin, dun, dè, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, tun, wa, wo, yo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 36 lemmas tagged as pronouns (PRON): _, à, àle, àlê, á, án, áw, bɛ́ɛ, dì, dɔ̀w, dɔ́, dɔ́w, é, ê, í, jɔ̀n, jɔ́n, jɔ́nì, minw, mín, mîn, mun, mùn, mùnna, né, nê, nìn, ń, ò, ò.lú, òlû, ó, sí, ù, ɔn, ɲɔ́gɔn</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): _, bɛ́ɛ, dì, dɔ̀w, dɔ́, dɔ́w, jɔ̀n, jɔ́n, jɔ́nì, minw, mun, mín, mîn, mùn, mùnna, né, nê, nìn, sí, à, àle, àlê, á, án, áw, é, ê, í, ò, ò.lú, òlû, ó, ù, ń, ɔn, ɲɔ́gɔn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as determiners (DET): _, bɛ́, bɛ́ɛ, dòn, dɔw, dɔ́, dɔ́rɔn, ìn, jùmɛn, minw, mín, mîn, ninw, nìn, ò, sí, wɛ́rɛ, yɛ̀rɛ, yɛ̀rɛ̂</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): _, bɛ́, bɛ́ɛ, dòn, dɔw, dɔ́, dɔ́rɔn, jùmɛn, minw, mín, mîn, ninw, nìn, sí, wɛ́rɛ, yɛ̀rɛ, yɛ̀rɛ̂, ìn, ò</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: _, bɛ́ɛ, dɔ́, minw, mín, mîn, nìn, ò, sí</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: _, bɛ́ɛ, dɔ́, minw, mín, mîn, nìn, sí, ò</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as auxiliaries (AUX): _, b', be, bé, bɛ, bɛ́, bɛ́na, bɛ́nà, dìyé, dòn, k', ka, kà, kàna, kànâ, ká, ma, mà, má, mán, mána, mánà, n', nà, té, tɛ, tɛ́, tɛ́nà, y', ye, yé</li>
+<li>This corpus contains 31 lemmas tagged as auxiliaries (AUX): _, b', be, bé, bɛ, bɛ́, bɛ́na, bɛ́nà, dìyé, dòn, k', ka, kà, kàna, kànâ, ká, ma, mà, má, mán, mána, mánà, n', nà, té, tɛ, tɛ́, tɛ́nà, y', ye, yé</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, b', bé, bɛ́, dòn, nà, tɛ, tɛ́, yé</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, b', bé, bɛ́, dòn, nà, tɛ, tɛ́, yé</li>
 </ul>
 
 <ul>
@@ -147,7 +148,7 @@ to base this on their work.
   <li>Part
   <ul>
     <li>ADJ: jalenba, jelenba, sigilen</li>
-    <li>VERB: nalen, sigilen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen</li>
+    <li>VERB: nalen, sigilen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen</li>
   </ul>
   </li>
 </ul>
@@ -155,7 +156,7 @@ to base this on their work.
 <ul>
   <li>Vnoun
   <ul>
-    <li>NOUN: kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</li>
+    <li>NOUN: kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</li>
   </ul>
   </li>
 </ul>
@@ -172,9 +173,9 @@ to base this on their work.
 <ul>
   <li>Plur
     <ul>
-      <li>DET: ninw, dòw, minw</li>
-      <li>NOUN: kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</li>
-      <li>PRON: u, olu, an, aw, dòw, dow, minw, a</li>
+      <li>DET: ninw, dòw, minw</li>
+      <li>NOUN: kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</li>
+      <li>PRON: u, olu, an, aw, dòw, dow, minw, a</li>
       <li>PROPN: warabaw</li>
     </ul>
   </li>
@@ -183,7 +184,7 @@ to base this on their work.
 <ul>
   <li>Sing
     <ul>
-      <li>PRON: a, n, ne, e, i, ale, ele, à</li>
+      <li>PRON: a, n, ne, e, i, ale, ele, à</li>
     </ul>
   </li>
 </ul>
@@ -214,8 +215,8 @@ to base this on their work.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: tè, ma, kana, te, man, tèna</li>
-      <li>VERB: tè, tɛ</li>
+      <li>AUX: tè, ma, kana, te, man, tèna</li>
+      <li>VERB: tè, tɛ</li>
     </ul>
   </li>
 </ul>
@@ -223,8 +224,8 @@ to base this on their work.
 <ul>
   <li>Pos
     <ul>
-      <li>AUX: ye, bè, ka, be, mana, bèna, y', bɛ, na, b'</li>
-      <li>VERB: tagara, bè, ye, nana, bòra, sera, kèra, tora, cira, banna</li>
+      <li>AUX: ye, bè, ka, be, mana, bèna, y', bɛ, na, b'</li>
+      <li>VERB: tagara, bè, ye, nana, bòra, sera, kèra, tora, cira, banna</li>
     </ul>
   </li>
 </ul>
@@ -240,8 +241,8 @@ to base this on their work.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: bè, tè, be, te, bɛ, b'</li>
-      <li>VERB: be, bè, tè, tɛ</li>
+      <li>AUX: bè, tè, be, te, bɛ, b'</li>
+      <li>VERB: be, bè, tè, tɛ</li>
     </ul>
   </li>
 </ul>
@@ -251,8 +252,8 @@ to base this on their work.
     <ul>
       <li>ADJ-Part: jalenba, jelenba, sigilen</li>
       <li>AUX: ye, ma, y'</li>
-      <li>VERB: tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</li>
-      <li>VERB-Part: nalen, sigilen, selen, jèlen, bannen, bòlen, bònnen, dalen, dibilen, dilen</li>
+      <li>VERB: tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</li>
+      <li>VERB-Part: nalen, sigilen, selen, jèlen, bannen, bòlen, bònnen, dalen, dibilen, dilen</li>
     </ul>
   </li>
 </ul>
@@ -260,7 +261,7 @@ to base this on their work.
 <ul>
   <li>Prog
     <ul>
-      <li>VERB-Part: kotò, bintò, natò</li>
+      <li>VERB-Part: kotò, bintò, natò</li>
     </ul>
   </li>
 </ul>
@@ -300,7 +301,7 @@ to base this on their work.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: bèna, na, n', tèna</li>
+      <li>AUX: bèna, na, n', tèna</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +321,7 @@ to base this on their work.
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: labò, lajigin, lajè, dalajè, laminè, latila</li>
+      <li>VERB: labò, lajigin, lajè, dalajè, laminè, latila</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +354,7 @@ to base this on their work.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: a, n, i, u, olu, an, à</li>
+      <li>PRON: a, n, i, u, olu, an, à</li>
     </ul>
   </li>
 </ul>
@@ -361,7 +362,7 @@ to base this on their work.
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: nyògòn, nyògon</li>
+      <li>PRON: nyògòn, nyògon</li>
     </ul>
   </li>
 </ul>
@@ -421,7 +422,7 @@ to base this on their work.
 <ul>
   <li>3
     <ul>
-      <li>PRON: a, u, ale, ele, e, à</li>
+      <li>PRON: a, u, ale, ele, e, à</li>
     </ul>
   </li>
 </ul>
@@ -449,7 +450,7 @@ to base this on their work.
     <ul>
       <li>1
         <ul>
-          <li>VERB: tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</li>
+          <li>VERB: tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna</li>
         </ul>
       </li>
       <li>2
@@ -470,7 +471,7 @@ to base this on their work.
 </ul>
 
 <ul>
-<li>This corpus uses 37 lemmas as auxiliaries (<a>aux</a>). Examples: kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, tùn, má, ma, tɛ, bé, dìyé, kàna, mána, bɛ́na, kànâ, y', mà, nà, té, k', mánà, à, b', bá, be, bɛ́nà, dòn, fulakɛ, kɔ́, mán, n', tún, tɛ́nà.</li>
+<li>This corpus uses 37 lemmas as auxiliaries (<a>aux</a>). Examples: kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, tùn, má, ma, tɛ, bé, dìyé, kàna, mána, bɛ́na, kànâ, y', mà, nà, té, k', mánà, b', be, bá, bɛ́nà, dòn, fulakɛ, kɔ́, mán, n', tún, tɛ́nà, à.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

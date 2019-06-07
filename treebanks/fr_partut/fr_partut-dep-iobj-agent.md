@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 3	pour	pour	ADP	E	_	7	mark	_	_
 4	vraiment	vraiment	ADV	B	_	7	advmod	_	_
 5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	7	iobj:agent	_	_
-6	faire	faire	VERB	V	VerbForm=Inf	7	aux:caus	_	_
+6	faire	faire	AUX	V	VerbForm=Inf	7	aux:caus	_	_
 7	comprendre	comprendre	VERB	V	VerbForm=Inf	11	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	j'	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No

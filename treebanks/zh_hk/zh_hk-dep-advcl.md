@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-184 nodes (2%) are attached to their parents as `advcl`.
+233 nodes (2%) are attached to their parents as `advcl`.
 
-160 instances of `advcl` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.84782608695652.
+202 instances of `advcl` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.98283261802575.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (147; 80% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (15; 8% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `advcl`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (180; 77% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

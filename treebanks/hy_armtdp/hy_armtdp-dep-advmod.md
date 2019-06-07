@@ -9,29 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="hy_armtdp-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-827 nodes (4%) are attached to their parents as `advmod`.
+1280 nodes (4%) are attached to their parents as `advmod`.
 
-747 instances of `advmod` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26481257557437.
+1183 instances of `advmod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.203125.
 
-The following 36 pairs of parts of speech are connected with `advmod`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (511; 62% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (127; 15% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (45; 5% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (24; 3% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `advmod`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (785; 61% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (204; 16% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (69; 5% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (55; 4% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (32; 3% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (29; 2% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (13; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	Այդպես	այդպես	ADV	_	Distance=Med|PronType=Dem	2	advmod	_	_
-2	մտածեցինք	մտածել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
-4	որովհետև	որովհետև	SCONJ	_	_	6	mark	_	_
-5	նշան	նշան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	_
-6	կար	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	2	advcl	_	_
-7	նրանց	նա	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl	_	_
-8	վրա	վրա	ADP	_	AdpType=Post|Case=Nom	7	case	_	SpaceAfter=No
-9	։	։	PUNCT	_	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 advmod	color:blue
+1	Չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=či|LTranslit=em
+2	հասկանում	հասկանալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=haskanowm|LTranslit=haskanal|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+4	ինչու	ինչու	ADV	_	PronType=Int	7	advmod	_	Translit=inčow|LTranslit=inčow
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
+6	վատ	վատ	ADV	_	_	7	compound:lvc	_	Translit=vat|LTranslit=vat
+7	զգում	զգալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	ccomp	_	Translit=zgowm|LTranslit=zgal|SpaceAfter=No
+8	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,38 +38,41 @@ The following 36 pairs of parts of speech are connected with `advmod`: <tt><a hr
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 advmod	color:blue
-1	Բարեբախտաբար	բարեբախտաբար	PART	_	_	7	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	7	punct	_	_
-3	իմ	ես	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	_
-4	աշխատանքի	աշխատանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	_
-5	հանդեպ	հանդեպ	ADP	_	AdpType=Post	4	case	_	_
-6	երբեք	երբեք	ADV	_	_	7	advmod	_	_
-7	անտարբեր	անտարբեր	ADJ	_	Degree=Pos	0	root	_	_
-8	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	cop	_	_
-9	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	7	aux	_	SpaceAfter=No
-10	:	:	PUNCT	_	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 advmod	color:blue
+1	Նամանավանդ	նամանավանդ	PART	_	_	0	root	_	Translit=namanavand|LTranslit=namanavand|SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+3	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
+4	պահանջվող	պահանջել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	5	acl	_	Translit=pahanǰvoġ|LTranslit=pahanǰel
+5	գումարը	գումար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=gowmarë|LTranslit=gowmar
+6	այնքան	այնքան	ADV	_	Distance=Dist|PronType=Dem	8	advmod	_	Translit=aynk’an|LTranslit=aynk’an
+7	էլ	էլ	PART	_	_	6	fixed	_	Translit=ēl|LTranslit=ēl
+8	մեծ	մեծ	ADJ	_	Degree=Pos	1	ccomp	_	Translit=meç|LTranslit=meç
+9	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=čē|LTranslit=em|SpaceAfter=No
+10	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	Հիմա	հիմա	ADV	_	_	8	advmod	_	_
-2	էլ	էլ	ADV	_	_	1	advmod	_	_
-3	վերջապես	վերջապես	ADV	_	_	8	advmod	_	_
-4	միս	միս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	compound:lvc	_	_
-5	ու	ու	CCONJ	_	_	6	cc	_	_
-6	արյուն	արյուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	compound	_	_
-7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	առել	առնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
-9	։	։	PUNCT	_	_	8	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 advmod	color:blue
+1	Կնոջ	կին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=knoǰ|LTranslit=kin
+2	ականջն	ականջ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obl	_	Translit=akanǰn|LTranslit=akanǰ
+3	ընկած	ընկնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	4	acl	_	Translit=ënkaç|LTranslit=ënknel
+4	խոսքն	խոսք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=xosk’n|LTranslit=xosk’
+5	ավելի	ավելի	ADV	_	Degree=Cmp	6	advmod	_	Translit=aveli|LTranslit=aveli
+6	արագ	արագ	ADV	_	Degree=Pos	7	advmod	_	Translit=arag|LTranslit=arag
+7	կթռչեր	թռչել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=kt’ṙčer|LTranslit=t’ṙčel|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
+9	քան	քան	SCONJ	_	_	11	case	_	Translit=k’an|LTranslit=k’an
+10	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	det:poss	_	Translit=mer|LTranslit=menk’
+11	ձիերը	ձի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	6	obl	_	Translit=jierë|LTranslit=ji|SpaceAfter=No
+12	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.198487).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.199021).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -34,7 +34,7 @@ The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 `SYM` nodes are attached to their parents using 7 different relations: <tt><a href="en_partut-dep-obl.html">obl</a></tt> (20; 45% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (13; 30% instances), <tt><a href="en_partut-dep-obj.html">obj</a></tt> (4; 9% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (3; 7% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="en_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances), <tt><a href="en_partut-dep-root.html">root</a></tt> (1; 2% instances)
 
-Parents of `SYM` nodes belong to 6 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (26; 59% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (13; 30% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (26; 59% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (13; 30% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 5% instances),  (1; 2% instances)
 
 2 (5%) `SYM` nodes are leaves.
 

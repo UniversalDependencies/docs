@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	Robbie	_	PROPN	NOUN_PROP	_	6	obl	_	_
 3	Abela	_	PROPN	NOUN_PROP	_	2	flat:name	_	_
 4	"	_	PUNCT	X_PUN	_	6	punct	_	_
-5	ma	_	PART	NEG	_	6	aux:neg	_	_
+5	ma	_	PART	NEG	_	6	advmod:neg	_	_
 6	jfisser	_	VERB	VERB	_	0	root	_	_
 7	xejn	_	PRON	PRON_INDEF	_	6	obj	_	_
 8	jekk	_	SCONJ	CONJ_SUB	_	10	mark	_	_

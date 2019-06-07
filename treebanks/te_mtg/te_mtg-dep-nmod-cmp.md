@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `nmod:cmp`: <tt><a h
 # visual-style 1 2 nmod:cmp	color:blue
 1	కమల	_	PROPN	PROPN	_	4	nsubj	_	Translit=kamala|LTranslit=_
 2	విమల	_	PROPN	PROPN	_	1	nmod:cmp	_	Translit=vimala|LTranslit=_
-3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
+3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	తెలుపా	_	NOUN	NOUN	_	0	root	_	Translit=tèlupā|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `nmod:cmp`: <tt><a h
 # visual-style 1 2 nmod:cmp	color:blue
 1	నేను	_	PRON	PRON	_	4	nsubj	_	Translit=nenu|LTranslit=_
 2	ఆమె	_	PRON	PRON	_	1	nmod:cmp	_	Translit=āmè|LTranslit=_
-3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
+3	కంటె	_	ADP	ADP	_	2	case	_	Translit=kaṁṭè|LTranslit=_
 4	పెద్ద	_	NOUN	NOUN	_	0	root	_	Translit=pèdda|LTranslit=_
 5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
 
@@ -53,9 +53,9 @@ The following 3 pairs of parts of speech are connected with `nmod:cmp`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod:cmp	color:blue
-1	ఎందులోనూ	_	ADV	ADV	_	5	advmod	_	Translit=èṁdulonū|LTranslit=_
+1	ఎందులోనూ	_	ADV	ADV	_	5	advmod	_	Translit=èṁdulonū|LTranslit=_
 2	నిన్ను	_	PRON	PRON	_	4	nmod:cmp	_	Translit=ninnu|LTranslit=_
-3	మించిన	_	ADP	ADP	_	2	case	_	Translit=miṁcina|LTranslit=_
+3	మించిన	_	ADP	ADP	_	2	case	_	Translit=miṁcina|LTranslit=_
 4	స్త్రీని	_	NOUN	NOUN	_	5	obj	_	Translit=strīni|LTranslit=_
 5	చూసి	_	VERB	VERB	_	8	ccomp	_	Translit=cūsi|LTranslit=_
 6	నువ్వు	_	PRON	PRON	_	8	nsubj	_	Translit=nuvvu|LTranslit=_

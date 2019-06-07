@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-pas
 569 nodes (2%) are attached to their parents as `aux`.
 
 569 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35500878734622.
+Average distance between parent and child is 1.35149384885764.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (544; 96% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (6; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (557; 98% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances).
 
 
 ~~~ conllu
@@ -26,33 +26,14 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Auparavant	_	ADV	RB	_	7	advmod	_	_
 2	les	_	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
 3	jets	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
-4	avaient	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
+4	avaient	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp	7	aux	_	_
 5	seulement	_	ADV	RB	_	7	advmod	_	_
-6	été	_	VERB	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
+6	été	_	AUX	VBN	Gender=Masc|Number=Sing	7	aux:pass	_	_
 7	vus	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 8	par	_	ADP	IN	_	10	case	_	_
 9	des	_	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
 10	bloggeurs	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	.	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 aux	color:blue
-1	Elle	_	PRON	PRP	Gender=Fem|Number=Sing|Person=3	4	nsubj:pass	_	_
-2	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	été	_	VERB	VBN	Gender=Masc|Number=Sing	4	aux:pass	_	_
-4	déclarée	_	AUX	VBN	Gender=Fem|Number=Sing	0	root	_	_
-5	réserve	_	NOUN	NN	Gender=Fem|Number=Sing	4	xcomp	_	_
-6	naturelle	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
-7	en	_	ADP	IN	_	8	case	_	_
-8	1975	_	NUM	CD	_	4	obl	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -69,13 +50,38 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	cependant	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
 5	,	_	PUNCT	,	_	4	punct	_	_
 6	n'	_	ADV	RB	Polarity=Neg	10	advmod	_	SpaceAfter=No
-7	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+7	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
 8	pas	_	ADV	RB	Polarity=Neg	10	advmod	_	_
 9	été	_	AUX	VBN	Gender=Masc|Number=Sing	10	cop	_	_
 10	exempte	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
 11	de	_	ADP	IN	_	12	case	_	_
 12	critiques	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
 13	.	_	PUNCT	.	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 aux	color:blue
+1	Son	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+2	album	_	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
+3	Wild	_	ADJ	JJ	Number=Sing	4	amod	_	Proper=True
+4	West	_	NOUN	NN	Number=Sing	2	appos	_	Proper=True
+5	(	_	PUNCT	(	_	6	punct	_	SpaceAfter=No
+6	1981	_	NUM	CD	_	2	obl:tmod	_	SpaceAfter=No
+7	)	_	PUNCT	)	_	6	punct	_	_
+8	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+9	été	_	AUX	VBN	Gender=Masc|Number=Sing	11	cop	_	_
+10	l’	_	DET	DT	Gender=Fem|Number=Sing	11	det	_	OrigForm=l'|SpaceAfter=No
+11	une	_	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+12	de	_	ADP	IN	_	15	case	_	_
+13	ses	_	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	15	nmod:poss	_	_
+14	meilleures	_	ADJ	JJR	Gender=Fem|Number=Plur	15	amod	_	_
+15	ventes	_	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 
 ~~~
 

@@ -96,7 +96,7 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 22182 tokens and 23729 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 22182 tokens and 23731 syntactic words.</li>
 </ul>
 
 <ul>
@@ -112,8 +112,8 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 1545 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 99 types of multi-word tokens. Examples: del, della, nel, dell', al, dei, alla, delle, all', nella, degli, nell', dal, nei, nelle, dalla, sul, ai, dai, dall', negli, alle, sulla, dalle, sull', agli, sui, dello, sulle, dagli, nello, dallo, essersi, allo, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
+<li>This corpus contains 1547 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 99 types of multi-word tokens. Examples: del, della, nel, dell', al, dei, alla, delle, all', nella, degli, nell', dal, nei, nelle, dalla, sul, ai, dai, dall', negli, alle, sulla, dalle, sull', agli, sui, dagli, dello, sulle, nello, dallo, essersi, allo, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -130,11 +130,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as pronouns (PRON): che, chi, chiunque, ci, cosa, cui, dove, egli, esempio, esse, essi, esso, gli, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, ne, noi, nostro, perché, più, proprio, quale, quali, quanto, quello, questo, se, si, sua, suo, sé, te, vi, voi</li>
+<li>This corpus contains 43 lemmas tagged as pronouns (PRON): che, chi, chiunque, ci, cosa, cui, egli, esempio, esse, essi, esso, gli, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, ne, noi, nostro, perché, più, proprio, quale, quali, quanto, quello, questo, se, si, sua, suo, sé, te, vi, voi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as determiners (DET): I, L', Le, Un, alcuno, altro, certo, che, ciascuno, ciò, coloro, da, di, diverso, il, la, li, lo, moltissimi, molto, nessuno, numerose, numerosi, numeroso, ogni, più, poco, qualche, quale, quali, qualsiasi, qualunque, quello, quest', questi, questo, suo, svariato, tale, tali, troppo, ulteriore, uno, vario, vario|varo</li>
+<li>This corpus contains 44 lemmas tagged as determiners (DET): I, L', Le, Un, alcuno, altro, certo, che, ciascuno, ciò, coloro, di, diverso, il, la, li, lo, moltissimi, molto, nessuno, numerose, numerosi, numeroso, ogni, più, poco, qualche, quale, quali, qualsiasi, qualunque, quello, quest', questi, questo, suo, svariato, tale, tali, troppo, ulteriore, uno, vario, vario|varo</li>
 </ul>
 
 <ul>
@@ -142,11 +142,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): Sarei, avere, dovere, essere, essere|sonare, potere, restare, sapere, sta, stanno, stare, stava, stavano, volere</li>
+<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): avere, dovere, essere, potere, sapere, stare, venire, volere</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: avere, essere, potere, sapere, stare, volere</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: avere, essere, potere, sapere, stare, venire, volere</li>
 </ul>
 
 <ul>
@@ -166,12 +166,13 @@ employ ten-fold cross-validation.
       <li>ADJ: prima, maggior, gran, grande, alta, maggiore, meridionale, americana, nuova, seconda</li>
       <li>ADP: alla, della, alle, dalla, dell', nella</li>
       <li>AUX: stata, state</li>
+      <li>CCONJ: che</li>
       <li>DET: la, le, l', una, un', questa, altre, molte, queste, diverse</li>
       <li>NOUN: parte, città, persone, volta, guerra, vita, popolazione, regione, storia, crescita</li>
       <li>NUM: una</li>
       <li>PRON: che, sua, loro, sue, cui, quella, propria, le, la, lei</li>
       <li>PROPN: Cina, Francia, guerra, Europa, Gran, Hong, Italia, Kong, Russia, Albania</li>
-      <li>VERB: stata, state, considerate, diventata, usata, basata, cresciute, lasciata, pubblicate, riguardanti</li>
+      <li>VERB: considerate, diventata, usata, basata, cresciute, lasciata, pubblicate, riguardanti, utilizzata, considerata</li>
     </ul>
   </li>
 </ul>
@@ -180,15 +181,16 @@ employ ten-fold cross-validation.
   <li>Masc
     <ul>
       <li>ADJ: ultimi, nuovi, nuovo, stesso, primo, tutti, tutto, grande, scorso, ultimo</li>
-      <li>ADP: al, del, dell', all', Sulla, ai, allo, dagli, dai, dal</li>
+      <li>ADP: al, del, dell', all', Da, Sulla, ai, allo, dagli, dai</li>
       <li>ADV: più</li>
       <li>AUX: stato, stati</li>
+      <li>CCONJ: che</li>
       <li>DET: il, i, un, l', gli, lo, questo, ciò, molti, altri</li>
       <li>NOUN: anni, anno, governo, secolo, stato, tempo, giorno, mondo, numero, periodo</li>
       <li>NUM: uno, un</li>
       <li>PRON: che, suo, lo, loro, questo, cui, suoi, gli, lui, quali</li>
       <li>PROPN: Mar, Stati, Uniti, Trump, Mediterraneo, Nord, Regno, Caraibi, Donald, Joseph</li>
-      <li>VERB: stato, fatto, stati, utilizzato, inclusi, accusato, detto, diretto, fondato, pubblicato</li>
+      <li>VERB: fatto, utilizzato, inclusi, stato, accusato, detto, diretto, fondato, pubblicato, seguiti</li>
     </ul>
   </li>
 </ul>
@@ -202,13 +204,13 @@ employ ten-fold cross-validation.
   <li>Plur
     <ul>
       <li>ADJ: ultimi, nuovi, grandi, tutti, nuove, primi, americani, entrambi, nazionali, olimpici</li>
-      <li>ADP: ai, alle, dagli, dai</li>
-      <li>AUX: sono, hanno, erano, possono, avevano, fossero, furono, potrebbero, stanno, abbiano</li>
+      <li>ADP: Da, ai, alle, dagli, dai</li>
+      <li>AUX: sono, hanno, erano, vennero, furono, possono, avevano, stati, vengono, fossero</li>
       <li>DET: i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</li>
       <li>NOUN: anni, persone, dati, dollari, mesi, agenti, città, giorni, membri, effetti</li>
       <li>PRON: che, si, sue, suoi, loro, quali, cui, propri, quelli, ci</li>
       <li>PROPN: Stati, Uniti, Caraibi, Alpi, Giochi, Ande, Balcani, Bassi, Ottomani, Paesi</li>
-      <li>VERB: sono, vennero, furono, hanno, vengono, avevano, state, stati, considerate, erano</li>
+      <li>VERB: sono, hanno, avevano, considerate, fanno, inclusi, affermano, cominciarono, comprendono, cresciute</li>
     </ul>
   </li>
 </ul>
@@ -219,12 +221,13 @@ employ ten-fold cross-validation.
       <li>ADJ: prima, grande, maggior, nuovo, stesso, maggiore, gran, nazionale, primo, meridionale</li>
       <li>ADP: al, alla, dell', del, all', della, Sulla, allo, dal, dall'</li>
       <li>ADV: più</li>
-      <li>AUX: è, ha, era, fu, può, aveva, stato, potrebbe, sarebbe, sta</li>
+      <li>AUX: è, ha, era, fu, stato, venne, può, aveva, stata, fosse</li>
+      <li>CCONJ: che</li>
       <li>DET: il, la, l', un, una, lo, un', questo, questa, ciò</li>
       <li>NOUN: parte, anno, governo, volta, guerra, città, stato, tempo, giorno, mondo</li>
       <li>PRON: si, che, sua, suo, loro, lo, cui, questo, quella, gli</li>
       <li>PROPN: Cina, Mar, Trump, America, Francia, Mediterraneo, Nord, guerra, Europa, Gran</li>
-      <li>VERB: venne, fu, è, stato, ha, afferma, aveva, iniziò, stata, era</li>
+      <li>VERB: ha, afferma, aveva, iniziò, sembra, ebbe, fatto, riguarda, dichiarò, diventò</li>
     </ul>
   </li>
 </ul>
@@ -308,8 +311,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: era, aveva, erano, avevano, stavano, stava, ero, poteva, avevo, dovevano</li>
-      <li>VERB: aveva, era, avevano, veniva, erano, venivano, considerava, trovavano, includeva, riguardava</li>
+      <li>AUX: era, erano, aveva, avevano, veniva, stavano, venivano, stava, ero, poteva</li>
+      <li>VERB: aveva, avevano, considerava, trovavano, era, erano, includeva, riguardava, sembrava, trovava</li>
     </ul>
   </li>
 </ul>
@@ -317,8 +320,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: fu, furono, dovettero</li>
-      <li>VERB: venne, fu, vennero, furono, iniziò, ebbe, dichiarò, diventò, portò, divenne</li>
+      <li>AUX: fu, venne, vennero, furono, dovettero</li>
+      <li>VERB: iniziò, ebbe, dichiarò, diventò, portò, divenne, mise, cominciarono, continuò, crebbe</li>
     </ul>
   </li>
 </ul>
@@ -330,8 +333,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, Avrei, Sarei, potrei</li>
-      <li>VERB: verrebbe, Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</li>
+      <li>AUX: potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, verrebbe, Avrei, Sarei</li>
+      <li>VERB: Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</li>
     </ul>
   </li>
 </ul>
@@ -348,8 +351,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
-      <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
+      <li>AUX: è, ha, sono, era, fu, hanno, venne, può, erano, aveva</li>
+      <li>VERB: ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</li>
     </ul>
   </li>
 </ul>
@@ -357,8 +360,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: fosse, abbia, fossero, abbiano, possa, avesse, sia, potesse, avessero, debba</li>
-      <li>VERB: fosse, fossero, sia, venissero, aspetti, siano, abbia, affluissero, agissero, avessero</li>
+      <li>AUX: fosse, fossero, abbia, abbiano, possa, sia, avesse, siano, venissero, potesse</li>
+      <li>VERB: aspetti, sia, abbia, affluissero, agissero, avessero, avvii, avvistasse, conoscessi, continui</li>
     </ul>
   </li>
 </ul>
@@ -370,8 +373,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: sarà, dovrà, potranno</li>
-      <li>VERB: saranno, sarà, terrà, Passerà, Suoneranno, Valuteremo, aiuterà, aumenteranno, avrà, causeranno</li>
+      <li>AUX: sarà, dovrà, potranno, saranno, verranno</li>
+      <li>VERB: sarà, terrà, Passerà, Suoneranno, Valuteremo, aiuterà, aumenteranno, avrà, causeranno, cesserà</li>
     </ul>
   </li>
 </ul>
@@ -379,8 +382,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: era, fu, aveva, erano, stato, avevano, fosse, potuto, stata, fossero</li>
-      <li>VERB: affermato, venne, fu, detto, stato, fatto, vennero, avuto, portato, aveva</li>
+      <li>AUX: era, fu, stato, venne, erano, aveva, stata, vennero, fosse, furono</li>
+      <li>VERB: affermato, detto, fatto, avuto, portato, aveva, deciso, iniziò, raggiunto, messo</li>
     </ul>
   </li>
 </ul>
@@ -388,8 +391,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: è, ha, sono, hanno, può, possono, potrebbe, sarebbe, sta, ho</li>
-      <li>VERB: è, sono, ha, afferma, hanno, vengono, sembra, viene, riguarda, legge</li>
+      <li>AUX: è, ha, sono, hanno, può, possono, potrebbe, sarebbe, sta, vengono</li>
+      <li>VERB: ha, afferma, sono, hanno, sembra, riguarda, legge, trova, fanno, tratta</li>
     </ul>
   </li>
 </ul>
@@ -410,8 +413,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: è, essere, era, erano, fosse, fossero, Furono, sono</li>
-      <li>VERB: essere, venne, fu, è, vennero, sono, furono, vengono, veniva, viene</li>
+      <li>AUX: essere, venne, è, fu, vennero, sono, furono, vengono, era, veniva</li>
+      <li>VERB: diretto, inclusi, pubblicato, accusato, causato, dato, fatto, fondato, guidati, impiegato</li>
     </ul>
   </li>
 </ul>
@@ -436,6 +439,14 @@ employ ten-fold cross-validation.
   <li>Dem
     <ul>
       <li>PRON: quella, quello, quelli</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>NOUN: altro, un</li>
     </ul>
   </li>
 </ul>
@@ -480,9 +491,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>2
     <ul>
-      <li>AUX: Devi, avete</li>
+      <li>AUX: Devi, avete, hai</li>
       <li>PRON: te, vi, voi</li>
-      <li>VERB: Fa', Litighi, Metti, hai</li>
+      <li>VERB: Fa', Litighi, Metti</li>
     </ul>
   </li>
 </ul>
@@ -490,10 +501,10 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
+      <li>AUX: è, ha, sono, era, fu, hanno, venne, può, erano, aveva</li>
       <li>DET: sua</li>
       <li>PRON: si, sua, loro, suo, lo, sue, suoi, gli, ne, lui</li>
-      <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
+      <li>VERB: ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</li>
     </ul>
   </li>
 </ul>
@@ -541,12 +552,12 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: essere, Sarei.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essere.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, stare, stanno, sta, stavano, volere, essere|sonare, restare, sapere, stava.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, avere, stato.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, stare, volere, sapere.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, avere.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -555,7 +566,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (489)</li>
+      <li>VERB--NOUN (490)</li>
       <li>VERB--PRON (151)</li>
       <li>VERB--PRON-Nom (4)</li>
     </ul>
@@ -568,7 +579,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (694)</li>
       <li>VERB--NOUN-ADP(fino) (1)</li>
       <li>VERB--PRON (26)</li>
-      <li>VERB--PRON-Acc (49)</li>
+      <li>VERB--PRON-Acc (50)</li>
       <li>VERB--PRON-Nom (1)</li>
     </ul>
   </li>

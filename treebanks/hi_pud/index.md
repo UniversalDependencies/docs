@@ -642,7 +642,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-ADP(_) (1)</li>
       <li>VERB--PRON-Acc (138)</li>
       <li>VERB--PRON-Acc-ADP(_) (4)</li>
-      <li>VERB--PRON-Nom (160)</li>
+      <li>VERB--PRON-Nom (159)</li>
       <li>VERB--PRON-Nom-ADP(_) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(_) (7)</li>
       <li>VERB-Inf--NOUN-Nom (7)</li>

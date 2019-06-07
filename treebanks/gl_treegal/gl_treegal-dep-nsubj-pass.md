@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="gl_treegal-dep-nsub
 25 nodes (0%) are attached to their parents as `nsubj:pass`.
 
 25 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.12.
+Average distance between parent and child is 5.16.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (11; 44% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (9; 36% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (3; 12% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (11; 44% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (9; 36% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (4; 16% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

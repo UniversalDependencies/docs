@@ -11,9 +11,9 @@ This relation is universal.
 402 nodes (3%) are attached to their parents as `case`.
 
 399 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7363184079602.
+Average distance between parent and child is 1.73383084577114.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (241; 60% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (44; 11% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (29; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (21; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (20; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `case`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (240; 60% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (44; 11% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (29; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (22; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (20; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 11	inside	inside	ADP	_	_	13	case	_	_
 12	dis	dis	DET	_	_	13	det	_	_
 13	rain	rain	NOUN	_	_	10	obl:arg	_	_
-14	o	o	PART	_	_	13	advmod:emph	_	_
+14	o	o	ADV	PART	_	13	advmod:emph	_	_
 15	//	//	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 3	tire	tire	VERB	_	_	0	root	_	_
 4	for	for	ADP	_	_	5	case	_	_
 5	dem	dem	PRON	_	_	3	obl:arg	_	_
-6	o	o	PART	_	_	5	advmod:emph	_	_
+6	o	o	ADV	PART	_	5	advmod:emph	_	_
 7	//	//	PUNCT	_	_	3	punct	_	_
 
 ~~~

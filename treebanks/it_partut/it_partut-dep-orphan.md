@@ -107,7 +107,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	anche	anche	ADV	B	_	7	advmod	_	_
 7	Adamo	Adamo	PROPN	SP	_	5	obj	_	_
 8	in	in	ADP	E	_	11	case	_	_
-9	As	As	PROPN	SP	_	11	mark	_	_
+9	As	As	ADP	E	_	11	mark	_	_
 10	You	You	PROPN	SP	_	11	nsubj	_	_
 11	Like	Like	PROPN	SP	_	5	advcl	_	_
 12	It	It	PROPN	SP	_	11	obj	_	_

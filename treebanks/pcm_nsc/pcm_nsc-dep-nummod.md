@@ -13,7 +13,7 @@ This relation is universal.
 34 instances of `nummod` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.02857142857143.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (26; 74% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (7; 20% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (24; 69% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (7; 20% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -51,23 +51,25 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	na	na	PART	_	_	3	cop	_	_
-2	only	only	ADV	_	_	3	advmod	_	_
-3	SH	SH	PROPN	_	_	0	root	_	_
-4	one	one	NUM	_	_	5	nummod	_	_
-5	SH	SH	PROPN	_	_	3	conj:dicto	_	_
-6	>+	>+	PUNCT	_	_	8	punct	_	_
-7	wey	wey	SCONJ	_	_	8	mark	_	_
-8	get	get	VERB	_	_	5	acl:cleft	_	_
-9	for	for	ADP	_	_	10	case	_	_
-10	department	department	NOUN	_	_	8	obl:mod	_	_
-11	o	o	PART	_	_	8	advmod:emph	_	_
-12	//	//	PUNCT	_	_	3	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nummod	color:blue
+1	#	#	PUNCT	_	_	10	punct	_	_
+2	if	if	SCONJ	_	_	5	mark	_	_
+3	we	we	PRON	_	_	5	nsubj	_	_
+4	dey	dey	AUX	_	_	5	aux	_	_
+5	drive	drive	VERB	_	_	10	advcl	_	_
+6	<	<	PUNCT	_	_	5	punct	_	_
+7	make	make	AUX	_	_	10	aux	_	_
+8	we	we	PRON	_	_	10	nsubj	_	_
+9	dey	dey	AUX	_	_	10	aux	_	_
+10	concentrate	concentrate	VERB	_	_	0	root	_	_
+11	>	>	PUNCT	_	_	13	punct	_	_
+12	hundred	hundred	NUM	_	_	13	nummod	_	_
+13	percent	percent	ADV	NOUN	_	10	advmod	_	_
+14	//	//	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

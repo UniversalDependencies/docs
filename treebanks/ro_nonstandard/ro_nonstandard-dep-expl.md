@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-710 nodes (0%) are attached to their parents as `expl`.
+941 nodes (0%) are attached to their parents as `expl`.
 
-598 instances of `expl` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66197183098592.
+785 instances of `expl` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.63124335812965.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (672; 95% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (884; 94% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -67,28 +67,30 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 expl	color:blue
-1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=LUCA16.20
-2	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	ref=LUCA16.20
-3	cerșitoriu	cerșetor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=LUCA16.20
-4	căruia	care	PRON	Pw3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	8	iobj	_	ref=LUCA16.20|SpaceAfter=No
-5	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	expl	_	ref=LUCA16.20
-6	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	ref=LUCA16.20
-7	numele	nume	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	ref=LUCA16.20
-8	Lazăr	Lazăr	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	acl	_	ref=LUCA16.20|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	11	punct	_	ref=LUCA16.20
-10	carele	care	PRON	Pw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj	_	ref=LUCA16.20
-11	zăcea	zăcea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	ref=LUCA16.20
-12	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	13	case	_	ref=LUCA16.20
-13	ușăi	ușii	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	ref=LUCA16.20
-14	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	ref=LUCA16.20|SpaceAfter=No
-15	,	,	PUNCT	COMMA	_	16	punct	_	ref=LUCA16.20
-16	zgăibos	zgăibos	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	ref=LUCA16.20|SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	3	punct	_	ref=LUCA16.20
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 7 expl	color:blue
+1	Învingătoriul	învingător	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	ref=IOAN_APOC_21.7
+2	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	ref=IOAN_APOC_21.7
+3	moșteni	moșteni	VERB	Vmn	VerbForm=Inf	0	root	_	ref=IOAN_APOC_21.7
+4	toate	tot	PRON	Pi3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	3	obj	_	ref=IOAN_APOC_21.7|SpaceAfter=No
+5	;	;	PUNCT	SCOLON	_	11	punct	_	ref=IOAN_APOC_21.7
+6	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=IOAN_APOC_21.7|SpaceAfter=No
+7	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	expl	_	ref=IOAN_APOC_21.7
+8	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	ref=IOAN_APOC_21.7
+9	fi	fi	AUX	Van	VerbForm=Inf	11	cop	_	ref=IOAN_APOC_21.7
+10	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	11	iobj	_	ref=IOAN_APOC_21.7
+11	Dumnezău	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	ref=IOAN_APOC_21.7|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	18	punct	_	ref=IOAN_APOC_21.7
+13	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=IOAN_APOC_21.7
+14	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	ref=IOAN_APOC_21.7
+15	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	ref=IOAN_APOC_21.7
+16	fi	fi	AUX	Van	VerbForm=Inf	18	cop	_	ref=IOAN_APOC_21.7
+17	Mie	eu	PRON	Pp1-sd--------s	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Strong	18	iobj	_	ref=IOAN_APOC_21.7
+18	fiiu	fiu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	ref=IOAN_APOC_21.7|SpaceAfter=No
+19	.	.	PUNCT	PERIOD	_	3	punct	_	ref=IOAN_APOC_21.7
 
 ~~~
 

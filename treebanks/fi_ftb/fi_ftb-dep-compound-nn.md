@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `compound:nn`: <tt><
 3	erikoiskoe	erikoiskoe	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	compound:nn	_	Alt=compound:nn
 4	20:n	20	NUM	Num,Card,Sg,Gen	Case=Gen|Number=Sing|NumType=Card	1	nummod	_	_
 5	jälkeen	jälkeen	ADP	Adp	_	4	case	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
+6	.	.	PUNCT	Pun	_	4	punct	_	Was18=punct:5:case
 
 ~~~
 

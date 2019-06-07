@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `advcl:periph`: <tt>
 11	motor	motor	NOUN	_	_	7	obl:arg	_	_
 12	]	]	PUNCT	_	_	7	punct	_	_
 13	<	<	PUNCT	_	_	7	punct	_	_
-14	na	na	PART	_	_	15	cop	_	_
+14	na	na	AUX	PART	_	15	cop	_	_
 15	problem	problem	NOUN	_	_	0	root	_	_
 16	//	//	PUNCT	_	_	15	punct	_	_
 
@@ -75,7 +75,7 @@ The following 7 pairs of parts of speech are connected with `advcl:periph`: <tt>
 2	if	if	SCONJ	_	_	8	mark	_	_
 3	di	di	DET	_	_	4	det	_	_
 4	rain	rain	NOUN	_	_	8	nsubj	_	_
-5	no	no	PART	_	_	8	advmod	_	_
+5	no	no	ADV	PART	_	8	advmod	_	_
 6	from	from	ADP	_	_	7	case	_	_
 7	roof	roof	NOUN	_	_	8	obl:arg	_	_
 8	enter	enter	VERB	_	_	11	advcl:periph	_	_
@@ -87,11 +87,11 @@ The following 7 pairs of parts of speech are connected with `advcl:periph`: <tt>
 14	front	front	NOUN	_	_	11	obl:arg	_	_
 15	|c	|c	PUNCT	_	_	20	punct	_	_
 16	or	or	CCONJ	_	_	20	cc	_	_
-17	even	even	ADV	_	_	16	advmod	_	_
+17	even	even	ADV	_	_	20	advmod	_	_
 18	from	from	ADP	_	_	20	case	_	_
 19	di	di	DET	_	_	20	det	_	_
 20	wall	wall	NOUN	_	_	14	conj:coord	_	_
-21	sef	sef	PART	_	_	20	advmod:emph	_	_
+21	sef	sef	ADV	PART	_	20	advmod:emph	_	_
 22	}	}	PUNCT	_	_	14	punct	_	_
 23	//	//	PUNCT	_	_	11	punct	_	_
 

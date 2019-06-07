@@ -7,19 +7,19 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: POS Tags: `ADP`
 
 There are 3 `ADP` lemmas (15%), 53 `ADP` types (1%) and 3918 `ADP` tokens (16%).
-Out of 16 observed tags, the rank of `ADP` is: 1 in number of lemmas, 9 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 1 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>_, de, à</em>
 
 The 10 most frequent `ADP` types:  <em>de, à, en, dans, d', pour, par, d’, sur, avec</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 4804, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 3324, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 3037, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 3024, <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> 2548, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1607, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1335, <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1241, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 1035, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 562, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 458, <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> 274, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 206, <tt><a href="fr_pud-pos-X.html">X</a></tt> 48, <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> 34, <tt><a href="fr_pud-pos-PART.html">PART</a></tt> 9)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 4804, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 3323, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 3036, <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> 2553, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 2277, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1603, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1333, <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1241, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 1035, <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> 1020, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 562, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 462, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 209, <tt><a href="fr_pud-pos-X.html">X</a></tt> 43, <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> 34, <tt><a href="fr_pud-pos-PART.html">PART</a></tt> 9)
 
-The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 1557, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 36), <em>en</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 10), <em>d'</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 178, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 14), <em>d’</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 95, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 4), <em>après</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 36, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 2), <em>que</em> (<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 131, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 45, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 13), <em>entre</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 32, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 1), <em>qu’</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1), <em>avant</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>si</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 6)
+The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 1558, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 36), <em>en</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 10), <em>d'</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 178, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 14), <em>d’</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 95, <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 4), <em>après</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 36, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 2), <em>que</em> (<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 132, <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 45, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 12), <em>entre</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 32, <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 1), <em>qu’</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 1), <em>avant</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 17, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>si</em> (<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 15, <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 6)
 
 
 * <em>de</em>
-  * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 1557: <em>Tout le monde ne peut pas s' élever à le dessus <b>de</b> ça .</em>
+  * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 1558: <em>Tout le monde ne peut pas s' élever à le dessus <b>de</b> ça .</em>
   * <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 36: <em>Le programme gagne <b>de</b> l' argent grâce à le parrainage et à la publicité .</em>
 * <em>en</em>
   * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 272: <em>Il a parlé <b>en</b> faveur de la torture .</em>
@@ -34,10 +34,10 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_pud-pos-ADP.
   * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 36: <em>Ils ont été presque complètement oubliés jusqu' <b>après</b> la mort de E.E. Smith .</em>
   * <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 2: <em>Durant le séjour , l' homme et la jeune fille entretiennent une courte liaison amoureuse avouée peu <b>après</b> .</em>
 * <em>que</em>
-  * <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 131: <em>Il se peut <b>que</b> cela n’ ait pas d’ importance .</em>
+  * <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> 132: <em>Il se peut <b>que</b> cela n’ ait pas d’ importance .</em>
   * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 45: <em>Peut-être <b>que</b> le code vestimentaire était trop strict .</em>
   * <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 14: <em>Kühn ne peut <b>que</b> secouer la tête .</em>
-  * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 13: <em>Mais <b>que</b> dire de la position de l’ Australie ?</em>
+  * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 12: <em>Mais <b>que</b> dire de la position de l’ Australie ?</em>
 * <em>entre</em>
   * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 32: <em>Pour l’ instant , l’ accord <b>entre</b> Aoun et Hariri a rapproché les deux factions .</em>
   * <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 1: <em>Caplan réfute les votes a posteriori , citant un groupe de professeurs qui appelle cela « pas plus logique que de tuer le pharaon quand le Nil n' <b>entre</b> pas en crue . »</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 17.666667 (the average of all parts of speech is 309.550000).
+The form / lemma ratio of `ADP` is 17.666667 (the average of all parts of speech is 309.000000).
 
 The 1st highest number of forms (53) was observed with the lemma “_”: <em>Di, If, Malgré, On, Over, Von, a, afin, après, au-delà, auprès, av., avant, avec, chez, comme, contre, d', dans, de, depuis, devant, dont, durant, dès, d’, en, entre, envers, jusqu', jusque, jusqu’, of, par, parmi, pendant, pour, qu', quant, que, qu’, s', sans, sauf, selon, si, sous, sur, s’, tandis, vers, via, à</em>.
 
@@ -75,21 +75,21 @@ Examples: <em>de, à, en, dans, d', pour, par, d’, sur, avec</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="fr_pud-dep-case.html">case</a></tt> (3387; 86% instances), <tt><a href="fr_pud-dep-mark.html">mark</a></tt> (258; 7% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (194; 5% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (50; 1% instances), <tt><a href="fr_pud-dep-nmod.html">nmod</a></tt> (14; 0% instances), <tt><a href="fr_pud-dep-det.html">det</a></tt> (5; 0% instances), <tt><a href="fr_pud-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="fr_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="fr_pud-dep-case.html">case</a></tt> (3391; 87% instances), <tt><a href="fr_pud-dep-mark.html">mark</a></tt> (261; 7% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (194; 5% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (44; 1% instances), <tt><a href="fr_pud-dep-nmod.html">nmod</a></tt> (14; 0% instances), <tt><a href="fr_pud-dep-det.html">det</a></tt> (4; 0% instances), <tt><a href="fr_pud-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt> (2; 0% instances), <tt><a href="fr_pud-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2550; 65% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (516; 13% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (395; 10% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (133; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (98; 3% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (93; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (68; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (30; 1% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (5; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2551; 65% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (516; 13% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (400; 10% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (134; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (98; 3% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (93; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (68; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (5; 0% instances)
 
-3747 (96%) `ADP` nodes are leaves.
+3748 (96%) `ADP` nodes are leaves.
 
 61 (2%) `ADP` nodes have one child.
 
 71 (2%) `ADP` nodes have two children.
 
-39 (1%) `ADP` nodes have three or more children.
+38 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 6.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (288; 88% instances), <tt><a href="fr_pud-dep-punct.html">punct</a></tt> (34; 10% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 4 different relations: <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (287; 89% instances), <tt><a href="fr_pud-dep-punct.html">punct</a></tt> (33; 10% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (98; 30% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (79; 24% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (42; 13% instances), <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (34; 10% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (31; 10% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (18; 6% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (98; 30% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (78; 24% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (42; 13% instances), <tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (33; 10% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (30; 9% instances), <tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (18; 6% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 

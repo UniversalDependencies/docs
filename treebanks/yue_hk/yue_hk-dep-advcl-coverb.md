@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-advcl.html">advcl</a></tt>.
 
-33 nodes (1%) are attached to their parents as `advcl:coverb`.
+70 nodes (1%) are attached to their parents as `advcl:coverb`.
 
-33 instances of `advcl:coverb` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.96969696969697.
+70 instances of `advcl:coverb` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.01428571428571.
 
-The following 4 pairs of parts of speech are connected with `advcl:coverb`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (24; 73% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 12% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (4; 12% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `advcl:coverb`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (57; 81% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,29 +39,6 @@ The following 4 pairs of parts of speech are connected with `advcl:coverb`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 advcl:coverb	color:blue
-1	明明	明明	ADV	_	_	6	advmod	_	SpaceAfter=No
-2	啲	啲	NOUN	_	NounType=Clf	3	det	_	SpaceAfter=No
-3	CD	CD	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-4	同	同	VERB	_	_	6	advcl:coverb	_	SpaceAfter=No
-5	而家	而家	NOUN	_	_	4	obj	_	SpaceAfter=No
-6	一樣	一樣	ADJ	_	_	0	root	_	SpaceAfter=No
-7	都	都	ADV	_	_	8	advmod	_	SpaceAfter=No
-8	係	係	AUX	_	_	10	cop	_	SpaceAfter=No
-9	一百	一百	NUM	_	_	10	nummod	_	SpaceAfter=No
-10	蚊	緡	NOUN	_	NounType=Clf	6	conj	_	SpaceAfter=No
-11	倒	倒	ADV	_	_	10	advmod	_	SpaceAfter=No
-12	咋嘛	咋嘛	PART	_	_	6	discourse:sp	_	SpaceAfter=No
-13	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 advcl:coverb	color:blue
 1	佢	佢	PRON	_	_	6	nsubj	_	SpaceAfter=No
 2	日日	日日	ADV	_	_	6	advmod	_	SpaceAfter=No
 3	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No
@@ -77,6 +54,29 @@ The following 4 pairs of parts of speech are connected with `advcl:coverb`: <tt>
 13	我哋	我哋	PRON	_	_	12	obj	_	SpaceAfter=No
 14	咩	咩	PART	_	_	12	discourse:sp	_	SpaceAfter=No
 15	？	？	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 advcl:coverb	color:blue
+1	明明	明明	ADV	_	_	6	advmod	_	SpaceAfter=No
+2	啲	啲	NOUN	_	NounType=Clf	3	det	_	SpaceAfter=No
+3	CD	CD	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+4	同	同	VERB	_	_	6	advcl:coverb	_	SpaceAfter=No
+5	而家	而家	NOUN	_	_	4	obj	_	SpaceAfter=No
+6	一樣	一樣	ADJ	_	_	0	root	_	SpaceAfter=No
+7	都	都	ADV	_	_	10	advmod	_	SpaceAfter=No
+8	係	係	AUX	_	_	10	cop	_	SpaceAfter=No
+9	一百	一百	NUM	_	_	10	nummod	_	SpaceAfter=No
+10	蚊	緡	NOUN	_	NounType=Clf	6	conj	_	SpaceAfter=No
+11	倒	倒	ADV	_	_	10	advmod	_	SpaceAfter=No
+12	咋嘛	咋嘛	PART	_	_	6	discourse:sp	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

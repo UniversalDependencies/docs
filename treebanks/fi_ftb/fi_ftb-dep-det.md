@@ -11,7 +11,7 @@ This relation is universal.
 3868 nodes (2%) are attached to their parents as `det`.
 
 3868 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28050672182006.
+Average distance between parent and child is 1.28024819027921.
 
 The following 12 pairs of parts of speech are connected with `det`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3271; 85% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (228; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (92; 2% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (88; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (67; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (42; 1% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2 1 det	color:blue
 1	Kaikki	kaikki	DET	Pron,Qnt,Nom	Case=Nom|PronType=Ind	2	det	_	_
 2	suomalaiset	suomalainen	ADJ	A,Pl,Nom	Case=Nom|Number=Plur	5	nsubj	_	_
-3	eivät	ei	VERB	V,Neg,Act,Pl3	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	eivät	ei	AUX	V,Neg,Act,Pl3	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	5	aux	_	_
 4	edes	edes	PART	Pcle	_	5	advmod	_	_
 5	halua	haluta	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	maalle	maa	NOUN	N,Sg,All	Case=All|Number=Sing	5	nmod	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="fr_pud-dep-det-predet.html">det:predet</a></tt>.
 
-3589 nodes (15%) are attached to their parents as `det`.
+3588 nodes (15%) are attached to their parents as `det`.
 
 3588 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1175814990248.
+Average distance between parent and child is 1.11761426978818.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3272; 91% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (244; 7% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3274; 91% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (244; 7% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
 1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-2	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 3	travaillé	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 4	pour	_	ADP	IN	_	6	case	_	_
 5	la	_	DET	DT	Gender=Fem|Number=Sing	6	det	_	_

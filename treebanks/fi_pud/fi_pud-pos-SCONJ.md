@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Finnish-PUD: POS Tags: `SCONJ`
 
-There are 12 `SCONJ` lemmas (0%), 12 `SCONJ` types (0%) and 306 `SCONJ` tokens (2%).
+There are 12 `SCONJ` lemmas (0%), 12 `SCONJ` types (0%) and 311 `SCONJ` tokens (2%).
 Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>että, kun, kuin, jos, koska, vaikka, jotta, sillä, kuten, kunnes</em>
 
 The 10 most frequent `SCONJ` types:  <em>että, kun, kuin, jos, koska, vaikka, jotta, sillä, kuten, kunnes</em>
 
-The 10 most frequent ambiguous lemmas: <em>että</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 133, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>kun</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 3), <em>kuin</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1), <em>kuten</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>taas</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>että</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>kun</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 3), <em>kuin</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1), <em>kuten</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>taas</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 133, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>kun</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 3), <em>kuin</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1), <em>sillä</em> (<tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>kuten</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>taas</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>kun</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 3), <em>kuin</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>vaikka</em> (<tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 1), <em>sillä</em> (<tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>kuten</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>taas</em> (<tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 
 * <em>että</em>
-  * <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 133: <em>Luulen , <b>että</b> he siksi uppoutuvat kuvioihin ja väreihin .</em>
+  * <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 137: <em>Luulen , <b>että</b> he siksi uppoutuvat kuvioihin ja väreihin .</em>
   * <tt><a href="fi_pud-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Sekä tämän välikohtauksen ajankohdasta <b>että</b> sen tapahtumien järjestyksestä keskusteltiin voimakkaasti .</em>
 * <em>kun</em>
   * <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 55: <em>Mutta <b>kun</b> ehdotin , että hän pyytäisi Frankia mallikseen , hän nauraa .</em>
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>että</em> (<tt><a href="fi_pud-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.520990).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.526379).
 
 The 1st highest number of forms (1) was observed with the lemma “että”: <em>että</em>.
 
@@ -57,11 +57,11 @@ The 3rd highest number of forms (1) was observed with the lemma “jotta”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (303; 99% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="fi_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fi_pud-dep-mark.html">mark</a></tt> (309; 99% instances), <tt><a href="fi_pud-dep-fixed.html">fixed</a></tt> (2; 1% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (219; 72% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (51; 17% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (224; 72% instances), <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (50; 16% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="fi_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-288 (94%) `SCONJ` nodes are leaves.
+293 (94%) `SCONJ` nodes are leaves.
 
 13 (4%) `SCONJ` nodes have one child.
 

@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 iobj	color:blue
-1	Mhux	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+1	Mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 2	lil	_	ADP	LIL	_	3	case	_	_
 3	missierek	_	NOUN	NOUN	_	4	iobj	_	_
 4	tgħidha	_	VERB	VERB	_	0	root	_	_
@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	f'	_	ADP	PREP	_	5	case	_	SpaceAfter=No
 5	Malta	_	PROPN	NOUN_PROP	_	3	obl	_	_
 6	ħanina	_	ADJ	ADJ	_	5	amod	_	_
-7	fejn	_	PRON	PRON_INT	_	9	advmod	_	_
+7	fejn	_	ADV	PRON_INT	_	9	advmod	_	_
 8	qed	_	AUX	PROG	_	9	aux:part	_	_
 9	taħfirha	_	VERB	VERB	_	5	acl	_	_
 10	lil	_	ADP	LIL	_	11	case	_	_

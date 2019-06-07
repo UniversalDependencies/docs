@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>ὡς</em> (<tt><a href="grc_perseus-
   * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 451: <em><b>ὡς</b> δὲ ἠδίκουν σαφές ἐστιν ·</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 288: <em>αἰεὶ δὲ <b>ὡς</b> πρὸς εὖ βουλευομένους τοὺς ἐναντίους ἔργῳ παρασκευαζόμεθα ·</em>
   * <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> 6: <em>ὦ Πέλοπος ἁ πρόσθεν πολύπονος ἱππεία , <b>ὡς</b> ἔμολες αἰανὴς τᾷδε γᾷ .</em>
-  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 5: <em>δεῦῤ ἴτ̓ , ἔλθετε <b>ὡς</b> τὰς ἀδελφὰς τάσδε τὰς ἐμὰς χέρας , αἳ τοῦ φυτουργοῦ πατρὸς ὑμὶν ὧδ̓ ὁρᾶν τὰ πρόσθε λαμπρὰ προυξένησαν ὄμματα ·</em>
+  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 5: <em>δεῦῤ ἴτ̓ , ἔλθετε <b>ὡς</b> τὰς ἀδελφὰς τάσδε τὰς ἐμὰς χέρας , αἳ τοῦ φυτουργοῦ πατρὸς ὑμὶν ὧδ̓ ὁρᾶν τὰ πρόσθε λαμπρὰ προυξένησαν ὄμματα ·</em>
 * <em>εἰ</em>
   * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 374: <em><b>εἰ</b> μὲν οὖν ἄλλοσέ ποι βούλεσθε πλεῖν , οὐ κωλύομεν ·</em>
   * <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> 11: <em><b>εἰ</b> δ̓ ἄγε μὴν πείρησαι ἵνα γνώωσι καὶ οἵδε ·</em>
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>ὡς</em> (<tt><a href="grc_perseus-
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 15: <em><b>ὥστε</b> φαμὲν οὐχ ἧσσον αὐτοὶ ὠφελῆσαι ὑμᾶς ἢ τυχεῖν τούτου .</em>
 * <em>ὅτε</em>
   * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 89: <em>Θεολύτην δ̓ οὐδ̓ οἶδεν οὐδεὶς <b>ὅτε</b> τὸ πρῶτον ἐγένετο .</em>
-  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 58: <em><b>ὅτε</b> καὶ δἰ ὀργὴν ἀπέκειρε τὸν ἐρώμενον .</em>
+  * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 58: <em><b>ὅτε</b> καὶ δἰ ὀργὴν ἀπέκειρε τὸν ἐρώμενον .</em>
 * <em>ὅπως</em>
   * <tt><a href="grc_perseus-pos-SCONJ.html">SCONJ</a></tt> 84: <em>οὗτος γὰρ ἄρχει καὶ θεῶν <b>ὅπως</b> θέλει , κἀμοῦ γε ·</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 7: <em>ἔπειτ̓ οὐκ οἶδ̓ <b>ὅπως</b> κατεδέξαντο .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ὡς</em> (<tt><a href="grc_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.672727 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `SCONJ` is 1.672727 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (7) was observed with the lemma “εἰ”: <em>αἰ, αἴ, εἰ, εἲ, εἴ, κεἰ, κεἴ</em>.
 

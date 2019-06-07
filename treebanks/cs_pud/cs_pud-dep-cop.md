@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	že	že	SCONJ	J,-------------	_	9	mark	_	LId=že-1
 8	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	třeba	třeba	ADV	Db-------------	_	5	ccomp	_	LId=třeba-2
-10	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	11	det:numgov	_	LId=hodně-2
+10	více	hodně	DET	Dg-------2A----	Degree=Cmp|Polarity=Pos	11	det:numgov	_	LId=hodně-2
 11	dárců	dárce	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	9	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 

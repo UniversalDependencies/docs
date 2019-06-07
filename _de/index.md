@@ -158,7 +158,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [two](../../treebanks/de-comparison.html) German UD treebanks:
+There are [four](../../treebanks/de-comparison.html) German UD treebanks:
 
-  * [German](../../treebanks/de-index.html)
-  * [German-PUD](../../treebanks/de_pud-index.html)
+  * [German-GSD](../../treebanks/de_gsd/index.html)
+  * [German-HDT](../../treebanks/de_hdt/index.html)
+  * [German-PUD](../../treebanks/de_pud/index.html)
+  * [German-LIT](../../treebanks/de_lit/index.html)

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Int`, `Prs`, `Rcp`, `Rel`.
 
-7023 tokens (12%) have a non-empty value of `PronType`.
-252 types (3%) occur at least once with a non-empty value of `PronType`.
+8243 tokens (14%) have a non-empty value of `PronType`.
+253 types (3%) occur at least once with a non-empty value of `PronType`.
 56 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (6260; 11% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (763; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (7479; 13% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (764; 1% instances).
 
 ### `PRON`
 
-6260 <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+7479 <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4352; 70%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3182; 51%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (3154; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6101; 82%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5565; 74%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (4373; 58%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Int` (355; 6% of non-empty `PronType`): <em>что, чъто, кто, къто, кого, чесо, комоу, чьто, каѣ, кое</em>
-* `Prs` (5129; 82% of non-empty `PronType`): <em>емоу, его, и, имъ, вамъ, азъ, вꙑ, мѧ, мьнѣ, мене</em>
+* `Int` (355; 5% of non-empty `PronType`): <em>что, чъто, кто, къто, кого, чесо, комоу, чьто, каѣ, кое</em>
+* `Prs` (6348; 85% of non-empty `PronType`): <em>сѧ, емоу, его, и, имъ, вамъ, азъ, вꙑ, мѧ, мьнѣ</em>
 * `Rcp` (39; 1% of non-empty `PronType`): <em>дроугъ, дроуга, дроугоу</em>
-* `Rel` (737; 12% of non-empty `PronType`): <em>иже, еже, ꙇже, елико, егоже, ѣже, ѩже, емоуже, ньже, ѭже</em>
+* `Rel` (737; 10% of non-empty `PronType`): <em>иже, еже, ꙇже, елико, егоже, ѣже, ѩже, емоуже, ньже, ѭже</em>
 
 <table>
   <tr><th>Paradigm <i>кꙑи</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -46,15 +46,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-763 <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `PronType`.
+764 <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (763; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (764; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (410; 54% of non-empty `PronType`): <em>ли, како, еда, отъ, къде, кѫдоу, когда, колико, камо, кольми</em>
-* `Rel` (353; 46% of non-empty `PronType`): <em>егда, ѣкоже, идеже, ꙇдеже, ѣко, ѣможе, Е҅гда, еликоже, иде, иждеже</em>
-* `EMPTY` (5233): <em>же, не, бо, и, оубо, ѣко, пакꙑ, тъгда, да, тоу</em>
+* `Rel` (354; 46% of non-empty `PronType`): <em>егда, ѣкоже, идеже, ꙇдеже, ѣко, ѣможе, Е҅гда, еликоже, иде, иждеже</em>
+* `EMPTY` (5234): <em>же, не, бо, и, оубо, ѣко, пакꙑ, тъгда, да, тоу</em>
 
 <table>
   <tr><th>Paradigm <i>како</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -66,9 +66,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="cu_proiel-dep-flat.html">flat</a></tt>]--> ADV</tt> (28; 100%),
-<tt>PRON --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (12; 100%),
-<tt>PRON --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 89%),
-<tt>PRON --[<tt><a href="cu_proiel-dep-appos.html">appos</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="cu_proiel-dep-flat.html">flat</a></tt>]--> PRON</tt> (2; 100%).
+<tt>ADV --[<tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (28; 100%),
+<tt>PRON --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (19; 100%),
+<tt>PRON --[<tt><a href="cu_proiel-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="cu_proiel-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

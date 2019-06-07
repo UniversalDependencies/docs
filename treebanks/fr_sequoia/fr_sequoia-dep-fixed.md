@@ -8,52 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-1844 nodes (3%) are attached to their parents as `fixed`.
+677 nodes (1%) are attached to their parents as `fixed`.
 
-1844 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46312364425163.
+677 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.32644017725258.
 
-The following 46 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (415; 23% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (380; 21% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (241; 13% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (153; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (125; 7% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (69; 4% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (48; 3% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (34; 2% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (33; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (32; 2% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (31; 2% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (25; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (21; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 fixed	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	2	nsubj	_	_
-2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	à	à	ADP	_	_	2	advmod	_	MWE=à_présent|MWEPOS=ADV
-4	présent	présent	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
-5	aborder	aborder	VERB	_	VerbForm=Inf	2	xcomp	_	_
-6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	sujets	sujet	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
-8	suivants	suivant	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 44 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (104; 15% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (79; 12% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (66; 10% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (47; 7% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (39; 6% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (39; 6% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (29; 4% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (24; 4% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (23; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (22; 3% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (21; 3% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (20; 3% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (17; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (14; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	Tenir	tenir	VERB	_	VerbForm=Inf	0	root	_	_
-2	hors	hors	ADP	_	_	5	case	_	MWE=hors_de|MWEPOS=ADP
-3	de	de	ADP	_	_	2	fixed	_	_
-4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	portée	portée	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	_
-6	et	et	CCONJ	_	_	9	cc	_	_
-7	de	de	ADP	_	_	9	case	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	vue	vue	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
-10	de	de	ADP	_	_	12	case	_	_
-11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	enfants	enfant	NOUN	_	Number=Plur	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	De	de	ADP	_	_	11	advmod	_	MWE=de_plus|MWEPOS=ADV
+2	plus	plus	ADV	_	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	mise	mise	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+6	à	à	ADP	_	_	7	case	_	_
+7	jour	jour	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	PGR	PGR	NOUN	_	Number=Sing	5	nmod	_	_
+11	devra	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	être	être	AUX	_	VerbForm=Inf	13	aux:pass	_	_
+13	soumise	soumettre	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	_
+14	:	:	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
@@ -73,6 +55,26 @@ The following 46 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	an	an	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 fixed	color:blue
+1	Angiox	Angiox	PROPN	_	_	4	nsubj:pass	_	_
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	été	être	AUX	_	Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	étudié	étudier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	chez	chez	ADP	_	_	9	case	_	_
+6	plus	plus	ADV	_	_	8	advmod	_	_
+7	de	de	ADP	_	_	6	fixed	_	_
+8	20 000	20 000	DET	_	_	9	det	_	_
+9	patients	patient	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

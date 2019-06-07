@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-138 nodes (0%) are attached to their parents as `fixed`.
+378 nodes (0%) are attached to their parents as `fixed`.
 
-138 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06521739130435.
+378 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02380952380952.
 
-The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (51; 37% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (51; 37% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (7; 5% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `fixed`: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (267; 71% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (51; 13% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (22; 6% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,26 +52,16 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 fixed	color:blue
-1	Samal	sama	PRON	P	Case=Ade|Number=Sing|PronType=Dem	5	obl	_	_
-2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	1	fixed	_	_
-3	kui	kui	SCONJ	J	_	1	fixed	_	_
-4	Skandinaavias	Skandinaavia	PROPN	S	Case=Ine|Number=Sing	5	obl	_	_
-5	saab	saama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	väga	väga	ADV	D	_	7	advmod	_	_
-7	hästi	hästi	ADV	D	_	5	advmod	_	_
-8	-	-	PUNCT	Z	_	5	punct	_	_
-9	Soomest	Soome	PROPN	S	Case=Ela|Number=Sing	12	obl	_	_
-10	Inglismaani	Inglis_maa	PROPN	S	Case=Ter|Number=Sing	12	obl	_	_
-11	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
-12	võimul	võim	NOUN	S	Case=Ade|Number=Sing	5	parataxis	_	_
-13	sotsiaaldemokraadid	sotsiaal_demo_kraat	NOUN	S	Case=Nom|Number=Plur	12	nsubj:cop	_	SpaceAfter=No
-14	.	.	PUNCT	Z	_	5	punct	_	_
-15	"	"	PUNCT	Z	_	5	punct	_	_
+# visual-style 1 2 fixed	color:blue
+1	Eriti	eriti	ADV	D	_	4	advmod	_	_
+2	kui	kui	ADV	D	_	1	fixed	_	_
+3	juhe	juhe	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+4	koos	koos	ADV	D	_	0	root	_	SpaceAfter=No
+5	"	"	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

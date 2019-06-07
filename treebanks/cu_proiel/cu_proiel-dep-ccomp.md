@@ -8,24 +8,24 @@ udver: '2'
 
 This relation is universal.
 
-738 nodes (1%) are attached to their parents as `ccomp`.
+737 nodes (1%) are attached to their parents as `ccomp`.
 
-728 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.16124661246612.
+721 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.10719131614654.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (599; 81% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (81; 11% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (385; 52% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt> (83; 11% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (42; 6% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (39; 5% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (35; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (27; 4% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (25; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (22; 3% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (14; 2% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 ccomp	color:blue
+# visual-style 1 3 ccomp	color:blue
 1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.27
-2	ѣко	ꙗко	SCONJ	G-	_	4	mark	_	ref=MATT_5.27
-3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=MATT_5.27
-4	бꙑⷭ҇	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_5.27
+2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	ref=MATT_5.27
+3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
+4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.27
 5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	ref=MATT_5.27
 
 ~~~
@@ -46,19 +46,21 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 ccomp	color:blue
-1	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=JOHN_19.21
-2	пиши	пьсати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_19.21
-3	ц҃ръ	цѣсарь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	ref=JOHN_19.21
-4	июдеискъ	июдеискъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=JOHN_19.21
-5	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=JOHN_19.21
-6	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	ref=JOHN_19.21
-7	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=JOHN_19.21
-8	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=JOHN_19.21
+# visual-style 8 9 ccomp	color:blue
+1	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=MARK_6.49
+2	же	же	ADV	Df	_	8	discourse	_	ref=MARK_6.49
+3	видѣвъше	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=MARK_6.49
+4	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=MARK_6.49
+5	по	по	ADP	R-	_	6	case	_	ref=MARK_6.49
+6	морю	морѥ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	ref=MARK_6.49
+7	ходѧштъ	ходити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	xcomp	_	ref=MARK_6.49
+8	непьштевашѧ	непьщевати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.49
+9	призракъ	призракъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	ccomp	_	ref=MARK_6.49
+10	бꙑти	бꙑти	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	cop	_	ref=MARK_6.49
 
 ~~~
 

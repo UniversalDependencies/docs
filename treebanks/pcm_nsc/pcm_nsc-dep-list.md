@@ -31,10 +31,10 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 7	big	big	ADJ	_	_	6	compound	_	_
 8	town	town	NOUN	_	_	3	nmod	_	_
 9	<	<	PUNCT	_	_	14	punct	_	_
-10	#	#	PUNCT	_	_	9	punct	_	_
-11	(	(	PUNCT	_	_	9	punct	_	_
+10	#	#	PUNCT	_	_	14	punct	_	_
+11	(	(	PUNCT	_	_	14	punct	_	_
 12	like	like	ADP	_	_	14	case	_	_
-13	{	{	PUNCT	_	_	12	punct	_	_
+13	{	{	PUNCT	_	_	14	punct	_	_
 14	Lagos	Lagos	PROPN	_	_	8	parataxis:parenth	_	_
 15	wey	wey	SCONJ	_	_	16	mark	_	_
 16	be	be	PART	_	_	14	acl:relcl	_	_
@@ -43,9 +43,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 19	of	of	ADP	_	_	20	case	_	_
 20	Nigeria	Nigeria	PROPN	_	_	18	nmod	_	_
 21	dat	dat	DET	_	_	22	det	_	_
-22	time	time	NOUN	_	_	16	advmod	_	_
+22	time	time	ADV	NOUN	_	16	advmod	_	_
 23	|	|	PUNCT	_	_	25	punct	_	_
-24	#	#	PUNCT	_	_	23	punct	_	_
+24	#	#	PUNCT	_	_	25	punct	_	_
 25	Kaduna	Kaduna	PROPN	_	_	14	list	_	_
 26	wey	wey	SCONJ	_	_	27	mark	_	_
 27	be	be	PART	_	_	25	acl:relcl	_	_
@@ -71,9 +71,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 47	and	and	CCONJ	_	_	49	cc	_	_
 48	so	so	ADV	_	_	49	advmod	_	_
 49	on	on	ADV	_	_	14	list	_	_
-50	}	}	PUNCT	_	_	12	punct	_	_
-51	)	)	PUNCT	_	_	9	punct	_	_
-52	#	#	PUNCT	_	_	63	punct	_	_
+50	}	}	PUNCT	_	_	14	punct	_	_
+51	)	)	PUNCT	_	_	14	punct	_	_
+52	#	#	PUNCT	_	_	71	punct	_	_
 53	di	di	DET	_	_	55	det	_	_
 54	street	street	NOUN	_	_	55	compound	_	_
 55	light	light	NOUN	_	_	71	dislocated	_	_
@@ -87,9 +87,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 63	|c	|c	PUNCT	_	_	65	punct	_	_
 64	and	and	CCONJ	_	_	65	cc	_	_
 65	bridge	bridge	NOUN	_	_	62	conj:coord	_	_
-66	dem	dem	PART	_	_	65	det	_	_
+66	dem	dem	DET	PART	_	65	det	_	_
 67	}	}	PUNCT	_	_	62	punct	_	_
-68	<	<	PUNCT	_	_	69	punct	_	_
+68	<	<	PUNCT	_	_	71	punct	_	_
 69	#	#	PUNCT	_	_	71	punct	_	_
 70	dem	dem	PRON	_	_	71	nsubj	_	_
 71	make	make	VERB	_	_	0	root	_	_
@@ -100,7 +100,7 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 76	#	#	PUNCT	_	_	79	punct	_	_
 77	especially	especially	ADV	_	_	79	advmod	_	_
 78	for	for	ADP	_	_	79	case	_	_
-79	night	night	NOUN	_	_	73	advmod	_	_
+79	night	night	ADV	NOUN	_	73	advmod	_	_
 80	//	//	PUNCT	_	_	71	punct	_	_
 
 ~~~
@@ -118,23 +118,23 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 4	donate	donate	VERB	_	_	0	root	_	_
 5	money	money	NOUN	_	_	4	obj	_	_
 6	//+	//+	PUNCT	_	_	9	punct	_	_
-7	{	{	PUNCT	_	_	6	punct	_	_
+7	{	{	PUNCT	_	_	9	punct	_	_
 8	one	one	NUM	_	_	9	nummod	_	_
 9	million	million	NUM	_	_	5	appos	_	_
 10	|	|	PUNCT	_	_	14	punct	_	_
 11	so	so	ADV	_	_	14	amod	_	_
-12	so	so	ADV	_	_	11	compound:redup	_	_
-13	so	so	ADV	_	_	11	compound:redup	_	_
+12	so	so	ADV	_	_	11	conj:redup	_	_
+13	so	so	ADV	_	_	11	conj:redup	_	_
 14	million	million	NUM	_	_	9	list	_	_
 15	|	|	PUNCT	_	_	18	punct	_	_
 16	one	one	DET	_	_	18	nmod	_	_
 17	point	point	NOUN	_	_	16	compound	_	_
 18	million	million	NUM	_	_	9	list	_	_
 19	|	|	PUNCT	_	_	22	punct	_	_
-20	half	half	NOUN	_	_	22	det:predet	_	_
+20	half	half	DET	NOUN	_	22	det:predet	_	_
 21	a	a	DET	_	_	22	det	_	_
 22	million	million	NUM	_	_	9	list	_	_
-23	}	}	PUNCT	_	_	6	punct	_	_
+23	}	}	PUNCT	_	_	9	punct	_	_
 24	//	//	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -155,10 +155,10 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 7	big	big	ADJ	_	_	6	compound	_	_
 8	town	town	NOUN	_	_	3	nmod	_	_
 9	<	<	PUNCT	_	_	14	punct	_	_
-10	#	#	PUNCT	_	_	9	punct	_	_
-11	(	(	PUNCT	_	_	9	punct	_	_
+10	#	#	PUNCT	_	_	14	punct	_	_
+11	(	(	PUNCT	_	_	14	punct	_	_
 12	like	like	ADP	_	_	14	case	_	_
-13	{	{	PUNCT	_	_	12	punct	_	_
+13	{	{	PUNCT	_	_	14	punct	_	_
 14	Lagos	Lagos	PROPN	_	_	8	parataxis:parenth	_	_
 15	wey	wey	SCONJ	_	_	16	mark	_	_
 16	be	be	PART	_	_	14	acl:relcl	_	_
@@ -167,9 +167,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 19	of	of	ADP	_	_	20	case	_	_
 20	Nigeria	Nigeria	PROPN	_	_	18	nmod	_	_
 21	dat	dat	DET	_	_	22	det	_	_
-22	time	time	NOUN	_	_	16	advmod	_	_
+22	time	time	ADV	NOUN	_	16	advmod	_	_
 23	|	|	PUNCT	_	_	25	punct	_	_
-24	#	#	PUNCT	_	_	23	punct	_	_
+24	#	#	PUNCT	_	_	25	punct	_	_
 25	Kaduna	Kaduna	PROPN	_	_	14	list	_	_
 26	wey	wey	SCONJ	_	_	27	mark	_	_
 27	be	be	PART	_	_	25	acl:relcl	_	_
@@ -195,9 +195,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 47	and	and	CCONJ	_	_	49	cc	_	_
 48	so	so	ADV	_	_	49	advmod	_	_
 49	on	on	ADV	_	_	14	list	_	_
-50	}	}	PUNCT	_	_	12	punct	_	_
-51	)	)	PUNCT	_	_	9	punct	_	_
-52	#	#	PUNCT	_	_	63	punct	_	_
+50	}	}	PUNCT	_	_	14	punct	_	_
+51	)	)	PUNCT	_	_	14	punct	_	_
+52	#	#	PUNCT	_	_	71	punct	_	_
 53	di	di	DET	_	_	55	det	_	_
 54	street	street	NOUN	_	_	55	compound	_	_
 55	light	light	NOUN	_	_	71	dislocated	_	_
@@ -211,9 +211,9 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 63	|c	|c	PUNCT	_	_	65	punct	_	_
 64	and	and	CCONJ	_	_	65	cc	_	_
 65	bridge	bridge	NOUN	_	_	62	conj:coord	_	_
-66	dem	dem	PART	_	_	65	det	_	_
+66	dem	dem	DET	PART	_	65	det	_	_
 67	}	}	PUNCT	_	_	62	punct	_	_
-68	<	<	PUNCT	_	_	69	punct	_	_
+68	<	<	PUNCT	_	_	71	punct	_	_
 69	#	#	PUNCT	_	_	71	punct	_	_
 70	dem	dem	PRON	_	_	71	nsubj	_	_
 71	make	make	VERB	_	_	0	root	_	_
@@ -224,7 +224,7 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 76	#	#	PUNCT	_	_	79	punct	_	_
 77	especially	especially	ADV	_	_	79	advmod	_	_
 78	for	for	ADP	_	_	79	case	_	_
-79	night	night	NOUN	_	_	73	advmod	_	_
+79	night	night	ADV	NOUN	_	73	advmod	_	_
 80	//	//	PUNCT	_	_	71	punct	_	_
 
 ~~~

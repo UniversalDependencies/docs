@@ -11,7 +11,7 @@ It occurs with 1 different values: `Nfh`.
 
 219 tokens (1%) have a non-empty value of `Evident`.
 156 types (2%) occur at least once with a non-empty value of `Evident`.
-119 lemmas (3%) occur at least once with a non-empty value of `Evident`.
+118 lemmas (3%) occur at least once with a non-empty value of `Evident`.
 The feature is used with 3 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (170; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (23; 0% instances).
 
 ### `VERB`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (170; 100% of non-empty `Evident`): <em>etmiştir, başlamıştır, edilmiştir, almıştır, edilmiş, gelmiştir, etmiş, vermiştir, yapmıştır, bölünmüştür</em>
-* `EMPTY` (849): <em>dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</em>
+* `EMPTY` (842): <em>dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</em>
 
 `Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (98) occur only with one value of `Evident`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Evident` co-occurre
 `ADJ` tokens may have the following values of `Evident`:
 
 * `Nfh` (26; 100% of non-empty `Evident`): <em>Birleşmiş, adanmış, alışılmamış, biçilmiş, cevaplanamamış, donatılmış, donmuş, doğmamış, edilmiş, esnemiş</em>
-* `EMPTY` (1718): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, olan</em>
+* `EMPTY` (1712): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
 
 `Evident` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Evident`.
 
@@ -49,10 +49,12 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 `AUX` tokens may have the following values of `Evident`:
 
 * `Nfh` (23; 100% of non-empty `Evident`): <em>olmuştur, olmuştu, edilmiştir, kalmıştır, bırakılmıştır, etmişti, kalmışlardır, kalmıştı, kılmıştır, mış</em>
-* `EMPTY` (502): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, olmak</em>
+* `EMPTY` (517): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, olmak</em>
 
 ## Relations with Agreement in `Evident`
 
 The 10 most frequent relations where parent and child node agree in `Evident`:
-<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 67%).
+<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 67%),
+<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="tr_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="grc_proiel-pos-ADV.
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3641; 100% of non-empty `Polarity`): <em>οὐκ, μὴ, οὐ, οὐχ, οὐκέτι, οὐδὲ, μή, οὐχὶ, οὔ, οὔπω</em>
-* `EMPTY` (19438): <em>δὲ, γὰρ, καὶ, μὲν, ὡς, δὴ, οὖν, ἂν, δέ, τότε</em>
+* `EMPTY` (19441): <em>δὲ, γὰρ, καὶ, μὲν, ὡς, δὴ, οὖν, ἂν, δέ, τότε</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (21) occur only with one value of `Polarity`.
 

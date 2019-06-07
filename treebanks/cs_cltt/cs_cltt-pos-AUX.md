@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cltt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (15) was observed with the lemma “být”: <em>bude, budou, by, byl, byla, bylo, byly, být, je, jsou, nebyl, nebyla, nebyly, nejsou, není</em>.
 
@@ -59,13 +59,13 @@ Examples: <em>je, není</em>
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (405; 71% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (133; 23% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (24; 4% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-568 (100%) `AUX` nodes are leaves.
+569 (100%) `AUX` nodes are leaves.
 
-2 (0%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
 The highest child degree of a `AUX` node is 1.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 50% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (1; 50% instances)
+Children of `AUX` nodes are attached using 1 different relations: <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (1; 100% instances)
 
-Children of `AUX` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 50% instances)
+Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 100% instances)
 

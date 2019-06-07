@@ -24,8 +24,8 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 5 6 flat	color:blue
 1	audi	audio	VERB	M3|modC|tem1|gen5	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punc	_	1	punct	_	_
-3	israel	israel	NOUN	C1|grn1|casE|gen1	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	2	punct	_	_
+3	israel	israel	NOUN	C1|grn1|casE|gen1	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	1	punct	_	_
 5	dominus	dominus	NOUN	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj	_	_
 6	deus	deus	PROPN	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	flat	_	_
 7	tuus	tuus	ADJ	B1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes	6	amod	_	_

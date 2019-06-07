@@ -10,10 +10,10 @@ This relation is universal.
 
 404 nodes (2%) are attached to their parents as `mark`.
 
-397 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.46287128712871.
+396 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.44059405940594.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (302; 75% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (58; 14% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (303; 75% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (58; 14% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 7	सचमुच	_	ADV	RB	_	11	advmod	_	Translit=sacamuca
 8	दुनिया	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	obl	_	Translit=duniyā
 9	भर	_	PART	PRT	_	8	discourse	_	Translit=bhara
-10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
+10	में	_	ADP	IN	Case=Loc	8	case	_	Translit=meṁ
 11	फैल	_	VERB	VB	_	3	ccomp	_	Translit=phaila
 12	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	11	aux	_	SpaceAfter=No|Translit=gayī
 13	।	_	PUNCT	.	_	3	punct	_	Translit=.
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 2	केवल	_	DET	QF	_	3	det	_	Translit=kevala
 3	इतना	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	obj	_	Translit=itanā
 4	कहते	_	VERB	VBI	Aspect=Imp|Mood=Ind|Number=Plur|Person=1	0	root	_	Translit=kahate
-5	हैं	_	AUX	VXH	Number=Plur|Person=1|Tense=Pres	4	aux	_	Translit=haiṁ
+5	हैं	_	AUX	VXH	Number=Plur|Person=1|Tense=Pres	4	aux	_	Translit=haiṁ
 6	कि	_	SCONJ	IN	_	8	mark	_	Translit=ki
 7	वह	_	PRON	PRP	Animacy=Anim|Case=Nom|Number=Sing|Person=3	8	nsubj	_	Translit=vaha
 8	गलत	_	ADJ	JJ	_	3	acl	_	Translit=galata
@@ -74,7 +74,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 7	कि	_	SCONJ	IN	_	10	mark	_	Translit=ki
 8	वह	_	PRON	PRP	Animacy=Anim|Case=Nom|Number=Sing|Person=3	10	nsubj	_	Translit=vaha
 9	खुफिया	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	10	compound	_	Translit=khuphiyā
-10	एजेंट	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	5	acl	_	Translit=ejeṁṭa
+10	एजेंट	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	5	acl	_	Translit=ejeṁṭa
 11	है	_	AUX	VBI	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	Translit=hai
 12	जिसका	_	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|PronType=Prs	13	nmod:poss	_	Translit=jisakā
 13	निशाना	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	obj	_	Translit=niśānā

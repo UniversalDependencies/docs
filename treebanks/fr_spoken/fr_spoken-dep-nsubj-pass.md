@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_spoken-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_spoken-dep-nsubj-caus.html">nsubj:caus</a></tt>, <tt><a href="fr_spoken-dep-nsubj-expl.html">nsubj:expl</a></tt>.
 
-161 nodes (0%) are attached to their parents as `nsubj:pass`.
+160 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-160 instances of `nsubj:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.40993788819876.
+159 instances of `nsubj:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.39375.
 
-The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (122; 76% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (38; 24% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (121; 76% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (38; 24% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	sera	être	AUX	_	_	5	aux:pass	_	_
 4	pas	pas	PART	_	_	5	advmod	_	_
 5	payé	payer	VERB	_	_	0	root	_	_
-6	en	en	ADP	_	_	5	advmod	_	_
+6	en	en	ADP	_	_	5	advcl:periph	_	_
 7	plus	plus	PART	_	_	6	dep	_	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 3 nsubj:pass	color:blue
 1	et	et	CCONJ	_	_	6	cc	_	_
-2	euh	euh	INTJ	_	_	1	discourse	_	_
+2	euh	euh	INTJ	_	_	6	discourse	_	_
 3	Charlot	Charlot	PROPN	_	_	6	nsubj:pass	_	_
 4	s'	se	PRON	_	_	6	dep:obj	_	_
 5	est	être	AUX	_	_	6	aux:pass	_	_

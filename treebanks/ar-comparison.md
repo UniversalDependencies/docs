@@ -153,7 +153,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 30 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, سوف, عل, علّ, قد, كلا, ل, لا, لقد, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
+      <li>This corpus contains 27 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, عل, قد, كلا, ل, لا, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -165,7 +165,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 31 lemmas tagged as pronouns (PRON): ", (, ), ,, ., 3, 9, ?, None, TBupdate, _, b, f, h, hA, hm, hmA, hn, k, km, kmA, kn, l, lA, m, mA, nA, ny, s, w, y</li>
+      <li>This corpus contains 23 lemmas tagged as pronouns (PRON): (, ), ,, 9, _, b, f, h, hA, hm, hmA, hn, k, km, kmA, kn, m, mA, mn, nA, ny, w, y</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -182,12 +182,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 13 lemmas tagged as determiners (DET): ", ), ,, ., 17, 34, None, TBupdate, _, b, hA, l, w</li>
+      <li>This corpus contains 6 lemmas tagged as determiners (DET): ,, ., _, b, l, w</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 24 lemmas tagged as determiners (DET): أَينَ, اَلَّذِي, ذَا, ذَاكَ, ذُو, ذٰلِكَ, كَم, كَيفَ, كِلَا, لِمَاذَا, ما, ماهُوَ, مَا, مَاذَا, مَتَى, مَن, نا, ها, هُ, هُوَ, هِ, هٰذَا, هٰكَذَا, ِي</li>
+      <li>This corpus contains 24 lemmas tagged as determiners (DET): أَينَ, اَلَّذِي, ذَا, ذَاكَ, ذُو, ذٰلِكَ, كَم, كَيفَ, كِلَا, لِمَاذَا, ما, ماهُوَ, مَا, مَاذَا, مَتَى, مَن, نا, ها, هُ, هُوَ, هِ, هٰذَا, هٰكَذَا, ِي</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -199,7 +199,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: ", ), ,, ., None, TBupdate, _, b, hA, l, w</li>
+      <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: ,, _, b, w</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -216,12 +216,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 20 lemmas tagged as auxiliaries (AUX): ", ,, ., >, Alhwrn, None, _, b, f, h, hA, hm, hmA, k, km, l, nA, s, w, y</li>
+      <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): _, b, f, h, hA, s, w</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as auxiliaries (AUX): أَصبَح, أَصَاب, أَضَاف, أَعلَن, أَفَاد, أَكَّد, أَلَا, أَوضَح, اِعتَبَر, اِعتَذَر, اِعتَقَد, بَات, بَدَأ, بَعُد, بَقِي, تَبَيَّن, ثَنَى, جَاء, جَرَى, جَعَل, حَثّ, حَصَل, خَضَع, دَعَا, ذَكَر, رَأَى, زَار, زَال, صَار, صَرَّح, ظَلّ, ظَنّ, عَاد, عَدّ, عَرَف, عَمِل, عَوَّد, قَال, قَام, قَتَل, قَرَّر, كَان, كَتَب, كَشَف, كَوَّن, لَفَت, لَيس, لَيِس, نَظَر, وَاصَل, وَصَف</li>
+      <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): أَ, أَلَا, إِلَّا, رُبَّمَا, سَ, سَوفَ, عَاد, عَلَّ, قَد, كَان, لَيس, مَا, هَل</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -233,12 +233,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 18 lemmas occurred sometimes as AUX and sometimes as VERB: ", ,, ., None, _, b, f, h, hA, hm, hmA, k, km, l, nA, s, w, y</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, b, f, h, hA, s, w</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 49 lemmas occurred sometimes as AUX and sometimes as VERB: أَصبَح, أَصَاب, أَضَاف, أَعلَن, أَفَاد, أَكَّد, أَوضَح, اِعتَبَر, اِعتَذَر, اِعتَقَد, بَات, بَدَأ, بَعُد, بَقِي, تَبَيَّن, جَاء, جَرَى, جَعَل, حَثّ, حَصَل, خَضَع, دَعَا, ذَكَر, رَأَى, زَار, زَال, صَار, صَرَّح, ظَلّ, ظَنّ, عَاد, عَدّ, عَرَف, عَمِل, عَوَّد, قَال, قَام, قَتَل, قَرَّر, كَان, كَتَب, كَشَف, كَوَّن, لَفَت, لَيس, لَيِس, نَظَر, وَاصَل, وَصَف</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: عَاد, كَان, لَيس</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -272,8 +272,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-          <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+          <li>AUX: يكون, تكون, يكن, تكن, تكونون, كن, أكون, اكون, تعد, نكون</li>
+          <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
         </ul>
         </li>
       </ul>
@@ -357,15 +357,15 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: المصرية, المتحدة, العربية, جديدة, الدولية, الفلسطينية, خاصة, أخرى, الأمريكية, العامة</li>
-            <li>AUX: تكون, كانت, ليست, تعد, تعتبر, تكن, زالت, تزال, تظل, ظلت</li>
-            <li>AUX-Fin: تكون, تعد, تعتبر, تكن, تزال, تظل, تصبح, تتبين, تثن, تعود</li>
+            <li>AUX: تكون, كانت, ليست, تكن, تعد</li>
+            <li>AUX-Fin: تكون, تكن, تعد</li>
             <li>DET: التي, هذه, التى, تلك, هٰذه, اللتين, اللواتي, ها, اللتان, اللاتى</li>
             <li>NOUN: الحاصلات, البويات, بدايات, عداءة, الآفات, التليفونات, الخضروات, الكابلات, المداهمات, بضعة</li>
             <li>NUM: ثلاث, عشر, الثلاث, خمس, ست, عشرة, اربع, الخمس, الثماني, العشر</li>
             <li>PRON: ها, هي, هما, هن, هى, ك, أعضائها, أهدافها, إليها, بضمانها</li>
             <li>PROPN: العمارة, اللطيفية, الوكرة</li>
             <li>VERB: كانت, قالت, ذكرت, بلغت, تصل, تكون, بدأت, تقوم, أكدت, نقلت</li>
-            <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تشهد, تضم, تعمل, تتم, تقدم, تمثل</li>
+            <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تعتبر, تشهد, تضم, تعمل, تتم, تعد</li>
           </ul>
         </li>
       </ul>
@@ -418,14 +418,14 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: المصري, الماضي, أي, الحالي, العام, المقبل, المركزي, أكثر, الدولي, الاول</li>
-            <li>AUX: كان, يكون, ليس, قال, يكن, يعتبر, يعد, كانوا, زال, اصبح</li>
-            <li>AUX-Fin: يكون, يكن, يعتبر, يعد, يزال, تكونون, كن, يرى, يصبح, يعرف</li>
+            <li>AUX: كان, يكون, ليس, يكن, كانوا, كنت, تكونون, كن, لسنا, أكون</li>
+            <li>AUX-Fin: يكون, يكن, تكونون, كن, أكون, اكون, تكون, نكون, يكونا</li>
             <li>DET: الذي, هذا, ذلك, الذين, ذٰلك, هٰذا, الذى, هؤلاء, اللذين, ه</li>
             <li>NOUN: المعتمرين</li>
             <li>NUM: ثلاثة, خمسة, ستة, عشرة, الثلاثة, اربعة, اثنين, أربعة, سبعة, واحد</li>
             <li>PRON: ه, هم, هو, نا, هما, ك, ي, ني, نحن, كم</li>
             <li>VERB: قال, كان, أضاف, تم, أكد, يتم, يمكن, أشار, أوضح, أعلن</li>
-            <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يذكر, يقول, يعني, يرى, يقوم</li>
+            <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يقول, يذكر, يعني, يرى, يقوم</li>
           </ul>
         </li>
       </ul>
@@ -522,17 +522,14 @@ udver: '2'
           <ul>
             <li>ADJ: _</li>
             <li>ADP: _</li>
-            <li>ADV: _</li>
             <li>AUX: _</li>
             <li>CCONJ: _</li>
             <li>DET: _</li>
             <li>NOUN: _</li>
             <li>NUM: _</li>
-            <li>PART: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
-            <li>SCONJ: _</li>
             <li>VERB: _</li>
             <li>X: _</li>
           </ul>
@@ -544,13 +541,12 @@ udver: '2'
         <li>Dual
           <ul>
             <li>ADJ: الماضيين, الكوريتين, القادمين, المقبلين, جافتين, قديمتين, الفنلنديين, قادمين, آخران, آخرين</li>
-            <li>AUX: تعودا, قتلا, يكونا</li>
-            <li>AUX-Fin: تعودا, يكونا</li>
+            <li>AUX-Fin: يكونا</li>
             <li>DET: اللذين, اللتين, هذين, كلا, اللتان, اللذان, هاتين, ذاتا, هاتان, هٰذان</li>
             <li>NOUN: البلدين, الجانبين, الطرفين, اسبوعين, الدولتين, يومين, وزيري, سنتين, الجانبان, عامين</li>
             <li>NUM: مليوني, مئتي, ملياري, الفي, بليوني, ألفي, الفى, مليارى, ألفين, الفين</li>
             <li>PRON: هما, كما</li>
-            <li>VERB: اتفقا, قتلا, أكدا, بحثا, كانا, عقدا, قدما, كانتا, يشيران, يلتقيان</li>
+            <li>VERB: قتلا, اتفقا, أكدا, بحثا, كانا, عقدا, قدما, كانتا, يشيران, يلتقيان</li>
             <li>VERB-Fin: يشيران, يلتقيان, تدرسان, تستعدان, يبحثان, يتجهان, يتوقفان, يدعوان, يعتبران, يعرفان</li>
           </ul>
         </li>
@@ -601,7 +597,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: المصريين, اليهود, كبار, العرب, الفلسطينيين, المسلمين, العراقيين, آخرين, الأجانب, المصابين</li>
-            <li>AUX: كانوا, زالوا, تكونون, لسنا, أصيبوا, اعتبروا, اعتقدوا, باتوا, قتلوا, ليسوا</li>
+            <li>AUX: كانوا, تكونون, لسنا, ليسوا, نكون</li>
             <li>AUX-Fin: تكونون, نكون</li>
             <li>DET: الذين, هؤلاء, اللواتي, هٰؤلاء, اولئك, أولٰئك, اللاتى, أولئك, اللاتي, نا</li>
             <li>NOUN: الولايات, الدول, الشركات, الوزراء, دول, شركات, أسعار, العلاقات, البنوك, مصادر</li>
@@ -661,15 +657,15 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: المصرية, المتحدة, المصري, الماضي, العربية, أي, الحالي, جديدة, الدولية, الفلسطينية</li>
-            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
-            <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كنت, كن</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, كن, أكون, اكون, تعد</li>
             <li>DET: التي, الذي, هذه, هذا, ذلك, ذٰلك, التى, هٰذا, تلك, هٰذه</li>
             <li>NOUN: مصر, اليوم, رئيس, دولار, الحكومة, العراق, وزير, كل, الرئيس, غير</li>
             <li>NUM: مليون, مليار, ألف, المئة, بليون, الف, المائة, مليوناً, ملياراً, مليونا</li>
             <li>PRON: ه, ها, هو, هي, ك, ي, ني, هى, أنا, أنت</li>
             <li>PROPN: العمارة, اللطيفية, الوكرة</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
-            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
           </ul>
         </li>
       </ul>
@@ -918,7 +914,6 @@ udver: '2'
             <li>ADJ: _</li>
             <li>ADP: _</li>
             <li>ADV: _</li>
-            <li>AUX: _</li>
             <li>CCONJ: _</li>
             <li>DET: _</li>
             <li>NOUN: _</li>
@@ -1115,18 +1110,13 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>ADJ: _</li>
             <li>ADP: _</li>
             <li>ADV: _</li>
             <li>CCONJ: _</li>
-            <li>DET: _</li>
-            <li>NOUN: _</li>
             <li>PART: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
-            <li>PUNCT: _</li>
             <li>SCONJ: _</li>
-            <li>VERB: _</li>
             <li>X: _</li>
           </ul>
         </li>
@@ -1198,6 +1188,9 @@ udver: '2'
         <li>Imp
           <ul>
             <li>ADP: _</li>
+            <li>AUX: _</li>
+            <li>CCONJ: _</li>
+            <li>NOUN: _</li>
             <li>VERB: _</li>
           </ul>
         </li>
@@ -1207,8 +1200,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
+            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
           </ul>
         </li>
       </ul>
@@ -1232,6 +1225,9 @@ udver: '2'
         <li>Perf
           <ul>
             <li>ADP: _</li>
+            <li>AUX: _</li>
+            <li>NOUN: _</li>
+            <li>PROPN: _</li>
             <li>VERB: _</li>
           </ul>
         </li>
@@ -1241,7 +1237,7 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX: كان, ليس, كانت, ليست, قال, زالت, كانوا, زال, اصبح, زالوا</li>
+            <li>AUX: كان, ليس, كانت, ليست, كانوا, كنت, لسنا, ألا, ليسوا</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, أشار, أوضح, أعلن, قالت</li>
           </ul>
         </li>
@@ -1314,7 +1310,6 @@ udver: '2'
             <li>DET: _</li>
             <li>NOUN: _</li>
             <li>NUM: _</li>
-            <li>PART: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
@@ -1329,8 +1324,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: يكون, تكون, تعد, يعتبر, يعد, تعتبر, تزال, تظل, يزال, تكونون</li>
-            <li>VERB-Fin: يتم, يمكن, يجب, يذكر, يعني, يقول, تبلغ, تضم, تقوم, يرى</li>
+            <li>AUX-Fin: يكون, تكون, تكونون, أكون</li>
+            <li>VERB-Fin: يتم, يمكن, يجب, يقول, يذكر, يعني, تعتبر, يرى, تبلغ, تضم</li>
           </ul>
         </li>
       </ul>
@@ -1353,14 +1348,10 @@ udver: '2'
       <ul>
         <li>Jus
           <ul>
-            <li>ADJ: _</li>
             <li>ADP: _</li>
-            <li>ADV: _</li>
             <li>AUX: _</li>
-            <li>CCONJ: _</li>
             <li>DET: _</li>
             <li>NOUN: _</li>
-            <li>PART: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
             <li>SCONJ: _</li>
@@ -1374,8 +1365,8 @@ udver: '2'
       <ul>
         <li>Jus
           <ul>
-            <li>AUX-Fin: يكن, تكن, تعد, تثن, تعودا, يصف</li>
-            <li>VERB-Fin: يكن, يتم, تكن, يمكن, يصدر, يحدد, يعد, تتجاوز, يستبعد, يعلن</li>
+            <li>AUX-Fin: يكن, تكن, تعد</li>
+            <li>VERB-Fin: يكن, يتم, تكن, يمكن, يصدر, يحدد, يعد, تتجاوز, تعد, يستبعد</li>
           </ul>
         </li>
       </ul>
@@ -1398,15 +1389,12 @@ udver: '2'
           <ul>
             <li>ADJ: _</li>
             <li>ADP: _</li>
-            <li>ADV: _</li>
             <li>AUX: _</li>
-            <li>CCONJ: _</li>
             <li>NOUN: _</li>
             <li>NUM: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
-            <li>SCONJ: _</li>
             <li>VERB: _</li>
             <li>X: _</li>
           </ul>
@@ -1417,7 +1405,7 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX-Fin: يكون, تكون, اكون, تزال, تصبح, نكون, يبقى, يظل, يكونا</li>
+            <li>AUX-Fin: يكون, تكون, اكون, نكون, يكونا</li>
             <li>VERB-Fin: يكون, تكون, تصل, يصل, يتم, تصبح, تقوم, يمكن, تدخل, تستطيع</li>
           </ul>
         </li>
@@ -1536,7 +1524,6 @@ udver: '2'
             <li>DET: _</li>
             <li>NOUN: _</li>
             <li>NUM: _</li>
-            <li>PART: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
@@ -1551,8 +1538,8 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, قال, يكن, تكن, زالت</li>
-            <li>AUX-Fin: يكون, تكون, يكن, تكن, تزال, تعد, تظل, يزال, تصبح, تكونون</li>
+            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, كنت</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, تكونون, أكون, اكون, تعد, نكون, يكونا</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
             <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, تقوم, يعني</li>
           </ul>
@@ -1580,13 +1567,8 @@ udver: '2'
         <li>Pass
           <ul>
             <li>ADP: _</li>
-            <li>ADV: _</li>
-            <li>CCONJ: _</li>
             <li>NOUN: _</li>
-            <li>PART: _</li>
-            <li>PRON: _</li>
             <li>PROPN: _</li>
-            <li>PUNCT: _</li>
             <li>SCONJ: _</li>
             <li>VERB: _</li>
             <li>X: _</li>
@@ -1598,10 +1580,8 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>AUX: تعد, يعتبر, تعتبر, يعد, أصيبوا, اعتبروا, قتلا, قتلوا, كتب, يُعد</li>
-            <li>AUX-Fin: تعد, يعتبر, تعتبر, يعد, يُعد</li>
-            <li>VERB: يذكر, يوجد, قتل, يتوقع, أصيب, توجد, عقد, تعتبر, قتلوا, يشار</li>
-            <li>VERB-Fin: يذكر, يوجد, يتوقع, توجد, تعتبر, يشار, تقام, تعد, يعد, تعقد</li>
+            <li>VERB: يذكر, يوجد, قتل, يتوقع, تعد, تعتبر, يعد, أصيب, توجد, يعتبر</li>
+            <li>VERB-Fin: يذكر, يوجد, يتوقع, تعد, تعتبر, يعد, توجد, يعتبر, يشار, تقام</li>
           </ul>
         </li>
       </ul>
@@ -1663,7 +1643,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: _</li>
+            <li>NOUN: _</li>
           </ul>
         </li>
       </ul>
@@ -1709,6 +1689,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
+            <li>ADV: _</li>
             <li>PRON: _</li>
           </ul>
         </li>
@@ -1784,12 +1765,9 @@ udver: '2'
           <ul>
             <li>ADJ: _</li>
             <li>ADP: _</li>
-            <li>ADV: _</li>
             <li>AUX: _</li>
             <li>CCONJ: _</li>
-            <li>DET: _</li>
             <li>NOUN: _</li>
-            <li>PART: _</li>
             <li>PRON: _</li>
             <li>PROPN: _</li>
             <li>PUNCT: _</li>
@@ -1804,8 +1782,8 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX: كنت, لسنا, أظن, أكون, اعتقد, اكون, نكون</li>
-            <li>AUX-Fin: أظن, أكون, اعتقد, اكون, نكون</li>
+            <li>AUX: كنت, لسنا, أكون, اكون, نكون</li>
+            <li>AUX-Fin: أكون, اكون, نكون</li>
             <li>DET: نا, ي</li>
             <li>PRON: نا, ي, ني, نحن, أنا, انا, لمساعدتنا</li>
             <li>VERB: نرى, نريد, نجد, نستورد, نعرف, نقول, أعتقد, أعلن, أقول, أكون</li>
@@ -1833,9 +1811,7 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>ADJ: _</li>
             <li>ADP: _</li>
-            <li>ADV: _</li>
             <li>AUX: _</li>
             <li>CCONJ: _</li>
             <li>NOUN: _</li>
@@ -1901,12 +1877,12 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
-            <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+            <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, يكن, تكن, كانوا, ألا</li>
+            <li>AUX-Fin: يكون, تكون, يكن, تكن, تعد, يكونا</li>
             <li>DET: ه, ها</li>
             <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
             <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
-            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+            <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, يذكر, تقوم</li>
           </ul>
         </li>
       </ul>
@@ -1997,7 +1973,21 @@ udver: '2'
           <ul>
             <li>Prep
               <ul>
+                <li>ADJ: _</li>
                 <li>ADP: _</li>
+                <li>ADV: _</li>
+                <li>AUX: _</li>
+                <li>CCONJ: _</li>
+                <li>DET: _</li>
+                <li>NOUN: _</li>
+                <li>NUM: _</li>
+                <li>PART: _</li>
+                <li>PRON: _</li>
+                <li>PROPN: _</li>
+                <li>PUNCT: _</li>
+                <li>SCONJ: _</li>
+                <li>VERB: _</li>
+                <li>X: _</li>
               </ul>
             </li>
           </ul>
@@ -2011,6 +2001,27 @@ udver: '2'
             <li>Prep
               <ul>
                 <li>ADP: في, ل, ب, من, على, الى, إلى, عن, فى, مع</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ConjType</a>
+          <ul>
+            <li>Oper
+              <ul>
+                <li>SYM: <</li>
               </ul>
             </li>
           </ul>
@@ -2049,11 +2060,15 @@ udver: '2'
           <ul>
             <li>Digit
               <ul>
+                <li>ADJ: _</li>
                 <li>NUM: _</li>
+                <li>PUNCT: _</li>
               </ul>
             </li>
             <li>Word
               <ul>
+                <li>ADJ: _</li>
+                <li>NOUN: _</li>
                 <li>NUM: _</li>
               </ul>
             </li>
@@ -2121,7 +2136,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 14 lemmas as copulas (<a>cop</a>). Examples: _، l، f، ,، hm، nA، w، "، None، b، h، Alhwrn، hA، y.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2130,7 +2145,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 206 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، عَدّ، اِعتَبَر، زَال، قَال، هُوَ، لَا، أَنَّ، ظَلّ، مِن، أَصبَح، كَون، مَا، دَولَة، فِي، أَعلَن، إِجرَاء، اِثنَان، بَات، ذَكَر، رَئِيس، صَار، عَاد، مَشرُوع، مُؤَكِّد، 13، أَضَاف، أَكَّد، أَوضَح، اِتِّفَاق، اِتِّفَاقِيَّة، اِعتَقَد، اِنتِقَاد، ثَلَاثَة، جَرِيمَة، رَأَى، صَرَّح، طَرَف، عَامِل، عَرَف، غَير، قَائِل، قَتَل، قَول، كنت، كَشَف، لسنا، مَن، مُعتَبِر.</li>
+      <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، هُوَ، ".</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2146,13 +2161,13 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _، s، lA، l، w، None، >، h، ,، hA، mA، f، hm، .، "، (، -، km، m، nA.</li>
+      <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: s، _، w، b، f، hA.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 39 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، إِلَّا، لَيس، هَل، لقد، نَحو، رُبَّمَا، تَقرِيب، أَ، الا، لَ، لَو، أَيّ، كَيفَ، 12، أيها، أَسوَأ، أَكثَر، أَلَا، أَمَل، أَنَّ، بلاش، بَل، بِلَاش، حوإلى، دَائِم، سِوَى، شَكّ، عَاد، عَلَّ، غَير، لَعل، لِ، مايكون، مَسؤُولِيَّة، مَن.</li>
-      <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ، إِلَّا.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، سَوفَ، مَا، لَيس، هَل، إِلَّا، رُبَّمَا، أَ، أَلَا، عَاد، عَلَّ.</li>
+      <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2169,20 +2184,15 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (593)</li>
-            <li>VERB--NOUN-Acc (1765)</li>
-            <li>VERB--NOUN-Acc-ADP(_) (1)</li>
-            <li>VERB--NOUN-Gen (208)</li>
-            <li>VERB--NOUN-Gen-ADP(_) (15)</li>
-            <li>VERB--NOUN-Gen-ADP(b) (1)</li>
-            <li>VERB--NOUN-Gen-ADP(k) (2)</li>
-            <li>VERB--NOUN-Gen-ADP(l) (4)</li>
-            <li>VERB--NOUN-Nom (15642)</li>
-            <li>VERB--PRON (425)</li>
-            <li>VERB--PRON-ADP(_) (5)</li>
-            <li>VERB--PRON-Acc (37)</li>
-            <li>VERB--PRON-Gen (15)</li>
-            <li>VERB--PRON-Nom (511)</li>
+            <li>VERB--NOUN (527)</li>
+            <li>VERB--NOUN-Acc (1220)</li>
+            <li>VERB--NOUN-Gen (218)</li>
+            <li>VERB--NOUN-Nom (16721)</li>
+            <li>VERB--NOUN-Nom-ADP(_) (3)</li>
+            <li>VERB--PRON (321)</li>
+            <li>VERB--PRON-Acc (36)</li>
+            <li>VERB--PRON-Gen (17)</li>
+            <li>VERB--PRON-Nom (492)</li>
           </ul>
         </li>
       </ul>
@@ -2194,41 +2204,38 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (828)</li>
-            <li>VERB--NOUN-Acc-ADP(إِضَافَة) (1)</li>
+            <li>VERB--NOUN-Acc (851)</li>
             <li>VERB--NOUN-Acc-ADP(إِلَى) (3)</li>
             <li>VERB--NOUN-Acc-ADP(إِلَى)-ADP(عَلَى) (1)</li>
             <li>VERB--NOUN-Acc-ADP(بِ) (2)</li>
             <li>VERB--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
             <li>VERB--NOUN-Acc-ADP(تَحتَ) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(ضِدَّ) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(ضِدَّ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(ضِمنَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(عَلَى) (2)</li>
+            <li>VERB--NOUN-Acc-ADP(عَن) (1)</li>
             <li>VERB--NOUN-Acc-ADP(فِي) (4)</li>
             <li>VERB--NOUN-Acc-ADP(قَيدَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(لِ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(مِن) (1)</li>
             <li>VERB--NOUN-Acc-ADP(مِن)-ADP(فِي) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(هُوَ) (4)</li>
             <li>VERB--NOUN-Acc-ADP(وَ) (1)</li>
-            <li>VERB--NOUN-Gen (12)</li>
+            <li>VERB--NOUN-Gen (15)</li>
             <li>VERB--NOUN-Gen-ADP(إِلَى) (1)</li>
             <li>VERB--NOUN-Gen-ADP(بَينَ) (1)</li>
-            <li>VERB--NOUN-Gen-ADP(بِ) (4)</li>
-            <li>VERB--NOUN-Gen-ADP(دُونَ) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(بِ) (5)</li>
             <li>VERB--NOUN-Gen-ADP(سِوَى) (1)</li>
             <li>VERB--NOUN-Gen-ADP(عَلَى) (1)</li>
             <li>VERB--NOUN-Gen-ADP(عَن) (3)</li>
             <li>VERB--NOUN-Gen-ADP(فِي) (2)</li>
             <li>VERB--NOUN-Gen-ADP(كَ) (1)</li>
-            <li>VERB--NOUN-Gen-ADP(كُلّ) (1)</li>
             <li>VERB--NOUN-Gen-ADP(مِن) (1)</li>
-            <li>VERB--NOUN-Nom (4301)</li>
-            <li>VERB--NOUN-Nom-ADP(إِضَافَة) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(عِلَاوَة)-ADP(وَ) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(كَان) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(وَصَل) (1)</li>
-            <li>VERB--PRON-Acc (193)</li>
+            <li>VERB--NOUN-Gen-ADP(مِن)-ADP(دُونَ) (1)</li>
+            <li>VERB--NOUN-Nom (4342)</li>
+            <li>VERB--NOUN-Nom-ADP(بِ) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(مِن) (3)</li>
+            <li>VERB--NOUN-Nom-ADP(وَ) (1)</li>
+            <li>VERB--PRON-Acc (195)</li>
             <li>VERB--PRON-Acc-ADP(إِلَى) (1)</li>
             <li>VERB--PRON-Acc-ADP(بِ) (2)</li>
             <li>VERB--PRON-Acc-ADP(بِ)-ADP(أَمَامَ) (1)</li>
@@ -2240,40 +2247,34 @@ udver: '2'
             <li>VERB--PRON-Gen-ADP(حَوَالَى)-ADP(مِن) (1)</li>
             <li>VERB--PRON-Gen-ADP(مِن) (3)</li>
             <li>VERB--PRON-Gen-ADP(وَ) (1)</li>
-            <li>VERB--PRON-Nom (19)</li>
+            <li>VERB--PRON-Nom (24)</li>
             <li>VERB--PRON-Nom-ADP(عَلَى) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1160)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(إِضَافَة) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(بِ) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(إِضَافَة) (1)</li>
+            <li>VERB-Fin--NOUN-Acc (1178)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(بِ) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(عَلَى)-ADP(بِ) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(فِي) (4)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(مَعَ)-ADP(مِن) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(هُوَ) (2)</li>
-            <li>VERB-Fin--NOUN-Gen (11)</li>
+            <li>VERB-Fin--NOUN-Gen (12)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(إِلَى) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(سِوَى) (8)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(غَير) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(كَ) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(مِثلَ) (4)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(مِن) (2)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(مِن) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(وِفقَ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (2837)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(إِضَافَة) (2)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(بِ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(إِضَافَة) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(مَا)-ADP(ذٰلِكَ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(فَضل) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (2857)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(بِ) (4)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(حَولَ) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(فِي) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(لِ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(مِن) (1)</li>
-            <li>VERB-Fin--PRON-Acc (319)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(كَ) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(لِ) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(مِن) (2)</li>
+            <li>VERB-Fin--PRON-Acc (323)</li>
             <li>VERB-Fin--PRON-Acc-ADP(مِن) (1)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
             <li>VERB-Fin--PRON-Gen-ADP(وَ)-ADP(فِي) (1)</li>
-            <li>VERB-Fin--PRON-Nom (81)</li>
-            <li>VERB-Fin--PRON-Nom-ADP(إِمَّا) (1)</li>
+            <li>VERB-Fin--PRON-Nom (83)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(إِمَّا) (1)</li>
             <li>VERB-Fin--PRON-Nom-ADP(فِي) (1)</li>
           </ul>
         </li>
@@ -2304,26 +2305,57 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (503)</li>
-            <li>VERB--NOUN-ADP(_) (6)</li>
-            <li>VERB--NOUN-ADP(b) (1)</li>
+            <li>VERB--NOUN (431)</li>
+            <li>VERB--NOUN-ADP(") (1)</li>
+            <li>VERB--NOUN-ADP(,) (2)</li>
+            <li>VERB--NOUN-ADP(_) (435)</li>
+            <li>VERB--NOUN-ADP(b) (106)</li>
+            <li>VERB--NOUN-ADP(hA) (1)</li>
+            <li>VERB--NOUN-ADP(k) (3)</li>
+            <li>VERB--NOUN-ADP(l) (15)</li>
             <li>VERB--NOUN-ADP(typo) (1)</li>
-            <li>VERB--NOUN-Acc (16411)</li>
-            <li>VERB--NOUN-Acc-ADP(_) (2)</li>
-            <li>VERB--NOUN-Acc-ADP(k) (1)</li>
-            <li>VERB--NOUN-Acc-ADP(l) (1)</li>
-            <li>VERB--NOUN-Gen (700)</li>
-            <li>VERB--NOUN-Gen-ADP(_) (134)</li>
-            <li>VERB--NOUN-Gen-ADP(b) (24)</li>
-            <li>VERB--NOUN-Gen-ADP(k) (2)</li>
-            <li>VERB--NOUN-Gen-ADP(l) (19)</li>
-            <li>VERB--NOUN-Nom (380)</li>
-            <li>VERB--PRON (1019)</li>
-            <li>VERB--PRON-ADP(_) (32)</li>
-            <li>VERB--PRON-ADP(l) (1)</li>
-            <li>VERB--PRON-Acc (4174)</li>
-            <li>VERB--PRON-Gen (36)</li>
-            <li>VERB--PRON-Nom (14)</li>
+            <li>VERB--NOUN-Acc (14165)</li>
+            <li>VERB--NOUN-Acc-ADP(_) (565)</li>
+            <li>VERB--NOUN-Acc-ADP(b) (59)</li>
+            <li>VERB--NOUN-Acc-ADP(b)-ADP(_) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(l) (52)</li>
+            <li>VERB--NOUN-Acc-ADP(w) (4)</li>
+            <li>VERB--NOUN-Gen (618)</li>
+            <li>VERB--NOUN-Gen-ADP(_) (10881)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (14)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (2)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(k) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(l) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(b) (3301)</li>
+            <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (2)</li>
+            <li>VERB--NOUN-Gen-ADP(b)-ADP(l) (2)</li>
+            <li>VERB--NOUN-Gen-ADP(k) (51)</li>
+            <li>VERB--NOUN-Gen-ADP(l) (1442)</li>
+            <li>VERB--NOUN-Gen-ADP(l)-ADP(_) (5)</li>
+            <li>VERB--NOUN-Gen-ADP(w) (3)</li>
+            <li>VERB--NOUN-Gen-ADP(w)-ADP(_) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(y) (1)</li>
+            <li>VERB--NOUN-Nom (639)</li>
+            <li>VERB--NOUN-Nom-ADP(_) (27)</li>
+            <li>VERB--NOUN-Nom-ADP(b) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(l) (4)</li>
+            <li>VERB--NOUN-Nom-ADP(w) (1)</li>
+            <li>VERB--PRON (995)</li>
+            <li>VERB--PRON-ADP(_) (3113)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_) (2)</li>
+            <li>VERB--PRON-ADP(b) (113)</li>
+            <li>VERB--PRON-ADP(fy) (5)</li>
+            <li>VERB--PRON-ADP(k) (43)</li>
+            <li>VERB--PRON-ADP(l) (49)</li>
+            <li>VERB--PRON-ADP(w) (1)</li>
+            <li>VERB--PRON-Acc (4282)</li>
+            <li>VERB--PRON-Acc-ADP(_) (1)</li>
+            <li>VERB--PRON-Gen (27)</li>
+            <li>VERB--PRON-Gen-ADP(_) (12)</li>
+            <li>VERB--PRON-Gen-ADP(b) (2)</li>
+            <li>VERB--PRON-Gen-ADP(l) (1)</li>
+            <li>VERB--PRON-Nom (26)</li>
+            <li>VERB--PRON-Nom-ADP(k) (2)</li>
           </ul>
         </li>
       </ul>
@@ -2332,13 +2364,23 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Acc (2049)</li>
+            <li>VERB--NOUN-Acc (2044)</li>
+            <li>VERB--NOUN-Acc-ADP(إِزَاءَ) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(بِ) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
+            <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
             <li>VERB--NOUN-Gen (7)</li>
             <li>VERB--NOUN-Nom (121)</li>
             <li>VERB--PRON-Acc (660)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Acc (2714)</li>
-            <li>VERB-Fin--NOUN-Gen (9)</li>
+            <li>VERB-Fin--NOUN-Acc (2706)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(بِ) (3)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
+            <li>VERB-Fin--NOUN-Gen (10)</li>
             <li>VERB-Fin--NOUN-Nom (85)</li>
             <li>VERB-Fin--PRON-Acc (662)</li>
           </ul>
@@ -2366,22 +2408,51 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (14)</li>
-            <li>VERB--NOUN-ADP(byskwn) (1)</li>
-            <li>VERB--NOUN-Acc (164)</li>
-            <li>VERB--NOUN-Acc-ADP(_) (9)</li>
-            <li>VERB--NOUN-Acc-ADP(w) (2)</li>
-            <li>VERB--NOUN-Gen (13)</li>
-            <li>VERB--NOUN-Gen-ADP(_) (17)</li>
-            <li>VERB--NOUN-Gen-ADP(b) (4)</li>
-            <li>VERB--NOUN-Gen-ADP(l) (3)</li>
-            <li>VERB--NOUN-Nom (25)</li>
-            <li>VERB--NOUN-Nom-ADP(h) (1)</li>
-            <li>VERB--PRON (27)</li>
-            <li>VERB--PRON-ADP(_) (8)</li>
-            <li>VERB--PRON-Acc (53)</li>
-            <li>VERB--PRON-Acc-ADP(_) (2)</li>
-            <li>VERB--PRON-Gen (2)</li>
+            <li>VERB--NOUN (61)</li>
+            <li>VERB--NOUN-ADP(") (1)</li>
+            <li>VERB--NOUN-ADP(_) (270)</li>
+            <li>VERB--NOUN-ADP(b) (57)</li>
+            <li>VERB--NOUN-ADP(h) (4)</li>
+            <li>VERB--NOUN-ADP(hA) (2)</li>
+            <li>VERB--NOUN-ADP(hmA) (1)</li>
+            <li>VERB--NOUN-ADP(k) (5)</li>
+            <li>VERB--NOUN-ADP(l) (38)</li>
+            <li>VERB--NOUN-ADP(l)-ADP(_) (1)</li>
+            <li>VERB--NOUN-ADP(nA) (1)</li>
+            <li>VERB--NOUN-ADP(w) (1)</li>
+            <li>VERB--NOUN-Acc (2506)</li>
+            <li>VERB--NOUN-Acc-ADP(_) (218)</li>
+            <li>VERB--NOUN-Acc-ADP(b) (27)</li>
+            <li>VERB--NOUN-Acc-ADP(k) (1)</li>
+            <li>VERB--NOUN-Acc-ADP(l) (110)</li>
+            <li>VERB--NOUN-Gen (103)</li>
+            <li>VERB--NOUN-Gen-ADP(_) (6466)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(b) (2085)</li>
+            <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (3)</li>
+            <li>VERB--NOUN-Gen-ADP(k) (81)</li>
+            <li>VERB--NOUN-Gen-ADP(k)-ADP(l) (1)</li>
+            <li>VERB--NOUN-Gen-ADP(l) (1701)</li>
+            <li>VERB--NOUN-Gen-ADP(l)-ADP(_) (5)</li>
+            <li>VERB--NOUN-Gen-ADP(l)-ADP(l) (1)</li>
+            <li>VERB--NOUN-Nom (106)</li>
+            <li>VERB--NOUN-Nom-ADP(_) (16)</li>
+            <li>VERB--NOUN-Nom-ADP(b) (10)</li>
+            <li>VERB--NOUN-Nom-ADP(k) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(l) (8)</li>
+            <li>VERB--PRON (326)</li>
+            <li>VERB--PRON-ADP(_) (514)</li>
+            <li>VERB--PRON-ADP(b) (164)</li>
+            <li>VERB--PRON-ADP(fy) (1)</li>
+            <li>VERB--PRON-ADP(hm) (1)</li>
+            <li>VERB--PRON-ADP(k) (114)</li>
+            <li>VERB--PRON-ADP(l) (158)</li>
+            <li>VERB--PRON-ADP(l)-ADP(_) (3)</li>
+            <li>VERB--PRON-Acc (44)</li>
+            <li>VERB--PRON-Gen-ADP(_) (1)</li>
+            <li>VERB--PRON-Gen-ADP(b) (1)</li>
+            <li>VERB--PRON-Gen-ADP(l) (1)</li>
           </ul>
         </li>
       </ul>
@@ -2390,7 +2461,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Acc (124)</li>
+            <li>VERB--NOUN-Acc (123)</li>
+            <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB--NOUN-Gen (2)</li>
             <li>VERB--NOUN-Nom (21)</li>
             <li>VERB--PRON-Acc (31)</li>
@@ -2450,8 +2522,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 3 relation subtypes: <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 1 relation subtypes: <a>nmod:poss</a></li>
+      <li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2460,7 +2532,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 6 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-      <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8195 nodes (4%) are attached to their parents as `root`.
+8186 nodes (4%) are attached to their parents as `root`.
 
-8195 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 19.9918242830995.
+8186 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 19.9882726606401.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5560; 68% instances), -<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1790; 22% instances), -<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (632; 8% instances), -<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (143; 2% instances), -<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (25; 0% instances), -<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (20; 0% instances), -<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), -<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), -<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (5555; 68% instances), -<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1785; 22% instances), -<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (633; 8% instances), -<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (143; 2% instances), -<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (25; 0% instances), -<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (20; 0% instances), -<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), -<tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), -<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 5	ソング	ソング	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 6	に	に	ADP	PS	_	5	case	_	SpaceAfter=No
 7	変更	変更	NOUN	NN	_	8	compound	_	SpaceAfter=No
-8	後	後	NOUN	XS	_	18	nsubj	_	SpaceAfter=No
+8	後	後	NOUN	XS	_	18	dislocated	_	SpaceAfter=No
 9	は	は	ADP	PK	_	8	case	_	SpaceAfter=No
 10	、	、	PUNCT	SYM	_	8	punct	_	SpaceAfter=No
 11	ED	ED	PROPN	NNP	_	18	obl	_	SpaceAfter=No

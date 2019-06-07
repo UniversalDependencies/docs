@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_sequoia-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-3 nodes (0%) are attached to their parents as `csubj`.
+1 nodes (0%) are attached to their parents as `csubj`.
 
-3 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.66666666666667.
+1 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

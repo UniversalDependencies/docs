@@ -35,7 +35,7 @@ The following 5 pairs of parts of speech are connected with `csubj:quasi`: <tt><
 11	like	like	ADP	_	_	16	case	_	_
 12	sey	sey	SCONJ	_	_	16	mark	_	_
 13	I	I	PRON	_	_	16	nsubj	_	_
-14	no	no	PART	_	_	16	advmod	_	_
+14	no	no	ADV	PART	_	16	advmod	_	_
 15	go	go	AUX	_	_	16	aux	_	_
 16	dey	dey	VERB	_	_	10	csubj:quasi	_	_
 17	around	around	ADV	_	_	16	advmod	_	_
@@ -66,11 +66,11 @@ The following 5 pairs of parts of speech are connected with `csubj:quasi`: <tt><
 14	for	for	ADP	_	_	16	case	_	_
 15	ma	ma	PRON	_	_	16	nmod:poss	_	_
 16	department	department	NOUN	_	_	11	obl:mod	_	_
-17	o	o	PART	_	_	11	advmod:emph	_	_
+17	o	o	ADV	PART	_	11	advmod:emph	_	_
 18	<	<	PUNCT	_	_	11	punct	_	_
 19	#	#	PUNCT	_	_	11	punct	_	_
 20	sey	sey	SCONJ	_	_	23	mark	_	_
-21	na	na	PART	_	_	23	cop	_	_
+21	na	na	AUX	PART	_	23	cop	_	_
 22	from	from	ADP	_	_	23	case	_	_
 23	heaven	heaven	NOUN	_	_	4	parataxis:obj	_	_
 24	>+	>+	PUNCT	_	_	27	punct	_	_
@@ -102,7 +102,7 @@ The following 5 pairs of parts of speech are connected with `csubj:quasi`: <tt><
 9	better	better	ADJ	_	_	0	root	_	_
 10	make	make	AUX	_	_	13	aux	_	_
 11	you	you	PRON	_	_	13	nsubj	_	_
-12	no	no	PART	_	_	13	advmod	_	_
+12	no	no	ADV	PART	_	13	advmod	_	_
 13	use	use	VERB	_	_	9	csubj:quasi	_	_
 14	am	am	PRON	_	_	13	obj	_	_
 15	again	again	ADV	_	_	13	advmod	_	_

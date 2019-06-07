@@ -26,7 +26,7 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	1	case	_	ChunkId=NP|ChunkType=child
 3	رشوت_ستانی	رشوت_ستانی	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 4	کے	کا	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	ChunkId=NP2|ChunkType=child
-5	دور	دور	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	advmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+5	دور	دور	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 6	مےں	مےں	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP3|ChunkType=child
 7	اس	یہ	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	det	_	ChunkId=NP4|ChunkType=child
 8	طرح	طرح	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
@@ -49,7 +49,7 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6 1 nsubj	color:blue
 1	کروناندھی	کروناندھی	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Vib=0|Tam=0|ChunkId=NP|ChunkType=head
 2	نے	نے	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child
-3	اثبات	اثبات	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	advmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
+3	اثبات	اثبات	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 4	مےں	مےں	ADP	PSP	_	3	case	_	ChunkId=NP2|ChunkType=child
 5	جواب	جواب	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 6	دیا	دے	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Vib=یا|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative
@@ -78,7 +78,7 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 12	واقف	واقف	ADJ	JJ	_	13	compound	_	ChunkId=JJP|ChunkType=head
 13	کروا	کروا	VERB	VM	Voice=Act	0	root	_	Vib=0|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative
 14	دیا	دے	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	13	aux	_	Vib=یا|Tam=yA|ChunkId=VGF|ChunkType=child
-15	تھا	تھا	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	SpaceAfter=No|Vib=تھا|Tam=WA|ChunkId=VGF|ChunkType=child
+15	تھا	تھا	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No|Vib=تھا|Tam=WA|ChunkId=VGF|ChunkType=child
 16	۔	۔	PUNCT	SYM	_	13	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~

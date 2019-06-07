@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-44988 tokens (13%) have a non-empty value of `Person`.
-3986 types (24%) occur at least once with a non-empty value of `Person`.
-1040 lemmas (23%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (33221; 9% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (11758; 3% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (9; 0% instances).
+44950 tokens (13%) have a non-empty value of `Person`.
+3985 types (24%) occur at least once with a non-empty value of `Person`.
+1042 lemmas (22%) occur at least once with a non-empty value of `Person`.
+The feature is used with 5 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (33333; 9% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (11608; 3% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-33221 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Person`.
+33333 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33221; 100%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30340; 91%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (29532; 89%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27126; 82%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26310; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23514; 71%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33333; 100%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30448; 91%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (29635; 89%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27249; 82%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26391; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23490; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1080; 3% of non-empty `Person`): <em>dicimus, videmus, possumus, intelligimus, dico, respondeo, cognoscimus, ostendi, volumus, dicimur</em>
-* `2` (278; 1% of non-empty `Person`): <em>puta, fecisti, nolite, facies, occides, odisti, dicas, diligis, discedite, ordinate</em>
-* `3` (31863; 96% of non-empty `Person`): <em>est, potest, oportet, habet, dicitur, sunt, patet, sit, dicit, videtur</em>
-* `EMPTY` (19026): <em>esse, ostensum, dicendum, intelligere, dictum, movens, fieri, habere, separatae, dici</em>
+* `1` (1081; 3% of non-empty `Person`): <em>dicimus, videmus, possumus, intelligimus, dico, respondeo, cognoscimus, ostendi, volumus, dicimur</em>
+* `2` (240; 1% of non-empty `Person`): <em>fecisti, nolite, facies, occides, odisti, dicas, diligis, discedite, ordinate, vade</em>
+* `3` (32012; 96% of non-empty `Person`): <em>est, potest, oportet, habet, dicitur, sunt, patet, sit, dicit, videtur</em>
+* `EMPTY` (19042): <em>esse, ostensum, dicendum, intelligere, dictum, movens, fieri, habere, dici, separatae</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -60,16 +60,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-11758 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
+11608 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11758; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11619; 99%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11037; 94%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10091; 86%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9729; 83%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11608; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11605; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10896; 94%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9972; 86%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9606; 83%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (29; 0% of non-empty `Person`): <em>sum, sumus, simus, dicimur, erimus, ero, fuerimus</em>
+* `1` (28; 0% of non-empty `Person`): <em>sum, sumus, simus, erimus, ero, fuerimus</em>
 * `2` (16; 0% of non-empty `Person`): <em>es, estis, estote, eratis, esto</em>
-* `3` (11713; 100% of non-empty `Person`): <em>est, sit, sunt, esset, sint, erit, fuit, essent, fuerit, dicitur</em>
-* `EMPTY` (1386): <em>esse, fuisse, dici, facta, factae, fore, cognitum, essendi, existere, factas</em>
+* `3` (11564; 100% of non-empty `Person`): <em>est, sit, sunt, esset, sint, erit, fuit, essent, fuerit, erat</em>
+* `EMPTY` (1363): <em>esse, fuisse, fore, essendi</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -97,34 +97,49 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>simus</em></td><td></td><td><em>sint</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `AUX`. 93% lemmas (28) occur only with one value of `Person`.
+### `ADV`
+
+4 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `ADV` and `Person` co-occurred: <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%).
+
+`ADV` tokens may have the following values of `Person`:
+
+* `2` (4; 100% of non-empty `Person`): <em>etc.</em>
+* `EMPTY` (31474): <em>non, igitur, enim, etiam, unde, ergo, sic, tamen, supra, nam</em>
 
 ### `X`
 
-9 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Person`.
+3 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (9; 100%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (3; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 100%).
 
 `X` tokens may have the following values of `Person`:
 
-* `1` (1; 11% of non-empty `Person`): <em>reg.</em>
-* `2` (6; 67% of non-empty `Person`): <em>etc.</em>
-* `3` (2; 22% of non-empty `Person`): <em>omega, trin.</em>
-* `EMPTY` (783): <em>metaph., matth., rom., gen., cap., sap., physic., cor., ioan., metaphys.</em>
+* `1` (1; 33% of non-empty `Person`): <em>reg.</em>
+* `2` (2; 67% of non-empty `Person`): <em>etc.</em>
+* `EMPTY` (65): <em>rom., cor., quod, sap., iac., ioan., apoc., decuplum, deut., eccli.</em>
 
-<table>
-  <tr><th>Paradigm <i>vox_breviata</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>trin.</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>reg.</em></td><td></td></tr>
-</table>
+### `NOUN`
+
+2 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`NOUN` tokens may have the following values of `Person`:
+
+* `3` (2; 100% of non-empty `Person`): <em>omega, trin.</em>
+* `EMPTY` (72046): <em>forma, esse, intellectus, formam, formae, materia, anima, potentia, actu, bonum</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4391; 58%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1887; 87%),
-<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1464; 56%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (35; 80%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4445; 59%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1903; 87%),
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1467; 56%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (38; 83%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="la_ittb-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1169 nodes (5%) are attached to their parents as `obj`.
+1172 nodes (5%) are attached to their parents as `obj`.
 
-993 instances of `obj` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.31137724550898.
+995 instances of `obj` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.3080204778157.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (851; 73% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (251; 21% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (41; 4% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (851; 73% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (255; 22% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (41; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

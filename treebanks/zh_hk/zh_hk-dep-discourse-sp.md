@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-discourse.html">discourse</a></tt>.
 
-290 nodes (3%) are attached to their parents as `discourse:sp`.
+293 nodes (3%) are attached to their parents as `discourse:sp`.
 
-289 instances of `discourse:sp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.05172413793103.
+292 instances of `discourse:sp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.04778156996587.
 
-The following 12 pairs of parts of speech are connected with `discourse:sp`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (212; 73% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (24; 8% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (20; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (17; 6% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `discourse:sp`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (214; 73% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (25; 9% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (20; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (17; 6% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

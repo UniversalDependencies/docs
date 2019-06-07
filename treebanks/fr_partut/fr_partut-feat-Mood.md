@@ -9,23 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-1824 tokens (6%) have a non-empty value of `Mood`.
-543 types (13%) occur at least once with a non-empty value of `Mood`.
-306 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (927; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (897; 3% instances).
+1818 tokens (6%) have a non-empty value of `Mood`.
+539 types (13%) occur at least once with a non-empty value of `Mood`.
+303 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (929; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (889; 3% instances).
 
 ### `AUX`
 
-927 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
+929 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (927; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (851; 92%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (766; 83%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (597; 64%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (929; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (852; 92%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (767; 83%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (597; 64%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (99; 11% of non-empty `Mood`): <em>voudrais, devrait, devraient, serait, devrions, pourrait, aurait, aurions, pourraient, aurais</em>
-* `Ind` (776; 84% of non-empty `Mood`): <em>est, a, sont, ont, peut, doit, sera, peuvent, pouvez, suis</em>
+* `Imp` (1; 0% of non-empty `Mood`): <em>Faites</em>
+* `Ind` (777; 84% of non-empty `Mood`): <em>est, a, sont, ont, peut, doit, sera, peuvent, pouvez, suis</em>
 * `Sub` (52; 6% of non-empty `Mood`): <em>soient, soit, ait, aient, puissions, ayons, puisse, puissent, soyons</em>
-* `EMPTY` (172): <em>être, été, étant, avoir, ayant, pouvoir, aller, pu, dû, soit</em>
+* `EMPTY` (181): <em>être, été, étant, faire, avoir, ayant, pouvoir, aller, pu, dû</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -43,17 +44,17 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-897 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
+889 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (897; 100%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (895; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (790; 88%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (653; 73%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (571; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (889; 100%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (887; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (786; 88%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (651; 73%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (565; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (19; 2% of non-empty `Mood`): <em>conviendrait, souhaiterais, aimeraient, altérerait, apparaîtra, augmenterait, aurait, entraîneraient, entraînerait, ferait</em>
 * `Imp` (36; 4% of non-empty `Mood`): <em>cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez</em>
-* `Ind` (814; 91% of non-empty `Mood`): <em>a, est, convient, fait, ont, concerne, pense, font, faut, agit</em>
+* `Ind` (806; 91% of non-empty `Mood`): <em>a, est, convient, ont, fait, concerne, pense, font, faut, agit</em>
 * `Sub` (28; 3% of non-empty `Mood`): <em>ait, permettent, prenne, soit, fonctionne, accélèrent, agisse, atteigne, clarifie, examine</em>
-* `EMPTY` (1590): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
+* `EMPTY` (1585): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
 <table>
   <tr><th>Paradigm <i>permettre</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -63,12 +64,11 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>permettent</em></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 90% lemmas (276) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 90% lemmas (273) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> VERB</tt> (46; 52%),
-<tt>AUX --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fr_partut-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

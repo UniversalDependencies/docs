@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_gsd-dep-aux.html">aux</a></tt>.
 
-3426 nodes (1%) are attached to their parents as `aux:pass`.
+3425 nodes (1%) are attached to their parents as `aux:pass`.
 
-2252 instances of `aux:pass` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.5826036193812.
+2253 instances of `aux:pass` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.57401459854015.
 
-The following 8 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (3265; 95% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (147; 4% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (3414; 100% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt>-<tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,46 +35,36 @@ The following 8 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 aux:pass	color:blue
-1	Ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-2	echt	echt	ADV	ADV	_	5	advmod	_	_
-3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	beste	gut	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
-5	Behandlung	Behandlung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-6	gewesen	sein	AUX	VAPP	VerbForm=Part	1	aux:pass	_	SpaceAfter=No
-7	.	.	PUNCT	$.	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 aux:pass	color:blue
+1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+2	darüber	darüber	ADV	PAV	_	3	advmod	_	_
+3	liegenden	liegend	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
+4	Räume	Raum	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+5	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
+6	modern	modern	ADJ	ADJD	_	7	advmod	_	_
+7	gestaltet	gestalten	ADJ	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	$.	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 aux:pass	color:blue
-1	Des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
-2	Weiteren	Weiteren	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
-4	hier	hier	ADV	ADV	_	2	advmod	_	_
-5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Musikschulverwaltung	Musikschulverwaltung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	SpaceAfter=No
-7	,	,	PUNCT	$,	_	9	punct	_	_
-8	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	Stadtbücherei	Stadtbücherei	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
-10	und	und	CCONJ	KON	_	12	cc	_	_
-11	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
-12	Kämmereiamt	Kämmereiamt	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	_
-13	zusammen	zusammen	ADV	ADV	_	2	advmod	_	_
-14	mit	mit	ADP	APPR	_	16	case	_	_
-15	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	Stadtkasse	Stadtkasse	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	_
-17	untergebracht	unterbringen	VERB	VVPP	VerbForm=Part	2	fixed	_	SpaceAfter=No
-18	.	.	PUNCT	$.	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 aux:pass	color:blue
+1	Ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	echt	echt	ADV	ADV	_	5	advmod	_	_
+3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	beste	gut	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
+5	Behandlung	Behandlung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	gewesen	sein	AUX	VAPP	VerbForm=Part	5	aux:pass	_	SpaceAfter=No
+7	.	.	PUNCT	$.	_	5	punct	_	_
 
 ~~~
 

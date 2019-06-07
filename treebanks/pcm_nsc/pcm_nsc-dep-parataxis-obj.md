@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 6	stay	stay	VERB	_	_	2	parataxis:obj	_	_
 7	for	for	ADP	_	_	8	case	_	_
 8	here	here	ADV	_	_	6	obl:mod	_	_
-9	//	//	PUNCT	_	_	10	punct	_	_
+9	//	//	PUNCT	_	_	6	punct	_	_
 10	]	]	PUNCT	_	_	6	punct	_	_
 11	//	//	PUNCT	_	_	2	punct	_	_
 
@@ -49,15 +49,15 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 3	just	just	ADV	_	_	4	advmod	_	_
 4	say	say	VERB	_	_	0	root	_	_
 5	[	[	PUNCT	_	_	7	punct	_	_
-6	na	na	PART	_	_	7	cop	_	_
+6	na	na	AUX	PART	_	7	cop	_	_
 7	okada	okada	NOUN	_	_	4	parataxis:obj	_	_
 8	|c	|c	PUNCT	_	_	10	punct	_	_
-9	na	na	PART	_	_	10	cop	_	_
+9	na	na	AUX	PART	_	10	cop	_	_
 10	so	so	ADV	_	_	7	conj:coord	_	_
 11	dem	dem	PRON	_	_	13	nsubj	_	_
 12	dey	dey	AUX	_	_	13	aux	_	_
 13	do	do	VERB	_	_	10	ccomp:cleft	_	_
-14	//	//	PUNCT	_	_	15	punct	_	_
+14	//	//	PUNCT	_	_	7	punct	_	_
 15	]	]	PUNCT	_	_	7	punct	_	_
 16	//	//	PUNCT	_	_	4	punct	_	_
 
@@ -79,7 +79,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 7	<	<	PUNCT	_	_	5	punct	_	_
 8	dem	dem	PRON	_	_	11	nsubj	_	_
 9	go	go	AUX	_	_	11	aux	_	_
-10	come	come	VERB	_	_	11	aux	_	_
+10	come	come	AUX	VERB	_	11	aux	_	_
 11	enter	enter	VERB	_	_	0	root	_	_
 12	steer	steer	NOUN	_	_	11	obj	_	_
 13	say	say	VERB	_	_	11	conj:coord	_	_
@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 18	don	don	AUX	_	_	19	aux	_	_
 19	gallant	gallant	ADJ	_	_	13	parataxis:obj	_	_
 20	now	now	ADV	_	_	19	advmod	_	_
-21	//	//	PUNCT	_	_	22	punct	_	_
+21	//	//	PUNCT	_	_	19	punct	_	_
 22	]	]	PUNCT	_	_	19	punct	_	_
 23	//	//	PUNCT	_	_	11	punct	_	_
 

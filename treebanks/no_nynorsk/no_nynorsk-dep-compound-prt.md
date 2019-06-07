@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 1	Varm	varme	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	opp	opp	ADP	_	_	1	compound:prt	_	_
 3	steikepanna	steikepanne	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-4	,	$,	PUNCT	_	_	1	punct	_	_
+4	,	$,	PUNCT	_	_	6	punct	_	_
 5	og	og	CCONJ	_	_	6	cc	_	_
 6	ha	ha	VERB	_	Mood=Imp|VerbForm=Fin	1	conj	_	_
 7	i	i	ADP	_	_	6	compound:prt	_	_

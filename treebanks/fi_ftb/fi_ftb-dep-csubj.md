@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	,	,	PUNCT	Pun	_	2	punct	_	_
 4	että	että	SCONJ	Pcle,CS	_	7	mark	_	_
 5	joku	joku	PRON	Pron,Qnt,Sg,Nom	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	FTB-PronType=Qnt
-6	voi	voida	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+6	voi	voida	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 7	ajatella	ajatella	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|VerbForm=Inf|Voice=Act	1	csubj	_	_
 8	noin	noin	ADV	Adv,Dem	PronType=Dem	7	advmod	_	_
 9	.	.	PUNCT	Pun	_	8	punct	_	_

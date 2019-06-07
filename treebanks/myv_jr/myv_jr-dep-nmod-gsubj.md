@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:gsubj	color:blue
-1	А	а	PART	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Neg
+1	А	а	AUX	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Neg
 2	покш	покш	ADJ	A	_	3	amod	_	_
 3	шкань	шка	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	nmod:gsubj	_	GTtags=SP,Gen,Indef
 4	ютазь	ютамс	VERB	V	Derivation=Ozj|Valency=2|VerbForm=Conv	6	advcl	_	GTtags=TV,Der/Озь,Ger
@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:gsubj	color:blue
 1	Стяко	стяко	ADV	Adv	_	3	advmod	_	_
-2	а	а	PART	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
+2	а	а	AUX	Pcle	Polarity=Neg	3	aux:neg	_	GTtags=Neg
 3	ёми	ёмамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
 4	Дуняшинэнь	Дуняшин	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|NameType=Sur|Number=Plur,Sing	5	nmod:gsubj	_	GTtags=Prop,Sur_Mal,SP,Gen,Indef
 5	сёрмадомазо	сёрмадомс	VERB	V	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Valency=2|VerbForm=Vnoun	3	nsubj	_	GTtags=TV,NomAct,N,Sg,Nom,PxSg3|SpaceAfter=No
@@ -61,11 +61,11 @@ The following 3 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 1	Сонсь	сонсь	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	nsubj	_	GTtags=Refl,Sg3,Nom
 2	яла	яла	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time
 3	соракалесь	соракалемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-4	апак	апак	PART	Pcle	Polarity=Neg	5	aux:neg	_	GTtags=Neg
+4	апак	апак	AUX	Pcle	Polarity=Neg	5	aux:neg	_	GTtags=Neg
 5	учо	учомс	VERB	V	Connegative=Yes|Valency=2	6	advcl	_	GTtags=TV,ConNeg
 6	тамашанть	тамаша	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obl	_	GTtags=Sg,Gen,Def
 7	эйстэ	эйстэ	ADP	Adp	Case=Ela	6	case	_	GTtags=Ela
-8	прясто	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	advmod	_	GTtags=Sem/Plc,SP,Ela,Indef
+8	прясто	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=Sem/Plc,SP,Ela,Indef
 9	пильгс	пильге	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	8	fixed	_	GTtags=SP,Ill,Indef|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	учось	учомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScSg3

@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	bratom	brat	NOUN	SSms7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
 7	Olegom	oleg	PROPN	SSms7:r	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl:agent	4:obl:agent	SpaceAfter=No
 8	,	,	PUNCT	Z	_	11	punct	11:punct	_
-9	V	v	X	W	Abbr=Yes	11	nmod	11:nmod	SpaceAfter=No
+9	V	v	PROPN	W	Abbr=Yes	11	nmod	11:nmod	SpaceAfter=No
 10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 11	Monomachom	monomach	PROPN	SSms7:r	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	conj	4:obl:agent|7:conj	_
 12	a	a	CCONJ	O	_	14	cc	14:cc	_

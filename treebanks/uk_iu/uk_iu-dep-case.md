@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10483 nodes (9%) are attached to their parents as `case`.
+10988 nodes (9%) are attached to their parents as `case`.
 
-10479 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4359439091863.
+10984 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43574808882417.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (8405; 80% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (963; 9% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (631; 6% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (214; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (149; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (66; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `case`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (8806; 80% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1009; 9% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (650; 6% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (229; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (161; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (72; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -34,11 +34,11 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, not checked manually |
-| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| Lemmas | annotated manually, natively in UD style |
+| UPOS | annotated manually, natively in UD style |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD |
-| Relations | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually, natively in UD style |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
@@ -56,21 +56,21 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 
 ## Features
 
-[Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
+[Abbr](ru_gsd-feat-Abbr.html) – [Animacy](ru_gsd-feat-Animacy.html) – [Aspect](ru_gsd-feat-Aspect.html) – [Case](ru_gsd-feat-Case.html) – [Degree](ru_gsd-feat-Degree.html) – [Foreign](ru_gsd-feat-Foreign.html) – [Gender](ru_gsd-feat-Gender.html) – [Mood](ru_gsd-feat-Mood.html) – [Number](ru_gsd-feat-Number.html) – [NumType](ru_gsd-feat-NumType.html) – [Person](ru_gsd-feat-Person.html) – [Polarity](ru_gsd-feat-Polarity.html) – [Reflex](ru_gsd-feat-Reflex.html) – [Tense](ru_gsd-feat-Tense.html) – [Variant](ru_gsd-feat-Variant.html) – [VerbForm](ru_gsd-feat-VerbForm.html) – [Voice](ru_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](ru_gsd-dep-acl.html) – [acl:relcl](ru_gsd-dep-acl-relcl.html) – [advcl](ru_gsd-dep-advcl.html) – [advmod](ru_gsd-dep-advmod.html) – [amod](ru_gsd-dep-amod.html) – [appos](ru_gsd-dep-appos.html) – [aux](ru_gsd-dep-aux.html) – [aux:pass](ru_gsd-dep-aux-pass.html) – [case](ru_gsd-dep-case.html) – [cc](ru_gsd-dep-cc.html) – [ccomp](ru_gsd-dep-ccomp.html) – [compound](ru_gsd-dep-compound.html) – [conj](ru_gsd-dep-conj.html) – [cop](ru_gsd-dep-cop.html) – [csubj](ru_gsd-dep-csubj.html) – [dep](ru_gsd-dep-dep.html) – [det](ru_gsd-dep-det.html) – [discourse](ru_gsd-dep-discourse.html) – [fixed](ru_gsd-dep-fixed.html) – [flat](ru_gsd-dep-flat.html) – [flat:foreign](ru_gsd-dep-flat-foreign.html) – [goeswith](ru_gsd-dep-goeswith.html) – [iobj](ru_gsd-dep-iobj.html) – [list](ru_gsd-dep-list.html) – [mark](ru_gsd-dep-mark.html) – [nmod](ru_gsd-dep-nmod.html) – [nsubj](ru_gsd-dep-nsubj.html) – [nsubj:pass](ru_gsd-dep-nsubj-pass.html) – [nummod](ru_gsd-dep-nummod.html) – [nummod:gov](ru_gsd-dep-nummod-gov.html) – [obj](ru_gsd-dep-obj.html) – [obl](ru_gsd-dep-obl.html) – [obl:agent](ru_gsd-dep-obl-agent.html) – [orphan](ru_gsd-dep-orphan.html) – [parataxis](ru_gsd-dep-parataxis.html) – [punct](ru_gsd-dep-punct.html) – [root](ru_gsd-dep-root.html) – [vocative](ru_gsd-dep-vocative.html) – [xcomp](ru_gsd-dep-xcomp.html)
+[acl](ru_gsd-dep-acl.html) – [acl:relcl](ru_gsd-dep-acl-relcl.html) – [advcl](ru_gsd-dep-advcl.html) – [advmod](ru_gsd-dep-advmod.html) – [amod](ru_gsd-dep-amod.html) – [appos](ru_gsd-dep-appos.html) – [aux](ru_gsd-dep-aux.html) – [aux:pass](ru_gsd-dep-aux-pass.html) – [case](ru_gsd-dep-case.html) – [cc](ru_gsd-dep-cc.html) – [ccomp](ru_gsd-dep-ccomp.html) – [compound](ru_gsd-dep-compound.html) – [conj](ru_gsd-dep-conj.html) – [cop](ru_gsd-dep-cop.html) – [csubj](ru_gsd-dep-csubj.html) – [dep](ru_gsd-dep-dep.html) – [det](ru_gsd-dep-det.html) – [discourse](ru_gsd-dep-discourse.html) – [dislocated](ru_gsd-dep-dislocated.html) – [expl](ru_gsd-dep-expl.html) – [fixed](ru_gsd-dep-fixed.html) – [flat](ru_gsd-dep-flat.html) – [flat:foreign](ru_gsd-dep-flat-foreign.html) – [flat:name](ru_gsd-dep-flat-name.html) – [goeswith](ru_gsd-dep-goeswith.html) – [iobj](ru_gsd-dep-iobj.html) – [list](ru_gsd-dep-list.html) – [mark](ru_gsd-dep-mark.html) – [nmod](ru_gsd-dep-nmod.html) – [nsubj](ru_gsd-dep-nsubj.html) – [nsubj:pass](ru_gsd-dep-nsubj-pass.html) – [nummod](ru_gsd-dep-nummod.html) – [nummod:entity](ru_gsd-dep-nummod-entity.html) – [nummod:gov](ru_gsd-dep-nummod-gov.html) – [obj](ru_gsd-dep-obj.html) – [obl](ru_gsd-dep-obl.html) – [obl:agent](ru_gsd-dep-obl-agent.html) – [orphan](ru_gsd-dep-orphan.html) – [parataxis](ru_gsd-dep-parataxis.html) – [punct](ru_gsd-dep-punct.html) – [root](ru_gsd-dep-root.html) – [vocative](ru_gsd-dep-vocative.html) – [xcomp](ru_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 5030 sentences and 99389 tokens.</li>
+<li>This corpus contains 5030 sentences and 98000 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15209 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 17090 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -78,7 +78,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 </ul>
 
 <ul>
-<li>This corpus contains 77 types of words that contain both letters and punctuation. Examples: г., т., род., н., гг., тыс., чел., в., э., е., см., а., др., п., ум., д., кв., м., фр., англ., к., ок., H., Hume&#39;&#39;s, Inc., King&#39;&#39;s, Organismus., Sat., X_1, X_2, co., com., justjared.com, message_box, mu_1, mu_2, my_button, pweination., spp., zypper., Агентура., З., Л., Пахонино., Прим., С., Ср., Ч., Ш., Эльбинге.</li>
+<li>This corpus contains 598 types of words that contain both letters and punctuation. Examples: г., из-за, т., род., н., гг., тыс., чел., в., э., е., 1950-х, 1990-х, Санкт-Петербурге, п., см., юго-востоку, 1-й, 1960-х, 1980-х, 3-й, 4-го, 4-й, Лос-Анджелес, Нью-Йорке, а., др., по-прежнему, ум., юго-востоке, 1-го, 1-м, 1930-х, 1980-е, 2-го, 2-й, 20-го, 28-го, 3-го, 5-я, 8-й, 80-х, 9-й, 90-х, \mathbb, \otimes, Нью-Йорк, Санкт-Петербурга, Юго-Западном, д.</li>
 </ul>
 
 <ul>
@@ -94,27 +94,27 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 </ul>
 
 <ul>
-<li>This corpus contains 29 word types tagged as particles (PART): No, Non, Not, Ведь, Да, будто, бы, вот, вроде, все, всё, даже, де, же, и, именно, ли, лишь, мол, не, нет, ни, просто, пусть, словно, также, тоже, только, хотя</li>
+<li>This corpus contains 40 word types tagged as particles (PART): Да, О, ал, аль, будто, бы, ван, вот, все, все-таки, всё-таки, д, даже, де, деи, дер, ди, же, и, ибн, именно, ла, ле, ли, лишь, мол, не, нет, ни, просто, пусть, словно, также, таки, тоже, только, точно, фон, хотя, это</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as pronouns (PRON): HE, HER, I, ICH, ME, THEY, TI, WE, YE, YOU, ВСЁ, ВСЕ, ВЫ, КОТОРЫЙ, КТО, МЫ, НИКТО, ОН, ОНА, ОНИ, ОНО, СЕБЯ, Т., ТО, ТЫ, ЧЕМ, ЧТО, ЭТО, Я</li>
+<li>This corpus contains 23 lemmas tagged as pronouns (PRON): все, всё, вы, кого-нибудь, который, кто, кто-либо, мы, некто, никто, ничто, он, она, они, оно, себя, то, ты, чего-либо, что, что-то, это, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as determiners (DET): A, ALL, ALLE, DER, EIN, IT, LA, MIA, THE, ВЕСЬ, ВСЯКИЙ, ЕГО, ЕЕ, ИХ, КАЖДЫЙ, КАКОЙ, МОЙ, Н., НАШ, НЕКИЙ, НЕКОТОРЫЙ, НИКАКОЙ, СВОЙ, СЕЙ, ТАКОЙ, ТВОЙ, ТОТ, ЧЕЙ, ЧТО, ЭТОТ</li>
+<li>This corpus contains 30 lemmas tagged as determiners (DET): весь, всякий, его, ее, их, каждый, какая-то, какие-то, каких-либо, какое-либо, какое-то, какой, какой-либо, какой-то, какому-то, любой, мой, наш, некий, некоторый, никакой, один, свой, сей, такой, твой, тот, чей, что, этот</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: ЧТО</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: что</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as auxiliaries (AUX): AM, BE, BIN, DON, EST, HAS, RE, БЫВАТЬ, БЫТЬ, ДЕЛАТЬ, МОЧЬ, НАЗНАЧИТЬ, НАЗЫВАТЬСЯ, ОБЪЯВИТЬ, ОКАЗАТЬСЯ, ОКАЗЫВАТЬСЯ, ПЕСНЯ, РАЗВИВАТЬСЯ, СДЕЛАТЬ, СОСТОЯТЬ, СТАТЬ, СЧИТАТЬ, ФИНИШИРОВАТЬ, ЭТО, ЭТОТ, ЯВИТЬСЯ, ЯВЛЯТЬСЯ</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): бы, быть</li>
 </ul>
 
 <ul>
-<li>Out of the above, 17 lemmas occurred sometimes as AUX and sometimes as VERB: БЫВАТЬ, БЫТЬ, ДЕЛАТЬ, МОЧЬ, НАЗНАЧИТЬ, НАЗЫВАТЬСЯ, ОБЪЯВИТЬ, ОКАЗАТЬСЯ, ОКАЗЫВАТЬСЯ, РАЗВИВАТЬСЯ, СДЕЛАТЬ, СОСТОЯТЬ, СТАТЬ, СЧИТАТЬ, ФИНИШИРОВАТЬ, ЯВИТЬСЯ, ЯВЛЯТЬСЯ</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быть</li>
 </ul>
 
 <ul>
@@ -124,8 +124,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Conv
   <ul>
-    <li>AUX: будучи, Являясь, сделав, являвшись</li>
-    <li>VERB: включая, начиная, используя, говоря, став, выйдя, имея, считая, чувствуя, выиграв</li>
+    <li>AUX: будучи</li>
+    <li>VERB: начиная, включая, используя, говоря, став, выйдя, имея, считая, чувствуя, выиграв</li>
   </ul>
   </li>
 </ul>
@@ -133,8 +133,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: был, была, были, было, является, будет, являются, являлся, будут, стал</li>
-    <li>VERB: составляет, может, находится, входит, получил, стал, родился, имеет, начал, было</li>
+    <li>AUX: был, были, была, было, будет, будут, есть</li>
+    <li>VERB: является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</li>
   </ul>
   </li>
 </ul>
@@ -142,8 +142,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: быть, Be, делать, стать, являться</li>
-    <li>VERB: быть, заниматься, играть, сделать, использовать, работать, найти, стать, считать, принимать</li>
+    <li>AUX: быть</li>
+    <li>VERB: быть, заниматься, играть, сделать, использовать, работать, стать, найти, считать, принимать</li>
   </ul>
   </li>
 </ul>
@@ -151,8 +151,9 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: бывшего, бывшие, бывшим, назначен, ставших, являющегося, являющееся</li>
-    <li>VERB: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположено, расположены</li>
+    <li>ADJ: расположен</li>
+    <li>AUX: бывшего, бывшие, бывшим</li>
+    <li>VERB: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
   </ul>
   </li>
 </ul>
@@ -167,12 +168,11 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: второй, российской, й, первой, я, отечественной, большую, мировой, новой, центральной</li>
-      <li>AUX: была, стала, являлась, оказалась, песни, явилась</li>
-      <li>AUX-Fin: была, стала, являлась, оказалась, явилась</li>
+      <li>ADJ: второй, российской, первой, отечественной, большую, мировой, новой, центральной, северной, большая</li>
+      <li>AUX-Fin: была</li>
       <li>DET: своей, свою, этой, эта, всей, эту, н., всю, каждая, каждой</li>
-      <li>NOUN: области, войны, реки, территории, часть, части, группы, компании, площадь, армии</li>
-      <li>NUM: одной, две, одна, двух, одну, 2, 1, обе, двум, двумя</li>
+      <li>NOUN: области, войны, реки, территории, часть, части, компании, площадь, армии, группы</li>
+      <li>NUM: одной, две, одна, двух, тыс., одну, 2, 1, обе, двум</li>
       <li>PRON: она, которой, которая, ней, её, неё, которую, ей, нее, ее</li>
       <li>PROPN: России, Украины, Франции, Германии, Европы, Испании, РФ, Москве, Франция, Англии</li>
       <li>VERB-Fin: стала, получила, была, вошла, появилась, вышла, род., состоялась, имела, работала</li>
@@ -184,15 +184,18 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: 2008, 2010, 2004, первый, 2012, 2006, 2009, 2011, 2007, 2001</li>
-      <li>AUX-Fin: был, являлся, стал, оказался, состоял, финишировал</li>
-      <li>AUX-Part: бывшего, бывшим, назначен, являющегося</li>
-      <li>DET: этот, этого, свой, the, этом, своего, тот, каждый, весь, том</li>
+      <li>ADJ: 2008, 2010, 2004, первый, 2012, 2006, 2011, 2007, 2009, 2001</li>
+      <li>ADJ-Part: расположен</li>
+      <li>AUX-Fin: был</li>
+      <li>AUX-Part: бывшего, бывшим</li>
+      <li>DET: этот, этого, свой, этом, своего, тот, каждый, весь, том, своим</li>
       <li>NOUN: года, году, лет, человек, год, км, города, г., районе, состав</li>
-      <li>NUM: один, два, 2, 1, одного, двух, одним, 22, оба, 21</li>
+      <li>NUM: два, один, 2, 1, двух, одним, одного, 22, оба, 21</li>
+      <li>PART: Де</li>
       <li>PRON: он, который, его, ему, которого, него, ним, котором, им, нём</li>
-      <li>PROPN: США, СССР, де, Александра, Владимир, Александр, Джон, КОАТУУ, Карл, Крыма</li>
-      <li>VERB-Fin: получил, стал, родился, начал, работал, окончил, участвовал, вышел, был, умер</li>
+      <li>PROPN: США, СССР, Александра, Владимир, Александр, Джон, КОАТУУ, Карл, Крыма, Михаил</li>
+      <li>PUNCT: -</li>
+      <li>VERB-Fin: стал, получил, родился, начал, работал, окончил, участвовал, вышел, умер, писал</li>
       <li>VERB-Part: назначен, расположен, основан, награждён, назван, избран, установлен, вынужден, разработан, утверждён</li>
     </ul>
   </li>
@@ -202,14 +205,13 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
   <li>Neut
     <ul>
       <li>ADJ: 1, 12, настоящее, 15, 14, 11, 21, 23, 29, первое</li>
-      <li>AUX-Fin: было, стало, явилось</li>
-      <li>AUX-Part: являющееся</li>
+      <li>AUX-Fin: было</li>
       <li>DET: то, это, том, этого, своё, свое, что, всё, своего, того</li>
       <li>NOUN: время, население, населения, название, место, начале, качестве, село, времени, данным</li>
       <li>NUM: одно, одним, одного, 2, два, двух, одном, 1, 12, 22</li>
       <li>PRON: это, того, что, тем, том, этом, то, этого, которое, всего</li>
-      <li>PROPN: ISO, Дубно, Евровидение, Марокко, ЦРУ, IPO, MonaVie, Григорово, Динамо, Домодедово</li>
-      <li>VERB-Fin: было, составляло, удалось, стало, привело, пришлось, проживало, произошло, существовало, возникло</li>
+      <li>PROPN: Дубно, Евровидение, Марокко, ЦРУ, IPO, Борисово, Григорово, Динамо, Домодедово, Закарпатье</li>
+      <li>VERB-Fin: было, составляло, стало, удалось, привело, пришлось, проживало, произошло, существовало, возникло</li>
       <li>VERB-Part: принято, расположено, выпущено, начато, построено, дано, образовано, объявлено, означающее, основано</li>
     </ul>
   </li>
@@ -222,13 +224,14 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: II, I, первым, сам, III, известный, американский, должен, многие, главный</li>
-      <li>AUX-Part: бывшего, бывшим, назначен, ставших, являющегося</li>
-      <li>DET: своего, the, все, всех, своей, некоторые, тех, своим, своих, тот</li>
-      <li>NOUN: человек, человека, женщин, мужчин, членом, автор, детей, жителей, людей, деятель</li>
-      <li>NUM: один, одного, одним, двух, два, 1, двое, три, четырёх, 2</li>
+      <li>ADJ: I, активных, бывших, новых, Дикого, Законных, Митиленского, Сильного, Слепого, Хильдесхеймского</li>
+      <li>AUX-Part: бывшего, бывшим</li>
+      <li>DET: всех, своего, своих, один, одного, таких, тех, Этих, некоего, некоторых</li>
+      <li>NOUN: человек, человека, женщин, мужчин, членом, автор, детей, жителей, людей, член</li>
+      <li>NUM: один, одним, одного, двух, два, 1, двое, три, четырёх, 2</li>
       <li>PRON: который, которые, кто, которого, которых, которым, кем, которой, которая, которому</li>
-      <li>PROPN: де, Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей</li>
+      <li>PROPN: Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей, Виктор</li>
+      <li>PUNCT: -</li>
       <li>VERB-Part: назначен, награждён, избран, вынужден, похоронен, произведён, ранен, убит, арестован, арестованы</li>
     </ul>
   </li>
@@ -237,15 +240,16 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: второй, й, 2008, 2010, х, 2004, 2012, 1, 2006, 2009</li>
-      <li>AUX: бывшие, песни, являющееся</li>
-      <li>AUX-Part: бывшие, являющееся</li>
-      <li>DET: этого, этот, все, том, своей, the, всех, то, это, свой</li>
+      <li>ADJ: первый, первые, последние, следующий, государственный, новый, другие, новые, разные, второй</li>
+      <li>ADJ-Part: расположен</li>
+      <li>AUX-Part: бывшие</li>
+      <li>DET: свой, этот, свои, все, эти, каждый, такие, тот, весь, некоторые</li>
       <li>NOUN: года, году, время, области, лет, войны, реки, год, км, города</li>
       <li>NUM: 2, два, несколько, 1, 4, двух, 3, три, один, одной</li>
+      <li>PART: Де</li>
       <li>PRON: это, который, того, что, которые, тем, которой, которых, том, этом</li>
       <li>PROPN: России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Москве</li>
-      <li>VERB-Part: расположен, основана, расположена, основан, принято, создана, расположено, расположены, назван, проведены</li>
+      <li>VERB-Part: расположен, основана, основан, расположена, принято, создана, расположено, назван, проведены, расположены</li>
     </ul>
   </li>
 </ul>
@@ -257,16 +261,15 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: х, других, различных, многие, первые, самых, новые, первых, новых, известных</li>
-      <li>AUX: были, являются, будут, явились, бывают, бывшие, могут, объявили, оказываются, песни</li>
-      <li>AUX-Fin: были, являются, будут, явились, бывают, могут, объявили, оказываются, развивались, стали</li>
-      <li>AUX-Part: бывшие, ставших</li>
+      <li>ADJ: других, различных, многие, первые, самых, новые, первых, новых, известных, разных</li>
+      <li>AUX-Fin: были, будут</li>
+      <li>AUX-Part: бывшие</li>
       <li>DET: все, всех, некоторые, эти, этих, своих, свои, таких, тех, такие</li>
       <li>NOUN: лет, человек, км, годах, годы, данным, женщин, годов, войска, км2</li>
-      <li>NUM: двое, сколько, 15000, 22, 30000, Оба, двух, обоих, одних</li>
+      <li>NUM: тыс., немногих, двое, сколько, 15000, 22, 30000, Оба, двух, обоих</li>
       <li>PRON: которые, они, которых, их, них, им, мы, ними, которыми, вы</li>
-      <li>PROPN: США, ВВС, ВС, ЕХБ, СС, НЧ, Beatles, IPO, Лейкерс, Нидерландов</li>
-      <li>VERB-Fin: могут, имеют, стали, были, используются, называют, находятся, могли, появились, приняли</li>
+      <li>PROPN: США, ВВС, ВС, ЕХБ, СС, IPO, Лейкерс, Нидерландов, 4Kids, IBM</li>
+      <li>VERB-Fin: могут, являются, имеют, стали, были, используются, называют, находятся, могли, появились</li>
       <li>VERB-Part: расположены, проведены, приняты, перечисленных, покрыты, установленных, называемые, находящиеся, построены, приведены</li>
     </ul>
   </li>
@@ -275,16 +278,19 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: второй, й, 2008, 2010, 2004, первый, 2012, 1, 2006, 2009</li>
-      <li>AUX-Fin: был, была, было, является, будет, являлся, стал, стала, стало, являлась</li>
-      <li>AUX-Part: бывшего, бывшим, назначен, являющегося, являющееся</li>
-      <li>DET: этого, своей, этот, том, то, это, свою, the, свой, этой</li>
+      <li>ADJ: второй, 2008, 2010, 2004, первый, 2012, 1, 2006, 2011, 2007</li>
+      <li>ADJ-Part: расположен</li>
+      <li>AUX-Fin: был, была, было, будет, есть</li>
+      <li>AUX-Part: бывшего, бывшим</li>
+      <li>DET: этого, своей, этот, том, то, это, свою, свой, этой, этом</li>
       <li>NOUN: года, году, время, области, войны, год, реки, г., города, районе</li>
-      <li>NUM: один, 1, одного, одной, одним, одна, одно, одну, одном, 21</li>
+      <li>NUM: один, 1, одной, одним, одного, одна, одну, одно, одном, 21</li>
+      <li>PART: Де</li>
       <li>PRON: он, который, это, она, его, того, что, которой, тем, ему</li>
-      <li>PROPN: России, СССР, Украины, Франции, де, Германии, Европы, Испании, РФ, Александра</li>
-      <li>VERB-Fin: составляет, может, находится, входит, получил, стал, родился, имеет, начал, было</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположено, назван</li>
+      <li>PROPN: России, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Александра, Москве</li>
+      <li>PUNCT: -</li>
+      <li>VERB-Fin: является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
   </li>
 </ul>
@@ -296,12 +302,12 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: большую, настоящее, е, первую, первый, новую, первые, последние, 31, следующий</li>
+      <li>ADJ: большую, настоящее, первую, первый, новую, первые, последние, 31, следующий, большое</li>
       <li>DET: свою, свой, то, этот, свои, своё, все, эту, это, всю</li>
       <li>NOUN: время, год, состав, годы, участие, место, название, день, площадь, раз</li>
       <li>NUM: два, несколько, три, четыре, 2, 10, один, одну, 4, две</li>
-      <li>PRON: его, их, себя, её, которую, которые, который, что, это, то</li>
-      <li>PROPN: Россию, Москву, Америку, Францию, Марка, Шотландию, CSS, PPV, UFC, Августа</li>
+      <li>PRON: его, их, себя, её, которые, которую, который, что, это, то</li>
+      <li>PROPN: Россию, Москву, Америку, Францию, Марка, Шотландию, Августа, Австрию, Александра, Англию</li>
       <li>VERB-Part: живущую, называемую, находящуюся, подготовленный, разошедшихся, совершенные, содержащие, Аннотированный, ассоциирующий, брошенный</li>
     </ul>
   </li>
@@ -312,11 +318,11 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
     <ul>
       <li>ADJ: бассейновому, различным, административному, другим, новому, историческому, разным, 1, 11, III</li>
       <li>DET: своему, всем, своей, всей, этим, этому, всему, своим, Каждому, некоторым</li>
-      <li>NOUN: данным, дней, переписи, мнению, округу, результатам, востоку, году, северу, берегу</li>
+      <li>NOUN: данным, дней, переписи, мнению, округу, результатам, году, северу, берегу, вопросам</li>
       <li>NUM: двум, одному, одной, нескольким, обеим, четырём, $32, 0, 1,18, 10</li>
       <li>PRON: ему, им, которому, ей, ней, которым, нам, нему, т., ним</li>
-      <li>PROPN: Ивану, Шарлотте, Александру, Кевину, Новгороду, Петербургу, России, СССР, Abraham, Benteler</li>
-      <li>VERB-Part: Founding, аппроксимирующей, выдвигающейся, выделяемому, высказанной, вышитому, действующему, заложенной, измельчавшей, имеющему</li>
+      <li>PROPN: Ивану, Шарлотте, Александру, Кевину, Новгороду, России, СССР, ISI, Vodafone, Абрамовичу</li>
+      <li>VERB-Part: аппроксимирующей, выдвигающейся, выделяемому, высказанной, вышитому, действующему, заложенной, измельчавшей, имеющему, мнящему</li>
     </ul>
   </li>
 </ul>
@@ -324,11 +330,11 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: го, х, российской, других, 12, 2010, 2012, второй, 2009, 2011</li>
-      <li>AUX-Part: бывшего, ставших, являющегося</li>
-      <li>DET: этого, всех, своей, своего, таких, этих, того, н., тех, этой</li>
-      <li>NOUN: года, лет, войны, человек, области, реки, города, мира, века, населения</li>
-      <li>NUM: двух, одного, трёх, многих, нескольких, 20, пяти, 10, 18, 2</li>
+      <li>ADJ: российской, других, 12, 2010, 2012, второй, 2011, 2009, различных, 1</li>
+      <li>AUX-Part: бывшего</li>
+      <li>DET: этого, всех, своей, своего, таких, этих, того, тех, этой, н.</li>
+      <li>NOUN: года, лет, войны, человек, области, реки, города, века, мира, населения</li>
+      <li>NUM: двух, одного, трёх, тыс., многих, нескольких, 20, пяти, 10, 18</li>
       <li>PRON: того, которых, которого, этого, них, которой, него, всего, чего, себя</li>
       <li>PROPN: России, СССР, Украины, США, Европы, РФ, Александра, Германии, Москвы, Франции</li>
       <li>VERB-Part: перечисленных, установленных, подготовленной, записанных, погибших, связанного, существующих, действующих, захваченных, написанных</li>
@@ -354,12 +360,13 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: 2008, 2007, центральной, 1999, 2002, 2003, 2004, других, первой, х</li>
+      <li>ADJ: 2008, 2007, центральной, 1999, 2002, 2003, 2004, других, первой, 1972</li>
       <li>DET: том, этом, своей, этой, своем, своих, своём, всех, этих, таком</li>
       <li>NOUN: году, районе, годах, составе, городе, начале, качестве, числе, конце, территории</li>
       <li>NUM: одной, двух, одном, 3, 50, трёх, 12, 2, 5, нескольких</li>
+      <li>PART: Де</li>
       <li>PRON: том, этом, котором, которой, ней, нём, которых, них, себе, нем</li>
-      <li>PROPN: России, Москве, Франции, США, Испании, Германии, Петербурге, Японии, Америке, Украине</li>
+      <li>PROPN: России, Москве, Франции, США, Испании, Германии, Японии, Америке, Украине, Азии</li>
       <li>VERB-Part: вышедшей, архивируемых, вмещающем, воспроизводившей, вошедших, входящем, готовящейся, дислоцированной, занимаемой, занимаемом</li>
     </ul>
   </li>
@@ -368,15 +375,17 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: первый, многие, я, сам, должен, известный, речной, Почтовый, большая, II</li>
-      <li>AUX: бывшие, назначен, песни, являющееся</li>
-      <li>AUX-Part: бывшие, назначен, являющееся</li>
-      <li>DET: все, the, некоторые, этот, эта, это, эти, тот, такие, что</li>
-      <li>NOUN: население, село, часть, деревня, код, центр, группа, город, альбом, компания</li>
-      <li>NUM: один, 1, 2, два, несколько, 4, одна, две, три, 10</li>
+      <li>ADJ: первый, многие, сам, известный, речной, Почтовый, большая, II, телефонный, первая</li>
+      <li>ADJ-Part: расположен</li>
+      <li>AUX-Part: бывшие</li>
+      <li>DET: все, некоторые, этот, эта, это, эти, тот, такие, что, каждая</li>
+      <li>NOUN: население, село, часть, деревня, код, центр, город, группа, альбом, компания</li>
+      <li>NUM: один, 1, 2, два, несколько, 4, одна, три, две, 3</li>
       <li>PRON: он, который, она, они, это, которые, что, которая, я, то</li>
-      <li>PROPN: де, Владимир, Франция, США, Александр, Джон, Карл, Михаил, Россия, Сергей</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположено, расположены</li>
+      <li>PROPN: Владимир, Франция, США, Александр, Джон, Карл, Михаил, Россия, Сергей, Юрий</li>
+      <li>PUNCT: -</li>
+      <li>SYM: $</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
   </li>
 </ul>
@@ -392,9 +401,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Voc
     <ul>
-      <li>DET: All</li>
       <li>NOUN: Боже</li>
-      <li>PRON: Ye</li>
     </ul>
   </li>
 </ul>
@@ -411,7 +418,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: старше, выше, мельче, меньше, ниже, глупее, длиннее, короче, лучше, мертвее</li>
+      <li>ADJ: старше, выше, лучше, мельче, меньше, ниже, умнее, Труднее, агрессивнее, быстрее</li>
       <li>ADV: более, менее, позже, больше, позднее, ранее, далее, чаще, раньше, выше</li>
       <li>NUM: более, больше</li>
     </ul>
@@ -421,9 +428,12 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: необходимо, нужно, известно, трудно, возможно, достаточно, интересно, Труднее, важно, вероятно</li>
-      <li>ADV: чудом</li>
-      <li>VERB: можно, надо, Must, жаль, нужно</li>
+      <li>ADJ: второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</li>
+      <li>ADV: так, уже, ещё, вместе, затем, впервые, здесь, очень, иногда, например</li>
+      <li>NOUN: экспедиции</li>
+      <li>NUM: немногих, 26, 46</li>
+      <li>VERB: можно, надо, Преобладающая</li>
+      <li>VERB-Part: Преобладающая</li>
     </ul>
   </li>
 </ul>
@@ -431,7 +441,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: лучших, лучшие, лучший, крупнейший, крупнейших, лучшим, высшей, высших, лучшую, Ближайшие</li>
+      <li>ADJ: лучшую, крупнейший, лучшее, Высший, ближайшую, высшую, лучшему, лучшие, лучший, наибольшее</li>
       <li>ADV: наиболее</li>
     </ul>
   </li>
@@ -444,7 +454,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Neg
     <ul>
-      <li>PART: не, ни, No, Non</li>
+      <li>PART: не, ни</li>
     </ul>
   </li>
 </ul>
@@ -457,8 +467,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
   <li>Short
     <ul>
       <li>ADJ: должен, должна, должны, известен, известно, женат, возможно, должно, известны, необходимо</li>
-      <li>AUX-Part: назначен</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположено, расположены</li>
+      <li>ADJ-Part: расположен</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
   </li>
 </ul>
@@ -473,14 +483,13 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Conv: будучи, Являясь, являвшись</li>
-      <li>AUX-Fin: был, была, были, было, является, будет, являются, являлся, будут, являлась</li>
-      <li>AUX-Inf: быть, Be, делать, являться</li>
-      <li>AUX-Part: бывшего, бывшие, бывшим, являющегося, являющееся</li>
-      <li>VERB: составляет, может, находится, входит, имеет, было, есть, работал, занимает, могут</li>
-      <li>VERB-Conv: включая, начиная, используя, говоря, имея, считая, чувствуя, Проходя, выступая, играя</li>
-      <li>VERB-Fin: составляет, может, находится, входит, имеет, было, есть, работал, занимает, могут</li>
-      <li>VERB-Inf: быть, заниматься, играть, работать, считать, использовать, принимать, вести, проводить, делать</li>
+      <li>AUX-Conv: будучи</li>
+      <li>AUX-Fin: был, были, была, было, будет, будут, есть</li>
+      <li>AUX-Inf: быть</li>
+      <li>AUX-Part: бывшего, бывшие, бывшим</li>
+      <li>VERB-Conv: начиная, включая, используя, говоря, имея, считая, чувствуя, Проходя, выступая, играя</li>
+      <li>VERB-Fin: является, составляет, может, находится, входит, имеет, есть, было, работал, занимает</li>
+      <li>VERB-Inf: быть, заниматься, играть, работать, считать, использовать, принимать, вести, делать, проводить</li>
       <li>VERB-Part: называемый, находящиеся, называемая, называемые, означающее, относящиеся, переходящий, составляющие, существующих, устанавливающий</li>
     </ul>
   </li>
@@ -489,14 +498,11 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Conv: сделав</li>
-      <li>AUX-Fin: стал, стала, стало, явились, явилось, объявили, оказалась, оказался, стали, финишировал</li>
-      <li>AUX-Inf: стать</li>
-      <li>AUX-Part: назначен, ставших</li>
+      <li>ADJ-Part: расположен</li>
       <li>VERB-Conv: став, выйдя, выиграв, закрыв, заняв, захватив, исполнив, назвав, начав, окончив</li>
-      <li>VERB-Fin: получил, стал, родился, начал, окончил, стала, род., вышел, получила, стали</li>
-      <li>VERB-Inf: сделать, найти, стать, принять, назвать, создать, встретить, отказаться, построить, вывести</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, назван, расположено</li>
+      <li>VERB-Fin: стал, получил, родился, начал, стала, окончил, род., вышел, получила, стали</li>
+      <li>VERB-Inf: сделать, стать, найти, принять, назвать, создать, встретить, отказаться, построить, вывести</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, назван, расположено</li>
     </ul>
   </li>
 </ul>
@@ -508,7 +514,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: см., Come, Join, Create, Hide, Libera, Raise, Ram, Shoot, Stay</li>
+      <li>VERB-Fin: см., Будь, Откроем, ПРосыпайся, Пощадите, Создай, Ср., балуйтесь, введи, выходите</li>
     </ul>
   </li>
 </ul>
@@ -516,8 +522,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: был, была, были, было, является, будет, являются, являлся, будут, стал</li>
-      <li>VERB-Fin: составляет, может, находится, входит, получил, стал, родился, имеет, начал, было</li>
+      <li>AUX-Fin: был, были, была, было, будет, будут, есть</li>
+      <li>VERB-Fin: является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</li>
     </ul>
   </li>
 </ul>
@@ -538,10 +544,12 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: был, была, были, было, являлся, стал, стала, стало, являлась, явились</li>
-      <li>AUX-Part: бывшего, бывшие, бывшим, назначен, ставших</li>
-      <li>VERB-Fin: получил, стал, родился, начал, было, работал, окончил, стала, род., участвовал</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположены, назван</li>
+      <li>ADJ-Part: расположен</li>
+      <li>AUX-Fin: был, были, была, было</li>
+      <li>AUX-Part: бывшего, бывшие, бывшим</li>
+      <li>VERB-Conv: став, выйдя, выиграв, закрыв, заняв, захватив, исполнив, назвав, начав, окончив</li>
+      <li>VERB-Fin: стал, получил, родился, начал, было, работал, стала, окончил, род., участвовал</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, назван, расположено</li>
     </ul>
   </li>
 </ul>
@@ -549,11 +557,10 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: является, являются, bin, есть, Am, Don, Has, est, re, бывают</li>
-      <li>AUX-Part: являющегося, являющееся</li>
-      <li>VERB: составляет, может, находится, входит, имеет, есть, занимает, могут, относится, работает</li>
-      <li>VERB-Fin: составляет, может, находится, входит, имеет, есть, занимает, могут, относится, работает</li>
-      <li>VERB-Part: называемый, находящиеся, называемые, означающее, относящиеся, переходящий, составляющие, существующих, устанавливающий, Singing</li>
+      <li>AUX-Fin: есть</li>
+      <li>VERB-Conv: начиная, включая, используя, говоря, имея, считая, чувствуя, Проходя, выступая, играя</li>
+      <li>VERB-Fin: является, составляет, может, находится, входит, имеет, есть, занимает, могут, являются</li>
+      <li>VERB-Part: называемый, находящиеся, называемые, означающее, относящиеся, переходящий, составляющие, существующих, устанавливающий, Преобладающая</li>
     </ul>
   </li>
 </ul>
@@ -565,7 +572,12 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Part: бывшего, бывшие, бывшим, ставших, являющегося, являющееся</li>
+      <li>AUX-Fin: был, были, было</li>
+      <li>AUX-Inf: быть</li>
+      <li>AUX-Part: бывшего, бывшие, бывшим</li>
+      <li>VERB-Conv: начиная, включая, используя, говоря, став, выйдя, имея, считая, чувствуя, выиграв</li>
+      <li>VERB-Fin: составляет, может, входит, получил, стал, имеет, начал, есть, было, работал</li>
+      <li>VERB-Inf: быть, играть, сделать, использовать, работать, найти, стать, считать, принимать, принять</li>
       <li>VERB-Part: вышедший, находящиеся, вышедшая, означающее, относящиеся, переходящий, погибших, составляющие, ставшие, существующих</li>
     </ul>
   </li>
@@ -574,9 +586,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Mid
     <ul>
-      <li>AUX-Fin: является, являются, являлся, являлась, явились, явилось, называется, оказалась, оказался, оказывается</li>
-      <li>AUX-Inf: являться</li>
-      <li>VERB-Fin: находится, родился, относится, находился, учился, становится, удалось, используются, находятся, считается</li>
+      <li>VERB-Conv: касаясь, Стремясь, соревнуясь</li>
+      <li>VERB-Fin: является, находится, родился, являются, относится, находился, учился, становится, удалось, используются</li>
       <li>VERB-Inf: заниматься, отказаться, использоваться, бороться, вернуться, добиться, называться, остаться, осуществляться, вестись</li>
     </ul>
   </li>
@@ -585,8 +596,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Part: назначен</li>
-      <li>VERB-Part: назначен, расположен, основана, основан, расположена, награждён, принято, создана, расположено, расположены</li>
+      <li>ADJ-Part: расположен</li>
+      <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +614,10 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: 2, два, один, несколько, 1, двух, 10, 4, три, 3</li>
+      <li>DET: один, одно, одного, одна</li>
+      <li>NUM: 2, два, один, 1, несколько, двух, 10, 4, три, 3</li>
+      <li>PROPN: A3</li>
+      <li>SYM: $</li>
     </ul>
   </li>
 </ul>
@@ -616,7 +630,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Yes
     <ul>
-      <li>DET: своей, свою, свой, своего, своих, свои, своё, своим, своими, свое</li>
       <li>PRON: себя, собой, себе, собою</li>
     </ul>
   </li>
@@ -629,10 +642,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: bin, Am, Don, re</li>
-      <li>DET: н., наших, наши, наше, нашей, моей, мой, моя, нашего, mia</li>
-      <li>PRON: я, мы, нам, нас, мне, меня, I, Ich, We, me</li>
-      <li>VERB-Fin: видим, знаем, очистим, рассмотрим, Must, Благодарю, Думаю, Наложим, Откроем, Покажем</li>
+      <li>PRON: я, мы, нам, нас, мне, меня, мной, нами</li>
+      <li>VERB-Fin: видим, знаем, очистим, рассмотрим, Благодарю, Думаю, Наложим, Откроем, Покажем, Предположим</li>
     </ul>
   </li>
 </ul>
@@ -640,9 +651,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>2
     <ul>
-      <li>DET: твоего, Твой</li>
-      <li>PRON: вы, вам, Ye, тебе, You, ti, вас, тебя, тобою, ты</li>
-      <li>VERB-Fin: см., Come, Join, Create, Hide, Libera, Raise, Ram, Shoot, Stay</li>
+      <li>PRON: вы, вам, тебе, вас, тебя, тобою, ты</li>
+      <li>VERB-Fin: см., Будь, ПРосыпайся, Пощадите, Создай, Ср., балуетесь, балуйтесь, введи, выходите</li>
     </ul>
   </li>
 </ul>
@@ -650,10 +660,9 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: является, будет, являются, будут, есть, Has, est, бывают, могут, называется</li>
-      <li>DET: его, её, их, ее</li>
+      <li>AUX-Fin: будет, будут, есть</li>
       <li>PRON: он, она, они, его, ему, им, их, них, него, ним</li>
-      <li>VERB-Fin: составляет, может, находится, входит, имеет, есть, занимает, могут, относится, работает</li>
+      <li>VERB-Fin: является, составляет, может, находится, входит, имеет, есть, занимает, могут, являются</li>
       <li>VERB-Part: забастовавших</li>
     </ul>
   </li>
@@ -665,17 +674,47 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Abbr</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: д</li>
+          <li>DET: н.</li>
+          <li>NOUN: ВЧ, ЛГБТ, ФЗ</li>
+          <li>PROPN: НЧ, В., RSS, Г., Д., З., Л., П., Ч., Ш.</li>
+          <li>X: АКВА, РИУ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: Сити, ага, ретрит</li>
+          <li>PROPN: Konquest&#39;&#39;а, Высока</li>
+          <li>X: the, of, a, and, Airlines, Music, Records, company, de, to</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 13 lemmas as copulas (<a>cop</a>). Examples: БЫТЬ, ЭТО, ЯВИТЬСЯ, BIN, ОКАЗЫВАТЬСЯ, AM, БЫВАТЬ, ДЕЛАТЬ, НАЗЫВАТЬСЯ, ОКАЗАТЬСЯ, РАЗВИВАТЬСЯ, СЧИТАТЬ, ЭТОТ.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: быть.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: БЫТЬ, БЫ, BE, DON, EST, HAS, RE.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: БЫТЬ.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: быть, бы.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быть.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -684,31 +723,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (6)</li>
       <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Gen (1)</li>
-      <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (5)</li>
-      <li>VERB-Fin--NOUN-Dat (6)</li>
-      <li>VERB-Fin--NOUN-Gen (84)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ДО) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ОКОЛО) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ПОРЯДКА) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(В) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2197)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (624)</li>
-      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Fin--NOUN-Dat (4)</li>
+      <li>VERB-Fin--NOUN-Gen (102)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(около) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(по) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(порядка) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (2252)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (643)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Nom (11)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Inf--NOUN-Nom (12)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(НА) (1)</li>
-      <li>VERB-Part--NOUN-Nom (36)</li>
-      <li>VERB-Part--PRON-Nom (9)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(на) (1)</li>
+      <li>VERB-Part--NOUN-Nom (32)</li>
+      <li>VERB-Part--PRON-Nom (8)</li>
     </ul>
   </li>
 </ul>
@@ -716,44 +750,43 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (11)</li>
+      <li>VERB--NOUN-Acc (9)</li>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON-Acc (4)</li>
+      <li>VERB--PRON-Acc (2)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Acc (112)</li>
+      <li>VERB--PRON-Ins (1)</li>
+      <li>VERB-Conv--NOUN-Acc (111)</li>
       <li>VERB-Conv--NOUN-Dat (1)</li>
       <li>VERB-Conv--NOUN-Gen (20)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(СВЫШЕ) (1)</li>
+      <li>VERB-Conv--NOUN-Gen-ADP(свыше) (1)</li>
       <li>VERB-Conv--NOUN-Ins (13)</li>
-      <li>VERB-Conv--PRON-Acc (12)</li>
-      <li>VERB-Fin--NOUN-Acc (1288)</li>
-      <li>VERB-Fin--NOUN-Dat (10)</li>
-      <li>VERB-Fin--NOUN-Gen (211)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ОКОЛО) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(РАДИ) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (152)</li>
-      <li>VERB-Fin--NOUN-Nom (24)</li>
-      <li>VERB-Fin--PRON-Acc (132)</li>
-      <li>VERB-Fin--PRON-Gen (9)</li>
+      <li>VERB-Conv--PRON-Acc (14)</li>
+      <li>VERB-Fin--NOUN-Acc (1283)</li>
+      <li>VERB-Fin--NOUN-Dat (13)</li>
+      <li>VERB-Fin--NOUN-Gen (207)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(около) (2)</li>
+      <li>VERB-Fin--NOUN-Ins (168)</li>
+      <li>VERB-Fin--NOUN-Nom (23)</li>
+      <li>VERB-Fin--PRON-Acc (133)</li>
+      <li>VERB-Fin--PRON-Gen (12)</li>
       <li>VERB-Fin--PRON-Ins (7)</li>
       <li>VERB-Fin--PRON-Nom (6)</li>
-      <li>VERB-Inf--NOUN-Acc (346)</li>
+      <li>VERB-Inf--NOUN-Acc (355)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--NOUN-Gen (22)</li>
       <li>VERB-Inf--NOUN-Ins (24)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
-      <li>VERB-Inf--PRON-Acc (39)</li>
+      <li>VERB-Inf--PRON-Acc (43)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
-      <li>VERB-Part--NOUN-Acc (146)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(В) (1)</li>
+      <li>VERB-Part--NOUN-Acc (145)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(в) (1)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
       <li>VERB-Part--NOUN-Gen (19)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(ЗА) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(СПУСТЯ) (1)</li>
-      <li>VERB-Part--NOUN-Ins (15)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(за) (1)</li>
+      <li>VERB-Part--NOUN-Ins (16)</li>
       <li>VERB-Part--NOUN-Nom (2)</li>
-      <li>VERB-Part--PRON-Acc (10)</li>
+      <li>VERB-Part--PRON-Acc (11)</li>
     </ul>
   </li>
 </ul>
@@ -761,29 +794,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (2)</li>
+      <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--PRON-Dat (2)</li>
-      <li>VERB--PRON-Ins (1)</li>
       <li>VERB-Conv--NOUN-Dat (4)</li>
       <li>VERB-Conv--NOUN-Ins (5)</li>
       <li>VERB-Conv--PRON-Dat (2)</li>
       <li>VERB-Conv--PRON-Ins (3)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Dat (138)</li>
+      <li>VERB-Fin--NOUN-Dat (137)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Ins (80)</li>
+      <li>VERB-Fin--NOUN-Ins (68)</li>
       <li>VERB-Fin--PRON-Dat (65)</li>
       <li>VERB-Fin--PRON-Ins (30)</li>
-      <li>VERB-Inf--NOUN-Dat (19)</li>
-      <li>VERB-Inf--NOUN-Ins (19)</li>
+      <li>VERB-Inf--NOUN-Dat (20)</li>
+      <li>VERB-Inf--NOUN-Ins (18)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Dat (10)</li>
+      <li>VERB-Inf--PRON-Dat (11)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
       <li>VERB-Part--NOUN-Dat (50)</li>
-      <li>VERB-Part--NOUN-Ins (86)</li>
+      <li>VERB-Part--NOUN-Ins (81)</li>
       <li>VERB-Part--PRON-Dat (14)</li>
-      <li>VERB-Part--PRON-Ins (5)</li>
+      <li>VERB-Part--PRON-Ins (4)</li>
     </ul>
   </li>
 </ul>
@@ -793,12 +825,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 24 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ПРЕДСТАВЛЯТЬ собой, ЧУВСТВОВАТЬ себя, ВЕСТИ себя, ВОЗОМНИТЬ себя, ВЫДАВАТЬ себя, ЗАЖАРИТЬ себе, ЗАРАБОТАТЬ себе, ЗНАМЕНОВАТЬ собой, МНИТЬ себя, НАЗЫВАТЬ себя, ОБЪЯВИТЬ себя, ОСТАВИТЬ себе, ОЩУЩАТЬ себя, ПОЖЕРТВОВАТЬ собой, ПОКРЫВАТЬ собой, ПОЧУВСТВОВАТЬ себя, ПРЕВРАТИТЬ себя, ПРИЗНАТЬ себя, ПРОЯВИТЬ себя, РЕШИТЬ себя, РИСКОВАТЬ собой, СВЯЗЫВАТЬ себя, СЧИТАТЬ себя, УДЕЛЯТЬ себя</li>
+  <li>This corpus contains 24 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: представлять собой, чувствовать себя, вести себя, возомнить себя, выдавать себя, зажарить себе, заработать себе, знаменовать собой, мнить себя, называть себя, объявить себя, оставить себе, ощущать себя, пожертвовать собой, покрывать собой, почувствовать себя, превратить себя, признать себя, проявить себя, решить себя, рисковать собой, связывать себя, считать себя, уделять себя</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

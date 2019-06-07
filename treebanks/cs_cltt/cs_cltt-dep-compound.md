@@ -48,7 +48,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 24	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	_
 25	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	24	nummod	_	_
 26	písm._a),_b)_a_f)	písm._a),_b)_a_f)	X	X@-------------	_	25	nmod	_	SpaceAfter=No
-27	,	,	PUNCT	Z:-------------	_	47	punct	_	_
+27	,	,	PUNCT	Z:-------------	_	29	punct	_	_
 28	b)	b)	X	X@-------------	_	29	nmod	_	_
 29	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	11	compound	_	_
 30	%	%	SYM	Z:-------------	_	29	nmod	_	_

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-65374 tokens (19%) have a non-empty value of `Voice`.
-7745 types (47%) occur at least once with a non-empty value of `Voice`.
-1265 lemmas (28%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (52230; 15% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (13144; 4% instances).
+65329 tokens (19%) have a non-empty value of `Voice`.
+7744 types (47%) occur at least once with a non-empty value of `Voice`.
+1265 lemmas (27%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (52358; 15% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (12971; 4% instances).
 
 ### `VERB`
 
-52230 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+52358 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42475; 81%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40654; 78%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (39391; 75%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39364; 75%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39364; 75%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35897; 69%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33221; 64%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (31863; 61%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27126; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42595; 81%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40778; 78%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (39506; 75%), <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39488; 75%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39488; 75%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35973; 69%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33333; 64%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (32012; 61%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27249; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (32606; 62% of non-empty `Voice`): <em>est, potest, esse, oportet, habet, sunt, patet, sit, dicit, habent</em>
-* `Pass` (19624; 38% of non-empty `Voice`): <em>dicitur, ostensum, dicendum, videtur, fit, sequitur, invenitur, dictum, fieri, separatae</em>
+* `Act` (32584; 62% of non-empty `Voice`): <em>est, potest, esse, oportet, habet, sunt, patet, sit, dicit, habent</em>
+* `Pass` (19774; 38% of non-empty `Voice`): <em>dicitur, ostensum, dicendum, videtur, fit, sequitur, invenitur, dictum, fieri, dici</em>
 * `EMPTY` (17): <em>esse, accidens, agens, agente, agentia, debitum, dicta, inhaerens, patiens, perfectas</em>
 
 <table>
@@ -103,38 +103,26 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-13144 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+12971 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12393; 94%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11758; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11713; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10094; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9729; 74%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12240; 94%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11608; 89%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11564; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9973; 77%), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9606; 74%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (12984; 99% of non-empty `Voice`): <em>est, sit, esse, sunt, esset, sint, erit, fuit, essent, fuerit</em>
-* `Pass` (160; 1% of non-empty `Voice`): <em>dicitur, videtur, fit, dici, facta, fiunt, invenitur, fiat, inveniuntur, videntur</em>
-
-<table>
-  <tr><th>Paradigm <i>facio</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>factas</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>factae</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>facta</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fit</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fiunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>faciat</em></td><td><em>fiat</em></td></tr>
-</table>
-
-`Voice` seems to be **lexical feature** of `AUX`. 97% lemmas (30) occur only with one value of `Voice`.
+* `Act` (12968; 100% of non-empty `Voice`): <em>est, sit, esse, sunt, esset, sint, erit, fuit, essent, fuerit</em>
+* `Pass` (3; 0% of non-empty `Voice`): <em>agitur, dicitur, videtur</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4351; 55%),
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2111; 72%),
-<tt>VERB --[<tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2077; 57%),
-<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1705; 63%),
-<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1303; 67%),
-<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (101; 58%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 62%),
-<tt>VERB --[<tt><a href="la_ittb-dep-mark.html">mark</a></tt>]--> VERB</tt> (13; 72%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-appos.html">advcl:appos</a></tt>]--> VERB</tt> (12; 63%),
-<tt>VERB --[<tt><a href="la_ittb-dep-aux.html">aux</a></tt>]--> AUX</tt> (6; 100%).
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4359; 55%),
+<tt>VERB --[<tt><a href="la_ittb-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2172; 57%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2126; 72%),
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1704; 63%),
+<tt>VERB --[<tt><a href="la_ittb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1297; 67%),
+<tt>VERB --[<tt><a href="la_ittb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (99; 58%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (30; 65%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-appos.html">advcl:appos</a></tt>]--> VERB</tt> (10; 77%),
+<tt>VERB --[<tt><a href="la_ittb-dep-aux.html">aux</a></tt>]--> AUX</tt> (5; 100%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%).
 

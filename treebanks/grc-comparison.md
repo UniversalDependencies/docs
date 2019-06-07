@@ -24,7 +24,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 17081 sentences and 214015 tokens.</li>
+      <li>This corpus contains 17080 sentences and 213999 tokens.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -60,7 +60,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 53 types of words that contain both letters and punctuation. Examples: ἀλλ’, ἐπ’, δ’, δι’, μετ’, ἀπ’, κατ’, παρ’, ἐφ’, ὑπ’, καθ’, ἀφ’, μεθ’, οὐδ’, τοῦτ’, οὔτ’, ὑφ’, τ’, ἀντ’, ἀνθ’, μ’, μηδ’, τόδ’, ἔστ’, δώματ’, εὖτ’, κ’, τῶνδ’, Δί’, γίνοιτ’, γενοίατ’, γλαῦκ’, γ’, λαλῆσαι., μέγ’, μέμφοιτ’, μήτ’, ξεῖν’, πόλλ’, σ’, τάσδ’, ταῦτ’, τρίποδ’, φίλ’, φεῦγ’, ἀμφ’, ἀνέθηκ’, ἀν’, ἄλλ’, ἅμ’</li>
+      <li>This corpus contains 53 types of words that contain both letters and punctuation. Examples: ἀλλ’, ἐπ’, δ’, δι’, μετ’, κατ’, ἀπ’, παρ’, ἐφ’, ὑπ’, καθ’, ἀφ’, μεθ’, οὐδ’, τοῦτ’, οὔτ’, ὑφ’, τ’, ἀντ’, ἀνθ’, μ’, μηδ’, τόδ’, ἔστ’, δώματ’, εὖτ’, κ’, τῶνδ’, Δί’, γίνοιτ’, γενοίατ’, γλαῦκ’, γ’, λαλῆσαι., μέγ’, μέμφοιτ’, μήτ’, ξεῖν’, πόλλ’, σ’, τάσδ’, ταῦτ’, τρίποδ’, φίλ’, φεῦγ’, ἀμφ’, ἀνέθηκ’, ἀν’, ἄλλ’, ἅμ’</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -108,7 +108,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 96 word types tagged as particles (PART): αὐτάρ, αὐτὰρ, γ̓, γάρ, γέ, γε, γοῦν, γὰρ, δ̓, δέ, δή, δήπου, δὲ, δὴ, εἶεν, θ̓, θήν, θην, κ̓, κέ, κέν, καίπερ, καίτοι, κε, κεν, κοὐδ̓, κἂν, μάν, μέν, μέντοι, μέντἂν, μήθ̓, μήν, μήτ̓, μήτέ, μήτε, μεντἂν, μη, μηδὲ, μὰ, μὰν, μὲν, μὴ, μὴν, οὐ, οὐδὲ, οὖν, πέρ, περ, πεῤ, ποθ̓, ποθέν, ποθεν, ποτ̓, ποτέ, ποτε, ποτὲ, πω, πως, πώ, πώς, πᾷ, πῃ, πῇ, τ̓, τέ, τε, τοί, τοίνυν, τοι, τοιγάρ, τοιγαροῦν, τοιγὰρ, τοὶ, τἂν, τἄῤ, τἄρα, τὰρ, χ̓, ἀτάρ, ἀτὰρ, ἂν, ἂρ, ἃν, ἄν, ἄρ, ἄῤ, ἄρά, ἄρα, ἆῤ, ἆρα, ἠΰτε, ἤτοι, ῥ̓, ῥά, ῥα</li>
+      <li>This corpus contains 96 word types tagged as particles (PART): αὐτάρ, αὐτὰρ, γ̓, γάρ, γέ, γε, γοῦν, γὰρ, δ̓, δέ, δή, δήπου, δὲ, δὴ, εἶεν, θ̓, θήν, θην, κ̓, κέ, κέν, καίπερ, καίτοι, κε, κεν, κοὐδ̓, κἂν, μάν, μέν, μέντοι, μέντἂν, μήθ̓, μήν, μήτ̓, μήτέ, μήτε, μεντἂν, μη, μηδὲ, μὰ, μὰν, μὲν, μὴ, μὴν, οὐ, οὐδὲ, οὖν, πέρ, περ, πεῤ, ποθ̓, ποθέν, ποθεν, ποτ̓, ποτέ, ποτε, ποτὲ, πω, πως, πώ, πώς, πᾷ, πῃ, πῇ, τ̓, τέ, τε, τοί, τοίνυν, τοι, τοιγάρ, τοιγαροῦν, τοιγὰρ, τοὶ, τἂν, τἄρα, τἄῤ, τὰρ, χ̓, ἀτάρ, ἀτὰρ, ἂν, ἂρ, ἃν, ἄν, ἄρ, ἄρά, ἄρα, ἄῤ, ἆρα, ἆῤ, ἠΰτε, ἤτοι, ῥ̓, ῥά, ῥα</li>
       </ul>
     </td>
   </tr>
@@ -151,7 +151,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): εἰμί#1</li>
+      <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): εἰμί, πωλέω, ἀγοράζω, ἔχω</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -163,6 +163,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: πωλέω, ἀγοράζω, ἔχω</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -223,7 +224,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</li>
+          <li>AUX: εἶναι, ἔσεσθαι, εἶναί, πωλῆσαι, ἀγοράσαι, ἔσεσθαί</li>
           <li>VERB: γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</li>
         </ul>
         </li>
@@ -920,7 +921,8 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Inf: ἔσεσθαι</li>
+            <li>AUX-Fin: ἔσχε</li>
+            <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
             <li>VERB-Fin: εἶπεν, ἐγένετο, εἶπαν, ἦλθεν, ἀπεκρίθη, ἦλθον, ἐποίησεν, εἶπον, ἐξῆλθεν, γέγραπται</li>
             <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
             <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -1082,7 +1084,7 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX-Fin: ἦν, ἦσαν, ἤμην, ἦτε, ἦμεν, ἦς, ἤμεθα, ἔσκε, ἦσάν, ἦσθα</li>
-            <li>AUX-Inf: ἔσεσθαι</li>
+            <li>AUX-Inf: πωλῆσαι, ἀγοράσαι, ἔσεσθαι</li>
             <li>VERB-Fin: εἶπεν, ἐγένετο, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, ἔφη, ἀπεκρίθη, ἔλεγεν, ἦλθον</li>
             <li>VERB-Inf: γενέσθαι, ποιῆσαι, ἐλθεῖν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν, λαβεῖν, ἀποθανεῖν</li>
             <li>VERB-Part: ἀποκριθεὶς, ἰδὼν, ἀκούσαντες, ἐλθὼν, λαβὼν, ἀκούσας, ποιήσας, ἰδόντες, γενομένης, γενόμενος</li>
@@ -1171,7 +1173,7 @@ udver: '2'
         <li>Act
           <ul>
             <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, εἰσὶ</li>
-            <li>AUX-Inf: εἶναι, εἶναί</li>
+            <li>AUX-Inf: εἶναι, εἶναί, πωλῆσαι, ἀγοράσαι</li>
             <li>AUX-Part: ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἐόντας, ὄντες, ἐοῦσαν, ἐόντος, ἐοῦσα</li>
             <li>VERB-Fin: εἶπεν, λέγει, λέγω, ἔχει, δεῖ, ἔλεγον, εἶπαν, εἶχον, ἦλθεν, λέγουσι</li>
             <li>VERB-Inf: λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν, φαγεῖν</li>
@@ -1324,7 +1326,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
+            <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</li>
           </ul>
         </li>
       </ul>
@@ -1487,7 +1489,7 @@ udver: '2'
           <ul>
             <li>ADJ: σῇ, σφετέρην, σφετέρων, σφέτερον, σφετέρας, σφετέρης, σφετέρους, σφέτερα, σφετερέων, σφέτερος</li>
             <li>AUX-Fin: ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, ἐστὶν, εἴη, εἰσὶ, ἔστι</li>
-            <li>PRON: αὐτοῦ, αὐτῷ, αὐτῶν, αὐτὸν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
+            <li>PRON: αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, αὐτοῖς, οἱ, αὐτόν, σφι, αὐτοὺς, ὁ</li>
             <li>VERB-Fin: εἶπεν, λέγει, ἐγένετο, ἔχει, δεῖ, εἶπαν, εἶχον, ἔλεγον, ἦλθεν, λέγουσι</li>
           </ul>
         </li>
@@ -1545,7 +1547,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί#1.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1561,8 +1563,8 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί#1, πωλέω, ἀγοράζω, ἀπέρχομαι, ἔχω.</li>
-      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί#1, εἶμι#2.</li>
+      <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί, πωλέω, ἀγοράζω, ἔχω.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1595,7 +1597,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (8)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ἐπί) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ὑπέρ) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (3342)</li>
+            <li>VERB-Fin--NOUN-Nom (3340)</li>
             <li>VERB-Fin--PRON-Acc (8)</li>
             <li>VERB-Fin--PRON-Acc-ADP(κατά) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(περί) (2)</li>
@@ -1606,7 +1608,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen-ADP(παρά) (1)</li>
             <li>VERB-Fin--PRON-Gen-ADP(περί) (1)</li>
             <li>VERB-Fin--PRON-Gen-ADP(ἐκτός) (1)</li>
-            <li>VERB-Fin--PRON-Nom (1970)</li>
+            <li>VERB-Fin--PRON-Nom (1976)</li>
             <li>VERB-Gdv--NOUN-Nom (1)</li>
             <li>VERB-Gdv--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Acc (278)</li>
@@ -1674,7 +1676,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN (14)</li>
-            <li>VERB-Fin--NOUN-Acc (3809)</li>
+            <li>VERB-Fin--NOUN-Acc (3811)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(εἰς) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(κατά) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(παρά) (2)</li>
@@ -1685,12 +1687,12 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat-ADP(ἐν) (1)</li>
             <li>VERB-Fin--NOUN-Gen (23)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(διά) (1)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (10)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(ἀπό) (11)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ἐκ) (15)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ἐντός) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ἔξωθεν) (2)</li>
             <li>VERB-Fin--NOUN-Nom (4)</li>
-            <li>VERB-Fin--PRON-Acc (2540)</li>
+            <li>VERB-Fin--PRON-Acc (2543)</li>
             <li>VERB-Fin--PRON-Acc-ADP(κατά) (3)</li>
             <li>VERB-Fin--PRON-Acc-ADP(περί) (1)</li>
             <li>VERB-Fin--PRON-Dat (22)</li>
@@ -1845,8 +1847,8 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-80 nodes (0%) are attached to their parents as `appos`.
+78 nodes (0%) are attached to their parents as `appos`.
 
-78 instances of `appos` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.2375.
+78 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.92307692307692.
 
-The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (38; 48% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (13; 16% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (12; 15% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (37; 47% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (12; 15% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (12; 15% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	completarmos	completar	VERB	V0f10p	Number=Plur|Person=1|VerbForm=Inf	0	root	_	_
 5	este	este	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 6	trípode	trípode	NOUN	Scms	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-7	,	,	PUNCT	Q,	_	10	punct	_	_
+7	,	,	PUNCT	Q,	_	8	punct	_	_
 8	trespés	trespés	NOUN	Scms	Gender=Masc|Number=Sing	6	nmod	_	_
 9	ou	ou	CCONJ	Cc	_	10	cc	_	_
 10	trepia	trepia	NOUN	Scfs	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No

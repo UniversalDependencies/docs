@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 The `det`label marks the relationship between a noun and its determiner.

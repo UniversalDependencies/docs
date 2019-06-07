@@ -13,7 +13,7 @@ This relation is universal.
 96 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.83333333333333.
 
-The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (31; 32% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (28; 29% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (21; 22% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (14; 15% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 2% instances).
+The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (31; 32% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (28; 29% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (21; 22% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (14; 15% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	戻っ	戻る	VERB	VV	_	0	root	_	SpaceAfter=No
 8	て	て	SCONJ	PC	_	7	mark	_	SpaceAfter=No
 9	くる	来る	AUX	AV	_	7	aux	_	SpaceAfter=No
-10	こと	こと	NOUN	NB	_	7	aux	_	SpaceAfter=No
+10	こと	こと	SCONJ	PNB	_	7	mark	_	SpaceAfter=No
 11	に	に	ADP	PS	_	10	fixed	_	SpaceAfter=No
 12	なる	なる	VERB	VV	_	10	fixed	_	SpaceAfter=No
 13	。	。	PUNCT	SYM	_	7	punct	_	SpaceAfter=No
@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	戻っ	戻る	VERB	VV	_	0	root	_	SpaceAfter=No
 8	て	て	SCONJ	PC	_	7	mark	_	SpaceAfter=No
 9	くる	来る	AUX	AV	_	7	aux	_	SpaceAfter=No
-10	こと	こと	NOUN	NB	_	7	aux	_	SpaceAfter=No
+10	こと	こと	SCONJ	PNB	_	7	mark	_	SpaceAfter=No
 11	に	に	ADP	PS	_	10	fixed	_	SpaceAfter=No
 12	なる	なる	VERB	VV	_	10	fixed	_	SpaceAfter=No
 13	。	。	PUNCT	SYM	_	7	punct	_	SpaceAfter=No

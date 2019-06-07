@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt>, <tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1290 tokens (1%) have a non-empty value of `Number[psor]`.
+1291 tokens (1%) have a non-empty value of `Number[psor]`.
 1000 types (2%) occur at least once with a non-empty value of `Number[psor]`.
-667 lemmas (3%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (953; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (159; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (72; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances).
+666 lemmas (3%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (953; 0% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (159; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (77; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (59; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>aikaani</em></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 91% lemmas (462) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 91% lemmas (461) occur only with one value of `Number[psor]`.
 
 ### `VERB`
 
@@ -60,9 +60,9 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 ### `ADV`
 
-72 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Number[psor]`.
+77 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADV` and `Number[psor]` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (72; 100%).
+The most frequent other feature values with which `ADV` and `Number[psor]` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (77; 100%).
 
 `ADV` tokens may have the following values of `Number[psor]`:
 
@@ -120,22 +120,6 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>parhaamme</em></td><td></td></tr>
 </table>
 
-### `ADP`
-
-14 <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="fi_tdt-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (13; 93%).
-
-`ADP` tokens may have the following values of `Number[psor]`:
-
-
-<table>
-  <tr><th>Paradigm <i>kanssa</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>kanssasi</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>kanssas</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>kanssa</em></td><td></td></tr>
-</table>
-
 ### `AUX`
 
 12 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
@@ -155,6 +139,22 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olevani</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>olevanne</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>Ollaksesi</em></td></tr>
+</table>
+
+### `ADP`
+
+10 <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="fi_tdt-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (10; 100%).
+
+`ADP` tokens may have the following values of `Number[psor]`:
+
+
+<table>
+  <tr><th>Paradigm <i>kanssa</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>kanssasi</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>kanssas</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>kanssa</em></td><td></td></tr>
 </table>
 
 ### `PROPN`

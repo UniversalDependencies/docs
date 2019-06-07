@@ -11,9 +11,9 @@ This relation is universal.
 9365 nodes (4%) are attached to their parents as `root`.
 
 9365 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.89930592632141.
+Average distance between parent and child is 7.9137213027229.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (6772; 72% instances), -<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1407; 15% instances), -<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (548; 6% instances), -<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (334; 4% instances), -<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (125; 1% instances), -<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (69; 1% instances), -<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (51; 1% instances), -<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), -<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (9; 0% instances), -<tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (6785; 72% instances), -<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1401; 15% instances), -<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (537; 6% instances), -<tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (335; 4% instances), -<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (135; 1% instances), -<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (68; 1% instances), -<tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (54; 1% instances), -<tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (12; 0% instances), -<tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (9; 0% instances), -<tt><a href="pt_bosque-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,13 +45,13 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	fumantes	fumante	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	18,1	18,1	NUM	_	NumType=Card	6	nummod	_	_
-6	milhões	milhão	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+5	18,1	18,1	NUM	_	NumType=Card	8	nummod	_	MWE=18,1_milhões
+6	milhões	milhão	NUM	_	NumType=Card	5	flat	_	_
 7	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	homens	homem	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-9	e	e	CCONJ	_	_	8	cc	_	_
-10	12,5	12,5	NUM	_	NumType=Card	11	nummod	_	_
-11	milhões	milhão	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+9	e	e	CCONJ	_	_	10	cc	_	_
+10	12,5	12,5	NUM	_	NumType=Card	5	nummod	_	MWE=12,5_milhões
+11	milhões	milhão	NUM	_	NumType=Card	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	8	punct	_	_
 13	mulheres	mulher	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	8	punct	_	_

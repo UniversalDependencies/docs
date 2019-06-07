@@ -48,12 +48,12 @@ The following 1 pairs of parts of speech are connected with `advmod:emph`: <tt><
 24	,	,	PUNCT	PUNCT	PunctType=Comm	26	punct	_	_
 25	quan	quan	PRON	PRON	PronType=Rel	26	obl	_	_
 26	tenia	tenir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	acl	_	_
-27	15	15	NUM	NUM	NumForm=Digit	28	nummod	_	_
+27	15	15	NUM	NUM	NumForm=Digit|NumType=Card	28	nummod	_	_
 28	anys	any	NOUN	NOUN	Gender=Masc|Number=Plur	26	obj	_	SpaceAfter=No
 29	,	,	PUNCT	PUNCT	PunctType=Comm	26	punct	_	_
 30	fins	fins	ADP	ADP	AdpType=Prep	33	case	_	_
 31	gairebé	gairebé	ADV	ADV	_	33	advmod:emph	_	_
-32	al	al	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	33	case	_	_
+32	al	al	ADP	ADP	AdpType=Preppron	33	case	_	_
 33	final	final	NOUN	NOUN	Gender=Fem|Number=Sing	20	obl	_	_
 34	de	de	ADP	ADP	AdpType=Prep	37	case	_	_
 35	la	el	DET	DET	Gender=Fem|Number=Sing|PronType=Art	37	det	_	MWE=la_seva|MWEPOS=DET

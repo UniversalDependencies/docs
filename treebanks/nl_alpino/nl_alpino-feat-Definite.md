@@ -16,13 +16,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.h
 
 ### `DET`
 
-21869 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Definite`.
+21869 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Definite`.
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (17439; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, den, des, dé</em>
 * `Ind` (4430; 20% of non-empty `Definite`): <em>een, 'n, en</em>
-* `EMPTY` (3118): <em>welke, deze, geen, dit, welk, die, alle, enkele, dat, veel</em>
+* `EMPTY` (3205): <em>welke, deze, geen, dit, welk, die, alle, enkele, dat, veel</em>
 
 ## Relations with Agreement in `Definite`
 

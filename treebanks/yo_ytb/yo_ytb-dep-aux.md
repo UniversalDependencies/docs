@@ -8,68 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (6%) are attached to their parents as `aux`.
+124 nodes (5%) are attached to their parents as `aux`.
 
-153 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17532467532468.
+124 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.81451612903226.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (124; 81% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (12; 8% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt>-<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt>-<tt><a href="yo_ytb-pos-X.html">X</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus
-2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and
-3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
-4	rìn	rìn	VERB	_	_	0	root	_	Gloss=walk
-5	ní	ní	ADP	_	_	6	case	_	Gloss=in
-6	tẹ́mpílì	tẹ́mpílì	NOUN	_	_	4	obj	_	SpaceAfter=No|Gloss=temple
-7	,	,	PUNCT	_	_	10	punct	_	Gloss=,
-8	ní	ní	ADP	_	_	9	case	_	Gloss=in
-9	ìloro	ìloro	NOUN	_	_	10	nmod	_	Gloss=threshold
-10	Sólómónì	sólómónì	PROPN	_	_	4	iobj	_	SpaceAfter=No|Gloss=solomon
-11	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-
-~~~
-
-
-~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 21 aux	color:blue
-1	Nítorí	nítorí	ADV	_	_	9	advmod	_	Gloss=for
-2	náà	náà	ADV	_	_	9	advcl	_	Gloss=that
-3	ni	ni	AUX	_	_	9	aux	_	Gloss=is
-4	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	6	amod	_	Gloss=many
-5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=the
-6	Júù	júù	PROPN	_	_	9	nsubj	_	Gloss=jews
-7	tí	tí	PRON	_	PronType=Rel	9	mark	_	Gloss=that
-8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	expl	_	Gloss=has
-9	wá	wá	VERB	_	_	0	root	_	Gloss=come
-10	sọ́dọ̀	sọ́dọ̀	ADP	_	_	11	case	_	Gloss=unto
-11	Màríà	màríà	PROPN	_	_	9	obj	_	SpaceAfter=No|Gloss=mary
-12	,	,	PUNCT	_	_	15	punct	_	Gloss=,
-13	tí	tí	PRON	_	PronType=Rel	15	mark	_	Gloss=that
-14	wọ́n	wọ́n	VERB	_	_	15	nsubj	_	Gloss=they
-15	rí	rí	VERB	_	_	9	xcomp	_	Gloss=saw
-16	ohun	ohun	NOUN	_	_	15	obj	_	Gloss=thing
-17	tí	tí	PRON	_	PronType=Rel	19	mark	_	Gloss=that
-18	Jésù	jésù	PROPN	_	_	19	nsubj	_	Gloss=jesus
-19	ṣe	ṣe	VERB	_	_	15	ccomp	_	SpaceAfter=No|Gloss=do
-20	,	,	PUNCT	_	_	22	punct	_	Gloss=,
-21	ṣe	ṣe	VERB	_	_	22	aux	_	Gloss=do
-22	gbà	gbà	VERB	_	_	15	xcomp	_	Gloss=agree
-23	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	22	obj	_	Gloss=him
-24	gbọ́	gbọ́	VERB	_	_	22	compound:svc	_	SpaceAfter=No|Gloss=hear
-25	.	.	PUNCT	_	_	9	punct	_	Gloss=.
-
-~~~
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (121; 98% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -78,24 +22,56 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 7 aux	color:blue
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No|Gloss=“
-7	jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let
-8	kí	kí	X	_	_	12	aux	_	Gloss=
-9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light
-10	kí	kí	AUX	_	_	12	aux	_	Gloss=let
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he
-12	wà	wà	AUX	_	_	3	xcomp	_	SpaceAfter=No|Gloss=was
-13	,	,	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=,
-14	”	”	PUNCT	_	_	17	punct	_	Gloss=”
-15	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	17	nsubj	_	Gloss=light
-16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and
-17	wà	wà	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=was
-18	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.3
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
+4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.3|SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3
+6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
+7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
+8	kí	kí	AUX	_	_	12	aux	_	Gloss=|Ref=GEN_1.3
+9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light|Ref=GEN_1.3
+10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.3
+12	wà	wà	VERB	_	_	3	ccomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3|SpaceAfter=No
+14	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.3
+15	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	17	nsubj	_	Gloss=light|Ref=GEN_1.3
+16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.3
+17	wà	wà	VERB	_	_	3	conj	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 aux	color:blue
+1	Kí	kí	AUX	_	_	5	aux	_	Gloss=let|Ref=GEN_1.15
+2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=them|Ref=GEN_1.15
+3	ó	ó	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	aux	_	Gloss=|Ref=GEN_1.15
+4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.15
+5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	0	root	_	Gloss=light|Ref=GEN_1.15
+6	ní	ní	ADP	_	_	7	case	_	Gloss=in|Ref=GEN_1.15
+7	ojú	ojú	NOUN	_	_	5	obl	_	Gloss=eyes|Ref=GEN_1.15
+8	ọ̀run	ọ̀run	NOUN	_	_	7	nmod	_	Gloss=heaven|Ref=GEN_1.15|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=GEN_1.15
+10	láti	láti	ADP	_	_	11	case	_	Gloss=to|Ref=GEN_1.15
+11	tan	tan	VERB	_	_	5	advcl	_	Gloss=shine|Ref=GEN_1.15
+12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light|Ref=GEN_1.15
+13	sí	sí	ADP	_	_	14	case	_	Gloss=to|Ref=GEN_1.15
+14	orí	orí	NOUN	_	_	11	obl	_	Gloss=upon|Ref=GEN_1.15
+15	ilẹ̀	ilẹ̀	NOUN	_	_	14	nmod	_	Gloss=land|Ref=GEN_1.15|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.15|SpaceAfter=No
+17	”	”	PUNCT	_	_	5	punct	_	Gloss=”|Ref=GEN_1.15
+18	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he|Ref=GEN_1.15
+19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.15
+20	rí	rí	VERB	_	_	5	parataxis	_	Gloss=saw|Ref=GEN_1.15
+21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	Gloss=so|Ref=GEN_1.15|SpaceAfter=No
+22	.	.	PUNCT	_	_	20	punct	_	Gloss=.|Ref=GEN_1.15
 
 ~~~
 

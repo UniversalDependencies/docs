@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>.
 
-46 nodes (0%) are attached to their parents as `nsubj:pass`.
+78 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-31 instances of `nsubj:pass` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.3695652173913.
+50 instances of `nsubj:pass` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.32051282051282.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (36; 78% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (60; 77% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (11; 14% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,37 +31,45 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 nsubj:pass	color:blue
-1	Приглашён	пригласить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-2	только	только	PART	_	_	3	advmod	_	_
-3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	1	nsubj:pass	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 nsubj:pass	color:blue
+1	Что	что	PRON	_	Case=Nom	5	nsubj:pass	_	_
+2	у	у	ADP	_	_	3	case	_	_
+3	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	5	obl	_	_
+4	сейчас	сейчас	ADV	_	Degree=Pos	5	advmod	_	_
+5	ловится	ловить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 nsubj:pass	color:blue
-1	Самое	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
-2	интересное	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
-3	и	и	CCONJ	_	_	4	cc	_	_
-4	полезное	полезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	_
-5	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
-6	опубликовано	опубликовать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
-7	у	у	ADP	_	_	8	case	_	_
-8	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	6	obl	_	SpaceAfter=No
-9	!	!	PUNCT	_	_	6	punct	_	_
-10	#фрукты@zerofat	#фрукты@zerofat	X	_	Foreign=Yes	6	parataxis	_	_
-11	#творог@zerofat	#творог@zerofat	X	_	Foreign=Yes	10	conj	_	_
-12	#запеканки@zerofat	#запеканки@zerofat	X	_	Foreign=Yes	10	conj	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 15 nsubj:pass	color:blue
+1	это	это	PRON	NOUN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	--	--	PUNCT	--	_	3	punct	_	_
+3	правда	правда	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	синих	синий	ADJ	ADJ	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	глаз	глаз	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	10	punct	_	_
+7	сестры	сестра	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	SpaceAfter=No
+8	-	-	PUNCT	-	_	9	punct	_	SpaceAfter=No
+9	рыбы	рыба	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	7	appos	_	_
+10	льнут	льнуть	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+11	к	к	ADP	ADP	_	12	case	_	_
+12	оконцу	оконце	NOUN	NOUN	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+13	:	:	PUNCT	:	_	16	punct	_	_
+14	это	это	PART	NOUN	_	16	expl	_	_
+15	шелест	шелест	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj:pass	_	_
+16	слышен	слышный	ADJ	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	parataxis	_	_
+17	чей	чей	DET	ADJ	Case=Nom|Gender=Masc|Number=Sing	15	det	_	SpaceAfter=No
+18	?	?	PUNCT	?	_	3	punct	_	_
 
 ~~~
 

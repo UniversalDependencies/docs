@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `ADP`
 
-There are 3 `ADP` lemmas (18%), 33 `ADP` types (1%) and 4225 `ADP` tokens (18%).
-Out of 14 observed tags, the rank of `ADP` is: 1 in number of lemmas, 10 in number of types and 2 in number of tokens.
+There are 3 `ADP` lemmas (8%), 33 `ADP` types (1%) and 4225 `ADP` tokens (18%).
+Out of 14 observed tags, the rank of `ADP` is: 4 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>_, de, a</em>
 
 The 10 most frequent `ADP` types:  <em>de, en, a, que, por, con, para, como, entre, durante</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 4822, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 3825, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2956, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2610, <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 2291, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1474, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1236, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 1017, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 909, <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> 582, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 435, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 289, <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> 21, <tt><a href="es_pud-pos-X.html">X</a></tt> 20)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 4822, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 3825, <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 2291, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 2125, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1474, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1234, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 909, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 641, <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> 582, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 553, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 435, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 332, <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> 21, <tt><a href="es_pud-pos-X.html">X</a></tt> 20)
 
 The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1714, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>a</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 512, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2), <em>que</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 263, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 129, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>hasta</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 1), <em>contra</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 11, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 4), <em>bajo</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 8, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>"</em> (<tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> 127, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1), <em>in</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="es_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 11.000000 (the average of all parts of speech is 362.705882).
+The form / lemma ratio of `ADP` is 11.000000 (the average of all parts of speech is 171.916667).
 
 The 1st highest number of forms (33) was observed with the lemma “_”: <em>", If, On, Over, a, ante, aunque, bajo, como, con, contra, de, desde, durante, en, entre, excepto, hacia, hasta, in, mediante, mientras, of, para, por, porque, pues, que, según, si, sin, sobre, tras</em>.
 
@@ -65,21 +65,21 @@ The 3rd highest number of forms (1) was observed with the lemma “de”: <em>de
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="es_pud-dep-case.html">case</a></tt> (3681; 87% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (254; 6% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (187; 4% instances), <tt><a href="es_pud-dep-discourse.html">discourse</a></tt> (64; 2% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (23; 1% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (10; 0% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="es_pud-dep-case.html">case</a></tt> (3677; 87% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (258; 6% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (187; 4% instances), <tt><a href="es_pud-dep-discourse.html">discourse</a></tt> (64; 2% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (23; 1% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (10; 0% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2600; 62% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (602; 14% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (573; 14% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (159; 4% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (82; 2% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (68; 2% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (40; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2600; 62% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (572; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (550; 13% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (159; 4% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (82; 2% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (69; 2% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (62; 1% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (52; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (40; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (4; 0% instances)
 
-4048 (96%) `ADP` nodes are leaves.
+4053 (96%) `ADP` nodes are leaves.
 
-55 (1%) `ADP` nodes have one child.
+51 (1%) `ADP` nodes have one child.
 
-103 (2%) `ADP` nodes have two children.
+102 (2%) `ADP` nodes have two children.
 
 19 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 5.
+The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (253; 79% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (55; 17% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (7; 2% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (253; 81% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (48; 15% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (7; 2% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (130; 41% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (82; 26% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (55; 17% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (22; 7% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (20; 6% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (130; 42% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (82; 26% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (48; 15% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (22; 7% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (11; 4% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (11; 4% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

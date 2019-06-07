@@ -22,11 +22,11 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
-1	मंदिर	मंदिर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Vib=0_का|Tam=0|ChunkId=NP|ChunkType=head|Translit=maṁdira
+1	मंदिर	मंदिर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Vib=0_का|Tam=0|ChunkId=NP|ChunkType=head|Translit=maṁdira
 2	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	1	case	_	ChunkId=NP|ChunkType=child|Translit=ke
 3	पूर्व	पूर्व	ADJ	JJ	Case=Acc	4	amod	_	ChunkId=NP2|ChunkType=child|Translit=pūrva
 4	हिस्‍से	हिस्सा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	nmod	_	Vib=0_में|Tam=0|ChunkId=NP2|ChunkType=head|Translit=hisse
-5	में	में	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP2|ChunkType=child|Translit=meṁ
+5	में	में	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP2|ChunkType=child|Translit=meṁ
 6	एक	एक	NUM	QC	NumType=Card	7	nummod	_	ChunkId=NP3|ChunkType=child|Translit=eka
 7	स्‍तूप	स्तूप	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=stūpa
 8	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
@@ -42,8 +42,8 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
 1	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	2	det	_	ChunkId=NP|ChunkType=child|Translit=isa
-2	मुठभेड़	मुठभेड़	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obl	_	Vib=0_में|Tam=0|ChunkId=NP|ChunkType=head|Translit=muṭhabheṛa
-3	में	में	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=meṁ
+2	मुठभेड़	मुठभेड़	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obl	_	Vib=0_में|Tam=0|ChunkId=NP|ChunkType=head|Translit=muṭhabheṛa
+3	में	में	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=meṁ
 4	एक	एक	NUM	QC	NumType=Card	5	nummod	_	ChunkId=NP2|ChunkType=child|Translit=eka
 5	जेसीओ	जेसीओ	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obl	_	Vib=0_सहित|Tam=0|ChunkId=NP2|ChunkType=head|Translit=jesīo
 6	सहित	सहित	ADP	PSP	AdpType=Post	5	case	_	ChunkId=NP2|ChunkType=child|Translit=sahita
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 6 nummod	color:blue
 1	सीमा	सीमा	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obl	_	Vib=0_में|Tam=0|ChunkId=NP|ChunkType=head|Translit=sīmā
-2	में	में	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=meṁ
+2	में	में	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=meṁ
 3	इनके	यह	PRON	PRP	Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	obj	_	Vib=का|Tam=kA|ChunkId=NP2|ChunkType=head|Translit=inake
 4	घुसने	घुस	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	9	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=ghusane
 5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	mark	_	ChunkId=VGNN|ChunkType=child|Translit=ke
@@ -77,11 +77,11 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	दिन	दिन	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Vib=0_के_भीतर|Tam=0|ChunkId=NP3|ChunkType=head|Translit=dina
 10	के	के	ADP	PSP	AdpType=Post	9	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 11	भीतर	भीतर	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	9	case	_	AltTag=ADP-NOUN|ChunkId=NP3|ChunkType=child|Translit=bhītara
-12	ही	ही	PART	RP	_	11	dep	_	ChunkId=NP3|ChunkType=child|Translit=hī
+12	ही	ही	PART	RP	_	9	dep	_	ChunkId=NP3|ChunkType=child|Translit=hī
 13	पता	पता	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=patā
 14	चल	चल	VERB	VM	Gender=Masc|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=cala
 15	जाता	जा	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	14	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=jātā
-16	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
+16	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 17	।	।	PUNCT	SYM	_	14	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

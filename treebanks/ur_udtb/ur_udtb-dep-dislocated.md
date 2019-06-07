@@ -11,9 +11,9 @@ This relation is universal.
 344 nodes (0%) are attached to their parents as `dislocated`.
 
 316 instances of `dislocated` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.49418604651163.
+Average distance between parent and child is 3.53488372093023.
 
-The following 23 pairs of parts of speech are connected with `dislocated`: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (220; 64% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (33; 10% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (33; 10% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `dislocated`: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (224; 65% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (40; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (22; 6% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt>-<tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt>-<tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,33 +35,8 @@ The following 23 pairs of parts of speech are connected with `dislocated`: <tt><
 11	سے	سے	ADP	PSP	AdpType=Post	10	case	_	ChunkId=NP4|ChunkType=child
 12	گزر	گزر	VERB	VM	Voice=Act	6	obj	_	Vib=0|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative
 13	چکے	چک	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	12	aux	_	Vib=یا|Tam=yA|ChunkId=VGF2|ChunkType=child
-14	ہیں	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	13	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
+14	ہیں	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	12	aux	_	SpaceAfter=No|Vib=ہے|Tam=hE|ChunkId=VGF2|ChunkType=child
 15	۔	۔	PUNCT	SYM	_	12	punct	_	ChunkId=VGF2|ChunkType=child
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 dislocated	color:blue
-1	(	(	PUNCT	SYM	_	2	punct	_	SpaceAfter=No|ChunkId=NP|ChunkType=child
-2	4	4	NUM	QC	NumType=Card	9	dep	_	SpaceAfter=No|ChunkId=NP|ChunkType=head
-3	)	)	PUNCT	SYM	_	2	punct	_	ChunkId=NP|ChunkType=child
-4	کثرت	کثرت	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
-5	لاحول	لاحول	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
-6	ولاقو	ولاقو	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
-7	الا	الا	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
-8	باللّٰہ	باللّٰہ	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
-9	وسعت	وسعت	NOUN	NNZ	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
-10	رزق	رزق	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
-11	کے	کے	ADP	PSP	_	4	dislocated	_	ChunkId=FRAGP|ChunkType=head
-12	لیے	لیے	ADP	PSP	AdpType=Post	11	dislocated	_	ChunkId=FRAGP|ChunkType=child
-13	اکسیر	اکسیر	ADJ	JJ	_	9	amod	_	ChunkId=JJP|ChunkType=head
-14	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
-15	۔	۔	PUNCT	SYM	_	14	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 
@@ -86,6 +61,31 @@ The following 23 pairs of parts of speech are connected with `dislocated`: <tt><
 12	استقبال	استقبال	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
 13	کیا	کر	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|Vib=یا|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative
 14	۔	۔	PUNCT	SYM	_	13	punct	_	ChunkId=VGF|ChunkType=child
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 dislocated	color:blue
+1	(	(	PUNCT	SYM	_	2	punct	_	SpaceAfter=No|ChunkId=NP|ChunkType=child
+2	4	4	NUM	QC	NumType=Card	9	dep	_	SpaceAfter=No|ChunkId=NP|ChunkType=head
+3	)	)	PUNCT	SYM	_	2	punct	_	ChunkId=NP|ChunkType=child
+4	کثرت	کثرت	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
+5	لاحول	لاحول	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
+6	ولاقو	ولاقو	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
+7	الا	الا	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child
+8	باللّٰہ	باللّٰہ	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+9	وسعت	وسعت	NOUN	NNZ	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
+10	رزق	رزق	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head
+11	کے	کے	ADP	PSP	_	4	dislocated	_	ChunkId=FRAGP|ChunkType=head
+12	لیے	لیے	ADP	PSP	AdpType=Post	11	dislocated	_	ChunkId=FRAGP|ChunkType=child
+13	اکسیر	اکسیر	ADJ	JJ	_	9	amod	_	ChunkId=JJP|ChunkType=head
+14	ہے	ہے	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No|AltTag=AUX-VERB|Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative
+15	۔	۔	PUNCT	SYM	_	9	punct	_	ChunkId=VGF|ChunkType=child
 
 ~~~
 

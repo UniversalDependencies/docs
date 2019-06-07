@@ -8,58 +8,56 @@ udver: '2'
 
 This relation is universal.
 
-254 nodes (1%) are attached to their parents as `iobj`.
+508 nodes (1%) are attached to their parents as `iobj`.
 
-139 instances of `iobj` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18897637795276.
+262 instances of `iobj` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06889763779528.
 
-The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (117; 46% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (76; 30% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (24; 9% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `iobj`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (236; 46% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (154; 30% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (30; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (13; 3% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 iobj	color:blue
-1	Среди	среди	ADP	_	_	3	case	_	_
-2	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
-3	сыновей	сын	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
-4	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	один	один	DET	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	который	который	PRON	_	Case=Nom	8	nsubj	_	_
-8	звал	звать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
-9	себя	себя	PRON	_	Case=Acc	8	obj	_	_
-10	Сыном	сын	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	iobj	_	_
-11	Божьим	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 iobj	color:blue
+1	Но	но	CCONJ	_	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	вот	вот	PART	_	_	9	advmod	_	_
+7	уже	уже	ADV	_	Degree=Pos	8	advmod	_	_
+8	2	2	NUM	_	_	9	nummod:gov	_	_
+9	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+10	зима	зима	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	балует	баловать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	12	obj	_	_
+14	снегом	снег	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	iobj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
+16	🌴	🌴	SYM	_	_	12	discourse	_	_
+17	❄	❄	SYM	_	_	12	discourse	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 iobj	color:blue
-1	Ну	ну	PART	_	_	3	parataxis	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 iobj	color:blue
+1	Кстати	кстати	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ложись	ложиться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	_
-4	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	3	iobj	_	_
-5	под	под	ADP	_	_	6	case	_	_
-6	ноги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	в	в	ADP	_	_	9	case	_	_
-9	прах	прах	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
-10	ложись	ложиться	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	3	conj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	15	punct	_	_
-12	потому	потому	ADV	_	Degree=Pos	15	mark	_	_
-13	что	что	SCONJ	_	_	12	fixed	_	_
-14	уже	уже	ADV	_	Degree=Pos	15	advmod	_	_
-15	пора	пора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	advcl	_	SpaceAfter=No
-16	!	!	PUNCT	_	_	3	punct	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+4	всегда	всегда	ADV	_	Degree=Pos	5	advmod	_	_
+5	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	подкинуть	подкинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	6	iobj	_	_
+8	идей	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obj	_	_
+9	😉	😉	SYM	_	_	5	discourse	_	_
 
 ~~~
 
@@ -74,7 +72,7 @@ The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href
 2	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
 3	чувствовать	чувствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	что	что	SCONJ	_	_	3	mark	_	_
+5	что	что	SCONJ	_	_	7	mark	_	_
 6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
 7	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
 8	мужчинам	мужчина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	SpaceAfter=No

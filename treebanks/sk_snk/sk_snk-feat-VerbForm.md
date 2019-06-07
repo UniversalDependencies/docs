@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-18786 tokens (18%) have a non-empty value of `VerbForm`.
+18800 tokens (18%) have a non-empty value of `VerbForm`.
 7907 types (31%) occur at least once with a non-empty value of `VerbForm`.
-3328 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14057; 13% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1202; 1% instances).
+3329 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (14066; 13% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3538; 3% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (1196; 1% instances).
 
 ### `VERB`
 
-14057 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+14066 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12882; 92%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8947; 64%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7134; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12890; 92%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10588; 75%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10588; 75%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10396; 74%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9303; 66%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8955; 64%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7135; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (21; 0% of non-empty `VerbForm`): <em>cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</em>
-* `Fin` (3470; 25% of non-empty `VerbForm`): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
+* `Fin` (3478; 25% of non-empty `VerbForm`): <em>je, má, ide, môže, mám, majú, musí, musím, sú, chcem</em>
 * `Inf` (1264; 9% of non-empty `VerbForm`): <em>povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</em>
-* `Part` (9302; 66% of non-empty `VerbForm`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
+* `Part` (9303; 66% of non-empty `VerbForm`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
 * `EMPTY` (2): <em>orientovať, znieť</em>
 
 <table>
@@ -50,15 +50,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-3527 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+3538 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3526; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3386; 96%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2907; 82%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2796; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 77%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2541; 72%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3538; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3398; 96%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2919; 83%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2808; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 78%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 72%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2737; 78% of non-empty `VerbForm`): <em>som, je, sme, sú, bude, si, ste, budú, nebude, budeme</em>
-* `Inf` (53; 2% of non-empty `VerbForm`): <em>byť</em>
-* `Part` (737; 21% of non-empty `VerbForm`): <em>bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</em>
+* `Fin` (2749; 78% of non-empty `VerbForm`): <em>som, je, sme, sú, bude, si, ste, budú, nebude, budeme</em>
+* `Inf` (53; 1% of non-empty `VerbForm`): <em>byť</em>
+* `Part` (736; 21% of non-empty `VerbForm`): <em>bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</em>
 * `EMPTY` (185): <em>by</em>
 
 <table>
@@ -85,8 +85,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>som</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>budem</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>som</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sk_snk-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>so</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>nebudeš</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>si</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>budeš</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>si</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>nebude</em></td><td></td><td></td></tr>
@@ -111,16 +111,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-1202 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+1196 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1191; 99%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1172; 98%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (977; 81%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (768; 64%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (631; 52%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (620; 52%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1190; 99%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1167; 98%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (976; 82%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (766; 64%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (628; 53%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (619; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (1202; 100% of non-empty `VerbForm`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</em>
+* `Part` (1196; 100% of non-empty `VerbForm`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</em>
 * `EMPTY` (8278): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (728) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (719) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

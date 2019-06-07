@@ -64,10 +64,10 @@ The following 4 pairs of parts of speech are connected with `appos:nmod`: <tt><a
 # visual-style 2 5 appos:nmod	color:blue
 1	mes	son	DET	_	_	2	det	_	_
 2	parents	parent	NOUN	_	_	7	nsubj	_	_
-3	tous	tout	ADJ	_	_	5	det	_	_
+3	tous	tout	ADJ	_	_	5	amod	_	_
 4	les	le	DET	_	_	5	det	_	_
 5	deux	deux	NUM	_	_	2	appos:nmod	_	_
-6	ont	avoir	VERB	_	_	7	aux	_	_
+6	ont	avoir	AUX	_	_	7	aux	_	_
 7	vécu	vivre	VERB	_	_	0	root	_	_
 8	à	à	ADP	_	_	9	case	_	_
 9	Paris	Paris	PROPN	_	_	7	obl:comp	_	_

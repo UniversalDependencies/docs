@@ -22,8 +22,8 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 discourse	color:blue
-1	»	»	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
-2	Ne	ne	PART	Q	_	6	discourse	_	SpaceAfter=No|Dep=0|Rel=Root
+1	»	»	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+2	Ne	ne	PART	Q	Polarity=Neg	6	discourse	_	SpaceAfter=No|Dep=0|Rel=Root
 3	!	!	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 4	«	«	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Dep=6|Rel=PPart

@@ -70,21 +70,21 @@ Examples: உள்ளது, ஆம், பெற்றுள்ளது
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="ta_ttb-dep-aux.html">aux</a></tt> (601; 96% instances), <tt><a href="ta_ttb-dep-root.html">root</a></tt> (13; 2% instances), <tt><a href="ta_ttb-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ta_ttb-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-det.html">det</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="ta_ttb-dep-aux.html">aux</a></tt> (601; 96% instances), <tt><a href="ta_ttb-dep-root.html">root</a></tt> (14; 2% instances), <tt><a href="ta_ttb-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ta_ttb-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="ta_ttb-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (540; 86% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (71; 11% instances),  (13; 2% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (544; 87% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (69; 11% instances),  (14; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-606 (96%) `AUX` nodes are leaves.
+609 (97%) `AUX` nodes are leaves.
 
-5 (1%) `AUX` nodes have one child.
+2 (0%) `AUX` nodes have one child.
 
-6 (1%) `AUX` nodes have two children.
+4 (1%) `AUX` nodes have two children.
 
-11 (2%) `AUX` nodes have three or more children.
+13 (2%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 13 different relations: <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (18; 30% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (7; 11% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (6; 10% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 8% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (5; 8% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 14 different relations: <tt><a href="ta_ttb-dep-punct.html">punct</a></tt> (20; 33% instances), <tt><a href="ta_ttb-dep-advcl.html">advcl</a></tt> (6; 10% instances), <tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt> (6; 10% instances), <tt><a href="ta_ttb-dep-advmod.html">advmod</a></tt> (5; 8% instances), <tt><a href="ta_ttb-dep-obl.html">obl</a></tt> (5; 8% instances), <tt><a href="ta_ttb-dep-ccomp.html">ccomp</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-obj.html">obj</a></tt> (4; 7% instances), <tt><a href="ta_ttb-dep-mark.html">mark</a></tt> (3; 5% instances), <tt><a href="ta_ttb-dep-advmod-emph.html">advmod:emph</a></tt> (2; 3% instances), <tt><a href="ta_ttb-dep-obl-arg.html">obl:arg</a></tt> (2; 3% instances), <tt><a href="ta_ttb-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="ta_ttb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (18; 30% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (13; 21% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (11; 18% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (7; 11% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="ta_ttb-pos-PUNCT.html">PUNCT</a></tt> (20; 33% instances), <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (15; 25% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (10; 16% instances), <tt><a href="ta_ttb-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (4; 7% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="ta_ttb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

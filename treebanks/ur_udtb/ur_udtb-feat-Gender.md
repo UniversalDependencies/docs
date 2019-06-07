@@ -350,7 +350,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7467; 92%),
-<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4368; 69%),
+<tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4365; 69%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2271; 77%),
 <tt>NOUN --[<tt><a href="ur_udtb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1835; 81%),
 <tt>PROPN --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1168; 88%),

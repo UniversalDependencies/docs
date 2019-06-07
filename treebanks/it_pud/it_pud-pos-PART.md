@@ -13,17 +13,16 @@ The 10 most frequent `PART` lemmas: <em>avanti, 's, ci, fuori, via</em>
 
 The 10 most frequent `PART` types:  <em>avanti, 's, ci, fuori, via</em>
 
-The 10 most frequent ambiguous lemmas: <em>avanti</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 3), <em>ci</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 34, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>fuori</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>via</em> (<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>avanti</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 3), <em>ci</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 36, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>fuori</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>via</em> (<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>avanti</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 3), <em>ci</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 17, <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>fuori</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>via</em> (<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>avanti</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 3), <em>ci</em> (<tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 19, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>fuori</em> (<tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="it_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1), <em>via</em> (<tt><a href="it_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>avanti</em>
   * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5: <em>Il suo collo si spinge in <b>avanti</b> enfatizzando lo scontro , le mani si agitano .</em>
   * <tt><a href="it_pud-pos-PART.html">PART</a></tt> 3: <em>Ma si è fatta <b>avanti</b> soltanto dopo che l' Agenzia statunitense per la Protezione Ambientale ha avvertito il mondo in merito a la questione .</em>
 * <em>ci</em>
-  * <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 17: <em>In il sito web Yas Marina Circuit <b>ci</b> sono gli orari esatti .</em>
-  * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 2: <em>Per chiunque voglia vedere la capitale in tutto il suo splendore , novembre è un periodo fantastico in cui andar <b>ci</b> .</em>
+  * <tt><a href="it_pud-pos-PRON.html">PRON</a></tt> 19: <em>In il sito web Yas Marina Circuit <b>ci</b> sono gli orari esatti .</em>
   * <tt><a href="it_pud-pos-PART.html">PART</a></tt> 1: <em>Sfortunatamente ancora una volta per colpa di qualcuno <b>ci</b> rimettono in molti , ha scritto Jesse LaBrocca , fondatrice di Hack Forums , in un messaggio volto a spiegare i motivi che hanno portato a la chiusura di la sezione .</em>
 * <em>fuori</em>
   * <tt><a href="it_pud-pos-ADV.html">ADV</a></tt> 5: <em>In i film di guerra o western e in quelli indiani le battaglie , le lotte e le risse erano <b>fuori</b> dal mondo .</em>
@@ -35,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>avanti</em> (<tt><a href="it_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.283914).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.285799).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 

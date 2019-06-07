@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
 1	Uurijad	uurija	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
-2	sõitsid	sõitma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	sõitsid	sõitma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	minema	minema	VERB	V	Case=All|VerbForm=Sup|Voice=Act	2	compound	_	SpaceAfter=No
 4	.	.	PUNCT	Z	_	2	punct	_	_
 

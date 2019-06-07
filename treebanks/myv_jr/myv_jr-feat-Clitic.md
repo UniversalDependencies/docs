@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADV` and `Clitic` co-occurred
 
 19 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17; 89%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 74%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17; 89%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 74%).
 
 `PRON` tokens may have the following values of `Clitic`:
 
@@ -88,9 +88,9 @@ The most frequent other feature values with which `ADP` and `Clitic` co-occurred
 
 ### `AUX`
 
-9 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Clitic`.
+9 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (9; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6; 67%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 56%).
+The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (9; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6; 67%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 56%).
 
 `AUX` tokens may have the following values of `Clitic`:
 
@@ -108,9 +108,7 @@ The most frequent other feature values with which `ADJ` and `Clitic` co-occurred
 
 ### `PART`
 
-1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Clitic`.
-
-The most frequent other feature values with which `PART` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
+1 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Clitic`.
 
 `PART` tokens may have the following values of `Clitic`:
 
@@ -119,6 +117,7 @@ The most frequent other feature values with which `PART` and `Clitic` co-occurre
 ## Relations with Agreement in `Clitic`
 
 The 10 most frequent relations where parent and child node agree in `Clitic`:
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5; 63%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%).
 

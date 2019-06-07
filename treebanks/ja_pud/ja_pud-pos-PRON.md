@@ -13,9 +13,9 @@ The 10 most frequent `PRON` lemmas: 彼, それ, 彼女, 私, これ, 彼ら, �
 
 The 10 most frequent `PRON` types:  彼, それ, 彼女, 私, これ, 彼ら, これら, そこ, 私たち, 誰
 
-The 10 most frequent ambiguous lemmas: 誰 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), それぞれ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 誰 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), その他 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), それぞれ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 59, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 2), 誰 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), それぞれ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 59, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 2), 誰 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), その他 (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1), それぞれ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 1)
 
 
 * それ
@@ -24,13 +24,16 @@ The 10 most frequent ambiguous types:  それ (<tt><a href="ja_pud-pos-PRON.html
 * 誰
   * <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 9: 彼ら は <b>誰</b> です か 。
   * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: 首都 が すべて の 栄光 に 照らさ れる 様子 を 見 たい 人 <b>誰</b> も にとって 、 11月 は 訪れる の に 最高 の 時期 だ 。
+* その他
+  * <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 6: 研究者 は 、 腫瘍 の DNA 分析 により <b>その他</b> の 癌 の 根本的 な 原因 が わかる かもしれ ない と 述べ て いる 。
+  * <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> 1: 「 最新 の イベント 」 は 、 Reddit 、 Twitter 、 Spotify や <b>その他</b> 多く の 人気 Web サイト が 簡潔 に 書い て いる 、 10月 21 日 の テロ 事件 である 可能性 が 高い 。
 * それぞれ
   * <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 3: 展示会 で は 、 地図 <b>それぞれ</b> が 独自 の 物語 を 告げる が 、 事実 と は 限ら ない 。
   * <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 1: それ は 、 ありとあらゆる 不思議 な こと と <b>それぞれ</b> 専門化 さ れ た 地区 が 、 全て の 地 を 占め て いる ため である 。
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (1) was observed with the lemma “あなた”: あなた.
 
@@ -43,21 +46,21 @@ The 3rd highest number of forms (1) was observed with the lemma “かれら”:
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (217; 50% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (126; 29% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (37; 9% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (26; 6% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (21; 5% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances)
+`PRON` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (204; 47% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (126; 29% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (37; 9% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (26; 6% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (21; 5% instances), <tt><a href="ja_pud-dep-dislocated.html">dislocated</a></tt> (13; 3% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (249; 58% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (154; 36% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (256; 59% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (147; 34% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 12 (3%) `PRON` nodes are leaves.
 
 319 (74%) `PRON` nodes have one child.
 
-83 (19%) `PRON` nodes have two children.
+84 (19%) `PRON` nodes have two children.
 
-19 (4%) `PRON` nodes have three or more children.
+18 (4%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 4.
 
-Children of `PRON` nodes are attached using 9 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (436; 80% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (81; 15% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (9; 2% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 9 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (436; 80% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (80; 15% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (9; 2% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (5; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 9 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (436; 80% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (81; 15% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 9 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (436; 80% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (80; 15% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
 

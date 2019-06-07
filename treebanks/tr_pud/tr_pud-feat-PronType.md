@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (2; 8% of non-empty `PronType`): <em>bazılarını, birbirlerini</em>
 * `Int` (20; 77% of non-empty `PronType`): <em>ne, kim, hangisinin, nerede, neler, nereye, neyi</em>
 * `Rcp` (4; 15% of non-empty `PronType`): <em>birbirine, birbirinden, birbiriyle</em>
-* `EMPTY` (281): <em>bu, kendi, Bununla, biri, bunu, bunun, onu, bunlar, o, buna</em>
+* `EMPTY` (280): <em>bu, kendi, Bununla, biri, bunu, bunun, onu, bunlar, o, buna</em>
 
 ### `ADV`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (9; 100% of non-empty `PronType`): <em>nasıl, Ne</em>
-* `EMPTY` (842): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
+* `EMPTY` (844): <em>daha, de, da, en, ancak, çok, geri, ayrıca, sadece, sonra</em>
 
 ### `DET`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Int` (4; 100% of non-empty `PronType`): <em>hangi, kaç, ne</em>
-* `EMPTY` (681): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
+* `EMPTY` (682): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
 
 ### `PROPN`
 

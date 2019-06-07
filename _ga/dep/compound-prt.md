@@ -2,6 +2,7 @@
 layout: relation
 title:  'compound:prt'
 shortdef : 'phrasal particles'
+udver: '2'
 ---
 
 In UD Irish, the subtype `compound:prt` (phrasal particle) is used in connection with phrasal verbs, where the particle is considered an integral part of the verb expression. The governor of the dependency is the verb, and the dependent is the phrasal particle.

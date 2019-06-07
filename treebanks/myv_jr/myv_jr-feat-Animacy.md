@@ -46,12 +46,12 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 24 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (23; 96%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 71%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 63%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (23; 96%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 71%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 63%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (24; 100% of non-empty `Animacy`): <em>ки, кие, кинь, кить, Кият, кинень</em>
-* `EMPTY` (827): <em>сон, весе, те, мон, сонзэ, сонсь, минь, тензэ, мезе, сынь</em>
+* `EMPTY` (820): <em>сон, весе, те, мон, сонзэ, сонсь, минь, тензэ, мезе, сынь</em>
 
 ## Relations with Agreement in `Animacy`
 

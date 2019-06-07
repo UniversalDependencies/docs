@@ -46,7 +46,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 908 sentences and 8701 tokens.</li>
+      <li>This corpus contains 1004 sentences and 9874 tokens.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -68,7 +68,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 8701 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 9874 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -1116,7 +1116,7 @@ udver: '2'
             <li>Clf
               <ul>
                 <li>ADV: 些</li>
-                <li>NOUN: 個, 元, 位, 塊, 次, 天, 分鐘, 張, 份, 分</li>
+                <li>NOUN: 個, 位, 元, 條, 塊, 次, 天, 點, 分鐘, 張</li>
               </ul>
             </li>
           </ul>
@@ -1227,9 +1227,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (154)</li>
-            <li>VERB--NOUN-ADP(_) (1)</li>
-            <li>VERB--PRON (419)</li>
+            <li>VERB--NOUN (173)</li>
+            <li>VERB--NOUN-ADP(_) (2)</li>
+            <li>VERB--PRON (503)</li>
             <li>VERB--PRON-ADP(_) (1)</li>
           </ul>
         </li>
@@ -1274,8 +1274,8 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (505)</li>
-            <li>VERB--PRON (120)</li>
+            <li>VERB--NOUN (588)</li>
+            <li>VERB--PRON (137)</li>
             <li>VERB--PRON-ADP(_) (2)</li>
           </ul>
         </li>
@@ -1399,7 +1399,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 15 relation subtypes: <a>advmod:df</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obj:periph</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">

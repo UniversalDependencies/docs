@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it_postwita-dep-det-predet.html">det:predet</a></tt>.
 
-592 nodes (0%) are attached to their parents as `det:poss`.
+591 nodes (0%) are attached to their parents as `det:poss`.
 
 557 instances of `det:poss` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09966216216216.
+Average distance between parent and child is 1.09983079526227.
 
-The following 10 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (561; 95% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det:poss`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (560; 95% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (15; 3% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,25 +40,21 @@ The following 10 pairs of parts of speech are connected with `det:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 det:poss	color:blue
-1	@user	@user	SYM	SYM	_	2	vocative:mention	_	_
-2	Mal	male	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-3	di	di	ADP	E	_	4	case	_	_
-4	testa	testa	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	_
-5	e	e	CCONJ	CC	_	6	cc	_	_
-6	nausea	nausea	NOUN	S	Gender=Fem|Number=Sing	4	conj	_	_
-7	ma	ma	CCONJ	CC	_	10	cc	_	_
-8	quando	quando	SCONJ	CS	_	10	mark	_	_
-9	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	10	iobj	_	_
-10	ascolto	ascoltare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
-11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	12	nsubj	_	_
-12	svanisce	svanire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-13	Angelo	Angelo	PROPN	SP	_	2	vocative	_	_
-14	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det:poss	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det:poss	color:blue
+1	#OMMHSC	#OMMHSC	SYM	SYM	_	6	parataxis:hashtag	_	_
+2	Oh	oh	INTJ	I	_	6	discourse	_	_
+3	mio	mio	DET	AP	Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Dio	Dio	PROPN	SP	_	6	discourse	_	_
+5	Che	che	DET	DE	PronType=Exc	6	det	_	_
+6	gol	gol	NOUN	S	Gender=Masc	0	root	_	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
+9	#Belhanda	#Belhanda	SYM	SYM	_	8	nsubj	_	_
+10	😲😲😱😲😱	😲😲😱😲😱	SYM	SYM	_	6	discourse:emo	_	_
 
 ~~~
 
@@ -71,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `det:poss`: <tt><a 
 # visual-style 14 13 det:poss	color:blue
 1	#Grillo	#Grillo	SYM	SYM	_	9	parataxis:hashtag	_	_
 2	a	a	ADP	E	_	4	case	_	_
-3	5	5	PROPN	SP	_	4	nummod	_	_
+3	5	5	NUM	N	NumType=Card	4	nummod	_	_
 4	Stelle	Stelle	PROPN	SP	_	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	1	punct	_	_
 6	in	in	ADP	E	_	8	case	_	_

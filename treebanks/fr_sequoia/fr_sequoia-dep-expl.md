@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-359 nodes (1%) are attached to their parents as `expl`.
+358 nodes (1%) are attached to their parents as `expl`.
 
-354 instances of `expl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21727019498607.
+353 instances of `expl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21787709497207.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (350; 97% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (350; 98% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

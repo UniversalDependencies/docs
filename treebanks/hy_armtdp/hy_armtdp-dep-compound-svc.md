@@ -9,39 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="hy_armtdp-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt>.
 
-11 nodes (0%) are attached to their parents as `compound:svc`.
+27 nodes (0%) are attached to their parents as `compound:svc`.
 
-10 instances of `compound:svc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.09090909090909.
+26 instances of `compound:svc` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.85185185185185.
 
-The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (11; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:svc`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (27; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 compound:svc	color:blue
-1	Քաղաքը	քաղաք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
-2	գալիս	գալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	_
-3	կանգնում	կանգնել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	2	compound:svc	_	_
-4	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	2	aux	_	_
-5	Օպերայի	օպերա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	_
-6	հրապարակում	հրապարակ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	2	obl	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	9	det:poss	_	_
-9	միասնությունն	միասնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	obj	_	_
-10	արտահայտելով	արտահայտել	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	2	advcl	_	_
-11	մեզ	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
-12	՝	՝	PUNCT	_	_	18	punct	_	_
-13	գիշեր	գիշեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	17	obl	_	SpaceAfter=No
-14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
-15	ցերեկ	ցերեկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	13	compound	_	_
-16	աստիճաններին	աստիճան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	17	obl	_	_
-17	նստած	նստել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	18	acl	_	_
-18	ուսանողներիս	ուսանող	NOUN	_	Animacy=Hum|Case=Dat|Number=Plur|Number[psor]=Plur|Person[psor]=1	11	appos	_	SpaceAfter=No
-19	:	:	PUNCT	_	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 compound:svc	color:blue
+1	Իջեցրել	իջնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=iǰec’rel|LTranslit=iǰnel
+2	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=en|LTranslit=em
+3	մեքենայից	մեքենա	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	1	obl	_	Translit=mek’enayic’|LTranslit=mek’ena
+4	ու	ու	CCONJ	_	_	5	cc	_	Translit=ow|LTranslit=ow
+5	քշել	քշել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	1	conj	_	Translit=k’šel|LTranslit=k’šel
+6	գնացել	գնալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	5	compound:svc	_	Translit=gnac’el|LTranslit=gnal|SpaceAfter=No
+7	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

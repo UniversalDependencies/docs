@@ -10,7 +10,7 @@ This relation is universal.
 
 43 nodes (0%) are attached to their parents as `discourse`.
 
-33 instances of `discourse` (77%) are right-to-left (child precedes parent).
+34 instances of `discourse` (79%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.97674418604651.
 
 The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (26; 60% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (10; 23% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 9% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 2% instances).
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	dans	dans	ADP	_	_	4	case	_	_
 3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Morsure	Morsure	PROPN	_	_	1	obl:mod	_	_
-5	:	:	PUNCT	_	_	1	punct	_	_
+5	:	:	PUNCT	_	_	6	punct	_	_
 6	Ah	ah	INTJ	_	_	1	discourse	_	_
 7	!	!	PUNCT	_	_	1	punct	_	_
 

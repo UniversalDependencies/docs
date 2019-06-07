@@ -22,10 +22,10 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advmod	color:blue
-1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ|LTranslit=_
-2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=èṁduku|LTranslit=_
-3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ|LTranslit=_
-4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ|LTranslit=_
+1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ|LTranslit=_
+2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=èṁduku|LTranslit=_
+3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ|LTranslit=_
+4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ|LTranslit=_
 5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
 
 ~~~
@@ -37,9 +37,9 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
-1	ఎప్పుడూ	_	ADV	ADV	_	3	advmod	_	Translit=èppuḍū|LTranslit=_
-2	షికారుకు	_	NOUN	NOUN	_	3	obl	_	Translit=ṣikāruku|LTranslit=_
-3	వెళ్ళను	_	NOUN	NOUN	_	0	root	_	Translit=vèḷḷanu|LTranslit=_
+1	ఎప్పుడూ	_	ADV	ADV	_	3	advmod	_	Translit=èppuḍū|LTranslit=_
+2	షికారుకు	_	NOUN	NOUN	_	3	obl	_	Translit=ṣikāruku|LTranslit=_
+3	వెళ్ళను	_	NOUN	NOUN	_	0	root	_	Translit=vèḷḷanu|LTranslit=_
 4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -51,12 +51,12 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod	color:blue
-1	పెళ్ళి	_	NOUN	NOUN	_	2	nsubj	_	Translit=pèḷḷi|LTranslit=_
+1	పెళ్ళి	_	NOUN	NOUN	_	2	nsubj	_	Translit=pèḷḷi|LTranslit=_
 2	రేపనగా	_	VERB	VERB	_	6	advcl	_	Translit=repanagā|LTranslit=_
 3	కారు	_	NOUN	NOUN	_	6	nsubj	_	Translit=kāru|LTranslit=_
-4	మొదటి	_	ADJ	ADJ	_	5	amod	_	Translit=mòdaṭi|LTranslit=_
+4	మొదటి	_	ADJ	ADJ	_	5	amod	_	Translit=mòdaṭi|LTranslit=_
 5	సారి	_	NOUN	NOUN	_	6	advmod	_	Translit=sāri|LTranslit=_
-6	కదిలింది	_	VERB	VERB	_	0	root	_	Translit=kadiliṁdi|LTranslit=_
+6	కదిలింది	_	VERB	VERB	_	0	root	_	Translit=kadiliṁdi|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
 
 ~~~

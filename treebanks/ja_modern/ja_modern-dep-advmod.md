@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-474 nodes (3%) are attached to their parents as `advmod`.
+467 nodes (3%) are attached to their parents as `advmod`.
 
-470 instances of `advmod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.07594936708861.
+467 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.11134903640257.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (330; 70% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (88; 19% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (31; 7% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (328; 70% instances), <tt><a href="ja_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (87; 19% instances), <tt><a href="ja_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (31; 7% instances), <tt><a href="ja_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="ja_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ja_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_modern-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -69,13 +69,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Relations
 
-[acl](la_proiel-dep-acl.html) – [advcl](la_proiel-dep-advcl.html) – [advmod](la_proiel-dep-advmod.html) – [amod](la_proiel-dep-amod.html) – [appos](la_proiel-dep-appos.html) – [aux](la_proiel-dep-aux.html) – [aux:pass](la_proiel-dep-aux-pass.html) – [case](la_proiel-dep-case.html) – [cc](la_proiel-dep-cc.html) – [ccomp](la_proiel-dep-ccomp.html) – [conj](la_proiel-dep-conj.html) – [cop](la_proiel-dep-cop.html) – [csubj:pass](la_proiel-dep-csubj-pass.html) – [dep](la_proiel-dep-dep.html) – [det](la_proiel-dep-det.html) – [discourse](la_proiel-dep-discourse.html) – [fixed](la_proiel-dep-fixed.html) – [flat](la_proiel-dep-flat.html) – [flat:foreign](la_proiel-dep-flat-foreign.html) – [flat:name](la_proiel-dep-flat-name.html) – [iobj](la_proiel-dep-iobj.html) – [mark](la_proiel-dep-mark.html) – [nmod](la_proiel-dep-nmod.html) – [nsubj](la_proiel-dep-nsubj.html) – [nsubj:pass](la_proiel-dep-nsubj-pass.html) – [nummod](la_proiel-dep-nummod.html) – [obj](la_proiel-dep-obj.html) – [obl](la_proiel-dep-obl.html) – [obl:agent](la_proiel-dep-obl-agent.html) – [orphan](la_proiel-dep-orphan.html) – [parataxis](la_proiel-dep-parataxis.html) – [root](la_proiel-dep-root.html) – [vocative](la_proiel-dep-vocative.html) – [xcomp](la_proiel-dep-xcomp.html)
+[acl](la_proiel-dep-acl.html) – [advcl](la_proiel-dep-advcl.html) – [advmod](la_proiel-dep-advmod.html) – [amod](la_proiel-dep-amod.html) – [appos](la_proiel-dep-appos.html) – [aux](la_proiel-dep-aux.html) – [aux:pass](la_proiel-dep-aux-pass.html) – [case](la_proiel-dep-case.html) – [cc](la_proiel-dep-cc.html) – [ccomp](la_proiel-dep-ccomp.html) – [conj](la_proiel-dep-conj.html) – [cop](la_proiel-dep-cop.html) – [csubj:pass](la_proiel-dep-csubj-pass.html) – [dep](la_proiel-dep-dep.html) – [det](la_proiel-dep-det.html) – [discourse](la_proiel-dep-discourse.html) – [dislocated](la_proiel-dep-dislocated.html) – [fixed](la_proiel-dep-fixed.html) – [flat:foreign](la_proiel-dep-flat-foreign.html) – [flat:name](la_proiel-dep-flat-name.html) – [iobj](la_proiel-dep-iobj.html) – [mark](la_proiel-dep-mark.html) – [nmod](la_proiel-dep-nmod.html) – [nsubj](la_proiel-dep-nsubj.html) – [nsubj:pass](la_proiel-dep-nsubj-pass.html) – [nummod](la_proiel-dep-nummod.html) – [obj](la_proiel-dep-obj.html) – [obl](la_proiel-dep-obl.html) – [obl:agent](la_proiel-dep-obl-agent.html) – [orphan](la_proiel-dep-orphan.html) – [parataxis](la_proiel-dep-parataxis.html) – [root](la_proiel-dep-root.html) – [vocative](la_proiel-dep-vocative.html) – [xcomp](la_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 18400 sentences and 199958 tokens.</li>
+<li>This corpus contains 18411 sentences and 200163 tokens.</li>
 </ul>
 
 <ul>
@@ -118,10 +118,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): sum</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): adduco, ago, eo, nescio, relinquo, sum</li>
 </ul>
 
 <ul>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: adduco, ago, eo, nescio, relinquo</li>
 </ul>
 
 <ul>
@@ -156,7 +157,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esse, fore, fuisse</li>
+    <li>AUX: esse, fore, fuisse, iri</li>
     <li>VERB: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
   </ul>
   </li>
@@ -390,7 +391,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ille, omnes, hic, haec, nemo, nihil, illi, quis, hoc, quidam</li>
+      <li>ADJ: ille, omnes, hic, haec, illi, nemo, nihil, quis, hoc, quidam</li>
       <li>AUX-Part: futurus, futurum, futura, futurae, futuri</li>
       <li>DET: omnes, omnis, haec, ille, quidam, ipse, hic, omnia, illa, hoc</li>
       <li>NOUN: deus, filius, dominus, homo, pater, res, discipuli, spiritus, dies, mulier</li>
@@ -555,7 +556,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pqp
     <ul>
-      <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissem, fuissemus, fuisses, fueramus, fuissetis</li>
+      <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis, reliquisset</li>
       <li>VERB-Fin: venisset, vidisset, dixisset, fecisset, venissent, venerant, venerat, audissent, audisset, dixerat</li>
     </ul>
   </li>
@@ -565,7 +566,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Pres
     <ul>
       <li>AUX-Fin: est, sunt, sit, sum, estis, es, sumus, sint, sis, sim</li>
-      <li>AUX-Inf: esse, fore</li>
+      <li>AUX-Inf: esse, fore, iri</li>
       <li>VERB-Fin: ait, dicit, dico, habet, potest, nolite, velim, oportet, scribis, habent</li>
       <li>VERB-Inf: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
       <li>VERB-Part: dicens, dicentes, respondens, habens, videns, habentes, dicentem, videntes, audientes, surgens</li>
@@ -593,8 +594,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pass
     <ul>
+      <li>AUX-Fin: adduceretur</li>
+      <li>AUX-Inf: iri</li>
       <li>VERB-Fin: videtur, dicitur, loquitur, loquebatur, operatur, vocatur, loquor, vereor, videntur, opinor</li>
-      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, sequi, iri, mori</li>
+      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, sequi, mori, videri</li>
       <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, dictum, profectus, mortuus, facti</li>
     </ul>
   </li>
@@ -676,7 +679,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>1
     <ul>
       <li>ADJ: mea, meum, nostri, meo, nostra, meam, nostris, meus, nostrum, mei</li>
-      <li>AUX-Fin: sum, sumus, essem, sim, eram, simus, ero, essemus, erimus, fui</li>
+      <li>AUX-Fin: sum, sumus, essem, sim, eram, simus, essemus, ero, erimus, fui</li>
       <li>PRON: me, ego, mihi, nos, nobis, mei, nostri, nostrum, mi</li>
       <li>VERB-Fin: dico, velim, vidi, scio, habeo, scripsi, dixi, faciam, veni, video</li>
     </ul>
@@ -720,7 +723,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: sum, nescio, adduco, ago, eo.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: sum, nescio, adduco, ago, eo, relinquo.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum, eo.</li>
 </ul>
 
@@ -748,14 +751,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (9)</li>
       <li>VERB-Fin--PRON-Acc-ADP(circa) (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (3062)</li>
+      <li>VERB-Fin--PRON-Nom (3064)</li>
       <li>VERB-Gdv--NOUN-Abl (56)</li>
       <li>VERB-Gdv--NOUN-Acc (116)</li>
       <li>VERB-Gdv--NOUN-Dat (5)</li>
       <li>VERB-Gdv--NOUN-Gen (61)</li>
       <li>VERB-Gdv--NOUN-Nom (125)</li>
       <li>VERB-Gdv--PRON-Abl (3)</li>
-      <li>VERB-Gdv--PRON-Acc (17)</li>
+      <li>VERB-Gdv--PRON-Acc (18)</li>
       <li>VERB-Gdv--PRON-Gen (8)</li>
       <li>VERB-Gdv--PRON-Nom (32)</li>
       <li>VERB-Ger--NOUN-Acc (1)</li>
@@ -763,7 +766,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Abl-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (219)</li>
+      <li>VERB-Inf--NOUN-Acc (220)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (14)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
@@ -787,7 +790,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Abl (2)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(de) (18)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(ex) (4)</li>
-      <li>VERB-Fin--NOUN-Acc (4770)</li>
+      <li>VERB-Fin--NOUN-Acc (4771)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ad) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(secundum) (1)</li>
       <li>VERB-Fin--NOUN-Gen (15)</li>
@@ -795,7 +798,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Abl (3)</li>
       <li>VERB-Fin--PRON-Abl-ADP(de) (2)</li>
       <li>VERB-Fin--PRON-Abl-ADP(ex) (2)</li>
-      <li>VERB-Fin--PRON-Acc (3306)</li>
+      <li>VERB-Fin--PRON-Acc (3314)</li>
       <li>VERB-Fin--PRON-Acc-ADP(circa) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(post) (1)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
@@ -828,13 +831,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Abl (213)</li>
+      <li>VERB-Fin--NOUN-Abl (212)</li>
       <li>VERB-Fin--NOUN-Acc (24)</li>
-      <li>VERB-Fin--NOUN-Dat (676)</li>
+      <li>VERB-Fin--NOUN-Dat (677)</li>
       <li>VERB-Fin--NOUN-Gen (17)</li>
       <li>VERB-Fin--PRON-Abl (24)</li>
       <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Dat (1710)</li>
+      <li>VERB-Fin--PRON-Dat (1708)</li>
       <li>VERB-Fin--PRON-Gen (16)</li>
       <li>VERB-Gdv--NOUN-Abl (4)</li>
       <li>VERB-Gdv--NOUN-Dat (14)</li>
@@ -853,10 +856,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Part--NOUN-Abl (101)</li>
       <li>VERB-Part--NOUN-Acc (12)</li>
-      <li>VERB-Part--NOUN-Dat (164)</li>
+      <li>VERB-Part--NOUN-Dat (163)</li>
       <li>VERB-Part--NOUN-Gen (13)</li>
       <li>VERB-Part--PRON-Abl (4)</li>
-      <li>VERB-Part--PRON-Dat (249)</li>
+      <li>VERB-Part--PRON-Dat (248)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Sup--PRON-Dat (1)</li>
     </ul>
@@ -868,9 +871,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 269 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: recipio se, habeo se, dedo se, facio se, dico sibi, do sibi, sequor se, trado se, defendo se, do se, licet sibi, sum sibi, calefacio se, confero se, coniungo se, contineo sese, facio sibi, humilio se, inclino se, abdo se, abscondo se, abstineo se, commendo se, confero sua, coniungo sese, converto se, dico se, exalto se, gero se, iacto se, interficio se, mitto se, offero se, persuadeo sibi, placeo sibi, abnego se, accommodo se, adiungo sibi, aggrego se, alo se, ascisco sibi, asto sibi, cohortor suos, committo se, comparo#1 sibi, confirmo sese, conicio se, conscisco sibi, contineo se, credo se</li>
+  <li>This corpus contains 269 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: recipio se, habeo se, dedo se, facio se, dico sibi, do sibi, sequor se, trado se, defendo se, do se, humilio se, licet sibi, sum sibi, calefacio se, confero se, coniungo se, contineo sese, dico se, facio sibi, inclino se, abdo se, abscondo se, abstineo se, commendo se, confero sua, coniungo sese, converto se, exalto se, gero se, iacto se, interficio se, mitto se, offero se, persuadeo sibi, placeo sibi, abnego se, accommodo se, adiungo sibi, aggrego se, alo se, ascisco sibi, asto sibi, cohortor suos, committo se, comparo sibi, confirmo sese, conicio se, conscisco sibi, contineo se, credo se</li>
     <ul>
-      <li>Out of those, 5 lemmas occurred more than once, but never without a reflexive dependent. Examples: calefacio, aggrego, ascisco, conscisco, dico#1</li>
+      <li>Out of those, 4 lemmas occurred more than once, but never without a reflexive dependent. Examples: calefacio, aggrego, ascisco, conscisco</li>
     </ul>
 </ul>
 
@@ -878,6 +881,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

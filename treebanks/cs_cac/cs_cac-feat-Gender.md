@@ -12,10 +12,10 @@ Some words have combined values of the feature; 3 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt>, <tt><a href="cs_cac-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-252494 tokens (51%) have a non-empty value of `Gender`.
+252247 tokens (51%) have a non-empty value of `Gender`.
 58315 types (93%) occur at least once with a non-empty value of `Gender`.
 25144 lemmas (88%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136143; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73917; 15% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15572; 3% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (10563; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9803; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2847; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2450; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1199; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136143; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73917; 15% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15325; 3% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (10568; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9803; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2847; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2445; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1199; 0% instances).
 
 ### `NOUN`
 
@@ -101,17 +101,17 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-15572 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
+15325 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14048; 90%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14048; 90%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13147; 84%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12860; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12439; 80%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13801; 90%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13801; 90%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12900; 84%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12613; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12192; 80%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (4752; 31% of non-empty `Gender`): <em>které, která, této, své, naší, tato, svou, tyto, kterou, tuto</em>
 * `Fem,Neut` (136; 1% of non-empty `Gender`): <em>naše, moje, vaše, tvoje</em>
-* `Masc` (3928; 25% of non-empty `Gender`): <em>který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</em>
+* `Masc` (3928; 26% of non-empty `Gender`): <em>který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</em>
 * `Masc,Neut` (3597; 23% of non-empty `Gender`): <em>tím, tom, toho, tomu, tohoto, tomto, našeho, svého, našem, svým</em>
-* `Neut` (3159; 20% of non-empty `Gender`): <em>to, které, toto, která, své, tato, každé, takové, některá, její</em>
+* `Neut` (2912; 19% of non-empty `Gender`): <em>to, které, toto, která, své, tato, každé, takové, některá, její</em>
 * `EMPTY` (4445): <em>jejich, jeho, těchto, některých, několik, svých, mnoho, našich, jehož, jejichž</em>
 
 <table>
@@ -143,17 +143,17 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `VERB`
 
-10563 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (26% of all `VERB` tokens) have a non-empty value of `Gender`.
+10568 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (26% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10563; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10563; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10563; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10530; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10529; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9746; 92%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10568; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10568; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10568; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10535; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10534; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9751; 92%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem,Masc` (1176; 11% of non-empty `Gender`): <em>měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</em>
-* `Fem,Neut` (2069; 20% of non-empty `Gender`): <em>měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</em>
-* `Masc` (5703; 54% of non-empty `Gender`): <em>měl, mohli, mohl, měli, byl, řekl, chtěl, stal, ukázal, dostal</em>
+* `Fem,Masc` (1177; 11% of non-empty `Gender`): <em>měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</em>
+* `Fem,Neut` (2070; 20% of non-empty `Gender`): <em>měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</em>
+* `Masc` (5706; 54% of non-empty `Gender`): <em>měl, mohli, mohl, měli, byl, řekl, chtěl, stal, ukázal, dostal</em>
 * `Neut` (1615; 15% of non-empty `Gender`): <em>bylo, došlo, mělo, podařilo, mohlo, stalo, nebylo, ukázalo, šlo, začalo</em>
-* `EMPTY` (30028): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (30037): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -223,17 +223,17 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `AUX`
 
-2450 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Gender`.
+2445 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (17% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2450; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2450; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2450; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2449; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2449; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2266; 92%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 54%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2445; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2445; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2445; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2444; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2444; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2261; 92%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1310; 54%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem,Masc` (462; 19% of non-empty `Gender`): <em>byly, nebyly, bývaly, mohly</em>
-* `Fem,Neut` (580; 24% of non-empty `Gender`): <em>byla, nebyla, jsouc, měla</em>
-* `Masc` (749; 31% of non-empty `Gender`): <em>byl, byli, nebyl, býval, nebyli, měl, Mohl</em>
+* `Fem,Masc` (461; 19% of non-empty `Gender`): <em>byly, nebyly, bývaly</em>
+* `Fem,Neut` (579; 24% of non-empty `Gender`): <em>byla, nebyla, jsouc</em>
+* `Masc` (746; 31% of non-empty `Gender`): <em>byl, byli, nebyl, býval, nebyli</em>
 * `Neut` (659; 27% of non-empty `Gender`): <em>bylo, nebylo, bývalo</em>
-* `EMPTY` (11794): <em>je, by, jsou, bude, být, jsme, není, jsem, budou, bychom</em>
+* `EMPTY` (11785): <em>je, by, jsou, bude, být, jsme, není, jsem, budou, bychom</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -278,13 +278,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59340; 99%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59352; 99%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7076; 50%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3642; 92%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1915; 77%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1916; 77%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (1111; 59%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (855; 100%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (750; 52%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (749; 53%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (704; 65%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (613; 99%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (534; 85%).

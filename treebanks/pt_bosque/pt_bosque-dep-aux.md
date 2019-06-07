@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="pt_bosque-dep-aux-pass.html">aux:pass</a></tt>.
 
-2445 nodes (1%) are attached to their parents as `aux`.
+2443 nodes (1%) are attached to their parents as `aux`.
 
-2428 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.86625766871166.
+2433 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78305362259517.
 
-The following 14 pairs of parts of speech are connected with `aux`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2239; 92% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (88; 4% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (80; 3% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2254; 92% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (84; 3% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (80; 3% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,15 +43,15 @@ The following 14 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 aux	color:blue
-1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	de	de	ADP	_	_	3	mark	_	_
-3	crer	crer	VERB	_	VerbForm=Inf	1	xcomp	_	_
+1	É	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	crer	crer	VERB	_	VerbForm=Inf	0	root	_	_
 4	que	que	SCONJ	_	_	8	mark	_	_
 5	estivesse	estar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
-6	a	a	ADP	_	_	8	obl	_	_
+6	a	a	ADP	_	_	8	case	_	_
 7	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
-8	sincero	sincero	ADJ	_	Gender=Masc|Number=Sing	3	dep	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	_
+8	sincero	sincero	ADJ	_	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

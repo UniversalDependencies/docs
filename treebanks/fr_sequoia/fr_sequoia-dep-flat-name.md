@@ -12,9 +12,9 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_seq
 898 nodes (1%) are attached to their parents as `flat:name`.
 
 898 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12806236080178.
+Average distance between parent and child is 1.14031180400891.
 
-The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (704; 78% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (193; 21% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (693; 77% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (204; 23% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -84,10 +84,10 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 28	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	commissions	commission	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	_
 30	versées	verser	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	acl	_	_
-31	lors	lors	ADV	_	_	34	case	_	MWE=lors_de|MWEPOS=ADP
-32	de	de	ADP	_	_	31	fixed	_	_
+31	lors	lors	ADV	_	_	30	advmod	_	_
+32	de	de	ADP	_	_	34	case	_	_
 33	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	contrat	contrat	NOUN	_	Gender=Masc|Number=Sing	30	obl:mod	_	_
+34	contrat	contrat	NOUN	_	Gender=Masc|Number=Sing	31	obl:arg	_	_
 35	Bravo	Bravo	PROPN	_	_	34	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
 

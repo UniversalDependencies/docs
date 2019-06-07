@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	όμως	όμως	CCONJ	CCONJ	_	4	cc	_	_
 3	δεν	δεν	PART	PART	_	4	advmod	_	_
 4	μπορεί	μπορώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	να	να	PART	PART	_	6	aux	_	_
+5	να	να	AUX	AUX	_	6	aux	_	_
 6	ισχύει	ισχύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
 7	για	για	ADP	ADP	_	9	case	_	_
 8	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_

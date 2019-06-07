@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.136613).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.138338).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>that, as, of, if, after, while, by, for, because, in</em>
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (280; 97% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (5; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (4; 1% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (241; 83% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (242; 83% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 282 (97%) `SCONJ` nodes are leaves.
 

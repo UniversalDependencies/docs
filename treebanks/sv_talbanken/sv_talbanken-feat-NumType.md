@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Card`.
 
-1741 tokens (2%) have a non-empty value of `NumType`.
+1740 tokens (2%) have a non-empty value of `NumType`.
 495 types (3%) occur at least once with a non-empty value of `NumType`.
 483 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1741; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1740; 2% instances).
 
 ### `NUM`
 
-1741 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1740 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1733; 100%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1732; 100%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1741; 100% of non-empty `NumType`): <em>två, tre, en, 1, 20, 2, ett, 1970, 3, 10</em>
+* `Card` (1740; 100% of non-empty `NumType`): <em>två, tre, 1, en, 20, 2, ett, 1970, 3, 10</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (483) occur only with one value of `NumType`.
 

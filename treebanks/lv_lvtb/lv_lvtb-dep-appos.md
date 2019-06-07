@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 22	,	,	PUNCT	zc	_	29	punct	29:punct	LvtbNodeId=a-p3741-p13s1w22
 23	kuru	kurš	DET	pr0mpgn	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	25	det	25:det	LvtbNodeId=a-p3741-p13s1w23
 24	darbības	darbība	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	25	nmod	25:nmod:gen	LvtbNodeId=a-p3741-p13s1w24
-25	virziens	virziens	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	29:nsubj	LvtbNodeId=a-p3741-p13s1w25
+25	virziens	virziens	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	29:nsubj|31:nsubj|33:nsubj	LvtbNodeId=a-p3741-p13s1w25
 26	ir	būt	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	29	cop	29:cop|31:cop|33:cop	LvtbNodeId=a-p3741-p13s1w26
 27	nekustamo	nekustams	ADJ	armpgyp	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	28	amod	28:amod	LvtbNodeId=a-p3741-p13s1w27
 28	īpašumu	īpašums	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	29	nmod	29:nmod:gen|31:nmod:gen|33:nmod:gen	LvtbNodeId=a-p3741-p13s1w28
@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 18 appos	color:blue
-1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	discourse	5:discourse	LvtbNodeId=a-p3754-p23s1w1
+1	Ģirts	Ģirts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	discourse	5:discourse|11:discourse	LvtbNodeId=a-p3754-p23s1w1
 2	Kuplais	Kuplais	ADJ	afmsnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	flat:name	1:flat:name	LvtbNodeId=a-p3754-p23s1w2|SpaceAfter=No
 3	:	:	PUNCT	zo	_	1	punct	1:punct	LvtbNodeId=a-p3754-p23s1w3
 4	Vīzijas	vīzija	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	5:nsubj	LvtbNodeId=a-p3754-p23s1w4
@@ -105,7 +105,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 6	Augusts	Augusts	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	LvtbNodeId=a-p3380-p12s1w6
 7	visā	visa	DET	pg0fsln	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	10	det	10:det	LvtbNodeId=a-p3380-p12s1w7
 8	plaši	plaši	ADV	rpm	Degree=Pos	9	advmod	9:advmod	LvtbNodeId=a-p3380-p12s1w8
-9	sazarotajā	sazarot	VERB	vmnpdfslpsypn	Aspect=Perf|Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	10	amod	10:amod	LvtbNodeId=a-p3380-p12s1w9
+9	sazarotajā	sazarot	VERB	vmnpdfslpsypn	Aspect=Perf|Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	10:amod	LvtbNodeId=a-p3380-p12s1w9
 10	impērijā	impērija	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	11	obl	11:obl:loc	LvtbNodeId=a-p3380-p12s1w10
 11	ieviesa	ieviest	VERB	vmnist130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3380-p12s1w11
 12	vienotu	vienots	ADJ	arfsanp	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	LvtbNodeId=a-p3380-p12s1w12

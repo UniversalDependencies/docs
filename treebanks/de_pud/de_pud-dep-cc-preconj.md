@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	Sowohl	sowohl	CCONJ	CC	_	2	cc:preconj	_	_
 2	Zeitpunkt	Zeitpunkt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj:pass	_	_
 3	als	als	CCONJ	CC	_	5	cc	_	_
-4	auch	auch	ADV	RB	Degree=Pos	3	advmod	_	_
+4	auch	auch	ADV	RB	Degree=Pos	5	advmod	_	_
 5	Ablauf	Ablauf	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	_	_
 6	dieses	dies	DET	DT	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|Person=3	7	det	_	_
 7	Ereignisses	Ereignis	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing|Person=3	2	nmod	_	_
@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	das	der	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3	6	det	_	_
 6	Kabinett	Kabinett	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
-8	kurz	kurz	ADV	RB	Degree=Pos	9	advmod	_	_
+8	kurz	kurz	ADV	RB	Degree=Pos	14	advmod	_	_
 9	nachdem	nachdem	SCONJ	CC	_	14	mark	_	_
 10	deutsche	deutsch	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Person=3	11	amod	_	InflectionType=Strong|Proper=True
 11	Truppen	Truppe	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	14	nsubj	_	_
@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 19	sowohl	sowohl	CCONJ	CC	_	20	cc:preconj	_	_
 20	Deutschland	Deutschland	PROPN	NNP	Case=Acc|Gender=Neut|Number=Sing|Person=3	17	obj	_	_
 21	als	als	CCONJ	CC	_	23	cc	_	_
-22	auch	auch	ADV	RB	Degree=Pos	21	advmod	_	_
+22	auch	auch	ADV	RB	Degree=Pos	23	advmod	_	_
 23	Österreich	Österreich	PROPN	NNP	Case=Acc|Gender=Neut|Number=Sing|Person=3	20	conj	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	17	punct	_	_
 

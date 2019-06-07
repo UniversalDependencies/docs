@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-529 nodes (0%) are attached to their parents as `csubj`.
+528 nodes (0%) are attached to their parents as `csubj`.
 
-529 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.80529300567108.
+528 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.81439393939394.
 
-The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (221; 42% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (120; 23% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (113; 21% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (19; 4% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (220; 42% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (120; 23% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (113; 21% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (19; 4% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 17	し	する	AUX	XV	_	16	aux	_	SpaceAfter=No
 18	て	て	SCONJ	PC	_	16	mark	_	SpaceAfter=No
 19	もらう	もらう	AUX	AV	_	16	aux	_	SpaceAfter=No
-20	こと	こと	NOUN	NB	_	16	aux	_	SpaceAfter=No
+20	こと	こと	SCONJ	PNB	_	16	mark	_	SpaceAfter=No
 21	が	が	ADP	PS	_	16	case	_	SpaceAfter=No
 22	でき	できる	VERB	VV	_	0	root	_	SpaceAfter=No
 23	まし	ます	AUX	AV	_	22	aux	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	利用	利用	VERB	VV	_	10	csubj	_	SpaceAfter=No
 6	さ	する	AUX	XV	_	5	aux	_	SpaceAfter=No
 7	れる	れる	AUX	AV	_	5	aux	_	SpaceAfter=No
-8	こと	こと	NOUN	NB	_	5	aux	_	SpaceAfter=No
+8	こと	こと	SCONJ	PNB	_	5	mark	_	SpaceAfter=No
 9	が	が	ADP	PS	_	5	case	_	SpaceAfter=No
 10	多い	多い	ADJ	JJ	_	11	acl	_	SpaceAfter=No
 11	業者	業者	NOUN	NN	_	13	obl	_	SpaceAfter=No

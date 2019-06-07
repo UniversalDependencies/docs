@@ -12,20 +12,20 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 61244 tokens (12%) have a non-empty value of `VerbForm`.
 14762 types (24%) occur at least once with a non-empty value of `VerbForm`.
 5305 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (40591; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14244; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6409; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (40605; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (14230; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6409; 1% instances).
 
 ### `VERB`
 
-40591 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+40605 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37632; 93%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32525; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30028; 74%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21954; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21877; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37644; 93%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32537; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (30037; 74%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21961; 54%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21884; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (42; 0% of non-empty `VerbForm`): <em>počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</em>
-* `Fin` (22406; 55% of non-empty `VerbForm`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
-* `Inf` (7614; 19% of non-empty `VerbForm`): <em>mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</em>
-* `Part` (10529; 26% of non-empty `VerbForm`): <em>měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</em>
+* `Fin` (22413; 55% of non-empty `VerbForm`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `Inf` (7616; 19% of non-empty `VerbForm`): <em>mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</em>
+* `Part` (10534; 26% of non-empty `VerbForm`): <em>měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</em>
 
 <table>
   <tr><th>Paradigm <i>chtít</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -58,16 +58,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-14244 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+14230 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11794; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11531; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11290; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9709; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 64%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7983; 56%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7901; 55%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11785; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11519; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11278; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (9701; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9072; 64%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7976; 56%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7893; 55%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (3; 0% of non-empty `VerbForm`): <em>byvše, jsouc, jsouce</em>
-* `Fin` (11161; 78% of non-empty `VerbForm`): <em>je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</em>
-* `Inf` (631; 4% of non-empty `VerbForm`): <em>být, býti, pěstovat, vyžadovat</em>
-* `Part` (2449; 17% of non-empty `VerbForm`): <em>byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</em>
+* `Fin` (11154; 78% of non-empty `VerbForm`): <em>je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</em>
+* `Inf` (629; 4% of non-empty `VerbForm`): <em>být, býti</em>
+* `Part` (2444; 17% of non-empty `VerbForm`): <em>byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -138,14 +138,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (5194; 90%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1216; 65%),
+<tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (5197; 90%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1220; 65%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (360; 67%),
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 65%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (31; 89%),
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (21; 84%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 56%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (5; 63%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
 

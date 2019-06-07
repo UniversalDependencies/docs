@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-134155 tokens (67%) have a non-empty value of `Number`.
-26962 types (92%) occur at least once with a non-empty value of `Number`.
-7539 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40321; 20% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (36160; 18% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (20337; 10% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18490; 9% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7085; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6416; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (4314; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1032; 1% instances).
+134281 tokens (67%) have a non-empty value of `Number`.
+26977 types (92%) occur at least once with a non-empty value of `Number`.
+7512 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40361; 20% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (36188; 18% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (20357; 10% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18506; 9% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7095; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6422; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (4318; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1034; 1% instances).
 
 ### `NOUN`
 
-40321 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+40361 <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (12331; 31% of non-empty `Number`): <em>fratres, rebus, homines, hominum, diebus, discipuli, dies, litteras, locis, castra</em>
-* `Sing` (27990; 69% of non-empty `Number`): <em>dei, deus, die, deo, domini, filius, re, deum, dominus, causa</em>
+* `Plur` (12344; 31% of non-empty `Number`): <em>fratres, rebus, homines, hominum, diebus, discipuli, dies, litteras, locis, castra</em>
+* `Sing` (28017; 69% of non-empty `Number`): <em>dei, deus, die, deo, domini, filius, re, deum, dominus, causa</em>
 * `EMPTY` (76): <em>pascha, rabbi, semis, fas, manna, Alpha, Omega, caracter, instar, rabboni</em>
 
 <table>
@@ -36,20 +36,20 @@ The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.
 
 ### `VERB`
 
-36160 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+36188 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27160; 75%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27112; 75%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27112; 75%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27032; 75%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (19960; 55%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19659; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27180; 75%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27132; 75%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27132; 75%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (27049; 75%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (19981; 55%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19675; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (12354; 34% of non-empty `Number`): <em>dicentes, dixerunt, nolite, venerunt, dicebant, habent, dicunt, possent, habentes, possunt</em>
-* `Sing` (23806; 66% of non-empty `Number`): <em>dixit, ait, dicit, dico, venit, dicens, factum, habet, misit, potest</em>
-* `EMPTY` (4499): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
+* `Plur` (12367; 34% of non-empty `Number`): <em>dicentes, dixerunt, nolite, venerunt, dicebant, habent, dicunt, possent, habentes, possunt</em>
+* `Sing` (23821; 66% of non-empty `Number`): <em>dixit, ait, dicit, dico, venit, dicens, factum, habet, misit, potest</em>
+* `EMPTY` (4502): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicebam</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicebat</em></td><td><em>dicebant</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicebat</em></td><td><em>dicebant, dicabant</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dicebatur</em></td><td><em>dicebantur</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicerem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>diceres</em></td><td><em>diceretis</em></td></tr>
@@ -99,7 +99,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicet</em></td><td><em>dicent</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dicetur</em></td><td><em>dicentur</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dixerat</em></td><td><em>dixerant</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicit</em></td><td><em>dicunt</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicit</em></td><td><em>dicunt, dicant</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>dicitur</em></td><td><em>dicuntur</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicam</em></td><td><em>dicamus</em></td></tr>
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dicas</em></td><td><em>dicatis</em></td></tr>
@@ -110,14 +110,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-20337 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+20357 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16798; 83%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16798; 83%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16814; 83%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16814; 83%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (7812; 38% of non-empty `Number`): <em>illis, haec, omnia, his, omnes, suis, illos, illi, omnibus, suos</em>
-* `Sing` (12525; 62% of non-empty `Number`): <em>hoc, nihil, illum, illi, ille, suam, hic, meum, illo, nemo</em>
+* `Plur` (7821; 38% of non-empty `Number`): <em>illis, haec, omnia, his, omnes, suis, illos, illi, omnibus, suos</em>
+* `Sing` (12536; 62% of non-empty `Number`): <em>hoc, nihil, illum, illi, ille, suam, hic, meum, illo, nemo</em>
 * `EMPTY` (15): <em>nequam, frugi</em>
 
 <table>
@@ -143,14 +143,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-18490 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+18506 <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13463; 73%), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11708; 63%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13472; 73%), <tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11718; 63%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (6199; 34% of non-empty `Number`): <em>qui, quae, vobis, vos, nos, eos, eis, eorum, nobis, se</em>
-* `Sing` (12291; 66% of non-empty `Number`): <em>qui, me, eum, eius, quod, te, ego, mihi, quid, se</em>
+* `Plur` (6207; 34% of non-empty `Number`): <em>qui, quae, vobis, vos, nos, eos, eis, eorum, nobis, se</em>
+* `Sing` (12299; 66% of non-empty `Number`): <em>qui, me, eum, eius, quod, te, ego, mihi, quid, se</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -196,15 +196,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-7085 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+7095 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7085; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7033; 99%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5992; 85%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5958; 84%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5515; 78%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5014; 71%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7094; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7043; 99%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 85%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5962; 84%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5522; 78%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5019; 71%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1969; 28% of non-empty `Number`): <em>sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</em>
-* `Sing` (5116; 72% of non-empty `Number`): <em>est, erat, sit, sum, esset, fuit, erit, es, fuerit, fuerat</em>
-* `EMPTY` (751): <em>esse, fore, fuisse</em>
+* `Plur` (1971; 28% of non-empty `Number`): <em>sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</em>
+* `Sing` (5124; 72% of non-empty `Number`): <em>est, erat, sit, sum, esset, fuit, erit, es, fuerit, fuerat</em>
+* `EMPTY` (752): <em>esse, fore, fuisse, iri</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -251,15 +251,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PROPN`
 
-6416 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
+6422 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5032; 78%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5035; 78%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (145; 2% of non-empty `Number`): <em>Hierosolymis, Hierosolyma, Athenas, Athenis, Philippis, Alpes, Cicerones, Sardis, Sodomis, Catulis</em>
-* `Sing` (6271; 98% of non-empty `Number`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</em>
-* `EMPTY` (629): <em>Hierusalem, Israhel, David, Ioseph, Abraham, Iacob, Capharnaum, Isaac, Nazareth, Elisabeth</em>
+* `Sing` (6277; 98% of non-empty `Number`): <em>Iesus, Iesu, Caesar, Christi, Iesum, Christo, Petrus, Christus, Paulus, Christum</em>
+* `EMPTY` (630): <em>Hierusalem, Israhel, David, Ioseph, Abraham, Iacob, Capharnaum, Isaac, Nazareth, Elisabeth</em>
 
 <table>
   <tr><th>Paradigm <i>Hierosolyma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -273,16 +273,16 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Hierosolyma</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (892) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (891) occur only with one value of `Number`.
 
 ### `DET`
 
-4314 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+4318 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (1374; 32% of non-empty `Number`): <em>omnes, omnibus, his, omnia, omnium, illorum, haec, iis, illis, ipsos</em>
-* `Sing` (2940; 68% of non-empty `Number`): <em>hoc, omni, omnis, ipsum, omnem, eius, huius, illa, eo, hac</em>
+* `Sing` (2944; 68% of non-empty `Number`): <em>hoc, omni, omnis, ipsum, omnem, eius, huius, illa, eo, hac</em>
 * `EMPTY` (13): <em>aliquot</em>
 
 <table>
@@ -319,13 +319,13 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `NUM`
 
-1032 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
+1034 <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> tokens (62% of all `NUM` tokens) have a non-empty value of `Number`.
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (541; 52% of non-empty `Number`): <em>duo, milia, duos, tribus, tres, duobus, duas, milibus, milium, duabus</em>
-* `Sing` (491; 48% of non-empty `Number`): <em>unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</em>
-* `EMPTY` (643): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
+* `Plur` (542; 52% of non-empty `Number`): <em>duo, milia, duos, tribus, tres, duobus, duas, milibus, milium, duabus</em>
+* `Sing` (492; 48% of non-empty `Number`): <em>unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</em>
+* `EMPTY` (645): <em>septem, duodecim, quattuor, quinque, decem, sex, triginta, centum, viginti, octo</em>
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -354,14 +354,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5425; 72%),
-<tt>VERB --[<tt><a href="la_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4679; 51%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4503; 98%),
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3905; 88%),
+<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5405; 72%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4682; 51%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4508; 98%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4011; 88%),
 <tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3671; 92%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3502; 68%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3423; 96%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3352; 87%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (3328; 97%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3504; 68%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3425; 96%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3355; 87%),
+<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (3331; 97%),
 <tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3243; 51%).
 

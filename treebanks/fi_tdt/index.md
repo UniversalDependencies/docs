@@ -48,7 +48,7 @@ UD_Finnish-TDT is based on the Turku Dependency Treebank (TDT), a broad-coverage
 
 
 
-The treebank contains texts from Wikipedia articles, Wikinews articles, University online news, Blog entries, Student magazine articles, Grammar examples, Europarl speeches, JRC-Acquis legislation, Financial news, and Fiction sourced from 674 individual documents. The original annotation of the treebank was in Stanford Dependencies, including secondary dependencies, and fully manually checked morphological annotation. The treebank is also accompanied by a PropBank annotation (http://turkunlp.github.io/Finnish_PropBank/) and a dependency parser pipeline substantially outperforming the baseline UDPipe model (http://turkunlp.github.io/Finnish-dep-parser/).
+The treebank contains texts from Wikipedia articles, Wikinews articles, University online news, Blog entries, Student magazine articles, Grammar examples, Europarl speeches, JRC-Acquis legislation, Financial news, and Fiction sourced from 674 individual documents. The original annotation of the treebank was in Stanford Dependencies, including secondary dependencies, and fully manually checked morphological annotation. The treebank is also accompanied by a PropBank annotation (http://turkunlp.github.io/Finnish_PropBank/) and a dependency parser pipeline substantially outperforming the baseline UDPipe model (https://turkunlp.org/Turku-neural-parser-pipeline/).
 
 
 ## Acknowledgments
@@ -83,11 +83,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 
 <ul>
-<li>This corpus contains 15136 sentences and 201952 tokens.</li>
+<li>This corpus contains 15136 sentences, 201950 tokens and 202194 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28668 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 28666 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -95,10 +95,12 @@ We thank all the authors who kindly allowed us to include their texts into the t
 </ul>
 
 <ul>
-<li>This corpus contains 2275 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, ns., n., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
+<li>This corpus contains 2272 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, n., ns., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
 </ul>
 
 <ul>
+<li>This corpus contains 244 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 30 types of multi-word tokens. Examples: ettei, etten, muttei, etteivät, ellei, miksei, jollei, emmä, ettemme, ellemme, vaikkei, vaikkeivat, etteikö, elleivät, ettet, mikseivät, mutten, vaikken, Miksen, Miksette, Oonksmä, Voisiksä, ellen, ettem, ettenkö, jottei, jotteivät, jotten, mutteivät, muttet.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,7 +116,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 </ul>
 
 <ul>
-<li>This corpus contains 48 lemmas tagged as pronouns (PRON): ainoa, ainut, eräs, harva, hän, itse, joka, jokainen, jokin, joku, jokunen, jompikumpi, jonne, kaikkensa, kaikki, ken, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, ma, mikin, mikä, mikä#lienee#jokin, mikään, minä, molemmat, mones, moni, monta, muu, muuan, muutama, nuo, sama, se, sinä, sää, toinen, tuo, tämä, usea, useampi, yksi, yksikään</li>
+<li>This corpus contains 49 lemmas tagged as pronouns (PRON): ainoa, ainut, eräs, harva, hän, itse, itsensä, joka, jokainen, jokin, joku, jokunen, jompikumpi, jonne, kaikkensa, kaikki, ken, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, ma, mikin, mikä, mikä#lienee#jokin, mikään, minä, molemmat, mones, moni, monta, muu, muuan, muutama, nuo, sama, se, sen, sinä, sää, toinen, tuo, tämä, usea, yksi, yksikään</li>
 </ul>
 
 <ul>
@@ -125,11 +127,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): aikoa, ei, että#ei, jos#ei, joutua, mahtaa, olla, olla#minä, pitää, saattaa, taitaa, tarvita, täytyä, voida</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): aikoa, ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, täytyä, voida</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: aikoa, ei, että#ei, jos#ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, voida</li>
+<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: aikoa, ei, joutua, mahtaa, olla, pitää, saattaa, taitaa, tarvita, voida</li>
 </ul>
 
 <ul>
@@ -139,8 +141,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: on, ei, oli, ovat, ole, voi, olisi, en, eivät, olivat</li>
-    <li>VERB: eikä, tulee, saa, sai, tuli, ettei, on, sanoi, ottaa, sanoo</li>
+    <li>AUX: on, ei, oli, ovat, ole, voi, olisi, en, eivät, eikä</li>
+    <li>VERB: tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</li>
   </ul>
   </li>
 </ul>
@@ -176,13 +178,13 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Plur
     <ul>
       <li>ADJ: useita, uusia, hyvät, kolmansien, uudet, erilaisia, uusien, hyviä, kansalliset, ensimmäiset</li>
-      <li>AUX-Fin: ovat, eivät, olivat, voivat, olemme, emme, on, voimme, olisivat, ei</li>
+      <li>AUX-Fin: ovat, eivät, olivat, voivat, olemme, emme, on, voimme, olisivat, eivätkä</li>
       <li>AUX-Part: ollut, olleet, voineet, olevansa, olleita, oltu, saattaneet, tainneet, olevani, olevanne</li>
       <li>NOUN: jäsenvaltioiden, eläinten, ihmiset, tietojen, maiden, vuosina, ihmisiä, lapset, ihmisten, naisten</li>
-      <li>NUM: tuhansia, kymmeniä, satoja, satojen, kymmenien, miljoonia, kahdet, miljoonien, tuhansien, yhdet</li>
+      <li>NUM: tuhansia, kymmeniä, satoja, satojen, kymmenien, miljoonia, miljoonien, kahdet, tuhansien, yhdet</li>
       <li>PRON: ne, jotka, niiden, he, meidän, niitä, joita, me, heidän, joiden</li>
       <li>PROPN: Yhdysvaltain, Yhdysvalloissa, Yhdysvallat, Yhdysvaltojen, Mikkelinsaarilla, Mikkelinsaarten, Yhdysvalloista, Yhdysvaltoja, kokkidiostaattien, Alankomaat</li>
-      <li>VERB-Fin: saavat, saivat, tulevat, koskevat, kuuluvat, liittyvät, etteivät, eivätkä, antavat, tekevät</li>
+      <li>VERB-Fin: saavat, saivat, tulevat, koskevat, kuuluvat, liittyvät, antavat, tekevät, jäivät, kertovat</li>
       <li>VERB-Part: koskevat, olevat, koskevien, olevien, liittyviä, olevia, koskevia, koskevista, saaneet, tarkoitettujen</li>
     </ul>
   </li>
@@ -192,16 +194,16 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Sing
     <ul>
       <li>ADJ: hyvä, arvoisa, ensimmäinen, uusi, uuden, hyvää, ensimmäisen, oman, uutta, pieni</li>
-      <li>AUX-Fin: on, ei, oli, olisi, voi, en, olen, olin, pitäisi, voisi</li>
+      <li>AUX-Fin: on, ei, oli, olisi, voi, en, eikä, olen, olin, pitäisi</li>
       <li>AUX-Inf: olla, olemaan, pitää, ollessa, olemalla, ollen, ollessaan, voidakseen, joutua, olemassa</li>
       <li>AUX-Part: ollut, olevan, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu, joutunut</li>
       <li>NOUN: vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</li>
-      <li>NUM: kaksi, kolme, yksi, yhden, viisi, kolmen, neljä, kahden, miljoonaa, kymmenen</li>
-      <li>PRON: se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, mitä</li>
-      <li>PROPN: euroopan, Turun, suomen, EU:n, Suomessa, the, Helsingin, Mithridates, Venäjän, Kiinan</li>
-      <li>VERB-Fin: eikä, tulee, sai, tuli, ettei, on, sanoi, saa, ottaa, kertoo</li>
+      <li>NUM: kaksi, kolme, yksi, yhden, viisi, kolmen, miljoonaa, neljä, kahden, kymmenen</li>
+      <li>PRON: se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, kaikki</li>
+      <li>PROPN: euroopan, Turun, suomen, EU:n, Suomessa, the, EY, Helsingin, Mithridates, Venäjän</li>
+      <li>VERB-Fin: tulee, sai, tuli, on, sanoi, saa, ottaa, kertoo, kertoi, sanoo</li>
       <li>VERB-Inf: tehdä, saada, ottaa, käyttää, antaa, mennä, olemassa, pitää, sanoa, olla</li>
-      <li>VERB-Part: tehty, olevan, saanut, tullut, s., tehnyt, koskevan, annettu, annetun, oleva</li>
+      <li>VERB-Part: tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, annetun, oleva</li>
     </ul>
   </li>
 </ul>
@@ -249,9 +251,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>AUX-Inf: olemalla</li>
       <li>AUX-Part: olevalla</li>
       <li>NOUN: perusteella, tavalla, avulla, alueella, hetkellä, puolella, matkalla, tasolla, kaudella, markkinoilla</li>
-      <li>NUM: yhdellä, kahdella, kolmella, miljoonalla, neljällä, sadalla, viidellä, kuudella, tuhannella, kahdeksalla</li>
+      <li>NUM: yhdellä, kahdella, miljoonalla, kolmella, neljällä, sadalla, viidellä, kuudella, tuhannella, kahdeksalla</li>
       <li>PRON: tällä, sillä, jolla, joilla, meillä, minulla, hänellä, samalla, niillä, näillä</li>
-      <li>PROPN: venäjällä, Mikkelinsaarilla, Accenturella, Tampereella, Arduinolla, Balilla, Balkanilla, Boskärillä, Islandilla, Jalmarillakin</li>
+      <li>PROPN: venäjällä, Mikkelinsaarilla, Accenturella, Tampereella, Arduinolla, Yliopistonmäellä, Balilla, Balkanilla, Boskärillä, Islandilla</li>
       <li>VERB-Inf: tekemällä, ottamalla, painamalla, analysoimalla, auttamalla, keräämällä, lisäämällä, muuttamalla, pelaamalla, poistamalla</li>
       <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, ei-hyväksytyllä, haluamallasi, johtamalla, järjestämällä, koskevalla</li>
     </ul>
@@ -317,7 +319,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>ADJ: uuden, ensimmäisen, oman, toisen, kyseisen, kansainvälisen, kolmansien, erityisen, suomalaisen, hyvän</li>
       <li>AUX-Part: olevan, olleen, olevansa, voivan, aikovansa, olevaan, olevani, voivansa, voivasi</li>
       <li>NOUN: vuoden, yhteisön, komission, yliopiston, artiklan, asetuksen, neuvoston, ajan, jäsenvaltioiden, maan</li>
-      <li>NUM: yhden, kolmen, kahden, viiden, neljän, miljoonan, kuuden, parin, kymmenen, kahdeksan</li>
+      <li>NUM: yhden, kolmen, kahden, viiden, miljoonan, neljän, kuuden, parin, kymmenen, kahdeksan</li>
       <li>PRON: sen, tämän, hänen, jonka, niiden, meidän, heidän, minun, joiden, muiden</li>
       <li>PROPN: euroopan, Turun, suomen, EU:n, Helsingin, Yhdysvaltain, Venäjän, Kiinan, Nokian, Espanjan</li>
       <li>VERB-Part: olevan, koskevan, annetun, koskevien, olevien, tehdyn, tarkoitettujen, tapahtuvan, mainitun, käsittelevän</li>
@@ -344,14 +346,14 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Ine
     <ul>
-      <li>ADJ: ensimmäisessä, parlamentaarisessa, virallisessa, omassa, toisessa, uudessa, pienessä, suuressa, tavanomaisessa, hyvässä</li>
+      <li>ADJ: ensimmäisessä, parlamentaarisessa, virallisessa, omassa, toisessa, uudessa, pienessä, tavanomaisessa, hyvässä, suuressa</li>
       <li>AUX-Inf: ollessa, ollessaan, olemassa, ollessani, olleessa, ollessamme</li>
       <li>NOUN: yhteydessä, artiklassa, liitteessä, vaiheessa, kyseessä, maassa, tapauksessa, käytännössä, alussa, asetuksessa</li>
       <li>NUM: yhdessä, kahdessa, 1:ssä, kolmessa, puolessa, kahdeksassa, 30:ssä, 37:ssä, 3:ssakin, kolmessatoista</li>
       <li>PRON: jossa, tässä, siinä, joissa, missä, kaikissa, jossain, niissä, näissä, jossakin</li>
       <li>PROPN: Suomessa, Helsingissä, Euroopassa, Brysselissä, Yhdysvalloissa, Ruotsissa, Turussa, Irakissa, Kiinassa, Italiassa</li>
       <li>SYM: SRT-8:ssa</li>
-      <li>VERB-Inf: olemassa, kuluessa, tarvittaessa, voittamassa, halutessaan, lähestyessä, tekemässä, alkaessa, miettiessään, saapuessaan</li>
+      <li>VERB-Inf: olemassa, kuluessa, tarvittaessa, tulossa, voittamassa, halutessaan, lähestyessä, menossa, tekemässä, alkaessa</li>
       <li>VERB-Part: olevassa, annetussa, käytettävissä, koskevissa, koskevassa, pidetyssä, järjestämässä, nähtävissä, olemassa, sijaitsevassa</li>
     </ul>
   </li>
@@ -364,7 +366,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>AUX-Inf: ollen, aikoen</li>
       <li>NOUN: tavoin, osin, käsin, välein, keinoin, mielin, silmin, voimin, turvin, lain</li>
       <li>NUM: kaksin</li>
-      <li>PRON: monin, samoin, kaikin, molemmin, minkä, useammin</li>
+      <li>PRON: monin, samoin, kaikin, molemmin, minkä</li>
       <li>PROPN: Helmin</li>
       <li>VERB-Inf: ottaen, lukien, johtuen, noudattaen, liittyen, käyttäen, pitäen, riippuen, katsoen, poiketen</li>
       <li>VERB-Part: edellytetyin, soveltuvin, säädetyin</li>
@@ -377,10 +379,10 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <ul>
       <li>ADJ: hyvä, arvoisa, ensimmäinen, uusi, pieni, oma, suuri, suurin, tärkeä, paras</li>
       <li>AUX-Part: ollut, olleet, voinut, oltava, ollu, pitänyt, oltu, joutunut, saattanut, voinu</li>
-      <li>NOUN: mies, komissio, artikla, N:o, osa, asia, EY, puhemies, professori, ihmiset</li>
+      <li>NOUN: mies, komissio, artikla, N:o, osa, asia, puhemies, professori, ihmiset, jäsen</li>
       <li>NUM: kaksi, kolme, yksi, viisi, neljä, pari, yhdeksän, kuusi, kymmenen, puoli</li>
       <li>PRON: se, hän, joka, tämä, ne, jotka, kaikki, minä, he, mikä</li>
-      <li>PROPN: the, Mithridates, Pekka, New, of, Mårten, Suomi, Eurooppa, Kaijasilta, Simonides</li>
+      <li>PROPN: the, EY, Mithridates, Pekka, New, of, Mårten, Suomi, Eurooppa, Kaijasilta</li>
       <li>VERB-Part: tehty, saanut, tullut, s., tehnyt, annettu, koskevat, oleva, olevat, antanut</li>
     </ul>
   </li>
@@ -452,7 +454,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Sup
     <ul>
       <li>ADJ: suurin, paras, suurimmat, korkein, suurimman, parasta, vanhin, tärkein, useimmat, parhaan</li>
-      <li>ADV: helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin, vilkkaimmin</li>
+      <li>ADV: parhaiten, helpoimmin, nopeimmin, yleisimmin, ahkerimmin, ilmeisimmin, keskeisimmin, taitavimmin, todennäköisimmin, vaikeimmin</li>
       <li>VERB-Part: menestynein, myydyin, saastuneimpia</li>
     </ul>
   </li>
@@ -465,8 +467,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: ei, en, eivät, emme, et, älä, eikä, eikö, eihän, enkä</li>
-      <li>VERB-Fin: eikä, ettei, ei, enkä, etten, etteivät, muttei, eivätkä, en, ellei</li>
+      <li>AUX-Fin: ei, en, eivät, eikä, emme, et, enkä, älä, eikö, eivätkä</li>
+      <li>VERB-Fin: ei, en, et, eivät, eikö, älä, Eikä, Eipäs, Emmäkään, Enkä</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +494,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: älä, älkää, ole, olkaa, älkäämme, älköön</li>
+      <li>AUX-Fin: älä, älkää, ole, olkaa, älkäämme, älköön, äläkä</li>
       <li>VERB-Fin: lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</li>
     </ul>
   </li>
@@ -545,10 +547,10 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, en, eivät, olivat, olen</li>
+      <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, en, eivät, eikä, olivat</li>
       <li>AUX-Inf: olla, olemaan, pitää, ollessa, olemalla, ollen, ollessaan, voidakseen, joutua, olemassa</li>
       <li>AUX-Part: ollut, olevan, olleet, voinut, ollu, olleen, pitänyt, olevansa, joutunut, saattanut</li>
-      <li>VERB-Fin: eikä, tulee, sai, tuli, ettei, on, sanoi, saa, ottaa, sanoo</li>
+      <li>VERB-Fin: tulee, sai, tuli, on, sanoi, saa, ottaa, sanoo, kertoo, kertoi</li>
       <li>VERB-Inf: tehdä, saada, ottaa, käyttää, antaa, mennä, olemassa, pitää, sanoa, olla</li>
       <li>VERB-Part: saanut, olevan, tullut, s., tehnyt, koskevan, koskevat, oleva, olevat, antanut</li>
     </ul>
@@ -586,6 +588,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Ind
     <ul>
+      <li>NUM: yhdessäkään</li>
       <li>PRON: kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</li>
     </ul>
   </li>
@@ -618,7 +621,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: joka, jotka, jonka, jossa, mitä, joita, jota, joiden, mikä, joissa</li>
+      <li>PRON: joka, jotka, jonka, jossa, joita, jota, mitä, joiden, mikä, joissa</li>
     </ul>
   </li>
 </ul>
@@ -630,6 +633,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>Card
     <ul>
+      <li>ADJ: 25:ttä</li>
       <li>NUM: 1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</li>
     </ul>
   </li>
@@ -664,7 +668,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>0
     <ul>
       <li>AUX-Fin: on, voi, pitäisi, pitää, olisi, oli, voisi, täytyy, piti, onkin</li>
-      <li>VERB-Fin: on, saa, tulee, ei, tuli, tuntuu, sai, kannattaa, oli, tulisi</li>
+      <li>VERB-Fin: on, saa, tulee, tuli, ei, tuntuu, sai, kannattaa, oli, tulisi</li>
     </ul>
   </li>
 </ul>
@@ -672,9 +676,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: en, olen, olin, olemme, emme, olisin, voimme, voin, enkä, voisin</li>
+      <li>AUX-Fin: en, olen, olin, olemme, emme, enkä, olisin, voimme, voin, voisin</li>
       <li>PRON: minä, meidän, mä, me, minun, minua, meillä, minulla, minut, minulle</li>
-      <li>VERB-Fin: haluaisin, haluan, sain, enkä, huomasin, etten, toivon, ajattelin, näin, ostin</li>
+      <li>VERB-Fin: haluaisin, haluan, sain, huomasin, toivon, ajattelin, näin, ostin, sanoin, kävin</li>
     </ul>
   </li>
 </ul>
@@ -682,7 +686,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: et, olet, älä, voit, olisit, voitte, älkää, ole, olette, ette</li>
+      <li>AUX-Fin: et, olet, älä, voit, olisit, voitte, älkää, ette, ole, olette</li>
       <li>PRON: sinä, sä, sinun, teitä, te, sinua, sinulle, teille, sinulla, sinut</li>
       <li>VERB-Fin: lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</li>
     </ul>
@@ -692,9 +696,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, eivät, olivat, voivat, onko</li>
+      <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, eivät, eikä, olivat, voivat</li>
       <li>PRON: hän, hänen, he, heidän, hänet, häntä, hänelle, hänellä, hänestä, heitä</li>
-      <li>VERB-Fin: eikä, sai, tulee, ettei, tuli, sanoi, ottaa, on, kertoo, sanoo</li>
+      <li>VERB-Fin: sai, tulee, tuli, sanoi, ottaa, on, kertoo, sanoo, kertoi, alkoi</li>
     </ul>
   </li>
 </ul>
@@ -709,8 +713,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Plur
     <ul>
       <li>ADJ: parhaamme, tosissamme, vakavissamme</li>
-      <li>ADP: kanssa, viereemme, vierellänne</li>
-      <li>ADV: edessämme, keskuudessamme, kanssanne, eteemme, kanssamme, mielellämme, mukaamme, mukanamme, varuillamme, yläpuolellamme</li>
+      <li>ADP: kanssa, vierellänne</li>
+      <li>ADV: edessämme, keskuudessamme, kanssanne, eteemme, kanssamme, mielellämme, mukaamme, mukanamme, varuillamme, viereemme</li>
       <li>AUX-Inf: ollessamme, voidaksemme</li>
       <li>AUX-Part: olevanne</li>
       <li>NOUN: joukkueemme, mielestämme, elämässämme, lapsemme, elämämme, elämästämme, esittelijäämme, kansalaisillemme, kodistamme, kulttuurissamme</li>
@@ -726,8 +730,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Sing
     <ul>
       <li>ADJ: kaltaiseni, ikäiseni, omiasi, Minunlaiseni, omani, omiani, omieni, omistani, parhaani</li>
-      <li>ADP: puolestani, kanssas, kanssasi, luokses, taakse, takiani, vierelleni</li>
-      <li>ADV: mukanani, pahoillani, onnekseni, ympärilleni, edessäni, sisälläni, vieressäsi, Kanssasi, Vastaani, Ylleni</li>
+      <li>ADP: kanssas, kanssasi, puolestani, taakse, takiani</li>
+      <li>ADV: mukanani, pahoillani, onnekseni, ympärilleni, edessäni, kanssani, sisälläni, vieressäsi, Kanssasi, Vastaani</li>
       <li>AUX-Inf: ollessani, Ollaksesi</li>
       <li>AUX-Part: olevani, olevinani, voivani, voivasi</li>
       <li>NOUN: mielestäni, silmäni, käteni, mieheni, ystäväni, pääni, elämäni, lapseni, puolisoni, kollegani</li>
@@ -748,11 +752,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Yes
         <ul>
           <li>ADJ: ns., nk., ookoo, ev.-lut.</li>
-          <li>ADV: mm., esim., jne, n., oik., ns., esim, jne., ym</li>
+          <li>ADV: mm., esim., n., jne, oik., yms, esim, jne., ym</li>
           <li>INTJ: Huom</li>
-          <li>NOUN: N:o, EY, a, eaa., b, ETY, kpl, oy, cm, g</li>
+          <li>NOUN: N:o, eaa., a, b, ETY, kpl, oy, cm, g, A:n</li>
           <li>NUM: milj., u18</li>
-          <li>PROPN: EU:n, EKP:n, A., YK:n, EKP, SDP:n, MTV3, EU, EU:, SDP</li>
+          <li>PROPN: EU:n, EY, EKP:n, A., YK:n, EKP, SDP:n, MTV3, EU, EU:</li>
           <li>VERB-Fin: huom</li>
           <li>VERB-Part: s., Em., k.</li>
         </ul>
@@ -813,8 +817,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </li>
       <li>Ka
         <ul>
-          <li>AUX-Fin: eikä, enkä, Eivätkä</li>
-          <li>VERB-Fin: eikä, enkä, eivätkä, emmekä, etkä, äläkä</li>
+          <li>AUX-Fin: eikä, enkä, eivätkä, emmekä, etkä, äläkä</li>
+          <li>VERB-Fin: Eikä, Enkä</li>
         </ul>
       </li>
       <li>Kaan
@@ -825,7 +829,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
           <li>AUX-Fin: olekaan, olikaan, olisikaan, onkaan, voisikaan, lieneekään, olekkaan, olenkaan, ovatkaan, pidäkään</li>
           <li>AUX-Part: ollutkaan</li>
           <li>NOUN: epäilystäkään, hetkeksikään, kertaakaan, Internet-myyntikään, Kilpailijoillekaan, Päivääkään, aavistustakaan, aikaakaan, alentamiseenkaan, askeleenkaan</li>
-          <li>NUM: yhtäkään, yhdeltäkään</li>
+          <li>NUM: yhtäkään, yhdeltäkään, yhdessäkään</li>
           <li>PRON: muutakaan, muukaan, sekään, senkään, minäkään, tänäkään, Monetkaan, ainoatakaan, muustakaan, mäkään</li>
           <li>PROPN: Paavokaa, Suomenkaan, Teltsustakaan</li>
           <li>VERB-Fin: Emmäkään, hakeudukaan, haluaisikaan, haluakaan, huomaatkaan, huomasikaan, kartukaan, keksitäkään, kuolekaan, kävikään</li>
@@ -1037,7 +1041,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>3
         <ul>
           <li>AUX-Inf: olemaan, olemalla, olemassa, olemasta, olematta</li>
-          <li>VERB-Inf: olemassa, tekemään, katsomaan, käyttämään, etsimään, hoitamaan, istumaan, opiskelemaan, ottamaan, puhumaan</li>
+          <li>VERB-Inf: olemassa, tekemään, katsomaan, tulossa, käyttämään, etsimään, hoitamaan, istumaan, opiskelemaan, ottamaan</li>
         </ul>
       </li>
     </ul>
@@ -1080,8 +1084,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>1
         <ul>
           <li>ADJ: kaltaiseni, ikäiseni, Minunlaiseni, omani, omiani, omieni, omistani, parhaamme, parhaani, tosissamme</li>
-          <li>ADP: puolestani, kanssa, taakse, takiani, viereemme, vierelleni</li>
-          <li>ADV: mukanani, pahoillani, edessämme, keskuudessamme, onnekseni, ympärilleni, edessäni, sisälläni, Vastaani, Ylleni</li>
+          <li>ADP: puolestani, kanssa, taakse, takiani</li>
+          <li>ADV: mukanani, pahoillani, edessämme, keskuudessamme, onnekseni, ympärilleni, edessäni, kanssani, sisälläni, Vastaani</li>
           <li>AUX-Inf: ollessani, ollessamme, voidaksemme</li>
           <li>AUX-Part: olevani, olevinani, voivani</li>
           <li>NOUN: mielestäni, silmäni, joukkueemme, käteni, mieheni, mielestämme, ystäväni, pääni, elämäni, lapseni</li>
@@ -1094,8 +1098,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>2
         <ul>
           <li>ADJ: omiasi</li>
-          <li>ADP: kanssas, kanssasi, luokses, vierellänne</li>
-          <li>ADV: kanssanne, vieressäsi, Kanssasi, tosissasi, vierestäsi, yllesi, ympärillesi</li>
+          <li>ADP: kanssas, kanssasi, vierellänne</li>
+          <li>ADV: kanssanne, vieressäsi, Kanssasi, luokses, tosissasi, vierestäsi, yllesi, ympärillesi</li>
           <li>AUX-Inf: Ollaksesi</li>
           <li>AUX-Part: olevanne, voivasi</li>
           <li>NOUN: sydämesi, autosi, isäsi, mielestänne, rahasi, Hihasi, Kulutustottumuksesi, Kuvatekstinne, Patjasi, Reitesi</li>
@@ -1108,8 +1112,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>3
         <ul>
           <li>ADJ: sellaisenaan, omakseen, alimmillaan, omansa, alimmilleen, edustavimmillaan, enimmillään, entisensä, ihanimmillaan, mieleisensä</li>
-          <li>ADP: mukaansa, kanssaan, viereensä, mukanaan, luokseen, tilalleen, ympärilleen, edessään, eteensä, hallussaan</li>
-          <li>ADV: mukanaan, ympärilleen, alleen, hallussaan, mukaansa, taakseen, edessään, puoleensa, yllään, yltään</li>
+          <li>ADP: mukaansa, kanssaan, viereensä, mukanaan, luokseen, tilalleen, ympärilleen, edessään, eteensä, lisäkseen</li>
+          <li>ADV: mukanaan, ympärilleen, hallussaan, alleen, mukaansa, taakseen, edessään, puoleensa, yllään, yltään</li>
           <li>AUX-Inf: ollessaan, voidakseen, ollakseen</li>
           <li>AUX-Part: olevansa, voivansa, aikovansa, olevinaan</li>
           <li>NOUN: silmänsä, alkunsa, isänsä, uransa, elämänsä, kokonaisuudessaan, maansa, mielestään, aikanaan, nimeltään</li>
@@ -1136,9 +1140,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Coll
         <ul>
           <li>ADJ: sellanen, oikee, ekasta, sellasia, sellasii, sellasta, semmosia, Mimmonen, Punanen, Törkeet</li>
-          <li>ADP: kans, kaa, kanssas, jälkee, kanssa, luokses, luom, taakse</li>
+          <li>ADP: kans, kaa, kanssas, jälkee, kanssa, luom, taakse</li>
           <li>ADV: sit, ni, just, niinku, nii, sitte, sillon, ku, siks, paljo</li>
-          <li>AUX-Fin: on, ei, oli, oo, oon, olis, vois, ois, oisin, ollaan</li>
+          <li>AUX-Fin: on, ei, oli, oo, oon, olis, vois, eikä, ois, oisin</li>
           <li>AUX-Part: ollu, voinu, oltu, ollut, olluj, pitäny, voitu</li>
           <li>CCONJ: mut, ku, niinku</li>
           <li>INTJ: tota, Kamooon, vittuu</li>
@@ -1146,8 +1150,8 @@ We thank all the authors who kindly allowed us to include their texts into the t
           <li>NUM: yks, kaks, kahteenkyt, kakssattoo, kolmee, viis</li>
           <li>PRON: mä, mun, sä, tää, mua, mulla, sun, mulle, jotku, musta</li>
           <li>PROPN: Ailii, Eve, Hiakal, Improssa, Karriki, Mollaa, Paavokaa, Runkuks, Stiletiks, Stilsuks</li>
-          <li>SCONJ: et, ku, ett, nii, kun, niinku, vaikk, Mut, Vaik, enneku</li>
-          <li>VERB-Fin: emmä, sano, tajuu, tuu, alko, eikä, nähtiin, alkoi, lähdettiin, mee</li>
+          <li>SCONJ: et, ku, ett, nii, kun, niinku, vaikk, Mut, Vaik, ell</li>
+          <li>VERB-Fin: sano, tajuu, tuu, alko, nähtiin, alkoi, lähdettiin, mee, nään, haluisit</li>
           <li>VERB-Inf: lukee, riehuu, sanoo, alottaa, ettii, haiseen, hakkaa, hakkaan, hengaan, hoitaa</li>
           <li>VERB-Part: saanu, tienny, halunnu, kerenny, löytyny, ollu, pyrkiny, päässy, aidannu, alkanu</li>
         </ul>
@@ -1162,19 +1166,18 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Yes
         <ul>
           <li>ADJ: ei, musta, Kolmanenta, Suositeltaava, Uusseelantilaisen, asiaankuluvaa, brasílialaisessa, englantilaisella, erilaista, erillaisia</li>
-          <li>ADP: kesken., sekaan.</li>
+          <li>ADP: sekaan.</li>
           <li>ADV: Tällöinen, Vai, Yht’, eihan, ellä, enmmän, ensi, imi, kiinnit, kokonaan.</li>
           <li>AUX-Fin: ai, eivat, eivät, lie, olisi, ovat, voisivat</li>
           <li>AUX-Inf: olleessa</li>
           <li>AUX-Part: olevaan, olut</li>
           <li>CCONJ: jokö, van</li>
           <li>INTJ: joo.</li>
-          <li>NOUN: version, 1dl, 200mm, MUUTTOLIIKEIDEN, lypsy-ja, n.1, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl</li>
+          <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl, 2.5mm</li>
           <li>NUM: kahden, miljoona</li>
           <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
-          <li>PROPN: Pekkka, -Maks, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani</li>
-          <li>PUNCT: ..</li>
-          <li>VERB-Fin: vaikkeivat, Lisä, Leikkkaa, Tidän, ajautuu, asun, eroittui, halun, häiritsevän, irroittaa</li>
+          <li>PROPN: Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</li>
+          <li>VERB-Fin: Lisä, Leikkkaa, Tidän, ajautuu, asun, eroittui, halun, häiritsevän, irroittaa, karkoitettiin</li>
           <li>VERB-Inf: arvoimaan, epälläkseni, irroittautumaan, kaahamaan, kulkeman, kuumenemaaan, kuunnellessa, laittamalle, läsnäollessa, nousteessa</li>
           <li>VERB-Part: Itsetehdyt, Paistetu, Viimeksimainittu, ajatunut, hallinoiman, hallisemalle, haluamallasi, herättäva, hyökkäävään, järjestämään</li>
         </ul>
@@ -1188,11 +1191,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: olla, olla#minä.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saattaa, täytyä, joutua, aikoa, taitaa, tarvita, mahtaa, että#ei, jos#ei.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saattaa, täytyä, joutua, aikoa, taitaa, tarvita, mahtaa.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
 </ul>
 
@@ -1207,17 +1210,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ill (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Nom (4138)</li>
-      <li>VERB-Fin--NOUN-Par (388)</li>
+      <li>VERB-Fin--NOUN-Par (389)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (2133)</li>
+      <li>VERB-Fin--PRON-Nom (2136)</li>
       <li>VERB-Fin--PRON-Par (52)</li>
       <li>VERB-Inf--NOUN-Gen (232)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Nom (337)</li>
-      <li>VERB-Inf--NOUN-Par (105)</li>
+      <li>VERB-Inf--NOUN-Nom (345)</li>
+      <li>VERB-Inf--NOUN-Par (106)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
       <li>VERB-Inf--PRON-Gen (137)</li>
-      <li>VERB-Inf--PRON-Nom (156)</li>
+      <li>VERB-Inf--PRON-Nom (160)</li>
       <li>VERB-Inf--PRON-Par (32)</li>
       <li>VERB-Part--NOUN-Gen (454)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
@@ -1247,7 +1250,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (145)</li>
       <li>VERB-Fin--PRON-Par (565)</li>
       <li>VERB-Inf--NOUN-Ela (1)</li>
-      <li>VERB-Inf--NOUN-Gen (330)</li>
+      <li>VERB-Inf--NOUN-Gen (329)</li>
       <li>VERB-Inf--NOUN-Ill (1)</li>
       <li>VERB-Inf--NOUN-Nom (504)</li>
       <li>VERB-Inf--NOUN-Par (1468)</li>

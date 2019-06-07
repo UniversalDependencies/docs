@@ -3,6 +3,7 @@ layout: feature
 title: 'Polarity'
 redirect_from: "ga/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
 
 There is no word for "yes" or "no" in Irish. Instead, a negative particle is used in combination with the verb to give a negative polarity. 

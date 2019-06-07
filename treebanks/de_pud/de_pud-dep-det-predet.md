@@ -68,9 +68,9 @@ The following 2 pairs of parts of speech are connected with `det:predet`: <tt><a
 18	mit	mit	ADP	IN	_	20	case	_	_
 19	dem	der	DET	DT	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3	20	det	_	_
 20	Islam	Islam	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing|Person=3	14	obl	_	_
-21	und	und	CCONJ	CC	_	23	cc	_	_
-22	blieben	bleiben	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	cop	_	_
-23	Anhänger	Anhänger	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	14	conj	_	_
+21	und	und	CCONJ	CC	_	22	cc	_	_
+22	blieben	bleiben	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	14	conj	_	_
+23	Anhänger	Anhänger	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	22	xcomp	_	_
 24	der	der	DET	DT	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Person=3	27	det	_	_
 25	traditionellen	traditionell	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	27	amod	_	InflectionType=Weak
 26	afrikanischen	afrikanisch	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Person=3	25	conj	_	InflectionType=Weak|Proper=True

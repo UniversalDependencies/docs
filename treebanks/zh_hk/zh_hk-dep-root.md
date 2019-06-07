@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-908 nodes (10%) are attached to their parents as `root`.
+1004 nodes (10%) are attached to their parents as `root`.
 
-908 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.56277533039648.
+1004 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.67828685258964.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (687; 76% instances), -<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (78; 9% instances), -<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (54; 6% instances), -<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (25; 3% instances), -<tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (22; 2% instances), -<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (16; 2% instances), -<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (14; 2% instances), -<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (5; 1% instances), -<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (5; 1% instances), -<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (768; 76% instances), -<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (86; 9% instances), -<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (57; 6% instances), -<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (27; 3% instances), -<tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (23; 2% instances), -<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (16; 2% instances), -<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (14; 1% instances), -<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (6; 1% instances), -<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

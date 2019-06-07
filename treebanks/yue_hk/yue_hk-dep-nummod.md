@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (1%) are attached to their parents as `nummod`.
+206 nodes (1%) are attached to their parents as `nummod`.
 
-88 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43181818181818.
+206 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.35436893203884.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (85; 97% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (201; 98% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
 4	可	可	AUX	_	_	7	aux	_	SpaceAfter=No
 5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	可以	可以	AUX	_	_	4	aux	_	SpaceAfter=No
+6	可以	可以	AUX	_	_	4	conj	_	SpaceAfter=No
 7	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
 8	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No
@@ -41,61 +41,71 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nummod	color:blue
-1	第一	第一	ADJ	_	_	2	amod	_	SpaceAfter=No
-2	個	個	NOUN	_	NounType=Clf	4	nsubj	_	SpaceAfter=No
-3	幾多	幾多	DET	_	_	4	nummod	_	SpaceAfter=No
-4	分	分	NOUN	_	NounType=Clf	0	root	_	SpaceAfter=No
-5	呀	呀	PART	_	_	4	discourse:sp	_	SpaceAfter=No
-6	？	？	PUNCT	_	_	4	punct	_	SpaceAfter=No
+# visual-style 3 1 nummod	color:blue
+1	一	_	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	個	_	NOUN	_	NounType=Clf	1	clf	_	SpaceAfter=No
+3	書面	_	ADJ	_	_	11	reparandum	_	SpaceAfter=No
+4	-	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	一	_	NUM	_	_	11	nummod	_	SpaceAfter=No
+6	個	_	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No
+7	有	_	VERB	_	_	11	acl	_	SpaceAfter=No
+8	法律	_	NOUN	_	_	9	compound	_	SpaceAfter=No
+9	效力	_	NOUN	_	_	11	nmod	_	SpaceAfter=No
+10	嘅	_	PART	_	_	9	case	_	SpaceAfter=No
+11	文件	_	NOUN	_	_	0	root	_	SpaceAfter=No
+12	，	_	PUNCT	_	_	20	punct	_	SpaceAfter=No
+13	呢個	_	PRON	_	_	20	nsubj	_	SpaceAfter=No
+14	係	_	AUX	_	_	20	cop	_	SpaceAfter=No
+15	一	_	NUM	_	_	20	nummod	_	SpaceAfter=No
+16	個	_	NOUN	_	NounType=Clf	15	clf	_	SpaceAfter=No
+17	如此	_	ADV	_	_	18	advmod	_	SpaceAfter=No
+18	簡單	_	ADJ	_	_	20	amod	_	SpaceAfter=No
+19	嘅	_	PART	_	_	18	mark:rel	_	SpaceAfter=No
+20	事情	_	NOUN	_	_	11	conj	_	SpaceAfter=No
+21	。	_	PUNCT	_	_	11	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	啲	啲	NOUN	_	NounType=Clf	2	det	_	SpaceAfter=No
-2	人	人	NOUN	_	_	22	nsubj	_	SpaceAfter=No
-3	呀	呀	PART	_	_	2	discourse:sp	_	SpaceAfter=No
-4	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
-5	嗰陣時	嗰陣時	NOUN	_	_	22	obl:tmod	_	SpaceAfter=No
-6	呢	呢	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-7	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
-8	八零	八零	NOUN	_	_	9	nummod	_	SpaceAfter=No
-9	年	年	NOUN	_	NounType=Clf	11	reparandum	_	SpaceAfter=No
-10	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
-11	年代	年代	NOUN	_	NounType=Clf	22	obl:tmod	_	SpaceAfter=No
-12	呀	呀	PART	_	_	11	discourse:sp	_	SpaceAfter=No
-13	、	、	PUNCT	_	_	12	punct	_	SpaceAfter=No
-14	七零年代	七零年代	NOUN	_	_	11	conj	_	SpaceAfter=No
-15	呀	呀	PART	_	_	14	discourse:sp	_	SpaceAfter=No
-16	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
-17	用	用	VERB	_	_	22	advcl:coverb	_	SpaceAfter=No
-18	啲	啲	NOUN	_	NounType=Clf	20	det	_	SpaceAfter=No
-19	五百	五百	NUM	_	_	20	nummod	_	SpaceAfter=No
-20	蚊	緡	NOUN	_	NounType=Clf	21	compound	_	SpaceAfter=No
-21	紙	紙	NOUN	_	_	17	obj	_	SpaceAfter=No
-22	摺	摺	VERB	_	_	0	root	_	SpaceAfter=No
-23	架	架	NOUN	_	NounType=Clf	24	det	_	SpaceAfter=No
-24	飛機	飛機	NOUN	_	_	22	obj	_	SpaceAfter=No
-25	飛	飛	VERB	_	_	22	conj	_	SpaceAfter=No
-26	埋	埋	VERB	_	_	25	compound:dir	_	SpaceAfter=No
-27	嚟	唻	VERB	_	_	22	discourse:sp	_	SpaceAfter=No
-28	。	。	PUNCT	_	_	22	punct	_	SpaceAfter=No
-29	好	好	ADV	_	_	30	advmod	_	SpaceAfter=No
-30	捨得	捨得	ADJ	_	_	22	parataxis	_	SpaceAfter=No
-31	畀	畀	VERB	_	_	30	compound:vv	_	SpaceAfter=No
-32	錢	錢	NOUN	_	_	31	obj	_	SpaceAfter=No
-33	㗎	㗎	PART	_	_	30	discourse:sp	_	SpaceAfter=No
-34	。	。	PUNCT	_	_	30	punct	_	SpaceAfter=No
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 nummod	color:blue
+1	噉	_	ADV	_	_	5	discourse	_	SpaceAfter=No
+2	呢	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	然後	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+5	讓	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	我哋	_	PRON	_	_	5	obj	_	SpaceAfter=No
+7	可以	_	AUX	_	_	18	aux	_	SpaceAfter=No
+8	喺	_	ADP	_	_	12	mark	_	SpaceAfter=No
+9	一	_	NUM	_	_	12	nummod	_	SpaceAfter=No
+10	個	_	NOUN	_	NounType=Clf	9	clf	_	SpaceAfter=No
+11	嘅	_	PART	_	_	9	case	_	SpaceAfter=No
+12	有	_	VERB	_	_	18	advcl	_	SpaceAfter=No
+13	秩序	_	NOUN	_	_	12	obj	_	SpaceAfter=No
+14	底下	_	ADP	_	_	12	mark	_	SpaceAfter=No
+15	裏便	_	NOUN	_	_	12	mark	_	SpaceAfter=No
+16	呢	_	PART	_	_	12	discourse:sp	_	SpaceAfter=No
+17	，	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	進行	_	VERB	_	_	5	xcomp	_	SpaceAfter=No
+19	我哋	_	PRON	_	_	27	nmod	_	SpaceAfter=No
+20	今日	_	NOUN	_	_	27	nmod	_	SpaceAfter=No
+21	嘅	_	PART	_	_	20	case	_	SpaceAfter=No
+22	主席	_	NOUN	_	_	25	nmod	_	SpaceAfter=No
+23	嗰個	_	DET	_	_	25	det	_	SpaceAfter=No
+24	嘅	_	PART	_	_	23	case	_	SpaceAfter=No
+25	投票	_	VERB	_	_	27	nmod	_	SpaceAfter=No
+26	嘅	_	PART	_	_	25	case	_	SpaceAfter=No
+27	過程	_	NOUN	_	_	18	obj	_	SpaceAfter=No
+28	㗎	_	PART	_	_	5	discourse:sp	_	SpaceAfter=No
+29	。	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

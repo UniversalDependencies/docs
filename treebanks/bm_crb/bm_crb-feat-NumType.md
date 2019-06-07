@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>SABANAN, filanan, tannan</em>
-* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
+* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
 
 ### `NUM`
 
@@ -33,5 +33,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 50% of non-empty `NumType`): <em>6</em>
 * `Ord` (1; 50% of non-empty `NumType`): <em>NAN</em>
-* `EMPTY` (90): <em>kelen, fila, kònòntò, seegin, saba, kelen-kelen, wolonfila, woro</em>
+* `EMPTY` (90): <em>kelen, fila, kònòntò, seegin, saba, kelen-kelen, wolonfila, woro</em>
 

@@ -10,10 +10,10 @@ This relation is universal.
 
 195 nodes (11%) are attached to their parents as `punct`.
 
-193 instances of `punct` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.2.
+189 instances of `punct` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06153846153846.
 
-The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (144; 74% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (27; 14% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (148; 76% instances), <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (27; 14% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (7; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="sa_ufal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sa_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -45,16 +45,21 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 punct	color:blue
-1	अशाश्वतो	शाश्वत	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg	0	root	_	Translit=aśāśvato|LTranslit=śāśvata|Gloss=not-eternal
-2	यं	यद्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	4	nmod	_	Translit=yaṁ|LTranslit=yad|Gloss=which
-3	जीवितव्य	जीवितव्य	NOUN	_	Compound=Yes	4	nmod	_	Translit=jīvitavya|LTranslit=jīvitavya|Gloss=life
-4	विषयः	विषय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Translit=viṣayaḥ|LTranslit=viṣaya|Gloss=duration
-5	।	।	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|Gloss=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 punct	color:blue
+1	ततो	तद्	ADV	_	PronType=Dem	6	advmod	_	Translit=tato|LTranslit=tad|Gloss=so
+2	यथा	यथा	ADV	_	PronType=Rel	6	advmod	_	Translit=yathā|LTranslit=yathā|Gloss=how
+3	मम	अस्मद्	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Translit=mama|LTranslit=asmad|Gloss=my
+4	मनोरथाः	मनोरथ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	Translit=manorathāḥ|LTranslit=manoratha|Gloss=wishes
+5	सिद्धिं	सिद्धि	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Translit=siddhiṁ|LTranslit=siddhi|Gloss=fulfilment
+6	यान्ति	या	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=yānti|LTranslit=yā|Gloss=reach
+7	तथा	तथा	ADV	_	PronType=Dem	8	advmod	_	Translit=tathā|LTranslit=tathā|Gloss=so
+8	अनुष्ठीयताम्	अनु-स्था	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	6	parataxis	_	Translit=anuṣṭhīyatām|LTranslit=anu-sthā|Gloss=let-be-set
+9	इति	इति	ADV	_	PronType=Dem	8	advmod	_	Translit=iti|LTranslit=iti|Gloss=this-way
+10	।	।	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 ~~~
 

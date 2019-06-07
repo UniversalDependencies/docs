@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="hsb_ufal-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.896552 (the average of all parts of speech is 1.418754).
+The form / lemma ratio of `DET` is 2.896552 (the average of all parts of speech is 1.418889).
 
 The 1st highest number of forms (10) was observed with the lemma “kotryž”: <em>kotraž, kotrehož, kotrejež, kotrejž, kotrež, kotrychž, kotrymiž, kotrymž, kotryž, kotřiž</em>.
 

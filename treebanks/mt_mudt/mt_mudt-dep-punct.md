@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4791 nodes (11%) are attached to their parents as `punct`.
+4729 nodes (11%) are attached to their parents as `punct`.
 
-4240 instances of `punct` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.40262993112085.
+4165 instances of `punct` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.43518714315923.
 
-The following 18 pairs of parts of speech are connected with `punct`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (2568; 54% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1232; 26% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (239; 5% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (158; 3% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (112; 2% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (106; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (101; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (96; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (77; 2% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (38; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="mt_mudt-pos-PART.html">PART</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (2562; 54% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1240; 26% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (237; 5% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (159; 3% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (109; 2% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (101; 2% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (99; 2% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (87; 2% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (65; 1% instances), <tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 18 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4 1 punct	color:blue
 1	"	_	PUNCT	X_PUN	_	4	punct	_	_
 2	Din	_	PRON	PRON_DEM	_	4	nsubj	_	_
-3	mhix	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	mhix	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 4	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
 5	politika	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_
@@ -63,12 +63,12 @@ The following 18 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 9 10 punct	color:blue
 1	"	_	PUNCT	X_PUN	_	4	punct	_	SpaceAfter=No
 2	Dik	_	PRON	PRON_DEM	_	4	nsubj	_	_
-3	mhux	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	mhux	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 4	bħali	_	PRON	PREP_PRON	_	0	root	_	_
 5	ħija	_	NOUN	NOUN	_	4	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	X_PUN	_	4	punct	_	_
 7	dik	_	PRON	PRON_DEM	_	9	nsubj	_	_
-8	mhux	_	PART	PRON_PERS_NEG	_	9	aux:neg	_	_
+8	mhux	_	AUX	PRON_PERS_NEG	_	9	aux:neg	_	_
 9	normali	_	ADJ	ADJ	_	4	conj	_	SpaceAfter=No
 10	,	_	PUNCT	X_PUN	_	9	punct	_	SpaceAfter=No
 11	"	_	PUNCT	X_PUN	_	4	punct	_	_

@@ -39,7 +39,7 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 14 orphan	color:blue
-1	"	"	PUNCT	Z:-------------	_	2	punct	2:punct|4:punct|7:punct|11:punct	SpaceAfter=No
+1	"	"	PUNCT	Z:-------------	_	2	punct	2:punct	SpaceAfter=No
 2	Ne	ne	PART	TT-------------	_	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 4	ne	ne	PART	TT-------------	_	2	conj	0:root|2:conj	SpaceAfter=No
@@ -55,8 +55,8 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 14	nechci	chtít	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	11	orphan	11:orphan	_
 15	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	16	obj	16:obj	_
 16	slyšet	slyšet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	xcomp	14:xcomp	SpaceAfter=No
-17	.	.	PUNCT	Z:-------------	_	2	punct	2:punct|4:punct|7:punct|11:punct	SpaceAfter=No
-18	"	"	PUNCT	Z:-------------	_	2	punct	2:punct|4:punct|7:punct|11:punct	_
+17	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	SpaceAfter=No
+18	"	"	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><
 # visual-style 3	fgColor:white
 # visual-style 3 6 ccomp:cleft	color:blue
 1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	PART	_	_	3	cop	_	_
+2	na	na	AUX	PART	_	3	cop	_	_
 3	why	why	ADV	_	_	0	root	_	_
 4	you	you	PRON	_	_	6	nsubj	_	_
 5	dey	dey	AUX	_	_	6	aux	_	_
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><
 4	marry	marry	VERB	_	_	9	parataxis:dislocated	_	_
 5	you	you	PRON	_	_	4	obj	_	_
 6	sey	sey	SCONJ	_	_	9	mark	_	_
-7	na	na	PART	_	_	9	cop	_	_
+7	na	na	AUX	PART	_	9	cop	_	_
 8	only	only	ADJ	_	_	9	amod	_	_
 9	kitchen	kitchen	NOUN	_	_	0	root	_	_
 10	>+	>+	PUNCT	_	_	14	punct	_	_
@@ -69,8 +69,8 @@ The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 19 ccomp:cleft	color:blue
 1	{	{	PUNCT	_	_	6	punct	_	_
-2	no	no	PART	_	_	3	advmod	_	_
-3	be	be	PART	_	_	6	cop	_	_
+2	no	no	ADV	PART	_	6	advmod	_	_
+3	be	be	AUX	PART	_	6	cop	_	_
 4	when	when	ADV	_	_	6	mark	_	_
 5	person	person	NOUN	_	_	6	nsubj	_	_
 6	sit	sit	VERB	_	_	0	root	_	_
@@ -79,9 +79,9 @@ The following 7 pairs of parts of speech are connected with `ccomp:cleft`: <tt><
 9	one	one	DET	_	_	10	det	_	_
 10	place	place	NOUN	_	_	6	obl:arg	_	_
 11	|	|	PUNCT	_	_	14	punct	_	_
-12	no	no	PART	_	_	13	advmod	_	_
-13	be	be	PART	_	_	14	cop	_	_
-14	&	&	PUNCT	_	_	15	punct	_	_
+12	no	no	ADV	PART	_	14	advmod	_	_
+13	be	be	AUX	PART	_	14	cop	_	_
+14	&	&	X	_	_	6	conj:coord	_	_
 15	}	}	PUNCT	_	_	6	punct	_	_
 16	>+	>+	VERB	_	_	19	advcl	_	_
 17	im	im	PRON	_	_	19	nsubj	_	_

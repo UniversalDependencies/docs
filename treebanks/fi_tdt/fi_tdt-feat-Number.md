@@ -12,21 +12,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Number.html">Number</a></tt>, <tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
 131923 tokens (65%) have a non-empty value of `Number`.
-52583 types (97%) occur at least once with a non-empty value of `Number`.
-23134 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56497; 28% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (24685; 12% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13457; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13222; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12053; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (10741; 5% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1268; 1% instances).
+52533 types (97%) occur at least once with a non-empty value of `Number`.
+23032 lemmas (88%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (56379; 28% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (24259; 12% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13477; 7% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (13222; 7% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (12114; 6% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (11187; 6% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1285; 1% instances).
 
 ### `NOUN`
 
-56497 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+56379 <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (49008; 87%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (48896; 87%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (13752; 24% of non-empty `Number`): <em>jäsenvaltioiden, eläinten, ihmiset, tietojen, maiden, vuosina, ihmisiä, lapset, ihmisten, naisten</em>
-* `Sing` (42745; 76% of non-empty `Number`): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
-* `EMPTY` (100): <em>eaa., perus-, eaa, etu-, sosiaali-, EN, asuin-, poikineen, postikuluineen, 1dl</em>
+* `Plur` (13738; 24% of non-empty `Number`): <em>jäsenvaltioiden, eläinten, ihmiset, tietojen, maiden, vuosina, ihmisiä, lapset, ihmisten, naisten</em>
+* `Sing` (42641; 76% of non-empty `Number`): <em>vuonna, vuoden, yhteisön, komission, päivänä, huomioon, mies, yliopiston, prosenttia, aikana</em>
+* `EMPTY` (98): <em>eaa., perus-, etu-, sosiaali-, EN, asuin-, poikineen, postikuluineen, 1dl, 200mm</em>
 
 <table>
   <tr><th>Paradigm <i>vuosi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -51,14 +51,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-24685 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+24259 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21970; 89%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (19430; 79%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (17386; 70%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (17382; 70%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15278; 62%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13973; 57%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13083; 53%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12558; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21544; 89%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (18986; 78%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (16962; 70%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (16958; 70%), <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14836; 61%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13549; 56%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12661; 52%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12574; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4162; 17% of non-empty `Number`): <em>koskevat, olevat, saavat, koskevien, saivat, liittyvät, kuuluvat, olevien, tulevat, liittyviä</em>
-* `Sing` (20523; 83% of non-empty `Number`): <em>eikä, ottaa, tulee, sai, tuli, ettei, on, tehdä, sanoi, saa</em>
+* `Plur` (4100; 17% of non-empty `Number`): <em>koskevat, olevat, saavat, koskevien, saivat, liittyvät, kuuluvat, olevien, tulevat, liittyviä</em>
+* `Sing` (20159; 83% of non-empty `Number`): <em>ottaa, tulee, sai, tuli, on, tehdä, sanoi, saa, antaa, pitää</em>
 * `EMPTY` (3109): <em>saa, tiedä, tehdään, sovelletaan, julkaistiin, käytetään, ole, otetaan, annetaan, osaa</em>
 
 <table>
@@ -133,19 +133,19 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-13457 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+13477 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10675; 79%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10688; 79%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (3309; 25% of non-empty `Number`): <em>ne, jotka, niiden, he, meidän, niitä, joita, me, heidän, joiden</em>
-* `Sing` (10148; 75% of non-empty `Number`): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, mitä</em>
+* `Plur` (3310; 25% of non-empty `Number`): <em>ne, jotka, niiden, he, meidän, niitä, joita, me, heidän, joiden</em>
+* `Sing` (10167; 75% of non-empty `Number`): <em>se, hän, sen, joka, sitä, siitä, tämän, tämä, hänen, kaikki</em>
 * `EMPTY` (6): <em>jonne, ainoatakaan, muineen, toisensa, toistaan</em>
 
 <table>
   <tr><th>Paradigm <i>se</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>siltä, sieltä</em></td><td><em>niiltä</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>siltä</em></td><td><em>niiltä</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt></tt></td><td><em>silläkin</em></td><td><em>niilläkin</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Kin</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>niilki</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>sillä</em></td><td><em>niillä</em></td></tr>
@@ -188,13 +188,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 13222 <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11501; 87%), <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (6624; 50%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (11500; 87%), <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (6624; 50%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (3633; 27% of non-empty `Number`): <em>useita, uusia, hyvät, kolmansien, uudet, erilaisia, uusien, hyviä, kansalliset, ensimmäiset</em>
 * `Sing` (9589; 73% of non-empty `Number`): <em>hyvä, arvoisa, ensimmäinen, uusi, uuden, hyvää, ensimmäisen, oman, uutta, pieni</em>
-* `EMPTY` (1044): <em>koko, eri, viime, 1., 2., 3., II, I, 7., ensi</em>
+* `EMPTY` (1037): <em>koko, eri, viime, 1., 2., 3., II, I, 7., ensi</em>
 
 <table>
   <tr><th>Paradigm <i>hyvä</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -235,14 +235,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-12053 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+12114 <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6243; 52%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6301; 52%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (268; 2% of non-empty `Number`): <em>Yhdysvaltain, Yhdysvalloissa, Yhdysvallat, Yhdysvaltojen, Mikkelinsaarilla, Mikkelinsaarten, Yhdysvalloista, Yhdysvaltoja, kokkidiostaattien, Alankomaat</em>
-* `Sing` (11785; 98% of non-empty `Number`): <em>euroopan, Turun, suomen, EU:n, Suomessa, the, Helsingin, Mithridates, Venäjän, Kiinan</em>
+* `Plur` (265; 2% of non-empty `Number`): <em>Yhdysvaltain, Yhdysvalloissa, Yhdysvallat, Yhdysvaltojen, Mikkelinsaarilla, Mikkelinsaarten, Yhdysvalloista, Yhdysvaltoja, kokkidiostaattien, Alankomaat</em>
+* `Sing` (11849; 98% of non-empty `Number`): <em>euroopan, Turun, suomen, EU:n, Suomessa, the, EY, Helsingin, Mithridates, Venäjän</em>
 * `EMPTY` (9): <em>MTV3, Jr., O.V., Pekkka, Sr.</em>
 
 <table>
@@ -252,18 +252,18 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>York</em></td><td><em>Yorket</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (4642) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (4600) occur only with one value of `Number`.
 
 ### `AUX`
 
-10741 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+11187 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10670; 99%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9862; 92%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8799; 82%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8431; 78%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7228; 67%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5621; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11116; 99%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10306; 92%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8804; 79%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8794; 79%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7230; 65%), <tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5622; 50%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1398; 13% of non-empty `Number`): <em>ovat, eivät, olivat, voivat, olemme, emme, ollut, olleet, on, voimme</em>
-* `Sing` (9343; 87% of non-empty `Number`): <em>on, ei, oli, olisi, voi, olla, en, ollut, olen, olin</em>
+* `Plur` (1459; 13% of non-empty `Number`): <em>ovat, eivät, olivat, voivat, olemme, emme, ollut, olleet, on, voimme</em>
+* `Sing` (9728; 87% of non-empty `Number`): <em>on, ei, oli, olisi, voi, olla, en, ollut, eikä, olen</em>
 * `EMPTY` (923): <em>ole, voidaan, voi, olisi, voida, voitaisiin, ollaan, tarvitse, voisi, oo</em>
 
 <table>
@@ -296,6 +296,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olevani</em></td><td><em>olevani</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevanne</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevansa</em></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>olevat</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>oltava</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ollutta</em></td><td><em>olleita</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Ollaksesi</em></td><td></td></tr>
@@ -325,6 +326,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Olisko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olisiko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oonks</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olinko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olenko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oot</em></td><td><em>ootteko</em></td></tr>
@@ -369,15 +371,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `NUM`
 
-1268 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (26% of all `NUM` tokens) have a non-empty value of `Number`.
+1285 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (26% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1236; 97%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1253; 98%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (54; 4% of non-empty `Number`): <em>tuhansia, kymmeniä, satoja, satojen, kymmenien, miljoonia, kahdet, miljoonien, tuhansien, yhdet</em>
-* `Sing` (1214; 96% of non-empty `Number`): <em>kaksi, kolme, yksi, yhden, viisi, kolmen, neljä, kahden, miljoonaa, kymmenen</em>
-* `EMPTY` (3690): <em>1, 2, 2009, 3, 5, 4, 10, 2006, 6, 2008</em>
+* `Plur` (57; 4% of non-empty `Number`): <em>tuhansia, kymmeniä, satoja, satojen, kymmenien, miljoonia, miljoonien, kahdet, tuhansien, yhdet</em>
+* `Sing` (1228; 96% of non-empty `Number`): <em>kaksi, kolme, yksi, yhden, viisi, kolmen, miljoonaa, neljä, kahden, kymmenen</em>
+* `EMPTY` (3695): <em>1, 2, 2009, 3, 5, 4, 10, 2006, 6, 2008</em>
 
 <table>
   <tr><th>Paradigm <i>kaksi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -396,19 +398,19 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>kahta</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NUM`. 92% lemmas (86) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 92% lemmas (83) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8773; 95%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7942; 61%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5499; 85%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4908; 54%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4530; 68%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (3294; 97%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3083; 78%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3037; 67%),
-<tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (2975; 94%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2574; 85%).
+<tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9238; 94%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7944; 61%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5505; 85%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4905; 54%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4521; 68%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (3293; 97%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3186; 65%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3080; 78%),
+<tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (2991; 94%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2577; 84%).
 

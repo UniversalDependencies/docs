@@ -45,7 +45,7 @@ The following 48 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	Tor	Tor	PROPN	_	Gender=Masc	0	root	_	_
 4	Holger	Holger	PROPN	_	_	3	flat:name	_	_
 5	Bertelsen	Bertelsen	PROPN	_	_	3	flat:name	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	3	punct	_	_
+6	,	$,	PUNCT	_	_	7	punct	_	_
 7	dommer	dommer	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	appos	_	_
 8	i	i	ADP	_	_	9	case	_	_
 9	Bergen	Bergen	PROPN	_	_	7	nmod	_	_
@@ -64,7 +64,7 @@ The following 48 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Mvh	mvh	ADV	_	Abbr=Yes	2	advmod	_	_
 2	Gro	Gro	PROPN	_	Gender=Fem	0	root	_	_
 3	Kyte	Kyte	PROPN	_	_	2	flat:name	_	SpaceAfter=No
-4	,	$,	PUNCT	_	_	2	punct	_	_
+4	,	$,	PUNCT	_	_	5	punct	_	_
 5	Leder	Leder	PROPN	_	_	2	appos	_	_
 6	for	for	ADP	_	_	7	case	_	_
 7	barneverntjenesten	barneverntjeneste	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No

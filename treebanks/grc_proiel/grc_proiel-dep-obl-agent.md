@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 3	στίγματα	στίγμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	ref=5.35.3
 4	ἐσήμαινε	σημαίνω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.35.3
 5	ὡς	ὡς	ADV	Dq	PronType=Rel	9	advmod	_	ref=5.35.3
-6	καὶ	καί#1	ADV	Df	_	9	advmod	_	ref=5.35.3
+6	καὶ	καί	ADV	Df	_	9	advmod	_	ref=5.35.3|LId=1
 7	πρότερόν	πρότερος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	advmod	_	ref=5.35.3
 8	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	obl:agent	_	ref=5.35.3
 9	εἴρηται	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	ref=5.35.3

@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  کے (<tt><a href="ur_udtb-pos-ADP.html">
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.889401 (the average of all parts of speech is 1.101810).
+The form / lemma ratio of `ADP` is 0.889401 (the average of all parts of speech is 1.101903).
 
 The 1st highest number of forms (7) was observed with the lemma “کا”: سے, نے, والی, کا, کو, کی, کے.
 
@@ -89,19 +89,19 @@ Examples: کے، نے، سے، مےں، کو، کی، پر، میں، کا، ل�
 
 `ADP` nodes are attached to their parents using 18 different relations: <tt><a href="ur_udtb-dep-case.html">case</a></tt> (25859; 92% instances), <tt><a href="ur_udtb-dep-mark.html">mark</a></tt> (1842; 7% instances), <tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt> (290; 1% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (62; 0% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (57; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="ur_udtb-dep-nsubj.html">nsubj</a></tt> (9; 0% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (8; 0% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="ur_udtb-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="ur_udtb-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (17013; 60% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (5922; 21% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2668; 9% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1850; 7% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (314; 1% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (198; 1% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (119; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (45; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (17181; 61% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (6029; 21% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2675; 9% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2055; 7% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (121; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
-27806 (99%) `ADP` nodes are leaves.
+28122 (100%) `ADP` nodes are leaves.
 
-336 (1%) `ADP` nodes have one child.
+28 (0%) `ADP` nodes have one child.
 
-20 (0%) `ADP` nodes have two children.
+12 (0%) `ADP` nodes have two children.
 
 2 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 11 different relations: <tt><a href="ur_udtb-dep-case.html">case</a></tt> (270; 70% instances), <tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt> (56; 15% instances), <tt><a href="ur_udtb-dep-dep.html">dep</a></tt> (32; 8% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (6; 2% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 9 different relations: <tt><a href="ur_udtb-dep-dislocated.html">dislocated</a></tt> (42; 71% instances), <tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt> (5; 8% instances), <tt><a href="ur_udtb-dep-advmod.html">advmod</a></tt> (4; 7% instances), <tt><a href="ur_udtb-dep-compound.html">compound</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-punct.html">punct</a></tt> (2; 3% instances), <tt><a href="ur_udtb-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="ur_udtb-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="ur_udtb-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ur_udtb-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (314; 82% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (38; 10% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (15; 4% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (28; 47% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (11; 19% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (9; 15% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (6; 10% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (2; 3% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

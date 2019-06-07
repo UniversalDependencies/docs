@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-365 nodes (1%) are attached to their parents as `xcomp`.
+371 nodes (1%) are attached to their parents as `xcomp`.
 
-365 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.05753424657534.
+371 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.05390835579515.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (332; 91% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (24; 7% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (336; 91% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (23; 6% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	c'	ce	PRON	_	_	4	nsubj	_	_
 4	est	être	AUX	_	_	0	root	_	_
 5	comme	comme	ADP	_	_	7	mark	_	_
-6	comment	comment	PRON	_	_	7	advmod	_	_
+6	comment	comment	PRON	_	_	7	obl:mod	_	_
 7	dire	dire	VERB	_	_	4	xcomp	_	_
 
 ~~~

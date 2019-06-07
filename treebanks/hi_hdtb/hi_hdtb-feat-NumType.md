@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
 7296 tokens (2%) have a non-empty value of `NumType`.
-961 types (5%) occur at least once with a non-empty value of `NumType`.
-911 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+958 types (5%) occur at least once with a non-empty value of `NumType`.
+908 lemmas (6%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (6740; 2% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (556; 0% instances).
 
 ### `NUM`
@@ -20,9 +20,9 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hi_hdtb-pos-NUM.htm
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (6740; 100% of non-empty `NumType`): एक, दो, तीन, दोनों, करोड़, चार, लाख, हजार, पांच, छह
+* `Card` (6740; 100% of non-empty `NumType`): एक, दो, तीन, करोड़, दोनों, चार, लाख, हजार, पांच, छह
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (859) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (856) occur only with one value of `NumType`.
 
 ### `ADJ`
 

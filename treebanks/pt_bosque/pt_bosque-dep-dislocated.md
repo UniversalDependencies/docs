@@ -73,20 +73,20 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	coluna	coluna	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	ela	ele	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	dislocated	_	_
-6	própria	próprio	ADJ	_	Gender=Fem|Number=Sing|PronType=Emp	5	det	_	_
+6	própria	próprio	DET	_	Gender=Fem|Number=Sing|PronType=Emp	5	det	_	_
 7	uma	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	metáfora	metáfora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 9	de	de	ADP	_	_	11	case	_	_
 10	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	corpo	corpo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
-12	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	13	obj	_	_
+12	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
 13	sustenta	sustentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	força	força	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
-18	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	20	obj	_	_
-19	tudo	tudo	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
+18	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	_
+19	tudo	tudo	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	20	obj	_	_
 20	suporta	suportar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	8	punct	_	_
 

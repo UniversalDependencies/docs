@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (2%) are attached to their parents as `aux`.
+46 nodes (2%) are attached to their parents as `aux`.
 
-48 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28.
+43 instances of `aux` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34782608695652.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (41; 82% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (41; 89% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux	color:blue
-1	Татшӧм	татшӧм	PRON	Det	PronType=Dem	2	det	_	_
+1	Татшӧм	татшӧм	PRON	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
 2	настроениеяс	настроение	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	_
 3	лоны	лоны	VERB	V	VerbForm=Inf	5	xcomp	_	_
 4	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -35,14 +35,14 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 aux	color:blue
 1	Мӧд	мӧд	PRON	Pron	PronType=Dem	2	nmod	_	_
 2	петанін	петанін	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-3	сэтысь	сэтысь	ADV	Adv	_	2	obl	_	_
-4	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	5	aux	_	_
-5	вӧв	вӧвны	AUX	V	Number=Sing	2	cop	_	SpaceAfter=No
+3	сэтысь	сэтысь	ADV	Adv	Case=Ela	2	obl	_	_
+4	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	2	aux	_	_
+5	вӧв	вӧвны	AUX	V	Connegative=Yes|Number=Sing	2	cop	_	SpaceAfter=No
 6	.	_	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -65,8 +65,8 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	шерыслӧн	шер	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nmod	_	_
 10	туйыс	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	_
 11	зэв	зэв	ADV	Adv	_	12	advmod	_	_
-12	векньыдик	векньыдик	ADJ	A	Case=Nom|Degree=Pos|Derivation=Ik|Number=Sing	6	ccomp	_	_
-13	и	и	PART	Pcle	_	14	discourse	_	_
+12	векньыдик	векньыдик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	ccomp	_	_
+13	и	и	PART	Pcle	_	12	advmod	_	_
 14	вӧлӧма	вӧвны	AUX	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1783 nodes (0%) are attached to their parents as `iobj`.
+1792 nodes (0%) are attached to their parents as `iobj`.
 
-938 instances of `iobj` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.4559730790802.
+927 instances of `iobj` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40345982142857.
 
-The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (832; 47% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (511; 29% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (255; 14% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (152; 9% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `iobj`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (837; 47% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (516; 29% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (255; 14% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (153; 9% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,10 +31,10 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 7	tus	tu	DET	DET	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
 8	nombres	nombre	NOUN	NOUN	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
-10	nos	yo	PRON	PRON	Number=Plur|Person=1|PronType=Prs	11	iobj	_	_
+10	nos	yo	PRON	PRON	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
 11	dejaste	dejar	VERB	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 12	tutear	tutear	VERB	VERB	VerbForm=Inf	11	xcomp	_	_
-13	te	tú	PRON	PRON	Number=Plur|Person=2|PronType=Prs	12	obj	_	_
+13	te	tú	PRON	PRON	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 4 2 iobj	color:blue
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	placa	placa	NOUN	NOUN	Gender=Fem|Number=Sing	4	iobj	_	_
-3	la	él	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	la	él	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 4	forman	formar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	cuatro	cuatro	NUM	NUM	Number=Plur|NumType=Card	6	nummod	_	_
 6	plafones	plafón	NOUN	NOUN	Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 iobj	color:blue
-1	Lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+1	Lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
 2	anuncian	anunciar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
 4	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_

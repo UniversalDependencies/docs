@@ -27,13 +27,13 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	言っ	言う	VERB	VV	_	9	advcl	_	SpaceAfter=No
 4	て	て	SCONJ	PC	_	3	mark	_	SpaceAfter=No
 5	いる	いる	AUX	AV	_	3	aux	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	3	aux	_	SpaceAfter=No
+6	こと	こと	SCONJ	PNB	_	3	mark	_	SpaceAfter=No
 7	と	と	ADP	PS	_	3	case	_	SpaceAfter=No
 8	、	、	PUNCT	SYM	_	3	punct	_	SpaceAfter=No
 9	やっ	やる	VERB	VV	_	18	csubj	_	SpaceAfter=No
 10	て	て	SCONJ	PC	_	9	mark	_	SpaceAfter=No
 11	いる	いる	AUX	AV	_	9	aux	_	SpaceAfter=No
-12	こと	こと	NOUN	NB	_	9	aux	_	SpaceAfter=No
+12	こと	こと	SCONJ	PNB	_	9	mark	_	SpaceAfter=No
 13	は	は	ADP	PK	_	9	case	_	SpaceAfter=No
 14	、	、	PUNCT	SYM	_	9	punct	_	SpaceAfter=No
 15	実際	実際	NOUN	NN	_	18	iobj	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 18	信じ	信じる	VERB	VV	_	0	root	_	SpaceAfter=No
 19	られ	られる	AUX	AV	_	18	aux	_	SpaceAfter=No
 20	ない	ない	AUX	AV	_	18	aux	_	SpaceAfter=No
-21	こと	こと	NOUN	NB	_	18	aux	_	SpaceAfter=No
+21	こと	こと	SCONJ	PNB	_	18	mark	_	SpaceAfter=No
 22	だ	だ	AUX	AV	_	18	cop	_	SpaceAfter=No
 23	。	。	PUNCT	SYM	_	18	punct	_	SpaceAfter=No
 
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	締結	締結	VERB	VV	_	8	csubj	_	SpaceAfter=No
 4	し	する	AUX	XV	_	3	aux	_	SpaceAfter=No
 5	た	た	AUX	AV	_	3	aux	_	SpaceAfter=No
-6	こと	こと	NOUN	NB	_	3	aux	_	SpaceAfter=No
+6	こと	こと	SCONJ	PNB	_	3	mark	_	SpaceAfter=No
 7	は	は	ADP	PK	_	3	case	_	SpaceAfter=No
 8	素晴らしい	素晴らしい	ADJ	JJ	_	23	advcl	_	SpaceAfter=No
 9	が	が	SCONJ	PC	_	8	mark	_	SpaceAfter=No

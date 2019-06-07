@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-13996 tokens (60%) have a non-empty value of `Number`.
-5305 types (89%) occur at least once with a non-empty value of `Number`.
-2 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4820; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3355; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1897; 8% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1474; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1207; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (983; 4% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (260; 1% instances).
+13716 tokens (59%) have a non-empty value of `Number`.
+5301 types (89%) occur at least once with a non-empty value of `Number`.
+17 lemmas (94%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4820; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3316; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1477; 6% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1474; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1206; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (743; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (680; 3% instances).
 
 ### `NOUN`
 
@@ -28,27 +28,35 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-3355 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3316 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2002; 60%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2984; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2530; 76%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1974; 60%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (796; 24% of non-empty `Number`): <em>los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</em>
-* `Sing` (2559; 76% of non-empty `Number`): <em>el, la, un, una, lo, este, esta, esto, cada, ese</em>
+* `Plur` (794; 24% of non-empty `Number`): <em>los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</em>
+* `Sing` (2522; 76% of non-empty `Number`): <em>el, la, un, una, este, esta, esto, cada, ese, eso</em>
 * `EMPTY` (1): <em>un</em>
+
+<table>
+  <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>el</em></td><td><em>los</em></td></tr>
+  <tr><td><tt><tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+</table>
 
 ### `VERB`
 
-1897 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Number`.
+1477 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1576; 83%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1520; 80%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1454; 77%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (969; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1477; 100%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1243; 84%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1187; 80%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1157; 78%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1149; 78%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (551; 29% of non-empty `Number`): <em>han, fueron, están, habían, tienen, estaban, pueden, son, incluyen, llegaron</em>
-* `Sing` (1346; 71% of non-empty `Number`): <em>ha, fue, había, está, dijo, es, puede, tiene, estaba, hay</em>
-* `EMPTY` (713): <em>hacer, ser, tener, debido, ver, establecer, sido, haber, tenido, ayudar</em>
+* `Plur` (416; 28% of non-empty `Number`): <em>tienen, están, incluyen, llegaron, tenían, tuvieron, afirman, dieron, corresponden, decidieron</em>
+* `Sing` (1061; 72% of non-empty `Number`): <em>dijo, es, tiene, hay, está, hace, dice, afirmó, convirtió, era</em>
+* `EMPTY` (666): <em>hacer, tener, debido, ver, establecer, ayudar, dejar, enviar, hecho, incluyendo</em>
+
+`Number` seems to be **lexical feature** of `VERB`. 92% lemmas (11) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -58,54 +66,54 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (441; 30% of non-empty `Number`): <em>grandes, últimos, nuevos, Unidos, diferentes, nuevas, primeros, importantes, mejores, Olímpicos</em>
+* `Plur` (441; 30% of non-empty `Number`): <em>grandes, últimos, nuevos, Unidos, diferentes, nuevas, primeros, importantes, Olímpicos, electrónicos</em>
 * `Sing` (1033; 70% of non-empty `Number`): <em>gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</em>
 
 ### `PROPN`
 
-1207 <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
+1206 <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (24; 2% of non-empty `Number`): <em>EUA, Andes, Balcanes, Alpes, B-29, CBS, Caribs, Indias, Loving, Maldivas</em>
-* `Sing` (1183; 98% of non-empty `Number`): <em>China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, España</em>
-* `EMPTY` (29): <em>Hong, Kong, Castelfranco, Conte, Fjögur, Giovanni, Humblebums, La, Pelucca, Politti</em>
+* `Sing` (1182; 98% of non-empty `Number`): <em>China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, España</em>
+* `EMPTY` (28): <em>Hong, Kong, Castelfranco, Conte, Fjögur, Giovanni, Humblebums, Pelucca, Politti, Puerto</em>
 
 ### `PRON`
 
-983 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
+743 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (839; 85%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (655; 67%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (738; 99%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (619; 83%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (523; 70%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (494; 66%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (462; 62%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (414; 56%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (397; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (244; 25% of non-empty `Number`): <em>que, se, sus, ellos, les, cuales, nos, quienes, Cuáles, Quiénes</em>
-* `Sing` (739; 75% of non-empty `Number`): <em>se, su, que, lo, le, cual, me, él, quien, el</em>
-* `EMPTY` (34): <em>se, qué, cuanto</em>
+* `Plur` (179; 24% of non-empty `Number`): <em>que, sus, ellos, les, cuales, nos, quienes, los, nuestras, nuestros</em>
+* `Sing` (564; 76% of non-empty `Number`): <em>su, que, lo, le, cual, me, él, ella, quien, la</em>
+* `EMPTY` (315): <em>se, qué, cuanto, sí, consigo</em>
 
 ### `AUX`
 
-260 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+680 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (245; 94%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (242; 93%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (224; 86%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (211; 81%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (155; 60%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="es_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (680; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (631; 93%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (595; 88%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (542; 80%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (400; 59%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (354; 52%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (50; 19% of non-empty `Number`): <em>son, eran, fueron, llamados, sean, serían, aparecen, consideradas, consideran, contendrán</em>
-* `Sing` (210; 81% of non-empty `Number`): <em>es, era, fue, está, sea, sería, estaba, mantuvo, será, fuese</em>
-* `EMPTY` (29): <em>ser, sido, siendo, hecho, mantener, estado, estar, mantenido, mostrado, pasar</em>
+* `Plur` (185; 27% of non-empty `Number`): <em>son, fueron, han, habían, pueden, estaban, están, eran, hayan, debemos</em>
+* `Sing` (495; 73% of non-empty `Number`): <em>es, fue, ha, había, está, era, puede, estaba, podría, sea</em>
+* `EMPTY` (76): <em>ser, sido, haber, siendo, estado, estar, hecho, mantener, poder, Habiendo</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2945; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2929; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1242; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (746; 59%),
 <tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (473; 79%),
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (248; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (260; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (243; 71%),
-<tt>VERB --[<tt><a href="es_pud-dep-compound-prt.html">compound:prt</a></tt>]--> PRON</tt> (205; 75%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (200; 77%),
-<tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (159; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (156; 85%).
+<tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (158; 100%),
+<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (156; 80%),
+<tt>NOUN --[<tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (151; 74%).
 

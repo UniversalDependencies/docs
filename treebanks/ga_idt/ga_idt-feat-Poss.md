@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (244; 100% of non-empty `Poss`): <em>a, mo, do, m', ár, d'</em>
-* `EMPTY` (1890): <em>an, na, seo, sin, aon, eile, gach, cibé, a, a'</em>
+* `EMPTY` (1917): <em>an, na, seo, sin, aon, eile, gach, san, so, cibé</em>
 
 ### `ADP`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADP` and `Poss` co-occurred: 
 `ADP` tokens may have the following values of `Poss`:
 
 * `Yes` (200; 100% of non-empty `Poss`): <em>ina, á, dá, lena, faoina, arna, óna, dhá, lenár, dár</em>
-* `EMPTY` (3614): <em>ar, i, ag, le, de, sa, leis, ann, mar, in</em>
+* `EMPTY` (3616): <em>ar, i, ag, le, de, sa, leis, ann, mar, in</em>
 
 `Poss` seems to be **lexical feature** of `ADP`. 100% lemmas (11) occur only with one value of `Poss`.
 

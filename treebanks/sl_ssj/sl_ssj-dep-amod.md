@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	zaenkrat	zaenkrat	ADV	Rgp	Degree=Pos	6	advmod	_	Dep=6|Rel=AdvO
 5	ne	ne	PART	Q	Polarity=Neg	6	advmod	_	Dep=6|Rel=PPart
 6	zmoremo	zmoči	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-7	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+7	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 

@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-PRON.
 
 29 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=2</tt> (29; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (29; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 76%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (29; 100%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=2</tt> (29; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (29; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 76%).
 
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (29; 100% of non-empty `Polite`): <em>vostè, vostès</em>
-* `EMPTY` (23340): <em>que, es, s', hi, se, un, li, tot, on, què</em>
+* `EMPTY` (23427): <em>que, es, s', hi, se, un, li, tot, on, què</em>
 

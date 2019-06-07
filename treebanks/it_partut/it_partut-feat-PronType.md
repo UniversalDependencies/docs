@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Neg` (328; 100% of non-empty `PronType`): <em>non, neanche, neppure, no</em>
-* `EMPTY` (1570): <em>più, anche, solo, molto, oggi, già, ora, tuttavia, così, inoltre</em>
+* `EMPTY` (1571): <em>più, anche, solo, molto, oggi, già, ora, tuttavia, così, inoltre</em>
 
 ## Relations with Agreement in `PronType`
 

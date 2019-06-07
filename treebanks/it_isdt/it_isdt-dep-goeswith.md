@@ -47,7 +47,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 23	tale	tale	DET	DD	Number=Sing|PronType=Dem	24	det	24:det	_
 24	stato	stato	NOUN	S	Gender=Masc|Number=Sing	19	obl	19:obl:per	_
 25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	26:det	_
-26	1	1	ADJ	NO	NumType=Ord	28	amod	28:amod	SpaceAfter=No
+26	1	1	ADJ	NO	NumType=Ord	28	amod	28:amod	_
 27	°	°	X	X	_	26	goeswith	26:goeswith	_
 28	gennaio	gennaio	NOUN	S	Gender=Masc|Number=Sing	19	obl	19:obl	_
 29	2008	2008	NUM	N	NumType=Card	28	flat	28:flat	SpaceAfter=No

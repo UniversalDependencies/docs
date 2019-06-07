@@ -59,7 +59,7 @@ The following 31 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	apartament	apartament	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
 3	2	2	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	4	nummod	_	_
 4	camere	cameră	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	2	punct	_	_
+5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	ultracentral	ultracentral	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	8	punct	_	_
 8	curat	curat	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_

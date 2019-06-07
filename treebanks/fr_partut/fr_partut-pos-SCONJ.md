@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>que, si, comme, lorsque, quand, pourquo
 
 The 10 most frequent `SCONJ` types:  <em>que, qu', si, lorsque, comme, quand, s', comment, pourquoi, puisqu'</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 338, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 58, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7), <em>si</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1), <em>comme</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 23, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 16), <em>pourquoi</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 3), <em>de</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 2409, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 24, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 12, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 338, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 60, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7), <em>si</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1), <em>comme</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 23, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 16), <em>pourquoi</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 3), <em>de</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 2411, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 22, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 12, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 253, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 42, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>si</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1), <em>comme</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 22, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 8), <em>s'</em> (<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 64, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1), <em>comment</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 1), <em>de</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 1965, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 19, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>parce</em> (<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.361807).
+The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.364538).
 
 The 1st highest number of forms (2) was observed with the lemma “comme”: <em>comme, comment</em>.
 
@@ -66,17 +66,17 @@ The 3rd highest number of forms (2) was observed with the lemma “puisque”: <
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (368; 83% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (68; 15% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (369; 83% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (68; 15% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (298; 67% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (43; 10% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (299; 67% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (43; 10% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-437 (99%) `SCONJ` nodes are leaves.
+440 (99%) `SCONJ` nodes are leaves.
 
-6 (1%) `SCONJ` nodes have one child.
+3 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="fr_partut-dep-case.html">case</a></tt> (3; 50% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (3; 50% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (3; 100% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (3; 50% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (2; 67% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 33% instances)
 

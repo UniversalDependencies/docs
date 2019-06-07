@@ -9,22 +9,24 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-65 nodes (0%) are attached to their parents as `flat:name`.
+82 nodes (0%) are attached to their parents as `flat:name`.
 
-65 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16923076923077.
+82 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14634146341463.
 
-The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (61; 94% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (77; 94% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:name	color:blue
-1	Екатерина	Екатерина	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	Усакова	Усакова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	SpacesAfter=\n
+# visual-style 2 3 flat:name	color:blue
+1	Славный	славный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	винни	винни	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	пух	пух	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	)	)	SYM	_	_	2	discourse	_	_
 
 ~~~
 
@@ -48,37 +50,37 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 flat:name	color:blue
-1	Шейх	шейх	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	Салих	Салих	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
-3	аль	аль	PART	_	_	2	flat:name	_	SpaceAfter=No
-4	-	-	PUNCT	_	_	2	punct	_	_
-5	Фаузан	Фаузан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
-6	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	10	punct	_	_
-8	:	:	PUNCT	_	_	10	punct	_	SpaceAfter=No
-9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	Кто	кто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-11	противоречит	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl	_	_
-12	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	13	det	_	_
-13	манхаджу	Манхадж	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	начиная	начинать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	_
-16	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
-17	призыв	призыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
-18	с	с	ADP	_	_	19	case	_	_
-19	чего-то	что-то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
-20	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	15	punct	_	_
-22	тот	тот	PRON	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
-23	противоречит	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
-24	призыву	призыв	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	23	obj	_	_
-25	посланников	посланник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 3 4 flat:name	color:blue
+1	Гиганты	гигант	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+2	Возрожденья	возрожденье	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	Михайло	михайло	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Ангел	ангел	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	и	и	PART	PART	_	7	cc	_	_
+6	львокрепкий	львокрепкий	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	бородач	бородача	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+8	из	из	ADP	ADP	_	9	case	_	_
+9	Винчи	винчи	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	Творили	творить	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	красками	краска	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	10	iobj	_	_
+12	и	и	CCONJ	CONJ	_	13	cc	_	_
+13	углем	уголь	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	conj	_	_
+14	чудо	чудо	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	18	punct	_	_
+16	На	на	ADP	ADP	_	17	case	_	_
+17	плоском	плоский	ADJ	NOUN	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	obl	_	_
+18	углубляли	углублять	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+19	мир	мир	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	Лепили	лепить	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	_
+22	тело	тело	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+23	в	в	ADP	ADP	_	24	case	_	_
+24	воздухе	воздух	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	_
+25	пространном	пространный	ADJ	ADJ	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

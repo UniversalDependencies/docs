@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="nl_alpino-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.214228).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.213971).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (22633; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (12993; 57% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (4509; 20% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1572; 7% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1324; 6% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (567; 3% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (548; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (415; 2% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (190; 1% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (112; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (110; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (98; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (75; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (54; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (12999; 57% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (4503; 20% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (1572; 7% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1324; 6% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (564; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (551; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (415; 2% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (190; 1% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (112; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (110; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (98; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (75; 0% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (54; 0% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances)
 
 22625 (100%) `PUNCT` nodes are leaves.
 

@@ -47,9 +47,9 @@ The following 33 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	καθένας	καθένας	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_
-5	θα	θα	PART	PART	_	8	aux	_	_
-6	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-7	να	να	PART	PART	_	8	aux	_	_
+5	θα	θα	AUX	AUX	_	8	aux	_	_
+6	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	να	να	AUX	AUX	_	8	aux	_	_
 8	αναλάβει	αναλαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 9	τις	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	ευθύνες	ευθύνη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_

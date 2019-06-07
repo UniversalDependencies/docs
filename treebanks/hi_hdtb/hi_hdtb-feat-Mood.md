@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 17259 tokens (5%) have a non-empty value of `Mood`.
-377 types (2%) occur at least once with a non-empty value of `Mood`.
-144 lemmas (1%) occur at least once with a non-empty value of `Mood`.
+374 types (2%) occur at least once with a non-empty value of `Mood`.
+142 lemmas (1%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (14405; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2848; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Imp` (1; 0% of non-empty `Mood`): दो
 * `Ind` (14063; 98% of non-empty `Mood`): है, हैं, था, थी, थे, जाएगा, जाएगी, होगा, थीं, जाएंगे
-* `Sub` (341; 2% of non-empty `Mood`): जाए, सके, जाएं, दें, हुए, रहे, सकें, लें, चुके, रहें
+* `Sub` (341; 2% of non-empty `Mood`): जाए, सके, जाएं, दें, हुए, रहे, सकें, लें, चुके, पड़े
 * `EMPTY` (11625): गया, गई, गए, हुए, जा, दिया, रहे, रही, रहा, जाने
 
 <table>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1625 nodes (0%) are attached to their parents as `ccomp`.
+1658 nodes (0%) are attached to their parents as `ccomp`.
 
-1505 instances of `ccomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.97107692307692.
+1541 instances of `ccomp` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.77744270205066.
 
-The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1024; 63% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (218; 13% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (105; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (104; 6% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (82; 5% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (45; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1022; 62% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (194; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (140; 8% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (108; 7% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (104; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,47 +39,49 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 10 ccomp	color:blue
-1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	URSS	URSS	PROPN	_	_	4	nsubj	_	_
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	disparue	disparu	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
-5	avant	avant	ADV	_	_	4	advmod	_	_
-6	que	que	SCONJ	_	_	10	mark	_	_
-7	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-8	phase	phase	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
-9	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	arrive	arriver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
-11	à	à	ADP	_	_	13	case	_	_
-12	son	son	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	_
-13	terme	terme	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 ccomp	color:blue
+1	»	»	PUNCT	_	_	2	punct	_	_
+2	afin	afin	ADV	_	_	0	root	_	_
+3	de	de	ADP	_	_	5	mark	_	_
+4	s'	se	PRON	_	Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
+5	inscrire	inscrire	VERB	_	VerbForm=Inf	2	ccomp	_	_
+6	en	en	ADP	_	_	8	case	_	_
+7	quelque	quelque	DET	_	Gender=Fem|Number=Sing	8	det	_	_
+8	sorte	sorte	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+9	dans	dans	ADP	_	_	11	case	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	liste	liste	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	_
+12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
+13	attente	attente	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 11 ccomp	color:blue
-1	Cela	cela	PRON	_	Number=Sing|PronType=Dem	2	nsubj	_	_
-2	signifie	signifier	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	qu'	que	SCONJ	_	_	11	mark	_	SpaceAfter=No
-4	au-delà	au-delà	ADV	_	_	11	advmod	_	_
-5	de	de	ADP	_	_	6	case	_	_
-6	105	105	NUM	_	_	4	obl:arg	_	_
-7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
-8	n'	ne	ADV	_	Polarity=Neg	11	advmod	_	SpaceAfter=No
-9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-10	plus	plus	ADV	_	Polarity=Neg	11	advmod	_	_
-11	acheteur	acheteur	NOUN	_	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 ccomp	color:blue
+1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	4	nsubj	_	SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	tellement	tellement	ADV	_	_	4	advmod	_	_
+4	rare	rare	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	pouvoir	pouvoir	VERB	_	VerbForm=Inf	4	ccomp	_	_
+7	dîner	dîner	VERB	_	VerbForm=Inf	6	xcomp	_	_
+8	à	à	ADP	_	_	10	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	coin	coin	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	feu	feu	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+14	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

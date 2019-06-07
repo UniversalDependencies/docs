@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 12019 tokens (6%) have a non-empty value of `Degree`.
 4412 types (14%) occur at least once with a non-empty value of `Degree`.
-1678 lemmas (18%) occur at least once with a non-empty value of `Degree`.
+1677 lemmas (18%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (11256; 5% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (763; 0% instances).
 
 ### `ADJ`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (552; 5% of non-empty `Degree`): <em>πρεσβυτέρων, μείζων, πλέον, πρεσβύτεροι, πλεῦνας, πλεῖον, πλεῦνες, ἧσσον, πλέω, πρεσβυτέρους</em>
 * `Pos` (10335; 92% of non-empty `Degree`): <em>πρότερον, πολλοὶ, πολλὰ, νεκρῶν, Ἀθηναίων, Ἀθηναῖοι, μόνον, Ἰουδαίων, μέγα, πολλῶν</em>
 * `Sup` (369; 3% of non-empty `Degree`): <em>μέγιστον, ταχίστην, πλεῖστον, ἄριστα, κάλλιστα, τάχιστα, ἄριστον, ὑψίστου, κάλλιστον, μέγιστα</em>
-* `EMPTY` (5577): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πάντες, οὐδεὶς</em>
+* `EMPTY` (5579): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πάντες, οὐδεὶς</em>
 
 <table>
   <tr><th>Paradigm <i>πολύς</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>πλείονος</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 93% lemmas (1432) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 93% lemmas (1431) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (161; 21% of non-empty `Degree`): <em>μᾶλλον, περισσοτέρως, μᾶλλόν, ἀκριβέστερον, μεζόνως, προσωτέρω, τάχιον, ἑκαστέρω, θειοτέρως, κάκιον</em>
 * `Pos` (457; 60% of non-empty `Degree`): <em>καλῶς, μεγάλως, κακῶς, κάτω, ἄλλως, ἀληθῶς, ἀτρεκέως, ὀρθῶς, ἐγγὺς, προθύμως</em>
 * `Sup` (145; 19% of non-empty `Degree`): <em>μάλιστα, τάχιστα, μάλιστά, ἀγχοτάτω, ἄγχιστα, ἥκιστα, ἑκαστάτω, ἥδιστα, μεγαλοπρεπέστατα, τάχιστά</em>
-* `EMPTY` (22316): <em>δὲ, γὰρ, καὶ, μὲν, οὐκ, μὴ, οὐ, ὡς, δὴ, οὖν</em>
+* `EMPTY` (22319): <em>δὲ, γὰρ, καὶ, μὲν, οὐκ, μὴ, οὐ, ὡς, δὴ, οὖν</em>
 
 <table>
   <tr><th>Paradigm <i>ταχέως</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -88,9 +88,9 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (503; 92%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (91; 58%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (54; 51%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (55; 51%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (24; 80%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-obj.html">obj</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-obj.html">obj</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> ADV</tt> (1; 100%).
 

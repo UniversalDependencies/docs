@@ -78,7 +78,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 83%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 77%),
 <tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),

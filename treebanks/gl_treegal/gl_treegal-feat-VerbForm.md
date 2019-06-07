@@ -12,20 +12,20 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 2983 tokens (12%) have a non-empty value of `VerbForm`.
 1652 types (31%) occur at least once with a non-empty value of `VerbForm`.
 692 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (2341; 9% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (642; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (2375; 9% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (608; 2% instances).
 
 ### `VERB`
 
-2341 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2375 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2106; 90%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1300; 56%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1268; 54%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1189; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1331; 56%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1296; 55%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1214; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1421; 61% of non-empty `VerbForm`): <em>hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</em>
+* `Fin` (1452; 61% of non-empty `VerbForm`): <em>hai, ten, teñen, fai, fixo, quere, considera, di, vén, dá</em>
 * `Ger` (105; 4% of non-empty `VerbForm`): <em>afirmando, partindo, considerando, dando, pagando, recoñecendo, agardando, apuntando, chegando, cobrando</em>
-* `Inf` (580; 25% of non-empty `VerbForm`): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
-* `Part` (235; 10% of non-empty `VerbForm`): <em>debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, atendidos, chamado</em>
+* `Inf` (581; 24% of non-empty `VerbForm`): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
+* `Part` (237; 10% of non-empty `VerbForm`): <em>debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, atendidos, chamado</em>
 
 <table>
   <tr><th>Paradigm <i>facer</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -49,17 +49,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-642 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+608 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (559; 87%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (519; 81%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (446; 69%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (418; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (528; 87%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (491; 81%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (421; 69%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (393; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (587; 91% of non-empty `VerbForm`): <em>é, foi, está, son, pode, están, era, sería, vai, será</em>
+* `Fin` (556; 91% of non-empty `VerbForm`): <em>é, foi, está, son, pode, están, era, sería, vai, será</em>
 * `Ger` (7; 1% of non-empty `VerbForm`): <em>sendo, podendo</em>
-* `Inf` (46; 7% of non-empty `VerbForm`): <em>ser, poder, estar, ter, acabar, ir, parecer, quedar, seren, sermos</em>
-* `Part` (2; 0% of non-empty `VerbForm`): <em>considerado</em>
-* `EMPTY` (2): <em>Eis, deberiamos</em>
+* `Inf` (45; 7% of non-empty `VerbForm`): <em>ser, poder, estar, ter, acabar, ir, quedar, seren, sermos</em>
+* `EMPTY` (1): <em>deberiamos</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Ger</tt></th></tr>
@@ -90,9 +89,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (168; 79%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (80; 52%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (21; 70%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (172; 80%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (81; 52%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (22; 73%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%).
 

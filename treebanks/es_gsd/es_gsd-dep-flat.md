@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7273 nodes (2%) are attached to their parents as `flat`.
+7398 nodes (2%) are attached to their parents as `flat`.
 
-7273 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42265915028186.
+7398 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.44836442281698.
 
-The following 13 pairs of parts of speech are connected with `flat`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (7161; 98% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (39; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `flat`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (7190; 97% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (41; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,28 +60,54 @@ The following 13 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat	color:blue
-1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	5	5	NUM	_	NumType=Card	10	obl	_	_
-3	de	de	ADP	_	_	4	case	_	_
-4	julio	julio	PROPN	_	_	2	nmod	_	_
-5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	solemne	solemne	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
-7	Te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	nsubj	_	_
-8	Deum	deum	PROPN	_	_	7	flat	_	_
-9	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	iobj	_	_
-10	cantó	cantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	en	en	ADP	_	_	12	case	_	_
-12	Orán	orán	PROPN	_	_	10	obl	_	_
-13	para	para	SCONJ	_	_	14	mark	_	_
-14	conmemorar	conmemorar	VERB	_	VerbForm=Inf	10	advcl	_	_
-15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	victoria	victoria	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 39	bgColor:blue
+# visual-style 39	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 39 flat	color:blue
+1	Según	según	ADP	_	_	3	case	_	_
+2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Oficina	oficina	NOUN	_	_	14	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Censo	censo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	Estados	estado	PROPN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+10	Unidos	unido	PROPN	_	Gender=Masc|Number=Plur|VerbForm=Part	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+14	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+17	total	total	ADJ	_	Number=Sing	16	amod	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	0.99	0.99	NUM	_	NumType=Card	20	nummod	_	_
+20	km	km	NOUN	_	Gender=Masc	16	nmod	_	SpaceAfter=No
+21	²	²	SYM	_	_	20	dep	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	16	punct	_	_
+23	de	de	ADP	_	_	25	case	_	_
+24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	29	obl	_	_
+26	0.99	0.99	NUM	_	NumType=Card	27	nummod	_	_
+27	km	km	NOUN	_	_	29	nsubj	_	SpaceAfter=No
+28	²	²	SYM	_	_	27	dep	_	_
+29	corresponden	corresponder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+30	a	a	ADP	_	_	31	case	_	_
+31	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
+32	firme	firme	ADJ	_	Number=Sing	31	amod	_	_
+33	y	y	CCONJ	_	_	42	cc	_	_
+34	(	(	PUNCT	_	_	36	punct	_	SpaceAfter=No
+35	0	0	NUM	_	NumType=Card	36	nummod	_	_
+36	%	%	SYM	_	_	42	nsubj	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	36	punct	_	_
+38	0	0	NUM	_	NumType=Card	39	nummod	_	_
+39	km	km	NOUN	_	_	36	flat	_	SpaceAfter=No
+40	²	²	SYM	_	Number=Sing|Person=2	39	dep	_	_
+41	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	_
+42	agua	agua	NOUN	_	Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

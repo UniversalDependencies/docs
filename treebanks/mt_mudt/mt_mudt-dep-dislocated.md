@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `dislocated`.
+10 nodes (0%) are attached to their parents as `dislocated`.
 
-9 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.
+10 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.6.
 
-The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (6; 67% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 11% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (6; 60% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 10% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -26,13 +26,42 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	fatt	_	NOUN	NOUN	_	9	dislocated	_	_
 3	jew	_	CCONJ	CONJ_CORD	_	4	cc	_	_
 4	le	_	INTJ	INT	_	2	conj	_	_
-5	ġiex	_	VERB	VERB	_	6	aux:pass	_	_
+5	ġiex	_	AUX	VERB	_	6	aux:pass	_	_
 6	influwenzat	_	VERB	PART_PASS	_	2	acl	_	_
 7	mhemmx	_	VERB	HEMM	_	0	root	_	_
-8	għalfejn	_	PRON	PRON_INT	_	7	advmod	_	_
+8	għalfejn	_	ADV	PRON_INT	_	7	advmod	_	_
 9	nidħlu	_	VERB	VERB	_	7	ccomp	_	_
 10	fih	_	PRON	PREP_PRON	_	9	obl	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 dislocated	color:blue
+1	Kull	_	DET	QUAN	_	2	det	_	_
+2	ħajt	_	NOUN	NOUN	_	6	dislocated	_	SpaceAfter=No
+3	,	_	PUNCT	X_PUN	_	2	punct	_	_
+4	l-	_	DET	DEF	_	6	det	_	SpaceAfter=No
+5	erbgħa	_	NUM	NUM_CRD	_	6	nummod	_	_
+6	ħitan	_	NOUN	NOUN	_	8	nsubj:pass	_	_
+7	kienu	_	AUX	KIEN	_	8	cop	_	_
+8	mimlija	_	VERB	PART_PASS	_	0	root	_	_
+9	ritratti	_	NOUN	NOUN	_	8	obl:arg	_	SpaceAfter=No
+10	,	_	PUNCT	X_PUN	_	9	punct	_	_
+11	wieħed	_	NUM	NUM_WHD	_	9	appos	_	_
+12	ħdejn	_	ADP	PREP	_	14	case	_	_
+13	l-	_	DET	DEF	_	14	det	_	SpaceAfter=No
+14	ieħor	_	ADJ	ADJ	_	11	nmod	_	_
+15	minn	_	ADP	PREP	_	16	case	_	_
+16	saqaf	_	NOUN	NOUN	_	8	obl	_	_
+17	sa	_	ADP	PREP	_	18	case	_	_
+18	art	_	NOUN	NOUN	_	16	nmod	_	SpaceAfter=No
+19	.	_	PUNCT	X_PUN	_	8	punct	_	_
 
 ~~~
 
@@ -61,11 +90,11 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 16	S	_	SYM	X_BOR	_	14	nmod:poss	_	SpaceAfter=No
 17	,	_	PUNCT	X_PUN	_	14	punct	_	_
 18	e	_	SYM	X_BOR	_	28	dislocated	_	_
-19	*	_	PUNCT	X_PUN	_	18	punct	_	_
+19	*	_	SYM	X_PUN	_	18	list	_	_
 20	a	_	SYM	X_BOR	_	18	list	_	_
 21	u	_	CCONJ	CONJ_CORD	_	22	cc	_	_
 22	a	_	SYM	X_BOR	_	18	conj	_	_
-23	*	_	PUNCT	X_PUN	_	22	punct	_	_
+23	*	_	SYM	X_PUN	_	22	list	_	_
 24	e	_	SYM	X_BOR	_	22	list	_	_
 25	huma	_	PRON	PRON_PERS	_	28	nsubj	_	_
 26	t-	_	DET	DEF	_	27	det	_	SpaceAfter=No
@@ -74,36 +103,6 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 29	għal	_	ADP	PREP	_	30	case	_	_
 30	a	_	SYM	X_BOR	_	28	obl	_	SpaceAfter=No
 31	.	_	PUNCT	X_PUN	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 8 dislocated	color:blue
-1	Imma	_	CCONJ	CONJ_CORD	_	6	cc	_	_
-2	jekk	_	SCONJ	CONJ_SUB	_	4	mark	_	_
-3	wieħed	_	NUM	NUM_WHD	_	4	nsubj	_	_
-4	jindaga	_	VERB	VERB	_	6	advcl	_	_
-5	sew	_	ADV	ADV	_	4	advmod	_	_
-6	isib	_	VERB	VERB	_	0	root	_	_
-7	li	_	SCONJ	COMP	_	13	mark	_	_
-8	ammont	_	NOUN	NOUN	_	19	dislocated	_	_
-9	kbir	_	ADJ	ADJ	_	8	amod	_	_
-10	ta'	_	ADP	GEN	_	11	case	_	_
-11	tfal	_	NOUN	NOUN	_	8	nmod:poss	_	_
-12	mhux	_	PART	PRON_PERS_NEG	_	13	aux:neg	_	_
-13	veru	_	ADJ	ADJ	_	6	ccomp	_	_
-14	ħadd	_	PRON	PRON_INDEF	_	16	nsubj	_	_
-15	ma	_	PART	NEG	_	16	aux:neg	_	_
-16	jaf	_	VERB	VERB	_	13	ccomp	_	_
-17	min	_	PRON	PRON_INT	_	19	nsubj	_	_
-18	hu	_	PRON	PRON_PERS	_	19	cop	_	_
-19	missierhom	_	NOUN	NOUN	_	16	ccomp	_	SpaceAfter=No
-20	.	_	PUNCT	X_PUN	_	6	punct	_	_
 
 ~~~
 

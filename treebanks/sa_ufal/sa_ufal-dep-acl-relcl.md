@@ -46,11 +46,11 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 1	दैव	दैव	ADJ	_	Compound=Yes	2	amod	_	Translit=daiva|LTranslit=daiva|Gloss=divine
 2	वशात्	वश	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	Translit=vaśāt|LTranslit=vaśa|Gloss=from-authority
 3	उपपन्ने	उप-पद	VERB	_	Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	Translit=upapanne|LTranslit=upa-pad|Gloss=obtained
-4	सति	सत्	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	nsubj	_	Translit=sati|LTranslit=sat|LDeriv=स|Gloss=being-present
-5	विभवे	विभव	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	advcl	_	Translit=vibhave|LTranslit=vibhava|Gloss=rich
+4	सति	सत्	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	nsubj	_	LDeriv=स|Translit=sati|LTranslit=sat|Gloss=being-present
+5	विभवे	विभव	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	advcl	_	Translit=vibhave|LTranslit=vibhava|Gloss=rich
 6	यस्य	यद्	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	16	acl:relcl	_	Translit=yasya|LTranslit=yad|Gloss=of-which
 7	न	न	PART	_	Polarity=Neg	6	advmod	_	Translit=na|LTranslit=na|Gloss=not
-8	अस्ति	अस्	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=asti|LTranslit=as|Gloss=is
+8	अस्ति	अस्	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Translit=asti|LTranslit=as|Gloss=is
 9	भोगः	भोग	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=bhogaḥ|LTranslit=bhoga|Gloss=pleasure
 10	इच्छा	इच्छा	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	Translit=icchā|LTranslit=icchā|Gloss=desire
 11	न	न	PART	_	Polarity=Neg	15	advmod	_	Translit=na|LTranslit=na|Gloss=not

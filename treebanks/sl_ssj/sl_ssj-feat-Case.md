@@ -115,7 +115,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Ins` (306; 7% of non-empty `Case`): <em>tem, svojo, katerimi, svojim, katero, katerim, svojimi, njenim, vsemi, njegovimi</em>
 * `Loc` (709; 16% of non-empty `Case`): <em>tem, katerem, svoji, katerih, tej, vseh, kateri, svojem, njegovem, teh</em>
 * `Nom` (1291; 29% of non-empty `Case`): <em>to, ta, vsi, vse, vsak, njegova, te, tisti, ti, njegov</em>
-* `EMPTY` (782): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
+* `EMPTY` (784): <em>nekaj, več, veliko, manj, dovolj, malo, toliko, pol, preveč, največ</em>
 
 <table>
   <tr><th>Paradigm <i>ta</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>

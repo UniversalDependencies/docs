@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt>, <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt>.
 
-14388 tokens (56%) have a non-empty value of `Number`.
-4575 types (85%) occur at least once with a non-empty value of `Number`.
+14385 tokens (56%) have a non-empty value of `Number`.
+4576 types (85%) occur at least once with a non-empty value of `Number`.
 3125 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4492; 18% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4111; 16% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1697; 7% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1671; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1110; 4% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (592; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (463; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (252; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4495; 18% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4109; 16% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1704; 7% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1696; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1110; 4% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (559; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (458; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (254; 1% instances).
 
 ### `NOUN`
 
-4492 <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4495 <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2284; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2286; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1271; 28% of non-empty `Number`): <em>anos, socialistas, medios, obras, nacionalistas, persoas, días, eleccións, veces, galegos</em>
-* `Sing` (3221; 72% of non-empty `Number`): <em>traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</em>
-* `EMPTY` (7): <em>Escritores, Terra, aguas, foot, football, grue, tradutore</em>
+* `Plur` (1273; 28% of non-empty `Number`): <em>anos, socialistas, medios, obras, nacionalistas, persoas, días, eleccións, veces, galegos</em>
+* `Sing` (3222; 72% of non-empty `Number`): <em>traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</em>
+* `EMPTY` (8): <em>Escritores, Galego, Terra, aguas, foot, football, grue, tradutore</em>
 
 <table>
   <tr><th>Paradigm <i>ano</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-4111 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+4109 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 84%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3450; 84%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (928; 23% of non-empty `Number`): <em>os, as, seus, súas, todos, outros, los, outras, estes, uns</em>
-* `Sing` (3183; 77% of non-empty `Number`): <em>o, a, un, unha, súa, lo, seu, esta, este, la</em>
+* `Sing` (3181; 77% of non-empty `Number`): <em>o, a, un, unha, súa, lo, seu, esta, este, la</em>
 * `EMPTY` (9): <em>Los, la, El</em>
 
 <table>
@@ -53,35 +53,17 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td></td></tr>
 </table>
 
-### `ADJ`
-
-1697 <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (870; 51%).
-
-`ADJ` tokens may have the following values of `Number`:
-
-* `Plur` (433; 26% of non-empty `Number`): <em>galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</em>
-* `Sing` (1264; 74% of non-empty `Number`): <em>galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</em>
-* `EMPTY` (22): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, best</em>
-
-<table>
-  <tr><th>Paradigm <i>galego</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>galego, Galegos</em></td><td><em>galegos</em></td></tr>
-  <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>galega</em></td><td></td></tr>
-</table>
-
 ### `VERB`
 
-1671 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
+1704 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1436; 86%), <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1420; 85%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1300; 78%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1267; 76%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (922; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1451; 85%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1331; 78%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1295; 76%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (947; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (482; 29% of non-empty `Number`): <em>teñen, fan, temos, existen, chegaron, dan, fagan, fixemos, integran, queremos</em>
-* `Sing` (1189; 71% of non-empty `Number`): <em>hai, ten, fai, fixo, quere, considera, di, dá, semella, afirma</em>
-* `EMPTY` (670): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
+* `Plur` (490; 29% of non-empty `Number`): <em>teñen, fan, temos, existen, chegaron, dan, fagan, fixemos, integran, queremos</em>
+* `Sing` (1214; 71% of non-empty `Number`): <em>hai, ten, fai, fixo, quere, considera, di, dá, vén, pasa</em>
+* `EMPTY` (671): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -97,6 +79,24 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>teren</em></td></tr>
 </table>
 
+### `ADJ`
+
+1696 <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (869; 51%).
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Plur` (433; 26% of non-empty `Number`): <em>galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</em>
+* `Sing` (1263; 74% of non-empty `Number`): <em>galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</em>
+* `EMPTY` (22): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, best</em>
+
+<table>
+  <tr><th>Paradigm <i>galego</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>galego, Galegos</em></td><td><em>galegos</em></td></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>galega</em></td><td></td></tr>
+</table>
+
 ### `PRON`
 
 1110 <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Number`.
@@ -107,7 +107,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (336; 30% of non-empty `Number`): <em>que, nos, os, lles, algúns, as, outros, elas, nós, eles</em>
 * `Sing` (774; 70% of non-empty `Number`): <em>que, o, lle, a, me, iso, lo, todo, quen, un</em>
-* `EMPTY` (263): <em>se, que, nada, algo, quen, che</em>
+* `EMPTY` (262): <em>se, que, nada, algo, quen, che</em>
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -119,15 +119,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-592 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+559 <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (587; 99%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (559; 94%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (519; 88%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (418; 71%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (556; 99%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (528; 94%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (491; 88%), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (393; 70%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (146; 25% of non-empty `Number`): <em>son, están, poden, estamos, foron, serán, van, deben, eran, estaban</em>
-* `Sing` (446; 75% of non-empty `Number`): <em>é, foi, está, pode, era, sería, vai, será, ten, sexa</em>
-* `EMPTY` (52): <em>ser, sendo, poder, estar, ter, Eis, acabar, ir, parecer, podendo</em>
+* `Plur` (138; 25% of non-empty `Number`): <em>son, están, poden, estamos, foron, serán, van, deben, eran, estaban</em>
+* `Sing` (421; 75% of non-empty `Number`): <em>é, foi, está, pode, era, sería, vai, será, ten, sexa</em>
+* `EMPTY` (50): <em>ser, sendo, poder, estar, ter, acabar, ir, podendo, quedar</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -148,34 +148,34 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PROPN`
 
-463 <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> tokens (29% of all `PROPN` tokens) have a non-empty value of `Number`.
+458 <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> tokens (29% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (297; 64%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (298; 65%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (25; 5% of non-empty `Number`): <em>Bases, Premios, Estados, Mateo, Mestre, 2004, Consellos, Irmandades, Letras, Oscars</em>
-* `Sing` (438; 95% of non-empty `Number`): <em>BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</em>
-* `EMPTY` (1131): <em>Galiza, Ferrol, Manuel, Vigo, Touriño, Xosé, Beiras, Miguel, Pérez, Amenábar</em>
+* `Sing` (433; 95% of non-empty `Number`): <em>BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</em>
+* `EMPTY` (1120): <em>Galiza, Ferrol, Manuel, Vigo, Touriño, Xosé, Beiras, Miguel, Pérez, Amenábar</em>
 
 <table>
   <tr><th>Paradigm <i>2004</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt></tt></td><td><em>2004</em></td><td><em>2004</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (216) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (215) occur only with one value of `Number`.
 
 ### `NUM`
 
-252 <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `Number`.
+254 <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="gl_treegal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (215; 85%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (197; 78%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="gl_treegal-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (217; 85%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (197; 78%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (108; 43% of non-empty `Number`): <em>catro, dous, tres, dúas, dez, cinco, quince, oito, 300, 52</em>
-* `Sing` (144; 57% of non-empty `Number`): <em>primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</em>
-* `EMPTY` (5): <em>36, II, Tres, XII, dos</em>
+* `Sing` (146; 57% of non-empty `Number`): <em>primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</em>
+* `EMPTY` (6): <em>36, 687 614 874, II, Tres, XII, dos</em>
 
 <table>
   <tr><th>Paradigm <i>primeiro</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -188,14 +188,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (3378; 100%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (3379; 100%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1201; 99%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (670; 59%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (671; 59%),
 <tt>PROPN --[<tt><a href="gl_treegal-dep-det.html">det</a></tt>]--> DET</tt> (375; 80%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (341; 86%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (332; 70%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (310; 87%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (344; 87%),
+<tt>NOUN --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (341; 71%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (316; 88%),
 <tt>NOUN --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (307; 83%),
-<tt>NOUN --[<tt><a href="gl_treegal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (138; 98%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (119; 72%).
+<tt>NOUN --[<tt><a href="gl_treegal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (140; 97%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (123; 73%).
 

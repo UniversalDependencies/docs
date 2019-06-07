@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1238; 100% of non-empty `Polarity`): <em>не, ни</em>
-* `EMPTY` (4758): <em>же, бо, ли, и, егда, оубо, ѣко, ѣкоже, пакꙑ, тъгда</em>
+* `EMPTY` (4760): <em>же, бо, ли, и, егда, оубо, ѣко, ѣкоже, пакꙑ, тъгда</em>
 

@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	sister	sister	NOUN	_	_	1	obl:arg	_	_
 6	||	||	PUNCT	_	_	7	punct	_	_
 7	sister	sister	NOUN	_	_	5	conj:dicto	_	_
-8	}	}	PUNCT	_	_	5	punct	_	_
+8	}	}	PUNCT	_	_	7	punct	_	_
 9	Kudi	Kudi	PROPN	_	_	7	flat	_	_
 10	//	//	PUNCT	_	_	1	punct	_	_
 
@@ -72,15 +72,15 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 12	dat	dat	PRON	_	_	13	nmod:poss	_	_
 13	day	day	NOUN	_	_	8	obl:mod	_	_
 14	(	(	PUNCT	_	_	18	punct	_	_
-15	about	about	ADP	_	_	16	advmod	_	_
+15	about	about	ADV	ADP	_	16	advmod	_	_
 16	two	two	NUM	_	_	17	nummod	_	_
 17	month	month	NOUN	_	_	18	obl:mod	_	_
 18	ago	ago	ADV	_	_	8	advmod	_	_
 19	)	)	PUNCT	_	_	18	punct	_	_
-20	no	no	PART	_	_	21	advmod	_	_
-21	be	be	PART	_	_	22	cop	_	_
+20	no	no	ADV	PART	_	22	advmod	_	_
+21	be	be	AUX	PART	_	22	cop	_	_
 22	small	small	ADJ	_	_	0	root	_	_
-23	o	o	PART	_	_	22	advmod:emph	_	_
+23	o	o	ADV	PART	_	22	advmod:emph	_	_
 24	//	//	PUNCT	_	_	22	punct	_	_
 
 ~~~

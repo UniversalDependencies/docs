@@ -20,10 +20,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl |& tee release-2.2-report.txt | less`.
-  (Since the partial shared task releases, the source code is modified to only look at
-  pre-selected UD folders. Check the code to make sure it visits all UD_* repositories.
-  Also check other parameters that are currently hard-coded, such as the release number.)
+* Run `tools/check_files.pl |& tee release-2.4-report.txt | less`.
+  (Check the code for parameters that are currently hard-coded, such as the release number.)
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
   and check whether the treebanks are valid (prerequisite: all UD repositories are registered
@@ -52,20 +50,20 @@ See [here](release_checklist.html) for the checklist for data contributors.
     <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
   <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.3` for UD 2.3).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.4` for UD 2.4).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.3 ; git push --tags ; cd .. ; echo ; done</code>
+  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.4 ; git push --tags ; cd .. ; echo ; done</code>
 
 ## Updating automatically generated parts of documentation
 
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
   <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
-* Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
-  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+* Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:<br />
+  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.4 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
 * Run two other scripts that generate the lists of language-specific features and dependency
@@ -75,10 +73,10 @@ See [here](release_checklist.html) for the checklist for data contributors.
   Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/ext-feat-index.md<br />
   perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt<br />
-  cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push</code>
+  cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..</code>
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
-  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push</code><br />
+  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..</code><br />
   Note that the script updates the data files that are used in many MarkDown pages but it does not update the MarkDown pages directly.
   Jekyll thus will not notice that almost all documentation must be re-generated; it will update nothing, until a change happens
   directly in a MarkDown file, and then it will re-generate only the HTML page based on this MarkDown file.
@@ -89,12 +87,15 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.3 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  <code>RELEASE=2.4 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+  * If we later find out that we need to fix a bug in one (or a few) repository, we can update the release folder without building everything from scratch:<br />
+    <code>RELEASE=2.4 tools/package_ud_release.sh --update UD_X UD_Y</code>
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS). Tell Milan Straka that he can start training UDPipe models of the new data.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
-  they can be reached at lindat-help@ufal.mff.cuni.cz).
+  they can be reached at lindat-help@ufal.mff.cuni.cz).<br />
+  <code>( for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; grep -i license: README* ; cd .. ; echo ; done ) |&amp; less</code>
 * Once the Lindat staff make the new license list available in their system, we can create
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
@@ -117,17 +118,18 @@ See [here](release_checklist.html) for the checklist for data contributors.
   change on approval and you can save it; however, it will not be operational as a URL until the item is archived.
 * Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
+* Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
 
 <small><code style='color:lightgrey'>
-\# copy metadata to biblio ;
-rel="2.3" ;
-path=$(pwd) ;
-cd /net/data ;
-tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz ;
-mv ud-treebanks-v$rel universal-dependencies-$rel ;
-\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)
-cd $HAMLEDT ;
-perl ./populate_ud.pl $rel ;
-cd normalize ; make qpmltq ;
-\# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt) ;
+\# copy metadata to biblio<br />
+rel="2.4"<br />
+path=$(pwd)<br />
+cd /net/data<br />
+tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
+mv ud-treebanks-v$rel universal-dependencies-$rel<br />
+\# check that Treex knows all new language codes (two files: resources XML schema and Core/Types.pm)<br />
+cd $HAMLEDT<br />
+perl ./populate_ud.pl $rel<br />
+cd normalize ; make qpmltq<br />
+\# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt)<br />
 </code></small>

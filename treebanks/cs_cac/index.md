@@ -147,7 +147,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
-<li>This corpus contains 44 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, quo, s, takříkajíc, to, tož, viď, viďte, Žel</li>
+<li>This corpus contains 45 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, quo, s, sice, takříkajíc, to, tož, viď, viďte, Žel</li>
 </ul>
 
 <ul>
@@ -163,11 +163,11 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): být, bývat, moci, muset, mít, pěstovat, připadat, vyžadovat</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): být, bývat</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, moci, muset, mít, pěstovat, připadat, vyžadovat</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat</li>
 </ul>
 
 <ul>
@@ -195,7 +195,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: být, býti, pěstovat, vyžadovat</li>
+    <li>AUX: být, býti</li>
     <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
   </ul>
   </li>
@@ -206,7 +206,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <ul>
     <li>ADJ: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
     <li>AUX: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
-    <li>VERB: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
+    <li>VERB: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
   </ul>
   </li>
 </ul>
@@ -237,7 +237,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, vytvořeny, umístěny, charakterizovány</li>
       <li>ADJ-Part: uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, vytvořeny, umístěny, charakterizovány</li>
-      <li>AUX-Part: byly, nebyly, bývaly, mohly</li>
+      <li>AUX-Part: byly, nebyly, bývaly</li>
       <li>VERB-Part: měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</li>
     </ul>
   </li>
@@ -249,7 +249,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
       <li>ADJ-Part: věnována, dána, provedena, určena, zahájena, založena, dokončena, stanovena, vybudována, spojena</li>
       <li>AUX-Conv: jsouc</li>
-      <li>AUX-Part: byla, nebyla, měla</li>
+      <li>AUX-Part: byla, nebyla</li>
       <li>DET: naše, moje, vaše, tvoje</li>
       <li>NUM: dvě, obě</li>
       <li>VERB-Conv: říkajíc, Počínajíc, chtíc, nechtíc, ponechávajíc, přejímajíc</li>
@@ -263,7 +263,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: další, jednotlivých, první, základní, pracovní, dalších, velký, celý, pracujících, nové</li>
       <li>ADJ-Part: pracujících, pracující, rozhodující, vedoucí, dán, splněn, schválen, určen, pracujícího, uveden</li>
-      <li>AUX-Part: byl, byli, nebyl, býval, nebyli, měl, Mohl</li>
+      <li>AUX-Part: byl, byli, nebyl, býval, nebyli</li>
       <li>DET: který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</li>
       <li>NOUN: roce, roku, pracovníků, úkolů, výsledky, jazyka, procesu, lidí, člověka, úkoly</li>
       <li>NUM: jeden, dva, oba, jednoho</li>
@@ -326,7 +326,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
       <li>ADJ-Part: rozhodující, uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, pracujícího, vytvořeny</li>
-      <li>AUX-Part: byly, nebyly, bývaly, mohly</li>
+      <li>AUX-Part: byly, nebyly, bývaly</li>
       <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
       <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
       <li>NUM: jeden</li>
@@ -359,7 +359,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADJ-Part: pracujících, pracující, uvedeny, určeny, splněny, vedoucí, týkající, vedoucích, následující, provedeny</li>
       <li>AUX-Conv: byvše, jsouce</li>
       <li>AUX-Fin: jsou, jsme, budou, bychom, nejsou, budeme, jste, byste, nebudou, bývají</li>
-      <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly, mohly</li>
+      <li>AUX-Part: byly, byli, nebyly, nebyli, bývaly</li>
       <li>DET: které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</li>
       <li>NOUN: let, pracovníků, úkolů, výsledky, lidí, úkoly, podmínky, letech, lidé, práce</li>
       <li>NUM: dvou, dvě, tři, dva, obou, dvěma, tří, čtyři, oba, obě</li>
@@ -377,7 +377,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
       <li>ADJ-Part: věnována, dána, provedena, určena, zahájena, založena, dokončena, stanovena, vybudována, spojena</li>
-      <li>AUX-Part: byla, nebyla, měla</li>
+      <li>AUX-Part: byla, nebyla</li>
       <li>VERB-Part: měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</li>
     </ul>
   </li>
@@ -390,7 +390,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, odpovídající, řídící, pracující, uvedeno, dán, splněn</li>
       <li>AUX-Conv: jsouc</li>
       <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, buď</li>
-      <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo, měl, Mohl</li>
+      <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo</li>
       <li>DET: to, který, která, tím, této, tom, toho, tento, tohoto, tomu</li>
       <li>NOUN: práce, roce, práci, roku, době, společnosti, oblasti, hlediska, činnosti, výroby</li>
       <li>NUM: jeden, jedné, jednoho, jedním, jednu, jedna, pět, jednom, jedno, tisíc</li>
@@ -398,7 +398,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>PROPN: Praze, Praha, Škoda, Prahy, Fučík, Erben, Československa, Karel, Horálek, Země</li>
       <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Počínajíc, chtíc, dožívaje, klusaje, konče, nechtíc</li>
       <li>VERB-Fin: je, má, může, jde, lze, musí, nelze, znamená, nemůže, není</li>
-      <li>VERB-Part: měl, bylo, došlo, mohl, byl, mělo, řekl, podařilo, chtěl, stal</li>
+      <li>VERB-Part: měl, bylo, mohl, došlo, byl, mělo, řekl, podařilo, chtěl, stal</li>
     </ul>
   </li>
 </ul>
@@ -549,7 +549,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Pos
     <ul>
       <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</li>
-      <li>ADV: tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, vlastně</li>
+      <li>ADV: tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</li>
       <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
     </ul>
   </li>
@@ -593,15 +593,15 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>ADV: tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</li>
       <li>AUX-Conv: byvše, jsouc, jsouce</li>
       <li>AUX-Fin: je, jsou, bude, jsme, jsem, budou, budeme, jste, bývá, bývají</li>
-      <li>AUX-Inf: být, býti, pěstovat, vyžadovat</li>
-      <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývalo, měl, Mohl, bývaly</li>
+      <li>AUX-Inf: být, býti</li>
+      <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývalo, bývaly</li>
       <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
       <li>NOUN: práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</li>
       <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
       <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
       <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
       <li>VERB-Inf: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
-      <li>VERB-Part: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
+      <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
     </ul>
   </li>
 </ul>
@@ -632,8 +632,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</li>
       <li>AUX-Conv: jsouc, jsouce</li>
-      <li>AUX-Fin: bývá, bývají, nebývá, nebývají, připadá</li>
-      <li>AUX-Inf: pěstovat, vyžadovat</li>
+      <li>AUX-Fin: bývá, bývají, nebývá, nebývají</li>
       <li>AUX-Part: býval, bývalo, bývaly</li>
       <li>CCONJ: buď</li>
       <li>NOUN: tváří</li>
@@ -709,7 +708,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>AUX-Conv: byvše</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
       <li>VERB-Conv: vyměně</li>
-      <li>VERB-Part: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
+      <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
     </ul>
   </li>
 </ul>
@@ -739,7 +738,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, býval</li>
       <li>VERB-Conv: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
       <li>VERB-Fin: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-      <li>VERB-Part: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
+      <li>VERB-Part: měl, měla, bylo, mohli, mohl, došlo, měli, byl, měly, mělo</li>
     </ul>
   </li>
 </ul>
@@ -819,6 +818,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: přičemž, zato</li>
       <li>DET: jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</li>
       <li>PRON: jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</li>
     </ul>
@@ -934,7 +934,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: jste, byste, budete, jsi, buď, nebudete, bys, budeš, buďte, Nebuď</li>
+      <li>AUX-Fin: jste, byste, jsi, budete, buď, nebudete, bys, budeš, buďte, Nebuď</li>
       <li>DET: vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</li>
       <li>PRON: vám, vás, vy, ti, tě, ty, vámi, tebe, tebou</li>
       <li>VERB-Fin: viz, můžete, máte, víte, najdete, překonej, nechte, nemáte, znáte, chcete</li>
@@ -1307,7 +1307,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 37 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, moci, mít, muset, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, pěstovat, připadat, souhrn, titul, uhlí, vyžadovat, výhodný, zahrada, znak, značka, řehole.</li>
+<li>This corpus uses 31 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, souhrn, titul, uhlí, výhodný, zahrada, znak, značka, řehole.</li>
 </ul>
 
 <ul>
@@ -1327,14 +1327,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-      <li>VERB-Fin--NOUN-Nom (8429)</li>
-      <li>VERB-Fin--PRON (28)</li>
+      <li>VERB-Fin--NOUN-Nom (8440)</li>
+      <li>VERB-Fin--PRON (29)</li>
       <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Gen (15)</li>
       <li>VERB-Fin--PRON-Gen-ADP(kolem) (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Nom (534)</li>
+      <li>VERB-Fin--PRON-Nom (535)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>
       <li>VERB-Inf--NOUN-Gen (7)</li>
@@ -1347,7 +1347,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(přes) (2)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--NOUN-Nom (3978)</li>
+      <li>VERB-Part--NOUN-Nom (3980)</li>
       <li>VERB-Part--PRON (15)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (6)</li>
@@ -1368,18 +1368,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (342)</li>
       <li>VERB-Fin--NOUN-Gen (445)</li>
       <li>VERB-Fin--NOUN-Ins (234)</li>
-      <li>VERB-Fin--NOUN-Nom (99)</li>
+      <li>VERB-Fin--NOUN-Nom (98)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (612)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
-      <li>VERB-Fin--PRON-Dat (205)</li>
+      <li>VERB-Fin--PRON-Dat (206)</li>
       <li>VERB-Fin--PRON-Gen (20)</li>
       <li>VERB-Fin--PRON-Ins (11)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (5)</li>
-      <li>VERB-Inf--NOUN-Acc (3542)</li>
+      <li>VERB-Inf--NOUN-Acc (3543)</li>
       <li>VERB-Inf--NOUN-Dat (134)</li>
       <li>VERB-Inf--NOUN-Gen (219)</li>
       <li>VERB-Inf--NOUN-Ins (62)</li>

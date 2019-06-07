@@ -11,8 +11,8 @@ It occurs with 7 different values: `Acc`, `Dat`, `Erg`, `Gen`, `Ine`, `Ins`, `No
 Some words have combined values of the feature; 5 combinations have been observed: `Acc|Dat`, `Acc|Erg`, `Acc|Gen`, `Acc|Ine`, `Acc|Ins`.
 
 189511 tokens (54%) have a non-empty value of `Case`.
-16108 types (84%) occur at least once with a non-empty value of `Case`.
-14001 lemmas (90%) occur at least once with a non-empty value of `Case`.
+16016 types (84%) occur at least once with a non-empty value of `Case`.
+13953 lemmas (90%) occur at least once with a non-empty value of `Case`.
 The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42542; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (27279; 8% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (13841; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6509; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4933; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1380; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (598; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -170,7 +170,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Acc` (5634; 87% of non-empty `Case`): करने, होने, देने, बनाने, आने, लेने, मिलने, कराने, रखने, जाने
-* `Acc,Erg` (9; 0% of non-empty `Case`): जाने, ढूंढ़ने, पहुंचने, सुलझाने, कराने, बांटने, मांगने, संभालने
+* `Acc,Erg` (9; 0% of non-empty `Case`): जाने, ढूंढ़ने, पहुंचने, सुलझाने, कराने, बांटने, मांगने, संभालने
 * `Acc,Gen` (2; 0% of non-empty `Case`): करके
 * `Nom` (864; 13% of non-empty `Case`): कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने
 * `EMPTY` (27244): कहा, किया, कर, की, हो, है, बताया, हुई, करते, दिया
@@ -260,7 +260,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Acc` (544; 91% of non-empty `Case`): जाने, रखने, पाने, देने, लेने, रहने, होने, जाना, वाले, डालने
 * `Acc,Erg` (1; 0% of non-empty `Case`): जाने
-* `Nom` (53; 9% of non-empty `Case`): जाना, वाला, पाना, रखना, कर, वाले, देना, पड़ती, रहना, है
+* `Nom` (53; 9% of non-empty `Case`): जाना, वाला, पाना, रखना, कर, वाले, देना, पड़ती, रहना, है
 * `EMPTY` (25432): है, हैं, गया, था, गई, हुए, गए, थी, जा, दिया
 
 <table>
@@ -279,9 +279,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (277; 96% of non-empty `Case`): दोनों, करोड़, हजार, लाख, शून्य, एक, तीन, १०, चार, छह
-* `Nom` (11; 4% of non-empty `Case`): दोनों, पौने, एक, करोड़ों, चारों, दसियों, दो, ४६
-* `EMPTY` (6452): एक, दो, दोनों, तीन, चार, करोड़, लाख, हजार, पांच, छह
+* `Acc` (277; 96% of non-empty `Case`): दोनों, करोड़, हजार, लाख, शून्य, एक, तीन, १०, चार, छह
+* `Nom` (11; 4% of non-empty `Case`): दोनों, पौने, एक, करोड़ों, चारों, दसियों, दो, ४६
+* `EMPTY` (6452): एक, दो, दोनों, तीन, करोड़, चार, लाख, हजार, पांच, छह
 
 <table>
   <tr><th>Paradigm <i>एक</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -320,14 +320,14 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 `X` tokens may have the following values of `Case`:
 
-* `Acc` (4; 29% of non-empty `Case`): बड़े, बडे, बड़ी
-* `Nom` (10; 71% of non-empty `Case`): अलग, अपने, भूरि, इतनी, खासी, दर्जन, बड़ा, साथ
+* `Acc` (4; 29% of non-empty `Case`): बड़े, बड़ी, बडे
+* `Nom` (10; 71% of non-empty `Case`): अलग, अपने, भूरि, इतनी, खासी, दर्जन, बड़ा, साथ
 * `EMPTY` (134): पास, रिकॉर्ड, डाउनलोड, फिट, फेल, बुक, आउट, आफ, इंटरसेप्ट, रेफर
 
 <table>
-  <tr><th>Paradigm <i>बड़ा</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>बड़ा</td><td>बड़े</td></tr>
-  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>बड़ी</td></tr>
+  <tr><th>Paradigm <i>बड़ा</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>बड़ा</td><td>बड़े</td></tr>
+  <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>बड़ी</td></tr>
 </table>
 
 ### `SCONJ`

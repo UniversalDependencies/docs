@@ -24,11 +24,11 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 1 2 flat:name	color:blue
 1	यास	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	4	compound	_	Translit=yāsa
 2	मरीना	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	1	flat:name	_	Translit=marīnā
-3	सर्किट	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	1	flat:name	_	Translit=sarkiṭa
-4	वेबसाइट	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod:poss	_	Translit=vebasāiṭa
+3	सर्किट	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	1	flat:name	_	Translit=sarkiṭa
+4	वेबसाइट	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod:poss	_	Translit=vebasāiṭa
 5	की	_	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī
-6	टाइमिंग	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Translit=ṭāimiṁga
-7	सटीक	_	ADJ	JJ	_	0	root	_	Translit=saṭīka
+6	टाइमिंग	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Translit=ṭāimiṁga
+7	सटीक	_	ADJ	JJ	_	0	root	_	Translit=saṭīka
 8	है	_	AUX	VBI	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	SpaceAfter=No|Translit=hai
 9	।	_	PUNCT	.	_	7	punct	_	Translit=.
 

@@ -6,32 +6,44 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PDT: POS Tags: `SYM`
 
-There are 7 `SYM` lemmas (0%), 7 `SYM` types (0%) and 1260 `SYM` tokens (0%).
+There are 13 `SYM` lemmas (0%), 13 `SYM` types (0%) and 1320 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, x, +, =, /, *, $</em>
+The 10 most frequent `SYM` lemmas: <em>%, x, +, =, *, /, >, :, <, $</em>
 
-The 10 most frequent `SYM` types:  <em>%, x, +, =, /, *, $</em>
+The 10 most frequent `SYM` types:  <em>%, x, +, =, *, /, >, :, <, $</em>
 
-The 10 most frequent ambiguous lemmas: <em>x</em> (<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 3), <em>/</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 10)
+The 10 most frequent ambiguous lemmas: <em>x</em> (<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 3), <em>*</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 615, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 50), <em>/</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 18), <em>:</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 6157, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 11380, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> 1), <em>.</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 84561, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2), <em>§</em> (<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 58, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 3), <em>/</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 10)
+The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 3), <em>*</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 615, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 50), <em>/</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 18), <em>:</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 6157, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 11380, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2), <em>.</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 84561, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2), <em>|</em> (<tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 86, <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>x</em>
   * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 120: <em>Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230</em>
   * <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> 41: <em>* s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,</em>
   * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 3: <em><b>x</b> - údaje za 1 . pololetí</em>
+* <em>*</em>
+  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 615: <em>Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b></em>
+  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 50: <em>Jaká je vzdělanost našeho národa <b>*</b></em>
 * <em>/</em>
   * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 700: <em>Přenosová rychlost : ( A 4 <b>/</b> sec ) 12</em>
   * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 18: <em>Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .</em>
-* <em>*</em>
-  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 655: <em>Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b></em>
-  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 10: <em>Jaká je vzdělanost našeho národa <b>*</b></em>
+* <em>:</em>
+  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 6157: <em>Obrázek <b>:</b> 3</em>
+  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 5: <em>100 <b>:</b> 3.68 = 27</em>
+* <em>-</em>
+  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 11380: <em>Výrobce <b>-</b> typ : PANASONIC PANAFAX UF <b>-</b> 311</em>
+  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2: <em>Z teorie čísel je známo , že pro každou takovou volbu čísla i existuje právě jedno číslo j menší než φ ( n ) , pro něž platí , že číslo i . j <b>-</b> 1 je dělitelné číslem φ ( n ) .</em>
+* <em>.</em>
+  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 84561: <em>Zvedněte telefon a zavolejte <b>.</b></em>
+  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 2: <em>( Např . je - li n = 33 , máme možnost sedmi voleb čísla i : protože φ ( 33 ) = 2 <b>.</b> 10 = 20 , můžeme vybírat z čísel 3 , 7 , 9 , 11 , 13 , 17 , 19 . )</em>
+* <em>|</em>
+  * <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> 86: <em><b>|</b> Rady na telefon <b>|</b></em>
+  * <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> 1: <em>Pokud by se za policistu vydával , hrozí mu naopak postih pro trestný čin poškozování cizích práv podle <b>|</b> 209 tr . zák . , pokud by jeho jednání nebylo postiženo jinak .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.181849).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.181762).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -39,32 +51,32 @@ The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
 
-`SYM` occurs with 1 features: <tt><a href="cs_pdt-feat-ConjType.html">ConjType</a></tt> (120; 10% instances)
+`SYM` occurs with 2 features: <tt><a href="cs_pdt-feat-ConjType.html">ConjType</a></tt> (151; 11% instances), <tt><a href="cs_pdt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`SYM` occurs with 1 feature-value pairs: `ConjType=Oper`
+`SYM` occurs with 2 feature-value pairs: `ConjType=Oper`, `Typo=Yes`
 
-`SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1140 tokens).
-Examples: <em>%, +, =, /, *, $</em>
+`SYM` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1168 tokens).
+Examples: <em>%, +, =, *, /, $</em>
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 16 different relations: <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (927; 74% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (149; 12% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (52; 4% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (20; 2% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="cs_pdt-dep-root.html">root</a></tt> (18; 1% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (9; 1% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="cs_pdt-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt> (4; 0% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (1; 0% instances)
+`SYM` nodes are attached to their parents using 20 different relations: <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (916; 69% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (149; 11% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (52; 4% instances), <tt><a href="cs_pdt-dep-root.html">root</a></tt> (36; 3% instances), <tt><a href="cs_pdt-dep-flat.html">flat</a></tt> (29; 2% instances), <tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt> (24; 2% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (23; 2% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (20; 2% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (19; 1% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (9; 1% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cs_pdt-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt> (4; 0% instances), <tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-punct.html">punct</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (929; 74% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (166; 13% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (75; 6% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (19; 2% instances),  (18; 1% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (937; 71% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (174; 13% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (77; 6% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (39; 3% instances),  (36; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (23; 2% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (18; 1% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-747 (59%) `SYM` nodes are leaves.
+767 (58%) `SYM` nodes are leaves.
 
-350 (28%) `SYM` nodes have one child.
+349 (26%) `SYM` nodes have one child.
 
-67 (5%) `SYM` nodes have two children.
+68 (5%) `SYM` nodes have two children.
 
-96 (8%) `SYM` nodes have three or more children.
+136 (10%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 9.
 
-Children of `SYM` nodes are attached using 20 different relations: <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (282; 33% instances), <tt><a href="cs_pdt-dep-nummod.html">nummod</a></tt> (152; 18% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (85; 10% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (83; 10% instances), <tt><a href="cs_pdt-dep-punct.html">punct</a></tt> (74; 9% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (43; 5% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (25; 3% instances), <tt><a href="cs_pdt-dep-advmod-emph.html">advmod:emph</a></tt> (24; 3% instances), <tt><a href="cs_pdt-dep-obl.html">obl</a></tt> (24; 3% instances), <tt><a href="cs_pdt-dep-amod.html">amod</a></tt> (13; 2% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (11; 1% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (10; 1% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (6; 1% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="cs_pdt-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="cs_pdt-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (1; 0% instances)
+Children of `SYM` nodes are attached using 22 different relations: <tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt> (283; 28% instances), <tt><a href="cs_pdt-dep-punct.html">punct</a></tt> (172; 17% instances), <tt><a href="cs_pdt-dep-nummod.html">nummod</a></tt> (153; 15% instances), <tt><a href="cs_pdt-dep-case.html">case</a></tt> (86; 8% instances), <tt><a href="cs_pdt-dep-obj.html">obj</a></tt> (75; 7% instances), <tt><a href="cs_pdt-dep-obl.html">obl</a></tt> (66; 6% instances), <tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt> (46; 5% instances), <tt><a href="cs_pdt-dep-conj.html">conj</a></tt> (26; 3% instances), <tt><a href="cs_pdt-dep-advmod-emph.html">advmod:emph</a></tt> (24; 2% instances), <tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt> (18; 2% instances), <tt><a href="cs_pdt-dep-amod.html">amod</a></tt> (13; 1% instances), <tt><a href="cs_pdt-dep-cc.html">cc</a></tt> (12; 1% instances), <tt><a href="cs_pdt-dep-advmod.html">advmod</a></tt> (10; 1% instances), <tt><a href="cs_pdt-dep-mark.html">mark</a></tt> (9; 1% instances), <tt><a href="cs_pdt-dep-cop.html">cop</a></tt> (6; 1% instances), <tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt> (6; 1% instances), <tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cs_pdt-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-flat.html">flat</a></tt> (3; 0% instances), <tt><a href="cs_pdt-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="cs_pdt-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Children of `SYM` nodes belong to 15 different parts of speech: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (322; 38% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (256; 30% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (85; 10% instances), <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> (74; 9% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (23; 3% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (15; 2% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (14; 2% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (13; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Children of `SYM` nodes belong to 15 different parts of speech: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (334; 33% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (283; 28% instances), <tt><a href="cs_pdt-pos-PUNCT.html">PUNCT</a></tt> (172; 17% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (86; 8% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (23; 2% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (18; 2% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (17; 2% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="cs_pdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 

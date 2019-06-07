@@ -2,6 +2,7 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
 
 In Irish, verb form is a feature of words which have the appearance of a verb, although they function as other parts of speech. 

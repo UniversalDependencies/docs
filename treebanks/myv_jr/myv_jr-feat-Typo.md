@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 1 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Typo`:
 

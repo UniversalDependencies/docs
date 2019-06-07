@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3789 nodes (2%) are attached to their parents as `cop`.
+3561 nodes (2%) are attached to their parents as `cop`.
 
-3473 instances of `cop` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.0765373449459.
+3264 instances of `cop` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.07385565852289.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1875; 49% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1462; 39% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (170; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (166; 4% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (62; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1800; 51% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (1335; 37% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (168; 5% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (149; 4% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (57; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt>-<tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -22,8 +22,8 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cop	color:blue
-1	ei	ei	VERB	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
-2	voi	voida	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	voi	voida	AUX	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
 4	varhmaan	varmaan	PART	Pcle	Style=Coll	3	advmod	_	_
 5	että	että	SCONJ	Pcle,CS	_	9	mark	_	_

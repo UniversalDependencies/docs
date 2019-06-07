@@ -44,7 +44,7 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 1	Pracoval	pracovat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
 3	BBC	BBC	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	1	obl	_	_
-4	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	7	advmod:emph	_	LId=hodně-2
+4	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	7	advmod	_	LId=hodně-2
 5	než	než	SCONJ	J,-------------	_	4	fixed	_	LId=než-2
 6	deset	deset	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	7	nummod:gov	_	LNumValue=10
 7	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	1	obl	_	SpaceAfter=No

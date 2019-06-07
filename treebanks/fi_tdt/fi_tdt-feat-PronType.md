@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-13200 tokens (7%) have a non-empty value of `PronType`.
-804 types (1%) occur at least once with a non-empty value of `PronType`.
-43 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13200; 7% instances).
+13218 tokens (7%) have a non-empty value of `PronType`.
+803 types (1%) occur at least once with a non-empty value of `PronType`.
+44 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (13217; 7% instances), <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-13200 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
+13217 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10418; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9926; 75%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10428; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9941; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (5144; 39% of non-empty `PronType`): <em>se, sen, sitä, siitä, tämän, tämä, ne, tässä, niiden, siihen</em>
-* `Ind` (2530; 19% of non-empty `PronType`): <em>kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</em>
+* `Dem` (5156; 39% of non-empty `PronType`): <em>se, sen, sitä, siitä, tämän, tämä, ne, tässä, niiden, siihen</em>
+* `Ind` (2533; 19% of non-empty `PronType`): <em>kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</em>
 * `Int` (377; 3% of non-empty `PronType`): <em>mitä, mikä, kuka, mistä, missä, mihin, minkä, mitkä, millä, mitähän</em>
-* `Prs` (2866; 22% of non-empty `PronType`): <em>hän, hänen, minä, he, meidän, mä, me, heidän, minun, minua</em>
+* `Prs` (2873; 22% of non-empty `PronType`): <em>hän, hänen, minä, he, meidän, mä, me, heidän, minun, minua</em>
 * `Rcp` (185; 1% of non-empty `PronType`): <em>toinen, toisen, toiselle, toiseen, toisella, toisiinsa, toisten, toiset, toisiaan, toisessa</em>
-* `Rel` (2098; 16% of non-empty `PronType`): <em>joka, jotka, jonka, jossa, mitä, joita, jota, joiden, mikä, joissa</em>
-* `EMPTY` (263): <em>itsensä, itse, itselleen, itseään, joka, itseni, itseäni, toinen, itselleni, itsestään</em>
+* `Rel` (2093; 16% of non-empty `PronType`): <em>joka, jotka, jonka, jossa, joita, jota, mitä, joiden, mikä, joissa</em>
+* `EMPTY` (266): <em>itsensä, itse, itselleen, itseään, joka, itseni, itseäni, toinen, itselleni, itsestään</em>
 
 <table>
   <tr><th>Paradigm <i>joka</i></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -58,11 +58,22 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>joka</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (40) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (41) occur only with one value of `PronType`.
+
+### `NUM`
+
+1 <tt><a href="fi_tdt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=Ine</tt> (1; 100%), <tt><a href="fi_tdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `PronType`:
+
+* `Ind` (1; 100% of non-empty `PronType`): <em>yhdessäkään</em>
+* `EMPTY` (4979): <em>1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (22; 61%),
+<tt>PRON --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (23; 62%),
 <tt>PRON --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> PRON</tt> (2; 100%).
 

@@ -28,14 +28,14 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	get	get	VERB	_	_	0	root	_	_
 4	people	people	NOUN	_	_	3	nsubj:quasi	_	_
 5	#	#	PUNCT	_	_	10	punct	_	_
-6	{	{	PUNCT	_	_	5	punct	_	_
+6	{	{	PUNCT	_	_	10	punct	_	_
 7	wey	wey	SCONJ	_	_	10	mark	_	_
 8	government	government	NOUN	_	_	10	nsubj	_	_
 9	dey	dey	AUX	_	_	10	aux	_	_
 10	pay	pay	VERB	_	_	4	acl:relcl	_	_
 11	special	special	ADJ	_	_	10	xcomp	_	_
 12	|	|	PUNCT	_	_	18	punct	_	_
-13	#	#	PUNCT	_	_	12	punct	_	_
+13	#	#	PUNCT	_	_	18	punct	_	_
 14	wey	wey	SCONJ	_	_	18	mark	_	_
 15	dem	dem	PRON	_	_	17	nmod:poss	_	_
 16	own	own	ADJ	_	_	17	amod	_	_
@@ -44,13 +44,13 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 19	sey	sey	SCONJ	_	_	23	mark	_	_
 20	to	to	ADP	_	_	23	mark	_	_
 21	dey	dey	AUX	_	_	23	aux	_	_
-22	{	{	PUNCT	_	_	21	punct	_	_
+22	{	{	PUNCT	_	_	23	punct	_	_
 23	sweep	sweep	VERB	_	_	18	ccomp	_	_
 24	di	di	DET	_	_	25	det	_	_
 25	road	road	NOUN	_	_	23	obj	_	_
-26	dem	dem	PART	_	_	25	det	_	_
+26	dem	dem	DET	PART	_	25	det	_	_
 27	|	|	PUNCT	_	_	30	punct	_	_
-28	#	#	PUNCT	_	_	27	punct	_	_
+28	#	#	PUNCT	_	_	30	punct	_	_
 29	and	and	CCONJ	_	_	30	cc	_	_
 30	see	see	VERB	_	_	23	conj:coord	_	_
 31	sey	sey	SCONJ	_	_	36	mark	_	_
@@ -60,8 +60,9 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 35	e	e	PRON	_	_	36	nsubj	_	_
 36	clean	clean	VERB	_	_	30	ccomp	_	_
 37	proper	proper	ADV	_	_	36	advmod	_	_
-38	}	}	PUNCT	_	_	21	punct	_	_
-39	//	//	PUNCT	_	_	3	punct	_	_
+38	}	}	PUNCT	_	_	23	punct	_	_
+39	}	}	PUNCT	_	_	10	punct	_	_
+40	//	//	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

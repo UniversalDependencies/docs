@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 15	―	―	PUNCT	PUNCT	_	17	punct	_	_
 16	од	од	ADJ	A	_	17	amod	_	_
 17	цёрат	цёра	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	14	compound	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
-18	...	...	PUNCT	CLB	_	1	punct	_	_
+18	...	...	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-flat.html">flat</a></tt>.
 There are also 6 other language-specific subtypes of `flat`: <tt><a href="uk_iu-dep-flat-abs.html">flat:abs</a></tt>, <tt><a href="uk_iu-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_iu-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_iu-dep-flat-repeat.html">flat:repeat</a></tt>, <tt><a href="uk_iu-dep-flat-sibl.html">flat:sibl</a></tt>, <tt><a href="uk_iu-dep-flat-title.html">flat:title</a></tt>.
 
-199 nodes (0%) are attached to their parents as `flat:foreign`.
+220 nodes (0%) are attached to their parents as `flat:foreign`.
 
-199 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95477386934673.
+220 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.05.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (199; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (220; 100% instances).
 
 
 ~~~ conllu

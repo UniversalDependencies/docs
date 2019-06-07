@@ -8,68 +8,65 @@ udver: '2'
 
 This relation is universal.
 
-4101 nodes (5%) are attached to their parents as `aux`.
+4481 nodes (5%) are attached to their parents as `aux`.
 
-2776 instances of `aux` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.87564008778347.
+3089 instances of `aux` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.935951796474.
 
-The following 14 pairs of parts of speech are connected with `aux`: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (3177; 77% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (709; 17% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (125; 3% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `aux`: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (3428; 77% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (819; 18% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (143; 3% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PART.html">PART</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 aux	color:blue
+1	Bitići	Bitići	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	SCONJ	Cs	_	7	mark	_	_
+4	bi	biti	AUX	Vaa3p	Mood=Cnd|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	jači	jak	ADJ	Agcmpny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
+6	sindikati	sindikat	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	doneli	doneti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	ccomp	_	_
+8	bolje	dobar	ADJ	Agcmpay	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
+9	ishode	ishod	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 aux	color:blue
+1	Toliko	toliko	ADV	Rgp	Degree=Pos|PronType=Dem	3	det:numgov	_	_
+2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	radnika	radnik	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
+4	otpušteno	otpustiti	ADJ	Appnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	Druga	drugi	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	2	nummod	_	_
-2	dvojica	dvojica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
-4	rekli	reći	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-5	da	da	SCONJ	_	_	7	mark	_	_
-6	neće	hteti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
-7	prisustvovati	prisustvovati	VERB	_	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 aux	color:blue
-1	Međutim	međutim	ADV	_	Degree=Pos	6	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	sastanak	sastanak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-4	nikada	nikada	ADV	_	Degree=Pos	6	advmod	_	_
-5	nije	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
-6	održan	održati	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 aux	color:blue
-1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Kada	kada	ADV	_	Degree=Pos	5	mark	_	_
-3	bih	biti	AUX	_	Number=Sing|Person=1|Tense=Past	5	aux	_	_
-4	danas	danas	ADV	_	Degree=Pos	5	advmod	_	_
-5	podneo	podneti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
-6	ostavku	ostavka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-7	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	_
-8	bi	biti	AUX	_	Number=Sing|Person=3|Tense=Past	10	aux	_	_
-9	bio	biti	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	10	cop	_	_
-10	znak	znak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-11	slabosti	slabost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-12	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 aux	color:blue
+1	Oto	Oto	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	Rehagel	Rehagel	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+3	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+4	devet	devet	NUM	Mlc	NumType=Card	5	nummod:gov	_	_
+5	godina	godina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	7	obl	_	_
+6	bio	biti	AUX	Vap-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	cop	_	_
+7	trener	trener	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	grčke	grčki	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	reprezentacije	reprezentacija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

@@ -12,19 +12,19 @@ It occurs with 3 different values: `Connaught`, `Munster`, `Ulster`.
 51 tokens (0%) have a non-empty value of `Dialect`.
 18 types (0%) occur at least once with a non-empty value of `Dialect`.
 16 lemmas (0%) occur at least once with a non-empty value of `Dialect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ga_idt-pos-X.html">X</a></tt> (49; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ga_idt-pos-X.html">X</a></tt> (25; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (24; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `X`
 
-49 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (18% of all `X` tokens) have a non-empty value of `Dialect`.
+25 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (16% of all `X` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `X` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (26; 53%).
+The most frequent other feature values with which `X` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (25; 100%).
 
 `X` tokens may have the following values of `Dialect`:
 
-* `Connaught` (1; 2% of non-empty `Dialect`): <em>Caidé</em>
-* `Munster` (37; 76% of non-empty `Dialect`): <em>san, so, age, dein, des, dhein, fachta, Bhraitheas, chuireas, deineadh</em>
-* `Ulster` (11; 22% of non-empty `Dialect`): <em>chan, fá, cha, Caidé, achan, domhsa</em>
+* `Connaught` (1; 4% of non-empty `Dialect`): <em>Caidé</em>
+* `Munster` (13; 52% of non-empty `Dialect`): <em>age, dein, des, dhein, fachta, Bhraitheas, chuireas, deineadh, ná, san</em>
+* `Ulster` (11; 44% of non-empty `Dialect`): <em>chan, fá, cha, Caidé, achan, domhsa</em>
 
 <table>
   <tr><th>Paradigm <i>cad_é</i></th><th><tt>Connaught</tt></th><th><tt>Ulster</tt></th></tr>
@@ -33,6 +33,16 @@ The most frequent other feature values with which `X` and `Dialect` co-occurred:
 </table>
 
 `Dialect` seems to be **lexical feature** of `X`. 93% lemmas (14) occur only with one value of `Dialect`.
+
+### `DET`
+
+24 <tt><a href="ga_idt-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Dialect`.
+
+The most frequent other feature values with which `DET` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (24; 100%).
+
+`DET` tokens may have the following values of `Dialect`:
+
+* `Munster` (24; 100% of non-empty `Dialect`): <em>san, so</em>
 
 ### `VERB`
 

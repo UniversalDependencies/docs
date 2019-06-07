@@ -79,6 +79,7 @@ udver: '2.4'
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
   * XPOS VERB_PSEU *tantx* (this one only provisionally so pending further study)
+  * XPOS PRON_PERS *hux*, *hix* etc. which function as interrogative pronouns
   * XPOS PRON_PERS_NEG and XPOS PRON_PERS when preceded by XPOS NEG
   * XPOS VERB *ġa* used as the passive auxiliary
   * XPOS FUT (*se*, *ħa*, *għad*) and XPOS PROG (*qed* and its variants)
@@ -106,6 +107,7 @@ udver: '2.4'
   * Personal pronoun (XPOS PRON_PERS) as the copula (Type ii)
   * XPOS PART_ACT *qiegħed* and its forms as the copula (Type iii)
   * XPOS KIEN as the copula (Type iv)
+* The relation `cop` is used for XPOS PRON_PERS, XPOS PART_ACT and XPOS KIEN in copular clauses of Types ii-iv. The negated form of personal pronouns (XPOS PRON_PERS_NEG) when functioning as a negative copula is provisionally tagged `aux:neg` throughout.
 
 ### Core and oblique arguments
 * Core arguments in MUDT are defined based on verbal valency, largely as conceptualized by [VALLEX 3.0](http://ufal.mff.cuni.cz/vallex/3.0/theory.html), especially its notion of obligatoriness

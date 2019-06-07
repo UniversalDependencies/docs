@@ -24,17 +24,15 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (54; 92% of non-empty `Degree`): <em>седе, седеяк</em>
 * `Sup` (5; 8% of non-empty `Degree`): <em>сех, Весемеде, сехте</em>
-* `EMPTY` (1255): <em>ансяк, кода, пек, истя, уш, ней, мейле, прок, яла, эщо</em>
+* `EMPTY` (1299): <em>ансяк, кода, пек, истя, уш, ней, мейле, прок, яла, эщо</em>
 
 ### `PART`
 
-8 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `PART` and `Degree` co-occurred: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%).
+8 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Degree`.
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 25% of non-empty `Degree`): <em>седе, седеяк</em>
 * `Sup` (6; 75% of non-empty `Degree`): <em>весемеде, сехте</em>
-* `EMPTY` (341): <em>а, апак, жо, аволь, бути, прок, ли, бу, вана, эно</em>
+* `EMPTY` (108): <em>жо, бути, прок, вана, эно, буто, паряк, ялатеке, Бульчом, Ведь</em>
 

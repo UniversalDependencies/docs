@@ -2,6 +2,7 @@
 layout: relation
 title:  'case:voc'
 shortdef : 'vocative particle'
+udver: '2'
 ---
 
 A vocative particle precedes and marks the case of an addressee.

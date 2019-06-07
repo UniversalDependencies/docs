@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1041 nodes (1%) are attached to their parents as `nummod`.
+1043 nodes (1%) are attached to their parents as `nummod`.
 
-721 instances of `nummod` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29586935638809.
+722 instances of `nummod` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29530201342282.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (867; 83% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (108; 10% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (45; 4% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (869; 83% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (108; 10% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (45; 4% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.41
 2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.41
 3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=MATT_5.41
-4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	acl	_	ref=MATT_5.41
+4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=MATT_5.41
 5	mille	mille	NUM	Ma	_	6	nummod	_	ref=MATT_5.41
 6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=MATT_5.41
 7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.41
@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	et	et	CCONJ	C-	_	7	cc	_	ref=MATT_5.41
 2	quicumque	quicumque	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=MATT_5.41
 3	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=MATT_5.41
-4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	acl	_	ref=MATT_5.41
+4	angariaverit	angario	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=MATT_5.41
 5	mille	mille	NUM	Ma	_	6	nummod	_	ref=MATT_5.41
 6	passus	passus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	ref=MATT_5.41
 7	vade	vado	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.41

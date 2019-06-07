@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-24417 tokens (23%) have a non-empty value of `Animacy`.
-11200 types (43%) occur at least once with a non-empty value of `Animacy`.
-6502 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (9162; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (5111; 5% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (3969; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (2994; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1521; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1025; 1% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (342; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (258; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (1; 0% instances).
+24414 tokens (23%) have a non-empty value of `Animacy`.
+11197 types (43%) occur at least once with a non-empty value of `Animacy`.
+6503 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (9162; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (5112; 5% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (3966; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (2995; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1521; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1025; 1% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (341; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (258; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
 
@@ -41,15 +41,15 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 ### `VERB`
 
-5111 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Animacy`.
+5112 <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> tokens (36% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5111; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5111; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5111; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5110; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5110; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4734; 93%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4272; 84%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3112; 61%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5112; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5112; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5112; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5111; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5111; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4735; 93%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4273; 84%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3113; 61%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (4416; 86% of non-empty `Animacy`): <em>mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</em>
+* `Anim` (4417; 86% of non-empty `Animacy`): <em>mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</em>
 * `Inan` (695; 14% of non-empty `Animacy`): <em>bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</em>
-* `EMPTY` (8948): <em>je, povedala, má, mala, bolo, ide, bola, môže, odvetila, zvolala</em>
+* `EMPTY` (8956): <em>je, povedala, má, mala, bolo, ide, bola, môže, odvetila, zvolala</em>
 
 <table>
   <tr><th>Paradigm <i>mať</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -61,15 +61,15 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 ### `ADJ`
 
-3969 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (42% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+3966 <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> tokens (42% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3969; 100%), <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3593; 91%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3400; 86%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3398; 86%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3398; 86%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2747; 69%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3966; 100%), <tt><a href="sk_snk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3592; 91%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3398; 86%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3398; 86%), <tt><a href="sk_snk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3398; 86%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2746; 69%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (1181; 30% of non-empty `Animacy`): <em>prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</em>
-* `Inan` (2788; 70% of non-empty `Animacy`): <em>celý, druhý, prvý, veľký, nový, ďalší, nového, veľkého, posledný, tretí</em>
-* `EMPTY` (5511): <em>druhej, ďalšie, veľké, nové, veľkej, prvá, slovenskej, verejných, ľudské, celé</em>
+* `Anim` (1180; 30% of non-empty `Animacy`): <em>prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</em>
+* `Inan` (2786; 70% of non-empty `Animacy`): <em>celý, druhý, prvý, veľký, nový, ďalší, nového, veľkého, posledný, tretí</em>
+* `EMPTY` (5508): <em>druhej, ďalšie, veľké, nové, veľkej, prvá, slovenskej, verejných, ľudské, celé</em>
 
 <table>
   <tr><th>Paradigm <i>veľký</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -95,15 +95,15 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `PROPN`
 
-2994 <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> tokens (66% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+2995 <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> tokens (62% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2994; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2868; 96%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1878; 63%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2995; 100%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2869; 96%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1879; 63%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (2569; 86% of non-empty `Animacy`): <em>Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</em>
+* `Anim` (2570; 86% of non-empty `Animacy`): <em>Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</em>
 * `Inan` (425; 14% of non-empty `Animacy`): <em>Iraku, Mesiac, Novgorode, Ríma, Egypt, Mesiaca, Mesiaci, Paríža, Python, Sírius</em>
-* `EMPTY` (1574): <em>Maja, Lori, Jazmína, Blythe, Amy, Marga, Irma, Maju, Makulienka, Uhorska</em>
+* `EMPTY` (1835): <em>Maja, Lori, Jazmína, Blythe, J, Amy, Marga, Irma, SR, USA</em>
 
 <table>
   <tr><th>Paradigm <i>mikuláš</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Mikuláš, MIKULÁŠ</em></td><td><em>Mikuláš</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (1125) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (1126) occur only with one value of `Animacy`.
 
 ### `DET`
 
@@ -123,7 +123,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (578; 38% of non-empty `Animacy`): <em>ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</em>
 * `Inan` (943; 62% of non-empty `Animacy`): <em>ktorý, jeho, ten, jej, ktoré, tento, môj, tohto, tom, ich</em>
-* `EMPTY` (2886): <em>to, jeho, ktoré, jej, ktorá, ich, toho, všetko, tom, tomu</em>
+* `EMPTY` (2883): <em>to, jeho, ktoré, jej, ktorá, ich, toho, všetko, tom, tomu</em>
 
 <table>
   <tr><th>Paradigm <i>ktorý</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -152,7 +152,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (865; 84% of non-empty `Animacy`): <em>ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</em>
 * `Inan` (160; 16% of non-empty `Animacy`): <em>ho, ich, nich, naň, ňom, neho, ním, doň, nemu, nimi</em>
-* `EMPTY` (5425): <em>sa, si, mi, ma, čo, ju, ja, jej, niečo, nič</em>
+* `EMPTY` (5410): <em>sa, si, mi, ma, čo, ju, ja, jej, niečo, nič</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -172,15 +172,15 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `AUX`
 
-342 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Animacy`.
+341 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (342; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (342; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (342; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (342; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (342; 100%), <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (341; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (321; 94%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (287; 84%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (341; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (341; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (341; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (341; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (341; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (341; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (320; 94%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 84%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Anim` (213; 62% of non-empty `Animacy`): <em>bol, boli, nebol, býval, neboli, stal</em>
+* `Anim` (212; 62% of non-empty `Animacy`): <em>bol, boli, nebol, býval, neboli</em>
 * `Inan` (129; 38% of non-empty `Animacy`): <em>bol, boli, neboli, nebol, bývali</em>
-* `EMPTY` (3370): <em>som, je, sme, by, bola, sú, bolo, bude, si, boli</em>
+* `EMPTY` (3382): <em>som, je, sme, by, bola, sú, bolo, bude, si, boli</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -222,28 +222,17 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 `ADV` tokens may have the following values of `Animacy`:
 
 * `Inan` (34; 100% of non-empty `Animacy`): <em>raz, ráz, razy</em>
-* `EMPTY` (4359): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
-
-### `X`
-
-1 <tt><a href="sk_snk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `X` and `Animacy` co-occurred: <tt><a href="sk_snk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk_snk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk_snk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Animacy`:
-
-* `Anim` (1; 100% of non-empty `Animacy`): <em>VB</em>
-* `EMPTY` (773): <em>j, O, tzv, sv, SR, USA, EÚ, P, c, po</em>
+* `EMPTY` (4399): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3171; 99%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3170; 99%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (1032; 99%),
-<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (978; 89%),
+<tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (979; 89%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (951; 70%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (560; 65%),
-<tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (364; 88%),
+<tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (364; 73%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (268; 80%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (174; 73%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (135; 100%),

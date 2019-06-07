@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="mt_mudt-dep-nsubj.h
 143 instances of `nsubj:pass` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.96279069767442.
 
-The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (169; 79% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (19; 9% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (13; 6% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (169; 79% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (19; 9% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (13; 6% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
 1	Dawn	_	PRON	PRON_DEM	_	3	nsubj:pass	_	_
-2	ġew	_	VERB	VERB	_	3	aux:pass	_	_
+2	ġew	_	AUX	VERB	_	3	aux:pass	_	_
 3	megħjuna	_	VERB	PART_PASS	_	0	root	_	_
 4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
 5	jemigraw	_	VERB	VERB	_	3	xcomp	_	_

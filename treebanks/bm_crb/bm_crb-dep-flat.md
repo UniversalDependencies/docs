@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	AMADU	Ámàdu	PROPN	n.prop	_	0	root	_	Gloss=NOM.M
+1	AMADU	Ámàdu	PROPN	n.prop	_	0	root	_	Gloss=NOM.M
 2	TARA	TARA	PROPN	n.prop	_	1	flat	_	Gloss=NOM.CL
 
 ~~~
@@ -34,15 +34,15 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Mama	Máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
-2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
-3	ko	kó	VERB	cop	_	0	root	_	Gloss=
-4	ko	kó	PART	cop	_	8	discourse	_	Gloss=
-5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+1	Mama	Máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
+2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=
+4	ko	kó	PART	cop	_	8	discourse	_	Gloss=
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
 6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
-8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
-9	limògòbarafa	límɔgɔbarafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein|SpaceAfter=No
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
+8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
+9	limògòbarafa	límɔgɔbarafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~

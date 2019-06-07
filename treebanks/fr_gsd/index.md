@@ -41,32 +41,35 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
-The French UD was converted in 2015 from the content head version of the universal
+The **UD_French-GSD** was converted in 2015 from the content head version of the universal
 dependency treebank v2.0 (https://github.com/ryanmcd/uni-dep-tb).
 It is updated since 2015 independently from the previous source.
 
 
-The French UD is converted from the content head version of the universal
+The **UD_French-GSD** is converted from the content head version of the universal
 dependency treebank v2.0 (https://github.com/ryanmcd/uni-dep-tb).
 The README for the original project is available below.
 
-The version 2.2 of French data consists of 402,426 words (16,448 sentences).
-No sentence id were available in the original resource, so new `sent_id` were automatically introduced in the converted corpus with prefixes `fr-ud-train`, `fr-ud-dev` and `fr-ud-test` on the correponding original files, followed by a 5 digit number following the order of sentences.
+The version 2.4 of **UD_French-GSD** data consists of 400,387 words (16,342 sentences).
+No sentence id were available in the original resource, so new `sent_id` were automatically introduced in the converted corpus with prefixes `fr-ud-train`, `fr-ud-dev` and `fr-ud-test` on the corresponding original files, followed by a 5 digit number following the order of sentences.
 
 :warning: to meet the size requirements of test data of 10K words, a part of the dev original file was moved to the test file!
 Since version 2.0, the splitting of data is:
 
-* file `fr-ud-train.conll`: 14,554 sentences; 356,638 words
+* file `fr-ud-train.conll`: 14,450 sentences; 354,655 words
 * `fr-ud-train_00001` to `fr-ud-train_14554`
-* file `fr-ud-dev.conll`: 1,478 sentences; 35,768 words
+* file `fr-ud-dev.conll`: 1,478 sentences; 35,714 words
 * `fr-ud-dev_00001` to `fr-ud-dev_01478`
-* file `fr-ud-test.conll`: 416 sentences; 10,020 words
+* file `fr-ud-test.conll`: 416 sentences; 10,018 words
 * `fr_ud-test_00001` to `fr_ud-test_00298`
 * `fr-ud-dev_01479` to `fr-ud-dev_01596`
 
-Sentences are shuffled and there is no way to know what is the genre of a given sentence.
+Sentences are shuffled and there is no way to know what is the source or the genre of a given sentence.
 
-Probably due to some bug in a conversion program, version 1.2 contains many truncated sentences (date missing for instance). Almost every truncated sentence is from Wikipedia, so it was possible to recover the original text. Most of the truncated sentences were completed in version 1.3. Some sentences were completed later. There are probably still some truncated sentences.
+Probably due to some bug in a conversion program, version 1.2 contains many truncated sentences (date missing for instance).
+Almost every truncated sentence is from Wikipedia, so it was possible to recover the original text.
+Most of the truncated sentences were completed in version 1.3. Some sentences were completed later.
+There are probably still some truncated sentences.
 
 ## Acknowledgments
 
@@ -84,21 +87,21 @@ See below for references and acknowledgments concerning the original corpus.
 
 ## Features
 
-[Case](fr_gsd-feat-Case.html) – [Definite](fr_gsd-feat-Definite.html) – [Degree](fr_gsd-feat-Degree.html) – [Gender](fr_gsd-feat-Gender.html) – [Mood](fr_gsd-feat-Mood.html) – [Number](fr_gsd-feat-Number.html) – [NumType](fr_gsd-feat-NumType.html) – [Person](fr_gsd-feat-Person.html) – [Polarity](fr_gsd-feat-Polarity.html) – [Poss](fr_gsd-feat-Poss.html) – [PronType](fr_gsd-feat-PronType.html) – [Reflex](fr_gsd-feat-Reflex.html) – [Tense](fr_gsd-feat-Tense.html) – [VerbForm](fr_gsd-feat-VerbForm.html)
+[Case](fr_gsd-feat-Case.html) – [Definite](fr_gsd-feat-Definite.html) – [Gender](fr_gsd-feat-Gender.html) – [Mood](fr_gsd-feat-Mood.html) – [Number](fr_gsd-feat-Number.html) – [NumType](fr_gsd-feat-NumType.html) – [Person](fr_gsd-feat-Person.html) – [Polarity](fr_gsd-feat-Polarity.html) – [Poss](fr_gsd-feat-Poss.html) – [PronType](fr_gsd-feat-PronType.html) – [Reflex](fr_gsd-feat-Reflex.html) – [Tense](fr_gsd-feat-Tense.html) – [Typo](fr_gsd-feat-Typo.html) – [VerbForm](fr_gsd-feat-VerbForm.html)
 
 ## Relations
 
-[acl](fr_gsd-dep-acl.html) – [acl:relcl](fr_gsd-dep-acl-relcl.html) – [advcl](fr_gsd-dep-advcl.html) – [advcl:cleft](fr_gsd-dep-advcl-cleft.html) – [advmod](fr_gsd-dep-advmod.html) – [amod](fr_gsd-dep-amod.html) – [appos](fr_gsd-dep-appos.html) – [aux](fr_gsd-dep-aux.html) – [aux:caus](fr_gsd-dep-aux-caus.html) – [aux:pass](fr_gsd-dep-aux-pass.html) – [case](fr_gsd-dep-case.html) – [cc](fr_gsd-dep-cc.html) – [ccomp](fr_gsd-dep-ccomp.html) – [compound](fr_gsd-dep-compound.html) – [conj](fr_gsd-dep-conj.html) – [cop](fr_gsd-dep-cop.html) – [csubj](fr_gsd-dep-csubj.html) – [csubj:pass](fr_gsd-dep-csubj-pass.html) – [dep](fr_gsd-dep-dep.html) – [det](fr_gsd-dep-det.html) – [discourse](fr_gsd-dep-discourse.html) – [dislocated](fr_gsd-dep-dislocated.html) – [expl](fr_gsd-dep-expl.html) – [expl:pass](fr_gsd-dep-expl-pass.html) – [fixed](fr_gsd-dep-fixed.html) – [flat](fr_gsd-dep-flat.html) – [flat:foreign](fr_gsd-dep-flat-foreign.html) – [flat:name](fr_gsd-dep-flat-name.html) – [goeswith](fr_gsd-dep-goeswith.html) – [iobj](fr_gsd-dep-iobj.html) – [iobj:agent](fr_gsd-dep-iobj-agent.html) – [mark](fr_gsd-dep-mark.html) – [nmod](fr_gsd-dep-nmod.html) – [nsubj](fr_gsd-dep-nsubj.html) – [nsubj:caus](fr_gsd-dep-nsubj-caus.html) – [nsubj:pass](fr_gsd-dep-nsubj-pass.html) – [nummod](fr_gsd-dep-nummod.html) – [obj](fr_gsd-dep-obj.html) – [obj:agent](fr_gsd-dep-obj-agent.html) – [obj:lvc](fr_gsd-dep-obj-lvc.html) – [obl](fr_gsd-dep-obl.html) – [obl:agent](fr_gsd-dep-obl-agent.html) – [obl:arg](fr_gsd-dep-obl-arg.html) – [obl:mod](fr_gsd-dep-obl-mod.html) – [orphan](fr_gsd-dep-orphan.html) – [parataxis](fr_gsd-dep-parataxis.html) – [punct](fr_gsd-dep-punct.html) – [reparandum](fr_gsd-dep-reparandum.html) – [root](fr_gsd-dep-root.html) – [vocative](fr_gsd-dep-vocative.html) – [xcomp](fr_gsd-dep-xcomp.html)
+[acl](fr_gsd-dep-acl.html) – [acl:relcl](fr_gsd-dep-acl-relcl.html) – [advcl](fr_gsd-dep-advcl.html) – [advcl:cleft](fr_gsd-dep-advcl-cleft.html) – [advmod](fr_gsd-dep-advmod.html) – [amod](fr_gsd-dep-amod.html) – [appos](fr_gsd-dep-appos.html) – [aux](fr_gsd-dep-aux.html) – [aux:caus](fr_gsd-dep-aux-caus.html) – [aux:pass](fr_gsd-dep-aux-pass.html) – [case](fr_gsd-dep-case.html) – [cc](fr_gsd-dep-cc.html) – [ccomp](fr_gsd-dep-ccomp.html) – [conj](fr_gsd-dep-conj.html) – [cop](fr_gsd-dep-cop.html) – [csubj](fr_gsd-dep-csubj.html) – [csubj:pass](fr_gsd-dep-csubj-pass.html) – [dep](fr_gsd-dep-dep.html) – [det](fr_gsd-dep-det.html) – [discourse](fr_gsd-dep-discourse.html) – [dislocated](fr_gsd-dep-dislocated.html) – [expl](fr_gsd-dep-expl.html) – [expl:pass](fr_gsd-dep-expl-pass.html) – [fixed](fr_gsd-dep-fixed.html) – [flat](fr_gsd-dep-flat.html) – [flat:foreign](fr_gsd-dep-flat-foreign.html) – [flat:name](fr_gsd-dep-flat-name.html) – [goeswith](fr_gsd-dep-goeswith.html) – [iobj](fr_gsd-dep-iobj.html) – [iobj:agent](fr_gsd-dep-iobj-agent.html) – [mark](fr_gsd-dep-mark.html) – [nmod](fr_gsd-dep-nmod.html) – [nsubj](fr_gsd-dep-nsubj.html) – [nsubj:caus](fr_gsd-dep-nsubj-caus.html) – [nsubj:pass](fr_gsd-dep-nsubj-pass.html) – [nummod](fr_gsd-dep-nummod.html) – [obj](fr_gsd-dep-obj.html) – [obj:agent](fr_gsd-dep-obj-agent.html) – [obj:lvc](fr_gsd-dep-obj-lvc.html) – [obl](fr_gsd-dep-obl.html) – [obl:agent](fr_gsd-dep-obl-agent.html) – [obl:arg](fr_gsd-dep-obl-arg.html) – [obl:mod](fr_gsd-dep-obl-mod.html) – [orphan](fr_gsd-dep-orphan.html) – [parataxis](fr_gsd-dep-parataxis.html) – [punct](fr_gsd-dep-punct.html) – [reparandum](fr_gsd-dep-reparandum.html) – [root](fr_gsd-dep-root.html) – [vocative](fr_gsd-dep-vocative.html) – [xcomp](fr_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 16342 sentences, 389415 tokens and 400440 syntactic words.</li>
+<li>This corpus contains 16342 sentences, 389363 tokens and 400387 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 58273 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 58211 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,11 +109,11 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 2117 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, -il, -t, m', lui-même, celui-ci, M., c'est-à-dire, lorsqu', 's, celle-ci, -elle, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, -on, nord-est, -vous, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, C., quelqu'un, -là, celles-ci</li>
+<li>This corpus contains 2168 types of words that contain both letters and punctuation. Examples: l', d', s', qu', n', c', jusqu', j', aujourd'hui, États-Unis, -il, -t, m', lui-même, celui-ci, c'est-à-dire, M., lorsqu', celle-ci, -elle, au-dessus, etc., -ce, sud-est, Royaume-Uni, ceux-ci, au-delà, elle-même, peut-être, sud-ouest, -ils, J.-C., av., nord-ouest, -on, nord-est, -vous, Etats-Unis, Grande-Bretagne, Pays-Bas, eux-mêmes, porte-parole, Notre-Dame, puisqu', week-end, C., quelqu'un, -là, celles-ci, chef-lieu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11025 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 11024 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
 </ul>
 
@@ -123,27 +126,27 @@ See below for references and acknowledgments concerning the original corpus.
 </ul>
 
 <ul>
-<li>This corpus contains 17 word types tagged as particles (PART): 's, -ci, -t, ci, di, déca, ex, hyper, là, méga, penta, post, pré, t', to, tri, up</li>
+<li>This corpus contains 6 word types tagged as particles (PART): -ci, -t, ci, l', là, t'</li>
 </ul>
 
 <ul>
-<li>This corpus contains 83 lemmas tagged as pronouns (PRON): 1 728, 2, 345, I, aucun, autre, autrui, beaucoup, ce, ceci, cela, celui, celui-ci, celui-là, certain, ceux-là, chacun, cinq, combien, dernier, deux, dont, eis, elle, elle-même, en, eos, esta, eux-mêmes, il, it, je, le, lequel, leur, lui, lui-même, me, moi, moi-même, même, nous, nous-mêmes, nul, on, onze, où, personne, peu, plupart, plusieurs, premier, quatre, que, quel, quelqu'un, qui, quiconque, quinze, quoi, rien, se, she, sien, sienne, soi, soi-même, soixante, te, tel, they, tout, trois, tu, un, vous, what, which, who, y, you, your, ça</li>
+<li>This corpus contains 76 lemmas tagged as pronouns (PRON): 1 728, 2, 345, I, aucun, autre, autrui, beaucoup, ce, ceci, cela, celui, celui-ci, celui-là, certain, ceux-là, chacun, cinq, combien, dernier, deux, dont, elle, elle-même, en, eux-mêmes, il, it, je, le, lequel, leur, lui, lui-même, me, moi, moi-même, même, nous, nous-mêmes, nul, on, onze, où, personne, peu, plupart, plusieurs, premier, quatre, que, quel, quelqu'un, qui, quiconque, quinze, quo, quoi, rien, se, she, sien, sienne, soi, soi-même, soixante, te, tel, tout, trois, tu, un, vous, which, y, ça</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as determiners (DET): a, all, aucun, ce, certain, chaque, der, différent, divers, du, el, his, il, l', la, le, ledit, mi, my, no, noster, nul, plusieurs, quel, quelque, some, son, suis, tel, that, the, tout, un, your</li>
+<li>This corpus contains 31 lemmas tagged as determiners (DET): Las, Les, Los, a, aucun, ce, certain, chaque, de, der, différent, divers, du, el, il, l', la, le, ledit, lui, no, noster, nul, plusieurs, quel, quelque, son, tel, the, tout, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, il, le, nul, plusieurs, quel, tel, tout, un, your</li>
+<li>Out of the above, 12 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, il, le, lui, nul, plusieurs, quel, tel, tout, un</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): avoir, be, can, can't, do, faire, fue, must, will, être</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): avoir, faire, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, be, faire, être</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, faire, être</li>
 </ul>
 
 <ul>
@@ -162,7 +165,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: être, avoir, faire, be, -être, etre</li>
+    <li>AUX: être, avoir, faire, -être, etre</li>
     <li>VERB: faire, partir, voir, prendre, avoir, mettre, passer, trouver, aller, dire</li>
   </ul>
   </li>
@@ -171,8 +174,10 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Part
   <ul>
+    <li>ADJ: informé</li>
     <li>AUX: été, étant, ayant, fait, faisant, Etant, faite</li>
     <li>VERB: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
+    <li>X: Bound</li>
   </ul>
   </li>
 </ul>
@@ -187,7 +192,8 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: première, française, grande, même, nouvelle, nombreuses, nationale, autres, seule, internationale</li>
+      <li>ADJ: première, française, grande, même, nouvelle, toutes, nombreuses, nationale, autres, seule</li>
+      <li>ADV: grâce, suite, face, Grace</li>
       <li>AUX-Part: faite</li>
       <li>DET: la, une, les, l', sa, cette, des, ses, son, leur</li>
       <li>NOUN: ville, partie, région, fois, commune, années, famille, année, fin, place</li>
@@ -195,6 +201,7 @@ See below for references and acknowledgments concerning the original corpus.
       <li>PRON: elle, elles, une, la, celle, laquelle, celles, celle-ci, -elle, lesquelles</li>
       <li>PROPN: Italie</li>
       <li>VERB-Part: située, née, créée, appelée, utilisée, connue, construite, mise, publiée, nommée</li>
+      <li>X: Archives, Nature, Society</li>
     </ul>
   </li>
 </ul>
@@ -202,15 +209,20 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: premier, français, grand, autres, nouveau, même, dernier, nombreux, seul, ancien</li>
+      <li>ADJ: premier, français, tous, grand, autres, nouveau, même, dernier, nombreux, seul</li>
+      <li>ADJ-Part: informé</li>
+      <li>ADV: vis-à-vis, Nombre, RAS, bien, mieux</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, les, un, l', son, des, ce, ses, ces, de</li>
       <li>NOUN: ans, pays, nom, monde, temps, groupe, siècle, état, cours, lieu</li>
-      <li>PRON: il, on, ils, le, un, -il, lequel, celui, tout, ceux</li>
-      <li>PROPN: IRT, Palais, mémorique</li>
-      <li>VERB-Fin: remis</li>
+      <li>NUM: milliards</li>
+      <li>PRON: il, on, ils, le, un, -il, lequel, celui, ceux, tout</li>
+      <li>PROPN: IRT, Imperium, Palais, mémorique</li>
+      <li>SYM: M, k</li>
+      <li>VERB-Fin: accueilli, créé, rejoints, remis, rempli, servi</li>
       <li>VERB-Part: né, situé, eu, fait, mort, connu, nommé, réalisé, utilisé, mis</li>
-      <li>X: Domine, kendayan</li>
+      <li>X: Arts, Black, Book, Bound, College, Concept, Domine, Glory, Original, Party</li>
+      <li>X-Part: Bound</li>
     </ul>
   </li>
 </ul>
@@ -232,15 +244,18 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: autres, nombreux, nombreuses, grands, premières, premiers, grandes, différents, français, nouveaux</li>
+      <li>ADJ: autres, tous, nombreux, toutes, nombreuses, grands, premières, premiers, grandes, différents</li>
+      <li>ADV: mieux</li>
       <li>AUX-Fin: sont, ont, étaient, avons, furent, avaient, seront, sommes, soient, auraient</li>
-      <li>DET: les, des, ses, ces, de, plusieurs, leurs, tous, quelques, d'</li>
+      <li>DET: les, des, ses, ces, de, plusieurs, leurs, quelques, d', certains</li>
       <li>NOUN: ans, années, pays, enfants, habitants, personnes, jours, droits, points, hommes</li>
       <li>NUM: 00H30, 12H30, 14h25, 15H00, 18h, 18h40, 20h40, 22h, 23h, 48H</li>
       <li>PRON: ils, nous, vous, autres, les, elles, ceux, eux, leur, tous</li>
       <li>PROPN: IRT</li>
+      <li>SYM: k</li>
       <li>VERB-Fin: ont, peuvent, font, doivent, sont, prennent, trouvent, vont, permettent, constituent</li>
       <li>VERB-Part: utilisés, appelés, utilisées, connus, situés, produits, réalisés, liées, mis, prises</li>
+      <li>X: Commons, Legends, Studies, Troubles, Windows, Archives, Arts, Workers</li>
     </ul>
   </li>
 </ul>
@@ -248,16 +263,20 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: premier, première, même, français, française, grande, grand, nouveau, autre, politique</li>
+      <li>ADJ: premier, première, même, français, française, grand, grande, nouveau, autre, politique</li>
+      <li>ADJ-Part: informé</li>
+      <li>ADV: grâce, suite, face, vis-à-vis, Grace, Nombre, RAS, bien</li>
       <li>AUX-Fin: est, a, était, fut, avait, ai, sera, soit, aurait, fait</li>
       <li>AUX-Part: été, fait, faite</li>
       <li>DET: le, la, l', un, une, son, sa, cette, ce, leur</li>
       <li>NOUN: ville, partie, nom, monde, région, commune, groupe, temps, famille, année</li>
       <li>PRON: il, elle, on, c', lui, ce, je, le, j', l'</li>
-      <li>PROPN: Italie, Palais, mémorique</li>
+      <li>PROPN: Imperium, Italie, Palais, mémorique</li>
+      <li>SYM: M</li>
       <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, permet, agit, faut</li>
       <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
-      <li>X: Domine, kendayan</li>
+      <li>X: Airplane, An, Center, Chancellor, Devil, National, Requiem, Science, Theater, World</li>
+      <li>X-Part: Bound</li>
     </ul>
   </li>
 </ul>
@@ -306,8 +325,9 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Def
     <ul>
-      <li>DET: le, la, les, l', the, l, du, là</li>
+      <li>DET: le, la, les, l', l, the, du, là</li>
       <li>NOUN: Facultés</li>
+      <li>X: the</li>
     </ul>
   </li>
 </ul>
@@ -315,6 +335,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Ind
     <ul>
+      <li>ADP: de, d'</li>
       <li>DET: un, une, des, de, d', du, telle, in</li>
     </ul>
   </li>
@@ -323,17 +344,6 @@ See below for references and acknowledgments concerning the original corpus.
 <h3>Degree and Polarity</h3>
 
 
-<ul>
-  <li><a>Degree</a></li>
-</ul>
-
-<ul>
-  <li>Cmp
-    <ul>
-      <li>ADJ: Higher</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Polarity</a></li>
@@ -342,8 +352,8 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: pas, n', ne, plus, jamais, non, qu', not, point, guère</li>
-      <li>DET: aucun, aucune, no, Nul</li>
+      <li>ADV: pas, n', ne, plus, jamais, non, qu', point, guère, nullement</li>
+      <li>DET: aucun, aucune, No, Nul</li>
       <li>PRON: rien, aucun</li>
     </ul>
   </li>
@@ -419,11 +429,13 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fut, furent, fit, eut, firent</li>
+      <li>ADJ-Part: informé</li>
+      <li>AUX-Fin: fut, furent, fit, eut, firent, était</li>
       <li>AUX-Part: été, fait, faite</li>
       <li>NOUN: séquestrés</li>
       <li>VERB-Fin: prit, devint, fit, eut, donna, reçut, décida, participa, écrivit, demanda</li>
       <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
+      <li>X-Part: Bound</li>
     </ul>
   </li>
 </ul>
@@ -451,6 +463,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Art
     <ul>
+      <li>ADP: de, d'</li>
       <li>DET: le, la, les, l', un, une, des, de, d', du</li>
     </ul>
   </li>
@@ -476,7 +489,7 @@ See below for references and acknowledgments concerning the original corpus.
 <ul>
   <li>Int
     <ul>
-      <li>PRON: Que</li>
+      <li>PRON: qui, qu', que, Laquelle, quoi, Lesquelles</li>
     </ul>
   </li>
 </ul>
@@ -495,6 +508,7 @@ See below for references and acknowledgments concerning the original corpus.
     <ul>
       <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
       <li>PRON: il, se, s', elle, ils, lui, nous, je, le, vous</li>
+      <li>X: you, Me, i</li>
     </ul>
   </li>
 </ul>
@@ -503,8 +517,7 @@ See below for references and acknowledgments concerning the original corpus.
   <li>Rel
     <ul>
       <li>ADV: où, ou, oà</li>
-      <li>PRON: qui, dont, qu', que, où, lequel, laquelle, lesquels, lesquelles, quoi</li>
-      <li>SCONJ: qu', que</li>
+      <li>PRON: qui, dont, qu', que, lequel, laquelle, lesquels, lesquelles, quoi</li>
     </ul>
   </li>
 </ul>
@@ -529,9 +542,7 @@ See below for references and acknowledgments concerning the original corpus.
   <li>Yes
     <ul>
       <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
-      <li>NOUN: Citizen</li>
-      <li>PRON: Your</li>
-      <li>PROPN: Lincoln, Andrew, Barney, Benson, Devil, Dumbo, Schott</li>
+      <li>X: Andrew, Dumbo's, Schott's</li>
     </ul>
   </li>
 </ul>
@@ -556,7 +567,7 @@ See below for references and acknowledgments concerning the original corpus.
   <li>1
     <ul>
       <li>AUX-Fin: ai, avons, suis, sommes, avais, avions, étais, serais, étions, aurais</li>
-      <li>PRON: nous, je, j', m', me, moi, -je, -nous, -moi, I</li>
+      <li>PRON: nous, je, j', m', me, moi, -je, -nous, -moi, moi-même</li>
       <li>VERB-Fin: recommande, conseille, ai, trouve, vais, pense, pouvons, aime, devons, peux</li>
     </ul>
   </li>
@@ -566,8 +577,8 @@ See below for references and acknowledgments concerning the original corpus.
   <li>2
     <ul>
       <li>AUX-Fin: êtes, avez, es, soyez, as, serez, seriez, ayez, fais, sois</li>
-      <li>PRON: vous, -vous, tu, -tu, t', te, toi, -toi, you, tien</li>
-      <li>VERB-Fin: allez, hésitez, avez, voulez, pouvez, passez, pourrez, pensez, êtes, cherchez</li>
+      <li>PRON: vous, -vous, tu, -tu, t', te, toi, -toi, tien</li>
+      <li>VERB-Fin: allez, hésitez, avez, voulez, pouvez, passez, pourrez, pensez, cherchez, trouverez</li>
     </ul>
   </li>
 </ul>
@@ -576,9 +587,10 @@ See below for references and acknowledgments concerning the original corpus.
   <li>3
     <ul>
       <li>AUX-Fin: est, a, sont, ont, était, fut, avait, sera, étaient, soit</li>
-      <li>DET: l'</li>
+      <li>DET: ce, leur</li>
       <li>PRON: il, se, s', elle, on, c', en, ils, lui, ce</li>
       <li>VERB-Fin: a, peut, fait, est, devient, doit, ont, trouve, permet, agit</li>
+      <li>VERB-Part: Agréé</li>
     </ul>
   </li>
 </ul>
@@ -589,17 +601,44 @@ See below for references and acknowledgments concerning the original corpus.
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: bonne, cuite, exemptent, impeccaple, influant, influent, légèr, saoudite</li>
+          <li>ADP: des, apres, en, entres</li>
+          <li>ADV: voir, la, prés, ou</li>
+          <li>AUX-Fin: on, son, était</li>
+          <li>DET: le</li>
+          <li>INTJ: Et</li>
+          <li>NOUN: groupe, Acceuil, Série, attaque, correspondant, coup, enrégistrements, modèle, parti, partisans</li>
+          <li>PART: ci, là</li>
+          <li>PRON: il, Elles, certain, que</li>
+          <li>PROPN: Gaulle, balkans, christ, ferté-imbault, fuorcla, nancy, nunavik, part-dieu, saloum, stavrou</li>
+          <li>SCONJ: quand, voir</li>
+          <li>VERB: Voila, crée, créé, pourrait, Surnommé, accueilli, accusent, affilé, affilées, affrontent</li>
+          <li>VERB-Fin: pourrait, accueilli, accusent, affrontent, comporte, concentre, considèrent, constitue, date, devraient</li>
+          <li>VERB-Inf: entammer, intaller</li>
+          <li>VERB-Part: crée, créé, Surnommé, affilé, affilées, devenu, dépendent, dérivaient, franchit, partit</li>
+          <li>X: durint</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: être, be, fue.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: être.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être, do, will, can, be, can't, must.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, be.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -608,19 +647,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--PRON (7)</li>
-      <li>VERB-Fin--NOUN (4418)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(que) (2)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB-Fin--NOUN (4414)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(à) (1)</li>
-      <li>VERB-Fin--PRON (6355)</li>
+      <li>VERB-Fin--PRON (6345)</li>
       <li>VERB-Fin--PRON-ADP(à) (1)</li>
-      <li>VERB-Inf--NOUN (4)</li>
-      <li>VERB-Inf--PRON (7)</li>
-      <li>VERB-Part--NOUN (1446)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Part--NOUN (1416)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--PRON (1508)</li>
+      <li>VERB-Part--PRON (1485)</li>
     </ul>
   </li>
 </ul>
@@ -628,19 +666,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (25)</li>
-      <li>VERB--PRON (13)</li>
-      <li>VERB-Fin--NOUN (5234)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(en) (1)</li>
+      <li>VERB--NOUN (20)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB-Fin--NOUN (5179)</li>
       <li>VERB-Fin--NOUN-ADP(pour) (1)</li>
       <li>VERB-Fin--NOUN-ADP(à) (1)</li>
-      <li>VERB-Fin--PRON (1116)</li>
-      <li>VERB-Inf--NOUN (2718)</li>
-      <li>VERB-Inf--NOUN-ADP(un) (1)</li>
-      <li>VERB-Inf--PRON (626)</li>
-      <li>VERB-Part--NOUN (2139)</li>
-      <li>VERB-Part--PRON (365)</li>
+      <li>VERB-Fin--PRON (1121)</li>
+      <li>VERB-Inf--NOUN (2690)</li>
+      <li>VERB-Inf--PRON (629)</li>
+      <li>VERB-Part--NOUN (2117)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN-ADP(en) (1)</li>
+      <li>VERB-Part--PRON (363)</li>
     </ul>
   </li>
 </ul>
@@ -648,9 +685,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (440)</li>
-      <li>VERB-Inf--PRON (153)</li>
-      <li>VERB-Part--PRON (197)</li>
+      <li>VERB-Fin--PRON (431)</li>
+      <li>VERB-Inf--PRON (151)</li>
+      <li>VERB-Part--PRON (194)</li>
     </ul>
   </li>
 </ul>
@@ -659,7 +696,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 223 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: trouver se, situer se, faire se, développer se, tenir se, retrouver se, terminer se, étendre s', poursuivre se, élever s', rencontrer se, ajouter s', classer se, distinguer se, appliquer s', produire se, tenir s', imposer s', jouer se, nommer se, présenter se, appeler s', inscrire s', qualifier se, expliquer s', traduire se, achever s', concentrer se, manifester se, ouvrir s', aggraver s', améliorer s', appuyer s', effectuer s', produire s', transformer se, vendre se, arrêter s', articuler s', distinguer s', dresser se, endormir s', former se, installer s', placer se, établir s', accompagner s', allonger s', annoncer s', briser se</li>
+  <li>This corpus contains 223 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: trouver se, situer se, faire se, développer se, tenir se, retrouver se, étendre s', terminer se, poursuivre se, élever s', rencontrer se, ajouter s', classer se, distinguer se, appliquer s', produire se, tenir s', imposer s', jouer se, nommer se, présenter se, appeler s', inscrire s', qualifier se, expliquer s', traduire se, achever s', concentrer se, manifester se, ouvrir s', aggraver s', améliorer s', appuyer s', effectuer s', produire s', transformer se, vendre se, arrêter s', articuler s', distinguer s', dresser se, endormir s', former se, installer s', placer se, établir s', accompagner s', allonger s', annoncer s', briser se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
@@ -672,5 +709,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a></li>
 </ul>

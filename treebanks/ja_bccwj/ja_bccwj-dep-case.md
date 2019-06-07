@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-252997 nodes (20%) are attached to their parents as `case`.
+253009 nodes (20%) are attached to their parents as `case`.
 
-252137 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2958770262098.
+252081 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30019090229992.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (203969; 81% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (17173; 7% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (11589; 5% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (9937; 4% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (3402; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (2286; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1673; 1% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1343; 1% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (805; 0% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (339; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (249; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (111; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The following 16 pairs of parts of speech are connected with `case`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (203989; 81% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (17224; 7% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (11589; 5% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (9937; 4% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (3407; 1% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (2287; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1673; 1% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1347; 1% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (805; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (589; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (111; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -83,7 +83,7 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
 1	_	_	DET	_	_	2	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=16|SpaceAfter=No
-2	_	_	AUX	_	_	25	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=15|SpaceAfter=No
+2	_	_	AUX	_	_	25	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=15|SpaceAfter=No
 3	_	_	AUX	_	_	2	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
 4	_	_	PUNCT	_	_	2	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=6|SpaceAfter=No
 5	_	_	PROPN	_	_	7	compound	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=20|SpaceAfter=No
@@ -104,7 +104,7 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 20	_	_	ADP	_	_	19	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
 21	_	_	NOUN	_	_	25	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 22	_	_	ADP	_	_	21	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-23	_	_	VERB	_	_	21	aux	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+23	_	_	VERB	_	_	21	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 24	_	_	SCONJ	_	_	21	mark	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 25	_	_	VERB	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
 26	_	_	AUX	_	_	25	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=2|SpaceAfter=No

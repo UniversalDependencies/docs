@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  し (<tt><a href="ja_pud-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.276596 (the average of all parts of speech is 1.051315).
+The form / lemma ratio of `AUX` is 2.276596 (the average of all parts of speech is 1.051333).
 
 The 1st highest number of forms (17) was observed with the lemma “だ”: だ, だっ, だろ, で, であっ, であり, である, であれ, であろ, でし, でしょ, です, では, でも, な, に, の.
 
@@ -68,17 +68,21 @@ The 3rd highest number of forms (6) was observed with the lemma “ようだ”:
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (3401; 91% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (291; 8% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (47; 1% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (3399; 91% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (291; 8% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (47; 1% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2916; 78% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (504; 13% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (284; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2914; 78% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (504; 13% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (289; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances),  (1; 0% instances)
 
-3738 (100%) `AUX` nodes are leaves.
+3737 (100%) `AUX` nodes are leaves.
 
 1 (0%) `AUX` nodes have one child.
 
-The highest child degree of a `AUX` node is 1.
+0 (0%) `AUX` nodes have two children.
 
-Children of `AUX` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1; 100% instances)
+1 (0%) `AUX` nodes have three or more children.
 
-Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `AUX` node is 3.
+
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (2; 50% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 25% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (1; 25% instances)
+
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
 

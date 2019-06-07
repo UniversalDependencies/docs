@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	tudi	tudi	PART	Q	_	5	advmod	_	Dep=0|Rel=Root
 7	za	za	ADP	Sa	Case=Acc	8	case	_	Dep=8|Rel=Atr
 8	tujino	tujina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	xcomp	_	SpaceAfter=No|Dep=5|Rel=Obj
-9	.	.	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
 
 ~~~
 

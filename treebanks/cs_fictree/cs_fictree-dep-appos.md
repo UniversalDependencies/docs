@@ -44,7 +44,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 4 appos	color:blue
 1	Kůra	kůra	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
-2	:	:	PUNCT	Z:-------------	_	4	punct	4:punct|6:punct|8:punct	_
+2	:	:	PUNCT	Z:-------------	_	4	punct	4:punct	_
 3	tmavě	tmavě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	_
 4	šedá	šedý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	appos	1:appos	_
 5	až	až	CCONJ	J^-------------	_	6	cc	6:cc	_

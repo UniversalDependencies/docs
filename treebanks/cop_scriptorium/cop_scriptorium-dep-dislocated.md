@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-341 nodes (2%) are attached to their parents as `dislocated`.
+421 nodes (2%) are attached to their parents as `dislocated`.
 
-245 instances of `dislocated` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.96187683284457.
+300 instances of `dislocated` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.04038004750594.
 
-The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (150; 44% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (55; 16% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (52; 15% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (47; 14% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (177; 42% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (73; 17% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (62; 15% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (61; 14% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	Orig=ⲁ̇ⲩⲱ̇
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Orig=ⲧ̇
 3	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	6	dislocated	_	Morphs=ⲙⲛⲧ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲙⲛⲧ̇ⲙⲟⲛⲁⲭⲟⲥ
-4	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	_	6	aux	_	Orig=ⲙ̇ⲡⲉ
+4	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	Orig=ⲙ̇ⲡⲉ
 5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 7	ⲉⲣⲟ	ⲉ	ADP	PREP	_	8	case	_	Orig=ⲉ̇ⲣⲟ
@@ -59,27 +59,26 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 dislocated	color:blue
-1	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	2	mark	_	_
-2	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	VerbForm=Fin	0	root	_	_
-3	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	_	7	advmod	_	_
-4	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	NOUN	N	_	3	fixed	_	_
-5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
-6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	2	parataxis	_	_
-8	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	7	advmod	_	_
-9	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	10	case	_	_
-10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	dislocated	_	_
-11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ϫⲟ	ϫⲟ	VERB	V	VerbForm=Fin	10	acl	_	_
-13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
-14	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	ϫⲟ	ϫⲟ	NOUN	N	_	7	obl	_	_
-16	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 dislocated	color:blue
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	dislocated	_	_
+2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
+7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
+8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
+9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	8	advmod	_	_
+10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
+11	ϭⲓⲥ	ϭⲓⲥ	NUM	NUM	NumType=Card	12	compound	_	_
+12	ⲧⲃⲁ	ⲧⲃⲁ	NUM	NUM	NumType=Card	14	nummod	_	_
+13	ⲛ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲣ
+14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	8	nsubj	_	_
+15	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

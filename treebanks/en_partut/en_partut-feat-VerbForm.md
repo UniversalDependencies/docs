@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-7160 tokens (14%) have a non-empty value of `VerbForm`.
-1819 types (27%) occur at least once with a non-empty value of `VerbForm`.
-1040 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (4728; 10% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2432; 5% instances).
+7159 tokens (14%) have a non-empty value of `VerbForm`.
+1818 types (27%) occur at least once with a non-empty value of `VerbForm`.
+1038 lemmas (19%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (4727; 10% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (2432; 5% instances).
 
 ### `VERB`
 
-4728 <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4727 <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_partut-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3502; 74%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3489; 74%), <tt><a href="en_partut-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3030; 64%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1697; 36% of non-empty `VerbForm`): <em>is, has, have, wrote, know, are, believe, had, need, made</em>
+* `Fin` (1696; 36% of non-empty `VerbForm`): <em>is, has, have, wrote, know, are, believe, had, need, made</em>
 * `Ger` (442; 9% of non-empty `VerbForm`): <em>including, according, establishing, improving, increasing, using, making, considering, creating, doing</em>
 * `Inf` (1159; 25% of non-empty `VerbForm`): <em>like, make, take, have, ensure, do, see, ask, be, continue</em>
 * `Part` (1430; 30% of non-empty `VerbForm`): <em>given, based, made, taken, adopted, including, used, granted, set, done</em>

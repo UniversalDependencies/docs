@@ -22,16 +22,16 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 orphan	color:blue
-1	Durán	Durán	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-2	fungiert	fungieren	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
-3	als	als	CCONJ	CC	_	4	cc	_	_
-4	Sprecher	Sprecher	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+1	Durán	Durán	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	fungiert	fungieren	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	als	als	CCONJ	CC	_	2	cc	_	_
+4	Sprecher	Sprecher	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	Ángel	Ángel	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	conj	_	orig_deprel=nsubj
 7	Pintado	Pintado	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	flat:name	_	_
 8	als	als	CCONJ	CC	_	6	orphan	_	orig_deprel=cc
-9	Schatzmeister	Schatzmeister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	orphan	_	orig_deprel=root|SpaceAfter=No
-10	.	.	PUNCT	.	_	4	punct	_	_
+9	Schatzmeister	Schatzmeister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	orphan	_	SpaceAfter=No|orig_deprel=root
+10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -99,7 +99,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 15	landen	landen	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	ccomp	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	18	punct	_	_
 17	wenn	wenn	CCONJ	CC	_	18	orphan	_	orig_deprel=mark
-18	überhaupt	überhaupt	ADV	RB	Degree=Pos	15	conj	_	orig_deprel=advmod|SpaceAfter=No
+18	überhaupt	überhaupt	ADV	RB	Degree=Pos	15	conj	_	SpaceAfter=No|orig_deprel=advmod
 19	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~

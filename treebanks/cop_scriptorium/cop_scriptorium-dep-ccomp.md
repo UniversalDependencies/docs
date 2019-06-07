@@ -8,38 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-266 nodes (1%) are attached to their parents as `ccomp`.
+347 nodes (1%) are attached to their parents as `ccomp`.
 
-266 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.99624060150376.
+347 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.9193083573487.
 
-The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (191; 72% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (27; 10% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (250; 72% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (31; 9% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (25; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (12; 3% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 12 ccomp	color:blue
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
-2	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
-3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
-5	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	obl	_	_
-7	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
-8	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
-9	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	10	nsubj	_	_
-10	ⲙⲟⲟⲩⲧ	ⲙⲟⲩⲟⲩⲧ	VERB	VSTAT	VerbForm=Fin	6	advcl	_	_
-11	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	12	mark	_	_
-12	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	2	ccomp	_	_
-13	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
-14	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	12	parataxis	_	_
-15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
-16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-17	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	14	obl	_	_
-18	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 14 ccomp	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ⲥⲉⲡⲥⲱⲡ	ⲥⲟⲡⲥⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
+7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	4	advcl	_	_
+9	ⲙⲙⲟ	ⲛ	ADP	PREP	_	10	case	_	_
+10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+11	ⲛⲁ	ⲛⲁ	ADP	PREP	_	12	case	_	_
+12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+13	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	14	mark	_	_
+14	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+15	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
+16	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	14	advmod	_	_
+17	ⲉ	ⲉ	ADP	PREP	_	19	case	_	_
+18	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
+19	ⲉϣⲁⲩ	ⲉϣⲁⲩ	NOUN	N	_	14	obl	_	_
 
 ~~~
 

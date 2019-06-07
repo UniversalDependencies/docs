@@ -108,7 +108,7 @@ through discussion and validation with
 
 ## Relations
 
-[acl](ja_modern-dep-acl.html) – [advcl](ja_modern-dep-advcl.html) – [advmod](ja_modern-dep-advmod.html) – [amod](ja_modern-dep-amod.html) – [appos](ja_modern-dep-appos.html) – [aux](ja_modern-dep-aux.html) – [case](ja_modern-dep-case.html) – [cc](ja_modern-dep-cc.html) – [compound](ja_modern-dep-compound.html) – [dep](ja_modern-dep-dep.html) – [det](ja_modern-dep-det.html) – [discourse](ja_modern-dep-discourse.html) – [iobj](ja_modern-dep-iobj.html) – [mark](ja_modern-dep-mark.html) – [nmod](ja_modern-dep-nmod.html) – [nsubj](ja_modern-dep-nsubj.html) – [nummod](ja_modern-dep-nummod.html) – [obj](ja_modern-dep-obj.html) – [obl](ja_modern-dep-obl.html) – [punct](ja_modern-dep-punct.html) – [root](ja_modern-dep-root.html)
+[acl](ja_modern-dep-acl.html) – [advcl](ja_modern-dep-advcl.html) – [advmod](ja_modern-dep-advmod.html) – [amod](ja_modern-dep-amod.html) – [aux](ja_modern-dep-aux.html) – [case](ja_modern-dep-case.html) – [cc](ja_modern-dep-cc.html) – [compound](ja_modern-dep-compound.html) – [dep](ja_modern-dep-dep.html) – [det](ja_modern-dep-det.html) – [discourse](ja_modern-dep-discourse.html) – [iobj](ja_modern-dep-iobj.html) – [mark](ja_modern-dep-mark.html) – [nmod](ja_modern-dep-nmod.html) – [nsubj](ja_modern-dep-nsubj.html) – [nummod](ja_modern-dep-nummod.html) – [obj](ja_modern-dep-obj.html) – [obl](ja_modern-dep-obl.html) – [punct](ja_modern-dep-punct.html) – [root](ja_modern-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -224,7 +224,7 @@ through discussion and validation with
 </ul>
 
 <ul>
-<li>This corpus uses 45 lemmas as auxiliaries (<a>aux</a>). Examples: なり, ず, す, べし, む, たり, 如し, 於く, しむ, り, き, 可し, る, 由る, 非ず, 不, 哉, らる, を, 依る, 因る, 據る, やすし, 樣, 然り, なし, ぬ, よる, 乎, 云ふ, 仕る, 以來, 仰ぐ, 對す, 廢す, 得, 憑る, 放つ, 方る, 易し, 望む, 然, 然らず, 若し, 行ふ.</li>
+<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: なり, ず, べし, む, たり, 如し, しむ, り, き, 可し, る, 非ず, 不, らる, 樣, なし, ぬ, 然らず, 若し.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -238,12 +238,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(なり)-ADP(は) (2)</li>
       <li>VERB--NOUN-ADP(に)-ADP(が) (2)</li>
       <li>VERB--NOUN-ADP(に)-ADP(は) (4)</li>
-      <li>VERB--NOUN-ADP(にて)-ADP(は) (2)</li>
+      <li>VERB--NOUN-ADP(にて)-ADP(は) (3)</li>
       <li>VERB--NOUN-ADP(の)-ADP(は) (2)</li>
       <li>VERB--NOUN-ADP(は) (80)</li>
       <li>VERB--NOUN-ADP(や)-ADP(は) (1)</li>
-      <li>VERB--PRON-ADP(が) (2)</li>
-      <li>VERB--PRON-ADP(に)-ADP(は) (4)</li>
+      <li>VERB--PRON-ADP(が) (4)</li>
+      <li>VERB--PRON-ADP(に)-ADP(は) (7)</li>
+      <li>VERB--PRON-ADP(は) (4)</li>
     </ul>
   </li>
 </ul>
@@ -253,11 +254,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-ADP(と)-ADP(を) (4)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (562)</li>
+      <li>VERB--NOUN-ADP(を) (569)</li>
       <li>VERB--NOUN-ADP(を)-ADP(に) (1)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--PRON-ADP(を) (120)</li>
-      <li>VERB--PRON-ADP(を)-ADP(か) (1)</li>
+      <li>VERB--PRON-ADP(を) (135)</li>
+      <li>VERB--PRON-ADP(を)-ADP(か) (2)</li>
     </ul>
   </li>
 </ul>
@@ -268,22 +269,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (222)</li>
       <li>VERB--NOUN-ADP(と) (1)</li>
       <li>VERB--NOUN-ADP(に) (160)</li>
-      <li>VERB--NOUN-ADP(にて)-ADP(は) (1)</li>
       <li>VERB--NOUN-ADP(にて)-ADP(も) (1)</li>
-      <li>VERB--NOUN-ADP(の) (1)</li>
       <li>VERB--NOUN-ADP(も) (4)</li>
       <li>VERB--NOUN-ADP(や) (2)</li>
-      <li>VERB--NOUN-ADP(を) (4)</li>
       <li>VERB--PRON (21)</li>
       <li>VERB--PRON-ADP(か) (2)</li>
-      <li>VERB--PRON-ADP(が) (2)</li>
       <li>VERB--PRON-ADP(に) (21)</li>
       <li>VERB--PRON-ADP(に)-ADP(か) (1)</li>
-      <li>VERB--PRON-ADP(に)-ADP(は) (1)</li>
-      <li>VERB--PRON-ADP(は) (1)</li>
       <li>VERB--PRON-ADP(より) (1)</li>
-      <li>VERB--PRON-ADP(を) (12)</li>
-      <li>VERB--PRON-ADP(を)-ADP(か) (1)</li>
     </ul>
   </li>
 </ul>
@@ -295,5 +288,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 16 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 17 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

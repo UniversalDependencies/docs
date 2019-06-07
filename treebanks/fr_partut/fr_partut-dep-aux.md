@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>.
 
-547 nodes (2%) are attached to their parents as `aux`.
+546 nodes (2%) are attached to their parents as `aux`.
 
-546 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78062157221207.
+545 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78205128205128.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (520; 95% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (519; 95% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

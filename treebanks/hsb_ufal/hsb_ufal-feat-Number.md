@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 * `Dual` (12; 2% of non-empty `Number`): <em>jewjetej, matej, móžetej, nabywaštej, nahrawałoj, přidźělitej, rozšěrištaj, spěchowaštej, słušatej, wotkryłoj</em>
 * `Plur` (237; 34% of non-empty `Number`): <em>su, běchu, maja, eksistuja, móžachu, móžeja, pokazuja, wužiwachu, wužiwaja, hodźa</em>
 * `Sing` (443; 64% of non-empty `Number`): <em>ma, móže, wobsahuje, móžeš, hlej, leži, rěči, dyrbi, wužiwa, hodźi</em>
-* `EMPTY` (129): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
+* `EMPTY` (130): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
   <tr><th>Paradigm <i>měć</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 * `Dual` (9; 3% of non-empty `Number`): <em>buštej, stej, běštej, staj</em>
 * `Plur` (93; 32% of non-empty `Number`): <em>su, buchu, njejsu, běchu, bychu, njebuchu, njesu</em>
 * `Sing` (185; 64% of non-empty `Number`): <em>je, bu, bě, by, njeje, sy, budu, budźe, był, była</em>
-* `EMPTY` (3): <em>być, posłužić</em>
+* `EMPTY` (2): <em>być</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -242,7 +242,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1083; 99%),
-<tt>VERB --[<tt><a href="hsb_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (348; 92%),
+<tt>VERB --[<tt><a href="hsb_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (348; 91%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (309; 58%),
 <tt>VERB --[<tt><a href="hsb_ufal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (235; 56%),
 <tt>NOUN --[<tt><a href="hsb_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (211; 89%),

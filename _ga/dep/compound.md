@@ -2,6 +2,7 @@
 layout: relation
 title: 'compound'
 shortdef: 'compound'
+udver: '2'
 ---
 
 UD Irish uses the `compound` relation for noun compounding. In Irish, when two nouns are compounded, the second is in the genitive case. Compounds can denote ownership or  an attribute.

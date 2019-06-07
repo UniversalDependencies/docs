@@ -8,72 +8,69 @@ udver: '2'
 
 This relation is universal.
 
-2040 nodes (1%) are attached to their parents as `discourse`.
+2046 nodes (1%) are attached to their parents as `discourse`.
 
-1983 instances of `discourse` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.85637254901961.
+1988 instances of `discourse` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.86852394916911.
 
-The following 80 pairs of parts of speech are connected with `discourse`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (286; 14% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (260; 13% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (250; 12% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (107; 5% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (94; 5% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (90; 4% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (77; 4% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (67; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (62; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (60; 3% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (54; 3% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (46; 2% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (44; 2% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (43; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (34; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (32; 2% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (29; 1% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (26; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (23; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (17; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 8 discourse	color:blue
-1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	poznata	poznat	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-4	po	po	ADP	_	Case=Loc	5	case	_	_
-5	tome	taj	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-6	da	da	SCONJ	_	_	7	mark	_	_
-7	jede	jesti	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
-8	i	i	CCONJ	_	_	11	discourse	_	_
-9	do	do	ADP	_	Case=Gen	11	case	_	_
-10	50	50	NUM	_	NumType=Card	11	nummod	_	_
-11	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
-12	kruha	kruh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-13	dnevno	dnevno	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
+The following 79 pairs of parts of speech are connected with `discourse`: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (290; 14% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (277; 14% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (269; 13% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (95; 5% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (94; 5% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (80; 4% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (74; 4% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (70; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (69; 3% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (60; 3% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (55; 3% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (48; 2% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (41; 2% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (41; 2% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (39; 2% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (36; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (33; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (31; 2% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (24; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (24; 1% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (23; 1% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (19; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (19; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt>-<tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 discourse	color:blue
-1	Najveći	velik	ADJ	_	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
-2	gubitaši	gubitaš	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	su	biti	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	pak	pak	PART	_	_	2	discourse	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	Banka	banka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-8	kovanica	kovanica	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
-9	i	i	CCONJ	_	_	11	cc	_	_
-10	Croatia	Croatia	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	11	compound	_	_
-11	banka	banka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 discourse	color:blue
-1	Inozemna	inozeman	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
-2	ulaganja	ulaganje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
-3	također	također	ADV	_	Degree=Pos	5	discourse	_	_
-4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
-5	smanjuju	smanjivati	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 3 1 discourse	color:blue
+1	Barem	barem	PART	Qo	_	3	discourse	_	_
+2	na	na	ADP	Sl	Case=Loc	3	case	_	_
+3	papiru	papir	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	izgleda	izgledati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	kao	kao	SCONJ	Cs	_	8	case	_	_
+7	odlična	odličan	ADJ	Agpfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	ideja	ideja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	I	i	CCONJ	Cc	_	2	discourse	_	_
+2	vlada	vlada	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	uzima	uzimati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kredite	kredit	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	MMF-a	MMF	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	i	i	CCONJ	Cc	_	7	cc	_	_
+7	EU	EU	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 discourse	color:blue
+1	"	"	PUNCT	Z	_	7	punct	_	SpaceAfter=No
+2	Međutim	međutim	ADV	Rgp	Degree=Pos	7	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	Beograd	Beograd	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	bi	biti	AUX	Vaa3s	Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+6	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
+7	mogao	moći	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	naći	naći	VERB	Vmn	VerbForm=Inf	7	xcomp	_	_
+9	u	u	ADP	Sl	Case=Loc	11	case	_	_
+10	bezizlaznoj	bezizlazan	ADJ	Agpfsly	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	situaciji	situacija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	:	:	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 

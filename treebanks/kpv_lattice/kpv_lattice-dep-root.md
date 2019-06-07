@@ -22,12 +22,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Бур	бур	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
 2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	таво	таво	ADV	Adv	_	3	advmod	_	_
 5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
-6	районувса	районувса	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+6	районувса	районув	ADJ	A	Case=Nom|Derivation=Sa|Number=Sing	7	amod	_	_
 7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
 3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	7	advcl	_	_
 4	весиг	весиг	ADV	Adv	_	7	mark	_	_
-5	шуштӧм	шуштӧм	ADJ	A	Case=Nom|Degree=Pos|Derivation=Tom|Number=Sing	6	amod	_	_
+5	шуштӧм	шуштӧм	ADJ	A	Case=Nom|Derivation=Tom|Number=Sing	7	amod	_	_
 6	лолі	лолыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
 8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
@@ -60,9 +60,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
-2	Выль	выль	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-3	олӧм	овны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	2	flat:name	_	_
-4	колхоз	колхоз	NOUN	N	Case=Acc|Number=Sing	3	flat:name	_	SpaceAfter=No
+2	Выль	выль	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+3	олӧм	олӧм	NOUN	N	Case=Nom|Number=Sing	2	flat:name	_	_
+4	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	3	flat:name	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	председательыс	председатель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	_
 7	Калинин	Калинин	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No

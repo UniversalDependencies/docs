@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>sì</em> (<tt><a href="it_isdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.480598).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.480817).
 
 The 1st highest number of forms (1) was observed with the lemma “Ebbene”: <em>Ebbene</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>ah, Grazie, ahimè, Vabbè, oh, Amen, Ciao, Ebbene, Ecco, Già</em
 
 `INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="it_isdt-dep-discourse.html">discourse</a></tt> (57; 88% instances), <tt><a href="it_isdt-dep-root.html">root</a></tt> (7; 11% instances), <tt><a href="it_isdt-dep-nmod.html">nmod</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (36; 55% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances),  (7; 11% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (37; 57% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (8; 12% instances),  (7; 11% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances)
 
 15 (23%) `INTJ` nodes are leaves.
 

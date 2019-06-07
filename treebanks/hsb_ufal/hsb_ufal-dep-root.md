@@ -13,7 +13,7 @@ This relation is universal.
 646 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.4984520123839.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (441; 68% instances), -<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (99; 15% instances), -<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (94; 15% instances), -<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (4; 1% instances), -<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (442; 68% instances), -<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (99; 15% instances), -<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (94; 15% instances), -<tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (4; 1% instances), -<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances), -<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

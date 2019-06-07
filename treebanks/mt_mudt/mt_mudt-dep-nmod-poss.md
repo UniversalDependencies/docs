@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="mt_mudt-dep-nmod.html">nmod</a></tt>.
 
-1601 nodes (4%) are attached to their parents as `nmod:poss`.
+1872 nodes (4%) are attached to their parents as `nmod:poss`.
 
-1600 instances of `nmod:poss` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.35540287320425.
+1871 instances of `nmod:poss` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.19391025641026.
 
-The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1225; 77% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (196; 12% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (31; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (27; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1226; 65% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (296; 16% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (196; 10% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (31; 2% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 nmod:poss	color:blue
-1	M'	_	PART	NEG	_	2	aux:neg	_	SpaceAfter=No
+1	M'	_	PART	NEG	_	2	advmod:neg	_	SpaceAfter=No
 2	għażilx	_	VERB	VERB	_	0	root	_	_
 3	li	_	SCONJ	COMP	_	4	mark	_	_
 4	joqgħod	_	VERB	VERB	_	2	xcomp	_	_
@@ -33,6 +33,25 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 9	tal-	_	ADP	GEN_DEF	_	10	case:det	_	SpaceAfter=No
 10	poter	_	NOUN	NOUN	_	8	nmod:poss	_	SpaceAfter=No
 11	.	_	PUNCT	X_PUN	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nmod:poss	color:blue
+1	Ma	_	PART	NEG	_	2	advmod:neg	_	_
+2	qagħadx	_	VERB	VERB	_	0	root	_	_
+3	attent	_	ADJ	ADJ	_	2	xcomp	_	_
+4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
+5	iħares	_	VERB	VERB	_	3	advcl	_	_
+6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+7	fama	_	NOUN	NOUN	_	5	obj	_	_
+8	tiegħu	_	PRON	GEN_PRON	_	7	nmod:poss	_	SpaceAfter=No
+9	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 ~~~
 
@@ -52,27 +71,9 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 7	ta'	_	ADP	GEN	_	8	case	_	_
 8	Grisewood	_	PROPN	NOUN_PROP	_	6	nmod:poss	_	_
 9	qatt	_	ADV	ADV	_	11	advmod	_	_
-10	ma	_	PART	NEG	_	11	aux:neg	_	_
+10	ma	_	PART	NEG	_	11	advmod:neg	_	_
 11	seħħ	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 12	.	_	PUNCT	X_PUN	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 nmod:poss	color:blue
-1	Editorjal	_	NOUN	NOUN	_	0	root	_	_
-2	|	_	PUNCT	X_PUN	_	1	punct	_	_
-3	18	_	NUM	X_DIG	_	1	list	_	_
-4	ta'	_	ADP	GEN	_	5	case	_	_
-5	Ottubru	_	PROPN	NOUN_PROP	_	3	nmod:poss	_	_
-6	2009	_	NUM	X_DIG	_	5	nummod	_	_
-7	Nr	_	NOUN	X_ABV	_	1	list	_	_
-8	156	_	NUM	X_DIG	_	7	nummod	_	_
 
 ~~~
 

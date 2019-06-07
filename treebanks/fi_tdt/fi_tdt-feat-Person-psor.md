@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt>, <tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt>.
 
-3667 tokens (2%) have a non-empty value of `Person[psor]`.
+3669 tokens (2%) have a non-empty value of `Person[psor]`.
 2682 types (5%) occur at least once with a non-empty value of `Person[psor]`.
 1607 lemmas (6%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (2662; 1% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (517; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (210; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (133; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (56; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (34; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_tdt-pos-NOUN.html">NOUN</a></tt> (2662; 1% instances), <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (517; 0% instances), <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> (211; 0% instances), <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> (141; 0% instances), <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> (49; 0% instances), <tt><a href="fi_tdt-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (34; 0% instances), <tt><a href="fi_tdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
@@ -73,9 +73,9 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `PRON`
 
-210 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+211 <tt><a href="fi_tdt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (210; 100%), <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (168; 80%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 70%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (211; 100%), <tt><a href="fi_tdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (169; 80%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (148; 70%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -109,26 +109,27 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 ### `ADV`
 
-133 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+141 <tt><a href="fi_tdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (133; 100%).
+The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (141; 100%).
 
 `ADV` tokens may have the following values of `Person[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>ympärille</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ympärilleni</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>ympärillesi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ympärillemme</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>ympärilleen</em></td></tr>
+  <tr><th>Paradigm <i>kanssa</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>kanssani</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>Kanssasi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>kanssamme</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>kanssanne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>kanssaan</em></td></tr>
 </table>
 
 ### `ADP`
 
-56 <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+49 <tt><a href="fi_tdt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (54; 96%).
+The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="fi_tdt-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (48; 98%).
 
 `ADP` tokens may have the following values of `Person[psor]`:
 

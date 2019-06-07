@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="cs_cac-dep-aux.html
 
 2521 nodes (1%) are attached to their parents as `aux:pass`.
 
-2500 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+2498 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.97818326061087.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2510; 100% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2508; 99% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,40 +66,29 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 26 aux:pass	color:blue
-1	Lze	lze	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	3:expl:pv	LGloss=(zvr._zájmeno/částice)
-3	domnívat	domnívat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	1	csubj	1:csubj	SpaceAfter=No
-4	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-5	že	že	SCONJ	J,-------------	_	8	mark	8:mark	_
-6	příslušní	příslušný	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	7:amod	LDeriv=příslušet
-7	činitelé	činitel	NOUN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	8	nsubj	8:nsubj	_
-8	udělají	udělat	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	_
-9	vše	všechno	PRON	PLNS4---------1	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	8	obj	8:obj	_
-10	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=pro-1
-11	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	obl	8:obl	SpaceAfter=No
-12	,	,	PUNCT	Z:-------------	_	19	punct	19:punct	_
-13	aby	aby	SCONJ	J,-------------	_	19	mark	19:mark	_
-14	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	19	aux	19:aux	_
-15	i	i	CCONJ	J^-------------	_	16	advmod:emph	16:advmod:emph	LId=i-1
-16	tato	tento	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	det	17:det	_
-17	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	19	nsubj	19:nsubj	_
-18	oprav	oprava	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	17	nmod	17:nmod	_
-19	mohla	moci	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	acl	11:acl	LGloss=(mít_možnost_[něco_dělat])
-20	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	21	aux:pass	21:aux:pass	_
-21	provedena	provedený	ADJ	VsQW---XX-AP---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	19	obj	19:obj	LDeriv=provést
-22	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	24:case	LId=bez-1
-23	zbytečných	zbytečný	ADJ	AANP2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	24	amod	24:amod	_
-24	zdržení	zdržení	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	21	obl	21:obl	LDeriv=zdržet
-25	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	26	case	26:case	LId=v-1
-26	rámci	rámec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	21	aux:pass	21:aux:pass	_
-27	celkové	celkový	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	28	amod	28:amod	_
-28	opravy	oprava	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	26	obl	26:obl	SpaceAfter=No
-29	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 aux:pass	color:blue
+1	Tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	_
+2	cíl	cíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj:pass	12:nsubj:pass	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
+4	stanovený	stanovený	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	2:amod	LDeriv=stanovit|LGloss=(určit)
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	6:case	LId=v-1
+6	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl	_
+7	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
+8	#	&clabel;	NUM	C=-------------	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
+9	sjezdem	sjezd	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	4:obl	_
+10	strany	strana	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No|LId=strana-2|LGloss=(politická)
+11	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
+12	měl	mít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+13	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	12	aux:pass	12:aux:pass	_
+14	splněn	splněný	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	12	xcomp	12:xcomp	LDeriv=splnit
+15	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	16	case	16:case	LId=v-1
+16	roce	rok	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	12:obl	_
+17	#	&cyear;	NUM	C=-------------	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
+18	.	.	PUNCT	Z:-------------	_	12	punct	12:punct	_
 
 ~~~
 

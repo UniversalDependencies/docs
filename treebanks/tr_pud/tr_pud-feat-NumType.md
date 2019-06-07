@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `NumType` co-occurre
 `AUX` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>di</em>
-* `EMPTY` (522): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, olmak</em>
+* `EMPTY` (537): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, olmak</em>
 
 ### `PROPN`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>kaç</em>
-* `EMPTY` (684): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
+* `EMPTY` (685): <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
 
 ### `NOUN`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>6.000'den</em>
-* `EMPTY` (6384): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
+* `EMPTY` (6378): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
 
 ## Relations with Agreement in `NumType`
 

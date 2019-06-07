@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (6%) are attached to their parents as `nsubj`.
+87 nodes (7%) are attached to their parents as `nsubj`.
 
-53 instances of `nsubj` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.38461538461538.
+69 instances of `nsubj` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.29885057471264.
 
-The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (22; 34% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (19; 29% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (7; 11% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (28; 32% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (26; 30% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (7; 8% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (6; 7% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2 1 nsubj	color:blue
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	картапель	картапель	NOUN	N	Case=Acc|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
+3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -45,23 +45,19 @@ The following 14 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 nsubj	color:blue
-1	Миян	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-2	выйым	выйым	PART	Pcle	_	5	cop	_	_
-3	асланум	ас	PRON	Pron	Case=Nom|Person=1|PronType=Prs	5	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	керка	керка	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	мӧс	мӧс	NOUN	N	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	9	punct	_	_
-9	ыж	ыж	NOUN	N	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	кукань	кукань	NOUN	N	Case=Nom|Number=Sing	5	list	_	SpaceAfter=No
-12	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 1 2 nsubj	color:blue
+1	Мӧдіс	мӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+2	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	1	nsubj	_	GTtags=Prop,Sg,Nom
+3	велӧдчыны	велӧдчыны	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Refl,Inf
+4	Печораӧ	Печора	PROPN	N	Case=Ill|Number=Sing	3	obl	_	GTtags=Prop,Sg,Ill
+5	щӧтӧвӧднэй	щӧтӧвӧднэй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	Lang=Mixed|GTtags=Sg,Nom
+6	курс	курс	NOUN	N	Case=Nom|Number=Sing	3	obl	_	Lang=Mixed|GTtags=Sg,Nom
+7	вылӧ	вылӧ	ADP	Po	Case=Ill|Number=Sing	6	case	_	GTtags=Sg,Ill|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 

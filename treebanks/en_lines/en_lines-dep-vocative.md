@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (0%) are attached to their parents as `vocative`.
+97 nodes (0%) are attached to their parents as `vocative`.
 
 52 instances of `vocative` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.8125.
+Average distance between parent and child is 4.80412371134021.
 
-The following 14 pairs of parts of speech are connected with `vocative`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (42; 44% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (24; 25% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (8; 8% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `vocative`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (43; 44% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (25; 26% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (9; 9% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	Thank	thank	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PERS-P2	_	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	Comma	_	1	punct	_	_
-4	Mr	mr	NOUN	SG-NOM	Number=Sing	5	compound	_	_
+4	Mr	mr	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
 5	Donnay	donnay	PROPN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No
 6	.	.	PUNCT	Period	_	1	punct	_	_
 

@@ -2,6 +2,7 @@
 layout: feature
 title: 'Person'
 shortdef: 'person'
+udver: '2'
 ---
 
 Person is a feature of personal and possessive pronouns and verbs. In verbs, this feature marks the subject, in some cases allowing the subject to be dropped entirely. In Irish, some verbs are constructed synthetically, and some are analytically constructed. Verb stems in Irish are either broad or slender (see [NounType]()), and are inflected differently depending on this.

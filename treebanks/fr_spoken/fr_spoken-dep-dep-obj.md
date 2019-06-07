@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_spoken-dep-dep.html">dep</a></tt>.
 There are also 1 other language-specific subtypes of `dep`: <tt><a href="fr_spoken-dep-dep-iobj.html">dep:iobj</a></tt>.
 
-102 nodes (0%) are attached to their parents as `dep:obj`.
+101 nodes (0%) are attached to their parents as `dep:obj`.
 
-102 instances of `dep:obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30392156862745.
+101 instances of `dep:obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26732673267327.
 
-The following 1 pairs of parts of speech are connected with `dep:obj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (102; 100% instances).
+The following 1 pairs of parts of speech are connected with `dep:obj`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (101; 100% instances).
 
 
 ~~~ conllu

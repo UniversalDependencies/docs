@@ -8,28 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-6729 nodes (8%) are attached to their parents as `nsubj`.
+7491 nodes (8%) are attached to their parents as `nsubj`.
 
-5227 instances of `nsubj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.35339574973993.
+5835 instances of `nsubj` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.38139100253638.
 
-The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (2914; 43% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1133; 17% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (946; 14% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (658; 10% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (311; 5% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (177; 3% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (153; 2% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (90; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (76; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (64; 1% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (38; 1% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 48 pairs of parts of speech are connected with `nsubj`: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (3246; 43% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1169; 16% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (738; 10% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (677; 9% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (429; 6% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (371; 5% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (163; 2% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (135; 2% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (98; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (72; 1% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (56; 1% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (41; 1% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (37; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt>-<tt><a href="sr_set-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nsubj	color:blue
-1	Druga	drugi	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	2	nummod	_	_
-2	dvojica	dvojica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
-4	rekli	reći	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-5	da	da	SCONJ	_	_	7	mark	_	_
-6	neće	hteti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
-7	prisustvovati	prisustvovati	VERB	_	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nsubj	color:blue
+1	Bitići	Bitići	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	SCONJ	Cs	_	7	mark	_	_
+4	bi	biti	AUX	Vaa3p	Mood=Cnd|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	jači	jak	ADJ	Agcmpny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
+6	sindikati	sindikat	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	doneli	doneti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	ccomp	_	_
+8	bolje	dobar	ADJ	Agcmpay	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
+9	ishode	ishod	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
@@ -40,34 +42,36 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	4	mark	_	_
-4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
-5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
-6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
-7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+1	Bitići	Bitići	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	da	da	SCONJ	Cs	_	7	mark	_	_
+4	bi	biti	AUX	Vaa3p	Mood=Cnd|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	jači	jak	ADJ	Agcmpny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
+6	sindikati	sindikat	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	doneli	doneti	VERB	Vmp-pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	ccomp	_	_
+8	bolje	dobar	ADJ	Agcmpay	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
+9	ishode	ishod	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Ona	on	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	voli	voleti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	blato	blato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
-5	više	mnogo	ADV	_	Degree=Cmp	3	advmod	_	_
-6	nego	nego	CCONJ	_	_	8	cc	_	_
-7	sam	sam	ADJ	_	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	život	život	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
-9	"	"	PUNCT	_	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 nsubj	color:blue
+1	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+2	Deceniju	decenija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	advmod	_	_
+3	kasnije	kasno	ADV	Rgc	Degree=Cmp	4	advmod	_	_
+4	vidimo	videti	VERB	Vmr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	da	da	SCONJ	Cs	_	9	mark	_	_
+6	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	ekonomija	ekonomija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	užasno	užasno	ADV	Rgp	Degree=Pos	9	advmod	_	_
+9	nestrukturirana	nestrukturiran	ADJ	Agpfsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

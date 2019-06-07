@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	de	de	ADP	INDT	_	6	case	_	_
 5	le	le	DET	_	Gender=Masc|Number=Sing	6	det	_	_
 6	Caucase	_	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
-7	est	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
+7	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
 8	connue	_	VERB	VBN	Gender=Fem|Number=Sing	0	root	_	_
 9	sous	_	ADP	IN	_	11	case	_	_
 10	le	_	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
@@ -65,14 +65,14 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 8	Athina	_	PROPN	NNP	Number=Sing	9	compound	_	_
 9	Film	_	NOUN	NN	Number=Sing	3	appos	_	Proper=True|SpaceAfter=No
 10	)	_	PUNCT	)	_	9	punct	_	_
-11	fut	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux:pass	_	_
+11	fut	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux:pass	_	_
 12	créée	_	VERB	VBN	Gender=Fem|Number=Sing	0	root	_	_
 13	en	_	ADP	IN	_	14	case	_	_
 14	1912	_	NUM	CD	_	12	obl	_	SpaceAfter=No
 15	,	_	PUNCT	,	_	18	punct	_	_
 16	et	_	CCONJ	CC	_	18	cc	_	_
 17	Asty	_	PROPN	NNP	Number=Sing	18	compound	_	_
-18	Film	_	NOUN	NN	Number=Sing	12	conj	_	orig_deprel=appos|Proper=True
+18	Film	_	NOUN	NN	Number=Sing	12	conj	_	Proper=True|orig_deprel=appos
 19	en	_	ADP	IN	_	20	case	_	orig_deprel=obl
 20	1916	_	NUM	CD	_	18	orphan	_	SpaceAfter=No
 21	.	_	PUNCT	.	_	12	punct	_	_
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	fgColor:white
 # visual-style 13 15 orphan	color:blue
 1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-2	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+2	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
 3	également	_	ADV	RB	_	4	advmod	_	_
 4	construit	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 5	et	_	CCONJ	CC	_	6	cc	_	_

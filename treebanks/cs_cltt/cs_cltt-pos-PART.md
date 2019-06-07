@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `PART`
 
-There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 75 `PART` tokens (0%).
+There are 7 `PART` lemmas (0%), 7 `PART` types (0%) and 108 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>jen, až, netto, nikoli, brutto, ne</em>
+The 10 most frequent `PART` lemmas: <em>jen, to, až, netto, nikoli, brutto, ne</em>
 
-The 10 most frequent `PART` types:  <em>jen, až, netto, nikoliv, brutto, ne</em>
+The 10 most frequent `PART` types:  <em>jen, to, až, netto, nikoliv, brutto, ne</em>
 
 The 10 most frequent ambiguous lemmas: <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19), <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
+* <em>to</em>
+  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33: <em>(6) Konsolidační celek tvoří účetní jednotky uvedené v odstavcích 2 a 3 písm._a) , a <b>to</b> za podmínek stanovených §_22a a prováděcími právními předpisy .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19: <em>(4) Postup podle odstavců 2 a 3 se použije , pokud <b>to</b> neodporuje přímo použitelnému předpisu Evropské unie nebo zvláštnímu právnímu předpisu .</em>
 * <em>až</em>
   * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(5) Ustanovení §_52_a_53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .</em>
   * <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7: <em>(6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
@@ -25,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.766716).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.766431).
 
 The 1st highest number of forms (1) was observed with the lemma “až”: <em>až</em>.
 
@@ -38,15 +41,15 @@ The 3rd highest number of forms (1) was observed with the lemma “jen”: <em>j
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (55; 73% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (15; 20% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (3; 4% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 6 different relations: <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (55; 51% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (33; 31% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (15; 14% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (3; 3% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (36; 48% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (27; 36% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (6; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="cs_cltt-pos-X.html">X</a></tt> (38; 35% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (33; 31% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (27; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (6; 6% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 
-71 (95%) `PART` nodes are leaves.
+104 (96%) `PART` nodes are leaves.
 
 0 (0%) `PART` nodes have one child.
 
-3 (4%) `PART` nodes have two children.
+3 (3%) `PART` nodes have two children.
 
 1 (1%) `PART` nodes have three or more children.
 

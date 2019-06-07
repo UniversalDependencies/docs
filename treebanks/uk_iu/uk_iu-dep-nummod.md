@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="uk_iu-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-456 nodes (0%) are attached to their parents as `nummod`.
+490 nodes (0%) are attached to their parents as `nummod`.
 
-450 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46710526315789.
+484 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46734693877551.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (440; 96% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (475; 97% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

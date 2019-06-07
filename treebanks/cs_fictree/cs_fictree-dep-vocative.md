@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6 2 vocative	color:blue
 1	Ach	ach	INTJ	II-------------	_	6	dep	6:dep|11:dep	_
 2	přátelé	přítel	NOUN	NNMP5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Polarity=Pos	6	vocative	6:vocative|11:vocative	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct|11:punct	_
+3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	6:nsubj	_
 5	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	cop	6:cop	_
 6	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No

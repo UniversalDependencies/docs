@@ -11,9 +11,9 @@ This relation is universal.
 16678 nodes (3%) are attached to their parents as `root`.
 
 16678 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.23743854179158.
+Average distance between parent and child is 9.20835831634488.
 
-The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (13731; 82% instances), -<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1292; 8% instances), -<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (758; 5% instances), -<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (317; 2% instances), -<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (153; 1% instances), -<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (148; 1% instances), -<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (114; 1% instances), -<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (72; 0% instances), -<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (39; 0% instances), -<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (21; 0% instances), -<tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), -<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (10; 0% instances), -<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (13781; 83% instances), -<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1276; 8% instances), -<tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (730; 4% instances), -<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (315; 2% instances), -<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (153; 1% instances), -<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (146; 1% instances), -<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (116; 1% instances), -<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (71; 0% instances), -<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (38; 0% instances), -<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (21; 0% instances), -<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (10; 0% instances), -<tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), -<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,10 +28,10 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
 5	algunes	algun	PRON	PRON	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	_	_
 6	no	no	ADV	ADV	Polarity=Neg	9	advmod	_	_
-7	s'	es	PRON	PRON	_	9	obj	_	SpaceAfter=No
+7	s'	ell	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	_	SpaceAfter=No
 8	han	haver	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	obert	obrir	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-10	al	al	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	11	case	_	_
+10	al	al	ADP	ADP	AdpType=Preppron	11	case	_	_
 11	públic	públic	NOUN	NOUN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
@@ -47,11 +47,11 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	pressupost	pressupost	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj	_	_
 3	base	base	NOUN	NOUN	Gender=Fem|Number=Sing	2	nmod	_	_
-4	del	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	5	case	_	_
+4	del	del	ADP	ADP	AdpType=Preppron	5	case	_	_
 5	concurs	concurs	NOUN	NOUN	Gender=Masc|Number=Sing	2	nmod	_	_
 6	és	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	de	de	ADP	ADP	AdpType=Prep	9	case	_	_
-8	1.173.978,53	1173978.53	NUM	NUM	NumForm=Digit	9	nummod	_	_
+8	1.173.978,53	1173978.53	NUM	NUM	NumForm=Digit|NumType=Card	9	nummod	_	_
 9	euros	euro	NOUN	NOUN	NumForm=Digit	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 

@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 1 different values: `Rdp`.
 
 208 tokens (0%) have a non-empty value of `Echo`.
-66 types (0%) occur at least once with a non-empty value of `Echo`.
-63 lemmas (0%) occur at least once with a non-empty value of `Echo`.
+65 types (0%) occur at least once with a non-empty value of `Echo`.
+62 lemmas (0%) occur at least once with a non-empty value of `Echo`.
 The feature is used with 7 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (69; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (54; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -34,9 +34,9 @@ The most frequent other feature values with which `ADJ` and `Echo` co-occurred: 
 
 `ADJ` tokens may have the following values of `Echo`:
 
-* `Rdp` (54; 100% of non-empty `Echo`): अलग, साफ, नई, छोटे, बड़े, बड़ी, बड़े, अच्छी, ताजा, नए
+* `Rdp` (54; 100% of non-empty `Echo`): अलग, बड़े, साफ, नई, छोटे, बड़ी, अच्छी, ताजा, नए, पूरी
 
-`Echo` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `Echo`.
+`Echo` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Echo`.
 
 ### `ADV`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `VERB` and `Echo` co-occurred:
 
 `VERB` tokens may have the following values of `Echo`:
 
-* `Rdp` (8; 100% of non-empty `Echo`): तड़प, भाग, होते, करते, जाते, दबोचते, देखते
+* `Rdp` (8; 100% of non-empty `Echo`): तड़प, भाग, होते, करते, जाते, दबोचते, देखते
 
 ### `DET`
 

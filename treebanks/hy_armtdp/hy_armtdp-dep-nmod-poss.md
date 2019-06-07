@@ -9,69 +9,60 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>.
 
-1317 nodes (6%) are attached to their parents as `nmod:poss`.
+2190 nodes (6%) are attached to their parents as `nmod:poss`.
 
-1302 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69703872437358.
+2174 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73287671232877.
 
-The following 11 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1087; 83% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (196; 15% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1816; 83% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (290; 13% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (37; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nmod:poss	color:blue
-1	Հեռանկարում	հեռանկար	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	2	obl	_	_
-2	նախատեսվում	նախատեսել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	_
-3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	_
-4	այլ	այլ	DET	_	PronType=Ind	5	det	_	_
-5	բեմադրությունների	բեմադրություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	6	nmod:poss	_	_
-6	առաջնախաղեր	առաջնախաղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	2	nsubj:pass	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nmod:poss	color:blue
+1	Դաստակի	դաստակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=dastaki|LTranslit=dastak
+2	շարժումը	շարժում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=šaržowmë|LTranslit=šaržowm
+3	սահուն	սահուն	ADJ	_	Degree=Pos	0	root	_	Translit=sahown|LTranslit=sahown
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+6	արագ	արագ	ADJ	_	Degree=Pos	3	conj	_	Translit=arag|LTranslit=arag|SpaceAfter=No
+7	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nmod:poss	color:blue
-1	Փարիզում	Փարիզ	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	2	obl	_	_
-2	բացվել	բացել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	_
-3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	_
-4	Զաբել	Զաբել	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	nmod:poss	_	_
-5	Եսայանի	Եսայան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	4	flat	_	_
-6	անվան	անուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:poss	_	_
-7	ճեմուղին	ճեմուղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj:pass	_	SpaceAfter=No
-8	։	։	PUNCT	_	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nmod:poss	color:blue
+1	Սարիղամիշի	Սարիղամիշ	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=sariġamiši|LTranslit=sariġamiš
+2	անկումն	անկում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	orphan	_	Translit=ankowmn|LTranslit=ankowm
+3	ապրիլի	ապրիլ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=aprili|LTranslit=april
+4	տասին	տաս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing|NumForm=Word	0	root	_	Translit=tasin|LTranslit=tas|SpaceAfter=No
+5	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 nmod:poss	color:blue
-1	Որքան	որքան	ADV	_	PronType=Rel	5	advmod	_	_
-2	որ	որ	PART	_	_	1	fixed	_	_
-3	Շուշան	Շուշան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	nmod	_	_
-4	նախատատի	նախատատ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	_
-5	հայտնվելն	հայտնվել	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	8	nsubj	_	_
-6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	_
-7	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	8	aux	_	_
-8	խորհրդավոր	խորհրդավոր	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	13	punct	_	_
-10	այնքան	այնքան	ADV	_	Distance=Dist|PronType=Dem	13	advmod	_	_
-11	էլ	էլ	PART	_	_	10	fixed	_	SpaceAfter=No
-12	՝	՝	PUNCT	_	_	13	punct	_	_
-13	հեռանալը	հեռանալ	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	1	advcl	_	SpaceAfter=No
-14	։	։	PUNCT	_	_	8	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nmod:poss	color:blue
+1	Պատառոտվել	պատառվել	VERB	_	Aspect=Iter,Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=pataṙotvel|LTranslit=pataṙvel
+2	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=en|LTranslit=em
+3	նոր	նոր	ADJ	_	Degree=Pos	4	amod	_	Translit=nor|LTranslit=nor
+4	գնդեր	գունդ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	5	obj	_	Translit=gnder|LTranslit=gownd
+5	գումարելու	գումարել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	7	nmod:poss	_	Translit=gowmarelow|LTranslit=gowmarel
+6	քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=k’o|LTranslit=dow
+7	ծրագրերը	ծրագիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	1	nsubj	_	Translit=çragrerë|LTranslit=çragir|SpaceAfter=No
+8	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

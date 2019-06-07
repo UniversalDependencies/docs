@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `fixed`.
+658 nodes (0%) are attached to their parents as `fixed`.
 
-8 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+658 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.68996960486322.
 
-The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (5; 63% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 38% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	mark	_	ref=MARK_9.46
-2	si	si	SCONJ	G-	_	1	fixed	_	ref=MARK_9.46
-3	oculus	oculus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=MARK_9.46
-4	tuus	tuus	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MARK_9.46
-5	scandalizat	scandalizo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=MARK_9.46
-6	te	tu	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	ref=MARK_9.46
-7	eice	eicio	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_9.46
-8	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	ref=MARK_9.46
-
-~~~
+The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (463; 70% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (59; 9% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (39; 6% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (29; 4% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (26; 4% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,16 +22,52 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	haec	hic	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=LUKE_7.45
-2	autem	autem	ADV	Df	_	7	discourse	_	ref=LUKE_7.45
-3	ex	ex	SCONJ	G-	_	5	mark	_	ref=LUKE_7.45
-4	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel	3	fixed	_	ref=LUKE_7.45
-5	intravit	intro	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=LUKE_7.45
-6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	ref=LUKE_7.45
-7	cessavit	cesso	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.45
-8	osculari	osculor	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	7	xcomp	_	ref=LUKE_7.45
-9	pedes	pes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	ref=LUKE_7.45
-10	meos	meus	ADJ	Ps	Case=Acc|Gender=Masc|Number=Plur|Person=1|Poss=Yes	9	nmod	_	ref=LUKE_7.45
+1	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	ref=1.11.3
+2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	ref=1.11.3
+3	quem	quemadmodum	ADV	Dq	PronType=Rel	6	advmod	_	ref=1.11.3
+4	ad	ad	ADV	Dq	PronType=Rel	3	fixed	_	ref=1.11.3
+5	modum	modum	ADV	Dq	PronType=Rel	3	fixed	_	ref=1.11.3
+6	scribis	scribo	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1.11.3
+7	conserva	conservo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 fixed	color:blue
+1	et	et	CCONJ	C-	_	3	cc	_	ref=REV_4.4
+2	in	in	ADP	R-	_	3	case	_	ref=REV_4.4
+3	circuitu	circuitus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	0	root	_	ref=REV_4.4
+4	sedis	sedes	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=REV_4.4
+5	sedilia	sedile	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	ref=REV_4.4
+6	viginti	viginti	NUM	Ma	_	5	nummod	_	ref=REV_4.4
+7	quattuor	quattuor	NUM	Ma	_	6	fixed	_	ref=REV_4.4
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 fixed	color:blue
+1	illa	ille	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=2.18.3
+2	et	et	CCONJ	C-	_	3	cc	_	ref=2.18.3
+3	munitior	munitus	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	0	root	_	ref=2.18.3
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=2.18.3
+5	et	et	CCONJ	C-	_	3	cc	_	ref=2.18.3
+6	non	non	ADV	Df	Polarity=Neg	7	advmod	_	ref=2.18.3
+7	impedit	impedio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=2.18.3
+8	quo	quominus	SCONJ	G-	_	9	mark	_	ref=2.18.3
+9	minus	minus	SCONJ	G-	_	7	ccomp	_	ref=2.18.3
+10	adsim	adsum	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	ref=2.18.3
+11	quom	cum	SCONJ	G-	_	12	mark	_	ref=2.18.3
+12	velim	volo	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=2.18.3|LId=1
 
 ~~~
 

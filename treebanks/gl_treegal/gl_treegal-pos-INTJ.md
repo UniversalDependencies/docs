@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `INTJ`
 
 There are 4 `INTJ` lemmas (0%), 4 `INTJ` types (0%) and 6 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ha, ho, home, ouh</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Home</em> (<tt><a href="gl_treegal-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.370902).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.372032).
 
 The 1st highest number of forms (1) was observed with the lemma “ha”: <em>ha</em>.
 

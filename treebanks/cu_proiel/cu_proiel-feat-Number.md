@@ -9,23 +9,166 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-39210 tokens (68%) have a non-empty value of `Number`.
-9346 types (95%) occur at least once with a non-empty value of `Number`.
-2709 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (13881; 24% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (9599; 17% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (6218; 11% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5278; 9% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1550; 3% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1218; 2% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (796; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (670; 1% instances).
+39211 tokens (68%) have a non-empty value of `Number`.
+9344 types (95%) occur at least once with a non-empty value of `Number`.
+2695 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (11865; 21% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (9599; 17% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (7437; 13% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (5278; 9% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (2016; 4% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (1550; 3% instances), <tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (796; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt> (670; 1% instances).
 
 ### `VERB`
 
-13881 <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Number`.
+11865 <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> tokens (93% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13413; 97%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10596; 76%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (10574; 76%), <tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10567; 76%), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10567; 76%), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9604; 69%), <tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8790; 63%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (7541; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11398; 96%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8732; 74%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (8711; 73%), <tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8704; 73%), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8704; 73%), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7859; 66%), <tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7316; 62%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (6055; 51%), <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5949; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Dual` (280; 2% of non-empty `Number`): <em>рѣсте, бѣашете, бѫдете, идете, обрѣтете, бѣсте, г҃ласте, идѣта, привѣсте, придете</em>
-* `Plur` (4260; 31% of non-empty `Number`): <em>сѫтъ, рѣшѧ, г҃лѭште, придѫ, бѣахѫ, г҃лаахѫ, бѫдѫтъ, есте, имате, видѣвъше</em>
-* `Sing` (9341; 67% of non-empty `Number`): <em>рече, естъ, бѣ, г҃ла, бѫдетъ, г҃лѭ, бꙑстъ, г҃лѧ, еси, приде</em>
-* `EMPTY` (897): <em>бꙑти, ѣсти, г҃лати, дати, прити, творити, ити, видѣти, пити, слꙑшати</em>
+* `Dual` (253; 2% of non-empty `Number`): <em>рѣсте, идете, обрѣтете, г҃ласте, идѣта, привѣсте, придете, шедъша, вѣвѣ, вѣста</em>
+* `Plur` (3849; 32% of non-empty `Number`): <em>рѣшѧ, г҃лѭште, придѫ, г҃лаахѫ, имате, видѣвъше, г҃лѭще, имѫтъ, вѣсте, г҃лашѧ</em>
+* `Sing` (7763; 65% of non-empty `Number`): <em>рече, г҃ла, г҃лѭ, г҃лѧ, приде, дастъ, иматъ, отъвѣштавъ, сътвори, придетъ</em>
+* `EMPTY` (833): <em>ѣсти, г҃лати, дати, прити, творити, ити, видѣти, пити, слꙑшати, сътворити</em>
+
+<table>
+  <tr><th>Paradigm <i>глаголати</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лаашете</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лааше, г҃лаше, г҃лше, глааше, глаголааше</em></td><td><em>г҃лаашете</em></td><td><em>г҃лаахѫ, г҃лахѫ, г҃лхѫ, г҃лаахо</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лахъ, г҃лхъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃ласте</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃ла</em></td><td><em>г҃ласте, гласте</em></td><td><em>г҃лашѧ, г҃лшѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Res</tt>|<tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лалъ, г҃лъ</em></td><td></td><td><em>г҃лали</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лштъ, г҃лѭшть</em></td><td></td><td><em>г҃лѭштѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лѭштѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>г҃лемое</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>глаголѭштемъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭштю, г҃лѭштоу, г҃лѭщю, глаголѭщоу, г҃лѫштю</em></td><td></td><td><em>г҃лѭштемъ, г҃лѭштемь</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭ҄штюмоу</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>г҃ланꙑмъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лшта</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭща</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лглѭштиихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>г҃лмꙑхъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭштемь, г҃лѭщемъ, г҃лѭщемь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лщемь, г҃лѫщемъ, г҃лѭштемь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>г҃лнмь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>г҃ланꙑхъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>г҃лемꙑхъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѧ, г҃лѩ, г҃лѭ</em></td><td><em>г҃лѭшта, г҃лща, г҃лѭща, глаголѭшта, г҃лаголѭшта</em></td><td><em>г҃лѭште, г҃лѭще, г҃лште, г҃лще, г҃лѫште, глаголѭште, г҃лаголѭште, г҃лѭщ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѧи</em></td><td></td><td><em>глаголѭштеи, г҃лѭщеи</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭшти, г҃лѭщи, г҃лшти</em></td><td><em>г҃лѭшти</em></td><td><em>г҃лѭштѧ, г҃лѭщѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лѭштѧѩ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Strong</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>г҃лано</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭщее҅</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=Weak</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лѭштеи</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>г҃лте, г҃лите</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃лѭ, г҃л, глаголѭ, г҃ллѭ, г҃лѭ҄, г҃лаглѭ, г҃лаголѭ, г҃лглѭ, ⷢ҇лѭ</em></td><td></td><td><em>г҃лемъ, г҃лмь</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃леши, г҃лши, глаголеши, г҃лглеши</em></td><td></td><td><em>г҃лете, г҃лте, глаголете</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>г҃летъ, г҃лтъ, глаголетъ</em></td><td></td><td><em>г҃лѭтъ, г҃лтъ, г҃лалѭтъ, г҃лглѭтъ</em></td></tr>
+</table>
+
+### `NOUN`
+
+9599 <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5209; 54%).
+
+`NOUN` tokens may have the following values of `Number`:
+
+* `Dual` (266; 3% of non-empty `Number`): <em>очи, рѫцѣ, ноѕѣ, оуши, ногоу, родителѣ, оученика, ногама, рꙑбѣ, рѫкама</em>
+* `Plur` (2438; 25% of non-empty `Number`): <em>оученици, фарисѣи, оученикомъ, архиереи, дьни, июдеи, народи, оученикꙑ, кънижъници, оученикъ</em>
+* `Sing` (6895; 72% of non-empty `Number`): <em>с҃нъ, г҃и, о҃тца, слово, день, домъ, б҃а, о҃тцъ, б҃ъ, земи</em>
+* `EMPTY` (31): <em>равьви, мънасъ, пасха, дидрагма, равви, раввоуни, авва, корван, мънⷭ҇ъ, мьнасъ</em>
+
+<table>
+  <tr><th>Paradigm <i>сꙑнъ</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>с҃нъ, снъ, с҃нь</em></td><td><em>с҃на</em></td><td><em>с҃нꙑ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>с҃ноу, с҃нови, сꙑноу</em></td><td></td><td><em>с҃нмъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>с҃на, сна</em></td><td><em>с҃новоу</em></td><td><em>с҃нвъ, с҃нъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>с҃номъ</em></td><td><em>с҃ньма</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>с҃нѣ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>с҃нъ, сн, снъ, с҃н, сꙑнъ</em></td><td><em>с҃на, с҃нꙑ, сꙑна</em></td><td><em>с҃нве, с҃нове, сⷩ҇ве</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>с҃не, с҃ноу</em></td><td></td><td></td></tr>
+</table>
+
+### `PRON`
+
+7437 <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cu_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6348; 85%), <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6059; 81%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (4373; 59%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Dual` (124; 2% of non-empty `Number`): <em>има, вама, ѣ, нима, нама, вꙑ, ею, наю, нꙑ, и</em>
+* `Plur` (1748; 24% of non-empty `Number`): <em>имъ, вамъ, вꙑ, ихъ, ѩ, васъ, нихъ, намъ, нимъ, ѣже</em>
+* `Sing` (5565; 75% of non-empty `Number`): <em>сѧ, емоу, его, и, азъ, мѧ, что, мьнѣ, мене, еже</em>
+* `EMPTY` (42): <em>елико</em>
+
+<table>
+  <tr><th>Paradigm <i>и</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>и, і, нь, и҅, нъ, й, ꙇ</em></td><td><em>ѣ</em></td><td><em>ѩ, ѩ҅, нѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ѭ, ѭ҄, нѭ, ѭ҅, нѫѭ</em></td><td><em>и</em></td><td><em>ѩ, нѧ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>е, не, е҅</em></td><td></td><td><em>ѣ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>немоу</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>емоу</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>емоу, немоу, моу, е҅моу, немѫ</em></td><td><em>има, нима</em></td><td><em>имъ, нимъ, нимь, имь, и҅мъ, ꙇмъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>еи, неи, еи҅, е҅и҅</em></td><td><em>има</em></td><td><em>имъ, нимъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>его, него</em></td><td><em>ею, ею҅, нею, неѭ, неѭ҄</em></td><td><em>ихъ, нихъ, ихь, и҅хъ, ꙇхъ, ꙇ҅хъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>еѩ, еѩ҅, неѩ, ѩ</em></td><td><em>ею, нею</em></td><td><em>ихъ, нихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>его, него</em></td><td><em>ею</em></td><td><em>ихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь, нимъ, имъ, имь</em></td><td><em>нима, има</em></td><td><em>ними, ими, ни</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>неѭ, еѭ, неѭ҄, еѭ҄</em></td><td></td><td><em>ними</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь, емь, немъ, емъ</em></td><td></td><td><em>нихъ, ихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>неи</em></td><td></td><td><em>нихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>ѣ</em></td></tr>
+</table>
+
+### `ADJ`
+
+5278 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4111; 78%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4111; 78%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2788; 53%), <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2700; 51%).
+
+`ADJ` tokens may have the following values of `Number`:
+
+* `Dual` (99; 2% of non-empty `Number`): <em>мои, она, свои, ваши, та, зеведеова, и҃своу, твои, твоима, дроугаѣ</em>
+* `Plur` (1477; 28% of non-empty `Number`): <em>си, они, вьси, своѩ, вьсѣ, мъноѕи, своимъ, мъногꙑ, сихъ, своихъ</em>
+* `Sing` (3702; 70% of non-empty `Number`): <em>онъ, се, тъ, сь, мои, моего, своего, никтоже, сего, вьсѣкъ</em>
+* `EMPTY` (8): <em>исплънь, свободь, испльнь</em>
+
+<table>
+  <tr><th>Paradigm <i>сь</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td><em>Сиѩ, сьѩ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сиѭ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>семоу</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сеи</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>семоу</em></td><td></td><td><em>симъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>сего</em></td><td></td><td><em>сихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>сего</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сеѩ</em></td><td><em>сею</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>сего, сега</em></td><td><em>сеѭ</em></td><td><em>сихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>симъ</em></td><td></td><td><em>сими</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>семь</em></td><td></td><td><em>сихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>семь, семъ</em></td><td></td><td><em>сихъ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>сь, съ</em></td><td></td><td><em>сии, си, сии҅</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>си</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
+</table>
+
+### `AUX`
+
+2016 <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2015; 100%), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1863; 92%), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1745; 87%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1486; 74%), <tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1474; 73%), <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1151; 57%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Dual` (27; 1% of non-empty `Number`): <em>бѣашете, бѫдете, бѣсте, есте, бꙑсте, нѣсте, есвѣ, еста, сѫштаа</em>
+* `Plur` (411; 20% of non-empty `Number`): <em>сѫтъ, бѣахѫ, бѫдѫтъ, есте, бѫдете, бисте, бѫ, бꙑшѧ, бѣшѧ, нѣсте</em>
+* `Sing` (1578; 78% of non-empty `Number`): <em>естъ, бѣ, бѫдетъ, бꙑстъ, еси, есмъ, нѣстъ, би, нѣсмъ, сꙑ</em>
+* `EMPTY` (64): <em>бꙑти</em>
 
 <table>
   <tr><th>Paradigm <i>бꙑти</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -89,99 +232,6 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>би</em></td><td></td><td><em>бѫ, бишѧ</em></td></tr>
 </table>
 
-### `NOUN`
-
-9599 <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5209; 54%).
-
-`NOUN` tokens may have the following values of `Number`:
-
-* `Dual` (266; 3% of non-empty `Number`): <em>очи, рѫцѣ, ноѕѣ, оуши, ногоу, родителѣ, оученика, ногама, рꙑбѣ, рѫкама</em>
-* `Plur` (2438; 25% of non-empty `Number`): <em>оученици, фарисѣи, оученикомъ, архиереи, дьни, июдеи, народи, оученикꙑ, кънижъници, оученикъ</em>
-* `Sing` (6895; 72% of non-empty `Number`): <em>с҃нъ, г҃и, о҃тца, слово, день, домъ, б҃а, о҃тцъ, б҃ъ, земи</em>
-* `EMPTY` (31): <em>равьви, мънасъ, пасха, дидрагма, равви, раввоуни, авва, корван, мънⷭ҇ъ, мьнасъ</em>
-
-<table>
-  <tr><th>Paradigm <i>сꙑнъ#1</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>с҃нъ, снъ, с҃нь</em></td><td><em>с҃на</em></td><td><em>с҃нꙑ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>с҃ноу, с҃нови, сꙑноу</em></td><td></td><td><em>с҃нмъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>с҃на, сна</em></td><td><em>с҃новоу</em></td><td><em>с҃нвъ, с҃нъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>с҃номъ</em></td><td><em>с҃ньма</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>с҃нѣ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>с҃нъ, сн, снъ, с҃н, сꙑнъ</em></td><td><em>с҃на, с҃нꙑ, сꙑна</em></td><td><em>с҃нве, с҃нове, сⷩ҇ве</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>с҃не, с҃ноу</em></td><td></td><td></td></tr>
-</table>
-
-### `PRON`
-
-6218 <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cu_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5129; 82%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3182; 51%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (3154; 51%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Dual` (124; 2% of non-empty `Number`): <em>има, вама, ѣ, нима, нама, вꙑ, ею, наю, нꙑ, и</em>
-* `Plur` (1742; 28% of non-empty `Number`): <em>имъ, вамъ, вꙑ, ихъ, ѩ, васъ, нихъ, намъ, нимъ, ѣже</em>
-* `Sing` (4352; 70% of non-empty `Number`): <em>емоу, его, и, азъ, мѧ, что, мьнѣ, мене, еже, иже</em>
-* `EMPTY` (42): <em>елико</em>
-
-<table>
-  <tr><th>Paradigm <i>и</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>и, і, нь, и҅, нъ, й, ꙇ</em></td><td><em>ѣ</em></td><td><em>ѩ, ѩ҅, нѧ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ѭ, ѭ҄, нѭ, ѭ҅, нѫѭ</em></td><td><em>и</em></td><td><em>ѩ, нѧ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>е, не, е҅</em></td><td></td><td><em>ѣ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>немоу</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>емоу</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>емоу, немоу, моу, е҅моу, немѫ</em></td><td><em>има, нима</em></td><td><em>имъ, нимъ, нимь, имь, и҅мъ, ꙇмъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>еи, неи, еи҅, е҅и҅</em></td><td><em>има</em></td><td><em>имъ, нимъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>его, него</em></td><td><em>ею, ею҅, нею, неѭ, неѭ҄</em></td><td><em>ихъ, нихъ, ихь, и҅хъ, ꙇхъ, ꙇ҅хъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>еѩ, еѩ҅, неѩ, ѩ</em></td><td><em>ею, нею</em></td><td><em>ихъ, нихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>его, него</em></td><td><em>ею</em></td><td><em>ихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь, нимъ, имъ, имь</em></td><td><em>нима, има</em></td><td><em>ними, ими, ни</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>неѭ, еѭ, неѭ҄, еѭ҄</em></td><td></td><td><em>ними</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нимь</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь, емь, немъ, емъ</em></td><td></td><td><em>нихъ, ихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>неи</em></td><td></td><td><em>нихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>немь</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>ѣ</em></td></tr>
-</table>
-
-### `ADJ`
-
-5278 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4111; 78%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4111; 78%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2788; 53%), <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2700; 51%).
-
-`ADJ` tokens may have the following values of `Number`:
-
-* `Dual` (99; 2% of non-empty `Number`): <em>мои, она, свои, ваши, та, зеведеова, и҃своу, твои, твоима, дроугаѣ</em>
-* `Plur` (1477; 28% of non-empty `Number`): <em>си, они, вьси, своѩ, вьсѣ, мъноѕи, своимъ, мъногꙑ, сихъ, своихъ</em>
-* `Sing` (3702; 70% of non-empty `Number`): <em>онъ, се, тъ, сь, мои, моего, своего, никтоже, сего, вьсѣкъ</em>
-* `EMPTY` (8): <em>исплънь, свободь, испльнь</em>
-
-<table>
-  <tr><th>Paradigm <i>сь</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td><em>Сиѩ, сьѩ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сиѭ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>семоу</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сеи</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>семоу</em></td><td></td><td><em>симъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>сего</em></td><td></td><td><em>сихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>сего</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сеѩ</em></td><td><em>сею</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>сего, сега</em></td><td><em>сеѭ</em></td><td><em>сихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>симъ</em></td><td></td><td><em>сими</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>семь</em></td><td></td><td><em>сихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>семь, семъ</em></td><td></td><td><em>сихъ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>сь, съ</em></td><td></td><td><em>сии, си, сии҅, син</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>си</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
-</table>
-
 ### `PROPN`
 
 1550 <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
@@ -204,27 +254,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>и҃ме, Ꙇ҃рме, ꙇ҃ме</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (105) occur only with one value of `Number`.
-
-### `AUX`
-
-1218 <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1218; 100%), <tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1214; 100%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (6; 0% of non-empty `Number`): <em>сѧ</em>
-* `Sing` (1212; 100% of non-empty `Number`): <em>сѧ, си, себѣ, сѩ</em>
-
-<table>
-  <tr><th>Paradigm <i>себе</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>сѧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>сѧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>сѧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>сѧ, сѩ</em></td><td><em>сѧ</em></td></tr>
-  <tr><td><tt><tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>си, себѣ</em></td><td></td></tr>
-</table>
+`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (104) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -283,14 +313,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2261; 78%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1808; 98%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (1761; 83%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1382; 57%),
-<tt>NOUN --[<tt><a href="cu_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1277; 98%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2000; 80%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (1573; 84%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1374; 97%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1274; 56%),
+<tt>NOUN --[<tt><a href="cu_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1204; 99%),
 <tt>NOUN --[<tt><a href="cu_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (1176; 99%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1008; 53%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (967; 99%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (947; 97%),
-<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (743; 99%).
+<tt>VERB --[<tt><a href="cu_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1010; 53%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (771; 99%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (709; 98%),
+<tt>VERB --[<tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (692; 97%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-207 nodes (1%) are attached to their parents as `nummod`.
+208 nodes (1%) are attached to their parents as `nummod`.
 
-207 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16908212560386.
+208 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19711538461538.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (161; 78% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (20; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (16; 8% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (163; 78% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (20; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (16; 8% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 nummod	color:blue
-1	Lahor'da	Lahor	PROPN	PROPN	Case=Loc|Number=Sing	14	advmod	_	Proper=True|SpaceAfter=No
+1	Lahor'da	Lahor	PROPN	PROPN	Case=Loc|Number=Sing	14	obl	_	Proper=True|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	Kasım	kasım	NOUN	NN	Number=Sing	4	compound	_	_
 4	1886	1886	NUM	CD	Number=Sing	8	compound	_	_
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	1887	1887	NUM	CD	Number=Sing	4	conj	_	_
 8	tarihleri	tarih	NOUN	NN	Number=Plur|Number[psor]=Plur|Person[psor]=3	9	compound	_	_
 9	arasında	ara	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obl:tmod	_	_
-10	Gazette'de	Gazette	PROPN	PROPN	Case=Loc|Number=Sing	14	advmod	_	Proper=True
+10	Gazette'de	Gazette	PROPN	PROPN	Case=Loc|Number=Sing	14	obl	_	Proper=True
 11	otuz	otuz	NUM	CD	Number=Sing	12	nummod	_	_
 12	dokuz	dokuz	NUM	CD	Number=Sing	13	nummod	_	_
 13	hikaye	hikaye	NOUN	NN	Case=Nom|Number=Sing	14	nsubj	_	_
@@ -70,7 +70,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 3	küçük	küçük	ADJ	JJ	Number=Sing	5	amod	_	_
 4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
 5	kasaba	kasaba	NOUN	NN	Number=Sing	8	nsubj	_	_
-6	yanımızdan	yanı	NOUN	NN	Case=Abl|Number=Sing	8	advmod	_	_
+6	yanımızdan	yanı	NOUN	NN	Case=Abl|Number=Sing	8	obl	_	_
 7	geçip	geç	ADV	CRB	Polarity=Pos	8	advcl	_	_
 8	gidiyor	git	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_

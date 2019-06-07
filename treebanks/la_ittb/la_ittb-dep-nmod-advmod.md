@@ -49,7 +49,7 @@ The following 13 pairs of parts of speech are connected with `nmod:advmod`: <tt>
 5	intentio	intentio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	_
 6	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj:pass	_	_
 7	apprehenditur	apprehendo	VERB	L3|modJ|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
-8	ut	ut	SCONJ	O4|vgr1	_	9	advmod	_	_
+8	ut	ut	ADV	O4|vgr1	_	9	advmod	_	_
 9	finis	finis	NOUN	C1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	nmod:advmod	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	4	punct	_	_
 
@@ -67,7 +67,7 @@ The following 13 pairs of parts of speech are connected with `nmod:advmod`: <tt>
 3	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	operatio	operatio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 5	rei	res	NOUN	E1|grn1|casB|gen2	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	nmod	_	_
-6	ut	ut	SCONJ	O4|vgr1	_	9	advmod	_	_
+6	ut	ut	ADV	O4|vgr1	_	9	advmod	_	_
 7	ab	ab	ADP	S4|vgr2	AdpType=Prep	8	case	_	_
 8	alio	alius	PRON	F1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	9	obl:arg	_	_
 9	motae	moveo	VERB	K2|modM|tem4|grp1|casB|gen2	Aspect=Perf|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	nmod:advmod	_	SpaceAfter=No

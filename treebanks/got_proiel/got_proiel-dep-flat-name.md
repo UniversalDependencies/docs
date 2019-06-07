@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Gothic-PROIEL: Relations: `flat:name`
 
-This relation is a language-specific subtype of <tt><a href="got_proiel-dep-flat.html">flat</a></tt>.
+This relation is a language-specific subtype of .
 
-131 nodes (0%) are attached to their parents as `flat:name`.
+132 nodes (0%) are attached to their parents as `flat:name`.
 
-131 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09160305343511.
+132 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09848484848485.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (131; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (132; 100% instances).
 
 
 ~~~ conllu

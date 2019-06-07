@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	njedostatkow	njedostatk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 7	skorigował	skorigować	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	SpaceAfter=No
 8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	a	a	X	_	_	7	goeswith:alt	_	SpaceAfter=No
+9	a	a	X	_	_	7	dep:alt	_	SpaceAfter=No
 10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	wotstroń	wotstronić	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_

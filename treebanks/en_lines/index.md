@@ -80,17 +80,17 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 ## Relations
 
-[acl](en_lines-dep-acl.html) – [acl:relcl](en_lines-dep-acl-relcl.html) – [advcl](en_lines-dep-advcl.html) – [advmod](en_lines-dep-advmod.html) – [amod](en_lines-dep-amod.html) – [appos](en_lines-dep-appos.html) – [aux](en_lines-dep-aux.html) – [aux:pass](en_lines-dep-aux-pass.html) – [case](en_lines-dep-case.html) – [cc](en_lines-dep-cc.html) – [ccomp](en_lines-dep-ccomp.html) – [compound](en_lines-dep-compound.html) – [compound:prt](en_lines-dep-compound-prt.html) – [conj](en_lines-dep-conj.html) – [cop](en_lines-dep-cop.html) – [csubj](en_lines-dep-csubj.html) – [csubj:pass](en_lines-dep-csubj-pass.html) – [det](en_lines-dep-det.html) – [discourse](en_lines-dep-discourse.html) – [dislocated](en_lines-dep-dislocated.html) – [expl](en_lines-dep-expl.html) – [fixed](en_lines-dep-fixed.html) – [flat](en_lines-dep-flat.html) – [iobj](en_lines-dep-iobj.html) – [mark](en_lines-dep-mark.html) – [nmod](en_lines-dep-nmod.html) – [nmod:poss](en_lines-dep-nmod-poss.html) – [nsubj](en_lines-dep-nsubj.html) – [nsubj:pass](en_lines-dep-nsubj-pass.html) – [nummod](en_lines-dep-nummod.html) – [obj](en_lines-dep-obj.html) – [obl](en_lines-dep-obl.html) – [orphan](en_lines-dep-orphan.html) – [parataxis](en_lines-dep-parataxis.html) – [punct](en_lines-dep-punct.html) – [root](en_lines-dep-root.html) – [vocative](en_lines-dep-vocative.html) – [xcomp](en_lines-dep-xcomp.html)
+[acl](en_lines-dep-acl.html) – [acl:relcl](en_lines-dep-acl-relcl.html) – [advcl](en_lines-dep-advcl.html) – [advmod](en_lines-dep-advmod.html) – [amod](en_lines-dep-amod.html) – [appos](en_lines-dep-appos.html) – [aux](en_lines-dep-aux.html) – [aux:pass](en_lines-dep-aux-pass.html) – [case](en_lines-dep-case.html) – [cc](en_lines-dep-cc.html) – [ccomp](en_lines-dep-ccomp.html) – [compound](en_lines-dep-compound.html) – [compound:prt](en_lines-dep-compound-prt.html) – [conj](en_lines-dep-conj.html) – [cop](en_lines-dep-cop.html) – [csubj](en_lines-dep-csubj.html) – [csubj:pass](en_lines-dep-csubj-pass.html) – [det](en_lines-dep-det.html) – [discourse](en_lines-dep-discourse.html) – [dislocated](en_lines-dep-dislocated.html) – [expl](en_lines-dep-expl.html) – [fixed](en_lines-dep-fixed.html) – [flat](en_lines-dep-flat.html) – [iobj](en_lines-dep-iobj.html) – [mark](en_lines-dep-mark.html) – [nmod](en_lines-dep-nmod.html) – [nmod:poss](en_lines-dep-nmod-poss.html) – [nsubj](en_lines-dep-nsubj.html) – [nsubj:pass](en_lines-dep-nsubj-pass.html) – [nummod](en_lines-dep-nummod.html) – [obj](en_lines-dep-obj.html) – [obl](en_lines-dep-obl.html) – [orphan](en_lines-dep-orphan.html) – [parataxis](en_lines-dep-parataxis.html) – [punct](en_lines-dep-punct.html) – [reparandum](en_lines-dep-reparandum.html) – [root](en_lines-dep-root.html) – [vocative](en_lines-dep-vocative.html) – [xcomp](en_lines-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4564 sentences and 82816 tokens.</li>
+<li>This corpus contains 4564 sentences and 82815 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10696 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 10695 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -117,23 +117,23 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): I, a, all, another, any, anybody, anyone, anything, both, each, either, else, everybody, everyone, everything, half, he, herself, it, neither, no, nobody, none, nothing, one, other, own, she, some, somebody, someone, something, such, that, there, they, this, we, what, whatever, whatnot, which, who, whoever, you</li>
+<li>This corpus contains 46 lemmas tagged as pronouns (PRON): I, a, all, another, any, anybody, anyone, anything, both, each, either, else, everybody, everyone, everything, half, he, herself, it, neither, no, nobody, none, nothing, one, other, own, she, some, somebody, someone, something, such, te, that, there, they, this, we, what, whatever, whatnot, which, who, whoever, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): a, all, an, any, both, du, each, either, every, la, le, no, one, some, that, the, this, what, whatever, which, who</li>
+<li>This corpus contains 22 lemmas tagged as determiners (DET): a, all, an, any, both, du, each, either, every, la, le, no, none, one, some, that, the, this, what, whatever, which, who</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: a, all, any, both, each, either, no, one, some, that, this, what, whatever, which, who</li>
+<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: a, all, any, both, each, either, no, none, one, some, that, this, what, whatever, which, who</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, ought, shall, should, use, want, will, would</li>
+<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, use, want, will</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
 </ul>
 
 <ul>
@@ -144,7 +144,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Fin
   <ul>
     <li>AUX: was, is, can, had, would, could, will, are, were, must</li>
-    <li>VERB: was, said, had, is, do, came, seemed, looked, went, got</li>
+    <li>VERB: was, said, had, is, came, seemed, looked, went, know, have</li>
   </ul>
   </li>
 </ul>
@@ -152,7 +152,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, have, get</li>
+    <li>AUX: be, have, get, do</li>
     <li>VERB: know, see, do, make, get, have, go, say, take, be</li>
   </ul>
   </li>
@@ -217,14 +217,15 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: was, is, 's, has, am, does</li>
-      <li>DET: this, that</li>
+      <li>ADV: inside, that</li>
+      <li>AUX-Fin: was, is, 's, has, does, am</li>
+      <li>DET: this, that, none</li>
       <li>NOUN: data, field, man, time, page, way, file, Mr, view, group</li>
       <li>PRON: he, I, his, him, her, that, my, she, this, me</li>
       <li>PROPN: Harry, Quinn, Stillman, XML, Auster, Bray, SQL, Ron, Mweta, Dobby</li>
       <li>SYM: %</li>
-      <li>VERB: was, is, 's, has, says, does, goes, makes, knows, means</li>
-      <li>VERB-Fin: was, is, 's, has, says, does, goes, makes, knows, means</li>
+      <li>VERB: was, is, 's, has, says, goes, makes, knows, means, contains</li>
+      <li>VERB-Fin: was, is, 's, has, says, goes, makes, knows, means, contains</li>
     </ul>
   </li>
 </ul>
@@ -244,10 +245,10 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: following, loud, moving, pale, existing, trading, calculated, Arabic, defined, dining</li>
+      <li>ADJ: following, such, loud, moving, pale, existing, trading, calculated, Arabic, defined</li>
       <li>ADP: ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</li>
       <li>ADV: n't, for, last, nearest, and, besides, left, p.m, within, a.m.</li>
-      <li>AUX: used, want</li>
+      <li>AUX: 'd, 're</li>
       <li>CCONJ: as, only, so, rather</li>
       <li>DET: one, whose, La</li>
       <li>INTJ: Ave, Er</li>
@@ -332,8 +333,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: be, do</li>
-      <li>VERB-Fin: let, see, Note, click, do, Come, look, Imagine, have, make</li>
+      <li>AUX-Fin: do, be</li>
+      <li>VERB-Fin: let, see, Note, click, Come, look, Imagine, have, make, remember</li>
     </ul>
   </li>
 </ul>
@@ -341,8 +342,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: was, is, had, are, were, have, 's, has, did, 've</li>
-      <li>VERB-Fin: was, said, had, is, do, came, seemed, looked, went, got</li>
+      <li>AUX-Fin: was, is, had, are, were, 's, have, do, has, did</li>
+      <li>VERB-Fin: was, said, had, is, came, seemed, looked, went, know, felt</li>
+      <li>VERB-Inf: Land, march</li>
     </ul>
   </li>
 </ul>
@@ -365,7 +367,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>AUX-Fin: was, had, were, did, 'd, got</li>
       <li>AUX-Part: been</li>
-      <li>VERB-Fin: was, said, had, came, seemed, looked, went, got, felt, saw</li>
+      <li>VERB-Fin: was, said, had, came, seemed, looked, went, felt, saw, made</li>
       <li>VERB-Part: done, come, made, taken, used, displayed, written, based, given, gone</li>
     </ul>
   </li>
@@ -374,9 +376,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: is, are, have, 's, has, 've, do, 'm, 're, am</li>
+      <li>AUX-Fin: is, are, 's, have, do, has, 've, does, 'm, 're</li>
       <li>AUX-Part: being, having</li>
-      <li>VERB-Fin: is, do, know, are, have, 's, has, want, says, does</li>
+      <li>VERB-Fin: is, know, have, are, 's, want, has, says, move, see</li>
       <li>VERB-Part: going, using, moving, trying, looking, making, coming, talking, taking, waiting</li>
     </ul>
   </li>
@@ -414,9 +416,17 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: then, there, here</li>
+      <li>ADV: then, there, here, that</li>
       <li>DET: this, that, these, those</li>
       <li>PRON: that, this, these, those</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: one</li>
     </ul>
   </li>
 </ul>
@@ -443,7 +453,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Rel
     <ul>
       <li>ADV: where</li>
-      <li>PRON: that</li>
+      <li>PRON: that, which, whose</li>
+      <li>SCONJ: that</li>
     </ul>
   </li>
 </ul>
@@ -527,7 +538,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>AUX-Fin: is, 's, has, does</li>
       <li>PRON: he, his, they, him, her, she, them, himself, its, themselves</li>
-      <li>VERB-Fin: is, 's, has, says, does, goes, makes, knows, means, contains</li>
+      <li>VERB-Fin: is, 's, has, says, goes, makes, knows, means, contains, uses</li>
     </ul>
   </li>
 </ul>
@@ -547,8 +558,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, could, must, should, might, may, go, shall, use, get, ought, need, Been, keep, start, suppose, want.</li>
-<li>This corpus uses 11 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have, will, can, get, could, must, should, may, ought, would.</li>
+<li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, could, must, should, might, may, shall, get.</li>
+<li>This corpus uses 10 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have, will, can, get, could, must, should, may, would.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -557,26 +568,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (30)</li>
+      <li>VERB--NOUN (31)</li>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON (44)</li>
-      <li>VERB--PRON-Nom (44)</li>
-      <li>VERB-Fin--NOUN (878)</li>
-      <li>VERB-Fin--NOUN-Nom (38)</li>
-      <li>VERB-Fin--PRON (730)</li>
-      <li>VERB-Fin--PRON-Nom (1491)</li>
+      <li>VERB--PRON (45)</li>
+      <li>VERB--PRON-Nom (47)</li>
+      <li>VERB-Fin--NOUN (888)</li>
+      <li>VERB-Fin--NOUN-Nom (37)</li>
+      <li>VERB-Fin--PRON (753)</li>
+      <li>VERB-Fin--PRON-Nom (1499)</li>
       <li>VERB-Inf--NOUN (173)</li>
       <li>VERB-Inf--NOUN-Nom (5)</li>
-      <li>VERB-Inf--PRON (331)</li>
+      <li>VERB-Inf--PRON (328)</li>
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
-      <li>VERB-Inf--PRON-Nom (448)</li>
+      <li>VERB-Inf--PRON-Nom (440)</li>
       <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
-      <li>VERB-Part--NOUN (191)</li>
+      <li>VERB-Part--NOUN (200)</li>
       <li>VERB-Part--NOUN-Nom (12)</li>
-      <li>VERB-Part--PRON (125)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
-      <li>VERB-Part--PRON-Nom (260)</li>
+      <li>VERB-Part--PRON (133)</li>
+      <li>VERB-Part--PRON-Acc (2)</li>
+      <li>VERB-Part--PRON-Nom (270)</li>
     </ul>
   </li>
 </ul>
@@ -586,9 +597,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (97)</li>
       <li>VERB--PRON (8)</li>
+      <li>VERB--PRON-ADP(into) (1)</li>
       <li>VERB--PRON-Acc (20)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN (1078)</li>
+      <li>VERB-Fin--NOUN (1076)</li>
       <li>VERB-Fin--NOUN-ADP(for) (2)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN-ADP(out) (1)</li>
@@ -596,20 +608,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(up) (1)</li>
       <li>VERB-Fin--NOUN-ADP(with) (1)</li>
       <li>VERB-Fin--NOUN-Nom (28)</li>
-      <li>VERB-Fin--PRON (240)</li>
+      <li>VERB-Fin--PRON (243)</li>
+      <li>VERB-Fin--PRON-ADP(to) (1)</li>
       <li>VERB-Fin--PRON-Acc (172)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
-      <li>VERB-Fin--PRON-Nom (11)</li>
+      <li>VERB-Fin--PRON-Nom (13)</li>
       <li>VERB-Inf--NOUN (778)</li>
-      <li>VERB-Inf--NOUN-Nom (17)</li>
+      <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (189)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
       <li>VERB-Inf--PRON-Acc (111)</li>
-      <li>VERB-Inf--PRON-Nom (10)</li>
-      <li>VERB-Part--NOUN (586)</li>
+      <li>VERB-Inf--PRON-Nom (9)</li>
+      <li>VERB-Part--NOUN (585)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
-      <li>VERB-Part--PRON (83)</li>
+      <li>VERB-Part--PRON (85)</li>
       <li>VERB-Part--PRON-Acc (72)</li>
       <li>VERB-Part--PRON-Nom (6)</li>
     </ul>
@@ -621,10 +634,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (8)</li>
-      <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (26)</li>
+      <li>VERB-Fin--PRON (4)</li>
+      <li>VERB-Fin--PRON-Acc (27)</li>
       <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
       <li>VERB-Part--NOUN (3)</li>
@@ -649,5 +661,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

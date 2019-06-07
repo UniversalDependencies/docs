@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>hač</em> (<tt><a href="hsb_ufal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.052326 (the average of all parts of speech is 1.418754).
+The form / lemma ratio of `ADV` is 1.052326 (the average of all parts of speech is 1.418889).
 
 The 1st highest number of forms (3) was observed with the lemma “wjele”: <em>najwjace, wjace, wjele</em>.
 

@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  ありがとう (<tt><a href="ja_gsd-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.058722).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.058680).
 
 The 1st highest number of forms (1) was observed with the lemma “ありがとう”: ありがとう.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “おめでと�
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (9; 75% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (2; 17% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (1; 8% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_gsd-dep-discourse.html">discourse</a></tt> (9; 75% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (2; 17% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (1; 8% instances)
 
 Parents of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (8; 67% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (2; 17% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (2; 17% instances)
 
@@ -54,7 +54,7 @@ Parents of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="ja_g
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (5; 45% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (4; 36% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 9% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1; 9% instances)
+Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (6; 55% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (4; 36% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (1; 9% instances)
 
 Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (6; 55% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (4; 36% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (1; 9% instances)
 

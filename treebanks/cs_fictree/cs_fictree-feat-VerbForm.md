@@ -12,20 +12,20 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 32096 tokens (19%) have a non-empty value of `VerbForm`.
 10926 types (40%) occur at least once with a non-empty value of `VerbForm`.
 4009 lemmas (29%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (24996; 15% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6518; 4% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (582; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (24949; 15% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6565; 4% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (582; 0% instances).
 
 ### `VERB`
 
-24996 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+24949 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (22344; 89%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21384; 86%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18300; 73%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17647; 71%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16413; 66%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14467; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (22298; 89%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21337; 86%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18253; 73%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17646; 71%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16366; 66%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14466; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (52; 0% of non-empty `VerbForm`): <em>chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</em>
-* `Fin` (7356; 29% of non-empty `VerbForm`): <em>je, má, mám, může, nevím, jsi, musí, není, mají, musím</em>
-* `Inf` (3124; 12% of non-empty `VerbForm`): <em>dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</em>
-* `Part` (14464; 58% of non-empty `VerbForm`): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
+* `Fin` (7309; 29% of non-empty `VerbForm`): <em>je, má, mám, může, nevím, musí, není, mají, musím, vím</em>
+* `Inf` (3125; 13% of non-empty `VerbForm`): <em>dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</em>
+* `Part` (14463; 58% of non-empty `VerbForm`): <em>řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</em>
 
 <table>
   <tr><th>Paradigm <i>chtít</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -61,16 +61,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-6518 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+6565 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5508; 85%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5140; 79%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4984; 76%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4754; 73%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4130; 63%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3824; 59%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5554; 85%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5187; 79%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5030; 77%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4801; 73%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4176; 64%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3870; 59%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 0% of non-empty `VerbForm`): <em>jsouc</em>
-* `Fin` (5401; 83% of non-empty `VerbForm`): <em>jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</em>
-* `Inf` (107; 2% of non-empty `VerbForm`): <em>být, nebýt, stát</em>
-* `Part` (1009; 15% of non-empty `VerbForm`): <em>byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</em>
+* `Fin` (5448; 83% of non-empty `VerbForm`): <em>jsem, by, je, bych, jsme, jsi, bude, jsou, jste, není</em>
+* `Inf` (106; 2% of non-empty `VerbForm`): <em>být, nebýt</em>
+* `Part` (1010; 15% of non-empty `VerbForm`): <em>byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -146,14 +146,13 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4905; 93%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4907; 93%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1337; 77%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (101; 74%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (65; 78%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (102; 74%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (66; 78%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (35; 88%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (34; 83%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

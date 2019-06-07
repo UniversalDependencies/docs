@@ -10,10 +10,10 @@ This relation is universal.
 
 4960 nodes (1%) are attached to their parents as `dep`.
 
-4207 instances of `dep` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36915322580645.
+4082 instances of `dep` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5258064516129.
 
-The following 24 pairs of parts of speech are connected with `dep`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2072; 42% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (608; 12% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (594; 12% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (385; 8% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (303; 6% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (287; 6% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (261; 5% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (135; 3% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (88; 2% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (48; 1% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (31; 1% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (21; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2302; 46% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (642; 13% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (606; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (414; 8% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (385; 8% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (220; 4% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (135; 3% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (89; 2% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (48; 1% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt>-<tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt>-<tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,11 +29,11 @@ The following 24 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	करीब	करीब	PART	RP	_	7	dep	_	ChunkId=NP2|ChunkType=child|Translit=karība
 6	पाँच	पाँच	NUM	QCC	NumType=Card	7	dep	_	ChunkId=NP2|ChunkType=child|Translit=pām̃ca
 7	सौ	सौ	NUM	QC	NumType=Card	8	nummod	_	ChunkId=NP2|ChunkType=child|Translit=sau
-8	वर्ष	वर्ष	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=varṣa
+8	वर्ष	वर्ष	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=varṣa
 9	पुराना	पुराना	ADJ	JJ	Gender=Masc|Number=Sing	10	xcomp	_	ChunkId=JJP|ChunkType=head|Translit=purānā
 10	होने	हो	VERB	VM	Case=Acc|Number=Sing|VerbForm=Inf	12	nmod	_	Vib=ना_का|Tam=nA|ChunkId=VGNN|ChunkType=head|Translit=hone
 11	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	10	mark	_	ChunkId=VGNN|ChunkType=child|Translit=kā
-12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
+12	प्रमाण	प्रमाण	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=pramāṇa
 13	मिलता	मिल	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatā
 14	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 15	।	।	PUNCT	SYM	_	13	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
@@ -50,14 +50,14 @@ The following 24 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	राजग	राजग	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Vib=0_ने|Tam=0|ChunkId=NP|ChunkType=head|Translit=rājaga
 2	ने	ने	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=ne
 3	सोमवार	सोमवार	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=somavāra
-4	राष्ट्रपति	राष्ट्रपति	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	iobj	_	Vib=0_को|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāṣṭrapati
+4	राष्ट्रपति	राष्ट्रपति	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	iobj	_	Vib=0_को|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāṣṭrapati
 5	को	को	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP3|ChunkType=child|Translit=ko
 6	भी	भी	PART	RP	_	4	dep	_	ChunkId=NP3|ChunkType=child|Translit=bhī
 7	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	det	_	ChunkId=NP4|ChunkType=child|Translit=isa
-8	संबंध	संबंध	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_में|Tam=0|ChunkId=NP4|ChunkType=head|Translit=saṁbaṁdha
-9	में	में	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP4|ChunkType=child|Translit=meṁ
+8	संबंध	संबंध	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_में|Tam=0|ChunkId=NP4|ChunkType=head|Translit=saṁbaṁdha
+9	में	में	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP4|ChunkType=child|Translit=meṁ
 10	ज्ञापन	ज्ञापन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=jñāpana
-11	सौंपा	सौंप	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=sauṁpā
+11	सौंपा	सौंप	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=sauṁpā
 12	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -75,15 +75,15 @@ The following 24 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	एक	एक	NUM	QC	NumType=Card	5	nummod	_	ChunkId=NP3|ChunkType=child|Translit=eka
 5	बयान	बयान	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=bayāna
 6	देते	दे	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=dete
-7	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	6	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
+7	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	6	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=haiṁ
 8	और	और	CCONJ	CC	_	13	cc	_	ChunkId=CCP|ChunkType=head|Translit=aura
 9	अगले	अगला	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	ChunkId=NP4|ChunkType=child|Translit=agale
 10	दिन	दिन	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=dina
 11	उस	वह	PRON	PRP	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obl	_	Vib=0_पर|Tam=0|ChunkId=NP5|ChunkType=head|Translit=usa
 12	पर	पर	ADP	PSP	AdpType=Post	11	case	_	ChunkId=NP5|ChunkType=child|Translit=para
-13	पलट	पलट	VERB	VM	Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act	6	conj	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=palaṭa
+13	पलट	पलट	VERB	VM	Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act	6	conj	_	Vib=0_जा+ता_है|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=palaṭa
 14	जाते	जा	AUX	VAUX	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	13	aux	_	Vib=ता|Tam=wA|ChunkId=VGF2|ChunkType=child|Translit=jāte
-15	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	14	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=haiṁ
+15	हैं	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin	13	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF2|ChunkType=child|Translit=haiṁ
 16	।	।	PUNCT	SYM	_	6	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

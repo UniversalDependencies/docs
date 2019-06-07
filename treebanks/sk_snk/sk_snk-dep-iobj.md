@@ -13,7 +13,7 @@ This relation is universal.
 385 instances of `iobj` (51%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.57313829787234.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (501; 67% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (146; 19% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (77; 10% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-X.html">X</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (501; 67% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (146; 19% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (78; 10% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	porodila	porodiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 4	tri	tri	NUM	NNnp4	Case=Acc|Gender=Neut|Number=Plur	5	nummod	5:nummod	_
 5	deti	dieťa	NOUN	SSnp4	Case=Acc|Gender=Neut|Number=Plur	3	obj	3:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	7	punct	7:punct|9:punct|11:punct	_
+6	,	,	PUNCT	Z	_	7	punct	7:punct	_
 7	Isandra	isandrus	PROPN	SSms4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	appos	5:appos	SpaceAfter=No
 8	,	,	PUNCT	Z	_	9	punct	9:punct	_
 9	Hippolocha	hippolochos	PROPN	SSms4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	conj	5:appos|7:conj	_

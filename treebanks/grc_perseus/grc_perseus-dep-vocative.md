@@ -28,7 +28,7 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	οὐδεὶς	οὐδείς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
 5	γίνεται	γίγνομαι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 6	μοιχὸς	μοιχός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-7	παῤ	παρά	ADP	r--------	_	8	case	_	_
+7	παῤ	παρά	ADP	r--------	_	8	case	_	_
 8	ἡμῖν	ἐγώ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	u--------	_	5	punct	_	_
 

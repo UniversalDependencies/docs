@@ -12,13 +12,13 @@ It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rc
 13205 tokens (17%) have a non-empty value of `PronType`.
 130 types (1%) occur at least once with a non-empty value of `PronType`.
 42 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (8935; 11% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4201; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (8934; 11% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4201; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-8935 <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
+8934 <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7982; 89%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7120; 80%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5875; 66%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7981; 89%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7120; 80%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5875; 66%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (68; 1% of non-empty `PronType`): <em>ingenting, ingen, inget</em>
 * `Prs` (7124; 80% of non-empty `PronType`): <em>han, det, jag, sig, du, de, vi, honom, den, mig</em>
 * `Rcp` (31; 0% of non-empty `PronType`): <em>varandra, varann, varandras</em>
-* `Rel` (1015; 11% of non-empty `PronType`): <em>som, något, vilket, vilka, vars, vilken, vilkas</em>
+* `Rel` (1014; 11% of non-empty `PronType`): <em>som, något, vilket, vilka, vars, vilken, vilkas</em>
 * `Tot` (106; 1% of non-empty `PronType`): <em>alla, allt, vem, båda, var, bägge</em>
 * `EMPTY` (188): <em>dom, någonting, allting, alltihop, allesammans, alltsammans, era, nånting, nån, nåt</em>
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Ind` (63; 100% of non-empty `PronType`): <em>samma</em>
-* `EMPTY` (5478): <em>andra, själv, hela, annat, första, flera, många, nya, stor, enda</em>
+* `EMPTY` (5485): <em>andra, själv, hela, annat, första, flera, många, nya, stor, enda</em>
 
 ### `NOUN`
 
@@ -83,7 +83,16 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Prs` (5; 100% of non-empty `PronType`): <em>min</em>
-* `EMPTY` (14013): <em>fält, sätt, gång, år, data, sidan, man, mr, väg, fråga</em>
+* `EMPTY` (14012): <em>fält, sätt, gång, år, data, sidan, man, mr, väg, fråga</em>
+
+### `SCONJ`
+
+1 <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+
+`SCONJ` tokens may have the following values of `PronType`:
+
+* `Rel` (1; 100% of non-empty `PronType`): <em>som</em>
+* `EMPTY` (1716): <em>att, om, när, som, medan, eftersom, innan, så, än, då</em>
 
 ### `VERB`
 
@@ -94,13 +103,13 @@ The most frequent other feature values with which `VERB` and `PronType` co-occur
 `VERB` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>sitt</em>
-* `EMPTY` (10050): <em>var, har, sa, hade, gick, kom, såg, sade, är, ta</em>
+* `EMPTY` (10020): <em>var, har, sa, hade, gick, kom, såg, sade, ta, göra</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="sv_lines-dep-expl.html">expl</a></tt>]--> PRON</tt> (19; 54%),
-<tt>PRON --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 57%),
+<tt>PRON --[<tt><a href="sv_lines-dep-expl.html">expl</a></tt>]--> PRON</tt> (18; 55%),
+<tt>PRON --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 62%),
 <tt>PRON --[<tt><a href="sv_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (5; 100%),
 <tt>DET --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="sv_lines-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (2; 100%),

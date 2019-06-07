@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="de_pud-dep-acl-rel
 17 instances of `acl` (85%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.25.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (6; 30% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (7; 35% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 3	neugegründete	neugegründet	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Person=3	4	amod	_	InflectionType=Weak
 4	Republik	Republik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Proper=True
 5	China	China	PROPN	NNP	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	appos	_	_
-6	betrachtete	betrachten	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+6	betrachtete	betrachten	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 7	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Person=3	8	det	_	_
 8	Mongolei	Mongolei	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	obj	_	_
 9	als	als	CCONJ	CC	_	10	cc	_	_

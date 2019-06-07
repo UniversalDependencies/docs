@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="fr_partut-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt>.
 
-139 nodes (0%) are attached to their parents as `flat`.
+138 nodes (0%) are attached to their parents as `flat`.
 
-139 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.42446043165468.
+138 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.40579710144928.
 
-The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (54; 39% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (36; 26% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (35; 25% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 6% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (54; 39% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (35; 25% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (34; 25% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (9; 7% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

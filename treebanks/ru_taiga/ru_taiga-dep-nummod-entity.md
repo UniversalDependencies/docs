@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>.
 There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-25 nodes (0%) are attached to their parents as `nummod:entity`.
+26 nodes (0%) are attached to their parents as `nummod:entity`.
 
-24 instances of `nummod:entity` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16.
+25 instances of `nummod:entity` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15384615384615.
 
-The following 4 pairs of parts of speech are connected with `nummod:entity`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12; 48% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (10; 40% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 8% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `nummod:entity`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (14; 54% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (9; 35% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 8% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

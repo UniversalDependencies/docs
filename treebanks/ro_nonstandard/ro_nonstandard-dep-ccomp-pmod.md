@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-ccomp.html">ccomp</a></tt>.
 
-52 nodes (0%) are attached to their parents as `ccomp:pmod`.
+64 nodes (0%) are attached to their parents as `ccomp:pmod`.
 
-39 instances of `ccomp:pmod` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.65384615384615.
+49 instances of `ccomp:pmod` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.484375.
 
-The following 6 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (40; 77% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (4; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (47; 73% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,52 +37,13 @@ The following 6 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 ccomp:pmod	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT8.8
-2	răspunse	răspunde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.8
-3	sutașul	sutaș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT8.8|SpaceAfter=No
-4	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT8.8
-5	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	appos	_	ref=MATT8.8|SpaceAfter=No
-6	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT8.8
-7	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	11	vocative	_	ref=MATT8.8|SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	7	punct	_	ref=MATT8.8
-9	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT8.8
-10	sînt	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	ref=MATT8.8
-11	destoinic	destoinic	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	parataxis	_	ref=MATT8.8
-12	să	să	PART	Qs	PartType=Sub	13	mark	_	ref=MATT8.8
-13	întri	intra	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp:pmod	_	ref=MATT8.8
-14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT8.8
-15	casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	ref=MATT8.8
-16	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	ref=MATT8.8|SpaceAfter=No
-17	,	,	PUNCT	COMMA	_	20	punct	_	ref=MATT8.8
-18	ce	ci	CCONJ	Ccssp	Polarity=Pos	20	cc	_	ref=MATT8.8
-19	numai	numai	ADV	Rg	_	20	advmod	_	ref=MATT8.8
-20	zi	zice	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	11	conj	_	ref=MATT8.8
-21	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	ref=MATT8.8
-22	cuvîntul	cuvânt	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	ref=MATT8.8
-23	și	și	CCONJ	Ccssp	Polarity=Pos	26	cc	_	ref=MATT8.8
-24	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	26	expl:pv	_	ref=MATT8.8
-25	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	ref=MATT8.8
-26	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	11	conj	_	ref=MATT8.8
-27	feciorul	fecior	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	26	nsubj	_	ref=MATT8.8
-28	mieu	meu	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	ref=MATT8.8|SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT8.8
-
-~~~
-
-
-~~~ conllu
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 15 ccomp:pmod	color:blue
-1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	3	obl	_	ref=LUCA11.35
-2	aceaia	acela	DET	Dd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	case	_	ref=LUCA11.35
+1	Derept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=LUCA11.35
+2	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	obl	_	ref=LUCA11.35
 3	ia	lua	VERB	Vmm-2s--z	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	ref=LUCA11.35
 4	aminte	aminte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	obj	_	ref=LUCA11.35
 5	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	ref=LUCA11.35
@@ -92,11 +53,47 @@ The following 6 pairs of parts of speech are connected with `ccomp:pmod`: <tt><a
 9	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=LUCA11.35
 10	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	8	obl	_	ref=LUCA11.35|SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	6	punct	_	ref=LUCA11.35
-12	să	să	PART	Qs	PartType=Sub	14	mark	_	ref=LUCA11.35
-13	nu	nu	ADV	Qz	Polarity=Neg	14	advmod	_	ref=LUCA11.35
-14	fie	fi	VERB	Vmsp3s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	ref=LUCA11.35
+12	să	să	PART	Qs	PartType=Sub	15	mark	_	ref=LUCA11.35
+13	nu	nu	ADV	Qz	Polarity=Neg	15	advmod	_	ref=LUCA11.35
+14	fie	fi	AUX	Vasp3s	Mood=Sub|Number=Sing|Person=3|Tense=Pres	15	cop	_	ref=LUCA11.35
 15	întunearec	întuneric	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	ccomp:pmod	_	ref=LUCA11.35|SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	3	punct	_	ref=LUCA11.35
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 ccomp:pmod	color:blue
+1	Har	har	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	ref=PAVEL_COLAS.1.12
+2	dînd	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	0	root	_	ref=PAVEL_COLAS.1.12
+3	Tatălui	tată	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	iobj	_	ref=PAVEL_COLAS.1.12
+4	carele	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	7	nsubj	_	ref=PAVEL_COLAS.1.12
+5	ne-	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	7	obj	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
+6	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	ref=PAVEL_COLAS.1.12
+7	făcut	făcut	VERB	Vmp	VerbForm=Part	3	acl	_	ref=PAVEL_COLAS.1.12
+8	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=PAVEL_COLAS.1.12
+9	noi	eu	PRON	Pp1-pa--------s	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Strong	7	nmod:pmod	_	ref=PAVEL_COLAS.1.12
+10	destoinici	destoinic	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	7	xcomp	_	ref=PAVEL_COLAS.1.12
+11	a	a	PART	Qn	PartType=Inf	12	mark	_	ref=PAVEL_COLAS.1.12
+12	lua	lua	VERB	Vmn	VerbForm=Inf	10	ccomp:pmod	_	ref=PAVEL_COLAS.1.12
+13	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	ref=PAVEL_COLAS.1.12
+14	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=PAVEL_COLAS.1.12
+15	moșiia	moșie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	ref=PAVEL_COLAS.1.12
+16	sfinților	sfânt	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
+17	,	,	PUNCT	COMMA	_	19	punct	_	ref=PAVEL_COLAS.1.12
+18	întru	întru	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	ref=PAVEL_COLAS.1.12
+19	lumină	lumină	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	ref=PAVEL_COLAS.1.12
+20	(	(	PUNCT	LPAR	_	23	punct	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
+21	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	23	nsubj	_	ref=PAVEL_COLAS.1.12
+22	să	să	PART	Qs	PartType=Sub	23	expl:pv	_	ref=PAVEL_COLAS.1.12
+23	zice	zice	VERB	Vmsp3s	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	ref=PAVEL_COLAS.1.12
+24	împărăție	împărăție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	23	xcomp	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
+25	)	)	PUNCT	RPAR	_	23	punct	_	ref=PAVEL_COLAS.1.12|SpaceAfter=No
+26	.	.	PUNCT	PERIOD	_	2	punct	_	ref=PAVEL_COLAS.1.12
 
 ~~~
 

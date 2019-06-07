@@ -96,11 +96,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 20997 tokens and 21325 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 21001 tokens and 21329 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2885 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 2889 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,7 +108,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., bleiben., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, didn', du., führen., hat., ist., tritt., u.a., werden., will., würden.</li>
+<li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, bleiben., didn', du., führen., tritt., u.a., werden., will.</li>
 </ul>
 
 <ul>
@@ -126,11 +126,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): wohl, zu</li>
+<li>This corpus contains 3 word types tagged as particles (PART): nicht, wohl, zu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): Her, Ihrer, Ihr|ihr, My, Nostrum, Sie|sie, Ya, dasselbe, der, du, er, er|es, er|es|sie, es, euer, ich, ihr, ihrem, man, me, mein, sein, sie, unser, was, wer, wir, you</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): Ihrer, Ihr|ihr, My, Nostrum, Sie|sie, Ya, dasselbe, der, du, er, er|es, er|es|sie, es, euer, her, ich, ihr, ihrem, man, me, mein, sein, sie, unser, was, wer, wir, you</li>
 </ul>
 
 <ul>
@@ -142,22 +142,29 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 43 lemmas tagged as auxiliaries (AUX): Don', Zeit, ansehen, auftreten, ausmachen, bekannt, beschreiben, betrachten, bezeichnen, bezeichneten, bleiben, bleiben., didn', dienen, dürfen, erklären, finden, fungieren, funktionieren, gelten, haben, halten, hat., heißen, interpretieren, können, lass, lassen, machen, mögen, müssen, nennen, scheinen, schreiben, sehen, sein, sein., sollen, t, vestehen, werden, werden., wollen</li>
+<li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): dürfen, haben, können, mögen, müssen, sein, sollen, werden, wollen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 23 lemmas occurred sometimes as AUX and sometimes as VERB: ansehen, auftreten, ausmachen, beschreiben, betrachten, bleiben, erklären, finden, funktionieren, gelten, haben, halten, heißen, können, lassen, machen, nennen, scheinen, schreiben, sehen, sein, werden, wollen</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: haben, können, sein, werden, wollen</li>
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>VERB: bleiben</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: aufzutreten</li>
-    <li>VERB: abzuschreiben, aufrechtzuerhalten, begrenzen, behandeln, bekommen, beschäftigen, besuchen, bewegen, durchzuführen, einzunehmen</li>
+    <li>VERB: finden, abzuschreiben, arbeiten, aufrechtzuerhalten, aufzutreten, begrenzen, behandeln, bekommen, beschäftigen, besuchen</li>
   </ul>
   </li>
 </ul>
@@ -165,8 +172,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: bekannt, genannt, geschrieben</li>
-    <li>VERB: abgesehen, basierend, gefolgt, gesagt, Breaking, Geformt, abgehärtet, angeklagt, begründet, geeignet</li>
+    <li>VERB: abgesehen, basierend, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, bekannt, geeignet</li>
+    <li>X: Breaking</li>
   </ul>
   </li>
 </ul>
@@ -182,7 +189,6 @@ employ ten-fold cross-validation.
   <li>Fem
     <ul>
       <li>ADJ: neue, eigene, ersten, große, öffentliche, amerikanischen, guten, kleine, neuen, verschiedenen</li>
-      <li>AUX: Zeit</li>
       <li>DET: die, der, eine, einer, diese, den, dieser, keine, viele, alle</li>
       <li>NOUN: Zeit, Regierung, Stadt, Geschichte, Welt, Armee, Frau, Millionen, Region, Reihe</li>
       <li>PRON: die, sie, sich, seine, ihre, seiner, ihrer, der, ihr, denen</li>
@@ -197,6 +203,7 @@ employ ten-fold cross-validation.
       <li>ADJ: ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</li>
       <li>DET: dem, der, den, die, des, ein, einen, einem, dieser, diesem</li>
       <li>NOUN: Menschen, Oktober, Teil, Film, Kaiser, April, Fall, Krieg, Präsident, Tag</li>
+      <li>NUM: hunderte</li>
       <li>PRON: er, sich, der, die, sie, ihm, ihn, seinen, ihren, sein</li>
       <li>PROPN: Chr., Trump, Joseph, USA, Donald, Martin, Richard, Bogd, Christopher, Columbus</li>
     </ul>
@@ -225,12 +232,13 @@ employ ten-fold cross-validation.
   <li>Plur
     <ul>
       <li>ADJ: letzten, neue, ersten, verschiedene, Vereinigten, neuen, Olympischen, kleine, verschiedenen, alten</li>
-      <li>AUX: wurden, sind, waren, werden, haben, hatten, können, müssen, konnten, könnten</li>
+      <li>AUX: wurden, sind, waren, werden, haben, hatten, können, müssen, würden, konnten</li>
       <li>DET: die, den, der, viele, diese, einige, beiden, alle, vielen, dieser</li>
       <li>NOUN: Jahre, Jahren, Menschen, Millionen, Auswirkungen, Teile, Inseln, Leute, Länder, Männer</li>
+      <li>NUM: hunderte</li>
       <li>PRON: die, sie, sich, wir, seine, ihre, denen, uns, ihren, ihnen</li>
       <li>PROPN: USA, Alpen, Anden, Maya, Niederlanden, Osmanen, Andes, Armana, Avro, Bantu</li>
-      <li>VERB: haben, sind, hatten, nahmen, waren, zählen, enthalten, entschieden, eroberten, finden</li>
+      <li>VERB: haben, hatten, sind, nahmen, waren, zählen, enthalten, entschieden, eroberten, finden</li>
     </ul>
   </li>
 </ul>
@@ -240,12 +248,13 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
       <li>ADP: z., z</li>
-      <li>AUX: ist, wurde, war, wird, hatte, hat, kann, würde, muss, könnte</li>
+      <li>AUX: ist, war, wurde, wird, hat, hatte, kann, würde, muss, könnte</li>
       <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
       <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
       <li>PRON: es, er, sich, der, sie, die, ich, ihr, seine, seiner</li>
       <li>PROPN: Chr., China, Trump, Frankreich, Joseph, Hong, Paris, Qing, Russland, US</li>
-      <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
+      <li>VERB: sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</li>
+      <li>X: Don', didn', t</li>
     </ul>
   </li>
 </ul>
@@ -260,6 +269,7 @@ employ ten-fold cross-validation.
       <li>ADJ: neue, letzten, eigene, große, kleine, neuen, öffentliche, Olympischen, achämenidische, beträchtliche</li>
       <li>DET: die, den, eine, das, einen, ein, keine, diese, viele, dieses</li>
       <li>NOUN: Jahre, Dollar, Auswirkungen, Rolle, Armee, GBP, Land, Mal, Milliarden, Monate</li>
+      <li>NUM: hunderte</li>
       <li>PRON: sich, seine, es, ihre, die, ihn, sie, mich, uns, seinen</li>
       <li>PROPN: Italien, Trump, Antarktis, Deutschland, Kuba, Martin, Richard, Twitter, Abakumow, Adria</li>
     </ul>
@@ -271,9 +281,8 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, letzten, neuen, selben, zweiten, Vereinigten, besten, deutschen, gemeinsamen, hohem</li>
       <li>ADP: z., z</li>
-      <li>AUX: Zeit</li>
       <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
-      <li>NOUN: Jahr, Jahren, Jahrhundert, Zeit, Bezug, Fall, Krieg, Leben, Region, Tag</li>
+      <li>NOUN: Jahr, Jahren, Zeit, Jahrhundert, Bezug, Fall, Krieg, Leben, Region, Tag</li>
       <li>PRON: ihrer, ihm, denen, sich, seiner, der, ihren, ihr, dem, ihnen</li>
       <li>PROPN: Chr., Paris, Asien, London, Ontario, USA, England, Frankreich, Großbritannien, Hong</li>
     </ul>
@@ -347,6 +356,8 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
       <li>ADV: auch, nicht, so, noch, nur, sehr, jedoch, mehr, davon, immer</li>
+      <li>NUM: hunderte</li>
+      <li>PART: nicht</li>
     </ul>
   </li>
 </ul>
@@ -367,6 +378,7 @@ employ ten-fold cross-validation.
   <li>Neg
     <ul>
       <li>ADV: nicht</li>
+      <li>PART: nicht</li>
     </ul>
   </li>
 </ul>
@@ -383,8 +395,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: Don', Lass</li>
-      <li>VERB: Knuck, Metti, Schauen</li>
+      <li>VERB: Knuck, Lass, Metti, Schauen</li>
+      <li>X: Don'</li>
     </ul>
   </li>
 </ul>
@@ -392,8 +404,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ist, wurde, war, wird, wurden, sind, hatte, waren, hat, kann</li>
-      <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
+      <li>AUX: ist, war, wurde, wird, wurden, sind, hat, hatte, waren, kann</li>
+      <li>VERB: sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</li>
+      <li>X: didn', t</li>
     </ul>
   </li>
 </ul>
@@ -401,7 +414,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: würde, könnte, sei, sollte, könnten, würden, seien, wäre, hätten, müssten</li>
+      <li>AUX: würde, könnte, sei, sollte, würden, könnten, seien, wäre, hätten, müssten</li>
       <li>VERB: Knew, ausschlösse, beeinflusse, habe, handelten, kämen, laste, leisteten, liege, täten</li>
     </ul>
   </li>
@@ -414,10 +427,10 @@ employ ten-fold cross-validation.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: wurde, war, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</li>
-      <li>AUX-Part: bekannt, genannt, geschrieben</li>
-      <li>VERB: sagte, verwendet, war, begann, genutzt, veröffentlicht, errichtet, gegeben, gewählt, hatte</li>
-      <li>VERB-Part: abgesehen, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, geeignet, gefasst, gekommen</li>
+      <li>AUX: war, wurde, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</li>
+      <li>VERB: sagte, verwendet, wurde, begann, genutzt, war, veröffentlicht, errichtet, gegeben, gewählt</li>
+      <li>VERB-Part: abgesehen, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, bekannt, geeignet, gefasst</li>
+      <li>X: didn', t</li>
     </ul>
   </li>
 </ul>
@@ -426,9 +439,11 @@ employ ten-fold cross-validation.
   <li>Pres
     <ul>
       <li>AUX: ist, wird, sind, hat, kann, werden, haben, können, muss, sei</li>
-      <li>VERB: ist, hat, gibt, sagt, haben, sind, liegt, steht, hilft, beträgt</li>
+      <li>VERB: ist, hat, gibt, sagt, haben, liegt, sind, steht, hilft, beträgt</li>
       <li>VERB-Inf: interviewt</li>
-      <li>VERB-Part: basierend, Breaking</li>
+      <li>VERB-Part: basierend</li>
+      <li>X: Breaking, Don'</li>
+      <li>X-Part: Breaking</li>
     </ul>
   </li>
 </ul>
@@ -473,7 +488,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 45.</li>
+      <li>ADJ: 16, 45.</li>
     </ul>
   </li>
 </ul>
@@ -487,7 +502,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>1
     <ul>
-      <li>AUX: habe, müssen, bin, sind, haben, hatte, können, werde, erkläre, hätten</li>
+      <li>AUX: habe, müssen, bin, sind, haben, hatte, können, werde, hätten, kann</li>
       <li>PRON: ich, wir, mich, uns, mir, me</li>
       <li>VERB: kenne, weiß, Nehmen, Thought, beiseitelegen, besuche, bewegen, bin, brauchen, denke</li>
     </ul>
@@ -497,9 +512,10 @@ employ ten-fold cross-validation.
 <ul>
   <li>2
     <ul>
-      <li>AUX: Don', Lass, habt, musst</li>
+      <li>AUX: habt, musst</li>
       <li>PRON: you, Du, Ya, dich, du., euch, ihr</li>
-      <li>VERB: Knew, Knuck, Metti</li>
+      <li>VERB: Knew, Knuck, Lass, Metti</li>
+      <li>X: Don'</li>
     </ul>
   </li>
 </ul>
@@ -509,12 +525,14 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
       <li>ADP: z., z</li>
-      <li>AUX: ist, wurde, war, wird, wurden, sind, hat, waren, hatte, kann</li>
+      <li>AUX: ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</li>
       <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
       <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
+      <li>NUM: hunderte</li>
       <li>PRON: es, sich, die, er, sie, der, seine, ihre, ihr, seiner</li>
       <li>PROPN: Chr., China, Trump, USA, Frankreich, Joseph, US, Hong, Paris, Qing</li>
-      <li>VERB: sagte, ist, hat, gibt, sagt, begann, war, hatte, führte, gab</li>
+      <li>VERB: sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</li>
+      <li>X: didn', t</li>
     </ul>
   </li>
 </ul>
@@ -612,11 +630,11 @@ employ ten-fold cross-validation.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 24 lemmas as copulas (<a>cop</a>). Examples: sein, werden, bleiben, ansehen, halten, nennen, beschreiben, dienen, machen, Zeit, ausmachen, bekannt, bezeichneten, bleiben., erklären, finden, fungieren, gelten, heißen, interpretieren, scheinen, schreiben, sein., vestehen.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sein.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, werden, sein, müssen, sollen, wollen, mögen, lassen, dürfen, t, Don', didn', hat., lass, werden..</li>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, werden, sein, müssen, sollen, wollen, mögen, dürfen.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden.</li>
 </ul>
 
@@ -626,9 +644,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (529)</li>
-      <li>VERB--PRON (13)</li>
-      <li>VERB--PRON-Nom (417)</li>
+      <li>VERB--NOUN-Nom (551)</li>
+      <li>VERB--PRON (14)</li>
+      <li>VERB--PRON-Nom (430)</li>
+      <li>VERB-Fin--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -637,13 +656,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (600)</li>
+      <li>VERB--NOUN-Acc (606)</li>
       <li>VERB--NOUN-Gen (3)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Acc (182)</li>
-      <li>VERB-Inf--NOUN-Acc (23)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB--PRON-Acc (186)</li>
+      <li>VERB-Inf--NOUN-Acc (24)</li>
+      <li>VERB-Inf--PRON-Acc (4)</li>
     </ul>
   </li>
 </ul>

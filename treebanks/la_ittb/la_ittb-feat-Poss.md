@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (2354; 100% of non-empty `Poss`): <em>suam, sua, suum, suae, suo, sui, noster, nostra, suis, nostrae</em>
-* `EMPTY` (22682): <em>divina, impossibile, divinae, prima, primum, divinam, possibilis, necesse, intellectualis, possibile</em>
+* `EMPTY` (22904): <em>divina, impossibile, divinae, prima, primum, divinam, possibilis, necesse, intellectualis, possibile</em>
 

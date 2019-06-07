@@ -22,17 +22,17 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 acl:relcl	color:blue
-1	Se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	pitää	pitää	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	sisällään	sisällä	ADV	_	Person[psor]=3	2	advmod	_	_
-4	pienen	pieni	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
-5	laguunin	laguuni	NOUN	_	Case=Gen|Number=Sing	2	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	10	punct	_	_
-7	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	_
-8	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
-9	lähes	lähes	ADV	_	_	10	advmod	_	_
-10	kuivunut	kuivua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
+1	Se	se	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	_
+2	pitää	pitää	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	sisällään	sisällä	ADV	_	Person[psor]=3	2	advmod	2:advmod	_
+4	pienen	pieni	ADJ	_	Case=Gen|Degree=Pos|Number=Sing	5	amod	5:amod	_
+5	laguunin	laguuni	NOUN	_	Case=Gen|Number=Sing	2	obj	2:obj	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	10:punct	_
+7	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	10:nsubj	_
+8	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
+9	lähes	lähes	ADV	_	_	10	advmod	10:advmod	_
+10	kuivunut	kuivua	VERB	_	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	acl:relcl	5:acl:relcl	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 
@@ -43,16 +43,16 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 acl:relcl	color:blue
-1	Ensimmäinen	ensimmäinen	ADJ	_	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	0	root	_	_
-2	ja	ja	CCONJ	_	_	3	cc	_	_
-3	tunnetuin	tunnettu	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	1	conj	_	_
-4	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
-5	Ohiojoki	Ohio#joki	PROPN	_	Case=Nom|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
-8	virtasi	virrata	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
-9	Mississippiin	Mississippi	PROPN	_	Case=Ill|Number=Sing	8	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_
+1	Ensimmäinen	ensimmäinen	ADJ	_	Case=Nom|Derivation=Inen|Number=Sing|NumType=Ord	0	root	0:root	_
+2	ja	ja	CCONJ	_	_	3	cc	3:cc	_
+3	tunnetuin	tunnettu	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	1	conj	1:conj	_
+4	oli	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
+5	Ohiojoki	Ohiojoki	PROPN	_	Case=Nom|Number=Sing	1	nsubj:cop	1:nsubj:cop	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	8:punct	_
+7	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	8:nsubj	_
+8	virtasi	virrata	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	_
+9	Mississippiin	Mississippi	PROPN	_	Case=Ill|Number=Sing	8	obl	8:obl	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -63,15 +63,15 @@ The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 acl:relcl	color:blue
-1	Taso	taso	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	8	punct	_	_
-3	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj:cop	_	_
-4	molemmissa	molemmat	PRON	_	Case=Ine|Number=Plur|PronType=Ind	5	det	_	_
-5	tapauksissa	tapaus	NOUN	_	Case=Ine|Number=Plur	8	obl	_	_
-6	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-7	EU:n	EU	PROPN	_	Abbr=Yes|Case=Gen|Number=Sing	8	nmod:poss	_	_
-8	korkeimpia	korkea	ADJ	_	Case=Par|Degree=Sup|Number=Plur	1	acl:relcl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	_
+1	Taso	taso	NOUN	_	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	8:punct	_
+3	joka	joka	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj:cop	8:nsubj:cop	_
+4	molemmissa	molemmat	PRON	_	Case=Ine|Number=Plur|PronType=Ind	5	det	5:det	_
+5	tapauksissa	tapaus	NOUN	_	Case=Ine|Number=Plur	8	obl	8:obl	_
+6	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
+7	EU:n	EU	PROPN	_	Abbr=Yes|Case=Gen|Number=Sing	8	nmod:poss	8:nmod:poss	_
+8	korkeimpia	korkea	ADJ	_	Case=Par|Degree=Sup|Number=Plur	1	acl:relcl	1:acl:relcl	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 

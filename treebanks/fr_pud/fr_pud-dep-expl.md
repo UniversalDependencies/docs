@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (0%) are attached to their parents as `expl`.
+124 nodes (1%) are attached to their parents as `expl`.
 
-84 instances of `expl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.02352941176471.
+123 instances of `expl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79032258064516.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (63; 74% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (20; 24% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (102; 82% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (21; 17% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl	color:blue
 1	Il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
-2	y	_	PRON	PRP	Person=3	3	advmod	_	_
+2	y	_	PRON	PRP	Person=3	3	expl	_	_
 3	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	encore	_	ADV	RB	_	3	advmod	_	_
 5	des	_	DET	DT	Gender=Fem|Number=Plur	6	det	_	_
@@ -59,35 +59,46 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 21 expl	color:blue
-1	La	_	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
-2	victoire	_	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
-3	de	_	ADP	IN	_	4	case	_	_
-4	Donald	_	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
-5	Trump	_	PROPN	NNP	Gender=Masc|Number=Sing	4	flat:name	_	_
-6	aurait	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	l'	_	DET	DT	Gender=Masc|Number=Sing	8	det	_	SpaceAfter=No
-8	effet	_	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
-9	immédiat	_	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
-10	de	_	ADP	IN	_	11	case	_	_
-11	rendre	_	AUX	VB	_	8	acl	_	_
-12	ce	_	DET	DT	Gender=Masc|Number=Sing	13	det	_	_
-13	monde	_	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
-14	plus	_	ADV	RBR	_	15	advmod	_	_
-15	inquiétant	_	ADJ	JJ	Gender=Masc|Number=Sing	11	xcomp	_	_
-16	et	_	CCONJ	CC	_	17	cc	_	_
-17	incertain	_	ADJ	JJ	Gender=Masc|Number=Sing	11	conj	_	_
-18	qu'	_	SCONJ	IN	_	22	mark	_	SpaceAfter=No
-19	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	22	nsubj	_	_
-20	ne	_	ADV	RB	Polarity=Neg	21	advmod	_	_
-21	l'	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	22	expl	_	SpaceAfter=No
-22	est	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	advcl	_	_
-23	déjà	_	ADV	RB	_	22	advmod	_	SpaceAfter=No
-24	.	_	PUNCT	.	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 expl	color:blue
+1	Depuis	_	ADP	IN	_	3	case	_	_
+2	l'	_	DET	DT	Gender=Masc|Number=Sing	3	det	_	SpaceAfter=No
+3	empereur	_	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+4	Meiji	_	PROPN	NNP	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+5	,	_	PUNCT	,	_	3	punct	_	_
+6	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
+7	était	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp	8	cop	_	_
+8	coutume	_	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+9	d'	_	ADP	IN	_	10	case	_	SpaceAfter=No
+10	avoir	_	VERB	VB	_	8	xcomp	_	_
+11	un	_	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+12	empereur	_	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
+13	par	_	ADP	IN	_	14	case	_	_
+14	époque	_	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+15	et	_	CCONJ	CC	_	17	cc	_	_
+16	de	_	ADP	IN	_	17	case	_	_
+17	renommer	_	VERB	VB	_	10	conj	_	_
+18	chaque	_	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	_
+19	empereur	_	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
+20	après	_	ADP	IN	_	22	case	_	_
+21	sa	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	22	nmod:poss	_	_
+22	mort	_	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
+23	en	_	ADP	IN	_	24	mark	_	_
+24	utilisant	_	VERB	VBG	_	17	advcl	_	_
+25	le	_	DET	DT	Gender=Masc|Number=Sing	26	det	_	_
+26	nom	_	NOUN	NN	Gender=Masc|Number=Sing	24	obj	_	_
+27	de	_	ADP	IN	_	29	case	_	_
+28	l'	_	DET	DT	Gender=Fem|Number=Sing	29	det	_	SpaceAfter=No
+29	époque	_	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
+30	pendant	_	ADP	IN	_	31	case	_	_
+31	laquelle	_	PRON	WP	Gender=Fem|Number=Sing	34	obl	_	_
+32	il	_	PRON	PRP	Gender=Masc|Number=Sing|Person=3	34	nsubj	_	_
+33	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	aux	_	_
+34	régné	_	VERB	VBN	Gender=Masc|Number=Sing	29	acl:relcl	_	SpaceAfter=No
+35	.	_	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

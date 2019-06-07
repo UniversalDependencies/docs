@@ -43,13 +43,13 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 13	fgColor:white
 # visual-style 13 11 nsubj:pass	color:blue
 1	भारत	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=bhārata
-2	में	_	ADP	IN	Case=Loc	1	case	_	Translit=meṁ
-3	बुढ़ापे	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=buṛhāpe
-4	में	_	ADP	IN	Case=Loc	3	case	_	Translit=meṁ
+2	में	_	ADP	IN	Case=Loc	1	case	_	Translit=meṁ
+3	बुढ़ापे	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=buṛhāpe
+4	में	_	ADP	IN	Case=Loc	3	case	_	Translit=meṁ
 5	जब	_	SCONJ	IN	_	7	mark	_	Translit=jaba
 6	लोग	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	7	nsubj	_	Translit=loga
 7	मरते	_	VERB	VBI	Aspect=Imp|Number=Plur|Person=3	0	root	_	Translit=marate
-8	हैं	_	AUX	VXH	Number=Plur|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=haiṁ
+8	हैं	_	AUX	VXH	Number=Plur|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=haiṁ
 9	,	_	PUNCT	,	_	13	punct	_	Translit=,
 10	तो	_	SCONJ	IN	_	13	mark	_	Translit=to
 11	इसे	_	PRON	PDEM	Number=Sing	13	nsubj:pass	_	Translit=ise
@@ -72,10 +72,10 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	कोलोन	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	compound	_	Translit=kolona
 3	और	_	CCONJ	CC	_	4	cc	_	Translit=aura
 4	ब्रेमेन	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=bremena
-5	शहरों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl:agent	_	Translit=śaharoṁ
+5	शहरों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl:agent	_	Translit=śaharoṁ
 6	द्वारा	_	ADP	IN	_	5	case	_	Translit=dvārā
 7	साहित्य	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	compound	_	Translit=sāhitya
-8	पुरस्कारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Translit=puraskāroṁ
+8	पुरस्कारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Translit=puraskāroṁ
 9	से	_	ADP	IN	Case=Acc	8	case	_	Translit=se
 10	सम्मानित	_	ADJ	JJ	_	11	compound:conjv	_	Translit=sammānita
 11	किया	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kiyā

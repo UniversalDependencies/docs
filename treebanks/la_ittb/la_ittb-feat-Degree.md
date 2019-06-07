@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Abs`, `Cmp`, `Pos`, `Sup`.
 
-152640 tokens (43%) have a non-empty value of `Degree`.
+152639 tokens (43%) have a non-empty value of `Degree`.
 10883 types (67%) occur at least once with a non-empty value of `Degree`.
-3826 lemmas (84%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 11 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (70178; 20% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (35061; 10% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (24825; 7% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (12879; 4% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (4485; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (3739; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1443; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+3824 lemmas (82%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 10 part-of-speech tags: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (69983; 20% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (35056; 10% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (25047; 7% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (12883; 4% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (4485; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (3737; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1442; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-70178 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Degree`.
+69983 <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58337; 83%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (39910; 57%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58096; 83%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (39807; 57%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Cmp` (502; 1% of non-empty `Degree`): <em>amplius, prius, minus, pluribus, paucioribus, ulterius, plura, inferior, inferiora, inferiores</em>
-* `Pos` (69644; 99% of non-empty `Degree`): <em>forma, intellectus, formam, formae, materia, anima, potentia, actu, bonum, causa</em>
-* `Sup` (32; 0% of non-empty `Degree`): <em>maxime, optimum, ultimo, infimum, plurimum, ultimum, altissima, extremum, immaterialissimum, infimas</em>
-* `EMPTY` (1358): <em>esse, iob, parum, necesse, ens, nihil, opus, seraphim, cherubim, fas</em>
+* `Cmp` (505; 1% of non-empty `Degree`): <em>amplius, prius, minus, pluribus, paucioribus, ulterius, plura, inferior, inferiora, inferiores</em>
+* `Pos` (69445; 99% of non-empty `Degree`): <em>forma, intellectus, formam, formae, materia, anima, potentia, actu, bonum, causa</em>
+* `Sup` (33; 0% of non-empty `Degree`): <em>maxime, optimum, ultimo, infimum, plurimum, ultimum, altissima, extremum, immaterialissimum, infimas</em>
+* `EMPTY` (2065): <em>esse, metaph., matth., cap., gen., physic., sap., rom., ioan., cor.</em>
 
 <table>
   <tr><th>Paradigm <i>similis</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -38,17 +38,17 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>similia</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `NOUN`. 99% lemmas (2020) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `NOUN`. 99% lemmas (2013) occur only with one value of `Degree`.
 
 ### `PRON`
 
-35061 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Degree`.
+35056 <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25567; 73%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25562; 73%).
 
 `PRON` tokens may have the following values of `Degree`:
 
-* `Pos` (35060; 100% of non-empty `Degree`): <em>quae, quod, hoc, se, qui, aliquid, eius, omnia, quo, aliqua</em>
+* `Pos` (35055; 100% of non-empty `Degree`): <em>quae, quod, hoc, se, qui, aliquid, eius, omnia, quo, aliqua</em>
 * `Sup` (1; 0% of non-empty `Degree`): <em>plurimas</em>
 * `EMPTY` (419): <em>nihil, quot, tot, nil, quotquot</em>
 
@@ -56,15 +56,15 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 
 ### `ADJ`
 
-24825 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
+25047 <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18368; 74%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18552; 74%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Abs` (858; 3% of non-empty `Degree`): <em>ultimum, ultimus, ultima, ultimo, ultimam, optimum, perfectissimum, infima, perfectissima, maxima</em>
-* `Cmp` (2035; 8% of non-empty `Degree`): <em>plures, prius, inferioribus, plura, pluribus, superioribus, inferiora, maius, superior, melius</em>
-* `Pos` (21932; 88% of non-empty `Degree`): <em>divina, suam, sua, impossibile, divinae, suum, prima, primum, divinam, possibilis</em>
+* `Cmp` (2033; 8% of non-empty `Degree`): <em>plures, prius, inferioribus, plura, pluribus, superioribus, inferiora, maius, superior, melius</em>
+* `Pos` (22156; 88% of non-empty `Degree`): <em>divina, suam, sua, impossibile, divinae, suum, prima, primum, divinam, possibilis</em>
 * `EMPTY` (211): <em>necesse, nequam, quotcumque, quotlibet</em>
 
 <table>
@@ -93,20 +93,20 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>multa</em></td><td><em>plura</em></td><td><em>plurima</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 90% lemmas (742) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 90% lemmas (753) occur only with one value of `Degree`.
 
 ### `VERB`
 
-12879 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Degree`.
+12883 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12879; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12879; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10642; 83%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9596; 75%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (8152; 63%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6777; 53%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6777; 53%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12883; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12883; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (10646; 83%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9591; 74%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (8156; 63%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6781; 53%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6781; 53%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (40; 0% of non-empty `Degree`): <em>convenientior, eminentior, perfectiorem, excelsior, expressior, intensior, perfectior, perfectiores, potentior, remotiora</em>
-* `Pos` (12828; 100% of non-empty `Degree`): <em>ostensum, dicendum, dictum, movens, separatae, agens, essendi, probatum, separata, dictis</em>
+* `Pos` (12832; 100% of non-empty `Degree`): <em>ostensum, dicendum, dictum, movens, separatae, agens, essendi, probatum, separata, dictis</em>
 * `Sup` (11; 0% of non-empty `Degree`): <em>notissima, remotissima, convenientissimum, excellentissimae, excellentissimam, notissimas, notissimum, ordinatissimus, temperatissimum</em>
-* `EMPTY` (39368): <em>est, potest, esse, oportet, habet, dicitur, sunt, patet, sit, dicit</em>
+* `EMPTY` (39492): <em>est, potest, esse, oportet, habet, dicitur, sunt, patet, sit, dicit</em>
 
 <table>
   <tr><th>Paradigm <i>convenio</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -131,14 +131,14 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 ### `ADV`
 
-4485 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `Degree`.
+4485 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (179; 4% of non-empty `Degree`): <em>maxime, perfectissime, optime, potissime, summe, convenientissime, minime, ultimo, plenissime, altissime</em>
 * `Cmp` (497; 11% of non-empty `Degree`): <em>prius, minus, ulterius, perfectius, exterius, amplius, superius, melius, plus, potius</em>
 * `Pos` (3809; 85% of non-empty `Degree`): <em>solum, vero, naturaliter, simpliciter, similiter, primo, hinc, perfecte, proprie, immediate</em>
-* `EMPTY` (23619): <em>non, igitur, enim, etiam, unde, ergo, sic, nam, tamen, magis</em>
+* `EMPTY` (26993): <em>non, igitur, enim, etiam, unde, ergo, sic, tamen, supra, nam</em>
 
 <table>
   <tr><th>Paradigm <i>perfecte</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -147,62 +147,49 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 ### `PROPN`
 
-3739 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Degree`.
+3737 <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3728; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3707; 99%).
+The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3728; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3705; 99%).
 
 `PROPN` tokens may have the following values of `Degree`:
 
-* `Pos` (3739; 100% of non-empty `Degree`): <em>deus, deo, dei, deum, aristoteles, aristotelis, dionysius, augustinus, boetius, plato</em>
+* `Pos` (3737; 100% of non-empty `Degree`): <em>deus, deo, dei, deum, aristoteles, aristotelis, dionysius, augustinus, boetius, plato</em>
 * `EMPTY` (46): <em>iob, ierusalem, esau, iacob, rabbi, abraham, albumasar, avempace, amos, avicebron</em>
 
-`Degree` seems to be **lexical feature** of `PROPN`. 100% lemmas (96) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `PROPN`. 100% lemmas (95) occur only with one value of `Degree`.
 
 ### `NUM`
 
-1443 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (58% of all `NUM` tokens) have a non-empty value of `Degree`.
+1442 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (58% of all `NUM` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1443; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1443; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1188; 82%).
+The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1442; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1442; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1187; 82%).
 
 `NUM` tokens may have the following values of `Degree`:
 
-* `Pos` (1443; 100% of non-empty `Degree`): <em>unum, una, uno, unius, unus, unam, duo, duobus, tres, duae</em>
-* `EMPTY` (1044): <em>i, iii, ii, 1, 2, vii, viii, iv, vi, 3</em>
-
-### `AUX`
-
-12 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (11; 92%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 92%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (11; 92%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (9; 75%).
-
-`AUX` tokens may have the following values of `Degree`:
-
-* `Pos` (12; 100% of non-empty `Degree`): <em>facta, factae, cognitum, essendi, factas, institutus</em>
-* `EMPTY` (13132): <em>est, sit, esse, sunt, esset, sint, erit, fuit, essent, fuerit</em>
-
-### `DET`
-
-11 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (58% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (11; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (11; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 91%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Pos` (11; 100% of non-empty `Degree`): <em>plerumque, pleraque</em>
-* `EMPTY` (8): <em>ly</em>
+* `Pos` (1442; 100% of non-empty `Degree`): <em>unum, una, uno, unius, unus, unam, duo, duobus, tres, duae</em>
+* `EMPTY` (1045): <em>i, iii, ii, 1, 2, vii, viii, iv, vi, 3</em>
 
 ### `X`
 
-6 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Degree`.
+4 <tt><a href="la_ittb-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `X` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `X` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 75%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 
 `X` tokens may have the following values of `Degree`:
 
-* `Cmp` (1; 17% of non-empty `Degree`): <em>ephes.</em>
-* `Pos` (4; 67% of non-empty `Degree`): <em>decuplum, bona, decupla</em>
-* `Sup` (1; 17% of non-empty `Degree`): <em>omega</em>
-* `EMPTY` (786): <em>metaph., matth., rom., gen., cap., sap., physic., cor., ioan., metaphys.</em>
+* `Pos` (4; 100% of non-empty `Degree`): <em>decuplum, bona, decupla</em>
+* `EMPTY` (64): <em>rom., cor., etc., quod, sap., iac., ioan., apoc., deut., eccli.</em>
+
+### `AUX`
+
+1 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (1; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Degree`:
+
+* `Pos` (1; 100% of non-empty `Degree`): <em>essendi</em>
+* `EMPTY` (12970): <em>est, sit, esse, sunt, esset, sint, erit, fuit, essent, fuerit</em>
 
 ### `CCONJ`
 
@@ -216,14 +203,14 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12605; 88%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11399; 98%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> PRON</tt> (8283; 98%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4442; 91%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4217; 97%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2542; 96%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1638; 95%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1040; 96%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12715; 88%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11389; 98%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-det.html">det</a></tt>]--> PRON</tt> (8320; 98%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (4436; 91%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4255; 97%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2525; 96%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1630; 95%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1041; 96%),
 <tt>ADJ --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (954; 74%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (953; 94%).
+<tt>NOUN --[<tt><a href="la_ittb-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (946; 94%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `discourse`.
+21 nodes (0%) are attached to their parents as `discourse`.
 
-19 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.89473684210526.
+21 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.47619047619048.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (14; 74% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (3; 16% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 11% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (14; 67% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (5; 24% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 10% instances).
 
 
 ~~~ conllu
@@ -38,21 +38,24 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	Jo	jo	INTJ	IN	_	4	discourse	4:discourse	SpaceAfter=No
-2	,	,	PUNCT	MID	_	4	punct	4:punct	_
-3	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
-4	uttalande	uttalande	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root	_
-5	i	i	ADP	PP	_	6	case	6:case	_
-6	Expressen	Expressen	PROPN	PM|NOM	Case=Nom	4	nmod	4:nmod:i	_
-7	av	av	ADP	PP	_	8	case	8:case	_
-8	Rose	Rose	PROPN	PM|NOM	Case=Nom	4	nmod	4:nmod:av	_
-9	Kennedy	Kennedy	PROPN	PM|NOM	Case=Nom	8	flat:name	8:flat:name	SpaceAfter=No
-10	.	.	PUNCT	MAD	_	4	punct	4:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 discourse	color:blue
+1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	nsubj	2:nsubj	_
+2	gäller	gälla	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	er	ni	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	familj	familj	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	_
+5	-	-	PUNCT	MID	_	4	punct	4:punct	_
+6	ert	ni	PRON	PS|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	hjärta	hjärta	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	conj	2:obj|4:conj	_
+8	-	-	PUNCT	MID	_	4	punct	4:punct	_
+9	ja	ja	INTJ	IN	_	12	discourse	12:discourse	SpaceAfter=No
+10	,	,	PUNCT	MID	_	12	punct	12:punct	_
+11	hela	hel	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	12	amod	12:amod	_
+12	samhället	samhälle	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	conj	2:obj|4:conj	SpaceAfter=No
+13	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~
 

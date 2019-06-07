@@ -50,11 +50,11 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Norman	Norman	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	cop	_	_
 3	uno	uno	NUM	CD	Gender=Masc	0	root	_	_
-4	di	di	ADP	IN	_	3	case	_	_
-5	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	di	di	ADP	IN	_	8	case	_	_
+5	i	il	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 6	miei	mio	PRON	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|PronType=Prs	8	det:poss	_	_
 7	cari	caro	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
-8	amici	amico	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	amici	amico	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	3	punct	_	_
 10	quindi	quindi	ADV	RB	_	13	advmod	_	_
 11	mi	mi	PRON	PRP	Case=Acc|Number=Sing|Person=1	13	obj	_	_

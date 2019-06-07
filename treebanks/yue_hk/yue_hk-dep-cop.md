@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (1%) are attached to their parents as `cop`.
+94 nodes (1%) are attached to their parents as `cop`.
 
-45 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11111111111111.
+94 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.78723404255319.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (20; 44% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (6; 13% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (4; 9% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (4; 9% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (56; 60% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (16; 17% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (10; 11% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,26 +34,6 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 cop	color:blue
-1	呢	呢	PART	_	_	2	det	_	SpaceAfter=No
-2	張	張	NOUN	_	NounType=Clf	8	nsubj	_	SpaceAfter=No
-3	唔	唔	ADV	_	_	4	advmod	_	SpaceAfter=No
-4	係	係	AUX	_	_	8	cop	_	SpaceAfter=No
-5	你	你	PRON	_	_	6	nsubj	_	SpaceAfter=No
-6	中意	中意	VERB	_	_	8	acl	_	SpaceAfter=No
-7	嘅	嘅	PART	_	_	6	mark:rel	_	SpaceAfter=No
-8	孫悟空	孫悟空	PROPN	_	_	0	root	_	SpaceAfter=No
-9	咩	咩	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-10	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
@@ -68,6 +48,26 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 7	㗎	㗎	PART	_	_	6	discourse:sp	_	SpaceAfter=No
 8	喇	嘑	PART	_	_	6	discourse:sp	_	SpaceAfter=No
 9	！	！	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 cop	color:blue
+1	呢	呢	DET	_	_	2	det	_	SpaceAfter=No
+2	張	張	NOUN	_	NounType=Clf	8	nsubj	_	SpaceAfter=No
+3	唔	唔	ADV	_	_	8	advmod	_	SpaceAfter=No
+4	係	係	AUX	_	_	8	cop	_	SpaceAfter=No
+5	你	你	PRON	_	_	6	nsubj	_	SpaceAfter=No
+6	中意	中意	VERB	_	_	8	acl	_	SpaceAfter=No
+7	嘅	嘅	PART	_	_	6	mark:rel	_	SpaceAfter=No
+8	孫悟空	孫悟空	PROPN	_	_	0	root	_	SpaceAfter=No
+9	咩	咩	PART	_	_	8	discourse:sp	_	SpaceAfter=No
+10	？	？	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 

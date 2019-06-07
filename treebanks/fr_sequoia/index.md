@@ -43,23 +43,24 @@ Do not submit pull requests against the UD repository.
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
-UD_French-Sequoia is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
+**UD_French-Sequoia** is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
 
 
-UD_French-Sequoia is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
+**UD_French-Sequoia** is an automatic conversion of the Sequoia Treebank corpus [French Sequoia corpus](http://deep-sequoia.inria.fr).
 The conversion was done with the [Grew software](http://grew.fr) and the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/SSQ_UD).
+See [here](http://deep-sequoia.inria.fr/process) for more info about the conversion process.
 
 ## Origin
-The first version of the Sequoia Corpus was presented in (Candito & Seddah, 2012)
+The first version of the Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-diderot.archives-ouvertes.fr/hal-00698938/).
 
 ## Splitting
 The whole corpus contains 70,624 tokens in 3,099 sentences.
 
 In **UD_French-Sequoia**, data were randomly split into:
 
-* `fr_sequoia-ud-test.conllu`: 10,050 tokens in 456 sentences
-* `fr_sequoia-ud-dev.conllu`: 10,013 tokens in 412 sentences
-* `fr_sequoia-ud-train.conllu`: 50,561 tokens in 2,231 sentences
+* `fr_sequoia-ud-test.conllu`: 10,048 tokens in 456 sentences
+* `fr_sequoia-ud-dev.conllu`: 10,002 tokens in 412 sentences
+* `fr_sequoia-ud-train.conllu`: 50,517 tokens in 2,231 sentences
 
 ## Genres
 The original sentences of the corpus are taken from:
@@ -73,14 +74,16 @@ The original sentences of the corpus are taken from:
 
 The conversion has been performed by Bruno Guillaume with the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/SSQ_UD) developed by Bruno Guillaume and Guy Perrier.
 
-The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, notably during the project of deep annotation described in (Candito & al. 2014) and (Perrier & al. 2014).
+The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-diderot.archives-ouvertes.fr/hal-00698938/) and revised later, notably during the project of deep annotation described in [(Candito & al. 2014)](http://hal.inria.fr/docs/00/97/15/74/PDF/deep_sequoia.final_with_keywords.pdf) and [(Perrier & al. 2014)](http://talc2.loria.fr/deep-sequoia/papers/syntaxe_profonde.pdf).
+
+The conversion process to UD is descibed in [(Bonfante & al. 2018)](https://hal.inria.fr/hal-01814386), chapter 3.
 
 
 # Statistics of UD French Sequoia
 
 ## POS Tags
 
-[ADJ](fr_sequoia-pos-ADJ.html) – [ADP](fr_sequoia-pos-ADP.html) – [ADV](fr_sequoia-pos-ADV.html) – [AUX](fr_sequoia-pos-AUX.html) – [CCONJ](fr_sequoia-pos-CCONJ.html) – [DET](fr_sequoia-pos-DET.html) – [INTJ](fr_sequoia-pos-INTJ.html) – [NOUN](fr_sequoia-pos-NOUN.html) – [NUM](fr_sequoia-pos-NUM.html) – [PART](fr_sequoia-pos-PART.html) – [PRON](fr_sequoia-pos-PRON.html) – [PROPN](fr_sequoia-pos-PROPN.html) – [PUNCT](fr_sequoia-pos-PUNCT.html) – [SCONJ](fr_sequoia-pos-SCONJ.html) – [VERB](fr_sequoia-pos-VERB.html) – [X](fr_sequoia-pos-X.html)
+[ADJ](fr_sequoia-pos-ADJ.html) – [ADP](fr_sequoia-pos-ADP.html) – [ADV](fr_sequoia-pos-ADV.html) – [AUX](fr_sequoia-pos-AUX.html) – [CCONJ](fr_sequoia-pos-CCONJ.html) – [DET](fr_sequoia-pos-DET.html) – [INTJ](fr_sequoia-pos-INTJ.html) – [NOUN](fr_sequoia-pos-NOUN.html) – [NUM](fr_sequoia-pos-NUM.html) – [PART](fr_sequoia-pos-PART.html) – [PRON](fr_sequoia-pos-PRON.html) – [PROPN](fr_sequoia-pos-PROPN.html) – [PUNCT](fr_sequoia-pos-PUNCT.html) – [SCONJ](fr_sequoia-pos-SCONJ.html) – [SYM](fr_sequoia-pos-SYM.html) – [VERB](fr_sequoia-pos-VERB.html) – [X](fr_sequoia-pos-X.html)
 
 ## Features
 
@@ -88,17 +91,17 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 
 ## Relations
 
-[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [det](fr_sequoia-dep-det.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl](fr_sequoia-dep-expl.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
+[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advcl:cleft](fr_sequoia-dep-advcl-cleft.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [det](fr_sequoia-dep-det.html) – [discourse](fr_sequoia-dep-discourse.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl](fr_sequoia-dep-expl.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3099 sentences, 68637 tokens and 70593 syntactic words.</li>
+<li>This corpus contains 3099 sentences, 68615 tokens and 70567 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10801 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 10779 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,11 +109,11 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 </ul>
 
 <ul>
-<li>This corpus contains 304 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, -il, aujourd'hui, Hauts-de-Seine, peut-être, IIb/IIIa, après-midi, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, -t, Jean-Paul, Thomson-CSF, celle-ci, non-lieu, rétro-commissions, États-Unis, Île-de-France, contre-indiqué, p​o​s​t​-​c​o​m​m​e​r​c​i​a​l​i​s​a​t​i​o​n, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, calcium-élément, celui-ci, etc., -ils, -je, -moi, -on</li>
+<li>This corpus contains 306 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, -il, aujourd'hui, Hauts-de-Seine, peut-être, IIb/IIIa, après-midi, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, -t, Jean-Paul, Thomson-CSF, celle-ci, en-dessous, non-lieu, rétro-commissions, États-Unis, Île-de-France, contre-indiqué, p​o​s​t​-​c​o​m​m​e​r​c​i​a​l​i​s​a​t​i​o​n, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, calcium-élément, celui-ci, etc., -ils, -je, -moi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1956 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 1952 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 8 types of multi-word tokens. Examples: des, du, au, aux, auxquels, auxquelles, duquel, desdites.</li>
 </ul>
 
@@ -119,8 +122,7 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SYM</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 </ul>
 
 <ul>
@@ -189,6 +191,7 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
   <li>Fem
     <ul>
       <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
+      <li>ADV: vis-à-vis, faute</li>
       <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, guerre</li>
       <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, chacune, celles, celle</li>
@@ -203,9 +206,9 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
     <ul>
       <li>ADJ: français, tous, ancien, osseux, premier, nombreux, dernier, compris, faux, général</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, un, ce, les, cet, aucun, tout, du, certains, quel</li>
+      <li>DET: le, un, ce, cet, les, aucun, tout, du, certains, quel</li>
       <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
-      <li>NUM: 17, neuf</li>
+      <li>NUM: neuf</li>
       <li>PRON: il, ils, un, le, -il, lui, eux, ceux, chacun, lequel</li>
       <li>PROPN: paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</li>
       <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
@@ -225,7 +228,6 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
       <li>AUX-Fin: ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</li>
       <li>DET: les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</li>
       <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
-      <li>NUM: 17</li>
       <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
       <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Frégates, Pays-Bas</li>
       <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
@@ -238,11 +240,11 @@ The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, 
   <li>Sing
     <ul>
       <li>ADJ: autre, politique, même, clinique, ancien, européenne, jeune, première, rénale, premier</li>
+      <li>ADV: faute</li>
       <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
       <li>AUX-Part: fait</li>
       <li>DET: le, la, l', une, un, cette, ce, son, votre, sa</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</li>
-      <li>NUM: neuf</li>
       <li>PRON: il, je, elle, c', j', cela, on, un, le, l'</li>
       <li>PROPN: Paris, Union, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier</li>
       <li>VERB-Fin: doit, a, peut, est, faut, voudrais, pense, agit, concerne, contient</li>
@@ -545,8 +547,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (791)</li>
-      <li>VERB-Fin--PRON (1014)</li>
+      <li>VERB-Fin--NOUN (794)</li>
+      <li>VERB-Fin--PRON (1010)</li>
       <li>VERB-Part--NOUN (306)</li>
       <li>VERB-Part--PRON (223)</li>
     </ul>
@@ -556,12 +558,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (658)</li>
+      <li>VERB-Fin--NOUN (643)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (2)</li>
       <li>VERB-Fin--PRON (146)</li>
-      <li>VERB-Inf--NOUN (692)</li>
+      <li>VERB-Inf--NOUN (686)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (4)</li>
+      <li>VERB-Inf--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
       <li>VERB-Inf--PRON (76)</li>
-      <li>VERB-Part--NOUN (497)</li>
+      <li>VERB-Part--NOUN (487)</li>
+      <li>VERB-Part--NOUN-ADP(de) (7)</li>
       <li>VERB-Part--PRON (61)</li>
     </ul>
   </li>
@@ -570,9 +577,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (105)</li>
+      <li>VERB-Fin--PRON (106)</li>
       <li>VERB-Inf--PRON (33)</li>
-      <li>VERB-Part--PRON (71)</li>
+      <li>VERB-Part--PRON (72)</li>
     </ul>
   </li>
 </ul>
@@ -591,7 +598,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>flat</a>, <a>obl</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

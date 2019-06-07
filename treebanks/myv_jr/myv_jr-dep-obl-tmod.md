@@ -57,7 +57,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:tmod	color:blue
-1	Омбоце	омбоце	NUM	Num	NumType=Ord	2	det	_	GTtags=Ord
+1	Омбоце	омбоце	ADJ	Num	NumType=Ord	2	amod	_	GTtags=Ord
 2	недля	недля	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obl:tmod	_	GTtags=Sg,Nom,Indef
 3	Дёбаень	Дёбай	PROPN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	nmod	_	GTtags=Sem/Sur,Prop,SP,Gen,Indef
 4	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	5	nsubj	_	GTtags=Ant_Mal,Prop,Sg,Nom,Indef

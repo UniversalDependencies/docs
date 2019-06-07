@@ -2,6 +2,7 @@
 layout: relation
 title: 'aux:pass'
 shortdef: 'passive auxiliary'
+udver: '2'
 ---
 
 A passive auxiliary of a clause is a form of the [auxiliary verb](cs-pos/AUX) _быть_ “to be” used to construct the periphrastic passive voice (in the past or future tense, in the infinitive, imperative or conditional mood).

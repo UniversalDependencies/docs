@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 31	pas	_	ADV	RB	Polarity=Neg	29	advmod	_	SpaceAfter=No
 32	,	_	PUNCT	,	_	29	punct	_	SpaceAfter=No
 33	»	_	PUNCT	''	_	29	punct	_	_
-34	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	aux	_	_
+34	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	aux	_	_
 35	publié	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 36	Kori	_	PROPN	NNP	Gender=Fem|Number=Sing	35	nsubj	_	_
 37	Schulman	_	PROPN	NNP	Gender=Fem|Number=Sing	36	flat:name	_	SpaceAfter=No

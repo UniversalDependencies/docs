@@ -11,20 +11,20 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 21614 tokens (11%) have a non-empty value of `Tense`.
 4859 types (9%) occur at least once with a non-empty value of `Tense`.
-1712 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (13559; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8055; 4% instances).
+1711 lemmas (7%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> (13557; 7% instances), <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> (8057; 4% instances).
 
 ### `VERB`
 
-13559 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Tense`.
+13557 <tt><a href="fi_tdt-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13559; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13559; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (13559; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13559; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (13559; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13559; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10712; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8604; 63%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8347; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_tdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13557; 100%), <tt><a href="fi_tdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13557; 100%), <tt><a href="fi_tdt-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (13557; 100%), <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13557; 100%), <tt><a href="fi_tdt-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (13557; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13557; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10710; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8602; 63%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (8345; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (5789; 43% of non-empty `Tense`): <em>sai, tuli, sanoi, kertoi, alkoi, voitti, teki, oli, nousi, jäi</em>
-* `Pres` (7770; 57% of non-empty `Tense`): <em>tulee, saa, on, ottaa, sanoo, kertoo, kuuluu, tekee, toimii, haluaa</em>
-* `EMPTY` (14235): <em>eikä, ettei, tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää</em>
+* `Past` (5788; 43% of non-empty `Tense`): <em>sai, tuli, sanoi, kertoi, alkoi, voitti, teki, oli, nousi, jäi</em>
+* `Pres` (7769; 57% of non-empty `Tense`): <em>tulee, saa, on, ottaa, sanoo, kertoo, kuuluu, tekee, toimii, haluaa</em>
+* `EMPTY` (13811): <em>tehdä, tehty, saada, ottaa, saanut, olevan, tullut, käyttää, ei, antaa</em>
 
 <table>
   <tr><th>Paradigm <i>saada</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -50,15 +50,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-8055 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Tense`.
+8057 <tt><a href="fi_tdt-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8055; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8055; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8055; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7228; 90%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6349; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6238; 77%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8057; 100%), <tt><a href="fi_tdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8057; 100%), <tt><a href="fi_tdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8057; 100%), <tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7230; 90%), <tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6351; 79%), <tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6240; 77%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (1616; 20% of non-empty `Tense`): <em>oli, olivat, olin, piti, saattoi, olikin, joutui, oliko, oltiin, taisi</em>
-* `Pres` (6439; 80% of non-empty `Tense`): <em>on, ovat, ole, voi, voidaan, olen, onko, voivat, olemme, täytyy</em>
-* `EMPTY` (3609): <em>ei, olisi, olla, ollut, en, eivät, pitäisi, voisi, olevan, emme</em>
+* `Past` (1617; 20% of non-empty `Tense`): <em>oli, olivat, olin, piti, saattoi, olikin, joutui, oliko, oltiin, taisi</em>
+* `Pres` (6440; 80% of non-empty `Tense`): <em>on, ovat, ole, voi, voidaan, olen, onko, voivat, olemme, täytyy</em>
+* `EMPTY` (4053): <em>ei, olisi, olla, en, ollut, eivät, eikä, pitäisi, voisi, olevan</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -81,6 +81,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko,S</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onks</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko,S</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onkos</em></td><td><em>Olikos</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>onko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Oonks</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>olenko</em></td><td><em>olinko</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oot</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Clitic.html">Clitic</a></tt><tt>=Ko</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fi_tdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>oletko</em></td><td></td></tr>
@@ -117,7 +118,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1652; 75%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1652; 74%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (57; 54%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 100%),
 <tt>AUX --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),

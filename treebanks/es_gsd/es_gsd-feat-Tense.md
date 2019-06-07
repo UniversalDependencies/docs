@@ -11,67 +11,70 @@ It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
 32627 tokens (8%) have a non-empty value of `Tense`.
 6474 types (14%) occur at least once with a non-empty value of `Tense`.
-2592 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27390; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (5237; 1% instances).
+2563 lemmas (7%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (22790; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9837; 2% instances).
 
 ### `VERB`
 
-27390 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
+22790 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24267; 89%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24267; 89%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (23582; 86%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23241; 85%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21041; 77%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19728; 87%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19728; 87%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19067; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18793; 82%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17397; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (665; 2% of non-empty `Tense`): <em>será, tendrá, serán, hará, permitirá, estará, contará, habrá, llegará, celebrará</em>
-* `Imp` (3203; 12% of non-empty `Tense`): <em>eran, era, tenía, estaba, había, pertenecían, tenían, estaban, encontraba, contaba</em>
-* `Past` (10167; 37% of non-empty `Tense`): <em>fue, hizo, fueron, tuvo, sido, nació, dijo, dio, ganó, convirtió</em>
-* `Pres` (13355; 49% of non-empty `Tense`): <em>es, son, tiene, encuentra, está, hay, hace, tienen, están, sea</em>
-* `EMPTY` (13601): <em>ser, hacer, ubicado, ver, debido, siendo, decir, tener, dar, partir</em>
+* `Fut` (621; 3% of non-empty `Tense`): <em>será, tendrá, hará, permitirá, contará, llegará, habrá, celebrará, saldrá, tendrán</em>
+* `Imp` (2464; 11% of non-empty `Tense`): <em>tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</em>
+* `Past` (9560; 42% of non-empty `Tense`): <em>fue, hizo, tuvo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</em>
+* `Pres` (10145; 45% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
+* `EMPTY` (13238): <em>hacer, ubicado, ver, debido, decir, tener, dar, partir, conocido, llegar</em>
 
 <table>
-  <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>soy</em></td><td></td><td><em>fui</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>eres</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>es</em></td><td><em>será</em></td><td><em>fue, ES, Fui</em></td><td><em>era, fui, Soy</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>somos</em></td><td></td><td><em>somos</em></td><td><em>seamos</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>son</em></td><td><em>serán</em></td><td><em>fueron, Son, fui</em></td><td><em>eran, serían</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sea</em></td><td></td><td></td><td><em>fuese</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sean</em></td><td></td><td></td><td><em>fueran, fuesen, Eran, fueron</em></td></tr>
+  <tr><th>Paradigm <i>tener</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>tenido</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo, tenido</em></td><td></td><td><em>tuve</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tienes</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tiene, tenia, Tuve</em></td><td><em>tendrá</em></td><td><em>tuvo</em></td><td><em>tenía</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenemos</em></td><td></td><td><em>tuvimos</em></td><td><em>teníamos</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tienen</em></td><td><em>tendrán</em></td><td><em>tuvieron, tenia</em></td><td><em>tenían, tengan</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenga</em></td><td></td><td></td><td><em>tuviera, tuviese</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengamos</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengáis</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengan</em></td><td></td><td></td><td><em>tuviesen</em></td></tr>
 </table>
 
 ### `AUX`
 
-5237 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
+9837 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5015; 96%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4819; 92%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (4704; 90%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3861; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9554; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9267; 94%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9219; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7505; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (147; 3% of non-empty `Tense`): <em>podrá, podrán, será, deberá, serán, deberán, estarán, tendrá, estará, irán</em>
-* `Imp` (708; 14% of non-empty `Tense`): <em>había, estaba, habían, era, podía, debía, eran, iba, estaban, hubiera</em>
-* `Past` (1453; 28% of non-empty `Tense`): <em>fue, fueron, sido, pudo, comenzó, tuvo, empezó, volvió, pudieron, estuvo</em>
-* `Pres` (2929; 56% of non-empty `Tense`): <em>ha, han, puede, está, es, pueden, he, debe, son, están</em>
-* `EMPTY` (806): <em>ser, haber, podría, poder, siendo, habría, podrían, esta, volver, estar</em>
+* `Fut` (191; 2% of non-empty `Tense`): <em>será, podrá, podrán, serán, deberá, estará, deberán, estarán, tendrá, irán</em>
+* `Imp` (1447; 15% of non-empty `Tense`): <em>eran, era, había, estaba, habían, podía, estaban, debía, iba, fuese</em>
+* `Past` (2060; 21% of non-empty `Tense`): <em>fue, fueron, sido, pudo, estuvo, tuvo, pudieron, estado, podido, ido</em>
+* `Pres` (6139; 62% of non-empty `Tense`): <em>es, ha, son, han, está, puede, pueden, están, he, sea</em>
+* `EMPTY` (1169): <em>ser, siendo, haber, sería, podría, poder, estar, esta, habría, fuera</em>
 
 <table>
-  <tr><th>Paradigm <i>haber</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>he</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>has</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ha, hay</em></td><td><em>Habría, habrá</em></td><td><em>hubo</em></td><td><em>había, habría</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>hemos</em></td><td></td><td></td><td><em>habíamos</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>han</em></td><td><em>habrán</em></td><td></td><td><em>habían</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>haya</em></td><td></td><td></td><td><em>hubiera, hubiese</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>hayamos</em></td><td></td><td></td><td><em>hemos, hubiéramos</em></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>hayan</em></td><td></td><td></td><td><em>hubieran, hubiesen</em></td></tr>
+  <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>soy</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>eres</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>es, fuera</em></td><td><em>será</em></td><td><em>fue</em></td><td><em>era, Soy</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>somos</em></td><td></td><td></td><td><em>seamos</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>son</em></td><td><em>serán</em></td><td><em>fueron, Son</em></td><td><em>eran, serían</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sea</em></td><td></td><td></td><td><em>fuese, fuera</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>seréis</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sean</em></td><td></td><td></td><td><em>fueran, fuesen, fueron</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1666; 60%),
-<tt>VERB --[<tt><a href="es_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (957; 57%),
-<tt>VERB --[<tt><a href="es_gsd-dep-cc.html">cc</a></tt>]--> VERB</tt> (14; 58%),
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1711; 61%),
+<tt>VERB --[<tt><a href="es_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (961; 57%),
+<tt>VERB --[<tt><a href="es_gsd-dep-cc.html">cc</a></tt>]--> VERB</tt> (14; 67%),
 <tt>AUX --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="es_gsd-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),

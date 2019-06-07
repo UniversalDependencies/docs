@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-PUD: POS Tags: `DET`
 
 There are 37 `DET` lemmas (1%), 78 `DET` types (1%) and 2843 `DET` tokens (13%).
-Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 8 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>der, ein, dies, viel, kein, ander, jed, einige, mehr, beide</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.108108 (the average of all parts of speech is 1.193156).
+The form / lemma ratio of `DET` is 2.108108 (the average of all parts of speech is 1.195606).
 
 The 1st highest number of forms (9) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, des, dessen, die</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>dem, diesem, Le, Los</em>
 
 `DET` nodes are attached to their parents using 13 different relations: <tt><a href="de_pud-dep-det.html">det</a></tt> (2734; 96% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (39; 1% instances), <tt><a href="de_pud-dep-det-predet.html">det:predet</a></tt> (32; 1% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (13; 0% instances), <tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt> (7; 0% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2652; 93% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (49; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2652; 93% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (50; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 2812 (99%) `DET` nodes are leaves.
 
@@ -84,7 +84,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="de_pu
 
 The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 13 different relations: <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (16; 33% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (8; 17% instances), <tt><a href="de_pud-dep-case.html">case</a></tt> (6; 13% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (6; 13% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (3; 6% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-nummod.html">nummod</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 14 different relations: <tt><a href="de_pud-dep-advmod.html">advmod</a></tt> (15; 31% instances), <tt><a href="de_pud-dep-punct.html">punct</a></tt> (8; 17% instances), <tt><a href="de_pud-dep-case.html">case</a></tt> (6; 13% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (6; 13% instances), <tt><a href="de_pud-dep-cc.html">cc</a></tt> (3; 6% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-nummod.html">nummod</a></tt> (1; 2% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (1; 2% instances)
 
 Children of `DET` nodes belong to 12 different parts of speech: <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (15; 31% instances), <tt><a href="de_pud-pos-PUNCT.html">PUNCT</a></tt> (8; 17% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (5; 10% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (5; 10% instances), <tt><a href="de_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 6% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

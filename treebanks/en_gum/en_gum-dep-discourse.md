@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (0%) are attached to their parents as `discourse`.
+101 nodes (0%) are attached to their parents as `discourse`.
 
-62 instances of `discourse` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.67105263157895.
+82 instances of `discourse` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.28712871287129.
 
-The following 16 pairs of parts of speech are connected with `discourse`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (34; 45% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (8; 11% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 7% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (4; 5% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `discourse`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (39; 39% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (11; 11% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,20 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 discourse	color:blue
+1	No	No	INTJ	UH	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	3	punct	_	_
+3	no	no	INTJ	UH	_	1	discourse	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
@@ -55,20 +69,6 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 9	n't	n't	PART	RB	Polarity=Neg	8	advmod	_	_
 10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	SpaceAfter=No
 11	?	?	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 discourse	color:blue
-1	No	No	INTJ	UH	_	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	3	punct	_	_
-3	no	no	INTJ	UH	_	1	discourse	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

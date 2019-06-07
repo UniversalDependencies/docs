@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `goeswith`.
+5 nodes (0%) are attached to their parents as `goeswith`.
 
-11 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27272727272727.
+5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 18% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (2; 18% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -42,33 +42,6 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 18	kien	_	AUX	KIEN	_	19	aux	_	_
 19	għamel	_	VERB	VERB	_	15	acl	_	SpaceAfter=No
 20	.	_	PUNCT	X_PUN	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 15 goeswith	color:blue
-1	Fil-	_	ADP	PREP_DEF	_	3	case:det	_	SpaceAfter=No
-2	Ħames	_	NUM	NUM_ORD	_	3	amod	_	_
-3	Distrett	_	NOUN	NOUN	_	11	obl	_	_
-4	fejn	_	PRON	PRON_INT	_	6	advmod	_	_
-5	bilkemm	_	ADV	ADV	_	6	advmod	_	_
-6	resaq	_	VERB	VERB	_	3	acl	_	_
-7	lejh	_	PRON	PREP_PRON	_	6	obl	_	_
-8	bħala	_	ADP	PREP	_	9	case	_	_
-9	kandidat	_	NOUN	NOUN	_	6	obl	_	_
-10	xorta	_	NOUN	NOUN	_	11	obl	_	_
-11	rnexxielu	_	VERB	VERB	_	0	root	_	_
-12	jikseb	_	VERB	VERB	_	11	xcomp	_	_
-13	1	_	NUM	X_DIG	_	16	nummod	_	SpaceAfter=No
-14	,	_	PUNCT	X_PUN	_	13	punct	_	_
-15	500	_	NUM	X_DIG	_	13	goeswith	_	_
-16	vot	_	NOUN	NOUN	_	12	obj	_	SpaceAfter=No
-17	.	_	PUNCT	X_PUN	_	11	punct	_	_
 
 ~~~
 
@@ -124,6 +97,45 @@ The following 9 pairs of parts of speech are connected with `goeswith`: <tt><a h
 43	mill-	_	ADP	PREP_DEF	_	44	case:det	_	SpaceAfter=No
 44	kumitat	_	NOUN	NOUN	_	42	nmod	_	SpaceAfter=No
 45	.	_	PUNCT	X_PUN	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 24 goeswith	color:blue
+1	L-	_	DET	DEF	_	2	det	_	SpaceAfter=No
+2	ironija	_	NOUN	NOUN	_	3	nsubj	_	_
+3	hi	_	PRON	PRON_PERS	_	0	root	_	_
+4	li	_	SCONJ	COMP	_	19	mark	_	_
+5	l-	_	DET	DEF	_	7	det	_	SpaceAfter=No
+6	istess	_	ADJ	ADJ	_	7	amod	_	_
+7	nies	_	NOUN	NOUN	_	20	dislocated	_	_
+8	li	_	SCONJ	COMP	_	9	mark	_	_
+9	kellhom	_	VERB	VERB_PSEU	_	7	acl	_	_
+10	x'	_	PRON	PRON_INT	_	9	obj	_	SpaceAfter=No
+11	jaqsmu	_	VERB	VERB	_	10	acl	_	_
+12	mal-	_	ADP	PREP_DEF	_	13	case:det	_	SpaceAfter=No
+13	ispjunaġġ	_	NOUN	NOUN	_	11	obl	_	_
+14	tas-	_	ADP	GEN_DEF	_	15	case:det	_	SpaceAfter=No
+15	snin	_	NOUN	NOUN	_	13	nmod:poss	_	_
+16	tmenin	_	NUM	NUM_CRD	_	15	nummod	_	SpaceAfter=No
+17	,	_	PUNCT	X_PUN	_	7	punct	_	_
+18	issa	_	ADV	ADV	_	19	advmod	_	_
+19	reġgħu	_	VERB	VERB	_	3	ccomp	_	_
+20	daru	_	VERB	VERB	_	19	xcomp	_	_
+21	fuqhom	_	PRON	PREP_PRON	_	20	obl:arg	_	_
+22	ta'	_	ADP	GEN	_	23	case	_	_
+23	gonzi-	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
+24	pn	_	NOUN	X_ABV	_	23	goeswith	_	_
+25	biex	_	SCONJ	CONJ_SUB	_	26	mark	_	_
+26	jagħmlulhom	_	VERB	VERB	_	20	advcl	_	_
+27	xogħol	_	NOUN	NOUN	_	26	obj	_	_
+28	simili	_	ADJ	ADJ	_	27	amod	_	SpaceAfter=No
+29	.	_	PUNCT	X_PUN	_	3	punct	_	_
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 82 nodes (0%) are attached to their parents as `parataxis`.
 
 55 instances of `parataxis` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.98780487804878.
+Average distance between parent and child is 7.8780487804878.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (58; 71% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (7; 9% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (42; 51% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (8; 10% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (7; 9% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,18 +34,21 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 parataxis	color:blue
-1	nih	nih	ADV	Df	Polarity=Neg	2	advmod	_	ref=LUKE_17.21
-2	qiþand	qiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_17.21
-3	sai	sai	INTJ	I-	_	2	vocative	_	ref=LUKE_17.21
-4	her	her	ADV	Df	_	2	parataxis	_	ref=LUKE_17.21
-5	aiþþau	aiþþau	CCONJ	C-	_	2	ccomp	_	ref=LUKE_17.21
-6	sai	sai	INTJ	I-	_	2	vocative	_	ref=LUKE_17.21
-7	jainar	jainar	ADV	Df	_	2	parataxis	_	ref=LUKE_17.21
+# visual-style 4 6 parataxis	color:blue
+1	ƕaþar	ƕaþar	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	ref=MATT_9.5
+2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_9.5|LId=1
+3	raihtis	raihtis	ADV	Df	_	4	discourse	_	ref=MATT_9.5
+4	azetizo	azets*	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	0	root	_	ref=MATT_9.5
+5	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	acl	_	ref=MATT_9.5
+6	afletanda	af-letan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	parataxis	_	ref=MATT_9.5
+7	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	iobj	_	ref=MATT_9.5
+8	frawaurhteis	frawaurhts	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	6	nsubj:pass	_	ref=MATT_9.5
+9	þau	þau	CCONJ	C-	_	5	cc	_	ref=MATT_9.5
+10	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=MATT_9.5
 
 ~~~
 
@@ -53,15 +56,18 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 parataxis	color:blue
-1	jah	jah	CCONJ	C-	_	0	root	_	ref=LUKE_7.8
-2	anþaramma	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	1	iobj	_	ref=LUKE_7.8
-3	qim	qiman	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	ref=LUKE_7.8
-4	her	her	ADV	Df	_	3	advmod	_	ref=LUKE_7.8
-5	jah	jah	CCONJ	C-	_	1	cc	_	ref=LUKE_7.8
-6	qimid	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=LUKE_7.8
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 parataxis	color:blue
+1	þaruh	þaruh	ADV	Df	_	2	discourse	_	ref=LUKE_8.30
+2	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_8.30
+3	harjis	harjis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	ref=LUKE_8.30
+4	unte	unte	SCONJ	G-	_	7	mark	_	ref=LUKE_8.30
+5	unhulþons	unhulþo	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	ref=LUKE_8.30
+6	managos	manags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	5	amod	_	ref=LUKE_8.30
+7	galiþun	ga-leiþan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=LUKE_8.30
+8	in	in	ADP	R-	_	9	case	_	ref=LUKE_8.30
+9	ina	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=LUKE_8.30
 
 ~~~
 

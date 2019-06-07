@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (38; 100% of non-empty `Reflex`): <em>kendi, kendisini, kendisi, kendinden, kendini, kendisinin, kendisine, kendisiyle</em>
-* `EMPTY` (269): <em>bu, Bununla, biri, bunu, bunun, onu, bunlar, ne, o, buna</em>
+* `EMPTY` (268): <em>bu, Bununla, biri, bunu, bunun, onu, bunlar, ne, o, buna</em>
 
 ## Relations with Agreement in `Reflex`
 

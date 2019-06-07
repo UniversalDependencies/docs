@@ -11,9 +11,9 @@ This relation is universal.
 1020 nodes (4%) are attached to their parents as `root`.
 
 1020 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.39411764705882.
+Average distance between parent and child is 8.4078431372549.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (793; 78% instances), -<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (136; 13% instances), -<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (69; 7% instances), -<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (16; 2% instances), -<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (794; 78% instances), -<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (135; 13% instances), -<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (69; 7% instances), -<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (16; 2% instances), -<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-
 82 instances of `obj:agent` (72%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.39473684210526.
 
-The following 3 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (75; 66% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (34; 30% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances).
+The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (74; 65% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (34; 30% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,9 +51,9 @@ The following 3 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
 7	circuler	circuler	VERB	_	VerbForm=Inf	2	xcomp	_	_
 8	largement	largement	ADV	_	_	7	advmod	_	_
-9	autour	autour	ADP	_	_	11	case	_	MWEPOS=ADP
-10	de	de	ADP	_	_	9	fixed	_	_
-11	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	7	obl	_	_
+9	autour	autour	ADV	_	_	7	advmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
 12	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 18	fgColor:white
 # visual-style 18 19 obj:agent	color:blue
 1	Maintenant	maintenant	ADV	_	_	29	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	29	punct	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	des	un	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	supporters	supporter	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -87,8 +87,8 @@ The following 3 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 20	à	à	ADP	_	_	22	case	_	_
 21	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
 22	AJA	AJA	PROPN	_	_	18	obl:arg	_	SpaceAfter=No
-23	,	,	PUNCT	_	_	29	punct	_	_
-24	qu'	que	SCONJ	_	_	29	expl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	6	punct	_	_
+24	qu'	que	SCONJ	_	_	29	mark	_	SpaceAfter=No
 25	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:caus	_	_
 26	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	29	iobj:agent	_	_
 27	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_

@@ -12,19 +12,19 @@ It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 49777 tokens (17%) have a non-empty value of `VerbForm`.
 5276 types (17%) occur at least once with a non-empty value of `VerbForm`.
 2231 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (29429; 10% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (16066; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4281; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (28780; 10% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (16715; 6% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4281; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-29429 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+28780 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17908; 61%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17317; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (18244; 62% of non-empty `VerbForm`): <em>har, seier, vart, er, kjem, får, meiner, går, fekk, kom</em>
-* `Inf` (8565; 29% of non-empty `VerbForm`): <em>få, ha, ta, gå, bli, sjå, gjere, gje, gjera, seie</em>
-* `Part` (2620; 9% of non-empty `VerbForm`): <em>fått, hatt, gjort, sett, gått, vore, vorte, teke, kome, sagt</em>
+* `Fin` (17653; 61% of non-empty `VerbForm`): <em>har, seier, er, kjem, får, meiner, går, fekk, kom, blir</em>
+* `Inf` (8540; 30% of non-empty `VerbForm`): <em>få, ha, ta, gå, bli, sjå, gjere, gje, gjera, seie</em>
+* `Part` (2587; 9% of non-empty `VerbForm`): <em>fått, hatt, gjort, sett, gått, vore, teke, kome, sagt, blitt</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -36,15 +36,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-16066 <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+16715 <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14449; 90%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11692; 73%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15040; 90%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11855; 71%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (14455; 90% of non-empty `VerbForm`): <em>er, har, var, kan, skal, vil, må, blir, hadde, kunne</em>
-* `Inf` (1124; 7% of non-empty `VerbForm`): <em>vere, vera, ha, bli, få, kunne, kunna, måtte, måtta, skulle</em>
-* `Part` (487; 3% of non-empty `VerbForm`): <em>vore, blitt, fått, kunna, måtta, måtte, fengje, vilja, vorte</em>
+* `Fin` (15046; 90% of non-empty `VerbForm`): <em>er, har, var, kan, skal, vil, må, vart, blir, hadde</em>
+* `Inf` (1149; 7% of non-empty `VerbForm`): <em>vere, vera, ha, bli, få, kunne, kunna, verta, verte, måtte</em>
+* `Part` (520; 3% of non-empty `VerbForm`): <em>vore, blitt, vorte, fått, kunna, måtta, måtte, fengje, vilja</em>
 
 <table>
   <tr><th>Paradigm <i>vere</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -74,12 +74,12 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>hende</em>
-* `EMPTY` (9084): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
+* `EMPTY` (9076): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (2157; 79%),
+<tt>VERB --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (2156; 79%),
 <tt>VERB --[<tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (560; 59%),
 <tt>VERB --[<tt><a href="no_nynorsk-dep-acl.html">acl</a></tt>]--> VERB</tt> (11; 79%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt>]--> ADJ</tt> (7; 100%),

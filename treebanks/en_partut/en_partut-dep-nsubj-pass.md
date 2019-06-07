@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="en_partut-dep-nsubj
 
 473 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-458 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.74841437632135.
+459 instances of `nsubj:pass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.75898520084567.
 
-The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (300; 63% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (126; 27% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (33; 7% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (300; 63% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (127; 27% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (33; 7% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
-6	s	s	X	X	_	5	goeswith	_	_
+6	s	s	X	X	_	5	dep	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
 9	Arabia	Arabia	PROPN	SP	_	8	flat	_	SpaceAfter=No

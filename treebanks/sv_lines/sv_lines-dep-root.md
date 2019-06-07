@@ -11,9 +11,9 @@ This relation is universal.
 4564 nodes (6%) are attached to their parents as `root`.
 
 4564 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.46801051709027.
+Average distance between parent and child is 4.4649430324277.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3547; 78% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (493; 11% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (307; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (80; 2% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (44; 1% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (39; 1% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (22; 0% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3555; 78% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (488; 11% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (307; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (77; 2% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (44; 1% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (38; 1% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (21; 0% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

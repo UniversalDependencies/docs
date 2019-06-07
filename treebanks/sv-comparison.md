@@ -35,7 +35,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences and 19074 tokens.</li>
+      <li>This corpus contains 1000 sentences and 19076 tokens.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1912 tokens (10%) that are not followed by a space.</li>
+      <li>This corpus contains 1914 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -86,7 +86,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, C​e​c​e​l​i​a​-​k​o​n​s​e​r​v​a​t​o​r​i​e​t, C​e​n​t​u​r​y​-​u​t​m​ä​r​k​e​l​s​e​r​n​a, Chilia-armen, Conte-distrikten</li>
+      <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, C​e​c​e​l​i​a​-​k​o​n​s​e​r​v​a​t​o​r​i​e​t, C​e​n​t​u​r​y​-​u​t​m​ä​r​k​e​l​s​e​r​n​a, Chilia-armen</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -148,7 +148,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 4 word types tagged as particles (PART): att, ej, icke, inte</li>
+      <li>This corpus contains 5 word types tagged as particles (PART): att, ej, icke, inte, n't</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -165,7 +165,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 55 lemmas tagged as pronouns (PRON): alla, allt, alltihop, allting, alltsammans, andra, annat, båda, bådas, de, den, denna, dennes, deras, dess, dessa, det, detta, din, du, en, ens, er, ett, fler, han, hans, hennes, hon, ingen, inget, intet, jag, man, min, mycket, många, mångt, ni, någon, något, några, sig, sin, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, vår</li>
+      <li>This corpus contains 59 lemmas tagged as pronouns (PRON): alla, allt, alltihop, allting, alltsammans, andra, annat, båda, bådas, de, den, denna, dennes, deras, dess, dessa, det, detta, din, du, en, ens, er, ett, fler, han, hans, hennes, her, hon, ingen, inget, intet, jag, man, me, min, my, mycket, många, mångt, ni, någon, något, några, sig, sin, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, vår, you</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -182,7 +182,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16 lemmas tagged as determiners (DET): A, Die, El, Las, Le, all, den, denna, en, ingen, någon, samma, that, the, varje, vilken</li>
+      <li>This corpus contains 17 lemmas tagged as determiners (DET): A, Die, El, Las, Le, all, båda, den, denna, en, ingen, någon, samma, that, the, varje, vilken</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -199,7 +199,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: den, denna, en, ingen, någon, vilken</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: båda, den, denna, en, ingen, någon, vilken</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -211,34 +211,34 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, hålla, komma, kunna, lär, må, måste, ombedd, råka, skola, vara, vilja</li>
+      <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, komma, kunna, lär, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): behöva, bli, bliva, böra, få, ha, komma, kunna, må, måste, skola, var, vara, verka, vilja</li>
+      <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): behöva, bli, böra, do, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): behöva, bli, bruka, böra, dra, få, ha, komma, kunna, lär, må, måste, skola, torde, vara, vilja</li>
+      <li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): behöva, bli, böra, få, ha, komma, kunna, lär, må, måste, skola, torde, vara, vilja</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, hålla, komma, må, råka, vara, vilja</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, må, vara, vilja</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, bliva, få, ha, komma, kunna, må, skola, vara, verka, vilja</li>
+      <li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, få, ha, komma, kunna, vara, vilja</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, bruka, böra, dra, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
+      <li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: behöva, bli, böra, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
   </tr>
@@ -274,8 +274,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
-          <li>VERB: har, sade, hade, finns, säger, började, blev, kommer, gjorde, tog</li>
+          <li>AUX: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
+          <li>VERB: har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</li>
         </ul>
         </li>
       </ul>
@@ -285,7 +285,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-          <li>VERB: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+          <li>VERB: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
         </ul>
         </li>
       </ul>
@@ -296,7 +296,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: vara, ha, kunna, få, vilja, bli, komma, ombedd</li>
+          <li>AUX: vara, ha, kunna, få, bli, vilja, komma</li>
           <li>VERB: göra, ta, se, gå, använda, få, komma, bli, säga, ha</li>
         </ul>
         </li>
@@ -306,7 +306,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: vara, ha, kunna, behöva, bli, få, vilja</li>
+          <li>AUX: vara, ha, kunna, behöva, bli, få, må, vilja</li>
           <li>VERB: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
         </ul>
         </li>
@@ -316,8 +316,8 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: vara, kunna, få, ha, bli, behöva, vilja, komma, dra</li>
-          <li>VERB: få, ha, bli, göra, ge, ta, komma, gå, se, vara</li>
+          <li>AUX: vara, kunna, få, ha, bli, behöva, vilja, komma</li>
+          <li>VERB: få, ha, bli, göra, ge, ta, komma, gå, se, finnas</li>
         </ul>
         </li>
       </ul>
@@ -339,7 +339,7 @@ udver: '2'
         <li>Part
         <ul>
           <li>ADJ: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
-          <li>VERB: förlorad, tvungen</li>
+          <li>VERB: Breaking, förlorad, tvungen</li>
         </ul>
         </li>
       </ul>
@@ -509,7 +509,7 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: egyptiske, misstänkte, Like, Simple, anglikanske, belgiske, brittiske, demokratiske, dominikanske, högste</li>
+            <li>ADJ: egyptiske, misstänkte, Simple, anglikanske, belgiske, brittiske, demokratiske, dominikanske, högste, kanadensiske</li>
           </ul>
         </li>
       </ul>
@@ -621,7 +621,7 @@ udver: '2'
           <ul>
             <li>ADJ: många, flera, andra, nya, stora, olika, fler, små, vissa, båda</li>
             <li>ADJ-Part: allierade, kända, inblandade, kombinerade, kvalificerade, misstänkta, samlade, Finansierade, avlidna, beskattade</li>
-            <li>DET: de, alla, dessa, några, inga</li>
+            <li>DET: de, alla, dessa, några, inga, båda</li>
             <li>NOUN: år, personer, miljoner, dollar, barn, människor, åren, delar, företag, gånger</li>
             <li>PRON: de, sina, vi, dem, vilka, oss, alla, många, andra, dessa</li>
           </ul>
@@ -784,13 +784,13 @@ udver: '2'
             <li>ADJ: andra, första, själv, hela, annat, flera, många, nya, stor, enda</li>
             <li>ADJ-Part: följande, särskilt, motsvarande, nuvarande, grundläggande, beredd, dolda, intresserad, liknande, omfattande</li>
             <li>ADV: i, med, på, av, runt, efter, klart, igenom, korrekt, och</li>
-            <li>AUX: höll, haft, råkar, skola</li>
+            <li>AUX: haft, skola</li>
             <li>DET: båda, denne, du, vad, La, de, samtliga</li>
             <li>NOUN: fält, sätt, gång, år, sidan, data, man, mr, fråga, del</li>
             <li>NUM: U</li>
             <li>PRON: han, jag, du, de, vi, man, hon, ni, enda, lite</li>
             <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
-            <li>VERB: närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande, flytande</li>
+            <li>VERB: höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande</li>
           </ul>
         </li>
       </ul>
@@ -801,10 +801,11 @@ udver: '2'
           <ul>
             <li>ADJ: första, andra, nya, många, flera, stora, stor, hela, senaste, sista</li>
             <li>ADJ-Part: betydande, sett, följande, kända, allierade, känd, levande, omfattande, regisserad, anställd</li>
+            <li>ADV: Anyway</li>
             <li>NOUN: år, havet, personer, fall, miljoner, del, grund, oktober, världen, delen</li>
             <li>NUM: två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</li>
-            <li>PRON: han, de, jag, hon, vi, du, man, ni</li>
-            <li>PROPN: Kina, Storbritannien, of, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North</li>
+            <li>PRON: han, de, jag, hon, vi, du, man, Me, ni</li>
+            <li>PROPN: Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</li>
             <li>VERB-Part: förlorad, tvungen</li>
           </ul>
         </li>
@@ -817,7 +818,7 @@ udver: '2'
             <li>ADJ: olika, andra, första, nya, många, stora, stor, större, vissa, hela</li>
             <li>ADJ-Part: följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</li>
             <li>NOUN: år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</li>
-            <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
+            <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
             <li>PRON: man, de, vi, du, han, jag, hon, ni, bägge, en</li>
             <li>PROPN: Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</li>
             <li>VERB-Part: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
@@ -1183,6 +1184,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
+            <li>AUX-Fin: Do</li>
             <li>VERB-Fin: Låt, Släpp, Spola</li>
           </ul>
         </li>
@@ -1206,7 +1208,6 @@ udver: '2'
           <ul>
             <li>ADJ-Part: dansande</li>
             <li>AUX-Fin: är, var, hade, kan, har, skulle, måste, kunde, vill, ska</li>
-            <li>AUX-Inf: ombedd</li>
             <li>AUX-Sup: velat</li>
             <li>VERB-Fin: var, har, sa, hade, gick, såg, kom, sade, är, vet</li>
             <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, installerat, skuggad, dödade, kopplad, sett</li>
@@ -1221,8 +1222,8 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
-            <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
-            <li>VERB-Fin: har, sade, hade, finns, säger, började, blev, kommer, gjorde, tog</li>
+            <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
+            <li>VERB-Fin: har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</li>
           </ul>
         </li>
       </ul>
@@ -1232,7 +1233,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-            <li>VERB-Fin: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+            <li>VERB-Fin: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
           </ul>
         </li>
       </ul>
@@ -1314,8 +1315,8 @@ udver: '2'
         <li>Past
           <ul>
             <li>ADJ-Part: sett, kända, allierade, känd, regisserad, anställd, fortsatt, gift, inblandade, inräknat</li>
-            <li>AUX-Fin: var, hade, skulle, kunde, ville, borde, behövde, fick, varade</li>
-            <li>VERB-Fin: sade, hade, började, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
+            <li>AUX-Fin: var, hade, skulle, kunde, ville, blev, borde, Did, behövde, fick</li>
+            <li>VERB-Fin: sade, började, hade, blev, gjorde, tog, användes, skrev, spelade, berättade</li>
             <li>VERB-Part: förlorad, tvungen</li>
           </ul>
         </li>
@@ -1327,7 +1328,7 @@ udver: '2'
           <ul>
             <li>ADJ-Part: särskild, särskilda, ökad, ökade, gifta, sett, taget, handikappade, beredd, bestämda</li>
             <li>AUX-Fin: skulle, var, kunde, hade, borde, ville, fick, torde, vore, blev</li>
-            <li>VERB-Fin: blev, fick, hade, var, började, gjorde, kom, gick, fanns, gav</li>
+            <li>VERB-Fin: blev, fick, hade, började, gjorde, kom, gick, fanns, gav, var</li>
             <li>VERB-Part: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
           </ul>
         </li>
@@ -1351,7 +1352,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, närvarande, omgivande, sittande, självstyrande</li>
-            <li>AUX-Fin: är, har, kan, kommer, måste, ska, vill, bör, får, må</li>
+            <li>AUX-Fin: är, har, kan, kommer, måste, ska, vill, bör, blir, får</li>
             <li>VERB-Fin: har, finns, säger, kommer, börjar, står, ger, hjälper, inkluderar, innehåller</li>
           </ul>
         </li>
@@ -1363,7 +1364,7 @@ udver: '2'
           <ul>
             <li>ADJ-Part: följande, beroende, motsvarande, liknande, nuvarande, omfattande, pensionsgrundande, avgörande, krävande, oberoende</li>
             <li>AUX-Fin: är, kan, har, måste, skall, ska, kommer, får, bör, vill</li>
-            <li>VERB-Fin: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
+            <li>VERB-Fin: har, finns, blir, får, är, gäller, ger, går, kommer, gör</li>
           </ul>
         </li>
       </ul>
@@ -1393,7 +1394,7 @@ udver: '2'
           <ul>
             <li>ADJ-Part: dansande</li>
             <li>AUX-Fin: är, var, hade, kan, har, skulle, måste, kunde, vill, ska</li>
-            <li>AUX-Inf: vara, ha, kunna, få, vilja, bli, komma</li>
+            <li>AUX-Inf: vara, ha, kunna, få, bli, vilja, komma</li>
             <li>AUX-Sup: varit, kunnat, fått, blivit, velat, kommit</li>
             <li>VERB-Fin: var, har, sa, hade, gick, kom, såg, sade, är, vet</li>
             <li>VERB-Inf: göra, ta, se, gå, använda, få, komma, bli, säga, ha</li>
@@ -1407,11 +1408,12 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>AUX-Fin: är, var, har, kan, hade, skulle, kommer, kunde, måste, ville</li>
-            <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, vilja</li>
+            <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
+            <li>AUX-Inf: vara, ha, kunna, behöva, bli, få, må, vilja</li>
             <li>AUX-Sup: varit, blivit, kunnat</li>
-            <li>VERB-Fin: har, sade, hade, säger, började, blev, kommer, gjorde, tog, börjar</li>
+            <li>VERB-Fin: har, sade, säger, började, hade, blev, gjorde, tog, kommer, börjar</li>
             <li>VERB-Inf: ha, få, göra, ta, gå, se, bli, hjälpa, spela, använda</li>
+            <li>VERB-Part: Breaking</li>
             <li>VERB-Sup: blivit, gjort, beslutat, fått, gått, haft, kommit, sett, skrivit, ansett</li>
           </ul>
         </li>
@@ -1422,10 +1424,10 @@ udver: '2'
         <li>Act
           <ul>
             <li>AUX-Fin: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
-            <li>AUX-Inf: vara, kunna, få, ha, bli, behöva, vilja, komma, dra</li>
+            <li>AUX-Inf: vara, kunna, få, ha, bli, behöva, vilja, komma</li>
             <li>AUX-Sup: varit, kunnat, fått, kommit, blivit, velat</li>
-            <li>VERB-Fin: har, är, blir, får, gäller, ger, går, kommer, gör, visar</li>
-            <li>VERB-Inf: få, ha, bli, göra, ge, ta, komma, gå, se, vara</li>
+            <li>VERB-Fin: har, blir, får, är, gäller, ger, går, kommer, gör, visar</li>
+            <li>VERB-Inf: få, ha, bli, göra, ge, ta, komma, gå, se, hålla</li>
             <li>VERB-Sup: fått, blivit, haft, gjort, ökat, kommit, gått, visat, börjat, skett</li>
           </ul>
         </li>
@@ -1437,7 +1439,6 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>AUX-Inf: ombedd</li>
             <li>VERB-Fin: visas, kändes, används, hördes, tycktes, flyttas, döljs, skapas, behövs, läggs</li>
             <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, visas, avslutad, installerat, köras, skuggad</li>
             <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, försvunnen, kallad, omgiven, Förundrad, betitlad</li>
@@ -1721,6 +1722,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>PRON: som, något, vilket, vilka, vars, vilken, vilkas</li>
+            <li>SCONJ: som</li>
           </ul>
         </li>
       </ul>
@@ -1787,7 +1789,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
+            <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
           </ul>
         </li>
       </ul>
@@ -1964,8 +1966,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADP: Really, Father, Love</li>
-                <li>NOUN: Business, Didn't, Go, Her, Over, Protection, Rasa, Return, Services, Show</li>
+                <li>NOUN: Business, Over, Protection, Rasa, Return, Services, Show, Things, Tulcea, View</li>
               </ul>
             </li>
           </ul>
@@ -2006,7 +2007,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: vara, var.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2022,19 +2023,19 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, måste, vilja, få, komma, böra, må, vara, hålla, bli, lär, bruka.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, måste, vilja, få, komma, böra, må, vara, bli, lär.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: vara, bli, ha.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, komma, måste, vilja, böra, få, behöva, må, Don't, didn't, verka.</li>
-      <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli, bliva, ha.</li>
+      <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, komma, måste, vilja, böra, få, behöva, do, må.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli, ha.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, vilja, böra, behöva, torde, må, lär, bruka, dra.</li>
+      <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, böra, vilja, behöva, torde, må, lär.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
       </ul>
     </td>
@@ -2050,23 +2051,25 @@ udver: '2'
             <li>VERB--NOUN (1)</li>
             <li>VERB--NOUN-Nom (2)</li>
             <li>VERB--PRON (1)</li>
+            <li>VERB--PRON-Nom (2)</li>
             <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1022)</li>
+            <li>VERB-Fin--NOUN-Nom (1024)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(med) (2)</li>
             <li>VERB-Fin--PRON (761)</li>
             <li>VERB-Fin--PRON-Nom (2138)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Nom (176)</li>
-            <li>VERB-Inf--PRON (93)</li>
-            <li>VERB-Inf--PRON-Nom (670)</li>
-            <li>VERB-Part--NOUN-Nom (8)</li>
+            <li>VERB-Inf--NOUN-Nom (179)</li>
+            <li>VERB-Inf--PRON (96)</li>
+            <li>VERB-Inf--PRON-Nom (668)</li>
+            <li>VERB-Part--NOUN-Nom (12)</li>
             <li>VERB-Part--PRON (9)</li>
             <li>VERB-Part--PRON-Nom (17)</li>
+            <li>VERB-Sup--NOUN (1)</li>
             <li>VERB-Sup--NOUN-Nom (137)</li>
-            <li>VERB-Sup--PRON (111)</li>
+            <li>VERB-Sup--PRON (110)</li>
             <li>VERB-Sup--PRON-Nom (332)</li>
           </ul>
         </li>
@@ -2085,8 +2088,9 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
             <li>VERB-Fin--PRON (181)</li>
             <li>VERB-Fin--PRON-Nom (177)</li>
+            <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Nom (51)</li>
-            <li>VERB-Inf--PRON (26)</li>
+            <li>VERB-Inf--PRON (27)</li>
             <li>VERB-Inf--PRON-Nom (42)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
             <li>VERB-Sup--NOUN (1)</li>
@@ -2106,11 +2110,11 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (13)</li>
             <li>VERB-Fin--NOUN-Nom (2075)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
             <li>VERB-Fin--PRON (1023)</li>
             <li>VERB-Fin--PRON-Nom (1021)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Nom (498)</li>
+            <li>VERB-Inf--NOUN-Nom (497)</li>
             <li>VERB-Inf--PRON (197)</li>
             <li>VERB-Inf--PRON-Nom (521)</li>
             <li>VERB-Sup--NOUN (3)</li>
@@ -2130,17 +2134,17 @@ udver: '2'
             <li>VERB--PRON (2)</li>
             <li>VERB-Fin--NOUN (9)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Nom (1355)</li>
+            <li>VERB-Fin--NOUN-Nom (1356)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(om) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-            <li>VERB-Fin--PRON (326)</li>
+            <li>VERB-Fin--PRON (325)</li>
             <li>VERB-Fin--PRON-ADP(med) (1)</li>
-            <li>VERB-Fin--PRON-Acc (494)</li>
+            <li>VERB-Fin--PRON-Acc (493)</li>
             <li>VERB-Fin--PRON-Gen (11)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (7)</li>
-            <li>VERB-Inf--NOUN-Nom (938)</li>
+            <li>VERB-Inf--NOUN-Nom (940)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
             <li>VERB-Inf--PRON (166)</li>
@@ -2151,7 +2155,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom (4)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Sup--NOUN-Nom (191)</li>
-            <li>VERB-Sup--PRON (88)</li>
+            <li>VERB-Sup--PRON (91)</li>
             <li>VERB-Sup--PRON-ADP(med) (1)</li>
             <li>VERB-Sup--PRON-Acc (77)</li>
             <li>VERB-Sup--PRON-Gen (1)</li>
@@ -2167,17 +2171,19 @@ udver: '2'
             <li>VERB-Fin--NOUN (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (370)</li>
-            <li>VERB-Fin--PRON (23)</li>
+            <li>VERB-Fin--PRON (24)</li>
             <li>VERB-Fin--PRON-Acc (52)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Nom (249)</li>
             <li>VERB-Inf--PRON (20)</li>
             <li>VERB-Inf--PRON-Acc (13)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Sup--NOUN (1)</li>
             <li>VERB-Sup--NOUN-Nom (60)</li>
             <li>VERB-Sup--NOUN-Nom-ADP(på) (1)</li>
-            <li>VERB-Sup--PRON (8)</li>
-            <li>VERB-Sup--PRON-Acc (10)</li>
+            <li>VERB-Sup--PRON (9)</li>
+            <li>VERB-Sup--PRON-Acc (9)</li>
           </ul>
         </li>
       </ul>
@@ -2189,13 +2195,13 @@ udver: '2'
             <li>VERB-Fin--NOUN (34)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1762)</li>
+            <li>VERB-Fin--NOUN-Nom (1763)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
             <li>VERB-Fin--PRON (160)</li>
             <li>VERB-Fin--PRON-Acc (230)</li>
             <li>VERB-Inf--NOUN (10)</li>
-            <li>VERB-Inf--NOUN-Nom (1290)</li>
+            <li>VERB-Inf--NOUN-Nom (1292)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Inf--PRON (118)</li>
             <li>VERB-Inf--PRON-Acc (149)</li>
@@ -2237,6 +2243,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (8)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON-Acc (8)</li>
+            <li>VERB-Sup--PRON-Acc (1)</li>
           </ul>
         </li>
       </ul>

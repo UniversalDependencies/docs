@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (3%) are attached to their parents as `cc`.
+70 nodes (3%) are attached to their parents as `cc`.
 
-66 instances of `cc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25.
+68 instances of `cc` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.22857142857143.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (27; 40% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (18; 26% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (12; 18% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (29; 41% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (17; 24% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (12; 17% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
-1	Ньӧжйӧник	ньӧжйӧник	ADV	Adv	_	2	advmod	_	_
+1	Ньӧжйӧник	ньӧжйӧник	ADV	Adv	Derivation=Ik	2	advmod	_	_
 2	чукӧрті	чукӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	чери	чери	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	_
 4	кыян	кыян	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	_
@@ -64,7 +64,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="k
 2	сэсся	сэсся	ADV	Adv	_	4	advmod	_	_
 3	вылісянь	вылісянь	ADV	Adv	Case=Egr|Number=Sing	4	obl	_	_
 4	мӧдӧдчисны	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	гырысь	гырысь	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+5	гырысь	гырысь	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
 6	зэр	зэр	NOUN	N	Case=Nom|Number=Plur	7	compound	_	_
 7	войтъяс	войт	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_

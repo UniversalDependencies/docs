@@ -43,5 +43,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): अप्रयुज्यमानः, अलब्धाः, असंभाव्यां
-* `EMPTY` (312): अब्रवीत्, आह, भवति, उक्तं, गत्वा, करिष्यामि, श्रुत्वा, आरब्धम्, उच्यते, करोमि
+* `EMPTY` (311): अब्रवीत्, आह, भवति, उक्तं, गत्वा, करिष्यामि, श्रुत्वा, आरब्धम्, उच्यते, करोमि
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt>.
 
-194 nodes (0%) are attached to their parents as `nsubj:pass`.
+330 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-134 instances of `nsubj:pass` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.52061855670103.
+233 instances of `nsubj:pass` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.61818181818182.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (80; 41% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (49; 25% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (34; 18% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (21; 11% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (6; 3% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (131; 40% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (91; 28% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (58; 18% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (26; 8% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (17; 5% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,36 +35,32 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 nsubj:pass	color:blue
-1	jah	jah	CCONJ	C-	_	3	cc	_	ref=LUKE_7.23
-2	audags	audags	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	xcomp	_	ref=LUKE_7.23
-3	ist	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.23
-4	saƕazuh	saƕazuh	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=LUKE_7.23
-5	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj:pass	_	ref=LUKE_7.23
-6	ni	ni	ADV	Df	Polarity=Neg	7	advmod	_	ref=LUKE_7.23
-7	gamarzjada	ga-marzjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	ref=LUKE_7.23
-8	in	in	ADP	R-	_	9	case	_	ref=LUKE_7.23
-9	mis	ik	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obl	_	ref=LUKE_7.23
+# visual-style 5 3 nsubj:pass	color:blue
+1	taleiþa	taleiþa	X	F-	_	5	vocative	_	ref=MARK_5.41
+2	kumei	kumei	X	F-	_	5	vocative	_	ref=MARK_5.41
+3	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj:pass	_	ref=MARK_5.41
+4	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MARK_5.41|LId=1
+5	gaskeiriþ	ga-skeirjan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_5.41
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nsubj:pass	color:blue
-1	iþ	iþ	CCONJ	C-	_	6	cc	_	ref=LUKE_7.47
-2	þammei	saei	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	iobj	_	ref=LUKE_7.47
-3	leitil	leitils	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	nsubj:pass	_	ref=LUKE_7.47
-4	fraletada	fra-letan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	nsubj	_	ref=LUKE_7.47
-5	leitil	leitils	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	6	advmod	_	ref=LUKE_7.47
-6	frijod	frijon	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.47
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 nsubj:pass	color:blue
+1	sa	sa	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	ref=LUKE_7.27
+2	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27|LId=1
+3	bi	bi	ADP	R-	_	4	case	_	ref=LUKE_7.27
+4	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	ref=LUKE_7.27
+5	gamelid	ga-meljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_7.27
+6	ist	wisan	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27|LId=1
 
 ~~~
 

@@ -3,6 +3,7 @@ layout: relation
 title: 'flat'
 redirect_from: "ga/dep/name.html"
 shortdef: 'name'
+udver: '2'
 ---
 
 The `flat` relation is used with compounding proper nouns, typically for places, organisations and so on.

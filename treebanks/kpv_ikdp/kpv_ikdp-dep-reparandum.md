@@ -13,33 +13,63 @@ This relation is universal.
 8 instances of `reparandum` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (2; 25% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (2; 25% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 9 reparandum	color:blue
-1	Вот	вот	PART	Pcle	_	3	discourse	_	Lang=Rus
-2	и	и	PART	Pcle	_	3	discourse	_	_
-3	висьтоола	висьтооны	VERB	V	_	0	root	_	_
-4	тай	тай	PART	Pcle	_	3	discourse	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	но	но	CCONJ	CC	_	9	cc	_	Lang=Mixed|SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 reparandum	color:blue
+1	Воліс	волыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	же	жӧ	PART	Pcle	_	1	advmod	_	Lang=Mixed
+3	тундраас	тундра	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl	_	Lang=Mixed|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	но	но	CCONJ	CC	_	9	cc	_	Lang=Mixed
+6	из	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|VerbForm=Fin	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	кодке	кодке	PRON	Pron	Case=Nom|Number=Sing	9	nsubj	_	_
-9	висьт-	висьт-	VERB	V	_	15	reparandum	_	SpaceAfter=No
+8	абу	абу	AUX	Pcle	Polarity=Neg	9	aux	_	_
+9	понравитчема	понравитчыны	VERB	V	Mood=Ind|Number=Sing	1	conj	_	Lang=Mixed|SpaceAfter=No|Note=Check
 10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	Микул	Микул	PROPN	N	Case=Nom|Number=Sing	12	nmod	_	_
-12	вок	вок	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	_
-13	корке	корке	ADV	Adv	_	15	advmod	_	_
-14	тай	тай	PART	Pcle	_	15	discourse	_	_
-15	висьталэма	висьтавны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No
-16	:	:	PUNCT	CLB	_	17	punct	_	_
-17	патриотка	патриотка	NOUN	N	Case=Nom|Number=Sing	15	appos	_	Lang=Mixed|SpaceAfter=No
-18	.	.	PUNCT	CLB	_	3	punct	_	_
+11	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	вермы	вермыны	VERB	V	Connegative=Yes|Number=Sing	1	conj	_	_
+13	сыа	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	сэтшем	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	15	amod	_	_
+15	условиеясас	условие	NOUN	N	Case=Ill|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obl	_	Lang=Mixed|SpaceAfter=No
+16	.	.	PUNCT	CLB	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 reparandum	color:blue
+1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	мыйке	мыйке	PRON	Pron	Case=Nom|Number=Sing	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	5	punct	_	_
+5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
+6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
+7	рӧдиттьыны	рӧдиттьыны	VERB	V	VerbForm=Inf	8	xcomp	_	Lang=Mixed
+8	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	CLB	_	10	punct	_	_
+10	абу	абу	AUX	Pcle	Polarity=Neg	11	aux	_	_
+11	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	CLB	_	13	punct	_	_
+13	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	16	reparandum	_	SpaceAfter=No
+14	,	,	PUNCT	CLB	_	15	punct	_	_
+15	абу	абу	AUX	Pcle	Polarity=Neg	16	aux	_	_
+16	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
+17	тытэн	тытэн	ADV	Adv	_	16	obl	_	SpaceAfter=No
+18	,	,	PUNCT	CLB	_	19	punct	_	_
+19	Из	из	PROPN	N	Case=Nom	21	obl	_	_
+20	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
+21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
+22	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 
@@ -52,50 +82,18 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 3 1 reparandum	color:blue
 1	Вто-	Вто-	ADJ	A	Case=Nom|Number=Sing	3	reparandum	_	Note=Check|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	вторая	вторая	ADJ	A	Case=Nom|Number=Sing	4	nummod	_	Lang=Rus
+3	вторая	вторая	NUM	Num	Case=Nom|Number=Sing	4	nummod	_	Lang=Rus
 4	бригада	бригада	NOUN	N	Case=Nom|Number=Sing	0	root	_	Lang=Rus
 5	оленеводческая	оленеводческая	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Rus|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	висьтооны	висьтооны	VERB	V	VerbForm=Inf	11	mark	_	_
-8	ке	ке	SCONJ	CS	_	7	discourse	_	SpaceAfter=No
+7	висьтооны	висьтооны	VERB	V	VerbForm=Inf	11	advcl	_	_
+8	ке	ке	SCONJ	CS	_	7	mark	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	мӧдэд	мӧдэд	NUM	Num	Case=Prl|NumType=Ord	11	nummod	_	_
 11	бригада	бригада	NOUN	N	Case=Nom|Number=Sing	4	conj	_	Lang=Mixed|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	13	punct	_	_
-13	да	да	PART	Pcle	_	11	discourse	_	Lang=Mixed|SpaceAfter=No
+13	да	да	PART	Pcle	_	11	advmod	_	Lang=Mixed|SpaceAfter=No
 14	?	?	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 reparandum	color:blue
-1	Он	оз	VERB	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	reparandum	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	живносьсэ	живнось	NOUN	N	Case=Acc	5	obj	_	Lang=Mixed
-5	сдайт	сдайтны	VERB	V	Connegative=Yes|Number=Sing	0	root	_	Lang=Mixed|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	5	punct	_	_
-7	но	но	CCONJ	CC	_	11	cc	_	Lang=Mixed
-8	какой	какой	DET	Det	_	11	amod	_	Lang=Rus|SpaceAfter=No
-9	-	-	PUNCT	CLB	_	8	goeswith	_	SpaceAfter=No
-10	то	то	ADV	Adv	_	8	goeswith	_	Lang=Rus
-11	процент	процент	NOUN	N	Case=Nom|Number=Sing	5	acl	_	Lang=Rus
-12	там	там	ADV	Adv	_	11	advmod	_	Lang=Rus|SpaceAfter=No
-13	,	,	PUNCT	CLB	_	12	punct	_	_
-14	сколько	сколько	ADV	Adv	_	16	advmod	_	Lang=Rus
-15	налог	налог	NOUN	N	Case=Nom|Number=Sing	16	obj	_	Lang=Rus
-16	сетасныс	сетны	VERB	V	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	11	conj	_	_
-17	мыйттэм	мыйтӧм	PRON	Pron	_	16	advmod	_	SpaceAfter=No
-18	,	,	PUNCT	CLB	_	17	punct	_	_
-19	сіе	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
-20	и	и	PART	Pcle	_	21	discourse	_	Lang=Mixed
-21	сдайтан	сдайтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	Lang=Mixed|SpaceAfter=No
-22	.	.	PUNCT	CLB	_	21	punct	_	_
 
 ~~~
 

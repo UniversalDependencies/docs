@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="yue_hk-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="yue_hk-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-1 nodes (0%) are attached to their parents as `obl:patient`.
+2 nodes (0%) are attached to their parents as `obl:patient`.
 
-1 instances of `obl:patient` (100%) are right-to-left (child precedes parent).
+2 instances of `obl:patient` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `obl:patient`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `obl:patient`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

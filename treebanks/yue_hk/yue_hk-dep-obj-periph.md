@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yue_hk-dep-obj.html">obj</a></tt>.
 
-15 nodes (0%) are attached to their parents as `obj:periph`.
+28 nodes (0%) are attached to their parents as `obj:periph`.
 
-14 instances of `obj:periph` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.86666666666667.
+26 instances of `obj:periph` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.39285714285714.
 
-The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (8; 53% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (5; 33% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `obj:periph`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (18; 64% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (8; 29% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

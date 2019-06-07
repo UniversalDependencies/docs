@@ -2,6 +2,7 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
 
 Case is an inflectional feature of nouns and other parts of speech (adjectives, verbs, articles) that mark agreement with nouns.

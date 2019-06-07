@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="it_partut-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_partut-dep-flat-name.html">flat:name</a></tt>.
 
-227 nodes (0%) are attached to their parents as `flat`.
+230 nodes (0%) are attached to their parents as `flat`.
 
-227 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41409691629956.
+230 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42173913043478.
 
-The following 13 pairs of parts of speech are connected with `flat`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (58; 26% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (51; 22% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (47; 21% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (20; 9% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="it_partut-pos-X.html">X</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (13; 6% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-X.html">X</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `flat`: <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (58; 25% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (51; 22% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (47; 20% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (20; 9% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (14; 6% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (13; 6% instances), <tt><a href="it_partut-pos-X.html">X</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (13; 6% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (8; 3% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_partut-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-X.html">X</a></tt>-<tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 4 5 flat	color:blue
 1	La	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	8	punct	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	onorevole	onorevole	NOUN	S	Number=Sing	2	vocative	_	_
 5	Segni	Segni	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	8	punct	_	_

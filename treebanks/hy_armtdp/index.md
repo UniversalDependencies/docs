@@ -24,7 +24,7 @@ Download all treebanks: [UD 2.2](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: news, fiction
+Genre: news, fiction, grammar-examples
 
 Questions, comments?
 General annotation questions (either Armenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -44,11 +44,11 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The ArmTDP Eastern Armenian UD treebank is based on the ՀայՇտեմ-ArmTDP-East dataset (2.0), created by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+Modern Eastern Armenian Universal Dependencies treebank, developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 
 
-UD_Armenian is based on the ՀայՇտեմ-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2018). The treebank consists 1030 sentences (~2.3k tokens).
+UD_Armenian-ArmTDP is based on the ՀայՇտեմ-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists 1742 sentences (~37K tokens).
 
 The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
@@ -56,7 +56,7 @@ The annotation scheme was developed in according to the UD guidelines. The origi
 
 This work became possible in part by a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA. We are deeply grateful to ANSEF, also to Lragir.am, 1in.am and Yavruhrat Publishing for letting us download and exploit their articles as text material under the terms of educational use.
 
-The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan.
+The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
 
 ## References
 
@@ -75,17 +75,17 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 
 ## Relations
 
-[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [aux:caus](hy_armtdp-dep-aux-caus.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [expl](hy_armtdp-dep-expl.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [goeswith](hy_armtdp-dep-goeswith.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
+[acl](hy_armtdp-dep-acl.html) – [acl:relcl](hy_armtdp-dep-acl-relcl.html) – [advcl](hy_armtdp-dep-advcl.html) – [advmod](hy_armtdp-dep-advmod.html) – [advmod:emph](hy_armtdp-dep-advmod-emph.html) – [amod](hy_armtdp-dep-amod.html) – [appos](hy_armtdp-dep-appos.html) – [aux](hy_armtdp-dep-aux.html) – [aux:caus](hy_armtdp-dep-aux-caus.html) – [case](hy_armtdp-dep-case.html) – [case:loc](hy_armtdp-dep-case-loc.html) – [cc](hy_armtdp-dep-cc.html) – [ccomp](hy_armtdp-dep-ccomp.html) – [compound](hy_armtdp-dep-compound.html) – [compound:lvc](hy_armtdp-dep-compound-lvc.html) – [compound:redup](hy_armtdp-dep-compound-redup.html) – [compound:svc](hy_armtdp-dep-compound-svc.html) – [conj](hy_armtdp-dep-conj.html) – [cop](hy_armtdp-dep-cop.html) – [csubj](hy_armtdp-dep-csubj.html) – [csubj:pass](hy_armtdp-dep-csubj-pass.html) – [dep](hy_armtdp-dep-dep.html) – [det](hy_armtdp-dep-det.html) – [det:poss](hy_armtdp-dep-det-poss.html) – [discourse](hy_armtdp-dep-discourse.html) – [dislocated](hy_armtdp-dep-dislocated.html) – [expl](hy_armtdp-dep-expl.html) – [fixed](hy_armtdp-dep-fixed.html) – [flat](hy_armtdp-dep-flat.html) – [goeswith](hy_armtdp-dep-goeswith.html) – [iobj](hy_armtdp-dep-iobj.html) – [iobj:agent](hy_armtdp-dep-iobj-agent.html) – [list](hy_armtdp-dep-list.html) – [mark](hy_armtdp-dep-mark.html) – [nmod](hy_armtdp-dep-nmod.html) – [nmod:npmod](hy_armtdp-dep-nmod-npmod.html) – [nmod:poss](hy_armtdp-dep-nmod-poss.html) – [nsubj](hy_armtdp-dep-nsubj.html) – [nsubj:caus](hy_armtdp-dep-nsubj-caus.html) – [nsubj:pass](hy_armtdp-dep-nsubj-pass.html) – [nummod](hy_armtdp-dep-nummod.html) – [obj](hy_armtdp-dep-obj.html) – [obl](hy_armtdp-dep-obl.html) – [obl:agent](hy_armtdp-dep-obl-agent.html) – [orphan](hy_armtdp-dep-orphan.html) – [parataxis](hy_armtdp-dep-parataxis.html) – [punct](hy_armtdp-dep-punct.html) – [root](hy_armtdp-dep-root.html) – [vocative](hy_armtdp-dep-vocative.html) – [xcomp](hy_armtdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1030 sentences, 22666 tokens and 22788 syntactic words.</li>
+<li>This corpus contains 1742 sentences, 36368 tokens and 36549 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4199 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 6713 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -93,12 +93,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 </ul>
 
 <ul>
-<li>This corpus contains 82 types of words that contain both letters and punctuation. Examples: ՀԷԿ-երի, 5-րդ, ԱՄՆ-ի, 21-ի, 6-ին, 7-ի, ԵԼՔ-ին, ՀՀԿ-ի, 1-ից, 11-րդ, 20-ին, 20-րդ, 2008-ին, 2016-ի, 2018-ի, 21-ին, 22-ի, 22-ին, 24-ին, ԵԼՔ-ը, ՀՀԿ-ում, սմ-ով, 10-ին, 100-րդ, 113-րդ, 1148-ը, 1261-ը, 13-ն, 14-ին, 15-ին, 15-րդ, 1915-ի, 1971-ին, 1984-ին, 1998-ի, 1998-ին, 19:00-ին, 2006-ի, 2008-ի, 2010-ին, 2015-ի, 2016-ին, 23-ի, 25-ին, 29-ին, 3-5-ը, 30-ի, 31-ի, 48-ամյա, 65-ամյակին</li>
+<li>This corpus contains 111 types of words that contain both letters and punctuation. Examples: 1-ին, 5-րդ, ՀԷԿ-երի, 3-րդ, ԱՄՆ-ի, 2018-ի, 16-րդ, 2-րդ, 2016-ի, 2017-ի, 21-ի, 6-ին, 7-ի, ԵԼՔ-ին, ՀՀԿ-ի, 1-ից, 11-րդ, 20-ին, 20-րդ, 2008-ին, 2018-ին, 2019-ի, 21-ին, 22-ի, 22-ին, 24-ին, 33-րդ, 6-ի, ԵԼՔ-ը, ՀՀԿ-ում, մեկ-երկու, սմ-ով, 10-ին, 10-րդ, 100-րդ, 113-րդ, 1148-ը, 12-ի, 12-ին, 1261-ը, 129-ամյա, 13-ն, 14-ին, 15-ին, 15-րդ, 1915-ի, 1915-ին, 1939-ի, 1970-ական, 1971-ին</li>
 </ul>
 
 <ul>
-<li>This corpus contains 122 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 64 types of multi-word tokens. Examples: ի՞նչ, և՛, թե՛, ինչո՞ւ, ո՛չ, ինչպե՞ս, ո՞վ, ո՞ւմ, ե՞րբ, համարո՞ւմ, Ո՞րն, արդյո՞ք, թե՞, ի՛նչ, ինչի՞ն, կա՛մ, մի՞թե, որքանո՞վ, չէ՞, Աբկա՜յ, Աստվա՜ծ, Աստվա՞ծ, Դո՞ւ, Է՜, Ինչո՞վ, Լե՞ցն, Կկարողանա՞, Հը՞, Սե՛մ, Քանի՜, ա՛յլ, այո՛, աշակերտեցե՛ք, առավելությո՞ւն, բա՛ց, բնո՞ւյթն, գնա՜ց, գնա՞լ, գնացե՛ք, դատավո՞ր, եկե՞լ, է՛լ, էդպիսի՞, թռա՜վ, ինչպե՛ս, լծկանների՜, կա՞, հնարավո՞ր, ճչա՜ց, մե՞ծ.</li>
+<li>This corpus contains 181 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 89 types of multi-word tokens. Examples: ի՞նչ, և՛, թե՛, ինչո՞ւ, ինչպե՞ս, ո՛չ, ո՞վ, ինչո՞վ, ո՞ւմ, ո՞ւր, ե՞րբ, ինչու՞, կա՞, կարո՞ղ, համարո՞ւմ, որքա՞ն, չէ՞, Մարիո՜, Ո՞րն, այո՛, արդյո՞ք, թե՞, ի՛նչ, ինչի՞, ինչի՞ն, կա՛մ, մի՞թե, ո՞նց, որտե՞ղ, որքանո՞վ, Աբկա՜յ, Ամերիկա՞, Աստվա՜ծ, Աստվա՞ծ, Դո՞ւ, Է՜, Լե՞ցն, Կկարողանա՞, Հը՞, Սե՛մ, Քանի՜, Քանի՞, Օ՜, ա՛յլ, աշակերտեցե՛ք, առավելությո՞ւն, բա՛ց, բնո՞ւյթն, գերեզմանո՞ց, գնա՜ց.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -110,19 +110,19 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 </ul>
 
 <ul>
-<li>This corpus contains 37 word types tagged as particles (PART): Բարեբախտաբար, Ինչևէ, Հիրավի, Մի, Միայն, Նամանավանդ, Ցավոք, ահա, այնուամենայնիվ, այնուհանդերձ, ավելին, արդյոք, բնականաբար, գոնե, գուցե, գուցեև, դեռ, երևի, էլ, ընդամենը, ընդհակառակը, թեկուզ, թերևս, թող, իհարկե, ինչ, իրոք, հա, մանավանդ, միթե, նույնիսկ, ոչ, որ, չպիտի, պետք, պիտի, ևեթ</li>
+<li>This corpus contains 54 word types tagged as particles (PART): Ապրես, Բարեբախտաբար, Ինչևէ, Հիրավի, Նամանավանդ, Չէ, ահա, այնուամենայնիվ, այնուհանդերձ, անգամ, անշուշտ, ապա, ասես, ավելին, արդյոք, արի, ափսոս, բնականաբար, գոնե, գուցե, գուցեև, դեռ, երևի, է, էլ, ընդամենը, ընդհակառակը, թե, թեկուզ, թերևս, թող, իհարկե, ինչ, իրոք, կարծեմ, կարծես, կարծեք, հա, հապա, հաստատ, մանավանդ, մի, միայն, միգուցե, միթե, նախ, նույնիսկ, ոչ, որ, չպիտի, պետք, պիտի, ցավոք, ևեթ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): ամենայն, ամենը, ամենքը, այդ, այդմ, այդպես, այդպիսի, այդքան, այլ, այլն, այն, այնպիսի, այնտեղ, այս, այստեղ, այսքան, բոլորը, դա, դու, դուք, ես, ինչ, ինչպիսի, ինչքան, ինքը, իրար, իրարու, մեկը, մենք, միմյանց, մյուս, նա, նույն, ոմն, ոչինչ, ով, որ, որոշ, որտեղ, որքան, ուրիշ, ոք, սա, քանիսը, քո</li>
+<li>This corpus contains 50 lemmas tagged as pronouns (PRON): ամենայն, ամենը, ամենքը, այդ, այդմ, այդպես, այդպիսի, այդտեղ, այդքան, այլ, այլն, այն, այնպիսի, այնտեղ, այս, այստեղ, այսքան, բոլորը, դա, դու, դուք, ես, իմ, ինչ, ինչպիսի, ինչքան, ինքը, իրար, իրարու, մեկը, մենք, միմյանց, մյուս, նա, նույն, նույնպիսի, նրանց, ոմն, ոչինչ, ով, որ, որոշ, որտեղ, որքան, ուր, ուրիշ, ոք, սա, քանիսը, քո</li>
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as determiners (DET): ամբողջ, ամեն, ամենայն, այդ, այդպիսի, այլ, այլևայլ, այն, այնպիսի, այնքան, այս, այսպիսի, բոլոր, դա, դու, դուք, ես, ինչ, ինքը, իրար, մեկ, մենք, մի, մյուս, յուրաքանչյուր, նա, նորին, նույն, ողջ, ով, որ, որոշ, որևէ, ուրիշ, քանի</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): ամբողջ, ամեն, ամենայն, այդ, այդպիսի, այդքան, այլ, այլևայլ, այն, այնպիսի, այնքան, այս, այսպիսի, բոլոր, դա, դու, դուք, ես, ինչ, ինչպիսի, ինքը, իրար, մեկ, մենք, մի, մյուս, յուրաքանչյուր, նա, նորին, նույն, ողջ, ով, որ, որոշ, որևէ, ուրիշ, սույն, քանի</li>
 </ul>
 
 <ul>
-<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, այդ, այդպիսի, այլ, այն, այնպիսի, այս, դա, դու, դուք, ես, ինչ, ինքը, իրար, մենք, մյուս, նա, նույն, ով, որ, որոշ, ուրիշ</li>
+<li>Out of the above, 24 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, այդ, այդպիսի, այդքան, այլ, այն, այնպիսի, այս, դա, դու, դուք, ես, ինչ, ինչպիսի, ինքը, իրար, մենք, մյուս, նա, նույն, ով, որ, որոշ, ուրիշ</li>
 </ul>
 
 <ul>
@@ -140,7 +140,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: ընթանալիս, պատմելիս</li>
+    <li>VERB: անցնելիս, գնալիս, ընթանալիս, պատմելիս</li>
   </ul>
   </li>
 </ul>
@@ -148,8 +148,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
-    <li>VERB: ասաց, կա, չկա, ունի, տեսանք, ասես, կար, կարծես, ունեցավ, թվաց</li>
+    <li>AUX: է, էր, են, եմ, էին, չի, էինք, չէր, ենք, չեն</li>
+    <li>VERB: չկա, կա, ասաց, ունի, լինի, կան, նշեց, կար, ունեցավ, չունի</li>
   </ul>
   </li>
 </ul>
@@ -157,7 +157,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Gdv
   <ul>
-    <li>VERB: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+    <li>VERB: տեսնելու, անելու, առնելով, ելնելով, լինելով, տալով, դիտարկելով, համագործակցելով, նայելու, տալու</li>
   </ul>
   </li>
 </ul>
@@ -165,7 +165,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: անել, հասնել, լինել, տալ, ասել, գնալ, իրականացնել, ազատվել, սկսել, բերել</li>
+    <li>VERB: լինել, անել, տալ, գնալ, հասնել, անցնել, իրականացնել, հասկանալ, աշխատել, ասել</li>
   </ul>
   </li>
 </ul>
@@ -174,8 +174,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Part
   <ul>
     <li>ADJ: զբաղված</li>
-    <li>AUX: եղել, լինելու</li>
-    <li>VERB: տեսնում, նայում, դարձել, եղել, ուզում, տալիս, անում, գնում, կարծում, համարում</li>
+    <li>AUX: եղել, լինելու, լինում</li>
+    <li>VERB: ուզում, գալիս, տալիս, ասում, տեսնում, նայում, գնում, եղել, անում, նշված</li>
   </ul>
   </li>
 </ul>
@@ -191,8 +191,16 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Hum
     <ul>
-      <li>NOUN: կնոջ, Հայոց, կինը, մայր, Տ, աստված, ժողովուրդը, կանայք, աստծո, ժողովրդի</li>
-      <li>PROPN: Սիմեոնը, Կարեն, Սարգսյանի, Կարապետյանը, Սերժ, Հարութը, Վիգեն, Սարգսյանը, Մարտինը, Մարտինին</li>
+      <li>NOUN: մարդկանց, կինը, կնոջ, հայոց, մարդիկ, հայրերի, մարդ, մայր, մարդու, աստված</li>
+      <li>PROPN: Սիմեոնը, Կարեն, Սարգսյանի, Կարապետյանը, Սերժ, Հարութը, Նիկոլ, Վիգեն, Սարգսյանը, Արմեն</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inan
+    <ul>
+      <li>NOUN: լարումից, պահի</li>
     </ul>
   </li>
 </ul>
@@ -200,9 +208,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Nhum
     <ul>
-      <li>NOUN: անգամ, տարի, բան, օրը, ընթացքում, ժամանակ, դեպքում, թվականի, թ, հունվարին</li>
+      <li>NOUN: անգամ, բան, հանրապետության, տարի, դեպքում, տեղի, ժամանակ, օրը, ծրագրի, տարվա</li>
       <li>PRON: դրան</li>
-      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Հայաստան, Էջմիածնի, Իրանը, Հայաստանը, ԱՄՆ</li>
+      <li>PROPN: Հայաստանի, Հայաստանում, Իրանի, ՀՀ, Ադրբեջանի, Հայաստան, Իրանը, Կաթողիկեի, Էջմիածնի, Երևանի</li>
     </ul>
   </li>
 </ul>
@@ -214,7 +222,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Assoc
     <ul>
-      <li>PRON: ոմանք, Մերոնցից, մերոնք</li>
+      <li>NOUN: անձանց, անձանցից, անձինք</li>
+      <li>PRON: ոմանք, Մերոնցից, մերոնք, քոնոնք</li>
     </ul>
   </li>
 </ul>
@@ -222,9 +231,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Coll
     <ul>
-      <li>NOUN: զբոսաշրջության, ներկայիս, ներկայում, ներկայումս, բասկետբոլի, համերաշխության, վակուում, բնապահպանության, դողը, էներգետիկայի</li>
-      <li>PROPN: Արաքսի, Դանուբի, Եվրասիա</li>
-      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+      <li>NOUN: հյուսիս, հարավ, ապահովման, կառավարման, կառավարում, ներկայիս, զբոսաշրջության, ներկայում, ներկայումս, վաղվա</li>
+      <li>PROPN: Ասորիք, Ասորիքից, Հայք</li>
+      <li>VERB-Gdv: տեսնելու, անելու, առնելով, ելնելով, լինելով, տալով, դիտարկելով, համագործակցելով, նայելու, տալու</li>
     </ul>
   </li>
 </ul>
@@ -232,12 +241,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: են, էին, էինք, ենք, չեն, եք, չէինք, չէին, եղանք, չենք</li>
-      <li>DET: մեր, նրանց, իրենց, որոնց, նրանցից, որոնցից, դրանցից, Ձեզնից, դրանց, ձեր</li>
-      <li>NOUN: Հայոց, աչքերը, ՀԷԿ-երի, կանայք, օրերին, հարաբերությունները, մարդիկ, մարդկանց, տարիների, ուժերի</li>
-      <li>PRON: մենք, նրանք, նրանց, մեզ, որոնք, իրար, ովքեր, մեր, իրենց, որոնց</li>
-      <li>PROPN: Բալկաններում, Կարապետյանների</li>
-      <li>VERB-Fin: տեսանք, կան, չգիտեինք, գիտեինք, իջան, նշենք, մտածեցինք, մտանք, գիտենք, ունեն</li>
+      <li>AUX-Fin: են, էին, էինք, ենք, չեն, եք, չէին, չէինք, չենք, լինեն</li>
+      <li>DET: մեր, իրենց, նրանց, որոնց, ձեր, դրանց, որոնցից, Ձեզնից, դրանցից</li>
+      <li>NOUN: մարդկանց, հայոց, մարդիկ, հայրերի, տարիների, աչքերը, ՀԷԿ-երի, իրավունքների, կանայք, տարիներ</li>
+      <li>PRON: մենք, նրանք, նրանց, մեզ, որոնք, իրենց, նրանցից, դրանք, իրար, իրենք</li>
+      <li>PROPN: Բալկաններում, Կարապետյանների, իկարները, ձյուներից</li>
+      <li>VERB-Fin: կան, տեսանք, ունեն, գիտեինք, չկան, ունենք, չգիտեինք, իջան, մտանք, նշենք</li>
     </ul>
   </li>
 </ul>
@@ -245,12 +254,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: է, էր, չի, չէր, եմ, չէ, ես, կլինի, չեմ, ա</li>
-      <li>DET: իր, նրա, իմ, որի, դրա, քո, որից, ում, դրանից, դրանում</li>
-      <li>NOUN: անգամ, տարի, բան, օրը, ընթացքում, ժամանակ, դեպքում, կնոջ, թվականի, կինը</li>
-      <li>PRON: նա, ինչ, այն, դա, որը, նրան, ես, ով, այդ, ինքը</li>
-      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Սիմեոնը, Ադրբեջանի, Կարեն, Հայաստան, Սարգսյանի, Կարապետյանը</li>
-      <li>VERB-Fin: ասաց, կա, չկա, ունի, ասես, կար, կարծես, ունեցավ, թվաց, սկսեց</li>
+      <li>AUX-Fin: է, էր, եմ, չի, չէր, ես, չէ, էի, չեմ, ա</li>
+      <li>DET: իր, նրա, իմ, քո, որի, դրա, ում, դրանում, որից, քու</li>
+      <li>NOUN: անգամ, բան, հանրապետության, տարի, դեպքում, տեղի, ժամանակ, օրը, ծրագրի, տարվա</li>
+      <li>PRON: նա, ես, դա, ինչ, այն, ինձ, որը, նրան, ով, իրեն</li>
+      <li>PROPN: Հայաստանի, Հայաստանում, Իրանի, ՀՀ, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Սարգսյանի, Իրանը</li>
+      <li>VERB-Fin: չկա, կա, ասաց, ունի, լինի, նշեց, կար, ունեցավ, չունի, գիտեմ</li>
       <li>VERB-Gdv: տալուց</li>
     </ul>
   </li>
@@ -263,12 +272,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Abl
     <ul>
-      <li>ADP: ետևից, առջևից, միջից, վրայից</li>
-      <li>DET: նրանցից, որոնցից, դրանցից, որից, Ձեզնից, դրանից</li>
-      <li>NOUN: կողմից, քարից, երկրներից, կյանքից, կողքից, հետևից, քաղաքից, օրից, 1-ից, առաջնությունից</li>
-      <li>PRON: դրանից, դրանցից, իրարից, իրենից, նրանից, նրանցից, որից, որտեղից, Այստեղից, Մերոնցից</li>
-      <li>PROPN: Հայաստանից, Ադրբեջանից, Ալաշկերտից, ԲՀԿ-ից, Երևանից, Մոսկվայից, Պետրոսից, Պուտինից, Սսից</li>
-      <li>VERB-Gdv: գալով, Պարելուց, զանգահարելուց, զուլալվելուց, ընտրվելուց, լինելուց, լուծելուց, կիսվելուց, հանդիպելուց, մասնակցելուց</li>
+      <li>ADP: միջից, ետևից, առջևից, հետևից, վրայից, տակից</li>
+      <li>DET: որոնցից, Ձեզնից, դրանցից, որից</li>
+      <li>NOUN: կողմից, մեքենայից, քարից, աշխարհից, երկրից, կյանքից, քաղաքից, օրից, օրվանից, գյուղից</li>
+      <li>PRON: նրանցից, դրանից, դրանցից, իրենից, ամենից, նրանից, որտեղից, իրարից, որից, որոնցից</li>
+      <li>PROPN: Հայաստանից, Ադրբեջանից, Ալաշկերտից, Ասորիքից, ԲՀԿ-ից, Դսեղից, Երկրից, Երևանից, Իգնատից, Մարաթոնից</li>
+      <li>VERB-Gdv: գալով, լինելուց, Պարելուց, դնելուց, զանգահարելուց, զուլալվելուց, ընտրվելուց, լուծելուց, կիսվելուց, կորցնելուց</li>
     </ul>
   </li>
 </ul>
@@ -277,10 +286,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Dat
     <ul>
       <li>ADP: միջի</li>
-      <li>NOUN: կնոջ, թվականի, հունվարին, պահին, երկրի, թվականին, կյանքի, մարտի, ի, դոլարի</li>
-      <li>PRON: նրան, նրանց, մեզ, իրեն, ում, իրար, ինձ, իրենց, որի, որին</li>
-      <li>PROPN: Հայաստանի, Իրանի, Ադրբեջանի, Սարգսյանի, Էջմիածնի, Մարտինին, Երևանի, Մարտինի, Քրիստոսի, Կարապետյանի</li>
-      <li>VERB-Gdv: անելու, նայելու, տեսնելու, լինելու, մասնակցելու, տալու, բարձրացնելու, գալու, զբաղվելու, կալանավորելու</li>
+      <li>NOUN: հանրապետության, ծրագրի, տարվա, կյանքի, թվականի, աշխարհի, կառավարության, մարդկանց, կնոջ, երկրի</li>
+      <li>PRON: ինձ, նրան, նրանց, մեզ, իրեն, իրենց, քեզ, որի, իրար, ում</li>
+      <li>PROPN: Հայաստանի, Իրանի, Ադրբեջանի, Սարգսյանի, Կաթողիկեի, Էջմիածնի, Երևանի, Մարտինին, ԱՄՆ-ի, Մարտինի</li>
+      <li>VERB-Gdv: տեսնելու, անելու, նայելու, տալու, ապահովելու, ապրելու, ընդունելու, թաքցնելու, լինելու, մասնակցելու</li>
     </ul>
   </li>
 </ul>
@@ -288,10 +297,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Gen
     <ul>
-      <li>ADP: վրայի</li>
-      <li>DET: իր, մեր, նրա, նրանց, իրենց, իմ, որի, դրա, որոնց, քո</li>
-      <li>NOUN: Հայոց, վերջո</li>
-      <li>PRON: նրա, իր, մեր, դրա, Այսքանի, Ձեր, ամենի, բոլորի, մեկի, սրա</li>
+      <li>ADP: վրայի, մոտի</li>
+      <li>DET: մեր, իր, նրա, իրենց, իմ, նրանց, քո, որի, դրա, որոնց</li>
+      <li>NOUN: տեղի, հայոց, վերջո</li>
+      <li>PRON: դրա, իր, նրա, բոլորի, մեր, մեկի, իմ, քո, Այսքանի, Ձեր</li>
       <li>VERB-Gdv: մաքրելու</li>
     </ul>
   </li>
@@ -301,9 +310,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Ins
     <ul>
       <li>ADP: միջով, վրայով, տակով, առջևով, մոտով</li>
-      <li>NOUN: ուղղությամբ, իմաստով, պատճառով, խոսքով, ոտքով, առումով, կապակցությամբ, կարծիքով, հաշվով, միջոցով</li>
-      <li>PRON: որքանով, ինչքանով, իրենցով, որով</li>
-      <li>VERB-Gdv: լինելով, առնելով, դիմելով, ելնելով, համագործակցելով, չիմանալով, վկայակոչելով, Անդրադառնալով, ազատվելով, անելով</li>
+      <li>NOUN: պատճառով, ուղղությամբ, առումով, իմաստով, տեսքով, խոսքով, ով, ոտքով, կարծիքով, կապակցությամբ</li>
+      <li>PRON: ինչով, որով, որքանով, Նրանով, այդտեղով, ինչքանով, իրենցով, որոնցով</li>
+      <li>VERB-Gdv: առնելով, ելնելով, լինելով, տալով, դիտարկելով, համագործակցելով, անդրադառնալով, դատելով, դիմելով, ընդունելով</li>
     </ul>
   </li>
 </ul>
@@ -312,8 +321,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Loc
     <ul>
       <li>DET: դրանում</li>
-      <li>NOUN: ընթացքում, դեպքում, դաշտում, կյանքում, գծում, հարցում, տարածաշրջանում, գործնականում, երկրում, աշխարհում</li>
-      <li>PRON: որում</li>
+      <li>NOUN: դեպքում, ոլորտում, դաշտում, երկրում, կյանքում, կետում, հարցում, ընթացքում, աշխարհում, գործում</li>
+      <li>PRON: որում, մեկում</li>
       <li>PROPN: Հայաստանում, Էջմիածնում, Մոսկվայում, Ադրբեջանում, Խորվաթիայում, Կոստանդնուպոլսում, Կրեմլում, ՀՀԿ-ում, Փարիզում, Ֆրանսիայում</li>
     </ul>
   </li>
@@ -322,11 +331,11 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Nom
     <ul>
-      <li>ADP: մեջ, վրա, առաջ, տակ, մոտ, առջև, դիմաց, առաջներս</li>
-      <li>NOUN: անգամ, տարի, բան, օրը, ժամանակ, կինը, թ, մայր, օր, Տ</li>
-      <li>PRON: մենք, նա, նրանք, ինչ, դա, որը, ես, ով, որոնք, ինքը</li>
-      <li>PROPN: ՀՀ, Սիմեոնը, Կարեն, Հայաստան, Կարապետյանը, Սերժ, Հարութը, Վիգեն, Սարգսյանը, Իրանը</li>
-      <li>VERB-Gdv: ամրացնելն, անելը, բղավելը, գրավելն, դարձնելը, թոթափելն, խմելը, ծխելն, հաղթահարելը, հայտնվելն</li>
+      <li>ADP: մեջ, վրա, առաջ, տակ, մոտ, առջև, դիմաց, վրան, առաջներս, վրաս</li>
+      <li>NOUN: անգամ, բան, տարի, ժամանակ, օրը, թ, օր, տեղ, կինը, մարդիկ</li>
+      <li>PRON: նա, մենք, ես, դա, ինչ, նրանք, որը, որոնք, մեկը, ով</li>
+      <li>PROPN: ՀՀ, Հայաստան, Սիմեոնը, Կարեն, Իրանը, Կարապետյանը, Սերժ, Հարութը, Նիկոլ, Վիգեն</li>
+      <li>VERB-Gdv: հայտարարելը, հայտնվելն, ամրացնելն, անելը, անհայտանալը, անցնելը, բղավելը, բռնելը, գրավելն, դարձնելը</li>
     </ul>
   </li>
 </ul>
@@ -339,10 +348,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Def
     <ul>
-      <li>NOUN: օրը, կինը, հունվարին, պահին, թվականին, աչքերը, ը, տունը, ժողովուրդը, ճանապարհը</li>
-      <li>PRON: որը, նրան, ինչը, որն, որին, այնպիսին, ինչին, այդպիսին, մյուսին, ուրիշը</li>
-      <li>PROPN: Սիմեոնը, Կարապետյանը, Հարութը, Սարգսյանը, Իրանը, Հայաստանը, Մարտինը, Մարտինին, Եսային, Խեչոն</li>
-      <li>VERB-Gdv: ամրացնելն, ամրացնելուն, անելը, բղավելը, գրավելն, դարձնելը, ընդգրկվելուն, թոթափելն, լինելուն, խմելը</li>
+      <li>NOUN: օրը, կինը, հունվարին, պահին, թվականին, կառավարությունը, աչքերը, ը, ճանապարհը, մասը</li>
+      <li>PRON: որը, նրան, ինչը, որն, որին, ինչին, այնպիսին, ինչպիսին, այդպիսին, մյուսին</li>
+      <li>PROPN: Սիմեոնը, Իրանը, Կարապետյանը, Հարութը, Սարգսյանը, Հայաստանը, Մարտինը, Մարտինին, Փաշինյանը, Եսային</li>
+      <li>VERB-Gdv: հայտարարելը, հայտնվելն, Նստելուն, ամրացնելն, ամրացնելուն, անելը, անհայտանալը, անցնելը, բղավելը, բռնելը</li>
     </ul>
   </li>
 </ul>
@@ -350,12 +359,11 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Ind
     <ul>
-      <li>ADP: միջից</li>
       <li>DET: որից</li>
-      <li>NOUN: անգամ, տարի, բան, ընթացքում, ժամանակ, դեպքում, կնոջ, Հայոց, թվականի, թ</li>
-      <li>PRON: ինչ, որում, որի, ինչի, նրանից, որից, որքանով, ուրիշների, Այսքանի, ամենայնի</li>
-      <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Կարեն, Հայաստան, Սարգսյանի, Սերժ, Վիգեն</li>
-      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
+      <li>NOUN: անգամ, բան, հանրապետության, տարի, դեպքում, տեղի, ժամանակ, ծրագրի, տարվա, թ</li>
+      <li>PRON: ինչ, որի, որում, ինչի, ինչով, նրանից, որով, որից, ուրիշների, մյուսի</li>
+      <li>PROPN: Հայաստանի, Հայաստանում, Իրանի, ՀՀ, Ադրբեջանի, Հայաստան, Կարեն, Սարգսյանի, Սերժ, Նիկոլ</li>
+      <li>VERB-Gdv: տեսնելու, անելու, առնելով, ելնելով, լինելով, տալով, դիտարկելով, համագործակցելով, նայելու, տալու</li>
     </ul>
   </li>
 </ul>
@@ -378,9 +386,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: նոր, քաղաքական, մեծ, կարող, հայ, ազգային, սուրբ, առաջին, հնարավոր, կարևոր</li>
+      <li>ADJ: նոր, կարող, մեծ, հայ, քաղաքական, պետական, ազգային, առաջին, հնարավոր, շատ</li>
       <li>ADJ-Part: զբաղված</li>
-      <li>ADV: շատ, քիչ, արագ, կամաց, հաճախ, փոքր, մոտ, շուտ, անլուրջ, համառորեն</li>
+      <li>ADV: շատ, լավ, քիչ, հաճախ, արագ, երկար, փոքր, կամաց, մոտ, ուղիղ</li>
     </ul>
   </li>
 </ul>
@@ -388,8 +396,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: լավագույն, ամենաերկար, Ծայրագույն, ամենալավ, բարձրագույն, Ամենաթեժ, Ամենատարեց, ամենադժվար, ամենախոշոր, ամենակրքոտ</li>
-      <li>ADV: բարձրագույն</li>
+      <li>ADJ: լավագույն, բարձրագույն, ամենաերկար, Ծայրագույն, ամենալավ, կարևորագույն, Ամենաթեժ, Ամենատարեց, ամենաակտիվ, ամենաարատավոր</li>
+      <li>ADV: ամենաքիչը, բարձրագույն</li>
     </ul>
   </li>
 </ul>
@@ -401,12 +409,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: չի, չէր, չեն, չէ, չեմ, չէինք, չէին, չենք, չէի, չլինի</li>
-      <li>PART: Մի, չպիտի</li>
-      <li>VERB-Fin: չկա, չգիտեինք, չկար, չուներ, չունի, չգիտես, չգիտեր, չեղավ, չգիտեին, չգիտենք</li>
-      <li>VERB-Gdv: չիմանալով, չհավատալով, չտեսնելու, Չունենալով, չանցնելով, չընկնելով, չթողնելով, չհանդուրժելու, չհասկանալով, չմասնակցելը</li>
-      <li>VERB-Inf: չգնալ, չընկալել, չընտրել, չլինել, չմնալ, չմշակել, չտալ, չտեսնել</li>
-      <li>VERB-Part: չնայած, չունեցող, չնախատեսված, Չհաշված, չավարտվող, չլավացած, չծագած, չծնված, չմատակարարող, չվայելող</li>
+      <li>AUX-Fin: չի, չէր, չեն, չէ, չեմ, չէին, չէինք, չենք, չես, չէի</li>
+      <li>PART: մի, չպիտի</li>
+      <li>VERB-Fin: չկա, չունի, չկար, չկան, չգիտեինք, չուներ, չգիտես, չեղավ, չգիտեմ, չգիտեր</li>
+      <li>VERB-Gdv: չիմանալով, չհավատալով, չտեսնելու, Չունենալով, չանցնելով, չառնելով, չընկնելով, չթողնելով, չկատարելու, չհանդուրժելու</li>
+      <li>VERB-Inf: չտեսնել, չարագացնել, չգնալ, չընդունել, չընկալել, չընտրել, չլինել, չհամընկնել, չմնալ, չմշակել</li>
+      <li>VERB-Part: չպահանջվող, չաշխատող, չնախատեսված, չունեցող, չսովորող, Չհաշված, չավարտվող, չեղած, չլավացած, չծագած</li>
     </ul>
   </li>
 </ul>
@@ -414,12 +422,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Pos
     <ul>
-      <li>AUX-Fin: է, էր, են, էին, էինք, եմ, ենք, եք, ես, կլինի</li>
+      <li>AUX-Fin: է, էր, են, եմ, էին, էինք, ենք, ես, էի, եք</li>
       <li>PART: պետք, պիտի</li>
-      <li>VERB-Fin: ասաց, կա, ունի, տեսանք, ասես, կար, կարծես, ունեցավ, թվաց, կան</li>
-      <li>VERB-Gdv: լինելով, անելու, առնելով, նայելու, տեսնելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով</li>
-      <li>VERB-Inf: անել, հասնել, լինել, տալ, ասել, գնալ, իրականացնել, ազատվել, սկսել, բերել</li>
-      <li>VERB-Part: ունեցող, ընկած, կախված, ուղղված, ունեցած, կանգնած, նստած, կապված, անցած, գտնվող</li>
+      <li>VERB-Fin: կա, ասաց, ունի, լինի, կան, նշեց, կար, ունեցավ, տեսանք, գիտեմ</li>
+      <li>VERB-Gdv: տեսնելու, անելու, առնելով, ելնելով, լինելով, տալով, դիտարկելով, համագործակցելով, նայելու, տալու</li>
+      <li>VERB-Inf: լինել, անել, տալ, գնալ, հասնել, անցնել, իրականացնել, հասկանալ, աշխատել, ասել</li>
+      <li>VERB-Part: նշված, կանգնած, ունեցող, անցած, կախված, կապված, ունեցած, ընկած, ուղղված, նստած</li>
     </ul>
   </li>
 </ul>
@@ -436,8 +444,17 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Dur
     <ul>
       <li>AUX-Fin: լինեին</li>
+      <li>VERB-Fin: եղանք</li>
       <li>VERB-Inf: լինել</li>
-      <li>VERB-Part: ունեցող, գտնվող, գործող, կառուցվող, հասնող, նախորդող, չունեցող, ընկնող, թվացող, իշխող</li>
+      <li>VERB-Part: ունեցող, գտնվող, չպահանջվող, ապրող, առնչվող, գործող, եկող, թվացող, կառուցվող, հասնող</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dur,Iter
+    <ul>
+      <li>VERB-Part: դողդողացող</li>
     </ul>
   </li>
 </ul>
@@ -445,9 +462,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
-      <li>VERB-Fin: կա, չկա, ունի, կար, կան, չգիտեինք, չկար, ուներ, չուներ, չունի</li>
-      <li>VERB-Part: տեսնում, նայում, դարձել, ուզում, տալիս, անում, գնում, կարծում, համարում, ասում</li>
+      <li>AUX-Fin: է, էր, են, եմ, էին, չի, էինք, չէր, ենք, չեն</li>
+      <li>AUX-Part: լինում</li>
+      <li>VERB-Fin: չկա, կա, ունի, կան, կար, չունի, գիտեմ, ունեն, ուներ, չկար</li>
+      <li>VERB-Part: ուզում, գալիս, տալիս, ասում, տեսնում, նայում, գնում, անում, դարձել, կարծում</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +481,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Iter
     <ul>
-      <li>VERB-Gdv: քաշքշելու</li>
+      <li>VERB-Gdv: շվշվացնելով, ցատկոտելով, քաշքշելու</li>
     </ul>
   </li>
 </ul>
@@ -472,7 +490,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Iter,Perf
     <ul>
       <li>VERB-Fin: խոցոտեցին</li>
-      <li>VERB-Part: նստոտած, խնդմնդացել, փորփրել</li>
+      <li>VERB-Part: նստոտած, Պատառոտվել, խնդմնդացել, փորփրել</li>
     </ul>
   </li>
 </ul>
@@ -480,10 +498,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: եղանք, եղան, տվեց</li>
+      <li>AUX-Fin: եղան, տվեց</li>
       <li>AUX-Part: եղել</li>
-      <li>VERB-Fin: ասաց, տեսանք, ունեցավ, թվաց, սկսեց, տվեց, գնաց, եկավ, եղավ, իջան</li>
-      <li>VERB-Part: եղել, հայտարարել, եկել, ընկած, կախված, սկսել, ուղղված, ունեցած, անցել, կազմել</li>
+      <li>VERB-Fin: ասաց, նշեց, ունեցավ, տեսանք, եկավ, գնաց, թվաց, սկսեց, տվեց, անցավ</li>
+      <li>VERB-Part: եղել, նշված, կանգնած, եկել, անցած, կախված, կապված, հայտարարել, ունեցած, տեսել</li>
     </ul>
   </li>
 </ul>
@@ -491,7 +509,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Prog
     <ul>
-      <li>VERB-Conv: ընթանալիս, պատմելիս</li>
+      <li>VERB-Conv: անցնելիս, գնալիս, ընթանալիս, պատմելիս</li>
     </ul>
   </li>
 </ul>
@@ -499,10 +517,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Prosp
     <ul>
-      <li>AUX-Fin: կլինի, լինի, լիներ, չլինի, լինեինք, լինեն, կլիներ</li>
+      <li>AUX-Fin: կլինի, լինեն, լինի, լիներ, կլինեի, կլինենք, կլիներ</li>
       <li>AUX-Part: լինելու</li>
-      <li>VERB-Fin: ասես, կարծես, լինի, կդառնա, գիտեինք, լիներ, նշենք, կանցկացվի, ունենա, ԱՍԵ</li>
-      <li>VERB-Part: լինելու, անցկացնելու, անցնելիք, ապահովելու, ավելացնելու, գալու, գլխավորելու, դիպչելու, ընդունելու, ժառանգելու</li>
+      <li>VERB-Fin: լինի, լիներ, կլինի, կդառնա, ասեմ, կպարզվի, նշենք, ասենք, կանցկացվի, կտա</li>
+      <li>VERB-Part: լինելու, գալու, շարունակելու, ազատվելիք, անցկացնելու, անցնելիք, ապահովելու, ասելու, ավելացնելու, գլխավորելու</li>
     </ul>
   </li>
 </ul>
@@ -514,8 +532,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: կլինի, կլիներ</li>
-      <li>VERB-Fin: կդառնա, կանցկացվի, անցնի, կազդի, կանցնեն, կասեր, կբերի, կգար, կլինեն, կլինի</li>
+      <li>AUX-Fin: կլինի, կլինեի, կլինենք, կլիներ</li>
+      <li>VERB-Fin: կլինի, կդառնա, կպարզվի, կանցկացվի, կտա, կասեր, կգա, անցնի, կազդի, կանցնեն</li>
     </ul>
   </li>
 </ul>
@@ -523,7 +541,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: հիշեք, տարեք, Ասա, Լսիր, աշակերտեցեք, առեք, արեք, բաց, բացեք, գնացեք</li>
+      <li>VERB-Fin: տուր, արի, հիշեք, նայիր, տարեք, Ասա, Եկեք, Լսիր, Պատկերացրեք, Վերցրու</li>
     </ul>
   </li>
 </ul>
@@ -531,16 +549,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: է, էր, են, էին, չի, էինք, չէր, եմ, ենք, չեն</li>
-      <li>VERB-Fin: ասաց, կա, չկա, ունի, տեսանք, կար, ունեցավ, թվաց, կան, սկսեց</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Nec
-    <ul>
-      <li>PART: պետք, պիտի, չպիտի</li>
+      <li>AUX-Fin: է, էր, են, եմ, էին, չի, էինք, չէր, ենք, չեն</li>
+      <li>VERB-Fin: չկա, կա, ասաց, ունի, կան, նշեց, կար, ունեցավ, չունի, տեսանք</li>
     </ul>
   </li>
 </ul>
@@ -548,8 +558,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: լինի, լիներ, չլինի, լինեին, լինեինք, լինեն</li>
-      <li>VERB-Fin: ասես, կարծես, լինի, գիտեինք, լիներ, նշենք, ԱՍԵ, ասենք, գնա, գնան</li>
+      <li>AUX-Fin: լինեն, լինի, լիներ, լինեին</li>
+      <li>VERB-Fin: լինի, լիներ, ասեմ, նշենք, ասենք, գա, գնա, թողնենք, հիշենք, մահանա</li>
     </ul>
   </li>
 </ul>
@@ -561,9 +571,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: էր, էին, էինք, չէր, չէինք, չէին, էի, չէի, լիներ, էիր</li>
-      <li>VERB-Fin: կար, չգիտեինք, չկար, գիտեինք, լիներ, ուներ, չուներ, չգիտեր, գիտեի, գիտեր</li>
-      <li>VERB-Part: գիտակցում, հայտնում, հասցնում, հրահանգվում</li>
+      <li>AUX-Fin: էր, էին, էինք, չէր, էի, չէին, չէինք, չէի, էիր, լիներ</li>
+      <li>VERB-Fin: կար, ուներ, չկար, գիտեինք, լիներ, չգիտեինք, չուներ, գիտեր, գիտեի, կային</li>
+      <li>VERB-Part: բռնում, գիտակցում, հասցնում, հրահանգվում</li>
     </ul>
   </li>
 </ul>
@@ -571,8 +581,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: եղանք, եղան, տվեց</li>
-      <li>VERB-Fin: ասաց, տեսանք, ունեցավ, թվաց, սկսեց, տվեց, գնաց, եկավ, եղավ, իջան</li>
+      <li>AUX-Fin: եղան, տվեց</li>
+      <li>VERB-Fin: ասաց, նշեց, ունեցավ, տեսանք, եկավ, գնաց, թվաց, սկսեց, տվեց, անցավ</li>
     </ul>
   </li>
 </ul>
@@ -580,8 +590,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: է, են, չի, եմ, ենք, չեն, չէ, եք, ես, կլինի</li>
-      <li>VERB-Fin: կա, չկա, ունի, ասես, կարծես, կան, լինի, կդառնա, նշենք, կանցկացվի</li>
+      <li>AUX-Fin: է, են, եմ, չի, ենք, չեն, ես, չէ, չեմ, եք</li>
+      <li>VERB-Fin: չկա, կա, ունի, լինի, կան, չունի, գիտեմ, ունեն, կլինի, չկան</li>
       <li>VERB-Part: դիպչելու</li>
     </ul>
   </li>
@@ -595,10 +605,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Act
     <ul>
       <li>VERB-Conv: պատմելիս</li>
-      <li>VERB-Fin: ասաց, ունի, տեսանք, ասես, կարծես, ունեցավ, չգիտեինք, տվեց, գիտեինք, նշենք</li>
-      <li>VERB-Gdv: անելու, առնելով, տեսնելու, չիմանալով, վկայակոչելով, տալու, անելով, ասելով, բարձրացնելու, դիտարկելով</li>
-      <li>VERB-Inf: անել, տալ, ասել, իրականացնել, սկսել, բերել, դնել, ենթադրել, ուսումնասիրել, պատկերացնել</li>
-      <li>VERB-Part: տեսնում, ուզում, տալիս, անում, կարծում, համարում, հայտարարել, ունեցող, ասում, ունենում</li>
+      <li>VERB-Fin: ասաց, ունի, նշեց, ունեցավ, չունի, տեսանք, գիտեմ, ունեն, ուներ, գիտեինք</li>
+      <li>VERB-Gdv: տեսնելու, անելու, առնելով, տալով, դիտարկելով, տալու, ապահովելու, ընդունելով, ընդունելու, թաքցնելու</li>
+      <li>VERB-Inf: անել, տալ, իրականացնել, հասկանալ, ասել, բերել, անցնել, ապահովել, դնել, սկսել</li>
+      <li>VERB-Part: ուզում, տալիս, ասում, տեսնում, անում, կարծում, համարում, ունեցող, հիշում, հայտարարել</li>
     </ul>
   </li>
 </ul>
@@ -606,8 +616,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Cau
     <ul>
-      <li>VERB-Fin: Հիշեցնենք, խմեցրեց, կերցրեց, հասկացներ, հասկացրեց, հիշեցնի, հիշեցրին</li>
-      <li>VERB-Part: հնչեցրած, սովորեցրել</li>
+      <li>VERB-Fin: Հիշեցնենք, խմեցրեց, կերցրեց, հագցնի, հասկացներ, հասկացրեց, հիշեցնի, հիշեցրեց, հիշեցրին</li>
+      <li>VERB-Part: սովորեցրել, գոհացնում, խաղացրել</li>
     </ul>
   </li>
 </ul>
@@ -615,11 +625,11 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Conv: ընթանալիս</li>
-      <li>VERB-Fin: կա, չկա, կար, թվաց, կան, լինի, կդառնա, չկար, գնաց, եկավ</li>
-      <li>VERB-Gdv: լինելով, նայելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով, մասնակցելու, Անդրադառնալով, գալու</li>
-      <li>VERB-Inf: հասնել, լինել, գնալ, ազատվել, գալ, դառնալ, մեռնել, մոտենալ, աշխատել, ինքնամաքրվել</li>
-      <li>VERB-Part: նայում, դարձել, եղել, գնում, գալիս, եկել, ընկած, սպասում, կախված, թվում</li>
+      <li>VERB-Conv: անցնելիս, գնալիս, ընթանալիս</li>
+      <li>VERB-Fin: չկա, կա, լինի, կան, կար, եկավ, գնաց, թվաց, չկար, լիներ</li>
+      <li>VERB-Gdv: ելնելով, լինելով, համագործակցելով, նայելու, անդրադառնալով, ապրելու, գալով, դատելով, դիմելով, լինելու</li>
+      <li>VERB-Inf: լինել, գնալ, հասնել, աշխատել, գալ, ազատվել, հեռանալ, մոտենալ, մտնել, դառնալ</li>
+      <li>VERB-Part: գալիս, նայում, գնում, եղել, դարձել, կանգնած, թվում, եկել, կապված, մտնում</li>
     </ul>
   </li>
 </ul>
@@ -627,10 +637,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Fin: կանցկացվի, մատուցվեց, վերահաստատվեց, Կիրականացվի, Կներկայացվեն, անվանակոչվեց, առաջադրվի, արձակվեց, լիցքաթափվեց, կատարվեց</li>
-      <li>VERB-Gdv: ազատվելով, ընդգրկվելուն, ընտրվելուց, լուսավորվելով, ներգրավվելով, չնորոգվելով</li>
-      <li>VERB-Inf: ազատվել, ընտրվել, լցվել</li>
-      <li>VERB-Part: ուղղված, ստիպված, ստացվել, արտահանվել, կայացվել, կառուցվող, համարվում, ձգձգվում, ներմուծվել, նշված</li>
+      <li>VERB-Fin: կանցկացվի, կներկայացվեն, հանվեց, մատուցվեց, վերահաստատվեց, Կիրականացվի, անվանակոչվեց, առաջադրվի, արձակվեց, արտահայտվեց</li>
+      <li>VERB-Gdv: ընդգրկվելուն, ընտրվելուց, լուսավորվելով, ներգրավվելով, չնորոգվելով, չօտարվելու</li>
+      <li>VERB-Inf: տրորվել, ընտրվել, լուծվել, լցվել, ներկայացվել</li>
+      <li>VERB-Part: նշված, ուղղված, ստիպված, ստացվել, չպահանջվող, կայացվել, ավելացված, արտահանվել, դրված, կառուցվող</li>
     </ul>
   </li>
 </ul>
@@ -639,6 +649,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Rcp
     <ul>
       <li>VERB-Fin: գրկախառնվեցին</li>
+      <li>VERB-Part: գրկախառնված, համբուրվել</li>
     </ul>
   </li>
 </ul>
@@ -662,9 +673,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: այնքան, այդպես, այստեղ, այդքան, այնտեղ, նույնպես, այսպես, այնպես, էնքան, նույնքան</li>
-      <li>DET: այդ, այս, այն, մյուս, նույն, դրա, այդպիսի, այնպիսի, էն, էդ</li>
-      <li>PRON: այն, դա, այդ, սա, այս, դրանից, այդմ, այդպես, դրա, դրանք</li>
+      <li>ADV: այնքան, այդպես, այստեղ, այնպես, այսպես, այնտեղ, այդքան, նույնպես, էնքան, էդպես</li>
+      <li>DET: այդ, այս, այն, մյուս, նույն, սույն, դրա, այդպիսի, էս, էն</li>
+      <li>PRON: դա, այն, դրա, սա, այդ, դրանք, այդպես, այս, դրանից, դրանցից</li>
     </ul>
   </li>
 </ul>
@@ -673,7 +684,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Emp
     <ul>
       <li>DET: իր, իրենց</li>
-      <li>PRON: ինքը, իրեն, իր, ինքն, իրենց, իրենք, իրենից, ինքներս, իրենցով</li>
+      <li>PRON: իրեն, ինքը, իրենց, իր, ինքն, իրենք, իրենից, ինքներդ, ինքս, ինքդ</li>
     </ul>
   </li>
 </ul>
@@ -681,7 +692,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Exc
     <ul>
-      <li>ADV: ինչպես</li>
+      <li>ADV: ինչպես, որքան</li>
       <li>DET: ինչ, Քանի, այնպիսի, էդպիսի</li>
       <li>PRON: ինչ</li>
     </ul>
@@ -691,8 +702,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Ind
     <ul>
-      <li>DET: այլ, որևէ, որոշ, ուրիշ, այլևայլ, մեկ, մեկի</li>
-      <li>PRON: մեկը, այլն, ոք, մեկին, մեկն, ոմանք, ուրիշը, ուրիշների, այլոք, մեկի</li>
+      <li>DET: այլ, որևէ, ուրիշ, որոշ, մեկ, այլևայլ, մեկի</li>
+      <li>PRON: մեկը, այլն, մեկին, ոք, մեկի, մեկն, ուրիշների, ոմանք, ուրիշը, այլոց</li>
     </ul>
   </li>
 </ul>
@@ -700,9 +711,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Int
     <ul>
-      <li>ADV: ինչպես, երբ, ինչու, քանի, ինչքան, որտեղ, Որքան, ոնց</li>
-      <li>DET: ինչ, քանի, որ, ում</li>
-      <li>PRON: ինչ, ով, ում, ինչի, ինչին, որն, որքան, որքանով, ինչը, ինչքանով</li>
+      <li>ADV: ինչպես, ինչու, երբ, որքան, որտեղ, ինչքան, ուր, ոնց, Քանի, ինչի</li>
+      <li>DET: ինչ, քանի, որ, ինչպիսի, ում</li>
+      <li>PRON: ինչ, ով, ում, ինչի, ինչին, ինչով, ուր, որն, որտեղից, որքանով</li>
     </ul>
   </li>
 </ul>
@@ -718,8 +729,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Prs
     <ul>
-      <li>DET: մեր, նրա, նրանց, իմ, քո, նրանցից, Ձեզնից, ձեր, քու</li>
-      <li>PRON: մենք, նա, նրանք, նրան, նրանց, մեզ, ես, նրա, ինձ, մեր</li>
+      <li>DET: մեր, նրա, իմ, նրանց, քո, ձեր, Ձեզնից, քու</li>
+      <li>PRON: նա, մենք, ես, նրանք, ինձ, նրան, նրանց, մեզ, դու, նրանցից</li>
     </ul>
   </li>
 </ul>
@@ -728,7 +739,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Rcp
     <ul>
       <li>DET: իրար</li>
-      <li>PRON: իրար, իրարից, իրարու, միմյանց</li>
+      <li>PRON: իրար, իրարից, միմյանց, իրարու</li>
     </ul>
   </li>
 </ul>
@@ -736,9 +747,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: երբ, որտեղ, ինչպես, ուր, որքան, ինչքան</li>
-      <li>DET: որի, որոնց, որոնցից, որից, ինչի</li>
-      <li>PRON: որը, որոնք, ով, ովքեր, որում, ինչը, որի, որին, որոնց, որն</li>
+      <li>ADV: երբ, որտեղ, ուր, ինչպես, որքան, ինչքան</li>
+      <li>DET: որի, որոնց, որոնցից, ինչի, որից</li>
+      <li>PRON: որը, որոնք, ով, ինչը, որի, որում, ինչ, ովքեր, որին, որոնց</li>
     </ul>
   </li>
 </ul>
@@ -747,8 +758,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Tot
     <ul>
       <li>ADV: բոլորովին, մեկ</li>
-      <li>DET: ամեն, բոլոր, ամբողջ, ողջ, Ամենայն, յուրաքանչյուր</li>
-      <li>PRON: ամենը, բոլորը, բոլորս, ամենքիս, բոլորին, Բոլորդ, ամենայնի, ամենի, ամենից, ամենքս</li>
+      <li>DET: ամեն, բոլոր, ամբողջ, ողջ, ամենայն, յուրաքանչյուր</li>
+      <li>PRON: բոլորը, բոլորի, ամենից, բոլորս, ամենը, բոլորին, բոլորն, ամենին, ամենքիս, բոլորիս</li>
     </ul>
   </li>
 </ul>
@@ -760,9 +771,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Card
     <ul>
-      <li>ADJ: մեկ, յոթերորդ</li>
+      <li>ADJ: մեկ</li>
       <li>ADV: մեկ</li>
-      <li>NUM: երկու, հազար, մեկ, մլն, 2017, 2016, երեք, մի, 2, հարյուր</li>
+      <li>NUM: երկու, մի, մեկ, մլն, հազար, 2017, 2, 2016, երեք, մլրդ</li>
     </ul>
   </li>
 </ul>
@@ -771,7 +782,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Frac
     <ul>
       <li>ADJ: ⅛</li>
-      <li>NUM: 3.2, կես, 0.2, 13,99, 14,07, 176.7, 2,3, 2,7, 201.5, 210.4</li>
+      <li>NUM: 2,5, 3.2, 4,3, 4,5, 8,7, կես, 0.2, 1,2, 1,6, 13,99</li>
     </ul>
   </li>
 </ul>
@@ -779,7 +790,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: առաջին, երկրորդ, 5-րդ, Բ, 100-րդ, 11-րդ, 20-րդ, XX, երրորդ, 113-րդ</li>
+      <li>ADJ: առաջին, երկրորդ, 1-ին, 5-րդ, երրորդ, 3-րդ, չորրորդ, վեցերորդ, 16-րդ, 2-րդ</li>
     </ul>
   </li>
 </ul>
@@ -787,7 +798,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Range
     <ul>
-      <li>NUM: 12-13, 17-23, 1878-1943, 1990-1999, 2008-2012, 65-68, 7-10, մեկ-երկու</li>
+      <li>NUM: մեկ-երկու, 12-13, 17-23, 18-19, 65-68, 7-10, երեք-տասը</li>
     </ul>
   </li>
 </ul>
@@ -800,9 +811,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Yes
     <ul>
       <li>ADJ: հայոց, Հաչա, Մկաց, Կասպից, Սևանա, Հայաստանյայց, Սասնա, եպիսկոպոսաց</li>
-      <li>DET: իր, մեր, նրա, նրանց, իրենց, իմ, որի, դրա, որոնց, քո</li>
-      <li>NOUN: Փոքրինը, բոլորինն, իրերինը</li>
-      <li>PRON: քոնից</li>
+      <li>DET: մեր, իր, նրա, իրենց, իմ, նրանց, քո, որի, դրա, որոնց</li>
+      <li>NOUN: 2019-ինը, Փոքրինը, բոլորինն, իրերինը</li>
+      <li>PRON: Քոնը, իմն, նրանցն, քոնից, քոնոնք</li>
       <li>PROPN: Սևանինը</li>
     </ul>
   </li>
@@ -828,10 +839,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: էինք, եմ, չեմ, չէինք, էի, եղանք, չենք, չէի, լինեինք</li>
+      <li>AUX-Fin: եմ, էինք, էի, չեմ, չէինք, չենք, չէի, կլինեի, կլինենք</li>
       <li>DET: մեր, իմ</li>
-      <li>PRON: մենք, մեզ, ես, ինձ, մեր, մեզնից</li>
-      <li>VERB-Fin: տեսանք, չգիտեինք, գիտեինք, նշենք, մտածեցինք, մտանք, գիտենք, ունենք, ասենք, գիտեի</li>
+      <li>PRON: մենք, ես, ինձ, մեզ, մեր, իմ, ինձանից, իմն, մեզանից, մեզնից</li>
+      <li>VERB-Fin: տեսանք, գիտեմ, գիտեինք, ունենք, չգիտեինք, ասացի, ասեմ, մտանք, նշենք, ասենք</li>
     </ul>
   </li>
 </ul>
@@ -839,10 +850,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: եք, ես, էիր</li>
-      <li>DET: քո, Ձեզնից, ձեր, քու</li>
-      <li>PRON: դու, ձեզ, Դուք, Ձեր, քեզ, քոնից</li>
-      <li>VERB-Fin: ասես, կարծես, չգիտես, գիտեք, հիշեք, տարեք, քոռանաս, Ասա, Լսիր, Կասեք</li>
+      <li>AUX-Fin: ես, եք, չես, էիր, չեք, չէիր</li>
+      <li>DET: քո, ձեր, Ձեզնից, քու</li>
+      <li>PRON: դու, քեզ, ձեզ, դուք, քո, Ձեր, Քոնը, քոնից, քոնոնք</li>
+      <li>VERB-Fin: չգիտես, տուր, արի, գիտեք, հիշեք, նայիր, չունես, տարեք, քոռանաս, Ասա</li>
     </ul>
   </li>
 </ul>
@@ -850,10 +861,10 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: է, էր, են, էին, չի, չէր, ենք, չեն, չէ, կլինի</li>
-      <li>DET: իր, նրա, նրանց, իրենց, նրանցից</li>
-      <li>PRON: նա, նրանք, նրան, նրանց, ինքը, իրեն, նրա, իր, ինքն, իրենց</li>
-      <li>VERB-Fin: ասաց, կա, չկա, ունի, կար, ունեցավ, թվաց, կան, սկսեց, լինի</li>
+      <li>AUX-Fin: է, էր, են, էին, չի, չէր, ենք, չեն, չէ, չէին</li>
+      <li>DET: իր, նրա, իրենց, նրանց</li>
+      <li>PRON: նա, նրանք, նրան, նրանց, իրեն, ինքը, իրենց, իր, նրանցից, նրա</li>
+      <li>VERB-Fin: չկա, կա, ասաց, ունի, լինի, կան, նշեց, կար, ունեցավ, չունի</li>
     </ul>
   </li>
 </ul>
@@ -873,8 +884,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Infm
     <ul>
-      <li>DET: քո, Ձեզնից, ձեր, քու</li>
-      <li>PRON: դու, ձեզ</li>
+      <li>DET: քո, ձեր, Ձեզնից, քու</li>
+      <li>PRON: դու, քեզ, ձեզ, դուք, Քոնը, քոնից, քոնոնք</li>
     </ul>
   </li>
 </ul>
@@ -888,8 +899,8 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
   <li>Plur
     <ul>
       <li>ADP: առաջներս</li>
-      <li>NOUN: ոտքներիս, ականջներիս, աշակերտներս, մտքներով, ողնաշարներիս, ուսանողներիս, քթներիս</li>
-      <li>PRON: ինքներս</li>
+      <li>NOUN: ոտքներիս, ականջներիս, աշակերտներս, ձեռքները, ձեռքներիցս, մտքներով, ողնաշարներիս, ունքներին, ուսանողներիս, քթներիս</li>
+      <li>PRON: ինքներդ, ինքներս</li>
     </ul>
   </li>
 </ul>
@@ -897,9 +908,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: վրան</li>
-      <li>NOUN: ներկայիս, ներկայումս, պապս, օրերս, վերջերս, Բուռդիկս, Զավակներս, Հայրդ, Հայրս, Սնդուկիդ</li>
-      <li>PRON: քոնից</li>
+      <li>ADP: վրան, հետն, վրաս</li>
+      <li>NOUN: հայրս, հորս, մորս, մայրս, պապս, քեռիս, ընկերոջս, խոսքս, պապիս, անունս</li>
+      <li>PRON: ինքս, իմն, ինքդ, քոնից</li>
       <li>PROPN: Սևանինը</li>
       <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
     </ul>
@@ -914,11 +925,11 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Ս</li>
+          <li>ADJ: Ս, Ն, Ա, հայ</li>
           <li>DET: Ն</li>
-          <li>NOUN: թ, Տ, ՀԷԿ-երի, խմ, Օ, թթ, մլրդ, պրն, սմ-ով, Գավկոմի</li>
+          <li>NOUN: թ, Տ, ՀԷԿ-երի, խմ, Օ, գյուղմասին, թթ, կոլխոզի, մլրդ, պրն</li>
           <li>NUM: մլն, մլրդ</li>
-          <li>PROPN: ՀՀ, ԱՄՆ, Արմենպրես, ՀՀԿ, ԱՄՆ-ի, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, ՀՀԿ-ում</li>
+          <li>PROPN: ՀՀ, ԱՄՆ, ԱՄՆ-ի, Արմենպրես, ՀՀԿ, ՊԲ, ԱԺ, ՀՀԿ-ի, ԵԱՀԿ, ՀՀԿ-ում</li>
           <li>VERB-Part: ծնվ</li>
           <li>X: AGBU, CBC, FLEX, IVLP, UCLA</li>
         </ul>
@@ -937,12 +948,12 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
       </li>
       <li>Post
         <ul>
-          <li>ADP: համար, հետ, մասին, մեջ, հետո, վրա, դեմ, առաջ, տակ, պես</li>
+          <li>ADP: համար, հետ, մասին, մեջ, հետո, վրա, պես, նկատմամբ, դեմ, առաջ</li>
         </ul>
       </li>
       <li>Prep
         <ul>
-          <li>ADP: որպես, մինչև, ըստ, ի, դեպի, բացի, առանց, մինչ, ընդ, առ</li>
+          <li>ADP: որպես, մինչև, առանց, ի, դեպի, ըստ, բացի, չնայած, մինչ, սկսած</li>
         </ul>
       </li>
     </ul>
@@ -954,7 +965,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Comp
         <ul>
-          <li>CCONJ: նաև, կամ, այլ, եթե, ապա, ինչպես, այլև, այնպես</li>
+          <li>CCONJ: նաև, կամ, այլ, ապա, եթե, ինչպես, այլև, այնպես</li>
         </ul>
       </li>
     </ul>
@@ -966,7 +977,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Yes
         <ul>
-          <li>VERB-Fin: անցնի, մնա, առաջադրվի, դիմանա, զարմանա, զոռի, թեթևանա, իմանա, խնայի, հասցվի</li>
+          <li>VERB-Fin: անցնի, մնա, առաջադրվի, դիմանա, զարմանա, զոռի, թեթևանա, իմանա, լինի, խնայի</li>
         </ul>
       </li>
     </ul>
@@ -978,23 +989,23 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Dist
         <ul>
-          <li>ADV: այնքան, այնտեղ, այնպես, էնքան, էնպես</li>
-          <li>DET: այն, մյուս, նույն, այնպիսի, էն, Ն, Նորին, այնքան</li>
-          <li>PRON: այն, այնպիսին, մյուսին, այնտեղից, դրան, մյուսը, մյուսները, նույնը</li>
+          <li>ADV: այնքան, այնպես, այնտեղ, էնքան, էնպես</li>
+          <li>DET: այն, մյուս, նույն, էն, այնպիսի, Ն, այնքան, Նորին</li>
+          <li>PRON: այն, այնպիսին, այնտեղից, դրան, մյուսի, մյուսին, էնպիսիք, մյուսը, մյուսները, նույնը</li>
         </ul>
       </li>
       <li>Med
         <ul>
-          <li>ADV: այդպես, այդքան</li>
-          <li>DET: այդ, դրա, այդպիսի, էդ, դրանցից, դրանից, դրանում, դրանց, էդպիսի</li>
-          <li>PRON: դա, այդ, դրանից, այդմ, այդպես, դրա, դրանք, դրանցից, այդպիսին, Այդքանն</li>
+          <li>ADV: այդպես, այդքան, էդպես, Էդքան</li>
+          <li>DET: այդ, դրա, այդպիսի, էդ, դրանց, այդքան, դրանում, դրանցից, էդպիսի</li>
+          <li>PRON: դա, դրա, այդ, դրանք, այդպես, դրանից, դրանցից, դրանց, այդմ, այդպիսին</li>
         </ul>
       </li>
       <li>Prox
         <ul>
-          <li>ADV: այստեղ, այսպես, այս</li>
-          <li>DET: այս, էս, այսպիսի</li>
-          <li>PRON: սա, այս, Այստեղից, Այսքանի, Սրանք, սրա, սրանից</li>
+          <li>ADV: այստեղ, այսպես, այս, այսչափ, այսքան</li>
+          <li>DET: այս, սույն, էս, այսպիսի</li>
+          <li>PRON: սա, այս, Այստեղից, Այսքանի, Սրանք, այստեղի, այսքանը, սրա, սրանից</li>
         </ul>
       </li>
     </ul>
@@ -1006,7 +1017,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Ech
         <ul>
-          <li>ADJ: լեփ</li>
+          <li>ADJ: լեփ, մոլոր, մուճուճ, շիփ</li>
           <li>NOUN: փուլուսը</li>
           <li>X: տարեց</li>
         </ul>
@@ -1020,6 +1031,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Yes
         <ul>
+          <li>PUNCT: !</li>
           <li>X: Յելլ, Daily, Nas, Reuters, ZipLine, Allianplace, Area, Arik, Beatman, Big</li>
         </ul>
       </li>
@@ -1032,7 +1044,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, քրիստոնեա</li>
+          <li>ADJ: արցախա, իրանա, ռազմա, պաթոսա, պատմա, տնտեսա, սոցիալ, քրիստոնեա</li>
           <li>ADV: այս</li>
         </ul>
       </li>
@@ -1051,33 +1063,33 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
       <li>Geo
         <ul>
           <li>ADJ: Հաչա, Մկաց, Սևանա, Սասնա</li>
-          <li>NOUN: Ամերիկայի</li>
-          <li>PROPN: Հայաստանի, Իրանի, ՀՀ, Հայաստանում, Ադրբեջանի, Հայաստան, Էջմիածնի, Իրանը, Հայաստանը, ԱՄՆ</li>
+          <li>NOUN: Ամերիկայի, Չինաստանի</li>
+          <li>PROPN: Հայաստանի, Հայաստանում, Իրանի, ՀՀ, Ադրբեջանի, Հայաստան, Իրանը, Էջմիածնի, Երևանի, Հայաստանը</li>
         </ul>
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: Սիմեոնը, Կարեն, Սերժ, Հարութը, Վիգեն, Մարտինը, Մարտինին, Եսային, Խեչոն, Մարտինի</li>
+          <li>PROPN: Սիմեոնը, Կարեն, Սերժ, Հարութը, Նիկոլ, Վիգեն, Արմեն, Մարտինը, Մարտինին, Եսային</li>
         </ul>
       </li>
       <li>Oth
         <ul>
-          <li>PROPN: Կրեմլում, Սոֆիայի, Կրեմլի, Տլիմսեն</li>
+          <li>PROPN: Կաթողիկեի, Կաթողիկե, Կաթողիկեն, Կրեմլում, Սոֆիայի, Կրեմլի, Տլիմսեն</li>
         </ul>
       </li>
       <li>Pro
         <ul>
-          <li>PROPN: 24, Դ-30, Դ-44, Զապո, Զապորոժեց, Կալաշնիկով, Շիլկայի</li>
+          <li>PROPN: 24, Դ-30, Դ-44, Զապո, Զապորոժեց, Կալաշնիկով, Շիլկայի, Ուազիկը</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: Քրիստոսի, Քրիստոս, Նարեկացի, Չիրո, Ադոնիսի, Ամադեուս, Դոմեստիանոս, Լուսավորիչ, Կոմիտաս, Կոստաս</li>
+          <li>PROPN: Քրիստոսի, Գումբա, Կուպա, Մարիո, Քրիստոս, Կիկոս, Նարեկացի, Չիրո, ծիպ, Ադոնիսի</li>
         </ul>
       </li>
       <li>Sur
         <ul>
-          <li>PROPN: Սարգսյանի, Կարապետյանը, Սարգսյանը, Կարապետյանի, Չալդրանյանը, Մուրակամին, Սահակյանը, Սարգսյանն, Բլաժևիչը, Եսայանի</li>
+          <li>PROPN: Սարգսյանի, Կարապետյանը, Սարգսյանը, Փաշինյանը, Կարապետյանի, Չալդրանյանը, Աբովյան, Մուրակամին, Սահակյանը, Սարգսյանն</li>
         </ul>
       </li>
     </ul>
@@ -1094,18 +1106,23 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
       </li>
       <li>Digit
         <ul>
-          <li>ADJ: 5-րդ, 11-րդ, 20-րդ, 48-ամյա, 113-րդ, 15-րդ, ⅛</li>
-          <li>NOUN: 21-ի, 6-ին, 7-ի, 1-ից, 20-ին, 2008-ին, 2016-ի, 2018-ի, 21-ին, 22-ի</li>
-          <li>NUM: 2017, 2016, 2, 2018, 30, 06, 1941, 2013, 2015, 24</li>
+          <li>ADJ: 1-ին, 5-րդ, 3-րդ, 16-րդ, 2-րդ, 11-րդ, 129-ամյա, 1970-ական, 20-րդ, 33-րդ</li>
+          <li>NOUN: 2018-ի, 2016-ի, 2017-ի, 21-ի, 6-ին, 7-ի, 1-ից, 20-ին, 2008-ին, 2018-ին</li>
+          <li>NUM: 2017, 2, 2016, 2018, 1, 30, 2019, 06, 1941, 2013</li>
           <li>PROPN: 24</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>ADJ: XX</li>
         </ul>
       </li>
       <li>Word
         <ul>
-          <li>ADJ: առաջին, երկրորդ, հինգհազարանոց, երրորդ, Չորրորդ, մեկ, յոթերորդ, վեցերորդ, քսաներորդ</li>
+          <li>ADJ: առաջին, երկրորդ, երրորդ, չորրորդ, հինգհազարանոց, վեցերորդ, հինգերորդ, յոթերորդ, մեկ, ութերորդ</li>
           <li>ADV: մեկ</li>
-          <li>NOUN: առաջինը, մեկը, մեկի, երկուսը, երկուսով, մեկն, երեսունի, երեք, մլն-ից, յոթին</li>
-          <li>NUM: երկու, հազար, մեկ, մլն, երեք, մի, հարյուր, մլրդ, տասը, միլիոն</li>
+          <li>NOUN: առաջինը, երկուսը, մեկը, մեկի, երկուսով, մեկն, Երեսունն, երեսունի, երեք, հարյուրը</li>
+          <li>NUM: երկու, մի, մեկ, մլն, հազար, երեք, մլրդ, չորս, միլիոն, տասը</li>
         </ul>
       </li>
     </ul>
@@ -1117,21 +1134,21 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>1
         <ul>
-          <li>ADP: առաջներս</li>
-          <li>NOUN: ոտքներիս, ուսանողներս, պապս, Բուռդիկս, Զավակներս, Հայրս, ականջներիս, աշակերտներս, բառիս, գլուխս</li>
-          <li>PRON: բոլորս, ամենքիս, ամենքս, բոլորիս, ինքներս, մեկս</li>
+          <li>ADP: առաջներս, վրաս</li>
+          <li>NOUN: հայրս, հորս, մորս, մայրս, ներկայիս, պապս, քեռիս, ներկայումս, ընկերոջս, խոսքս</li>
+          <li>PRON: բոլորս, ամենքիս, բոլորիս, ինքս, ամենքս, ինքներս, մեկս</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>NOUN: Հայրդ, Սնդուկիդ, ձեռդ, մայրդ, ուզածդ, քեֆդ</li>
-          <li>PRON: Բոլորդ</li>
+          <li>NOUN: Հայրդ, Հույսդ, Մամայիդ, Սնդուկիդ, այտերդ, դեմքդ, ընկերուհուդ, կյանքդ, հոգուդ, ձեռդ</li>
+          <li>PRON: ինքներդ, Բոլորդ, ինքդ</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADP: վրան</li>
-          <li>NOUN: կրակն, մտքներով</li>
+          <li>ADP: վրան, հետն</li>
+          <li>NOUN: ձեռքները, մտքներով, ունքներին</li>
           <li>VERB-Gdv: հանդիպելը, մեկնելն</li>
         </ul>
       </li>
@@ -1144,36 +1161,41 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Arch
         <ul>
-          <li>ADJ: Հայաստանյայց, եպիսկոպոսաց</li>
+          <li>ADJ: խորին, հուպ, Հայաստանյայց, եպիսկոպոսաց</li>
           <li>ADP: ընդ, դեմս, դեպ, հիման</li>
-          <li>ADV: տեղի, քանիցս, վերուստ</li>
-          <li>DET: Ամենայն, Ն, Նորին</li>
-          <li>NOUN: Հայոց, աստծո, կայսեր, հիման, ռազմի, վերջո, զօր, ծնե, հանկարծակիի, պարեգոտն</li>
-          <li>PRON: ամենայնի, այլոք</li>
+          <li>ADV: քանիցս, վերուստ</li>
+          <li>DET: ամենայն, Ն, Նորին</li>
+          <li>NOUN: տեղի, հայոց, աստծո, կայսեր, հիման, ռազմի, վերջո, Աստծուն, Հուսով, գլխեն</li>
+          <li>PRON: ամենայնի, այլոց, այլոք</li>
           <li>X: նկատի</li>
         </ul>
       </li>
       <li>Coll
         <ul>
-          <li>ADV: էնքան, էնպես, ոնց</li>
+          <li>ADJ: հորինովի, պոպուլյար</li>
+          <li>ADV: ոնց, էնքան, էդպես, Էդքան, էնպես</li>
           <li>AUX-Fin: ա</li>
-          <li>DET: էն, էդ, էս, էդպիսի, քու</li>
-          <li>NOUN: Գյուղացիք, Էրեխու, հերն, ձենն, ձեռդ, ձեռի, ձնով, ճամփին, մուննաթ, չալմայով</li>
+          <li>DET: էս, էն, էդ, էդպիսի, քու</li>
+          <li>NOUN: հերն, սապոգների, տղերք, Գյուղացիք, Էրեխու, Մորքուրներս, ձենն, ձեռդ, ձեռի, ձնով</li>
           <li>NUM: տաս</li>
-          <li>PROPN: 24, Զապո</li>
-          <li>VERB-Fin: բերիր, դրին, զոռի, էղավ, թափի, նայի</li>
+          <li>PRON: էնպիսիք</li>
+          <li>PROPN: 24, Զապո, Ուազիկը</li>
+          <li>VERB-Fin: բերիր, դրին, զոռի, էկան, էղավ, թափի, թռի, նայի, տշեինք</li>
           <li>VERB-Part: սառած, սլքտող</li>
         </ul>
       </li>
       <li>Expr
         <ul>
+          <li>ADJ: ջան</li>
           <li>NOUN: աղջնակ</li>
+          <li>PROPN: Ար, Կիտոն, Սաքոն, Կի, Կիտո</li>
         </ul>
       </li>
       <li>Rare
         <ul>
           <li>ADJ: կարավանային</li>
-          <li>NOUN: շուրջը, ծունր, կուլ, շուրջն</li>
+          <li>ADV: Ուրկից</li>
+          <li>NOUN: կուլ, շուրջը, փոխարենը, ծունր, շուրջն</li>
           <li>PRON: այդմ</li>
           <li>PROPN: Սսից</li>
           <li>X: տարեց</li>
@@ -1181,18 +1203,22 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
       </li>
       <li>Slng
         <ul>
-          <li>NOUN: պանյատները, տուֆտային</li>
+          <li>NOUN: մենթերի, մենթերը, ատեցների, ատեցս, մենթին, պանյատները, ջահելներ, ջահելներից, տուֆտային</li>
         </ul>
       </li>
       <li>Vrnc
         <ul>
-          <li>ADV: քռքաշ</li>
-          <li>NOUN: Աղբրի, բուռդիկը, Բազարի, Բուռդիկս, ԳԵՇ, բուռդիկ, եթիմ, թրիքը, հեսիրն, հնդուշկի</li>
+          <li>ADJ: Սաղ</li>
+          <li>ADV: քռքաշ, մանկուց</li>
+          <li>INTJ: Բա, այտա</li>
+          <li>NOUN: Աղբրի, բուռդիկը, Բազարի, Բուռդիկս, ԳԵՇ, ախպերները, բուռդիկ, եթիմ, թրիքը, խելառի</li>
           <li>PRON: իրարու</li>
-          <li>PROPN: Էրիվան, Էրիվանի</li>
-          <li>VERB-Fin: ԱՍԵ, ԽԱՐԴԱԽԵ, ղժաց</li>
+          <li>PROPN: Ալեքպոլ, Էրիվան, Էրիվանի</li>
+          <li>VERB-Fin: ԱՍԵ, ԽԱՐԴԱԽԵ, հարցրի, ղժաց, չկարեցավ</li>
           <li>VERB-Gdv: լղզելով, քխկալով</li>
-          <li>VERB-Part: ղժում, փխլվում</li>
+          <li>VERB-Inf: լխճել</li>
+          <li>VERB-Part: ղժում, մարմրում, փխլվում</li>
+          <li>X: ման, յոլա</li>
         </ul>
       </li>
       <li>Vulg
@@ -1209,20 +1235,20 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
     <ul>
       <li>Intr
         <ul>
-          <li>VERB-Conv: ընթանալիս</li>
-          <li>VERB-Fin: կա, չկա, կար, թվաց, կան, լինի, կդառնա, չկար, գնաց, եկավ</li>
-          <li>VERB-Gdv: լինելով, նայելու, գալով, դիմելով, ելնելով, լինելու, համագործակցելով, մասնակցելու, Անդրադառնալով, ազատվելով</li>
-          <li>VERB-Inf: հասնել, լինել, գնալ, ազատվել, գալ, դառնալ, մեռնել, մոտենալ, աշխատել, ինքնամաքրվել</li>
-          <li>VERB-Part: նայում, դարձել, եղել, գնում, գալիս, եկել, ընկած, կախված, սպասում, ուղղված</li>
+          <li>VERB-Conv: անցնելիս, գնալիս, ընթանալիս</li>
+          <li>VERB-Fin: չկա, կա, լինի, կան, կար, եկավ, գնաց, թվաց, չկար, լիներ</li>
+          <li>VERB-Gdv: ելնելով, լինելով, համագործակցելով, նայելու, անդրադառնալով, ապրելու, գալով, դատելով, դիմելով, լինելու</li>
+          <li>VERB-Inf: լինել, գնալ, հասնել, աշխատել, գալ, ազատվել, հեռանալ, մոտենալ, մտնել, դառնալ</li>
+          <li>VERB-Part: գալիս, նայում, գնում, եղել, նշված, դարձել, կանգնած, թվում, եկել, կախված</li>
         </ul>
       </li>
       <li>Tran
         <ul>
           <li>VERB-Conv: պատմելիս</li>
-          <li>VERB-Fin: ասաց, ունի, տեսանք, ասես, կարծես, ունեցավ, չգիտեինք, տվեց, գիտեինք, նշենք</li>
-          <li>VERB-Gdv: անելու, առնելով, տեսնելու, չիմանալով, վկայակոչելով, տալու, անելով, ասելով, բարձրացնելու, դիտարկելով</li>
-          <li>VERB-Inf: անել, տալ, ասել, իրականացնել, սկսել, բերել, դնել, ենթադրել, ուսումնասիրել, պատկերացնել</li>
-          <li>VERB-Part: տեսնում, ուզում, տալիս, անում, կարծում, համարում, հայտարարել, ունեցող, ասում, ունենում</li>
+          <li>VERB-Fin: ասաց, ունի, նշեց, ունեցավ, չունի, տեսանք, գիտեմ, ունեն, ուներ, գիտեինք</li>
+          <li>VERB-Gdv: տեսնելու, անելու, առնելով, տալով, դիտարկելով, տալու, ապահովելու, ընդունելով, ընդունելու, թաքցնելու</li>
+          <li>VERB-Inf: անել, տալ, իրականացնել, հասկանալ, ասել, բերել, անցնել, ապահովել, դնել, սկսել</li>
+          <li>VERB-Part: ուզում, տալիս, ասում, տեսնում, անում, կարծում, համարում, ունեցող, հիշում, հայտարարել</li>
         </ul>
       </li>
     </ul>
@@ -1252,11 +1278,11 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: եմ, լինել.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: եմ.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինել, պետք, պիտի.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: եմ, լինել.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1265,16 +1291,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Nom (260)</li>
-      <li>VERB-Fin--PRON (7)</li>
-      <li>VERB-Fin--PRON-Nom (119)</li>
-      <li>VERB-Gdv--NOUN-Nom (3)</li>
+      <li>VERB-Fin--NOUN-Nom (410)</li>
+      <li>VERB-Fin--PRON (13)</li>
+      <li>VERB-Fin--PRON-Abl (1)</li>
+      <li>VERB-Fin--PRON-Nom (183)</li>
+      <li>VERB-Gdv--NOUN-Nom (7)</li>
+      <li>VERB-Gdv--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Nom (347)</li>
-      <li>VERB-Part--PRON (13)</li>
-      <li>VERB-Part--PRON-Nom (157)</li>
+      <li>VERB-Part--NOUN-Nom (558)</li>
+      <li>VERB-Part--PRON (16)</li>
+      <li>VERB-Part--PRON-Nom (268)</li>
     </ul>
   </li>
 </ul>
@@ -1282,29 +1308,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (36)</li>
-      <li>VERB-Fin--NOUN-Nom (179)</li>
-      <li>VERB-Fin--PRON (12)</li>
-      <li>VERB-Fin--PRON-Dat (23)</li>
-      <li>VERB-Fin--PRON-Nom (13)</li>
-      <li>VERB-Gdv--NOUN-Dat (26)</li>
-      <li>VERB-Gdv--NOUN-Nom (117)</li>
-      <li>VERB-Gdv--PRON (4)</li>
-      <li>VERB-Gdv--PRON-Dat (5)</li>
+      <li>VERB-Fin--NOUN-Dat (53)</li>
+      <li>VERB-Fin--NOUN-Nom (279)</li>
+      <li>VERB-Fin--PRON (14)</li>
+      <li>VERB-Fin--PRON-Dat (36)</li>
+      <li>VERB-Fin--PRON-Nom (17)</li>
+      <li>VERB-Gdv--NOUN-Dat (36)</li>
+      <li>VERB-Gdv--NOUN-Nom (192)</li>
+      <li>VERB-Gdv--PRON (5)</li>
+      <li>VERB-Gdv--PRON-Dat (7)</li>
       <li>VERB-Gdv--PRON-Gen (1)</li>
       <li>VERB-Gdv--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Dat (24)</li>
-      <li>VERB-Inf--NOUN-Nom (93)</li>
-      <li>VERB-Inf--PRON (5)</li>
-      <li>VERB-Inf--PRON-Dat (6)</li>
+      <li>VERB-Inf--NOUN-Dat (34)</li>
+      <li>VERB-Inf--NOUN-Nom (149)</li>
+      <li>VERB-Inf--PRON (6)</li>
+      <li>VERB-Inf--PRON-Dat (13)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Dat (78)</li>
-      <li>VERB-Part--NOUN-Nom (287)</li>
-      <li>VERB-Part--PRON (6)</li>
-      <li>VERB-Part--PRON-Dat (54)</li>
+      <li>VERB-Part--NOUN-Dat (130)</li>
+      <li>VERB-Part--NOUN-Nom (455)</li>
+      <li>VERB-Part--PRON (8)</li>
+      <li>VERB-Part--PRON-Dat (87)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (26)</li>
+      <li>VERB-Part--PRON-Nom (34)</li>
     </ul>
   </li>
 </ul>
@@ -1312,14 +1338,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (9)</li>
-      <li>VERB-Fin--PRON-Dat (4)</li>
-      <li>VERB-Gdv--NOUN-Dat (6)</li>
-      <li>VERB-Gdv--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Dat (3)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Part--NOUN-Dat (13)</li>
-      <li>VERB-Part--PRON-Dat (8)</li>
+      <li>VERB-Fin--NOUN-Dat (13)</li>
+      <li>VERB-Fin--PRON-Dat (10)</li>
+      <li>VERB-Gdv--NOUN-Dat (12)</li>
+      <li>VERB-Gdv--PRON-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Dat (6)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Dat (28)</li>
+      <li>VERB-Part--PRON-Dat (24)</li>
     </ul>
   </li>
 </ul>
@@ -1329,12 +1355,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 10 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: բերել իրեն, գտնել իրեն, գցել իրեն, զգալ իրեն, հաջողվել իրեն, հասնել իրեն, հուզել իրենց, ճանաչել իրեն, ուզել իրենց, սպանել իրեն</li>
+  <li>This corpus contains 15 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: կոչել իրեն, զգալ իրեն, բերել իրեն, գտնել իրեն, գցել իրեն, դիտել իրեն, դրսևորել իրեն, կոչել իրենց, հաջողվել իրեն, հասնել իրեն, հուզել իրենց, ճանաչել իրեն, ուզել իրենց, պահել իրենց, սպանել իրեն</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:caus</a>, <a>case:loc</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>iobj:agent</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

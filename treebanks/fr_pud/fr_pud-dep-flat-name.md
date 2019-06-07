@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fr_pud-dep-flat.htm
 227 nodes (1%) are attached to their parents as `flat:name`.
 
 227 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08370044052863.
+Average distance between parent and child is 1.07929515418502.
 
 The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (210; 93% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (12; 5% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 1 2 flat:name	color:blue
 1	Eugénie	_	PROPN	NNP	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	Bouchard	_	PROPN	NNP	Gender=Fem|Number=Sing	1	flat:name	_	_
-3	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+3	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
 4	subi	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 5	la	_	DET	DT	Gender=Fem|Number=Sing	6	det	_	_
 6	défaite	_	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	,	_	PUNCT	,	_	3	punct	_	_
 5	Mme	_	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
 6	Clinton	_	PROPN	NNP	Gender=Fem|Number=Sing	5	flat:name	_	_
-7	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	_
+7	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	_
 8	eu	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	,	_	PUNCT	,	_	13	punct	_	_
 10	ces	_	DET	DT	Gender=Fem|Number=Plur	13	det	_	_
@@ -74,7 +74,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 17 flat:name	color:blue
-1	«	_	VERB	VBC	_	10	punct	_	_
+1	«	_	PUNCT	``	_	10	punct	_	_
 2	Quand	_	ADV	WRB	_	4	mark	_	_
 3	je	_	PRON	PRP	Gender=Masc|Number=Sing|Person=1	4	nsubj	_	_
 4	joue	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	advcl	_	_
@@ -87,7 +87,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 11	puissant	_	ADJ	JJ	Gender=Masc|Number=Sing	10	xcomp	_	SpaceAfter=No
 12	,	_	PUNCT	,	_	10	punct	_	_
 13	»	_	PUNCT	''	_	10	punct	_	_
-14	a	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	_
+14	a	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	_
 15	expliqué	_	VERB	VBN	Gender=Masc|Number=Sing	10	parataxis	_	_
 16	John	_	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
 17	Di	_	ADP	IN	_	16	flat:name	_	Proper=True

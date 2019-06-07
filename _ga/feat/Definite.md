@@ -2,6 +2,7 @@
 layout: feature
 title: 'Definite'
 shortdef: 'definiteness or state'
+udver: '2'
 ---
 
 In Irish, definiteness is indicated through the use of a definite article singular _<b>an</b>_ or plural _<b>na</b>_ (also used with feminine singular in genitive case, see below), much like the definite article "the" in English. There is no indefinite particle, with nouns considered indefinite unless otherwise indicated.

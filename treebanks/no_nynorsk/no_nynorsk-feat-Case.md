@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (2252; 24% of non-empty `Case`): <em>seg, dei, oss, meg, han, henne, deg, ho, dykk, kån</em>
 * `Nom` (7049; 76% of non-empty `Case`): <em>han, eg, dei, vi, ho, me, du, de, man, ha</em>
-* `EMPTY` (13490): <em>det, som, ein, dette, kva, noko, sin, sine, sitt, si</em>
+* `EMPTY` (13498): <em>det, som, ein, dette, kva, noko, sin, sine, sitt, si</em>
 
 <table>
   <tr><th>Paradigm <i>dei</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

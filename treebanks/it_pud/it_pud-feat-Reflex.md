@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (3; 100% of non-empty `Reflex`): <em>sé, se</em>
-* `EMPTY` (871): <em>che, si, sua, loro, suo, cui, lo, ci, questo, sue</em>
+* `EMPTY` (858): <em>che, si, sua, loro, suo, cui, lo, ci, questo, sue</em>
 

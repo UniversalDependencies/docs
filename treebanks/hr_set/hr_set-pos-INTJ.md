@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>ma, e, a, ha, hajde, hmmm, o</em>
 
 The 10 most frequent `INTJ` types:  <em>ma, E, Ha, O, hajde, hmmm</em>
 
-The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>e</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1), <em>a</em> (<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> 902, <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 736, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>e</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> 921, <tt><a href="hr_set-pos-X.html">X</a></tt> 4, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 743, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>E</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 1), <em>O</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 10, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1), <em>E</em> (<tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="hr_set-pos-X.html">X</a></tt> 1), <em>O</em> (<tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 10, <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>ma</em>
@@ -23,14 +23,14 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="hr_set-pos-INTJ
   * <tt><a href="hr_set-pos-PART.html">PART</a></tt> 1: <em>Još jedna kampanja u potkrepu : Prema otkrivenju svete Brigite , svi oni koji se pridržavaju prirodnoga zakona , <b>ma</b> kojoj vjeri pripadali , spasit će se .</em>
 * <em>E</em>
   * <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 3: <em><b>E</b> sad , u čemu je sva posebnost ovih tema ?</em>
-  * <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 1: <em>Avokado sadrži i nezasićene masti , koje podižu razinu dobrog kolesterola u krvi , te velike količine vitamina <b>E</b> koji štiti stanice od starenja .</em>
+  * <tt><a href="hr_set-pos-X.html">X</a></tt> 1: <em>Avokado sadrži i nezasićene masti , koje podižu razinu dobrog kolesterola u krvi , te velike količine vitamina <b>E</b> koji štiti stanice od starenja .</em>
 * <em>O</em>
   * <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> 10: <em><b>O</b> svakoj nuspojavi valja obavijestiti svog liječnika ili ljekarnika .</em>
   * <tt><a href="hr_set-pos-INTJ.html">INTJ</a></tt> 1: <em><b>O</b> da .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.827681).
+The form / lemma ratio of `INTJ` is 0.857143 (the average of all parts of speech is 1.847676).
 
 The 1st highest number of forms (1) was observed with the lemma “E”: <em>E</em>.
 

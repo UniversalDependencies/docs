@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="tr_pud-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="tr_pud-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-110 nodes (1%) are attached to their parents as `nmod:arg`.
+107 nodes (1%) are attached to their parents as `nmod:arg`.
 
-110 instances of `nmod:arg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42727272727273.
+107 instances of `nmod:arg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44859813084112.
 
-The following 7 pairs of parts of speech are connected with `nmod:arg`: <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (66; 60% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (36; 33% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nmod:arg`: <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (62; 58% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (36; 34% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 7 pairs of parts of speech are connected with `nmod:arg`: <tt><a h
 10	katılım	katılım	NOUN	NN	Case=Nom|Number=Sing	14	nsubj	_	_
 11	neredeyse	neredeyse	ADV	RB	_	12	advmod	_	_
 12	imkansız	_	ADJ	JJ	Number=Sing	13	amod	_	_
-13	hale	hal	NOUN	NN	Case=Dat|Number=Sing	14	advmod	_	_
+13	hale	hal	NOUN	NN	Case=Dat|Number=Sing	14	obl	_	_
 14	geldi	gel	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
 

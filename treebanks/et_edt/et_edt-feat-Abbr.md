@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4154 tokens (1%) have a non-empty value of `Abbr`.
-1068 types (1%) occur at least once with a non-empty value of `Abbr`.
-831 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1734; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1523; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (384; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (202; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (124; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (119; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (48; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9; 0% instances).
+4153 tokens (1%) have a non-empty value of `Abbr`.
+1067 types (1%) occur at least once with a non-empty value of `Abbr`.
+830 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 9 part-of-speech tags: <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1734; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1522; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (384; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (202; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (124; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (119; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (48; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9; 0% instances).
 
 ### `PROPN`
 
@@ -29,16 +29,16 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 ### `NOUN`
 
-1523 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+1522 <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1398; 92%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1398; 92%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1397; 92%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1397; 92%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (1523; 100% of non-empty `Abbr`): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
-* `EMPTY` (113178): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `Yes` (1522; 100% of non-empty `Abbr`): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
+* `EMPTY` (113181): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (343) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (342) occur only with one value of `Abbr`.
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (384; 100% of non-empty `Abbr`): <em>jne, jt., jt, s.t, sh, nt, n-ö, st, jm, jms</em>
-* `EMPTY` (41222): <em>ka, siis, nii, kas, juba, välja, aga, veel, mitte, väga</em>
+* `EMPTY` (41232): <em>ka, siis, nii, kas, juba, välja, aga, veel, mitte, väga</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (39) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (202; 100% of non-empty `Abbr`): <em>al., of, in, to, D66, I, XXY, a, b, es</em>
-* `EMPTY` (456): <em>et, drive, the, in, key, International, are, de, of, out</em>
+* `EMPTY` (454): <em>et, drive, the, in, key, International, are, of, out, pruritus</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (59) occur only with one value of `Abbr`.
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (119; 100% of non-empty `Abbr`): <em>nn, nn., van, I, %-se, %-st, 80'ndate, nim, nim., II-ga</em>
-* `EMPTY` (36479): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
+* `EMPTY` (36469): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, esimene</em>
 
 ### `VERB`
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (48; 100% of non-empty `Abbr`): <em>vt, vt., vrd</em>
-* `EMPTY` (47671): <em>on, tuleb, teha, ütles, sai, saada, tuli, saanud, jääb, saab</em>
+* `EMPTY` (47626): <em>on, tuleb, teha, ütles, saada, sai, tuli, saanud, jääb, saab</em>
 
 ### `CCONJ`
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (11; 100% of non-empty `Abbr`): <em>&, e</em>
-* `EMPTY` (15959): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
+* `EMPTY` (15955): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
 
 ### `NUM`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>milj., milj</em>
-* `EMPTY` (9238): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
+* `EMPTY` (9243): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -130,6 +130,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> SYM</tt> (3; 60%),
 <tt>SYM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> X</tt> (3; 100%),
-<tt>PROPN --[<tt><a href="et_edt-dep-advmod.html">advmod</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>VERB --[<tt><a href="et_edt-dep-obj.html">obj</a></tt>]--> ADV</tt> (2; 100%).
+<tt>VERB --[<tt><a href="et_edt-dep-obj.html">obj</a></tt>]--> ADV</tt> (2; 100%),
+<tt>X --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (2; 67%).
 

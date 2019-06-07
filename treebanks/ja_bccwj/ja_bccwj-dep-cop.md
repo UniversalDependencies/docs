@@ -48,9 +48,9 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 24	_	_	SCONJ	_	_	23	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
 25	_	_	AUX	_	_	23	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=I|LUWPOS=10|SpaceAfter=No
 26	_	_	SCONJ	_	_	23	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=28|SpaceAfter=No
-27	_	_	PART	_	_	23	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=29|SpaceAfter=No
+27	_	_	PART	_	_	23	dep	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=29|SpaceAfter=No
 28	_	_	ADP	_	_	23	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
-29	_	_	VERB	_	_	23	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
+29	_	_	VERB	_	_	23	dep	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=1|SpaceAfter=No
 30	_	_	NOUN	_	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 31	_	_	AUX	_	_	30	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=10|SpaceAfter=No
 32	_	_	PUNCT	_	_	30	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=7|SpaceAfter=No
@@ -93,7 +93,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 18 cop	color:blue
-1	_	_	NOUN	_	_	3	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
+1	_	_	NOUN	_	_	3	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=0|SpaceAfter=No
 2	_	_	ADP	_	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=1|SpaceAfter=No
 3	_	_	VERB	_	_	8	dep	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=2|SpaceAfter=No
 4	_	_	AUX	_	_	3	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=10|SpaceAfter=No

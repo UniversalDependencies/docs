@@ -1,6 +1,6 @@
 ---
 udver: '2'
-Layout: relation
+layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
 ---

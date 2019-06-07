@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 1371 tokens (6%) have a non-empty value of `Person`.
 149 types (3%) occur at least once with a non-empty value of `Person`.
 122 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (742; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (427; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (202; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (742; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (194; 1% instances).
 
 ### `PRON`
 
@@ -31,32 +31,32 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-427 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Person`.
+435 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (427; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (427; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (427; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (251; 59%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (435; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (435; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (254; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (2; 0% of non-empty `Person`): <em>am</em>
-* `3` (425; 100% of non-empty `Person`): <em>was, is, has, 's, ’s, does, means</em>
-* `EMPTY` (583): <em>be, are, were, had, been, have, will, would, can, could</em>
+* `3` (433; 100% of non-empty `Person`): <em>was, is, has, 's, ’s, does</em>
+* `EMPTY` (579): <em>are, be, were, had, been, have, would, will, can, could</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's</em></td></tr>
+  <tr><td><tt><tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's, ’s</em></td></tr>
 </table>
 
 ### `VERB`
 
-202 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Person`.
+194 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (202; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (202; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (189; 94%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (194; 100%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (194; 100%), <tt><a href="en_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (186; 96%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `3` (202; 100% of non-empty `Person`): <em>has, is, was, says, 's, makes, helps, seems, appears, contains</em>
-* `EMPTY` (1952): <em>have, said, used, took, are, began, had, became, made, according</em>
+* `3` (194; 100% of non-empty `Person`): <em>has, is, says, was, makes, helps, seems, 's, appears, contains</em>
+* `EMPTY` (1956): <em>have, said, used, took, began, are, had, became, made, according</em>
 
 `Person` seems to be **lexical feature** of `VERB`. 100% lemmas (108) occur only with one value of `Person`.
 

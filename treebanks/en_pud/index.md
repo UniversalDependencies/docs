@@ -146,7 +146,7 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, we, what, where, which, who, whoever, whom, whose, you, ’s</li>
+<li>This corpus contains 28 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, us, we, what, where, which, who, whoever, whom, whose, you</li>
 </ul>
 
 <ul>
@@ -158,11 +158,11 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): be, become, can, could, declare, do, feel, freeze, get, go, have, make, may, mean, might, must, name, should, will, would, ’d, ’m, ’re, ’s, ’ve</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: be, become, declare, do, feel, freeze, get, go, have, make, mean, name, will, would, ’s</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, get, have, will</li>
 </ul>
 
 <ul>
@@ -172,9 +172,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: was, is, will, would, are, were, can, has, had, could</li>
+    <li>AUX: was, is, would, will, are, were, can, has, had, could</li>
     <li>NOUN: hit</li>
-    <li>VERB: said, took, are, has, is, began, was, became, says, have</li>
+    <li>VERB: said, took, has, began, are, is, became, says, have, had</li>
   </ul>
   </li>
 </ul>
@@ -191,8 +191,8 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, have, go, make</li>
-    <li>VERB: have, take, do, keep, go, help, see, make, come, get</li>
+    <li>AUX: be, have</li>
+    <li>VERB: have, take, do, go, keep, help, make, see, come, get</li>
   </ul>
   </li>
 </ul>
@@ -200,7 +200,7 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: been, become, declared, frozen, named</li>
+    <li>AUX: been</li>
     <li>VERB: used, known, given, made, built, left, released, seen, allowed, considered</li>
   </ul>
   </li>
@@ -259,14 +259,14 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>ADJ: Canadian, Historian, Spanish, male</li>
       <li>ADV: course</li>
-      <li>AUX-Fin: was, is, has, 's, ’s, does, am, means</li>
+      <li>AUX-Fin: was, is, has, 's, ’s, does, am</li>
       <li>DET: this, that</li>
       <li>NOUN: time, year, government, city, state, war, century, world, day, place</li>
       <li>PRON: it, he, his, I, her, its, she, this, him, that</li>
       <li>PROPN: China, Sea, October, Trump, North, America, April, Europe, France, War</li>
       <li>SYM: %</li>
-      <li>VERB: has, is, was, says, 's, makes, helps, seems, working, appears</li>
-      <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
+      <li>VERB: has, is, says, was, makes, helps, seems, working, 's, appears</li>
+      <li>VERB-Fin: has, is, says, was, makes, helps, seems, 's, appears, contains</li>
     </ul>
   </li>
 </ul>
@@ -374,7 +374,7 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>AUX-Fin: was, is, are, were, has, had, have, 's, did, do</li>
       <li>NOUN-Fin: hit</li>
-      <li>VERB-Fin: said, took, are, has, is, began, was, became, says, have</li>
+      <li>VERB-Fin: said, took, has, began, are, is, became, says, have, had</li>
     </ul>
   </li>
 </ul>
@@ -387,9 +387,9 @@ features and lemmata were added by Sebastian Schuster.
   <li>Past
     <ul>
       <li>AUX-Fin: was, were, had, did, got</li>
-      <li>AUX-Part: been, become, declared, frozen, named</li>
+      <li>AUX-Part: been</li>
       <li>NOUN-Fin: hit</li>
-      <li>VERB-Fin: said, took, began, was, became, had, told, worked, were, allowed</li>
+      <li>VERB-Fin: said, took, began, became, had, told, was, worked, were, allowed</li>
       <li>VERB-Part: used, known, given, made, built, left, released, seen, allowed, considered</li>
     </ul>
   </li>
@@ -399,7 +399,7 @@ features and lemmata were added by Sebastian Schuster.
   <li>Pres
     <ul>
       <li>AUX-Fin: is, are, has, have, 's, do, ’s, does, am, ’m</li>
-      <li>VERB-Fin: are, has, is, says, have, 's, include, makes, helps, say</li>
+      <li>VERB-Fin: has, are, is, says, have, include, makes, helps, say, seems</li>
       <li>VERB-Part: investigating, seeking, thinking, attending, boarding, bracing, calling, carrying, celebrating, coming</li>
     </ul>
   </li>
@@ -540,9 +540,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: was, is, has, 's, ’s, does, means</li>
+      <li>AUX-Fin: was, is, has, 's, ’s, does</li>
       <li>PRON: it, he, his, their, they, her, its, she, him, them</li>
-      <li>VERB-Fin: has, is, was, says, 's, makes, helps, seems, appears, contains</li>
+      <li>VERB-Fin: has, is, says, was, makes, helps, seems, 's, appears, contains</li>
     </ul>
   </li>
 </ul>
@@ -570,11 +570,11 @@ features and lemmata were added by Sebastian Schuster.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: be, ’s, ’m, ’re.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, would, can, do, could, may, might, should, must, ’d, ’s, ’ve, to, ’m.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, would, will, can, do, could, may, might, should, must.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
 </ul>
 
@@ -587,12 +587,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (324)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
       <li>VERB-Fin--PRON (89)</li>
-      <li>VERB-Fin--PRON-Nom (177)</li>
+      <li>VERB-Fin--PRON-Nom (179)</li>
       <li>VERB-Ger--NOUN (4)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (60)</li>
+      <li>VERB-Inf--NOUN (62)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Inf--PRON-Nom (51)</li>
@@ -606,7 +606,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (297)</li>
+      <li>VERB-Fin--NOUN (298)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc (29)</li>
       <li>VERB-Ger--NOUN (109)</li>
@@ -614,7 +614,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (6)</li>
       <li>VERB-Inf--NOUN (210)</li>
       <li>VERB-Inf--PRON (7)</li>
-      <li>VERB-Inf--PRON-Acc (13)</li>
+      <li>VERB-Inf--PRON-Acc (14)</li>
       <li>VERB-Part--NOUN (72)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (6)</li>

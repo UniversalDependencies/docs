@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-204 nodes (1%) are attached to their parents as `fixed`.
+215 nodes (1%) are attached to their parents as `fixed`.
 
-204 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01470588235294.
+215 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0093023255814.
 
-The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (81; 40% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (55; 27% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (43; 21% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (13; 6% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (78; 36% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (52; 24% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (43; 20% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 7% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (13; 6% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,21 +60,21 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	Tema	Tema	NOUN	NN	Case=Nom|Number=Sing	13	nsubj	_	SpaceAfter=No
+1	Tema	Tema	NOUN	NN	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	Palma'da	Palma	PROPN	PROPN	Case=Loc|Number=Sing	4	advmod	_	Proper=True
+3	Palma'da	Palma	PROPN	PROPN	Case=Loc|Number=Sing	4	obl	_	Proper=True
 4	yaşayan	yaşa	ADJ	VJ	Number=Sing|Polarity=Pos	9	acl:relcl	_	_
 5	çok	çok	ADV	RB	_	6	advmod	_	_
 6	sayıda	sayı	NOUN	NN	Case=Loc|Number=Sing	9	compound	_	_
 7	ahdet	ahdet	NOUN	NN	Mood=Imp|Number=Sing|Person=2|Tense=Pres	9	acl:relcl	_	_
 8	etmiş	et	ADJ	VJ	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	fixed	_	_
-9	Yahudi'den	Yahudi	NOUN	NN	Case=Abl|Number=Sing	13	obl	_	_
+9	Yahudi'den	Yahudi	NOUN	NN	Case=Abl|Number=Sing	14	obl	_	_
 10	ötürü	ötürü	ADP	IN	_	9	case	_	_
-11	geleneksel	geleneksel	ADJ	JJ	Number=Sing	13	advcl	_	_
-12	olarak	olarak	AUX	CRB	Polarity=Pos	11	cop	_	_
-13	bilinçli	bilinçli	ADJ	JJ	Number=Sing	0	root	_	_
-14	seçilirdi	seçilir	AUX	VB	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Past|Voice=Pass	13	cop	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	13	punct	_	_
+11	geleneksel	geleneksel	ADJ	JJ	Number=Sing	14	advcl	_	_
+12	olarak	ol	AUX	CRB	Polarity=Pos	11	cop	_	_
+13	bilinçli	bilinçli	ADJ	JJ	Number=Sing	14	compound	_	_
+14	seçilirdi	seçilir	AUX	VB	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	_
 
 ~~~
 

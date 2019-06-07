@@ -2,6 +2,7 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
 There is no passive form in Irish. However, the Irish autonomous voice is similar to the passive construction, in that the agent of the verb is not (necessarily) specified. In this construction, the object remains in accusative case, as opposed to the nominative case used in the passive voice in English. The subject in this construction remains anonymous, as a dummy subject.

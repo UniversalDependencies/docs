@@ -96,7 +96,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `VERB` tokens may have the following values of `Definite`:
 
 * `Ind` (4; 100% of non-empty `Definite`): <em>blir, innført, lagt, stoppa</em>
-* `EMPTY` (29425): <em>har, seier, vart, er, få, kjem, får, meiner, ha, går</em>
+* `EMPTY` (28776): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
 
 ### `ADV`
 
@@ -105,13 +105,13 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `ADV` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): <em>sjølve</em>
-* `EMPTY` (9083): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
+* `EMPTY` (9075): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8206; 56%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5570; 52%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8207; 56%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5569; 52%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3238; 84%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (670; 85%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (326; 56%),

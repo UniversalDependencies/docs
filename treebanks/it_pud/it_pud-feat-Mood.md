@@ -11,54 +11,50 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
 1761 tokens (7%) have a non-empty value of `Mood`.
 722 types (12%) occur at least once with a non-empty value of `Mood`.
-390 lemmas (8%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (1070; 5% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (691; 3% instances).
+384 lemmas (8%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> (903; 4% instances), <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> (858; 4% instances).
 
 ### `VERB`
 
-1070 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (47% of all `VERB` tokens) have a non-empty value of `Mood`.
+903 <tt><a href="it_pud-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1070; 100%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1025; 96%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (912; 85%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (759; 71%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (566; 53%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (903; 100%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (903; 100%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (859; 95%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (652; 72%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (498; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (10; 1% of non-empty `Mood`): <em>verrebbe, Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</em>
+* `Cnd` (8; 1% of non-empty `Mood`): <em>Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</em>
 * `Imp` (2; 0% of non-empty `Mood`): <em>Fa', Metti</em>
-* `Ind` (995; 93% of non-empty `Mood`): <em>venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</em>
-* `Sub` (63; 6% of non-empty `Mood`): <em>fosse, fossero, sia, venissero, aspetti, siano, abbia, affluissero, agissero, avessero</em>
-* `EMPTY` (1209): <em>essere, stato, affermato, avere, fatto, detto, stata, far, avuto, fare</em>
+* `Ind` (845; 94% of non-empty `Mood`): <em>ha, afferma, aveva, iniziò, sono, hanno, avevano, sembra, ebbe, riguarda</em>
+* `Sub` (48; 5% of non-empty `Mood`): <em>aspetti, sia, abbia, affluissero, agissero, avessero, avvii, avvistasse, conoscessi, continui</em>
+* `EMPTY` (1152): <em>affermato, avere, fatto, detto, far, avuto, fare, portato, partire, portare</em>
 
 <table>
-  <tr><th>Paradigm <i>venire</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>veniva</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>venivano</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>venivano</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>venne</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>venne</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>vennero</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>verrà</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>venisse</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>viene</em></td><td><em>verrebbe</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>verranno</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>venissero</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>vengono</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Faceva</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fece</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fecero</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Fa'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>facesse</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fa</em></td><td></td><td><em>faccia</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>facessero</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fanno</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 91% lemmas (349) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (351) occur only with one value of `Mood`.
 
 ### `AUX`
 
-691 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
+858 <tt><a href="it_pud-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (672; 97%), <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (657; 95%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (566; 82%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (536; 78%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (516; 75%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (823; 96%), <tt><a href="it_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (681; 79%), <tt><a href="it_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (634; 74%), <tt><a href="it_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (623; 73%), <tt><a href="it_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (590; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (44; 6% of non-empty `Mood`): <em>potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, Avrei, Sarei, potrei</em>
+* `Cnd` (46; 5% of non-empty `Mood`): <em>potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, verrebbe, Avrei, Sarei</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>Devi</em>
-* `Ind` (606; 88% of non-empty `Mood`): <em>è, ha, sono, era, hanno, fu, può, aveva, erano, possono</em>
-* `Sub` (40; 6% of non-empty `Mood`): <em>fosse, abbia, fossero, abbiano, possa, avesse, sia, potesse, avessero, debba</em>
-* `EMPTY` (70): <em>essere, aver, stato, stata, esser, potuto, stati, avendo, Essendo, potendo</em>
+* `Ind` (756; 88% of non-empty `Mood`): <em>è, ha, sono, era, fu, hanno, venne, può, erano, aveva</em>
+* `Sub` (55; 6% of non-empty `Mood`): <em>fosse, fossero, abbia, abbiano, possa, sia, avesse, siano, venissero, potesse</em>
+* `EMPTY` (125): <em>essere, stato, stata, aver, stati, state, esser, potuto, avendo, Essendo</em>
 
 <table>
   <tr><th>Paradigm <i>dovere</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

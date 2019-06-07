@@ -11,9 +11,9 @@ This relation is universal.
 2074 nodes (5%) are attached to their parents as `root`.
 
 2074 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.51253616200579.
+Average distance between parent and child is 5.51446480231437.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1526; 74% instances), -<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (281; 14% instances), -<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (91; 4% instances), -<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (52; 3% instances), -<tt><a href="mt_mudt-pos-X.html">X</a></tt> (33; 2% instances), -<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), -<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (23; 1% instances), -<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (15; 1% instances), -<tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (13; 1% instances), -<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="mt_mudt-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1526; 74% instances), -<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (281; 14% instances), -<tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt> (91; 4% instances), -<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (52; 3% instances), -<tt><a href="mt_mudt-pos-X.html">X</a></tt> (33; 2% instances), -<tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), -<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (23; 1% instances), -<tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt> (15; 1% instances), -<tt><a href="mt_mudt-pos-INTJ.html">INTJ</a></tt> (13; 1% instances), -<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 4 root	color:blue
 1	"	_	PUNCT	X_PUN	_	4	punct	_	_
 2	Din	_	PRON	PRON_DEM	_	4	nsubj	_	_
-3	mhix	_	PART	PRON_PERS_NEG	_	4	aux:neg	_	_
+3	mhix	_	AUX	PRON_PERS_NEG	_	4	aux:neg	_	_
 4	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
 5	politika	_	ADJ	ADJ	_	4	amod	_	SpaceAfter=No
 6	.	_	PUNCT	X_PUN	_	4	punct	_	_

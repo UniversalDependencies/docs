@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-Modern: POS Tags: `SCONJ`
 
 There are 1 `SCONJ` lemmas (0%), 1 `SCONJ` types (0%) and 483 `SCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 7 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 16 in number of lemmas, 16 in number of types and 7 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: て
 

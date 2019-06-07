@@ -11,9 +11,9 @@ This relation is universal.
 90 nodes (1%) are attached to their parents as `iobj`.
 
 90 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.17777777777778.
+Average distance between parent and child is 3.18888888888889.
 
-The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (33; 37% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (23; 26% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (10; 11% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (33; 37% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (23; 26% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 6 5 iobj	color:blue
 1	Sesini	ses	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 2	gerçek	gerçek	NOUN	NN	Number=Sing	3	compound	_	_
-3	anlamda	anlam	NOUN	NN	Case=Loc|Number=Sing	6	advmod	_	_
+3	anlamda	anlam	NOUN	NN	Case=Loc|Number=Sing	6	obl	_	_
 4	tüm	tüm	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	5	det	_	_
 5	dünyaya	dünya	NOUN	NN	Case=Dat|Number=Sing	6	iobj	_	_
 6	duyurdu	duy	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	ccomp	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 4	nesneler	nesne	NOUN	NN	Number=Plur	5	obj	_	_
 5	koyması	koy	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Ger	6	csubj	_	_
 6	serbest	serbest	ADJ	JJ	Number=Sing	0	root	_	_
-7	mi	mi	AUX	AUX	Number=Sing|Person=3	6	advmod:emph	_	SpaceAfter=No
+7	mi	mi	AUX	AUX	Number=Sing|Person=3	6	aux:q	_	SpaceAfter=No
 8	?	?	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href
 7	ülkenin	ülke	NOUN	NN	Case=Gen|Number=Sing	11	nmod:poss	_	_
 8	ne	ne	PRON	WP	Number=Sing|PronType=Int	10	nmod	_	_
 9	kadar	kadar	ADP	IN	_	8	case	_	_
-10	derinden	derin	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	advmod	_	_
+10	derinden	derin	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=2	11	obl	_	_
 11	bölündüğünü	bölündük	NOUN	VN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	12	xcomp	_	_
 12	göstermiştir	göster	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	_

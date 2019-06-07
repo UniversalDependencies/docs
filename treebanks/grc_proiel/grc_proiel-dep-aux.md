@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="grc_proiel-dep-aux-pass.html">aux:pass</a></tt>.
 
-30 nodes (0%) are attached to their parents as `aux`.
+29 nodes (0%) are attached to their parents as `aux`.
 
-19 instances of `aux` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.53333333333333.
+19 instances of `aux` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58620689655172.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (26; 87% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (27; 93% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2; 7% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4 3 aux	color:blue
 1	ταῦτα	οὗτος	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	ref=1.147.1
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.147.1
-3	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=1.147.1
+3	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=1.147.1|LId=1
 4	γινόμενα	γίγνομαι	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	ref=1.147.1
 5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1.147.1
 6	Μιλήτῳ	Μίλητος	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1.147.1
@@ -78,10 +78,10 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 37	μή	μή	ADV	Df	Polarity=Neg	39	advmod	_	ref=REV_13.17
 38	τις	τὶς	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	ref=REV_13.17
 39	δύνηται	δύναμαι	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	22	advcl	_	ref=REV_13.17
-40	ἀγοράσαι	ἀγοράζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	41	aux	_	ref=REV_13.17
+40	ἀγοράσαι	ἀγοράζω	AUX	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	41	aux	_	ref=REV_13.17
 41	ἢ	ἤ	CCONJ	C-	_	39	xcomp	_	ref=REV_13.17
-42	πωλῆσαι	πωλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	41	aux	_	ref=REV_13.17
-43	εἰ	εἰ#1	ADV	Df	_	38	acl	_	ref=REV_13.17
+42	πωλῆσαι	πωλέω	AUX	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	41	aux	_	ref=REV_13.17
+43	εἰ	εἰ	ADV	Df	_	38	acl	_	ref=REV_13.17|LId=1
 44	μὴ	μή	ADV	Df	Polarity=Neg	43	advmod	_	ref=REV_13.17
 45	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	46	det	_	ref=REV_13.17
 46	ἔχων	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	43	nsubj	_	ref=REV_13.17
@@ -97,32 +97,6 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 56	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	57	det	_	ref=REV_13.17
 57	ὀνόματος	ὄνομα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	55	nmod	_	ref=REV_13.17
 58	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	57	det	_	ref=REV_13.17
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 aux	color:blue
-1	Καὶ	καί	CCONJ	C-	_	2	cc	_	ref=LUKE_2.15
-2	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=LUKE_2.15
-3	ὡς	ὡς	ADV	Df	_	14	advmod	_	ref=LUKE_2.15
-4	ἀπῆλθον	ἀπέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	ref=LUKE_2.15
-5	ἀπ’	ἀπό	ADP	R-	_	6	case	_	ref=LUKE_2.15
-6	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	ref=LUKE_2.15
-7	εἰς	εἰς	ADP	R-	_	9	case	_	ref=LUKE_2.15
-8	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=LUKE_2.15
-9	οὐρανὸν	οὐρανός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=LUKE_2.15
-10	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	ref=LUKE_2.15
-11	ἄγγελοι	ἄγγελος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=LUKE_2.15
-12	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=LUKE_2.15
-13	ποιμένες	ποιμήν	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	ref=LUKE_2.15
-14	ἐλάλουν	λαλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=LUKE_2.15
-15	πρὸς	πρός	ADP	R-	_	16	case	_	ref=LUKE_2.15
-16	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	14	obl	_	ref=LUKE_2.15
 
 ~~~
 

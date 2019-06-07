@@ -42,7 +42,7 @@ The following 1 pairs of parts of speech are connected with `compound:vo`: <tt><
 17	能	_	AUX	_	_	18	aux	_	SpaceAfter=No
 18	做	_	VERB	_	_	1	parataxis	_	SpaceAfter=No
 19	好	_	ADJ	_	_	18	compound:vv	_	SpaceAfter=No
-20	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

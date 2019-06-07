@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (172; 100% of non-empty `Definite`): <em>nin, ninw, in</em>
-* `EMPTY` (332): <em>o, min, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe, dòròn</em>
+* `EMPTY` (332): <em>o, min, dò, bèè, yèrè, si, dɔ, bɛɛ, bèe, dòròn</em>
 
 ### `PRON`
 

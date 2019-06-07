@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-686 nodes (1%) are attached to their parents as `nummod`.
+780 nodes (1%) are attached to their parents as `nummod`.
 
-580 instances of `nummod` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26967930029155.
+670 instances of `nummod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29102564102564.
 
-The following 17 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (580; 85% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (42; 6% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (28; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (678; 87% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (52; 7% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (30; 4% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,22 +41,21 @@ The following 17 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	9	9	X	LS	_	3	dep	_	_
-2	Chehel	Chehel	PROPN	NNP	Number=Sing	3	compound	_	_
-3	Sotoun	Sotoun	PROPN	NNP	Number=Sing	0	root	_	_
-4	(	(	PUNCT	-LRB-	_	6	punct	_	SpaceAfter=No
-5	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
-6	Palace	palace	PROPN	NNP	Number=Sing	3	appos	_	_
-7	of	of	ADP	IN	_	9	case	_	_
-8	Forty	forty	NUM	CD	NumType=Card	9	nummod	_	_
-9	Columns	column	PROPN	NNPS	Number=Plur	6	nmod	_	SpaceAfter=No
-10	)	)	PUNCT	-RRB-	_	6	punct	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nummod	color:blue
+1	—	—	PUNCT	:	_	2	punct	_	_
+2	NORTON	Norton	PROPN	NNP	Number=Sing	0	root	_	_
+3	I	I	NUM	NNP	Number=Sing	2	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	Emperor	Emperor	PROPN	NNP	Number=Sing	2	appos	_	_
+6	of	of	ADP	IN	_	9	case	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+8	United	United	PROPN	NNP	Number=Sing	9	amod	_	_
+9	States	States	PROPN	NNPS	Number=Plur	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

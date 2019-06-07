@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.928571 (the average of all parts of speech is 1.298160).
+The form / lemma ratio of `PUNCT` is 0.928571 (the average of all parts of speech is 1.300621).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (358; 100% instances)
 
-Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (200; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (46; 13% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (22; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (21; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (20; 6% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (199; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (46; 13% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (23; 6% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (22; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (20; 6% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 358 (100%) `PUNCT` nodes are leaves.
 

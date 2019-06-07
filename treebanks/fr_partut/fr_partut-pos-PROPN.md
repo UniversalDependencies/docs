@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `PROPN`
 
-There are 177 `PROPN` lemmas (5%), 177 `PROPN` types (4%) and 483 `PROPN` tokens (2%).
+There are 176 `PROPN` lemmas (5%), 176 `PROPN` types (4%) and 482 `PROPN` tokens (2%).
 Out of 17 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Facebook, Pericles, Europe, Européenne, Union, Commons, Creative, CE, CEE, Koch</em>
@@ -15,7 +15,7 @@ The 10 most frequent `PROPN` types:  <em>Facebook, Pericles, Europe, Européenne
 
 The 10 most frequent ambiguous lemmas: <em>CE</em> (<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 5), <em>PME</em> (<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 5), <em>PME</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 2), <em>Acceptant</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Conseil</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Contrat</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>De</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 6, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>En</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 32, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Partage</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>États</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 5), <em>PME</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 2), <em>Acceptant</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Conseil</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Contrat</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>De</em> (<tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 6, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>Partage</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1), <em>États</em> (<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>CE</em>
@@ -37,9 +37,6 @@ The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-P
   * <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 6: <em><b>De</b> cette façon , chacun sur Facebook sait avec qui il communique .</em>
   * <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1: <em><b>De</b> telles mesures peuvent également concourir à l' utilisation durable de les ressources et apporter une contribution importante à le cadre décennal de programmes sur la production et la consommation durables adopté lors de le sommet mondial sur le développement durable qui s' est tenu à Johannesburg en septembre 2002 .</em>
   * <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1: <em>Madame la présidente , mme Díez González et moi-même avions présenté quelques questions sur certaines opinions exprimées par la vice - présidente , mme <b>De</b> Palacio , et publiées dans un journal espagnol .</em>
-* <em>En</em>
-  * <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 32: <em><b>En</b> ce qui me concerne , j' approuve totalement ces aspects .</em>
-  * <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1: <em>( 28 ) <b>En</b> ce qui concerne la formation et l' information en matière d' écoconception destinée à les PME , il peut être judicieux d' envisager des activités complémentaires .</em>
 * <em>Partage</em>
   * <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 2: <em>Paternité - <b>Partage</b> de les conditions initiales à l' identique 2.0 .</em>
   * <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> 1: <em>L' acceptant peut reproduire , distribuer , représenter ou communiquer à le public une oeuvre dite dérivée y compris par voie numérique uniquement sous les termes de ce contrat , ou d' une version ultérieure de ce contrat comprenant les mêmes options de le contrat que le présent contrat , ou un contrat Creative Commons Icommons comprenant les mêmes options de le contrat que le présent contrat ( par exemple paternité - pas d' utilisation commerciale - <b>Partage</b> de les conditions initiales à l' Identique 2.0 Japon ) .</em>
@@ -49,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.361807).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.364538).
 
 The 1st highest number of forms (2) was observed with the lemma “De”: <em>DE, De</em>.
 
@@ -62,11 +59,11 @@ The 3rd highest number of forms (1) was observed with the lemma “A5-0108”: <
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 15 different relations: <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (225; 47% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 12% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (54; 11% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (34; 7% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (29; 6% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (12; 2% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (225; 47% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 12% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (54; 11% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (34; 7% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (29; 6% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (12; 2% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (85; 18% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (82; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (21; 4% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (4; 1% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (85; 18% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (82; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (22; 5% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-213 (44%) `PROPN` nodes are leaves.
+212 (44%) `PROPN` nodes are leaves.
 
 98 (20%) `PROPN` nodes have one child.
 

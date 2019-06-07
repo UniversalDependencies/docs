@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `conj:appos`
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt>.
-There are also 2 other language-specific subtypes of `conj`: <tt><a href="pcm_nsc-dep-conj-coord.html">conj:coord</a></tt>, <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>.
+There are also 3 other language-specific subtypes of `conj`: <tt><a href="pcm_nsc-dep-conj-coord.html">conj:coord</a></tt>, <tt><a href="pcm_nsc-dep-conj-dicto.html">conj:dicto</a></tt>, <tt><a href="pcm_nsc-dep-conj-redup.html">conj:redup</a></tt>.
 
 2 nodes (0%) are attached to their parents as `conj:appos`.
 
@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `conj:appos`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 5 conj:appos	color:blue
 1	em	em	INTJ	_	_	16	discourse	_	_
-2	na	na	ADV	_	_	16	discourse	_	_
+2	na	na	PART	_	_	16	discourse	_	_
 3	we	we	PRON	_	_	16	dislocated	_	_
 4	|a	|a	PUNCT	_	_	3	punct	_	_
 5	FRSC	FRSC	PROPN	_	_	3	conj:appos	_	_
@@ -36,14 +36,14 @@ The following 2 pairs of parts of speech are connected with `conj:appos`: <tt><a
 11	#	#	PUNCT	_	_	9	punct	_	_
 12	our	our	PRON	_	_	13	nmod:poss	_	_
 13	work	work	NOUN	_	_	16	nsubj	_	_
-14	na	na	PART	_	_	16	cop	_	_
+14	na	na	AUX	PART	_	16	cop	_	_
 15	to	to	PART	_	_	16	mark	_	_
 16	ensure	ensure	VERB	_	_	0	root	_	_
 17	sey	sey	SCONJ	_	_	23	mark	_	_
 18	#	#	PUNCT	_	_	23	punct	_	_
 19	[	[	PUNCT	_	_	23	punct	_	_
 20	accident	accident	NOUN	_	_	23	nsubj	_	_
-21	no	no	PART	_	_	23	advmod	_	_
+21	no	no	ADV	PART	_	23	advmod	_	_
 22	too	too	ADV	_	_	23	advmod	_	_
 23	happen	happen	VERB	_	_	16	ccomp	_	_
 24	for	for	ADP	_	_	25	case	_	_

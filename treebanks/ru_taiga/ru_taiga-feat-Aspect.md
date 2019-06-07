@@ -9,55 +9,83 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-2374 tokens (11%) have a non-empty value of `Aspect`.
-1826 types (25%) occur at least once with a non-empty value of `Aspect`.
-1144 lemmas (22%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (2288; 11% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (86; 0% instances).
+4861 tokens (13%) have a non-empty value of `Aspect`.
+3515 types (26%) occur at least once with a non-empty value of `Aspect`.
+2024 lemmas (23%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (4636; 12% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (222; 1% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-2288 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Aspect`.
+4636 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1871; 82%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1866; 82%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1566; 68%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1420; 62%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1196; 52%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3713; 80%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3637; 78%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3326; 72%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3046; 66%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2441; 53%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2438; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1350; 59% of non-empty `Aspect`): <em>есть, может, нет, было, стоит, быть, делать, знает, думать, жить</em>
-* `Perf` (938; 41% of non-empty `Aspect`): <em>добавить, показать, сделать, сказал, залить, поставить, взять, дать, довести, изменить</em>
-* `EMPTY` (69): <em>можно, надо, жаль, е., за, нечего, против, Глядь, МАНДРУЕ, и.</em>
+* `Imp` (2750; 59% of non-empty `Aspect`): <em>есть, может, нет, стоит, говорит, вижу, понимаю, сидит, делать, жить</em>
+* `Perf` (1886; 41% of non-empty `Aspect`): <em>сказал, сделать, добавить, стал, показать, пришли, случилось, стали, стало, вышли</em>
+* `EMPTY` (115): <em>можно, надо, нет, жаль, за, нельзя, нечего, е., нету, норм</em>
 
 <table>
-  <tr><th>Paradigm <i>сделать</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сделал</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>сделана</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Сделайте</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сделаем</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сделали</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сделать</em></td></tr>
+  <tr><th>Paradigm <i>мочь</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>могущее</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>мог</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могла</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могло</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>смогу</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могу</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>можешь</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>может</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>можем</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>можете</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могут</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>могли</em></td><td></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 98% lemmas (1120) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 96% lemmas (1948) occur only with one value of `Aspect`.
 
 ### `AUX`
 
-86 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
+222 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (86; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (74; 86%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (73; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 67%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (56; 65%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 56%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (221; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (192; 86%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (189; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (152; 68%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (135; 61%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (135; 61%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (86; 100% of non-empty `Aspect`): <em>будет, была, было, быть, был, есть, буду, были, будут, будем</em>
+* `Imp` (222; 100% of non-empty `Aspect`): <em>было, был, будет, быть, была, есть, были, будут, буду, будем</em>
+* `EMPTY` (48): <em>бы, б, бывшая</em>
+
+### `NOUN`
+
+2 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
+
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+
+`NOUN` tokens may have the following values of `Aspect`:
+
+* `Imp` (1; 50% of non-empty `Aspect`): <em>#самолет</em>
+* `Perf` (1; 50% of non-empty `Aspect`): <em>прошедшим</em>
+* `EMPTY` (9119): <em>лет, день, раз, RT, время, люди, море, года, фото, человек</em>
+
+### `PROPN`
+
+1 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Aspect`.
+
+The most frequent other feature values with which `PROPN` and `Aspect` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Aspect`:
+
+* `Imp` (1; 100% of non-empty `Aspect`): <em>#сургут</em>
+* `EMPTY` (1298): <em>жириновский, ЛДПР, парнас, яблоко, России, @yabloko, Россия, Русь, кпрф, крым</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (299; 80%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (58; 54%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (55; 54%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-aux.html">aux</a></tt>]--> AUX</tt> (20; 95%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-aux.html">aux</a></tt>]--> VERB</tt> (5; 83%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ru_taiga-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (701; 80%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (177; 63%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (177; 52%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-aux.html">aux</a></tt>]--> AUX</tt> (37; 53%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> VERB</tt> (2; 100%).
 

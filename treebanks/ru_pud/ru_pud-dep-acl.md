@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ru_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-246 nodes (1%) are attached to their parents as `acl`.
+255 nodes (1%) are attached to their parents as `acl`.
 
-178 instances of `acl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.04878048780488.
+193 instances of `acl` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (195; 79% instances), <tt><a href="ru_pud-pos-DET.html">DET</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (16; 7% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `acl`: <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (193; 76% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (29; 11% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PART.html">PART</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl	color:blue
 1	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
-2	также	также	ADV	CC	_	3	advmod	_	_
-3	задаюсь	задаваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	также	также	ADV	RB	Degree=Pos	3	advmod	_	_
+3	задаюсь	задаваться	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 4	вопросом	вопрос	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	повлиял	повлиять	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	4	acl	_	_
+6	повлиял	повлиять	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
 7	ли	ли	PART	RP	_	6	advmod	_	_
 8	на	на	ADP	IN	_	9	case	_	_
 9	это	это	PRON	DT	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
@@ -42,41 +42,55 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 acl	color:blue
-1	Это	это	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
-2	то	то	DET	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	5	punct	_	_
-4	что	что	PRON	WP	Animacy=Inan|Case=Nom|Gender=Neut	5	nsubj	_	_
-5	заставляет	заставлять	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	acl	_	_
-6	нас	мы	PRON	PRP	Case=Acc|Number=Plur|Person=1	5	obj	_	_
-7	возвращаться	возвращаться	VERB	VB	Aspect=Imp	5	xcomp	_	_
-8	снова	снова	ADV	RB	_	7	advmod	_	_
-9	и	и	CCONJ	CC	_	10	cc	_	_
-10	снова	снова	ADV	RB	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 acl	color:blue
+1	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	что	что	SCONJ	IN	_	5	obj	_	_
+4	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+5	говорит	говорить	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	что	что	SCONJ	IN	_	9	obj	_	_
+8	она	она	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
+9	делает	делать	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	5	punct	_	_
+11	на	на	ADP	IN	_	13	case	_	_
+12	самом	самый	ADJ	JJ	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	деле	дело	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+14	невероятно	невероятный	ADJ	JJH	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	14	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 acl	color:blue
-1	Спешивший	спешить	VERB	VBN	Animacy=Anim|Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Long|VerbForm=Part|Voice=Act	5	acl	_	_
-2	захватить	захватить	VERB	VB	Aspect=Perf	1	xcomp	_	_
-3	Кадеш	Кадеш	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	1	punct	_	_
-5	Рамзес	Рамзес	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-6	II	II	ADJ	JJ	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Variant=Long	5	flat:name	_	Proper=True
-7	допустил	допустить	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
-8	серьезную	серьезный	ADJ	JJ	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Variant=Long	10	amod	_	_
-9	тактическую	тактический	ADJ	JJ	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|Variant=Long	10	amod	_	_
-10	ошибку	ошибка	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 acl	color:blue
+1	Ее	она	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
+2	можно	можно	VERB	PRED	Degree=Pos	0	root	_	_
+3	назвать	назвать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+4	одной	один	NUM	CD	Case=Ins|Gender=Fem|Number=Sing	3	nummod	_	_
+5	из	из	ADP	IN	_	9	case	_	_
+6	самых	самый	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+7	широко	широко	ADV	RB	Degree=Pos	8	advmod	_	_
+8	распространенных	распространенный	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	9	acl	_	_
+9	культур	культура	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+10	того	тот	DET	DT	Case=Gen|Gender=Neut|Number=Sing	11	det	_	_
+11	времени	время	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	для	для	ADP	IN	_	14	case	_	_
+14	которой	который	PRON	WDT	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+15	известно	известный	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	acl:relcl	_	_
+16	большое	большой	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	количество	количество	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+18	мест	место	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+19	археологических	археологический	ADJ	JJ	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	находок	находка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

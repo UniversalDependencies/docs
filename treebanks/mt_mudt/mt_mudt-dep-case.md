@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="mt_mudt-dep-case-det.html">case:det</a></tt>.
 
-3156 nodes (7%) are attached to their parents as `case`.
+2875 nodes (7%) are attached to their parents as `case`.
 
-2859 instances of `case` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42268694550063.
+2851 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44034782608696.
 
-The following 24 pairs of parts of speech are connected with `case`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (2033; 64% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (353; 11% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (270; 9% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (229; 7% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (107; 3% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (45; 1% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (26; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="mt_mudt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `case`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (2032; 71% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (352; 12% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (225; 8% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (111; 4% instances), <tt><a href="mt_mudt-pos-NUM.html">NUM</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (44; 2% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (26; 1% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="mt_mudt-pos-SYM.html">SYM</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (20; 1% instances), <tt><a href="mt_mudt-pos-X.html">X</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="mt_mudt-pos-DET.html">DET</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt>-<tt><a href="mt_mudt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-PRON.html">PRON</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,20 +51,21 @@ The following 24 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 case	color:blue
-1	Ma	_	PART	NEG	_	2	aux:neg	_	_
-2	qagħadx	_	VERB	VERB	_	0	root	_	_
-3	attent	_	ADJ	ADJ	_	2	xcomp	_	_
-4	biex	_	SCONJ	CONJ_SUB	_	5	mark	_	_
-5	iħares	_	VERB	VERB	_	3	advcl	_	_
-6	il-	_	DET	DEF	_	7	det	_	SpaceAfter=No
-7	fama	_	NOUN	NOUN	_	5	obj	_	_
-8	tiegħu	_	PRON	GEN_PRON	_	7	case	_	SpaceAfter=No
-9	.	_	PUNCT	X_PUN	_	2	punct	_	_
+# visual-style 7 6 case	color:blue
+1	Mhix	_	AUX	PRON_PERS_NEG	_	2	aux:neg	_	_
+2	kwistjoni	_	NOUN	NOUN	_	0	root	_	_
+3	li	_	SCONJ	COMP	_	4	mark	_	_
+4	aċċetta	_	VERB	VERB	_	2	ccomp	_	_
+5	vjaġġ	_	NOUN	NOUN	_	4	obj	_	_
+6	b'	_	ADP	PREP	_	7	case	_	SpaceAfter=No
+7	xejn	_	PRON	PRON_INDEF	_	5	nmod	_	_
+8	b'	_	ADP	PREP	_	9	case	_	SpaceAfter=No
+9	rigal	_	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
+10	.	_	PUNCT	X_PUN	_	2	punct	_	_
 
 ~~~
 

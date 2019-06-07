@@ -9,12 +9,45 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-parataxis.html">parataxis</a></tt>.
 There are also 2 other language-specific subtypes of `parataxis`: <tt><a href="uk_iu-dep-parataxis-discourse.html">parataxis:discourse</a></tt>, <tt><a href="uk_iu-dep-parataxis-rel.html">parataxis:rel</a></tt>.
 
-3 nodes (0%) are attached to their parents as `parataxis:newsent`.
+4 nodes (0%) are attached to their parents as `parataxis:newsent`.
 
-3 instances of `parataxis:newsent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.6666666666667.
+4 instances of `parataxis:newsent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.75.
 
-The following 3 pairs of parts of speech are connected with `parataxis:newsent`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `parataxis:newsent`: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 20 parataxis:newsent	color:blue
+1	У	у	ADP	Spsl	Case=Loc	2	case	2:case	Id=2hcg|LTranslit=u|Translit=U
+2	процесі	процес	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	6:obl	Id=2hch|LTranslit=proces|Translit=procesi
+3	переговорів	переговори	NOUN	Nc-pgn	Animacy=Inan|Case=Gen|Number=Ptan	2	nmod	2:nmod	Id=2hci|LTranslit=perehovory|Translit=perehovoriv
+4	із	із	ADP	Spsi	Case=Ins	5	case	5:case	Id=2hcj|LTranslit=iz|Translit=iz
+5	ними	вони	PRON	Pp-3--pin	Case=Ins|Number=Plur|Person=3|PronType=Prs	3	nmod	3:nmod	Id=2hck|LTranslit=vony|Translit=nymy
+6	почула	почути	VERB	Vmeis-sf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=2hcl|LTranslit=počuty|Translit=počula
+7	приблизно	приблизно	ADV	Rp	Degree=Pos	8	advmod	8:advmod	Id=2hcm|LTranslit=pryblyzno|Translit=pryblyzno
+8	таке	таке	PRON	Pd--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	6:obj	Id=2hcn|LTranslit=take|SpaceAfter=No|Translit=take
+9	:	:	PUNCT	U	_	15	punct	15:punct	Id=2hco|LTranslit=:|Translit=:
+10	«	«	PUNCT	U	PunctType=Quot	15	punct	15:punct	Id=2hcp|LTranslit=«|SpaceAfter=No|Translit=«
+11	Ні	ні	INTJ	I	_	15	discourse	15:discourse	Id=2hcq|LTranslit=ni|SpaceAfter=No|Translit=Ni
+12	,	,	PUNCT	U	_	11	punct	11:punct	Id=2hcr|LTranslit=,|Translit=,
+13	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj|16:nsubj:x	Id=2hcs|LTranslit=ja|Translit=ja
+14	не	не	PART	Q	Polarity=Neg	15	advmod	15:advmod	Id=2hct|LTranslit=ne|Translit=ne
+15	хочу	хотіти	VERB	Vmpip1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	Id=2hcu|LTranslit=chotity|Translit=choču
+16	зніматися	зніматися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	15	xcomp	15:xcomp	Id=2hcv|LTranslit=znimatyśа|Translit=znimatyśа
+17	у	у	ADP	Spsl	Case=Loc	18	case	18:case	Id=2hcw|LTranslit=u|Translit=u
+18	стрічці	стрічка	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	16:obl	Id=2hcx|LTranslit=strička|SpaceAfter=No|Translit=stričci
+19	.	.	PUNCT	U	_	15	punct	15:punct	Id=2hcy|LTranslit=.|Translit=.
+20	Втомився	втомитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	parataxis:newsent	15:parataxis:newsent	Id=2hcz|LTranslit=vtomytyśа|SpaceAfter=No|Translit=Vtomyvśа
+21	»	»	PUNCT	U	PunctType=Quot	20	punct	20:punct	Id=2hd0|LTranslit=»|Translit=»
+22	тощо	тощо	PART	Q	_	15	discourse	15:discourse	Id=2hd1|LTranslit=toščo|SpaceAfter=No|Translit=toščo
+23	.	.	PUNCT	U	_	6	punct	6:punct	Id=2hd2|LTranslit=.|Translit=.
+
+~~~
 
 
 ~~~ conllu
@@ -30,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 5	принесення	принесення	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod	Id=3702|LTranslit=prynesenńа|Translit=prynesenńа
 6	миру	мир	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod	Id=3703|LTranslit=myr|Translit=myru
 7	в	в	ADP	Spsa	Case=Acc	9	case	9:case	Id=3704|LTranslit=v|Translit=v
-8	мою	мій	DET	Ppp1f-saa	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	9:det	Id=3705|LTranslit=mij|Translit=moju
+8	мою	мій	DET	Pps1f-saa	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	9:det	Id=3705|LTranslit=mij|Translit=moju
 9	країну	країна	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	5:nmod	Id=3706|LTranslit=krajina|SpaceAfter=No|Translit=krajinu
 10	,	,	PUNCT	U	_	13	punct	13:punct	Id=3707|LTranslit=,|Translit=,
 11	що	що	SCONJ	Css	_	13	mark	13:mark	Id=3708|LTranslit=ščo|Translit=ščo
@@ -73,7 +106,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 48	,	,	PUNCT	U	_	49	punct	49:punct	Id=3719|LTranslit=,|Translit=,
 49	говорячи	говорити	VERB	Vmpgp	Aspect=Imp|Tense=Pres|VerbForm=Conv	19	advcl	19:advcl	Id=371a|LTranslit=hovoryty|Translit=hovoŕаčy
 50	про	про	ADP	Spsa	Case=Acc	52	case	52:case	Id=371b|LTranslit=pro|Translit=pro
-51	своє	свій	DET	Ppp-n-saa	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	52	det	52:det	Id=371c|LTranslit=svij|Translit=svoě
+51	своє	свій	DET	Pps-n-saa	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	52	det	52:det	Id=371c|LTranslit=svij|Translit=svoě
 52	бачення	бачення	NOUN	Ncnsan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	49	obl	49:obl	Id=371d|LTranslit=bačenńа|Translit=bačenńа
 53	можливої	можливий	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	54	amod	54:amod	Id=371e|LTranslit=možlyvyj|Translit=možlyvoji
 54	участі	участь	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	nmod	52:nmod	Id=371f|LTranslit=učasť|Translit=učasti
@@ -166,68 +199,6 @@ The following 3 pairs of parts of speech are connected with `parataxis:newsent`:
 70	!	!	PUNCT	U	_	68	punct	68:punct	Id=2b74|LTranslit=!|SpaceAfter=No|Translit=!
 71	)	)	PUNCT	U	_	68	punct	68:punct	Id=2b75|LTranslit=)|SpaceAfter=No|Translit=)
 72	.	.	PUNCT	U	_	44	punct	44:punct	Id=2b76|LTranslit=.|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 40	bgColor:blue
-# visual-style 40	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 40 parataxis:newsent	color:blue
-1	Поруч	поруч	ADP	Spsg	Case=Gen	3	case	3:case	Id=1kjx|LTranslit=poruč|Translit=Poruč
-2	сеї	сей	DET	Pd--f-sga	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	Id=1kjy|LTranslit=sej|Translit=seji
-3	збірки	збірка	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	obl	6:nsubj:rel|7:nsubj:x|10:nsubj:sp|49:obl	Id=1kjz|LTranslit=zbirka|SpaceAfter=No|Translit=zbirky
-4	,	,	PUNCT	U	_	6	punct	6:punct	Id=1kk0|LTranslit=,|Translit=,
-5	яка	який	DET	Pr--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	3:ref|6:nsubj|7:nsubj:x|10:nsubj:sp	Id=1kk1|LTranslit=jakyj|Translit=jaka
-6	має	мати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Id=1kk2|LTranslit=maty|Translit=maě
-7	зватися	зватися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	6	xcomp	6:xcomp	Id=1kk3|LTranslit=zvatyśа|Translit=zvatyśа
-8	«	«	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=1kk4|LTranslit=«|SpaceAfter=No|Translit=«
-9	Село	село	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	Id=1kk5|LTranslit=selo|Translit=Selo
-10	вигибає	вигибати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	xcomp:sp	7:xcomp:sp	Graft=Yes|Id=1kk6|LTranslit=vyhybaty|SpaceAfter=No|Translit=vyhybaě
-11	»	»	PUNCT	U	PunctType=Quot	10	punct	10:punct	Id=1kk7|LTranslit=»|Translit=»
-12	(	(	PUNCT	U	_	13	punct	13:punct	Id=1kk8|LTranslit=(|SpaceAfter=No|Translit=(
-13	хотілося	хотітися	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	parataxis	6:parataxis	Id=1kk9|LTranslit=chotityśа|Translit=chotilośа
-14	назвати	назвати	VERB	Vmen	Aspect=Perf|VerbForm=Inf	13	xcomp	13:xcomp	Id=1kka|LTranslit=nazvaty|Translit=nazvaty
-15	її	вона	PRON	Pp-3f-san	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	14:obj|18:nsubj:sp	Id=1kkb|LTranslit=vona|Translit=jiji
-16	«	«	PUNCT	U	PunctType=Quot	18	punct	18:punct	Id=1kkc|LTranslit=«|SpaceAfter=No|Translit=«
-17	Село	село	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	18:nsubj	Id=1kkd|LTranslit=selo|Translit=Selo
-18	потерпає	потерпати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	xcomp:sp	14:xcomp:sp	Graft=Yes|Id=1kke|LTranslit=poterpaty|SpaceAfter=No|Translit=poterpaě
-19	»	»	PUNCT	U	PunctType=Quot	18	punct	18:punct	Id=1kkf|LTranslit=»|SpaceAfter=No|Translit=»
-20	,	,	PUNCT	U	_	22	punct	22:punct	Id=1kkg|LTranslit=,|Translit=,
-21	але	але	CCONJ	Ccs	_	22	cc	22:cc	Id=1kkh|LTranslit=ale|Translit=ale
-22	вирішено	вирішити	VERB	Vmeo	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	13	conj	13:conj	Id=1kki|LTranslit=vyrišyty|Translit=vyrišeno
-23	було	бути	AUX	Vapis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	22	aux	22:aux	Id=1kkj|LTranslit=buty|SpaceAfter=No|Translit=bulo
-24	:	:	PUNCT	U	_	31	punct	31:punct	Id=1kkk|LTranslit=:|Translit=:
-25	у	у	ADP	Spsg	Case=Gen	26	case	26:case	Id=1kkl|LTranslit=u|Translit=u
-26	нас	ми	PRON	Pp-1-ypgn	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	31	obl	31:obl	Id=1kkm|LTranslit=my|Translit=nas
-27	ця	цей	DET	Pd--f-sna	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	28	det	28:det	Id=1kkn|LTranslit=cej|Translit=ćа
-28	назва	назва	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	31	nsubj	31:nsubj	Id=1kko|LTranslit=nazva|Translit=nazva
-29	не	не	PART	Q	Polarity=Neg	30	advmod	30:advmod	Id=1kkp|LTranslit=ne|Translit=ne
-30	буде	бути	AUX	Vapif3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	cop	31:cop	Id=1kkq|LTranslit=buty|Translit=bude
-31	промовистою	промовистий	ADJ	Afpfsif	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	ccomp	22:ccomp	Id=1kkr|LTranslit=promovystyj|SpaceAfter=No|Translit=promovystoju
-32	.	.	PUNCT	U	_	13	punct	13:punct	Id=1kks|LTranslit=.|Translit=.
-33	Слова	слово	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	obj	40:obj	Id=1kku|LTranslit=slovo|Translit=Slova
-34	«	«	PUNCT	U	PunctType=Quot	35	punct	35:punct	Id=1kkv|LTranslit=«|SpaceAfter=No|Translit=«
-35	потерпати	потерпати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	33	flat:title	33:flat:title	Id=1kkw|LTranslit=poterpaty|SpaceAfter=No|Translit=poterpaty
-36	»	»	PUNCT	U	PunctType=Quot	35	punct	35:punct	Id=1kkx|LTranslit=»|Translit=»
-37	у	у	ADP	Spsg	Case=Gen	38	case	38:case	Id=1kky|LTranslit=u|Translit=u
-38	нас	ми	PRON	Pp-1-ypgn	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	40	obl	40:obl	Id=1kkz|LTranslit=my|Translit=nas
-39	не	не	PART	Q	Polarity=Neg	40	advmod	40:advmod	Id=1kl0|LTranslit=ne|Translit=ne
-40	зрозуміють	зрозуміти	VERB	Vmeif3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	13	parataxis:newsent	13:parataxis:newsent	Id=1kl1|LTranslit=zrozumity|SpaceAfter=No|Translit=zrozumijuť
-41	)	)	PUNCT	U	_	40	punct	40:punct	Id=1kl2|LTranslit=)|SpaceAfter=No|Translit=)
-42	,	,	PUNCT	U	_	6	punct	6:punct	Id=1kl3|LTranslit=,|Translit=,
-43	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	44	nsubj	44:nsubj|45:nsubj:x	Id=1kl4|LTranslit=ja|Translit=ja
-44	постараюсь	постаратися	VERB	Vmeif1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	0:root	Id=1kl5|LTranslit=postaratyśа|Translit=postarajuś
-45	настояти	настояти	VERB	Vmen	Aspect=Perf|VerbForm=Inf	44	xcomp	44:xcomp	Id=1kl6|LTranslit=nastojaty|SpaceAfter=No|Translit=nastojaty
-46	,	,	PUNCT	U	_	49	punct	49:punct	Id=1kl7|LTranslit=,|Translit=,
-47	щоб	щоб	SCONJ	Css	_	49	mark	49:mark	Id=1kl8|LTranslit=ščob|Translit=ščob
-48	видавництво	видавництво	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	49	nsubj	49:nsubj	Id=1kl9|LTranslit=vydavnyctvo|Translit=vydavnyctvo
-49	заходилося	заходитися	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	45	ccomp	45:ccomp	Id=1kla|LTranslit=zachodytyśа|Translit=zachodylośа
-50	коло	коло	ADP	Spsg	Case=Gen	51	case	51:case	Id=1klb|LTranslit=kolo|Translit=kolo
-51	другої	другий	ADJ	Mlofsg	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	49	obl	49:obl	Id=1klc|LTranslit=druhyj|Promoted=Yes|SpaceAfter=No|Translit=druhoji
-52	.	.	PUNCT	U	_	44	punct	44:punct	Id=1kld|LTranslit=.|Translit=.
 
 ~~~
 

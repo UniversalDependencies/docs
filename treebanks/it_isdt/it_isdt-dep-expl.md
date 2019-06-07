@@ -11,10 +11,10 @@ There are 2 language-specific subtypes of `expl`: <tt><a href="it_isdt-dep-expl-
 
 2182 nodes (1%) are attached to their parents as `expl`.
 
-1756 instances of `expl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22731439046746.
+1760 instances of `expl` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22777268560953.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2167; 99% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2172; 100% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,26 +56,17 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 expl	color:blue
-1	Quanti	quanto	DET	DQ	Gender=Masc|Number=Plur|PronType=Int	2	det	2:det	_
-2	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	obj	3:obj	_
-3	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-4	avere	avere	VERB	V	VerbForm=Inf	3	xcomp	3:xcomp	_
-5	per	per	ADP	E	_	8	mark	8:mark	_
-6	poter	potere	AUX	VM	VerbForm=Inf	8	aux	8:aux	_
-7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	6:expl	_
-8	sposare	sposare	VERB	V	VerbForm=Inf	3	advcl	3:advcl:per	_
-9	in	in	ADP	E	_	11	case	11:case	_
-10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	11:det	_
-11	Carolina	Carolina	PROPN	SP	_	8	obl	8:obl:in	_
-12	di	di	ADP	E	_	14	case	14:case	_
-13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	14:det	_
-14	S	S	PROPN	SP	_	11	nmod	11:nmod:di	SpaceAfter=No
-15	?	?	PUNCT	FS	_	3	punct	3:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl	color:blue
+1	Dove	dove	ADV	B	_	3	advmod	3:advmod	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	3:expl	_
+3	verifica	verifica	NOUN	S	Gender=Fem|Number=Sing	0	root	0:root	_
+4	El	El	PROPN	SP	_	3	nsubj	3:nsubj	_
+5	Nino	Nino	PROPN	SP	_	4	flat:name	4:flat:name	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	3:punct	_
 
 ~~~
 

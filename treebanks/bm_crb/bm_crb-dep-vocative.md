@@ -69,15 +69,15 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 vocative	color:blue
-1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
-3	ko	kó	PART	cop	_	7	discourse	_	Gloss=
-4	baba	bàba	NOUN	n	_	6	vocative	_	Gloss=papa|SpaceAfter=No
+3	ko	kó	PART	cop	_	7	discourse	_	Gloss=
+4	baba	bàba	NOUN	n	_	6	vocative	_	Gloss=papa|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
-7	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
-8	dumunni	dúmuni	NOUN	n	_	9	obj	_	Gloss=action.de.manger
-9	kè	kɛ́	VERB	v	_	7	xcomp	_	Gloss=faire
+6	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
+7	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
+8	dumunni	dúmuni	NOUN	n	_	9	obj	_	Gloss=action.de.manger
+9	kè	kɛ́	VERB	v	_	7	xcomp	_	Gloss=faire
 10	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
 ~~~

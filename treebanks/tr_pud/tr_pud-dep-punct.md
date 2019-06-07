@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2150 nodes (13%) are attached to their parents as `punct`.
+2149 nodes (13%) are attached to their parents as `punct`.
 
-1873 instances of `punct` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66279069767442.
+1872 instances of `punct` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64495114006515.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (837; 39% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (765; 36% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (225; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (164; 8% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (53; 2% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (48; 2% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (27; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (18; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (839; 39% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (752; 35% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (225; 10% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (139; 6% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (53; 2% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (48; 2% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (37; 2% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (27; 1% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (18; 1% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	Clinton'un	Clinton	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
 4	kabarık	kabarık	ADJ	JJ	Number=Sing	6	amod	_	_
 5	banka	banka	NOUN	NN	Number=Sing	6	compound	_	_
-6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
+6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 7	sağlanıyor	sağla	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 

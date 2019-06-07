@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1353 nodes (22%) are attached to their parents as `punct`.
+2729 nodes (20%) are attached to their parents as `punct`.
 
-1236 instances of `punct` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.46858832224686.
+2322 instances of `punct` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.28215463539758.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (807; 60% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (152; 11% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (105; 8% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (86; 6% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (64; 5% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (58; 4% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (38; 3% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (16; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (13; 1% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (1583; 58% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (409; 15% instances), <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (179; 7% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (156; 6% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (131; 5% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (79; 3% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (73; 3% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (39; 1% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (39; 1% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
 4	可	可	AUX	_	_	7	aux	_	SpaceAfter=No
 5	唔	唔	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	可以	可以	AUX	_	_	4	aux	_	SpaceAfter=No
+6	可以	可以	AUX	_	_	4	conj	_	SpaceAfter=No
 7	睇	睇	VERB	_	_	0	root	_	SpaceAfter=No
 8	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No

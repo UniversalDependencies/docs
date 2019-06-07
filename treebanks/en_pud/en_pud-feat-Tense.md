@@ -11,20 +11,20 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 2199 tokens (10%) have a non-empty value of `Tense`.
 762 types (14%) occur at least once with a non-empty value of `Tense`.
-576 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1456; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (742; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+573 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1451; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (747; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-1456 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Tense`.
+1451 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (880; 60%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (880; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (871; 60%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (871; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (1093; 75% of non-empty `Tense`): <em>said, used, took, began, had, was, became, made, allowed, released</em>
-* `Pres` (363; 25% of non-empty `Tense`): <em>are, has, is, says, have, 's, include, makes, helps, say</em>
-* `EMPTY` (698): <em>have, according, take, do, following, including, keep, go, help, see</em>
+* `Past` (1092; 75% of non-empty `Tense`): <em>said, used, took, began, had, became, made, allowed, released, told</em>
+* `Pres` (359; 25% of non-empty `Tense`): <em>has, are, is, says, have, include, makes, helps, say, seems</em>
+* `EMPTY` (699): <em>have, according, take, do, following, go, including, keep, help, make</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -35,21 +35,21 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-742 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Tense`.
+747 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (689; 93%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (689; 93%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (427; 58%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (425; 57%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (698; 93%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (698; 93%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 58%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (433; 58%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (367; 49% of non-empty `Tense`): <em>was, were, had, been, did, become, declared, frozen, got, named</em>
-* `Pres` (375; 51% of non-empty `Tense`): <em>is, are, has, have, 's, do, ’s, does, am, ’m</em>
-* `EMPTY` (268): <em>be, will, would, can, could, being, have, may, having, might</em>
+* `Past` (368; 49% of non-empty `Tense`): <em>was, were, had, been, did, got</em>
+* `Pres` (379; 51% of non-empty `Tense`): <em>is, are, has, have, 's, do, ’s, does, am, ’m</em>
+* `EMPTY` (267): <em>be, would, will, can, could, being, have, may, having, might</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>am</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's</em></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 'm</em></td><td><em>were</em></td></tr>
+  <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, ’s</em></td><td><em>was</em></td></tr>
+  <tr><td><tt><tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, ’m, 'm, ’re</em></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>been</em></td></tr>
 </table>
 
@@ -67,11 +67,8 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="en_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (174; 66%),
-<tt>VERB --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (110; 77%),
-<tt>VERB --[<tt><a href="en_pud-dep-aux.html">aux</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="en_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (179; 66%),
+<tt>VERB --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (111; 77%),
 <tt>AUX --[<tt><a href="en_pud-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="en_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

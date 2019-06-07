@@ -47,12 +47,12 @@ The 10 most frequent ambiguous types:  <em>δύω</em> (<tt><a href="grc_perseus
   * <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> 10: <em>αὐτὰρ ὃ μοῦνος ἔην μετὰ <b>πέντε</b> κασιγνήτῃσιν .</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 8: <em>μνᾶς πραξαμένη δὲ <b>πέντε</b> τὰς σπονδὰς ποοῦ καὶ στρῶσον ἡμῖν ἔνδον .</em>
 * <em>τρεῖς</em>
-  * <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> 10: <em><b>τρεῖς</b> δ̓ ἄῤ ἀμαλλοδετῆρες ἐφέστασαν ·</em>
+  * <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> 10: <em><b>τρεῖς</b> δ̓ ἄῤ ἀμαλλοδετῆρες ἐφέστασαν ·</em>
   * <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> 7: <em>καὶ κάνδαυλον δέ τινα ἔλεγον οἱ Λυδοί , οὐχ ἕνα ἀλλὰ <b>τρεῖς</b> ·</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.692308 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `NUM` is 1.692308 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (4) was observed with the lemma “δύο”: <em>δυοῖν, δύ̓, δύο, δύω</em>.
 

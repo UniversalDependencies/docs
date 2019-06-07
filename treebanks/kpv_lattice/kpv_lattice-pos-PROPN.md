@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `PROPN`
 
 There are 19 `PROPN` lemmas (2%), 21 `PROPN` types (2%) and 29 `PROPN` tokens (1%).
-Out of 15 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `PROPN` is: 7 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Ворошилов, Ефрем, Климент, Краснӧй, Сталин, Валентина, Волга, Ивановна, Калинин, Максим</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.105263 (the average of all parts of speech is 1.298160).
+The form / lemma ratio of `PROPN` is 1.105263 (the average of all parts of speech is 1.300621).
 
 The 1st highest number of forms (2) was observed with the lemma “Ворошилов”: <em>Ворошилов, Ворошиловӧс</em>.
 
@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “Валент�
 `PROPN` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Apr`, `Case=Com`, `Case=Dat`, `Case=Ins`, `Case=Nom`, `Number=Sing`
 
 `PROPN` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (21 tokens).
-Examples: <em>Ворошилов, Климент, Ефремович, Краснӧй, Валентина, Ивановна, Калинин, Оборона, Сталин, Хасан</em>
+The most frequent feature combination is `Case=Nom|Number=Sing` (22 tokens).
+Examples: <em>Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Валентина, Ивановна, Калинин, Оборона, Хасан</em>
 
 
 ## Relations
@@ -57,7 +57,7 @@ Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="kpv
 
 The highest child degree of a `PROPN` node is 3.
 
-Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (9; 39% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (1; 4% instances)
+Children of `PROPN` nodes are attached using 7 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (9; 39% instances), <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (1; 4% instances)
 
-Children of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 30% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (7; 30% instances), <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 4% instances)
+Children of `PROPN` nodes belong to 6 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 30% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (7; 30% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 13% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (2; 9% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 4% instances)
 

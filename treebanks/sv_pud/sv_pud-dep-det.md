@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1016 nodes (5%) are attached to their parents as `det`.
+1017 nodes (5%) are attached to their parents as `det`.
 
-1016 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68700787401575.
+1017 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68731563421829.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (954; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (34; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (955; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (34; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -71,9 +71,9 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 7	kallade	kallad	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	6	fixed	6:fixed	_
 8	”	”	PUNCT	PAD	_	9	punct	9:punct	SpaceAfter=No
 9	Andes	ande	NOUN	NN|UTR|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	4	obj	4:obj|15:nsubj:pass	_
-10	de	den	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur	11	case	11:case	_
-11	tipo	tipo	NUM	RG|NOM	Case=Nom	9	nmod	9:nmod:de	_
-12	andino	andino	NOUN	UO	Foreign=Yes	11	amod	11:amod	SpaceAfter=No
+10	de	den	ADP	PP	_	11	case	11:case	_
+11	tipo	tipo	NOUN	NN|SIN	Number=Sing	9	nmod	9:nmod:de	_
+12	andino	andino	ADJ	JJ|SIN	Number=Sing	11	amod	11:amod	SpaceAfter=No
 13	”	”	PUNCT	PAD	_	11	punct	11:punct	_
 14	som	som	PRON	HP|-|-|-	PronType=Int,Rel	15	nsubj:pass	9:ref	_
 15	formades	forma	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	9	acl:relcl	9:acl:relcl	_

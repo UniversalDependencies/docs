@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3020 nodes (3%) are attached to their parents as `cc`.
+3013 nodes (3%) are attached to their parents as `cc`.
 
-2960 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.24403973509934.
+2966 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23498174576834.
 
-The following 33 pairs of parts of speech are connected with `cc`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1287; 43% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (902; 30% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (343; 11% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (280; 9% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (72; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (28; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (18; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `cc`: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1268; 42% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (925; 31% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (355; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (268; 9% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (48; 2% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (36; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (26; 1% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-X.html">X</a></tt>-<tt><a href="ru_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,15 @@ The following 33 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 cc	color:blue
-1	Провёл	ПРОВЕСТИ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-2	полтора	ПОЛТОРА	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
-3	года	ГОД	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
-4	в	В	ADP	IN	_	5	case	_	_
-5	Риме	РИМ	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
-6	и	И	CCONJ	CC	_	9	cc	_	_
-7	других	ДРУГОЙ	ADJ	JJL	Animacy=Inan|Case=Loc|Number=Plur	9	amod	_	_
-8	европейских	ЕВРОПЕЙСКИЙ	ADJ	JJL	Animacy=Inan|Case=Loc|Number=Plur	9	amod	_	_
-9	городах	ГОРОД	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+1	Провёл	провести	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	полтора	полтора	NUM	CD	Case=Acc|Gender=Masc|NumType=Card	3	nummod:gov	_	_
+3	года	год	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+4	в	в	ADP	IN	_	5	case	_	_
+5	Риме	Рим	PROPN	NNP	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+6	и	и	CCONJ	CC	_	9	cc	_	_
+7	других	другой	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+8	европейских	европейский	ADJ	JJL	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	городах	город	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -42,13 +42,13 @@ The following 33 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 cc	color:blue
-1	Но	НО	CCONJ	CC	_	7	cc	_	_
-2	в	В	ADP	IN	_	4	case	_	_
-3	1990	1990	ADJ	ORD	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
-4	г.	Г.	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
-5	безоблачная	БЕЗОБЛАЧНЫЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
-6	жизнь	ЖИЗНЬ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-7	закончилась	ЗАКОНЧИТЬСЯ	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+1	Но	но	CCONJ	CC	_	7	cc	_	_
+2	в	в	ADP	IN	_	4	case	_	_
+3	1990	1990	ADJ	ORD	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	г.	год	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+5	безоблачная	безоблачный	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	жизнь	жизнь	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	закончилась	закончиться	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
@@ -60,14 +60,14 @@ The following 33 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 cc	color:blue
-1	Вышивки	ВЫШИВКА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	Полесья	ПОЛЕСЬЕ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+1	Вышивки	вышивка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+2	Полесья	Полесье	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
 3	--	--	PUNCT	--	_	4	punct	_	_
-4	простые	ПРОСТОЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Number=Plur	0	root	_	_
-5	и	И	CCONJ	CC	_	6	cc	_	_
-6	четкие	ЧЕТКИЙ	ADJ	JJL	Animacy=Inan|Case=Nom|Number=Plur	4	conj	_	_
-7	по	ПО	ADP	IN	_	8	case	_	_
-8	композиции	КОМПОЗИЦИЯ	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+4	простые	простой	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
+5	и	и	CCONJ	CC	_	6	cc	_	_
+6	четкие	четкий	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	4	conj	_	_
+7	по	по	ADP	IN	_	8	case	_	_
+8	композиции	композиция	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~

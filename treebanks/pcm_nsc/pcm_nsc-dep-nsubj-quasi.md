@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:quasi`: <tt><
 4	man	man	NOUN	_	_	2	nsubj:quasi	_	_
 5	wey	wey	SCONJ	_	_	10	mark	_	_
 6	be	be	VERB	_	_	5	fixed	_	_
-7	sey	sey	SCONJ	_	_	6	fixed	_	_
+7	sey	sey	SCONJ	_	_	5	fixed	_	_
 8	im	im	PRON	_	_	10	nsubj	_	_
 9	don	don	AUX	_	_	10	aux	_	_
 10	carry	carry	VERB	_	_	4	acl:relcl	_	_

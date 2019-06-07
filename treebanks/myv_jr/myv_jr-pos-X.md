@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>но</em> (<tt><a href="myv_jr-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.987228).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.992447).
 
 The 1st highest number of forms (1) was observed with the lemma “имени”: <em>имени</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “мне”: <e
 
 `X` nodes are attached to their parents using 3 different relations: <tt><a href="myv_jr-dep-flat.html">flat</a></tt> (6; 75% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (1; 13% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 13% instances)
 
-Parents of `X` nodes belong to 3 different parts of speech: <tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 75% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Parents of `X` nodes belong to 3 different parts of speech: <tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 75% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 13% instances)
 
 7 (88%) `X` nodes are leaves.
 
@@ -52,7 +52,7 @@ Parents of `X` nodes belong to 3 different parts of speech: <tt><a href="myv_jr-
 
 The highest child degree of a `X` node is 11.
 
-Children of `X` nodes are attached using 2 different relations: <tt><a href="myv_jr-dep-flat.html">flat</a></tt> (8; 73% instances), <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (3; 27% instances)
+Children of `X` nodes are attached using 2 different relations: <tt><a href="myv_jr-dep-flat.html">flat</a></tt> (6; 55% instances), <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (5; 45% instances)
 
 Children of `X` nodes belong to 2 different parts of speech: <tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 55% instances), <tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (5; 45% instances)
 

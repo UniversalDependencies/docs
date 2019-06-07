@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `compound:svc`
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-compound.html">compound</a></tt>.
-There are also 2 other language-specific subtypes of `compound`: <tt><a href="pcm_nsc-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="pcm_nsc-dep-compound-prt.html">compound:prt</a></tt>.
 
 145 nodes (1%) are attached to their parents as `compound:svc`.
 
 144 instances of `compound:svc` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.92413793103448.
+Average distance between parent and child is 1.93103448275862.
 
-The following 5 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (134; 92% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:svc`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (135; 93% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -42,11 +42,11 @@ The following 5 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:svc	color:blue
 1	#	#	PUNCT	_	_	3	punct	_	_
-2	na	na	PART	_	_	3	cop	_	_
+2	na	na	AUX	PART	_	3	cop	_	_
 3	farmer	farmer	NOUN	_	_	0	root	_	_
-4	dem	dem	PART	_	_	3	det	_	_
+4	dem	dem	DET	PART	_	3	det	_	_
 5	>+	>+	PUNCT	_	_	7	punct	_	_
-6	dey	dey	AUX	_	_	7	cop	_	_
+6	dey	be	AUX	_	_	7	cop	_	_
 7	happy	happy	ADJ	_	_	3	acl:cleft	_	_
 8	pass	pass	VERB	_	_	7	compound:svc	_	_
 9	#	#	PUNCT	_	_	12	punct	_	_

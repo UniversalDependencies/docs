@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-ParTUT: POS Tags: `AUX`
 
-There are 9 `AUX` lemmas (0%), 123 `AUX` types (1%) and 2044 `AUX` tokens (4%).
+There are 8 `AUX` lemmas (0%), 123 `AUX` types (1%) and 2044 `AUX` tokens (4%).
 Out of 15 observed tags, the rank of `AUX` is: 14 in number of lemmas, 7 in number of types and 7 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>essere, avere, potere, dovere, venire, stare, volere, andare, dovrebbero</em>
+The 10 most frequent `AUX` lemmas: <em>essere, avere, potere, dovere, venire, stare, volere, andare</em>
 
 The 10 most frequent `AUX` types:  <em>è, sono, essere, ha, era, hanno, sia, stato, può, fu</em>
 
-The 10 most frequent ambiguous lemmas: <em>essere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 1244, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 79, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 7), <em>avere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 311, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 138), <em>potere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 217, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 12), <em>dovere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 144, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 4), <em>venire</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 60, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6), <em>stare</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 32, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 7), <em>volere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 24, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6), <em>andare</em> (<tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 17, <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>essere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 1244, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 79, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 7), <em>avere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 311, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 138), <em>potere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 217, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 12), <em>dovere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 145, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 4), <em>venire</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 60, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6), <em>stare</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 32, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 7), <em>volere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 24, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 6), <em>andare</em> (<tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 17, <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 11)
 
 The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 403, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 41), <em>sono</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 177, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 11), <em>essere</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 139, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 2), <em>ha</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 127, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 41), <em>era</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 77, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 5), <em>hanno</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 74, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 27), <em>sia</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 60, <tt><a href="it_partut-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 3), <em>stato</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 59, <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 29, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 1), <em>stati</em> (<tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 32, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 2), <em>stata</em> (<tt><a href="it_partut-pos-AUX.html">AUX</a></tt> 30, <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> 2)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_partut-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 13.666667 (the average of all parts of speech is 1.487817).
+The form / lemma ratio of `AUX` is 15.375000 (the average of all parts of speech is 1.488064).
 
 The 1st highest number of forms (28) was observed with the lemma “essere”: <em>e', era, erano, essendo, esser, essere, fosse, fossero, fu, furono, sarai, saranno, sarebbe, sarebbero, sarei, saremmo, sarà, sei, sia, siamo, siano, siete, sono, stata, state, stati, stato, è</em>.
 
@@ -77,17 +77,15 @@ Examples: <em>è, ha, può, deve, viene, e', sta, va, vuole</em>
 
 Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1392; 68% instances), <tt><a href="it_partut-pos-ADJ.html">ADJ</a></tt> (299; 15% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (285; 14% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (53; 3% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="it_partut-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_partut-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 
-2028 (99%) `AUX` nodes are leaves.
+2038 (100%) `AUX` nodes are leaves.
 
-12 (1%) `AUX` nodes have one child.
+4 (0%) `AUX` nodes have one child.
 
-3 (0%) `AUX` nodes have two children.
+2 (0%) `AUX` nodes have two children.
 
-1 (0%) `AUX` nodes have three or more children.
+The highest child degree of a `AUX` node is 2.
 
-The highest child degree of a `AUX` node is 4.
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="it_partut-dep-punct.html">punct</a></tt> (4; 50% instances), <tt><a href="it_partut-dep-advmod.html">advmod</a></tt> (1; 13% instances), <tt><a href="it_partut-dep-cc.html">cc</a></tt> (1; 13% instances), <tt><a href="it_partut-dep-ccomp.html">ccomp</a></tt> (1; 13% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 13% instances)
 
-Children of `AUX` nodes are attached using 7 different relations: <tt><a href="it_partut-dep-punct.html">punct</a></tt> (6; 27% instances), <tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt> (5; 23% instances), <tt><a href="it_partut-dep-advmod.html">advmod</a></tt> (4; 18% instances), <tt><a href="it_partut-dep-nmod.html">nmod</a></tt> (4; 18% instances), <tt><a href="it_partut-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="it_partut-dep-ccomp.html">ccomp</a></tt> (1; 5% instances), <tt><a href="it_partut-dep-conj.html">conj</a></tt> (1; 5% instances)
-
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="it_partut-pos-PUNCT.html">PUNCT</a></tt> (6; 27% instances), <tt><a href="it_partut-pos-NOUN.html">NOUN</a></tt> (5; 23% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (4; 18% instances), <tt><a href="it_partut-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="it_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="it_partut-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1; 5% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="it_partut-pos-PUNCT.html">PUNCT</a></tt> (4; 50% instances), <tt><a href="it_partut-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="it_partut-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="it_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="it_partut-pos-VERB.html">VERB</a></tt> (1; 13% instances)
 

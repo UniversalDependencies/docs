@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `INTJ`
 
 There are 9 `INTJ` lemmas (0%), 23 `INTJ` types (0%) and 320 `INTJ` tokens (1%).
-Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 10 in number of types and 13 in number of tokens.
+Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>се, аминъ, горѥ, еи, ни, осана, ѡ, оува, сь</em>
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>се</em> (<tt><a href="cu_proiel-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 2.555556 (the average of all parts of speech is 3.256534).
+The form / lemma ratio of `INTJ` is 2.555556 (the average of all parts of speech is 3.275325).
 
 The 1st highest number of forms (9) was observed with the lemma “аминъ”: <em>А҅минь, амин, аминъ, аминь, амн, амнъ, амнь, амін, а҅мин</em>.
 
@@ -49,21 +49,21 @@ The 3rd highest number of forms (4) was observed with the lemma “ѡ”: <em>Ѡ
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="cu_proiel-dep-vocative.html">vocative</a></tt> (279; 87% instances), <tt><a href="cu_proiel-dep-root.html">root</a></tt> (29; 9% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (7; 2% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="cu_proiel-dep-xcomp.html">xcomp</a></tt> (2; 1% instances)
+`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="cu_proiel-dep-vocative.html">vocative</a></tt> (279; 87% instances), <tt><a href="cu_proiel-dep-root.html">root</a></tt> (31; 10% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (7; 2% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (3; 1% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (254; 79% instances),  (29; 9% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (19; 6% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (2; 1% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (229; 72% instances),  (31; 10% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (4; 1% instances)
 
 281 (88%) `INTJ` nodes are leaves.
 
-12 (4%) `INTJ` nodes have one child.
+11 (3%) `INTJ` nodes have one child.
 
 10 (3%) `INTJ` nodes have two children.
 
-17 (5%) `INTJ` nodes have three or more children.
+18 (6%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="cu_proiel-dep-iobj.html">iobj</a></tt> (32; 38% instances), <tt><a href="cu_proiel-dep-vocative.html">vocative</a></tt> (18; 21% instances), <tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt> (16; 19% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (8; 9% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (3; 4% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (3; 4% instances), <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (2; 2% instances)
+Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="cu_proiel-dep-iobj.html">iobj</a></tt> (32; 35% instances), <tt><a href="cu_proiel-dep-vocative.html">vocative</a></tt> (18; 20% instances), <tt><a href="cu_proiel-dep-advcl.html">advcl</a></tt> (16; 18% instances), <tt><a href="cu_proiel-dep-discourse.html">discourse</a></tt> (10; 11% instances), <tt><a href="cu_proiel-dep-advmod.html">advmod</a></tt> (3; 3% instances), <tt><a href="cu_proiel-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="cu_proiel-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="cu_proiel-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="cu_proiel-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="cu_proiel-dep-nsubj.html">nsubj</a></tt> (2; 2% instances)
 
-Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (21; 25% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (19; 22% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (18; 21% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (9; 11% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 6% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt> (21; 23% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (21; 23% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (18; 20% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt> (11; 12% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt> (5; 5% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="cu_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances)
 

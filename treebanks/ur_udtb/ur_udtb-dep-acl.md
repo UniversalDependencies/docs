@@ -23,16 +23,16 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 13 acl	color:blue
-1	اب	اب	PRON	PRP	Case=Nom|PronType=Prs	3	advmod	_	ChunkId=NP|ChunkType=head
+1	اب	اب	PRON	PRP	Case=Nom|PronType=Prs	3	obl	_	ChunkId=NP|ChunkType=head
 2	وقت	وقت	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head
 3	آ	آ	VERB	VM	Voice=Act	0	root	_	Vib=0|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative
 4	گیا	جا	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	Vib=1یا|Tam=yA1|ChunkId=VGF|ChunkType=child
-5	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=child
+5	ہے	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=child
 6	کہ	کہ	SCONJ	CC	_	13	mark	_	AltTag=SCONJ-CCONJ|ChunkId=CCP|ChunkType=head
 7	ایسے	ایسا	DET	DEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ChunkId=NP3|ChunkType=child
 8	افراد	فرد	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	13	obj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 9	کو	کو	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP3|ChunkType=child
-10	سلاخوں	سلاخ	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	13	advmod	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
+10	سلاخوں	سلاخ	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	13	obl	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 11	کے	کے	ADP	PSP	AdpType=Post	10	case	_	ChunkId=NP4|ChunkType=child
 12	پیچھے	پیچھے	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	10	case	_	AltTag=ADP-NOUN|ChunkId=NP4|ChunkType=child
 13	ڈھکیلا	ڈھکیلا	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	2	acl	_	Vib=یا|Tam=yA|ChunkId=VGF2|ChunkType=head|Stype=declarative
@@ -54,7 +54,7 @@ The following 21 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	کہتے	کہہ	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Vib=تا|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative
 5	ہےں	ہے	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Vib=ہے|Tam=hE|ChunkId=VGF|ChunkType=child
 6	اور	اور	CCONJ	CC	_	14	cc	_	ChunkId=CCP|ChunkType=head
-7	اس	وہ	PRON	PRP	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	advmod	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
+7	اس	وہ	PRON	PRP	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	obl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head
 8	پر	پر	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child
 9	عمل	عمل	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=head
 10	کرنے	کر	VERB	VM	Case=Acc|VerbForm=Inf	14	obj	_	Vib=نا|Tam=nA|ChunkId=VGNN|ChunkType=head

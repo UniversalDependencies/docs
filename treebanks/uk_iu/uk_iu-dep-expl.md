@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-107 nodes (0%) are attached to their parents as `expl`.
+116 nodes (0%) are attached to their parents as `expl`.
 
-90 instances of `expl` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.67289719626168.
+96 instances of `expl` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.57758620689655.
 
-The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (70; 65% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (19; 18% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `expl`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (73; 63% instances), <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (22; 19% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_iu-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt>-<tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

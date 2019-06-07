@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1186 nodes (1%) are attached to their parents as `nummod`.
+1637 nodes (1%) are attached to their parents as `nummod`.
 
-864 instances of `nummod` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3575042158516.
+1234 instances of `nummod` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38423946243128.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1006; 85% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (57; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (41; 3% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (35; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (29; 2% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1395; 85% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (69; 4% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (61; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (60; 4% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,30 +40,6 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	Așa	așa	ADV	Rg	_	0	root	_	ref=pred.27
-2	și	și	ADV	Rg	_	3	advmod	_	ref=pred.27
-3	Ioasafat	Ioasafat	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=pred.27|SpaceAfter=No
-4	,	,	PUNCT	COMMA	_	6	punct	_	ref=pred.27
-5	2	2	NUM	M	NumForm=Digit	6	nummod	_	ref=pred.27
-6	Paralipomen	Paralipomen	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	parataxis	_	ref=pred.27|SpaceAfter=No
-7	,	,	PUNCT	COMMA	_	8	punct	_	ref=pred.27
-8	19	19	NUM	M	NumForm=Digit	6	nummod	_	ref=pred.27|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	10	punct	_	ref=pred.27
-10	stih	stih	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nmod	_	ref=pred.27
-11	4	4	NUM	M	NumForm=Digit	10	nummod	_	ref=pred.27|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	13	punct	_	ref=pred.27
-13	11	11	NUM	M	NumForm=Digit	11	conj	_	ref=pred.27|SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	1	punct	_	ref=pred.27
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
@@ -81,6 +57,23 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 10	Chirineu	Chirineu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	ref=LUCA2.2|SpaceAfter=No
 11	)	)	PUNCT	RPAR	_	5	punct	_	ref=LUCA2.2|SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	5	punct	_	ref=LUCA2.2
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	Patru	patru	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	ref=MATT15.32.content
+2	mie	mie	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	4	nmod	_	ref=MATT15.32.content
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	ref=MATT15.32.content
+4	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	6	nsubj	_	ref=MATT15.32.content
+5	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	6	expl:pv	_	ref=MATT15.32.content
+6	săturară	sătura	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT15.32.content|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT15.32.content
 
 ~~~
 

@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 *Numeric modifiers* of a noun or NP, including both cardinal and

@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:dislocate
 1	#	#	PUNCT	_	_	11	punct	_	_
 2	sey	sey	SCONJ	_	_	6	mark	_	_
 3	you	you	PRON	_	_	6	nsubj	_	_
-4	sef	sef	PART	_	_	3	advmod:emph	_	_
+4	sef	sef	ADV	PART	_	3	advmod:emph	_	_
 5	<	<	PUNCT	_	_	3	punct	_	_
 6	love	love	VERB	_	_	11	parataxis:dislocated	_	_
 7	me	me	PRON	_	_	6	obj	_	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:dislocate
 4	marry	marry	VERB	_	_	9	parataxis:dislocated	_	_
 5	you	you	PRON	_	_	4	obj	_	_
 6	sey	sey	SCONJ	_	_	9	mark	_	_
-7	na	na	PART	_	_	9	cop	_	_
+7	na	na	AUX	PART	_	9	cop	_	_
 8	only	only	ADJ	_	_	9	amod	_	_
 9	kitchen	kitchen	NOUN	_	_	0	root	_	_
 10	>+	>+	PUNCT	_	_	14	punct	_	_
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:dislocate
 8	watch	watch	VERB	_	_	5	acl	_	_
 9	yesterday	yesterday	NOUN	_	_	8	obl:mod	_	_
 10	<	<	PUNCT	_	_	12	punct	_	_
-11	na	na	PART	_	_	12	cop	_	_
+11	na	na	AUX	PART	_	12	cop	_	_
 12	so	so	ADV	_	_	0	root	_	_
 13	I	I	PRON	_	_	15	nsubj	_	_
 14	still	still	ADV	_	_	15	advmod	_	_

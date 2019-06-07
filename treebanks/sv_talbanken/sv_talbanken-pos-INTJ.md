@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="sv_talbanken-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.422480).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.422634).
 
 The 1st highest number of forms (1) was observed with the lemma “fan”: <em>fan</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>ha
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="sv_talbanken-dep-discourse.html">discourse</a></tt> (19; 53% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (4; 11% instances), <tt><a href="sv_talbanken-dep-root.html">root</a></tt> (4; 11% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="sv_talbanken-dep-obj.html">obj</a></tt> (3; 8% instances), <tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (1; 3% instances)
+`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="sv_talbanken-dep-discourse.html">discourse</a></tt> (21; 58% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (4; 11% instances), <tt><a href="sv_talbanken-dep-root.html">root</a></tt> (4; 11% instances), <tt><a href="sv_talbanken-dep-obj.html">obj</a></tt> (3; 8% instances), <tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (1; 3% instances)
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (19; 53% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (7; 19% instances),  (4; 11% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (3; 8% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 3% instances)
 

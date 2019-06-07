@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl:cleft	color:blue
 1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	3:expl	_
-2	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	kvinnan	kvinna	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	MID	_	3	punct	3:punct	_
 5	som	som	PRON	HP|-|-|-	PronType=Rel	6	nsubj	6:nsubj	_
@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 6 acl:cleft	color:blue
 1	Vad	vad	PRON	HP|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	0	root	0:root	_
-2	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	_
 3	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	1	expl	1:expl	_
 4	nu	nu	ADV	AB	_	1	advmod	1:advmod	_
 5	som	som	PRON	HP|-|-|-	PronType=Rel	6	nsubj	6:nsubj	_
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `acl:cleft`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl:cleft	color:blue
 1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	3:expl	_
-2	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	här	här	ADV	AB	_	0	root	0:root	_
 4	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	6	nsubj	6:nsubj	_
 5	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_

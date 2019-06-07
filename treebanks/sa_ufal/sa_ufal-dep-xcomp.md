@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 xcomp	color:blue
-1	तत्	तद्	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	advmod	_	Translit=tat|LTranslit=tad|Gloss=thus
+1	तत्	तद्	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	Translit=tat|LTranslit=tad|Gloss=thus
 2	एषा	एतद्	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	Translit=eṣā|LTranslit=etad|Gloss=this
 3	कदाचिद्	कदा-चिद्	ADV	_	PronType=Int	6	advmod	_	Translit=kadācid|LTranslit=kadā-cid|Gloss=perhaps
 4	वैश्या	वैश्या	NOUN	_	Compound=Yes	5	nmod:poss	_	Translit=vaiśyā|LTranslit=vaiśyā|Gloss=worker

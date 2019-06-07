@@ -2,6 +2,7 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
 
 Degree is a feature of adjectives that describe the quality of a noun.

@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>A
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="pl_lfg-dep-advmod.html">advmod</a></tt> (42; 100% instances)
+`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="pl_lfg-dep-discourse.html">discourse</a></tt> (42; 100% instances)
 
 Parents of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="pl_lfg-pos-VERB.html">VERB</a></tt> (41; 98% instances), <tt><a href="pl_lfg-pos-ADJ.html">ADJ</a></tt> (1; 2% instances)
 

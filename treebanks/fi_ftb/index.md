@@ -46,7 +46,7 @@ Do not submit pull requests against the UD repository.
 
 FinnTreeBank 1 consists of manually annotated grammatical examples
 from VISK. The UD version of FinnTreeBank 1 was converted from a
-native annotation model with a script.
+native annotation model with a script and later manually revised.
 
 
 
@@ -77,7 +77,8 @@ clause head.
 As a catchall, the dep relation is used as intended when a more proper
 mapping could not be determined.
 
-Some FinnTreeBank annotations are retained in the MISC field.
+Some FinnTreeBank annotations and other notes are retained in the MISC
+field.
 
 
 ## Splitting
@@ -101,7 +102,7 @@ training set, 1 into development set, and 1 into test set.
 
 ## Relations
 
-[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
+[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [orphan](fi_ftb-dep-orphan.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -136,11 +137,11 @@ training set, 1 into development set, and 1 into test set.
 </ul>
 
 <ul>
-<li>This corpus contains 304 word types tagged as particles (PART): 28v, 2h, 30-35v, 70,00%, D.E.D, Eli, Elikä, Ettäkö, Ettäs, Ihanko, Ihanks, Johan, Joko, Jokos, Jopas, K-18, Ka, Katos, Katso, Kylläpä, Liekö, Mr., Mrs., Näinkö, OK, Tuskinpa, aika, aina, ainakaan, ainaki, ainakin, ainoastaan, aivan, arviolta, eKr, eKr., edes, ees, ehk, ehkä, ehkäpä, eiku, eikun, elikkä, em., enintään, ennää, entä, entäs, enää, enään, eres, erittäin, esim, esim., etenkin, etenkään, hyvänsä, hädin, iha, iham, ihan, ihav, ja, jne, jne., jo, jokseenkin, joku, jooko, jopa, jos, jospa, jotain, jotakuinkin, just, justii, juuri, järin, kai, kaiketi, kaikkein, kaikkiaan, kaikkiansa, kait, kans, kanssa, kas, kato, katsos, kenties, kerran, kerranki, kerrankin, kerta, km/h, ko., korkeintaan, koskapa, kovin, kovinkaan, kuhan, kuitenkaan, kuitenki, kuitenkin, kumminkaan, kumminki, kumminkin, kun, kunpa, kuule, kuulemaa, kuulemma, kuulemma-, kuules, kuulkaa, kuuluu, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä, lie, lieh, lien, liene, lienee, liki, likimain, lopen, lähemmäs, lähes, läheskään, lähestulkoon, lähinnä, melkeen, melkein, melkeinpä, melkke, melko, miltei, mitä, mk/kg, mm, mm., muka, mukamas, muute, muuten, myos, myös, myöskin, myöskään, n., napin, ni, nii, niiku, niim, niin, niinkin, niinko, niinku, niinkuin, niinkun, niinpä, nikun, nimenomaan, nimittäi, nimittäin, nin, ninku, ninkun, nipin, noi, noin, ns., nuin, ny, nyk., nyt, nytten, näemmä, näet, näi, näim, näin, näinkin, näkyy, näköjeä, näköjään, nääs, o.s., oik., oikeastaan, oikeestaa, oikeestaan, olletikin, osapuilleen, pe, pelkästään, perin, peräti, plus, puolestaan, päi, päin, rp., saati, saatikka, sangen, semminkin, sen, sentää, sentään, siim, siinä, siis, silti, sitte, sitten, sittenkin, sittenkään, sitä, sitäpaitsi, suinkaan, suorastaan, taas, tahansa, tervetuloa, tiemmä, ties, tietenkin, tietenkään, tietysti, tietystikään, tms, todella, todellakaan, todellakin, toisaalta, toki, tokko, tosi, tosiaan, tosiaankaan, tosin, tota, totta, tottahan, tottakai, tuota, tuskin, v., vaa, vaan, vaikka, vaikkapa, vain, vallan, vallankin, varhmaan, varmaa, varmaan, varmaankaan, varmaankin, varmmaam, varsin, varsinkaan, varsinkin, varsinni, vas., vast, vasta, verraten, verrattain, viel, vielä, vieläk, vieläkin, vieläkö, vieläpä, vihdoin, vihdoinkin, viimein, viimeistään, vissii, vissiin, viä, viäl, vua, vv., vähintään, vähintäänkin, yhteensä, yhtikäs, yhä, yhäkö, yksinomaan, ym, yms.</li>
+<li>This corpus contains 305 word types tagged as particles (PART): 28v, 2h, 30-35v, 70,00%, D.E.D, Eli, Elikä, Ettäkö, Ettäs, Ihanko, Ihanks, Johan, Joko, Jokos, Jopas, K-18, Ka, Katos, Katso, Kylläpä, Liekö, Mr., Mrs., Näinkö, OK, Tuskinpa, aika, aina, ainakaan, ainaki, ainakin, ainoastaan, aivan, arviolta, eKr, eKr., edes, ees, ehk, ehkä, ehkäpä, eiku, eikun, elikkä, em., enintään, ennää, entä, entäs, enää, enään, eres, erittäin, esim, esim., etenkin, etenkään, hyvänsä, hädin, iha, iham, ihan, ihav, ja, jne, jne., jo, jokseenkin, joku, jooko, jopa, jos, jospa, jotain, jotakuinkin, just, justii, juuri, järin, kai, kaiketi, kaikkein, kaikkiaan, kaikkiansa, kait, kans, kanssa, kas, kato, katsos, kenties, kerran, kerranki, kerrankin, kerta, km/h, ko., korkeintaan, koskapa, kovin, kovinkaan, ku, kuhan, kuitenkaan, kuitenki, kuitenkin, kumminkaan, kumminki, kumminkin, kun, kunpa, kuule, kuulemaa, kuulemma, kuulemma-, kuules, kuulkaa, kuuluu, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä, lie, lieh, lien, liene, lienee, liki, likimain, lopen, lähemmäs, lähes, läheskään, lähestulkoon, lähinnä, melkeen, melkein, melkeinpä, melkke, melko, miltei, mitä, mk/kg, mm, mm., muka, mukamas, muute, muuten, myos, myös, myöskin, myöskään, n., napin, ni, nii, niiku, niim, niin, niinkin, niinko, niinku, niinkuin, niinkun, niinpä, nikun, nimenomaan, nimittäi, nimittäin, nin, ninku, ninkun, nipin, noi, noin, ns., nuin, ny, nyk., nyt, nytten, näemmä, näet, näi, näim, näin, näinkin, näkyy, näköjeä, näköjään, nääs, o.s., oik., oikeastaan, oikeestaa, oikeestaan, olletikin, osapuilleen, pe, pelkästään, perin, peräti, plus, puolestaan, päi, päin, rp., saati, saatikka, sangen, semminkin, sen, sentää, sentään, siim, siinä, siis, silti, sitte, sitten, sittenkin, sittenkään, sitä, sitäpaitsi, suinkaan, suorastaan, taas, tahansa, tervetuloa, tiemmä, ties, tietenkin, tietenkään, tietysti, tietystikään, tms, todella, todellakaan, todellakin, toisaalta, toki, tokko, tosi, tosiaan, tosiaankaan, tosin, tota, totta, tottahan, tottakai, tuota, tuskin, v., vaa, vaan, vaikka, vaikkapa, vain, vallan, vallankin, varhmaan, varmaa, varmaan, varmaankaan, varmaankin, varmmaam, varsin, varsinkaan, varsinkin, varsinni, vas., vast, vasta, verraten, verrattain, viel, vielä, vieläk, vieläkin, vieläkö, vieläpä, vihdoin, vihdoinkin, viimein, viimeistään, vissii, vissiin, viä, viäl, vua, vv., vähintään, vähintäänkin, yhteensä, yhtikäs, yhä, yhäkö, yksinomaan, ym, yms.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as pronouns (PRON): ei-kukaan, ei-mikään, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompi, jompikumpi, kaikki, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sinä, te, toinen, tuo, tämä, usea, yksi</li>
+<li>This corpus contains 49 lemmas tagged as pronouns (PRON): ei-kukaan, ei-mikään, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompi, jompikumpi, kaikki, kuka, kukaan, kukakin, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, niin, nuo, nämä, sama, se, sellainen, siksi, silleen, sinä, siten, te, toinen, tuo, tämä, usea, yksi</li>
 </ul>
 
 <ul>
@@ -148,15 +149,15 @@ training set, 1 into development set, and 1 into test set.
 </ul>
 
 <ul>
-<li>Out of the above, 41 lemmas occurred sometimes as PRON and sometimes as DET: ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sinä, te, toinen, tuo, tämä, usea, yksi</li>
+<li>Out of the above, 42 lemmas occurred sometimes as PRON and sometimes as DET: ei-kukaan, eri, eräs, harva, he, hän, itse, joka, jokainen, jokin, joku, jompikumpi, kaikki, kuka, kukaan, kukin, kumpi, kumpikaan, kumpikin, me, mikä, mikäkin, mikään, minä, molemmat, mones, moni, muu, muutama, ne, nuo, nämä, sama, se, sellainen, sinä, te, toinen, tuo, tämä, usea, yksi</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as auxiliaries (AUX): alkaa, ei, ennustaa, kasvaa, kehittyä, kehittää, kehkeytyä, leipoa, muodostua, muovata, odottaa, olla, saada, sukeutua, tehdä, toivoa, tulla, täyttää, veikata, viimeistellä</li>
+<li>This corpus contains 53 lemmas tagged as auxiliaries (AUX): VERB, alkaa, auttaa, ehtiä, ei, ennättää, haluta, huolia, joutaa, joutua, jättää, jäädä, kannattaa, kelvata, keretä, keritä, kuulua, kärsiä, käydä, lakata, mahtaa, meinata, näkyä, näyttää, olla, osata, osoittautua, ottaa, pakata, parata, passata, pitää, pyrkiä, pystyä, ruveta, ryhtyä, saada, saattaa, sattua, sopia, tahtoa, taitaa, tarvita, tavata, toimittaa, tulla, tuntua, täytyä, uhata, vaikuttaa, viitsiä, voida, yrittää</li>
 </ul>
 
 <ul>
-<li>Out of the above, 18 lemmas occurred sometimes as AUX and sometimes as VERB: alkaa, ei, ennustaa, kasvaa, kehittyä, kehittää, leipoa, muodostua, muovata, odottaa, olla, saada, tehdä, toivoa, tulla, täyttää, veikata, viimeistellä</li>
+<li>Out of the above, 51 lemmas occurred sometimes as AUX and sometimes as VERB: alkaa, auttaa, ehtiä, ei, ennättää, haluta, huolia, joutaa, joutua, jättää, jäädä, kannattaa, kelvata, keritä, kuulua, kärsiä, käydä, lakata, mahtaa, meinata, näkyä, näyttää, olla, osata, osoittautua, ottaa, pakata, parata, passata, pitää, pyrkiä, pystyä, ruveta, ryhtyä, saada, saattaa, sattua, sopia, tahtoa, taitaa, tarvita, tavata, toimittaa, tulla, tuntua, täytyä, uhata, vaikuttaa, viitsiä, voida, yrittää</li>
 </ul>
 
 <ul>
@@ -166,8 +167,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: on, oli, ovat, ole, olisi, olivat, olen, tuli, olet, tulee</li>
-    <li>VERB: on, ei, oli, en, ole, voi, ovat, olisi, eivät, tulee</li>
+    <li>AUX: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
+    <li>VERB: on, oli, ole, tuli, tulee, ei, sanoi, ovat, saa, olisi</li>
   </ul>
   </li>
 </ul>
@@ -175,8 +176,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: olla, olemaan, tulla, tehdä, ollen, tulemaan, olemasta, ollakseen, ollapa, ollessa</li>
-    <li>VERB: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
+    <li>AUX: olla, olemaan, saada, jättää, ruveta, voida, ollen, ryhtyä, olemasta, ollakseen</li>
+    <li>VERB: olla, tehdä, mennä, tulla, lähteä, ottaa, sanoa, saada, käydä, käyttää</li>
   </ul>
   </li>
 </ul>
@@ -184,8 +185,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Part
   <ul>
-    <li>AUX: ollut, olevan, olleet, tullut, ollu, oltava, oltu, tuleva, kasvanut, kehkeytynyt</li>
-    <li>VERB: ollut, saanut, olevan, tullut, oleva, tehty, käynyt, sanonut, ollu, tehnyt</li>
+    <li>AUX: ollut, olevan, voinut, olleet, pitänyt, ollu, saanut, voitu, tullut, täytynyt</li>
+    <li>VERB: ollut, olevan, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt</li>
   </ul>
   </li>
 </ul>
@@ -203,15 +204,15 @@ training set, 1 into development set, and 1 into test set.
   <li>Plur
     <ul>
       <li>ADJ: uusia, suomalaiset, hyvät, hyviä, omat, omia, pienet, uudet, nuoret, suomalaisia</li>
-      <li>AUX-Fin: ovat, olivat, olemme, olette, olisivat, olkaa, olkoot, ovatkin, Olkaamme, eivät</li>
-      <li>AUX-Part: olleet, muovanneet, olevinaan, olevinasi, olleetkaan</li>
+      <li>AUX-Fin: ovat, eivät, olivat, emme, olemme, olette, ette, voivat, olisivat, älkää</li>
+      <li>AUX-Part: olleet, saaneet, voineet, ehtineet, alkaneet, olevinaan, olevinasi, olleetkaan, soanneet, tainneet</li>
       <li>DET: meidän, ne, heidän, niitä, nämä, niiden, muut, useita, näitä, monet</li>
       <li>NOUN: ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</li>
       <li>NUM: puolet, tuhansia, satoja, kymmeniä, kahdet, kaksin, kymmenien, miljoonien, puolilta, kolmissakymmenissä</li>
       <li>PRON: ne, he, me, meillä, jotka, niitä, te, meidän, meitä, joita</li>
       <li>PROPN: Yhdysvaltain, Sanomat, Yhdysvalloissa, Pohjoismaiden, Sanomien, Sanomissa, Yhdysvallat, Yhdysvaltojen, Pohjoismaissa, Ahtisaarten</li>
-      <li>VERB-Fin: ovat, eivät, olivat, emme, olemme, ette, tulevat, voivat, olette, saavat</li>
-      <li>VERB-Part: saaneet, olleet, olevat, tulleet, olevia, kuulleet, kertoneet, menneet, tehdyt, alkaneet</li>
+      <li>VERB-Fin: ovat, olivat, tulevat, saivat, eivät, haluavat, kuuluvat, olemme, tulkaa, jäivät</li>
+      <li>VERB-Part: saaneet, olleet, olevat, tulleet, olevia, kuulleet, kertoneet, menneet, tehdyt, asuneet</li>
     </ul>
   </li>
 </ul>
@@ -220,15 +221,15 @@ training set, 1 into development set, and 1 into test set.
   <li>Sing
     <ul>
       <li>ADJ: hyvä, hyvää, uusi, oma, ensimmäinen, uutta, uuden, suuri, ainoa, oman</li>
-      <li>AUX-Fin: on, oli, olisi, olen, tuli, olet, tulee, olin, onko, ollut</li>
-      <li>AUX-Part: ollut, olevan, tullut, ollu, oltava, oltu, tuleva, kasvanut, kehkeytynyt, olevansa</li>
+      <li>AUX-Fin: on, ei, oli, en, voi, olisi, olen, eikä, olin, et</li>
+      <li>AUX-Part: ollut, olevan, voinut, pitänyt, ollu, saanut, voitu, tullut, täytynyt, ehtinyt</li>
       <li>DET: se, sen, hänen, tämä, sitä, joku, tällä, tässä, jotain, tämän</li>
       <li>NOUN: mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</li>
       <li>NUM: kaksi, yksi, kolme, kymmenen, viisi, kahden, pari, yhden, neljä, viiden</li>
       <li>PRON: se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</li>
       <li>PROPN: Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</li>
-      <li>VERB-Fin: on, ei, oli, en, voi, olisi, tulee, tuli, olen, sanoi</li>
-      <li>VERB-Part: ollut, saanut, olevan, tullut, oleva, tehty, käynyt, sanonut, ollu, tehnyt</li>
+      <li>VERB-Fin: on, oli, tuli, tulee, ei, sanoi, saa, sanoo, meni, olisi</li>
+      <li>VERB-Part: ollut, olevan, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt</li>
     </ul>
   </li>
 </ul>
@@ -346,13 +347,13 @@ training set, 1 into development set, and 1 into test set.
   <li>Gen
     <ul>
       <li>ADJ: uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</li>
-      <li>AUX-Part: olevan, olevansa, olleen, tulevan, tulleen, olevani</li>
+      <li>AUX-Part: olevan, olevansa, voitavan, voivan, olleen, olevani, saavan, voivani, voivansa</li>
       <li>DET: sen, hänen, tämän, meidän, minun, heidän, muutaman, niiden, mun, jonka</li>
       <li>NOUN: vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</li>
       <li>NUM: kahden, yhden, viiden, kolmen, kymmenen, miljoonan, neljän, parin, puolen, sadan</li>
       <li>PRON: sen, hänen, minun, itsensä, jonka, meidän, tämän, kaiken, sinun, heidän</li>
       <li>PROPN: Suomen, Helsingin, Euroopan, Ruotsin, Tampereen, Venäjän, Ranskan, EU:n, Turun, Nokian</li>
-      <li>VERB-Part: olevan, olevansa, kuluvan, olleen, tulevan, tulleen, kadonneen, näkevän, pitävän, tulevansa</li>
+      <li>VERB-Part: olevan, olevansa, tulevan, tulleen, kuluvan, olleen, kadonneen, näkevän, pitävän, tulevansa</li>
     </ul>
   </li>
 </ul>
@@ -361,13 +362,13 @@ training set, 1 into development set, and 1 into test set.
   <li>Ill
     <ul>
       <li>ADJ: uuteen, hyvään, uusiin, pitkään, suuriin, väärään, entiseen, varsinaiseen, ensimmäiseen, isoon</li>
-      <li>AUX-Inf: olemaan, tulemaan, oleen, tuleen</li>
+      <li>AUX-Inf: olemaan, oleen</li>
       <li>DET: tähän, siihen, samaan, mihinkään, johonkin, semmoseen, toiseen, mihin, näihin, kaikkiin</li>
       <li>NOUN: kotiin, aikaan, asiaan, suuntaan, mieleen, loppuun, maahan, päähän, töihin, huomioon</li>
       <li>NUM: kolmeen, yhteen, kahteen, viiteen, puoleen, neljään, kuutee, kuuteen, miljoonaan, pariin</li>
       <li>PRON: siihen, tähän, johon, toiseen, mihin, niihin, joihin, itseensä, mihinkään, minuun</li>
       <li>PROPN: Suomeen, Helsinkiin, Ruotsiin, Moskovaan, EU:hun, Englantiin, Kuusamoon, Turkkiin, Anneliin, Kuopioon</li>
-      <li>VERB-Inf: tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, olemaan, maksamaan, ottamaan, toimimaan, lähtemään</li>
+      <li>VERB-Inf: tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, maksamaan, olemaan, ottamaan, toimimaan, lähtemään</li>
       <li>VERB-Part: olevaan, saatuihin, sijaitsevaan, ajavaan, ajettuun, alkaviin, avanneeseen, hallitseviin, hallittaviin, haluamaansa</li>
     </ul>
   </li>
@@ -377,7 +378,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Ine
     <ul>
       <li>ADJ: omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, ensimmäisessä, nykyisessä, uudessa, korkeassa</li>
-      <li>AUX-Inf: ollessa, ollessani, kasvamassa, ollessaan, sukeutumassa, tekemässä</li>
+      <li>AUX-Inf: ollessa, ollessani, ollessaan</li>
       <li>DET: tässä, siinä, missä, kaikissa, samassa, missään, näissä, jossain, monessa, kaikessa</li>
       <li>NOUN: tapauksessa, kunnossa, asiassa, vuodessa, maailmassa, tulossa, vaiheessa, päivässä, alussa, kaupungissa</li>
       <li>NUM: kahdessa, yhdessä, viidessä, kolmessa, kolmissakymmenissä, neljässä, puolessa, 13:ssa, 27:ssä, 29:ssä</li>
@@ -406,8 +407,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Lat
     <ul>
-      <li>AUX-Inf: olla, tulla, tehdä, ollapa, kasvaa, kehittyä, kehittää, viimeistellä</li>
-      <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
+      <li>AUX-Inf: olla, saada, jättää, ruveta, voida, ryhtyä, ollapa, täytyä, joutua, jäädä</li>
+      <li>VERB-Inf: olla, tehdä, mennä, tulla, lähteä, ottaa, sanoa, saada, käydä, käyttää</li>
     </ul>
   </li>
 </ul>
@@ -416,13 +417,13 @@ training set, 1 into development set, and 1 into test set.
   <li>Nom
     <ul>
       <li>ADJ: hyvä, uusi, oma, ensimmäinen, suuri, ainoa, pieni, vaikea, vanha, parempi</li>
-      <li>AUX-Part: ollut, olleet, tullut, ollu, oltava, oltu, tuleva, kasvanut, kehkeytynyt, muovanneet</li>
+      <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, saanut, voitu, tullut, täytynyt, ehtinyt</li>
       <li>DET: se, kaikki, tämä, joku, ne, tuo, mikä, tää, nämä, mikään</li>
       <li>NOUN: mies, asia, äiti, osa, lapsi, nainen, kello, ihmiset, isä, tyttö</li>
       <li>NUM: kaksi, yksi, kolme, viisi, pari, neljä, kymmenen, puoli, yks, puolet</li>
       <li>PRON: se, hän, minä, joka, mä, ne, sinä, he, me, kaikki</li>
       <li>PROPN: Suomi, Maija, Mikko, Anna, Lasse, Pekka, matti, Antti, Halonen, Lipponen</li>
-      <li>VERB-Part: ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, ollu, tehnyt, nähnyt</li>
+      <li>VERB-Part: ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu</li>
     </ul>
   </li>
 </ul>
@@ -446,7 +447,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Tra
     <ul>
       <li>ADJ: valmiiksi, hyväksi, kuuluisaksi, toiseksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi</li>
-      <li>AUX-Inf: ollakseen, Ollaksesi</li>
+      <li>AUX-Inf: ollakseen, Ollaksesi, saadakseen, saadakseni, voidakseen</li>
       <li>DET: täksi, Kaikeksi, moneksi, samaksi</li>
       <li>NOUN: vuodeksi, nimekseen, sääliksi, malliksi, nimeksi, viikoksi, hyödyksi, ihmiseksi, kesäksi, mieheksi</li>
       <li>NUM: kahdeksi, viideksi, aamukuudeksi, kuudeks, pariksi, sadaksi, seittemäks, yhdeksi</li>
@@ -501,8 +502,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: ei, eivät, eikä, eipa, eipä, en</li>
-      <li>VERB-Fin: ei, en, eivät, eikä, et, älä, eikö, emme, eihän, ette</li>
+      <li>AUX-Fin: ei, en, eivät, eikä, et, älä, eikö, emme, enkä, eihän</li>
+      <li>VERB-Fin: ei, en, eivät, Älä, eikä, eikö, Eipä, Eipäs, eihän, et</li>
     </ul>
   </li>
 </ul>
@@ -519,8 +520,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: olisi, olis, olisivat, tulisi, olisiko, olisin, ois, olisit, Olisinko, Olisitpa</li>
-      <li>VERB-Fin: olisi, pitäisi, voisi, tulisi, olisin, haluaisin, luulisi, olisivat, saisi, haluaisi</li>
+      <li>AUX-Fin: olisi, pitäisi, voisi, olisin, olisivat, tulisi, voisin, olis, kannattaisi, olisit</li>
+      <li>VERB-Fin: olisi, tulisi, haluaisin, luulisi, tekisi, haluaisi, uskoisi, saisi, kertoisi, olis</li>
     </ul>
   </li>
 </ul>
@@ -528,8 +529,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: ole, olkaa, olkoon, olkoot, Olkaamme, Tehkää, olepa, olkoonkin, olkoonpa</li>
-      <li>VERB-Fin: älä, ota, tule, älkää, anna, tulkaa, kerro, sano, olkoon, vie</li>
+      <li>AUX-Fin: älä, älkää, ole, olkoon, olkaa, olkoot, älköön, älkäämme, älkööt, äläkä</li>
+      <li>VERB-Fin: ota, tule, anna, tulkaa, kerro, sano, vie, mene, tee, ole</li>
     </ul>
   </li>
 </ul>
@@ -537,8 +538,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: on, oli, ovat, ole, olivat, olen, tuli, olet, tulee, olin</li>
-      <li>VERB-Fin: on, oli, ole, voi, ovat, tulee, tuli, olen, saa, sanoi</li>
+      <li>AUX-Fin: on, oli, ovat, ole, voi, olen, olivat, olin, pitää, täytyy</li>
+      <li>VERB-Fin: on, oli, ole, tuli, tulee, sanoi, ovat, saa, sanoo, meni</li>
     </ul>
   </li>
 </ul>
@@ -555,8 +556,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Pot
     <ul>
-      <li>AUX-Fin: liene, lienee, Lieneekö, lienemme, lienevät</li>
-      <li>VERB-Fin: lienee, liene, hypänne, luvanne, Saanen, täytynee, joutunee, ratkennee, valmistunee, voinee</li>
+      <li>AUX-Fin: lienee, liene, Saanen, täytynee, voinee, lieneekö, lienevät, Liekö, Mahtaneeko, Sopinee</li>
+      <li>VERB-Fin: hypänne, luvanne, lienee, joutunee, ratkennee, valmistunee, kertone, liene, päätettäneen, voittanee</li>
     </ul>
   </li>
 </ul>
@@ -568,8 +569,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: oli, olivat, tuli, olin, ollut, olikin, oliko, tullut, olit, ollutkaan</li>
-      <li>VERB-Fin: oli, tuli, sanoi, olin, olivat, sai, ollut, piti, meni, jäi</li>
+      <li>AUX-Fin: oli, olivat, olin, ollut, piti, alkoi, sai, tuli, saattoi, oliko</li>
+      <li>VERB-Fin: oli, tuli, sanoi, meni, sai, ollut, teki, jäi, lähti, olivat</li>
     </ul>
   </li>
 </ul>
@@ -577,8 +578,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: on, ovat, ole, olen, olet, tulee, onko, olemme, ollaan, olette</li>
-      <li>VERB-Fin: on, ole, voi, ovat, tulee, olen, saa, pitää, täytyy, onko</li>
+      <li>AUX-Fin: on, ovat, ole, voi, olen, pitää, täytyy, saa, onko, olet</li>
+      <li>VERB-Fin: on, ole, tulee, ovat, saa, sanoo, onko, tiedä, haluaa, tekee</li>
     </ul>
   </li>
 </ul>
@@ -590,12 +591,12 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: on, oli, ovat, ole, olisi, olivat, olen, tuli, olet, tulee</li>
-      <li>AUX-Inf: olla, olemaan, tulla, tehdä, ollen, tulemaan, olemasta, ollakseen, ollapa, ollessa</li>
-      <li>AUX-Part: ollut, olevan, olleet, tullut, ollu, tuleva, kasvanut, kehkeytynyt, olevansa, olleen</li>
-      <li>VERB-Fin: on, ei, oli, en, ole, voi, ovat, olisi, eivät, tulee</li>
-      <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
-      <li>VERB-Part: ollut, saanut, olevan, tullut, oleva, käynyt, sanonut, ollu, tehnyt, nähnyt</li>
+      <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
+      <li>AUX-Inf: olla, olemaan, saada, jättää, ruveta, voida, ollen, ryhtyä, olemasta, ollakseen</li>
+      <li>AUX-Part: ollut, olevan, voinut, olleet, pitänyt, ollu, saanut, tullut, täytynyt, ehtinyt</li>
+      <li>VERB-Fin: on, oli, ole, tuli, tulee, ei, sanoi, ovat, saa, olisi</li>
+      <li>VERB-Inf: olla, tehdä, mennä, tulla, lähteä, ottaa, sanoa, saada, käydä, käyttää</li>
+      <li>VERB-Part: ollut, olevan, saanut, tullut, oleva, käynyt, sanonut, tehnyt, nähnyt, ollu</li>
     </ul>
   </li>
 </ul>
@@ -603,9 +604,9 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Fin: ollaan, oltiin, tehdään, tehtiin, ollaanpas, olla, Ollaanhan, ennustetaan, leivottiin, odotetaan</li>
-      <li>AUX-Part: oltava, oltu, oltuaan</li>
-      <li>VERB-Fin: ollaan, voidaan, tarvitaan, saadaan, tehdään, mennään, otetaan, pidetään, katsotaan, sanotaan</li>
+      <li>AUX-Fin: ollaan, voidaan, oltiin, olla, voida, voitaisiin, oltu, saadaan, aletaan, alettiin</li>
+      <li>AUX-Part: voitu, oltava, oltu, saatu, voitavan, alettu, ehditty, jätetty, alettava, oltuaan</li>
+      <li>VERB-Fin: tehdään, tarvitaan, ollaan, mennään, otetaan, saadaan, tehtiin, pidetään, katsotaan, sanotaan</li>
       <li>VERB-Inf: tarvittaessa, löydettäessä, mentäessä, oltaessa, ostettaessa, toimitettaessa, valittaessa, etsittäessä, etsittämän, huuhdottaessa</li>
       <li>VERB-Part: tehty, verrattuna, tehtävä, valituksi, pidetty, annettu, kerrottu, kielletty, kirjoitettu, varastettu</li>
     </ul>
@@ -623,10 +624,10 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: sellainen, sellaista, sellaiset, semmoinen, tuollaista, tällaista, semmonen, semmosia, sellaiseksi, sellaisen</li>
-      <li>ADV: siellä, täällä, niin, sinne, silloin, tässä, siinä, tänne, sieltä, näin</li>
+      <li>ADJ: sellainen, sellaista, semmoinen, tuollaista, tällaista, sellaiset, semmonen, semmosia, sellaiseksi, sellaisen</li>
+      <li>ADV: siellä, täällä, sinne, niin, silloin, tässä, siinä, tänne, sieltä, näin</li>
       <li>DET: se, sen, tämä, sitä, tällä, tässä, tämän, ne, tänä, tätä</li>
-      <li>PRON: se, sen, sitä, ne, siitä, tämä, siihen, siinä, niitä, tästä</li>
+      <li>PRON: se, sen, sitä, ne, siitä, tämä, niin, siihen, siinä, niitä</li>
     </ul>
   </li>
 </ul>
@@ -723,10 +724,10 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: olen, olin, olemme, olenko, olisin, Olkaamme, olenkin, Olinpa, Olisinko, Teimme</li>
+      <li>AUX-Fin: en, olen, olin, emme, olemme, olisin, enkä, voin, oon, voisin</li>
       <li>DET: meidän, minun, mun, meistä, meiän, Meillä, meille, meitä, minunkin, minä</li>
       <li>PRON: minä, mä, me, minulla, minua, minun, meillä, minulle, meidän, meitä</li>
-      <li>VERB-Fin: en, olen, olin, emme, sanoin, olemme, tulen, olisin, ajattelin, näin</li>
+      <li>VERB-Fin: olen, sanoin, olin, ajattelin, näin, tulen, haluan, lähden, sain, söin</li>
     </ul>
   </li>
 </ul>
@@ -734,10 +735,10 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: olet, olette, ole, olkaa, oletko, oot, olit, olisit, Olisitpa, Olisitte</li>
+      <li>AUX-Fin: et, älä, olet, olette, ette, oot, älkää, voit, olisit, oletko</li>
       <li>DET: sinun, teidän, sun, sinä, te, teille, teiän</li>
       <li>PRON: sinä, sä, te, sinulle, sinun, sinua, sinulla, sulle, teillä, sinut</li>
-      <li>VERB-Fin: et, älä, olet, ette, olette, ota, saat, oot, tule, älkää</li>
+      <li>VERB-Fin: olet, ota, tule, anna, saat, haluat, tulkaa, tulet, teet, kerro</li>
     </ul>
   </li>
 </ul>
@@ -745,10 +746,10 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: on, oli, ovat, olivat, olisi, tuli, tulee, onko, ei, onkin</li>
+      <li>AUX-Fin: on, ei, oli, ovat, voi, olisi, eivät, eikä, olivat, pitäisi</li>
       <li>DET: hänen, heidän, heillä, häne</li>
       <li>PRON: hän, he, hänen, häntä, hänellä, hänet, hänelle, heidän, hänestä, heillä</li>
-      <li>VERB-Fin: on, ei, oli, ovat, voi, eivät, olisi, tulee, tuli, eikä</li>
+      <li>VERB-Fin: on, oli, tuli, tulee, ei, sanoi, ovat, saa, sanoo, meni</li>
     </ul>
   </li>
 </ul>
@@ -780,8 +781,8 @@ training set, 1 into development set, and 1 into test set.
       <li>ADJ: parhaani, omani, omiani, Kahdeksanvuotiaani, ainoani, ikäiseni, ikäseim, kaltaiseksesi, kaltaiseni, kokoiseni</li>
       <li>ADP: puolestani, kanssas, ansiostani, kanssasi, luonani, lähelläsi, mielestäni, mielestäsi, nähteni, takias</li>
       <li>ADV: mielestäni, pahoillani, hämilläni, kanssani, mielelläni, mukaasi, epätoivoissani, huolissani, itsekseni, polvilleni</li>
-      <li>AUX-Inf: ollessani, Ollaksesi</li>
-      <li>AUX-Part: olevani, olevinasi</li>
+      <li>AUX-Inf: ollessani, Ollaksesi, saadakseni</li>
+      <li>AUX-Part: olevani, olevinasi, voivani</li>
       <li>NOUN: ystäväni, sateenvarjoni, elämäni, äitisi, autoni, lapseni, Mieleeni, elämässäni, kissani, päähäni</li>
       <li>NUM: miljoonani</li>
       <li>PRON: itseni, itseäni, itseäsi, itselleni, itsesi, itsestäsi, itselläsikin, itsestäni, itsestänikään, itteeni</li>
@@ -818,13 +819,13 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: Rehelliseltähän, Ujohan, olennaistahan</li>
           <li>ADP: mukaanhan, puolellahan</li>
           <li>ADV: ainahan, niinhän, nythän, kuinkahan, Nykyäänhän, Täällähän, Vastahan, huomennahan, ympärillähän, Justhan</li>
-          <li>AUX-Fin: onhan, ovathan, Olihan, Ollaanhan</li>
+          <li>AUX-Fin: eihän, onhan, enhän, Älähän, ethän, olihan, ovathan, voidaanhan, Olenhan, Olisihan</li>
           <li>DET: Jokainenhan, Minkähän, Minunhan, Mitähän, Tämähän</li>
           <li>NOUN: teoshan, Hermothan, Karttaagohan, Lapsiinhan, Levyähän, Mieshän, Ohrahan, Oopperahan, Vaarojahan, autothan</li>
           <li>PART: Johan, kyllähän, kylhän</li>
           <li>PRON: sehän, Mitähän, Minähän, sinähän, Kaikkihan, Kukahan, Mehän, Miltähän, Tuostahan, senhän</li>
           <li>PROPN: Kallellahan, Kreikassahan, Mattihan, Mikkohan, Moonahan, Pekkahan, Venäjänhän</li>
-          <li>VERB-Fin: eihän, onhan, enhän, Antakaahan, saanhan, Älähän, Kuulkaahan, Olithan, ethän, katohan</li>
+          <li>VERB-Fin: onhan, Antakaahan, Kuulkaahan, Olithan, eihän, katohan, saanhan, Haluammehan, Jäihän, Kävinhän</li>
           <li>VERB-Part: Mentävähän, Valvottuahan, kuolluthan</li>
         </ul>
       </li>
@@ -842,21 +843,21 @@ training set, 1 into development set, and 1 into test set.
       <li>Han,Ko
         <ul>
           <li>ADV: Miksiköhän, Näinköhän, noinkohan</li>
-          <li>AUX-Fin: Onkohan, onkoha</li>
+          <li>AUX-Fin: eiköhän, Onkohan, Olisikohan, Eivätköhän, Enköhän, Mahdatkohan, Mahtaakohan, Oletkohan, Voisikohan, onkoha</li>
           <li>PRON: Kukakohan, Mitäköhän</li>
-          <li>VERB-Fin: eiköhän, Onkohan, Enköhän, Olisikohan, Uskaltaisikohan, haluaakohan, olikohan, Eivätköhän, Kokeilisikohan, Mahdatkohan</li>
+          <li>VERB-Fin: Onkohan, Uskaltaisikohan, haluaakohan, olikohan, Enköhän, Kokeilisikohan, Oiskohan, Saaraankohan, Tietääköhän, Tulenookohan</li>
         </ul>
       </li>
       <li>Han,Pa
         <ul>
-          <li>VERB-Fin: Eipähän</li>
+          <li>AUX-Fin: Eipähän</li>
         </ul>
       </li>
       <li>Ka
         <ul>
           <li>ADV: mitenkä, minnekkä</li>
-          <li>AUX-Fin: eikä</li>
-          <li>VERB-Fin: eikä, enkä, eivätkä, emmekä, äläkä, etkä, ettekä</li>
+          <li>AUX-Fin: eikä, enkä, eivätkä, emmekä, äläkä, etkä, ettekä</li>
+          <li>VERB-Fin: eikä</li>
         </ul>
       </li>
       <li>Ka,S
@@ -870,17 +871,17 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: ainoatakaan, ainuttakaan, Ensimmäistäkään, edellisestäkään, huonokaan, kummoistakaan, surkeinkaan, syksyisillekään, tämänkertainenkaan, uudetkaan</li>
           <li>ADP: lähelläkään</li>
           <li>ADV: vieläkään, olemassakaan, ennenkään, muutenkaan, paljonkaan, puoliakaan, puoliksikaan, päinkään, silloinkaan, tänäänkään</li>
-          <li>AUX-Fin: olekaan, ollutkaan, olikaan, olisikaan, onkaan, ovatkaan</li>
-          <li>AUX-Part: olleetkaan, tullutkaan</li>
+          <li>AUX-Fin: olekaan, olikaan, ollutkaan, pitikään, lieneekään, mahtaakaan, oletkaan, olisikaan, onkaan, ovatkaan</li>
+          <li>AUX-Part: olleetkaan, ollukkaan, ollutkaan</li>
           <li>DET: Tämäkään, Tänäkään, muidenkaan, sittään, tämänkään, tätäkä, yhtäkään</li>
           <li>NOUN: kertaakaan, hetkeäkään, sanaakaan, arkisuudellekaan, elettäkään, kuukkautteenkaa, merkkiäkään, metriäkään, rahaakaan, tippaakaan</li>
           <li>NUM: yksikään, viittäkään, yhtenäkään</li>
           <li>PART: myöskään, kovinkaan, varmaankaan, todellakaan, kylläkään, tietystikään, tosiaankaan</li>
           <li>PRON: muukaan, sekään, siitäkään, minäkään, muutkaan, sitäkään, Yhtäkään, itsekään, itsestänikään, minäkä</li>
           <li>PROPN: Kaisukaan, Leenastakaan, Paavokaa, Petsamonkaan, Telelläkään</li>
-          <li>VERB-Fin: olekaan, ollutkaan, pääsekään, huomaatkaan, ilmestynytkään, menikään, nauratakaan, oletkaan, olikaan, pitikään</li>
+          <li>VERB-Fin: olekaan, ollutkaan, pääsekään, huomaatkaan, ilmestynytkään, menikään, nauratakaan, tulekaan, valmistakaan, ajattelisikaan</li>
           <li>VERB-Inf: puhuakaan, puhumattakaan, yrittääkään, ajatellakhaa, etsiäkään, haaveillakaan, hievahtaakaan, juodakaan, jäkättääkään, katsahtaakaan</li>
-          <li>VERB-Part: luullutkaan, ollutkaan, huomattukaan, katottukaa, kattonukkaa, kirjoitettukaan, kokeneetkaan, käynytkään, käytettykään, lukenutkaan</li>
+          <li>VERB-Part: luullutkaan, huomattukaan, katottukaa, kattonukkaa, kirjoitettukaan, kokeneetkaan, käynytkään, käytettykään, lukenutkaan, lähtenytkään</li>
         </ul>
       </li>
       <li>Kaan,Ko
@@ -895,14 +896,14 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: eriäviäkin, hienompikin, lyhytkin, pienetkin, isokin, isompikin, kansallisiakin, nykyistenkin, yrityskohtaisiakin, Hyvälläkin</li>
           <li>ADP: sisälläkin, alussakin, jälkeenkin, keskelläkin</li>
           <li>ADV: hyvinkin, ennenkin, muutenkin, nytkin, pikemminkin, edelleenkin, paljonkin, enemmänkin, nykyisinkin, sittenkin</li>
-          <li>AUX-Fin: onkin, olikin, ovatkin, olenkin, olekin, oletkin, olinkin, olisikin, olkoonkin, tekikin</li>
+          <li>AUX-Fin: onkin, olikin, ovatkin, olisikin, Taidatkin, olekin, olenkin, olinkin, Haluankin, Oltiinkin</li>
           <li>DET: muitakin, minunkin, muutakin, muutkin, tänäkin, niidenkin, senkin, tämänkin, tässäkin, Muissakin</li>
           <li>NOUN: jatkossakin, loputkin, ajatuskin, housutkin, lapsetkin, lapsikin, olosuhteetkin, tottakin, yölläkin, äidillekin</li>
           <li>NUM: yksikin, kaksikin, yhdenkin, kolmenkin, puolikin, tuhansienkin, viisikin</li>
           <li>PART: vieläkin, varmaankin, vihdoinkin, myöskin, todellakin, vähintäänkin, kylläkin, niinkin, näinkin</li>
           <li>PRON: itsekin, minäkin, sekin, sinäkin, muutakin, meilläkin, hänkin, minullekin, hekin, itselleenkin</li>
           <li>PROPN: Englannissakin, Kirsikin, Liisakin, Soiliki, Suomenkin, Suomessakin, Suomikin, Brysselissäkin, Emuunkin, Englanninkin</li>
-          <li>VERB-Fin: onkin, Menenkin, olisikin, olikin, olekin, ovatkin, tulekin, Taidatkin, löytyikin, pitikin</li>
+          <li>VERB-Fin: Menenkin, onkin, olikin, tulekin, löytyikin, olekin, olisikin, saikin, tekikin, tulikin</li>
           <li>VERB-Inf: maksaakin, arvatenkin, kammatakkim, kierteekkiis, kuolemaisillaankin, reissatakin, sanookki, tehdäkin, tullakin, tullessaankin</li>
           <li>VERB-Part: ajatelluki, ajatellutkin, mennytkin, näkevilläkin, olleetkin, ollukki, palautettukin, puhunutkin, pyrittykin, päästyäänkin</li>
         </ul>
@@ -916,13 +917,13 @@ training set, 1 into development set, and 1 into test set.
         <ul>
           <li>ADJ: Kuusivuotiaanako, L​u​o​n​n​o​n​s​u​o​j​e​l​u​l​l​i​s​i​s​t​a​k​o, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
           <li>ADV: paljonko, kauanko, Eilenkö, Taasko, Miksikö, Noinko, Näinkö, paljoko, sielläkö</li>
-          <li>AUX-Fin: onko, oliko, olenko, onks, oletko, olisiko, onk, Tuleeko, Lieneekö, Olisinko</li>
+          <li>AUX-Fin: onko, eikö, oliko, onks, oletko, olisiko, pitäisikö, voiko, olenko, pitääkö</li>
           <li>DET: montako, Tämäkö, kumpaanko, tuonko</li>
           <li>NOUN: Veturillako, Vittuako, piruako, tavallako, Hittoako, Kampanjointiako, Kateusko, Kotivideotko, Mediako, Sairaaloitako</li>
           <li>PART: vieläkö, Joko, Ihanko, Ettäkö, Liekö, Näinkö, yhäkö, Ihanks</li>
           <li>PRON: tekö, sekö, Minäkö, Sitäkö, Tuoko, Tämäkö, sinäkö, Heistäkö, Kaikkiko, Kukako</li>
           <li>PROPN: Ansallako, Hakalaltako, Museokadullako, Porvoostako, Ristoko, Suomessako</li>
-          <li>VERB-Fin: onko, eikö, oliko, onks, tuleeko, pitäisikö, voiko, oletko, oletteko, pitääkö</li>
+          <li>VERB-Fin: onko, oliko, onks, tuleeko, Muistatko, ootko, tuletko, Näyttääkö, Tunnetko, mennäänkö</li>
           <li>VERB-Inf: Lähteäkö, Ollako, Erotako, Etsiäkö, Investoidako, Juomaanko, Mennäkö, Seuratako, Uskoako, Valitako</li>
           <li>VERB-Part: ollukko</li>
         </ul>
@@ -930,12 +931,12 @@ training set, 1 into development set, and 1 into test set.
       <li>Ko,S
         <ul>
           <li>ADV: Vähänkös, Äkkiäkös, harvoinkos</li>
-          <li>AUX-Fin: Olikos</li>
+          <li>AUX-Fin: Eikös, Oletkos, enkös, Meinaakos, Olikos, Onkos, Tartteekos, pitääkös</li>
           <li>DET: mones</li>
           <li>NOUN: Kerrankos, Ukkoskos, väliäkös</li>
           <li>PART: Jokos</li>
           <li>PRON: Moneltakos, Sinäkös, minäkös</li>
-          <li>VERB-Fin: Eikös, onkos, Oletkos, enkös, menetkös, Kuulitkos, Käytitkös, Luvattiinkos, Meinaakos, Muistatkos</li>
+          <li>VERB-Fin: onkos, menetkös, Kuulitkos, Käytitkös, Luvattiinkos, Muistatkos, Nukkuukos, Olitkos, Painatkos, Perutkos</li>
           <li>VERB-Inf: Tiskaamallakos</li>
         </ul>
       </li>
@@ -943,31 +944,32 @@ training set, 1 into development set, and 1 into test set.
         <ul>
           <li>ADJ: Omapa</li>
           <li>ADV: korkeallepa, miksipä, Siinäpä, tässäpä</li>
-          <li>AUX-Fin: onpa, olipa, Olinpa, Olisitpa, eipa, eipä, olepa, oletpa, olkoonpa</li>
+          <li>AUX-Fin: eipä, onpa, oletpa, olipa, Enpä, Olinpa, Olisitpa, Pitipä, Taidanpa, Tartteepa</li>
           <li>AUX-Inf: ollapa</li>
           <li>NOUN: Insinöörinpä</li>
           <li>PART: vaikkapa, koskapa, Tuskinpa, ehkäpä, Kylläpä, melkeinpä</li>
           <li>PRON: kukapa, siinäpä, Mitäpä, minäpä, sinäpä, Sepä, Siitäpä, Tästäpä</li>
-          <li>VERB-Fin: eipä, arvatkaapa, onpa, Oletpa, Tekipä, lukekaapa, menepä, menkääpä, tulepa, Ajatelkaapa</li>
+          <li>VERB-Fin: arvatkaapa, Eipä, Tekipä, lukekaapa, menepä, menkääpä, tulepa, Ajatelkaapa, Ajatellaanpa, Annetaanpa</li>
           <li>VERB-Inf: Ollapa, Päästäpä</li>
         </ul>
       </li>
       <li>Pa,S
         <ul>
-          <li>AUX-Fin: ollaanpas, Olipas, Onpas</li>
+          <li>AUX-Fin: ollaanpas, Olipas, eipäs, Enpäs, Onpas, Saapas, tulipas</li>
           <li>PART: Jopas, kylläpäs</li>
           <li>PRON: Hänpäs, Minäpäs, Sepäs, miäpäs</li>
-          <li>VERB-Fin: eipäs, kuulkaapas, meeppäs, otapas, Arvaappas, Autapas, Enpäs, Katsopas, Kysypäs, Käydäänpäs</li>
+          <li>VERB-Fin: Eipäs, kuulkaapas, meeppäs, otapas, Arvaappas, Autapas, Katsopas, Kysypäs, Käydäänpäs, Muistappas</li>
         </ul>
       </li>
       <li>S
         <ul>
           <li>ADJ: minkäslaista</li>
           <li>ADV: kuinkas, Koskas, missäs, mitäs</li>
+          <li>AUX-Fin: Alas, Älkääs, Äläs</li>
           <li>DET: mitäs, Mikäs, kukas, milläs</li>
           <li>PART: entäs, kuules, Ettäs, Katos, katsos</li>
           <li>PRON: mitäs, mikäs, kukas</li>
-          <li>VERB-Fin: Annas, Katotaas, Kuulkaas, Odotas, Sanos, ootas, tules, Alas, Katsokaas, Katsotaas</li>
+          <li>VERB-Fin: Annas, Katotaas, Kuulkaas, Odotas, Sanos, ootas, tules, Katsokaas, Katsotaas, Lopettakaas</li>
         </ul>
       </li>
     </ul>
@@ -979,8 +981,8 @@ training set, 1 into development set, and 1 into test set.
     <ul>
       <li>Yes
         <ul>
-          <li>AUX-Fin: ole, ollut, olisi, tule, tullut, olekaan, oo, ollutkaan, liene, o</li>
-          <li>VERB-Fin: ole, voi, ollut, saa, tiedä, olisi, oo, tule, halua, pysty</li>
+          <li>AUX-Fin: ole, voi, ollut, olisi, saa, oo, pitäisi, tarvitse, voinut, kannata</li>
+          <li>VERB-Fin: ole, tiedä, ollut, tule, halua, pysty, saa, tiennyt, lähde, tullut</li>
         </ul>
       </li>
     </ul>
@@ -1004,8 +1006,8 @@ training set, 1 into development set, and 1 into test set.
     <ul>
       <li>1
         <ul>
-          <li>AUX-Inf: olla, tulla, tehdä, ollakseen, ollapa, Ollaksesi, kasvaa, kehittyä, kehittää, viimeistellä</li>
-          <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
+          <li>AUX-Inf: olla, saada, jättää, ruveta, voida, ryhtyä, ollakseen, ollapa, täytyä, Ollaksesi</li>
+          <li>VERB-Inf: olla, tehdä, mennä, tulla, lähteä, ottaa, sanoa, saada, käydä, käyttää</li>
         </ul>
       </li>
       <li>2
@@ -1016,8 +1018,8 @@ training set, 1 into development set, and 1 into test set.
       </li>
       <li>3
         <ul>
-          <li>AUX-Inf: olemaan, tulemaan, olemasta, kasvamassa, oleen, sukeutumassa, tekemässä, tuleen</li>
-          <li>VERB-Inf: tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, olemaan, maksamaan, ottamaan, toimimaan</li>
+          <li>AUX-Inf: olemaan, olemasta, oleen</li>
+          <li>VERB-Inf: tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, tekemättä, maksamaan, olemaan, ottamaan, toimimaan</li>
         </ul>
       </li>
     </ul>
@@ -1039,14 +1041,14 @@ training set, 1 into development set, and 1 into test set.
       </li>
       <li>Past
         <ul>
-          <li>AUX-Part: ollut, olleet, tullut, ollu, oltu, kasvanut, kehkeytynyt, olleen, tulleen, muovanneet</li>
-          <li>VERB-Part: ollut, saanut, tullut, tehty, käynyt, sanonut, ollu, tehnyt, nähnyt, voinut</li>
+          <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, saanut, voitu, tullut, täytynyt, ehtinyt</li>
+          <li>VERB-Part: ollut, saanut, tullut, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu, verrattuna</li>
         </ul>
       </li>
       <li>Pres
         <ul>
-          <li>AUX-Part: olevan, oltava, tuleva, olevansa, tulevan, oleva, olevani, olevinaan, olevinasi</li>
-          <li>VERB-Part: olevan, oleva, olevansa, olevat, tehtävä, olevia, kuluvan, tulevan, lähdettävä, olevaa</li>
+          <li>AUX-Part: olevan, oltava, olevansa, voitavan, voivan, alettava, oleva, olevani, olevinaan, olevinasi</li>
+          <li>VERB-Part: olevan, oleva, olevansa, olevat, tehtävä, olevia, tulevan, kuluvan, lähdettävä, olevaa</li>
         </ul>
       </li>
     </ul>
@@ -1061,8 +1063,8 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: parhaani, omani, omiani, Kahdeksanvuotiaani, ainoani, ikäisemme, ikäiseni, ikäseim, kaltaiseni, kokoiseni</li>
           <li>ADP: puolestani, avullamme, aikanamme, ansiostani, joukostamme, luoksemme, luonamme, luonani, mielestäni, nähteni</li>
           <li>ADV: mielestäni, pahoillani, hämilläni, kanssani, mielelläni, epätoivoissani, huolissani, itsekseni, keskuudessamme, polvilleni</li>
-          <li>AUX-Inf: ollessani</li>
-          <li>AUX-Part: olevani</li>
+          <li>AUX-Inf: ollessani, saadakseni</li>
+          <li>AUX-Part: olevani, voivani</li>
           <li>NOUN: ystäväni, sateenvarjoni, elämäni, maamme, autoni, lapseni, Mieleeni, aikamme, elämässäni, kissani</li>
           <li>NUM: miljoonani</li>
           <li>PRON: itseni, itseäni, itselleni, toisemme, toisiamme, itseemme, itsestämme, itsestäni, itsestänikään, itseämme</li>
@@ -1090,13 +1092,13 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: omiaan, hänenkaltaisiaan, ikäistensä, arvoiseensa, arvoisensa, ikäisekseen, ikäisensä, kaltaisensa, läheisimpiinsä, mieleisensä</li>
           <li>ADP: mielestään, mukaansa, takanaan, vieressään, johdollaan, kanssaan, kohdaltaan, luotaan, ohitseen, sisällään</li>
           <li>ADV: aikanaan, keskenään, mielellään, tahallaan, kallellaan, mukanaan, tosissaan, huolissaan, parhaillaan, ylipäätään</li>
-          <li>AUX-Inf: ollakseen, ollessaan</li>
-          <li>AUX-Part: olevansa, olevinaan, oltuaan</li>
+          <li>AUX-Inf: ollakseen, ollessaan, saadakseen, voidakseen</li>
+          <li>AUX-Part: olevansa, olevinaan, oltuaan, voivansa</li>
           <li>DET: itsensä, toistensa, toisensa, itseensä</li>
           <li>NOUN: kätensä, ikänsä, lapsensa, nimekseen, päätään, äitinsä, elämänsä, isänsä, paikkaansa, poikansa</li>
           <li>PRON: itsensä, itseään, toisiaan, itselleen, toisensa, itsestään, toistaan, itseensä, toisiinsa, toistensa</li>
           <li>PROPN: Decameronensa, Matchinsa, McLarenistaan, Mersuaan, Saimansa</li>
-          <li>VERB-Inf: päästäkseen, tullessaan, nähdäkseen, saadakseen, halutessaan, kuolemaisillaan, ollessaan, syödessään, ajaessaan, asuessaan</li>
+          <li>VERB-Inf: päästäkseen, tullessaan, nähdäkseen, halutessaan, kuolemaisillaan, ollessaan, saadakseen, syödessään, ajaessaan, asuessaan</li>
           <li>VERB-Part: olevansa, tulevansa, levättyään, kuultuaan, saaneensa, tulleensa, tultuaan, antavansa, asuttuaan, asuvansa</li>
         </ul>
       </li>
@@ -1135,9 +1137,9 @@ training set, 1 into development set, and 1 into test set.
           <li>ADJ: hirvee, hirveen, ens, kauheeta, semmonen, upeeta, ikänen, kauheen, semmosia, tommonen</li>
           <li>ADP: kans, kaa, jälkee, lähtie, mennssä, mielest, vuoks, aikaa, alapuolel, enne</li>
           <li>ADV: sit, sitte, vähä, oikeen, miks, siel, sillon, ny, just, siin</li>
-          <li>AUX-Fin: o, olis, onks, oo, oot, ois, onk, ollu, tullee, Ootte</li>
-          <li>AUX-Inf: oleen, tuleen</li>
-          <li>AUX-Part: ollu, olluh, tullunna</li>
+          <li>AUX-Fin: oo, oon, oot, o, olis, onks, ois, vois, pitäs, em</li>
+          <li>AUX-Inf: oleen</li>
+          <li>AUX-Part: ollu, pitäny, olluh, ollukkaan, olluv, soanneet, tarvinnu, voinu</li>
           <li>CCONJ: mut, mutt, ja/vai, vaikk</li>
           <li>DET: tää, mun, semmonen, toi, noi, sun, nää, yks, tän, semmoseen</li>
           <li>INTJ: viis</li>
@@ -1147,7 +1149,7 @@ training set, 1 into development set, and 1 into test set.
           <li>PRON: mä, sä, tää, mun, sulle, mulla, sulla, mie, mua, mul</li>
           <li>PROPN: Soiliki, iiässäs, Ailii, Alfas, Annillakkii, Dödö, Hesaris, Hiakal, Jokine, Juttutupaa</li>
           <li>SCONJ: ett, et, ku, vaikk, ko, kun, jott, Vaik, ette, joss</li>
-          <li>VERB-Fin: oo, oon, sano, onks, oot, ois, olis, o, ollu, vois</li>
+          <li>VERB-Fin: sano, oo, onks, ollu, aattelin, o, olis, ois, katotaan, oon</li>
           <li>VERB-Inf: tehä, lähtee, rassaa, kattoo, kattoon, laittaan, saadas, sanoo, tekee, ajatellakhaa</li>
           <li>VERB-Part: ollu, tullu, käyny, menny, ottanu, saanu, tehny, nähny, heränny, jättäny</li>
         </ul>
@@ -1161,11 +1163,11 @@ training set, 1 into development set, and 1 into test set.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 21 lemmas as copulas (<a>cop</a>). Examples: olla, tulla, tehdä, ei, kasvaa, saada, kehittyä, kehkeytyä, odottaa, tulo, täyttää, alkaa, ennustaa, kehittää, leipoa, muodostua, muovata, sukeutua, toivoa, veikata, viimeistellä.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 54 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saada, täytyä, tulla, alkaa, saattaa, kannattaa, taitaa, tarvita, ehtiä, näyttää, ruveta, jäädä, mahtaa, tuntua, kuulua, jättää, ryhtyä, sattua, sopia, uhata, joutaa, ottaa, tahtoa, keretä, keritä, pyrkiä, ennättää, haluta, käydä, meinata, osata, vaikuttaa, huolia, joutua, kelvata, lakata, osoittautua, parata, passata, yrittää, auttaa, did, kärsiä, minkki, näkyä, pakata.</li>
+<li>This corpus uses 52 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saada, täytyä, tulla, alkaa, saattaa, kannattaa, taitaa, tarvita, ehtiä, näyttää, ruveta, jäädä, mahtaa, tuntua, kuulua, jättää, ryhtyä, sattua, sopia, uhata, joutaa, ottaa, tahtoa, keretä, keritä, pyrkiä, ennättää, haluta, käydä, meinata, osata, vaikuttaa, huolia, joutua, kelvata, lakata, osoittautua, parata, passata, yrittää, auttaa, kärsiä, näkyä, pakata, pystyä, tavata.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1174,32 +1176,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Ela (69)</li>
+      <li>VERB-Fin--NOUN-All (1)</li>
+      <li>VERB-Fin--NOUN-Ela (94)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (4218)</li>
-      <li>VERB-Fin--NOUN-Par (1053)</li>
+      <li>VERB-Fin--NOUN-Nom (4223)</li>
+      <li>VERB-Fin--NOUN-Par (1054)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Fin--PRON-Ela (10)</li>
-      <li>VERB-Fin--PRON-Gen (13)</li>
+      <li>VERB-Fin--PRON-All (1)</li>
+      <li>VERB-Fin--PRON-Ela (43)</li>
+      <li>VERB-Fin--PRON-Gen (22)</li>
       <li>VERB-Fin--PRON-Gen-ADP(jälkeen) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(kanssa) (1)</li>
-      <li>VERB-Fin--PRON-Nom (3035)</li>
+      <li>VERB-Fin--PRON-Nom (3042)</li>
       <li>VERB-Fin--PRON-Par (120)</li>
-      <li>VERB-Inf--NOUN-Ela (8)</li>
+      <li>VERB-Inf--NOUN-Ela (13)</li>
       <li>VERB-Inf--NOUN-Gen (172)</li>
-      <li>VERB-Inf--NOUN-Nom (385)</li>
+      <li>VERB-Inf--NOUN-Nom (387)</li>
       <li>VERB-Inf--NOUN-Par (54)</li>
-      <li>VERB-Inf--PRON-Ela (1)</li>
-      <li>VERB-Inf--PRON-Gen (180)</li>
+      <li>VERB-Inf--PRON-All (1)</li>
+      <li>VERB-Inf--PRON-Ela (3)</li>
+      <li>VERB-Inf--PRON-Gen (181)</li>
       <li>VERB-Inf--PRON-Nom (223)</li>
       <li>VERB-Inf--PRON-Par (11)</li>
-      <li>VERB-Part--NOUN-Ela (10)</li>
+      <li>VERB-Part--NOUN-Ela (18)</li>
       <li>VERB-Part--NOUN-Gen (226)</li>
-      <li>VERB-Part--NOUN-Nom (515)</li>
-      <li>VERB-Part--NOUN-Par (111)</li>
-      <li>VERB-Part--PRON-Ela (4)</li>
+      <li>VERB-Part--NOUN-Nom (517)</li>
+      <li>VERB-Part--NOUN-Par (112)</li>
+      <li>VERB-Part--PRON-All (1)</li>
+      <li>VERB-Part--PRON-Ela (13)</li>
       <li>VERB-Part--PRON-Gen (124)</li>
-      <li>VERB-Part--PRON-Nom (488)</li>
+      <li>VERB-Part--PRON-Nom (490)</li>
       <li>VERB-Part--PRON-Par (18)</li>
     </ul>
   </li>
@@ -1232,7 +1238,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Par (1021)</li>
       <li>VERB-Inf--NOUN-Tra (1)</li>
       <li>VERB-Inf--PRON-Acc (18)</li>
-      <li>VERB-Inf--PRON-Ela (1)</li>
+      <li>VERB-Inf--PRON-Ela (2)</li>
       <li>VERB-Inf--PRON-Gen (47)</li>
       <li>VERB-Inf--PRON-Nom (50)</li>
       <li>VERB-Inf--PRON-Par (265)</li>
@@ -1270,5 +1276,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 7 relation subtypes: <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>obl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>obl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
 </ul>

@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nsubj:pass	color:blue
-1	Έχουν	έχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+1	Έχουν	έχω	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 2	ήδη	ήδη	ADV	ADV	_	3	advmod	_	_
 3	παρουσιαστεί	παρουσιάζω	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 4	ορισμένα	ορισμένος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	5	amod	_	_
@@ -39,9 +39,9 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:pass	color:blue
 1	Τι	τι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int	5	nsubj:pass	_	_
-2	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+2	πρέπει	πρέπει	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 3	λοιπόν	λοιπόν	ADV	ADV	_	5	advmod	_	_
-4	να	να	PART	PART	_	5	aux	_	_
+4	να	να	AUX	AUX	_	5	aux	_	_
 5	τεθεί	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	_
 6	σ	σε	ADP	AsPpSp	_	9	case	_	_
 7	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_

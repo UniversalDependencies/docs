@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Greek-Perseus: POS Tags: `ADP`
 
-There are 110 `ADP` lemmas (1%), 226 `ADP` types (1%) and 10649 `ADP` tokens (5%).
+There are 110 `ADP` lemmas (1%), 225 `ADP` types (1%) and 10649 `ADP` tokens (5%).
 Out of 14 observed tags, the rank of `ADP` is: 5 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>ἐν, εἰς, ἐπί, ἐκ, κατά, πρός, περί, ὑπό, ἀπό, παρά</em>
@@ -47,12 +47,12 @@ The 10 most frequent ambiguous types:  <em>ἐν</em> (<tt><a href="grc_perseus-
   * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 320: <em>ταῦτα γὰρ πάντα <b>μετὰ</b> τοῦδε τοῦ πολέμου ἅμα ξυνεπέθετο .</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 15: <em><b>μετὰ</b> δὲ κατὰ λόγον προβαίνοντες τιμῶσι ·</em>
 * <em>παρὰ</em>
-  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 243: <em>δἰ ὅπερ καὶ τὴν τύχην , ὅσα ἂν <b>παρὰ</b> λόγον ξυμβῇ , εἰώθαμεν αἰτιᾶσθαι .</em>
+  * <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> 243: <em>δἰ ὅπερ καὶ τὴν τύχην , ὅσα ἂν <b>παρὰ</b> λόγον ξυμβῇ , εἰώθαμεν αἰτιᾶσθαι .</em>
   * <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> 3: <em><b>παρὰ</b> δ̓ ἰχθύες ἐκλονέοντο .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.054545 (the average of all parts of speech is 3.010161).
+The form / lemma ratio of `ADP` is 2.045455 (the average of all parts of speech is 3.010090).
 
 The 1st highest number of forms (12) was observed with the lemma “κατά”: <em>κάρ, κάτα, καθ̓, κατ̓, κατά, κατὰ, κὰγ, κὰδ, κὰκ, κὰμ, κὰπ, κὰρ</em>.
 

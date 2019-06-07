@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 In Irish the `mark` label is used for infinitive markers and for subordinate conjunctions. 

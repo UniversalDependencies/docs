@@ -101,7 +101,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 50	de	de	ADP	P	AdpType=Prep	52	case	_	_
 51	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	52	det	_	_
 52	lectores	lector	NOUN	Scmp	Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
-53	,	,	PUNCT	Q,	_	45	punct	_	_
+53	,	,	PUNCT	Q,	_	47	punct	_	_
 54	como	como	ADV	Wr	PronType=Rel	55	advmod	_	_
 55	fixo	facer	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	47	advcl	_	_
 56	dende	dende	ADP	P	AdpType=Prep	59	case	_	_

@@ -38,7 +38,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ur_udtb-pos-NUM.htm
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> NUM</tt> (84; 100%),
+<tt>NUM --[<tt><a href="ur_udtb-dep-case.html">case</a></tt>]--> NUM</tt> (83; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (57; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-dep.html">dep</a></tt>]--> NUM</tt> (18; 100%),
 <tt>NUM --[<tt><a href="ur_udtb-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (17; 100%),

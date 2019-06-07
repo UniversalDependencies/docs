@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 3 1 nsubj:nc	color:blue
 1	నాకు	_	PRON	PRON	_	3	nsubj:nc	_	Translit=nāku|LTranslit=_
 2	చలిగా	_	ADV	ADV	_	3	advmod	_	Translit=caligā|LTranslit=_
-3	ఉంది	_	VERB	VERB	_	0	root	_	Translit=uṁdi|LTranslit=_
+3	ఉంది	_	VERB	VERB	_	0	root	_	Translit=uṁdi|LTranslit=_
 4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
 
 ~~~
@@ -50,12 +50,12 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj:nc	color:blue
-1	ఆలస్యం	_	NOUN	NOUN	_	2	nsubj	_	Translit=ālasyaṁ|LTranslit=_
+1	ఆలస్యం	_	NOUN	NOUN	_	2	nsubj	_	Translit=ālasyaṁ|LTranslit=_
 2	అయిన	_	VERB	VERB	_	5	advcl	_	Translit=ayina|LTranslit=_
 3	కొద్దీ	_	SCONJ	SCONJ	_	2	mark	_	Translit=kòddī|LTranslit=_
-4	ఆడపిల్లలకి	_	NOUN	NOUN	_	5	nsubj:nc	_	Translit=āḍapillalaki|LTranslit=_
-5	పెళ్ళవటం	_	VERB	VERB	_	0	root	_	Translit=pèḷḷavaṭaṁ|LTranslit=_
-6	కష్టం	_	NOUN	NOUN	_	5	obl	_	Translit=kaṣṭaṁ|LTranslit=_
+4	ఆడపిల్లలకి	_	NOUN	NOUN	_	5	nsubj:nc	_	Translit=āḍapillalaki|LTranslit=_
+5	పెళ్ళవటం	_	VERB	VERB	_	0	root	_	Translit=pèḷḷavaṭaṁ|LTranslit=_
+6	కష్టం	_	NOUN	NOUN	_	5	obl	_	Translit=kaṣṭaṁ|LTranslit=_
 7	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
 
 ~~~

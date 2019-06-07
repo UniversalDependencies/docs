@@ -25,8 +25,8 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 # visual-style 8 15 parataxis:discourse	color:blue
 1	#	#	PUNCT	_	_	8	punct	_	_
 2	even	even	ADV	_	_	8	advmod	_	_
-3	sef	sef	PART	_	_	2	advmod:emph	_	_
-4	<	<	PUNCT	_	_	5	punct	_	_
+3	sef	sef	ADV	PART	_	2	advmod:emph	_	_
+4	<	<	PUNCT	_	_	2	punct	_	_
 5	#	#	PUNCT	_	_	2	punct	_	_
 6	life	life	NOUN	_	_	8	nsubj	_	_
 7	fit	fit	AUX	_	_	8	aux	_	_
@@ -51,8 +51,8 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 # visual-style 6 17 parataxis:discourse	color:blue
 1	#	#	PUNCT	_	_	6	punct	_	_
 2	because	because	SCONJ	_	_	6	mark	_	_
-3	no	no	PART	_	_	4	advmod	_	_
-4	be	be	PART	_	_	6	cop	_	_
+3	no	no	ADV	PART	_	6	advmod	_	_
+4	be	be	AUX	PART	_	6	cop	_	_
 5	every	every	DET	_	_	6	det	_	_
 6	time	time	NOUN	_	_	0	root	_	_
 7	>+	>+	PUNCT	_	_	10	punct	_	_
@@ -61,10 +61,10 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 10	use	use	VERB	_	_	6	ccomp:cleft	_	_
 11	dem	dem	PART	_	_	10	obj	_	_
 12	//=	//=	PUNCT	_	_	17	punct	_	_
-13	#	#	PUNCT	_	_	12	punct	_	_
+13	#	#	PUNCT	_	_	17	punct	_	_
 14	because	because	SCONJ	_	_	17	mark	_	_
-15	no	no	PART	_	_	16	advmod	_	_
-16	be	be	PART	_	_	17	cop	_	_
+15	no	no	ADV	PART	_	17	advmod	_	_
+16	be	be	AUX	PART	_	17	cop	_	_
 17	everywhere	everywhere	ADV	_	_	6	parataxis:discourse	_	_
 18	>+	>+	PUNCT	_	_	21	punct	_	_
 19	dem	dem	PRON	_	_	21	nsubj	_	_
@@ -92,8 +92,8 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 8	sey	sey	SCONJ	_	_	13	mark	_	_
 9	[	[	PUNCT	_	_	13	punct	_	_
 10	no	no	INTJ	_	_	13	parataxis:discourse	_	_
-11	o	o	PART	_	_	10	advmod:emph	_	_
-12	na	na	PART	_	_	13	cop	_	_
+11	o	o	ADV	PART	_	10	advmod:emph	_	_
+12	na	na	AUX	PART	_	13	cop	_	_
 13	me	me	PRON	_	_	7	parataxis:obj	_	_
 14	>+	>+	PUNCT	_	_	13	punct	_	_
 15	get	get	VERB	_	_	13	acl:cleft	_	_
@@ -121,7 +121,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:discourse
 37	}	}	PUNCT	_	_	7	punct	_	_
 38	<+	<+	PUNCT	_	_	7	punct	_	_
 39	#	#	PUNCT	_	_	7	punct	_	_
-40	na	na	PART	_	_	41	cop	_	_
+40	na	na	AUX	PART	_	41	cop	_	_
 41	accident	accident	NOUN	_	_	0	root	_	_
 42	>+	>+	PUNCT	_	_	45	punct	_	_
 43	im	im	PRON	_	_	45	nsubj:expl	_	_

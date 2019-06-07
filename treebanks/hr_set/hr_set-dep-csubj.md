@@ -9,32 +9,32 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="hr_set-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-298 nodes (0%) are attached to their parents as `csubj`.
+301 nodes (0%) are attached to their parents as `csubj`.
 
-277 instances of `csubj` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.84563758389262.
+280 instances of `csubj` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.85382059800664.
 
-The following 24 pairs of parts of speech are connected with `csubj`: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (72; 24% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (70; 23% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (46; 15% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (37; 12% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (16; 5% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `csubj`: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (74; 25% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (71; 24% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (45; 15% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (38; 13% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (16; 5% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt>-<tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt>-<tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt>-<tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt>-<tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 csubj	color:blue
-1	Prvi	prvi	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
-2	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	da	da	SCONJ	_	_	8	mark	_	_
-4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
-5	razvoj	razvoj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-6	i	i	PART	_	_	7	discourse	_	_
-7	dalje	daleko	ADV	_	Degree=Cmp	8	advmod	_	_
-8	događa	događati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_
-9	sam	sam	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	obl	_	_
-10	po	po	ADP	_	Case=Loc	11	case	_	_
-11	sebi	sebe	PRON	_	Case=Loc|PronType=Prs|Reflex=Yes	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 csubj	color:blue
+1	"	"	PUNCT	Z	_	7	punct	_	SpaceAfter=No
+2	Povlačiti	povlačiti	VERB	Vmn	VerbForm=Inf	7	csubj	_	_
+3	paralele	paralela	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+4	među	među	ADP	Si	Case=Ins	5	case	_	_
+5	njima	oni	PRON	Pp3-pi	Case=Ins|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
+6	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	pogrešno	pogrešan	ADJ	Agpnsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+8	"	"	PUNCT	Z	_	7	punct	_	SpaceAfter=No
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	rekao	reći	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	parataxis	_	_
+11	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 
@@ -45,35 +45,35 @@ The following 24 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj	color:blue
-1	Očekuje	očekivati	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
-3	kako	kako	SCONJ	_	_	7	mark	_	_
-4	će	htjeti	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-5	suđenja	suđenje	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
-6	osumnjičenima	osumnjičen	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	nmod	_	_
-7	započeti	započeti	VERB	_	VerbForm=Inf	1	csubj	_	_
-8	sredinom	sredina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
-9	rujna	rujan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	_
+1	Očekuje	očekivati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	sebe	PRON	Px--sa	Case=Acc|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	kako	kako	SCONJ	Cs	_	7	mark	_	_
+4	će	htjeti	AUX	Var3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	suđenja	suđenje	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+6	osumnjičenima	osumnjičen	ADJ	Agpmpdy	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	5	nmod	_	_
+7	započeti	započeti	VERB	Vmn	VerbForm=Inf	1	csubj	_	_
+8	sredinom	sredinom	ADP	Sg	Case=Gen	7	obl	_	_
+9	rujna	rujan	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 csubj	color:blue
-1	Nužno	nužno	ADV	_	Degree=Pos	0	root	_	_
-2	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	također	također	ADV	_	Degree=Pos	1	advmod	_	_
-4	uzeti	uzeti	VERB	_	VerbForm=Inf	1	csubj	_	_
-5	u	u	ADP	_	Case=Acc	6	case	_	_
-6	obzir	obzir	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-7	učinak	učinak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
-8	globalizacije	globalizacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 1 3 csubj	color:blue
+1	Bolje	dobro	ADV	Rgc	Degree=Cmp	0	root	_	_
+2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	zaustaviti	zaustaviti	VERB	Vmn	VerbForm=Inf	1	csubj	_	_
+4	sukobe	sukob	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	i	i	CCONJ	Cc	_	6	cc	_	_
+6	razviti	razviti	VERB	Vmn	VerbForm=Inf	3	conj	_	_
+7	poslovanje	poslovanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
+8	"	"	PUNCT	Z	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

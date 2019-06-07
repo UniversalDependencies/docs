@@ -54,17 +54,18 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 csubj	color:blue
-1	Sınıfta	sınıf	NOUN	Noun	Case=Loc|Number=Sing|Person=3	5	obl	_	_
-2	bir	bir	NUM	ANum	NumType=Card	3	det	_	_
-3	uğultu	uğultu	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	csubj	_	_
-4	dur	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
-5	gidiyor	git	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 csubj	color:blue
+1	Sanal	sanal	ADJ	Adj	_	2	amod	_	_
+2	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	6	csubj	_	_
+3	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+4	bunların	bu	PRON	Demons	Case=Gen|Number=Plur|Person=3|PronType=Dem	5	nmod:poss	_	_
+5	hiçbirini	hiçbiri	PRON	Quant	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	6	obj	_	_
+6	yapamazlar	yap	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

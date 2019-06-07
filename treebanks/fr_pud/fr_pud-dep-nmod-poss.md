@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 4	jour	_	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 5	,	_	PUNCT	,	_	4	punct	_	_
 6	je	_	PRON	PRP	Gender=Masc|Number=Sing|Person=1	8	nsubj	_	_
-7	suis	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	aux	_	_
+7	suis	_	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	aux	_	_
 8	remonté	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 9	sur	_	ADP	IN	_	11	case	_	_
 10	mon	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	11	nmod:poss	_	_

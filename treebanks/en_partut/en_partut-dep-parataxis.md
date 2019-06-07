@@ -85,7 +85,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 14	real	real	ADJ	A	Degree=Pos	0	root	_	_
 15	to	to	ADP	E	_	16	case	_	_
 16	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
-17	as	as	ADP	E	_	18	case	_	_
+17	as	as	ADV	B	_	21	advmod	_	_
 18	if	if	SCONJ	CS	_	21	mark	_	_
 19	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 20	were	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	21	aux	_	_

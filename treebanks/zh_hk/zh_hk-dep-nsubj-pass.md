@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	，	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	才	_	ADV	_	_	10	advmod	_	SpaceAfter=No
 10	展開	_	VERB	_	_	0	root	_	SpaceAfter=No
-11	選舉	_	NOUN	_	_	12	compound	_	SpaceAfter=No
+11	選舉	_	VERB	_	_	12	acl	_	SpaceAfter=No
 12	程序	_	NOUN	_	_	10	obj	_	SpaceAfter=No
 13	呢	_	PART	_	_	10	discourse:sp	_	SpaceAfter=No
 14	？	_	PUNCT	_	_	10	punct	_	SpaceAfter=No

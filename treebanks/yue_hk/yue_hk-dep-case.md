@@ -9,12 +9,47 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="yue_hk-dep-case-loc.html">case:loc</a></tt>.
 
-82 nodes (1%) are attached to their parents as `case`.
+357 nodes (3%) are attached to their parents as `case`.
 
-53 instances of `case` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54878048780488.
+209 instances of `case` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.83473389355742.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (25; 30% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (14; 17% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 10% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (7; 9% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (7; 9% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (5; 6% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (5; 6% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (3; 4% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `case`: <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (101; 28% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (99; 28% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (40; 11% instances), <tt><a href="yue_hk-pos-DET.html">DET</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (30; 8% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (25; 7% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="yue_hk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PART.html">PART</a></tt>-<tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	因為	因為	ADV	_	_	21	advmod	_	SpaceAfter=No
+2	退休	退休	VERB	_	_	4	acl	_	SpaceAfter=No
+3	之	之	PART	_	_	2	case	_	SpaceAfter=No
+4	年	年	NOUN	_	NounType=Clf	21	obl:tmod	_	SpaceAfter=No
+5	嘅話	嘅話	PART	_	_	4	case	_	SpaceAfter=No
+6	呢	呢	PART	_	_	4	discourse:sp	_	SpaceAfter=No
+7	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	除去	除去	ADV	_	_	9	mark	_	SpaceAfter=No
+9	食飯	食飯	VERB	_	_	21	advcl	_	SpaceAfter=No
+10	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	同	同	VERB	_	_	21	advcl:coverb	_	SpaceAfter=No
+12	仔女	仔女	NOUN	_	_	11	obj	_	SpaceAfter=No
+13	有	有	VERB	_	_	21	reparandum	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	冇	冇	VERB	_	_	21	reparandum	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	冇	冇	VERB	_	_	21	reparandum	_	SpaceAfter=No
+18	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	冇	冇	VERB	_	_	21	reparandum	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	冇	冇	VERB	_	_	0	root	_	SpaceAfter=No
+22	乜	乜	PRON	_	_	21	obj	_	SpaceAfter=No
+23	傾	傾	VERB	_	_	22	acl	_	SpaceAfter=No
+24	咖嘛	咖嘛	PART	_	_	21	discourse:sp	_	SpaceAfter=No
+25	！	！	PUNCT	_	_	21	punct	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -31,31 +66,6 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 6	都	都	ADV	_	_	7	advmod	_	SpaceAfter=No
 7	沉迷	沉迷	VERB	_	_	0	root	_	SpaceAfter=No
 8	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 case	color:blue
-1	噉	噉	ADV	_	_	2	discourse	_	SpaceAfter=No
-2	好	好	ADJ	_	_	0	root	_	SpaceAfter=No
-3	啦	喇	PART	_	_	2	discourse:sp	_	SpaceAfter=No
-4	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
-5	媽咪	媽咪	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-6	去	去	VERB	_	_	2	conj	_	SpaceAfter=No
-7	攞	攞	VERB	_	_	6	conj	_	SpaceAfter=No
-8	畀	畀	ADP	_	_	9	case	_	SpaceAfter=No
-9	你	你	PRON	_	_	7	obl	_	SpaceAfter=No
-10	啦	喇	PART	_	_	6	discourse:sp	_	SpaceAfter=No
-11	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No
-12	好	好	ADJ	_	_	2	conj	_	SpaceAfter=No
-13	唔	唔	ADV	_	_	14	advmod	_	SpaceAfter=No
-14	好	好	ADJ	_	_	12	conj	_	SpaceAfter=No
-15	？	？	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 ~~~
 

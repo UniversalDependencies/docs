@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.822.
+Average distance between parent and child is 7.732.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (810; 81% instances), -<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (87; 9% instances), -<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (87; 9% instances), -<tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (8; 1% instances), -<tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), -<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (849; 85% instances), -<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (73; 7% instances), -<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (71; 7% instances), -<tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="de_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,12 +45,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Vielleicht	vielleicht	ADV	RB	Degree=Pos	6	advmod	_	_
-2	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
-3	die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	4	det	_	_
-4	Kleiderordnung	Kleiderordnung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
-5	zu	zu	ADV	RB	Degree=Pos	6	advmod	_	_
-6	bieder	bieder	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
+1	Manchmal	manchmal	ADV	RB	Degree=Pos	6	advmod	_	_
+2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+3	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	_
+4	wie	wie	CCONJ	CC	_	6	cc	_	_
+5	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	6	det	_	_
+6	Superkraft	Superkraft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -62,12 +62,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Manchmal	manchmal	ADV	RB	Degree=Pos	6	advmod	_	_
-2	ist	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-3	das	der	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	_
-4	wie	wie	CCONJ	CC	_	6	cc	_	_
-5	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Person=3	6	det	_	_
-6	Superkraft	Superkraft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+1	Vielleicht	vielleicht	ADV	RB	Degree=Pos	6	advmod	_	_
+2	war	sein	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
+3	die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3	4	det	_	_
+4	Kleiderordnung	Kleiderordnung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
+5	zu	zu	ADV	RB	Degree=Pos	6	advmod	_	_
+6	bieder	bieder	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~

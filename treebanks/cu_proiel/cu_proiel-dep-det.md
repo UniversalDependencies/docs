@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1353 nodes (2%) are attached to their parents as `det`.
+1361 nodes (2%) are attached to their parents as `det`.
 
-797 instances of `det` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14781966001478.
+805 instances of `det` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16164584864071.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (642; 47% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (533; 39% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (73; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (37; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (643; 47% instances), <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (540; 40% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (73; 5% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (36; 3% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,17 +22,17 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	аще	аще	SCONJ	G-	_	3	mark	_	ref=MATT_6.22
-2	оубо	оубо	ADV	Df	_	11	discourse	_	ref=MATT_6.22
-3	бѫдетъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	ref=MATT_6.22
-4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=MATT_6.22
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_6.22
+2	оубо	оубо	ADV	Df	_	10	discourse	_	ref=MATT_6.22
+3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_6.22
+4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_6.22
 5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=MATT_6.22
-6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	xcomp	_	ref=MATT_6.22
+6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	advcl	_	ref=MATT_6.22
 7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	ref=MATT_6.22
-8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=MATT_6.22
+8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=MATT_6.22
 9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=MATT_6.22
-10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	11	xcomp	_	ref=MATT_6.22
-11	бѫдетъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.22
+10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=MATT_6.22
+11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	ref=MATT_6.22
 
 ~~~
 

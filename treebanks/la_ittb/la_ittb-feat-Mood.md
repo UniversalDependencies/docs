@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-44979 tokens (13%) have a non-empty value of `Mood`.
-3982 types (24%) occur at least once with a non-empty value of `Mood`.
-1037 lemmas (23%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (33221; 9% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (11758; 3% instances).
+44941 tokens (13%) have a non-empty value of `Mood`.
+3981 types (24%) occur at least once with a non-empty value of `Mood`.
+1037 lemmas (22%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (33333; 9% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (11608; 3% instances).
 
 ### `VERB`
 
-33221 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
+33333 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33221; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33221; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (31863; 96%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30340; 91%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (29532; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26310; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23514; 71%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33333; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (33333; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (32012; 96%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (30448; 91%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (29635; 89%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26391; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23490; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (132; 0% of non-empty `Mood`): <em>puta, nolite, discedite, ordinate, vade, accipite, audi, comedite, considera, da</em>
-* `Ind` (27126; 82% of non-empty `Mood`): <em>est, potest, oportet, habet, dicitur, sunt, patet, dicit, videtur, fit</em>
-* `Sub` (5963; 18% of non-empty `Mood`): <em>sit, possit, habeat, esset, sint, posset, fiat, dicatur, cognoscat, intelligat</em>
-* `EMPTY` (19026): <em>esse, ostensum, dicendum, intelligere, dictum, movens, fieri, habere, separatae, dici</em>
+* `Imp` (94; 0% of non-empty `Mood`): <em>nolite, discedite, ordinate, vade, accipite, audi, comedite, considera, da, dispone</em>
+* `Ind` (27249; 82% of non-empty `Mood`): <em>est, potest, oportet, habet, dicitur, sunt, patet, dicit, videtur, fit</em>
+* `Sub` (5990; 18% of non-empty `Mood`): <em>sit, possit, habeat, esset, sint, posset, fiat, dicatur, cognoscat, intelligat</em>
+* `EMPTY` (19042): <em>esse, ostensum, dicendum, intelligere, dictum, movens, fieri, habere, dici, separatae</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -59,16 +59,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-11758 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Mood`.
+11608 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11758; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11713; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11619; 99%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (11037; 94%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10091; 86%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11608; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11605; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (11564; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10896; 94%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9972; 86%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (3; 0% of non-empty `Mood`): <em>estote, esto</em>
-* `Ind` (9729; 83% of non-empty `Mood`): <em>est, sunt, erit, fuit, fuerit, dicitur, erat, videtur, erunt, fit</em>
-* `Sub` (2026; 17% of non-empty `Mood`): <em>sit, esset, sint, essent, fuerit, fuisset, fuerint, fiat, fuissent, dicatur</em>
-* `EMPTY` (1386): <em>esse, fuisse, dici, facta, factae, fore, cognitum, essendi, existere, factas</em>
+* `Ind` (9606; 83% of non-empty `Mood`): <em>est, sunt, erit, fuit, fuerit, erat, erunt, erant, fuerunt, sum</em>
+* `Sub` (1999; 17% of non-empty `Mood`): <em>sit, esset, sint, essent, fuerit, fuisset, fuerint, fuissent, simus, foret</em>
+* `EMPTY` (1363): <em>esse, fuisse, fore, essendi</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -99,8 +99,10 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1840; 85%),
-<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (31; 70%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
-<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1852; 84%),
+<tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (34; 74%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 80%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="la_ittb-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%).
 

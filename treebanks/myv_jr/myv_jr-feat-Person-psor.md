@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-767 tokens (5%) have a non-empty value of `Person[psor]`.
-497 types (10%) occur at least once with a non-empty value of `Person[psor]`.
-281 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 9 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (588; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (99; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+768 tokens (5%) have a non-empty value of `Person[psor]`.
+498 types (10%) occur at least once with a non-empty value of `Person[psor]`.
+282 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 9 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (589; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (99; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-588 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+589 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (588; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (471; 80%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (312; 53%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (589; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (472; 80%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (312; 53%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `ADP`
 
-99 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+99 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (19% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (87; 88%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (77; 78%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (63; 64%).
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 22 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 95%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 64%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 95%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 64%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -92,31 +92,22 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 `Person[psor]` seems to be **lexical feature** of `PRON`. 91% lemmas (10) occur only with one value of `Person[psor]`.
 
-### `NUM`
-
-13 <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="myv_jr-feat-NumType.html">NumType</a></tt><tt>=Sets</tt> (13; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 100%).
-
-`NUM` tokens may have the following values of `Person[psor]`:
-
-
 ### `ADV`
 
-9 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
+12 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (6; 67%).
+The most frequent other feature values with which `ADV` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 58%).
 
 `ADV` tokens may have the following values of `Person[psor]`:
 
 
-### `DET`
+### `NUM`
 
-2 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+11 <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-NumType.html">NumType</a></tt><tt>=Sets</tt> (11; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%).
 
-`DET` tokens may have the following values of `Person[psor]`:
+`NUM` tokens may have the following values of `Person[psor]`:
 
 
 ### `ADJ`
@@ -126,6 +117,15 @@ The most frequent other feature values with which `DET` and `Person[psor]` co-oc
 The most frequent other feature values with which `ADJ` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Person[psor]`:
+
+
+### `DET`
+
+1 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Person[psor]`:
 
 
 ### `PROPN`
@@ -140,7 +140,7 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 63%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10; 59%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-compound-coll.html">compound:coll</a></tt>]--> NOUN</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (1; 100%),

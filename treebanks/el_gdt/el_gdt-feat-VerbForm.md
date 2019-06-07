@@ -11,19 +11,19 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 6932 tokens (11%) have a non-empty value of `VerbForm`.
 2995 types (26%) occur at least once with a non-empty value of `VerbForm`.
-956 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (6333; 10% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (599; 1% instances).
+954 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> (5867; 9% instances), <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> (1065; 2% instances).
 
 ### `VERB`
 
-6333 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+5867 <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5845; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4721; 75%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4539; 72%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3686; 58%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3360; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5380; 92%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4277; 73%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4073; 69%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3316; 57%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2970; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (103; 2% of non-empty `VerbForm`): <em>λέγοντας, έχοντας, προκαλώντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</em>
-* `Fin` (5865; 93% of non-empty `VerbForm`): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
+* `Conv` (102; 2% of non-empty `VerbForm`): <em>λέγοντας, προκαλώντας, έχοντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</em>
+* `Fin` (5400; 92% of non-empty `VerbForm`): <em>μπορεί, αφορά, έχει, αποτελεί, έχουν, δήλωσε, υπάρχει, ήθελα, βρίσκεται, πρόκειται</em>
 * `Inf` (242; 4% of non-empty `VerbForm`): <em>γίνει, λάβει, δημιουργήσει, επιτύχει, πει, συλληφθεί, τεθεί, χάσει, αποκλειστεί, αρχίσει</em>
 * `Part` (123; 2% of non-empty `VerbForm`): <em>χτισμένη, χτισμένο, περιορισμένη, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</em>
 
@@ -52,13 +52,30 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-599 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1065 <tt><a href="el_gdt-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (599; 100%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (588; 98%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (566; 94%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (473; 79%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 76%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1064; 100%), <tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1051; 99%), <tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1010; 95%), <tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (848; 80%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (823; 77%), <tt><a href="el_gdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (599; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (599; 100% of non-empty `VerbForm`): <em>είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</em>
+* `Conv` (1; 0% of non-empty `VerbForm`): <em>έχοντας</em>
+* `Fin` (1064; 100% of non-empty `VerbForm`): <em>είναι, πρέπει, ήταν, έχει, έχουν, είχε, είχαν, είμαστε, έπρεπε, έχουμε</em>
+* `EMPTY` (1954): <em>να, θα, ας, ν'</em>
+
+<table>
+  <tr><th>Paradigm <i>έχω</i></th><th><tt>Fin</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>έχω</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>είχε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>έχει</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>είχαμε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>έχουμε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>έχετε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>είχαν</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>έχουν</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>έχοντας</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>είχατε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="el_gdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>είχαν</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `VerbForm`
 
@@ -71,6 +88,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="el_gdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (43; 90%),
 <tt>VERB --[<tt><a href="el_gdt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (40; 95%),
 <tt>VERB --[<tt><a href="el_gdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (5; 100%),
-<tt>VERB --[<tt><a href="el_gdt-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="el_gdt-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (1; 100%).
 

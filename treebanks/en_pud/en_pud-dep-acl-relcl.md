@@ -23,9 +23,9 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl:relcl	color:blue
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
-2	’re	’re	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 3	usually	usually	ADV	RB	_	4	advmod	4:advmod	_
-4	artists	artist	NOUN	NNS	Number=Plur	0	root	6:nsubj|8:nsubj:xsubj	_
+4	artists	artist	NOUN	NNS	Number=Plur	0	root	0:root|6:nsubj|8:nsubj:xsubj	_
 5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
 6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
 7	to	to	PART	TO	_	8	mark	8:mark	_

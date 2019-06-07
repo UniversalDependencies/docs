@@ -16,7 +16,7 @@ Family: Uralic, Finnic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Andriela Rääbis.
+The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Andriela Rääbis, Liisi Torga.
 
 Repository: [UD_Estonian-EDT](https://github.com/UniversalDependencies/UD_Estonian-EDT)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt22)<br />
@@ -47,7 +47,7 @@ UD Estonian is a converted version of the Estonian Dependency Treebank (EDT), or
 
 
 
-The Estonian UD v2.3 treebank is based on the [Estonian Dependency Treebank](https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
+The Estonian UD v2.4 treebank is based on the [Estonian Dependency Treebank](https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
 
 The treebank covers 3 different genres, namely newspaper texts, fiction and scientific texts:
 
@@ -127,11 +127,11 @@ This work was financed by the [National Programme for Estonian Language Technolo
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as auxiliaries (AUX): ei, hakka, jääma, nägema, näima, ole, olema, paistma, pida, pidama, pruukima, saa, saama, tahtma, tohti, tohtima, tulema, tunduma, või, võima, ära</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): ei, näima, olema, paistma, pidama, saama, tohtima, tunduma, võima, ära</li>
 </ul>
 
 <ul>
-<li>Out of the above, 13 lemmas occurred sometimes as AUX and sometimes as VERB: jääma, nägema, näima, olema, paistma, pidama, pruukima, saama, tahtma, tohtima, tulema, tunduma, võima</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: näima, olema, paistma, pidama, saama, tohtima, tunduma, võima</li>
 </ul>
 
 <ul>
@@ -159,7 +159,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: olla, tunduda, hakata, paista, pidada, saada</li>
+    <li>AUX: olla, tunduda, paista, pidada, saada</li>
     <li>VERB: teha, saada, teada, võtta, näha, öelda, kasutada, minna, panna, leida</li>
   </ul>
   </li>
@@ -440,7 +440,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: uusi, esimest, suurt, erinevaid, uut, head, suuri, suuremat, viimast, pikka</li>
       <li>ADJ-Part: erinevaid, erinevat, huvitavaid, toimuvat, vastavat, täiendavaid, täiendavat, vajaminevat, huvitavat, sobivat</li>
-      <li>DET: seda, mingit, neid, kõiki, sellist, mingeid, selliseid, sama, mitmeid, teisi</li>
+      <li>DET: seda, mingit, neid, kõiki, sellist, mingeid, selliseid, mitmeid, sama, teisi</li>
       <li>NOUN: aastat, korda, krooni, aega, raha, tegemist, tööd, aru, inimesi, inimest</li>
       <li>NOUN-Part: uuritavat, olemasolevaid, toimunut, juhtunut, kinnipeetavat, süüdistatavaid, edasijõudnuid, eeltoodut, elusolevat, hõivatuid</li>
       <li>NUM: miljonit, kahte, kolme, miljardit, tuhat, ühtegi, üht, nelja, tuhandeid, ühte</li>
@@ -472,7 +472,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>DET: üheks, selleks, igaks, mõneks, mitmeks, teiseks, esimeseks, samaks, Nendeks, Seks</li>
       <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, kasuks, lõpuks, õnneks, ülesandeks</li>
       <li>NOUN-Part: viibinuks, väljavalituteks</li>
-      <li>NUM: kaheks, üheks, 99, kolmeks, neljaks, viieks, paariks, kuueks, pooleks, 000</li>
+      <li>NUM: kaheks, üheks, 99, kolmeks, neljaks, viieks, paariks, kuueks, pooleks, 10-15</li>
       <li>PRON: selleks, omaks, samaks, milleks, nendeks, selliseks, iseendaks, kelleks, kõigeks, paljudeks</li>
       <li>PROPN: Arpanetiks, Atriumiks, Cabernet'-veiniks, Chappaquaks, Entente'iks, Franckiks, Francoks, Freewomaniks, Hitleriks, Indiaks</li>
       <li>SYM: A-ks</li>
@@ -584,23 +584,14 @@ This work was financed by the [National Programme for Estonian Language Technolo
 </ul>
 
 <ul>
-  <li>Imp
-    <ul>
-      <li>AUX-Fin: oli, olid, pidi, olin, sai, said, sain, tohtinud</li>
-      <li>VERB-Fin: liigutas, viskus, tõukas, liikus, tatsas, prantsatas, sõidutas, tilkus, liikusid, valas</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Past
     <ul>
       <li>ADJ-Part: teatud, seotud, tehtud, antud, tuntud, möödunud, ülejäänud, nimetatud, loodud, jäänud</li>
-      <li>AUX-Fin: oli, olid, polnud, olnud, olin, võis, pidi, sai, saanud, oligi</li>
+      <li>AUX-Fin: oli, olid, polnud, olnud, olin, pidi, võis, sai, saanud, oligi</li>
       <li>AUX-Part: olnud, pidanud, saanud, võinud, tohtinud, paistnud, saand, saanudki, tohtinudki</li>
       <li>NOUN-Part: hõivatute, hõivatud, hõivatuist, Eeltoodu, hõivatutest, nähtu, surnu, allakirjutanu, osalenute, vastanuist</li>
       <li>PROPN-Part: Ühinenud, Avatud, Relvastatud, Hukkunud, Ühendatud</li>
-      <li>VERB-Fin: ütles, sai, tuli, läks, jäi, oli, tegi, hakkas, võttis, andis</li>
+      <li>VERB-Fin: ütles, sai, tuli, läks, jäi, tegi, oli, hakkas, võttis, andis</li>
       <li>VERB-Part: saanud, jäänud, jõudnud, seotud, teinud, tulnud, muutunud, tehtud, näinud, kasvanud</li>
     </ul>
   </li>
@@ -700,7 +691,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADJ: missugune, Missugust, milline, missugused, mitmendal, mitmendat</li>
+      <li>ADJ: missugune, Missugust, milline, missugused, mitmendal</li>
       <li>ADV: kus</li>
       <li>DET: mis, millise, millist, missugune, missugused, kumb, millised, missugust, Milliseid, kumba</li>
       <li>PRON: mis, kes, mida, mille, kelle, millest, millega, kellel, milles, keda</li>
@@ -735,7 +726,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: milline, millised, millist, kumb, millise, milliseid, millises, millisesse, milliste, milliseks</li>
       <li>ADV: kus</li>
-      <li>DET: millise, millised, milliseid, millist, milline, kumma, kummas, millises, millisest</li>
+      <li>DET: millise, millised, milliseid, millist, milline, millises, kumma, kummas, millisest</li>
       <li>PRON: mis, kes, mida, mille, milline, millised, kelle, kellel, keda, kellele</li>
     </ul>
   </li>
@@ -772,7 +763,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
   <li>Ord
     <ul>
       <li>ADJ: esimene, esimest, 1., esimese, teine, 2000., 2., teise, 1997., 1999.</li>
-      <li>NUM: kolmandat, 2000.-2001., I, Teine, esimest, kolmas, sajas, teise</li>
+      <li>NUM: kolmandat, 2000.-2001., I, III, Teine, VII, esimest, kolmas, sajas, teise</li>
       <li>PROPN: Teist, Teise, Kolmanda, ADV, M, Esimene, Esimese, Neljanda, Neljandal, Teisel</li>
       <li>X: C</li>
     </ul>
@@ -895,7 +886,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
         <ul>
           <li>AUX: ole, saa, olnud, ei, tohi, pea, tohiks, saanud, oleks, peaks</li>
           <li>AUX-Fin: ole, saa, olnud, tohi, pea, tohiks, saanud, oleks, peaks, või</li>
-          <li>VERB-Fin: tea, saa, taha, ole, suuda, oska, saanud, suutnud, tule, pruugi</li>
+          <li>VERB-Fin: tea, saa, taha, ole, suuda, oska, saanud, pruugi, suutnud, tule</li>
         </ul>
       </li>
     </ul>
@@ -910,7 +901,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
           <li>ADJ: druzhnõi</li>
           <li>ADV: nahui, so, u</li>
           <li>CCONJ: versus</li>
-          <li>NOUN: camera, live, obscura</li>
+          <li>NOUN: camera, factory, live, obscura, outlet</li>
           <li>PROPN: Holy, Night, O, Big, Dream, Earth, Sex, Song, Study</li>
           <li>X: tõ, ?????, Proopusk, in, jesh, la, stupai, á, ??????????, ?????????????</li>
         </ul>
@@ -945,7 +936,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>Digit
         <ul>
           <li>ADJ: 1., 2000., 2., 1997., 1999., 3., 1996., 1998., 1992., 1995.</li>
-          <li>NUM: 1, 2, 000, 10, 3, 4, 5, 20, 15, 6</li>
+          <li>NUM: 1, 2, 000, 10, 3, 4, 5, 15, 20, 6</li>
           <li>PROPN: 8</li>
           <li>SYM: %, %-lt, %-le, %-ni</li>
         </ul>
@@ -963,7 +954,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>Roman
         <ul>
           <li>ADJ: II, I, III, XI, XX, VI, IV, MDCXXXII, V, XIX</li>
-          <li>NUM: I</li>
+          <li>NUM: I, III, VII</li>
           <li>PROPN: ADV, M, CX, XM</li>
           <li>X: C</li>
         </ul>
@@ -977,11 +968,11 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: olema, ole.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olema.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 21 lemmas as auxiliaries (<a>aux</a>). Examples: olema, ei, võima, pidama, saama, tohtima, tunduma, ole, ära, näima, paistma, saa, pida, või, hakka, jääma, näiksema, pruukima, tahtma, tohti, tulema.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: olema, ei, võima, pidama, saama, tohtima, tunduma, ära, näima, paistma.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -991,28 +982,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Conv--NOUN-Nom (1)</li>
-      <li>VERB-Fin--NOUN (50)</li>
+      <li>VERB-Fin--NOUN (51)</li>
       <li>VERB-Fin--NOUN-All (1)</li>
       <li>VERB-Fin--NOUN-Ela (5)</li>
       <li>VERB-Fin--NOUN-Gen (14)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ringis) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(üle) (2)</li>
       <li>VERB-Fin--NOUN-Ine (2)</li>
-      <li>VERB-Fin--NOUN-Nom (11312)</li>
-      <li>VERB-Fin--NOUN-Par (1067)</li>
+      <li>VERB-Fin--NOUN-Nom (11292)</li>
+      <li>VERB-Fin--NOUN-Par (1063)</li>
       <li>VERB-Fin--NOUN-Par-ADP(kuni) (1)</li>
-      <li>VERB-Fin--PRON-Nom (5735)</li>
-      <li>VERB-Fin--PRON-Par (133)</li>
+      <li>VERB-Fin--PRON-Nom (5734)</li>
+      <li>VERB-Fin--PRON-Par (132)</li>
       <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Nom (522)</li>
+      <li>VERB-Inf--NOUN-Nom (519)</li>
       <li>VERB-Inf--NOUN-Par (50)</li>
       <li>VERB-Inf--PRON-Nom (270)</li>
       <li>VERB-Inf--PRON-Par (15)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--NOUN-Gen (7)</li>
       <li>VERB-Part--NOUN-Ine (1)</li>
-      <li>VERB-Part--NOUN-Nom (1395)</li>
+      <li>VERB-Part--NOUN-Nom (1394)</li>
       <li>VERB-Part--NOUN-Par (111)</li>
       <li>VERB-Part--PRON-Nom (692)</li>
       <li>VERB-Part--PRON-Par (23)</li>
@@ -1020,7 +1011,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Sup--NOUN-Gen (1)</li>
       <li>VERB-Sup--NOUN-Ine (1)</li>
       <li>VERB-Sup--NOUN-Nom (311)</li>
-      <li>VERB-Sup--NOUN-Par (17)</li>
+      <li>VERB-Sup--NOUN-Par (18)</li>
       <li>VERB-Sup--PRON-Nom (172)</li>
       <li>VERB-Sup--PRON-Par (5)</li>
     </ul>
@@ -1041,10 +1032,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (33)</li>
       <li>VERB-Fin--NOUN-Add (7)</li>
       <li>VERB-Fin--NOUN-Ela (2)</li>
-      <li>VERB-Fin--NOUN-Gen (2179)</li>
+      <li>VERB-Fin--NOUN-Gen (2180)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(üle) (2)</li>
       <li>VERB-Fin--NOUN-Nom (1301)</li>
-      <li>VERB-Fin--NOUN-Par (6050)</li>
+      <li>VERB-Fin--NOUN-Par (6044)</li>
       <li>VERB-Fin--NOUN-Par-ADP(kuni) (2)</li>
       <li>VERB-Fin--PRON-Gen (185)</li>
       <li>VERB-Fin--PRON-Nom (195)</li>
@@ -1053,13 +1044,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Add (2)</li>
       <li>VERB-Inf--NOUN-Ela (1)</li>
       <li>VERB-Inf--NOUN-Gen (298)</li>
-      <li>VERB-Inf--NOUN-Nom (624)</li>
-      <li>VERB-Inf--NOUN-Par (2495)</li>
+      <li>VERB-Inf--NOUN-Nom (627)</li>
+      <li>VERB-Inf--NOUN-Par (2498)</li>
       <li>VERB-Inf--NOUN-Par-ADP(kuni) (1)</li>
       <li>VERB-Inf--PRON-Add (1)</li>
       <li>VERB-Inf--PRON-Gen (24)</li>
       <li>VERB-Inf--PRON-Nom (59)</li>
-      <li>VERB-Inf--PRON-Par (620)</li>
+      <li>VERB-Inf--PRON-Par (622)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Add (2)</li>
       <li>VERB-Part--NOUN-Gen (310)</li>
@@ -1070,13 +1061,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Par-ADP(kuni) (1)</li>
       <li>VERB-Part--PRON-Gen (28)</li>
       <li>VERB-Part--PRON-Nom (169)</li>
-      <li>VERB-Part--PRON-Par (213)</li>
+      <li>VERB-Part--PRON-Par (212)</li>
       <li>VERB-Sup--NOUN (2)</li>
-      <li>VERB-Sup--NOUN-Gen (111)</li>
-      <li>VERB-Sup--NOUN-Gen-ADP(alla) (1)</li>
+      <li>VERB-Sup--NOUN-Gen (112)</li>
       <li>VERB-Sup--NOUN-Ine (1)</li>
       <li>VERB-Sup--NOUN-Nom (31)</li>
-      <li>VERB-Sup--NOUN-Par (786)</li>
+      <li>VERB-Sup--NOUN-Par (787)</li>
       <li>VERB-Sup--PRON-Gen (7)</li>
       <li>VERB-Sup--PRON-Nom (2)</li>
       <li>VERB-Sup--PRON-Par (136)</li>
@@ -1096,7 +1086,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 191 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: tundma end, liigutama end, pidama ennast, ajama end, nimetama ennast, tundma ennast, hoidma end, nimetama end, registreerima end, seadma ennast, tasuma ennast, tegema ennast, tunnistama end, kuulutama end, laskma end, leidma end, liigutama ennast, lohutama end, pakkuma ennast, panema end, petma ennast, pidama end, seadma end, täiendama end, väitma end, võtma end, õigustama ennast, esitlema end, kaitsma end, keerama ennast, kohendama end, näitama end, paigutama ennast, pesema ennast, pidav end, pildistama end, pooma ennast, pressima end, registreerima ennast, samastama end, segama ennast, suruma end, suruma ennast, sättima end, sättima ennast, süstima end, tapma ennast, tuletama ennast, tutvustama end, tõestama ennast</li>
+  <li>This corpus contains 190 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: tundma end, liigutama end, pidama ennast, ajama end, nimetama ennast, tundma ennast, hoidma end, nimetama end, registreerima end, seadma ennast, tasuma ennast, tegema ennast, tunnistama end, kuulutama end, laskma end, leidma end, liigutama ennast, lohutama end, pakkuma ennast, panema end, petma ennast, pidama end, seadma end, täiendama end, väitma end, võtma end, õigustama ennast, esitlema end, kaitsma end, keerama ennast, kohendama end, näitama end, paigutama ennast, pesema ennast, pidav end, pildistama end, pooma ennast, pressima end, registreerima ennast, samastama end, segama ennast, suruma end, suruma ennast, sättima end, sättima ennast, süstima end, tapma ennast, tuletama ennast, tutvustama end, tõestama ennast</li>
     <ul>
       <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: pooma, samastama, välistav</li>
     </ul>

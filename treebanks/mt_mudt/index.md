@@ -47,7 +47,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.3 standard.
+The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.4 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
@@ -91,7 +91,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 
 ## Relations
 
-[acl](mt_mudt-dep-acl.html) – [advcl](mt_mudt-dep-advcl.html) – [advmod](mt_mudt-dep-advmod.html) – [amod](mt_mudt-dep-amod.html) – [appos](mt_mudt-dep-appos.html) – [aux](mt_mudt-dep-aux.html) – [aux:neg](mt_mudt-dep-aux-neg.html) – [aux:part](mt_mudt-dep-aux-part.html) – [aux:pass](mt_mudt-dep-aux-pass.html) – [case](mt_mudt-dep-case.html) – [case:det](mt_mudt-dep-case-det.html) – [cc](mt_mudt-dep-cc.html) – [ccomp](mt_mudt-dep-ccomp.html) – [compound](mt_mudt-dep-compound.html) – [conj](mt_mudt-dep-conj.html) – [cop](mt_mudt-dep-cop.html) – [csubj](mt_mudt-dep-csubj.html) – [dep](mt_mudt-dep-dep.html) – [det](mt_mudt-dep-det.html) – [discourse](mt_mudt-dep-discourse.html) – [dislocated](mt_mudt-dep-dislocated.html) – [expl](mt_mudt-dep-expl.html) – [fixed](mt_mudt-dep-fixed.html) – [flat](mt_mudt-dep-flat.html) – [flat:name](mt_mudt-dep-flat-name.html) – [goeswith](mt_mudt-dep-goeswith.html) – [iobj](mt_mudt-dep-iobj.html) – [list](mt_mudt-dep-list.html) – [mark](mt_mudt-dep-mark.html) – [nmod](mt_mudt-dep-nmod.html) – [nmod:poss](mt_mudt-dep-nmod-poss.html) – [nsubj](mt_mudt-dep-nsubj.html) – [nsubj:pass](mt_mudt-dep-nsubj-pass.html) – [nummod](mt_mudt-dep-nummod.html) – [obj](mt_mudt-dep-obj.html) – [obl](mt_mudt-dep-obl.html) – [obl:agent](mt_mudt-dep-obl-agent.html) – [obl:arg](mt_mudt-dep-obl-arg.html) – [orphan](mt_mudt-dep-orphan.html) – [parataxis](mt_mudt-dep-parataxis.html) – [punct](mt_mudt-dep-punct.html) – [reparandum](mt_mudt-dep-reparandum.html) – [root](mt_mudt-dep-root.html) – [vocative](mt_mudt-dep-vocative.html) – [xcomp](mt_mudt-dep-xcomp.html)
+[acl](mt_mudt-dep-acl.html) – [advcl](mt_mudt-dep-advcl.html) – [advmod](mt_mudt-dep-advmod.html) – [advmod:neg](mt_mudt-dep-advmod-neg.html) – [amod](mt_mudt-dep-amod.html) – [appos](mt_mudt-dep-appos.html) – [aux](mt_mudt-dep-aux.html) – [aux:neg](mt_mudt-dep-aux-neg.html) – [aux:part](mt_mudt-dep-aux-part.html) – [aux:pass](mt_mudt-dep-aux-pass.html) – [case](mt_mudt-dep-case.html) – [case:det](mt_mudt-dep-case-det.html) – [cc](mt_mudt-dep-cc.html) – [ccomp](mt_mudt-dep-ccomp.html) – [compound](mt_mudt-dep-compound.html) – [conj](mt_mudt-dep-conj.html) – [cop](mt_mudt-dep-cop.html) – [cop:expl](mt_mudt-dep-cop-expl.html) – [csubj](mt_mudt-dep-csubj.html) – [dep](mt_mudt-dep-dep.html) – [det](mt_mudt-dep-det.html) – [discourse](mt_mudt-dep-discourse.html) – [dislocated](mt_mudt-dep-dislocated.html) – [expl](mt_mudt-dep-expl.html) – [fixed](mt_mudt-dep-fixed.html) – [flat](mt_mudt-dep-flat.html) – [flat:name](mt_mudt-dep-flat-name.html) – [goeswith](mt_mudt-dep-goeswith.html) – [iobj](mt_mudt-dep-iobj.html) – [list](mt_mudt-dep-list.html) – [mark](mt_mudt-dep-mark.html) – [nmod](mt_mudt-dep-nmod.html) – [nmod:poss](mt_mudt-dep-nmod-poss.html) – [nsubj](mt_mudt-dep-nsubj.html) – [nsubj:pass](mt_mudt-dep-nsubj-pass.html) – [nummod](mt_mudt-dep-nummod.html) – [obj](mt_mudt-dep-obj.html) – [obl](mt_mudt-dep-obl.html) – [obl:agent](mt_mudt-dep-obl-agent.html) – [obl:arg](mt_mudt-dep-obl-arg.html) – [orphan](mt_mudt-dep-orphan.html) – [parataxis](mt_mudt-dep-parataxis.html) – [punct](mt_mudt-dep-punct.html) – [reparandum](mt_mudt-dep-reparandum.html) – [root](mt_mudt-dep-root.html) – [vocative](mt_mudt-dep-vocative.html) – [xcomp](mt_mudt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -101,7 +101,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 </ul>
 
 <ul>
-<li>This corpus contains 10621 tokens (24%) that are not followed by a space.</li>
+<li>This corpus contains 10625 tokens (24%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -124,7 +124,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 </ul>
 
 <ul>
-<li>This corpus contains 17 word types tagged as particles (PART): aħniex, hijiex, humiex, huwiex, iniex, la, le, m', ma, mhi, mhijiex, mhix, mhu, mhumiex, mhuwiex, mhux, miniex</li>
+<li>This corpus contains 4 word types tagged as particles (PART): la, le, m', ma</li>
 </ul>
 
 <ul>
@@ -207,9 +207,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1035)</li>
-      <li>VERB--NOUN-ADP(_) (33)</li>
-      <li>VERB--PRON (344)</li>
+      <li>VERB--NOUN (1068)</li>
+      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--PRON (347)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
     </ul>
   </li>
@@ -218,9 +218,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1257)</li>
-      <li>VERB--NOUN-ADP(_) (87)</li>
-      <li>VERB--PRON (133)</li>
+      <li>VERB--NOUN (1327)</li>
+      <li>VERB--NOUN-ADP(_) (18)</li>
+      <li>VERB--PRON (138)</li>
       <li>VERB--PRON-ADP(_) (17)</li>
     </ul>
   </li>
@@ -229,8 +229,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (28)</li>
-      <li>VERB--NOUN-ADP(_) (12)</li>
+      <li>VERB--NOUN (29)</li>
+      <li>VERB--NOUN-ADP(_) (11)</li>
       <li>VERB--PRON (12)</li>
       <li>VERB--PRON-ADP(_) (9)</li>
     </ul>
@@ -243,6 +243,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>aux:neg</a>, <a>aux:part</a>, <a>aux:pass</a>, <a>case:det</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:neg</a>, <a>aux:neg</a>, <a>aux:part</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cop:expl</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

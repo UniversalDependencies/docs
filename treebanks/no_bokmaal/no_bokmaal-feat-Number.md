@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (4919; 24% of non-empty `Number`): <em>vi, de, oss, dem, sine, alle, våre, ingen, dere, hverandre</em>
 * `Sing` (15997; 76% of non-empty `Number`): <em>det, jeg, han, hun, du, dette, man, sin, meg, den</em>
-* `EMPTY` (5039): <em>som, seg, hva, hvem, hvis, hvilket, ikkenoe, jag, whatever, you</em>
+* `EMPTY` (5046): <em>som, seg, hva, hvem, der, hvis, hvilket, ikkenoe, jag, whatever</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

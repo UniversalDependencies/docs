@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2907 nodes (1%) are attached to their parents as `cop`.
+3812 nodes (2%) are attached to their parents as `cop`.
 
-2244 instances of `cop` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71310629514964.
+2973 instances of `cop` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67838405036726.
 
-The following 18 pairs of parts of speech are connected with `cop`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1207; 42% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (643; 22% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (263; 9% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (256; 9% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (237; 8% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (200; 7% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (28; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (21; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1668; 44% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (825; 22% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (353; 9% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (340; 9% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (304; 8% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (255; 7% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (37; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 cop	color:blue
-1	Să	să	PART	Qs	PartType=Sub	2	mark	_	ref=MATT18.17.content
-2	fie	fi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	ref=MATT18.17.content
-3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT18.17.content
+1	Să	să	PART	Qs	PartType=Sub	6	mark	_	ref=MATT18.17.content
+2	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	6	cop	_	ref=MATT18.17.content
+3	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	6	iobj	_	ref=MATT18.17.content
 4	ca	ca	ADV	Rg	_	6	case	_	ref=MATT18.17.content
 5	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	ref=MATT18.17.content
 6	păgîn	păgân	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT18.17.content|SpaceAfter=No
@@ -47,28 +47,34 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT17.26
 7	feciorii	fecior	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	ref=MATT17.26
 8	slobozi	slobod	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	1	parataxis	_	ref=MATT17.26
-9	sînt	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	ref=MATT17.26|SpaceAfter=No
+9	sînt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	cop	_	ref=MATT17.26|SpaceAfter=No
 10	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT17.26
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT22.41
-2	fiind	fi	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	3	cop	_	ref=MATT22.41
-3	adunați	aduna	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	6	advcl:tcl	_	ref=MATT22.41
-4	fariseii	fariseu	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	ref=MATT22.41|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.41
-6	întrebă	întreba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT22.41
-7	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT22.41
-8	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	6	nmod:pmod	_	ref=MATT22.41
-9	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT22.41|SpaceAfter=No
-10	:	:	PUNCT	COLON	_	6	punct	_	ref=MATT22.41
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 cop	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT22.20
+2	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT22.20
+3	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	2	iobj	_	ref=MATT22.20|SpaceAfter=No
+4	:	:	PUNCT	COLON	_	6	punct	_	ref=MATT22.20
+5	Al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	6	det	_	ref=MATT22.20
+6	cui	cine	PRON	Pw3-so	Case=Dat,Gen|Number=Sing|Person=3|PronType=Int,Rel	2	parataxis	_	ref=MATT22.20
+7	iaste	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	ref=MATT22.20
+8	acest	acesta	DET	Dd3msr---e	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	9	det	_	ref=MATT22.20
+9	chip	chip	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT22.20
+10	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT22.20
+11	scriptura	scriptură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	ref=MATT22.20
+12	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	13	nsubj	_	ref=MATT22.20
+13	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	ref=MATT22.20
+14	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	ref=MATT22.20
+15	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	13	obl	_	ref=MATT22.20|SpaceAfter=No
+16	?	?	PUNCT	QUEST	_	6	punct	_	ref=MATT22.20
 
 ~~~
 

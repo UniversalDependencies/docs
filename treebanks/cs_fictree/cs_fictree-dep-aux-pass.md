@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_fictree-dep-aux.html">aux</a></tt>.
 
-137 nodes (0%) are attached to their parents as `aux:pass`.
+138 nodes (0%) are attached to their parents as `aux:pass`.
 
-136 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85401459854015.
+137 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85507246376812.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (137; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (138; 100% instances).
 
 
 ~~~ conllu

@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt>, <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt>.
 
-95126 tokens (49%) have a non-empty value of `Number`.
-12994 types (94%) occur at least once with a non-empty value of `Number`.
-5017 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (29013; 15% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (20399; 10% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (19985; 10% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (8179; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (6623; 3% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (6524; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (3159; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1244; 1% instances).
+118298 tokens (49%) have a non-empty value of `Number`.
+14835 types (95%) occur at least once with a non-empty value of `Number`.
+5619 lemmas (90%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (37060; 15% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (24830; 10% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (20922; 9% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (11042; 5% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (10575; 4% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (8165; 3% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (4199; 2% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1505; 1% instances).
 
 ### `NOUN`
 
-29013 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+37060 <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (25241; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (15785; 54%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14926; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (31907; 86%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20377; 55%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (19461; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (8276; 29% of non-empty `Number`): <em>ucenicii, oameni, oamenilor, oamenii, zilele, zile, frații, cuvintele, jidovii, jidovilor</em>
-* `Sing` (20737; 71% of non-empty `Number`): <em>domnul, fiiul, domnului, duhul, tatăl, numele, adevăr, cuvîntul, om, doamne</em>
+* `Plur` (10495; 28% of non-empty `Number`): <em>ucenicii, oameni, oamenilor, oamenii, fraților, zilele, faptele, zile, cuvintele, frații</em>
+* `Sing` (26565; 72% of non-empty `Number`): <em>domnul, domnului, fiiul, duhul, numele, tatăl, cuvîntul, ceriu, credință, adevăr</em>
 * `EMPTY` (1): <em>neamure</em>
 
 <table>
@@ -40,28 +40,28 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-20399 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
+24830 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (14350; 70%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13883; 68%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (10468; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (17535; 71%), <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16488; 66%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (13030; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (7649; 37% of non-empty `Number`): <em>lor, voi, ei, voao, carii, noi, vă, le, -i, aceastea</em>
-* `Sing` (12750; 63% of non-empty `Number`): <em>el, lui, carele, -l, eu, mine, aceaia, aceasta, -i, mă</em>
-* `EMPTY` (5494): <em>să, ce, cine, -să, care, s-, se, s, -și, ce-</em>
+* `Plur` (9560; 39% of non-empty `Number`): <em>lor, voi, ei, carii, voao, vă, noi, -i, le, aceastea</em>
+* `Sing` (15270; 61% of non-empty `Number`): <em>lui, el, carele, -l, aceaia, eu, mine, carea, aceasta, -i</em>
+* `EMPTY` (6649): <em>să, ce, cine, -să, care, s, s-, se, ce-, -și</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>el, elu, Еl, ei, L, Lui, Părinte, îl</em></td><td><em>ei</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>el, elu, L, îl, Еl, ei, Lui, Părinte</em></td><td><em>ei</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ia, ea, O</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>i-</em></td><td><em>le-</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>el, еl, elu, ei, -l, den</em></td><td><em>ei, -i, lor, îi</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-l, l-, l, îl, el, i-, -i, îi</em></td><td><em>-i, îi, i-, -l, îl, ei, i, l, l-, le, le-</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>el, еl, elu, ei, -l</em></td><td><em>ei, -i, lor, îi</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-l, l-, l, îl, el, i-, -i, îi, Il</em></td><td><em>-i, îi, i-, -l, îl, ei, i, l, l-, le, le-</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>ia, ea, -o, ei, o</em></td><td><em>iale, ele, le, ia</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>o, -o, ia, o-</em></td><td><em>le, le-, -le, -i</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>o, -o, o-, ia</em></td><td><em>le, le-, -le, -i</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>Ia</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>mă, -Mă</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>îi, -i</em></td><td><em>lor, lui, -le</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>îi, -i</em></td><td><em>lor, lui, -le, loru</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>lui, ei, lor</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>ei</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>mie</em></td><td></td></tr>
@@ -69,59 +69,102 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-i</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>lor, lui, ei, loru</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i, i, i-, îi, -l, lui, le</em></td><td><em>le, -le, li, le-, li-, lor, -i, I-, i</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lui, ei, lor</em></td><td><em>lui</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>-i, i, i-, îi, -l, lui, le</em></td><td><em>le, -le, le-, li, li-, lor, -i, -li, I-, i</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>lui, ei, lor</em></td><td><em>lor, lui</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ei, o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ei, -i</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>le, iale, le-, ele</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>le, iale, ele, le-</em></td></tr>
 </table>
 
 ### `VERB`
 
-19985 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Number`.
+20922 <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18326; 92%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (17475; 87%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15726; 79%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (13232; 66%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18654; 89%), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (17632; 84%), <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15641; 75%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (13039; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (5676; 28% of non-empty `Number`): <em>zisără, sînt, -s, zic, veniră, știți, sînteți, știm, faceți, fiți</em>
-* `Sing` (14309; 72% of non-empty `Number`): <em>zise, iaste, -i, era, e, fu, zice, veni, face, ești</em>
-* `EMPTY` (11006): <em>fi, zicînd, fost, fie, zice, veni, da, făcut, face, fiind</em>
+* `Plur` (6172; 30% of non-empty `Number`): <em>zisără, zic, știți, veniră, faceți, știm, arată, îndeamnă, aveți, fac</em>
+* `Sing` (14750; 70% of non-empty `Number`): <em>zise, era, zice, iaste, veni, are, fu, face, zicea, -i</em>
+* `EMPTY` (12591): <em>zicînd, fi, veni, zice, da, făcut, face, scris, dat, răspunzînd</em>
+
+<table>
+  <tr><th>Paradigm <i>zice</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>zisă</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>zis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>zise</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zice</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ziceți, dziceți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ziceam</em></td><td><em>ziceam</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ziș, zâș</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zic</em></td><td><em>zicem</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ziceați</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ziseși</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zici, zice</em></td><td><em>ziceți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zicea</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zise, zisă, zisără, Zisе</em></td><td><em>zisără, ziseră, zîsără</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zisease</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zice, zic, zicea, Zicu, gice</em></td><td><em>zic, zice, zicând</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zic</em></td><td><em>zicem</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zici</em></td><td><em>ziceți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>zice</em></td><td></td></tr>
+</table>
+
+### `AUX`
+
+11042 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10853; 98%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10241; 93%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (7856; 71%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (4341; 39% of non-empty `Number`): <em>au, am, vor, veți, ați, sînt, -s, vom, sînteți, s</em>
+* `Sing` (6701; 61% of non-empty `Number`): <em>va, -i, iaste, e, era, a, voiu, -au, ai, ară</em>
+* `EMPTY` (1066): <em>fi, fost, fie, fiind, vrut, putea, poată, putut, ar, fiindu</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>fosta, fostă</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>fost</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fii</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fii</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>fiți, sunteți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>fii</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>fii</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Variant.html">Variant</a></tt><tt>=Long</tt></tt></td><td></td><td><em>fireți</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Variant.html">Variant</a></tt><tt>=Long</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fireți</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fiți, sunteți</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>eram</em></td><td><em>eram</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuiu, sînt, fui</em></td><td><em>fum</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sînt, sânt, -s, sunt, s, îs, sîntu</em></td><td><em>sîntem, sântem, suntem, iaste, simtem, sânteți, sîmtem</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>erai</em></td><td><em>erați</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fuseși</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ești, hiti</em></td><td><em>sînteți, sânteți, simteți, sinteți, sunteți</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td><em>erau</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fu, fură</em></td><td><em>fură, fuset</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>făcuse, fusease</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>iaste, -i, e, îi, este, i, sînt, -e, era, s, -s, fie, ieste, –i</em></td><td><em>sînt, -s, s, sânt, sunt, îs, sintu, sîntu, simt, simtu</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fiu</em></td><td><em>fim</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fii</em></td><td><em>fiți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fiți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eram</em></td><td><em>eram</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuiu, sînt, fui</em></td><td><em>fum</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sînt, sânt, -s, s, sunt, sîntu, îs</em></td><td><em>sîntem, sântem, suntem, simtem, sem, sânteți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>s, sunt, sînt, îs</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erai</em></td><td><em>erați</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuseși</em></td><td><em>fuset</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ești, Eşti, hiți</em></td><td><em>sînteți, sânteți, -s, simteți, sinteți, sunteți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ești</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era, еrа</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fu</em></td><td><em>fură, fuset</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fu</em></td><td><em>fură</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>era</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>-i, iaste, e, îi, este, i, sînt, -e, i-, s, -s, fie, ieste, ii</em></td><td><em>sînt, -s, s, sânt, sunt, îs, sintu, sîntu</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>e, iaste, -i, era, îi</em></td><td><em>-s, sânt, sînt, sîntu</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fiu</em></td><td><em>fim</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fii</em></td><td><em>fiți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>fiți</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fie</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fie</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-8179 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+10575 <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6888; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6623; 81%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6234; 76%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (5076; 62%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8902; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8539; 81%), <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8110; 77%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (6578; 62%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1777; 22% of non-empty `Number`): <em>toate, cei, toți, multe, voastre, miei, mulți, meale, ale, săi</em>
-* `Sing` (6402; 78% of non-empty `Number`): <em>lui, a, un, o, al, toată, mieu, tău, cel, mea</em>
-* `EMPTY` (199): <em>ce, care, oare, acătare, câte, tăi, -o, acestor, mea, orice</em>
+* `Plur` (2307; 22% of non-empty `Number`): <em>toate, toți, cei, multe, voastre, meale, miei, sale, mulți, ceale</em>
+* `Sing` (8268; 78% of non-empty `Number`): <em>lui, a, un, o, al, toată, mieu, cel, nostru, tot</em>
+* `EMPTY` (256): <em>ce, care, oare, au, acătare, câte, tăi, -o, acestor, mea</em>
 
 <table>
   <tr><th>Paradigm <i>-ul</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -135,15 +178,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-6623 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+8165 <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (6262; 95%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5748; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5354; 81%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (7740; 95%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7124; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6660; 82%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (53; 1% of non-empty `Number`): <em>Paștile, Hristoși, Dumnezăi, evanghelii, Carpați, Iacovi, Paștilor, Rosalii, Vitfaghi, Voanerghes</em>
-* `Sing` (6570; 99% of non-empty `Number`): <em>Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Simon, Moisi</em>
-* `EMPTY` (29): <em>Chipru, Nistrul, Scrisu, Împărățiia, Așia, Bucovină, Elu, Evangheliia, Galilea, Ion</em>
+* `Plur` (55; 1% of non-empty `Number`): <em>Paștile, Hristoși, Dumnezăi, evanghelii, Carpați, Iacovi, Paștilor, Rosalii, Vitfaghi, Voanerghes</em>
+* `Sing` (8110; 99% of non-empty `Number`): <em>Dumnezău, Iisus, Hristos, Pavel, Pătru, Ioan, Ierosalim, Iacov, Moisi, Evangheliia</em>
+* `EMPTY` (41): <em>războiu, Chipru, Filimon, Nistrul, Scrisu, Împărățiia, APOCALIPSISULUI, Așia, Bucovină, EFESEANI</em>
 
 <table>
   <tr><th>Paradigm <i>Dumnezeu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -152,46 +195,24 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>Dumnezăului, Dumnedzeu, Dumnedzeului</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (767) occur only with one value of `Number`.
-
-### `AUX`
-
-6524 <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6501; 100%), <tt><a href="ro_nonstandard-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6321; 97%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (4329; 66%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (2928; 45% of non-empty `Number`): <em>au, am, vor, veți, ați, vom, -am, sînt, -s, -veți</em>
-* `Sing` (3596; 55% of non-empty `Number`): <em>va, a, voiu, -au, ai, ară, -va, -i, vei, era</em>
-* `EMPTY` (290): <em>fi, fost, vrut, putea, fie, fiind, putut, ar, poată, fire</em>
-
-<table>
-  <tr><th>Paradigm <i>avea</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>am, aș, -aș, -am</em></td><td><em>am, -am, avem, ați</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>am</em></td><td><em>am</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>ai, -ai, -i</em></td><td><em>ați, -ați, -ți, ai</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ai</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>a, -au, ară, are, o, -a, au, -o, arе, ați, -ați, a-, ar</em></td><td><em>au, -au, -ar, ar, o, am, are, or</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_nonstandard-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, ară</em></td><td><em>au</em></td></tr>
-</table>
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (882) occur only with one value of `Number`.
 
 ### `ADJ`
 
-3159 <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+4199 <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3158; 100%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3062; 97%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (3028; 96%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1809; 57%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4198; 100%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4062; 97%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (4013; 96%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2415; 58%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (814; 26% of non-empty `Number`): <em>mari, bune, minciunoși, reale, mici, trupești, necurate, negri, sfinte, slabi</em>
-* `Sing` (2345; 74% of non-empty `Number`): <em>mare, sfînt, omenesc, bună, bun, verde, sfîntă, rău, nou, dereaptă</em>
-* `EMPTY` (5): <em>Bună, SFÎNTA, adevărat, sînta, trecătoare</em>
+* `Plur` (1157; 28% of non-empty `Number`): <em>bune, mari, minciunoși, reale, mici, tari, trupești, sfinți, credincioși, strîmbi</em>
+* `Sing` (3042; 72% of non-empty `Number`): <em>mare, sfînt, bună, omenesc, bun, sfîntă, verde, rău, viu, nou</em>
+* `EMPTY` (8): <em>Bună, SFÎNTA, adevărat, asămănătoare, neclătitoare, pustiitoare, sînta, trecătoare</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>marii</em></td></tr>
-  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Marea</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>marele</em></td><td><em>marii</em></td></tr>
+  <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>marea</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>mare</em></td><td><em>mari, mare</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>mare</em></td><td><em>mari</em></td></tr>
   <tr><td><tt><tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Dat,Gen</tt>|<tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>marelui</em></td><td></td></tr>
@@ -202,15 +223,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `NUM`
 
-1244 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (73% of all `NUM` tokens) have a non-empty value of `Number`.
+1505 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (67% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1199; 96%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1041; 84%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1040; 84%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (850; 68%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1446; 96%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1219; 81%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1215; 81%), <tt><a href="ro_nonstandard-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (979; 65%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (791; 64% of non-empty `Number`): <em>doi, trei, doao, cinci, șapte, patru, doisprăzeace, două, zeace, nouă</em>
-* `Sing` (453; 36% of non-empty `Number`): <em>întîiu, treia, întăiu, mie, doao, dentîiu, doa, sută, doaoa, întîi</em>
-* `EMPTY` (453): <em>2, 1, 3, 4, 6, 14, 12, 8, 9, 5</em>
+* `Plur` (903; 60% of non-empty `Number`): <em>trei, doi, doao, cinci, patru, șapte, doisprăzeace, două, mii, nouă</em>
+* `Sing` (602; 40% of non-empty `Number`): <em>întîiu, treia, mie, întăiu, dintîiu, dentîiu, doao, doa, sută, doaoa</em>
+* `EMPTY` (738): <em>7, 2, 3, 4, 1, 12, 6, 5, 8, 10</em>
 
 <table>
   <tr><th>Paradigm <i>doi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -227,14 +248,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (4942; 94%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (2939; 68%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2289; 66%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2222; 57%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1839; 98%),
-<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (1775; 98%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1703; 80%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1220; 84%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1123; 71%),
-<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (985; 61%).
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (6334; 93%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (3412; 67%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3218; 66%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2589; 56%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2483; 80%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2442; 97%),
+<tt>PROPN --[<tt><a href="ro_nonstandard-dep-det.html">det</a></tt>]--> DET</tt> (2258; 98%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1712; 86%),
+<tt>NOUN --[<tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1302; 62%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1210; 69%).
 

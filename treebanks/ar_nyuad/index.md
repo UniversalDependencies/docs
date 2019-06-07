@@ -72,7 +72,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 
 ## Relations
 
-[acl](ar_nyuad-dep-acl.html) – [advmod](ar_nyuad-dep-advmod.html) – [amod](ar_nyuad-dep-amod.html) – [appos](ar_nyuad-dep-appos.html) – [aux](ar_nyuad-dep-aux.html) – [case](ar_nyuad-dep-case.html) – [cc](ar_nyuad-dep-cc.html) – [ccomp](ar_nyuad-dep-ccomp.html) – [compound](ar_nyuad-dep-compound.html) – [conj](ar_nyuad-dep-conj.html) – [cop](ar_nyuad-dep-cop.html) – [csubj](ar_nyuad-dep-csubj.html) – [dep](ar_nyuad-dep-dep.html) – [det](ar_nyuad-dep-det.html) – [flat](ar_nyuad-dep-flat.html) – [flat:name](ar_nyuad-dep-flat-name.html) – [iobj](ar_nyuad-dep-iobj.html) – [mark](ar_nyuad-dep-mark.html) – [nmod](ar_nyuad-dep-nmod.html) – [nmod:poss](ar_nyuad-dep-nmod-poss.html) – [nsubj](ar_nyuad-dep-nsubj.html) – [nsubj:pass](ar_nyuad-dep-nsubj-pass.html) – [nummod](ar_nyuad-dep-nummod.html) – [obj](ar_nyuad-dep-obj.html) – [parataxis](ar_nyuad-dep-parataxis.html) – [punct](ar_nyuad-dep-punct.html) – [root](ar_nyuad-dep-root.html) – [xcomp](ar_nyuad-dep-xcomp.html)
+[acl](ar_nyuad-dep-acl.html) – [advmod](ar_nyuad-dep-advmod.html) – [amod](ar_nyuad-dep-amod.html) – [appos](ar_nyuad-dep-appos.html) – [aux](ar_nyuad-dep-aux.html) – [case](ar_nyuad-dep-case.html) – [cc](ar_nyuad-dep-cc.html) – [ccomp](ar_nyuad-dep-ccomp.html) – [compound](ar_nyuad-dep-compound.html) – [conj](ar_nyuad-dep-conj.html) – [cop](ar_nyuad-dep-cop.html) – [dep](ar_nyuad-dep-dep.html) – [det](ar_nyuad-dep-det.html) – [discourse](ar_nyuad-dep-discourse.html) – [flat](ar_nyuad-dep-flat.html) – [iobj](ar_nyuad-dep-iobj.html) – [mark](ar_nyuad-dep-mark.html) – [nmod](ar_nyuad-dep-nmod.html) – [nmod:poss](ar_nyuad-dep-nmod-poss.html) – [nsubj](ar_nyuad-dep-nsubj.html) – [nummod](ar_nyuad-dep-nummod.html) – [obj](ar_nyuad-dep-obj.html) – [punct](ar_nyuad-dep-punct.html) – [root](ar_nyuad-dep-root.html) – [xcomp](ar_nyuad-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -112,23 +112,23 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as pronouns (PRON): ", (, ), ,, ., 3, 9, ?, None, TBupdate, _, b, f, h, hA, hm, hmA, hn, k, km, kmA, kn, l, lA, m, mA, nA, ny, s, w, y</li>
+<li>This corpus contains 23 lemmas tagged as pronouns (PRON): (, ), ,, 9, _, b, f, h, hA, hm, hmA, hn, k, km, kmA, kn, m, mA, mn, nA, ny, w, y</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as determiners (DET): ", ), ,, ., 17, 34, None, TBupdate, _, b, hA, l, w</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): ,, ., _, b, l, w</li>
 </ul>
 
 <ul>
-<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: ", ), ,, ., None, TBupdate, _, b, hA, l, w</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: ,, _, b, w</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as auxiliaries (AUX): ", ,, ., >, Alhwrn, None, _, b, f, h, hA, hm, hmA, k, km, l, nA, s, w, y</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): _, b, f, h, hA, s, w</li>
 </ul>
 
 <ul>
-<li>Out of the above, 18 lemmas occurred sometimes as AUX and sometimes as VERB: ", ,, ., None, _, b, f, h, hA, hm, hmA, k, km, l, nA, s, w, y</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, b, f, h, hA, s, w</li>
 </ul>
 
 <ul>
@@ -197,17 +197,14 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
     <ul>
       <li>ADJ: _</li>
       <li>ADP: _</li>
-      <li>ADV: _</li>
       <li>AUX: _</li>
       <li>CCONJ: _</li>
       <li>DET: _</li>
       <li>NOUN: _</li>
       <li>NUM: _</li>
-      <li>PART: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
-      <li>SCONJ: _</li>
       <li>VERB: _</li>
       <li>X: _</li>
     </ul>
@@ -341,7 +338,6 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
       <li>ADJ: _</li>
       <li>ADP: _</li>
       <li>ADV: _</li>
-      <li>AUX: _</li>
       <li>CCONJ: _</li>
       <li>DET: _</li>
       <li>NOUN: _</li>
@@ -413,18 +409,13 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ: _</li>
       <li>ADP: _</li>
       <li>ADV: _</li>
       <li>CCONJ: _</li>
-      <li>DET: _</li>
-      <li>NOUN: _</li>
       <li>PART: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
-      <li>PUNCT: _</li>
       <li>SCONJ: _</li>
-      <li>VERB: _</li>
       <li>X: _</li>
     </ul>
   </li>
@@ -442,6 +433,9 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
   <li>Imp
     <ul>
       <li>ADP: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>NOUN: _</li>
       <li>VERB: _</li>
     </ul>
   </li>
@@ -451,6 +445,9 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
   <li>Perf
     <ul>
       <li>ADP: _</li>
+      <li>AUX: _</li>
+      <li>NOUN: _</li>
+      <li>PROPN: _</li>
       <li>VERB: _</li>
     </ul>
   </li>
@@ -471,7 +468,6 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
       <li>DET: _</li>
       <li>NOUN: _</li>
       <li>NUM: _</li>
-      <li>PART: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
@@ -485,14 +481,10 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
   <li>Jus
     <ul>
-      <li>ADJ: _</li>
       <li>ADP: _</li>
-      <li>ADV: _</li>
       <li>AUX: _</li>
-      <li>CCONJ: _</li>
       <li>DET: _</li>
       <li>NOUN: _</li>
-      <li>PART: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
       <li>SCONJ: _</li>
@@ -507,15 +499,12 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
     <ul>
       <li>ADJ: _</li>
       <li>ADP: _</li>
-      <li>ADV: _</li>
       <li>AUX: _</li>
-      <li>CCONJ: _</li>
       <li>NOUN: _</li>
       <li>NUM: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
-      <li>SCONJ: _</li>
       <li>VERB: _</li>
       <li>X: _</li>
     </ul>
@@ -538,7 +527,6 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
       <li>DET: _</li>
       <li>NOUN: _</li>
       <li>NUM: _</li>
-      <li>PART: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
@@ -553,13 +541,8 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
   <li>Pass
     <ul>
       <li>ADP: _</li>
-      <li>ADV: _</li>
-      <li>CCONJ: _</li>
       <li>NOUN: _</li>
-      <li>PART: _</li>
-      <li>PRON: _</li>
       <li>PROPN: _</li>
-      <li>PUNCT: _</li>
       <li>SCONJ: _</li>
       <li>VERB: _</li>
       <li>X: _</li>
@@ -578,7 +561,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: _</li>
+      <li>NOUN: _</li>
     </ul>
   </li>
 </ul>
@@ -594,6 +577,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
   <li>Rel
     <ul>
+      <li>ADV: _</li>
       <li>PRON: _</li>
     </ul>
   </li>
@@ -611,12 +595,9 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
     <ul>
       <li>ADJ: _</li>
       <li>ADP: _</li>
-      <li>ADV: _</li>
       <li>AUX: _</li>
       <li>CCONJ: _</li>
-      <li>DET: _</li>
       <li>NOUN: _</li>
-      <li>PART: _</li>
       <li>PRON: _</li>
       <li>PROPN: _</li>
       <li>PUNCT: _</li>
@@ -630,9 +611,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
   <li>2
     <ul>
-      <li>ADJ: _</li>
       <li>ADP: _</li>
-      <li>ADV: _</li>
       <li>AUX: _</li>
       <li>CCONJ: _</li>
       <li>NOUN: _</li>
@@ -679,7 +658,21 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
     <ul>
       <li>Prep
         <ul>
+          <li>ADJ: _</li>
           <li>ADP: _</li>
+          <li>ADV: _</li>
+          <li>AUX: _</li>
+          <li>CCONJ: _</li>
+          <li>DET: _</li>
+          <li>NOUN: _</li>
+          <li>NUM: _</li>
+          <li>PART: _</li>
+          <li>PRON: _</li>
+          <li>PROPN: _</li>
+          <li>PUNCT: _</li>
+          <li>SCONJ: _</li>
+          <li>VERB: _</li>
+          <li>X: _</li>
         </ul>
       </li>
     </ul>
@@ -691,11 +684,15 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
     <ul>
       <li>Digit
         <ul>
+          <li>ADJ: _</li>
           <li>NUM: _</li>
+          <li>PUNCT: _</li>
         </ul>
       </li>
       <li>Word
         <ul>
+          <li>ADJ: _</li>
+          <li>NOUN: _</li>
           <li>NUM: _</li>
         </ul>
       </li>
@@ -708,11 +705,11 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 14 lemmas as copulas (<a>cop</a>). Examples: _، l، f، ,، hm، nA، w، "، None، b، h، Alhwrn، hA، y.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _، s، lA، l، w، None، >، h، ,، hA، mA، f، hm، .، "، (، -، km، m، nA.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: s، _، w، b، f، hA.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -721,20 +718,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (593)</li>
-      <li>VERB--NOUN-Acc (1765)</li>
-      <li>VERB--NOUN-Acc-ADP(_) (1)</li>
-      <li>VERB--NOUN-Gen (208)</li>
-      <li>VERB--NOUN-Gen-ADP(_) (15)</li>
-      <li>VERB--NOUN-Gen-ADP(b) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(k) (2)</li>
-      <li>VERB--NOUN-Gen-ADP(l) (4)</li>
-      <li>VERB--NOUN-Nom (15642)</li>
-      <li>VERB--PRON (425)</li>
-      <li>VERB--PRON-ADP(_) (5)</li>
-      <li>VERB--PRON-Acc (37)</li>
-      <li>VERB--PRON-Gen (15)</li>
-      <li>VERB--PRON-Nom (511)</li>
+      <li>VERB--NOUN (527)</li>
+      <li>VERB--NOUN-Acc (1220)</li>
+      <li>VERB--NOUN-Gen (218)</li>
+      <li>VERB--NOUN-Nom (16721)</li>
+      <li>VERB--NOUN-Nom-ADP(_) (3)</li>
+      <li>VERB--PRON (321)</li>
+      <li>VERB--PRON-Acc (36)</li>
+      <li>VERB--PRON-Gen (17)</li>
+      <li>VERB--PRON-Nom (492)</li>
     </ul>
   </li>
 </ul>
@@ -742,26 +734,57 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (503)</li>
-      <li>VERB--NOUN-ADP(_) (6)</li>
-      <li>VERB--NOUN-ADP(b) (1)</li>
+      <li>VERB--NOUN (431)</li>
+      <li>VERB--NOUN-ADP(") (1)</li>
+      <li>VERB--NOUN-ADP(,) (2)</li>
+      <li>VERB--NOUN-ADP(_) (435)</li>
+      <li>VERB--NOUN-ADP(b) (106)</li>
+      <li>VERB--NOUN-ADP(hA) (1)</li>
+      <li>VERB--NOUN-ADP(k) (3)</li>
+      <li>VERB--NOUN-ADP(l) (15)</li>
       <li>VERB--NOUN-ADP(typo) (1)</li>
-      <li>VERB--NOUN-Acc (16411)</li>
-      <li>VERB--NOUN-Acc-ADP(_) (2)</li>
-      <li>VERB--NOUN-Acc-ADP(k) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(l) (1)</li>
-      <li>VERB--NOUN-Gen (700)</li>
-      <li>VERB--NOUN-Gen-ADP(_) (134)</li>
-      <li>VERB--NOUN-Gen-ADP(b) (24)</li>
-      <li>VERB--NOUN-Gen-ADP(k) (2)</li>
-      <li>VERB--NOUN-Gen-ADP(l) (19)</li>
-      <li>VERB--NOUN-Nom (380)</li>
-      <li>VERB--PRON (1019)</li>
-      <li>VERB--PRON-ADP(_) (32)</li>
-      <li>VERB--PRON-ADP(l) (1)</li>
-      <li>VERB--PRON-Acc (4174)</li>
-      <li>VERB--PRON-Gen (36)</li>
-      <li>VERB--PRON-Nom (14)</li>
+      <li>VERB--NOUN-Acc (14165)</li>
+      <li>VERB--NOUN-Acc-ADP(_) (565)</li>
+      <li>VERB--NOUN-Acc-ADP(b) (59)</li>
+      <li>VERB--NOUN-Acc-ADP(b)-ADP(_) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(l) (52)</li>
+      <li>VERB--NOUN-Acc-ADP(w) (4)</li>
+      <li>VERB--NOUN-Gen (618)</li>
+      <li>VERB--NOUN-Gen-ADP(_) (10881)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (14)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (2)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(k) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(l) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(b) (3301)</li>
+      <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (2)</li>
+      <li>VERB--NOUN-Gen-ADP(b)-ADP(l) (2)</li>
+      <li>VERB--NOUN-Gen-ADP(k) (51)</li>
+      <li>VERB--NOUN-Gen-ADP(l) (1442)</li>
+      <li>VERB--NOUN-Gen-ADP(l)-ADP(_) (5)</li>
+      <li>VERB--NOUN-Gen-ADP(w) (3)</li>
+      <li>VERB--NOUN-Gen-ADP(w)-ADP(_) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(y) (1)</li>
+      <li>VERB--NOUN-Nom (639)</li>
+      <li>VERB--NOUN-Nom-ADP(_) (27)</li>
+      <li>VERB--NOUN-Nom-ADP(b) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(l) (4)</li>
+      <li>VERB--NOUN-Nom-ADP(w) (1)</li>
+      <li>VERB--PRON (995)</li>
+      <li>VERB--PRON-ADP(_) (3113)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (2)</li>
+      <li>VERB--PRON-ADP(b) (113)</li>
+      <li>VERB--PRON-ADP(fy) (5)</li>
+      <li>VERB--PRON-ADP(k) (43)</li>
+      <li>VERB--PRON-ADP(l) (49)</li>
+      <li>VERB--PRON-ADP(w) (1)</li>
+      <li>VERB--PRON-Acc (4282)</li>
+      <li>VERB--PRON-Acc-ADP(_) (1)</li>
+      <li>VERB--PRON-Gen (27)</li>
+      <li>VERB--PRON-Gen-ADP(_) (12)</li>
+      <li>VERB--PRON-Gen-ADP(b) (2)</li>
+      <li>VERB--PRON-Gen-ADP(l) (1)</li>
+      <li>VERB--PRON-Nom (26)</li>
+      <li>VERB--PRON-Nom-ADP(k) (2)</li>
     </ul>
   </li>
 </ul>
@@ -769,22 +792,51 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (14)</li>
-      <li>VERB--NOUN-ADP(byskwn) (1)</li>
-      <li>VERB--NOUN-Acc (164)</li>
-      <li>VERB--NOUN-Acc-ADP(_) (9)</li>
-      <li>VERB--NOUN-Acc-ADP(w) (2)</li>
-      <li>VERB--NOUN-Gen (13)</li>
-      <li>VERB--NOUN-Gen-ADP(_) (17)</li>
-      <li>VERB--NOUN-Gen-ADP(b) (4)</li>
-      <li>VERB--NOUN-Gen-ADP(l) (3)</li>
-      <li>VERB--NOUN-Nom (25)</li>
-      <li>VERB--NOUN-Nom-ADP(h) (1)</li>
-      <li>VERB--PRON (27)</li>
-      <li>VERB--PRON-ADP(_) (8)</li>
-      <li>VERB--PRON-Acc (53)</li>
-      <li>VERB--PRON-Acc-ADP(_) (2)</li>
-      <li>VERB--PRON-Gen (2)</li>
+      <li>VERB--NOUN (61)</li>
+      <li>VERB--NOUN-ADP(") (1)</li>
+      <li>VERB--NOUN-ADP(_) (270)</li>
+      <li>VERB--NOUN-ADP(b) (57)</li>
+      <li>VERB--NOUN-ADP(h) (4)</li>
+      <li>VERB--NOUN-ADP(hA) (2)</li>
+      <li>VERB--NOUN-ADP(hmA) (1)</li>
+      <li>VERB--NOUN-ADP(k) (5)</li>
+      <li>VERB--NOUN-ADP(l) (38)</li>
+      <li>VERB--NOUN-ADP(l)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(nA) (1)</li>
+      <li>VERB--NOUN-ADP(w) (1)</li>
+      <li>VERB--NOUN-Acc (2506)</li>
+      <li>VERB--NOUN-Acc-ADP(_) (218)</li>
+      <li>VERB--NOUN-Acc-ADP(b) (27)</li>
+      <li>VERB--NOUN-Acc-ADP(k) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(l) (110)</li>
+      <li>VERB--NOUN-Gen (103)</li>
+      <li>VERB--NOUN-Gen-ADP(_) (6466)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(b) (2085)</li>
+      <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (3)</li>
+      <li>VERB--NOUN-Gen-ADP(k) (81)</li>
+      <li>VERB--NOUN-Gen-ADP(k)-ADP(l) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(l) (1701)</li>
+      <li>VERB--NOUN-Gen-ADP(l)-ADP(_) (5)</li>
+      <li>VERB--NOUN-Gen-ADP(l)-ADP(l) (1)</li>
+      <li>VERB--NOUN-Nom (106)</li>
+      <li>VERB--NOUN-Nom-ADP(_) (16)</li>
+      <li>VERB--NOUN-Nom-ADP(b) (10)</li>
+      <li>VERB--NOUN-Nom-ADP(k) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(l) (8)</li>
+      <li>VERB--PRON (326)</li>
+      <li>VERB--PRON-ADP(_) (514)</li>
+      <li>VERB--PRON-ADP(b) (164)</li>
+      <li>VERB--PRON-ADP(fy) (1)</li>
+      <li>VERB--PRON-ADP(hm) (1)</li>
+      <li>VERB--PRON-ADP(k) (114)</li>
+      <li>VERB--PRON-ADP(l) (158)</li>
+      <li>VERB--PRON-ADP(l)-ADP(_) (3)</li>
+      <li>VERB--PRON-Acc (44)</li>
+      <li>VERB--PRON-Gen-ADP(_) (1)</li>
+      <li>VERB--PRON-Gen-ADP(b) (1)</li>
+      <li>VERB--PRON-Gen-ADP(l) (1)</li>
     </ul>
   </li>
 </ul>
@@ -795,6 +847,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 1 relation subtypes: <a>nmod:poss</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

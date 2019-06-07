@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `dislocated`.
+15 nodes (0%) are attached to their parents as `dislocated`.
 
-10 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.3.
+15 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.46666666666667.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 20% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 10% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
+The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 13% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> (2; 13% instances), <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,22 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 dislocated	color:blue
+1	我	我	PRON	_	_	4	dislocated	_	SpaceAfter=No
+2	默書	默書	VERB	_	_	4	dislocated	_	SpaceAfter=No
+3	一百	一百	NUM	_	_	4	nummod	_	SpaceAfter=No
+4	分	分	NOUN	_	NounType=Clf	0	root	_	SpaceAfter=No
+5	呀	呀	PART	_	_	4	discourse:sp	_	SpaceAfter=No
+6	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 12	bgColor:blue
@@ -48,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 12 2 dislocated	color:blue
 1	不過	不過	CCONJ	_	_	12	advmod	_	SpaceAfter=No
 2	我	我	PRON	_	_	12	dislocated	_	SpaceAfter=No
-3	一	一	NUM	_	_	5	det	_	SpaceAfter=No
+3	一	一	NUM	_	_	5	nummod	_	SpaceAfter=No
 4	個	個	NOUN	_	NounType=Clf	3	clf	_	SpaceAfter=No
 5	女人	女人	NOUN	_	_	2	appos	_	SpaceAfter=No
 6	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -73,49 +89,6 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 25	工人	工人	NOUN	_	_	23	obj	_	SpaceAfter=No
 26	拉	拉	VERB	_	_	23	xcomp	_	SpaceAfter=No
 27	。	。	PUNCT	_	_	23	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 13 dislocated	color:blue
-1	噉	噉	ADV	_	_	5	discourse	_	SpaceAfter=No
-2	呢	呢	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-3	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
-4	佢	佢	PRON	_	_	5	nsubj	_	SpaceAfter=No
-5	炒	炒	VERB	_	_	0	root	_	SpaceAfter=No
-6	咗	咗	AUX	_	_	5	aux	_	SpaceAfter=No
-7	我	我	PRON	_	_	5	obj	_	SpaceAfter=No
-8	嘞	嘞	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-9	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
-10	剛好	剛好	ADV	_	_	19	advmod	_	SpaceAfter=No
-11	呢度	呢度	PRON	_	_	13	nmod	_	SpaceAfter=No
-12	嘅	嘅	PART	_	_	11	case	_	SpaceAfter=No
-13	老世	老世	NOUN	_	_	19	dislocated	_	SpaceAfter=No
-14	呢	呢	PART	_	_	13	discourse:sp	_	SpaceAfter=No
-15	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
-16	佢	佢	PRON	_	_	19	nsubj	_	SpaceAfter=No
-17	又	又	ADV	_	_	19	advmod	_	SpaceAfter=No
-18	好	好	ADV	_	_	19	advmod	_	SpaceAfter=No
-19	忙	忙	ADJ	_	_	5	parataxis	_	SpaceAfter=No
-20	，	，	PUNCT	_	_	19	punct	_	SpaceAfter=No
-21	做	做	VERB	_	_	19	conj	_	SpaceAfter=No
-22	唔	唔	ADV	_	_	23	advmod	_	SpaceAfter=No
-23	嚟	唻	VERB	_	_	21	compound:vv	_	SpaceAfter=No
-24	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
-25	打理	打理	VERB	_	_	19	conj	_	SpaceAfter=No
-26	唔	唔	ADV	_	_	27	advmod	_	SpaceAfter=No
-27	過嚟	過唻	VERB	_	_	25	compound:vv	_	SpaceAfter=No
-28	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
-29	佢	佢	PRON	_	_	30	nsubj	_	SpaceAfter=No
-30	有	有	VERB	_	_	21	advcl	_	SpaceAfter=No
-31	其他	其他	DET	_	_	32	det	_	SpaceAfter=No
-32	地方	地方	NOUN	_	_	30	obj	_	SpaceAfter=No
-33	。	。	PUNCT	_	_	19	punct	_	SpaceAfter=No
 
 ~~~
 

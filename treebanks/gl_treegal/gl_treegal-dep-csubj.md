@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `csubj`.
+45 nodes (0%) are attached to their parents as `csubj`.
 
-37 instances of `csubj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.79545454545455.
+37 instances of `csubj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.75555555555556.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (18; 41% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (7; 16% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (7; 16% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (17; 38% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (7; 16% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -41,31 +41,6 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 csubj	color:blue
-1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	verdade	verdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
-3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-4	que	que	SCONJ	Cs	_	7	mark	_	_
-5	en	en	ADP	P	AdpType=Prep	6	case	_	_
-6	España	España	PROPN	Sp00	_	7	obl	_	_
-7	existe	existir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
-8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	amplo	amplo	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
-10	público	público	NOUN	Scms	Gender=Masc|Number=Sing	7	nsubj	_	_
-11	seguidor	seguidor	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
-12	de	de	ADP	P	AdpType=Prep	14	case	_	_
-13	este	ese	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
-14	instrumento	instrumento	NOUN	Scms	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
-15	.	.	PUNCT	Q.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 8	bgColor:blue
@@ -86,6 +61,31 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 13	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	12	expl	_	_
 14	aviador	aviador	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	Q.	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 csubj	color:blue
+1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	verdade	verdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	que	que	SCONJ	Cs	_	7	mark	_	_
+5	en	en	ADP	P	AdpType=Prep	6	case	_	_
+6	España	España	PROPN	Sp00	_	7	obl	_	_
+7	existe	existir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	amplo	amplo	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
+10	público	público	NOUN	Scms	Gender=Masc|Number=Sing	7	nsubj	_	_
+11	seguidor	seguidor	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
+12	de	de	ADP	P	AdpType=Prep	14	case	_	_
+13	este	ese	DET	Edms	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+14	instrumento	instrumento	NOUN	Scms	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 

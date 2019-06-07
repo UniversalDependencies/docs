@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Part` (37; 100% of non-empty `VerbForm`): <em>nalen, sigilen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen</em>
-* `EMPTY` (2474): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
+* `Part` (37; 100% of non-empty `VerbForm`): <em>nalen, sigilen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen</em>
+* `EMPTY` (2474): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (27) occur only with one value of `VerbForm`.
 
@@ -33,8 +33,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Vnoun` (20; 100% of non-empty `VerbForm`): <em>kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</em>
-* `EMPTY` (2125): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `Vnoun` (20; 100% of non-empty `VerbForm`): <em>kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</em>
+* `EMPTY` (2125): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 ### `ADJ`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (3; 100% of non-empty `VerbForm`): <em>jalenba, jelenba, sigilen</em>
-* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
+* `EMPTY` (66): <em>kènè, caman, nyumannin, jalan, camanba, JUGU, duman, kolon, kura, nyanama</em>
 

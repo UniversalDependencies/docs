@@ -137,7 +137,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus contains 81 lemmas tagged as pronouns (PRON): 'em, 's, anybody, anyone, anything, em, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, themselves, then, there, these, they, they're, theyy, thier, this, those, thou, thy, ti, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+<li>This corpus contains 78 lemmas tagged as pronouns (PRON): 's, anybody, anyone, anything, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, them, themselves, then, there, these, they, they're, theyy, this, those, thou, thy, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
 </ul>
 
 <ul>
@@ -181,7 +181,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: be, have, do, get, of, am, 've, are, b</li>
+    <li>AUX: be, have, get, do, of, am, 've, are, b</li>
     <li>VERB: have, get, know, do, go, make, take, see, like, find</li>
   </ul>
   </li>
@@ -222,7 +222,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Neut
     <ul>
-      <li>PRON: it, its, itself</li>
+      <li>PRON: it, its, itself, ti</li>
     </ul>
   </li>
 </ul>
@@ -279,7 +279,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: i, you, it, they, we, he, she</li>
+      <li>PRON: i, you, it, they, we, he, she, u, ti</li>
     </ul>
   </li>
 </ul>
@@ -533,7 +533,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>2
     <ul>
-      <li>PRON: you, your, yourself, ur, yourselves</li>
+      <li>PRON: you, your, yourself, u, ur, yourselves</li>
     </ul>
   </li>
 </ul>
@@ -560,20 +560,22 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       <li>Yes
         <ul>
           <li>ADP: o, thru, w, ta, vs, f, b/c, w/, 2, 4</li>
-          <li>ADV: aka</li>
+          <li>ADV: Def, aka, deffly, prolly</li>
           <li>AUX-Fin: shal, wud</li>
           <li>AUX-Inf: b</li>
           <li>CCONJ: n, 'n, VS</li>
           <li>DET: da, dat, sm</li>
           <li>INTJ: wel</li>
-          <li>NOUN: luv, b, c, r., syd, yrs</li>
+          <li>NOUN: luv, b, c, DJ's, THX, lovin', r., somethin, syd, yrs</li>
           <li>PART: na, ta, 2, a</li>
-          <li>PRON: ur, any1, wht</li>
+          <li>PRON: u, ur, 'em, any1, em, wht</li>
+          <li>PROPN: Phx</li>
           <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
-          <li>VERB-Fin: wan, ar, hav</li>
+          <li>VERB-Fin: wan, ar, c'm, hav</li>
           <li>VERB-Ger: playin</li>
           <li>VERB-Inf: hav, wan</li>
           <li>VERB-Part: gon</li>
+          <li>X: ect.</li>
         </ul>
       </li>
     </ul>
@@ -597,21 +599,22 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: accomdating, hid, particlular, wierd</li>
+          <li>ADJ: accomodating, unic, Aweesome, Awsome, Chineese, Disatisfied, Hopless, Lovley, accomdating, brillant</li>
           <li>ADP: then, a, and, of, aboout, abou, admidst, aground, amoung, becuse</li>
-          <li>ADV: to, a, it, that, their</li>
-          <li>AUX-Fin: woud, a, ar, as, cold, hav, hvae, made, most, my</li>
+          <li>ADV: to, definately, completly, truely, Consistantly, Definetely, REALY, Unfortunalty, a, absoulutely</li>
+          <li>AUX-Fin: woud, ',, a, ar, as, cold, hav, hvae, made, most</li>
           <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
           <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
-          <li>NOUN: catagory, Unlce, appartment, begiinning, cge, eneedle, hlep, ocnversation, oone, peiod</li>
+          <li>NOUN: catagory, hamburguers, DJ's, Mechaincs, Sanwiches, Sstaff, Unlce, ammount, appartment, aunte</li>
           <li>PART: too, ot</li>
-          <li>PRON: out, you</li>
-          <li>PROPN: Thanksgiv8ing</li>
+          <li>PRON: out, It's, thier, ti, you</li>
+          <li>PROPN: Sear's, Bramen, Guiness, Hirsohima, Nagaski, Thanksgiv8ing</li>
           <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, then</li>
-          <li>VERB-Fin: fixeded, preceded, reffered</li>
-          <li>VERB-Ger: drive</li>
-          <li>VERB-Inf: accomodate, bare, critisize, endevour, hlep, reccommend</li>
-          <li>VERB-Part: botn, excepted</li>
+          <li>VERB-Fin: new, reccomend, recieved, answetred, appologized, deliverd, fixeded, let's, orderd, preceded</li>
+          <li>VERB-Ger: ASWERING, EATTING, drive, drving</li>
+          <li>VERB-Inf: reccommend, recieve, recomend, accomodate, bare, critisize, endevour, hlep, ltake, purchace</li>
+          <li>VERB-Part: Rcommended, amplifiaed, botn, excepted, recomended</li>
+          <li>X: ect.</li>
         </ul>
       </li>
     </ul>
@@ -627,7 +630,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall, get, better, se, to.</li>
+<li>This corpus uses 15 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall, get, better, to.</li>
 <li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get, become, have, would.</li>
 </ul>
 
@@ -637,22 +640,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1998)</li>
-      <li>VERB-Fin--PRON (794)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN (1997)</li>
+      <li>VERB-Fin--PRON (793)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Nom (4746)</li>
       <li>VERB-Ger--NOUN (85)</li>
-      <li>VERB-Ger--PRON (23)</li>
+      <li>VERB-Ger--PRON (22)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Ger--PRON-Nom (186)</li>
       <li>VERB-Inf--NOUN (658)</li>
-      <li>VERB-Inf--PRON (293)</li>
+      <li>VERB-Inf--PRON (291)</li>
       <li>VERB-Inf--PRON-Acc (37)</li>
-      <li>VERB-Inf--PRON-Nom (2611)</li>
+      <li>VERB-Inf--PRON-Nom (2612)</li>
       <li>VERB-Part--NOUN (458)</li>
-      <li>VERB-Part--PRON (144)</li>
+      <li>VERB-Part--PRON (143)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
-      <li>VERB-Part--PRON-Nom (1266)</li>
+      <li>VERB-Part--PRON-Nom (1267)</li>
     </ul>
   </li>
 </ul>
@@ -665,15 +669,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (340)</li>
       <li>VERB-Fin--PRON-Acc (870)</li>
       <li>VERB-Fin--PRON-Nom (63)</li>
-      <li>VERB-Ger--NOUN (1042)</li>
+      <li>VERB-Ger--NOUN (1041)</li>
       <li>VERB-Ger--PRON (47)</li>
       <li>VERB-Ger--PRON-Acc (118)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
       <li>VERB-Inf--NOUN (3197)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--NOUN-ADP(of) (1)</li>
-      <li>VERB-Inf--PRON (326)</li>
-      <li>VERB-Inf--PRON-Acc (789)</li>
+      <li>VERB-Inf--PRON (324)</li>
+      <li>VERB-Inf--PRON-Acc (791)</li>
       <li>VERB-Inf--PRON-Nom (88)</li>
       <li>VERB-Part--NOUN (770)</li>
       <li>VERB-Part--PRON (123)</li>

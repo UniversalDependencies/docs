@@ -11,9 +11,9 @@ This relation is universal.
 798 nodes (3%) are attached to their parents as `obj`.
 
 798 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.58145363408521.
+Average distance between parent and child is 2.5952380952381.
 
-The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (708; 89% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (53; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (707; 89% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (54; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (21; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 obj	color:blue
-1	証人	証人	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
+1	証人	証人	NOUN	NN	_	10	dislocated	_	SpaceAfter=No
 2	は	は	ADP	PK	_	1	case	_	SpaceAfter=No
 3	、	、	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
 4	4月	4月	NOUN	NR	_	10	iobj	_	SpaceAfter=No
@@ -88,7 +88,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 4	それ	それ	PRON	NP	_	6	obj	_	SpaceAfter=No
 5	を	を	ADP	PS	_	4	case	_	SpaceAfter=No
 6	上回る	上回る	VERB	VV	_	9	csubj	_	SpaceAfter=No
-7	こと	こと	NOUN	NB	_	6	aux	_	SpaceAfter=No
+7	こと	こと	SCONJ	PNB	_	6	mark	_	SpaceAfter=No
 8	が	が	ADP	PS	_	6	case	_	SpaceAfter=No
 9	できる	できる	VERB	VV	_	10	acl	_	SpaceAfter=No
 10	わけ	わけ	NOUN	NB	_	0	root	_	SpaceAfter=No

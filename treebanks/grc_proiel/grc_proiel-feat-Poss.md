@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (268; 100% of non-empty `Poss`): <em>ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, σῇ, ἐμὰ, σφετέρην, σὸν, σῆς</em>
-* `EMPTY` (16565): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
+* `EMPTY` (16567): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
 
 ## Relations with Agreement in `Poss`
 

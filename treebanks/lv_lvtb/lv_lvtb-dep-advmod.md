@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7837 nodes (5%) are attached to their parents as `advmod`.
+10247 nodes (5%) are attached to their parents as `advmod`.
 
-6776 instances of `advmod` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.98200842158989.
+8927 instances of `advmod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98955791939104.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (5815; 74% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (686; 9% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (537; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (500; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (123; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (75; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (7705; 75% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (884; 9% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (691; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (607; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (178; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (74; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (54; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	šobrīd	šobrīd	ADV	r0t	_	3	advmod	3:advmod	LvtbNodeId=a-c58-p41s5w2
 3	liek	likt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-c58-p41s5w3
 4	uz	uz	ADP	spsa	_	5	case	5:case	LvtbNodeId=a-c58-p41s5w4
-5	mūžu	mūžs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl:uz	LvtbNodeId=a-c58-p41s5w5
+5	mūžu	mūžs	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	3	obl	3:obl	LvtbNodeId=a-c58-p41s5w5
 6	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-c58-p41s5w6
 
 ~~~

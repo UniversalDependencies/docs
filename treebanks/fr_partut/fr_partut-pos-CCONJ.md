@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, car, que, soit, ni</em>
 
 The 10 most frequent `CCONJ` types:  <em>et, ou, mais, car, soit, ni, qu', que, Ma</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 338, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 58, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 338, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 60, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 29, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 7)
 
 The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> 18, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> 3), <em>qu'</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 18, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 11, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 5, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 4), <em>que</em> (<tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> 253, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 42, <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> 24, <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> 7, <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 3), <em>Ma</em> (<tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_partut-pos-DET.html">DET</a></tt> 1)
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.361807).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.364538).
 
 The 1st highest number of forms (2) was observed with the lemma “mais”: <em>Ma, mais</em>.
 
@@ -57,13 +57,13 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 
 Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (421; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (271; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (105; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-850 (100%) `CCONJ` nodes are leaves.
+851 (100%) `CCONJ` nodes are leaves.
 
-4 (0%) `CCONJ` nodes have one child.
+3 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (2; 50% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 25% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (1; 33% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 33% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (1; 33% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (1; 25% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances), <tt><a href="fr_partut-pos-PART.html">PART</a></tt> (1; 33% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
 

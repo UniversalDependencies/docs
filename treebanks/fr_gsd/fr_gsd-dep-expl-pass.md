@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-expl.html">expl</a></tt>.
 
-769 nodes (0%) are attached to their parents as `expl:pass`.
+768 nodes (0%) are attached to their parents as `expl:pass`.
 
-769 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13003901170351.
+768 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13020833333333.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (769; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (768; 100% instances).
 
 
 ~~~ conllu

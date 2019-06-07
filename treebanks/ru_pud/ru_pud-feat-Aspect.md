@@ -9,74 +9,62 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-2388 tokens (12%) have a non-empty value of `Aspect`.
-1536 types (20%) occur at least once with a non-empty value of `Aspect`.
-885 lemmas (17%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2208; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (168; 1% instances), <tt><a href="ru_pud-pos-X.html">X</a></tt> (12; 0% instances).
+2334 tokens (12%) have a non-empty value of `Aspect`.
+1523 types (20%) occur at least once with a non-empty value of `Aspect`.
+874 lemmas (17%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (2097; 11% instances), <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> (237; 1% instances).
 
 ### `VERB`
 
-2208 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Aspect`.
+2097 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1923; 87%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1858; 84%), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1854; 84%), <tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1854; 84%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1849; 84%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1639; 74%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1432; 65%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1333; 60%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1239; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1137; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1534; 73%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1413; 67%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1352; 64%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1349; 64%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1288; 61%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1172; 56%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1080; 52%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1141; 52% of non-empty `Aspect`): <em>был, может, было, является, быть, была, были, говорит, есть, нет</em>
-* `Perf` (1067; 48% of non-empty `Aspect`): <em>сказал, сделать, привести, получить, стало, вернуться, заявил, стал, стать, найти</em>
-* `EMPTY` (44): <em>можно, возможно, надо, нужно, удивительно, ясно, достаточно, необходимо, Справедливо, больше</em>
+* `Imp` (1035; 49% of non-empty `Aspect`): <em>является, может, говорит, могут, находится, имеет, нет, работает, составляет, являются</em>
+* `Perf` (1062; 51% of non-empty `Aspect`): <em>сказал, стало, заявил, стал, сделать, сказала, получили, получить, привести, принял</em>
+* `EMPTY` (16): <em>можно, надо</em>
 
 <table>
-  <tr><th>Paradigm <i>быть</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>быть</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>был</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>была</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>было</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>будь</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будет</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есть</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будут</em></td><td><em>Будут</em></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есть</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>были</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>быть</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>будучи</em></td><td></td></tr>
+  <tr><th>Paradigm <i>использовать</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>используемые</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>использованные</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>использован</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>использовала</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>использована</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>использовано</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>используют</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>использовали</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ru_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>использованы</em></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>используя</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>использовать</em></td><td></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 97% lemmas (849) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 96% lemmas (838) occur only with one value of `Aspect`.
 
 ### `AUX`
 
-168 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
+237 <tt><a href="ru_pud-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (163; 97%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (128; 76%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (123; 73%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 72%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (237; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (223; 94%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (216; 91%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (215; 91%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (202; 85%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 70%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (167; 99% of non-empty `Aspect`): <em>был, были, было, будет, была, является, быть, будут, буду, являются</em>
-* `Perf` (1; 1% of non-empty `Aspect`): <em>начала</em>
-
-### `X`
-
-12 <tt><a href="ru_pud-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Aspect`.
-
-The most frequent other feature values with which `X` and `Aspect` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 83%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 75%).
-
-`X` tokens may have the following values of `Aspect`:
-
-* `Imp` (11; 92% of non-empty `Aspect`): <em>Go, Breaking, Buck, Didn't, Don, Knew, Knuck, Like, Love, Metti</em>
-* `Perf` (1; 8% of non-empty `Aspect`): <em>Associated</em>
-* `EMPTY` (198): <em>BBC, CNN, and, ', Facebook, Film, My, RECO, Really, Spotify</em>
-
-`Aspect` seems to be **lexical feature** of `X`. 100% lemmas (12) occur only with one value of `Aspect`.
+* `Imp` (237; 100% of non-empty `Aspect`): <em>был, было, были, была, быть, есть, будучи, будь</em>
+* `EMPTY` (59): <em>будет, бы, будут, буду</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (153; 71%),
-<tt>VERB --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (94; 64%),
-<tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (57; 58%),
-<tt>VERB --[<tt><a href="ru_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (14; 74%),
-<tt>VERB --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (6; 86%),
-<tt>VERB --[<tt><a href="ru_pud-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="ru_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (158; 74%),
+<tt>VERB --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (97; 68%),
+<tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 56%),
+<tt>VERB --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (44; 51%),
+<tt>VERB --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
+<tt>AUX --[<tt><a href="ru_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="ru_pud-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="ru_pud-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="ru_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

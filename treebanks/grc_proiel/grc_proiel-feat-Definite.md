@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Def`.
 
-28457 tokens (13%) have a non-empty value of `Definite`.
+28454 tokens (13%) have a non-empty value of `Definite`.
 53 types (0%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (28426; 13% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (31; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (28423; 13% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (31; 0% instances).
 
 ### `DET`
 
-28426 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
+28423 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28426; 100%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19868; 70%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28423; 100%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19867; 70%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (28426; 100% of non-empty `Definite`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</em>
-* `EMPTY` (3521): <em>πάντα, πάντων, τι, τούτου, πᾶσαν, τοῦτον, πᾶν, τοῦτο, πάντες, οὗτος</em>
+* `Def` (28423; 100% of non-empty `Definite`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</em>
+* `EMPTY` (3519): <em>πάντα, πάντων, τι, τούτου, πᾶσαν, τοῦτον, πᾶν, τοῦτο, πάντες, οὗτος</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (31; 100% of non-empty `Definite`): <em>τὸ, τὰ, τῶν, ὁ, οἳ, τὴν, ὃ, οἱ, τοὺς, τοῖσι</em>
-* `EMPTY` (16802): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
+* `EMPTY` (16804): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
 
 ## Relations with Agreement in `Definite`
 

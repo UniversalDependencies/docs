@@ -77,7 +77,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 11	प्रतिज्ञा	प्रतिज्ञा	NOUN	_	Compound=Yes	12	nmod	_	Translit=pratijñā|LTranslit=pratijñā|Gloss=promise
 12	भङ्ग	भङ्ग	NOUN	_	Compound=Yes	13	obj	_	Translit=bhaṅga|LTranslit=bhaṅga|Gloss=breaking
 13	भीरुणा	भीरु	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	9	acl	_	Translit=bhīruṇā|LTranslit=bhīru|Gloss=afraid
-14	।	।	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
+14	।	।	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.
 
 ~~~
 

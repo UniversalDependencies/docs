@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.000000).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.006623).
 
 The 1st highest number of forms (1) was observed with the lemma “Mẹ́ẹ̀dógún”: <em>Mẹ́ẹ̀dógún</em>.
 
@@ -40,19 +40,21 @@ Examples: <em>kan, Mẹ́ẹ̀dógún, kárùn-ún, méjì, mẹ́rin, Ọ̀kan<
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 2 different relations: <tt><a href="yo_ytb-dep-nummod.html">nummod</a></tt> (10; 91% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 9% instances)
+`NUM` nodes are attached to their parents using 2 different relations: <tt><a href="yo_ytb-dep-nummod.html">nummod</a></tt> (10; 91% instances), <tt><a href="yo_ytb-dep-root.html">root</a></tt> (1; 9% instances)
 
-Parents of `NUM` nodes belong to 3 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 9% instances)
+Parents of `NUM` nodes belong to 3 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 9% instances),  (1; 9% instances)
 
 10 (91%) `NUM` nodes are leaves.
 
 0 (0%) `NUM` nodes have one child.
 
-1 (9%) `NUM` nodes have two children.
+0 (0%) `NUM` nodes have two children.
 
-The highest child degree of a `NUM` node is 2.
+1 (9%) `NUM` nodes have three or more children.
 
-Children of `NUM` nodes are attached using 2 different relations: <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 50% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (1; 50% instances)
+The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes belong to 2 different parts of speech: <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
+Children of `NUM` nodes are attached using 3 different relations: <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (2; 50% instances), <tt><a href="yo_ytb-dep-case.html">case</a></tt> (1; 25% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 25% instances)
+
+Children of `NUM` nodes belong to 3 different parts of speech: <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (1; 25% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1; 25% instances)
 

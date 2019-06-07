@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	nest	nest	ADV	_	_	5	advmod	_	_
 5	beste	god	ADJ	_	Definite=Def|Degree=Sup	6	amod	_	_
 6	norske	norsk	ADJ	_	Degree=Pos|Number=Plur	3	xcomp	_	SpaceAfter=No
-7	,	$,	PUNCT	_	_	3	punct	_	_
+7	,	$,	PUNCT	_	_	9	punct	_	_
 8	på	på	ADP	_	_	9	case	_	_
 9	ellevteplass	ellevteplass	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 10	.	$.	PUNCT	_	_	3	punct	_	_

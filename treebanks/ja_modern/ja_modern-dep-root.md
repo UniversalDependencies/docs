@@ -28,12 +28,12 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	賢材	賢材	NOUN	名詞-普通名詞-一般	_	6	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 5	も	も	ADP	助詞-係助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 6	輩出	輩出	NOUN	名詞-普通名詞-サ変可能	_	11	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
-7	し	す	VERB	動詞-非自立可能	_	6	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
+7	し	す	VERB	動詞-非自立可能	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
 8	百	百	NUM	名詞-数詞	_	9	nummod	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No
 9	度	度	NOUN	名詞-普通名詞-助数詞可能	_	11	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No
 10	も	も	ADP	助詞-係助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No
 11	更張	更張	NOUN	名詞-普通名詞-サ変可能	_	29	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=動詞-一般|SpaceAfter=No
-12	し	す	VERB	動詞-非自立可能	_	11	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
+12	し	す	VERB	動詞-非自立可能	_	11	compound	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=動詞-一般|SpaceAfter=No
 13	官	官	NOUN	名詞-普通名詞-一般	_	16	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 14	省	省	NOUN	名詞-普通名詞-一般	_	16	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No
 15	寮	寮	NOUN	名詞-普通名詞-一般	_	16	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No

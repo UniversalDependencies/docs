@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>.
 
-1947 nodes (1%) are attached to their parents as `nsubj:pass`.
+1949 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 1127 instances of `nsubj:pass` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.8613251155624.
+Average distance between parent and child is 2.86146741918933.
 
-The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (948; 49% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (350; 18% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (301; 15% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (214; 11% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (112; 6% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (949; 49% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (350; 18% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (302; 15% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (214; 11% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (112; 6% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 8 4 nsubj:pass	color:blue
 1	ἄνδρες	ἀνήρ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	8	vocative	_	ref=6.9.3
 2	Ἴωνες	Ἴων	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	nmod	_	ref=6.9.3
-3	νῦν	νῦν#1	ADV	Df	_	8	advmod	_	ref=6.9.3
+3	νῦν	νῦν	ADV	Df	_	8	advmod	_	ref=6.9.3|LId=1
 4	τις	τὶς	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	ref=6.9.3
 5	ὑμέων	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nmod	_	ref=6.9.3
 6	εὖ	εὖ	ADV	Df	_	7	xcomp	_	ref=6.9.3

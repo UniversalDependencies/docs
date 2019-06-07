@@ -9,30 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-41165 tokens (3%) have a non-empty value of `NumForm`.
-3589 types (3%) occur at least once with a non-empty value of `NumForm`.
-3428 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (41165; 3% instances).
+41162 tokens (3%) have a non-empty value of `NumForm`.
+3590 types (3%) occur at least once with a non-empty value of `NumForm`.
+3429 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (41162; 3% instances).
 
 ### `NUM`
 
-41165 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+41162 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (41165; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36748; 89%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (33115; 80%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29884; 73%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29858; 73%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (41162; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36745; 89%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (33112; 80%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29881; 73%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29855; 73%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (29481; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
-* `Roman` (376; 1% of non-empty `NumForm`): <em>II, I, III, IV, V, VI, XX, D, C, IX</em>
+* `Digit` (29482; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `Roman` (372; 1% of non-empty `NumForm`): <em>II, I, III, IV, V, VI, XX, D, C, IX</em>
 * `Word` (11308; 27% of non-empty `NumForm`): <em>dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (3428) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (3429) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (3247; 100%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (2671; 95%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (79; 98%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (50; 96%).
+<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (3252; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (2670; 95%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (75; 97%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (50; 96%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (18; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

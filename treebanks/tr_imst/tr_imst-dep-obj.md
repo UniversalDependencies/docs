@@ -17,37 +17,15 @@ The following 51 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 obj	color:blue
-1	Bir	bir	NUM	ANum	NumType=Card	2	det	_	_
-2	ihtimal	ihtimal	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obl	_	_
-3	olarak	olarak	ADP	PCNom	_	2	case	_	_
-4	bu	bu	DET	Det	_	5	det	_	_
-5	hususu	husus	NOUN	Noun	Case=Acc|Number=Sing|Person=3	6	obj	_	_
-6	belirtiyorlar	belir	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 obj	color:blue
-1	Oğlunun	oğul	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod:poss	_	_
-2	neden	neden	ADV	Ques	Case=Abl|Number=Sing|Person=3	4	advmod	_	_
-3	eroinman	eroinman	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	olduğunu	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	5	obj	_	_
-5	anlayamaması	anla	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Pot|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	7	nsubj	_	_
-6	çok	çok	ADV	Adverb	_	7	advmod	_	_
-7	doğal	doğal	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-8	dı	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-9	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obj	color:blue
+1	Kahveleri	kahve	NOUN	Noun	Case=Acc|Number=Plur|Person=3	3	obj	_	_
+2	bende	ben	PRON	Pers	Case=Loc|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	içelim	iç	VERB	Verb	Aspect=Perf|Mood=Opt|Number=Plur|Person=1|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -58,9 +36,27 @@ The following 51 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 obj	color:blue
-1	Ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	2	obj	_	_
-2	anlatacaktın	anlat	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut,Past	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	Punc	_	2	punct	_	_
+1	Aradığımı	ara	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	2	obj	_	_
+2	Buldum	bul	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	3	obj	_	_
+3	Sandım	san	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obj	color:blue
+1	Sanal	sanal	ADJ	Adj	_	2	amod	_	_
+2	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	6	csubj	_	_
+3	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+4	bunların	bu	PRON	Demons	Case=Gen|Number=Plur|Person=3|PronType=Dem	5	nmod:poss	_	_
+5	hiçbirini	hiçbiri	PRON	Quant	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	6	obj	_	_
+6	yapamazlar	yap	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

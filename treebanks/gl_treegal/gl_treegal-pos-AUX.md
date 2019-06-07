@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `AUX`
 
-There are 25 `AUX` lemmas (1%), 119 `AUX` types (2%) and 644 `AUX` tokens (3%).
-Out of 16 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 11 in number of tokens.
+There are 15 `AUX` lemmas (0%), 100 `AUX` types (2%) and 609 `AUX` tokens (2%).
+Out of 16 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 11 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>ser, estar, poder, ir, ter, deber, haber, vir, resultar, parecer</em>
+The 10 most frequent `AUX` lemmas: <em>ser, estar, poder, ir, ter, deber, haber, vir, seguir, acabar</em>
 
 The 10 most frequent `AUX` types:  <em>é, foi, está, son, ser, pode, están, era, sería, vai</em>
 
-The 10 most frequent ambiguous lemmas: <em>ser</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 369, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 12, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 2), <em>estar</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 81, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 3), <em>poder</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 59, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 5), <em>ir</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 30, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 17), <em>ter</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 100, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 26), <em>deber</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 15, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 7, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 1), <em>haber</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 74, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 12), <em>vir</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 11, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 6), <em>resultar</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 8, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 4), <em>parecer</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 5, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 4, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>ser</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 370, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 11, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 2), <em>estar</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 81, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 3), <em>poder</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 59, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 5), <em>ir</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 30, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 17), <em>ter</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 100, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 26), <em>deber</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 15, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 7, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 1), <em>haber</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 74, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 12), <em>vir</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 12, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 5), <em>seguir</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 16, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 4), <em>acabar</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 6, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 156, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>foi</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 37, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>está</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 35, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 2), <em>ser</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 33, <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>pode</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 19, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 2), <em>están</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 17, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>vai</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 13, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 4), <em>será</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 8, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>ten</em> (<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 30, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 9), <em>sexa</em> (<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 8, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 5)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_treegal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.760000 (the average of all parts of speech is 1.370902).
+The form / lemma ratio of `AUX` is 6.666667 (the average of all parts of speech is 1.372032).
 
 The 1st highest number of forms (24) was observed with the lemma “ser”: <em>e, era, eran, foi, for, fora, foran, foron, fose, fosen, sendo, ser, seren, sermos, será, serán, sería, sexa, sexamos, sexan, seña, somos, son, é</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (20) was observed with the lemma “poder”: <e
 
 The 3rd highest number of forms (12) was observed with the lemma “estar”: <em>estaba, estaban, estamos, estar, estea, estean, estiveron, estivese, estivo, estou, está, están</em>.
 
-`AUX` occurs with 6 features: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt> (642; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (592; 92% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (590; 92% instances), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt> (588; 91% instances), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt> (559; 87% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (2; 0% instances)
+`AUX` occurs with 5 features: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt> (608; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (559; 92% instances), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt> (557; 91% instances), <tt><a href="gl_treegal-feat-Tense.html">Tense</a></tt> (529; 87% instances)
 
-`AUX` occurs with 18 feature-value pairs: `Gender=Masc`, `Mood=Cnd,Ind`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 16 feature-value pairs: `Mood=Cnd,Ind`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`
 
-`AUX` occurs with 31 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (288 tokens).
-Examples: <em>é, está, pode, vai, ten, hai, vén, debe, parece, resulta</em>
+`AUX` occurs with 29 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (269 tokens).
+Examples: <em>é, está, pode, vai, ten, hai, debe, vén, deixa, e</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (410; 64% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (195; 30% instances), <tt><a href="gl_treegal-dep-aux-pass.html">aux:pass</a></tt> (37; 6% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (2; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="gl_treegal-dep-cop.html">cop</a></tt> (393; 65% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (177; 29% instances), <tt><a href="gl_treegal-dep-aux-pass.html">aux:pass</a></tt> (37; 6% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (267; 41% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (161; 25% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (123; 19% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (60; 9% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (20; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (250; 41% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (162; 27% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (110; 18% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (56; 9% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (20; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 
-606 (94%) `AUX` nodes are leaves.
+603 (99%) `AUX` nodes are leaves.
 
-34 (5%) `AUX` nodes have one child.
+5 (1%) `AUX` nodes have one child.
 
-3 (0%) `AUX` nodes have two children.
+0 (0%) `AUX` nodes have two children.
 
 1 (0%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 7 different relations: <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (28; 65% instances), <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (6; 14% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (5; 12% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="gl_treegal-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="gl_treegal-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="gl_treegal-dep-punct.html">punct</a></tt> (4; 50% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (3; 38% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (1; 13% instances)
 
-Children of `AUX` nodes belong to 7 different parts of speech: <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (28; 65% instances), <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (6; 14% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 5 different parts of speech: <tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> (4; 50% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 13% instances)
 

@@ -45,7 +45,7 @@ The following 14 pairs of parts of speech are connected with `case`: <tt><a href
 5	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nsubj	_	_
 6	postupuje	postupovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	LId=podle-2
-8	§_54	§_54	X	X@-------------	_	6	advmod	_	SpaceAfter=No
+8	§_54	§_54	X	X@-------------	_	6	obl	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~

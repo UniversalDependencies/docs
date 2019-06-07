@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="la_ittb-dep-aux-pass.html">aux:pass</a></tt>.
 
-13 nodes (0%) are attached to their parents as `aux`.
+11 nodes (0%) are attached to their parents as `aux`.
 
-7 instances of `aux` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+6 instances of `aux` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72727272727273.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (6; 46% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (4; 31% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 8% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (5; 45% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (4; 36% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 9% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -78,7 +78,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 15	,	,	PUNCT	Punc	_	21	punct	_	_
 16	ut	ut	SCONJ	O4|vgr1	_	21	mark	_	_
 17	per	per	ADP	S4	AdpType=Prep	19	mark	_	_
-18	supra	supra	ADP	S4	AdpType=Prep	19	advmod	_	_
+18	supra	supra	ADV	S4	_	19	advmod	_	_
 19	dicta	dico	VERB	N2|modM|tem4|grp1|casM|gen3	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	advcl	_	_
 20	est	sum	AUX	N3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	_
 21	manifestum	manifestus	ADJ	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No

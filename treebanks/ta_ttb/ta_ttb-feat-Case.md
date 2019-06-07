@@ -164,14 +164,14 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (137; 77%),
-<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (115; 79%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (87; 93%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (136; 76%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (114; 79%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (88; 93%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 91%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (25; 93%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (26; 96%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 84%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (14; 70%),
-<tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13; 81%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 78%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 88%),
 <tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 88%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (3; 60%).
 

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-GSD: POS Tags: `ADV`
 
-There are 437 `ADV` lemmas (2%), 437 `ADV` types (2%) and 1929 `ADV` tokens (1%).
+There are 439 `ADV` lemmas (2%), 439 `ADV` types (2%) and 1927 `ADV` tokens (1%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: とても, さらに, 特に, 初めて, ほとんど, かつて, 少し, こう, もう, 最も
+The 10 most frequent `ADV` lemmas: とても, さらに, 特に, 初めて, ほとんど, かつて, 少し, こう, 最も, あまり
 
-The 10 most frequent `ADV` types:  とても, さらに, 特に, 初めて, ほとんど, かつて, 少し, こう, もう, 最も
+The 10 most frequent `ADV` types:  とても, さらに, 特に, 初めて, ほとんど, かつて, 少し, こう, 最も, あまり
 
 The 10 most frequent ambiguous lemmas: とても (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 80, <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> 4), 初めて (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 41, <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 1), ほとんど (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 12), あまり (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 26, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), ほぼ (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 24, <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> 1), そう (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 22, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 1), それぞれ (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 21, <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> 16), やや (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 19, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 2), 全て (<tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 17, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 15), 万 (<tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> 56, <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  とても (<tt><a href="ja_gsd-pos-ADV.ht
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.058722).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.058680).
 
 The 1st highest number of forms (1) was observed with the lemma “あいにく”: あいにく.
 
@@ -67,13 +67,13 @@ The 3rd highest number of forms (1) was observed with the lemma “あくまで�
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (1832; 95% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (48; 2% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (25; 1% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (21; 1% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (1830; 95% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (48; 2% instances), <tt><a href="ja_gsd-dep-root.html">root</a></tt> (25; 1% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (21; 1% instances), <tt><a href="ja_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1282; 66% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (311; 16% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (283; 15% instances),  (25; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (1275; 66% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (314; 16% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (285; 15% instances),  (25; 1% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 1509 (78%) `ADV` nodes are leaves.
 
-324 (17%) `ADV` nodes have one child.
+322 (17%) `ADV` nodes have one child.
 
 42 (2%) `ADV` nodes have two children.
 
@@ -81,7 +81,7 @@ Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ja_gs
 
 The highest child degree of a `ADV` node is 7.
 
-Children of `ADV` nodes are attached using 17 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (188; 30% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (174; 28% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (45; 7% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (36; 6% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (32; 5% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (30; 5% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (22; 4% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (21; 3% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (21; 3% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (18; 3% instances), <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (16; 3% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (8; 1% instances), <tt><a href="ja_gsd-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="ja_gsd-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 18 different relations: <tt><a href="ja_gsd-dep-punct.html">punct</a></tt> (189; 30% instances), <tt><a href="ja_gsd-dep-case.html">case</a></tt> (174; 28% instances), <tt><a href="ja_gsd-dep-cop.html">cop</a></tt> (45; 7% instances), <tt><a href="ja_gsd-dep-nsubj.html">nsubj</a></tt> (34; 5% instances), <tt><a href="ja_gsd-dep-nmod.html">nmod</a></tt> (30; 5% instances), <tt><a href="ja_gsd-dep-advcl.html">advcl</a></tt> (29; 5% instances), <tt><a href="ja_gsd-dep-mark.html">mark</a></tt> (22; 4% instances), <tt><a href="ja_gsd-dep-obl.html">obl</a></tt> (22; 4% instances), <tt><a href="ja_gsd-dep-advmod.html">advmod</a></tt> (20; 3% instances), <tt><a href="ja_gsd-dep-aux.html">aux</a></tt> (17; 3% instances), <tt><a href="ja_gsd-dep-nummod.html">nummod</a></tt> (16; 3% instances), <tt><a href="ja_gsd-dep-csubj.html">csubj</a></tt> (8; 1% instances), <tt><a href="ja_gsd-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="ja_gsd-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-dislocated.html">dislocated</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="ja_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_gsd-dep-det.html">det</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (188; 30% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 28% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (81; 13% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (62; 10% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (32; 5% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (17; 3% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (14; 2% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="ja_gsd-pos-PUNCT.html">PUNCT</a></tt> (189; 30% instances), <tt><a href="ja_gsd-pos-ADP.html">ADP</a></tt> (174; 28% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (79; 13% instances), <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> (62; 10% instances), <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> (31; 5% instances), <tt><a href="ja_gsd-pos-NUM.html">NUM</a></tt> (17; 3% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt> (16; 3% instances), <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ja_gsd-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ja_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="ja_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

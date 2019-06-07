@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-961 nodes (12%) are attached to their parents as `nmod`.
+1855 nodes (14%) are attached to their parents as `nmod`.
 
-950 instances of `nmod` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2372528616025.
+1837 instances of `nmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.42911051212938.
 
-The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (729; 76% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (175; 18% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `nmod`: <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1501; 81% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (181; 10% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (56; 3% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (22; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="be_hse-pos-NUM.html">NUM</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="be_hse-pos-DET.html">DET</a></tt>-<tt><a href="be_hse-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="be_hse-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="be_hse-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod	color:blue
-1	МЗС	мзс	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+1	МЗС	МЗС	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	PUNCT	_	4	punct	_	_
-3	ЕС	ес	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+3	ЕС	ЕС	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 4	застаецца	застаецца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	parataxis	_	_
 5	ў	ў	ADP	IN	_	6	case	_	_
 6	палоне	палон	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
@@ -42,7 +42,7 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2 3 nmod	color:blue
 1	Вярхоўны	вярхоўны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
 2	суд	суд	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Беларусі	беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+3	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	прысудзіў	прысудзіць	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	іх	яны	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
 6	да	да	ADP	IN	_	8	case	_	_
@@ -55,22 +55,22 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 nmod	color:blue
-1	І	і	CCONJ	CC	_	3	cc	_	_
-2	мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
-3	здаецца	здавацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	10	punct	_	_
-5	што	што	SCONJ	IN	_	10	mark	_	_
-6	ў	ў	ADP	IN	_	7	case	_	_
-7	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	nmod	_	_
-8	тая	той	DET	DT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
-9	ж	ж	PART	UH	_	8	advmod:discourse	_	_
-10	сітуацыя	сітуацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	csubj	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nmod	color:blue
+1	З	з	ADP	IN	_	3	case	_	_
+2	25	25	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	obl	_	_
+3	сакавіка	сакавік	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	"	"	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+5	Белавія	Белавія	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
+6	"	"	PUNCT	PUNCT	_	5	punct	_	_
+7	пераходзіць	пераходзіць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	на	на	ADP	IN	_	10	case	_	_
+9	летні	летні	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	расклад	расклад	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+11	рэйсаў	рэйс	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
 
 ~~~
 

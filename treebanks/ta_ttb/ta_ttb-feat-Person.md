@@ -143,14 +143,14 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (684; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (660; 100%),
-<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (180; 100%),
-<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (146; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (94; 100%),
-<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (84; 54%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (690; 100%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (687; 100%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (179; 100%),
+<tt>PROPN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (145; 100%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (95; 100%),
+<tt>VERB --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (85; 54%),
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (82; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (60; 100%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (38; 81%),
-<tt>NOUN --[<tt><a href="ta_ttb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (32; 100%).
+<tt>NOUN --[<tt><a href="ta_ttb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (59; 100%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (40; 82%),
+<tt>NOUN --[<tt><a href="ta_ttb-dep-aux.html">aux</a></tt>]--> AUX</tt> (32; 51%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-105 nodes (0%) are attached to their parents as `fixed`.
+128 nodes (0%) are attached to their parents as `fixed`.
 
-105 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03809523809524.
+128 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03125.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (81; 77% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (10; 10% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (101; 79% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (13; 10% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

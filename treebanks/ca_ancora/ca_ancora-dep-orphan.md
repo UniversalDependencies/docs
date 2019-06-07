@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 33	instant	instant	NOUN	NOUN	Gender=Masc|Number=Sing	30	nmod	_	_
 34	d'	de	ADP	ADP	AdpType=Prep	35	mark	_	SpaceAfter=No
 35	executar	executar	VERB	VERB	VerbForm=Inf	33	acl	_	_
-36	la	ell	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	obj	_	_
+36	la	ell	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obj	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
 ~~~

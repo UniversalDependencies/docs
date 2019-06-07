@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="fr_spoken-dep-parataxis-obj.html">parataxis:obj</a></tt>, <tt><a href="fr_spoken-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-135 nodes (0%) are attached to their parents as `parataxis:discourse`.
+131 nodes (0%) are attached to their parents as `parataxis:discourse`.
 
-112 instances of `parataxis:discourse` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.55555555555556.
+98 instances of `parataxis:discourse` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.72519083969466.
 
-The following 14 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (38; 28% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (20; 15% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (19; 14% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (12; 9% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (9; 7% instances), <tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (9; 7% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (41; 31% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (26; 20% instances), <tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (19; 15% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (12; 9% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 5% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="fr_spoken-pos-DET.html">DET</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="fr_spoken-pos-PART.html">PART</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `parataxis:discours
 6	fac	fac	NOUN	_	_	10	dislocated	_	_
 7	ça	ça	PRON	_	_	10	nsubj	_	_
 8	m'	me	PRON	_	_	10	iobj	_	_
-9	a	avoir	VERB	_	_	10	aux	_	_
+9	a	avoir	AUX	_	_	10	aux	_	_
 10	fait	faire	VERB	_	_	0	root	_	_
 11	beaucoup	beaucoup	PRON	_	_	10	obj	_	_
 12	de	de	ADP	_	_	13	case	_	_

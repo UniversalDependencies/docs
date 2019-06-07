@@ -2,6 +2,7 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
 
 Irish has two gender forms: masculine and feminine. 

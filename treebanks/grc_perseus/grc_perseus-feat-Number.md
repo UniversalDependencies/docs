@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ἀνήρ</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="grc_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ἄνδρα, ἄνδῤ, ἀνέρα, ἄνδρά</em></td><td></td><td><em>ἄνδρας, ἀνέρας</em></td></tr>
+  <tr><td><tt><tt><a href="grc_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ἄνδρα, ἄνδῤ, ἀνέρα, ἄνδρά</em></td><td></td><td><em>ἄνδρας, ἀνέρας</em></td></tr>
   <tr><td><tt><tt><a href="grc_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>ἀνδρὶ, τἀνδρὶ, ἀνέρι, ἀνδρί</em></td><td></td><td><em>ἀνδράσιν, ἀνδράσι, ἄνδρεσσι, ἄνδρεσσιν</em></td></tr>
   <tr><td><tt><tt><a href="grc_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>ἀνδρὸς, τἀνδρὸς, ἀνδρός, ἀνέρος, τἀνδρός</em></td><td></td><td><em>ἀνδρῶν, ἀνέρων</em></td></tr>
   <tr><td><tt><tt><a href="grc_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ἀνὴρ, ἀνήρ, ἁνὴρ, ἁνήρ, ὡνὴρ</em></td><td><em>ἀνέρε, ἄνδρε</em></td><td><em>ἄνδρες, ἀνέρες, ἅνδρες</em></td></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Dual` (144; 1% of non-empty `Number`): <em>τὼ, νῶϊ, τώ, σφῶϊν, σφὼ, σφῶϊ, νῷν, σφωϊν, σφῷν, νὼ</em>
 * `Plur` (3502; 28% of non-empty `Number`): <em>οἳ, ταῦτα, τάδε, αὐτῶν, ὧν, αὐτοῖς, τῶν, τούτων, τὰ, σφι</em>
 * `Sing` (8962; 71% of non-empty `Number`): <em>οἱ, τὸν, μοι, ὃ, μιν, ἐγὼ, τι, τις, τί, σὺ</em>
-* `EMPTY` (25): <em>πῇ, πᾷ, τίπτ̓, τίπτε, τίπτέ, τίφθ̓, ποῦ, πότε, ἆῤ</em>
+* `EMPTY` (25): <em>πῇ, πᾷ, τίπτ̓, τίπτε, τίπτέ, τίφθ̓, ποῦ, πότε, ἆῤ</em>
 
 <table>
   <tr><th>Paradigm <i>ὁ</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -187,7 +187,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (6; 55% of non-empty `Number`): <em>τοῖσι, ξύμβληντο, τάς, τὰ, ἔσχεθον</em>
 * `Sing` (5; 45% of non-empty `Number`): <em>τί, Λάϊον, τέκμαρ, φύεν</em>
-* `EMPTY` (30): <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ἠ, πολυάϊκος</em>
+* `EMPTY` (30): <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, πολυάϊκος, σοι</em>
 
 <table>
   <tr><th>Paradigm <i>τίς</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

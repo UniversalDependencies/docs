@@ -2,6 +2,7 @@
 layout: relation
 title:  'xcomp:pred'
 shortdef : 'predicate'
+udver: '2'
 ---
 
 We extend the label `xcomp` as a UD Irish subtype `xcomp:pred` to mark predicates of the substantive verb _bí_ (be), which can have predicate arguments in the form of adverbial, adjectival and prepositional phrases.
