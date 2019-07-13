@@ -30,6 +30,6 @@ udver: '2'
 
 <small>
 This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions,
-see [archived v1 guidelines](docsv1/index.html)
-and [changes from v1 to v2](v2/summary.html).
+see [archived v1 guidelines](https://universaldependencies.org/docsv1/)
+and [changes from v1 to v2](https://universaldependencies.org/v2/summary.html).
 </small>
