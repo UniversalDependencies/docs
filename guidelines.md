@@ -29,5 +29,5 @@ udver: '2'
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 
 This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions, see 
-[archived v1 guidelines](https://universaldependencies.org/docsv1/) and 
-[changes from v1 to v2](https://universaldependencies.org/v2/summary.html).
+[archived v1 guidelines](docsv1/) and 
+[changes from v1 to v2](v2/summary.html).
