@@ -8,6 +8,18 @@ permalink: ga/pos/index.html
 # POS tags
 
 {% include ga-pos-table.html %}
+<table>
+<tr><td><strong>Open class words</strong></td><td><strong>Closed class words</strong></td><td><strong>Other</strong></td></tr>
+<tr><td>ADJ</td><td>ADP</td><td>PUNCT</td></tr>
+<tr><td>ADV</td><td>AUX</td><td>SYM</td></tr>
+<tr><td>INTJ</td><td>CCONJ</td><td>X</td></tr>
+<tr><td>NOUN</td><td>SCONJ</td><td></td></tr>
+<tr><td>PROPN</td><td>DET</td><td></td></tr>
+<tr><td>VERB</td><td>NUM</td><td></td></tr>
+<tr><td></td><td>PART</td><td></td></tr>
+<tr><td></td><td>PRON</td><td></td></tr>
+</table>
+
 
 Here we highlight the unintuitive choices made for mapping the Irish data to Universal POS tags. More information on each of the 17 POS tags and their use in Irish can be found in their respective pages.
 
