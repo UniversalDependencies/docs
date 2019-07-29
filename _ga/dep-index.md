@@ -35,4 +35,13 @@ permalink: ga/dep/index.html
 <td>acl</td>
 <td>amod</td>
 <td>det</td>
+</tr>
+<td><strong>Coordination</strong></td>
+<td><strong>MWE</strong></td>
+<td><strong>Loose</strong></td>
+<td><strong>Special</strong></td>
+<td><strong>Other</strong></td>
 </table>
+
+
+
