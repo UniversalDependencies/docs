@@ -20,7 +20,7 @@ permalink: ga/dep/index.html
 <tr>
 <td><strong>Core Arguments</strong></td>
 <td>nsubj</td>
-<td>cusbj</td>
+<td>csubj</td>
 </tr>
 <tr>
 <td><strong>Non-core dependents</strong></td>
