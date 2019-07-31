@@ -5,7 +5,7 @@
 </tr>
 </tr>
 <td></td>
-<td><strong>*Nominal*</strong></td><td><strong>*Verbal*</strong></td>
+<td>Nominal</td><td>Verbal</td>
 </tr>
 <tr>
 <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html">Abbr</a></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Case.html">Case</a></td>
