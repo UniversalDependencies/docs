@@ -1,181 +1,202 @@
-Note: <i>nmod</i>, <i>neg</i>, and <i>punct</i> appear
-in two places.
-
-<table class="typeindex">
-  <tr>
+<table class="typeindex" border="1">
+  <tr style="background-color:cornflowerblue">
     <td>
       <table class="category">
-	<tr><td colspan="3"><strong>Core dependents of clausal predicates</strong></td></tr>
-	<tr>
-	  <td><i>Nominal dep</i></td>
-	  <td><i>Predicate dep</i></td>
-	</tr>
-	<tr>
-	  <td><a>nsubj</a></td>
-	  <td><a>csubj</a></td>
-	</tr>
-	<tr>
-	  <td><strike>nsubjpass</strike></td>
-	  <td>↳<a>csubj:cop</a></td>
-	</tr>
-	<tr>
-	  <td><strike>csubjpass</strike></td>
-	</tr>
-	<tr>
-	  <td><a>obj</a></td>
-	  <td><a>ccomp</a></td>
-	  <td><a>xcomp</a></td>
-	</tr>
-	<tr>
-	  <td><strike>iobj</strike></td>
-	  <td/>
-	  <td>↳<a>xcomp:pred</a></td>
-	</tr>
+        <tr><td><strong></strong></td></tr>
       </table>
     </td>
     <td>
-     <table class="category">
-	<tr><td colspan="3"><strong>Non-core dependents of clausal predicates</strong></td></tr>
-	<tr>
-	  <td><i>Nominal dep</i></td>
-	  <td><i>Predicate dep</i></td>
-	  <td><i>Modifier word</i></td>
-	</tr>
-	<tr>
-	  <td><a>nmod</a></td>
-	  <td><a>advcl</a></td>
-	  <td><a>advmod</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>nmod:poss</a></td>
-	  <td></td>
-	  <td><a>neg</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>nmod:prep</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>nmod:tmod</a></td>
-	  <td></td>
-	</tr>
+      <table class="category">
+        <tr><td><strong>Nominals</strong></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><strong>Clauses</strong></td></tr>
+      </table>
+    </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Modifier words</strong></td></tr>
+        </table>
+      </td>
+    <td>
+    <table class="category">
+      <tr><td><strong>Function Words</strong></td></tr>
     </table>
-    </td>
-    <td>
-     <table class="category">
-	<tr><td colspan="3"><strong>Special clausal dependents</strong></td></tr>
-	<tr>
-	  <td><i>Nominal dep</i></td>
-	  <td><i>Auxiliary</i></td>
-	  <td><i>Other</i></td>
-	</tr>
-	<tr>
-	  <td><a>vocative</a></td>
-	  <td><strike>aux</strike></td>
-	  <td><a>mark</a></td>
-	</tr>
-	<tr>
-	  <td><a>discourse</a></td>
-	  <td><strike>auxpass</strike></td>
-	  <td>↳<a>mark:prt</a></td>
-	</tr>
-	<tr>
-	  <td><strike>expl</strike></td>
-	  <td><a>cop</a></td>
-	  <td><a>punct</a></td>	</tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Noun dependents</strong></td></tr>
-	<tr>
-	  <td><i>Nominal dep</i></td>
-	  <td><i>Predicate dep</i></td>
-	  <td><i>Modifier word</i></td>
-	</tr>
-	<tr>
-	  <td><a>nummod</a></td>
-	  <td><a>acl</a></td>
-	  <td><a>amod</a></td>
-	</tr>
-	<tr>
-	  <td><a>appos</a></td>
-	  <td>↳<a>acl:relcl</a></td>
-	  <td><a>det</a></td>
-	</tr>
-	<tr>
-	  <td><a>nmod</a></td>
-	  <td>&nbsp;</td>
-	</tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Compounding and unanalyzed</strong></td></tr>
-	<tr>
-	  <td><a>compound</a></td>
-	  <td><strike>mwe</strike></td>
-	  <td><strike>goeswith</strike></td>
-	</tr>
-	<tr>
-	  <td>↳<a>compound:prt</a></td>
-	  <td><a>foreign</a></td>
-	</tr>
-	<tr>
-	  <td><a>flat</a></td>
-	</tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Coordination</strong></td></tr>
-	<tr>
-	  <td><a>conj</a></td>
-	  <td><a>cc</a></td>
-	  <td><a>punct</a></td>
-	</tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Case-marking, prepositions, possessive</strong></td></tr>
-	<tr>
-	  <td><a>case</a></td>
-	</tr>
-	<tr>
-	  <td>↳<a>case:voc</a></td>
-	</tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Loose joining relations</strong></td></tr>
-	<tr>
-	  <td><a>list</a></td>
-	  <td><a>parataxis</a></td>
-	  <td><a>orphan</a></td>
-	</tr>
-	<tr>
-	  <td><a>dislocated</a></td>
-	  <td></td><td><strike>reparandum</strike></td>
-	</tr>
-      </table>
-    </td>
-    <td>
-      <table class="category">
-	<tr><td colspan="3"><strong>Other</strong></td></tr>
-	<tr>
-	  <td><i>Sentence head</i></td>
-	  <td colspan="2"><i>Unspecified dependency</i></td>
-	</tr>
-	<tr>
-	  <td><a>root</a></td>
-	  <td><a>dep</a></td>
-	</tr>
-      </table>
-    </td>
+        </td>
     </tr>
+    <tr>
+    <td style="background-color:darkseagreen">
+      <table class="category">
+        <tr><td><strong>Core arguments</strong></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/nsubj.html'>nsubj</a></td></tr>
+        <tr><td>↳<a>nsubj:pass<strike></strike></a></td></tr>
+        <tr><td>↳<a>csubj:pass<strike></strike></a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/u/dep/obj.html'>obj</a></td></tr>
+        <tr><td><a>iobj<strike></strike></a></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/csubj.html'>csubj</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/csubj-cleft.html'>csubj:cleft</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/csubj-cop.html'>csubj:cop</a></td></tr>
+        <tr><td><a href= 'https://universaldependencies.org/ga/dep/ccomp.html'>ccomp</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/xcomp.html'>xcomp</a></td></tr>
+      </table>
+    </td>
+    <td></td>
+    <td></td></tr>
+    <tr>
+      <td style="background-color:darkseagreen">
+        <table class="category">
+          <tr><td><strong>Non-core dependents</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>obl</a></td></tr>
+          <tr><td>↳<a>obl:tmod</a></td></tr>
+          <tr><td><a>vocative</a></td></tr>
+          <tr><td><a>expl<strike></strike></a></td></tr>
+          <tr><td><a>dislocated</a></td></tr>
+          <tr><td>↳<a>dislocated:cleft</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>advcl</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>advmod</a></td></tr>
+          <tr><td>↳<a>advmod:periph</a> [Spo]</td></tr>
+          <tr><td><a>discourse</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>aux</a></td></tr>
+          <tr><td>↳<a>aux:caus</a></td></tr>
+          <tr><td>↳<a>aux:pass</a></td></tr>
+          <tr><td><a>cop</a></td></tr>
+          <tr><td><a>mark</a></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:darkseagreen">
+        <table class="category">
+          <tr><td><strong>Nominal dependents</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>nmod</a></td></tr>
+          <tr><td>↳<a>nmod:poss</a> [PUD]</td></tr>
+          <tr><td><a>appos</a></td></tr>
+          <tr><td>↳<a>appos:conj</a> [Spo]</td></tr>
+          <tr><td>↳<a>appos:nmod</a> [Spo]</td></tr>
+          <tr><td><a>nummod</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>acl</a></td></tr>
+          <tr><td>↳<a>acl:relcl</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>amod</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>det</a></td></tr>
+          <tr><td>↳<a>det:predet</a> [PUD]</td></tr>
+          <tr><td><a>case</a></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr style="background-color:cornflowerblue">
+      <td>
+        <table class="category">
+          <tr><td><strong>Coordination</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>MWE</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Loose</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Special</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Other</strong></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="category">
+          <tr><td><a>conj</a></td></tr>
+          <tr><td>↳<a>conj:coord</a> [Spo]</td></tr>
+          <tr><td>↳<a>conj:dicto</a> [Spo]</td></tr>
+          <tr><td><a>cc</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>fixed</a></td></tr>
+          <tr><td><a>flat</a></td></tr>
+          <tr><td>↳<a>flat:foreign</a></td></tr>
+          <tr><td>↳<a>flat:name</a></td></tr>
+          <tr><td><a>compound</a></td></tr>
+        </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a>list</a> [&#8709;]</td></tr>
+        <tr><td><a>parataxis</a></td></tr>
+        <tr><td>↳<a>parataxis:conj</a> [&#8709;]</td></tr>
+        <tr><td>↳<a>parataxis:discourse</a> [Spo]</td></tr>
+        <tr><td>↳<a>parataxis:dislocated</a> [&#8709;]</td></tr>
+        <tr><td>↳<a>parataxis:insert</a> [Spo]</td></tr>
+        <tr><td>↳<a>parataxis:obj</a> [Spo]</td></tr>
+        <tr><td>↳<a>parataxis:parenth</a> [Spo]</td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a>orphan</a></td></tr>
+        <tr><td><a>goeswith</a></td></tr>
+        <tr><td><a>reparandum</a></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a>punct</a></td></tr>
+        <tr><td><a>root</a></td></tr>
+        <tr><td><a>dep</a></td></tr>
+        <tr><td>↳<a>dep:obj</a> [Spo]</td></tr>
+        <tr><td>↳<a>dep:iobj</a> [Spo]</td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
