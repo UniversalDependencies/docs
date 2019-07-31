@@ -10,9 +10,9 @@
 <td><strong>*Verbal*</strong></td>
 </tr>
 <tr>
-<td>[Abbr](https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html)</td>
-<td>[Case](https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Case.html)</td>
-<td>[Mood](https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Mood.html)</td>
+<td>[Abbr]https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html)</td>
+<td>[Case]https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Case.html)</td>
+<td>[Mood]https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Mood.html)</td>
 </tr>
 <tr>
 <td>Dialect</td>
