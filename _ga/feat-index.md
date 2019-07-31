@@ -1,10 +1,61 @@
----
-layout: base
-title:  'Features'
-generated: 'true'
-permalink: ga/feat/index.html
----
-
-# Features
-
-{% include ga-feat-table.html %}
+<table>
+<tr>
+<td><strong>Lexical features</strong></td>
+<td><strong>Inflectional features</strong></td>
+</tr>
+</tr>
+<td></td>
+<td><strong>*Nominal*</strong></td>
+<td><strong>*Verbal*</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
