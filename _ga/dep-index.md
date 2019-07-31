@@ -4,8 +4,7 @@ in two places.
 <table class="typeindex">
   <tr>
     <td>
-
-      <table class="category">
+<table class="category">
 	<tr><td colspan="3"><strong>Core dependents of clausal predicates</strong></td></tr>
 	<tr>
 	  <td><i>Nominal dep</i></td>
@@ -37,7 +36,6 @@ in two places.
 <table class="typeindex">
   <tr>
     <td>
-
       <table class="category">
 	<tr><td colspan="3"><strong>Noun dependents</strong></td></tr>
 	<tr>
@@ -60,8 +58,7 @@ in two places.
 <table class="typeindex">
   <tr>
     <td>
-
-      <table class="category">
+<table class="category">
 	<tr><td colspan="3"><strong>Case-marking, prepositions, possessive</strong></td></tr>
 	<tr>
 	 <td><a>case</a></td>
