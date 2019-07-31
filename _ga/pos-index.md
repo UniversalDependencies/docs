@@ -6,18 +6,16 @@ permalink: ga/pos/index.html
 ---
 
 # POS tags
-
-{% include ga-pos-table.html %}
 <table>
 <tr><td><strong>Open class words</strong></td><td><strong>Closed class words</strong></td><td><strong>Other</strong></td></tr>
-<tr><td>ADJ</td><td>ADP</td><td>PUNCT</td></tr>
-<tr><td>ADV</td><td>AUX</td><td>SYM</td></tr>
-<tr><td>INTJ</td><td>CCONJ</td><td>X</td></tr>
-<tr><td>NOUN</td><td>SCONJ</td><td></td></tr>
-<tr><td>PROPN</td><td>DET</td><td></td></tr>
-<tr><td>VERB</td><td>NUM</td><td></td></tr>
-<tr><td></td><td>PART</td><td></td></tr>
-<tr><td></td><td>PRON</td><td></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html)">ADJ</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html)">ADP</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html)">PUNCT</a></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html)">ADV</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html)">AUX</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html)">SYM</a></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html)">INTJ</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html)">CCONJ</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html)">X</a></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html)">NOUN</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html)">SCONJ</a></td><td></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html)">PROPN</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html)">DET</a></td><td></td></tr>
+<tr><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html)">VERB</a></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html)">NUM</a></td><td></td></tr>
+<tr><td></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html)">PART</a></td><td></td></tr>
+<tr><td></td><td><a href="[https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html](https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html)">PRON</a></td><td></td></tr>
 </table>
 
 
