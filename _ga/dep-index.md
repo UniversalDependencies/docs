@@ -34,7 +34,7 @@ in two places.
       </table>
     </td>
     <td>
-      <table class="category">
+     <table class="category">
 	<tr><td colspan="3"><strong>Non-core dependents of clausal predicates</strong></td></tr>
 	<tr>
 	  <td><i>Nominal dep</i></td>
@@ -58,10 +58,10 @@ in two places.
 	  <td>↳<a>nmod:tmod</a></td>
 	  <td></td>
 	</tr>
-     </table>
+    </table>
     </td>
     <td>
-      <table class="category">
+     <table class="category">
 	<tr><td colspan="3"><strong>Special clausal dependents</strong></td></tr>
 	<tr>
 	  <td><i>Nominal dep</i></td>
