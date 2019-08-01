@@ -35,10 +35,10 @@
     <td>
       <table class="category">
         <tr><td><a href='https://universaldependencies.org/ga/dep/nsubj.html'>nsubj</a></td></tr>
-        <tr><td>↳<a>nsubj:pass<strike></strike></a></td></tr>
-        <tr><td>↳<a>csubj:pass<strike></strike></a></td></tr>
+        <tr><td>↳<a><strike>nsubj:pass</strike></a></td></tr>
+        <tr><td>↳<a><strike>csubj:pass</strike></a></td></tr>
         <tr><td><a href='https://universaldependencies.org/u/dep/obj.html'>obj</a></td></tr>
-        <tr><td><a>iobj<strike></strike></a></td></tr>
+        <tr><td><a><strike>iobj</strike></a></td></tr>
       </table>
     </td>
     <td>
@@ -82,8 +82,8 @@
       </td>
       <td>
         <table class="category">
-          <tr><td><a>aux</a></td></tr>
-          <tr><td>↳<a>aux:pass</a></td></tr>
+          <tr><td><a><strike>aux</strike></a></td></tr>
+          <tr><td>↳<a><strike>aux:pass</strike></a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/cop.html'>cop</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/mark.html'>mark</a></td></tr>
         </table>
@@ -151,7 +151,7 @@
     <tr>
       <td>
         <table class="category">
-          <tr><td><a href=https://universaldependencies.org/ga/dep/conj.html>conj</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/conj.html'>conj</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/cc.html'>cc</a></td></tr>
         </table>
       </td>
@@ -166,22 +166,22 @@
     </td>
     <td>
       <table class="category">
-        <tr><td><a>list</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/list.html'>list</a></td></tr>
         <tr><td><a href='https://universaldependencies.org/ga/dep/parataxis.html'>parataxis</a></td></tr>
       </table>
     </td>
     <td>
       <table class="category">
-        <tr><td><a>orphan</a></td></tr>
-        <tr><td><a>goeswith</a></td></tr>
-        <tr><td><a>reparandum</a></td></tr>
+        <tr><td><a><strike>orphan</strike></a></td></tr>
+        <tr><td><a><strike>goeswith</strike></a></td></tr>
+        <tr><td><a><strike>reparandum</strike></a></td></tr>
       </table>
     </td>
     <td>
       <table class="category">
         <tr><td><a href='https://universaldependencies.org/ga/dep/punct.html'>punct</a></td></tr>
-        <tr><td><a href=''https://universaldependencies.org/ga/dep/root.html>root</a></td></tr>
-        <tr><td><a>dep</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/root.html'>root</a></td></tr>
+        <tr><td><a><strike>dep</strike></a></td></tr>
       </table>
     </td>
   </tr>
