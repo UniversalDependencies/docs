@@ -60,33 +60,31 @@
       </td>
       <td>
         <table class="category">
-          <tr><td><a>obl</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/obl.html'>obl</a></td></tr>
           <tr><td>↳<a>obl:tmod</a></td></tr>
-          <tr><td><a>vocative</a></td></tr>
+           <tr><td>↳<a>obl:prep</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/vocative.html'>vocative</a></td></tr>
           <tr><td><a>expl<strike></strike></a></td></tr>
           <tr><td><a>dislocated</a></td></tr>
-          <tr><td>↳<a>dislocated:cleft</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
-          <tr><td><a>advcl</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/advcl.html'>advcl</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
-          <tr><td><a>advmod</a></td></tr>
-          <tr><td>↳<a>advmod:periph</a> [Spo]</td></tr>
-          <tr><td><a>discourse</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/advmod.html'>advmod</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/discourse.html'>discourse</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
           <tr><td><a>aux</a></td></tr>
-          <tr><td>↳<a>aux:caus</a></td></tr>
           <tr><td>↳<a>aux:pass</a></td></tr>
-          <tr><td><a>cop</a></td></tr>
-          <tr><td><a>mark</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/cop.html'>cop</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/mark.html'>mark</a></td></tr>
         </table>
       </td>
     </tr>
@@ -98,30 +96,27 @@
       </td>
       <td>
         <table class="category">
-          <tr><td><a>nmod</a></td></tr>
-          <tr><td>↳<a>nmod:poss</a> [PUD]</td></tr>
-          <tr><td><a>appos</a></td></tr>
-          <tr><td>↳<a>appos:conj</a> [Spo]</td></tr>
-          <tr><td>↳<a>appos:nmod</a> [Spo]</td></tr>
-          <tr><td><a>nummod</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/nmod.html'>nmod</a></td></tr>
+          <tr><td>↳<a>nmod:poss</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/appos.html'>appos</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/nummod.html'>nummod</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
           <tr><td><a>acl</a></td></tr>
-          <tr><td>↳<a>acl:relcl</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/acl-relcl.html'>acl:relcl</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
-          <tr><td><a>amod</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/amod.html'>amod</a></td></tr>
         </table>
       </td>
       <td>
         <table class="category">
-          <tr><td><a>det</a></td></tr>
-          <tr><td>↳<a>det:predet</a> [PUD]</td></tr>
-          <tr><td><a>case</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/u/dep/det.html'>det</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/case.html'>case</a></td></tr>
         </table>
       </td>
     </tr>
@@ -155,10 +150,8 @@
     <tr>
       <td>
         <table class="category">
-          <tr><td><a>conj</a></td></tr>
-          <tr><td>↳<a>conj:coord</a> [Spo]</td></tr>
-          <tr><td>↳<a>conj:dicto</a> [Spo]</td></tr>
-          <tr><td><a>cc</a></td></tr>
+          <tr><td><a href=https://universaldependencies.org/ga/dep/conj.html>conj</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/cc.html'>cc</a></td></tr>
         </table>
       </td>
       <td>
@@ -166,20 +159,14 @@
           <tr><td><a>fixed</a></td></tr>
           <tr><td><a>flat</a></td></tr>
           <tr><td>↳<a>flat:foreign</a></td></tr>
-          <tr><td>↳<a>flat:name</a></td></tr>
-          <tr><td><a>compound</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat.html'>flat:name</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/compound.html'>compound</a></td></tr>
         </table>
     </td>
     <td>
       <table class="category">
-        <tr><td><a>list</a> [&#8709;]</td></tr>
-        <tr><td><a>parataxis</a></td></tr>
-        <tr><td>↳<a>parataxis:conj</a> [&#8709;]</td></tr>
-        <tr><td>↳<a>parataxis:discourse</a> [Spo]</td></tr>
-        <tr><td>↳<a>parataxis:dislocated</a> [&#8709;]</td></tr>
-        <tr><td>↳<a>parataxis:insert</a> [Spo]</td></tr>
-        <tr><td>↳<a>parataxis:obj</a> [Spo]</td></tr>
-        <tr><td>↳<a>parataxis:parenth</a> [Spo]</td></tr>
+        <tr><td><a>list</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/parataxis.html'>parataxis</a></td></tr>
       </table>
     </td>
     <td>
@@ -191,11 +178,9 @@
     </td>
     <td>
       <table class="category">
-        <tr><td><a>punct</a></td></tr>
-        <tr><td><a>root</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/punct.html'>punct</a></td></tr>
+        <tr><td><a href=''https://universaldependencies.org/ga/dep/root.html>root</a></td></tr>
         <tr><td><a>dep</a></td></tr>
-        <tr><td>↳<a>dep:obj</a> [Spo]</td></tr>
-        <tr><td>↳<a>dep:iobj</a> [Spo]</td></tr>
       </table>
     </td>
   </tr>
