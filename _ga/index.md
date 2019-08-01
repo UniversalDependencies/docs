@@ -263,8 +263,8 @@ The Irish UD treebank uses 26 of the UD dependency labels. A further 10 language
 - [csubj:cop]() for copular clausal subject
 - [mark:prt]() for (most) particles
 - [nmod:poss]() for possessive pronouns
-- [nmod:prep]() for pronominal prepositions
-- [nmod:tmod]() for nominal temporal modifiers
+- [obl:prep]() for pronominal prepositions
+- [obl:tmod]() for temporal modifiers
 - [xcomp:pred]() for predicates of the substantive verb "to be"
 
 
