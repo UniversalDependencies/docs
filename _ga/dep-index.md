@@ -48,6 +48,7 @@
         <tr><td>↳<a href='https://universaldependencies.org/ga/dep/csubj-cop.html'>csubj:cop</a></td></tr>
         <tr><td><a href= 'https://universaldependencies.org/ga/dep/ccomp.html'>ccomp</a></td></tr>
         <tr><td><a href='https://universaldependencies.org/ga/dep/xcomp.html'>xcomp</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/xcomp-pred.html'>xcomp:pred</a></td></tr>
       </table>
     </td>
     <td></td>
@@ -97,7 +98,7 @@
       <td>
         <table class="category">
           <tr><td><a href='https://universaldependencies.org/ga/dep/nmod.html'>nmod</a></td></tr>
-          <tr><td>↳<a>nmod:poss</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/nmod-poss.html'>nmod:poss</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/appos.html'>appos</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/nummod.html'>nummod</a></td></tr>
         </table>
