@@ -15,4 +15,10 @@ _Na sonraí atá leagtha <b>amach</b> in Airteagal J_  'The details that are lai
 Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
 ~~~
+<b>Here is a list of other examples:</b>
 
+_Cur i láthair = present
+Cur i gcoinne = objection
+Tabhair suas = Give up
+Éirí as = Withdrawal
+Dul as = fading_
