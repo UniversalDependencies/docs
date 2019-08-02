@@ -16,3 +16,10 @@ name(Sheán,Ó)
 name(Sheán,Gallchóir)
 ~~~ 
 
+_Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín <b>Ní Bheaglaoich</b>_
+
+~~~ sdparse
+Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín Ní Bheaglaoich \n Journalist and broadcaster with Radio of_the Gaeltacht in Dublin is Seosaimhín Ní Bheaglaoich
+name(Seosaimhín,Ní)
+name(Seosaimhín,Bheaglaoich)
+~~~ 
