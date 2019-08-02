@@ -5,7 +5,7 @@ shortdef: 'vocative'
 udver: '2'
 ---
 
-The `vocative` relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence.
+The `vocative` relation is used to mark a dialogue participant addressed in text (common in conversations, emails and newsgroup postings). The relation links the addressee’s name to its host sentence. Discourse markers in Irish usually precede lenited personal names or titles.  
 
 ### Examples:
 
