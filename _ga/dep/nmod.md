@@ -45,9 +45,27 @@ Comharsain aoibhne ab ea iad \n Neighbours lovely were they them
 nmod(iad, ea)
 ~~~
 
+Verbal nouns which act adjectivally and appear in the genitive are usually labelled as `nmod`. 
 
+_Caladh mór <b>tráchtála</b> atá ann chomh maith._ `It's a large wave of traffic as well.'
 
+~~~ sdparse
+Caladh mór tráchtála atá ann chomh maith \n Wave big of_traffic that_is there as well. 
+nmod(caladh, tráchtála)
+~~~
 
+Two nouns coming together also come under this dependency label: 
 
+_Mise agus mo chuid <b>clabaireachta</b>._ `Me and my babbling'
 
+~~~ sdparse
+Mise agus mo chuid clabaireachta \n Myself and my part of_babbling. 
+nmod(chuid, clabaireachta)
+~~~
 
+_Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ `I was talking to him about a job'
+
+~~~ sdparse
+Ba i dtaobh poist a bhí mé ag caint leis siúd \n Was in side of_a job that was I at talking with_him that.  
+nmod(taobh, poist)
+~~~
