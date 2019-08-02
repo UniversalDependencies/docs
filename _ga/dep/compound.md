@@ -19,14 +19,6 @@ compound(n-oifigí, poist)
 compound(n-oifigí, tuaithe)
 ~~~
 
-_roimh teacht na traenach_ 'before the <b>train</b>'s arrival'
-
-~~~ sdparse
-roimh teacht na traenach \n before arrival the train
-compound(teacht, traenach)
-~~~
-
-
 #### Titles:
 
 ~~~ sdparse
