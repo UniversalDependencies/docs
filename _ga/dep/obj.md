@@ -7,6 +7,7 @@ udver: '2'
 
 The `obj` label is used to mark the relationship between a verb and its direct object.
 
+
 ### Examples
 
 _Bhailigh siad eolas_ 'They collected <b>information</b>'
@@ -14,6 +15,15 @@ _Bhailigh siad eolas_ 'They collected <b>information</b>'
 ~~~ sdparse
 Bhailigh siad eolas \n Collected they information
 obj(Bhailigh, eolas)
+~~~
+
+The object of a verb is the second most core argument of a verb after the subject, even in case where the subject is implicit. 
+
+_Dhíreofaí <b>aird</b> ar dhuine ar leith i ngach seisiún._ 'Attention would be paid to one person in particular in each session'
+
+~~~ sdparse
+Dhíreofaí aird ar dhuine ar leith i ngach seisiún. \n Would_be_directed attention on a person aside in each session.
+obj(Dhíreofaí, aird)
 ~~~
 
 Note that the object of an infinitival phrase occurs before the infinitive form (Verbal Noun), despite Irish being a VSO language.
