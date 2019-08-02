@@ -5,9 +5,12 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.
+An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word. This includes adjectives which become adverbs when the particle 'go' is placed in front of the adjective i.e. 'go hiontach'.  
 
 ### Examples
+
+
+_<b>Averbs of place</b>_
 
 _Fuair mé fliú mór a bhí ag dul <b>thart</b>_ 'I caught a bad flu that was going <b>around</b>'
 
@@ -23,11 +26,23 @@ Chaithimid an oíche amuigh ar an fharraige \n 'Spent_we the night out on the se
 advmod(Chaithimid, amuigh)
 ~~~
 
+_<b>Adverbs of time</b>_
+
 _Níor tháinig sé go <b>fóill</b>_ 'He hasn't arrived <b>yet</b>'
 
 ~~~ sdparse
 Níor tháinig sé go fóill \n Not arrived he [] yet
 advmod(tháinig, fóill)
 ~~~
+
+_<b>Adverbs of manner</b>_
+
+ _D'éirigh <b>go hiontach</b> leis_
+
+~~~ sdparse
+ D'éirigh go hiontach leis. \n 'SHe succeeded very well'
+advmod(D'éirigh, hiontach)
+~~~
+
 
 
