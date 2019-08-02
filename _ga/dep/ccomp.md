@@ -23,3 +23,12 @@ Creidimidne , go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisi
 ccomp(Creidimidne, bhforbraíonn)
 ~~~
  
+_D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo._ 'Piaras Ó Dochartaigh admitted that the party was roo weak to correctly address the peace effort. 
+
+~~~ sdparse
+
+D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo /n
+Admitted Piaras  Ó Dochartaigh that was the party too weak to address about peace correctly the effort this. 
+
+ccomp(D'adhmaigh, raibh)
+~~~
