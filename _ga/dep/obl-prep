@@ -34,4 +34,13 @@ _Níl fhios <b>agam</b>_ `I don't know'
 ~~~ sdparse
 Níl fhios agam \n Is_not knowledge at_me
 obl:prep(Níl,agam)
-~~~
+~~~ 
+
+Note, the label is used for adpositional prepositions also. See below. 
+
+_Níl fhios <b>agam</b>_ `I don't know'
+
+~~~ sdparse
+Tháinig an féar glas ann. \n Came the grass green in_it. 
+obl:prep(Tháinig,ann)
+~~~ 
