@@ -22,16 +22,16 @@ fixed (de,bharr)
 ~~~
 
 ~~~ sdparse
-ar bith
+Ná bíodh cumha ar bith ort \n No be regret on world on_you
 fixed (ar, bith)
 ~~~
 
 ~~~ sdparse
-ó shin i leith
-fixed (ó, shin, i, leith)
+Tá dhá phort eile a bhailíodar seasca bliain ó shin \n Is two tune other that they collected sixty year from then
+fixed (ó, shin)
 ~~~
 
 ~~~ sdparse
-a thuilleadh
+Níor chorraigh a thuilleadh linn an tosta \n Did not move its more during of_the silence
 fixed (a, thuilleadh)
 ~~~
