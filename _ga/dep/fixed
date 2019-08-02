@@ -21,5 +21,17 @@ Is de bharr a chontúirt don neodracht \n is as a result of its risk to nature
 fixed (de,bharr)
 ~~~
 
+~~~ sdparse
+ar bith
+fixed (ar, bith)
+~~~
 
+~~~ sdparse
+ó shin i leith
+fixed (ó, shin, i, leith)
+~~~
 
+~~~ sdparse
+a thuilleadh
+fixed (a, thuilleadh)
+~~~
