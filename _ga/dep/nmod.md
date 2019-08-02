@@ -63,7 +63,7 @@ Mise agus mo chuid clabaireachta \n Myself and my part of_babbling.
 nmod(chuid, clabaireachta)
 ~~~
 
-_Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ `I was talking to him about a job'
+_Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him about a job'
 
 ~~~ sdparse
 Ba i dtaobh poist a bhí mé ag caint leis siúd \n Was in side of_a job that was I at talking with_him that.  
