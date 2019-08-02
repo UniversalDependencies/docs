@@ -75,16 +75,12 @@ quant(cheannaire, chéad)
 
 In genitive constructions, the article agrees with the noun which follows it:
 
-Scoil na gCailíní
-
 _Scoil <b>na</b> gCailíní_ '</b>Girls'</b> School'
 
 ~~~ sdparse
 an chéad cheannaire eile \n School of_the Girls'
 det(gCailíní, na)
 ~~~
-
-biaiste an tsamhraidh
 
 _biaiste <b>an</b> tsamhraidh_ 'season </b>of the</b> summer'
 
@@ -95,16 +91,12 @@ det(tsamhraidh, an)
 
 It must agree with the gender of the noun which follows it also:
 
-ar cheann an chalaidh
-
 _ar cheann <b>an</b> chalaidh_ 'at the head </b>of the</b> port'
 
 ~~~ sdparse
 ar cheann an chalaidh \n at the head of_the port
 det(chalaidh, an)
 ~~~
-
-ag tabhairt na difríochta faoi deara
 
 _ag tabhairt <b>na</b> difríochta faoi deara_ 'noticing </b>the</b> difference'
 
