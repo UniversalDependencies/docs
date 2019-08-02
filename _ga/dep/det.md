@@ -73,7 +73,7 @@ det(cheannaire, eile)
 quant(cheannaire, chéad)
 ~~~
 
-In genitive constructions, the article agrees with the noun which follows it:
+NOTE: The article modifies depending on the noun which follows it in genitive constructions:
 
 _Scoil <b>na</b> gCailíní_ '</b>Girls'</b> School'
 
