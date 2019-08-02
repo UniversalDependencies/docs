@@ -45,7 +45,7 @@ _Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí n
 
 
 ~~~ sdparse
-Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice \n
+Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice
 
 cc(agus)
 ~~~
