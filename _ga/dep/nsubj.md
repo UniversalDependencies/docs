@@ -5,7 +5,7 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-A nominal subject is a noun phrase which is the syntactic subject of a clause. 
+A nominal subject is a noun phrase which is the syntactic subject of a clause and which controls the verb contained within the clause. 
 
 ### Examples
 
