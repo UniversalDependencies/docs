@@ -30,7 +30,7 @@ Faigh tuilleadh eolais faoin taisteal a rinne Naomh Pádraig in Éirin \n Find m
 acl:relcl(taisteal, rinne)
 ~~~
 
-_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_ 'Loyalty to the church was used as an instrument to make Catholics and certain people convert to a different church from the one they were born in
+_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_ 'Loyalty to the Established Church was definitely used as a way of discriminating against Catholics and turning some people against the Church they were born into' 
 
   ~~~ sdparse
 Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh<\r> iad_
