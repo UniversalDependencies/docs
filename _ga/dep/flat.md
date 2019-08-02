@@ -21,4 +21,9 @@ Tá muintir Chorcaí an-mhíshásta le Fianna Fáil\n Be people Cork very-unhapp
 flat(Fianna,Fáil)
 ~~~ 
 
+_Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha <b>Cliath</b> Thiar Thuaidh.
 
+~~~ sdparse
+Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha <b>Cliath</b> Thiar Thuaidh  \n Stood her father as Socialist Independent in election of_the year 1969 in electoral area of Dublin South West
+flat(Átha,Cliath)
+~~~ 
