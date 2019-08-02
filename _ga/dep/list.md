@@ -18,4 +18,12 @@ list(príomhchineálacha,2))
 list(príomhchineálacha,3))
 ~~~
 
+_is féidir foinn pheinteatonacha (bunaithe ar chúig nóta: d, <b>r</b>, <b>m</b>, <b>s</b>, <b>l</b>) a léamh_ `it is possible to read pentatonic melodies (based on five note: d, <b>r</b>, <b>m</b>, <b>s</b>, <b>l</b>)
 
+~~~ sdparse
+is féidir foinn pheinteatonacha (bunaithe ar chúig nóta: d, <b>r</b>, <b>m</b>, <b>s</b>, <b>l</b>) a léamh_ \n is possible melodies pentatonic (based on five note: d, <b>r</b>, <b>m</b>, <b>s</b>, <b>l</b>) to reading
+list(r)
+list(m)
+list(s)
+list(l)
+~~~
