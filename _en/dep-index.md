@@ -13,9 +13,3 @@ The following table lists the 37 universal syntactic relations used in UD v2, bu
 
 {% include en-dep-table.html %}
 
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.en-dep | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
