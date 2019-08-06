@@ -18,8 +18,9 @@ nmod(pé, rud)
 ~~~
 
 _Cheannaigh sé leabhar áit a <b>bhí</b> sé ar fáil_ 'He bought a book wherever it <b>was</b> available' 
+
 ~~~ sdparse
-Cheannaigh sé leabhar áit a <b>bhí> sé ar fáil_ \n Bought he book place was available
+Cheannaigh sé leabhar áit a <b>bhí<\b> sé ar fáil \n Bought he book place was available
 acl:relcl(áit, bhí)
 ~~~
 
@@ -33,6 +34,6 @@ acl:relcl(taisteal, rinne)
 _Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_ 'Loyalty to the Established Church was definitely used as a way of discriminating against Catholics and turning some people against the Church they were born into' 
 
   ~~~ sdparse
-Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh<\r> iad_
+Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh<\r> iad \n Used loyalty for the Church Established as instrument with discriminating to do on Catholics agus with people certain turn against the Church in which born they
 acl:relcl(hEaglaise, rugadh)
 ~~~
