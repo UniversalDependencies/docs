@@ -34,6 +34,6 @@ acl:relcl(taisteal, rinne)
 _Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_  'Loyalty to the Established Church was definitely used as a way of discriminating against Catholics and turning some people against the Church they were <b>born</b> into' 
 
   ~~~ sdparse
-Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</r> iad \n Used loyalty for the Church Established as instrument with discriminating to do on Catholics agus with people certain turn against the Church in which born they
+Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad \n Used loyalty for the Church Established as instrument with discriminating to do on Catholics agus with people certain turn against the Church in which born they
 acl:relcl(hEaglaise, rugadh)
 ~~~
