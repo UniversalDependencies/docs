@@ -1,11 +1,9 @@
-
 ---
 layout: relation
 title: 'oblique'
 shortdef: 'oblique'
 udver: '2'
 ---
-
 
 
 The obl relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. 
