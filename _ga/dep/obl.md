@@ -20,7 +20,7 @@ If the noun is inflected as part of a Pronominal preposition, then use the label
 _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ 'The first part of the cartoon series was published in the <b>year</b> 1983'
 
 ~~~ sdparse
-Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983 \n Was-published the first part of-the series cartoon in-the year 1983
+Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983 \n Was-published the first part of-the series cartoon in-the year 1983
 obl(Foilsíodh, bhliain)
 case(bhliain, sa)
 ~~~
@@ -28,7 +28,7 @@ case(bhliain, sa)
 
 #### Arguments of Adjectives:
 
-_liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón gceanglas sin_ 'list of the three countries whose nationals will be free from that <b>requirement</b>'
+_liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón <b>gceanglas</b> sin_ 'list of the three countries whose nationals will be free from that <b>requirement</b>'
 
 ~~~ sdparse
 liosta na dtríú tíortha a mbeidh a náisiúnaigh saor ón gceanglas sin \n list the three countries that will-be their nationals free from requirement that
@@ -39,15 +39,10 @@ case(gceanglas, ón)
 
 #### Dative (verbal) arguments:
 
-_Má bhreathnaítear ar Ghaillimh_ 'If we look at Galway' (lit If Galway is looked at)
+_Má bhreathnaítear ar <b>Ghaillimh</b>_ 'If we look at <b>Galway</b>' (If Galway is looked at)
 
 ~~~ sdparse
 Má bhreathnaítear ar Ghaillimh \n If is-looked at Galway
 obl(bhreathnaítear, Ghaillimh)
 case(Ghaillimh, ar)
 ~~~ 
-
-
-
-
-
