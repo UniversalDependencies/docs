@@ -37,10 +37,10 @@ conj(ndéantús, coimeádán)
 
 If a sentence begins with a coordinating conjunction, there will be no preceeding 'conj', but the coordinating conjunction will still be labelled as a ‘cc’. 
 
-_Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice_
-'And it is said that cancer rates have increased a lot amongst lay people in Iraq.'
+_<b>Agus</b> deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice_
+'<b>And</b> it is said that cancer rates have increased a lot amongst lay people in Iraq.'
 
 ~~~ sdparse
 Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice . \n And it is said that cancer rates amongst laypeople in Iraq have increased hugely .
-cc(deirtear, agus)
+cc(deirtear, Agus)
 ~~~
