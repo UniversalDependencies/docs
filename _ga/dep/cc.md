@@ -25,7 +25,7 @@ _Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéan
 "Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers"
 
 ~~~ sdparse
-Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe . \n Gas REL is used in cans aerosol certain, in refrigerators and in making cups and containers plastic certain .
+Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus1 i ndéantús cupán agus2 coimeádán plaisteach áirithe . \n Gas REL is-used in cans aerosol certain, in refrigerators and in making cups and containers plastic certain .
 obl(úsáidtear, gcannaí)
 conj(gcannaí, gcuisneoirí)
 conj(gcannaí, ndéantús)
@@ -41,6 +41,6 @@ _<b>Agus</b> deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thu
 '<b>And</b> it is said that cancer rates have increased a lot amongst lay people in Iraq.'
 
 ~~~ sdparse
-Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice . \n And it is said that cancer rates amongst laypeople in Iraq have increased hugely .
+Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice . \n And it-is-said that cancer rates amongst laypeople in Iraq have increased hugely .
 cc(deirtear, Agus)
 ~~~
