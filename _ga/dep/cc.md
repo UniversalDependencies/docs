@@ -13,10 +13,9 @@ _caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais 
 'to establish a relationship between central banks <b>and</b> financial institutions in other countries'
 
 ~~~ sdparse
-caidreamh a bhunú le bainc cheannais agus le hinstitiúidí airgeadais i dtíortha eile \n 'relationship to establish with  banks central <b>and</b> with institutions financial in countries other'
-
-cc(hinstitiúidí,agus)
-conj(bainc,hinstitiúidí)
+caidreamh a bhunú le bainc cheannais agus le hinstitiúidí airgeadais i dtíortha eile . \n relationship to establish with  banks central <b>and</b> with institutions financial in countries other .
+cc(hinstitiúidí, agus)
+conj(bainc, hinstitiúidí)
 ~~~
 
 
@@ -26,16 +25,14 @@ _Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéan
 "Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers"
 
 ~~~ sdparse
-Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe \n Gas REL is used in cans aerosol certain, in refrigerators and in making cups and and containers plastic certain
-
+Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe . \n Gas REL is used in cans aerosol certain, in refrigerators and in making cups and and containers plastic certain .
 obl(úsáidtear, gcannaí)
 conj(gcannaí, gcuisneoirí)
 conj(gcannaí, ndéantús)
-cc(ndéantús,agus)
+cc(ndéantús, agus)
 conj(coimeádán, agus)
 conj(ndéantús, cupán)
 conj(ndéantús, coimeádán)
-
 ~~~
 
 If a sentence begins with a coordinating conjunction, there will be no preceeding 'conj', but the coordinating conjunction will still be labelled as a ‘cc’. 
@@ -43,11 +40,7 @@ If a sentence begins with a coordinating conjunction, there will be no preceedin
 _Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice_
 'And it is said that cancer rates have increased a lot amongst lay people in Iraq.'
 
-
 ~~~ sdparse
-Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice
-
-cc(agus)
+Agus deirtear go bhfuil rátaí ailse imithe go mór i méid i measc thuataí na hIaráice . \n And it is said that cancer rates amongst laypeople in Iraq have increased hugely .
+cc(deirtear, agus)
 ~~~
-
- 
