@@ -1,4 +1,4 @@
- ---
+---
 layout: relation
 title: 'cc'
 shortdef: 'coordinating conjunction'
