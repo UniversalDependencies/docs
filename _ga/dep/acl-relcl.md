@@ -24,16 +24,16 @@ Cheannaigh sé leabhar áit a bhí sé ar fáil \n Bought he book place was avai
 acl:relcl(áit, bhí)
 ~~~
 
-_Faigh tuilleadh eolais faoin taisteal a <b>rinne</b> Naomh Pádraig in Éirinn_ 'Find out more information about the journies <b>made</b> by Saint Patrick in Ireland'
+_Faigh tuilleadh eolais faoin taisteal a <b>rinne</b> Naomh Pádraig in Éirinn_  'Find out more information about the journies <b>made</b> by Saint Patrick in Ireland'
   
 ~~~ sdparse
 Faigh tuilleadh eolais faoin taisteal a rinne Naomh Pádraig in Éirin \n Find more information about journies made St. Patrick in Ireland
 acl:relcl(taisteal, rinne)
 ~~~
 
-_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_  'Loyalty to the Established Church was definitely used as a way of discriminating against Catholics and turning some people against the Church they were <b>born</b> into' 
+_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_  'Loyalty to the Established Church was definitely used as a way of discriminating against Catholics and turning certain people against the Church they were <b>born</b> into' 
 
 ~~~ sdparse
-Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar rugadh iad \n Used loyalty for the Church Established as instrument with discriminating to do on Catholics agus with people certain turn against the Church in which born they
+Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar rugadh iad \n Used loyalty for-the Church Established as instrument with discriminating to-do on Catholics and with people certain to-turn against the Church in-which were-born they
 acl:relcl(hEaglaise, rugadh)
 ~~~
