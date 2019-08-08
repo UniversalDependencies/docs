@@ -48,9 +48,10 @@ advmod(D'éirigh, hiontach)
 ~~~
 
 _<b>Interrogative adverbs</b>_
-_<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach?_ 'Where was the all the ither public and private media?'
+
+_<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach?_ '<b>Where</b> was all the other public and private main media outlets?'
 
 ~~~ sdparse
-Cá raibh na mórmheáin eile go léir idir phoiblí is phríobháideach? \n Where was the media other all-together both public and private
+Cá raibh na mórmheáin eile go léir idir phoiblí is phríobháideach? \n Where was the main-media other all-together both public and private
 advmod(raibh, cá)
 ~~~
