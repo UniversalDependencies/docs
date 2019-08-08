@@ -10,7 +10,7 @@ An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase (A
 ### Examples
 
 
-_<b>Averbs of place</b>_
+_<b>Averbs of direction</b>_
 
 _Fuair mé fliú mór a bhí ag dul <b>thart</b>_ 'I caught a bad flu that was going <b>around</b>'
 
@@ -19,10 +19,13 @@ Fuair mé fliú mór a bhí ag dul thart \n Caught I flu big [] was at going aro
 advmod(dul, thart)
 ~~~
 
+
+_<b>Averbs of place</b>_
+
 _Chaithimid an oíche <b>amuigh</b> ar an fharraige_ 'We spent the night <b>out</b> on the sea'
 
 ~~~ sdparse
-Chaithimid an oíche amuigh ar an fharraige \n 'Spent_we the night out on the sea'
+Chaithimid an oíche amuigh ar an fharraige \n 'Spent-we the night out on the sea'
 advmod(Chaithimid, amuigh)
 ~~~
 
@@ -40,9 +43,14 @@ _<b>Adverbs of manner</b>_
  _D'éirigh <b>go hiontach</b> leis_
 
 ~~~ sdparse
- D'éirigh go hiontach leis. \n 'SHe succeeded very well'
+D'éirigh go hiontach leis. \n 'SHe succeeded very well'
 advmod(D'éirigh, hiontach)
 ~~~
 
+_<b>Interrogative adverbs</b>_
+_<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach?_ 'Where was the all the ither public and private media?'
 
-
+~~~ sdparse
+Cá raibh na mórmheáin eile go léir idir phoiblí is phríobháideach? \n Where was the media other all-together both public and private
+advmod(raibh, cá)
+~~~
