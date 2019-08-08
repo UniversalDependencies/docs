@@ -53,5 +53,5 @@ _<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach
 
 ~~~ sdparse
 Cá raibh na mórmheáin eile go léir idir phoiblí is phríobháideach? \n Where was the main-media other all-together both public and private
-advmod(raibh, cá)
+advmod(raibh, Cá)
 ~~~
