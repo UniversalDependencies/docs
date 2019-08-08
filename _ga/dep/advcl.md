@@ -20,27 +20,34 @@ Nuair a bhí siad ag teacht ar ais, chonaic siad é \n When [] were they at comi
 advcl(chonaic, bhí)
 ~~~
 
+_Ach nuair a <b>bhíodar</b> ag dul aníos casadh mairnéalach leo_ `But when <b>they were</b> going down, they met sailors'
+
+~~~ sdparse
+Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when [] were-they at going down  were-met sailors with-them
+advcl(casadh, bhíodar)
+~~~
+
+The word 'agus', usually meaning 'and', can also introduce a subordinate clause and can function as a temporal adverb also. 
+
+Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. 'While I was saying 
+
+~~~ sdparse
+Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe.
+advcl(bhí, mé)
+~~~
+
 _<b>Conditional</b>_
 
 Má <b>imríonn</b> siad mar faoi is féidir leo, is dóigh liom go bhfillfidh siad ar Staid Semple 'If they <b>play</b> as well as they can, I believe they will return to Semple Stadium'
 
 ~~~ sdparse
-Má imríonn siad mar faoi is féidir leo , is dóigh liom go bhfillfidh siad ar Staid Semple \n If play they as about be ability with-them , be belief with-me that will_return they to Stadium Semple
+Má imríonn siad mar faoi is féidir leo , is dóigh liom go bhfillfidh siad ar Staid Semple \n If play they as about be ability with-them , be belief with-me that will-return they to Stadium Semple
 advcl(dóigh, imríonn)
 ~~~
-
-_<b>Consequence</b>_
 
 _Ní thugtar íocaíochtaí mura <b>n-iarrtar</b> iad_ `Payments are not given if they are not <b>asked</b> for'
 
 ~~~ sdparse
-Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not given payments if_not requested them
+Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not given payments if-not requested them
 advcl(thugtar, n-iarrtar)
-~~~
-
-_Ach nuair a <b>bhíodar</b> ag dul aníos casadh mairnéalach leo_ `But when <b>they were</b> going down, they met sailors'
-
-~~~ sdparse
-Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when [] were_they at going down  were_met sailors with_them
-advcl(casadh, bhíodar)
 ~~~
