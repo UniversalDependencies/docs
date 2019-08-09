@@ -14,14 +14,14 @@ udver: '2'
 ### Examples
 _agam_ "at me"; _leis_ "with him", _uainn_ "from us"
  
-_D'inis mé <b>di</b>_ `I told her'
+_D'inis mé <b>di</b>_ 'I told <b>her</b>'
  
 ~~~ sdparse
 D' inis mé di \n  [] told I to_her
 obl:prep(inis, di)
 ~~~
 
-_Is dóigh <b>leis</b> go bhfuil páirtíocht <b>acu</b> lena chéile_ `He believes that they have a partnership together'
+_Is dóigh <b>leis</b> go bhfuil páirtíocht <b>acu</b> lena chéile_ `<b>He</b> believes that <b>they</b> have a partnership together'
 
 ~~~ sdparse
 Is dóigh leis go bhfuil páirtíocht acu lena chéile \n Is belief with_him that is partnership at_them with each_other
@@ -29,14 +29,14 @@ obl:prep(dóigh, leis)
 obl:prep(bhfuil, acu)
 ~~~
 
-_Níl fhios <b>agam</b>_ `I don't know'
+_Níl fhios <b>agam</b>_ 'I don't know'
 
 ~~~ sdparse
 Níl fhios agam \n Is_not knowledge at_me
 obl:prep(Níl,agam)
 ~~~ 
 
-Note, the label is used for adpositional prepositions also. See below. 
+Note, the label `obl:prep` is also used for adpositional prepositions also. See below. 
 
 _Tháinig an féar glas <b>ann</b>_ 'The grass became green <b>there</b>'
 
