@@ -26,11 +26,11 @@ _<b>Och</b>, a chumannaigh!_ <b>Ah</b>, comrades!
 
 ~~~ sdparse
 Och , a chumannaigh! \n Ah , comrades!
-discourse (Och, chumannaigh)
+discourse(chumannaigh, Och)
 ~~~
 
 _'<b>Ó</b> glacaim pardún agat'_ <b>Oh</b>, I beg your pardon!
 ~~~ sdparse
-'Ó , glacaim pardún agat' \n Oh , I_take pardon at_you!
-discourse (Ó, glacaim)
+'Ó , glacaim pardún agat' \n Oh, I_take pardon at_you!
+discourse(glacaim, Ó)
 ~~~
