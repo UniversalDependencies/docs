@@ -23,7 +23,7 @@ Creidimidne , go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisi
 ccomp(Creidimidne, bhforbraíonn)
 ~~~
  
-_D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo._ 'Piaras Ó Dochartaigh admitted that the party was too weak to successfuly go for another seat.
+_D'admhaigh Piaras Ó Dochartaigh go <b>raibh</b> an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo._ 'Piaras Ó Dochartaigh admitted that the party <b>was</b> too weak to successfuly go for another seat.
 
 ~~~ sdparse
 D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo . /n Admitted Piaras Ó Dochartaigh that was the party too-weak to go for seat [] successfully the attempt this. 
