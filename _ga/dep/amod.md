@@ -10,7 +10,7 @@ An adjectival modifier of an NP is any adjectival phrase that serves to modify t
 ### Examples
 
 
-_Descriptive adjectives_
+_<b>Descriptive adjectives<b/>_
 
 _tíortha <b>forbatha</b>_  '<b>developed</b> countries'
 
@@ -23,11 +23,11 @@ _bláthanna <b>bán</b> nó <b>glas</b>_ 'white or green flowers'
 
 ~~~ sdparse
 bláthanna bán nó glas \n flowers white or green
-amod(bláthanna, bán glas)
+amod(bláthanna, bán, glas)
 ~~~
 
 
-_Indefinite adjectives_
+_<b>Indefinite adjectives</b>_
 
 _Baineann na prionsabail <b>chéanna</b> leis_ 'The <b>same</b> principles apply'
 
