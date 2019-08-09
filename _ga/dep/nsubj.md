@@ -9,7 +9,7 @@ A nominal subject is a noun phrase which is the syntactic subject of a clause an
 
 ### Examples
 
-_Rachaidh <b>sí</b> abhaile_ '<b>She</b> will go home'
+_Rachaidh <b>sí</b> abhaile_  '<b>She</b> will go home'
 
 ~~~ sdparse
 Rachaidh sí abhaile \n Will_go she home
@@ -20,7 +20,7 @@ In a copula construction, the `nsubj` is dependent on the predicate (in this cas
 
 ### Examples
 
-_Is réitigh sealadacha <b>iad</b>_ '<b>They</b> are temporary solutions'
+_Is réitigh sealadacha <b>iad</b>_  '<b>They</b> are temporary solutions'
 
 ~~~ sdparse
 Is réitigh sealadacha iad \n Is temporary solutions they
@@ -32,9 +32,9 @@ The head of an infinitival phrase can also be `nsubj` in a copula construction -
 
 ### Examples
 
-_Ar mhaith leat teach a <b>cheannach</b> ?_ 'Would you like to <b>buy</b> a house?'
+_Ar mhaith leat teach a <b>cheannach</b> ?_  'Would you like to <b>buy</b> a house?'
 
 ~~~ sdparse
-Ar mhaith leat teach a cheannach ? \n Is good with_you house to buy?
+Ar mhaith leat teach a cheannach ? \n Would_be good with_you house to buy?
 nsubj(mhaith, cheannach)
 ~~~
