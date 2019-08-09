@@ -71,7 +71,7 @@ Here we summarise the morphological features of Irish which can be categorised i
 <table>
 <tr>
 <td><strong>Lexical features</strong></td>
-<td colspan=2><strong>Inflectional features</strong></td></td>
+<td colspan=2><strong>Inflectional features</strong></td>
 </tr>
 </tr>
 <td></td>
