@@ -38,9 +38,9 @@ obl:prep(Níl,agam)
 
 Note, the label is used for adpositional prepositions also. See below. 
 
-_Níl fhios <b>agam</b>_ `I don't know'
+_Tháinig an féar glas <b>ann</b>_ 'The grass became green <b>there</b>'
 
 ~~~ sdparse
 Tháinig an féar glas ann. \n Came the grass green in_it. 
-obl:prep(Tháinig,ann)
+obl:prep(Tháinig, ann)
 ~~~ 
