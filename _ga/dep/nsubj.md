@@ -18,7 +18,7 @@ nsubj(Rachaidh, sí)
 
 In a copula construction, the `nsubj` is dependent on the predicate (in this case the noun _réitigh_ 'solution').
 
-### Examples
+
 
 _Is réitigh sealadacha <b>iad</b>_  '<b>They</b> are temporary solutions'
 
@@ -30,7 +30,7 @@ cop(réitigh, Is)
 
 The head of an infinitival phrase can also be `nsubj` in a copula construction -- in Irish, the infinitive verb form is a verbal noun.
 
-### Examples
+
 
 _Ar mhaith leat teach a <b>cheannach</b> ?_  'Would you like to <b>buy</b> a house?'
 
