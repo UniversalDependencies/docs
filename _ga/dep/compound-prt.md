@@ -17,8 +17,8 @@ compound:prt(leagtha, amach)
 ~~~
 <b>Here is a list of other examples:</b>
 
-_Cur i láthair = present
-Cur i gcoinne = objection
-Tabhair suas = Give up
-Éirí as = Withdrawal
-Dul as = fading_
+_Cur i láthair = present \n
+Cur i gcoinne = objection \n
+Tabhair suas = Give up \n
+Éirí as = Withdrawal \n
+Dul as = fading_ \n
