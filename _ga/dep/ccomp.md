@@ -9,6 +9,8 @@ The `ccomp` relation marks a clausal complement of a verb or adjective, that has
 
 ### Examples
 
+_Tá a fhios agam gur <b>imigh</b> mo mháthair 'I know that my mother <b>left</b>'
+
 ~~~ sdparse
 Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at-me that left my mother
 ccomp(Tá, imigh)
