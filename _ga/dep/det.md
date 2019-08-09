@@ -64,7 +64,7 @@ det(alt, an)
 det(alt, seo)
 ~~~
 
-_<b>an chéad</b> cheannaire <b>eile</b>_ '</b>the next</b> leader'
+_<b>an chéad</b> cheannaire <b>eile</b>_ '<b>the next</b> leader'
 
 ~~~ sdparse
 an chéad cheannaire eile \n the first leader other
@@ -84,7 +84,7 @@ an chéad cheannaire eile \n School of_the Girls'
 det(gCailíní, na)
 ~~~
 
-_biaiste <b>an</b> tsamhraidh_ 'summer <b>of</b> season'
+_biaiste <b>an</b> tsamhraidh_ '<b>summer</b> season'
 
 ~~~ sdparse
 biaiste an tsamhraidh \n season of_the summer
