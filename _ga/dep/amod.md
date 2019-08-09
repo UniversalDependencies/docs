@@ -10,7 +10,7 @@ An adjectival modifier of an NP is any adjectival phrase that serves to modify t
 ### Examples
 
 
-_<b>Descriptive adjectives<b/>_
+_<b>Descriptive adjectives</b>_
 
 _tíortha <b>forbatha</b>_  '<b>developed</b> countries'
 
