@@ -20,12 +20,35 @@ The Irish POS-tagger used in the Irish Dependency Treebank retains these as sing
 
 ### POS Tags
 
+<table>
+<tr><td><strong>Open class words</strong></td><td><strong>Closed class words</strong></td><td><strong>Other</strong></td></tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
+</tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td></tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td></tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
+">SCONJ</a></td><td></td></tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td><td></td></tr>
+<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td><td></td></tr>
+<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td><td></td></tr>
+<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td><td></td></tr>
+</table>
+
 The UD part-of-speech (POS) tagset is an extension of the The Google Universal POS tagset (Petrov
 et al., 2012) and contains 17 POS tags.
 The tags for the Irish Dependency Treebank is based on the PAROLE Morphosyntactic Tagset (ITÉ,
 2002).
 
-(Table to be inserted here) A mapping from this tagest to the UD tagset for use in the IUDT is given in: Lynn, Teresa and Jennifer Foster, _Universal Dependencies for Irish_ In Proceedings of the 2nd Celtic Language Technology Workshop 2016, Paris, France.
+A mapping from this tagest to the UD tagset for use in the IUDT is given in: Lynn, Teresa and Jennifer Foster, _Universal Dependencies for Irish_ In Proceedings of the 2nd Celtic Language Technology Workshop 2016, Paris, France.
 
 The following is a summary of some specific/ unintuitive choices made to map Irish data conform to Universal POS tags for UDv2:
 
