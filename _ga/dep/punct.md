@@ -10,13 +10,11 @@ This is used for any piece of punctuation in a clause, regardless of its functio
 
 ### Example
 
-_<b>`</b> Tá an méid sin suimiúil a d' inis tú dom <b>,</b> <b>'</b> a dúirt sé <b>.</b>_ `<b>`</b> What you have told me is interesting <b>,</b><b>'</b> he said to me<b>.</b>'
-
-
+_<b>'</b>Tá an méid sin suimiúil a d' inis tú dom <b>,</b> <b>'</b> a dúirt sé <b>.</b>_ <b>'</b>What you have told me is interesting <b>,</b><b>'</b> he said to me<b>.</b>'
 
 ~~~ sdparse
-` Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount DEM interesting [] [] told you to_me , ' [] said he .
-punct(dúirt, `)
+' Tá an méid sin suimiúil a d' inis tú dom , ' a dúirt sé . \n ' Is the amount DEM interesting [] [] told you to_me , ' [] said he .
+punct(dúirt, ')
 punct(dúirt, ,)
 punct(dúirt, ')
 punct(dúirt, .)
