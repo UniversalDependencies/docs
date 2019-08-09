@@ -14,16 +14,16 @@ The `flat` label is also used to attach what was previously labelled as `foreign
 
 ### Example
 
-_Tá muintir Chorcaí an-mhíshásta le Fianna <b>Fáil</b>_ `Cork people are very unhappy with Fianna <b>Fáil</b>'
+_Tá muintir Chorcaí an-mhíshásta le Fianna <b>Fáil</b>_ 'Cork people are very unhappy with Fianna <b>Fáil</b>'
 
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna Fáil\n Be people Cork very-unhappy with Fianna Fáil
-flat(Fianna,Fáil)
+Tá muintir Chorcaí an-mhíshásta le Fianna Fáil \n Are people of_Cork very-unhappy with Fianna Fáil
+flat(Fianna, Fáil)
 ~~~ 
 
-_Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha <b>Cliath</b> Thiar Thuaidh.
+_Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile <b>Átha Cliath</b> Thiar Thuaidh._ 'Her father stood as an Independent Socialist in the 1969 election in the Dublin <b>City</b> North West electoral area.'
 
 ~~~ sdparse
-Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha <b>Cliath</b> Thiar Thuaidh  \n Stood her father as Socialist Independent in election of_the year 1969 in electoral area of Dublin South West
-flat(Átha,Cliath)
+Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha Cliath Thiar Thuaidh  \n Stood her father as Socialist Independent in election of_the year 1969 in electoral area of Dublin West North
+flat(Baile, Átha, Cliath)
 ~~~ 
