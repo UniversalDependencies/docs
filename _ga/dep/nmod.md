@@ -51,7 +51,7 @@ Verbal nouns which act adjectivally and appear in the genitive are usually label
 
 ### Examples
 
-_Caladh mór <b>tráchtála</b> atá ann chomh maith._ 'It's also a large wave of traffic.'
+_Caladh mór <b>tráchtála</b> atá ann chomh maith._ 'It's also a large wave of <b>traffic</b>.'
 
 ~~~ sdparse
 Caladh mór tráchtála atá ann chomh maith \n Wave big of_traffic that_is there as well. 
