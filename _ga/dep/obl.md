@@ -20,7 +20,7 @@ If the noun is inflected as part of a Pronominal preposition, then use the label
 _Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983_  'The first part of the cartoon series was published in the <b>year</b> 1983'
 
 ~~~ sdparse
-Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983 \n Was-published the first part of-the series cartoon in-the year 1983
+Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983 \n Was-published the first part of-the series cartoon in-the year 1983
 obl(Foilsíodh, bhliain)
 case(bhliain, sa)
 ~~~
