@@ -45,7 +45,7 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 ---
 
-Inflection in Irish mainly occurs through suffixation, but initial mutation through lenition and eclipsis is also common. Lenition is a phonological change that softens or weakens the articulation of a consonant. The eclipsis process renders voiced segments as nasalised and voiceless segments as being voiced (Stenson, 1981, p.18). A prominent feature of Irish which influences inflection, is the existence of two sets of consonants,
+Here we summarise the morphological features of Irish which can be categorised into inflectional and lexical features. Inflection in Irish mainly occurs through suffixation, but initial mutation through lenition and eclipsis is also common. Lenition is a phonological change that softens or weakens the articulation of a consonant. The eclipsis process renders voiced segments as nasalised and voiceless segments as being voiced (Stenson, 1981, p.18). A prominent feature of Irish which influences inflection, is the existence of two sets of consonants,
 referred to as "broad" and "slender" consonants. Consonants can be slenderised by accompanying the consonant with a slender vowel, either _e_ or _i_. Broadening occurs through the use of broad vowels; _a_, _o_ or _u_. In general, there needs to be vowel harmony (slender or broad) between stem endings and the initial vowel in a suffix.
 
 * _buail_ "hit"  _ag bualadh na liathróide_ "hitting the ball" (Verbal Noun)
@@ -351,7 +351,7 @@ Both main clauses and subordinate clauses follow a VSO structure in Irish.
 * _Thug sí comhairle dom_ (lit. Gave she advice to-me) "She gave me advice"
 * _Dúirt siad gur chaith na daoine an airgead_ "They said that the people were seeking work"  (V S \[that V S O\])
 
-There are only a couple of exceptional circumstances under which an element can appear between the verb and the subject (see example below) and while various elements may occur between the subject and object, such as prepositional phrases and adverbs, the verb-subject-object order is strict (Mc-Closkey, 1983, pp. 10-11).
+There are only a couple of exceptional circumstances under which an element can appear between the verb and the subject (see example below) and while various elements may occur between the subject and object, such as prepositional phrases and adverbs, the verb-subject-object order is strict (Mc-Closkey, 1983, pp. 10-11).<table class="typeindex" border="1">
 
 * _Tá ar ndóigh daoine a chreideann..._ (V ADV SUBJ REL-CL) "There are of-course people who believe..."
 * _Thug sé dom inné é_ (V S PP ADV O) "He gave it to me yesterday"
@@ -367,7 +367,7 @@ A nominal subject ('nsubj') is a noun phrase in the nominative case, without pre
 
 An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
 
-
+<table class="typeindex" border="1">
 
 A finite subordinate clause may serve as the subject and is labeled 'csubj:cop'.
 
@@ -386,7 +386,7 @@ There are idiomatic phrases in which translations would suggest that the Irish s
 For example:
 * _Is maith liom tae_ "I like tea" (lit. tea is good with me)
 
-
+<table class="typeindex" border="1">
 There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:pass' are not used in the Irish treebank. What often translates into English as passive is the automonous verb form. These verbs (labelled with the feature 'Voice=Auto' (See [Voice]()) have an "understood"/implicit subject and are usually followed directly by the object.
 * _Foilsíodh an chéad chuid den sraith cartún_ "The first cartoon series was published" (lit. somebody published the first series of the cartoon)
 
