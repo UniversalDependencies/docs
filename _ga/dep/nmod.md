@@ -25,9 +25,9 @@ nmod(obair,réimse)
 case(réimse, le)
 ~~~
 
-
-
 It is also used for attaching noun phrases, such as headings, to clauses:
+
+### Examples
 
 _<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ `CENTRE <b>PROJECT</b> - To provide information on employment opportunities with FÁS.'
 
@@ -38,7 +38,9 @@ nmod(Eolas, TOGRA)
 
 It is also used to label the attachment of _augment pronouns_ to their nominal head:
 
-_Comharsain aoibhne ab <b>ea</b> iad_ `They were lovely neighbours'
+### Examples
+
+_Comharsain aoibhne ab <b>ea</b> iad_ `They <b>were</b> lovely neighbours'
 
 ~~~ sdparse
 Comharsain aoibhne ab ea iad \n Neighbours lovely were they them
@@ -47,7 +49,9 @@ nmod(iad, ea)
 
 Verbal nouns which act adjectivally and appear in the genitive are usually labelled as `nmod`. 
 
-_Caladh mór <b>tráchtála</b> atá ann chomh maith._ `It's a large wave of traffic as well.'
+### Examples
+
+_Caladh mór <b>tráchtála</b> atá ann chomh maith._ 'It's also a large wave of traffic.'
 
 ~~~ sdparse
 Caladh mór tráchtála atá ann chomh maith \n Wave big of_traffic that_is there as well. 
@@ -56,14 +60,16 @@ nmod(caladh, tráchtála)
 
 Two nouns coming together also come under this dependency label: 
 
-_Mise agus mo chuid <b>clabaireachta</b>._ `Me and my babbling'
+### Examples
+
+_Mise agus mo chuid <b>clabaireachta</b>._ 'Me and my <b>babbling</b>'
 
 ~~~ sdparse
 Mise agus mo chuid clabaireachta \n Myself and my part of_babbling. 
 nmod(chuid, clabaireachta)
 ~~~
 
-_Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him about a job'
+_Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him about a <b>job</b>'
 
 ~~~ sdparse
 Ba i dtaobh poist a bhí mé ag caint leis siúd \n Was in side of_a job that was I at talking with_him that.  
