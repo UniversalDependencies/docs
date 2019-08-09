@@ -23,7 +23,8 @@ _bláthanna <b>bán</b> nó <b>glas</b>_ 'white or green flowers'
 
 ~~~ sdparse
 bláthanna bán nó glas \n flowers white or green
-amod(bláthanna, bán, glas)
+amod(bláthanna, bán)
+amod(bláthanna, glas)
 ~~~
 
 
