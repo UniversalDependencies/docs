@@ -9,7 +9,7 @@ The `ccomp` relation marks a clausal complement of a verb or adjective, that has
 
 ### Examples
 
-_Tá a fhios agam gur <b>imigh</b> mo mháthair 'I know that my mother <b>left</b>'
+_Tá a fhios agam gur <b>imigh</b> mo mháthair 'I know that my mother <b>left</b>'_
 
 ~~~ sdparse
 Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at-me that left my mother
@@ -26,6 +26,6 @@ ccomp(Creidimidne, bhforbraíonn)
 _D'admhaigh Piaras Ó Dochartaigh go <b>raibh</b> an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo._ 'Piaras Ó Dochartaigh admitted that the party <b>was</b> too weak to successfuly go for another seat.
 
 ~~~ sdparse
-D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo . /n Admitted Piaras Ó Dochartaigh that was the party too-weak to go for seat [] successfully the attempt this. 
-ccomp(D'adhmaigh, raibh)
+D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo . \n Admitted Piaras Ó Dochartaigh that was the party too-weak to go for seat [] successfully the attempt this . 
+ccomp(D'admhaigh, raibh)
 ~~~
