@@ -16,7 +16,7 @@ Uaisle saibhre de chuid na Róimhe a bhí ina magistri tráth a bhíodh ann. \n 
 obl:tmod(bhí, tráth)
 ~~~ 
 
-_Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. 'Michael D. Higgins was the contributor to the department in 1992_
+_Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa <b>bhliain</b> 1992. 'Michael D. Higgins was the contributor to the department in <b>1992</b>_
 
 ~~~ sdparse
 Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n 
