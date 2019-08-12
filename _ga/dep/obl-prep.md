@@ -41,6 +41,6 @@ Note, the label `obl:prep` is also used for adpositional prepositions also. See 
 _Tháinig an féar glas <b>ann</b>_ 'The grass became green <b>there</b>'
 
 ~~~ sdparse
-Tháinig an féar glas ann. \n Came the grass green in_it. 
+Tháinig an féar glas ann . \n Came the grass green in_it . 
 obl:prep(Tháinig, ann)
 ~~~ 
