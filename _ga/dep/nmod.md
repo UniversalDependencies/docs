@@ -54,8 +54,8 @@ Verbal nouns which act adjectivally and appear in the genitive are usually label
 _Caladh mór <b>tráchtála</b> atá ann chomh maith._ 'It's also a large wave of <b>traffic</b>.'
 
 ~~~ sdparse
-Caladh mór tráchtála atá ann chomh maith \n Wave big of_traffic that_is there as well. 
-nmod(caladh, tráchtála)
+Caladh mór tráchtála atá ann chomh maith \n Wave big of_traffic that_is there as well 
+nmod(Caladh, tráchtála)
 ~~~
 
 Two nouns coming together also come under this dependency label: 
@@ -73,5 +73,5 @@ _Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him
 
 ~~~ sdparse
 Ba i dtaobh poist a bhí mé ag caint leis siúd \n Was in side of_a job that was I at talking with_him that.  
-nmod(taobh, poist)
+nmod(dtaobh, poist)
 ~~~
