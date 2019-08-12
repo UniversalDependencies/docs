@@ -73,7 +73,7 @@ Here we summarise the morphological features of Irish which can be categorised i
 <td><strong>Lexical features</strong></td>
 <td colspan=2><strong>Inflectional features</strong></td>
 </tr>
-</tr>
+<tr>
 <td></td>
 <td><i>Nominal</i></td><td><i>Verbal</i></td>
 </tr>
@@ -116,7 +116,6 @@ Here we summarise the morphological features of Irish which can be categorised i
 <td></td>
 <td></td>
 </tr>
-<tr>
 <tr>
 <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Reflex.html">Reflex</a></td>
 <td></td>
