@@ -80,7 +80,7 @@ NOTE: The article modifies depending on the noun which follows it in genitive co
 _Scoil <b>na</b> gCailíní_ '<b>Girls'</b> School'
 
 ~~~ sdparse
-an chéad cheannaire eile \n School of_the Girls'
+Scoil na gCailíní \n School of_the Girls'
 det(gCailíní, na)
 ~~~
 
