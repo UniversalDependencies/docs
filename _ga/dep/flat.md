@@ -25,6 +25,6 @@ _Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i d
 
 ~~~ sdparse
 Sheas a hathair mar Shóisialaí Neamhspleách i dtoghachán na bliana 1969 i dtoghcheantar Bhaile Átha Cliath Thiar Thuaidh  \n Stood her father as Socialist Independent in election of_the year 1969 in electoral area of Dublin West North
-flat(Baile, Átha)
-flat(Baile, Cliath)
+flat(Bhaile, Átha)
+flat(Bhaile, Cliath)
 ~~~ 
