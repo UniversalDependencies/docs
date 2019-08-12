@@ -68,8 +68,6 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 Here we summarise the morphological features of Irish which can be categorised into inflectional and lexical features.
 
-## TABLE OF FEATURES 2
-
 <table>
 <tr>
 <td><strong>Lexical features</strong></td>
