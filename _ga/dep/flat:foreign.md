@@ -9,7 +9,7 @@ This label is used for foreign words in a linear sequence or when foreign text i
 
 ###Example
 
-_Ó Riain faoi ina leabhar The <b>Pope's Green Island<\b> 'Ó Riain in his book The <b>Pope's Green Island<\b>'_
+_Ó Riain faoi ina leabhar The <b>Pope's Green Island</b> 'Ó Riain in his book The <b>Pope's Green Island</b>'_
 
 ~~~ sdparse
 Ó Riain faoi ina leabhar The Pope's Green Island \n Ó Riain about in-his book
