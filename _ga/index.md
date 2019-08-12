@@ -68,7 +68,7 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 Here we summarise the morphological features of Irish which can be categorised into inflectional and lexical features.
 
-## TABLE OF FEATURES
+## TABLE OF FEATURES 2
 
 <table>
 <tr>
@@ -448,7 +448,6 @@ A nominal subject ('nsubj') is a noun phrase in the nominative case, without pre
 
 An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
 
-<table class="typeindex" border="1">
 
 A finite subordinate clause may serve as the subject and is labeled 'csubj:cop'.
 
@@ -467,7 +466,7 @@ There are idiomatic phrases in which translations would suggest that the Irish s
 For example:
 * _Is maith liom tae_ "I like tea" (lit. tea is good with me)
 
-<table class="typeindex" border="1">
+
 There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:pass' are not used in the Irish treebank. What often translates into English as passive is the automonous verb form. These verbs (labelled with the feature 'Voice=Auto' (See [Voice]()) have an "understood"/implicit subject and are usually followed directly by the object.
 * _Foilsíodh an chéad chuid den sraith cartún_ "The first cartoon series was published" (lit. somebody published the first series of the cartoon)
 
