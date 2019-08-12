@@ -25,12 +25,12 @@ discourse(tá, Leoga)
 _<b>Och</b>, a chumannaigh!_ '<b>Ah</b>, comrades!'
 
 ~~~ sdparse
-Och , a chumannaigh! \n Ah , comrades!
+Och , a chumannaigh ! \n Ah , my comrades !
 discourse(chumannaigh, Och)
 ~~~
 
 _<b>Ó</b> glacaim pardún agat_ '<b>Oh</b>, I beg your pardon!'
 ~~~ sdparse
-'Ó , glacaim pardún agat' \n Oh, I_take pardon at_you!
+'Ó , glacaim pardún agat' \n Oh , I_take pardon at_you!
 discourse(glacaim, Ó)
 ~~~
