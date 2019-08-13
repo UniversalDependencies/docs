@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'flat:name'
-shortdef: 'flat:name'
+shortdef: 'flat name'
 udver: '2'
 ---
 
@@ -13,7 +13,7 @@ _Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán <b>Ó Gallch�
 ~~~ sdparse
 Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán Ó Gallchóir \n Is desire with-us our thanks to put in knowledge [] particular to John PART Gallagher
 name(Sheán, Ó)
-name(Sheán, Gallchóir)
+name(Sheán, GallcUpdated shortdefhóir)
 ~~~ 
 
 _Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín <b>Ní Bheaglaoich</b>_
