@@ -18,4 +18,4 @@ compound:prt(leagtha, amach)
 ~~~
 ### <b>Here is a list of other examples:</b>
 
-_Cur i láthair = present \n Cur i gcoinne = objection \n Tabhair suas = Give up \n Éirí as = Withdrawal \n Dul as = fading_ 
+_Cur i láthair = to present \n Cur i gcoinne = to object \n Tabhair suas = to give up \n Éirí as = to withdraw \n Dul as = to fade_ 
