@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'flat:name'
-shortdef: 'name'
+shortdef: 'flat:name'
 udver: '2'
 ---
 
