@@ -9,10 +9,10 @@ This label is used when a nominal phrase has a temporal aspect and is acting adv
 
 ### Examples
 
-_Uaisle saibhre de chuid na Róimhe a bhí ina magistri <b>tráth</b> a bhíodh ann. 'Rich Roman noble that was in charge <b>once</b>_
+_Uaisle saibhre de chuid na Róimhe a bhí ina magistri <b>tráth</b> a bhíodh ann. 'Magistri were wealthy Roman nobles <b>once</b>_
 
 ~~~ sdparse
-Uaisle saibhre de chuid na Róimhe a bhí ina magistri tráth a bhíodh ann. \n Noble rich of the [] Rome REL that was in-his master
+Uaisle saibhre de chuid na Róimhe a bhí ina magistri tráth a bhíodh ann. \n Noble rich of the [] Roman REL that was in-their magistri
 obl:tmod(bhí, tráth)
 ~~~ 
 
