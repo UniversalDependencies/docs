@@ -470,7 +470,7 @@ There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:
 
 
 
-Objects in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
+Objects '[obj]()' in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
 
 There are no indirect objects in Irish.
 
