@@ -2,7 +2,7 @@
 layout: relation
 title: 'flat'
 redirect_from: "ga/dep/name.html"
-shortdef: 'name'
+shortdef: 'flat'
 udver: '2'
 ---
 
