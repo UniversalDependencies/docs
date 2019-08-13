@@ -14,11 +14,8 @@ _Na sonraí atá leagtha <b>amach</b> in Airteagal J_  'The details that are lai
 ~~~ sdparse
 Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
-~~~
-<b>Here is a list of other examples:</b>
 
-_Cur i láthair = present \n
-Cur i gcoinne = objection \n
-Tabhair suas = Give up \n
-Éirí as = Withdrawal \n
-Dul as = fading_ \n
+~~~
+### <b>Here is a list of other examples:</b>
+
+_Cur i láthair = present \n Cur i gcoinne = objection \n Tabhair suas = Give up \n Éirí as = Withdrawal \n Dul as = fading_ 
