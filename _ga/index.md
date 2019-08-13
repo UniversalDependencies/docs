@@ -442,18 +442,18 @@ This is explained in more detail in [cop]().
 
 ###  Core Arguments, Oblique Arguments and Adjuncts
 
-A nominal subject ([nsubj]() is a noun phrase in the nominative case, without preposition.
+A nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
 
-An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
+An infinitive verb may serve as the subject and is labeled as clausal subject, '[csubj]()'. On the other hand, verbal nouns as subjects are just nsubj.
 
 
-A finite subordinate clause may serve as the subject and is labeled 'csubj:cop'.
+A finite subordinate clause may serve as the subject and is labeled '[csubj:cop]()'.
 
 'csubj:cop' is used when the clause is a subject of a copular phrase. These are copular constructions that follow the Copula-Predicate-Subject order.
 * _Ní hamháin nach bhfaca sé aon rogha eile áfach_ "it wasn't just that he didn't see any other option however"
 
 
-On the other hand, 'csubj:cleft' is used when the clause is the subject of a clefted sentence (which also follow the Copula-Predicate-Subject order).
+On the other hand, '[csubj:cleft]()' is used when the clause is the subject of a clefted sentence (which also follow the Copula-Predicate-Subject order).
 * _Is leabhar a thug sí dó_ "It's a book she gave him"
 
 
@@ -475,24 +475,24 @@ Objects in Irish may be bare noun phrases in common form (NomAcc)or prepositiona
 There are no indirect objects in Irish.
 
 
-Oblique 'obl'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
+Oblique '[obl]()'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
 
 
 The dative alternation where the prepositional construction gets a similar analysis to the double object construction
 * _Thug sé litir don fhear_ "He gave a letter to the man"
 
-Nouns can be objects of clausal complements, which are labeled xcomp.
+Nouns can be objects of clausal complements, which are labeled [xcomp]().
 
 
 
-If a verb subcategorizes for two core objects, one of them accusative (or ccomp) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
+If a verb subcategorizes for two core objects, one of them accusative (or [ccomp]()) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
 
 
 Oblique agents of verbal adjectives are labelled as 'obl'
 * _go bhfuil dul chun cinn iontach déanta ag foireann shinsir..._ "that the senior team have made great progress..."  (lit. that great progress has been made by the senior team)
 
 
-All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate) are adjuncts ('nmod').
+All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate) are adjuncts ('[nmod]()').
 * _as gach ceann de na béilí seo_ "from each one of these meals"
 
 
