@@ -8,8 +8,8 @@ udver: '2'
 The `fixed` multi-word expression relation is one of the relations for compounding and it is intended mostly for function words.
 The first token is the head of a fixed unit - with right branching attachments from the head to each element of the MWE.
 
-Note that in Irish, `flat` and `flat-name` are used for nominal compounds - organisations, people etc. Regular noun compounds are labelled `compound`.
-`compound:prt` is used for particle verbs e.g. 'éirí as'
+Note that in Irish, [flat](https://universaldependencies.org/ga/dep/flat.html), [flat:name](https://universaldependencies.org/ga/dep/flat:name.html) and [flat:foreign](https://universaldependencies.org/ga/dep/flat:foreign.html) are used for nominal compounds - organisations, people etc. Regular noun compounds are labelled [compound](https://universaldependencies.org/ga/dep/compound.html).
+[compound:prt](https://universaldependencies.org/ga/dep/compound-prt.html) is used for particle verbs e.g. 'éirí as'.
 
 The other multiword units in Irish that are labelled as fixed are as follows:
 
