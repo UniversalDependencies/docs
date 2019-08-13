@@ -7,7 +7,7 @@ udver: '2'
 
 The case relation is used for most prepositions in Irish. Prepositions are treated as dependents of the noun they introduce in an “extended nominal projection”. Thus, contrary to SD, UD abandons treating a preposition as a mediator between a modified word and its object. The case relation aims at providing a uniform analysis of prepositions and case in morphologically rich languages.
 
-See [nmod:pred]() for labelling of prepositional pronouns, and [xcomp:pred]() for prepositional predicates.
+See [obl:pred]() for labelling of prepositional pronouns, and [xcomp:pred]() for prepositional predicates.
 
 
 Prepositions have many functions in Irish.
