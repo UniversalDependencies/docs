@@ -442,7 +442,7 @@ This is explained in more detail in [cop]().
 
 ###  Core Arguments, Oblique Arguments and Adjuncts
 
-A nominal subject (<a href= https://universaldependencies.org/ga/dep/nsubj.html>'<nsubj>) is a noun phrase in the nominative case, without preposition.
+A nominal subject (<a href= https://universaldependencies.org/ga/dep/nsubj.html'> <nsubj>) is a noun phrase in the nominative case, without preposition.
 
 An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
 
