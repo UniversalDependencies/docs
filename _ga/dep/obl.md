@@ -21,7 +21,7 @@ _Foilsíodh an chéad chuid den sraith cartún sa <b>bhliain</b> 1983_  'The fir
 
 ~~~ sdparse
 Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983 \n Was-published the first part of-the series cartoon in-the year 1983
-obl(Foilsíodh, bhliain)
+obl:tmod(Foilsíodh, bhliain)
 case(bhliain, sa)
 ~~~
 
