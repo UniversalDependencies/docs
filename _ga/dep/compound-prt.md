@@ -15,13 +15,12 @@ _Na sonraí atá leagtha <b>amach</b> in Airteagal J_  'The details that are lai
 Na sonraí atá leagtha amach in Airteagal J \n The details that are laid out in Article J.
 compound:prt(leagtha, amach)
 
-~~~
-### <b>Here is a list of other examples:</b>
+~~~ 
 
 <html>
 <body>
 
-<h2>An ordered HTML list</h2>
+<h2><b>Here is a list of other examples:</b></h2>
 
 <ol>
   <li>Cur i láthair = to present</li>
