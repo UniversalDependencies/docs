@@ -18,4 +18,19 @@ compound:prt(leagtha, amach)
 ~~~
 ### <b>Here is a list of other examples:</b>
 
-_Cur i láthair = to present \n Cur i gcoinne = to object \n Tabhair suas = to give up \n Éirí as = to withdraw \n Dul as = to fade_ 
+<html>
+<body>
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>Cur i láthair = to present</li>
+  <li>Cur i gcoinne = to object</li>
+  <li>Tabhair suas = to give up</li>
+  <li>Éirí as = to withdraw</li>
+  <li>Dul as = to fade</li>
+</ol>  
+
+</body>
+</html>
+
