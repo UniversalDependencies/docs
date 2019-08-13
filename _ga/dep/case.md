@@ -65,12 +65,12 @@ Oblique arguments are also labelled `case`.
 _Tá muintir Chorcaí an-mhíshásta <b>le</b> Fianna Fáil_ 'The people of Cork are very unhappy with Fianna Fáil'
 
 ~~~ sdparse
-Tá muintir Chorcaí an-mhíshásta le Fianna_Fáil \n Be people Cork very_unhappy with Fianna_Fáil
+Tá muintir Chorcaí an-mhíshásta le Fianna Fáil \n Be people Cork very-unhappy with Fianna-Fáil
 nsubj(Tá, muintir)
 compound(muintir, Chorcaí)
 xcomp:pred(Tá, an-mhíshásta)
-nmod(Tá, Fianna_Fáil)
-case(Fianna_Fáil, le)
+nmod(Tá, Fianna Fáil)
+case(Fianna Fáil, le)
 ~~~
 
 
