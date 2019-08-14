@@ -134,9 +134,9 @@ obj(ⲙⲉϣⲉ,ⲛⲓⲙ)
 
 ~~~
 
-If the construction is oblique it can only be analyzed as `advcl`:
+The reason for not treating this as a fixed expression is that the object can have dependents, as in the following example (if the construction is oblique it can only be analyzed as `advcl`):
 
-~~~
+~~~ sdparse
 ⲃⲱⲕ/VERB ϣⲁ/ADP ⲙⲉϣⲉ/VERB ⲛⲓⲙ/PRON ⲛ/ADP ⲁⲣⲭⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ/NOUN \n go to some archmandrite
 
 advcl(ⲃⲱⲕ,ⲙⲉϣⲉ)
