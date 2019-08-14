@@ -23,7 +23,7 @@ To make the annotation parallel across languages, it should be now tagged `PRON`
 - personal pronouns: _ես, դու, նա, մենք, դուք, նրանք&nbsp;_ “I, you, he, she, it, we, you, they”
 - possessive pronouns: _իմը, քոնը, նրանը, մերը, ձերը, նրանցը&nbsp;_ “mine, yours, his/hers/its, ours, yours, theirs”
 - demonstrative pronouns: _սա, դա, նա&nbsp;_ “this, that, that”
-- reflexive pronouns: _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
+- reflexive pronouns: _իր, իրեն, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
 -	reciprocal pronouns:  _մեկմեկու (մեկմեկի), միմյանց, իրար&nbsp;_ “one another, each other, each other”
 - interrogative pronouns: _ո՞վ, ի՞նչ&nbsp;_ “who, what” as in _<b>Ի՞նչ</b> ես կարծում։&nbsp;_ <b>“What</b> do you think?”
 - relative pronouns: _ով, ինչ&nbsp;_ “who, what” as in _Արա, <b>ինչ</b> ուզում ես։&nbsp;_ “Do <b>whatever</b> you like.”
