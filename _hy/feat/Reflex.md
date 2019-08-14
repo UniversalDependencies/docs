@@ -29,5 +29,5 @@ column. (Which means that empty value has the `No` meaning.)
 
 #### Examples
 
-* reflexive personal pronouns: _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց_ (occur in various cases but not in nominative and distinguish [Number]())
+* reflexive personal pronouns: _իր, իրեն, իրենց_ (occur in various cases but not in nominative and distinguish [Number]())
 * reflexive possessive determiners: _իր, իրենց_
