@@ -109,7 +109,7 @@ mark(ⲏⲣⲡ,ϩⲱⲥ)
 
 ## ⲁϩⲣⲟ as the source of a clausal complement (ccomp)
 
-The interrogative pronoun ⲁϩⲣⲟ 'why' can be the source of a clausal complement with 'ccomp' pointing to the subordinate clause predicate
+The interrogative pronoun ⲁϩⲣⲟ 'why' can be the source of a clausal complement with `ccomp` pointing to the subordinate clause predicate
 
 Example from Corinthians 4:7:
 
@@ -120,4 +120,28 @@ ccomp(ⲁϩⲣⲟ, ϣⲟⲩϣⲟⲩ)
 advcl(ϣⲟⲩϣⲟⲩ, ϫⲓ)
 nsubj(ⲁϩⲣⲟ,ⲕ)
 
+~~~
+
+## ⲙⲉϣⲉ ⲛⲓⲙ 'someone, you don't know who'
+
+The rare irregular fossilized negative verb ⲙⲉϣⲉ can appear in a construction ⲙⲉϣⲉ ⲛⲓⲙ meaning 'someone', but literally composed of '(you) don't know who'. The UD analysis of this construction treats the interrogative ⲛⲓⲙ as `obj`, meaning that the entire complex is treated as clausal. This can be a subject clause:
+
+~~~ sdparse
+ⲙⲉϣⲉ/VERB ⲛⲓⲙ/PRON ⲛⲏⲩ/VERB ϣⲁⲣⲟ/ADP ⲕ/PRON \n someone is coming to you (lit. 'don't-know-who is coming to you')
+
+csubj(ⲛⲏⲩ,ⲙⲉϣⲉ)
+obj(ⲙⲉϣⲉ,ⲛⲓⲙ)
+
+~~~
+
+If the construction is oblique it can only be analyzed as `advcl`:
+
+~~~
+ⲃⲱⲕ/VERB ϣⲁ/ADP ⲙⲉϣⲉ/VERB ⲛⲓⲙ/PRON ⲛ/ADP ⲁⲣⲭⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ/NOUN \n go to some archmandrite
+
+advcl(ⲃⲱⲕ,ⲙⲉϣⲉ)
+mark(ⲙⲉϣⲉ,ϣⲁ)
+obj(ⲙⲉϣⲉ,ⲛⲓⲙ)
+nmod(ⲛⲓⲙ,ⲁⲣⲭⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ)
+case(ⲁⲣⲭⲓⲙⲁⲛⲇⲣⲓⲧⲏⲥ,ⲛ)
 ~~~
