@@ -60,7 +60,7 @@ obl(ⲙⲛ, ⲕ)
 case(ⲕ, ⲛⲃⲗⲁ)
 ~~~
 
-The analysis of the presentative particle ⲉⲓⲥ ('behold', 'voila') is different (see [Specific Constructiions](https://universaldependencies.org/cop/specific-syntax.html)):
+The analysis of the presentative particle ⲉⲓⲥ ('behold', 'voila') is different (see [Specific Constructions](https://universaldependencies.org/cop/specific-syntax.html)):
 
 ~~~ sdparse
 ⲉⲓⲥ/PART ⲟⲩ/DET ⲥⲃⲱ/N ⲛ/ADP ⲃⲣⲣⲉ/N \n Behold, a new teaching
