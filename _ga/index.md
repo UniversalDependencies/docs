@@ -430,7 +430,7 @@ Both main clauses and subordinate clauses follow a VSO structure in Irish.
 * _Thug sí comhairle dom_ (lit. Gave she advice to-me) "She gave me advice"
 * _Dúirt siad gur chaith na daoine an airgead_ "They said that the people were seeking work"  (V S \[that V S O\])
 
-There are only a couple of exceptional circumstances under which an element can appear between the verb and the subject (see example below) and while various elements may occur between the subject and object, such as prepositional phrases and adverbs, the verb-subject-object order is strict (Mc-Closkey, 1983, pp. 10-11).<table class="typeindex" border="1">
+There are only a couple of exceptional circumstances under which an element can appear between the verb and the subject (see example below) and while various elements may occur between the subject and object, such as prepositional phrases and adverbs, the verb-subject-object order is strict (Mc-Closkey, 1983, pp. 10-11).
 
 * _Tá ar ndóigh daoine a chreideann..._ (V ADV SUBJ REL-CL) "There are of-course people who believe..."
 * _Thug sé dom inné é_ (V S PP ADV O) "He gave it to me yesterday"
