@@ -102,7 +102,7 @@ Here we summarise the morphological features of Irish which can be categorised i
   <tr>
     <td>
       <table class="category">
-        <tr><td><strong>Lexical features</strong></td></tr>
+        <tr><td><strong>Lexical features</strong></td>
          <tr>
           <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html">Abbr</a></td>
         </tr>
