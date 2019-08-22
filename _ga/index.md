@@ -20,27 +20,57 @@ The Irish POS-tagger used in the Irish Dependency Treebank retains these as sing
 
 ### POS Tags
 
-<table>
-<tr><td><strong>Open class words</strong></td><td><strong>Closed class words</strong></td><td><strong>Other</strong></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
-</tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
-">SCONJ</a></td><td></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td><td></td></tr>
-<tr><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td><td></td></tr>
-<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td><td></td></tr>
-<tr><td></td><td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td><td></td></tr>
+<table class="typeindex">
+  <thead>
+    <tr>
+      <th>Open class words</th>
+      <th>Closed class words</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
+">SCONJ</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
 
 The UD part-of-speech (POS) tagset is an extension of the The Google Universal POS tagset (Petrov
