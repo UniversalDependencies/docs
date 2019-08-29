@@ -17,9 +17,10 @@ grammatical distinctions not carried by the lexical verb.
 
 Armenian auxiliary verbs can be divided into:
 
-- tense auxiliaries, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
-- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
+- tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
+- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
 - voice auxiliary, used to form periphrastic causative represented by _տալ&nbsp;_ “cause / make someone to perform action”.
+- voice auxiliary, used to form periphrastic necessitative mood by _<b>պիտի</b>_ “to by necessary, useful” or _<b>պետք է</b>_ “lit: is needed”.
 
 ### Examples
 
@@ -47,6 +48,10 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
   _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
   _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+
+- Conditional mood. The mood particle _<b>պիտի</b>_ “to by necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+_<b>պիտի (պետք է)</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
+_<b>պիտի (պետք է)</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
