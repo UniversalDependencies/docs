@@ -11,7 +11,7 @@ udver: '2'
 ### Definition
 
 The only truly auxiliary verb in Armenian is _եմ&nbsp;_ “be”,
-and its variants (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually” and _կամ&nbsp;_ “be, exist”.
+and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
 
@@ -63,4 +63,4 @@ Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Th
 
 ### Constructions with _կամ&nbsp;_ and _ունեմ&nbsp;_ and resultative participle
 
-Note, that finite form of existentials _կամ&nbsp;_ and _ունեմ&nbsp;_ in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written a single row since yesterday.”) are not tagged `AUX` (these so-called “experiential forms”, mainly in negativ or interrogative constructions, are analyzed as auxiliary in the Armenian grammar).
+Note, that finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written a single row since yesterday.”) are not tagged `AUX` (these so-called “experiential forms”, mainly in negativ or interrogative constructions, are analyzed as auxiliary in the Armenian grammar).
