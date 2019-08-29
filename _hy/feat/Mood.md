@@ -92,7 +92,7 @@ The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<
 
 The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
 
-Note, that the  mood particles  will have `Mood=Nec`. They can also inflect for [Polarity]() (e.g. _<b>չ</b>պիտի, <b>չ</b>պետք է_). They are viewed as [auxiliaries](AUX_).
+Note, that the mood particles will not have `Mood=Nec`. They are viewed as [AUX_]() and can also inflect for [Polarity]() (e.g. _<b>չ</b>պիտի, <b>չ</b>պետք է_).
 
 #### Examples
 
