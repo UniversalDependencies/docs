@@ -20,7 +20,7 @@ Armenian auxiliary verbs can be divided into:
 - tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
 - voice auxiliary, used to form periphrastic causative represented by _տալ&nbsp;_ “cause / make someone to perform action”.
-- voice auxiliary, used to form periphrastic necessitative mood by _<b>պիտի</b>_ “to by necessary, useful” or _<b>պետք է</b>_ “lit: is needed”.
+- voice auxiliary, used to form periphrastic necessitative mood by _պիտի&nbsp;_ “to by necessary, useful” or _պետք է&nbsp;_ “lit: is needed”.
 
 ### Examples
 
