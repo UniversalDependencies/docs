@@ -235,6 +235,8 @@ The editor provides the following functionalities:
 * Implementation: Java, JavaScript
 * License: BSD-3-Clause (open source)
 * Homepage: <https://github.com/Orange-OpenSource/conllueditor>
+* References: Johannes Heinecke (2019): [ConlluEditor: a fully graphical editor for Universal dependencies treebank files](https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_55.pdf). In: [Proceedings of the Universal Dependencies Workshop 2019](http://universaldependencies.org/udw19/). Paris. ([Short demo video](https://syntaxfest.github.io/syntaxfest19/slides/conllueditor_demo_windows_subtitled.mp4))
+
 * Contact: johannes.heinecke@orange.com
 
 ### Editor modes
