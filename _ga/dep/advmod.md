@@ -38,6 +38,8 @@ Níor tháinig sé go fóill \n Not arrived he [] yet
 advmod(tháinig, fóill)
 ~~~
 
+NOTE: Some multi-token temporal constructions which bear this dependency relation are treated as fixed multiword expressions, e.g.:
+
 _<b>fad</b> a bhí Fianna Fáil ar thaobh an fhreasúra_ '<b>while</b> Fianna Fáil were in opposition'
 
 ~~~ sdparse
