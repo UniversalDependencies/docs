@@ -38,6 +38,13 @@ Níor tháinig sé go fóill \n Not arrived he [] yet
 advmod(tháinig, fóill)
 ~~~
 
+_<b>fad</b> a bhí Fianna Fáil ar thaobh an fhreasúra_ '<b>while</b> Fianna Fáil were in opposition'
+
+~~~ sdparse
+fad a bhí Fianna Fáil ar thaobh an fhreasúra \n while that were Fianna Fáil on the_side of_the opposition
+advmod(bhí, fad)
+~~~
+
 _<b>Adverbs of manner</b>_
 
  _D'éirigh <b>go hiontach</b> leis_
@@ -49,7 +56,7 @@ advmod(D'éirigh, hiontach)
 
 _<b>Interrogative adverbs</b>_
 
-_<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach?_ '<b>Where</b> was all the other public and private main media outlets?'
+_<b>Cá</b> raibh na mórmheáin eile go léir idir phoiblí is phríobháideach?_ '<b>Where</b> were all the other main public and private media outlets?'
 
 ~~~ sdparse
 Cá raibh na mórmheáin eile go léir idir phoiblí is phríobháideach? \n Where was the main-media other all-together both public and private
