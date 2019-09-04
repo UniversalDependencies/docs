@@ -43,6 +43,7 @@ _<b>fad</b> a bhí Fianna Fáil ar thaobh an fhreasúra_ '<b>while</b> Fianna F�
 ~~~ sdparse
 fad a bhí Fianna Fáil ar thaobh an fhreasúra \n while that were Fianna Fáil on the_side of_the opposition
 advmod(bhí, fad)
+fixed(fad, a)
 ~~~
 
 _<b>Adverbs of manner</b>_
