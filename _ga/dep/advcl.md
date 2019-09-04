@@ -29,7 +29,7 @@ advcl(casadh, bhíodar)
 
 The word 'agus', usually meaning 'and', can also introduce a subordinate clause and can function as a temporal adverb also. 
 
-Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. 'While I was saying those words in St Peter's Square, I knew that the first Encyclical would have to be connected to/be about the truth of Redemption.'
+Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. 'While I was speaking in St Peter's Square, I knew that the first Encyclical would have to be about the truth of Redemption.'
 
 ~~~ sdparse
 Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. \n While I was saying the words those in Square Peter, was knew at-me that would on the first encyclical [] be linked with truth the redemption
