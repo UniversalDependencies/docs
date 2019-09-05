@@ -232,6 +232,8 @@ collections:
     output: true
   mdf:
     output: true
+  sms:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
