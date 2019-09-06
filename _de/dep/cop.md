@@ -5,7 +5,7 @@ title: 'cop'
 shortdef: 'copula'
 ---
 
-A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate. UD generally only annotates forms of "to be" as cop, which in German would be the forms of the verb "sein". More about coupla in UD can be found on the main documentation page for [cop]() or [here](https://universaldependencies.org/v2/copula.html#guidelines-for-udv2).
+A `cop` (copula) is the relation of a function word used to link a subject to a nonverbal predicate. UD generally only annotates forms of "to be" as cop, which in German would be the forms of the verb "sein". More about copula in UD can be found on the main documentation page for [cop]() or [here](https://universaldependencies.org/v2/copula.html#guidelines-for-udv2).
 
 ~~~ sdparse
 Er ist ein guter Student . \n He is a good student .
