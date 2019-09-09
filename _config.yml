@@ -234,6 +234,8 @@ collections:
     output: true
   sms:
     output: true
+  gsw:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
