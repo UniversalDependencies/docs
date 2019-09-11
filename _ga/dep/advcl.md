@@ -29,10 +29,10 @@ advcl(casadh, bhíodar)
 
 NOTE: The word 'agus', usually meaning 'and', can also introduce a subordinate clause which can in turn function as a temporal adverb. 
 
-_<b>Agus</b> mé ag rá na bhfocal úd i gCearnóg Pheadair, <b>bhí</b> fhios agam cheana féin go..._ `<b>While</b> I was speaking in Saint Peter's Square, I already <b>knew</b> that...'
+_Agus <b>mé</b> ag rá na bhfocal úd i gCearnóg Pheadair, <b>bhí</b> fhios agam cheana féin go..._ `<b>While</b> I was speaking in Saint Peter's Square, I already <b>knew</b> that...'
 
 ~~~ sdparse
-Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, \n And I at_the saying the words those in Square Peter, was knowledge at_me already itself that...
+Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam cheana féin go... \n And I at_the saying the words those in Square Peter, was knowledge at_me already itself that...
 advcl(bhí, mé)
 ~~~
 
