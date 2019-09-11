@@ -316,7 +316,7 @@ These forms are used quite frequently, not only with regular prepositional attac
         <tr><td><a href='https://universaldependencies.org/ga/dep/nsubj.html'>nsubj</a></td></tr>
         <tr><td>↳<a><strike>nsubj:pass</strike></a></td></tr>
         <tr><td>↳<a><strike>csubj:pass</strike></a></td></tr>
-        <tr><td><a href='https://universaldependencies.org/u/dep/obj.html'>obj</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/obj.html'>obj</a></td></tr>
         <tr><td><a><strike>iobj</strike></a></td></tr>
       </table>
     </td>
