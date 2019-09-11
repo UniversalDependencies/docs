@@ -24,18 +24,19 @@ PPs can precede or follow the verb they modify, or follow the noun they modify.
 
 (iii) _An teach sa chathair_ `The house in the city'
 
-#### progressive aspectuals
+
+#### Progressive Aspectuals
 
 The preposition _ag_ is used with verbal nouns to form progressive aspectual phrases in Irish.
 
-_Tá sí <b>ag</b> rith_ 'She is <b>(at)(</b>) running'
+_Tá sí <b>ag</b> rith_ 'She is <b>(at)</b> running'
 
 ~~~ sdparse
 Tá sí ag rith \n Is she at running
 case(rith, ag)
 ~~~
 
-#### Ownership/ State
+#### Ownership/State
 
 Prepositions are also used in phrasal constructions to denote ownership or a state of being.
 
@@ -54,7 +55,7 @@ case(gcuairteoir, ar)
 ~~~
 
 
-#### obliques
+#### Obliques
 
 Oblique arguments are also labelled `case`.
 
