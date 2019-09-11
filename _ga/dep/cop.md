@@ -39,7 +39,7 @@ cop(múinteoir, Is)
 
 #### idiomatic expressions
 
-_<b>Ba</b> mhaith liom gan fanacht_ 'I wouldn't want to stay'
+_<b>Ba</b> mhaith liom gan fanacht_ 'I <b>would</b> not want to stay'
 
 ~~~ sdparse
 Ba mhaith liom gan fanacht \n Be good with_me without staying
@@ -57,7 +57,7 @@ cop(iad, Is)
 
 ####  ownership constructions
 
-_<b>An</b> leatsa é?_ 'Is it yours?'
+_<b>An</b> leatsa é?_ '<b>Is</b> it yours?'
 
 ~~~ sdparse
 An leatsa é ? \n Is with_you it ?
