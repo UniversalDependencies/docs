@@ -22,3 +22,15 @@ _Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa <b>bhliain</
 Is é Micheal D. Higgins ba chionsiocair leis an Roinn a bhunú sa bhliain 1992. \n Is him Michael D. Higgins was contributor with the Department to establish in-the year 1992
 obl:tmod(bhunú, bhliain)
 ~~~ 
+
+NOTE: Information clusters that contain dates/times should be labelled in the following way:
+
+~~~ sdparse
+Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m., Aoine, 4 Aibreán 1997. \n Is important the forms (...) to be in_the Head_office before 5.00 p.m., Friday, 4 April 1997.
+obl:tmod(bheith, p.m.)
+nummod(p.m., 5)
+obl:tmod(bheith, Aoine)
+obl:tmod(bheith, 4)
+flat(4, Aibreán)
+flat(4, 1997)
+~~~ 
