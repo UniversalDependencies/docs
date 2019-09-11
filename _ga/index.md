@@ -395,7 +395,7 @@ These forms are used quite frequently, not only with regular prepositional attac
       </td>
       <td>
         <table class="category">
-          <tr><td><a href='https://universaldependencies.org/u/dep/det.html'>det</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/det.html'>det</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/case.html'>case</a></td></tr>
         </table>
       </td>
