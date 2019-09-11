@@ -7,7 +7,7 @@ udver: '2'
 
 A relative clause modifier marks the relation between a relative clause and a noun phrase in a preceding clause. The head of the relative clause is usually a verb. 
 
-### Example
+### Examples
 
 _Chaill sé pé rud a <b>bhí</b> aige_ `He lost everything that he <b>had</b>'
 
