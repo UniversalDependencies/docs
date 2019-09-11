@@ -438,8 +438,8 @@ These forms are used quite frequently, not only with regular prepositional attac
         <table class="category">
           <tr><td><a>fixed</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/flat.html'>flat</a></td></tr>
-          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat:foreign.html'>flat:foreign</a></td></tr>
-          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat:name.html'>flat:name</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat-foreign.html'>flat:foreign</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat-name.html'>flat:name</a></td></tr>
           <tr><td><a href='https://universaldependencies.org/ga/dep/compound.html'>compound</a></td></tr>
           <tr><td>↳<a href='https://universaldependencies.org/ga/dep/compound-prt.html'>compound:prt</a></td></tr>
         </table>
