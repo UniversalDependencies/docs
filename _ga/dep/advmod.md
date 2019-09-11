@@ -50,11 +50,12 @@ fixed(fad, a)
 
 _<b>Adverbs of manner</b>_
 
- _D'éirigh <b>go hiontach</b> leis_ 'He did very well'
+ _D'éirigh go <b>hiontach</b> leis_ 'He did very <b>well</b>'
 
 ~~~ sdparse
-D'éirigh go hiontach leis. \n 'SHe succeeded very well'
+D'éirigh go hiontach leis. \n 'Got_on very well with_him'
 advmod(D'éirigh, hiontach)
+mark:prt(hiontach, go)
 ~~~
 
 _<b>Interrogative adverbs</b>_
