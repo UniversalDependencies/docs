@@ -27,8 +27,6 @@ case(réimse, le)
 
 It is also used for attaching noun phrases, such as headings, to clauses:
 
-### Examples
-
 _<b>TOGRA</b> IONAID - Eolas a chur ar fáil ar fholúntais fostaíochta le FÁS_ 'CENTRE <b>PROJECT</b> - To provide information on employment opportunities with FÁS.'
 
 ~~~ sdparse
@@ -37,8 +35,6 @@ nmod(Eolas, TOGRA)
 ~~~ 
 
 It is also used to label the attachment of _augment pronouns_ to their nominal head:
-
-### Examples
 
 _Comharsain aoibhne ab <b>ea</b> iad_ 'They <b>were</b> lovely neighbours'
 
@@ -49,8 +45,6 @@ nmod(iad, ea)
 
 Verbal nouns which act adjectivally and appear in the genitive are usually labelled as `nmod`. 
 
-### Examples
-
 _Caladh mór <b>tráchtála</b> atá ann chomh maith._ 'It's also a large wave of <b>traffic</b>.'
 
 ~~~ sdparse
@@ -59,8 +53,6 @@ nmod(Caladh, tráchtála)
 ~~~
 
 Two nouns coming together also come under this dependency label: 
-
-### Examples
 
 _Mise agus mo chuid <b>clabaireachta</b>._ 'Me and my <b>babbling</b>'
 
