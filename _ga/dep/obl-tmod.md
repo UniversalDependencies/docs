@@ -26,9 +26,9 @@ obl:tmod(bhunú, bhliain)
 NOTE: Information clusters that contain dates/times should be labelled in the following way:
 
 ~~~ sdparse
-Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m., Aoine, 4 Aibreán 1997. \n Is important the forms (...) to be in_the Head_office before 5.00 p.m., Friday, 4 April 1997.
-obl:tmod(bheith, p.m.)
-nummod(p.m., 5)
+Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 pm, Aoine, 4 Aibreán 1997. \n Is important the forms (...) to be in_the Head_office before 5.00 pm, Friday, 4 April 1997.
+obl:tmod(bheith, pm)
+nummod(pm, 5)
 obl:tmod(bheith, Aoine)
 obl:tmod(bheith, 4)
 flat(4, Aibreán)
