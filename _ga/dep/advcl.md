@@ -27,12 +27,12 @@ Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo \n But when [] were-t
 advcl(casadh, bhíodar)
 ~~~
 
-The word 'agus', usually meaning 'and', can also introduce a subordinate clause and can function as a temporal adverb also. 
+NOTE: The word 'agus', usually meaning 'and', can also introduce a subordinate clause which can in turn function as a temporal adverb. 
 
-Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. 'While I was speaking in St Peter's Square, I knew that the first Encyclical would have to be about the truth of Redemption.'
+_<b>Agus</b> mé ag rá na bhfocal úd i gCearnóg Pheadair, <b>bhí</b> fhios agam cheana féin go..._ `<b>While</b> I was speaking in Saint Peter's Square, I already <b>knew</b> that...'
 
 ~~~ sdparse
-Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, bhí fhios agam go mbeadh ar an gcéad Imlitir a bheith nasctha le fírinne an tSlánaithe. \n While I was saying the words those in Square Peter, was knew at-me that would on the first encyclical [] be linked with truth the redemption
+Agus mé ag rá na bhfocal úd i gCearnóg Pheadair, \n And I at_the saying the words those in Square Peter, was knowledge at_me already itself that...
 advcl(bhí, mé)
 ~~~
 
