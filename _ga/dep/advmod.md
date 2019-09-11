@@ -50,7 +50,7 @@ fixed(fad, a)
 
 _<b>Adverbs of manner</b>_
 
- _D'éirigh <b>go hiontach</b> leis_
+ _D'éirigh <b>go hiontach</b> leis_ 'He did very well'
 
 ~~~ sdparse
 D'éirigh go hiontach leis. \n 'SHe succeeded very well'
