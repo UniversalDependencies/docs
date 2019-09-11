@@ -21,7 +21,7 @@ xcomp:pred(Bhí, dochreidte)
 #### PP Predicate
 
 
-_Bhí teas ollmhór <b>ann</b>_ `<b>It was very hot there</b>'
+_Bhí teas ollmhór <b>ann</b>_ `It was very hot <b>there</b>'
 
 ~~~ sdparse
 Bhí teas ollmhór ann \n Was heat great in_it 
