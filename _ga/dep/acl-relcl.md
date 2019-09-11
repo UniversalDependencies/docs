@@ -31,7 +31,7 @@ Faigh tuilleadh eolais faoin taisteal a rinne Naomh Pádraig in Éirin \n Find m
 acl:relcl(taisteal, rinne)
 ~~~
 
-_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le (...) daoine áirithe a iompú in aghaidh na hEaglaise inar <b>rugadh</b> iad_  'Loyalty to the Established Church was used as a way of (...) turning certain people against the Church they were <b>born</b> into' 
+_Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas le (...) daoine áirithe a iompú in aghaidh na <b>hEaglaise</b> inar <b>rugadh</b> iad_  'Loyalty to the Established Church was used as a way of (...) turning certain people against the <b>Church</b> they were <b>born</b> into' 
 
 ~~~ sdparse
 Usáideadh dílseacht don Eaglais Bhunaithe mar ghléas (...) le daoine áirithe a iompú in aghaidh na hEaglaise inar rugadh iad \n Used loyalty for-the Church Established as instrument (...) with people certain to-turn against the Church in-which were-born they
