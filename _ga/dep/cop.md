@@ -21,8 +21,8 @@ _Is_ (copula) uses its own forms in these constructions. For example:
 * ní (present/ future - negative)
  
 
-The order of elements in a copula construction is in general: 
-<b>copula</b>, <b>predicate</b> (new or focussed information), and <b>subject</b>
+The order of elements in a copular construction is usually as follows: 
+<b>copula</b>, <b>predicate</b> (new or focussed information), and <b>subject</b>. See [root](https://universaldependencies.org/ga/dep/root.html) for further information on how the root is identified in a copular construction and examples of the copula-predicate-subject structure. 
 
 `cop` is used to link the copula verb _is_ and its predicate. See [xcomp:pred]() to see how the verb _bí_ is linked to a predicate.
 
