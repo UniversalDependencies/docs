@@ -16,16 +16,16 @@ Tá a fhios agam gur imigh mo mháthair \n Is the knowledge at-me that left my m
 ccomp(Tá, imigh)
 ~~~
 
-_Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta_ `We believe, that the students <b>develop</b> their understanding of professional life of industry'
+_Creidimidne, go <b>bhforbraíonn</b> na mic léinn a gcuid tuisceana ar shaol proifisiúnta na tionsclaíochta_ `We believe, that the students <b>develop</b> their understanding of professional life in industry'
 
 ~~~ sdparse
 Creidimidne , go bhforbraíonn na mic léinn a gcuid tuisceana ar shaol proifisiúna na tionsclaíochta \n  Believe-we , that develop the students  their own understanding on life professional the industry
 ccomp(Creidimidne, bhforbraíonn)
 ~~~
  
-_D'admhaigh Piaras Ó Dochartaigh go <b>raibh</b> an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo._ 'Piaras Ó Dochartaigh admitted that the party <b>was</b> too weak to successfuly go for another seat.
+_D'admhaigh Piaras Ó Dochartaigh go <b>raibh</b> an páirtí rólag._ 'Piaras Ó Dochartaigh admitted that the party <b>was</b> too weak.
 
 ~~~ sdparse
-D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo . \n Admitted Piaras Ó Dochartaigh that was the party too-weak to go for seat [] successfully the attempt this . 
+D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag. \n Admitted Piaras Ó Dochartaigh that was the party too-weak. 
 ccomp(D'admhaigh, raibh)
 ~~~
