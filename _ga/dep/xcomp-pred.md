@@ -19,6 +19,15 @@ xcomp:pred(Bhí, dochreidte)
 ~~~
 
 #### PP Predicate
+
+
+_Bhí teas ollmhór <b>ann</b>_ `<b>It was very hot there</b>'
+
+~~~ sdparse
+Bhí teas ollmhór ann \n Was heat great in_it 
+xcomp:pred(Bhí, ann)
+~~~
+
 Note that the head of the prepositional phrase is the noun.
 
 _Tá duine eile <b>i_mbun</b> peannaireachta_ `Someone else is <b>in charge of</b> writing'
