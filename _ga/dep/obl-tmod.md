@@ -28,8 +28,11 @@ NOTE: Information clusters that contain dates/times should be labelled in the fo
 _Ní mór na foirmeacha (...) a <b>bheith</b> san Ardoifig roimh 5.00 <b>p.m.</b>, <b>Aoine</b>, <b>4</b> Aibreán 1997._ The forms must be submitted to Head Office before 5:00 pm, Friday, 4 April 1997. 
 
 ~~~ sdparse
-Ní mór na foirmeacha () a bheith san Ardoifig roimh 5.00 p.m., Aoine, 4 Aibreán 1997 \n Must be the forms () to being in_the Head_office before 5.00 p.m., Friday, 4 April 1997
+Ní mór na foirmeacha (...) a bheith san Ardoifig roimh 5.00 p.m., Aoine, 4 Aibreán 1997. \n Must be the forms (...) to being in_the Head_office before 5.00 p.m., Friday, 4 April 1997.
 obl:tmod(bheith, p.m.)
 obl:tmod(bheith, Aoine)
 obl:tmod(bheith, 4)
+nummod(p.m., 5.00)
+flat(4, Aibreán)
+flat(4, 1997)
 ~~~ 
