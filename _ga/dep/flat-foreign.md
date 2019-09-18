@@ -14,7 +14,7 @@ _Ó Riain faoi ina leabhar The <b>Pope's Green Island</b> 'Ó Riain in his book 
 ~~~ sdparse
 Ó Riain faoi ina leabhar The Pope's Green Island \n Ó Riain about in-his book The Pope's Green Island
 appos(leabhar, The)
-flat:foreign(Ó, Pope's)
-flat:foreign(Ó, Green)
-flat:foreign(Ó, Island)
+flat:foreign(The, Pope's)
+flat:foreign(The, Green)
+flat:foreign(The, Island)
 ~~~ 
