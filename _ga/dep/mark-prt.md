@@ -17,7 +17,7 @@ The UD Irish subtype `mark:prt' is used for the various particles in Irish, incl
 
 ### Examples
 
-#### adverbial particle
+#### Adverbial particle
 
 _Níor tháinig sé <b>go</b> fóill_ `He has not arrived yet'
 ~~~ sdparse
@@ -25,7 +25,7 @@ Níor tháinig sé go fóill \n NEG arrived he PART yet
 mark:prt(fóill, go)
 ~~~ 
 
-#### quantifier particle
+#### Quantifier particle
 
 _Ar <b>a</b> seacht a chlog_ `At seven o' clock'
 
@@ -41,7 +41,7 @@ Roinn a 2 \n Division PART 2
 mark:prt(2, a)
 ~~~
 
-#### cleft particle
+#### Cleft particle
 
 _Is leabhar <b>a </b>thug sí dom_ `It is a book that she gave me'
 
@@ -51,7 +51,7 @@ mark:prt(thug, a)
 ~~~
 
 
-#### verb particles
+#### Verb particles
 
 _Nuair <b>a</b> tógadh na scadáin ar bord_ `When the herring were brought onboard'
 
@@ -68,7 +68,7 @@ mark:prt(inis, D')
 ~~~
 
 
-#### complementiser
+#### Complementiser
 
 _Is dóigh liom <b>go</b> raibh siad ann_ `I believe they were there'
 
@@ -77,7 +77,7 @@ Is dóigh liom go raibh siad ann \n Is belief to_me PART were they there
 mark:prt(raibh, go)
 ~~~
 
-#### superlative particle
+#### Superlative particle
 
 _Ba í an difríocht <b>is</b> suntasaí_ `It was the most remarkable difference'
 
