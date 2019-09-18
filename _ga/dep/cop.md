@@ -27,7 +27,7 @@ The order of elements in a copular construction is usually as follows:
 `cop` is used to link the copula verb _is_ and its predicate. See [xcomp:pred]() to see how the verb _bí_ is linked to a predicate.
 
 ### Examples
-#### equative construction
+#### Equative construction
 
 _<b>Is</b> múinteoir é_  'He <b>is</b> a teacher'
 
@@ -37,7 +37,7 @@ cop(múinteoir, Is)
 ~~~
 
 
-#### idiomatic expressions
+#### Idiomatic expressions
 
 _<b>Ba</b> mhaith liom gan fanacht_ 'I <b>would</b> not want to stay'
 
@@ -46,7 +46,7 @@ Ba mhaith liom gan fanacht \n Be good with_me without staying
 cop(mhaith, Ba)
 ~~~
 
-#### cleft constructions
+#### Cleft constructions
 
 _<b>Is</b> iad a bheidh ina gcomhaltaí de na coistí sin_ 'They <b>are</b> the ones who will be members of those committees'
 
@@ -55,7 +55,7 @@ Is iad a bheidh ina gcomhaltaí de na coistí sin \n Is them who will_be in_thei
 cop(iad, Is)
 ~~~
 
-####  ownership constructions
+####  Ownership constructions
 
 _<b>An</b> leatsa é?_ '<b>Is</b> it yours?'
 
