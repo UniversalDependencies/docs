@@ -7,7 +7,7 @@ udver: '2'
 ---
 
 The `flat` relation is used with compounding proper nouns, typically for places, organisations and so on.
-Note, we use the language specific labels [flat:name](https://universaldependencies.org/ga/dep/flat:name.html)  and [flat:foreign](https://universaldependencies.org/ga/dep/flat:foreign.html) for personal names and text in foreign languges, respectively. 
+Note, we use the language specific labels [flat:name](https://universaldependencies.org/ga/dep/flat-name.html)  and [flat:foreign](https://universaldependencies.org/ga/dep/flat-foreign.html) for personal names and text in foreign languges, respectively. 
 
 The `flat` label is also used to attach what was previously labelled as `foreign`.
 
