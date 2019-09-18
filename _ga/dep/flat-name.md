@@ -12,14 +12,14 @@ _Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán <b>Ó Gallch�
 
 ~~~ sdparse
 Is mian linn ár mbuíochas a chur in iúl go háirithe do Sheán Ó Gallchóir \n Is desire with-us our thanks to put in knowledge [] particular to John PART Gallagher
-name(Sheán, Ó)
-name(Sheán, Gallchóir)
+flat:name(Sheán, Ó)
+flat:name(Sheán, Gallchóir)
 ~~~ 
 
-_Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín <b>Ní Bheaglaoich</b>_
+_Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín <b>Ní Bheaglaoich</b>_ Seosaimhín <b>Ní Bheaglaoich</b> is a broadcaster and journalist with Raidió na Gaeltachta in Dublin. 
 
 ~~~ sdparse
 Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín Ní Bheaglaoich \n Journalist and broadcaster with Radio of-the Gaeltacht in Dublin is Seosaimhín Ní Bheaglaoich
-name(Seosaimhín, Ní)
-name(Seosaimhín, Bheaglaoich)
+flat:name(Seosaimhín, Ní)
+flat:name(Seosaimhín, Bheaglaoich)
 ~~~ 
