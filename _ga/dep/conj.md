@@ -9,7 +9,7 @@ UD coordination has a right-adjunct structure (note that this differs from the s
 
 ### Examples
 
-_<b>Tigh</b> Tábhairne agus <b>Lóistín</b> atá anois ann_ 'Public <b>House</b> and <b>Accomodation</b> is what's there now'
+_Tigh Tábhairne agus <b>Lóistín</b> atá anois ann_ 'Public House and <b>Accomodation</b> is what's there now'
 
 ~~~ sdparse
 Tigh Tábhairne agus Lóistín atá anois ann \n House of_Tavern and Accommodation that_is now there
@@ -17,7 +17,7 @@ conj(Tigh,Lóistín)
 cc(Lóistín, agus)
 ~~~
 
-_ionaid <b>oidhreachta</b>, <b>chultúrtha</b> agus <b>Ghaeilge</b>_  '<b>heritage</b>, <b>culture</b> and <b>Irish language</b> centre'
+_ionaid oidhreachta, <b>chultúrtha</b> agus <b>Ghaeilge</b>_  'heritage, <b>culture</b> and <b>Irish language</b> centre'
 
 ~~~ sdparse
 ionaid oidhreachta , chultúrtha agus Ghaeilge \n centre heritage, culture and Irish_language
