@@ -31,9 +31,9 @@ punct(cathaoirleach, ))
 punct(Éireoidh, .)
 ~~~
 
-_Ach meastar gur ar chroí-lár thaca Ian Paisley <b>-</b> an Baile Meánach <b>-</b> a bhronnfar an gradam_ But it is thought that the award will go to the heartland of Ian Paisley's support <b>-</b> Ballymena
+_Ach meastar gur ar chroí-lár thaca Ian Paisley <b>-</b> an Baile Meánach <b>-</b> a bhronnfar an gradam_ 'But it is thought that the award will go to the heartland of Ian Paisley's support <b>-</b> Ballymena'
 ~~~ sdparse
-Ach meastar gur ar chroí-lár thaca Ian Paisley -1 an Baile Meánach -2 a bhronnfar an gradam \n ' 'Will_rise two_persons member of_the Board (except the chairperson and the chief_officer executive) from office'
-punct(Baile, -1)
-punct(Baile, -2)
+Ach meastar gur ar chroí-lár thaca Ian Paisley - an Baile Meánach - a bhronnfar an gradam \n But is_thought that on_the heart-centre of_support Ian Paisley - Ballymena - that will_be_presented the award.
+punct(Baile, -)
+punct(Baile, -)
 ~~~
