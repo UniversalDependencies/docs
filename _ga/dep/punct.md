@@ -33,7 +33,7 @@ punct(Éireoidh, .)
 
 _Ach meastar gur ar chroí-lár thaca Ian Paisley <b>-</b> an Baile Meánach <b>-</b> a bhronnfar an gradam_ 'But it is thought that the award will go to the heartland of Ian Paisley's support <b>-</b> Ballymena'
 ~~~ sdparse
-Ach meastar gur ar chroí-lár thaca Ian Paisley - an Baile Meánach - a bhronnfar an gradam \n But is_thought that on_the heart-centre of_support Ian Paisley - Ballymena - that will_be_presented the award.
+Ach meastar gur ar chroí-lár thaca Ian Paisley - an Baile Meánach -- a bhronnfar an gradam \n But is_thought that on_the heart-centre of_support Ian Paisley - Ballymena - that will_be_presented the award.
 punct(Baile, -)
-punct(Baile, -)
+punct(Baile, --)
 ~~~
