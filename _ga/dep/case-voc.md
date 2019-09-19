@@ -9,10 +9,10 @@ A vocative particle precedes and marks the case of an addressee.
 
 ### Example
 
-_Slán leat, <b>a</b> chara._ 'Goodbye, friend.'
+_Slán leat, <b>a</b> chara._ 'Goodbye, <b>my</b> friend.'
 
 ~~~ sdparse
-Slán leat, a chara. \n goodbye with_you, [] friend.
+Slán leat, a chara. \n Goodbye with_you, my friend.
 case:voc(chara, a)
 ~~~
 
