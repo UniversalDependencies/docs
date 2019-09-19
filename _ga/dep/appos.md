@@ -26,6 +26,6 @@ appos(tábhairne, Shea's)
 _Helena McMahon, <b>duine</b> a bhfuil baint aici le healaín phobail i Luimneach._ `Helena McMahon, <b>someone</b> who is involved in community art in Limerick'
 
 ~~~ sdparse
-Helena McMahon, duine a bhfuil baint aici le healaín phobail i Luimneach. \n Helena McMahon, person who there_is part at_her with art of_the_community in Limerick.
+Helena McMahon, duine a bhfuil baint aici le healaín phobail i Luimneach. \n Helena McMahon, person who there_is part at_her with art of_community in Limerick.
 appos(Helena, duine)
 ~~~
