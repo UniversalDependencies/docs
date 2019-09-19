@@ -26,6 +26,6 @@ vocative(dóigh, Mháiréad)
 _'Tá eagla orm, a <b>fheara</b>,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'._ 'I'm afraid, my <b>man</b>,' said Fionn, 'that this fog will be very dark'.
 
 ~~~ sdparse
-'Tá eagla orm, a fheara,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'. \n 'Is fear on_me, my man,' said Fionn, 'that will_be the fog this the-dark'.
+'Tá eagla orm, a fheara ,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'. \n 'Is fear on_me, my man,' said Fionn, 'that will_be the fog this the-dark'.
 vocative(arsa, fheara)
 ~~~
