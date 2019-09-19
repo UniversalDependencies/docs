@@ -22,3 +22,10 @@ _Chas m'athair air sa tábhairne, <b>O' Shea's</b> i nDomhnach Broc_ `My father 
 Chas m' athair air sa tábhairne , O' Shea's i nDomhnach Broc \n Met my father on-him in-the pub , O' Shea's in Donnybrook []
 appos(tábhairne, Shea's)
 ~~~
+
+_Helena McMahon, <b>duine</b> a bhfuil baint aici le healaín phobail i Luimneach._ `Helena McMahon, <b>someone</b> who is involved in community art in Limerick'
+
+~~~ sdparse
+Helena McMahon, duine a bhfuil baint aici le healaín phobail i Luimneach. \n Helena McMahon, person who there_is part at_her with art of_the_community in Limerick.
+appos(Helena, duine)
+~~~
