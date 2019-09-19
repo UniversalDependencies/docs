@@ -20,13 +20,20 @@ punct(dúirt, ')
 punct(dúirt, .)
 ~~~
 
-NOTE: Punctuation included in embedded clauses are are dependent on the head of the noun phrase in which they occur.
+NOTE: Punctuation included in embedded clauses are are dependent on the head of the noun phrase in which they occur. See the examples below. 
 
-_Éireoidh beirt chomhalta den Bhord (seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin) as oifig._ Two members of the Board (apart from the chairperson and the chief executive officer) will resign.
+_Éireoidh beirt chomhalta den Bhord <b>(</b> seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin <b>)</b> as oifig <b>.</b>_ Two members of the Board <b>(</b>apart from the chairperson and the chief executive officer<b>)</b> will resign<b>.</b>
 
 ~~~ sdparse
-Éireoidh beirt chomhalta den Bhord (seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin) as oifig. \n ' 'Will_rise two_persons member of_the Board (except the chairperson and the chief_officer executive) from office'
-punct(Éireoidh, .)
+Éireoidh beirt chomhalta den Bhord ( seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin ) as oifig . \n ' 'Will_rise two_persons member of_the Board (except the chairperson and the chief_officer executive) from office'
 punct(cathaoirleach, ()
 punct(cathaoirleach, ))
+punct(Éireoidh, .)
+~~~
+
+_Ach meastar gur ar chroí-lár thaca Ian Paisley <b>-</b> an Baile Meánach <b>-</b> a bhronnfar an gradam_ But it is thought that the award will go to the heartland of Ian Paisley's support <b>-</b> Ballymena
+~~~ sdparse
+Ach meastar gur ar chroí-lár thaca Ian Paisley -1 an Baile Meánach -2 a bhronnfar an gradam \n ' 'Will_rise two_persons member of_the Board (except the chairperson and the chief_officer executive) from office'
+punct(Baile, -1)
+punct(Baile, -2)
 ~~~
