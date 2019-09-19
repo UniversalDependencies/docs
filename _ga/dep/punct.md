@@ -19,3 +19,14 @@ punct(dúirt, ,)
 punct(dúirt, ')
 punct(dúirt, .)
 ~~~
+
+NOTE: Punctuation included in embedded clauses are are dependent on the head of the noun phrase in which they occur.
+
+_Éireoidh beirt chomhalta den Bhord (seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin) as oifig._ Two members of the Board (apart from the chairperson and the chief executive officer) will resign.
+
+~~~ sdparse
+Éireoidh beirt chomhalta den Bhord (seachas an cathaoirleach agus an príomhoifigeach feidhmiúcháin) as oifig. \n ' 'Will_rise two_persons member of_the Board (except the chairperson and the chief_officer executive) from office'
+punct(Éireoidh, .)
+punct(cathaoirleach, ()
+punct(cathaoirleach, ))
+~~~
