@@ -77,7 +77,7 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in theory they might be able to form plural, in practice it would be rarely semantically plausible. Sometimes, the plural form exists and means “several sorts of” or “several packages of”.
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”.
 
 #### Examples:
 
