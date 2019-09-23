@@ -28,8 +28,6 @@ det(cláranna, na)
 
  Two pre-determiners can occur before a noun:
 
-### Examples
-
 _<b>gach uile</b> ábhar_  '<b>every single</b> subject'
 
 ~~~ sdparse
@@ -75,8 +73,6 @@ quant(cheannaire, chéad)
 
 NOTE: The article modifies depending on the noun which follows it in genitive constructions:
 
-### Examples
-
 _Scoil <b>na</b> gCailíní_ '<b>Girls'</b> School'
 
 ~~~ sdparse
@@ -91,9 +87,7 @@ biaiste an tsamhraidh \n season of_the summer
 det(tsamhraidh, an)
 ~~~
 
-It must agree with the gender of the noun which follows it also, as shown below in the case of a masculine and feminine noun, respectively:
-
-### Examples
+It must agree with the gender of the noun which follows it also, as shown below in the case of masculine and feminine nouns, respectively:
 
 _ar cheann <b>an</b> chalaidh_ 'at the head <b>of the</b> port'
 

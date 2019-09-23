@@ -9,11 +9,11 @@ UD coordination has a right-adjunct structure (note that this differs from the s
 
 ### Examples
 
-_Tigh <b>Tábhairne</b> agus <b>Lóistín</b> atá anois ann_ 'A Public Bar and Hotel is what is there now'
+_Tigh Tábhairne agus <b>Lóistín</b> atá anois ann_ 'Public House and <b>Accomodation</b> is what's there now'
 
 ~~~ sdparse
-Tigh Tábhairne agus Lóistín atá anois ann \n Houses Tavern and Accommodation that_is now there
-conj(Tábhairne,Lóistín)
+Tigh Tábhairne agus Lóistín atá anois ann \n House of_Tavern and Accommodation that_is now there
+conj(Tigh,Lóistín)
 cc(Lóistín, agus)
 ~~~
 

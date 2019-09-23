@@ -9,6 +9,8 @@ The `cc` label marks the relation between the last conjunct of a coordinated phr
 UD takes the first conjunct as the head of a coordinated phrase.
 (Note that this differs from the Irish Dependency Treebank structure, which follows LFG theory and the coordinating conjunction is the head of the cooordinated phrase.)
 
+### Examples
+
 _caidreamh a bhunú le bainc cheannais <b>agus</b> le hinstitiúidí airgeadais i dtíortha eile_ 
 'to establish a relationship between central banks <b>and</b> financial institutions in other countries'
 
@@ -19,7 +21,7 @@ conj(bainc, hinstitiúidí)
 ~~~
 
 
-Coordination of more than two elements is as follows (note there is also embedded coordination within the main coordinated phrase).
+Coordination of more than two elements is treated as follows (note there is also embedded coordination within the main coordinated phrase).
 
 _Gáis a úsáidtear i gcannaí aerasóil áirithe, i gcuisneoirí agus i ndéantús cupán agus coimeádán plaisteach áirithe_ 
 "Gas that is used in some aerosol cans, in refrigerators <b>and</b> in the making of some plastic cups <b>and</b> containers"

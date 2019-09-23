@@ -9,11 +9,11 @@ The `vocative` relation is used to mark a dialogue participant addressed in text
 
 ### Examples:
 
-_Slán leat , a <b>chara</b>_ `Goodbye , <b>friend</b>'
+_Slán leat, a <b>Mhichíl</b> ghrinn._ `Goodbye , my funny <b>Michael</b>.'
 
 ~~~ sdparse
-Slán leat , a chara \n Goodbye with_you, [] friend
-vocative(Slán, chara)
+Slán leat, a Mhichíl ghrinn. \n Goodbye with_you, my Michael funny.
+vocative(Slán, Mhichíl)
 ~~~
 
 _Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat_  `I think <b>Mairead</b>, that I'm in love with you'
@@ -21,4 +21,11 @@ _Is dóigh liom a <b>Mháiréad</b>, go bhfuil mé i ngrá leat_  `I think <b>Ma
 ~~~ sdparse
 Is dóigh liom a Mháiréad , go bhfuil mé i ngrá leat \n Is belief with_me [] Mairead , that am I in love with_you
 vocative(dóigh, Mháiréad)
+~~~
+
+_'Tá eagla orm, a <b>fheara</b>,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'._ 'I'm afraid, my <b>man</b>,' said Fionn, 'that this fog will be very dark'.
+
+~~~ sdparse
+'Tá eagla orm, a fheara ,' arsa Fionn, 'go mbeidh an ceo so an-dhorcha'. \n 'Is fear on_me, my man,' said Fionn, 'that will_be the fog this the-dark'.
+vocative(arsa, fheara)
 ~~~

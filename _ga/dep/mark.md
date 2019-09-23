@@ -10,7 +10,7 @@ Note that subordinate conjunctions are attached to the head of the complement cl
 
 ### Examples
 
-#### subordinate conjunctions
+#### Subordinate conjunctions
 
 _<b>Cé</b> go ndeachaigh sé thar fóir leis an tuairim sin , is cinnte go raibh mórán scríobhneoirí Béarla den bharúil chéanna_ `<b>Although</b> he went overboard with that opinion , it was certain that many English writers had the same opinion'
 
@@ -27,7 +27,7 @@ Ba ar Mháirín a smaoiníodh sé nuair a d' fheicfeadh sé iad \n Was on Máir�
 mark(fheicfeadh, nuair)
 ~~~
 
-#### infinitive marker
+#### Infinitive marker
 
 _Caithfidh mé sin <b>a</b> fhoghlaim_ `I will have <b>to</b> learn that'
 

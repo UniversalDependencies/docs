@@ -11,7 +11,7 @@ This is similar to an adverbial attaching to a verb, adjective or other adverb.
 
 The obl relation can be further specified by the case. If the oblique argument is part of a prepositional phrase, then the preposition is attached as 'case'.
 
-If the noun is inflected as part of a Pronominal preposition, then use the label 'obl:prep'.
+If the noun is inflected as part of a pronominal preposition, then use the label [obl:prep](https://universaldependencies.org/ga/dep/obl-prep.html). If the oblique argument indicates temporality, we use the label [obl:tmod](https://universaldependencies.org/ga/dep/obl-tmod.html).
 
 ### Examples
 
