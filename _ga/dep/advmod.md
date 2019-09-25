@@ -51,6 +51,8 @@ fixed(fad, a)
 _<b>Adverbs of manner</b>_
 
  _D'éirigh go <b>hiontach</b> leis_ 'He did very <b>well</b>'
+ 
+ Despite having a POS tag of ADJ, when used with the particle 'go' an adjective takes the role of an adverb.
 
 ~~~ sdparse
 D'éirigh go hiontach leis. \n 'Got_on very well with_him'
