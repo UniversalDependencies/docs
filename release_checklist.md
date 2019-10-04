@@ -317,6 +317,8 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 
 # Validation
 
+A proposal of additional validation-release rules for UD 2.5 is available [on this page](validation.html).
+
 ## Data format and repository
 
 Up-to-date automatic validation runs of the repositories are available [here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
