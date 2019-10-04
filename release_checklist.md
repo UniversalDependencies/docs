@@ -317,7 +317,7 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 
 # Validation
 
-A proposal of additional validation-release rules for UD 2.5 is available [on this page](validation.html).
+A proposal of additional validation-release rules for UD 2.5 is available [on this page](validation-rules.html).
 
 ## Data format and repository
 
