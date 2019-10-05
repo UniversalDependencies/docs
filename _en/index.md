@@ -57,7 +57,7 @@ There are six English UD treebanks:
 
 Comparative statistics for tags in the treebanks are available here:
 
-[https://universaldependencies.org/treebanks/en-comparison.html]()
+[https://universaldependencies.org/treebanks/en-comparison.html](/treebanks/en-comparison.html)
 
 
 
