@@ -157,7 +157,7 @@ Of course, one may decide to promote _you_ instead of _coffee,_ but suggesting t
 </div>
 
 To avoid confusion and signal that the dependency structure is incomplete, we use the special relation `orphan` to connect the non-promoted dependents with the promoted dependent. Orphaned dependents are considered for promotion in the following order:
-`nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`.
+`nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl` > `dislocated` > `vocative`.
 If it is necessary to select among several orphans of the same type (e.g., there are just two orphans and both are `advmod`),
 the orphan occurring first (closer to the sentence start) is promoted.
 
