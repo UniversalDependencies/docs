@@ -4,10 +4,6 @@ title:  'CoNLL-U Plus Format'
 udver: '2'
 ---
 
-
-<strong style='color:red'>DISCLAIMER:</strong> As of 2018-09-07,
-this page is work in progress and the contents may change in the near future.
-
 <!-- This specification was drafted in collaboration between the UD core group (Joakim Nivre, Dan Zeman, Filip Ginter) and the PARSEME initiative (Agata Savary, Carlos Ramisch, Silvio Cordeiro). -->
 <!-- Minutes from the Skype talk 2018-01-17 https://docs.google.com/document/d/108tEbDZyngpc-zqfy7phnSxRVaEzmiHDTzzRLINVgUM/edit?usp=sharing -->
 <!-- UD-to-Any format interface (CoNLL-U Plus first specification) https://docs.google.com/document/d/1_P5FK9yTRcTPEXU_iQ4SNvgUHKIWoUG9J5hk5B45584/edit#heading=h.kpu17fj0h6x7 -->
