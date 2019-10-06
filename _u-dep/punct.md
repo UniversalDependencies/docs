@@ -5,8 +5,9 @@ shortdef: 'punctuation'
 udver: '2'
 ---
 
-This is used for any piece of punctuation in a clause, if punctuation
-is being retained in the typed dependencies.
+This is used for any piece of [punctuation](/u/pos/PUNCT.html) in a clause, if punctuation
+is being retained in the typed dependencies. Note that symbols tagged [SYM](/u/pos/SYM.html)
+are not punctuation and cannot be attached via the `punct` relation.
 
 ~~~ sdparse
 Go home !
