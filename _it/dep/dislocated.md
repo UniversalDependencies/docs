@@ -16,6 +16,7 @@ dislocated(sentito, Wojtyla)
 ~~~
 ~~~ sdparse
 l' occasione propizia glie l' ha offerta Alija Izetbegovic
+det(occasione, l')
 obj(offerta, l')
 dislocated(offerta, occasione)
 ~~~
