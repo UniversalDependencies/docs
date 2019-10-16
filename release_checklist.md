@@ -341,7 +341,7 @@ In general, you validate the data like so:
 
 for example for Finnish:
 
-    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu
+    $ python validate.py --lang=fi --max-err=0 ../UD_Finnish-TDT/fi_tdt-ud-dev.conllu
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
