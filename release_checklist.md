@@ -317,23 +317,28 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 
 # Validation
 
-A proposal of additional validation-release rules for UD 2.5 is available [on this page](validation-rules.html).
+Up-to-date automatic validation runs of the repositories are available
+[here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
+These are based on the `dev` branch of the data and use the `validate.py` script
+described below. Note that the validation script evolved significantly between
+releases 2.3 and 2.5. Now it includes many content-focused tests that check
+conformity with the guidelines. See a separate page on
+[validation rules](validation-rules.html), which explains the various
+validation levels, as well as the consequences of your treebank's not being
+valid at release time.
 
-## Data format and repository
-
-Up-to-date automatic validation runs of the repositories are available [here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
-These are based on the `dev` branch of the data and use the `validate.py` script described below.
-
-The final data validation is an important step and each file released
-in the project is expected to validate as conforming to the basic
-requirements on the data and format. For this purpose, there is a
-validation script in the tools repository.
+The validation script is available in the tools repository and you can use
+it to test your data locally before you upload them to Github. Make sure that
+you always have the latest update of the tools repository.
 
     $ git clone git@github.com:UniversalDependencies/tools.git
     $ cd tools
     $ python validate.py -h
 
-Note that you need Python 3 to run the validator, and you need a third-party Python module called `regex` installed via pip. See also the [README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt) in the tools repository.
+Note that you need Python 3 to run the validator, and you need a third-party
+Python module called `regex` installed via pip. See also the
+[README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt)
+in the tools repository.
 
 In general, you validate the data like so:
 
@@ -392,11 +397,23 @@ defining the permissible forms and lemmas that can contain a whitespace.
 
 # Content validation
 
-For the `v1.3` release, we have created an additional number of tests which try to uncover possible logical inconsistencies in the treebank data. Automatic validation runs for this syntax validation are available [here](http://universaldependencies.org/svalidation.html). Unlike the data format and repository validation, this validation machinery is not streamlined enough to be distributed for offline use, therefore it is important to regularly push your data to the `dev` branch of the repository.
-(However, similar tests are now available in the
-[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py) tool.)
+**WARNING: This section is outdated.**
 
-The tests are specified in the file `gen_index/stests.yaml` and rely on the query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
+For the `v1.3` release, we created an additional number of tests which try to
+uncover possible logical inconsistencies in the treebank data. Automatic
+validation runs for this syntax validation are available
+[here](http://universaldependencies.org/svalidation.html).
+The tests are specified in the file `gen_index/stests.yaml` and rely on the
+query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
+
+At present (October 2019) this validation machinery does not function correctly.
+However, similar tests are now included as level 3 and 5 tests in the official
+validation script described in the previous section. Selected tests of this kind
+are also available in the
+[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)
+tool.
+
+
 
 # Language-specific guidelines
 
