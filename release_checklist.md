@@ -285,11 +285,11 @@ it will again result in a commit to the master branch at wrong time.
 
 (To make things a bit more confusing, this policy of data repositories does not apply to some other repositories that we use. In the `docs` repository you must work with the `pages-source` branch. That is done automatically if you edit the documentation in your browser via the _edit page_ link. You will also need to access the `tools` repository and upload the `deprel` and `feat_val` files specific for your treebank. In this case, please use the `master` branch.)
 
-If you have no previous experience with Git, here is a quick tutorial on how to deal with the branches. Please refer to on-line documentation of Git and Github for more details. The tutorial assumes that you are communicating with Github from a Linux shell. The interface may be different if your OS is Windows. If you are working only with the Github web interface, you are not dependent on your operating system but you must remember to switch the `Branch: master` drop-down menu (left-hand side of the page) to `Branch: dev`; it always starts in `master` by default. In contrast, when you want to clone the repository to your local system, you need the address that is hidden under `Clone or download` in the right-hand side of the page, and that address is common for all branches. Our example is the [Italian repository](https://github.com/UniversalDependencies/UD_Italian/tree/dev). Here is how you clone the repo to your system (`git clone` is the command, the remainder is the address copied from the Github web):
+If you have no previous experience with Git, here is a quick tutorial on how to deal with the branches. Please refer to on-line documentation of Git and Github for more details. The tutorial assumes that you are communicating with Github from a Linux shell. The interface may be different if your OS is Windows. If you are working only with the Github web interface, you are not dependent on your operating system but you must remember to switch the `Branch: master` drop-down menu (left-hand side of the page) to `Branch: dev`; it always starts in `master` by default. In contrast, when you want to clone the repository to your local system, you need the address that is hidden under `Clone or download` in the right-hand side of the page, and that address is common for all branches. Our example is the [Italian ISDT repository](https://github.com/UniversalDependencies/UD_Italian-ISDT/tree/dev). Here is how you clone the repo to your system (`git clone` is the command, the remainder is the address copied from the Github web):
 
 <pre>
-git clone git@github.com:UniversalDependencies/UD_Italian.git
-<span style="color:blue">Cloning into 'UD_Italian'...
+git clone git@github.com:UniversalDependencies/UD_Italian-ISDT.git
+<span style="color:blue">Cloning into 'UD_Italian-ISDT'...
 remote: Counting objects: 215, done.
 remote: Total 215 (delta 0), reused 0 (delta 0), pack-reused 215
 Receiving objects: 100% (215/215), 6.98 MiB | 4.55 MiB/s, done.
@@ -300,7 +300,7 @@ Checking connectivity... done.</span>
 Then enter the cloned folder and switch to ("checkout") the `dev` branch. Your copy of the repository knows that such a branch exists on the server but it only creates your local copy of that branch once you ask for it. You may subsequently want to call `git pull` to make sure that you have the latest contents of the dev branch from the server:
 
 <pre>
-cd UD_Italian
+cd UD_Italian-ISDT
 git checkout dev
 <span style="color:blue">Branch dev set up to track remote branch dev from origin.
 Switched to a new branch 'dev'</span>
