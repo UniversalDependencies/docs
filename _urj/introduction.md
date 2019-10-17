@@ -2,19 +2,29 @@
 layout: base
 title:  'Introduction'
 permalink: urj/overview/introduction.html
+udver: '2'
 ---
 
 # Introduction
 
 The Uralic branch of the Universal Dependencies is a collective documentation
-of the Uralic language group. This concerns existing treebanks and documents of
-[Finnish](../../fi/overview/introduction.html),
-[Hungarian](../../hu/overview/introduction.html) and
-[Estonian](../../et/overview/introduction.html), as well as forthcoming minority
-Uralic languages. This project is a first attempt to co-ordinate unity within a
-language group annotation principles and document common best practices. The
-project is maintained by [ACL SIG for Uralic 
-Languages](http://gtweb.uit.no/sigur/).
+of the Uralic language group. This concerns existing treebanks:
+
+* [Estonian](../../et/),
+* [Finnish](../../fi/),
+* [Hungarian](../../hu/),
+* [Karelian](../../krl/)
+* [Komi-Permyak](../../kpv/)
+* [Komi-Zyrian](../../kpv/)
+* [Livvi](../../krl/)
+* [North Sámi](../../sme/)
+* [Skolt Sami](../../sms/)
+
+and is hoped to be used as a basis for future Uralic treebanks alongside the
+universal guidelines.  This project is a first attempt to co-ordinate unity
+within a language group annotation principles and document common best
+practices. The project is maintained by [ACL SIG for Uralic
+Languages](https://acl-sigur.github.io/).
 
 One of the things that this documentation does is provides comparisons of
 existing Uralic treebanks, and either explains the differences or points at
@@ -33,5 +43,6 @@ detail in this Uralic branch.
 
 There’s a solid history within uralistic computational linguistics towards
 rule-based parsing. It should be noted that many of the traditional parsers
-can be relatively easily mapped to Universal Dependencies scheme. In the future
-we will provide software to do so (semi-)automatically.
+can be relatively easily mapped to Universal Dependencies scheme. See for
+example [North Sámi](../../sme/) or [Karelian](../../krl/) for Universal
+Dependencies treebanks that have been build in this manner.
