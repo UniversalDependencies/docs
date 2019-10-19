@@ -29,7 +29,7 @@ udver: '2'
 
 * Case has 13 possible values: Nom, Gen, Abl, Dat, Ine, Ill, Ela, Tra, Prl, Loc, Lat, Comp, Temp. They occur with following word POS: NOUN, PROPN, PRON, NUM, ADJ and ADP, ADV.
 * Besides nouns the cases are widely used with adpositions and adverbs, which are also tagged separately for case and may be cause for reanalysis as relator nouns.
-* Erzya has possessor indices that distinguish three categories of person and two for number. These suffixes may occur not only on nominals: NOUN, PROPN, PRON, NUM, ADJ but ADP and non-finite VERB, as well.
+* Erzya has possessive suffixes that distinguish three categories of person and two for number. These suffixes may occur not only on nominals: NOUN, PROPN, PRON, NUM, ADJ but ADP and non-finite VERB, as well.
 
 #### Degree and Polarity
 
@@ -50,21 +50,21 @@ udver: '2'
 * Nominal objects are noun phrases which are generally either in the nominative or genitive case, but they may also occur in the ablative or inessive case.
 
 * The following subtypes are used in Erzya:
-  * [aux:neg]() for the negative auxiliary verbs and particles
   * [acl:relcl]() for relative clause
-  * [obl:tmod]() for obl relation with temporal value
-  * [xcomp:ds]() for xcomp with a different subject from the one in the matrix verb
-  * [obl:agent]() for obl with agent relation, such as genitive form personal pronouns with non-finite
-  * [flat:name]() for flat used in person names
+  * [advmod:tmod]() for advmod with temporal value
+  * [aux:neg]() for the negative auxiliary verbs and particles
   * [aux:q]() for question adv in indirect questions of the Russian type
+  * [cc:preconj]() for conjunctor preceding first conjunct where the construction involves a pair
+  * [compound:coll]() for compound constructions indicating collectives according to mentioned elements or possibly more abstract
+  * [compound:redup]() for compound involving reduplication
+  * [compound:svc]() for second verb in consecutive events
+  * [flat:name]() for flat used in person names
+  * [nmod:comp]() for nmod before adverb requiring a standard of comparison
   * [nmod:gsubj]() for nmod with a genitive subject noun, with deverbal noun
   * [nmod:gobj]() for nmod with a genitive object noun, with deverbal	noun
-  * [compound:svc]() for second verb in consecutive events
-  * [nmod:comp]() for nmod before adverb requiring a standard of comparison
-  * [advmod:tmod]() for advmod with temporal value
-  * [cc:preconj]() for conjunctor preceding first conjunct where the construction involves a pair
-  * [compound:redup]() for compound involving reduplication
-  * [compound:coll]() for compound constructions indicating collectives according to mentioned elements or possibly more abstract
+  * [obl:agent]() for obl with agent relation, such as genitive form personal pronouns with non-finite
+  * [obl:tmod]() for obl relation with temporal value
+  * [xcomp:ds]() for xcomp with a different subject from the one in the matrix verb
 
 ## Treebanks
 

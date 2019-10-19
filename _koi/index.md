@@ -32,7 +32,7 @@ udver: '2'
 
 #### Degree and Polarity
 
-* The comparative is formed with the suffix -жык 'more' and the superlative is formed by adding the prefix мед- or using a preposed adverb медся 'most'. Comparative suffixing can be applied to verbs and declined nouns, as well.
+* The comparative is formed with the suffix -жык 'more', and the superlative is formed by adding the prefix мед- or using a preposed adverb медся 'most'. Comparative suffixing can be applied to verbs and declined nouns, as well.
 * Polarity in Komi-Permyak is found in the negative verbs and particles. 
 
 
