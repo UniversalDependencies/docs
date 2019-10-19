@@ -1,26 +1,26 @@
 ---
 layout: base
-title:  'Skolt Sami UD'
+title:  'Skolt Sámi UD'
 udver: '2'
 ---
 
-# UD for Skolt Sami <span class="flagspan"><img class="flag" src="../../flags/svg/SAMI.svg" /></span>
+# UD for Skolt Sámi <span class="flagspan"><img class="flag" src="../../flags/svg/SAMI.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
-*
+* Words are generally delimited by whitespace or punctuation. Exceptions:
+  * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace: *1.1.1970*, *11:00*, *2 000*.
+  * Abbreviations are treated as single words and may contain punctuation or whitespace.
+* Multiword tokens are not used in Skolt Sámi.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
+* Skolt Sámi uses 16 of the 17 universal part-of-speech tags: ADJ, ADP, ADV, AUX, CCONJ, CONJ, DET, INTJ, NOUN, NPROP, NUM, PRON, PROPN, PUNCT, SCONJ, VERB .
 
+Acc, Com, Ess, Gen, Ill, Loc, Nom, Par
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
