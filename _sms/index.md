@@ -11,7 +11,7 @@ udver: '2'
 * Words are generally delimited by whitespace or punctuation. Exceptions:
   * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace: *1.1.1970*, *11:00*, *2 000*.
   * Abbreviations are treated as single words and may contain punctuation or whitespace.
-* Multiword tokens are not used in Skolt Sámi.
+* Multiword tokens are used in Skolt Sámi in certain fixed phrases subjunctions and adverbials: _ouddâl ko_ (before), _čõõđ ääiʹj_ (in time).
 
 
 ## Morphology
@@ -35,6 +35,10 @@ udver: '2'
 * The comparative is formed with the suffix -Vb '-er', and the superlative is formed by adding the -mõs, -mmus. 
 * Polarity in Skolt Sámi is found in the negative verbs and particles.
 
+#### Verbal features
+* Mood has 4 possible values: Ind, Imp, Cnd, Pot.
+* Finite verbs are marked for the categories of tense: Prt (past) and Pres (non-past); person: first, second and third in combination with number singular and plural. There is an additional indefinite person conjugation indicated by fourth person singular.
+* Verbs have many forms of regular derivation, one specifically is the inchoative _-škueʹtted_ (begin to X), which, when the verb undergoes negation, conveys the meaning (begin not to X).
 
 ## Syntax
 
