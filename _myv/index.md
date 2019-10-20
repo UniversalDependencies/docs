@@ -36,6 +36,10 @@ udver: '2'
 * The comparative and superlative are formed analytically with the adverbs седе 'more' and сех, сехте, веседе, весемеде 'most'. 
 * Polarity in Erzya is found in the negative verbs and particles. 
 
+#### Verbal features
+* Mood has 8 possible values: Ind, Imp, Cnd, Cnj, CndCnj, Des, Opt, Proh.
+* Finite verbs are marked for the categories of tense: Prt1 (first preterit), PrtII (second preterit) and Pres (non-past); person: first, second and third in combination with number singular and plural.
+* Verbs have many forms of regular derivation, one specifically is the the imperfective Okshnoms, which conveys the meaning of something which can happen without an effect on the present state of affairs.
 
 ## Syntax
 
