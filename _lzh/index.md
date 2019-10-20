@@ -3,7 +3,7 @@ layout: base
 title:  'Classical Chinese UD'
 udver: '2'
 ---
-# UD for Classical Chinese
+# UD for Classical Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/LZH.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -27,7 +27,7 @@ udver: '2'
 
 There is 1 LANGUAGE UD treebank:
 
-* UD_Classical_Chinese-Kyoto
+* [UD_Classical_Chinese-Kyoto](../treebanks/lzh_kyoto/index.html)
 
 ## References
 
