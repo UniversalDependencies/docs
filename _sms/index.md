@@ -9,8 +9,8 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation. Exceptions:
-  * Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace: *1.1.1970*, *11:00*, *2 000*.
-  * Abbreviations are treated as single words and may contain punctuation or whitespace.
+* Numerical expressions (including dates) are treated as single words and may contain punctuation or whitespace: *1.1.1970*, *11:00*, *2 000*.
+* Abbreviations are treated as single words and may contain punctuation or whitespace.
 * Multiword tokens are used in Skolt Sámi in certain fixed phrases subjunctions and adverbials: _ouddâl ko_ (before), _čõõđ ääiʹj_ (in time).
 
 
@@ -19,7 +19,7 @@ udver: '2'
 ### Tags
 
 * Skolt Sámi uses 16 of the 17 universal part-of-speech tags: ADJ, ADP, ADV, AUX, CCONJ, CONJ, DET, INTJ, NOUN, NPROP, NUM, PRON, PROPN, PUNCT, SCONJ, VERB .
-* There are two copulas leeʹd and iʹlla. The first one means “to be“, and the second one means “is not“.
+* There are two copulas leeʹd and iʹlla. The first one means (to be), and the second one means (is not).
 * Verbs of negation and negative particles have been labled AUX with an aux:neg relation.
 
 
