@@ -7,7 +7,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* There is no spaces or punctuations between words or sentences.
+* There are neither spaces nor punctuations between words or sentences.
 
 ## Morphology
 
@@ -25,7 +25,7 @@ udver: '2'
 
 ## Treebanks
 
-There is 1 LANGUAGE UD treebank:
+There is one Classical Chinese UD treebank:
 
 * [UD_Classical_Chinese-Kyoto](../treebanks/lzh_kyoto/index.html)
 
