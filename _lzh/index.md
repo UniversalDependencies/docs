@@ -7,7 +7,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-There are neither spaces nor punctuations between words or sentences.
+There are neither spaces nor punctuations between words or sentences. The word consists of a single character, except for several (proper) nouns.
 
 ## Morphology
 
