@@ -3,11 +3,11 @@ layout: base
 title:  'Classical Chinese UD'
 udver: '2'
 ---
-# UD for Classical Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/LZH.svg" /></span>
+# UD for Classical Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/CN-QING.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
-There are neither spaces nor punctuations between words or sentences. The word consists of a single character, except for several (proper) nouns.
+There are neither spaces nor punctuations between words or sentences. Every word consists of a single character, except for several (proper) nouns.
 
 ## Morphology
 
