@@ -13,13 +13,17 @@ udver: '2'
 
 ### Tags
 
-* `ADJ` `DET` `PUNCT` `X` are not used.
+The predicate-object-final structure of very early Chinese texts had only three categories of words:　predicate, object, and final. Here in our linguistic model we tentatively call them “verb” “noun” and “particle” respectively. Several words were specialised to be used as verbs,　several as nouns, but most of them had been used in two or three categories around Zhou (周) dynasty.
+At that era, we can observe very early modifier usages of verbs. Several verbs were specialised to be used as adverbial modifiers, afterwards caused adverbs. In between verbs and adverbs, auxiliary verbs were almost specialised to auxiliary uses, but incidentally used as verbs. Adjective usages of verbs were not specialised as adjectives at that era, on the other hand, some caused prepositions.
+For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP` and `SCONJ` to fill UPOS field of each verb-origin word, following the overview of modifier usages mentioned above. For noun-origin words we use `NOUN` `PROPN` `PRON` `NUM` and `ADV` (noun-origin adverbs including 何), categorising them in rather nowadays point of view. For particle-origin words we use `PART` `CCONJ` and `INTJ`, keeping up with the guideline of UD v2. We rarely use `SYM`, and do not use `ADJ` `DET` `PUNCT` or `X`.
 
 ### Features
 
 * `NameType=Sur`|`Giv`|`Prs`|`Nat`|`Geo` for `PROPN`.
 * `Case=Loc`|`Tem` or `NounType=Class` for `NOUN`.
-* `PronType=Prs` with `Person=1`|`2`|`3` or `Reflex=Yes` for personal `PRON`, `PronType=Dem`|`Int` for other `PRON`.
+* `PronType=Prs` with `Person=1`|`2`|`3` or `Reflex=Yes` for personal `PRON`.
+* `PronType=Dem` for demonstrative `PRON`.
+* `PronType=Int` for interrogative `PRON`.
 * `NumType=Ord` for zodiac `NUM`.
 * `Polarity=Neg` or `Degree=Pos`|`Equ`|`Sup`|`Cmp` for `VERB` and `ADV`.
 * `AdvType=Deg`|`Tim`|`Cau` with `Aspect=Perf` or `Tense=Past`|`Pres`|`Fut` for `ADV`.
@@ -30,7 +34,11 @@ udver: '2'
 
 ## Syntax
 
-* TBD
+* `discourse:sp` to annotate the final sentence particles in the predicate-object-final structure.
+* `obl:tmod` to annotate temporal oblique nominals.
+* `obl:lmod` to annotate locational oblique nominals.
+* `compound:redup` (left-to-right) to annotate reduplicated compounds.
+* `flat:vv` (left-to-right) to annotate serial verbs (rather exocentric).
 
 ## Treebanks
 
