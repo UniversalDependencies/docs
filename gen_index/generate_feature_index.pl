@@ -33,6 +33,7 @@ Poss: possessive
 PronType: pronominal type, personal, reciprocal pronominal, article, interrogative, relative, demonstrative, total, collective pronominal, negative pronominal, indefinite pronominal, emphatic, exclamative
 Reflex: reflexive
 Tense: tense, past, preterite, aorist, non-past, present, future, imperfect tense, pluperfect, past perfect
+Typo: typo
 VerbForm: verb form, finite verb, non-finite verb, infinitive, supine, participle, verbal adjective, converb, transgressive, adverbial participle, verbal adverb, gerundive, gerund, verbal noun, masdar
 Voice: voice, active, middle voice, passive, antipassive, direct voice, inverse voice, reciprocal voice, causative voice
 EOF
