@@ -79,7 +79,7 @@ imperfect).
 
 
 
-### <a name="Pres">`Pres`</a>: present tense
+### <a name="Pres">`Pres`</a>: present / non-past tense
 
 The present tense denotes actions that are in progress (or states that
 are valid) in a reference point; it may also describe events that usually
@@ -91,6 +91,12 @@ other kinds of converbs. In these cases, the reference point may be in
 past or future when compared to the moment of speaking. For instance,
 the English present participle may be used to form a past progressive tense:
 _he was watching TV when I arrived._
+
+Some languages (e.g. Uralic) only distinguish past vs. non-past morphologically,
+and then `Tense=Pres` can be used to represent the non-past form.
+Similarly, some Slavic languages (e.g. Czech), although they do
+distinguish the future tense, nevertheless have a subset of verbs
+where the morphologically present form has actually a future meaning.
 
 #### Examples
 
