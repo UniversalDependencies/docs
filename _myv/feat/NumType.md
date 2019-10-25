@@ -34,13 +34,15 @@ This is subtype of adverb.
 
 * [myv] _весть, кавксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
 
-### `Set`: set numeral or corresponding interrogative / relative / indefinite / demonstrative word
+### `Set`: set numeral or corresponding interrogative / relative / indefinite  word
 
-This is a subtype of number in Erzya, and it is a regular inflection of virtually any whole number.
+This is a subtype of number in Erzya, and it is a regular inflection of virtually any whole number. It is used for counting pairs, plural nouns, and types.
 
 #### Examples
 
-* [myv] _веенст понкст, кавонст конфеткат, колмонст васоньпеельть_ "_one pair of pants, two sets of candy, three pair of scissors_"
+* [myv] _веенст понкст, колмонст васоньпеельть_ "_one pair of pants, three pair of scissors_"
+* [myv] _колмонст нурдт_ "_three sleighs_ (plural countable noun)"
+* [myv] _кавонст оргат_ "_two types of yeast_ (plural noncountable noun)"
 
 
 ### `OrdMult`: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
