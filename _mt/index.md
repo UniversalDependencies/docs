@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Maltese UD'
-udver: '2.4'
+udver: '2'
 ---
 
 # UD for Maltese <span class="flagspan"><img class="flag" src="http://universaldependencies.org/flags/svg/MT.svg" height="20"/></span>
