@@ -10,6 +10,14 @@ shortdef: 'numeral type'
 
 * [myv] _вейке, кавто, колмо_ "_one, two, three_"
 
+### `Dist`: distributive number is made through reduplication of the number in the indefinite genitive for all but the number 'one'. Alternatively, the second element may appear in the nominative singular, in which case there is an implication the everything has been distributed.
+
+#### Examples
+
+* [myv] _вейте-вейте, кавтонь-кавтонь, колмонь-колмонь_ "_one a piece; two a piece, two-by-by; three a piece, three-by-three_"
+* [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавтонь_ "_the teacher passsed out the apples two a piece_"
+* [myv] _тонавтыцясь явшинзе умартнень кавтонь-кавто_ "_the teacher passsed out the apples two a piece <until there were no more>_"
+
 ### `Ord`: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
 This is a subtype of adjective or (in some languages) of adverb.
@@ -32,12 +40,12 @@ This is a subtype of number in Erzya, and it is a regular inflection of virtuall
 
 #### Examples
 
-* [myv] _веенст понкст, кавонст конфеткат, колмонст васоньпеельть_ "_one pair of pants, two sets of candy, three pair of scisors_"
+* [myv] _веенст понкст, кавонст конфеткат, колмонст васоньпеельть_ "_one pair of pants, two sets of candy, three pair of scissors_"
 
 
 ### `OrdMult`: ordinal multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
 
-This is a subtype of adverb but in Erzya is a regular inflection of virtually any whole number.
+This is a subtype of adverb, but in Erzya it is a regular inflection of virtually any whole number.
 
 #### Examples
 
