@@ -29,7 +29,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 * `NumType=Ord` for zodiac `NUM`.
 * `Polarity=Neg` or `Degree=Pos`|`Equ`|`Sup`|`Cmp` for `VERB` and `ADV`.
 * `AdvType=Deg`|`Tim`|`Cau` with `Aspect=Perf` or `Tense=Past`|`Pres`|`Fut` for `ADV`.
-* `Mood=Pot`|`Nec`|`Des` `Voice=Pass` for `AUX`.
+* `Mood=Pot`|`Nec`|`Des` or `Voice=Pass` for `AUX`.
 * `VerbType=Cop` for copular use of verb (its UPOS is changed into `AUX`).
 * `VerbForm=Part` for adjective use of `VERB`.
 * `VerbForm=Conv` for adverbial use of verb (its UPOS is changed into `ADV`).
@@ -37,6 +37,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 ## Syntax
 
 * `discourse:sp` to annotate the final sentence particles in the predicate-object-final structure.
+* `nsubj:pass` to annotate passive subjects.
 * `obl:tmod` to annotate temporal oblique nominals.
 * `obl:lmod` to annotate locational oblique nominals.
 * `compound:redup` (left-to-right) to annotate reduplicated compounds.
