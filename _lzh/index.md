@@ -3,7 +3,7 @@ layout: base
 title:  'Classical Chinese UD'
 udver: '2'
 ---
-# UD for Classical Chinese <span class="flagspan"><img class="flag" src="../../flags/svg/CN-QING.svg" /></span>
+# UD for Classical Chinese <span class="flagspan"><img class="flag" src="https://universaldependencies.org/flags/svg/CN-QING.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,7 +46,7 @@ For POS-tagging of classical Chinese texts in UD, we use `VERB` `ADV` `AUX` `ADP
 
 There is one Classical Chinese UD treebank:
 
-* [UD_Classical_Chinese-Kyoto](../treebanks/lzh_kyoto/index.html)
+* [UD_Classical_Chinese-Kyoto](https://universaldependencies.org/treebanks/lzh_kyoto/)
 
 ## References
 
