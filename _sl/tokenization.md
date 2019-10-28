@@ -1,11 +1,12 @@
 ---
 layout: base
 title:  'Tokenization'
+udver: '2'
 ---
 
 # Tokenization
 
-Tokenization of the Slovenian UD Treebank reflects the following principles:
+Tokenization of the Slovenian SSJ UD Treebank reflects the following principles:
 
 Space is the principal separator for tokens.
 
