@@ -16,7 +16,6 @@ Please check the readme/GitHub repo of the GSW treebank for further/current info
 
 As for German, words are generally delimited by white spaces. However, there is a lot more freedom in merging any words together, which can't usually be split in an easy way. I.e. we use the German tokenization and introduce a separate tag for merged words (see meta tag `TAG+` described further down).
 
-
 The POS annotations are generally based on the German guidelines, namely the [Stuttgart-Tübingen-TagSet (STTS)](http://www.sfs.uni-tuebingen.de/resources/stts-1999.pdf) and some changes according to the [TIGER annotation scheme](https://files.ifi.uzh.ch/cl/siclemat/lehre/papers/tiger-annot.pdf). Furthermore, dealing with Swiss German, there is the need for an additional POS tag `PTKINF`, not present in the STTS tagset, as well as for the "meta tag" `TAG+`. 
 
 * `PTKINF` is an infinitive particle which does not exist in Standard German but is frequently used in dialects. It comes in the form of _go_, _cho_, _goge_, _lo_ to name a few, as in _Si gönd go poschte_. (_They go shopping._) In the Standard German translation, _Sie gehen einkaufen._, we can see that there is no equivalent. Concerning dependencies it is treated as a marker introducing a finite clause subordinate to another clause (`mark`) because they usually appear in _um ... zu_ (_in order to_) constructions in German.
