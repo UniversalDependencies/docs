@@ -33,7 +33,7 @@ Dot becomes part of a W token if it is:
 URLs and e-mail addresses: all C characters become part of a single W token in strings recognized as URLs or addresses using a regular expression.
 
 
-Information on whether a token is followed by a space (e.g. _<b>d.o.o.</b>_ vs. _<b>d. o. o.</b>_) is indicated with `SpaceAfter=Yes` feature in the MISC column.
+Information on whether a token is not followed by a space (e.g. _<b>d.o.o.</b>_ vs. _<b>d. o. o.</b>_) is indicated with `SpaceAfter=No` feature in the MISC column.
 
 Note that the current version of the Slovenian UD Treebank does not yet comply with the universal guidelines recommendation for splitting of fused words, such as combinations of prepositions and pronouns, e.g. _<b>name</b> "on me", _<b>zanj</b> "for him", _vase_ "in/to oneself". Instead, these tokens are currently marked as [pronouns](PRON) with feature [Variant=Bound](Variant).
 
