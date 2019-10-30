@@ -56,7 +56,7 @@ udver: '2'
 * MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward (see table below), except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
 
 | UPOS  | XPOS                                                                                                       | Comments                                                                   |
-|-------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|-------|------------------------------------------------------------------------------------------------------------|----------
 | ADJ   | ADJ                                                                                                        |                                                                            |
 | ADV   | ADV, FOC                                                                                                   |                                                                            |
 | INTJ  | INT                                                                                                        |                                                                            |
