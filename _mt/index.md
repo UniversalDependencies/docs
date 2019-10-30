@@ -55,7 +55,6 @@ udver: '2'
 * Some forms can appear in two different syntactic roles - *Maltin* can be both and ADJ and a NOUN, *qabel* can function both as a PREP and an ADV. In such cases, they are tagged based on their syntactic role.
 * MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward (see table below), except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
 
-
 | UPOS  | XPOS                                                                                                       | Comments                                                                   |
 |-------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ADJ   | ADJ                                                                                                        |                                                                            |
