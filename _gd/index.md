@@ -57,8 +57,6 @@ Standard UPOS tags are used throughout. Generally we follow the choices made in 
 * Demonstrative pronouns, _seo_, _sin_ and _siud_ are tagged as PRON as in Irish.
 * If they are acting as determiners (and tagged as Dd in ARCOSG) then they are tagged DET, as in Irish again.
 
----
-
 ### Features
 
 Gaelic has two genders (masculine and feminine), four cases (nominative/accusative, genitive, dative and vocative), three numbers (singular, dual and plural), the usual three persons and an impersonal form.
@@ -70,7 +68,6 @@ The indicative mood is default and we mark the conditional (Cnd), imperative (Im
 We also follow Irish in marking three pronoun types (Emp = emphatic, Int = interrogative and Rel = relative), polarity (Neg on negative particles) and the following particle types: Ad (adverbialiser), Comp (comparative), Cmpl (complement), Inf (agreement particle), Int (interrogative), Num (numerical), Pat (patronymic), Vb (verbal) and Voc (vocative).
 
 We also have Foreign=Yes for words that are in Irish or English according to the original ARCOSG tagging.
----
 
 ## Syntax
 
@@ -110,7 +107,7 @@ With one exception, these follow Irish:
 * `nmod:poss` for possessive pronouns (but we use `obj` where the use of the possessive pronoun indicates an object)
 * `obl:smod` (not in Irish) for spatial modifiers
 * `obl:tmod` for temporal modifiers
-* `xcomp:pred` for predicates of the substantive verb 'to be'.
+* `xcomp:pred` for predicates of the substantive verb _bi_ 'to be'. _bi_ does not take an object. To identify the predicate: the most likely is a verbal noun, followed by an existential prepositional phrase _ann_ or a prepositional phrase expressing location, a noun phrase expressing temporal extent, spatial extent or cost, and lastly an adverb.
 
 ---
 
@@ -119,4 +116,10 @@ With one exception, these follow Irish:
 There is one Scottish Gaelic UD treebank:
 
   * [ARCOSG](../treebanks/UD_Scottish_Gaelic-ARCOSG/index.html)
+
+## References
+
+* Colin Batchelor, 2019. Universal dependencies for Scottish Gaelic: syntax, in Proceedings of CLTW2019 at Machine Translation Summit XVII, Dublin, August
+* Lamb, William, Sharon Arbuthnot, Susanna Naismith, and Samuel Danso. 2016. Annotated Reference Corpus of Scottish Gaelic (ARCOSG), 1997–2016 [dataset]. Technical report, University of Edinburgh; School of Literatures, Languages and Cultures; Celtic and Scottish Studies. https://doi.org/10.7488/ds/1411.
+* Lynn, Teresa and Jennifer Foster, [Universal Dependencies for Irish] (http://www.nclt.dcu.ie/~tlynn/Lynn_CLTW2016.pdf), CLTW 2016, Paris, France, July 2016
 
