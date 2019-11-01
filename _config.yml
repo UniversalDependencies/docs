@@ -228,6 +228,20 @@ collections:
     output: true
   gd:
     output: true
+  as:
+    output: true
+  mdf:
+    output: true
+  sms:
+    output: true
+  gsw:
+    output: true
+  quz:
+    output: true
+  koi:
+    output: true
+  qaf:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

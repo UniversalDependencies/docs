@@ -134,6 +134,60 @@ UD is an open collaboration with many project members. The administrative struct
 
 ## UD-related publications
 
+### 2019 
+
+* [_Proceedings of the Third Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W19-80.pdf), UDW 2019, SyntaxFest, Paris.
+
+* Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Guy Perrier. 2019. [Improving Surface-syntactic Universal Dependencies (SUD): surface-syntactic functions and deep-syntactic features](https://www.aclweb.org/anthology/W19-7814.pdf), _Proceedings of the 17th international conference on Treebanks and Linguistic Theories (TLT)_, SyntaxFest, Paris.
+
+### 2018
+
+* [_Proceedings of the Second Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W18-6000.pdf), UDW 2018, EMNLP,Brussels.
+
+* Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
+
+* Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
+
+* Sylvain Kahane, Marine Courtin, Kim Gerdes. 2018. [Multi-word annotation in syntactic treebanks: Propositions for Universal Dependencies](https://www.aclweb.org/anthology/W17-7622.pdff), _Proceedings of the 16th international conference on Treebanks and Linguistic Theories (TLT)_, Prague.
+
+### 2017
+* [_Proceedings of the First Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W17-0400.pdf), UDW 2017, NoDaLiDa, Gothenburg.
+
+### 2016
+
+* Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
+
+### 2015
+
+* Kim Gerdes, Sylvain Kahane. 2015. [Non-constituent coordination and other coordinative constructions as dependency graphs](https://www.aclweb.org/anthology/W15-2113.pdf), _Proceedings of the 3rd international conference on Dependency Linguistics (Depling)_, Uppsala.
+
+* Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
+
+ * Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
+ 
+* Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
+
+* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
+
+### 2014
+
+* Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
+  In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
+  
+* Rudolf Rosa, Jan Mašek, David Mareček, Martin Popel, Daniel Zeman, Zdeněk Žabokrtský. 2014.
+  [HamleDT 2.0: Thirty Dependency Treebanks
+  Stanfordized](http://www.lrec-conf.org/proceedings/lrec2014/pdf/915_Paper.pdf).
+  In *Proceedings of LREC*.
+  ([home page](http://ufal.mff.cuni.cz/hamledt))
+
+* Daniel Zeman, Ondřej Dušek, David Mareček, Martin Popel, Loganathan Ramasamy,
+  Jan Štěpánek, Zdeněk Žabokrtský, and Jan Hajič. 2014.
+  [HamleDT: Harmonized multi-language dependency treebank](http://link.springer.com/article/10.1007/s10579-014-9275-2).
+  In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
+  (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
+
+### 2013 and before  
+
 * Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
   [Converting Italian treebanks: Towards an Italian Stanford dependency treebank](http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf),
   In *7th Linguistic Annotation Workshop and Interoperability with Discourse*.
@@ -182,33 +236,10 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   In *Proceedings of ACL*.
   ([home page](https://code.google.com/p/uni-dep-tb/))
 
-* Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
-  In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
-
-* Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
-
-* Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
-
-* Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
-
-* Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
-
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
-  
-* Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
-
-* Adam Przepiórkowski and Agnieszka Patejuk. 2019. [From Lexical Functional Grammar to enhanced Universal Dependencies: The UD-LFG treebank of Polish](https://doi.org/10.1007/s10579-018-9433-z). Language Resources and Evaluation.
-
-* Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
-
-* Rudolf Rosa, Jan Mašek, David Mareček, Martin Popel, Daniel Zeman, Zdeněk Žabokrtský. 2014.
-  [HamleDT 2.0: Thirty Dependency Treebanks
-  Stanfordized](http://www.lrec-conf.org/proceedings/lrec2014/pdf/915_Paper.pdf).
-  In *Proceedings of LREC*.
-  ([home page](http://ufal.mff.cuni.cz/hamledt))
 
 * Mojgan Seraji, Carina Jahani, Beáta Megyesi, and Joakim Nivre. 2013.
   [A Persian treebank with Stanford typed dependencies](http://www.lrec-conf.org/proceedings/lrec2014/pdf/378_Paper.pdf).
@@ -225,14 +256,6 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
   Drivers](http://lrec-conf.org/proceedings/lrec2008/pdf/66_paper.pdf).
   In *Proceedings of LREC*.
   ([home page](http://ufal.mff.cuni.cz/interset))
-
-* Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
-
-* Daniel Zeman, Ondřej Dušek, David Mareček, Martin Popel, Loganathan Ramasamy,
-  Jan Štěpánek, Zdeněk Žabokrtský, and Jan Hajič. 2014.
-  [HamleDT: Harmonized multi-language dependency treebank](http://link.springer.com/article/10.1007/s10579-014-9275-2).
-  In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
-  (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
 
 * Daniel Zeman, and Philip Resnik. 2008. [Cross-Language Parser Adaptation between Related
   Languages](http://ufal.mff.cuni.cz/~zeman/publikace/2008-01/padapt-hyderabad-05c-postfinal.pdf).

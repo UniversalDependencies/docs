@@ -5,9 +5,9 @@ shortdef: 'orphan'
 udver: '2'
 ---
 
-The 'orphan' relation is used in cases of head [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural 
+The 'orphan' relation is used in cases of head [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in an unnatural 
 and misleading dependency relation. The typical case is predicate ellipsis where one of the core arguments
-have to be promoted to clausal head.
+has to be promoted to clausal head.
 
 ~~~sdparse
 Marie won gold and Peter bronze

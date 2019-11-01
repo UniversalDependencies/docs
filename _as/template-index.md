@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Karelian UD'
+title:  'Assamese UD'
 udver: '2'
 ---
 
-# UD for Karelian <span class="flagspan"><img class="flag" src="../../flags/svg/RU-KR.svg" /></span>
+# UD for Assamese <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

@@ -1,12 +1,17 @@
 ---
 layout: relation
 title: 'fixed'
-redirect_from: "en/dep/mwe.html"
-shortdef : 'multi-word expression'
+shortdef: 'fixed multiword expression'
+udver: '2'
 ---
 
-The multi-word expression (modifier) relation is used for certain fixed grammaticized expressions with function words that behave like a single function word. Multiword expressions are annotated in a flat, head-initial structure,
-in which all words in the expression modify the first one using the
+The `fixed` relation is one of the three relations for multiword expressions (MWEs)
+(the other two being [flat]() and [compound]()). 
+It is used for certain fixed grammaticized expressions that behave
+like function words or short adverbials.
+
+The fixed relation is used for certain fixed grammaticized expressions with function words that behave like a single function word. 
+Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label.
 
 At present, this relation is used inside the following expressions: 

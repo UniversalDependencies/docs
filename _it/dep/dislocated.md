@@ -16,8 +16,10 @@ dislocated(sentito, Wojtyla)
 ~~~
 ~~~ sdparse
 l' occasione propizia glie l' ha offerta Alija Izetbegovic
-obj(offerta, l')
+det(occasione, l'-1)
+obj(offerta, l'-5)
 dislocated(offerta, occasione)
+nsubj(offerta, Alija)
 ~~~
 ~~~ sdparse
 li abbiamo cacciati già i fascisti

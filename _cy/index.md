@@ -50,8 +50,8 @@ udver: '2'
 ### Features
 
 * Additional features exist to indicate the initial mutation
-  * Mutation=AM,NM,SM for aspirated, nasal or soft mutation
-  * Person=Impers for the impersonal form of verbs: _cyhoeddwyd y llyfr y llinedd_ «One has published the book last year» (cf. French «on a publié le livre l'an dernier» or German «man hat das Buch letztes Jahr veröffentlicht»). Usually the impersonal forms are translated by passive forms in English, French or German.
+  * `Mutation=AM,NM,SM` for aspirated, nasal or soft mutation
+  * impersonal form of verbs use `Person=0`: _cyhoeddwyd y llyfr y llinedd_ «One has published the book last year» (cf. French «on a publié le livre l'an dernier» or German «man hat das Buch letztes Jahr veröffentlicht»). Usually the impersonal forms are translated by passive forms in English, French or German.
   * Tense=Cond,Future,Imperative,Imperfect,Pluperfect,Present,Subj 
 
 

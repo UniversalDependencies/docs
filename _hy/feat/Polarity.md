@@ -18,7 +18,7 @@ and an independent negating particle (equivalent to English “not”)
 is rarely seen. Words that can take the morpheme of negation have
 the feature of polarity.
 
-It applies to [verbs](VERB), [auxilaries](AUX) and [mood particles](PART). See also the related feature [Connegative]().
+It applies to [verbs](VERB), [auxilaries](AUX) and some [particles](PART). See also the related feature [Connegative]().
 
 Note that `Polarity=Neg` is not the same thing as
 [PronType]() =`Neg`. For pronouns and other pronominal parts of speech

@@ -28,8 +28,6 @@ udver: '2'
     * [Relation subtypes](ext-dep-index.html) (list of **all** subtypes that are used in at least one treebank)
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 
-<small>
-This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions,
-see [archived v1 guidelines](docsv1/index.html)
-and [changes from v1 to v2](v2/summary.html).
-</small>
+This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions, see 
+[archived v1 guidelines](docsv1/) and 
+[changes from v1 to v2](v2/summary.html).

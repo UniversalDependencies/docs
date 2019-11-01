@@ -17,7 +17,7 @@ udver: '2'
 
 In Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
 
-Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
+Some geographical or biological/botanical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”, _<b>կատվազգիներ</b>_ “Felidae”, _<b>վարդազգիներ</b>_ “Rosaceae”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
 
 ### <a name="Sing">`Sing`</a>: singular number
 
@@ -77,7 +77,7 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in theory they might be able to form plural, in practice it would be rarely semantically plausible. Sometimes, the plural form exists and means “several sorts of” or “several packages of”.
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
 
 #### Examples:
 

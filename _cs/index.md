@@ -216,7 +216,7 @@ as well as Czech-specific examples scattered across the documentation of constru
 
 There are [five](../treebanks/cs-comparison.html) Czech UD treebanks:
 
-  * [Czech](../treebanks/cs/index.html)
+  * [Czech-PDT](../treebanks/cs_pdt/index.html)
   * [Czech-CAC](../treebanks/cs_cac/index.html)
   * [Czech-CLTT](../treebanks/cs_cltt/index.html)
   * [Czech-FicTree](../treebanks/cs_fictree/index.html)

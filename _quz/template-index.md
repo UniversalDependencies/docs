@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Slovenian UD'
+title:  'Cusco Quechua UD'
 udver: '2'
 ---
 
-# UD for Slovenian <span class="flagspan"><img class="flag" src="../../flags/svg/SI.svg" /></span>
+# UD for Cusco Quechua <span class="flagspan"><img class="flag" src="../../flags/svg/PE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

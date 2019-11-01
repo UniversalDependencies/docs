@@ -20,12 +20,65 @@ The Irish POS-tagger used in the Irish Dependency Treebank retains these as sing
 
 ### POS Tags
 
+<table class="typeindex">
+  <thead>
+    <tr>
+      <th>Open class words</th>
+      <th>Closed class words</th>
+      <th>Other</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADJ.html">ADJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADP.html">ADP</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PUNCT.html">PUNCT</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-ADV.html">ADV</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-AUX.html">AUX</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SYM.html">SYM</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-INTJ.html">INTJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-CCONJ.html">CCONJ</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-X.html">X</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NOUN.html">NOUN</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-DET.html">DET</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PROPN.html">PROPN</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-NUM.html">NUM</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-VERB.html">VERB</a></td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PART.html">PART</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-PRON.html">PRON</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-pos-SCONJ.html
+">SCONJ</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
 The UD part-of-speech (POS) tagset is an extension of the The Google Universal POS tagset (Petrov
 et al., 2012) and contains 17 POS tags.
 The tags for the Irish Dependency Treebank is based on the PAROLE Morphosyntactic Tagset (ITÉ,
 2002).
 
-(Table to be inserted here) A mapping from this tagest to the UD tagset for use in the IUDT is given in: Lynn, Teresa and Jennifer Foster, _Universal Dependencies for Irish_ In Proceedings of the 2nd Celtic Language Technology Workshop 2016, Paris, France.
+A mapping from this tagest to the UD tagset for use in the IUDT is given in: Lynn, Teresa and Jennifer Foster, _Universal Dependencies for Irish_ In Proceedings of the 2nd Celtic Language Technology Workshop 2016, Paris, France.
 
 The following is a summary of some specific/ unintuitive choices made to map Irish data conform to Universal POS tags for UDv2:
 
@@ -43,7 +96,81 @@ The following is a summary of some specific/ unintuitive choices made to map Iri
 
 ### Features
 
----
+Here we summarise the morphological features of Irish which can be categorised into inflectional and lexical features.
+
+<table class="typeindex">
+  <tr>
+    <td>
+      <table class="category">
+       <tr><td><strong>Lexical features</strong></td></tr>
+         <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html">Abbr</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Dialect.html">Dialect</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Foreign.html">Foreign</a></td>
+        </tr>
+        <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-NumType.html">NumType</a></td>
+        </tr>
+                <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PartType.html">PartType</a></td>
+        </tr>
+                <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Poss.html">Poss</a></td>
+        </tr>
+                <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PrepForm.html">PrepForm</a></td>
+        </tr>
+                <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PronType.html">PronType</a></td>
+        </tr>
+                <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Reflex.html">Reflex</a></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td colspan="3"><strong>Inflectional features</strong></td></tr>
+        <tr>
+          <td><i>Nominal</i></td>
+          <td><i>Verbal</i></td>
+        </tr>
+        <tr>
+          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Case.html">Case</a></td>
+          <td><a>Mood</a></td>
+        </tr>
+        <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Definite.html">Definite</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Person.html">Person</a></td>
+</tr>
+        <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Degree.html">Degree</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Polarity.html">Polarity</a></td>
+        </tr>
+        <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Gender.html">Gender</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Tense.html">Tense</a></td>
+</tr>
+     <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Number.html">Number</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-VerbForm.html">VerbForm</a></td>
+</tr>
+     <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Form.html">Form</a></td>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Voice.html">Voice</a></td>
+</tr>
+     <tr>
+<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-NounType.html">NounType</a></td>
+<td></td>
+</tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 Inflection in Irish mainly occurs through suffixation, but initial mutation through lenition and eclipsis is also common. Lenition is a phonological change that softens or weakens the articulation of a consonant. The eclipsis process renders voiced segments as nasalised and voiceless segments as being voiced (Stenson, 1981, p.18). A prominent feature of Irish which influences inflection, is the existence of two sets of consonants,
 referred to as "broad" and "slender" consonants. Consonants can be slenderised by accompanying the consonant with a slender vowel, either _e_ or _i_. Broadening occurs through the use of broad vowels; _a_, _o_ or _u_. In general, there needs to be vowel harmony (slender or broad) between stem endings and the initial vowel in a suffix.
@@ -150,6 +277,198 @@ These forms are used quite frequently, not only with regular prepositional attac
 
 ---
 
+<table class="typeindex" border="1">
+  <tr style="background-color:cornflowerblue">
+    <td>
+      <table class="category">
+        <tr><td><strong></strong></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><strong>Nominals</strong></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><strong>Clauses</strong></td></tr>
+      </table>
+    </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Modifier words</strong></td></tr>
+        </table>
+      </td>
+    <td>
+    <table class="category">
+      <tr><td><strong>Function Words</strong></td></tr>
+    </table>
+        </td>
+    </tr>
+    <tr>
+    <td style="background-color:darkseagreen">
+      <table class="category">
+        <tr><td><strong>Core arguments</strong></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/nsubj.html'>nsubj</a></td></tr>
+        <tr><td>↳<a><strike>nsubj:pass</strike></a></td></tr>
+        <tr><td>↳<a><strike>csubj:pass</strike></a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/obj.html'>obj</a></td></tr>
+        <tr><td><a><strike>iobj</strike></a></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/csubj.html'>csubj</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/csubj-cleft.html'>csubj:cleft</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/csubj-cop.html'>csubj:cop</a></td></tr>
+        <tr><td><a href= 'https://universaldependencies.org/ga/dep/ccomp.html'>ccomp</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/xcomp.html'>xcomp</a></td></tr>
+        <tr><td>↳<a href='https://universaldependencies.org/ga/dep/xcomp-pred.html'>xcomp:pred</a></td></tr>
+      </table>
+    </td>
+    <td></td>
+    <td></td></tr>
+    <tr>
+      <td style="background-color:darkseagreen">
+        <table class="category">
+          <tr><td><strong>Non-core dependents</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/obl.html'>obl</a></td></tr>
+          <tr><td>↳<a>obl:tmod</a></td></tr>
+           <tr><td>↳<a>obl:prep</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/vocative.html'>vocative</a></td></tr>
+          <tr><td><a>expl<strike></strike></a></td></tr>
+          <tr><td><a>dislocated</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/advcl.html'>advcl</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/advmod.html'>advmod</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/discourse.html'>discourse</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a><strike>aux</strike></a></td></tr>
+          <tr><td>↳<a><strike>aux:pass</strike></a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/cop.html'>cop</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/mark.html'>mark</a></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:darkseagreen">
+        <table class="category">
+          <tr><td><strong>Nominal dependents</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/nmod.html'>nmod</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/nmod-poss.html'>nmod:poss</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/appos.html'>appos</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/nummod.html'>nummod</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>acl</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/acl-relcl.html'>acl:relcl</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/amod.html'>amod</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/det.html'>det</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/case.html'>case</a></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr style="background-color:cornflowerblue">
+      <td>
+        <table class="category">
+          <tr><td><strong>Coordination</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>MWE</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Loose</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Special</strong></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><strong>Other</strong></td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="category">
+          <tr><td><a href='https://universaldependencies.org/ga/dep/conj.html'>conj</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/cc.html'>cc</a></td></tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+          <tr><td><a>fixed</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/flat.html'>flat</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat-foreign.html'>flat:foreign</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/flat-name.html'>flat:name</a></td></tr>
+          <tr><td><a href='https://universaldependencies.org/ga/dep/compound.html'>compound</a></td></tr>
+          <tr><td>↳<a href='https://universaldependencies.org/ga/dep/compound-prt.html'>compound:prt</a></td></tr>
+        </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/list.html'>list</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/parataxis.html'>parataxis</a></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a><strike>orphan</strike></a></td></tr>
+        <tr><td><a><strike>goeswith</strike></a></td></tr>
+        <tr><td><a><strike>reparandum</strike></a></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+        <tr><td><a href='https://universaldependencies.org/ga/dep/punct.html'>punct</a></td></tr>
+        <tr><td><a href='https://universaldependencies.org/ga/dep/root.html'>root</a></td></tr>
+        <tr><td><a><strike>dep</strike></a></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
 Here we summarise some of the distinctive features of Irish as a Celtic language. These features commonly occur in standard Irish use and therefore require discussion in the context of treebank development. Irish theoretical syntax is relatively under-researched, yet this summary shows that even within the limited work carried out in this area thus far, there still remain many unresolved disagreements as we show here. In general, Irish dependency treebank development follows the work of Stenson (1981).
 
 
@@ -172,19 +491,18 @@ This is explained in more detail in [cop]().
 
 ###  Core Arguments, Oblique Arguments and Adjuncts
 
-A nominal subject ('nsubj') is a noun phrase in the nominative case, without preposition.
+A nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
 
-An infinitive verb may serve as the subject and is labeled as clausal subject, 'csubj'. On the other hand, verbal nouns as subjects are just nsubj.
+An infinitive verb may serve as the subject and is labeled as clausal subject, '[csubj]()'. On the other hand, verbal nouns as subjects are just nsubj.
 
 
-
-A finite subordinate clause may serve as the subject and is labeled 'csubj:cop'.
+A finite subordinate clause may serve as the subject and is labeled '[csubj:cop]()'.
 
 'csubj:cop' is used when the clause is a subject of a copular phrase. These are copular constructions that follow the Copula-Predicate-Subject order.
 * _Ní hamháin nach bhfaca sé aon rogha eile áfach_ "it wasn't just that he didn't see any other option however"
 
 
-On the other hand, 'csubj:cleft' is used when the clause is the subject of a clefted sentence (which also follow the Copula-Predicate-Subject order).
+On the other hand, '[csubj:cleft]()' is used when the clause is the subject of a clefted sentence (which also follow the Copula-Predicate-Subject order).
 * _Is leabhar a thug sí dó_ "It's a book she gave him"
 
 
@@ -201,29 +519,29 @@ There is no passive construction in Irish, and therefore 'nsubj:pass' or 'csubj:
 
 
 
-Objects in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
+Objects '[obj]()' in Irish may be bare noun phrases in common form (NomAcc)or prepositional phrases in common form (NomAcc). For the purpose of UD the objects are divided to core objects, labeled obj and oblique objects, labeled obl.
 
 There are no indirect objects in Irish.
 
 
-Oblique 'obl'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
+Oblique '[obl]()'. Adjuncts are usually prepositional phrases, but they can be bare noun phrases as well. They are labeled obl: * _Foilsíodh an chéad chuid den sraith cartún sa bhliain 1983_ "The first cartoon series was published in the year 1983"
 
 
 The dative alternation where the prepositional construction gets a similar analysis to the double object construction
 * _Thug sé litir don fhear_ "He gave a letter to the man"
 
-Nouns can be objects of clausal complements, which are labeled xcomp.
+Nouns can be objects of clausal complements, which are labeled [xcomp]().
 
 
 
-If a verb subcategorizes for two core objects, one of them accusative (or ccomp) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
+If a verb subcategorizes for two core objects, one of them accusative (or [ccomp]()) and the other non-accusative, then the non-accusative object is labeled iobj. Core nominal objects in other situations are labeled just obj.
 
 
 Oblique agents of verbal adjectives are labelled as 'obl'
 * _go bhfuil dul chun cinn iontach déanta ag foireann shinsir..._ "that the senior team have made great progress..."  (lit. that great progress has been made by the senior team)
 
 
-All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate) are adjuncts ('nmod').
+All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate) are adjuncts ('[nmod]()').
 * _as gach ceann de na béilí seo_ "from each one of these meals"
 
 
@@ -263,8 +581,8 @@ The Irish UD treebank uses 26 of the UD dependency labels. A further 10 language
 - [csubj:cop]() for copular clausal subject
 - [mark:prt]() for (most) particles
 - [nmod:poss]() for possessive pronouns
-- [nmod:prep]() for pronominal prepositions
-- [nmod:tmod]() for nominal temporal modifiers
+- [obl:prep]() for pronominal prepositions
+- [obl:tmod]() for temporal modifiers
 - [xcomp:pred]() for predicates of the substantive verb "to be"
 
 

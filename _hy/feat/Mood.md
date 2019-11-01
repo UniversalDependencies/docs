@@ -90,7 +90,9 @@ Armenian has present and imperfect necessitative, both formed periphrastically u
 
 The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accompanied with subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsary, oblicative necessity.
 
-The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive. The mood particles  will have `Mood=Nec`. They can also inflect for [Polarity]() (e.g. _<b>չ</b>պիտի, <b>չ</b>պետք է_).
+The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
+
+Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի, <b>չ</b>պետք է_). They will not have `Mood=Nec`. 
 
 #### Examples
 

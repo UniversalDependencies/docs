@@ -28,8 +28,6 @@ det(cláranna, na)
 
  Two pre-determiners can occur before a noun:
 
-### Examples
-
 _<b>gach uile</b> ábhar_  '<b>every single</b> subject'
 
 ~~~ sdparse
@@ -48,7 +46,7 @@ det(tuairim, an)
 det(tuairim, sin)
 ~~~
 
-_<b>an</b> leabhar <b>úd</b>_ '<b>that</b> book
+_<b>an</b> leabhar <b>úd</b>_ '<b>that</b> book'
 
 ~~~ sdparse
 an leabhar úd \n the book DEM
@@ -64,7 +62,7 @@ det(alt, an)
 det(alt, seo)
 ~~~
 
-_<b>an chéad</b> cheannaire <b>eile</b>_ '</b>the next</b> leader'
+_<b>an chéad</b> cheannaire <b>eile</b>_ '<b>the next</b> leader'
 
 ~~~ sdparse
 an chéad cheannaire eile \n the first leader other
@@ -73,3 +71,34 @@ det(cheannaire, eile)
 quant(cheannaire, chéad)
 ~~~
 
+NOTE: The article modifies depending on the noun which follows it in genitive constructions:
+
+_Scoil <b>na</b> gCailíní_ '<b>Girls'</b> School'
+
+~~~ sdparse
+Scoil na gCailíní \n School of_the Girls'
+det(gCailíní, na)
+~~~
+
+_biaiste <b>an</b> tsamhraidh_ '<b>summer</b> season'
+
+~~~ sdparse
+biaiste an tsamhraidh \n season of_the summer
+det(tsamhraidh, an)
+~~~
+
+It must agree with the gender of the noun which follows it also, as shown below in the case of masculine and feminine nouns, respectively:
+
+_ar cheann <b>an</b> chalaidh_ 'at the head <b>of the</b> port'
+
+~~~ sdparse
+ar cheann an chalaidh \n on head of_the port
+det(chalaidh, an)
+~~~
+
+_ag tabhairt <b>na</b> difríochta faoi deara_ 'noticing <b>the</b> difference'
+
+~~~ sdparse
+ag tabhairt na difríochta faoi deara \n at giving of_the difference under perception
+det(difríochta, na)
+~~~

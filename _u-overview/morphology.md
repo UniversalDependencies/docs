@@ -7,7 +7,7 @@ udver: '2'
 
 # Morphology: General Principles
 
-The UD scheme allows the specification of a complete morpho-syntactic representation that can be applied cross-linguistically. This effectively means that grammatical notions may be indicated via word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
+UD specifies a complete morpho-syntactic representation that can be applied cross-linguistically. This effectively means that grammatical notions may be indicated via word forms (morphologically) or via dependency relations (syntactically). The morphological specification of a (syntactic) word in the UD scheme consists of three levels of representation:
 
 * A _lemma_ representing the semantic content of the word.
 * A _part-of-speech tag_ representing the abstract lexical category associated with the word.
@@ -16,24 +16,29 @@ The UD scheme allows the specification of a complete morpho-syntactic representa
 Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
 
 Unlike in various language-specific tagsets, the universal tags and features do not
-include means to mark _fusion words_ (a word that is result of
+include means to mark _fused words_ (a word that is result of
 merging two other words, which are syntactically independent and belong to
 different parts of speech):
 Czech _dělals (dělal + jsi_ ... main verb + auxiliary); _proň (pro + něj_ ... preposition + pronoun);
 German _zum (zu + dem_ ... preposition + article);
 Spanish _dámelo (da + me + lo_ ... verb + clitics) etc.
-The only truly general approach to fusion words is to apply
-a language-specific processing step that will split tokens into syntactic words
-where necessary. Every syntactic word will then get its own part-of-speech tag
+The only truly general approach to fused words in UD is to exploit the distinction between tokens and (syntactic) words, 
+and to apply a language-specific processing step that splits tokens into syntactic words
+where necessary. Every syntactic word then gets its own part-of-speech tag
 and features. See also <a href="tokenization.html">Tokenization</a> and
 <a href="../../format.html">Format</a>.
 
 ## Lemmas
 
-The `LEMMA` field should contain the canonical or base form of the word, such as the form typically found in dictionaries.
+The `LEMMA` field should contain the canonical or base form of the word, which is the form typically found in dictionaries.
+If a language is agglutinative, this is typically the form with no inflectional affixes; in fusional languages, 
+the lemma is usually the result of a language-particular convention.
 If the lemma is not available, an underscore ("`_`") can be used to indicate its absence.
 
-At present, treebanks have considerable leeway in interpreting what "canonical or base form" means. 
+At present, treebanks have considerable leeway in interpreting what "canonical or base form" means.
+Except perhaps in rare cases of suppletion, one form should be the chosen as the lemma of a verb, noun, determiner, or pronoun paradigm.
+The lemma of adjectives and adverbs should be the positive form (in languages with comparative and superlative forms).
+The lemma does not remove derivational morphology, so the lemma of [en] _organizations_ is _organization_ not _organize_ (nor _organ_).
 In general, a canonical form should collapse inflectional and minor orthographic/spelling variation 
 (such as casing, accents/diacritics, and typos). In the lemma field, some treebanks may choose 
 to aggressively normalize spelling variation that may reflect dialect or authorial style. 
@@ -64,14 +69,14 @@ If unique lemma identifiers are available, they can be preserved in the `MISC` c
 
 ## Part-of-Speech Tags
 
-The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.  
+The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.
 It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover
 language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of 
 <a href="../../u/feat/index.html">features</a> (see below).
 
 Also, note that the <a href="../../format.html">CoNLL-U format</a>
-allows an additional POSTAG, taken from a language-specific
-(or corpus-specific) tagset. Such language-specific POSTAGs have their own
+allows an additional XPOS, taken from a language-specific
+(or corpus-specific) tagset. Such language-specific XPOSes have their own
 data column and are not mixed with the universal POS tags.
 
 The universal POS tags consist of uppercase English letters `[A-Z]` only.
