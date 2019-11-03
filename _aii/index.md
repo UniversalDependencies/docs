@@ -6,6 +6,7 @@ udver: '2'
 
 # UD for Assyrian <span class="flagspan"><img class="flag" src="../../flags/svg/IQ-AII.svg" /></span>
 
+
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
@@ -13,10 +14,6 @@ udver: '2'
 * Coordinating conjunction and prepositions are separated from the words that follows them in a sentence.
 * Multiword tokens are not used in Assyrian.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
