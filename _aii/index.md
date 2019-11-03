@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<Assyrian> UD'
+title:  'Assyrian UD'
 udver: '2'
 ---
 
@@ -19,25 +19,19 @@ udver: '2'
 
 ### Tags
 
-* The tags INT, SYM and X are not used.
+* The tags `NUM`, `INTJ`, `SYM`, and `X` are not used.
 * In this Assyrian treebank, 13 universal tags have been used.
-* Certain words like "ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ" are tagged as PART and have a dependency relation as AUX. Together with the following VERB, these words change the verb tense.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Certain words like “ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ” are tagged as [PART]() and have a dependency relation as [aux](). Together with the following [VERB](), these words change the verb tense.
 
 ### Features
 
-* Nominal words (NOUN, PROPN and PRON) have an inherent Gender feature with values Masc or Fem.
-* Verbs inflect for Gender, Number and Person.
-* Number has 2 possible values: Sing and Plur.
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with values `Masc` or `Fem`.
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
+    [VERB](), [AUX]().
+* [Number]() has 2 possible values: Sing and Plur.
+* Verbs inflect for [Gender](), [Number](), [Person](), [Tense]() and [Mood](). There are two types of verb forms ([VerbForm]()): the finite verb (`Fin`) and the participle (`Part`).
+  * [Voice]() is marked only for passive forms; we do not use `Voice=Act`.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
