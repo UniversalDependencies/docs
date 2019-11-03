@@ -37,7 +37,8 @@ udver: '2'
     (maybe changed to PART in a future version)
   * for preverbals (_y_, _a_, _mi_, _fe_)
     (maybe changed to PART in a future version)
-* VERB is used for all verbs, including _bod_ if it is the main verb (followed by a verbnoun). Verbnouns however are marked as NOUN (with XPOS verbnoun) since they function syntactically as nouns (the direct object is in a genetive construction, the subject is marked with a preposition)
+* VERB is used for all verbs, including _bod_ if it is the main verb (followed by a verbnoun). Verbnouns however are marked as NOUN (with XPOS verbnoun) since they function syntactically as nouns (the direct object is in a genetive construction, the subject is marked with a preposition). 
+See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mood values
 * ADP: inflected prepostions are marked with the XPOS cprep, other preposition have the XPOS prep)
 * PART is only used for the predicative marker _yn_ (which triggers soft mutation on the following word, in difference to the TAM marker _yn_ with does not trigger any mutation and the preposition _yn_ which triggers nasal mutation). The predicative _yn_ is used before nouns and adjectives in head position _Mae Siôn yn athro_ «Siôn is a teacher», _Roedd Nia yn gyflym_ «Nia was fast»
 * The ADV class also contains _dyma_, _dyna_ and _dacw_, even though they can function as a copula.
