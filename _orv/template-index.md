@@ -24,7 +24,7 @@ This is an overview of tokenisation in UD_Old_Russian-TOROT:
 This is a brief overview of the use of POS tags in UD_Old_Russian-TOROT:
 
 * The POS category PART is not in use, instead we use ADV for particle-like items.
-* DET is used for traditional demonstrative and indefinite pronouns. All other pronouns, including possessive pronouns, are tagged PRON.
+* DET is used for traditional demonstrative and indefinite pronouns. Possessive pronouns are tagged ADJ. All other pronouns are tagged PRON.
 * Verbal forms, including participles, are tagged VERB or AUX. Only deverbal nouns with clearly nominal properties are tagged NOUN.
 * Only быти and не быти (with incorporated negation) are analysed as auxiliaries and have the AUX tag.
 * TOROT was originally tagged in the PROIEL dependency format, an overview of the tagset can be found here: https://proiel.github.io/handbook/developer/#the-proiel-xml-format
@@ -38,7 +38,11 @@ This is a brief overview of the use of POS tags in UD_Old_Russian-TOROT:
 ### Features
 This is a brief overview of the features used in UD_Old_Russian-TOROT:
 
-* VERB:
+* VERB can have the following features: Person (1, 2, 3), Number (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp, Res), Mood (Ind, Imp), VerbForm (Fin, Inf, Part, Sup), Voice (Act, Pass). It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res). Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc) and Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak).
+
+* NOUN and PROPN can have the following features: Case, Gender, Number (with the specifications above). Note that animate genitive-accusatives are annotated with Case=Gen. There is no Animacy feature.
+
+* ADJ can have the following features: Case, Gender, Number, Strength (with the specifications above), Degree (Pos, Cmp, Sup)
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
