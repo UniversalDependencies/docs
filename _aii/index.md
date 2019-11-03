@@ -41,7 +41,9 @@ udver: '2'
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* <!-- ??? -->
+* There are no morphological cases.
+* Nominal subject is a bare noun phrase. It typically precedes the verb. Its [Person](), [Number]() and [Gender]() are cross-referenced by the verb.
+* Nominal object is a bare noun phrase or a prepositional phrase. It typically follows the verb.
 
 ### Non-verbal Clauses
 
