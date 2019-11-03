@@ -38,7 +38,7 @@ This is a brief overview of the use of POS tags in UD_Old_Russian-TOROT:
 ### Features
 This is a brief overview of the features used in UD_Old_Russian-TOROT:
 
-* VERB can have the following features: Person (1, 2, 3), Number (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp, Res), Mood (Ind, Imp), VerbForm (Fin, Inf, Part, Sup), Voice (Act, Pass). It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res). Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc) and Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak).
+* VERB can have the following features: Person (1, 2, 3), Number (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp, Res), Mood (Ind, Imp), VerbForm (Fin, Inf, Part, Sup), Voice (Act, Pass). It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res). Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc) and Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak). Note that we do not recognise gerunds even for the latest texts, they are conservatively tagged at face value as short-form participles (VerbForm=Part|Strength=Strong).
 
 * NOUN and PROPN can have the following features: Case, Gender, Number (with the specifications above). Note that animate genitive-accusatives are annotated with Case=Gen. There is no Animacy feature.
 
@@ -50,8 +50,12 @@ This is a brief overview of the features used in UD_Old_Russian-TOROT:
 ---
 
 ## Syntax
+This is a brief overview of the use of syntactic tags in UD_Old_Russian-TOROT:
 
-*
+* We accept nominative subjects (nsubj), as well as genitive subjects under negation. Clausal subjects are tagged csubj. Potential subjects in other cases (such as the dative) are tagged iobj.
+* Objects of transitive verbs are tagged obj. Normally such objects are in the accusative, but they can also be in the genitive due to negation, partitive semantics or animacy. Supines also obligatorily take genitive objects, which are tagged obj if the verb is normally transitive. Arguments in other cases are tagged iobj. Prepositional arguments are tagged obl.
+* The copula verb is быти. It is increasingly omitted in the present tense in the later texts. 
+* We use the following subtype relations: aux:pass, csubj:pass, flat:foreign, flat:name, nsubj:pass, obl:agent.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
