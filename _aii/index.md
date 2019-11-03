@@ -31,18 +31,31 @@ udver: '2'
 * [Number]() has 2 possible values: Sing and Plur.
 * Verbs inflect for [Gender](), [Number](), [Person](), [Tense]() and [Mood](). There are two types of verb forms ([VerbForm]()): the finite verb (`Fin`) and the participle (`Part`).
   * [Voice]() is marked only for passive forms; we do not use `Voice=Act`.
+* [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
+* The [Poss]() feature marks possessive personal pronouns.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* <!-- ??? -->
 
----
+### Non-verbal Clauses
 
----
+* The copula verb ܗܵܘܹܐ (be) is used in <!-- ??? equational, attributional, locative, possessive and benefactory nonverbal clauses. -->
+
+### Relations Overview
+
+* The following relation subtypes are used in Assyrian:
+  * [acl:relcl]() for relative clauses
+  * [aux:poss]()
+  * [nmod:poss]()
+* The following relation types are not used in Assyrian at all:
+  [expl](), [dislocated](), [vocative](), [appos](), [nummod](), [clf](), [fixed](), [flat](), [list](), [orphan](), [goeswith](), [reparandum](), [dep]()
+
 
 ## Treebanks
 
