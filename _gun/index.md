@@ -39,51 +39,52 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * The language specific tagset (XPOS) is mapped to universal POS categories as follows:
 
-| 	XPOS 		| 	UPOS			| XPOSDescription								|
-|---------------|-------------------|-----------------------------------------------|
-|	aspprt		|	PART			| aspect particle								|
-|	coordconn	|	CCONJ/ADV		| coordinating conjunction						|
-|	dem			|	ADV/DET/PRON	| demonstrative									|
-|	discprt		|	PART			| discourse particle							|
-|	focprt		|	PART			| focus particle								|
-|	for			|	X				| foreign token (not code-switching or loan)	|
-|	illocprt	|	PART			| illocutionary particle						|
-|	indfpro		|	PRON			| indefinite pronoun							|
-|	interj		|	INTJ			| interjection									|
-|	interrog	|	PRON			| interrogative pro-form						|
-|	intermod	|	ADV				| interrogative modifier						|
-|	interpron	|	PRON			| interrogative pronoun							|
-|	intprt		|	PART			| interrogative particle						|
-|	mod			|	ADJ/ADV			| modifier										|
-|	modprt		|	PART			| modal particle								|
-|	n			|	NOUN			| noun											|
-|	negprt		|	PART			| negative particle								|
-|	nmlzer		|	SCONJ			| nominalizer									|
-|	nprop		|	PROPN			| proper noun									|
-|	num			|	NUM				| numeral										|
-|	onom		|	INTJ			| onomatopeia									|
-|	post		|	ADP/SCONJ		| postposition									|
-|	pro			|	PRON			| personal pronoun								|
-|	prov		|	VERB			| pro-verb										|
-|	ptcp		|	ADJ/VERB		| participle									|
-|	punct		|	PUNCT			| punctuation									|
-|	qprt		|	PART			| quantificational particle						|
-|	quant		|	ADV/DET/PRON	| quantifier									|
-|	quantprt	|	PART			| quantificational particle						|
-|	rel			|	SCONJ			| relativizer									|
-|	subordconn	|	SCONJ			| subordinating conjunction						|
-|	temprt		|	PART			| temporal particle								|
-|	univpro		|	PRON			| universal pronoun								|
-|	v			|	AUX/VERB		| verb											|
-|	vd			|	VERB			| ditransitive verb								|
-|	vd:a		|	VERB			| indirect transitive verb: active				|
-|	vd:i		|	VERB			| indirect transitive verb: inactive			|
-|	vi			|	ADJ/VERB/AUX	| intransitive verb								|
-|	vi:a		|	ADJ/VERB		| intransitive verb: active						|
-|	vi:i		|	ADJ/VERB/AUX	| intransitive verb: inactive					|
-|	vpos		|	VERB			| postposed verb								|
-|	vs			|	VERB			| serial verb									|
-|	vt			|	VERB			| transitive verb								|
+| 	XPOS 		| 	UPOS				| XPOSDescription								|
+|---------------|-----------------------|-----------------------------------------------|
+|	aspprt		|	PART				| aspect particle								|
+|	coordconn	|	CCONJ/ADV			| coordinating conjunction						|
+|	dem			|	ADV/DET/PRON		| demonstrative									|
+|	discprt		|	PART				| discourse particle							|
+|	focprt		|	PART				| focus particle								|
+|	for			|	X					| foreign token (not code-switching or loan)	|
+|	illocprt	|	PART				| illocutionary particle						|
+|	inact		|	ADJ/ADV/NOUN/VERB	| intransitive verb: inactive					|
+|	indfpro		|	PRON				| indefinite pronoun							|
+|	interj		|	INTJ				| interjection									|
+|	interrog	|	PRON				| interrogative pro-form						|
+|	intermod	|	ADV					| interrogative modifier						|
+|	interpron	|	PRON				| interrogative pronoun							|
+|	intprt		|	PART				| interrogative particle						|
+|	mod			|	ADJ/ADV				| modifier										|
+|	modprt		|	PART				| modal particle								|
+|	n			|	NOUN				| noun											|
+|	n:pred		|	VERB				| nominal predicate								|
+|	negprt		|	PART				| negative particle								|
+|	nmlzer		|	SCONJ				| nominalizer									|
+|	nprop		|	PROPN				| proper noun									|
+|	num			|	NUM					| numeral										|
+|	onom		|	INTJ				| onomatopeia									|
+|	post		|	ADP/SCONJ			| postposition									|
+|	pro			|	PRON				| personal pronoun								|
+|	prov		|	VERB				| pro-verb										|
+|	ptcp		|	ADJ/VERB			| participle									|
+|	punct		|	PUNCT				| punctuation									|
+|	qprt		|	PART				| quantificational particle						|
+|	quant		|	ADV/DET/PRON		| quantifier									|
+|	quantprt	|	PART				| quantificational particle						|
+|	rel			|	SCONJ				| relativizer									|
+|	subordconn	|	SCONJ				| subordinating conjunction						|
+|	temprt		|	PART				| temporal particle								|
+|	univpro		|	PRON				| universal pronoun								|
+|	v			|	AUX/VERB			| verb											|
+|	vd			|	VERB				| ditransitive verb								|
+|	vd:a		|	VERB				| indirect transitive verb: active				|
+|	vd:i		|	VERB				| indirect transitive verb: inactive			|
+|	vi			|	ADJ/VERB/AUX		| intransitive verb								|
+|	vi:a		|	ADJ/VERB			| intransitive verb: active						|
+|	vpos		|	VERB				| postposed verb								|
+|	vs			|	VERB				| serial verb									|
+|	vt			|	VERB				| transitive verb								|
 
 ### Features
 
@@ -98,15 +99,17 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * Verbs have a subcategorization feature Subcat with two possible values: Ditran(sitive), Int(ransitive), IntInd(irect) and Tran(sitive).
 
-* Verbs have a form feature with four possible values: Fin(ite), Inf(inite), Part(iciple), Post(posed verb), Prov(erb), Ser(ial).
+* Verbs have a form feature with five possible values: Fin(ite), Inf(inite), Part(iciple), Post(posed verb), Prov(erb), Ser(ial), Vnoun (verbal noun).
 
-* Verbs have a mood feature with three possible values: Des(iderative), Ind(icative), Imp(erative).
+* Verbs have an optional mood feature with three possible values: Des(iderative), Ind(icative), Imp(erative).
 
 * Verbs have an optional Polarity feature with one possible value, Neg.
 
 * Nouns can be used as predicates without copula, and inflect for person, number and clusivity like inactive intransitive verbs. They have Person, Number and Clusitivity features.
 
-* Pronouns have a PronType feature with six possible values: Dem, Ind, Int, Neg, Prs, Tot.
+* Pronouns have a PronType feature with seven possible values: Add, Dem, Ind, Int, Neg, Prs, Tot.
+
+* The feature value PronType=Add has been added for additive pronouns that are unspecified for definiteness (e.g. _amboae_, 'another' or 'the other')
 
 ## Syntax
 
@@ -129,8 +132,8 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 | Relation			|	Description																						|
 |-------------------|---------------------------------------------------------------------------------------------------|
 | advmod:sentcon	| Adverbial modifier used as sentence initial discourse connective									|
+| dep:mod			| Modifier underspecified for the syntactic category of its head									|
 | compound:svc		| Used for a variety of complex predicates, notably serial verb and postposed verb constructions	|
-| discourse:q		| Used for question particles, whose head can be verbal or nominal									|
 | dislocated:cleft	| Used for cleft constructions that lack a copula													|
 | obl:sentcon		| Nominal modifier used as a sentence initial discourse connective									|
 | parataxis:rep		| Used to relate a reported speech form to a verb of speech report analyzed as its head				|

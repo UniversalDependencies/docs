@@ -285,11 +285,11 @@ it will again result in a commit to the master branch at wrong time.
 
 (To make things a bit more confusing, this policy of data repositories does not apply to some other repositories that we use. In the `docs` repository you must work with the `pages-source` branch. That is done automatically if you edit the documentation in your browser via the _edit page_ link. You will also need to access the `tools` repository and upload the `deprel` and `feat_val` files specific for your treebank. In this case, please use the `master` branch.)
 
-If you have no previous experience with Git, here is a quick tutorial on how to deal with the branches. Please refer to on-line documentation of Git and Github for more details. The tutorial assumes that you are communicating with Github from a Linux shell. The interface may be different if your OS is Windows. If you are working only with the Github web interface, you are not dependent on your operating system but you must remember to switch the `Branch: master` drop-down menu (left-hand side of the page) to `Branch: dev`; it always starts in `master` by default. In contrast, when you want to clone the repository to your local system, you need the address that is hidden under `Clone or download` in the right-hand side of the page, and that address is common for all branches. Our example is the [Italian repository](https://github.com/UniversalDependencies/UD_Italian/tree/dev). Here is how you clone the repo to your system (`git clone` is the command, the remainder is the address copied from the Github web):
+If you have no previous experience with Git, here is a quick tutorial on how to deal with the branches. Please refer to on-line documentation of Git and Github for more details. The tutorial assumes that you are communicating with Github from a Linux shell. The interface may be different if your OS is Windows. If you are working only with the Github web interface, you are not dependent on your operating system but you must remember to switch the `Branch: master` drop-down menu (left-hand side of the page) to `Branch: dev`; it always starts in `master` by default. In contrast, when you want to clone the repository to your local system, you need the address that is hidden under `Clone or download` in the right-hand side of the page, and that address is common for all branches. Our example is the [Italian ISDT repository](https://github.com/UniversalDependencies/UD_Italian-ISDT/tree/dev). Here is how you clone the repo to your system (`git clone` is the command, the remainder is the address copied from the Github web):
 
 <pre>
-git clone git@github.com:UniversalDependencies/UD_Italian.git
-<span style="color:blue">Cloning into 'UD_Italian'...
+git clone git@github.com:UniversalDependencies/UD_Italian-ISDT.git
+<span style="color:blue">Cloning into 'UD_Italian-ISDT'...
 remote: Counting objects: 215, done.
 remote: Total 215 (delta 0), reused 0 (delta 0), pack-reused 215
 Receiving objects: 100% (215/215), 6.98 MiB | 4.55 MiB/s, done.
@@ -300,7 +300,7 @@ Checking connectivity... done.</span>
 Then enter the cloned folder and switch to ("checkout") the `dev` branch. Your copy of the repository knows that such a branch exists on the server but it only creates your local copy of that branch once you ask for it. You may subsequently want to call `git pull` to make sure that you have the latest contents of the dev branch from the server:
 
 <pre>
-cd UD_Italian
+cd UD_Italian-ISDT
 git checkout dev
 <span style="color:blue">Branch dev set up to track remote branch dev from origin.
 Switched to a new branch 'dev'</span>
@@ -317,23 +317,28 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 
 # Validation
 
-A proposal of additional validation-release rules for UD 2.5 is available [on this page](validation-rules.html).
+Up-to-date automatic validation runs of the repositories are available
+[here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
+These are based on the `dev` branch of the data and use the `validate.py` script
+described below. Note that the validation script evolved significantly between
+releases 2.3 and 2.5. Now it includes many content-focused tests that check
+conformity with the guidelines. See a separate page on
+[validation rules](validation-rules.html), which explains the various
+validation levels, as well as the consequences of your treebank's not being
+valid at release time.
 
-## Data format and repository
-
-Up-to-date automatic validation runs of the repositories are available [here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
-These are based on the `dev` branch of the data and use the `validate.py` script described below.
-
-The final data validation is an important step and each file released
-in the project is expected to validate as conforming to the basic
-requirements on the data and format. For this purpose, there is a
-validation script in the tools repository.
+The validation script is available in the tools repository and you can use
+it to test your data locally before you upload them to Github. Make sure that
+you always have the latest update of the tools repository.
 
     $ git clone git@github.com:UniversalDependencies/tools.git
     $ cd tools
     $ python validate.py -h
 
-Note that you need Python 3 to run the validator, and you need a third-party Python module called `regex` installed via pip. See also the [README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt) in the tools repository.
+Note that you need Python 3 to run the validator, and you need a third-party
+Python module called `regex` installed via pip. See also the
+[README file](https://github.com/UniversalDependencies/tools/blob/master/README.txt)
+in the tools repository.
 
 In general, you validate the data like so:
 
@@ -341,7 +346,7 @@ In general, you validate the data like so:
 
 for example for Finnish:
 
-    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu
+    $ python validate.py --lang=fi --max-err=0 ../UD_Finnish-TDT/fi_tdt-ud-dev.conllu
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
@@ -392,11 +397,23 @@ defining the permissible forms and lemmas that can contain a whitespace.
 
 # Content validation
 
-For the `v1.3` release, we have created an additional number of tests which try to uncover possible logical inconsistencies in the treebank data. Automatic validation runs for this syntax validation are available [here](http://universaldependencies.org/svalidation.html). Unlike the data format and repository validation, this validation machinery is not streamlined enough to be distributed for offline use, therefore it is important to regularly push your data to the `dev` branch of the repository.
-(However, similar tests are now available in the
-[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py) tool.)
+**WARNING: This section is outdated.**
 
-The tests are specified in the file `gen_index/stests.yaml` and rely on the query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
+For the `v1.3` release, we created an additional number of tests which try to
+uncover possible logical inconsistencies in the treebank data. Automatic
+validation runs for this syntax validation are available
+[here](http://universaldependencies.org/svalidation.html).
+The tests are specified in the file `gen_index/stests.yaml` and rely on the
+query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
+
+At present (October 2019) this validation machinery does not function correctly.
+However, similar tests are now included as level 3 and 5 tests in the official
+validation script described in the previous section. Selected tests of this kind
+are also available in the
+[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)
+tool.
+
+
 
 # Language-specific guidelines
 

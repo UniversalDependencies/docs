@@ -14,6 +14,8 @@ Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [p
 #### Examples
 
 * [myv] _цёратне_ "<b>the men</b>"
+* [myv] _аванзотне_ "<b>the ones belonging to his/her mother</b>"
+* [myv] _ваксонзотне_ "<b>the ones next to him/her</b>"
 * [myv] _паксясотне_ "<b>the ones in the field</b>"
 * [myv] _кудовтомотне_ "<b>the ones without homes</b>"
 * [myv] _пандошкатне_ "<b>the ones as big as mountains</b>"

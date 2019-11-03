@@ -10,9 +10,9 @@ udver: '2'
 
 An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”, and its variants (with separate lemma) _լինեմ (լինել)_ “be repeatedly / habitually” used to construct the periphrastic and the “secondary extended” tenses (in several moods).
 
-Besides `aux`, the verbs _եմ_ and _լինեմ (լինել)_ may also act as a [copula](cop) and as the main verb.
+Besides `aux`, the verb _եմ_ may also act as a [copula](cop).
 
-Note that in Armenian auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus]().
+Note that in Armenian auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus](). We use [aux:ex]() for finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle (mainly in negativ or interrogative constructions, are analyzed as auxiliary in the Armenian grammar).
 
 ~~~ sdparse
 Երեկ եմ հասել ։ \n Yesterday I-have arrived .

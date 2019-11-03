@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Slovenian UD'
+title:  'Maghrebi Arabic French UD'
 udver: '2'
 ---
 
-# UD for Slovenian <span class="flagspan"><img class="flag" src="../../flags/svg/SI.svg" /></span>
+# UD for Code-Switching Maghrebi Arabic-French <span class="flagspan"><img class="flag" src="../../flags/svg/MA.svg" /> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/DZ.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/TN.svg" /></span></span>
 
 ## Tokenization and Word Segmentation
 

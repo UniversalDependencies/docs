@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Maltese UD'
-udver: '2.4'
+udver: '2'
 ---
 
 # UD for Maltese <span class="flagspan"><img class="flag" src="http://universaldependencies.org/flags/svg/MT.svg" height="20"/></span>
@@ -11,7 +11,7 @@ udver: '2.4'
 * Tokens are delimited by a) whitespace, b) apostrophe and c) hyphen as follows:
   * Whitespace is the default token delimiter
   * Apostrophe is a delimiter for proclitic variants of prepositions/case markers *b'*, *f'*, *m'*, *s'* and *t'*
-  * Hyphens is a delimiter for the definite article *il-* and its assimilated forms which include prepositions/case markers with fused definite definite article; these are - for the moment - treated as single tokens.
+  * Hyphens are a delimiter for the definite article *il-* and its assimilated forms which include prepositions/case markers with fused definite definite article; these are - for the moment - treated as single tokens.
 * A comma is treated as a token separator in numbers, e.g. *1,500* is three tokens: 1 - , - 500.
 * Words with spaces or multi-word tokens do not occur in MUDT.
 
@@ -55,10 +55,9 @@ udver: '2.4'
 * Some forms can appear in two different syntactic roles - *Maltin* can be both and ADJ and a NOUN, *qabel* can function both as a PREP and an ADV. In such cases, they are tagged based on their syntactic role.
 * MUDT uses all 17 UPOS. The XPOS > UPOS matching is straightforward (see table below), except where UD guidelines regarding the matching of UPOS and `relation` mandate otherwise.
 
-
-| UPOS  | XPOS                                                                                                       | Comments                                                                   |
-|-------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ADJ   | ADJ                                                                                                        |                                                                            |
+| UPOS  | XPOS                                                                                                       | Comments|
+|-------|------------------------------------------------------------------------------------------------------------|----------|
+| ADJ   | ADJ                                                                                                        |                                                                        |
 | ADV   | ADV, FOC                                                                                                   |                                                                            |
 | INTJ  | INT                                                                                                        |                                                                            |
 | NOUN  | NOUN, X_ABV                                                                                                |                                                                            |
@@ -74,7 +73,9 @@ udver: '2.4'
 | SCONJ | CONJ_SUB                                                                                                   |                                                                            |
 | PUNCT | X_PUN                                                                                                      | but see SYM below                                                          |
 | SYM   | X_PUN                                                                                                      | with the exception of mathematical symbols and currency symbols            |
-| X     | X_BOR                                                                                                      |                                                                            |
+| X     | X_BOR                                                                                                      ||                                                                          
+
+
 * The following are considered UPOS AUX in MUDT:
   * XPOS KIEN (the verb *kien*) in all its forms
   * XPOS VERB_PSEU *għad* and its negative form *għadx*
