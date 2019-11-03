@@ -42,13 +42,10 @@ udver: '2'
 
 ---
 
+---
+
 ## Treebanks
 
-There are [0](../treebanks/LCODE-comparison.html) Assyrian UD treebanks:
+There is only one Assyrian UD treebank at present:
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Assyrian-AS](../treebanks/aii_as/index.html)
