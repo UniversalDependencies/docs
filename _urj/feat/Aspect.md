@@ -2,16 +2,21 @@
 layout: feature
 title: 'Aspect'
 shortdef: 'aspect'
+udver: '2'
 ---
 
 ### Description
 
-Aspect is typically a feature of verbs. It may also occur with other parts of
-speech (nouns, adjectives, adverbs), depending on whether borderline word forms
-such as gerunds and participles are classified as verbs or as the other
-category. Uralic verbs have mainly suffixes in tense-mood axis, but some may
-also be annotated in `Aspect` category.
+Aspect is typically a verbal feature, along with tense and mood. Aspect in
+Uralic languages has at most the universally defined values, but care needs to
+be taken when comparing aspect values to traditional grammars:
+
+* Imperfect in Uralic tradition is [Tense=Past](), i.e. preterite in UD,
+* Frequentative is `Aspect=Iter`, however, it is not necessary to use the
+  feature if it's a lexicalised derivational feature and not available in
+  converted systems
+
 
 #### Examples
 
-None in Finnish.
+The Aspect feature is not used in currently existing Uralic treebanks.

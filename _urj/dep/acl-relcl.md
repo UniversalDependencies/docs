@@ -1,13 +1,20 @@
 ---
 layout: relation
-title:  'acl:relcl'
+title: 'acl:relcl'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
-A *relative clause modifier* (`acl:relcl`) marks relative clauses. The
-governor is the phrase or clause modified. Usually, it is a noun, but in Uralic
-it can also be a verb, when the dependent refers to the entire action described. 
-The dependent is the main predicate of the relative clause. 
+### Description
+
+The relative clause subtype of [acl]() should be used systematically in Uralic
+languages: A *relative clause modifier* (`acl:relcl`) marks relative clauses.
+The governor is the phrase or clause modified. Usually, it is a noun, but in
+Uralic it can also be a verb, when the dependent refers to the entire action
+described.  The dependent is the main predicate of the relative clause.
+
+
+#### Examples
 
 <!-- fname:relcl_NP.pdf -->
 ~~~ sdparse
@@ -44,19 +51,3 @@ acl:relcl(see-5, suutnud-11)
 aux(suutnud-11, pole-10)
 ~~~
 
-##Diffs
-
-###Turku Dependency Treebank
-
-The governor can also be a verb, when the dependent refers to the entire action described in the main sentence.
-
-###FinnTreeBank
-
-FI_FTB applies the universal relation [`acl`](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl) instead
-of the language-specific relation `acl:relcl`.
-
-### Estonian Treebank
-
-### Szeged Treebank
-
-`acl:relcl` does not appear in the Szeged treebank.

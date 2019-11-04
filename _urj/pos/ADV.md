@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Description
@@ -9,14 +10,14 @@ shortdef: 'adverb'
 Adverbs are words that modify verbs, clauses or other ad-words, but
 not nouns. Adverbs are commonly derived from all parts-of-speech, sometimes
 the distinction between adverb and inflection is not clear. Most common adverb
-derivation for most languages is from verb to manner of acting, e.g. [fi] 
+derivation for most languages is from verb to manner of acting, e.g. [fi]
 _kauniisti_ "beautifully" (< _kaunis_ "beautiful).
 
 #### Examples
 
 * [fi] _nopeasti_ "fast", _nopeammin_ "faster"
 * [fi] _maanantaisin_ "on mondays", _kahdesti_ "twice"
-* [fi] _käsin_ "manually" (< _käsi_ "hand", instructive being inflection as 
+* [fi] _käsin_ "manually" (< _käsi_ "hand", instructive being inflection as
   well)
 * [fi] _puolueittain_ "party by party" (< _puolue_ "party" + distributive)
 
