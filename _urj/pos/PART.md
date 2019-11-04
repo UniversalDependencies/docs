@@ -2,22 +2,18 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 ### Description
-<
-Particles are function words that must be associated with another word or
-phrase to impart meaning and that do not satisfy definitions of other universal
-parts of speech (e.g. adpositions, coordinating conjunctions, subordinating
-conjunctions or auxiliary verbs).  Particles should be used scarcely in uralic
-dependencies. What is called particle in lot of Uralic literature is typically
-adverb `ADV`, interjection `INTJ` or adposition `ADP` in universal dependencies,
-also `CCONJ` and `SCONJ` in limited amounts.
 
-Enclitic discourse particles are not analysed in the current versions of Uralic
-dependency schemes.
+Particles are suggested to be avoided in Uralic treebanks altogether, for many
+things called particles in Uralic grammars, [ADV](), [INTJ]() or [ADP]()
+guidelines will provide better match. The following should be considered for
+particles in Uralic languages:
 
-#### Examples
-
-None in Finnish.
+* enclitic particles
+* question particles
+* focus particles
+* negation particle when it's not a negation verb
 

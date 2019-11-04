@@ -1,10 +1,11 @@
 ---
 layout: base
-title:  '<Assyrian> UD'
+title:  'Assyrian UD'
 udver: '2'
 ---
 
 # UD for Assyrian <span class="flagspan"><img class="flag" src="../../flags/svg/IQ-AII.svg" /></span>
+
 
 ## Tokenization and Word Segmentation
 
@@ -13,51 +14,53 @@ udver: '2'
 * Coordinating conjunction and prepositions are separated from the words that follows them in a sentence.
 * Multiword tokens are not used in Assyrian.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-* The tags INT, SYM and X are not used.
+* The tags `NUM`, `INTJ`, `SYM`, and `X` are not used.
 * In this Assyrian treebank, 13 universal tags have been used.
-* Certain words like "ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ" are tagged as PART and have a dependency relation as AUX. Together with the following VERB, these words change the verb tense.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* Certain words like “ܒܜ , ܩܡ ,ܟܝ , ܚܘܫ , ܫܘܩ” are tagged as [PART]() and have a dependency relation as [aux](). Together with the following [VERB](), these words change the verb tense.
 
 ### Features
 
-* Nominal words (NOUN, PROPN and PRON) have an inherent Gender feature with values Masc or Fem.
-* Verbs inflect for Gender, Number and Person.
-* Number has 2 possible values: Sing and Plur.
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with values `Masc` or `Fem`.
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
+    [VERB](), [AUX]().
+* [Number]() has 2 possible values: Sing and Plur.
+* Verbs inflect for [Gender](), [Number](), [Person](), [Tense]() and [Mood](). There are two types of verb forms ([VerbForm]()): the finite verb (`Fin`) and the participle (`Part`).
+  * [Voice]() is marked only for passive forms; we do not use `Voice=Act`.
+* [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
+* The [Poss]() feature marks possessive personal pronouns.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* There are no morphological cases.
+* Nominal subject is a bare noun phrase. It typically precedes the verb. Its [Person](), [Number]() and [Gender]() are cross-referenced by the verb.
+* Nominal object is a bare noun phrase or a prepositional phrase. It typically follows the verb.
 
----
+### Non-verbal Clauses
+
+* The copula verb ܗܵܘܹܐ (be) is used in <!-- ??? equational, attributional, locative, possessive and benefactory nonverbal clauses. -->
+
+### Relations Overview
+
+* The following relation subtypes are used in Assyrian:
+  * [acl:relcl]() for relative clauses
+  * [aux:poss]()
+  * [nmod:poss]()
+* The following relation types are not used in Assyrian at all:
+  [expl](), [dislocated](), [vocative](), [appos](), [nummod](), [clf](), [fixed](), [flat](), [list](), [orphan](), [goeswith](), [reparandum](), [dep]()
+
 
 ## Treebanks
 
-There are [0](../treebanks/LCODE-comparison.html) Assyrian UD treebanks:
+There is only one Assyrian UD treebank at present:
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Assyrian-AS](../treebanks/aii_as/index.html)

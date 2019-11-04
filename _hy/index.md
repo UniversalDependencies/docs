@@ -172,6 +172,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [acl:relcl]() for relative clauses
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [aux:caus]() for causative auxiliaries
+  * [aux:ех]() for existentials as auxiliary
   * [case:loc]() for postpositional localizers
   * [compound:lvc]() for light compound verbs
   * [compound:redup]() for reduplicated compounds

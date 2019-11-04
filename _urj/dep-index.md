@@ -1,8 +1,9 @@
 ---
 layout: base
-title:  'Dependencies'
+title: 'Dependencies'
 generated: 'true'
 permalink: urj/dep/index.html
+udver: '2'
 ---
 
 # Dependencies

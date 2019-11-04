@@ -1,6 +1,6 @@
 ---
 layout: relation
-title:  'amod'
+title: 'amod'
 shortdef : 'adjectival modifier'
 ---
 
@@ -38,6 +38,6 @@ amod(kivi-3, suuri-2)
 
 <!-- TODO: ESTONIAN AND HUNGARIAN -->
 
-## Open questions 
+## Open questions
 
 * Should ordinal numerals also receive `amod` ?
