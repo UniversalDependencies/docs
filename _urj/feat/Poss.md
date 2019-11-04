@@ -2,9 +2,12 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
-Boolean feature of pronouns, determiners or adjectives, It tells whether the
-word is possessive.  Possessive feature is not used as an annotation for Uralic
-possessive suffixes, see `Number[psor]` and `Person[psor]` instead.  Possessive
-is a lexical feature in UD, not inflectional.
+### Description
+
+Possession feature in UD is used for possessive pronouns, determiners and
+adjectives, this should not be confused with various possessive suffix
+morphologies in Uralic languages, these are modeled in [Number[psor]](),
+[Person[psor]](), [Number[psed]]() and [Person[psed]]() features instead.

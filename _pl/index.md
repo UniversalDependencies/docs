@@ -23,7 +23,7 @@ udver: '2'
 
 ### Tags
 
-* Polish in principle uses all 17 universal POS categories, although, as of release 2.2, [SYM]() is used in neither of the two available treebanks, [X]() is only used in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank (to mark abbreviations), and [INTJ]() is only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+* Polish in principle uses all 17 universal POS categories: [SYM]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank to mark symbols, e.g. _%_ (percent), _°_ (degree), _+_ (plus), _-_ (minus), _$_ (dollar), or emojis, e.g. _:-)_, and [X]() is only used in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank (to mark abbreviations and digits).
 * The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms), which have both nominal and verbal properties.
 * Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
 * As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:
@@ -36,7 +36,7 @@ udver: '2'
   * periphrastic future tense (future form of _być_ + infinitive or so-called l-participle form of the main verb),
   * periphrastic conditional (any form of _być_ + the conditional mood marker _by_ + l-participle of the main verb),
   * (imperfective) periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
-* Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
+* Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variants _niechaj_, _niechże_, _niechby_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
 * The words _być_, _bywać_, _zostać_ and _zostawać_ may also occur as normal [VERB]() if they are used in purely existential sentences
   (i.e., ones that do not even indicate location because if they do, then they should be treated as copulas).
 * Verbs with modal meaning are not considered auxiliary in Polish.
@@ -51,7 +51,7 @@ udver: '2'
 ### Nominal Features
 
 * Nouns ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_), or which are human and, well, no longer animate (_trup_ “corpse”), or which are “superhuman” (e.g., _diabeł_ “devil” and _anioł_ “angel”, but not _bóg_ “god”, which is “human masculine”).  For the sake of cross-linuguistic consistency, three values are assumed for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
-  * In the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
+  * In the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
   * In the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the masculine gender is further subclassified by the language-specific [SubGender]() feature with values `Masc1`, `Masc2` and `Masc3`.
 * The following parts of speech in general inflect for gender: [ADJ](), [DET](), [NUM](), [PRON](), [VERB](), [AUX](). In the case of pronouns, only personal pronouns inflect for gender; other nominal pronouns (as well as the nominal determiner _wszyscy_ “everybody”) have this feature defined lexically, and so-called reflexive pronouns lack this feature altogether.  In the case of tokens tagged as `VERB` or `AUX`, only past forms of finite verbs overtly inflect for gender.
 * The two values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
@@ -59,7 +59,7 @@ udver: '2'
 * [Case]() has 7 possible values: `Nom`, `Acc`, `Gen`, `Dat`, `Loc`, `Ins`, `Voc`.
   It occurs on broadly nominal categories, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   It can occur with de-verbal forms but only with those tagged as `ADJ` (adjectival participles) or `NOUN` (gerunds).  It never occurs with purely verbal forms.
-  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank).
+  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2 for the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank and release 2.4 for the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank, it is present in the MISC column.
 * [Polite]() is used in Polish (in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank of release 2.2) as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
 
 ### Pronouns, Determiners, Numerals
@@ -105,7 +105,6 @@ udver: '2'
   * [PartType]() – used (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank) only to mark question particles (`Int`).
   * [PrepCase]() – distinguishes those pronominal forms which may only occur as dependents of prepositions (`Pre`) from those which may only occur in other contexts (`Npr`).
   * [PunctSide]() and [PunctType]()
-  * [Typo]() – marks typos (as of release 2.2, only used in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank).
 * The following universal features are not used in Polish: [Definite](), [Evident]().
 * Apart from [SubGender](), other language-specific features include:
   * [Agglutination]() – distinguishes these rare situations where the l-participle has different forms depending on whether the “mobile inflection” auxiliary directly attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
@@ -117,8 +116,8 @@ udver: '2'
 
 ### Core and Oblique Dependents
 
-* Prototypically, nominal subjects ([nsubj]()) are bare noun phrases in the nominative case.  In the case of typical numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
-  * in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank, the dependency relation is [det:nummod]() (instead of the plain `det`),
+* Prototypically, nominal subjects ([nsubj]()) are bare noun phrases in the nominative case.  In the case of typical numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
+  * in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank, the dependency relation is [nummod:gov](https://universaldependencies.org/pl/dep/nummod-gov.html) or [det:numgov](https://universaldependencies.org/pl/dep/det-numgov.html),
   * in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the MISC column contains the `[DepType=Rec]` feature (it is `[DepType=Congr]` in the case of those numerals which do not assign the genitive case but rather agree with the noun).
 * Clausal subjects ([csubj]()) are typically infinitival phrases or subordinate clauses.
   * On the other hand, verbal nouns in the subject position are just `nsubj`.
@@ -130,15 +129,15 @@ udver: '2'
   * Since only nominal dependents may be considered objects according to current UD guidelines, passivisable clauses are marked as [ccomp:obj]().
   * In the case of typical numeral phrases in the accusative object position, the noun actually occurs in the genitive case, similarly to subject positions, and the numeral is uncontroversially accusative.  Such constructions are marked as in the case of numeral subjects (see above).
 * All required dependents of verbs in the dative case are indirect objects ([iobj]()).
-* All other bare nominal phrases and all adpositional phrases, when they are dependents of verbs, are treated as obliques ([obl]()).
+* All other bare nominal phrases, e.g. _Pies merdał ogonem_ "The dog wagged its tail", are treated as indirect objects ([iobj]()) in the [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) treebank and as obliques ([obl]()) in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+* All adpositional phrases, when they are dependents of verbs, are treated as obliques ([obl]()).
 * Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects (`csubj`) or direct objects (`ccomp:obj`).
 * Open (“controlled”) dependents are marked as [xcomp](); they are either infinitival phrases or predicative complements of verbs such as _stać się_ “become”.
 * Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
   * reflexive direct object ([obj]()): _zobaczył się w lustrze_ “he saw himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
   * reciprocal direct object (`obj`): _całowali się_ “they were kissing each other”,
   * impersonal ([expl:impers]()): _oddycha się historią_ “one breathes with history”, lit. “breathe _się_ history.INS”,
-  * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
+  * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
 
 ### Non-verbal (Predicative) Clauses
 
@@ -149,21 +148,49 @@ udver: '2'
 ### Relations Overview
 
 * The following relation subtypes are used in Polish:
-  * [nsubj:pass]() for nominal subjects of passive verbs,
+  * [acl:relcl]() for relative clauses,
+  * [advcl:cmpr](https://universaldependencies.org/pl/dep/advcl-cmpr.html) for comparative clauses (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html))
+  * [advcl:relcl](https://universaldependencies.org/pl/dep/advcl-relcl.html) for relative clause modifiers of clauses (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [advmod:arg](https://universaldependencies.org/pl/dep/advmod-arg.html) for adverbial complements of verbs (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [advmod:emph]() for emphasizing adverbial modifiers (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [advmod:neg](https://universaldependencies.org/pl/dep/advmod-neg.html) for negation particles (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [amod:flat](https://universaldependencies.org/pl/dep/amod-flat.html) for adjectival parts of named entities (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [aux:aglt]() for “mobile inflection” auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [aux:clitic](https://universaldependencies.org/pl/dep/aux-clitic.html) for “mobile inflection” auxiliaries (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [aux:cnd](https://universaldependencies.org/pl/dep/aux-cnd.html) for conditional marker auxiliaries (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [aux:imp](https://universaldependencies.org/pl/dep/aux-imp.html) for imperative marker auxiliaries (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [aux:mood]() for mood marker auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [aux:pass]() for passive auxiliaries,
+  * [cc:preconj]() for preconjunctions,
+  * [ccomp:cleft](https://universaldependencies.org/pl/dep/ccomp-cleft.html) for required clausal dependents of the pronoun _to_ (as of release 2.5, in [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [ccomp:obj](https://universaldependencies.org/pl/dep/ccomp-obj.html) for clausal objects of verbs,
+  * [cop:locat]() for locative uses of copulas (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [csubj:pass]() for clausal subjects of passive verbs (does not occur in release 2.2),
-  * [ccomp:obj]() (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [obl:agent]() for agents of passive verbs,
+  * [det:numgov](https://universaldependencies.org/pl/dep/det-numgov.html) for pronominal quantifiers that are attached as children of the quantified noun but govern its case (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [det:nummod](https://universaldependencies.org/pl/dep/det-nummod.html) for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [discourse:emo](https://universaldependencies.org/pl/dep/discourse-emo.html) for emoticons and emojis (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [discourse:intj](https://universaldependencies.org/pl/dep/discourse-intj.html) for interjections (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
   * [expl:pv]() for inherent uses of the so-called reflexive pronoun _się_,
   * [expl:impers]() for impersonal uses of the so-called reflexive pronoun _się_ (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [acl:relcl]() for relative clauses (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [flat:foreign](https://universaldependencies.org/pl/dep/flat-foreign.html) for foreign words (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [nmod:arg](https://universaldependencies.org/pl/dep/nmod-arg.html) for required nominal dependents of nouns (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [nmod:flat](https://universaldependencies.org/pl/dep/nmod-flat.html) for nominal parts of named entities (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
   * [nmod:poss]() for possessive nominal modifiers, including 3rd person possessive pronouns (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case (as of release 2.2, only in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank),
-  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.2, only in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank),
-  * [aux:pass]() for passive auxiliaries,
-  * [aux:aglt]() for “mobile inflection” auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [aux:mood]() for mood marker auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [cop:locat]() for locative uses of copulas (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [cc:preconj]() for preconjunctions (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
+  * [nmod:pred](https://universaldependencies.org/pl/dep/nmod-pred.html) for predicative expressions depending on the gerund form of the copula _być_ ("to be"), (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [nummod:flat](https://universaldependencies.org/pl/dep/nummod-flat.html) for numeral parts of named entities (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [nummod:gov](https://universaldependencies.org/pl/dep/nummod-gov.html) for nummerals that are attached as dependents of the noun but govern its case, in contrast to nummerals [nummod]() which agree with the noun case (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [nsubj:pass]() for nominal subjects of passive verbs,
+  * [obl:agent]() for agents of passive verbs,
+  * [obl:arg](https://universaldependencies.org/pl/dep/obl-arg.html) for adpositional arguments of verbs (as of release 2.4, in [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [obl:cmpr](https://universaldependencies.org/pl/dep/obl-cmpr.html) for comparative phrases (as of release 2.5, only in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [obl:orphan](https://universaldependencies.org/pl/dep/obl-orphan.html) for adpositional dependents with the elided noun (as of release 2.5, only in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [parataxis:insert](https://universaldependencies.org/pl/dep/parataxis-insert.html) for parenthetical clauses or comments (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [parataxis:obj](https://universaldependencies.org/pl/dep/parataxis-obj.html) for direct speech (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [xcomp:cleft](https://universaldependencies.org/pl/dep/xcomp-cleft.html) for required open dependents (non-finite clauses) of the pronoun _to_ (as of release 2.5, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html)),
+  * [xcomp:pred](https://universaldependencies.org/pl/dep/xcomp-pred.html) for predicative dependents of non-copular verbs (as of release 2.4, in [PDB-UD](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)),
+  * [xcomp:subj](https://universaldependencies.org/pl/dep/xcomp-subj.html) for for subjects realised as infinitival or adverbial phrases (as of release 2.5, in [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html) and [PUD-PL](http://universaldependencies.org/treebanks/pl_pud/index.html)).
+  
+    
 * The following main types are not used alone and must be subtyped:
   [expl]().
 * The following relation types are not used in Polish at all (as of release 2.2):
@@ -171,8 +198,9 @@ udver: '2'
 
 ## Treebanks
 
-There are two Polish UD treebanks:
+There are three Polish UD treebanks:
 
-  * [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html)
+  * [PDB](http://universaldependencies.org/treebanks/pl_pdb/index.html)
   * [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html)
+  * [PUD](http://universaldependencies.org/treebanks/pl_pud/index.html)
 
