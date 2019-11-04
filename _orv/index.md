@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 This is an overview of tokenisation in UD_Old_Russian-TOROT:
 
-* In general tokens are delimited by spaces. 
+* In general tokens are delimited by spaces.
 * It should be noted that many of the texts are based on manuscripts in scripta continua, i.e. words are not separated by spaces. The spaces are therefore editorial. When texts are based on independent editions, the spacing may differ from our general tokenisation policy. This sometimes causes tokens with spaces.
 * Punctuation is not included in UD_Old_Russian-TOROT.
 
@@ -54,7 +54,7 @@ This is a brief overview of the use of syntactic tags in UD_Old_Russian-TOROT:
 
 * We accept nominative subjects (nsubj), as well as genitive subjects under negation. Clausal subjects are tagged csubj. Potential subjects in other cases (such as the dative) are tagged iobj.
 * Objects of transitive verbs are tagged obj. Normally such objects are in the accusative, but they can also be in the genitive due to negation, partitive semantics or animacy. Supines also obligatorily take genitive objects, which are tagged obj if the verb is normally transitive. Arguments in other cases are tagged iobj. Prepositional arguments are tagged obl.
-* The copula verb is быти. It is increasingly omitted in the present tense in the later texts. 
+* The copula verb is быти. It is increasingly omitted in the present tense in the later texts.
 * We use the following subtype relations: aux:pass, csubj:pass, flat:foreign, flat:name, nsubj:pass, obl:agent.
 
 ---
@@ -64,14 +64,7 @@ This is a brief overview of the use of syntactic tags in UD_Old_Russian-TOROT:
 
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [2](../treebanks/orv-comparison.html) Old Russian UD treebanks:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Old Russian RNC](../treebanks/orv_rnc/index.html)
+  * [Old Russian TOROT](../treebanks/orv_torot/index.html)
