@@ -13,12 +13,7 @@ only has two tensed forms - present/future and past/conditional.
 
 
 _Bí_, as a verb, uses separate particles in negative and interrogative constructions. 
-_Is_ (copula) uses its own forms in these constructions. For example: 
-
-* ba (conditional/ past - positive)
-* ar (past/ interrogative - positive)
-* nach (present/ future - interrogative/ negative)
-* ní (present/ future - negative)
+_Is_ (copula) uses its own forms in these constructions. See the table below for more information regarding different forms of the copula.
  
 
 The order of elements in a copular construction is usually as follows: 
