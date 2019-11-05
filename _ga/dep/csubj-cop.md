@@ -8,7 +8,7 @@ udver: '2'
 A *clausal copular subject* (`csubj:cop`) is a UD Irish subtype, used to label a clause that acts as the
 subject of another (copular) clause. As in all copular clauses, the
 predicate acts as the head of the clause and hence it is also the
-governor of the copular subject. The copular construction may consist of may consist of a copula followed by a verb particle or an adjective or it may be emphatic in terms of meaning (in which case the noun is raised for emphasis), as outlined in the examples below. 
+governor of the copular subject. The copular construction may consist of a copula followed by a verb particle or an adjective or it may be emphatic in terms of meaning (in which case the noun is raised for emphasis), as outlined in the examples below. 
 
 ### Example
 
