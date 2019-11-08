@@ -67,3 +67,28 @@ _Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him
 Ba i dtaobh poist a bhí mé ag caint leis siúd \n Was in side of_a job that was I at talking with_him that.  
 nmod(dtaobh, poist)
 ~~~
+
+#### Reflexive Pronoun: féin
+
+Similar to the emphatic pronoun _self_ in English, e.g. himself, themselves.
+
+~~~ sdparse
+Cé hiad féin ? \n Who are THEY ?
+compound(hiad, féin)
+~~~ 
+
+#### Ownership:
+
+It can also translate as ownership, yet the possessive pronoun will also be present in those constructions using _féin_:
+
+~~~ sdparse
+ábalta a rá lena bpobal féin \n able to say to their own community
+compound(bpobal, féin)
+~~~
+
+
+~~~ sdparse
+le bean Choilm \n with Colm's wife
+compound(bean, Choilm)
+~~~
+
