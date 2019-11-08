@@ -273,6 +273,16 @@ Syntax highlighting for CoNLL-U files on Sublime Text.
 * License: Apache 2.0
 * Homepage <https://github.com/stephsamson/CoNLL-U.tmLanguage/>
 
+#### Vim
+
+Basic syntax highlighting and automatic syntax checking (through ALE or
+syntastic) for CONLL-U files.
+
+* Category: editor
+* Platform: any OS that runs Vim
+* Implementation: vimscript
+* License: GPL 3.0
+* Homepage <https://github.com/flammie/vim-conllu/>
 
 
 ### Processing tools
@@ -402,7 +412,7 @@ A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U fil
 * Live site: [http://www.let.rug.nl/kleiweg/conllu/](http://www.let.rug.nl/kleiweg/conllu/)
 * Source code: [Github](https://github.com/rug-compling/conllu-viewer)
 
-#### TüNDRA 
+#### TüNDRA
 
 TüNDRA (Tübingen aNnotated Data Retrieval Application) is a web application for searching in treebanks using a lightweight query language inspired by the widely used [TIGERSearch application](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tigersearch.html). It offers corpus linguists an interface for using corpora with complex annotation and syntactic links. Most of the treebanks available in TüNDRA are free and publicly available. To access all the treebanks a user has to have an account at a European institution of higher education (i.e. be a student or an employee). Any user may upload a CoNLL-U or a TCF file to browse/search it with the tool. A visualization is interactive (scaling, zooming, panning) and can be saved in multiple formats (e.g. to be later used for a publication). TüNDRA is a part of [CLARIN-D project](http://de.clarin.eu/) and is funded by the German Federal Ministry for Education and Research (BMBF).
 
