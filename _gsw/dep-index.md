@@ -8,4 +8,4 @@ udver: '2'
 
 # Dependencies
 
-{% include gsw-dep-table.html %}
+{% comment %} include gsw-dep-table.html {% endcomment %}
