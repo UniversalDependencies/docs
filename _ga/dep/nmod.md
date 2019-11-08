@@ -54,12 +54,16 @@ nmod(Caladh, tráchtála)
 
 Two nouns coming together also come under this dependency label: 
 
+#### Quantifying Nouns
+
 _Mise agus mo chuid <b>clabaireachta</b>._ 'Me and my <b>babbling</b>'
 
 ~~~ sdparse
 Mise agus mo chuid clabaireachta \n Myself and my part of_babbling. 
 nmod(chuid, clabaireachta)
 ~~~
+
+#### Nouns Modifying Nouns
 
 _Ba i dtaobh <b>poist</b> a bhí mé ag caint leis siúd._ 'I was talking to him about a <b>job</b>'
 
@@ -85,7 +89,6 @@ It can also translate as ownership, yet the possessive pronoun will also be pres
 ábalta a rá lena bpobal féin \n able to say to their own community
 compound(bpobal, féin)
 ~~~
-
 
 ~~~ sdparse
 le bean Choilm \n with Colm's wife
