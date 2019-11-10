@@ -9,7 +9,7 @@ The `aux:ex` relation links the resultative participle (i.e. the governor) and t
 
 ~~~ sdparse
 Նա հագած ուներ թեթև վերարկու ։ \n He had a light coat dressed .
-nsubj(հագած, նա)
+nsubj(հագած, Նա)
 nsubj(dressed, He)
 amod(վերարկու, թեթև)
 amod(coat, light)
