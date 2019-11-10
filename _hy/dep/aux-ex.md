@@ -17,6 +17,7 @@ obj(հագած, վերարկու)
 obj(dressed, coat)
 aux(հագած, ուներ)
 aux(dressed, had)
+det(coat, a)
 ~~~ 
 
 ~~~ sdparse
