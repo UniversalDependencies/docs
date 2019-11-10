@@ -12,7 +12,7 @@ An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”
 
 Besides `aux`, the verb _եմ_ may also act as a [copula](cop).
 
-Note that in Armenian auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus](). We use [aux:ex]() for finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle.
+Note that in Armenian auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus](). We use [aux:ex](hy/aux-ex) for finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle.
 
 ~~~ sdparse
 Երեկ եմ հասել ։ \n Yesterday I-have arrived .
