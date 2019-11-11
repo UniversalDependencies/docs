@@ -14,7 +14,7 @@ aux(dressed, had)
 ~~~ 
 
 ~~~ sdparse
-Երեկվանից ոչ մի տող գրած չկամ ։ \n I do-not-have a single line written since yesterday . (lit: “I do not exist written a single row since yesterday.”)
+Երեկվանից ոչ մի տող գրած չկամ ։ \n I do-not-have a single line written since-yesterday . (lit: “I-do-not-exist written no any row since-yesterday.”)
 aux(գրած, չկամ)
 aux(written, do-not-have)
 ~~~ 
