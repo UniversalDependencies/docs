@@ -1,25 +1,54 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'Bhojpuri UD'
 udver: '2'
 ---
 
-# UD for LANGUAGE <span class="flagspan"><img class="flag" src="../../flags/svg/AQ.svg" /></span>
+# UD for Bhojpuri <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
+
 
 ## Tokenization and Word Segmentation
 
-*
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, some punctuation marks (e.g., comma) are attached to a neighboring word,
+  while others (e.g., the sentence-terminating danda) are not.
+  We tokenize punctuation as separate tokens (words).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
+* Hindi uses all 17 universal POS categories, including particles ([PART]()).
+* Hindi has the following auxiliary verbs ([AUX]()): <!-- In Hindi by Rupert Snell, see also Appendix 7 on pages 258, 259. -->
+  * है _hai_ and था _thā_ are present and past equivalents of “to be”.
+    They are used as copulas and in periphrastic tenses.
+  * रह _raha_ (“to stay”) for the progressive aspect (with the stem of the main verb and the auxiliary ह/था).
+  * कर _kara_ (“to do”) for the habitual aspect (with the perfective participle of the main verb).
+  * जा _jā_ (“to go”) for the passive (with the perfective participle of the main verb).
+  * Modal auxiliaries:
+    * सक _saka_ (“be able, can”) <!-- Page 153. -->
+    * पा _pā_ (“to manage”) <!-- Page 153. -->
+    * चाहिए _cāhie_ (“needed, should, ought to”) <!-- Page 91, 164. -->
+    * हो _ho_ (“to have to”) <!-- Page 165. -->
+    * पड़ _paṛa_ (“must”) <!-- Pages 165, 166. -->
+  * Phase verbs:
+    * लग _laga_ (“to start”) <!-- Page 171 is mostly about other meaning, to strike, to like. -->
+    * चुक _cuka_ (“to finish”) <!-- Page 153. -->
+  * The current data treats as auxiliaries also some verbs that regularly appear in compound verbs
+    as the semantically less salient element. Since compound verbs are not periphrastic tense/aspect/voice
+    forms, these verbs do not fit well in the UD definition of auxiliaries, and they should be given
+    a different analysis in the future releases. The following verbs are used as semantic auxiliaries
+    in compound verbs:
+    * जा _jā_ (“to go”) (note that this verb can also be used as real auxiliary in passives)
+    * ले _le_ (“to take”)
+    * दे _de_ (“to give”)
+    * डाल _ḍāla_ (“to throw”) <!-- The second batch of compound verbs is described on pages 220–222. To throw gives a sense of vigorousness. -->
+    * पड़ _paṛa_ (“to fall”) (note that this verb can also be used as modal “must”) <!-- Adds a sense of suddenness or change of state. -->
+    * बैठ _baiṭha_ (“to sit”) <!-- Adds a sense of foolishness or stubbornness. -->
+    * उठ _uṭha_ (“to rise”)
+    * रख _rakha_ (“to keep”) <!-- Adds a sense of firmness. -->
+    * आ _ā_ (“to come”)
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -44,16 +73,9 @@ udver: '2'
 
 ---
 
+
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There is only one Bhojpuri UD treebank at present:
 
-  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Bhojpuri-BHTB](../treebanks/bho_bhtb/index.html)
