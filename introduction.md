@@ -15,7 +15,7 @@ morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a un
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
 
-This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish, 
+This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish,
 where the main grammatical relations involving a passive verb, a nominal subject and an oblique agent
 are the same, but where the concrete grammatical realization varies.
 
@@ -108,12 +108,12 @@ The new Universal Dependencies is the result of merging all these initiatives in
 based on universal Stanford dependencies, an extended version of the Google universal tagset, a revised
 subset of the Interset feature inventory, and a revised version of the CoNLL-X format (called CoNLL-U).
 
-The first version of the new guidelines, released in October 2014, introduced a somewhat extended universal 
-part-of-speech tag set. This set makes some distinctions that were missing in the original proposal, but 
+The first version of the new guidelines, released in October 2014, introduced a somewhat extended universal
+part-of-speech tag set. This set makes some distinctions that were missing in the original proposal, but
 were perceived to be of importance by many, and clarifies the definition of categories. As a result of this work,
 universal POS categories have substantive definitions and are not necessarily just equivalence classes
 of categories in underlying language-particular treebanks. Hence, work to convert to UD POS tags often
-requires context-sensitive rules, or some hand correction. The UD morphological features aim to provide a 
+requires context-sensitive rules, or some hand correction. The UD morphological features aim to provide a
 stripped down basic set of features which are most crucial for analysis and are widespread across languages.
 The dependency representation of UD evolves out of Stanford Dependencies (SD), which itself follows ideas
 of grammatical relations-focused description that can be found in many linguistic frameworks. That is,
@@ -127,16 +127,20 @@ UD is an open collaboration with many project members. The administrative struct
 * The project is coordinated by Joakim Nivre (aka chief cat herder).
 * Releases (including validation and documentation) are managed by Filip Ginter, Sampo Pyysalo and Dan Zeman.
 * Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Sebastian Schuster, Natalia Silveira, Reut Tsarfaty, Fran Tyers and Dan Zeman.
-* Language-specific guidelines and treebanks are maintained by each specific language team. 
-* Issues are raised on GitHub and resolved through discussion and voting. 
+* Language-specific guidelines and treebanks are maintained by each specific language team.
+* Issues are raised on GitHub and resolved through discussion and voting.
 
 [List of contributors](contributors.html)
 
 ## UD-related publications
 
-### 2019 
+### 2019
 
 * [_Proceedings of the Third Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W19-80.pdf), UDW 2019, SyntaxFest, Paris.
+
+* Kira Droganova, Daniel Zeman. 2019.
+  [Towards Deep Universal Dependencies](https://www.aclweb.org/anthology/W19-7717.pdf).
+  In *Proceedings of the Fifth International Conference on Dependency Linguistics (Depling, Syntaxfest 2019)*, pp. 144-152.
 
 * Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Guy Perrier. 2019. [Improving Surface-syntactic Universal Dependencies (SUD): surface-syntactic functions and deep-syntactic features](https://www.aclweb.org/anthology/W19-7814.pdf), _Proceedings of the 17th international conference on Treebanks and Linguistic Theories (TLT)_, SyntaxFest, Paris.
 
@@ -144,20 +148,71 @@ UD is an open collaboration with many project members. The administrative struct
 
 * [_Proceedings of the Second Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W18-6000.pdf), UDW 2018, EMNLP,Brussels.
 
+* Puneet Dwivedi, Daniel Zeman. 2018.
+  [The Forest Lion and the Bull: Morphosyntactic Annotation of the Panchatantra](http://ufal.mff.cuni.cz/biblio/attachments/2018-zeman-p1924099829345317043.pdf).
+  In: Computación y Sistemas, ISSN 1405-5546, vol. 22, no. 4, pp. 1377-1384.
+
+* Sonja Marković, Daniel Zeman. 2018.
+  [Reflexives in Universal Dependencies](http://www.ep.liu.se/ecp/155/ecp18155.pdf#page=139).
+  In *Proceedings of the 17th International Workshop on Treebanks and Linguistic Theories (TLT 2018)*, pp. 131-146.
+
 * Agnieszka Patejuk and Adam Przepiórkowski. 2018. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw. (263 pages)
 
 * Adam Przepiórkowski and Agnieszka Patejuk. 2018. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM.
 
 * Sylvain Kahane, Marine Courtin, Kim Gerdes. 2018. [Multi-word annotation in syntactic treebanks: Propositions for Universal Dependencies](https://www.aclweb.org/anthology/W17-7622.pdff), _Proceedings of the 16th international conference on Treebanks and Linguistic Theories (TLT)_, Prague.
 
+* Daniel Zeman. 2018.
+  [The World of Tokens, Tags and Trees](https://ufal.mff.cuni.cz/books/2018-zeman).
+  ISBN 978-80-88132-09-7.
+
+* Daniel Zeman, Jan Hajič, Martin Popel, Martin Potthast, Milan Straka, Filip Ginter, Joakim Nivre, Slav Petrov. 2018.
+  [CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll18/proceedings/pdf/K18-2001.pdf).
+  In *Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-21.
+
 ### 2017
+
 * [_Proceedings of the First Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W17-0400.pdf), UDW 2017, NoDaLiDa, Gothenburg.
+
+* Joakim Nivre, Daniel Zeman, Filip Ginter, Francis Tyers. 2017.
+  [EACL tutorial on Universal Dependencies](http://universaldependencies.org/eacl17tutorial/).
 
 * Tanja Samardžić, Mirjana Starović, Željko Agić, Nikola Ljubešić. 2017. [Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Languages](https://www.aclweb.org/anthology/W17-1407.pdf). In: *Proceedings of BSNLP* 2017, Valencia, Spain.
 
+* Dima Taji, Nizar Habash, Daniel Zeman. 2017.
+  [Universal Dependencies for Arabic](https://www.aclweb.org/anthology/W17-1320/).
+  In *Proceedings of the Third Arabic Natural Language Processing Workshop (WANLP)*, pp. 166-176.
+
+* Daniel Zeman. 2017.
+  [Core Arguments in Universal Dependencies](http://www.ep.liu.se/ecp/139/ecp17139.pdf#page=297).
+  In *Proceedings of the Fourth International Conference on Dependency Linguistics (Depling 2017).*
+
+* Daniel Zeman. 2017.
+  [Slovak Dependency Treebank in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/attachments/2017-zeman-m616715454987255391.pdf).
+  In *Jazykovedný časopis / Journal of Linguistics*, ISSN 0021-5597, vol. 68, no. 2, pp. 385-395.
+
+* Daniel Zeman, Martin Popel, Milan Straka, Jan Hajič, Joakim Nivre, Filip Ginter, Juhani Luotolahti, Sampo Pyysalo, Slav Petrov,
+  Martin Potthast, Francis Tyers, Elena Badmaeva, Memduh Gökırmak, Anna Nedoluzhko, Silvie Cinková, Jan Hajič, jr., Jaroslava Hlaváčová,
+  Václava Kettnerová, Zdeňka Urešová, Jenna Kanerva, Stina Ojala, Anna Missilä, Christopher Manning, Sebastian Schuster, Siva Reddy,
+  Dima Taji, Nizar Habash, Herman Leung, Marie-Catherine de Marneffe, Manuela Sanguinetti, Maria Simi, Hiroshi Kanayama, Valeria de Paiva,
+  Kira Droganova, Héctor Martínez Alonso, Çağrı Çöltekin, Umut Sulubacak, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt,
+  Kim Harris, Katrin Marheinecke, Georg Rehm, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit,
+  Michael Mandl, Jesse Kirchner, Hector Fernandez Alcalde, Jana Strnadová, Esha Banerjee, Ruli Manurung, Antonio Stella, Atsuko Shimada,
+  Sookyoung Kwak, Gustavo Mendonça, Tatiana Lando, Rattima Nitisaroj, Josie Li. 2017.
+  [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](https://www.aclweb.org/anthology/K17-3001.pdf).
+  In *Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, pp. 1-19.
+
 ### 2016
 
+* Héctor Martínez Alonso, Daniel Zeman. 2016.
+  [Universal Dependencies for the AnCora treebanks](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5341).
+  In *Procesamiento del Lenguaje Natural*, ISSN 1135-5948, 57, pp. 91-98.
+
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
+
+* Daniel Zeman. 2016.
+  [Universal Annotation of Slavic Verb Forms](http://ufal.mff.cuni.cz/pbml/105/art-zeman.pdf).
+  In *The Prague Bulletin of Mathematical Linguistics*, ISSN 0032-6585, 105, pp. 143-193.
 
 ### 2015
 
@@ -167,8 +222,8 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
 
- * Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
- 
+* Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
+
 * Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
 
 * Daniel Zeman. 2015. [Slavic Languages in Universal Dependencies](http://ufal.mff.cuni.cz/biblio/?section=publication&id=-1745977273001647149&mode=view). In *Slovko 2015: Natural Language Processing, Corpus Linguistics, E-learning*. Bratislava, Slovakia. [PDF](http://ufal.mff.cuni.cz/biblio/servlet/File?timestamp=1441201812368&id=4326707699154676324&field=File)
@@ -177,7 +232,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Joakim Nivre. 2014. [Universal Dependencies for Swedish](http://www2.lingfil.uu.se/SLTC2014/abstracts/sltc2014_submission_7.pdf).
   In [*SLTC 2014*](http://www2.lingfil.uu.se/SLTC2014/).
-  
+
 * Rudolf Rosa, Jan Mašek, David Mareček, Martin Popel, Daniel Zeman, Zdeněk Žabokrtský. 2014.
   [HamleDT 2.0: Thirty Dependency Treebanks
   Stanfordized](http://www.lrec-conf.org/proceedings/lrec2014/pdf/915_Paper.pdf).
@@ -190,7 +245,7 @@ UD is an open collaboration with many project members. The administrative struct
   In *Language Resources and Evaluation,* DOI 10.1007/s10579-014-9275-2.
   (Extended version of [paper from LREC 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/429_Paper.pdf).)
 
-### 2013 and before  
+### 2013 and before
 
 * Cristina Bosco, Simonetta Montemagni, Maria Simi. 2013.
   [Converting Italian treebanks: Towards an Italian Stanford dependency treebank](http://medialab.di.unipi.it/downloads/ISDT/MIDT-STD2013_law.pdf),
