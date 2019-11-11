@@ -210,6 +210,8 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
 
+* Sebastian Schuster, Christopher D. Manning. 2016. [Enhanced English Universal Dependencies: An Improved Representation for Natural Language Understanding Tasks](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf). In *Proceedings of LREC*.
+
 * Daniel Zeman. 2016.
   [Universal Annotation of Slavic Verb Forms](http://ufal.mff.cuni.cz/pbml/105/art-zeman.pdf).
   In *The Prague Bulletin of Mathematical Linguistics*, ISSN 0032-6585, 105, pp. 143-193.
