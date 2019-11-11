@@ -153,11 +153,15 @@ UD is an open collaboration with many project members. The administrative struct
 ### 2017
 * [_Proceedings of the First Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W17-0400.pdf), UDW 2017, NoDaLiDa, Gothenburg.
 
+* Tanja Samardžić, Mirjana Starović, Željko Agić, Nikola Ljubešić. 2017. [Universal Dependencies for Serbian in Comparison with Croatian and Other Slavic Languages](https://www.aclweb.org/anthology/W17-1407.pdf). In: *Proceedings of BSNLP* 2017, Valencia, Spain.
+
 ### 2016
 
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
 
 ### 2015
+
+* Željko Agić, Nikola Ljubešić. 2015. [Universal Dependencies for Croatian (that Work for Serbian, too)](https://www.aclweb.org/anthology/W15-5301.pdf), In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria.
 
 * Kim Gerdes, Sylvain Kahane. 2015. [Non-constituent coordination and other coordinative constructions as dependency graphs](https://www.aclweb.org/anthology/W15-2113.pdf), _Proceedings of the 3rd international conference on Dependency Linguistics (Depling)_, Uppsala.
 
