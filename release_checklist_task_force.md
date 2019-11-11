@@ -20,7 +20,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   back; if this is the case, you will see lists of modified files in the output and you
   will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Run `tools/check_files.pl |& tee release-2.4-report.txt | less`.
+* Run `tools/check_files.pl |& tee release-2.5-report.txt | less`.
   (Check the code for parameters that are currently hard-coded, such as the release number.)
   The script will visit all repositories and report any missing files, unexpected or unexpectedly named files.
   It will download the [online validation report](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
