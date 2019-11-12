@@ -61,7 +61,7 @@ cop(leatsa, An)
 
 The various forms of the copula, which occurs in the both present and past tenses and in the conditional mood are labelled 'cop'.
 
-||  Present tense|Past tense/Conditional mood|
+||  Present tense/Future tense|Past tense/Conditional mood|
 |--|--|--|
 | 	*Affirmative* | is | ba / b'
 | 	*Negative* | ní |níor / níorbh
