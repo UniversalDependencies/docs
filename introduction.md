@@ -212,7 +212,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 * Sebastian Schuster, Christopher D. Manning. 2016. [Enhanced English Universal Dependencies: An Improved Representation for Natural Language Understanding Tasks](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf). In *Proceedings of LREC*.
 
-* Seraji Mojgan, Filip Ginter, Joakim Nivre. 2016. [Universal Dependencies for Persian](http://www.lrec-conf.org/proceedings/lrec2016/pdf/697_Paper.pdf). In *Proceedings of LREC*.
+* Mojgan Seraji, Filip Ginter, Joakim Nivre. 2016. [Universal Dependencies for Persian](http://www.lrec-conf.org/proceedings/lrec2016/pdf/697_Paper.pdf). In *Proceedings of LREC*.
 
 * Daniel Zeman. 2016.
   [Universal Annotation of Slavic Verb Forms](http://ufal.mff.cuni.cz/pbml/105/art-zeman.pdf).
