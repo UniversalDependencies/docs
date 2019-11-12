@@ -30,6 +30,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Freeze the list of treebanks that will be released (i.e., contain valid data).
   Take the list from the output of `tools/check_files.pl` and save it as
   `released_treebanks.txt` (just one line, names of UD folders separated by whitespace).
+* Check the [validation report](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+  for legacy exceptions that are no longer needed. Edit the script `update-validation-report.pl`
+  in the `docs-automation` repository and remove those exceptions. Also update the back-up release
+  numbers for treebanks that are part of the current release. (If the treebank is not valid but it
+  has been previously released, its last valid release serves as back up and will be re-released
+  instead of the invalid new version.)
 
 ## Processing the data before releasing them
 
