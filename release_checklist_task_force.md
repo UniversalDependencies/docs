@@ -61,13 +61,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
     <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
   <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.4` for UD 2.4).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.5` for UD 2.5).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
   And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.4 ; git push --tags ; cd .. ; echo ; done</code>
+  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.5 ; git push --tags ; cd .. ; echo ; done</code>
 
 ## Updating automatically generated parts of documentation
 
